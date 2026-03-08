@@ -3,6 +3,18 @@
   "name": "Trans Canada Hwy",
   "incidents": [
     {
+      "id": "2026-03-08T08:51:00Z_trans-canada-hwy",
+      "timestamp": "2026-03-08T08:51:00Z",
+      "address": "TRANS CANADA HWY",
+      "city": "Surrey",
+      "streets": [
+        "trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy"
+      ]
+    },
+    {
       "id": "2026-03-08T05:47:00Z_216th-street-ofrp_trans-canada-hwy",
       "timestamp": "2026-03-08T05:47:00Z",
       "address": "216TH STREET OFRP & TRANS CANADA HWY",
@@ -29,6 +41,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-08T05:47:00Z",
-  "count": 2
+  "lastIncident": "2026-03-08T08:51:00Z",
+  "count": 3
 }
