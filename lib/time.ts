@@ -47,9 +47,34 @@ export function formatDuration(isoTimestamp: string): string {
   return `${seconds}s`;
 }
 
+export function formatAveragePeriod(isoTimestamps: string[]): string | null {
+  if (isoTimestamps.length < 4) return null;
+
+  const sorted = isoTimestamps
+    .map((t) => new Date(t).getTime())
+    .sort((a, b) => a - b);
+
+  const avgMs = (sorted[sorted.length - 1] - sorted[0]) / (sorted.length - 1);
+
+  const totalMinutes = Math.floor(avgMs / 60_000);
+  const totalHours = Math.floor(totalMinutes / 60);
+  const days = Math.floor(totalHours / 24);
+  const hours = totalHours % 24;
+  const minutes = totalMinutes % 60;
+
+  if (days >= 1) {
+    return hours > 0
+      ? `${days}d ${hours}h`
+      : `${days} day${days !== 1 ? "s" : ""}`;
+  }
+  if (totalHours >= 1) {
+    return minutes > 0 ? `${totalHours}h ${minutes}m` : `${totalHours}h`;
+  }
+  return `${totalMinutes} min`;
+}
+
 export function formatDateTime(isoTimestamp: string): string {
   return new Date(isoTimestamp).toLocaleString("en-CA", {
-    timeZone: "America/Vancouver",
     year: "numeric",
     month: "short",
     day: "numeric",

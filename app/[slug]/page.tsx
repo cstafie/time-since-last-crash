@@ -1,8 +1,9 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { fetchStreetsIndex, fetchStreet } from "@/lib/data";
-import { formatDateTime, formatDuration, formatRelativeTime } from "@/lib/time";
+import { formatRelativeTime, formatAveragePeriod } from "@/lib/time";
 import LiveClock from "@/components/LiveClock";
+import LocalDateTime from "@/components/LocalDateTime";
 import type { Metadata } from "next";
 
 export const revalidate = 600; // 10-min fallback; on-demand revalidation is primary
@@ -33,6 +34,9 @@ export default async function StreetPage({ params }: Props) {
   if (!street) notFound();
 
   const lastIncident = street.lastIncident;
+  const avgPeriod = formatAveragePeriod(
+    street.incidents.map((i) => i.timestamp),
+  );
 
   return (
     <main className="max-w-3xl mx-auto px-4 py-10 font-sans">
@@ -57,13 +61,24 @@ export default async function StreetPage({ params }: Props) {
         {lastIncident && (
           <p className="text-sm text-gray-600 dark:text-gray-400 mt-3">
             Last incident:{" "}
-            <time dateTime={lastIncident}>{formatDateTime(lastIncident)}</time>
+            <time dateTime={lastIncident}>
+              <LocalDateTime isoTimestamp={lastIncident} />
+            </time>
           </p>
         )}
 
         <p className="text-sm text-gray-600 dark:text-gray-400 mt-1">
           {street.count} total incident{street.count !== 1 ? "s" : ""} recorded
         </p>
+
+        {avgPeriod && (
+          <p className="text-sm text-gray-600 dark:text-gray-400 mt-1">
+            Avg. time between incidents:{" "}
+            <span className="font-medium text-gray-800 dark:text-gray-200">
+              {avgPeriod}
+            </span>
+          </p>
+        )}
       </section>
 
       {/* Incident list */}
@@ -113,7 +128,7 @@ export default async function StreetPage({ params }: Props) {
                     dateTime={inc.timestamp}
                     className="block text-sm text-gray-600 dark:text-gray-300 whitespace-nowrap"
                   >
-                    {formatDateTime(inc.timestamp)}
+                    <LocalDateTime isoTimestamp={inc.timestamp} />
                   </time>
                   <span className="text-xs text-gray-400 dark:text-gray-500">
                     {formatRelativeTime(inc.timestamp)}

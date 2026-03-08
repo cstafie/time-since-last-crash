@@ -1,7 +1,7 @@
 import { fetchStreetsIndex } from "@/lib/data";
 import StreetSearch from "@/components/StreetSearch";
 
-export const revalidate = 600; // 10-min fallback; on-demand revalidation is primary
+export const revalidate = 30 * 60; // 30-min fallback; on-demand revalidation is primary
 
 export default async function Home() {
   const index = await fetchStreetsIndex();
@@ -23,7 +23,8 @@ export default async function Home() {
           >
             PulsePoint BC EMS
           </a>
-          . Updated every 5 minutes.
+          . <br /> Updated every ~30 minutes. Data collection started on March
+          8th 2026.
         </p>
       </header>
 
