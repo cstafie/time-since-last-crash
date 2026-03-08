@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-03-08T19:13:00Z_trans-canada-hwy_eagleridge-drive-ofrp",
+    "timestamp": "2026-03-08T19:13:00Z",
+    "scrapedAt": "2026-03-08T19:36:07Z",
+    "address": "TRANS CANADA HWY & EAGLERIDGE DRIVE OFRP",
+    "city": "West Vancouver",
+    "streets": [
+      "trans-canada-hwy",
+      "eagleridge-drive-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "Eagleridge Drive Ofrp"
+    ]
+  },
+  {
     "id": "2026-03-08T18:57:00Z_bowcock-rd_st-albans-rd",
     "timestamp": "2026-03-08T18:57:00Z",
     "scrapedAt": "2026-03-08T19:05:05Z",

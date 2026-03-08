@@ -3,6 +3,20 @@
   "name": "Trans Canada Hwy",
   "incidents": [
     {
+      "id": "2026-03-08T19:13:00Z_trans-canada-hwy_eagleridge-drive-ofrp",
+      "timestamp": "2026-03-08T19:13:00Z",
+      "address": "TRANS CANADA HWY & EAGLERIDGE DRIVE OFRP",
+      "city": "West Vancouver",
+      "streets": [
+        "trans-canada-hwy",
+        "eagleridge-drive-ofrp"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy",
+        "Eagleridge Drive Ofrp"
+      ]
+    },
+    {
       "id": "2026-03-08T08:51:00Z_trans-canada-hwy",
       "timestamp": "2026-03-08T08:51:00Z",
       "address": "TRANS CANADA HWY",
@@ -41,6 +55,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-08T08:51:00Z",
-  "count": 3
+  "lastIncident": "2026-03-08T19:13:00Z",
+  "count": 4
 }

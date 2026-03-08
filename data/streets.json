@@ -86,8 +86,8 @@
   "trans-canada-hwy": {
     "name": "Trans Canada Hwy",
     "slug": "trans-canada-hwy",
-    "lastIncident": "2026-03-08T08:51:00Z",
-    "count": 3
+    "lastIncident": "2026-03-08T19:13:00Z",
+    "count": 4
   },
   "203rd-st": {
     "name": "203rd St",
@@ -351,6 +351,12 @@
     "name": "Mary Hill Bps",
     "slug": "mary-hill-bps",
     "lastIncident": "2026-03-08T18:06:00Z",
+    "count": 1
+  },
+  "eagleridge-drive-ofrp": {
+    "name": "Eagleridge Drive Ofrp",
+    "slug": "eagleridge-drive-ofrp",
+    "lastIncident": "2026-03-08T19:13:00Z",
     "count": 1
   }
 }
