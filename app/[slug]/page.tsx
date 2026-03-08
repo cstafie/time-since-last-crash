@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { fetchStreetsIndex, fetchStreet } from "@/lib/data";
-import { formatDateTime, formatDuration } from "@/lib/time";
+import { formatDateTime, formatDuration, formatRelativeTime } from "@/lib/time";
 import LiveClock from "@/components/LiveClock";
 import type { Metadata } from "next";
 
@@ -38,14 +38,14 @@ export default async function StreetPage({ params }: Props) {
     <main className="max-w-3xl mx-auto px-4 py-10 font-sans">
       <Link
         href="/"
-        className="text-sm text-gray-400 hover:text-gray-600 mb-6 inline-block"
+        className="text-sm text-gray-500 dark:text-gray-400 hover:text-gray-800 dark:hover:text-gray-200 mb-6 inline-block"
       >
         ← All Streets
       </Link>
 
       {/* Hero */}
-      <section className="mb-10 text-center py-12 rounded-2xl bg-gray-50 border">
-        <p className="text-sm uppercase tracking-widest text-gray-400 mb-1">
+      <section className="mb-10 text-center py-12 rounded-2xl bg-gray-50 dark:bg-gray-800/50 border border-gray-200 dark:border-gray-700">
+        <p className="text-sm uppercase tracking-widest text-gray-600 dark:text-gray-400 mb-1">
           Time since last crash on
         </p>
         <h1 className="text-3xl font-bold mb-6">{street.name}</h1>
@@ -55,45 +55,51 @@ export default async function StreetPage({ params }: Props) {
         </div>
 
         {lastIncident && (
-          <p className="text-sm text-gray-400 mt-3">
+          <p className="text-sm text-gray-600 dark:text-gray-400 mt-3">
             Last incident:{" "}
             <time dateTime={lastIncident}>{formatDateTime(lastIncident)}</time>
           </p>
         )}
 
-        <p className="text-sm text-gray-400 mt-1">
+        <p className="text-sm text-gray-600 dark:text-gray-400 mt-1">
           {street.count} total incident{street.count !== 1 ? "s" : ""} recorded
         </p>
       </section>
 
       {/* Incident list */}
       <section>
-        <h2 className="text-xl font-semibold mb-4 border-b pb-2">
+        <h2 className="text-xl font-semibold mb-4 border-b border-gray-200 dark:border-gray-700 pb-2">
           Incident History
         </h2>
 
         {street.incidents.length === 0 ? (
-          <p className="text-gray-400">No incidents on record.</p>
+          <p className="text-gray-500 dark:text-gray-400">
+            No incidents on record.
+          </p>
         ) : (
           <div className="space-y-3">
             {street.incidents.map((inc) => (
               <div
                 key={inc.id}
-                className="flex flex-col sm:flex-row sm:items-center justify-between p-4 rounded-lg border bg-white hover:bg-gray-50 gap-2"
+                className="flex flex-col sm:flex-row sm:items-center justify-between p-4 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-900 hover:bg-gray-50 dark:hover:bg-gray-800 gap-2"
               >
                 <div>
-                  <p className="font-medium text-sm">{inc.address}</p>
-                  <p className="text-xs text-gray-400">{inc.city}</p>
+                  <p className="font-medium text-sm dark:text-gray-100">
+                    {inc.address}
+                  </p>
+                  <p className="text-xs text-gray-500 dark:text-gray-400">
+                    {inc.city}
+                  </p>
                   {inc.streets.length > 1 && (
                     <div className="flex flex-wrap gap-1 mt-1">
                       {inc.streets.map((s, i) => (
                         <Link
                           key={s}
                           href={`/${s}`}
-                          className={`text-xs px-2 py-0.5 rounded-full border hover:bg-gray-100 ${
+                          className={`text-xs px-2 py-0.5 rounded-full border hover:bg-gray-100 dark:hover:bg-gray-700 ${
                             s === slug
-                              ? "bg-blue-50 border-blue-200 text-blue-700"
-                              : "text-gray-500"
+                              ? "bg-blue-50 border-blue-200 text-blue-700 dark:bg-blue-950 dark:border-blue-800 dark:text-blue-300"
+                              : "text-gray-500 dark:text-gray-400 border-gray-200 dark:border-gray-600"
                           }`}
                         >
                           {inc.streetNames[i]}
@@ -102,12 +108,17 @@ export default async function StreetPage({ params }: Props) {
                     </div>
                   )}
                 </div>
-                <time
-                  dateTime={inc.timestamp}
-                  className="text-xs text-gray-500 whitespace-nowrap shrink-0"
-                >
-                  {formatDateTime(inc.timestamp)}
-                </time>
+                <div className="text-right shrink-0">
+                  <time
+                    dateTime={inc.timestamp}
+                    className="block text-sm text-gray-600 dark:text-gray-300 whitespace-nowrap"
+                  >
+                    {formatDateTime(inc.timestamp)}
+                  </time>
+                  <span className="text-xs text-gray-400 dark:text-gray-500">
+                    {formatRelativeTime(inc.timestamp)}
+                  </span>
+                </div>
               </div>
             ))}
           </div>
