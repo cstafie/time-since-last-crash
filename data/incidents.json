@@ -1,5 +1,18 @@
 [
   {
+    "id": "2026-03-08T15:49:00Z_1960-como-lake-ave",
+    "timestamp": "2026-03-08T15:49:00Z",
+    "scrapedAt": "2026-03-08T16:02:13Z",
+    "address": "1960 COMO LAKE AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "1960-como-lake-ave"
+    ],
+    "streetNames": [
+      "1960 Como Lake Ave"
+    ]
+  },
+  {
     "id": "2026-03-08T13:55:00Z_mcbride-blvd_memorial-dr",
     "timestamp": "2026-03-08T13:55:00Z",
     "scrapedAt": "2026-03-08T14:03:32Z",
