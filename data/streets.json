@@ -298,5 +298,17 @@
     "slug": "marine-way",
     "lastIncident": "2026-03-08T12:17:00Z",
     "count": 1
+  },
+  "mcbride-blvd": {
+    "name": "Mcbride Blvd",
+    "slug": "mcbride-blvd",
+    "lastIncident": "2026-03-08T13:55:00Z",
+    "count": 1
+  },
+  "memorial-dr": {
+    "name": "Memorial Dr",
+    "slug": "memorial-dr",
+    "lastIncident": "2026-03-08T13:55:00Z",
+    "count": 1
   }
 }

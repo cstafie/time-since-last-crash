@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-03-08T13:55:00Z_mcbride-blvd_memorial-dr",
+    "timestamp": "2026-03-08T13:55:00Z",
+    "scrapedAt": "2026-03-08T14:03:32Z",
+    "address": "MCBRIDE BLVD & MEMORIAL DR",
+    "city": "New Westminster",
+    "streets": [
+      "mcbride-blvd",
+      "memorial-dr"
+    ],
+    "streetNames": [
+      "Mcbride Blvd",
+      "Memorial Dr"
+    ]
+  },
+  {
     "id": "2026-03-08T12:17:00Z_marine-way",
     "timestamp": "2026-03-08T12:17:00Z",
     "scrapedAt": "2026-03-08T12:44:43Z",
