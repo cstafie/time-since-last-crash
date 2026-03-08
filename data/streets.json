@@ -38,8 +38,8 @@
   "royal-ave": {
     "name": "Royal Ave",
     "slug": "royal-ave",
-    "lastIncident": "2026-03-08T07:09:00Z",
-    "count": 1
+    "lastIncident": "2026-03-08T17:26:00Z",
+    "count": 2
   },
   "1st-st": {
     "name": "1st St",
@@ -327,6 +327,12 @@
     "name": "72nd Ave",
     "slug": "72nd-ave",
     "lastIncident": "2026-03-08T16:30:00Z",
+    "count": 1
+  },
+  "8th-st": {
+    "name": "8th St",
+    "slug": "8th-st",
+    "lastIncident": "2026-03-08T17:26:00Z",
     "count": 1
   }
 }
