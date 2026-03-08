@@ -1,0 +1,22 @@
+{
+  "slug": "hinkley-rd",
+  "name": "Hinkley Rd",
+  "incidents": [
+    {
+      "id": "2026-03-08T20:40:00Z_upper-prairie-rd_hinkley-rd",
+      "timestamp": "2026-03-08T20:40:00Z",
+      "address": "UPPER PRAIRIE RD & HINKLEY RD",
+      "city": "Chilliwack",
+      "streets": [
+        "upper-prairie-rd",
+        "hinkley-rd"
+      ],
+      "streetNames": [
+        "Upper Prairie Rd",
+        "Hinkley Rd"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-08T20:40:00Z",
+  "count": 1
+}
