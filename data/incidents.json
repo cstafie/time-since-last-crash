@@ -1,5 +1,18 @@
 [
   {
+    "id": "2026-03-08T12:17:00Z_marine-way",
+    "timestamp": "2026-03-08T12:17:00Z",
+    "scrapedAt": "2026-03-08T12:44:43Z",
+    "address": "MARINE WAY",
+    "city": "Burnaby",
+    "streets": [
+      "marine-way"
+    ],
+    "streetNames": [
+      "Marine Way"
+    ]
+  },
+  {
     "id": "2026-03-08T09:47:00Z_prince-charles-blvd",
     "timestamp": "2026-03-08T09:47:00Z",
     "scrapedAt": "2026-03-08T09:53:23Z",
