@@ -25,6 +25,8 @@ export default async function Home() {
           </a>
           . <br /> Updated every ~30 minutes. Data collection started on March
           8th 2026.
+          <br /> Note that any duplicates or errors in the source data will be
+          reflected here.
         </p>
       </header>
 
