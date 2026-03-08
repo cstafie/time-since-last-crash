@@ -1,7 +1,7 @@
 import { fetchStreetsIndex } from "@/lib/data";
 import StreetSearch from "@/components/StreetSearch";
 
-export const revalidate = 30 * 60; // 30-min fallback; on-demand revalidation is primary
+export const revalidate = 1800; // 30-min fallback; on-demand revalidation is primary
 
 export default async function Home() {
   const index = await fetchStreetsIndex();
