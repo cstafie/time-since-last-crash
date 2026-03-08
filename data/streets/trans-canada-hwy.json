@@ -3,8 +3,8 @@
   "name": "Trans Canada Hwy",
   "incidents": [
     {
-      "id": "2026-03-07T21:47:00_216th-street-ofrp_trans-canada-hwy",
-      "timestamp": "2026-03-07T21:47:00",
+      "id": "2026-03-08T05:47:00Z_216th-street-ofrp_trans-canada-hwy",
+      "timestamp": "2026-03-08T05:47:00Z",
       "address": "216TH STREET OFRP & TRANS CANADA HWY",
       "city": "Langley",
       "streets": [
@@ -17,8 +17,8 @@
       ]
     },
     {
-      "id": "2026-03-07T10:08:00_trans-canada-hwy",
-      "timestamp": "2026-03-07T10:08:00",
+      "id": "2026-03-07T18:08:00Z_trans-canada-hwy",
+      "timestamp": "2026-03-07T18:08:00Z",
       "address": "TRANS CANADA HWY",
       "city": "West Vancouver",
       "streets": [
@@ -29,6 +29,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-07T21:47:00",
+  "lastIncident": "2026-03-08T05:47:00Z",
   "count": 2
 }

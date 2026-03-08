@@ -3,8 +3,8 @@
   "name": "W 70th Ave",
   "incidents": [
     {
-      "id": "2026-03-07T18:47:00_heather-st_w-70th-ave",
-      "timestamp": "2026-03-07T18:47:00",
+      "id": "2026-03-08T02:47:00Z_heather-st_w-70th-ave",
+      "timestamp": "2026-03-08T02:47:00Z",
       "address": "HEATHER ST & W 70TH AVE",
       "city": "Vancouver",
       "streets": [
@@ -17,6 +17,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-07T18:47:00",
+  "lastIncident": "2026-03-08T02:47:00Z",
   "count": 1
 }

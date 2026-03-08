@@ -12,7 +12,7 @@ to decide whether to commit.
 import json
 import re
 import sys
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -210,12 +210,14 @@ def _parse_row(full_text: str, scrape_dt: datetime) -> dict | None:
 
     # --- Timestamp ---
     ts = _parse_time_str(time_str, scrape_dt)
-    iso_ts = ts.strftime("%Y-%m-%dT%H:%M:%S")
+    # Store as UTC with Z suffix so JavaScript's new Date() parses it correctly
+    # in any browser timezone. Display conversion to Pacific happens in the frontend.
+    iso_ts = ts.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     return {
         "id": make_incident_id(iso_ts, slugs),
         "timestamp": iso_ts,
-        "scrapedAt": scrape_dt.strftime("%Y-%m-%dT%H:%M:%S"),
+        "scrapedAt": scrape_dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "address": street_part,
         "city": city_norm,
         "streets": slugs,

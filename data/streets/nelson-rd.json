@@ -3,8 +3,8 @@
   "name": "Nelson Rd",
   "incidents": [
     {
-      "id": "2026-03-07T22:15:00_nelson-rd",
-      "timestamp": "2026-03-07T22:15:00",
+      "id": "2026-03-08T06:15:00Z_nelson-rd",
+      "timestamp": "2026-03-08T06:15:00Z",
       "address": "NELSON RD",
       "city": "Richmond",
       "streets": [
@@ -15,6 +15,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-07T22:15:00",
+  "lastIncident": "2026-03-08T06:15:00Z",
   "count": 1
 }
