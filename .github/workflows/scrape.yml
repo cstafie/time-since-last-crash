@@ -2,9 +2,9 @@ name: Scrape PulsePoint
 
 on:
   schedule:
-    # Every 5 minutes — GitHub's minimum cron interval
-    - cron: "*/5 * * * *"
-  workflow_dispatch: # allow manual trigger
+    # Every 30 minutes — GitHub's minimum cron interval
+    - cron: "*/30 * * * *"
+  workflow_disptch: # allow manual trigger
 
 permissions:
   contents: write
