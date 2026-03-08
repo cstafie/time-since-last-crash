@@ -3,6 +3,20 @@
   "name": "Dewdney Trunk Rd",
   "incidents": [
     {
+      "id": "2026-03-06T19:46:00_dewdney-trunk-rd_207th-st",
+      "timestamp": "2026-03-06T19:46:00",
+      "address": "DEWDNEY TRUNK RD & 207TH ST",
+      "city": "Maple Ridge",
+      "streets": [
+        "dewdney-trunk-rd",
+        "207th-st"
+      ],
+      "streetNames": [
+        "Dewdney Trunk Rd",
+        "207th St"
+      ]
+    },
+    {
       "id": "2026-03-06T12:46:00_dewdney-trunk-rd_207th-st",
       "timestamp": "2026-03-06T12:46:00",
       "address": "DEWDNEY TRUNK RD & 207TH ST",
@@ -17,6 +31,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-06T12:46:00",
-  "count": 1
+  "lastIncident": "2026-03-06T19:46:00",
+  "count": 2
 }

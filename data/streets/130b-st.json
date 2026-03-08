@@ -3,6 +3,20 @@
   "name": "130b St",
   "incidents": [
     {
+      "id": "2026-03-06T11:04:00_63a-ave_130b-st",
+      "timestamp": "2026-03-06T11:04:00",
+      "address": "63A AVE & 130B ST",
+      "city": "Surrey",
+      "streets": [
+        "63a-ave",
+        "130b-st"
+      ],
+      "streetNames": [
+        "63a Ave",
+        "130b St"
+      ]
+    },
+    {
       "id": "2026-03-06T04:04:00_63a-ave_130b-st",
       "timestamp": "2026-03-06T04:04:00",
       "address": "63A AVE & 130B ST",
@@ -17,6 +31,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-06T04:04:00",
-  "count": 1
+  "lastIncident": "2026-03-06T11:04:00",
+  "count": 2
 }

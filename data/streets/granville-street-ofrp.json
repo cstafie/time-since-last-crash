@@ -3,6 +3,18 @@
   "name": "Granville Street Ofrp",
   "incidents": [
     {
+      "id": "2026-03-06T15:44:00_granville-street-ofrp",
+      "timestamp": "2026-03-06T15:44:00",
+      "address": "GRANVILLE STREET OFRP",
+      "city": "Vancouver",
+      "streets": [
+        "granville-street-ofrp"
+      ],
+      "streetNames": [
+        "Granville Street Ofrp"
+      ]
+    },
+    {
       "id": "2026-03-06T08:44:00_granville-street-ofrp",
       "timestamp": "2026-03-06T08:44:00",
       "address": "GRANVILLE STREET OFRP",
@@ -15,6 +27,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-06T08:44:00",
-  "count": 1
+  "lastIncident": "2026-03-06T15:44:00",
+  "count": 2
 }

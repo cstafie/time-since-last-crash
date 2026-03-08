@@ -3,6 +3,20 @@
   "name": "Trans Canada Hwy",
   "incidents": [
     {
+      "id": "2026-03-07T05:47:00_216th-street-ofrp_trans-canada-hwy",
+      "timestamp": "2026-03-07T05:47:00",
+      "address": "216TH STREET OFRP & TRANS CANADA HWY",
+      "city": "Langley",
+      "streets": [
+        "216th-street-ofrp",
+        "trans-canada-hwy"
+      ],
+      "streetNames": [
+        "216th Street Ofrp",
+        "Trans Canada Hwy"
+      ]
+    },
+    {
       "id": "2026-03-06T22:47:00_216th-street-ofrp_trans-canada-hwy",
       "timestamp": "2026-03-06T22:47:00",
       "address": "216TH STREET OFRP & TRANS CANADA HWY",
@@ -17,10 +31,48 @@
       ]
     },
     {
+      "id": "2026-03-06T18:08:00_trans-canada-hwy",
+      "timestamp": "2026-03-06T18:08:00",
+      "address": "TRANS CANADA HWY",
+      "city": "West Vancouver",
+      "streets": [
+        "trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy"
+      ]
+    },
+    {
       "id": "2026-03-06T11:08:00_trans-canada-hwy",
       "timestamp": "2026-03-06T11:08:00",
       "address": "TRANS CANADA HWY",
       "city": "West Vancouver",
+      "streets": [
+        "trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy"
+      ]
+    },
+    {
+      "id": "2026-03-06T07:52:00_trans-canada-hwy_kensington-avenue-ofrp",
+      "timestamp": "2026-03-06T07:52:00",
+      "address": "TRANS CANADA HWY & KENSINGTON AVENUE OFRP",
+      "city": "Burnaby",
+      "streets": [
+        "trans-canada-hwy",
+        "kensington-avenue-ofrp"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy",
+        "Kensington Avenue Ofrp"
+      ]
+    },
+    {
+      "id": "2026-03-06T07:47:00_trans-canada-hwy",
+      "timestamp": "2026-03-06T07:47:00",
+      "address": "TRANS CANADA HWY",
+      "city": "Burnaby",
       "streets": [
         "trans-canada-hwy"
       ],
@@ -55,6 +107,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-06T22:47:00",
-  "count": 4
+  "lastIncident": "2026-03-07T05:47:00",
+  "count": 8
 }

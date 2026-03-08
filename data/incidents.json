@@ -1,5 +1,220 @@
 [
   {
+    "id": "2026-03-07T07:39:00_hwy-91",
+    "timestamp": "2026-03-07T07:39:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "HWY 91",
+    "city": "Delta",
+    "streets": [
+      "hwy-91"
+    ],
+    "streetNames": [
+      "Hwy 91"
+    ]
+  },
+  {
+    "id": "2026-03-07T07:37:00_lower-mall",
+    "timestamp": "2026-03-07T07:37:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "LOWER MALL",
+    "city": "Vancouver",
+    "streets": [
+      "lower-mall"
+    ],
+    "streetNames": [
+      "Lower Mall"
+    ]
+  },
+  {
+    "id": "2026-03-07T07:19:00_141a-st_72a-ave",
+    "timestamp": "2026-03-07T07:19:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "141A ST & 72A AVE",
+    "city": "Surrey",
+    "streets": [
+      "141a-st",
+      "72a-ave"
+    ],
+    "streetNames": [
+      "141a St",
+      "72a Ave"
+    ]
+  },
+  {
+    "id": "2026-03-07T07:11:00_168th-st",
+    "timestamp": "2026-03-07T07:11:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "168TH ST",
+    "city": "Surrey",
+    "streets": [
+      "168th-st"
+    ],
+    "streetNames": [
+      "168th St"
+    ]
+  },
+  {
+    "id": "2026-03-07T07:09:00_royal-ave_1st-st",
+    "timestamp": "2026-03-07T07:09:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "ROYAL AVE & 1ST ST",
+    "city": "New Westminster",
+    "streets": [
+      "royal-ave",
+      "1st-st"
+    ],
+    "streetNames": [
+      "Royal Ave",
+      "1st St"
+    ]
+  },
+  {
+    "id": "2026-03-07T06:58:00_garden-grove-dr_deer-lake-pkwy",
+    "timestamp": "2026-03-07T06:58:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "GARDEN GROVE DR & DEER LAKE PKWY",
+    "city": "Burnaby",
+    "streets": [
+      "garden-grove-dr",
+      "deer-lake-pkwy"
+    ],
+    "streetNames": [
+      "Garden Grove Dr",
+      "Deer Lake Pkwy"
+    ]
+  },
+  {
+    "id": "2026-03-07T06:57:00_deer-lake-pkwy",
+    "timestamp": "2026-03-07T06:57:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "DEER LAKE PKWY",
+    "city": "Burnaby",
+    "streets": [
+      "deer-lake-pkwy"
+    ],
+    "streetNames": [
+      "Deer Lake Pkwy"
+    ]
+  },
+  {
+    "id": "2026-03-07T06:55:00_willingdon-ave_lougheed-hwy",
+    "timestamp": "2026-03-07T06:55:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "WILLINGDON AVE & LOUGHEED HWY",
+    "city": "Burnaby",
+    "streets": [
+      "willingdon-ave",
+      "lougheed-hwy"
+    ],
+    "streetNames": [
+      "Willingdon Ave",
+      "Lougheed Hwy"
+    ]
+  },
+  {
+    "id": "2026-03-07T06:15:00_nelson-rd",
+    "timestamp": "2026-03-07T06:15:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "NELSON RD",
+    "city": "Richmond",
+    "streets": [
+      "nelson-rd"
+    ],
+    "streetNames": [
+      "Nelson Rd"
+    ]
+  },
+  {
+    "id": "2026-03-07T05:47:00_216th-street-ofrp_trans-canada-hwy",
+    "timestamp": "2026-03-07T05:47:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "216TH STREET OFRP & TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "216th-street-ofrp",
+      "trans-canada-hwy"
+    ],
+    "streetNames": [
+      "216th Street Ofrp",
+      "Trans Canada Hwy"
+    ]
+  },
+  {
+    "id": "2026-03-07T03:30:00_lougheed-hwy_203rd-st",
+    "timestamp": "2026-03-07T03:30:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "LOUGHEED HWY & 203RD ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "lougheed-hwy",
+      "203rd-st"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "203rd St"
+    ]
+  },
+  {
+    "id": "2026-03-07T02:47:00_heather-st_w-70th-ave",
+    "timestamp": "2026-03-07T02:47:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "HEATHER ST & W 70TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "heather-st",
+      "w-70th-ave"
+    ],
+    "streetNames": [
+      "Heather St",
+      "W 70th Ave"
+    ]
+  },
+  {
+    "id": "2026-03-07T02:12:00_92nd-ave_124th-st",
+    "timestamp": "2026-03-07T02:12:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "92ND AVE & 124TH ST",
+    "city": "Surrey",
+    "streets": [
+      "92nd-ave",
+      "124th-st"
+    ],
+    "streetNames": [
+      "92nd Ave",
+      "124th St"
+    ]
+  },
+  {
+    "id": "2026-03-07T01:18:00_20th-st_6th-ave",
+    "timestamp": "2026-03-07T01:18:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "20TH ST & 6TH AVE",
+    "city": "New Westminster",
+    "streets": [
+      "20th-st",
+      "6th-ave"
+    ],
+    "streetNames": [
+      "20th St",
+      "6th Ave"
+    ]
+  },
+  {
+    "id": "2026-03-07T00:24:00_w-33rd-ave_oak-st",
+    "timestamp": "2026-03-07T00:24:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "W 33RD AVE & OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "w-33rd-ave",
+      "oak-st"
+    ],
+    "streetNames": [
+      "W 33rd Ave",
+      "Oak St"
+    ]
+  },
+  {
     "id": "2026-03-07T00:19:00_141a-st_72a-ave",
     "timestamp": "2026-03-07T00:19:00",
     "scrapedAt": "2026-03-07T23:31:12",
@@ -86,6 +301,21 @@
     ]
   },
   {
+    "id": "2026-03-06T23:33:00_w-49th-ave_granville-st",
+    "timestamp": "2026-03-06T23:33:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "W 49TH AVE & GRANVILLE ST",
+    "city": "Vancouver",
+    "streets": [
+      "w-49th-ave",
+      "granville-st"
+    ],
+    "streetNames": [
+      "W 49th Ave",
+      "Granville St"
+    ]
+  },
+  {
     "id": "2026-03-06T23:15:00_nelson-rd",
     "timestamp": "2026-03-06T23:15:00",
     "scrapedAt": "2026-03-07T23:31:12",
@@ -114,6 +344,21 @@
     ]
   },
   {
+    "id": "2026-03-06T22:14:00_beatrice-st_e-41st-ave",
+    "timestamp": "2026-03-06T22:14:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "BEATRICE ST & E 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "beatrice-st",
+      "e-41st-ave"
+    ],
+    "streetNames": [
+      "Beatrice St",
+      "E 41st Ave"
+    ]
+  },
+  {
     "id": "2026-03-06T20:30:00_lougheed-hwy_203rd-st",
     "timestamp": "2026-03-06T20:30:00",
     "scrapedAt": "2026-03-07T23:31:12",
@@ -126,6 +371,19 @@
     "streetNames": [
       "Lougheed Hwy",
       "203rd St"
+    ]
+  },
+  {
+    "id": "2026-03-06T20:00:00_lougheed-hwy",
+    "timestamp": "2026-03-06T20:00:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "LOUGHEED HWY",
+    "city": "Burnaby",
+    "streets": [
+      "lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
     ]
   },
   {
@@ -144,6 +402,21 @@
     ]
   },
   {
+    "id": "2026-03-06T19:46:00_dewdney-trunk-rd_207th-st",
+    "timestamp": "2026-03-06T19:46:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "DEWDNEY TRUNK RD & 207TH ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "dewdney-trunk-rd",
+      "207th-st"
+    ],
+    "streetNames": [
+      "Dewdney Trunk Rd",
+      "207th St"
+    ]
+  },
+  {
     "id": "2026-03-06T19:12:00_92nd-ave_124th-st",
     "timestamp": "2026-03-06T19:12:00",
     "scrapedAt": "2026-03-07T23:31:12",
@@ -159,6 +432,36 @@
     ]
   },
   {
+    "id": "2026-03-06T18:52:00_273rd-st_fraser-hwy",
+    "timestamp": "2026-03-06T18:52:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "273RD ST & FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "273rd-st",
+      "fraser-hwy"
+    ],
+    "streetNames": [
+      "273rd St",
+      "Fraser Hwy"
+    ]
+  },
+  {
+    "id": "2026-03-06T18:24:00_burrard-st_w-12th-ave",
+    "timestamp": "2026-03-06T18:24:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "BURRARD ST & W 12TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "burrard-st",
+      "w-12th-ave"
+    ],
+    "streetNames": [
+      "Burrard St",
+      "W 12th Ave"
+    ]
+  },
+  {
     "id": "2026-03-06T18:18:00_20th-st_6th-ave",
     "timestamp": "2026-03-06T18:18:00",
     "scrapedAt": "2026-03-07T23:31:12",
@@ -171,6 +474,47 @@
     "streetNames": [
       "20th St",
       "6th Ave"
+    ]
+  },
+  {
+    "id": "2026-03-06T18:08:00_trans-canada-hwy",
+    "timestamp": "2026-03-06T18:08:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "TRANS CANADA HWY",
+    "city": "West Vancouver",
+    "streets": [
+      "trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ]
+  },
+  {
+    "id": "2026-03-06T17:51:00_foster-ave_blue-mountain-st",
+    "timestamp": "2026-03-06T17:51:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "FOSTER AVE & BLUE MOUNTAIN ST",
+    "city": "Coquitlam",
+    "streets": [
+      "foster-ave",
+      "blue-mountain-st"
+    ],
+    "streetNames": [
+      "Foster Ave",
+      "Blue Mountain St"
+    ]
+  },
+  {
+    "id": "2026-03-06T17:45:00_united-blvd",
+    "timestamp": "2026-03-06T17:45:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "UNITED BLVD",
+    "city": "Coquitlam",
+    "streets": [
+      "united-blvd"
+    ],
+    "streetNames": [
+      "United Blvd"
     ]
   },
   {
@@ -204,6 +548,19 @@
     ]
   },
   {
+    "id": "2026-03-06T15:44:00_granville-street-ofrp",
+    "timestamp": "2026-03-06T15:44:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "GRANVILLE STREET OFRP",
+    "city": "Vancouver",
+    "streets": [
+      "granville-street-ofrp"
+    ],
+    "streetNames": [
+      "Granville Street Ofrp"
+    ]
+  },
+  {
     "id": "2026-03-06T15:14:00_beatrice-st_e-41st-ave",
     "timestamp": "2026-03-06T15:14:00",
     "scrapedAt": "2026-03-07T23:31:12",
@@ -216,6 +573,21 @@
     "streetNames": [
       "Beatrice St",
       "E 41st Ave"
+    ]
+  },
+  {
+    "id": "2026-03-06T13:04:00_132nd-st_108th-ave",
+    "timestamp": "2026-03-06T13:04:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "132ND ST & 108TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "132nd-st",
+      "108th-ave"
+    ],
+    "streetNames": [
+      "132nd St",
+      "108th Ave"
     ]
   },
   {
@@ -290,6 +662,21 @@
     ]
   },
   {
+    "id": "2026-03-06T11:04:00_63a-ave_130b-st",
+    "timestamp": "2026-03-06T11:04:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "63A AVE & 130B ST",
+    "city": "Surrey",
+    "streets": [
+      "63a-ave",
+      "130b-st"
+    ],
+    "streetNames": [
+      "63a Ave",
+      "130b St"
+    ]
+  },
+  {
     "id": "2026-03-06T10:51:00_foster-ave_blue-mountain-st",
     "timestamp": "2026-03-06T10:51:00",
     "scrapedAt": "2026-03-07T23:31:12",
@@ -318,6 +705,21 @@
     ]
   },
   {
+    "id": "2026-03-06T09:04:00_272nd-st_43rd-ave",
+    "timestamp": "2026-03-06T09:04:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "272ND ST & 43RD AVE",
+    "city": "Langley",
+    "streets": [
+      "272nd-st",
+      "43rd-ave"
+    ],
+    "streetNames": [
+      "272nd St",
+      "43rd Ave"
+    ]
+  },
+  {
     "id": "2026-03-06T08:44:00_granville-street-ofrp",
     "timestamp": "2026-03-06T08:44:00",
     "scrapedAt": "2026-03-07T23:31:12",
@@ -328,6 +730,49 @@
     ],
     "streetNames": [
       "Granville Street Ofrp"
+    ]
+  },
+  {
+    "id": "2026-03-06T08:38:00_king-george-blvd_bolivar-rd",
+    "timestamp": "2026-03-06T08:38:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "KING GEORGE BLVD & BOLIVAR RD",
+    "city": "Surrey",
+    "streets": [
+      "king-george-blvd",
+      "bolivar-rd"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "Bolivar Rd"
+    ]
+  },
+  {
+    "id": "2026-03-06T07:52:00_trans-canada-hwy_kensington-avenue-ofrp",
+    "timestamp": "2026-03-06T07:52:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "TRANS CANADA HWY & KENSINGTON AVENUE OFRP",
+    "city": "Burnaby",
+    "streets": [
+      "trans-canada-hwy",
+      "kensington-avenue-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "Kensington Avenue Ofrp"
+    ]
+  },
+  {
+    "id": "2026-03-06T07:47:00_trans-canada-hwy",
+    "timestamp": "2026-03-06T07:47:00",
+    "scrapedAt": "2026-03-07T23:50:11",
+    "address": "TRANS CANADA HWY",
+    "city": "Burnaby",
+    "streets": [
+      "trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
     ]
   },
   {

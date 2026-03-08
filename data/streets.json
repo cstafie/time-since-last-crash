@@ -2,266 +2,266 @@
   "141a-st": {
     "name": "141a St",
     "slug": "141a-st",
-    "lastIncident": "2026-03-07T00:19:00",
-    "count": 1
+    "lastIncident": "2026-03-07T07:19:00",
+    "count": 2
   },
   "72a-ave": {
     "name": "72a Ave",
     "slug": "72a-ave",
-    "lastIncident": "2026-03-07T00:19:00",
-    "count": 1
+    "lastIncident": "2026-03-07T07:19:00",
+    "count": 2
   },
   "royal-ave": {
     "name": "Royal Ave",
     "slug": "royal-ave",
-    "lastIncident": "2026-03-07T00:09:00",
-    "count": 1
+    "lastIncident": "2026-03-07T07:09:00",
+    "count": 2
   },
   "1st-st": {
     "name": "1st St",
     "slug": "1st-st",
-    "lastIncident": "2026-03-07T00:09:00",
-    "count": 1
+    "lastIncident": "2026-03-07T07:09:00",
+    "count": 2
   },
   "deer-lake-pkwy": {
     "name": "Deer Lake Pkwy",
     "slug": "deer-lake-pkwy",
-    "lastIncident": "2026-03-06T23:58:00",
-    "count": 2
+    "lastIncident": "2026-03-07T06:58:00",
+    "count": 4
   },
   "willingdon-ave": {
     "name": "Willingdon Ave",
     "slug": "willingdon-ave",
-    "lastIncident": "2026-03-06T23:55:00",
-    "count": 1
+    "lastIncident": "2026-03-07T06:55:00",
+    "count": 2
   },
   "lougheed-hwy": {
     "name": "Lougheed Hwy",
     "slug": "lougheed-hwy",
-    "lastIncident": "2026-03-06T23:55:00",
-    "count": 3
+    "lastIncident": "2026-03-07T06:55:00",
+    "count": 6
   },
   "168th-st": {
     "name": "168th St",
     "slug": "168th-st",
-    "lastIncident": "2026-03-07T00:11:00",
-    "count": 1
+    "lastIncident": "2026-03-07T07:11:00",
+    "count": 2
   },
   "garden-grove-dr": {
     "name": "Garden Grove Dr",
     "slug": "garden-grove-dr",
-    "lastIncident": "2026-03-06T23:58:00",
-    "count": 1
+    "lastIncident": "2026-03-07T06:58:00",
+    "count": 2
   },
   "nelson-rd": {
     "name": "Nelson Rd",
     "slug": "nelson-rd",
-    "lastIncident": "2026-03-06T23:15:00",
-    "count": 1
+    "lastIncident": "2026-03-07T06:15:00",
+    "count": 2
   },
   "216th-street-ofrp": {
     "name": "216th Street Ofrp",
     "slug": "216th-street-ofrp",
-    "lastIncident": "2026-03-06T22:47:00",
-    "count": 1
+    "lastIncident": "2026-03-07T05:47:00",
+    "count": 2
   },
   "trans-canada-hwy": {
     "name": "Trans Canada Hwy",
     "slug": "trans-canada-hwy",
-    "lastIncident": "2026-03-06T22:47:00",
-    "count": 4
+    "lastIncident": "2026-03-07T05:47:00",
+    "count": 8
   },
   "203rd-st": {
     "name": "203rd St",
     "slug": "203rd-st",
-    "lastIncident": "2026-03-06T20:30:00",
-    "count": 1
+    "lastIncident": "2026-03-07T03:30:00",
+    "count": 2
   },
   "heather-st": {
     "name": "Heather St",
     "slug": "heather-st",
-    "lastIncident": "2026-03-06T19:47:00",
-    "count": 1
+    "lastIncident": "2026-03-07T02:47:00",
+    "count": 2
   },
   "w-70th-ave": {
     "name": "W 70th Ave",
     "slug": "w-70th-ave",
-    "lastIncident": "2026-03-06T19:47:00",
-    "count": 1
+    "lastIncident": "2026-03-07T02:47:00",
+    "count": 2
   },
   "92nd-ave": {
     "name": "92nd Ave",
     "slug": "92nd-ave",
-    "lastIncident": "2026-03-06T19:12:00",
-    "count": 1
+    "lastIncident": "2026-03-07T02:12:00",
+    "count": 2
   },
   "124th-st": {
     "name": "124th St",
     "slug": "124th-st",
-    "lastIncident": "2026-03-06T19:12:00",
-    "count": 1
+    "lastIncident": "2026-03-07T02:12:00",
+    "count": 2
   },
   "20th-st": {
     "name": "20th St",
     "slug": "20th-st",
-    "lastIncident": "2026-03-06T18:18:00",
-    "count": 1
+    "lastIncident": "2026-03-07T01:18:00",
+    "count": 2
   },
   "6th-ave": {
     "name": "6th Ave",
     "slug": "6th-ave",
-    "lastIncident": "2026-03-06T18:18:00",
-    "count": 1
+    "lastIncident": "2026-03-07T01:18:00",
+    "count": 2
   },
   "w-33rd-ave": {
     "name": "W 33rd Ave",
     "slug": "w-33rd-ave",
-    "lastIncident": "2026-03-06T17:24:00",
-    "count": 1
+    "lastIncident": "2026-03-07T00:24:00",
+    "count": 2
   },
   "oak-st": {
     "name": "Oak St",
     "slug": "oak-st",
-    "lastIncident": "2026-03-06T17:24:00",
-    "count": 1
+    "lastIncident": "2026-03-07T00:24:00",
+    "count": 2
   },
   "w-49th-ave": {
     "name": "W 49th Ave",
     "slug": "w-49th-ave",
-    "lastIncident": "2026-03-06T16:33:00",
-    "count": 1
+    "lastIncident": "2026-03-06T23:33:00",
+    "count": 2
   },
   "granville-st": {
     "name": "Granville St",
     "slug": "granville-st",
-    "lastIncident": "2026-03-06T16:33:00",
-    "count": 1
+    "lastIncident": "2026-03-06T23:33:00",
+    "count": 2
   },
   "beatrice-st": {
     "name": "Beatrice St",
     "slug": "beatrice-st",
-    "lastIncident": "2026-03-06T15:14:00",
-    "count": 1
+    "lastIncident": "2026-03-06T22:14:00",
+    "count": 2
   },
   "e-41st-ave": {
     "name": "E 41st Ave",
     "slug": "e-41st-ave",
-    "lastIncident": "2026-03-06T15:14:00",
-    "count": 1
+    "lastIncident": "2026-03-06T22:14:00",
+    "count": 2
   },
   "dewdney-trunk-rd": {
     "name": "Dewdney Trunk Rd",
     "slug": "dewdney-trunk-rd",
-    "lastIncident": "2026-03-06T12:46:00",
-    "count": 1
+    "lastIncident": "2026-03-06T19:46:00",
+    "count": 2
   },
   "207th-st": {
     "name": "207th St",
     "slug": "207th-st",
-    "lastIncident": "2026-03-06T12:46:00",
-    "count": 1
+    "lastIncident": "2026-03-06T19:46:00",
+    "count": 2
   },
   "273rd-st": {
     "name": "273rd St",
     "slug": "273rd-st",
-    "lastIncident": "2026-03-06T11:52:00",
-    "count": 1
+    "lastIncident": "2026-03-06T18:52:00",
+    "count": 2
   },
   "fraser-hwy": {
     "name": "Fraser Hwy",
     "slug": "fraser-hwy",
-    "lastIncident": "2026-03-06T11:52:00",
-    "count": 1
+    "lastIncident": "2026-03-06T18:52:00",
+    "count": 2
   },
   "burrard-st": {
     "name": "Burrard St",
     "slug": "burrard-st",
-    "lastIncident": "2026-03-06T11:24:00",
-    "count": 1
+    "lastIncident": "2026-03-06T18:24:00",
+    "count": 2
   },
   "w-12th-ave": {
     "name": "W 12th Ave",
     "slug": "w-12th-ave",
-    "lastIncident": "2026-03-06T11:24:00",
-    "count": 1
+    "lastIncident": "2026-03-06T18:24:00",
+    "count": 2
   },
   "foster-ave": {
     "name": "Foster Ave",
     "slug": "foster-ave",
-    "lastIncident": "2026-03-06T10:51:00",
-    "count": 1
+    "lastIncident": "2026-03-06T17:51:00",
+    "count": 2
   },
   "blue-mountain-st": {
     "name": "Blue Mountain St",
     "slug": "blue-mountain-st",
-    "lastIncident": "2026-03-06T10:51:00",
-    "count": 1
+    "lastIncident": "2026-03-06T17:51:00",
+    "count": 2
   },
   "united-blvd": {
     "name": "United Blvd",
     "slug": "united-blvd",
-    "lastIncident": "2026-03-06T10:45:00",
-    "count": 1
+    "lastIncident": "2026-03-06T17:45:00",
+    "count": 2
   },
   "granville-street-ofrp": {
     "name": "Granville Street Ofrp",
     "slug": "granville-street-ofrp",
-    "lastIncident": "2026-03-06T08:44:00",
-    "count": 1
+    "lastIncident": "2026-03-06T15:44:00",
+    "count": 2
   },
   "132nd-st": {
     "name": "132nd St",
     "slug": "132nd-st",
-    "lastIncident": "2026-03-06T06:04:00",
-    "count": 1
+    "lastIncident": "2026-03-06T13:04:00",
+    "count": 2
   },
   "108th-ave": {
     "name": "108th Ave",
     "slug": "108th-ave",
-    "lastIncident": "2026-03-06T06:04:00",
-    "count": 1
+    "lastIncident": "2026-03-06T13:04:00",
+    "count": 2
   },
   "63a-ave": {
     "name": "63a Ave",
     "slug": "63a-ave",
-    "lastIncident": "2026-03-06T04:04:00",
-    "count": 1
+    "lastIncident": "2026-03-06T11:04:00",
+    "count": 2
   },
   "130b-st": {
     "name": "130b St",
     "slug": "130b-st",
-    "lastIncident": "2026-03-06T04:04:00",
-    "count": 1
+    "lastIncident": "2026-03-06T11:04:00",
+    "count": 2
   },
   "272nd-st": {
     "name": "272nd St",
     "slug": "272nd-st",
-    "lastIncident": "2026-03-06T02:04:00",
-    "count": 1
+    "lastIncident": "2026-03-06T09:04:00",
+    "count": 2
   },
   "43rd-ave": {
     "name": "43rd Ave",
     "slug": "43rd-ave",
-    "lastIncident": "2026-03-06T02:04:00",
-    "count": 1
+    "lastIncident": "2026-03-06T09:04:00",
+    "count": 2
   },
   "king-george-blvd": {
     "name": "King George Blvd",
     "slug": "king-george-blvd",
-    "lastIncident": "2026-03-06T01:38:00",
-    "count": 1
+    "lastIncident": "2026-03-06T08:38:00",
+    "count": 2
   },
   "bolivar-rd": {
     "name": "Bolivar Rd",
     "slug": "bolivar-rd",
-    "lastIncident": "2026-03-06T01:38:00",
-    "count": 1
+    "lastIncident": "2026-03-06T08:38:00",
+    "count": 2
   },
   "kensington-avenue-ofrp": {
     "name": "Kensington Avenue Ofrp",
     "slug": "kensington-avenue-ofrp",
-    "lastIncident": "2026-03-06T00:52:00",
-    "count": 1
+    "lastIncident": "2026-03-06T07:52:00",
+    "count": 2
   },
   "128th-st": {
     "name": "128th St",
@@ -273,6 +273,18 @@
     "name": "104th Ave",
     "slug": "104th-ave",
     "lastIncident": "2026-03-06T00:09:00",
+    "count": 1
+  },
+  "hwy-91": {
+    "name": "Hwy 91",
+    "slug": "hwy-91",
+    "lastIncident": "2026-03-07T07:39:00",
+    "count": 1
+  },
+  "lower-mall": {
+    "name": "Lower Mall",
+    "slug": "lower-mall",
+    "lastIncident": "2026-03-07T07:37:00",
     "count": 1
   }
 }

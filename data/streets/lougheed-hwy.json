@@ -3,6 +3,34 @@
   "name": "Lougheed Hwy",
   "incidents": [
     {
+      "id": "2026-03-07T06:55:00_willingdon-ave_lougheed-hwy",
+      "timestamp": "2026-03-07T06:55:00",
+      "address": "WILLINGDON AVE & LOUGHEED HWY",
+      "city": "Burnaby",
+      "streets": [
+        "willingdon-ave",
+        "lougheed-hwy"
+      ],
+      "streetNames": [
+        "Willingdon Ave",
+        "Lougheed Hwy"
+      ]
+    },
+    {
+      "id": "2026-03-07T03:30:00_lougheed-hwy_203rd-st",
+      "timestamp": "2026-03-07T03:30:00",
+      "address": "LOUGHEED HWY & 203RD ST",
+      "city": "Maple Ridge",
+      "streets": [
+        "lougheed-hwy",
+        "203rd-st"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "203rd St"
+      ]
+    },
+    {
       "id": "2026-03-06T23:55:00_willingdon-ave_lougheed-hwy",
       "timestamp": "2026-03-06T23:55:00",
       "address": "WILLINGDON AVE & LOUGHEED HWY",
@@ -31,6 +59,18 @@
       ]
     },
     {
+      "id": "2026-03-06T20:00:00_lougheed-hwy",
+      "timestamp": "2026-03-06T20:00:00",
+      "address": "LOUGHEED HWY",
+      "city": "Burnaby",
+      "streets": [
+        "lougheed-hwy"
+      ],
+      "streetNames": [
+        "Lougheed Hwy"
+      ]
+    },
+    {
       "id": "2026-03-06T13:00:00_lougheed-hwy",
       "timestamp": "2026-03-06T13:00:00",
       "address": "LOUGHEED HWY",
@@ -43,6 +83,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-06T23:55:00",
-  "count": 3
+  "lastIncident": "2026-03-07T06:55:00",
+  "count": 6
 }

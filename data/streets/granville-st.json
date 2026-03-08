@@ -3,6 +3,20 @@
   "name": "Granville St",
   "incidents": [
     {
+      "id": "2026-03-06T23:33:00_w-49th-ave_granville-st",
+      "timestamp": "2026-03-06T23:33:00",
+      "address": "W 49TH AVE & GRANVILLE ST",
+      "city": "Vancouver",
+      "streets": [
+        "w-49th-ave",
+        "granville-st"
+      ],
+      "streetNames": [
+        "W 49th Ave",
+        "Granville St"
+      ]
+    },
+    {
       "id": "2026-03-06T16:33:00_w-49th-ave_granville-st",
       "timestamp": "2026-03-06T16:33:00",
       "address": "W 49TH AVE & GRANVILLE ST",
@@ -17,6 +31,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-06T16:33:00",
-  "count": 1
+  "lastIncident": "2026-03-06T23:33:00",
+  "count": 2
 }
