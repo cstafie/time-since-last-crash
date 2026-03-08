@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-03-08T16:30:00Z_112th-st_72nd-ave",
+    "timestamp": "2026-03-08T16:30:00Z",
+    "scrapedAt": "2026-03-08T16:41:48Z",
+    "address": "112TH ST & 72ND AVE",
+    "city": "Delta",
+    "streets": [
+      "112th-st",
+      "72nd-ave"
+    ],
+    "streetNames": [
+      "112th St",
+      "72nd Ave"
+    ]
+  },
+  {
     "id": "2026-03-08T15:49:00Z_1960-como-lake-ave",
     "timestamp": "2026-03-08T15:49:00Z",
     "scrapedAt": "2026-03-08T16:02:13Z",
