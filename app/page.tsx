@@ -1,11 +1,14 @@
+import Link from "next/link";
 import { fetchStreetsIndex } from "@/lib/data";
-import StreetSearch from "@/components/StreetSearch";
+import StreetTable from "@/components/StreetTable";
 
 export const revalidate = 1800; // 30-min fallback; on-demand revalidation is primary
 
 export default async function Home() {
   const index = await fetchStreetsIndex();
-  const streets = Object.values(index);
+  const top50 = Object.values(index)
+    .sort((a, b) => b.count - a.count)
+    .slice(0, 50);
 
   return (
     <main className="max-w-4xl mx-auto px-4 py-10">
@@ -30,12 +33,25 @@ export default async function Home() {
         </p>
       </header>
 
-      {streets.length === 0 ? (
+      <div className="flex items-center justify-between mb-4 border-b border-gray-200 dark:border-gray-700 pb-2">
+        <h2 className="text-xl font-semibold">Most Incidents</h2>
+        <Link
+          href="/recent"
+          className="text-sm text-blue-600 dark:text-blue-400 hover:underline"
+        >
+          Recent activity →
+        </Link>
+      </div>
+      <p className="text-xs text-gray-500 dark:text-gray-400 mb-4">
+        Top 50 streets by total crash count
+      </p>
+
+      {top50.length === 0 ? (
         <p className="text-gray-500 dark:text-gray-400">
           No incidents recorded yet. Check back after the first scrape runs.
         </p>
       ) : (
-        <StreetSearch streets={streets} />
+        <StreetTable streets={top50} />
       )}
     </main>
   );
