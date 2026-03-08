@@ -4,7 +4,7 @@ on:
   schedule:
     # Every 30 minutes — GitHub's minimum cron interval
     - cron: "*/30 * * * *"
-  workflow_disptch: # allow manual trigger
+  workflow_dispatch: # allow manual trigger
 
 permissions:
   contents: write
