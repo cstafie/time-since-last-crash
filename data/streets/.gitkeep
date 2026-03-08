@@ -1,0 +1,3 @@
+# This file ensures the data/streets/ directory is tracked by git.
+# Individual street JSON files (e.g., data/streets/granville-st.json)
+# are written here by the scraper and committed automatically.

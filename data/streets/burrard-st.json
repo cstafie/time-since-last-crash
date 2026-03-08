@@ -1,0 +1,22 @@
+{
+  "slug": "burrard-st",
+  "name": "Burrard St",
+  "incidents": [
+    {
+      "id": "2026-03-06T11:24:00_burrard-st_w-12th-ave",
+      "timestamp": "2026-03-06T11:24:00",
+      "address": "BURRARD ST & W 12TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "burrard-st",
+        "w-12th-ave"
+      ],
+      "streetNames": [
+        "Burrard St",
+        "W 12th Ave"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-06T11:24:00",
+  "count": 1
+}

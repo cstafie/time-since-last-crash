@@ -1,0 +1,22 @@
+{
+  "slug": "e-41st-ave",
+  "name": "E 41st Ave",
+  "incidents": [
+    {
+      "id": "2026-03-06T15:14:00_beatrice-st_e-41st-ave",
+      "timestamp": "2026-03-06T15:14:00",
+      "address": "BEATRICE ST & E 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "beatrice-st",
+        "e-41st-ave"
+      ],
+      "streetNames": [
+        "Beatrice St",
+        "E 41st Ave"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-06T15:14:00",
+  "count": 1
+}

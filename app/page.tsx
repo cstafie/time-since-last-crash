@@ -1,65 +1,132 @@
-import Image from "next/image";
+import Link from "next/link";
+import { fetchStreetsIndex } from "@/lib/data";
+import { formatRelativeTime, formatDateTime } from "@/lib/time";
+import type { StreetIndexEntry } from "@/lib/types";
 
-export default function Home() {
+export const revalidate = 600; // 10-min fallback; on-demand revalidation is primary
+
+export default async function Home() {
+  const index = await fetchStreetsIndex();
+  const streets: StreetIndexEntry[] = Object.values(index);
+
+  const recentStreets = [...streets].sort(
+    (a, b) =>
+      new Date(b.lastIncident).getTime() - new Date(a.lastIncident).getTime(),
+  );
+
+  const dangerousStreets = [...streets]
+    .sort((a, b) => b.count - a.count)
+    .slice(0, 20);
+
   return (
-    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
+    <main className="max-w-4xl mx-auto px-4 py-10 font-sans">
+      <header className="mb-10">
+        <h1 className="text-3xl font-bold tracking-tight mb-2">
+          Time Since Last Crash
+        </h1>
+        <p className="text-gray-500 text-sm">
+          Traffic collision incidents in Metro Vancouver, sourced from{" "}
           <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
+            href="https://web.pulsepoint.org/?agencies=EMS1201"
             target="_blank"
             rel="noopener noreferrer"
+            className="underline"
           >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
+            PulsePoint BC EMS
           </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
+          . Updated every 5 minutes.
+        </p>
+      </header>
+
+      {streets.length === 0 ? (
+        <p className="text-gray-400">
+          No incidents recorded yet. Check back after the first scrape runs.
+        </p>
+      ) : (
+        <>
+          <Section title="Recent Activity">
+            <p className="text-xs text-gray-400 mb-3">
+              Streets sorted by most recent crash
+            </p>
+            <StreetTable streets={recentStreets} />
+          </Section>
+
+          <Section title="Most Incidents">
+            <p className="text-xs text-gray-400 mb-3">
+              Top 20 streets by total crash count
+            </p>
+            <StreetTable streets={dangerousStreets} showCount />
+          </Section>
+        </>
+      )}
+    </main>
+  );
+}
+
+function Section({
+  title,
+  children,
+}: {
+  title: string;
+  children: React.ReactNode;
+}) {
+  return (
+    <section className="mb-12">
+      <h2 className="text-xl font-semibold mb-4 border-b pb-2">{title}</h2>
+      {children}
+    </section>
+  );
+}
+
+function StreetTable({
+  streets,
+  showCount = false,
+}: {
+  streets: StreetIndexEntry[];
+  showCount?: boolean;
+}) {
+  return (
+    <div className="overflow-x-auto">
+      <table className="w-full text-sm">
+        <thead>
+          <tr className="text-left text-gray-500 text-xs uppercase tracking-wider border-b">
+            <th className="pb-2 pr-4 font-medium">Street</th>
+            <th className="pb-2 pr-4 font-medium">Last Crash</th>
+            <th className="pb-2 pr-4 font-medium">Time Since</th>
+            {showCount && <th className="pb-2 font-medium">Total</th>}
+          </tr>
+        </thead>
+        <tbody>
+          {streets.map((s) => (
+            <tr
+              key={s.slug}
+              className="border-b last:border-0 hover:bg-gray-50"
+            >
+              <td className="py-2 pr-4 font-medium">
+                <Link
+                  href={`/${s.slug}`}
+                  className="text-blue-600 hover:underline"
+                >
+                  {s.name}
+                </Link>
+              </td>
+              <td className="py-2 pr-4 text-gray-600 whitespace-nowrap">
+                {formatDateTime(s.lastIncident)}
+              </td>
+              <td className="py-2 pr-4 text-gray-600 whitespace-nowrap">
+                {formatRelativeTime(s.lastIncident)}
+              </td>
+              {showCount && (
+                <td className="py-2">
+                  <span className="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-medium bg-red-100 text-red-700">
+                    {s.count}
+                  </span>
+                </td>
+              )}
+            </tr>
+          ))}
+        </tbody>
+      </table>
     </div>
   );
 }

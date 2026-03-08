@@ -1,0 +1,22 @@
+{
+  "slug": "willingdon-ave",
+  "name": "Willingdon Ave",
+  "incidents": [
+    {
+      "id": "2026-03-06T23:55:00_willingdon-ave_lougheed-hwy",
+      "timestamp": "2026-03-06T23:55:00",
+      "address": "WILLINGDON AVE & LOUGHEED HWY",
+      "city": "Burnaby",
+      "streets": [
+        "willingdon-ave",
+        "lougheed-hwy"
+      ],
+      "streetNames": [
+        "Willingdon Ave",
+        "Lougheed Hwy"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-06T23:55:00",
+  "count": 1
+}

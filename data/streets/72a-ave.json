@@ -1,0 +1,22 @@
+{
+  "slug": "72a-ave",
+  "name": "72a Ave",
+  "incidents": [
+    {
+      "id": "2026-03-07T00:19:00_141a-st_72a-ave",
+      "timestamp": "2026-03-07T00:19:00",
+      "address": "141A ST & 72A AVE",
+      "city": "Surrey",
+      "streets": [
+        "141a-st",
+        "72a-ave"
+      ],
+      "streetNames": [
+        "141a St",
+        "72a Ave"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-07T00:19:00",
+  "count": 1
+}

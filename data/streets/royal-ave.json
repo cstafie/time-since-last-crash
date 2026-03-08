@@ -1,0 +1,22 @@
+{
+  "slug": "royal-ave",
+  "name": "Royal Ave",
+  "incidents": [
+    {
+      "id": "2026-03-07T00:09:00_royal-ave_1st-st",
+      "timestamp": "2026-03-07T00:09:00",
+      "address": "ROYAL AVE & 1ST ST",
+      "city": "New Westminster",
+      "streets": [
+        "royal-ave",
+        "1st-st"
+      ],
+      "streetNames": [
+        "Royal Ave",
+        "1st St"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-07T00:09:00",
+  "count": 1
+}

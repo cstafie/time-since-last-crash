@@ -1,0 +1,22 @@
+{
+  "slug": "92nd-ave",
+  "name": "92nd Ave",
+  "incidents": [
+    {
+      "id": "2026-03-06T19:12:00_92nd-ave_124th-st",
+      "timestamp": "2026-03-06T19:12:00",
+      "address": "92ND AVE & 124TH ST",
+      "city": "Surrey",
+      "streets": [
+        "92nd-ave",
+        "124th-st"
+      ],
+      "streetNames": [
+        "92nd Ave",
+        "124th St"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-06T19:12:00",
+  "count": 1
+}

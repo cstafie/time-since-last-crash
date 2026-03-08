@@ -1,0 +1,22 @@
+{
+  "slug": "43rd-ave",
+  "name": "43rd Ave",
+  "incidents": [
+    {
+      "id": "2026-03-06T02:04:00_272nd-st_43rd-ave",
+      "timestamp": "2026-03-06T02:04:00",
+      "address": "272ND ST & 43RD AVE",
+      "city": "Langley",
+      "streets": [
+        "272nd-st",
+        "43rd-ave"
+      ],
+      "streetNames": [
+        "272nd St",
+        "43rd Ave"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-06T02:04:00",
+  "count": 1
+}

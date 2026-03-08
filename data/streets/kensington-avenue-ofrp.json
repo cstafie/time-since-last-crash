@@ -1,0 +1,22 @@
+{
+  "slug": "kensington-avenue-ofrp",
+  "name": "Kensington Avenue Ofrp",
+  "incidents": [
+    {
+      "id": "2026-03-06T00:52:00_trans-canada-hwy_kensington-avenue-ofrp",
+      "timestamp": "2026-03-06T00:52:00",
+      "address": "TRANS CANADA HWY & KENSINGTON AVENUE OFRP",
+      "city": "Burnaby",
+      "streets": [
+        "trans-canada-hwy",
+        "kensington-avenue-ofrp"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy",
+        "Kensington Avenue Ofrp"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-06T00:52:00",
+  "count": 1
+}

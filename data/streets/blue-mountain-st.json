@@ -1,0 +1,22 @@
+{
+  "slug": "blue-mountain-st",
+  "name": "Blue Mountain St",
+  "incidents": [
+    {
+      "id": "2026-03-06T10:51:00_foster-ave_blue-mountain-st",
+      "timestamp": "2026-03-06T10:51:00",
+      "address": "FOSTER AVE & BLUE MOUNTAIN ST",
+      "city": "Coquitlam",
+      "streets": [
+        "foster-ave",
+        "blue-mountain-st"
+      ],
+      "streetNames": [
+        "Foster Ave",
+        "Blue Mountain St"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-06T10:51:00",
+  "count": 1
+}

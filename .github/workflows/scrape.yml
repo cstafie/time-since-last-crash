@@ -1,0 +1,65 @@
+name: Scrape PulsePoint
+
+on:
+  schedule:
+    # Every 5 minutes — GitHub's minimum cron interval
+    - cron: "*/5 * * * *"
+  workflow_dispatch: # allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4 # must finish before the next 5-min window
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Install Playwright browser
+        run: python -m playwright install chromium --with-deps
+
+      - name: Run scraper
+        id: scrape
+        run: |
+          output=$(python scripts/scrape.py)
+          echo "$output"
+          # Extract the count of new incidents from the script output
+          new_count=$(echo "$output" | grep -oP 'NEW_INCIDENTS=\K\d+' || echo "0")
+          echo "new_count=$new_count" >> "$GITHUB_OUTPUT"
+
+      - name: Commit new data
+        if: steps.scrape.outputs.new_count != '0'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "chore: add ${{ steps.scrape.outputs.new_count }} new incident(s) [skip ci]"
+          git push
+
+      - name: Trigger ISR revalidation
+        if: steps.scrape.outputs.new_count != '0'
+        env:
+          REVALIDATE_SECRET: ${{ secrets.REVALIDATE_SECRET }}
+          NEXT_PUBLIC_SITE_URL: ${{ secrets.NEXT_PUBLIC_SITE_URL }}
+        run: |
+          curl -s -X POST \
+            "${NEXT_PUBLIC_SITE_URL}/api/revalidate" \
+            -H "Authorization: Bearer ${REVALIDATE_SECRET}" \
+            -H "Content-Type: application/json" \
+            -d '{"all":true}' \
+            --fail-with-body || echo "Revalidation request failed (non-fatal)"
