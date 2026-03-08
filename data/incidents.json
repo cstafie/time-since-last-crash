@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-03-08T16:42:00Z_memorial-dr_mcbride-blvd",
+    "timestamp": "2026-03-08T16:42:00Z",
+    "scrapedAt": "2026-03-08T17:03:58Z",
+    "address": "MEMORIAL DR & MCBRIDE BLVD",
+    "city": "New Westminster",
+    "streets": [
+      "memorial-dr",
+      "mcbride-blvd"
+    ],
+    "streetNames": [
+      "Memorial Dr",
+      "Mcbride Blvd"
+    ]
+  },
+  {
     "id": "2026-03-08T16:30:00Z_112th-st_72nd-ave",
     "timestamp": "2026-03-08T16:30:00Z",
     "scrapedAt": "2026-03-08T16:41:48Z",
