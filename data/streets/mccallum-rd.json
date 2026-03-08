@@ -1,0 +1,22 @@
+{
+  "slug": "mccallum-rd",
+  "name": "Mccallum Rd",
+  "incidents": [
+    {
+      "id": "2026-03-08T19:46:00Z_lynn-ave_mccallum-rd",
+      "timestamp": "2026-03-08T19:46:00Z",
+      "address": "LYNN AVE & MCCALLUM RD",
+      "city": "Abbotsford",
+      "streets": [
+        "lynn-ave",
+        "mccallum-rd"
+      ],
+      "streetNames": [
+        "Lynn Ave",
+        "Mccallum Rd"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-08T19:46:00Z",
+  "count": 1
+}

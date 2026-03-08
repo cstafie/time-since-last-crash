@@ -1,5 +1,48 @@
 [
   {
+    "id": "2026-03-08T19:46:00Z_lynn-ave_mccallum-rd",
+    "timestamp": "2026-03-08T19:46:00Z",
+    "scrapedAt": "2026-03-08T20:01:46Z",
+    "address": "LYNN AVE & MCCALLUM RD",
+    "city": "Abbotsford",
+    "streets": [
+      "lynn-ave",
+      "mccallum-rd"
+    ],
+    "streetNames": [
+      "Lynn Ave",
+      "Mccallum Rd"
+    ]
+  },
+  {
+    "id": "2026-03-08T19:44:00Z_fraser-hwy",
+    "timestamp": "2026-03-08T19:44:00Z",
+    "scrapedAt": "2026-03-08T20:01:46Z",
+    "address": "FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "fraser-hwy"
+    ],
+    "streetNames": [
+      "Fraser Hwy"
+    ]
+  },
+  {
+    "id": "2026-03-08T19:44:00Z_248th-st_fraser-hwy",
+    "timestamp": "2026-03-08T19:44:00Z",
+    "scrapedAt": "2026-03-08T20:01:46Z",
+    "address": "248TH ST & FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "248th-st",
+      "fraser-hwy"
+    ],
+    "streetNames": [
+      "248th St",
+      "Fraser Hwy"
+    ]
+  },
+  {
     "id": "2026-03-08T19:13:00Z_trans-canada-hwy_eagleridge-drive-ofrp",
     "timestamp": "2026-03-08T19:13:00Z",
     "scrapedAt": "2026-03-08T19:36:07Z",
