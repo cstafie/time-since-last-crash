@@ -16,12 +16,10 @@ export default function StreetSearch({ streets }: Props) {
   const mostIncidents = [...streets]
     .sort((a, b) => b.count - a.count)
     .slice(0, 20);
-  const recentStreets = [...streets]
-    .sort(
-      (a, b) =>
-        new Date(b.lastIncident).getTime() - new Date(a.lastIncident).getTime(),
-    )
-    .slice(0, 20);
+  const recentStreets = [...streets].sort(
+    (a, b) =>
+      new Date(b.lastIncident).getTime() - new Date(a.lastIncident).getTime(),
+  );
 
   const filtered = q
     ? [...streets]
