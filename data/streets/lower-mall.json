@@ -3,8 +3,8 @@
   "name": "Lower Mall",
   "incidents": [
     {
-      "id": "2026-03-07T07:37:00_lower-mall",
-      "timestamp": "2026-03-07T07:37:00",
+      "id": "2026-03-07T23:37:00_lower-mall",
+      "timestamp": "2026-03-07T23:37:00",
       "address": "LOWER MALL",
       "city": "Vancouver",
       "streets": [
@@ -15,6 +15,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-07T07:37:00",
+  "lastIncident": "2026-03-07T23:37:00",
   "count": 1
 }

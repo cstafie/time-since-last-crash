@@ -3,22 +3,8 @@
   "name": "Blue Mountain St",
   "incidents": [
     {
-      "id": "2026-03-06T17:51:00_foster-ave_blue-mountain-st",
-      "timestamp": "2026-03-06T17:51:00",
-      "address": "FOSTER AVE & BLUE MOUNTAIN ST",
-      "city": "Coquitlam",
-      "streets": [
-        "foster-ave",
-        "blue-mountain-st"
-      ],
-      "streetNames": [
-        "Foster Ave",
-        "Blue Mountain St"
-      ]
-    },
-    {
-      "id": "2026-03-06T10:51:00_foster-ave_blue-mountain-st",
-      "timestamp": "2026-03-06T10:51:00",
+      "id": "2026-03-07T09:51:00_foster-ave_blue-mountain-st",
+      "timestamp": "2026-03-07T09:51:00",
       "address": "FOSTER AVE & BLUE MOUNTAIN ST",
       "city": "Coquitlam",
       "streets": [
@@ -31,6 +17,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-06T17:51:00",
-  "count": 2
+  "lastIncident": "2026-03-07T09:51:00",
+  "count": 1
 }

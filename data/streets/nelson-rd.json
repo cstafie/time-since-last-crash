@@ -3,20 +3,8 @@
   "name": "Nelson Rd",
   "incidents": [
     {
-      "id": "2026-03-07T06:15:00_nelson-rd",
-      "timestamp": "2026-03-07T06:15:00",
-      "address": "NELSON RD",
-      "city": "Richmond",
-      "streets": [
-        "nelson-rd"
-      ],
-      "streetNames": [
-        "Nelson Rd"
-      ]
-    },
-    {
-      "id": "2026-03-06T23:15:00_nelson-rd",
-      "timestamp": "2026-03-06T23:15:00",
+      "id": "2026-03-07T22:15:00_nelson-rd",
+      "timestamp": "2026-03-07T22:15:00",
       "address": "NELSON RD",
       "city": "Richmond",
       "streets": [
@@ -27,6 +15,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-07T06:15:00",
-  "count": 2
+  "lastIncident": "2026-03-07T22:15:00",
+  "count": 1
 }

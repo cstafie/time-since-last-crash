@@ -127,7 +127,10 @@ def fetch_incidents(scrape_dt: datetime) -> list[dict]:
     """
     with sync_playwright() as pw:
         browser = pw.chromium.launch(headless=True)
-        page = browser.new_page()
+        # Force Pacific time so PulsePoint renders incident times in PST/PDT
+        # consistently regardless of the runner's system timezone (e.g. UTC on GH Actions).
+        context = browser.new_context(timezone_id="America/Vancouver")
+        page = context.new_page()
 
         print(f"[scrape] Loading {FEED_URL}")
         page.goto(FEED_URL, timeout=60_000)
@@ -246,8 +249,22 @@ def update_data_files(new_incidents: list[dict]) -> int:
     existing_ids = {inc["id"] for inc in all_incidents}
     added = 0
 
+    def _is_near_duplicate(inc: dict) -> bool:
+        """True if an existing incident at the same location is within 30 minutes."""
+        new_ts = datetime.fromisoformat(inc["timestamp"])
+        new_slugs = set(inc["streets"])
+        for existing in all_incidents:
+            if set(existing["streets"]) == new_slugs and existing["city"] == inc["city"]:
+                existing_ts = datetime.fromisoformat(existing["timestamp"])
+                if abs((new_ts - existing_ts).total_seconds()) < 1800:  # 30 min
+                    return True
+        return False
+
     for inc in new_incidents:
         if inc["id"] in existing_ids:
+            continue
+        if _is_near_duplicate(inc):
+            print(f"[scrape] Skipping near-duplicate: {inc['id']}")
             continue
 
         all_incidents.append(inc)

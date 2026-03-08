@@ -3,22 +3,8 @@
   "name": "203rd St",
   "incidents": [
     {
-      "id": "2026-03-07T03:30:00_lougheed-hwy_203rd-st",
-      "timestamp": "2026-03-07T03:30:00",
-      "address": "LOUGHEED HWY & 203RD ST",
-      "city": "Maple Ridge",
-      "streets": [
-        "lougheed-hwy",
-        "203rd-st"
-      ],
-      "streetNames": [
-        "Lougheed Hwy",
-        "203rd St"
-      ]
-    },
-    {
-      "id": "2026-03-06T20:30:00_lougheed-hwy_203rd-st",
-      "timestamp": "2026-03-06T20:30:00",
+      "id": "2026-03-07T19:30:00_lougheed-hwy_203rd-st",
+      "timestamp": "2026-03-07T19:30:00",
       "address": "LOUGHEED HWY & 203RD ST",
       "city": "Maple Ridge",
       "streets": [
@@ -31,6 +17,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-07T03:30:00",
-  "count": 2
+  "lastIncident": "2026-03-07T19:30:00",
+  "count": 1
 }

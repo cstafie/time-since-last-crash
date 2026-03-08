@@ -3,20 +3,8 @@
   "name": "United Blvd",
   "incidents": [
     {
-      "id": "2026-03-06T17:45:00_united-blvd",
-      "timestamp": "2026-03-06T17:45:00",
-      "address": "UNITED BLVD",
-      "city": "Coquitlam",
-      "streets": [
-        "united-blvd"
-      ],
-      "streetNames": [
-        "United Blvd"
-      ]
-    },
-    {
-      "id": "2026-03-06T10:45:00_united-blvd",
-      "timestamp": "2026-03-06T10:45:00",
+      "id": "2026-03-07T09:45:00_united-blvd",
+      "timestamp": "2026-03-07T09:45:00",
       "address": "UNITED BLVD",
       "city": "Coquitlam",
       "streets": [
@@ -27,6 +15,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-06T17:45:00",
-  "count": 2
+  "lastIncident": "2026-03-07T09:45:00",
+  "count": 1
 }

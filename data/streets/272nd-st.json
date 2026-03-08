@@ -3,22 +3,8 @@
   "name": "272nd St",
   "incidents": [
     {
-      "id": "2026-03-06T09:04:00_272nd-st_43rd-ave",
-      "timestamp": "2026-03-06T09:04:00",
-      "address": "272ND ST & 43RD AVE",
-      "city": "Langley",
-      "streets": [
-        "272nd-st",
-        "43rd-ave"
-      ],
-      "streetNames": [
-        "272nd St",
-        "43rd Ave"
-      ]
-    },
-    {
-      "id": "2026-03-06T02:04:00_272nd-st_43rd-ave",
-      "timestamp": "2026-03-06T02:04:00",
+      "id": "2026-03-07T01:04:00_272nd-st_43rd-ave",
+      "timestamp": "2026-03-07T01:04:00",
       "address": "272ND ST & 43RD AVE",
       "city": "Langley",
       "streets": [
@@ -31,6 +17,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-06T09:04:00",
-  "count": 2
+  "lastIncident": "2026-03-07T01:04:00",
+  "count": 1
 }

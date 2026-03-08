@@ -3,22 +3,8 @@
   "name": "132nd St",
   "incidents": [
     {
-      "id": "2026-03-06T13:04:00_132nd-st_108th-ave",
-      "timestamp": "2026-03-06T13:04:00",
-      "address": "132ND ST & 108TH AVE",
-      "city": "Surrey",
-      "streets": [
-        "132nd-st",
-        "108th-ave"
-      ],
-      "streetNames": [
-        "132nd St",
-        "108th Ave"
-      ]
-    },
-    {
-      "id": "2026-03-06T06:04:00_132nd-st_108th-ave",
-      "timestamp": "2026-03-06T06:04:00",
+      "id": "2026-03-07T05:04:00_132nd-st_108th-ave",
+      "timestamp": "2026-03-07T05:04:00",
       "address": "132ND ST & 108TH AVE",
       "city": "Surrey",
       "streets": [
@@ -31,6 +17,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-06T13:04:00",
-  "count": 2
+  "lastIncident": "2026-03-07T05:04:00",
+  "count": 1
 }

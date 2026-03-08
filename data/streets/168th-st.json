@@ -3,20 +3,8 @@
   "name": "168th St",
   "incidents": [
     {
-      "id": "2026-03-07T07:11:00_168th-st",
-      "timestamp": "2026-03-07T07:11:00",
-      "address": "168TH ST",
-      "city": "Surrey",
-      "streets": [
-        "168th-st"
-      ],
-      "streetNames": [
-        "168th St"
-      ]
-    },
-    {
-      "id": "2026-03-07T00:11:00_168th-st",
-      "timestamp": "2026-03-07T00:11:00",
+      "id": "2026-03-07T23:11:00_168th-st",
+      "timestamp": "2026-03-07T23:11:00",
       "address": "168TH ST",
       "city": "Surrey",
       "streets": [
@@ -27,6 +15,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-07T07:11:00",
-  "count": 2
+  "lastIncident": "2026-03-07T23:11:00",
+  "count": 1
 }
