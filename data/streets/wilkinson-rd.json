@@ -1,0 +1,22 @@
+{
+  "slug": "wilkinson-rd",
+  "name": "Wilkinson Rd",
+  "incidents": [
+    {
+      "id": "2026-03-09T03:10:00Z_no-4-rd_wilkinson-rd",
+      "timestamp": "2026-03-09T03:10:00Z",
+      "address": "NO 4 RD & WILKINSON RD",
+      "city": "Richmond",
+      "streets": [
+        "no-4-rd",
+        "wilkinson-rd"
+      ],
+      "streetNames": [
+        "No 4 Rd",
+        "Wilkinson Rd"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-09T03:10:00Z",
+  "count": 1
+}

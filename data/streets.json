@@ -496,5 +496,23 @@
     "slug": "ladner-trunk-rd",
     "lastIncident": "2026-03-09T01:44:00Z",
     "count": 1
+  },
+  "e-2nd-st": {
+    "name": "E 2nd St",
+    "slug": "e-2nd-st",
+    "lastIncident": "2026-03-09T03:29:00Z",
+    "count": 1
+  },
+  "no-4-rd": {
+    "name": "No 4 Rd",
+    "slug": "no-4-rd",
+    "lastIncident": "2026-03-09T03:10:00Z",
+    "count": 1
+  },
+  "wilkinson-rd": {
+    "name": "Wilkinson Rd",
+    "slug": "wilkinson-rd",
+    "lastIncident": "2026-03-09T03:10:00Z",
+    "count": 1
   }
 }
