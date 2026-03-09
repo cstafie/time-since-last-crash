@@ -389,6 +389,34 @@
     ]
   },
   {
+    "id": "2026-03-09T17:08:00Z_chadsey-rd_keith-wilson-rd",
+    "timestamp": "2026-03-09T17:08:00Z",
+    "scrapedAt": "2026-03-09T17:15:27Z",
+    "address": "CHADSEY RD & KEITH WILSON RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chadsey-rd",
+      "keith-wilson-rd"
+    ],
+    "streetNames": [
+      "Chadsey Rd",
+      "Keith Wilson Rd"
+    ]
+  },
+  {
+    "id": "2026-03-09T17:04:00Z_w-4th-ave",
+    "timestamp": "2026-03-09T17:04:00Z",
+    "scrapedAt": "2026-03-09T17:15:27Z",
+    "address": "W 4TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "w-4th-ave"
+    ],
+    "streetNames": [
+      "W 4th Ave"
+    ]
+  },
+  {
     "id": "2026-03-09T16:42:00Z_memorial-dr_mcbride-blvd",
     "timestamp": "2026-03-09T16:42:00Z",
     "scrapedAt": "2026-03-09T07:20:17Z",
