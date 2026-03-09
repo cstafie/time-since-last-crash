@@ -460,6 +460,21 @@
     ]
   },
   {
+    "id": "2026-03-09T12:03:00Z_kingsway_e-12th-ave",
+    "timestamp": "2026-03-09T12:03:00Z",
+    "scrapedAt": "2026-03-09T12:45:37Z",
+    "address": "KINGSWAY & E 12TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "kingsway",
+      "e-12th-ave"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "E 12th Ave"
+    ]
+  },
+  {
     "id": "2026-03-09T10:50:00Z_44th-ave_fraser-hwy",
     "timestamp": "2026-03-09T10:50:00Z",
     "scrapedAt": "2026-03-09T11:12:27Z",
