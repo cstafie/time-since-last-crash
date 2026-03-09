@@ -432,6 +432,21 @@
     ]
   },
   {
+    "id": "2026-03-09T15:47:00Z_king-george-blvd_64th-ave",
+    "timestamp": "2026-03-09T15:47:00Z",
+    "scrapedAt": "2026-03-09T16:17:38Z",
+    "address": "KING GEORGE BLVD & 64TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "king-george-blvd",
+      "64th-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "64th Ave"
+    ]
+  },
+  {
     "id": "2026-03-09T15:26:00Z_blundell-rd_no-4-rd",
     "timestamp": "2026-03-09T15:26:00Z",
     "scrapedAt": "2026-03-09T15:46:44Z",
