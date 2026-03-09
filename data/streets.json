@@ -398,8 +398,8 @@
   "lougheed-hwy": {
     "name": "Lougheed Hwy",
     "slug": "lougheed-hwy",
-    "lastIncident": "2026-03-08T06:55:00Z",
-    "count": 3
+    "lastIncident": "2026-03-09T20:52:00Z",
+    "count": 4
   },
   "nelson-rd": {
     "name": "Nelson Rd",
@@ -603,6 +603,12 @@
     "name": "Ross Rd",
     "slug": "ross-rd",
     "lastIncident": "2026-03-09T19:34:00Z",
+    "count": 1
+  },
+  "wren-st": {
+    "name": "Wren St",
+    "slug": "wren-st",
+    "lastIncident": "2026-03-09T20:52:00Z",
     "count": 1
   }
 }

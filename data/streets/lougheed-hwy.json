@@ -3,6 +3,20 @@
   "name": "Lougheed Hwy",
   "incidents": [
     {
+      "id": "2026-03-09T20:52:00Z_wren-st_lougheed-hwy",
+      "timestamp": "2026-03-09T20:52:00Z",
+      "address": "WREN ST & LOUGHEED HWY",
+      "city": "Mission",
+      "streets": [
+        "wren-st",
+        "lougheed-hwy"
+      ],
+      "streetNames": [
+        "Wren St",
+        "Lougheed Hwy"
+      ]
+    },
+    {
       "id": "2026-03-08T06:55:00Z_willingdon-ave_lougheed-hwy",
       "timestamp": "2026-03-08T06:55:00Z",
       "address": "WILLINGDON AVE & LOUGHEED HWY",
@@ -43,6 +57,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-08T06:55:00Z",
-  "count": 3
+  "lastIncident": "2026-03-09T20:52:00Z",
+  "count": 4
 }
