@@ -3,20 +3,6 @@
   "name": "141a St",
   "incidents": [
     {
-      "id": "2026-03-10T06:19:00Z_141a-st_72a-ave",
-      "timestamp": "2026-03-10T06:19:00Z",
-      "address": "141A ST & 72A AVE",
-      "city": "Surrey",
-      "streets": [
-        "141a-st",
-        "72a-ave"
-      ],
-      "streetNames": [
-        "141a St",
-        "72a Ave"
-      ]
-    },
-    {
       "id": "2026-03-08T07:19:00Z_141a-st_72a-ave",
       "timestamp": "2026-03-08T07:19:00Z",
       "address": "141A ST & 72A AVE",
@@ -31,6 +17,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-10T06:19:00Z",
-  "count": 2
+  "lastIncident": "2026-03-08T07:19:00Z",
+  "count": 1
 }

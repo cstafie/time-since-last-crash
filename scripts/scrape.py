@@ -236,7 +236,13 @@ def _parse_time_str(time_str: str, scrape_dt: datetime) -> datetime:
     time_str = re.sub(r"p\.m\.", "PM", time_str, flags=re.IGNORECASE)
     time_str = time_str.strip()
     t = datetime.strptime(time_str, "%I:%M %p").time()
-    return datetime(date.year, date.month, date.day, t.hour, t.minute, tzinfo=PACIFIC)
+    result = datetime(date.year, date.month, date.day, t.hour, t.minute, tzinfo=PACIFIC)
+    # If the computed time is in the future, it means PulsePoint showed a
+    # previous-evening incident without a "Yesterday" prefix (common when
+    # scraping shortly after midnight). Roll back one day.
+    if result > scrape_dt:
+        result -= timedelta(days=1)
+    return result
 
 
 # ---------------------------------------------------------------------------
@@ -253,14 +259,12 @@ def update_data_files(new_incidents: list[dict]) -> int:
 
     def _is_near_duplicate(inc: dict) -> bool:
         """
-        True if an existing incident at the same location is within 30 minutes,
-        OR if it looks like a day-boundary / DST re-scrape (same address+city,
-        same time-of-day within ±5 min, dates differ by exactly 1 day).
+        True if an existing incident at the same location is within 2 hours.
+        With the future-time guard in _parse_time_str, DST/day-boundary
+        duplicates will now land within ~1 hour of each other.
         """
         new_ts = datetime.fromisoformat(inc["timestamp"])
         new_slugs = set(inc["streets"])
-        new_pacific = new_ts.astimezone(PACIFIC)
-        new_minutes_of_day = new_pacific.hour * 60 + new_pacific.minute
 
         for existing in all_incidents:
             if existing["city"] != inc["city"]:
@@ -269,19 +273,8 @@ def update_data_files(new_incidents: list[dict]) -> int:
                 continue
 
             existing_ts = datetime.fromisoformat(existing["timestamp"])
-            diff_seconds = abs((new_ts - existing_ts).total_seconds())
-
-            # Direct near-duplicate (within 30 min)
-            if diff_seconds < 1800:
+            if abs((new_ts - existing_ts).total_seconds()) < 7200:  # 2 hours
                 return True
-
-            # Day-boundary / DST duplicate: same address, same time-of-day,
-            # dates ~23-25 hours apart (covers the ±1h DST shift over a day boundary)
-            if 22 * 3600 <= diff_seconds <= 26 * 3600:
-                existing_pacific = existing_ts.astimezone(PACIFIC)
-                existing_minutes_of_day = existing_pacific.hour * 60 + existing_pacific.minute
-                if abs(new_minutes_of_day - existing_minutes_of_day) <= 5:
-                    return True
 
         return False
 
