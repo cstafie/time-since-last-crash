@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-03-09T21:57:00Z_119th-ave_228th-st",
+    "timestamp": "2026-03-09T21:57:00Z",
+    "scrapedAt": "2026-03-09T22:03:53Z",
+    "address": "119TH AVE & 228TH ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "119th-ave",
+      "228th-st"
+    ],
+    "streetNames": [
+      "119th Ave",
+      "228th St"
+    ]
+  },
+  {
+    "id": "2026-03-09T21:52:00Z_bridgeport-rd_no-3-rd",
+    "timestamp": "2026-03-09T21:52:00Z",
+    "scrapedAt": "2026-03-09T22:03:53Z",
+    "address": "BRIDGEPORT RD & NO 3 RD",
+    "city": "Richmond",
+    "streets": [
+      "bridgeport-rd",
+      "no-3-rd"
+    ],
+    "streetNames": [
+      "Bridgeport Rd",
+      "No 3 Rd"
+    ]
+  },
+  {
+    "id": "2026-03-09T21:48:00Z_151st-st_96th-ave",
+    "timestamp": "2026-03-09T21:48:00Z",
+    "scrapedAt": "2026-03-09T22:03:53Z",
+    "address": "151ST ST & 96TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "151st-st",
+      "96th-ave"
+    ],
+    "streetNames": [
+      "151st St",
+      "96th Ave"
+    ]
+  },
+  {
+    "id": "2026-03-09T21:47:00Z_oak-st_w-33rd-ave",
+    "timestamp": "2026-03-09T21:47:00Z",
+    "scrapedAt": "2026-03-09T22:03:53Z",
+    "address": "OAK ST & W 33RD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "oak-st",
+      "w-33rd-ave"
+    ],
+    "streetNames": [
+      "Oak St",
+      "W 33rd Ave"
+    ]
+  },
+  {
     "id": "2026-03-09T20:52:00Z_wren-st_lougheed-hwy",
     "timestamp": "2026-03-09T20:52:00Z",
     "scrapedAt": "2026-03-09T21:06:17Z",
