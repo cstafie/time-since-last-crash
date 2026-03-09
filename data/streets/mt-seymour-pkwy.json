@@ -1,0 +1,22 @@
+{
+  "slug": "mt-seymour-pkwy",
+  "name": "Mt Seymour Pkwy",
+  "incidents": [
+    {
+      "id": "2026-03-09T22:21:00Z_mt-seymour-pkwy_roche-point-dr",
+      "timestamp": "2026-03-09T22:21:00Z",
+      "address": "MT SEYMOUR PKWY & ROCHE POINT DR",
+      "city": "North Vancouver",
+      "streets": [
+        "mt-seymour-pkwy",
+        "roche-point-dr"
+      ],
+      "streetNames": [
+        "Mt Seymour Pkwy",
+        "Roche Point Dr"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-09T22:21:00Z",
+  "count": 1
+}

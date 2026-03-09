@@ -640,5 +640,17 @@
     "slug": "96th-ave",
     "lastIncident": "2026-03-09T21:48:00Z",
     "count": 1
+  },
+  "mt-seymour-pkwy": {
+    "name": "Mt Seymour Pkwy",
+    "slug": "mt-seymour-pkwy",
+    "lastIncident": "2026-03-09T22:21:00Z",
+    "count": 1
+  },
+  "roche-point-dr": {
+    "name": "Roche Point Dr",
+    "slug": "roche-point-dr",
+    "lastIncident": "2026-03-09T22:21:00Z",
+    "count": 1
   }
 }

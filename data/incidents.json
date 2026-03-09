@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-03-09T22:21:00Z_mt-seymour-pkwy_roche-point-dr",
+    "timestamp": "2026-03-09T22:21:00Z",
+    "scrapedAt": "2026-03-09T22:41:19Z",
+    "address": "MT SEYMOUR PKWY & ROCHE POINT DR",
+    "city": "North Vancouver",
+    "streets": [
+      "mt-seymour-pkwy",
+      "roche-point-dr"
+    ],
+    "streetNames": [
+      "Mt Seymour Pkwy",
+      "Roche Point Dr"
+    ]
+  },
+  {
     "id": "2026-03-09T21:57:00Z_119th-ave_228th-st",
     "timestamp": "2026-03-09T21:57:00Z",
     "scrapedAt": "2026-03-09T22:03:53Z",
