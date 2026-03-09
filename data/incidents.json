@@ -432,6 +432,19 @@
     ]
   },
   {
+    "id": "2026-03-09T14:23:00Z_trans-canada-hwy",
+    "timestamp": "2026-03-09T14:23:00Z",
+    "scrapedAt": "2026-03-09T14:45:46Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Chilliwack",
+    "streets": [
+      "trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ]
+  },
+  {
     "id": "2026-03-09T13:55:00Z_mcbride-blvd_memorial-dr",
     "timestamp": "2026-03-09T13:55:00Z",
     "scrapedAt": "2026-03-09T07:20:17Z",

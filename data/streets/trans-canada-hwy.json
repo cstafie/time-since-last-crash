@@ -17,6 +17,18 @@
       ]
     },
     {
+      "id": "2026-03-09T14:23:00Z_trans-canada-hwy",
+      "timestamp": "2026-03-09T14:23:00Z",
+      "address": "TRANS CANADA HWY",
+      "city": "Chilliwack",
+      "streets": [
+        "trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy"
+      ]
+    },
+    {
       "id": "2026-03-09T07:51:00Z_trans-canada-hwy",
       "timestamp": "2026-03-09T07:51:00Z",
       "address": "TRANS CANADA HWY",
@@ -96,5 +108,5 @@
     }
   ],
   "lastIncident": "2026-03-09T19:13:00Z",
-  "count": 7
+  "count": 8
 }
