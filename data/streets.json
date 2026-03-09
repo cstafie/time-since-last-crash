@@ -574,5 +574,11 @@
     "slug": "chilliwack-river-rd",
     "lastIncident": "2026-03-09T17:57:00Z",
     "count": 1
+  },
+  "knight-st": {
+    "name": "Knight St",
+    "slug": "knight-st",
+    "lastIncident": "2026-03-09T18:39:00Z",
+    "count": 1
   }
 }
