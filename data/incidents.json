@@ -1,5 +1,61 @@
 [
   {
+    "id": "2026-03-10T06:37:00Z_lower-mall",
+    "timestamp": "2026-03-10T06:37:00Z",
+    "scrapedAt": "2026-03-09T08:08:04Z",
+    "address": "LOWER MALL",
+    "city": "Vancouver",
+    "streets": [
+      "lower-mall"
+    ],
+    "streetNames": [
+      "Lower Mall"
+    ]
+  },
+  {
+    "id": "2026-03-10T06:19:00Z_141a-st_72a-ave",
+    "timestamp": "2026-03-10T06:19:00Z",
+    "scrapedAt": "2026-03-09T08:08:04Z",
+    "address": "141A ST & 72A AVE",
+    "city": "Surrey",
+    "streets": [
+      "141a-st",
+      "72a-ave"
+    ],
+    "streetNames": [
+      "141a St",
+      "72a Ave"
+    ]
+  },
+  {
+    "id": "2026-03-10T05:57:00Z_deer-lake-pkwy",
+    "timestamp": "2026-03-10T05:57:00Z",
+    "scrapedAt": "2026-03-09T08:08:04Z",
+    "address": "DEER LAKE PKWY",
+    "city": "Burnaby",
+    "streets": [
+      "deer-lake-pkwy"
+    ],
+    "streetNames": [
+      "Deer Lake Pkwy"
+    ]
+  },
+  {
+    "id": "2026-03-10T05:55:00Z_willingdon-ave_lougheed-hwy",
+    "timestamp": "2026-03-10T05:55:00Z",
+    "scrapedAt": "2026-03-09T08:08:04Z",
+    "address": "WILLINGDON AVE & LOUGHEED HWY",
+    "city": "Burnaby",
+    "streets": [
+      "willingdon-ave",
+      "lougheed-hwy"
+    ],
+    "streetNames": [
+      "Willingdon Ave",
+      "Lougheed Hwy"
+    ]
+  },
+  {
     "id": "2026-03-10T03:52:00Z_granville-st",
     "timestamp": "2026-03-10T03:52:00Z",
     "scrapedAt": "2026-03-09T07:20:17Z",
@@ -414,6 +470,19 @@
     ],
     "streetNames": [
       "Prince Charles Blvd"
+    ]
+  },
+  {
+    "id": "2026-03-09T08:01:00Z_capilano-rd",
+    "timestamp": "2026-03-09T08:01:00Z",
+    "scrapedAt": "2026-03-09T08:08:04Z",
+    "address": "CAPILANO RD",
+    "city": "North Vancouver",
+    "streets": [
+      "capilano-rd"
+    ],
+    "streetNames": [
+      "Capilano Rd"
     ]
   },
   {

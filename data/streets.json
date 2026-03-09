@@ -8,20 +8,20 @@
   "lower-mall": {
     "name": "Lower Mall",
     "slug": "lower-mall",
-    "lastIncident": "2026-03-09T06:37:00Z",
-    "count": 2
+    "lastIncident": "2026-03-10T06:37:00Z",
+    "count": 3
   },
   "141a-st": {
     "name": "141a St",
     "slug": "141a-st",
-    "lastIncident": "2026-03-09T06:19:00Z",
-    "count": 2
+    "lastIncident": "2026-03-10T06:19:00Z",
+    "count": 3
   },
   "72a-ave": {
     "name": "72a Ave",
     "slug": "72a-ave",
-    "lastIncident": "2026-03-09T06:19:00Z",
-    "count": 2
+    "lastIncident": "2026-03-10T06:19:00Z",
+    "count": 3
   },
   "hwy-91": {
     "name": "Hwy 91",
@@ -56,20 +56,20 @@
   "deer-lake-pkwy": {
     "name": "Deer Lake Pkwy",
     "slug": "deer-lake-pkwy",
-    "lastIncident": "2026-03-09T05:57:00Z",
-    "count": 3
+    "lastIncident": "2026-03-10T05:57:00Z",
+    "count": 4
   },
   "willingdon-ave": {
     "name": "Willingdon Ave",
     "slug": "willingdon-ave",
-    "lastIncident": "2026-03-09T05:55:00Z",
-    "count": 2
+    "lastIncident": "2026-03-10T05:55:00Z",
+    "count": 3
   },
   "lougheed-hwy": {
     "name": "Lougheed Hwy",
     "slug": "lougheed-hwy",
-    "lastIncident": "2026-03-09T05:55:00Z",
-    "count": 4
+    "lastIncident": "2026-03-10T05:55:00Z",
+    "count": 5
   },
   "nelson-rd": {
     "name": "Nelson Rd",
@@ -514,5 +514,11 @@
     "slug": "wilkinson-rd",
     "lastIncident": "2026-03-10T03:10:00Z",
     "count": 2
+  },
+  "capilano-rd": {
+    "name": "Capilano Rd",
+    "slug": "capilano-rd",
+    "lastIncident": "2026-03-09T08:01:00Z",
+    "count": 1
   }
 }
