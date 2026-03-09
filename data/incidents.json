@@ -460,6 +460,21 @@
     ]
   },
   {
+    "id": "2026-03-09T10:50:00Z_44th-ave_fraser-hwy",
+    "timestamp": "2026-03-09T10:50:00Z",
+    "scrapedAt": "2026-03-09T11:12:27Z",
+    "address": "44TH AVE & FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "44th-ave",
+      "fraser-hwy"
+    ],
+    "streetNames": [
+      "44th Ave",
+      "Fraser Hwy"
+    ]
+  },
+  {
     "id": "2026-03-09T08:47:00Z_prince-charles-blvd",
     "timestamp": "2026-03-09T08:47:00Z",
     "scrapedAt": "2026-03-09T07:20:17Z",

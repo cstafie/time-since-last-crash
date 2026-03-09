@@ -189,7 +189,7 @@
     "name": "Fraser Hwy",
     "slug": "fraser-hwy",
     "lastIncident": "2026-03-09T19:44:00Z",
-    "count": 5
+    "count": 6
   },
   "burrard-st": {
     "name": "Burrard St",
@@ -519,6 +519,12 @@
     "name": "Capilano Rd",
     "slug": "capilano-rd",
     "lastIncident": "2026-03-09T08:01:00Z",
+    "count": 1
+  },
+  "44th-ave": {
+    "name": "44th Ave",
+    "slug": "44th-ave",
+    "lastIncident": "2026-03-09T10:50:00Z",
     "count": 1
   }
 }

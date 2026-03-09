@@ -29,6 +29,20 @@
       ]
     },
     {
+      "id": "2026-03-09T10:50:00Z_44th-ave_fraser-hwy",
+      "timestamp": "2026-03-09T10:50:00Z",
+      "address": "44TH AVE & FRASER HWY",
+      "city": "Langley",
+      "streets": [
+        "44th-ave",
+        "fraser-hwy"
+      ],
+      "streetNames": [
+        "44th Ave",
+        "Fraser Hwy"
+      ]
+    },
+    {
       "id": "2026-03-08T19:44:00Z_fraser-hwy",
       "timestamp": "2026-03-08T19:44:00Z",
       "address": "FRASER HWY",
@@ -70,5 +84,5 @@
     }
   ],
   "lastIncident": "2026-03-09T19:44:00Z",
-  "count": 5
+  "count": 6
 }
