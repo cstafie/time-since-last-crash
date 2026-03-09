@@ -374,6 +374,21 @@
     ]
   },
   {
+    "id": "2026-03-09T17:57:00Z_prairie-central-rd_chilliwack-river-rd",
+    "timestamp": "2026-03-09T17:57:00Z",
+    "scrapedAt": "2026-03-09T18:11:40Z",
+    "address": "PRAIRIE CENTRAL RD & CHILLIWACK RIVER RD",
+    "city": "Chilliwack",
+    "streets": [
+      "prairie-central-rd",
+      "chilliwack-river-rd"
+    ],
+    "streetNames": [
+      "Prairie Central Rd",
+      "Chilliwack River Rd"
+    ]
+  },
+  {
     "id": "2026-03-09T17:26:00Z_royal-ave_8th-st",
     "timestamp": "2026-03-09T17:26:00Z",
     "scrapedAt": "2026-03-09T07:20:17Z",

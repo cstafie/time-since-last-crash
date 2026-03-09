@@ -562,5 +562,17 @@
     "slug": "w-4th-ave",
     "lastIncident": "2026-03-09T17:04:00Z",
     "count": 1
+  },
+  "prairie-central-rd": {
+    "name": "Prairie Central Rd",
+    "slug": "prairie-central-rd",
+    "lastIncident": "2026-03-09T17:57:00Z",
+    "count": 1
+  },
+  "chilliwack-river-rd": {
+    "name": "Chilliwack River Rd",
+    "slug": "chilliwack-river-rd",
+    "lastIncident": "2026-03-09T17:57:00Z",
+    "count": 1
   }
 }
