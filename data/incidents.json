@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-09T00:43:00Z_no-3-rd_blundell-rd",
+    "timestamp": "2026-03-09T00:43:00Z",
+    "scrapedAt": "2026-03-09T00:54:24Z",
+    "address": "NO 3 RD & BLUNDELL RD",
+    "city": "Richmond",
+    "streets": [
+      "no-3-rd",
+      "blundell-rd"
+    ],
+    "streetNames": [
+      "No 3 Rd",
+      "Blundell Rd"
+    ]
+  },
+  {
+    "id": "2026-03-09T00:23:00Z_hwy-17_104th-avenue-onrp",
+    "timestamp": "2026-03-09T00:23:00Z",
+    "scrapedAt": "2026-03-09T00:54:24Z",
+    "address": "HWY 17 & 104TH AVENUE ONRP",
+    "city": "Surrey",
+    "streets": [
+      "hwy-17",
+      "104th-avenue-onrp"
+    ],
+    "streetNames": [
+      "Hwy 17",
+      "104th Avenue Onrp"
+    ]
+  },
+  {
     "id": "2026-03-08T23:56:00Z_78th-ave_140th-st",
     "timestamp": "2026-03-08T23:56:00Z",
     "scrapedAt": "2026-03-09T00:03:06Z",
