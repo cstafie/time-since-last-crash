@@ -1,6 +1,6 @@
 {
-  "slug": "168th-st",
-  "name": "168th St",
+  "slug": "16th-ave",
+  "name": "16th Ave",
   "incidents": [
     {
       "id": "2026-03-08T23:46:00Z_16th-ave_168th-st",
@@ -15,20 +15,8 @@
         "16th Ave",
         "168th St"
       ]
-    },
-    {
-      "id": "2026-03-08T07:11:00Z_168th-st",
-      "timestamp": "2026-03-08T07:11:00Z",
-      "address": "168TH ST",
-      "city": "Surrey",
-      "streets": [
-        "168th-st"
-      ],
-      "streetNames": [
-        "168th St"
-      ]
     }
   ],
   "lastIncident": "2026-03-08T23:46:00Z",
-  "count": 2
+  "count": 1
 }

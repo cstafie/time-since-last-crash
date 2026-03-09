@@ -1,5 +1,50 @@
 [
   {
+    "id": "2026-03-08T23:56:00Z_78th-ave_140th-st",
+    "timestamp": "2026-03-08T23:56:00Z",
+    "scrapedAt": "2026-03-09T00:03:06Z",
+    "address": "78TH AVE & 140TH ST",
+    "city": "Surrey",
+    "streets": [
+      "78th-ave",
+      "140th-st"
+    ],
+    "streetNames": [
+      "78th Ave",
+      "140th St"
+    ]
+  },
+  {
+    "id": "2026-03-08T23:52:00Z_no-2-rd_granville-ave",
+    "timestamp": "2026-03-08T23:52:00Z",
+    "scrapedAt": "2026-03-09T00:03:06Z",
+    "address": "NO 2 RD & GRANVILLE AVE",
+    "city": "Richmond",
+    "streets": [
+      "no-2-rd",
+      "granville-ave"
+    ],
+    "streetNames": [
+      "No 2 Rd",
+      "Granville Ave"
+    ]
+  },
+  {
+    "id": "2026-03-08T23:46:00Z_16th-ave_168th-st",
+    "timestamp": "2026-03-08T23:46:00Z",
+    "scrapedAt": "2026-03-09T00:03:06Z",
+    "address": "16TH AVE & 168TH ST",
+    "city": "Surrey",
+    "streets": [
+      "16th-ave",
+      "168th-st"
+    ],
+    "streetNames": [
+      "16th Ave",
+      "168th St"
+    ]
+  },
+  {
     "id": "2026-03-08T22:45:00Z_marshall-rd",
     "timestamp": "2026-03-08T22:45:00Z",
     "scrapedAt": "2026-03-08T23:02:06Z",
