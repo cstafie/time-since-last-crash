@@ -1,5 +1,575 @@
 [
   {
+    "id": "2026-03-10T03:52:00Z_granville-st",
+    "timestamp": "2026-03-10T03:52:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "GRANVILLE ST",
+    "city": "Vancouver",
+    "streets": [
+      "granville-st"
+    ],
+    "streetNames": [
+      "Granville St"
+    ]
+  },
+  {
+    "id": "2026-03-10T03:29:00Z_e-2nd-st",
+    "timestamp": "2026-03-10T03:29:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "E 2ND ST",
+    "city": "North Vancouver",
+    "streets": [
+      "e-2nd-st"
+    ],
+    "streetNames": [
+      "E 2nd St"
+    ]
+  },
+  {
+    "id": "2026-03-10T03:10:00Z_no-4-rd_wilkinson-rd",
+    "timestamp": "2026-03-10T03:10:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "NO 4 RD & WILKINSON RD",
+    "city": "Richmond",
+    "streets": [
+      "no-4-rd",
+      "wilkinson-rd"
+    ],
+    "streetNames": [
+      "No 4 Rd",
+      "Wilkinson Rd"
+    ]
+  },
+  {
+    "id": "2026-03-10T01:44:00Z_central-ave_ladner-trunk-rd",
+    "timestamp": "2026-03-10T01:44:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "CENTRAL AVE & LADNER TRUNK RD",
+    "city": "Delta",
+    "streets": [
+      "central-ave",
+      "ladner-trunk-rd"
+    ],
+    "streetNames": [
+      "Central Ave",
+      "Ladner Trunk Rd"
+    ]
+  },
+  {
+    "id": "2026-03-10T01:39:00Z_princess-ave",
+    "timestamp": "2026-03-10T01:39:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "PRINCESS AVE",
+    "city": "Chilliwack",
+    "streets": [
+      "princess-ave"
+    ],
+    "streetNames": [
+      "Princess Ave"
+    ]
+  },
+  {
+    "id": "2026-03-10T00:43:00Z_no-3-rd_blundell-rd",
+    "timestamp": "2026-03-10T00:43:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "NO 3 RD & BLUNDELL RD",
+    "city": "Richmond",
+    "streets": [
+      "no-3-rd",
+      "blundell-rd"
+    ],
+    "streetNames": [
+      "No 3 Rd",
+      "Blundell Rd"
+    ]
+  },
+  {
+    "id": "2026-03-10T00:23:00Z_hwy-17_104th-avenue-onrp",
+    "timestamp": "2026-03-10T00:23:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "HWY 17 & 104TH AVENUE ONRP",
+    "city": "Surrey",
+    "streets": [
+      "hwy-17",
+      "104th-avenue-onrp"
+    ],
+    "streetNames": [
+      "Hwy 17",
+      "104th Avenue Onrp"
+    ]
+  },
+  {
+    "id": "2026-03-09T23:56:00Z_78th-ave_140th-st",
+    "timestamp": "2026-03-09T23:56:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "78TH AVE & 140TH ST",
+    "city": "Surrey",
+    "streets": [
+      "78th-ave",
+      "140th-st"
+    ],
+    "streetNames": [
+      "78th Ave",
+      "140th St"
+    ]
+  },
+  {
+    "id": "2026-03-09T23:52:00Z_no-2-rd_granville-ave",
+    "timestamp": "2026-03-09T23:52:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "NO 2 RD & GRANVILLE AVE",
+    "city": "Richmond",
+    "streets": [
+      "no-2-rd",
+      "granville-ave"
+    ],
+    "streetNames": [
+      "No 2 Rd",
+      "Granville Ave"
+    ]
+  },
+  {
+    "id": "2026-03-09T23:46:00Z_16th-ave_168th-st",
+    "timestamp": "2026-03-09T23:46:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "16TH AVE & 168TH ST",
+    "city": "Surrey",
+    "streets": [
+      "16th-ave",
+      "168th-st"
+    ],
+    "streetNames": [
+      "16th Ave",
+      "168th St"
+    ]
+  },
+  {
+    "id": "2026-03-09T22:45:00Z_marshall-rd",
+    "timestamp": "2026-03-09T22:45:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "MARSHALL RD",
+    "city": "Abbotsford",
+    "streets": [
+      "marshall-rd"
+    ],
+    "streetNames": [
+      "Marshall Rd"
+    ]
+  },
+  {
+    "id": "2026-03-09T22:31:00Z_128th-st_88th-ave",
+    "timestamp": "2026-03-09T22:31:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "128TH ST & 88TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "128th-st",
+      "88th-ave"
+    ],
+    "streetNames": [
+      "128th St",
+      "88th Ave"
+    ]
+  },
+  {
+    "id": "2026-03-09T22:26:00Z_128th-st_82nd-ave",
+    "timestamp": "2026-03-09T22:26:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "128TH ST & 82ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "128th-st",
+      "82nd-ave"
+    ],
+    "streetNames": [
+      "128th St",
+      "82nd Ave"
+    ]
+  },
+  {
+    "id": "2026-03-09T22:03:00Z_227th-st_brown-ave",
+    "timestamp": "2026-03-09T22:03:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "227TH ST & BROWN AVE",
+    "city": "Maple Ridge",
+    "streets": [
+      "227th-st",
+      "brown-ave"
+    ],
+    "streetNames": [
+      "227th St",
+      "Brown Ave"
+    ]
+  },
+  {
+    "id": "2026-03-09T20:40:00Z_upper-prairie-rd_hinkley-rd",
+    "timestamp": "2026-03-09T20:40:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "UPPER PRAIRIE RD & HINKLEY RD",
+    "city": "Chilliwack",
+    "streets": [
+      "upper-prairie-rd",
+      "hinkley-rd"
+    ],
+    "streetNames": [
+      "Upper Prairie Rd",
+      "Hinkley Rd"
+    ]
+  },
+  {
+    "id": "2026-03-09T19:46:00Z_lynn-ave_mccallum-rd",
+    "timestamp": "2026-03-09T19:46:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "LYNN AVE & MCCALLUM RD",
+    "city": "Abbotsford",
+    "streets": [
+      "lynn-ave",
+      "mccallum-rd"
+    ],
+    "streetNames": [
+      "Lynn Ave",
+      "Mccallum Rd"
+    ]
+  },
+  {
+    "id": "2026-03-09T19:44:00Z_248th-st_fraser-hwy",
+    "timestamp": "2026-03-09T19:44:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "248TH ST & FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "248th-st",
+      "fraser-hwy"
+    ],
+    "streetNames": [
+      "248th St",
+      "Fraser Hwy"
+    ]
+  },
+  {
+    "id": "2026-03-09T19:44:00Z_fraser-hwy",
+    "timestamp": "2026-03-09T19:44:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "fraser-hwy"
+    ],
+    "streetNames": [
+      "Fraser Hwy"
+    ]
+  },
+  {
+    "id": "2026-03-09T19:13:00Z_trans-canada-hwy_eagleridge-drive-ofrp",
+    "timestamp": "2026-03-09T19:13:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "TRANS CANADA HWY & EAGLERIDGE DRIVE OFRP",
+    "city": "West Vancouver",
+    "streets": [
+      "trans-canada-hwy",
+      "eagleridge-drive-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "Eagleridge Drive Ofrp"
+    ]
+  },
+  {
+    "id": "2026-03-09T18:57:00Z_bowcock-rd_st-albans-rd",
+    "timestamp": "2026-03-09T18:57:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "BOWCOCK RD & ST ALBANS RD",
+    "city": "Richmond",
+    "streets": [
+      "bowcock-rd",
+      "st-albans-rd"
+    ],
+    "streetNames": [
+      "Bowcock Rd",
+      "St Albans Rd"
+    ]
+  },
+  {
+    "id": "2026-03-09T18:17:00Z_bowcock-rd_st-albans-rd",
+    "timestamp": "2026-03-09T18:17:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "BOWCOCK RD & ST ALBANS RD",
+    "city": "Richmond",
+    "streets": [
+      "bowcock-rd",
+      "st-albans-rd"
+    ],
+    "streetNames": [
+      "Bowcock Rd",
+      "St Albans Rd"
+    ]
+  },
+  {
+    "id": "2026-03-09T18:06:00Z_mary-hill-bps",
+    "timestamp": "2026-03-09T18:06:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "MARY HILL BPS",
+    "city": "Port Coquitlam",
+    "streets": [
+      "mary-hill-bps"
+    ],
+    "streetNames": [
+      "Mary Hill Bps"
+    ]
+  },
+  {
+    "id": "2026-03-09T17:26:00Z_royal-ave_8th-st",
+    "timestamp": "2026-03-09T17:26:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "ROYAL AVE & 8TH ST",
+    "city": "New Westminster",
+    "streets": [
+      "royal-ave",
+      "8th-st"
+    ],
+    "streetNames": [
+      "Royal Ave",
+      "8th St"
+    ]
+  },
+  {
+    "id": "2026-03-09T16:42:00Z_memorial-dr_mcbride-blvd",
+    "timestamp": "2026-03-09T16:42:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "MEMORIAL DR & MCBRIDE BLVD",
+    "city": "New Westminster",
+    "streets": [
+      "memorial-dr",
+      "mcbride-blvd"
+    ],
+    "streetNames": [
+      "Memorial Dr",
+      "Mcbride Blvd"
+    ]
+  },
+  {
+    "id": "2026-03-09T16:30:00Z_112th-st_72nd-ave",
+    "timestamp": "2026-03-09T16:30:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "112TH ST & 72ND AVE",
+    "city": "Delta",
+    "streets": [
+      "112th-st",
+      "72nd-ave"
+    ],
+    "streetNames": [
+      "112th St",
+      "72nd Ave"
+    ]
+  },
+  {
+    "id": "2026-03-09T15:49:00Z_1960-como-lake-ave",
+    "timestamp": "2026-03-09T15:49:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "1960 COMO LAKE AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "1960-como-lake-ave"
+    ],
+    "streetNames": [
+      "1960 Como Lake Ave"
+    ]
+  },
+  {
+    "id": "2026-03-09T13:55:00Z_mcbride-blvd_memorial-dr",
+    "timestamp": "2026-03-09T13:55:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "MCBRIDE BLVD & MEMORIAL DR",
+    "city": "New Westminster",
+    "streets": [
+      "mcbride-blvd",
+      "memorial-dr"
+    ],
+    "streetNames": [
+      "Mcbride Blvd",
+      "Memorial Dr"
+    ]
+  },
+  {
+    "id": "2026-03-09T12:17:00Z_marine-way",
+    "timestamp": "2026-03-09T12:17:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "MARINE WAY",
+    "city": "Burnaby",
+    "streets": [
+      "marine-way"
+    ],
+    "streetNames": [
+      "Marine Way"
+    ]
+  },
+  {
+    "id": "2026-03-09T08:47:00Z_prince-charles-blvd",
+    "timestamp": "2026-03-09T08:47:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "PRINCE CHARLES BLVD",
+    "city": "Surrey",
+    "streets": [
+      "prince-charles-blvd"
+    ],
+    "streetNames": [
+      "Prince Charles Blvd"
+    ]
+  },
+  {
+    "id": "2026-03-09T07:51:00Z_trans-canada-hwy",
+    "timestamp": "2026-03-09T07:51:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Surrey",
+    "streets": [
+      "trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ]
+  },
+  {
+    "id": "2026-03-09T07:16:00Z_w-broadway_balaclava-st",
+    "timestamp": "2026-03-09T07:16:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "W BROADWAY & BALACLAVA ST",
+    "city": "Vancouver",
+    "streets": [
+      "w-broadway",
+      "balaclava-st"
+    ],
+    "streetNames": [
+      "W Broadway",
+      "Balaclava St"
+    ]
+  },
+  {
+    "id": "2026-03-09T07:09:00Z_84th-ave",
+    "timestamp": "2026-03-09T07:09:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "84TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "84th-ave"
+    ],
+    "streetNames": [
+      "84th Ave"
+    ]
+  },
+  {
+    "id": "2026-03-09T06:39:00Z_hwy-91",
+    "timestamp": "2026-03-09T06:39:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "HWY 91",
+    "city": "Delta",
+    "streets": [
+      "hwy-91"
+    ],
+    "streetNames": [
+      "Hwy 91"
+    ]
+  },
+  {
+    "id": "2026-03-09T06:37:00Z_lower-mall",
+    "timestamp": "2026-03-09T06:37:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "LOWER MALL",
+    "city": "Vancouver",
+    "streets": [
+      "lower-mall"
+    ],
+    "streetNames": [
+      "Lower Mall"
+    ]
+  },
+  {
+    "id": "2026-03-09T06:19:00Z_141a-st_72a-ave",
+    "timestamp": "2026-03-09T06:19:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "141A ST & 72A AVE",
+    "city": "Surrey",
+    "streets": [
+      "141a-st",
+      "72a-ave"
+    ],
+    "streetNames": [
+      "141a St",
+      "72a Ave"
+    ]
+  },
+  {
+    "id": "2026-03-09T06:11:00Z_168th-st",
+    "timestamp": "2026-03-09T06:11:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "168TH ST",
+    "city": "Surrey",
+    "streets": [
+      "168th-st"
+    ],
+    "streetNames": [
+      "168th St"
+    ]
+  },
+  {
+    "id": "2026-03-09T06:09:00Z_royal-ave_1st-st",
+    "timestamp": "2026-03-09T06:09:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "ROYAL AVE & 1ST ST",
+    "city": "New Westminster",
+    "streets": [
+      "royal-ave",
+      "1st-st"
+    ],
+    "streetNames": [
+      "Royal Ave",
+      "1st St"
+    ]
+  },
+  {
+    "id": "2026-03-09T05:57:00Z_deer-lake-pkwy",
+    "timestamp": "2026-03-09T05:57:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "DEER LAKE PKWY",
+    "city": "Burnaby",
+    "streets": [
+      "deer-lake-pkwy"
+    ],
+    "streetNames": [
+      "Deer Lake Pkwy"
+    ]
+  },
+  {
+    "id": "2026-03-09T05:55:00Z_willingdon-ave_lougheed-hwy",
+    "timestamp": "2026-03-09T05:55:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "WILLINGDON AVE & LOUGHEED HWY",
+    "city": "Burnaby",
+    "streets": [
+      "willingdon-ave",
+      "lougheed-hwy"
+    ],
+    "streetNames": [
+      "Willingdon Ave",
+      "Lougheed Hwy"
+    ]
+  },
+  {
+    "id": "2026-03-09T04:47:00Z_216th-street-ofrp_trans-canada-hwy",
+    "timestamp": "2026-03-09T04:47:00Z",
+    "scrapedAt": "2026-03-09T07:20:17Z",
+    "address": "216TH STREET OFRP & TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "216th-street-ofrp",
+      "trans-canada-hwy"
+    ],
+    "streetNames": [
+      "216th Street Ofrp",
+      "Trans Canada Hwy"
+    ]
+  },
+  {
     "id": "2026-03-09T03:52:00Z_granville-st",
     "timestamp": "2026-03-09T03:52:00Z",
     "scrapedAt": "2026-03-09T04:33:25Z",

@@ -3,6 +3,18 @@
   "name": "E 2nd St",
   "incidents": [
     {
+      "id": "2026-03-10T03:29:00Z_e-2nd-st",
+      "timestamp": "2026-03-10T03:29:00Z",
+      "address": "E 2ND ST",
+      "city": "North Vancouver",
+      "streets": [
+        "e-2nd-st"
+      ],
+      "streetNames": [
+        "E 2nd St"
+      ]
+    },
+    {
       "id": "2026-03-09T03:29:00Z_e-2nd-st",
       "timestamp": "2026-03-09T03:29:00Z",
       "address": "E 2ND ST",
@@ -15,6 +27,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-09T03:29:00Z",
-  "count": 1
+  "lastIncident": "2026-03-10T03:29:00Z",
+  "count": 2
 }

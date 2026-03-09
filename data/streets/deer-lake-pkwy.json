@@ -3,6 +3,18 @@
   "name": "Deer Lake Pkwy",
   "incidents": [
     {
+      "id": "2026-03-09T05:57:00Z_deer-lake-pkwy",
+      "timestamp": "2026-03-09T05:57:00Z",
+      "address": "DEER LAKE PKWY",
+      "city": "Burnaby",
+      "streets": [
+        "deer-lake-pkwy"
+      ],
+      "streetNames": [
+        "Deer Lake Pkwy"
+      ]
+    },
+    {
       "id": "2026-03-08T06:58:00Z_garden-grove-dr_deer-lake-pkwy",
       "timestamp": "2026-03-08T06:58:00Z",
       "address": "GARDEN GROVE DR & DEER LAKE PKWY",
@@ -29,6 +41,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-08T06:58:00Z",
-  "count": 2
+  "lastIncident": "2026-03-09T05:57:00Z",
+  "count": 3
 }

@@ -3,6 +3,20 @@
   "name": "Balaclava St",
   "incidents": [
     {
+      "id": "2026-03-09T07:16:00Z_w-broadway_balaclava-st",
+      "timestamp": "2026-03-09T07:16:00Z",
+      "address": "W BROADWAY & BALACLAVA ST",
+      "city": "Vancouver",
+      "streets": [
+        "w-broadway",
+        "balaclava-st"
+      ],
+      "streetNames": [
+        "W Broadway",
+        "Balaclava St"
+      ]
+    },
+    {
       "id": "2026-03-08T08:16:00Z_w-broadway_balaclava-st",
       "timestamp": "2026-03-08T08:16:00Z",
       "address": "W BROADWAY & BALACLAVA ST",
@@ -17,6 +31,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-08T08:16:00Z",
-  "count": 1
+  "lastIncident": "2026-03-09T07:16:00Z",
+  "count": 2
 }
