@@ -350,8 +350,8 @@
   "hwy-91": {
     "name": "Hwy 91",
     "slug": "hwy-91",
-    "lastIncident": "2026-03-08T07:39:00Z",
-    "count": 1
+    "lastIncident": "2026-03-09T19:26:00Z",
+    "count": 2
   },
   "lower-mall": {
     "name": "Lower Mall",
@@ -579,6 +579,30 @@
     "name": "Bolivar Rd",
     "slug": "bolivar-rd",
     "lastIncident": "2026-03-07T08:38:00Z",
+    "count": 1
+  },
+  "trethewey-st": {
+    "name": "Trethewey St",
+    "slug": "trethewey-st",
+    "lastIncident": "2026-03-09T19:57:00Z",
+    "count": 1
+  },
+  "8111-ackroyd-rd": {
+    "name": "8111 Ackroyd Rd",
+    "slug": "8111-ackroyd-rd",
+    "lastIncident": "2026-03-09T19:45:00Z",
+    "count": 1
+  },
+  "glengarry-ave": {
+    "name": "Glengarry Ave",
+    "slug": "glengarry-ave",
+    "lastIncident": "2026-03-09T19:34:00Z",
+    "count": 1
+  },
+  "ross-rd": {
+    "name": "Ross Rd",
+    "slug": "ross-rd",
+    "lastIncident": "2026-03-09T19:34:00Z",
     "count": 1
   }
 }

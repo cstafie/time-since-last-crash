@@ -1,0 +1,20 @@
+{
+  "slug": "trethewey-st",
+  "name": "Trethewey St",
+  "incidents": [
+    {
+      "id": "2026-03-09T19:57:00Z_trethewey-st",
+      "timestamp": "2026-03-09T19:57:00Z",
+      "address": "TRETHEWEY ST",
+      "city": "Abbotsford",
+      "streets": [
+        "trethewey-st"
+      ],
+      "streetNames": [
+        "Trethewey St"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-09T19:57:00Z",
+  "count": 1
+}
