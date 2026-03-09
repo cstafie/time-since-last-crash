@@ -3,18 +3,6 @@
   "name": "1960 Como Lake Ave",
   "incidents": [
     {
-      "id": "2026-03-09T15:49:00Z_1960-como-lake-ave",
-      "timestamp": "2026-03-09T15:49:00Z",
-      "address": "1960 COMO LAKE AVE",
-      "city": "Coquitlam",
-      "streets": [
-        "1960-como-lake-ave"
-      ],
-      "streetNames": [
-        "1960 Como Lake Ave"
-      ]
-    },
-    {
       "id": "2026-03-08T15:49:00Z_1960-como-lake-ave",
       "timestamp": "2026-03-08T15:49:00Z",
       "address": "1960 COMO LAKE AVE",
@@ -27,6 +15,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-09T15:49:00Z",
-  "count": 2
+  "lastIncident": "2026-03-08T15:49:00Z",
+  "count": 1
 }

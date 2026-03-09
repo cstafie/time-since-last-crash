@@ -3,18 +3,6 @@
   "name": "Granville St",
   "incidents": [
     {
-      "id": "2026-03-10T03:52:00Z_granville-st",
-      "timestamp": "2026-03-10T03:52:00Z",
-      "address": "GRANVILLE ST",
-      "city": "Vancouver",
-      "streets": [
-        "granville-st"
-      ],
-      "streetNames": [
-        "Granville St"
-      ]
-    },
-    {
       "id": "2026-03-09T03:52:00Z_granville-st",
       "timestamp": "2026-03-09T03:52:00Z",
       "address": "GRANVILLE ST",
@@ -41,6 +29,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-10T03:52:00Z",
-  "count": 3
+  "lastIncident": "2026-03-09T03:52:00Z",
+  "count": 2
 }

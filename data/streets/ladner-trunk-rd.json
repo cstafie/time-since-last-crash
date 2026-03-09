@@ -3,20 +3,6 @@
   "name": "Ladner Trunk Rd",
   "incidents": [
     {
-      "id": "2026-03-10T01:44:00Z_central-ave_ladner-trunk-rd",
-      "timestamp": "2026-03-10T01:44:00Z",
-      "address": "CENTRAL AVE & LADNER TRUNK RD",
-      "city": "Delta",
-      "streets": [
-        "central-ave",
-        "ladner-trunk-rd"
-      ],
-      "streetNames": [
-        "Central Ave",
-        "Ladner Trunk Rd"
-      ]
-    },
-    {
       "id": "2026-03-09T01:44:00Z_central-ave_ladner-trunk-rd",
       "timestamp": "2026-03-09T01:44:00Z",
       "address": "CENTRAL AVE & LADNER TRUNK RD",
@@ -31,6 +17,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-10T01:44:00Z",
-  "count": 2
+  "lastIncident": "2026-03-09T01:44:00Z",
+  "count": 1
 }

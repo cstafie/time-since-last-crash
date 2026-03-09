@@ -252,14 +252,37 @@ def update_data_files(new_incidents: list[dict]) -> int:
     added = 0
 
     def _is_near_duplicate(inc: dict) -> bool:
-        """True if an existing incident at the same location is within 30 minutes."""
+        """
+        True if an existing incident at the same location is within 30 minutes,
+        OR if it looks like a day-boundary / DST re-scrape (same address+city,
+        same time-of-day within ±5 min, dates differ by exactly 1 day).
+        """
         new_ts = datetime.fromisoformat(inc["timestamp"])
         new_slugs = set(inc["streets"])
+        new_pacific = new_ts.astimezone(PACIFIC)
+        new_minutes_of_day = new_pacific.hour * 60 + new_pacific.minute
+
         for existing in all_incidents:
-            if set(existing["streets"]) == new_slugs and existing["city"] == inc["city"]:
-                existing_ts = datetime.fromisoformat(existing["timestamp"])
-                if abs((new_ts - existing_ts).total_seconds()) < 1800:  # 30 min
+            if existing["city"] != inc["city"]:
+                continue
+            if set(existing["streets"]) != new_slugs:
+                continue
+
+            existing_ts = datetime.fromisoformat(existing["timestamp"])
+            diff_seconds = abs((new_ts - existing_ts).total_seconds())
+
+            # Direct near-duplicate (within 30 min)
+            if diff_seconds < 1800:
+                return True
+
+            # Day-boundary / DST duplicate: same address, same time-of-day,
+            # dates ~23-25 hours apart (covers the ±1h DST shift over a day boundary)
+            if 22 * 3600 <= diff_seconds <= 26 * 3600:
+                existing_pacific = existing_ts.astimezone(PACIFIC)
+                existing_minutes_of_day = existing_pacific.hour * 60 + existing_pacific.minute
+                if abs(new_minutes_of_day - existing_minutes_of_day) <= 5:
                     return True
+
         return False
 
     for inc in new_incidents:

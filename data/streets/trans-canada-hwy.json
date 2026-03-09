@@ -3,20 +3,6 @@
   "name": "Trans Canada Hwy",
   "incidents": [
     {
-      "id": "2026-03-09T19:13:00Z_trans-canada-hwy_eagleridge-drive-ofrp",
-      "timestamp": "2026-03-09T19:13:00Z",
-      "address": "TRANS CANADA HWY & EAGLERIDGE DRIVE OFRP",
-      "city": "West Vancouver",
-      "streets": [
-        "trans-canada-hwy",
-        "eagleridge-drive-ofrp"
-      ],
-      "streetNames": [
-        "Trans Canada Hwy",
-        "Eagleridge Drive Ofrp"
-      ]
-    },
-    {
       "id": "2026-03-09T14:23:00Z_trans-canada-hwy",
       "timestamp": "2026-03-09T14:23:00Z",
       "address": "TRANS CANADA HWY",
@@ -25,32 +11,6 @@
         "trans-canada-hwy"
       ],
       "streetNames": [
-        "Trans Canada Hwy"
-      ]
-    },
-    {
-      "id": "2026-03-09T07:51:00Z_trans-canada-hwy",
-      "timestamp": "2026-03-09T07:51:00Z",
-      "address": "TRANS CANADA HWY",
-      "city": "Surrey",
-      "streets": [
-        "trans-canada-hwy"
-      ],
-      "streetNames": [
-        "Trans Canada Hwy"
-      ]
-    },
-    {
-      "id": "2026-03-09T04:47:00Z_216th-street-ofrp_trans-canada-hwy",
-      "timestamp": "2026-03-09T04:47:00Z",
-      "address": "216TH STREET OFRP & TRANS CANADA HWY",
-      "city": "Langley",
-      "streets": [
-        "216th-street-ofrp",
-        "trans-canada-hwy"
-      ],
-      "streetNames": [
-        "216th Street Ofrp",
         "Trans Canada Hwy"
       ]
     },
@@ -107,6 +67,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-09T19:13:00Z",
-  "count": 8
+  "lastIncident": "2026-03-09T14:23:00Z",
+  "count": 5
 }

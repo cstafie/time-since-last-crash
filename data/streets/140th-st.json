@@ -3,20 +3,6 @@
   "name": "140th St",
   "incidents": [
     {
-      "id": "2026-03-09T23:56:00Z_78th-ave_140th-st",
-      "timestamp": "2026-03-09T23:56:00Z",
-      "address": "78TH AVE & 140TH ST",
-      "city": "Surrey",
-      "streets": [
-        "78th-ave",
-        "140th-st"
-      ],
-      "streetNames": [
-        "78th Ave",
-        "140th St"
-      ]
-    },
-    {
       "id": "2026-03-08T23:56:00Z_78th-ave_140th-st",
       "timestamp": "2026-03-08T23:56:00Z",
       "address": "78TH AVE & 140TH ST",
@@ -31,6 +17,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-09T23:56:00Z",
-  "count": 2
+  "lastIncident": "2026-03-08T23:56:00Z",
+  "count": 1
 }

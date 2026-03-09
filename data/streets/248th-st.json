@@ -3,20 +3,6 @@
   "name": "248th St",
   "incidents": [
     {
-      "id": "2026-03-09T19:44:00Z_248th-st_fraser-hwy",
-      "timestamp": "2026-03-09T19:44:00Z",
-      "address": "248TH ST & FRASER HWY",
-      "city": "Langley",
-      "streets": [
-        "248th-st",
-        "fraser-hwy"
-      ],
-      "streetNames": [
-        "248th St",
-        "Fraser Hwy"
-      ]
-    },
-    {
       "id": "2026-03-08T19:44:00Z_248th-st_fraser-hwy",
       "timestamp": "2026-03-08T19:44:00Z",
       "address": "248TH ST & FRASER HWY",
@@ -31,6 +17,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-09T19:44:00Z",
-  "count": 2
+  "lastIncident": "2026-03-08T19:44:00Z",
+  "count": 1
 }

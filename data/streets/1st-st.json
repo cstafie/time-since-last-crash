@@ -3,20 +3,6 @@
   "name": "1st St",
   "incidents": [
     {
-      "id": "2026-03-09T06:09:00Z_royal-ave_1st-st",
-      "timestamp": "2026-03-09T06:09:00Z",
-      "address": "ROYAL AVE & 1ST ST",
-      "city": "New Westminster",
-      "streets": [
-        "royal-ave",
-        "1st-st"
-      ],
-      "streetNames": [
-        "Royal Ave",
-        "1st St"
-      ]
-    },
-    {
       "id": "2026-03-08T07:09:00Z_royal-ave_1st-st",
       "timestamp": "2026-03-08T07:09:00Z",
       "address": "ROYAL AVE & 1ST ST",
@@ -31,6 +17,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-09T06:09:00Z",
-  "count": 2
+  "lastIncident": "2026-03-08T07:09:00Z",
+  "count": 1
 }
