@@ -51,7 +51,10 @@ export default async function Home() {
           No incidents recorded yet. Check back after the first scrape runs.
         </p>
       ) : (
-        <StreetTable streets={top50} />
+        <StreetTable
+          streets={top50}
+          defaultSort={{ key: "count", dir: "desc" }}
+        />
       )}
     </main>
   );

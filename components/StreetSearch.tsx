@@ -42,7 +42,12 @@ export default function StreetSearch({ streets }: Props) {
               : `${filtered.length} street${filtered.length !== 1 ? "s" : ""} found`
             : "Recent Activity"}
         </h2>
-        {filtered.length > 0 && <StreetTable streets={filtered} />}
+        {filtered.length > 0 && (
+          <StreetTable
+            streets={filtered}
+            defaultSort={{ key: "lastIncident", dir: "desc" }}
+          />
+        )}
       </section>
     </div>
   );

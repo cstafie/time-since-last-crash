@@ -1,6 +1,6 @@
 # Time Since Last Crash
 
-A real-time traffic collision tracker for Metro Vancouver. Monitors EMS dispatch data from [PulsePoint](https://www.pulsepoint.org/) and displays how long it's been since the last crash on every street — think "days since last accident" signs, but for an entire region.
+A real-time traffic collision tracker for Metro Vancouver. Monitors EMS dispatch data from [PulsePoint](https://www.pulsepoint.org/) and displays how long it's been since the last crash on every street — think "days since last accident" signs, but organized by street.
 
 Data collection started March 8, 2026, with scrapes running roughly every 30 minutes via GitHub Actions.
 
