@@ -42,8 +42,9 @@ export async function POST(req: NextRequest) {
   const revalidatedSlugs: string[] = [];
 
   if (body.all) {
-    // Revalidate the entire [city]/[street] dynamic segment
+    // Revalidate the entire [city]/[street] dynamic segment and city pages
     revalidatePath("/[city]/[street]", "page");
+    revalidatePath("/[city]", "page");
     revalidatedSlugs.push("*");
   } else if (Array.isArray(body.slugs) && body.slugs.length > 0) {
     for (const slug of body.slugs) {

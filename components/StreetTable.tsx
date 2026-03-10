@@ -94,9 +94,12 @@ export default function StreetTable({
                 >
                   {s.name}
                 </Link>
-                <span className="block text-xs text-gray-500 dark:text-gray-400">
+                <Link
+                  href={`/${s.slug.split("/")[0]}`}
+                  className="block text-xs text-gray-500 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline"
+                >
                   {s.city}
-                </span>
+                </Link>
               </td>
               <td className="py-2 pr-4 text-gray-600 dark:text-gray-300 whitespace-nowrap">
                 {formatDateTime(s.lastIncident)}

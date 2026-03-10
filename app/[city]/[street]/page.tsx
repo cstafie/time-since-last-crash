@@ -57,7 +57,13 @@ export default async function StreetPage({ params }: Props) {
           Time since last crash on
         </p>
         <h1 className="text-3xl font-bold mb-6">
-          {street.name}, {street.city}
+          {street.name},{" "}
+          <Link
+            href={`/${city}`}
+            className="hover:text-blue-600 dark:hover:text-blue-400 hover:underline"
+          >
+            {street.city}
+          </Link>
         </h1>
 
         <div className="text-5xl font-mono font-bold tabular-nums mb-2">
