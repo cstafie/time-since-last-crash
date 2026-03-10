@@ -1,6 +1,6 @@
 {
-  "slug": "surrey/trans-canada-hwy",
-  "name": "Trans Canada Hwy",
+  "slug": "surrey/152nd-street-ofrp",
+  "name": "152nd Street Ofrp",
   "city": "Surrey",
   "incidents": [
     {
@@ -16,20 +16,8 @@
         "Trans Canada Hwy",
         "152nd Street Ofrp"
       ]
-    },
-    {
-      "id": "2026-03-08T08:51:00Z_trans-canada-hwy",
-      "timestamp": "2026-03-08T08:51:00Z",
-      "address": "TRANS CANADA HWY",
-      "city": "Surrey",
-      "streets": [
-        "surrey/trans-canada-hwy"
-      ],
-      "streetNames": [
-        "Trans Canada Hwy"
-      ]
     }
   ],
   "lastIncident": "2026-03-10T21:30:00Z",
-  "count": 2
+  "count": 1
 }
