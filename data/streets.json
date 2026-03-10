@@ -859,5 +859,19 @@
     "city": "Langley",
     "lastIncident": "2026-03-10T02:39:00Z",
     "count": 1
+  },
+  "delta/58th-ave": {
+    "name": "58th Ave",
+    "slug": "delta/58th-ave",
+    "city": "Delta",
+    "lastIncident": "2026-03-10T04:40:00Z",
+    "count": 1
+  },
+  "delta/120th-st": {
+    "name": "120th St",
+    "slug": "delta/120th-st",
+    "city": "Delta",
+    "lastIncident": "2026-03-10T04:40:00Z",
+    "count": 1
   }
 }

@@ -1,0 +1,23 @@
+{
+  "slug": "delta/58th-ave",
+  "name": "58th Ave",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-03-10T04:40:00Z_delta/58th-ave_delta/120th-st",
+      "timestamp": "2026-03-10T04:40:00Z",
+      "address": "58TH AVE & 120TH ST",
+      "city": "Delta",
+      "streets": [
+        "delta/58th-ave",
+        "delta/120th-st"
+      ],
+      "streetNames": [
+        "58th Ave",
+        "120th St"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-10T04:40:00Z",
+  "count": 1
+}
