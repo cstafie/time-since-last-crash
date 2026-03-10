@@ -11,7 +11,7 @@
 
 import path from "path";
 import fs from "fs/promises";
-import type { Incident, StreetDetail, StreetsIndex } from "./types";
+import type { StreetDetail, StreetsIndex } from "./types";
 
 const GITHUB_REPO = process.env.GITHUB_REPO; // e.g. "octocat/time-since-last-crash"
 const GITHUB_BRANCH = process.env.GITHUB_BRANCH ?? "main";
@@ -59,13 +59,5 @@ export async function fetchStreet(
     return await fetchJson<StreetDetail>(`data/streets/${city}/${street}.json`);
   } catch {
     return null;
-  }
-}
-
-export async function fetchAllIncidents(): Promise<Incident[]> {
-  try {
-    return await fetchJson<Incident[]>("data/incidents.json");
-  } catch {
-    return [];
   }
 }

@@ -27,12 +27,12 @@ There's no database. All data lives as JSON files committed directly to the repo
 `scripts/scrape.py` uses Playwright to launch a headless browser (PulsePoint is JS-rendered, so a simple HTTP request won't work). It:
 
 1. Loads the PulsePoint feed in a Pacific-timezone browser context
-2. Parses the JS-rendered incident table with BeautifulSoup
+2. Parses the JS-rendered incident table directly via Playwright selectors
 3. Filters for traffic collisions in 24 Metro Vancouver municipalities
 4. Deduplicates — skips any incident within 2 hours of an existing one at the same location
-5. Normalizes street names into URL-friendly slugs
+5. Normalizes street names into city-namespaced, URL-friendly slugs (e.g. `richmond/hwy-91`)
 6. Stores all timestamps in UTC for consistent handling across timezones
-7. Writes to three JSON files: `data/incidents.json` (all incidents), `data/streets.json` (street index), and `data/streets/{slug}.json` (per-street history)
+7. Writes to three JSON structures: `data/incidents.json` (all incidents), `data/streets.json` (street index), and `data/streets/{city}/{street}.json` (per-street history, grouped by city)
 
 ### Frontend
 
@@ -42,7 +42,8 @@ Built with Next.js (App Router) and Tailwind CSS. Pages are statically generated
 
 - **Home (`/`)** — Top 50 streets ranked by total crash count
 - **Recent (`/recent`)** — All streets sorted by most recent crash, with client-side search
-- **Street detail (`/{slug}`)** — Live ticking timer since last crash, full incident history, and average period between crashes
+- **City (`/{city}`)** — All streets in a specific city, with search
+- **Street detail (`/{city}/{street}`)** — Live ticking timer since last crash, full incident history, and average period between crashes
 
 **Key components:**
 
@@ -59,29 +60,34 @@ Each incident looks like:
 
 ```json
 {
-  "id": "2026-03-09T22:21:00Z_mt-seymour-pkwy_roche-point-dr",
+  "id": "2026-03-09T22:21:00Z_north-vancouver/mt-seymour-pkwy_north-vancouver/roche-point-dr",
   "timestamp": "2026-03-09T22:21:00Z",
   "scrapedAt": "2026-03-09T22:41:19Z",
   "address": "MT SEYMOUR PKWY & ROCHE POINT DR",
   "city": "North Vancouver",
-  "streets": ["mt-seymour-pkwy", "roche-point-dr"],
+  "streets": [
+    "north-vancouver/mt-seymour-pkwy",
+    "north-vancouver/roche-point-dr"
+  ],
   "streetNames": ["Mt Seymour Pkwy", "Roche Point Dr"]
 }
 ```
 
-The street index (`streets.json`) maps each slug to its name, last incident time, and total count. Individual street files include the full incident history for that street.
+The street index (`streets.json`) maps each city-namespaced slug to its name, city, last incident time, and total count. Individual street files are organized by city and include the full incident history for that street.
 
 ## Project Structure
 
 ```
 app/                    Next.js App Router pages & API
-  [slug]/               Street detail pages (statically generated)
+  [city]/               City overview pages (statically generated)
+    [street]/           Street detail pages (statically generated)
   recent/               Recent crashes page
   api/revalidate/       On-demand ISR endpoint
 components/             React components (LiveClock, StreetTable, etc.)
 lib/                    Data fetching, time formatting, TypeScript types
 data/                   JSON data files (incidents, streets, per-street)
-scripts/                Python scraping & auditing scripts
+  streets/{city}/       Per-street history files, grouped by city
+scripts/                Python scraping scripts
 ```
 
 ## Setup
@@ -115,6 +121,6 @@ python scripts/scrape.py
 
 - **Next.js 16** with App Router, React 19, TypeScript
 - **Tailwind CSS 4** with dark mode
-- **Python 3** with Playwright + BeautifulSoup for scraping
+- **Python 3** with Playwright for scraping
 - **Vercel** for hosting (ISR)
 - **GitHub Actions** for scheduled scrapes
