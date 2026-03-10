@@ -1,0 +1,21 @@
+{
+  "slug": "abbotsford/old-clayburn-rd",
+  "name": "Old Clayburn Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-03-10T15:14:00Z_abbotsford/old-clayburn-rd",
+      "timestamp": "2026-03-10T15:14:00Z",
+      "address": "OLD CLAYBURN RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/old-clayburn-rd"
+      ],
+      "streetNames": [
+        "Old Clayburn Rd"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-10T15:14:00Z",
+  "count": 1
+}
