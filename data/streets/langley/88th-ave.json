@@ -1,0 +1,21 @@
+{
+  "slug": "langley/88th-ave",
+  "name": "88th Ave",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-03-10T22:45:00Z_langley/88th-ave",
+      "timestamp": "2026-03-10T22:45:00Z",
+      "address": "88TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/88th-ave"
+      ],
+      "streetNames": [
+        "88th Ave"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-10T22:45:00Z",
+  "count": 1
+}
