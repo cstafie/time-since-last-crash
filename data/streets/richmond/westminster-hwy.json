@@ -1,0 +1,23 @@
+{
+  "slug": "richmond/westminster-hwy",
+  "name": "Westminster Hwy",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-03-10T21:49:00Z_richmond/no-6-rd_richmond/westminster-hwy",
+      "timestamp": "2026-03-10T21:49:00Z",
+      "address": "NO 6 RD & WESTMINSTER HWY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/no-6-rd",
+        "richmond/westminster-hwy"
+      ],
+      "streetNames": [
+        "No 6 Rd",
+        "Westminster Hwy"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-10T21:49:00Z",
+  "count": 1
+}
