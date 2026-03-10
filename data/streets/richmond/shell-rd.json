@@ -1,6 +1,6 @@
 {
-  "slug": "richmond/bridgeport-rd",
-  "name": "Bridgeport Rd",
+  "slug": "richmond/shell-rd",
+  "name": "Shell Rd",
   "city": "Richmond",
   "incidents": [
     {
@@ -16,22 +16,8 @@
         "Bridgeport Rd",
         "Shell Rd"
       ]
-    },
-    {
-      "id": "2026-03-09T21:52:00Z_bridgeport-rd_no-3-rd",
-      "timestamp": "2026-03-09T21:52:00Z",
-      "address": "BRIDGEPORT RD & NO 3 RD",
-      "city": "Richmond",
-      "streets": [
-        "richmond/bridgeport-rd",
-        "richmond/no-3-rd"
-      ],
-      "streetNames": [
-        "Bridgeport Rd",
-        "No 3 Rd"
-      ]
     }
   ],
   "lastIncident": "2026-03-10T20:13:00Z",
-  "count": 2
+  "count": 1
 }

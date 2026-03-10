@@ -1,0 +1,21 @@
+{
+  "slug": "mission/rai-ave",
+  "name": "Rai Ave",
+  "city": "Mission",
+  "incidents": [
+    {
+      "id": "2026-03-10T20:40:00Z_mission/rai-ave",
+      "timestamp": "2026-03-10T20:40:00Z",
+      "address": "RAI AVE",
+      "city": "Mission",
+      "streets": [
+        "mission/rai-ave"
+      ],
+      "streetNames": [
+        "Rai Ave"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-10T20:40:00Z",
+  "count": 1
+}

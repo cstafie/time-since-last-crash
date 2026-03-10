@@ -1,5 +1,46 @@
 [
   {
+    "id": "2026-03-10T20:40:00Z_mission/rai-ave",
+    "timestamp": "2026-03-10T20:40:00Z",
+    "scrapedAt": "2026-03-10T20:43:10Z",
+    "address": "RAI AVE",
+    "city": "Mission",
+    "streets": [
+      "mission/rai-ave"
+    ],
+    "streetNames": [
+      "Rai Ave"
+    ]
+  },
+  {
+    "id": "2026-03-10T20:36:00Z_pitt-meadows/lougheed-hwy",
+    "timestamp": "2026-03-10T20:36:00Z",
+    "scrapedAt": "2026-03-10T20:43:10Z",
+    "address": "LOUGHEED HWY",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
+    ]
+  },
+  {
+    "id": "2026-03-10T20:13:00Z_richmond/bridgeport-rd_richmond/shell-rd",
+    "timestamp": "2026-03-10T20:13:00Z",
+    "scrapedAt": "2026-03-10T20:43:10Z",
+    "address": "BRIDGEPORT RD & SHELL RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/bridgeport-rd",
+      "richmond/shell-rd"
+    ],
+    "streetNames": [
+      "Bridgeport Rd",
+      "Shell Rd"
+    ]
+  },
+  {
     "id": "2026-03-10T18:40:00Z_new-westminster/royal-ave_new-westminster/granville-st",
     "timestamp": "2026-03-10T18:40:00Z",
     "scrapedAt": "2026-03-10T18:48:33Z",
