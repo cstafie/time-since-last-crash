@@ -1,0 +1,21 @@
+{
+  "slug": "pitt-meadows/lougheed-hwy",
+  "name": "Lougheed Hwy",
+  "city": "Pitt Meadows",
+  "incidents": [
+    {
+      "id": "2026-03-10T00:35:00Z_pitt-meadows/lougheed-hwy",
+      "timestamp": "2026-03-10T00:35:00Z",
+      "address": "LOUGHEED HWY",
+      "city": "Pitt Meadows",
+      "streets": [
+        "pitt-meadows/lougheed-hwy"
+      ],
+      "streetNames": [
+        "Lougheed Hwy"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-10T00:35:00Z",
+  "count": 1
+}

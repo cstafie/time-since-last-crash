@@ -824,5 +824,26 @@
     "city": "West Vancouver",
     "lastIncident": "2026-03-08T19:13:00Z",
     "count": 2
+  },
+  "pitt-meadows/lougheed-hwy": {
+    "name": "Lougheed Hwy",
+    "slug": "pitt-meadows/lougheed-hwy",
+    "city": "Pitt Meadows",
+    "lastIncident": "2026-03-10T00:35:00Z",
+    "count": 1
+  },
+  "langley/240th-st": {
+    "name": "240th St",
+    "slug": "langley/240th-st",
+    "city": "Langley",
+    "lastIncident": "2026-03-10T00:18:00Z",
+    "count": 1
+  },
+  "langley/16th-ave": {
+    "name": "16th Ave",
+    "slug": "langley/16th-ave",
+    "city": "Langley",
+    "lastIncident": "2026-03-10T00:18:00Z",
+    "count": 1
   }
 }
