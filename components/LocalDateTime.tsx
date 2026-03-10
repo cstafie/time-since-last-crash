@@ -1,5 +1,6 @@
 "use client";
 
+import { useEffect, useState } from "react";
 import { formatDateTime } from "@/lib/time";
 
 interface Props {
@@ -7,5 +8,11 @@ interface Props {
 }
 
 export default function LocalDateTime({ isoTimestamp }: Props) {
-  return <span suppressHydrationWarning>{formatDateTime(isoTimestamp)}</span>;
+  const [display, setDisplay] = useState(isoTimestamp);
+
+  useEffect(() => {
+    setDisplay(formatDateTime(isoTimestamp));
+  }, [isoTimestamp]);
+
+  return <span suppressHydrationWarning>{display}</span>;
 }
