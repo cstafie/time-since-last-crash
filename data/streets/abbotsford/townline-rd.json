@@ -1,0 +1,23 @@
+{
+  "slug": "abbotsford/townline-rd",
+  "name": "Townline Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-03-10T23:12:00Z_abbotsford/peardonville-rd_abbotsford/townline-rd",
+      "timestamp": "2026-03-10T23:12:00Z",
+      "address": "PEARDONVILLE RD & TOWNLINE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/peardonville-rd",
+        "abbotsford/townline-rd"
+      ],
+      "streetNames": [
+        "Peardonville Rd",
+        "Townline Rd"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-10T23:12:00Z",
+  "count": 1
+}

@@ -1,5 +1,61 @@
 [
   {
+    "id": "2026-03-10T23:20:00Z_chilliwack/ryder-lake-rd",
+    "timestamp": "2026-03-10T23:20:00Z",
+    "scrapedAt": "2026-03-10T23:39:18Z",
+    "address": "RYDER LAKE RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/ryder-lake-rd"
+    ],
+    "streetNames": [
+      "Ryder Lake Rd"
+    ]
+  },
+  {
+    "id": "2026-03-10T23:12:00Z_abbotsford/peardonville-rd_abbotsford/townline-rd",
+    "timestamp": "2026-03-10T23:12:00Z",
+    "scrapedAt": "2026-03-10T23:39:18Z",
+    "address": "PEARDONVILLE RD & TOWNLINE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/peardonville-rd",
+      "abbotsford/townline-rd"
+    ],
+    "streetNames": [
+      "Peardonville Rd",
+      "Townline Rd"
+    ]
+  },
+  {
+    "id": "2026-03-10T23:10:00Z_coquitlam/mariner-way",
+    "timestamp": "2026-03-10T23:10:00Z",
+    "scrapedAt": "2026-03-10T23:39:18Z",
+    "address": "MARINER WAY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/mariner-way"
+    ],
+    "streetNames": [
+      "Mariner Way"
+    ]
+  },
+  {
+    "id": "2026-03-10T23:03:00Z_richmond/no-1-rd_richmond/steveston-hwy",
+    "timestamp": "2026-03-10T23:03:00Z",
+    "scrapedAt": "2026-03-10T23:39:18Z",
+    "address": "NO 1 RD & STEVESTON HWY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/no-1-rd",
+      "richmond/steveston-hwy"
+    ],
+    "streetNames": [
+      "No 1 Rd",
+      "Steveston Hwy"
+    ]
+  },
+  {
     "id": "2026-03-10T22:55:00Z_vancouver/e-28th-ave",
     "timestamp": "2026-03-10T22:55:00Z",
     "scrapedAt": "2026-03-10T23:04:07Z",

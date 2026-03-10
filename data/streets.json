@@ -1048,5 +1048,47 @@
     "city": "Langley",
     "lastIncident": "2026-03-10T22:45:00Z",
     "count": 1
+  },
+  "chilliwack/ryder-lake-rd": {
+    "name": "Ryder Lake Rd",
+    "slug": "chilliwack/ryder-lake-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-03-10T23:20:00Z",
+    "count": 1
+  },
+  "abbotsford/peardonville-rd": {
+    "name": "Peardonville Rd",
+    "slug": "abbotsford/peardonville-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-03-10T23:12:00Z",
+    "count": 1
+  },
+  "abbotsford/townline-rd": {
+    "name": "Townline Rd",
+    "slug": "abbotsford/townline-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-03-10T23:12:00Z",
+    "count": 1
+  },
+  "coquitlam/mariner-way": {
+    "name": "Mariner Way",
+    "slug": "coquitlam/mariner-way",
+    "city": "Coquitlam",
+    "lastIncident": "2026-03-10T23:10:00Z",
+    "count": 1
+  },
+  "richmond/no-1-rd": {
+    "name": "No 1 Rd",
+    "slug": "richmond/no-1-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-03-10T23:03:00Z",
+    "count": 1
+  },
+  "richmond/steveston-hwy": {
+    "name": "Steveston Hwy",
+    "slug": "richmond/steveston-hwy",
+    "city": "Richmond",
+    "lastIncident": "2026-03-10T23:03:00Z",
+    "count": 1
   }
 }
