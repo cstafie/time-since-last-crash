@@ -4,6 +4,20 @@
   "city": "New Westminster",
   "incidents": [
     {
+      "id": "2026-03-10T18:40:00Z_new-westminster/royal-ave_new-westminster/granville-st",
+      "timestamp": "2026-03-10T18:40:00Z",
+      "address": "ROYAL AVE & GRANVILLE ST",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/royal-ave",
+        "new-westminster/granville-st"
+      ],
+      "streetNames": [
+        "Royal Ave",
+        "Granville St"
+      ]
+    },
+    {
       "id": "2026-03-08T17:26:00Z_royal-ave_8th-st",
       "timestamp": "2026-03-08T17:26:00Z",
       "address": "ROYAL AVE & 8TH ST",
@@ -32,6 +46,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-08T17:26:00Z",
-  "count": 2
+  "lastIncident": "2026-03-10T18:40:00Z",
+  "count": 3
 }

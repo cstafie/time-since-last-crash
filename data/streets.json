@@ -388,8 +388,8 @@
     "name": "Royal Ave",
     "slug": "new-westminster/royal-ave",
     "city": "New Westminster",
-    "lastIncident": "2026-03-08T17:26:00Z",
-    "count": 2
+    "lastIncident": "2026-03-10T18:40:00Z",
+    "count": 3
   },
   "north-vancouver/capilano-rd": {
     "name": "Capilano Rd",
@@ -935,6 +935,13 @@
     "slug": "surrey/159th-st",
     "city": "Surrey",
     "lastIncident": "2026-03-10T17:57:00Z",
+    "count": 1
+  },
+  "new-westminster/granville-st": {
+    "name": "Granville St",
+    "slug": "new-westminster/granville-st",
+    "city": "New Westminster",
+    "lastIncident": "2026-03-10T18:40:00Z",
     "count": 1
   }
 }

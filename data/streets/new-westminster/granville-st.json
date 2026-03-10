@@ -1,0 +1,23 @@
+{
+  "slug": "new-westminster/granville-st",
+  "name": "Granville St",
+  "city": "New Westminster",
+  "incidents": [
+    {
+      "id": "2026-03-10T18:40:00Z_new-westminster/royal-ave_new-westminster/granville-st",
+      "timestamp": "2026-03-10T18:40:00Z",
+      "address": "ROYAL AVE & GRANVILLE ST",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/royal-ave",
+        "new-westminster/granville-st"
+      ],
+      "streetNames": [
+        "Royal Ave",
+        "Granville St"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-10T18:40:00Z",
+  "count": 1
+}

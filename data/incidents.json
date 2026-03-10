@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-03-10T18:40:00Z_new-westminster/royal-ave_new-westminster/granville-st",
+    "timestamp": "2026-03-10T18:40:00Z",
+    "scrapedAt": "2026-03-10T18:48:33Z",
+    "address": "ROYAL AVE & GRANVILLE ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/royal-ave",
+      "new-westminster/granville-st"
+    ],
+    "streetNames": [
+      "Royal Ave",
+      "Granville St"
+    ]
+  },
+  {
     "id": "2026-03-10T17:57:00Z_surrey/fraser-hwy_surrey/159th-st",
     "timestamp": "2026-03-10T17:57:00Z",
     "scrapedAt": "2026-03-10T18:11:29Z",
