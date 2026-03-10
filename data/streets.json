@@ -66,15 +66,15 @@
     "name": "Lougheed Hwy",
     "slug": "burnaby/lougheed-hwy",
     "city": "Burnaby",
-    "lastIncident": "2026-03-08T06:55:00Z",
-    "count": 2
+    "lastIncident": "2026-03-10T17:32:00Z",
+    "count": 3
   },
   "burnaby/marine-way": {
     "name": "Marine Way",
     "slug": "burnaby/marine-way",
     "city": "Burnaby",
-    "lastIncident": "2026-03-08T12:17:00Z",
-    "count": 1
+    "lastIncident": "2026-03-10T17:13:00Z",
+    "count": 2
   },
   "burnaby/willingdon-ave": {
     "name": "Willingdon Ave",
@@ -900,6 +900,27 @@
     "slug": "abbotsford/old-clayburn-rd",
     "city": "Abbotsford",
     "lastIncident": "2026-03-10T15:14:00Z",
+    "count": 1
+  },
+  "new-westminster/cumberland-st": {
+    "name": "Cumberland St",
+    "slug": "new-westminster/cumberland-st",
+    "city": "New Westminster",
+    "lastIncident": "2026-03-10T17:27:00Z",
+    "count": 1
+  },
+  "new-westminster/e-columbia-st": {
+    "name": "E Columbia St",
+    "slug": "new-westminster/e-columbia-st",
+    "city": "New Westminster",
+    "lastIncident": "2026-03-10T17:27:00Z",
+    "count": 1
+  },
+  "burnaby/market-crss": {
+    "name": "Market Crss",
+    "slug": "burnaby/market-crss",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-10T17:13:00Z",
     "count": 1
   }
 }

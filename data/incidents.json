@@ -1,5 +1,48 @@
 [
   {
+    "id": "2026-03-10T17:32:00Z_burnaby/lougheed-hwy",
+    "timestamp": "2026-03-10T17:32:00Z",
+    "scrapedAt": "2026-03-10T17:44:52Z",
+    "address": "LOUGHEED HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
+    ]
+  },
+  {
+    "id": "2026-03-10T17:27:00Z_new-westminster/cumberland-st_new-westminster/e-columbia-st",
+    "timestamp": "2026-03-10T17:27:00Z",
+    "scrapedAt": "2026-03-10T17:44:52Z",
+    "address": "CUMBERLAND ST & E COLUMBIA ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/cumberland-st",
+      "new-westminster/e-columbia-st"
+    ],
+    "streetNames": [
+      "Cumberland St",
+      "E Columbia St"
+    ]
+  },
+  {
+    "id": "2026-03-10T17:13:00Z_burnaby/marine-way_burnaby/market-crss",
+    "timestamp": "2026-03-10T17:13:00Z",
+    "scrapedAt": "2026-03-10T17:44:52Z",
+    "address": "MARINE WAY & MARKET CRSS",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/marine-way",
+      "burnaby/market-crss"
+    ],
+    "streetNames": [
+      "Marine Way",
+      "Market Crss"
+    ]
+  },
+  {
     "id": "2026-03-10T15:14:00Z_abbotsford/old-clayburn-rd",
     "timestamp": "2026-03-10T15:14:00Z",
     "scrapedAt": "2026-03-10T15:47:10Z",

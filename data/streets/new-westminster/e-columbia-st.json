@@ -1,0 +1,23 @@
+{
+  "slug": "new-westminster/e-columbia-st",
+  "name": "E Columbia St",
+  "city": "New Westminster",
+  "incidents": [
+    {
+      "id": "2026-03-10T17:27:00Z_new-westminster/cumberland-st_new-westminster/e-columbia-st",
+      "timestamp": "2026-03-10T17:27:00Z",
+      "address": "CUMBERLAND ST & E COLUMBIA ST",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/cumberland-st",
+        "new-westminster/e-columbia-st"
+      ],
+      "streetNames": [
+        "Cumberland St",
+        "E Columbia St"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-10T17:27:00Z",
+  "count": 1
+}
