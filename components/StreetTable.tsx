@@ -2,10 +2,10 @@
 
 import { useMemo, useState } from "react";
 import Link from "next/link";
-import { formatRelativeTime, formatDateTime } from "@/lib/time";
+import { formatDateTime } from "@/lib/time";
 import type { StreetIndexEntry } from "@/lib/types";
 
-type SortKey = "name" | "lastIncident" | "count";
+type SortKey = "name" | "city" | "lastIncident" | "count";
 type SortDir = "asc" | "desc";
 
 function SortArrow({ active, dir }: { active: boolean; dir: SortDir }) {
@@ -41,6 +41,7 @@ export default function StreetTable({
     const dir = sortDir === "asc" ? 1 : -1;
     copy.sort((a, b) => {
       if (sortKey === "name") return dir * a.name.localeCompare(b.name);
+      if (sortKey === "city") return dir * a.city.localeCompare(b.city);
       if (sortKey === "lastIncident")
         return (
           dir *
@@ -64,12 +65,12 @@ export default function StreetTable({
               Street
               <SortArrow active={sortKey === "name"} dir={sortDir} />
             </th>
-            <th className={thClass} onClick={() => handleSort("lastIncident")}>
-              Last Crash
-              <SortArrow active={sortKey === "lastIncident"} dir={sortDir} />
+            <th className={thClass} onClick={() => handleSort("city")}>
+              City
+              <SortArrow active={sortKey === "city"} dir={sortDir} />
             </th>
             <th className={thClass} onClick={() => handleSort("lastIncident")}>
-              Time Since
+              Last Crash
               <SortArrow active={sortKey === "lastIncident"} dir={sortDir} />
             </th>
             <th
@@ -94,18 +95,17 @@ export default function StreetTable({
                 >
                   {s.name}
                 </Link>
+              </td>
+              <td className="py-2 pr-4">
                 <Link
                   href={`/${s.slug.split("/")[0]}`}
-                  className="block text-xs text-gray-500 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 hover:underline"
+                  className="text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 hover:underline"
                 >
                   {s.city}
                 </Link>
               </td>
               <td className="py-2 pr-4 text-gray-600 dark:text-gray-300 whitespace-nowrap">
                 {formatDateTime(s.lastIncident)}
-              </td>
-              <td className="py-2 pr-4 text-gray-600 dark:text-gray-300 whitespace-nowrap">
-                {formatRelativeTime(s.lastIncident)}
               </td>
               <td className="py-2">
                 <span className="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-medium bg-red-100 text-red-700 dark:bg-red-950 dark:text-red-400">
