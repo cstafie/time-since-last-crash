@@ -220,8 +220,8 @@
     "name": "272nd St",
     "slug": "langley/272nd-st",
     "city": "Langley",
-    "lastIncident": "2026-03-07T09:04:00Z",
-    "count": 1
+    "lastIncident": "2026-03-10T02:39:00Z",
+    "count": 2
   },
   "langley/273rd-st": {
     "name": "273rd St",
@@ -577,8 +577,8 @@
     "name": "168th St",
     "slug": "surrey/168th-st",
     "city": "Surrey",
-    "lastIncident": "2026-03-10T01:04:00Z",
-    "count": 3
+    "lastIncident": "2026-03-10T02:46:00Z",
+    "count": 4
   },
   "surrey/16th-ave": {
     "name": "16th Ave",
@@ -844,6 +844,20 @@
     "slug": "langley/16th-ave",
     "city": "Langley",
     "lastIncident": "2026-03-10T00:18:00Z",
+    "count": 1
+  },
+  "surrey/32nd-ave": {
+    "name": "32nd Ave",
+    "slug": "surrey/32nd-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-03-10T02:46:00Z",
+    "count": 1
+  },
+  "langley/30th-ave": {
+    "name": "30th Ave",
+    "slug": "langley/30th-ave",
+    "city": "Langley",
+    "lastIncident": "2026-03-10T02:39:00Z",
     "count": 1
   }
 }
