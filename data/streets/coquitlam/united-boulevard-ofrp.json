@@ -1,0 +1,23 @@
+{
+  "slug": "coquitlam/united-boulevard-ofrp",
+  "name": "United Boulevard Ofrp",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-03-10T22:14:00Z_coquitlam/lougheed-hwy-onrp_coquitlam/united-boulevard-ofrp",
+      "timestamp": "2026-03-10T22:14:00Z",
+      "address": "LOUGHEED HWY ONRP & UNITED BOULEVARD OFRP",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/lougheed-hwy-onrp",
+        "coquitlam/united-boulevard-ofrp"
+      ],
+      "streetNames": [
+        "Lougheed Hwy Onrp",
+        "United Boulevard Ofrp"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-10T22:14:00Z",
+  "count": 1
+}

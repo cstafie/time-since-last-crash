@@ -1,5 +1,48 @@
 [
   {
+    "id": "2026-03-10T22:26:00Z_vancouver/e-37th-ave_vancouver/prince-albert-st",
+    "timestamp": "2026-03-10T22:26:00Z",
+    "scrapedAt": "2026-03-10T22:41:12Z",
+    "address": "E 37TH AVE & PRINCE ALBERT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-37th-ave",
+      "vancouver/prince-albert-st"
+    ],
+    "streetNames": [
+      "E 37th Ave",
+      "Prince Albert St"
+    ]
+  },
+  {
+    "id": "2026-03-10T22:14:00Z_coquitlam/lougheed-hwy-onrp_coquitlam/united-boulevard-ofrp",
+    "timestamp": "2026-03-10T22:14:00Z",
+    "scrapedAt": "2026-03-10T22:41:12Z",
+    "address": "LOUGHEED HWY ONRP & UNITED BOULEVARD OFRP",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/lougheed-hwy-onrp",
+      "coquitlam/united-boulevard-ofrp"
+    ],
+    "streetNames": [
+      "Lougheed Hwy Onrp",
+      "United Boulevard Ofrp"
+    ]
+  },
+  {
+    "id": "2026-03-10T22:06:00Z_maple-ridge/22826-dewdney-trunk-rd",
+    "timestamp": "2026-03-10T22:06:00Z",
+    "scrapedAt": "2026-03-10T22:41:12Z",
+    "address": "22826 DEWDNEY TRUNK RD",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/22826-dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "22826 Dewdney Trunk Rd"
+    ]
+  },
+  {
     "id": "2026-03-10T21:59:00Z_richmond/cook-rd",
     "timestamp": "2026-03-10T21:59:00Z",
     "scrapedAt": "2026-03-10T22:03:08Z",

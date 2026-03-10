@@ -1,0 +1,23 @@
+{
+  "slug": "vancouver/e-37th-ave",
+  "name": "E 37th Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-10T22:26:00Z_vancouver/e-37th-ave_vancouver/prince-albert-st",
+      "timestamp": "2026-03-10T22:26:00Z",
+      "address": "E 37TH AVE & PRINCE ALBERT ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-37th-ave",
+        "vancouver/prince-albert-st"
+      ],
+      "streetNames": [
+        "E 37th Ave",
+        "Prince Albert St"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-10T22:26:00Z",
+  "count": 1
+}

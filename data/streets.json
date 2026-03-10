@@ -992,5 +992,40 @@
     "city": "Richmond",
     "lastIncident": "2026-03-10T21:49:00Z",
     "count": 1
+  },
+  "vancouver/e-37th-ave": {
+    "name": "E 37th Ave",
+    "slug": "vancouver/e-37th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-10T22:26:00Z",
+    "count": 1
+  },
+  "vancouver/prince-albert-st": {
+    "name": "Prince Albert St",
+    "slug": "vancouver/prince-albert-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-10T22:26:00Z",
+    "count": 1
+  },
+  "maple-ridge/22826-dewdney-trunk-rd": {
+    "name": "22826 Dewdney Trunk Rd",
+    "slug": "maple-ridge/22826-dewdney-trunk-rd",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-03-10T22:06:00Z",
+    "count": 1
+  },
+  "coquitlam/lougheed-hwy-onrp": {
+    "name": "Lougheed Hwy Onrp",
+    "slug": "coquitlam/lougheed-hwy-onrp",
+    "city": "Coquitlam",
+    "lastIncident": "2026-03-10T22:14:00Z",
+    "count": 1
+  },
+  "coquitlam/united-boulevard-ofrp": {
+    "name": "United Boulevard Ofrp",
+    "slug": "coquitlam/united-boulevard-ofrp",
+    "city": "Coquitlam",
+    "lastIncident": "2026-03-10T22:14:00Z",
+    "count": 1
   }
 }
