@@ -922,5 +922,19 @@
     "city": "Burnaby",
     "lastIncident": "2026-03-10T17:13:00Z",
     "count": 1
+  },
+  "surrey/fraser-hwy": {
+    "name": "Fraser Hwy",
+    "slug": "surrey/fraser-hwy",
+    "city": "Surrey",
+    "lastIncident": "2026-03-10T17:57:00Z",
+    "count": 1
+  },
+  "surrey/159th-st": {
+    "name": "159th St",
+    "slug": "surrey/159th-st",
+    "city": "Surrey",
+    "lastIncident": "2026-03-10T17:57:00Z",
+    "count": 1
   }
 }
