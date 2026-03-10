@@ -1,0 +1,37 @@
+{
+  "slug": "surrey/king-george-blvd",
+  "name": "King George Blvd",
+  "city": "Surrey",
+  "incidents": [
+    {
+      "id": "2026-03-09T15:47:00Z_king-george-blvd_64th-ave",
+      "timestamp": "2026-03-09T15:47:00Z",
+      "address": "KING GEORGE BLVD & 64TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/king-george-blvd",
+        "surrey/64th-ave"
+      ],
+      "streetNames": [
+        "King George Blvd",
+        "64th Ave"
+      ]
+    },
+    {
+      "id": "2026-03-07T08:38:00Z_king-george-blvd_bolivar-rd",
+      "timestamp": "2026-03-07T08:38:00Z",
+      "address": "KING GEORGE BLVD & BOLIVAR RD",
+      "city": "Surrey",
+      "streets": [
+        "surrey/king-george-blvd",
+        "surrey/bolivar-rd"
+      ],
+      "streetNames": [
+        "King George Blvd",
+        "Bolivar Rd"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-09T15:47:00Z",
+  "count": 2
+}

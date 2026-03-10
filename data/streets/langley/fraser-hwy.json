@@ -1,0 +1,63 @@
+{
+  "slug": "langley/fraser-hwy",
+  "name": "Fraser Hwy",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-03-09T10:50:00Z_44th-ave_fraser-hwy",
+      "timestamp": "2026-03-09T10:50:00Z",
+      "address": "44TH AVE & FRASER HWY",
+      "city": "Langley",
+      "streets": [
+        "langley/44th-ave",
+        "langley/fraser-hwy"
+      ],
+      "streetNames": [
+        "44th Ave",
+        "Fraser Hwy"
+      ]
+    },
+    {
+      "id": "2026-03-08T19:44:00Z_248th-st_fraser-hwy",
+      "timestamp": "2026-03-08T19:44:00Z",
+      "address": "248TH ST & FRASER HWY",
+      "city": "Langley",
+      "streets": [
+        "langley/248th-st",
+        "langley/fraser-hwy"
+      ],
+      "streetNames": [
+        "248th St",
+        "Fraser Hwy"
+      ]
+    },
+    {
+      "id": "2026-03-08T19:44:00Z_fraser-hwy",
+      "timestamp": "2026-03-08T19:44:00Z",
+      "address": "FRASER HWY",
+      "city": "Langley",
+      "streets": [
+        "langley/fraser-hwy"
+      ],
+      "streetNames": [
+        "Fraser Hwy"
+      ]
+    },
+    {
+      "id": "2026-03-07T18:52:00Z_273rd-st_fraser-hwy",
+      "timestamp": "2026-03-07T18:52:00Z",
+      "address": "273RD ST & FRASER HWY",
+      "city": "Langley",
+      "streets": [
+        "langley/273rd-st",
+        "langley/fraser-hwy"
+      ],
+      "streetNames": [
+        "273rd St",
+        "Fraser Hwy"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-09T10:50:00Z",
+  "count": 4
+}

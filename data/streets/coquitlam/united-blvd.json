@@ -1,0 +1,21 @@
+{
+  "slug": "coquitlam/united-blvd",
+  "name": "United Blvd",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-03-07T17:45:00Z_united-blvd",
+      "timestamp": "2026-03-07T17:45:00Z",
+      "address": "UNITED BLVD",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/united-blvd"
+      ],
+      "streetNames": [
+        "United Blvd"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-07T17:45:00Z",
+  "count": 1
+}

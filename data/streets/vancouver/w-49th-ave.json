@@ -1,0 +1,23 @@
+{
+  "slug": "vancouver/w-49th-ave",
+  "name": "W 49th Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-07T23:33:00Z_w-49th-ave_granville-st",
+      "timestamp": "2026-03-07T23:33:00Z",
+      "address": "W 49TH AVE & GRANVILLE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-49th-ave",
+        "vancouver/granville-st"
+      ],
+      "streetNames": [
+        "W 49th Ave",
+        "Granville St"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-07T23:33:00Z",
+  "count": 1
+}

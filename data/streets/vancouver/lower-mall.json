@@ -1,0 +1,21 @@
+{
+  "slug": "vancouver/lower-mall",
+  "name": "Lower Mall",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-08T07:37:00Z_lower-mall",
+      "timestamp": "2026-03-08T07:37:00Z",
+      "address": "LOWER MALL",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/lower-mall"
+      ],
+      "streetNames": [
+        "Lower Mall"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-08T07:37:00Z",
+  "count": 1
+}

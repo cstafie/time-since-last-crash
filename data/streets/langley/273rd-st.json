@@ -1,0 +1,23 @@
+{
+  "slug": "langley/273rd-st",
+  "name": "273rd St",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-03-07T18:52:00Z_273rd-st_fraser-hwy",
+      "timestamp": "2026-03-07T18:52:00Z",
+      "address": "273RD ST & FRASER HWY",
+      "city": "Langley",
+      "streets": [
+        "langley/273rd-st",
+        "langley/fraser-hwy"
+      ],
+      "streetNames": [
+        "273rd St",
+        "Fraser Hwy"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-07T18:52:00Z",
+  "count": 1
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "maple-ridge/lougheed-hwy",
+  "name": "Lougheed Hwy",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-03-08T03:30:00Z_lougheed-hwy_203rd-st",
+      "timestamp": "2026-03-08T03:30:00Z",
+      "address": "LOUGHEED HWY & 203RD ST",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/lougheed-hwy",
+        "maple-ridge/203rd-st"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "203rd St"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-08T03:30:00Z",
+  "count": 1
+}

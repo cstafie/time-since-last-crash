@@ -1,674 +1,828 @@
 {
-  "knight-st": {
-    "name": "Knight St",
-    "slug": "knight-st",
-    "lastIncident": "2026-03-09T18:39:00Z",
+  "abbotsford/glengarry-ave": {
+    "name": "Glengarry Ave",
+    "slug": "abbotsford/glengarry-ave",
+    "city": "Abbotsford",
+    "lastIncident": "2026-03-09T19:34:00Z",
     "count": 1
   },
-  "prairie-central-rd": {
-    "name": "Prairie Central Rd",
-    "slug": "prairie-central-rd",
-    "lastIncident": "2026-03-09T17:57:00Z",
-    "count": 1
-  },
-  "chilliwack-river-rd": {
-    "name": "Chilliwack River Rd",
-    "slug": "chilliwack-river-rd",
-    "lastIncident": "2026-03-09T17:57:00Z",
-    "count": 1
-  },
-  "chadsey-rd": {
-    "name": "Chadsey Rd",
-    "slug": "chadsey-rd",
-    "lastIncident": "2026-03-09T17:08:00Z",
-    "count": 1
-  },
-  "keith-wilson-rd": {
-    "name": "Keith Wilson Rd",
-    "slug": "keith-wilson-rd",
-    "lastIncident": "2026-03-09T17:08:00Z",
-    "count": 1
-  },
-  "w-4th-ave": {
-    "name": "W 4th Ave",
-    "slug": "w-4th-ave",
-    "lastIncident": "2026-03-09T17:04:00Z",
-    "count": 1
-  },
-  "king-george-blvd": {
-    "name": "King George Blvd",
-    "slug": "king-george-blvd",
-    "lastIncident": "2026-03-09T15:47:00Z",
-    "count": 2
-  },
-  "64th-ave": {
-    "name": "64th Ave",
-    "slug": "64th-ave",
-    "lastIncident": "2026-03-09T15:47:00Z",
-    "count": 1
-  },
-  "blundell-rd": {
-    "name": "Blundell Rd",
-    "slug": "blundell-rd",
-    "lastIncident": "2026-03-09T15:26:00Z",
-    "count": 2
-  },
-  "no-4-rd": {
-    "name": "No 4 Rd",
-    "slug": "no-4-rd",
-    "lastIncident": "2026-03-09T15:26:00Z",
-    "count": 2
-  },
-  "trans-canada-hwy": {
-    "name": "Trans Canada Hwy",
-    "slug": "trans-canada-hwy",
-    "lastIncident": "2026-03-09T14:23:00Z",
-    "count": 5
-  },
-  "kingsway": {
-    "name": "Kingsway",
-    "slug": "kingsway",
-    "lastIncident": "2026-03-09T12:03:00Z",
-    "count": 1
-  },
-  "e-12th-ave": {
-    "name": "E 12th Ave",
-    "slug": "e-12th-ave",
-    "lastIncident": "2026-03-09T12:03:00Z",
-    "count": 1
-  },
-  "44th-ave": {
-    "name": "44th Ave",
-    "slug": "44th-ave",
-    "lastIncident": "2026-03-09T10:50:00Z",
-    "count": 1
-  },
-  "fraser-hwy": {
-    "name": "Fraser Hwy",
-    "slug": "fraser-hwy",
-    "lastIncident": "2026-03-09T10:50:00Z",
-    "count": 4
-  },
-  "capilano-rd": {
-    "name": "Capilano Rd",
-    "slug": "capilano-rd",
-    "lastIncident": "2026-03-09T08:01:00Z",
-    "count": 1
-  },
-  "granville-st": {
-    "name": "Granville St",
-    "slug": "granville-st",
-    "lastIncident": "2026-03-09T03:52:00Z",
-    "count": 2
-  },
-  "e-2nd-st": {
-    "name": "E 2nd St",
-    "slug": "e-2nd-st",
-    "lastIncident": "2026-03-09T03:29:00Z",
-    "count": 1
-  },
-  "wilkinson-rd": {
-    "name": "Wilkinson Rd",
-    "slug": "wilkinson-rd",
-    "lastIncident": "2026-03-09T03:10:00Z",
-    "count": 1
-  },
-  "central-ave": {
-    "name": "Central Ave",
-    "slug": "central-ave",
-    "lastIncident": "2026-03-09T01:44:00Z",
-    "count": 1
-  },
-  "ladner-trunk-rd": {
-    "name": "Ladner Trunk Rd",
-    "slug": "ladner-trunk-rd",
-    "lastIncident": "2026-03-09T01:44:00Z",
-    "count": 1
-  },
-  "princess-ave": {
-    "name": "Princess Ave",
-    "slug": "princess-ave",
-    "lastIncident": "2026-03-09T01:39:00Z",
-    "count": 1
-  },
-  "no-3-rd": {
-    "name": "No 3 Rd",
-    "slug": "no-3-rd",
-    "lastIncident": "2026-03-09T21:52:00Z",
-    "count": 2
-  },
-  "hwy-17": {
-    "name": "Hwy 17",
-    "slug": "hwy-17",
-    "lastIncident": "2026-03-09T00:23:00Z",
-    "count": 1
-  },
-  "104th-avenue-onrp": {
-    "name": "104th Avenue Onrp",
-    "slug": "104th-avenue-onrp",
-    "lastIncident": "2026-03-09T00:23:00Z",
-    "count": 1
-  },
-  "78th-ave": {
-    "name": "78th Ave",
-    "slug": "78th-ave",
-    "lastIncident": "2026-03-08T23:56:00Z",
-    "count": 1
-  },
-  "140th-st": {
-    "name": "140th St",
-    "slug": "140th-st",
-    "lastIncident": "2026-03-08T23:56:00Z",
-    "count": 1
-  },
-  "no-2-rd": {
-    "name": "No 2 Rd",
-    "slug": "no-2-rd",
-    "lastIncident": "2026-03-08T23:52:00Z",
-    "count": 1
-  },
-  "granville-ave": {
-    "name": "Granville Ave",
-    "slug": "granville-ave",
-    "lastIncident": "2026-03-08T23:52:00Z",
-    "count": 1
-  },
-  "16th-ave": {
-    "name": "16th Ave",
-    "slug": "16th-ave",
-    "lastIncident": "2026-03-08T23:46:00Z",
-    "count": 1
-  },
-  "168th-st": {
-    "name": "168th St",
-    "slug": "168th-st",
-    "lastIncident": "2026-03-08T23:46:00Z",
-    "count": 2
-  },
-  "marshall-rd": {
-    "name": "Marshall Rd",
-    "slug": "marshall-rd",
-    "lastIncident": "2026-03-08T22:45:00Z",
-    "count": 1
-  },
-  "128th-st": {
-    "name": "128th St",
-    "slug": "128th-st",
-    "lastIncident": "2026-03-08T22:31:00Z",
-    "count": 2
-  },
-  "88th-ave": {
-    "name": "88th Ave",
-    "slug": "88th-ave",
-    "lastIncident": "2026-03-08T22:31:00Z",
-    "count": 1
-  },
-  "82nd-ave": {
-    "name": "82nd Ave",
-    "slug": "82nd-ave",
-    "lastIncident": "2026-03-08T22:26:00Z",
-    "count": 1
-  },
-  "227th-st": {
-    "name": "227th St",
-    "slug": "227th-st",
-    "lastIncident": "2026-03-08T22:03:00Z",
-    "count": 1
-  },
-  "brown-ave": {
-    "name": "Brown Ave",
-    "slug": "brown-ave",
-    "lastIncident": "2026-03-08T22:03:00Z",
-    "count": 1
-  },
-  "upper-prairie-rd": {
-    "name": "Upper Prairie Rd",
-    "slug": "upper-prairie-rd",
-    "lastIncident": "2026-03-08T20:40:00Z",
-    "count": 1
-  },
-  "hinkley-rd": {
-    "name": "Hinkley Rd",
-    "slug": "hinkley-rd",
-    "lastIncident": "2026-03-08T20:40:00Z",
-    "count": 1
-  },
-  "lynn-ave": {
+  "abbotsford/lynn-ave": {
     "name": "Lynn Ave",
-    "slug": "lynn-ave",
+    "slug": "abbotsford/lynn-ave",
+    "city": "Abbotsford",
     "lastIncident": "2026-03-08T19:46:00Z",
     "count": 1
   },
-  "mccallum-rd": {
+  "abbotsford/marshall-rd": {
+    "name": "Marshall Rd",
+    "slug": "abbotsford/marshall-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-03-08T22:45:00Z",
+    "count": 1
+  },
+  "abbotsford/mccallum-rd": {
     "name": "Mccallum Rd",
-    "slug": "mccallum-rd",
+    "slug": "abbotsford/mccallum-rd",
+    "city": "Abbotsford",
     "lastIncident": "2026-03-09T23:11:00Z",
     "count": 2
   },
-  "248th-st": {
-    "name": "248th St",
-    "slug": "248th-st",
-    "lastIncident": "2026-03-08T19:44:00Z",
+  "abbotsford/mcdougall-ave": {
+    "name": "Mcdougall Ave",
+    "slug": "abbotsford/mcdougall-ave",
+    "city": "Abbotsford",
+    "lastIncident": "2026-03-09T23:11:00Z",
     "count": 1
   },
-  "eagleridge-drive-ofrp": {
-    "name": "Eagleridge Drive Ofrp",
-    "slug": "eagleridge-drive-ofrp",
-    "lastIncident": "2026-03-08T19:13:00Z",
+  "abbotsford/ross-rd": {
+    "name": "Ross Rd",
+    "slug": "abbotsford/ross-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-03-09T19:34:00Z",
     "count": 1
   },
-  "bowcock-rd": {
-    "name": "Bowcock Rd",
-    "slug": "bowcock-rd",
-    "lastIncident": "2026-03-08T18:17:00Z",
-    "count": 1
-  },
-  "st-albans-rd": {
-    "name": "St Albans Rd",
-    "slug": "st-albans-rd",
-    "lastIncident": "2026-03-08T18:17:00Z",
-    "count": 1
-  },
-  "mary-hill-bps": {
-    "name": "Mary Hill Bps",
-    "slug": "mary-hill-bps",
-    "lastIncident": "2026-03-08T18:06:00Z",
-    "count": 1
-  },
-  "royal-ave": {
-    "name": "Royal Ave",
-    "slug": "royal-ave",
-    "lastIncident": "2026-03-08T17:26:00Z",
-    "count": 2
-  },
-  "8th-st": {
-    "name": "8th St",
-    "slug": "8th-st",
-    "lastIncident": "2026-03-08T17:26:00Z",
-    "count": 1
-  },
-  "memorial-dr": {
-    "name": "Memorial Dr",
-    "slug": "memorial-dr",
-    "lastIncident": "2026-03-08T16:42:00Z",
-    "count": 2
-  },
-  "mcbride-blvd": {
-    "name": "Mcbride Blvd",
-    "slug": "mcbride-blvd",
-    "lastIncident": "2026-03-08T16:42:00Z",
-    "count": 2
-  },
-  "112th-st": {
-    "name": "112th St",
-    "slug": "112th-st",
-    "lastIncident": "2026-03-08T16:30:00Z",
-    "count": 1
-  },
-  "72nd-ave": {
-    "name": "72nd Ave",
-    "slug": "72nd-ave",
-    "lastIncident": "2026-03-08T16:30:00Z",
-    "count": 1
-  },
-  "1960-como-lake-ave": {
-    "name": "1960 Como Lake Ave",
-    "slug": "1960-como-lake-ave",
-    "lastIncident": "2026-03-08T15:49:00Z",
-    "count": 1
-  },
-  "marine-way": {
-    "name": "Marine Way",
-    "slug": "marine-way",
-    "lastIncident": "2026-03-08T12:17:00Z",
-    "count": 1
-  },
-  "prince-charles-blvd": {
-    "name": "Prince Charles Blvd",
-    "slug": "prince-charles-blvd",
-    "lastIncident": "2026-03-08T09:47:00Z",
-    "count": 1
-  },
-  "w-broadway": {
-    "name": "W Broadway",
-    "slug": "w-broadway",
-    "lastIncident": "2026-03-08T08:16:00Z",
-    "count": 1
-  },
-  "balaclava-st": {
-    "name": "Balaclava St",
-    "slug": "balaclava-st",
-    "lastIncident": "2026-03-08T08:16:00Z",
-    "count": 1
-  },
-  "84th-ave": {
-    "name": "84th Ave",
-    "slug": "84th-ave",
-    "lastIncident": "2026-03-08T08:09:00Z",
-    "count": 1
-  },
-  "hwy-91": {
-    "name": "Hwy 91",
-    "slug": "hwy-91",
-    "lastIncident": "2026-03-09T19:26:00Z",
-    "count": 2
-  },
-  "lower-mall": {
-    "name": "Lower Mall",
-    "slug": "lower-mall",
-    "lastIncident": "2026-03-08T07:37:00Z",
-    "count": 1
-  },
-  "141a-st": {
-    "name": "141a St",
-    "slug": "141a-st",
-    "lastIncident": "2026-03-08T07:19:00Z",
-    "count": 1
-  },
-  "72a-ave": {
-    "name": "72a Ave",
-    "slug": "72a-ave",
-    "lastIncident": "2026-03-08T07:19:00Z",
-    "count": 1
-  },
-  "1st-st": {
-    "name": "1st St",
-    "slug": "1st-st",
-    "lastIncident": "2026-03-08T07:09:00Z",
-    "count": 1
-  },
-  "garden-grove-dr": {
-    "name": "Garden Grove Dr",
-    "slug": "garden-grove-dr",
-    "lastIncident": "2026-03-08T06:58:00Z",
-    "count": 1
-  },
-  "deer-lake-pkwy": {
-    "name": "Deer Lake Pkwy",
-    "slug": "deer-lake-pkwy",
-    "lastIncident": "2026-03-08T06:58:00Z",
-    "count": 2
-  },
-  "willingdon-ave": {
-    "name": "Willingdon Ave",
-    "slug": "willingdon-ave",
-    "lastIncident": "2026-03-08T06:55:00Z",
-    "count": 1
-  },
-  "lougheed-hwy": {
-    "name": "Lougheed Hwy",
-    "slug": "lougheed-hwy",
-    "lastIncident": "2026-03-09T20:52:00Z",
-    "count": 4
-  },
-  "nelson-rd": {
-    "name": "Nelson Rd",
-    "slug": "nelson-rd",
-    "lastIncident": "2026-03-08T06:15:00Z",
-    "count": 1
-  },
-  "216th-street-ofrp": {
-    "name": "216th Street Ofrp",
-    "slug": "216th-street-ofrp",
-    "lastIncident": "2026-03-08T05:47:00Z",
-    "count": 1
-  },
-  "203rd-st": {
-    "name": "203rd St",
-    "slug": "203rd-st",
-    "lastIncident": "2026-03-08T03:30:00Z",
-    "count": 1
-  },
-  "heather-st": {
-    "name": "Heather St",
-    "slug": "heather-st",
-    "lastIncident": "2026-03-08T02:47:00Z",
-    "count": 1
-  },
-  "w-70th-ave": {
-    "name": "W 70th Ave",
-    "slug": "w-70th-ave",
-    "lastIncident": "2026-03-08T02:47:00Z",
-    "count": 1
-  },
-  "92nd-ave": {
-    "name": "92nd Ave",
-    "slug": "92nd-ave",
-    "lastIncident": "2026-03-08T02:12:00Z",
-    "count": 1
-  },
-  "124th-st": {
-    "name": "124th St",
-    "slug": "124th-st",
-    "lastIncident": "2026-03-08T02:12:00Z",
-    "count": 1
-  },
-  "20th-st": {
-    "name": "20th St",
-    "slug": "20th-st",
-    "lastIncident": "2026-03-08T01:18:00Z",
-    "count": 1
-  },
-  "6th-ave": {
-    "name": "6th Ave",
-    "slug": "6th-ave",
-    "lastIncident": "2026-03-08T01:18:00Z",
-    "count": 1
-  },
-  "w-33rd-ave": {
-    "name": "W 33rd Ave",
-    "slug": "w-33rd-ave",
-    "lastIncident": "2026-03-09T21:47:00Z",
-    "count": 2
-  },
-  "oak-st": {
-    "name": "Oak St",
-    "slug": "oak-st",
-    "lastIncident": "2026-03-09T21:47:00Z",
-    "count": 2
-  },
-  "w-49th-ave": {
-    "name": "W 49th Ave",
-    "slug": "w-49th-ave",
-    "lastIncident": "2026-03-07T23:33:00Z",
-    "count": 1
-  },
-  "beatrice-st": {
-    "name": "Beatrice St",
-    "slug": "beatrice-st",
-    "lastIncident": "2026-03-07T22:14:00Z",
-    "count": 1
-  },
-  "e-41st-ave": {
-    "name": "E 41st Ave",
-    "slug": "e-41st-ave",
-    "lastIncident": "2026-03-07T22:14:00Z",
-    "count": 1
-  },
-  "dewdney-trunk-rd": {
-    "name": "Dewdney Trunk Rd",
-    "slug": "dewdney-trunk-rd",
-    "lastIncident": "2026-03-07T19:46:00Z",
-    "count": 1
-  },
-  "207th-st": {
-    "name": "207th St",
-    "slug": "207th-st",
-    "lastIncident": "2026-03-07T19:46:00Z",
-    "count": 1
-  },
-  "273rd-st": {
-    "name": "273rd St",
-    "slug": "273rd-st",
-    "lastIncident": "2026-03-07T18:52:00Z",
-    "count": 1
-  },
-  "burrard-st": {
-    "name": "Burrard St",
-    "slug": "burrard-st",
-    "lastIncident": "2026-03-07T18:24:00Z",
-    "count": 1
-  },
-  "w-12th-ave": {
-    "name": "W 12th Ave",
-    "slug": "w-12th-ave",
-    "lastIncident": "2026-03-07T18:24:00Z",
-    "count": 1
-  },
-  "foster-ave": {
-    "name": "Foster Ave",
-    "slug": "foster-ave",
-    "lastIncident": "2026-03-07T17:51:00Z",
-    "count": 1
-  },
-  "blue-mountain-st": {
-    "name": "Blue Mountain St",
-    "slug": "blue-mountain-st",
-    "lastIncident": "2026-03-07T17:51:00Z",
-    "count": 1
-  },
-  "united-blvd": {
-    "name": "United Blvd",
-    "slug": "united-blvd",
-    "lastIncident": "2026-03-07T17:45:00Z",
-    "count": 1
-  },
-  "granville-street-ofrp": {
-    "name": "Granville Street Ofrp",
-    "slug": "granville-street-ofrp",
-    "lastIncident": "2026-03-07T15:44:00Z",
-    "count": 1
-  },
-  "132nd-st": {
-    "name": "132nd St",
-    "slug": "132nd-st",
-    "lastIncident": "2026-03-07T13:04:00Z",
-    "count": 1
-  },
-  "108th-ave": {
-    "name": "108th Ave",
-    "slug": "108th-ave",
-    "lastIncident": "2026-03-07T13:04:00Z",
-    "count": 1
-  },
-  "63a-ave": {
-    "name": "63a Ave",
-    "slug": "63a-ave",
-    "lastIncident": "2026-03-07T11:04:00Z",
-    "count": 1
-  },
-  "130b-st": {
-    "name": "130b St",
-    "slug": "130b-st",
-    "lastIncident": "2026-03-07T11:04:00Z",
-    "count": 1
-  },
-  "272nd-st": {
-    "name": "272nd St",
-    "slug": "272nd-st",
-    "lastIncident": "2026-03-07T09:04:00Z",
-    "count": 1
-  },
-  "43rd-ave": {
-    "name": "43rd Ave",
-    "slug": "43rd-ave",
-    "lastIncident": "2026-03-07T09:04:00Z",
-    "count": 1
-  },
-  "bolivar-rd": {
-    "name": "Bolivar Rd",
-    "slug": "bolivar-rd",
-    "lastIncident": "2026-03-07T08:38:00Z",
-    "count": 1
-  },
-  "trethewey-st": {
+  "abbotsford/trethewey-st": {
     "name": "Trethewey St",
-    "slug": "trethewey-st",
+    "slug": "abbotsford/trethewey-st",
+    "city": "Abbotsford",
     "lastIncident": "2026-03-09T19:57:00Z",
     "count": 1
   },
-  "8111-ackroyd-rd": {
-    "name": "8111 Ackroyd Rd",
-    "slug": "8111-ackroyd-rd",
-    "lastIncident": "2026-03-09T19:45:00Z",
+  "burnaby/deer-lake-pkwy": {
+    "name": "Deer Lake Pkwy",
+    "slug": "burnaby/deer-lake-pkwy",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-08T06:58:00Z",
+    "count": 2
+  },
+  "burnaby/garden-grove-dr": {
+    "name": "Garden Grove Dr",
+    "slug": "burnaby/garden-grove-dr",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-08T06:58:00Z",
     "count": 1
   },
-  "glengarry-ave": {
-    "name": "Glengarry Ave",
-    "slug": "glengarry-ave",
-    "lastIncident": "2026-03-09T19:34:00Z",
+  "burnaby/lougheed-hwy": {
+    "name": "Lougheed Hwy",
+    "slug": "burnaby/lougheed-hwy",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-08T06:55:00Z",
+    "count": 2
+  },
+  "burnaby/marine-way": {
+    "name": "Marine Way",
+    "slug": "burnaby/marine-way",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-08T12:17:00Z",
     "count": 1
   },
-  "ross-rd": {
-    "name": "Ross Rd",
-    "slug": "ross-rd",
-    "lastIncident": "2026-03-09T19:34:00Z",
+  "burnaby/willingdon-ave": {
+    "name": "Willingdon Ave",
+    "slug": "burnaby/willingdon-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-08T06:55:00Z",
     "count": 1
   },
-  "wren-st": {
-    "name": "Wren St",
-    "slug": "wren-st",
+  "chilliwack/chadsey-rd": {
+    "name": "Chadsey Rd",
+    "slug": "chilliwack/chadsey-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-03-09T17:08:00Z",
+    "count": 1
+  },
+  "chilliwack/chilliwack-river-rd": {
+    "name": "Chilliwack River Rd",
+    "slug": "chilliwack/chilliwack-river-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-03-09T17:57:00Z",
+    "count": 1
+  },
+  "chilliwack/hinkley-rd": {
+    "name": "Hinkley Rd",
+    "slug": "chilliwack/hinkley-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-03-08T20:40:00Z",
+    "count": 1
+  },
+  "chilliwack/keith-wilson-rd": {
+    "name": "Keith Wilson Rd",
+    "slug": "chilliwack/keith-wilson-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-03-09T17:08:00Z",
+    "count": 1
+  },
+  "chilliwack/prairie-central-rd": {
+    "name": "Prairie Central Rd",
+    "slug": "chilliwack/prairie-central-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-03-09T17:57:00Z",
+    "count": 1
+  },
+  "chilliwack/princess-ave": {
+    "name": "Princess Ave",
+    "slug": "chilliwack/princess-ave",
+    "city": "Chilliwack",
+    "lastIncident": "2026-03-09T01:39:00Z",
+    "count": 1
+  },
+  "chilliwack/trans-canada-hwy": {
+    "name": "Trans Canada Hwy",
+    "slug": "chilliwack/trans-canada-hwy",
+    "city": "Chilliwack",
+    "lastIncident": "2026-03-09T14:23:00Z",
+    "count": 1
+  },
+  "chilliwack/upper-prairie-rd": {
+    "name": "Upper Prairie Rd",
+    "slug": "chilliwack/upper-prairie-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-03-08T20:40:00Z",
+    "count": 1
+  },
+  "coquitlam/1960-como-lake-ave": {
+    "name": "1960 Como Lake Ave",
+    "slug": "coquitlam/1960-como-lake-ave",
+    "city": "Coquitlam",
+    "lastIncident": "2026-03-08T15:49:00Z",
+    "count": 1
+  },
+  "coquitlam/blue-mountain-st": {
+    "name": "Blue Mountain St",
+    "slug": "coquitlam/blue-mountain-st",
+    "city": "Coquitlam",
+    "lastIncident": "2026-03-07T17:51:00Z",
+    "count": 1
+  },
+  "coquitlam/foster-ave": {
+    "name": "Foster Ave",
+    "slug": "coquitlam/foster-ave",
+    "city": "Coquitlam",
+    "lastIncident": "2026-03-07T17:51:00Z",
+    "count": 1
+  },
+  "coquitlam/united-blvd": {
+    "name": "United Blvd",
+    "slug": "coquitlam/united-blvd",
+    "city": "Coquitlam",
+    "lastIncident": "2026-03-07T17:45:00Z",
+    "count": 1
+  },
+  "delta/112th-st": {
+    "name": "112th St",
+    "slug": "delta/112th-st",
+    "city": "Delta",
+    "lastIncident": "2026-03-08T16:30:00Z",
+    "count": 1
+  },
+  "delta/72nd-ave": {
+    "name": "72nd Ave",
+    "slug": "delta/72nd-ave",
+    "city": "Delta",
+    "lastIncident": "2026-03-08T16:30:00Z",
+    "count": 1
+  },
+  "delta/central-ave": {
+    "name": "Central Ave",
+    "slug": "delta/central-ave",
+    "city": "Delta",
+    "lastIncident": "2026-03-09T01:44:00Z",
+    "count": 1
+  },
+  "delta/hwy-91": {
+    "name": "Hwy 91",
+    "slug": "delta/hwy-91",
+    "city": "Delta",
+    "lastIncident": "2026-03-08T07:39:00Z",
+    "count": 1
+  },
+  "delta/ladner-trunk-rd": {
+    "name": "Ladner Trunk Rd",
+    "slug": "delta/ladner-trunk-rd",
+    "city": "Delta",
+    "lastIncident": "2026-03-09T01:44:00Z",
+    "count": 1
+  },
+  "langley/216th-street-ofrp": {
+    "name": "216th Street Ofrp",
+    "slug": "langley/216th-street-ofrp",
+    "city": "Langley",
+    "lastIncident": "2026-03-08T05:47:00Z",
+    "count": 1
+  },
+  "langley/248th-st": {
+    "name": "248th St",
+    "slug": "langley/248th-st",
+    "city": "Langley",
+    "lastIncident": "2026-03-08T19:44:00Z",
+    "count": 1
+  },
+  "langley/272nd-st": {
+    "name": "272nd St",
+    "slug": "langley/272nd-st",
+    "city": "Langley",
+    "lastIncident": "2026-03-07T09:04:00Z",
+    "count": 1
+  },
+  "langley/273rd-st": {
+    "name": "273rd St",
+    "slug": "langley/273rd-st",
+    "city": "Langley",
+    "lastIncident": "2026-03-07T18:52:00Z",
+    "count": 1
+  },
+  "langley/43rd-ave": {
+    "name": "43rd Ave",
+    "slug": "langley/43rd-ave",
+    "city": "Langley",
+    "lastIncident": "2026-03-07T09:04:00Z",
+    "count": 1
+  },
+  "langley/44th-ave": {
+    "name": "44th Ave",
+    "slug": "langley/44th-ave",
+    "city": "Langley",
+    "lastIncident": "2026-03-09T10:50:00Z",
+    "count": 1
+  },
+  "langley/56th-ave": {
+    "name": "56th Ave",
+    "slug": "langley/56th-ave",
+    "city": "Langley",
+    "lastIncident": "2026-03-09T22:51:00Z",
+    "count": 1
+  },
+  "langley/58th-cres": {
+    "name": "58th Cres",
+    "slug": "langley/58th-cres",
+    "city": "Langley",
+    "lastIncident": "2026-03-09T22:51:00Z",
+    "count": 1
+  },
+  "langley/fraser-hwy": {
+    "name": "Fraser Hwy",
+    "slug": "langley/fraser-hwy",
+    "city": "Langley",
+    "lastIncident": "2026-03-09T10:50:00Z",
+    "count": 4
+  },
+  "langley/trans-canada-hwy": {
+    "name": "Trans Canada Hwy",
+    "slug": "langley/trans-canada-hwy",
+    "city": "Langley",
+    "lastIncident": "2026-03-08T05:47:00Z",
+    "count": 1
+  },
+  "maple-ridge/119th-ave": {
+    "name": "119th Ave",
+    "slug": "maple-ridge/119th-ave",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-03-09T21:57:00Z",
+    "count": 1
+  },
+  "maple-ridge/203rd-st": {
+    "name": "203rd St",
+    "slug": "maple-ridge/203rd-st",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-03-08T03:30:00Z",
+    "count": 1
+  },
+  "maple-ridge/207th-st": {
+    "name": "207th St",
+    "slug": "maple-ridge/207th-st",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-03-07T19:46:00Z",
+    "count": 1
+  },
+  "maple-ridge/227th-st": {
+    "name": "227th St",
+    "slug": "maple-ridge/227th-st",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-03-08T22:03:00Z",
+    "count": 1
+  },
+  "maple-ridge/228th-st": {
+    "name": "228th St",
+    "slug": "maple-ridge/228th-st",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-03-09T21:57:00Z",
+    "count": 1
+  },
+  "maple-ridge/brown-ave": {
+    "name": "Brown Ave",
+    "slug": "maple-ridge/brown-ave",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-03-08T22:03:00Z",
+    "count": 1
+  },
+  "maple-ridge/dewdney-trunk-rd": {
+    "name": "Dewdney Trunk Rd",
+    "slug": "maple-ridge/dewdney-trunk-rd",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-03-07T19:46:00Z",
+    "count": 1
+  },
+  "maple-ridge/lougheed-hwy": {
+    "name": "Lougheed Hwy",
+    "slug": "maple-ridge/lougheed-hwy",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-03-08T03:30:00Z",
+    "count": 1
+  },
+  "mission/lougheed-hwy": {
+    "name": "Lougheed Hwy",
+    "slug": "mission/lougheed-hwy",
+    "city": "Mission",
     "lastIncident": "2026-03-09T20:52:00Z",
     "count": 1
   },
-  "119th-ave": {
-    "name": "119th Ave",
-    "slug": "119th-ave",
-    "lastIncident": "2026-03-09T21:57:00Z",
+  "mission/wren-st": {
+    "name": "Wren St",
+    "slug": "mission/wren-st",
+    "city": "Mission",
+    "lastIncident": "2026-03-09T20:52:00Z",
     "count": 1
   },
-  "228th-st": {
-    "name": "228th St",
-    "slug": "228th-st",
-    "lastIncident": "2026-03-09T21:57:00Z",
+  "new-westminster/1st-st": {
+    "name": "1st St",
+    "slug": "new-westminster/1st-st",
+    "city": "New Westminster",
+    "lastIncident": "2026-03-08T07:09:00Z",
     "count": 1
   },
-  "bridgeport-rd": {
+  "new-westminster/20th-st": {
+    "name": "20th St",
+    "slug": "new-westminster/20th-st",
+    "city": "New Westminster",
+    "lastIncident": "2026-03-08T01:18:00Z",
+    "count": 1
+  },
+  "new-westminster/6th-ave": {
+    "name": "6th Ave",
+    "slug": "new-westminster/6th-ave",
+    "city": "New Westminster",
+    "lastIncident": "2026-03-08T01:18:00Z",
+    "count": 1
+  },
+  "new-westminster/8th-st": {
+    "name": "8th St",
+    "slug": "new-westminster/8th-st",
+    "city": "New Westminster",
+    "lastIncident": "2026-03-08T17:26:00Z",
+    "count": 1
+  },
+  "new-westminster/mcbride-blvd": {
+    "name": "Mcbride Blvd",
+    "slug": "new-westminster/mcbride-blvd",
+    "city": "New Westminster",
+    "lastIncident": "2026-03-08T16:42:00Z",
+    "count": 2
+  },
+  "new-westminster/memorial-dr": {
+    "name": "Memorial Dr",
+    "slug": "new-westminster/memorial-dr",
+    "city": "New Westminster",
+    "lastIncident": "2026-03-08T16:42:00Z",
+    "count": 2
+  },
+  "new-westminster/royal-ave": {
+    "name": "Royal Ave",
+    "slug": "new-westminster/royal-ave",
+    "city": "New Westminster",
+    "lastIncident": "2026-03-08T17:26:00Z",
+    "count": 2
+  },
+  "north-vancouver/capilano-rd": {
+    "name": "Capilano Rd",
+    "slug": "north-vancouver/capilano-rd",
+    "city": "North Vancouver",
+    "lastIncident": "2026-03-09T08:01:00Z",
+    "count": 1
+  },
+  "north-vancouver/e-2nd-st": {
+    "name": "E 2nd St",
+    "slug": "north-vancouver/e-2nd-st",
+    "city": "North Vancouver",
+    "lastIncident": "2026-03-09T03:29:00Z",
+    "count": 1
+  },
+  "north-vancouver/mt-seymour-pkwy": {
+    "name": "Mt Seymour Pkwy",
+    "slug": "north-vancouver/mt-seymour-pkwy",
+    "city": "North Vancouver",
+    "lastIncident": "2026-03-09T22:21:00Z",
+    "count": 1
+  },
+  "north-vancouver/roche-point-dr": {
+    "name": "Roche Point Dr",
+    "slug": "north-vancouver/roche-point-dr",
+    "city": "North Vancouver",
+    "lastIncident": "2026-03-09T22:21:00Z",
+    "count": 1
+  },
+  "port-coquitlam/mary-hill-bps": {
+    "name": "Mary Hill Bps",
+    "slug": "port-coquitlam/mary-hill-bps",
+    "city": "Port Coquitlam",
+    "lastIncident": "2026-03-08T18:06:00Z",
+    "count": 1
+  },
+  "richmond/8111-ackroyd-rd": {
+    "name": "8111 Ackroyd Rd",
+    "slug": "richmond/8111-ackroyd-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-03-09T19:45:00Z",
+    "count": 1
+  },
+  "richmond/blundell-rd": {
+    "name": "Blundell Rd",
+    "slug": "richmond/blundell-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-03-09T15:26:00Z",
+    "count": 2
+  },
+  "richmond/bowcock-rd": {
+    "name": "Bowcock Rd",
+    "slug": "richmond/bowcock-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-03-08T18:17:00Z",
+    "count": 1
+  },
+  "richmond/bridgeport-rd": {
     "name": "Bridgeport Rd",
-    "slug": "bridgeport-rd",
+    "slug": "richmond/bridgeport-rd",
+    "city": "Richmond",
     "lastIncident": "2026-03-09T21:52:00Z",
     "count": 1
   },
-  "151st-st": {
+  "richmond/granville-ave": {
+    "name": "Granville Ave",
+    "slug": "richmond/granville-ave",
+    "city": "Richmond",
+    "lastIncident": "2026-03-08T23:52:00Z",
+    "count": 1
+  },
+  "richmond/hwy-91": {
+    "name": "Hwy 91",
+    "slug": "richmond/hwy-91",
+    "city": "Richmond",
+    "lastIncident": "2026-03-09T19:26:00Z",
+    "count": 1
+  },
+  "richmond/nelson-rd": {
+    "name": "Nelson Rd",
+    "slug": "richmond/nelson-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-03-08T06:15:00Z",
+    "count": 1
+  },
+  "richmond/no-2-rd": {
+    "name": "No 2 Rd",
+    "slug": "richmond/no-2-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-03-08T23:52:00Z",
+    "count": 1
+  },
+  "richmond/no-3-rd": {
+    "name": "No 3 Rd",
+    "slug": "richmond/no-3-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-03-09T21:52:00Z",
+    "count": 2
+  },
+  "richmond/no-4-rd": {
+    "name": "No 4 Rd",
+    "slug": "richmond/no-4-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-03-09T15:26:00Z",
+    "count": 2
+  },
+  "richmond/st-albans-rd": {
+    "name": "St Albans Rd",
+    "slug": "richmond/st-albans-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-03-08T18:17:00Z",
+    "count": 1
+  },
+  "richmond/wilkinson-rd": {
+    "name": "Wilkinson Rd",
+    "slug": "richmond/wilkinson-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-03-09T03:10:00Z",
+    "count": 1
+  },
+  "surrey/104th-avenue-onrp": {
+    "name": "104th Avenue Onrp",
+    "slug": "surrey/104th-avenue-onrp",
+    "city": "Surrey",
+    "lastIncident": "2026-03-09T00:23:00Z",
+    "count": 1
+  },
+  "surrey/108th-ave": {
+    "name": "108th Ave",
+    "slug": "surrey/108th-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-03-07T13:04:00Z",
+    "count": 1
+  },
+  "surrey/124th-st": {
+    "name": "124th St",
+    "slug": "surrey/124th-st",
+    "city": "Surrey",
+    "lastIncident": "2026-03-08T02:12:00Z",
+    "count": 1
+  },
+  "surrey/128th-st": {
+    "name": "128th St",
+    "slug": "surrey/128th-st",
+    "city": "Surrey",
+    "lastIncident": "2026-03-08T22:31:00Z",
+    "count": 2
+  },
+  "surrey/130b-st": {
+    "name": "130b St",
+    "slug": "surrey/130b-st",
+    "city": "Surrey",
+    "lastIncident": "2026-03-07T11:04:00Z",
+    "count": 1
+  },
+  "surrey/132nd-st": {
+    "name": "132nd St",
+    "slug": "surrey/132nd-st",
+    "city": "Surrey",
+    "lastIncident": "2026-03-07T13:04:00Z",
+    "count": 1
+  },
+  "surrey/140th-st": {
+    "name": "140th St",
+    "slug": "surrey/140th-st",
+    "city": "Surrey",
+    "lastIncident": "2026-03-08T23:56:00Z",
+    "count": 1
+  },
+  "surrey/141a-st": {
+    "name": "141a St",
+    "slug": "surrey/141a-st",
+    "city": "Surrey",
+    "lastIncident": "2026-03-08T07:19:00Z",
+    "count": 1
+  },
+  "surrey/151st-st": {
     "name": "151st St",
-    "slug": "151st-st",
+    "slug": "surrey/151st-st",
+    "city": "Surrey",
     "lastIncident": "2026-03-09T21:48:00Z",
     "count": 1
   },
-  "96th-ave": {
+  "surrey/168th-st": {
+    "name": "168th St",
+    "slug": "surrey/168th-st",
+    "city": "Surrey",
+    "lastIncident": "2026-03-08T23:46:00Z",
+    "count": 2
+  },
+  "surrey/16th-ave": {
+    "name": "16th Ave",
+    "slug": "surrey/16th-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-03-08T23:46:00Z",
+    "count": 1
+  },
+  "surrey/63a-ave": {
+    "name": "63a Ave",
+    "slug": "surrey/63a-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-03-07T11:04:00Z",
+    "count": 1
+  },
+  "surrey/64th-ave": {
+    "name": "64th Ave",
+    "slug": "surrey/64th-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-03-09T15:47:00Z",
+    "count": 1
+  },
+  "surrey/72a-ave": {
+    "name": "72a Ave",
+    "slug": "surrey/72a-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-03-08T07:19:00Z",
+    "count": 1
+  },
+  "surrey/78th-ave": {
+    "name": "78th Ave",
+    "slug": "surrey/78th-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-03-08T23:56:00Z",
+    "count": 1
+  },
+  "surrey/82nd-ave": {
+    "name": "82nd Ave",
+    "slug": "surrey/82nd-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-03-08T22:26:00Z",
+    "count": 1
+  },
+  "surrey/84th-ave": {
+    "name": "84th Ave",
+    "slug": "surrey/84th-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-03-08T08:09:00Z",
+    "count": 1
+  },
+  "surrey/88th-ave": {
+    "name": "88th Ave",
+    "slug": "surrey/88th-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-03-08T22:31:00Z",
+    "count": 1
+  },
+  "surrey/92nd-ave": {
+    "name": "92nd Ave",
+    "slug": "surrey/92nd-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-03-08T02:12:00Z",
+    "count": 1
+  },
+  "surrey/96th-ave": {
     "name": "96th Ave",
-    "slug": "96th-ave",
+    "slug": "surrey/96th-ave",
+    "city": "Surrey",
     "lastIncident": "2026-03-09T21:48:00Z",
     "count": 1
   },
-  "mt-seymour-pkwy": {
-    "name": "Mt Seymour Pkwy",
-    "slug": "mt-seymour-pkwy",
-    "lastIncident": "2026-03-09T22:21:00Z",
+  "surrey/bolivar-rd": {
+    "name": "Bolivar Rd",
+    "slug": "surrey/bolivar-rd",
+    "city": "Surrey",
+    "lastIncident": "2026-03-07T08:38:00Z",
     "count": 1
   },
-  "roche-point-dr": {
-    "name": "Roche Point Dr",
-    "slug": "roche-point-dr",
-    "lastIncident": "2026-03-09T22:21:00Z",
+  "surrey/hwy-17": {
+    "name": "Hwy 17",
+    "slug": "surrey/hwy-17",
+    "city": "Surrey",
+    "lastIncident": "2026-03-09T00:23:00Z",
     "count": 1
   },
-  "56th-ave": {
-    "name": "56th Ave",
-    "slug": "56th-ave",
-    "lastIncident": "2026-03-09T22:51:00Z",
+  "surrey/king-george-blvd": {
+    "name": "King George Blvd",
+    "slug": "surrey/king-george-blvd",
+    "city": "Surrey",
+    "lastIncident": "2026-03-09T15:47:00Z",
+    "count": 2
+  },
+  "surrey/prince-charles-blvd": {
+    "name": "Prince Charles Blvd",
+    "slug": "surrey/prince-charles-blvd",
+    "city": "Surrey",
+    "lastIncident": "2026-03-08T09:47:00Z",
     "count": 1
   },
-  "58th-cres": {
-    "name": "58th Cres",
-    "slug": "58th-cres",
-    "lastIncident": "2026-03-09T22:51:00Z",
+  "surrey/trans-canada-hwy": {
+    "name": "Trans Canada Hwy",
+    "slug": "surrey/trans-canada-hwy",
+    "city": "Surrey",
+    "lastIncident": "2026-03-08T08:51:00Z",
     "count": 1
   },
-  "mcdougall-ave": {
-    "name": "Mcdougall Ave",
-    "slug": "mcdougall-ave",
-    "lastIncident": "2026-03-09T23:11:00Z",
+  "vancouver/balaclava-st": {
+    "name": "Balaclava St",
+    "slug": "vancouver/balaclava-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-08T08:16:00Z",
     "count": 1
+  },
+  "vancouver/beatrice-st": {
+    "name": "Beatrice St",
+    "slug": "vancouver/beatrice-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-07T22:14:00Z",
+    "count": 1
+  },
+  "vancouver/burrard-st": {
+    "name": "Burrard St",
+    "slug": "vancouver/burrard-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-07T18:24:00Z",
+    "count": 1
+  },
+  "vancouver/e-12th-ave": {
+    "name": "E 12th Ave",
+    "slug": "vancouver/e-12th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-09T12:03:00Z",
+    "count": 1
+  },
+  "vancouver/e-41st-ave": {
+    "name": "E 41st Ave",
+    "slug": "vancouver/e-41st-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-07T22:14:00Z",
+    "count": 1
+  },
+  "vancouver/granville-st": {
+    "name": "Granville St",
+    "slug": "vancouver/granville-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-09T03:52:00Z",
+    "count": 2
+  },
+  "vancouver/granville-street-ofrp": {
+    "name": "Granville Street Ofrp",
+    "slug": "vancouver/granville-street-ofrp",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-07T15:44:00Z",
+    "count": 1
+  },
+  "vancouver/heather-st": {
+    "name": "Heather St",
+    "slug": "vancouver/heather-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-08T02:47:00Z",
+    "count": 1
+  },
+  "vancouver/kingsway": {
+    "name": "Kingsway",
+    "slug": "vancouver/kingsway",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-09T12:03:00Z",
+    "count": 1
+  },
+  "vancouver/knight-st": {
+    "name": "Knight St",
+    "slug": "vancouver/knight-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-09T18:39:00Z",
+    "count": 1
+  },
+  "vancouver/lower-mall": {
+    "name": "Lower Mall",
+    "slug": "vancouver/lower-mall",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-08T07:37:00Z",
+    "count": 1
+  },
+  "vancouver/oak-st": {
+    "name": "Oak St",
+    "slug": "vancouver/oak-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-09T21:47:00Z",
+    "count": 2
+  },
+  "vancouver/w-12th-ave": {
+    "name": "W 12th Ave",
+    "slug": "vancouver/w-12th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-07T18:24:00Z",
+    "count": 1
+  },
+  "vancouver/w-33rd-ave": {
+    "name": "W 33rd Ave",
+    "slug": "vancouver/w-33rd-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-09T21:47:00Z",
+    "count": 2
+  },
+  "vancouver/w-49th-ave": {
+    "name": "W 49th Ave",
+    "slug": "vancouver/w-49th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-07T23:33:00Z",
+    "count": 1
+  },
+  "vancouver/w-4th-ave": {
+    "name": "W 4th Ave",
+    "slug": "vancouver/w-4th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-09T17:04:00Z",
+    "count": 1
+  },
+  "vancouver/w-70th-ave": {
+    "name": "W 70th Ave",
+    "slug": "vancouver/w-70th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-08T02:47:00Z",
+    "count": 1
+  },
+  "vancouver/w-broadway": {
+    "name": "W Broadway",
+    "slug": "vancouver/w-broadway",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-08T08:16:00Z",
+    "count": 1
+  },
+  "west-vancouver/eagleridge-drive-ofrp": {
+    "name": "Eagleridge Drive Ofrp",
+    "slug": "west-vancouver/eagleridge-drive-ofrp",
+    "city": "West Vancouver",
+    "lastIncident": "2026-03-08T19:13:00Z",
+    "count": 1
+  },
+  "west-vancouver/trans-canada-hwy": {
+    "name": "Trans Canada Hwy",
+    "slug": "west-vancouver/trans-canada-hwy",
+    "city": "West Vancouver",
+    "lastIncident": "2026-03-08T19:13:00Z",
+    "count": 2
   }
 }

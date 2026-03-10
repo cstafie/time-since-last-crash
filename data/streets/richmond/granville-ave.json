@@ -1,0 +1,23 @@
+{
+  "slug": "richmond/granville-ave",
+  "name": "Granville Ave",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-03-08T23:52:00Z_no-2-rd_granville-ave",
+      "timestamp": "2026-03-08T23:52:00Z",
+      "address": "NO 2 RD & GRANVILLE AVE",
+      "city": "Richmond",
+      "streets": [
+        "richmond/no-2-rd",
+        "richmond/granville-ave"
+      ],
+      "streetNames": [
+        "No 2 Rd",
+        "Granville Ave"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-08T23:52:00Z",
+  "count": 1
+}

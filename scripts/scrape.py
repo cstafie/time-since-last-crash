@@ -75,19 +75,22 @@ def title_case(text: str) -> str:
     return " ".join(w.capitalize() for w in text.strip().split())
 
 
-def parse_streets(address: str) -> tuple[list[str], list[str]]:
+def parse_streets(address: str, city: str) -> tuple[list[str], list[str], list[str]]:
     """
     Split an intersection address on ' & ' to get 1 or 2 street names.
-    Returns (slugs, display_names).
+    Returns (city_namespaced_slugs, street_only_slugs, display_names).
+    City-namespaced slugs have the form "city-slug/street-slug".
     """
+    city_slug = slugify(city)
     parts = [s.strip() for s in address.split(" & ") if s.strip()]
-    slugs = [slugify(p) for p in parts[:2]]
+    street_slugs = [slugify(p) for p in parts[:2]]
+    namespaced_slugs = [f"{city_slug}/{s}" for s in street_slugs]
     names = [title_case(p) for p in parts[:2]]
-    return slugs, names
+    return namespaced_slugs, street_slugs, names
 
 
 def make_incident_id(iso_ts: str, slugs: list[str]) -> str:
-    slug_part = "_".join(s[:30] for s in slugs[:2]) if slugs else "unknown"
+    slug_part = "_".join(s[:60] for s in slugs[:2]) if slugs else "unknown"
     return f"{iso_ts}_{slug_part}"
 
 
@@ -204,7 +207,7 @@ def _parse_row(full_text: str, scrape_dt: datetime) -> dict | None:
     if city_norm not in METRO_CITIES:
         return None
 
-    slugs, names = parse_streets(street_part)
+    slugs, street_slugs, names = parse_streets(street_part, city_norm)
     if not slugs:
         return None
 
@@ -290,10 +293,11 @@ def update_data_files(new_incidents: list[dict]) -> int:
         added += 1
 
         for slug, name in zip(inc["streets"], inc["streetNames"]):
+            # slug is city-namespaced: "city-slug/street-slug"
             street_file = STREETS_DIR / f"{slug}.json"
             street_data = load_json(
                 street_file,
-                {"slug": slug, "name": name, "incidents": [], "lastIncident": None, "count": 0},
+                {"slug": slug, "name": name, "city": inc["city"], "incidents": [], "lastIncident": None, "count": 0},
             )
 
             street_data["incidents"].append(
@@ -309,6 +313,7 @@ def update_data_files(new_incidents: list[dict]) -> int:
             street_data["incidents"].sort(key=lambda x: x["timestamp"], reverse=True)
             street_data["lastIncident"] = street_data["incidents"][0]["timestamp"]
             street_data["name"] = name
+            street_data["city"] = inc["city"]
             street_data["count"] = len(street_data["incidents"])
 
             save_json(street_file, street_data)
@@ -316,6 +321,7 @@ def update_data_files(new_incidents: list[dict]) -> int:
             streets_index[slug] = {
                 "name": name,
                 "slug": slug,
+                "city": inc["city"],
                 "lastIncident": street_data["lastIncident"],
                 "count": street_data["count"],
             }

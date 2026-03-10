@@ -1,0 +1,23 @@
+{
+  "slug": "abbotsford/ross-rd",
+  "name": "Ross Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-03-09T19:34:00Z_glengarry-ave_ross-rd",
+      "timestamp": "2026-03-09T19:34:00Z",
+      "address": "GLENGARRY AVE & ROSS RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/glengarry-ave",
+        "abbotsford/ross-rd"
+      ],
+      "streetNames": [
+        "Glengarry Ave",
+        "Ross Rd"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-09T19:34:00Z",
+  "count": 1
+}

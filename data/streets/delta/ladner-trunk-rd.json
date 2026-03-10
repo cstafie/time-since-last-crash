@@ -1,0 +1,23 @@
+{
+  "slug": "delta/ladner-trunk-rd",
+  "name": "Ladner Trunk Rd",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-03-09T01:44:00Z_central-ave_ladner-trunk-rd",
+      "timestamp": "2026-03-09T01:44:00Z",
+      "address": "CENTRAL AVE & LADNER TRUNK RD",
+      "city": "Delta",
+      "streets": [
+        "delta/central-ave",
+        "delta/ladner-trunk-rd"
+      ],
+      "streetNames": [
+        "Central Ave",
+        "Ladner Trunk Rd"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-09T01:44:00Z",
+  "count": 1
+}

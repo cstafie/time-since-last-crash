@@ -1,0 +1,21 @@
+{
+  "slug": "delta/hwy-91",
+  "name": "Hwy 91",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-03-08T07:39:00Z_hwy-91",
+      "timestamp": "2026-03-08T07:39:00Z",
+      "address": "HWY 91",
+      "city": "Delta",
+      "streets": [
+        "delta/hwy-91"
+      ],
+      "streetNames": [
+        "Hwy 91"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-08T07:39:00Z",
+  "count": 1
+}

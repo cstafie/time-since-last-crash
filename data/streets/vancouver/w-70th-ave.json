@@ -1,0 +1,23 @@
+{
+  "slug": "vancouver/w-70th-ave",
+  "name": "W 70th Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-08T02:47:00Z_heather-st_w-70th-ave",
+      "timestamp": "2026-03-08T02:47:00Z",
+      "address": "HEATHER ST & W 70TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/heather-st",
+        "vancouver/w-70th-ave"
+      ],
+      "streetNames": [
+        "Heather St",
+        "W 70th Ave"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-08T02:47:00Z",
+  "count": 1
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "burnaby/marine-way",
+  "name": "Marine Way",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-03-08T12:17:00Z_marine-way",
+      "timestamp": "2026-03-08T12:17:00Z",
+      "address": "MARINE WAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/marine-way"
+      ],
+      "streetNames": [
+        "Marine Way"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-08T12:17:00Z",
+  "count": 1
+}

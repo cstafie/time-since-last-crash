@@ -1,0 +1,23 @@
+{
+  "slug": "new-westminster/8th-st",
+  "name": "8th St",
+  "city": "New Westminster",
+  "incidents": [
+    {
+      "id": "2026-03-08T17:26:00Z_royal-ave_8th-st",
+      "timestamp": "2026-03-08T17:26:00Z",
+      "address": "ROYAL AVE & 8TH ST",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/royal-ave",
+        "new-westminster/8th-st"
+      ],
+      "streetNames": [
+        "Royal Ave",
+        "8th St"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-08T17:26:00Z",
+  "count": 1
+}

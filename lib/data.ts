@@ -51,9 +51,12 @@ export async function fetchStreetsIndex(): Promise<StreetsIndex> {
   }
 }
 
-export async function fetchStreet(slug: string): Promise<StreetDetail | null> {
+export async function fetchStreet(
+  city: string,
+  street: string,
+): Promise<StreetDetail | null> {
   try {
-    return await fetchJson<StreetDetail>(`data/streets/${slug}.json`);
+    return await fetchJson<StreetDetail>(`data/streets/${city}/${street}.json`);
   } catch {
     return null;
   }

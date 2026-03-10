@@ -1,0 +1,21 @@
+{
+  "slug": "surrey/trans-canada-hwy",
+  "name": "Trans Canada Hwy",
+  "city": "Surrey",
+  "incidents": [
+    {
+      "id": "2026-03-08T08:51:00Z_trans-canada-hwy",
+      "timestamp": "2026-03-08T08:51:00Z",
+      "address": "TRANS CANADA HWY",
+      "city": "Surrey",
+      "streets": [
+        "surrey/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-08T08:51:00Z",
+  "count": 1
+}

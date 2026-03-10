@@ -16,6 +16,7 @@ export interface Incident {
 export interface StreetIndexEntry {
   name: string;
   slug: string;
+  city: string;
   lastIncident: string; // ISO 8601
   count: number;
 }
@@ -23,6 +24,7 @@ export interface StreetIndexEntry {
 export interface StreetDetail {
   slug: string;
   name: string;
+  city: string;
   lastIncident: string | null;
   count: number;
   incidents: Omit<Incident, "raw">[];

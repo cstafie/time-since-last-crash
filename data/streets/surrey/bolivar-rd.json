@@ -1,0 +1,23 @@
+{
+  "slug": "surrey/bolivar-rd",
+  "name": "Bolivar Rd",
+  "city": "Surrey",
+  "incidents": [
+    {
+      "id": "2026-03-07T08:38:00Z_king-george-blvd_bolivar-rd",
+      "timestamp": "2026-03-07T08:38:00Z",
+      "address": "KING GEORGE BLVD & BOLIVAR RD",
+      "city": "Surrey",
+      "streets": [
+        "surrey/king-george-blvd",
+        "surrey/bolivar-rd"
+      ],
+      "streetNames": [
+        "King George Blvd",
+        "Bolivar Rd"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-07T08:38:00Z",
+  "count": 1
+}

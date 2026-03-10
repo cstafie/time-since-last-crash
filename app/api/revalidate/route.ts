@@ -42,12 +42,13 @@ export async function POST(req: NextRequest) {
   const revalidatedSlugs: string[] = [];
 
   if (body.all) {
-    // Revalidate the entire [slug] dynamic segment
-    revalidatePath("/[slug]", "page");
+    // Revalidate the entire [city]/[street] dynamic segment
+    revalidatePath("/[city]/[street]", "page");
     revalidatedSlugs.push("*");
   } else if (Array.isArray(body.slugs) && body.slugs.length > 0) {
     for (const slug of body.slugs) {
-      if (typeof slug === "string" && /^[\w-]+$/.test(slug)) {
+      // slugs are now "city-slug/street-slug"
+      if (typeof slug === "string" && /^[\w-]+\/[\w-]+$/.test(slug)) {
         revalidatePath(`/${slug}`);
         revalidatedSlugs.push(slug);
       }

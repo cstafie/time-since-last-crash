@@ -1,0 +1,21 @@
+{
+  "slug": "vancouver/granville-street-ofrp",
+  "name": "Granville Street Ofrp",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-07T15:44:00Z_granville-street-ofrp",
+      "timestamp": "2026-03-07T15:44:00Z",
+      "address": "GRANVILLE STREET OFRP",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-street-ofrp"
+      ],
+      "streetNames": [
+        "Granville Street Ofrp"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-07T15:44:00Z",
+  "count": 1
+}

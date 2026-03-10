@@ -1,0 +1,21 @@
+{
+  "slug": "richmond/nelson-rd",
+  "name": "Nelson Rd",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-03-08T06:15:00Z_nelson-rd",
+      "timestamp": "2026-03-08T06:15:00Z",
+      "address": "NELSON RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/nelson-rd"
+      ],
+      "streetNames": [
+        "Nelson Rd"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-08T06:15:00Z",
+  "count": 1
+}

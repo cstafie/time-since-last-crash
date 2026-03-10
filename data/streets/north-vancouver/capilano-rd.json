@@ -1,0 +1,21 @@
+{
+  "slug": "north-vancouver/capilano-rd",
+  "name": "Capilano Rd",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-09T08:01:00Z_capilano-rd",
+      "timestamp": "2026-03-09T08:01:00Z",
+      "address": "CAPILANO RD",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/capilano-rd"
+      ],
+      "streetNames": [
+        "Capilano Rd"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-09T08:01:00Z",
+  "count": 1
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "new-westminster/mcbride-blvd",
+  "name": "Mcbride Blvd",
+  "city": "New Westminster",
+  "incidents": [
+    {
+      "id": "2026-03-08T16:42:00Z_memorial-dr_mcbride-blvd",
+      "timestamp": "2026-03-08T16:42:00Z",
+      "address": "MEMORIAL DR & MCBRIDE BLVD",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/memorial-dr",
+        "new-westminster/mcbride-blvd"
+      ],
+      "streetNames": [
+        "Memorial Dr",
+        "Mcbride Blvd"
+      ]
+    },
+    {
+      "id": "2026-03-08T13:55:00Z_mcbride-blvd_memorial-dr",
+      "timestamp": "2026-03-08T13:55:00Z",
+      "address": "MCBRIDE BLVD & MEMORIAL DR",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/mcbride-blvd",
+        "new-westminster/memorial-dr"
+      ],
+      "streetNames": [
+        "Mcbride Blvd",
+        "Memorial Dr"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-08T16:42:00Z",
+  "count": 2
+}

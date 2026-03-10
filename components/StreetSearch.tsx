@@ -14,7 +14,12 @@ export default function StreetSearch({ streets }: Props) {
 
   const filtered = q
     ? [...streets]
-        .filter((s) => s.name.toLowerCase().includes(q) || s.slug.includes(q))
+        .filter(
+          (s) =>
+            s.name.toLowerCase().includes(q) ||
+            s.slug.includes(q) ||
+            s.city.toLowerCase().includes(q),
+        )
         .sort(
           (a, b) =>
             new Date(b.lastIncident).getTime() -

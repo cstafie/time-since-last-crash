@@ -1,0 +1,23 @@
+{
+  "slug": "delta/112th-st",
+  "name": "112th St",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-03-08T16:30:00Z_112th-st_72nd-ave",
+      "timestamp": "2026-03-08T16:30:00Z",
+      "address": "112TH ST & 72ND AVE",
+      "city": "Delta",
+      "streets": [
+        "delta/112th-st",
+        "delta/72nd-ave"
+      ],
+      "streetNames": [
+        "112th St",
+        "72nd Ave"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-08T16:30:00Z",
+  "count": 1
+}

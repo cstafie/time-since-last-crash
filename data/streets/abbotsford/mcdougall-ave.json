@@ -1,0 +1,23 @@
+{
+  "slug": "abbotsford/mcdougall-ave",
+  "name": "Mcdougall Ave",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-03-09T23:11:00Z_mcdougall-ave_mccallum-rd",
+      "timestamp": "2026-03-09T23:11:00Z",
+      "address": "MCDOUGALL AVE & MCCALLUM RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/mcdougall-ave",
+        "abbotsford/mccallum-rd"
+      ],
+      "streetNames": [
+        "Mcdougall Ave",
+        "Mccallum Rd"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-09T23:11:00Z",
+  "count": 1
+}
