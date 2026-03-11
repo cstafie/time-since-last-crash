@@ -1321,5 +1321,19 @@
     "city": "Surrey",
     "lastIncident": "2026-03-11T20:54:00Z",
     "count": 1
+  },
+  "surrey/137th-st": {
+    "name": "137th St",
+    "slug": "surrey/137th-st",
+    "city": "Surrey",
+    "lastIncident": "2026-03-11T21:07:00Z",
+    "count": 1
+  },
+  "vancouver/trans-canada-hwy": {
+    "name": "Trans Canada Hwy",
+    "slug": "vancouver/trans-canada-hwy",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-11T21:15:00Z",
+    "count": 1
   }
 }

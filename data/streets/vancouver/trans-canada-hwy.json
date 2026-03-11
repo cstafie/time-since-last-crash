@@ -1,0 +1,21 @@
+{
+  "slug": "vancouver/trans-canada-hwy",
+  "name": "Trans Canada Hwy",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-11T21:15:00Z_vancouver/trans-canada-hwy",
+      "timestamp": "2026-03-11T21:15:00Z",
+      "address": "TRANS CANADA HWY",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-11T21:15:00Z",
+  "count": 1
+}
