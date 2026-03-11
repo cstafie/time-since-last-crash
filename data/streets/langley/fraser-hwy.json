@@ -4,6 +4,20 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-03-11T23:16:00Z_langley/fraser-hwy_langley/268th-st",
+      "timestamp": "2026-03-11T23:16:00Z",
+      "address": "FRASER HWY & 268TH ST",
+      "city": "Langley",
+      "streets": [
+        "langley/fraser-hwy",
+        "langley/268th-st"
+      ],
+      "streetNames": [
+        "Fraser Hwy",
+        "268th St"
+      ]
+    },
+    {
       "id": "2026-03-09T10:50:00Z_44th-ave_fraser-hwy",
       "timestamp": "2026-03-09T10:50:00Z",
       "address": "44TH AVE & FRASER HWY",
@@ -58,6 +72,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-09T10:50:00Z",
-  "count": 4
+  "lastIncident": "2026-03-11T23:16:00Z",
+  "count": 5
 }

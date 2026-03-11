@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-03-11T23:16:00Z_langley/fraser-hwy_langley/268th-st",
+    "timestamp": "2026-03-11T23:16:00Z",
+    "scrapedAt": "2026-03-11T23:38:34Z",
+    "address": "FRASER HWY & 268TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy",
+      "langley/268th-st"
+    ],
+    "streetNames": [
+      "Fraser Hwy",
+      "268th St"
+    ]
+  },
+  {
     "id": "2026-03-11T22:50:00Z_surrey/turning-lane",
     "timestamp": "2026-03-11T22:50:00Z",
     "scrapedAt": "2026-03-11T23:03:02Z",
@@ -10,6 +25,19 @@
     ],
     "streetNames": [
       "Turning Lane"
+    ]
+  },
+  {
+    "id": "2026-03-11T22:50:00Z_surrey/192nd-st",
+    "timestamp": "2026-03-11T22:50:00Z",
+    "scrapedAt": "2026-03-11T23:38:34Z",
+    "address": "192ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/192nd-st"
+    ],
+    "streetNames": [
+      "192nd St"
     ]
   },
   {
