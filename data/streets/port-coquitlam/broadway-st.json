@@ -1,6 +1,6 @@
 {
-  "slug": "port-coquitlam/mary-hill-bps",
-  "name": "Mary Hill Bps",
+  "slug": "port-coquitlam/broadway-st",
+  "name": "Broadway St",
   "city": "Port Coquitlam",
   "incidents": [
     {
@@ -16,20 +16,8 @@
         "Mary Hill Bps",
         "Broadway St"
       ]
-    },
-    {
-      "id": "2026-03-08T18:06:00Z_mary-hill-bps",
-      "timestamp": "2026-03-08T18:06:00Z",
-      "address": "MARY HILL BPS",
-      "city": "Port Coquitlam",
-      "streets": [
-        "port-coquitlam/mary-hill-bps"
-      ],
-      "streetNames": [
-        "Mary Hill Bps"
-      ]
     }
   ],
   "lastIncident": "2026-03-11T20:10:00Z",
-  "count": 2
+  "count": 1
 }

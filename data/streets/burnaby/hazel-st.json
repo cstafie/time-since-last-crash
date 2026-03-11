@@ -1,0 +1,21 @@
+{
+  "slug": "burnaby/hazel-st",
+  "name": "Hazel St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-03-11T20:26:00Z_burnaby/hazel-st",
+      "timestamp": "2026-03-11T20:26:00Z",
+      "address": "HAZEL ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/hazel-st"
+      ],
+      "streetNames": [
+        "Hazel St"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-11T20:26:00Z",
+  "count": 1
+}
