@@ -1,0 +1,21 @@
+{
+  "slug": "abbotsford/downes-rd",
+  "name": "Downes Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-03-10T23:42:00Z_abbotsford/downes-rd",
+      "timestamp": "2026-03-10T23:42:00Z",
+      "address": "DOWNES RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/downes-rd"
+      ],
+      "streetNames": [
+        "Downes Rd"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-10T23:42:00Z",
+  "count": 1
+}
