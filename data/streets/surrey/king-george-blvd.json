@@ -4,6 +4,20 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-03-11T12:51:00Z_surrey/king-george-blvd_surrey/88th-ave",
+      "timestamp": "2026-03-11T12:51:00Z",
+      "address": "KING GEORGE BLVD & 88TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/king-george-blvd",
+        "surrey/88th-ave"
+      ],
+      "streetNames": [
+        "King George Blvd",
+        "88th Ave"
+      ]
+    },
+    {
       "id": "2026-03-10T14:28:00Z_surrey/100th-ave_surrey/king-george-blvd",
       "timestamp": "2026-03-10T14:28:00Z",
       "address": "100TH AVE & KING GEORGE BLVD",
@@ -46,6 +60,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-10T14:28:00Z",
-  "count": 3
+  "lastIncident": "2026-03-11T12:51:00Z",
+  "count": 4
 }
