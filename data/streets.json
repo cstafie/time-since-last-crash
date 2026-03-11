@@ -1209,5 +1209,12 @@
     "city": "Vancouver",
     "lastIncident": "2026-03-11T14:21:00Z",
     "count": 1
+  },
+  "abbotsford/engineer-cres": {
+    "name": "Engineer Cres",
+    "slug": "abbotsford/engineer-cres",
+    "city": "Abbotsford",
+    "lastIncident": "2026-03-11T14:48:00Z",
+    "count": 1
   }
 }

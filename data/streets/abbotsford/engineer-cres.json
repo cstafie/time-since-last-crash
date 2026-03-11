@@ -1,0 +1,21 @@
+{
+  "slug": "abbotsford/engineer-cres",
+  "name": "Engineer Cres",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-03-11T14:48:00Z_abbotsford/engineer-cres",
+      "timestamp": "2026-03-11T14:48:00Z",
+      "address": "ENGINEER CRES",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/engineer-cres"
+      ],
+      "streetNames": [
+        "Engineer Cres"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-11T14:48:00Z",
+  "count": 1
+}
