@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-03-11T02:14:00Z_delta/hwy-91",
+    "timestamp": "2026-03-11T02:14:00Z",
+    "scrapedAt": "2026-03-11T02:21:06Z",
+    "address": "HWY 91",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-91"
+    ],
+    "streetNames": [
+      "Hwy 91"
+    ]
+  },
+  {
+    "id": "2026-03-11T01:30:00Z_burnaby/canada-way_burnaby/norland-ave",
+    "timestamp": "2026-03-11T01:30:00Z",
+    "scrapedAt": "2026-03-11T02:21:06Z",
+    "address": "CANADA WAY & NORLAND AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/canada-way",
+      "burnaby/norland-ave"
+    ],
+    "streetNames": [
+      "Canada Way",
+      "Norland Ave"
+    ]
+  },
+  {
     "id": "2026-03-11T01:06:00Z_coquitlam/lougheed-hwy",
     "timestamp": "2026-03-11T01:06:00Z",
     "scrapedAt": "2026-03-11T01:30:26Z",
