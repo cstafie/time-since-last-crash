@@ -1,5 +1,46 @@
 [
   {
+    "id": "2026-03-11T15:55:00Z_surrey/140th-st",
+    "timestamp": "2026-03-11T15:55:00Z",
+    "scrapedAt": "2026-03-11T16:13:57Z",
+    "address": "140TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/140th-st"
+    ],
+    "streetNames": [
+      "140th St"
+    ]
+  },
+  {
+    "id": "2026-03-11T15:48:00Z_burnaby/grange-st_burnaby/halley-ave",
+    "timestamp": "2026-03-11T15:48:00Z",
+    "scrapedAt": "2026-03-11T16:13:57Z",
+    "address": "GRANGE ST & HALLEY AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/grange-st",
+      "burnaby/halley-ave"
+    ],
+    "streetNames": [
+      "Grange St",
+      "Halley Ave"
+    ]
+  },
+  {
+    "id": "2026-03-11T15:46:00Z_burnaby/trans-canada-hwy",
+    "timestamp": "2026-03-11T15:46:00Z",
+    "scrapedAt": "2026-03-11T16:13:57Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ]
+  },
+  {
     "id": "2026-03-11T15:20:00Z_new-westminster/e-8th-ave_new-westminster/mcbride-blvd",
     "timestamp": "2026-03-11T15:20:00Z",
     "scrapedAt": "2026-03-11T15:45:10Z",

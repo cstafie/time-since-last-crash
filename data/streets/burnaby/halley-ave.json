@@ -1,0 +1,23 @@
+{
+  "slug": "burnaby/halley-ave",
+  "name": "Halley Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-03-11T15:48:00Z_burnaby/grange-st_burnaby/halley-ave",
+      "timestamp": "2026-03-11T15:48:00Z",
+      "address": "GRANGE ST & HALLEY AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/grange-st",
+        "burnaby/halley-ave"
+      ],
+      "streetNames": [
+        "Grange St",
+        "Halley Ave"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-11T15:48:00Z",
+  "count": 1
+}
