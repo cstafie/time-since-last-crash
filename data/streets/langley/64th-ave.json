@@ -1,0 +1,23 @@
+{
+  "slug": "langley/64th-ave",
+  "name": "64th Ave",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-03-11T05:47:00Z_langley/264th-st_langley/64th-ave",
+      "timestamp": "2026-03-11T05:47:00Z",
+      "address": "264TH ST & 64TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/264th-st",
+        "langley/64th-ave"
+      ],
+      "streetNames": [
+        "264th St",
+        "64th Ave"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-11T05:47:00Z",
+  "count": 1
+}
