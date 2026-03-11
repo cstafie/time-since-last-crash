@@ -1265,5 +1265,12 @@
     "city": "Vancouver",
     "lastIncident": "2026-03-11T17:02:00Z",
     "count": 1
+  },
+  "surrey/langley-bps": {
+    "name": "Langley Bps",
+    "slug": "surrey/langley-bps",
+    "city": "Surrey",
+    "lastIncident": "2026-03-11T19:12:00Z",
+    "count": 1
   }
 }

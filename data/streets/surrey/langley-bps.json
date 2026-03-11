@@ -1,0 +1,21 @@
+{
+  "slug": "surrey/langley-bps",
+  "name": "Langley Bps",
+  "city": "Surrey",
+  "incidents": [
+    {
+      "id": "2026-03-11T19:12:00Z_surrey/langley-bps",
+      "timestamp": "2026-03-11T19:12:00Z",
+      "address": "LANGLEY BPS",
+      "city": "Surrey",
+      "streets": [
+        "surrey/langley-bps"
+      ],
+      "streetNames": [
+        "Langley Bps"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-11T19:12:00Z",
+  "count": 1
+}
