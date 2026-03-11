@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-03-11T21:47:00Z_burnaby/kensington-ave_burnaby/canada-way",
+    "timestamp": "2026-03-11T21:47:00Z",
+    "scrapedAt": "2026-03-11T22:03:37Z",
+    "address": "KENSINGTON AVE & CANADA WAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/kensington-ave",
+      "burnaby/canada-way"
+    ],
+    "streetNames": [
+      "Kensington Ave",
+      "Canada Way"
+    ]
+  },
+  {
     "id": "2026-03-11T21:15:00Z_vancouver/trans-canada-hwy",
     "timestamp": "2026-03-11T21:15:00Z",
     "scrapedAt": "2026-03-11T21:42:37Z",
