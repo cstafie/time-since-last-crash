@@ -1,6 +1,6 @@
 {
-  "slug": "maple-ridge/lougheed-hwy",
-  "name": "Lougheed Hwy",
+  "slug": "maple-ridge/222nd-st",
+  "name": "222nd St",
   "city": "Maple Ridge",
   "incidents": [
     {
@@ -16,22 +16,8 @@
         "Lougheed Hwy",
         "222nd St"
       ]
-    },
-    {
-      "id": "2026-03-08T03:30:00Z_lougheed-hwy_203rd-st",
-      "timestamp": "2026-03-08T03:30:00Z",
-      "address": "LOUGHEED HWY & 203RD ST",
-      "city": "Maple Ridge",
-      "streets": [
-        "maple-ridge/lougheed-hwy",
-        "maple-ridge/203rd-st"
-      ],
-      "streetNames": [
-        "Lougheed Hwy",
-        "203rd St"
-      ]
     }
   ],
   "lastIncident": "2026-03-11T22:16:00Z",
-  "count": 2
+  "count": 1
 }

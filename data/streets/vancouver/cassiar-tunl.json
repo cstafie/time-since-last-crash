@@ -1,0 +1,21 @@
+{
+  "slug": "vancouver/cassiar-tunl",
+  "name": "Cassiar Tunl",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-11T22:01:00Z_vancouver/cassiar-tunl",
+      "timestamp": "2026-03-11T22:01:00Z",
+      "address": "CASSIAR TUNL",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/cassiar-tunl"
+      ],
+      "streetNames": [
+        "Cassiar Tunl"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-11T22:01:00Z",
+  "count": 1
+}

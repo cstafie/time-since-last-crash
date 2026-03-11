@@ -1,5 +1,59 @@
 [
   {
+    "id": "2026-03-11T22:16:00Z_maple-ridge/lougheed-hwy_maple-ridge/222nd-st",
+    "timestamp": "2026-03-11T22:16:00Z",
+    "scrapedAt": "2026-03-11T22:39:36Z",
+    "address": "LOUGHEED HWY & 222ND ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/lougheed-hwy",
+      "maple-ridge/222nd-st"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "222nd St"
+    ]
+  },
+  {
+    "id": "2026-03-11T22:09:00Z_mission/horne-street-onrp",
+    "timestamp": "2026-03-11T22:09:00Z",
+    "scrapedAt": "2026-03-11T22:39:36Z",
+    "address": "HORNE STREET ONRP",
+    "city": "Mission",
+    "streets": [
+      "mission/horne-street-onrp"
+    ],
+    "streetNames": [
+      "Horne Street Onrp"
+    ]
+  },
+  {
+    "id": "2026-03-11T22:04:00Z_surrey/64th-ave",
+    "timestamp": "2026-03-11T22:04:00Z",
+    "scrapedAt": "2026-03-11T22:39:36Z",
+    "address": "64TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/64th-ave"
+    ],
+    "streetNames": [
+      "64th Ave"
+    ]
+  },
+  {
+    "id": "2026-03-11T22:01:00Z_vancouver/cassiar-tunl",
+    "timestamp": "2026-03-11T22:01:00Z",
+    "scrapedAt": "2026-03-11T22:39:36Z",
+    "address": "CASSIAR TUNL",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/cassiar-tunl"
+    ],
+    "streetNames": [
+      "Cassiar Tunl"
+    ]
+  },
+  {
     "id": "2026-03-11T21:47:00Z_burnaby/kensington-ave_burnaby/canada-way",
     "timestamp": "2026-03-11T21:47:00Z",
     "scrapedAt": "2026-03-11T22:03:37Z",
