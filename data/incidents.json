@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-03-11T01:06:00Z_coquitlam/lougheed-hwy",
+    "timestamp": "2026-03-11T01:06:00Z",
+    "scrapedAt": "2026-03-11T01:30:26Z",
+    "address": "LOUGHEED HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
+    ]
+  },
+  {
+    "id": "2026-03-11T01:06:00Z_coquitlam/lougheed-hwy_coquitlam/orchid-dr",
+    "timestamp": "2026-03-11T01:06:00Z",
+    "scrapedAt": "2026-03-11T01:30:26Z",
+    "address": "LOUGHEED HWY & ORCHID DR",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/lougheed-hwy",
+      "coquitlam/orchid-dr"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "Orchid Dr"
+    ]
+  },
+  {
     "id": "2026-03-10T23:43:00Z_langley/72nd-ave_langley/200th-st",
     "timestamp": "2026-03-10T23:43:00Z",
     "scrapedAt": "2026-03-11T00:03:02Z",

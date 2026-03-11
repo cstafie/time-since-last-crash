@@ -1111,5 +1111,19 @@
     "city": "Abbotsford",
     "lastIncident": "2026-03-10T23:42:00Z",
     "count": 1
+  },
+  "coquitlam/lougheed-hwy": {
+    "name": "Lougheed Hwy",
+    "slug": "coquitlam/lougheed-hwy",
+    "city": "Coquitlam",
+    "lastIncident": "2026-03-11T01:06:00Z",
+    "count": 2
+  },
+  "coquitlam/orchid-dr": {
+    "name": "Orchid Dr",
+    "slug": "coquitlam/orchid-dr",
+    "city": "Coquitlam",
+    "lastIncident": "2026-03-11T01:06:00Z",
+    "count": 1
   }
 }

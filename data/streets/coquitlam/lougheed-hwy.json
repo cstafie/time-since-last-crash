@@ -1,0 +1,35 @@
+{
+  "slug": "coquitlam/lougheed-hwy",
+  "name": "Lougheed Hwy",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-03-11T01:06:00Z_coquitlam/lougheed-hwy",
+      "timestamp": "2026-03-11T01:06:00Z",
+      "address": "LOUGHEED HWY",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/lougheed-hwy"
+      ],
+      "streetNames": [
+        "Lougheed Hwy"
+      ]
+    },
+    {
+      "id": "2026-03-11T01:06:00Z_coquitlam/lougheed-hwy_coquitlam/orchid-dr",
+      "timestamp": "2026-03-11T01:06:00Z",
+      "address": "LOUGHEED HWY & ORCHID DR",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/lougheed-hwy",
+        "coquitlam/orchid-dr"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "Orchid Dr"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-11T01:06:00Z",
+  "count": 2
+}
