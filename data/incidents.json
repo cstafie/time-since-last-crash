@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-03-11T14:21:00Z_vancouver/se-marine-dr_vancouver/kerr-st",
+    "timestamp": "2026-03-11T14:21:00Z",
+    "scrapedAt": "2026-03-11T14:44:54Z",
+    "address": "SE MARINE DR & KERR ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/se-marine-dr",
+      "vancouver/kerr-st"
+    ],
+    "streetNames": [
+      "Se Marine Dr",
+      "Kerr St"
+    ]
+  },
+  {
     "id": "2026-03-11T12:51:00Z_surrey/king-george-blvd_surrey/88th-ave",
     "timestamp": "2026-03-11T12:51:00Z",
     "scrapedAt": "2026-03-11T13:25:38Z",
