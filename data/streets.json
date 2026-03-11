@@ -374,8 +374,8 @@
     "name": "Mcbride Blvd",
     "slug": "new-westminster/mcbride-blvd",
     "city": "New Westminster",
-    "lastIncident": "2026-03-08T16:42:00Z",
-    "count": 2
+    "lastIncident": "2026-03-11T15:20:00Z",
+    "count": 3
   },
   "new-westminster/memorial-dr": {
     "name": "Memorial Dr",
@@ -1215,6 +1215,20 @@
     "slug": "abbotsford/engineer-cres",
     "city": "Abbotsford",
     "lastIncident": "2026-03-11T14:48:00Z",
+    "count": 1
+  },
+  "new-westminster/e-8th-ave": {
+    "name": "E 8th Ave",
+    "slug": "new-westminster/e-8th-ave",
+    "city": "New Westminster",
+    "lastIncident": "2026-03-11T15:20:00Z",
+    "count": 1
+  },
+  "north-vancouver/old-lillooet-rd": {
+    "name": "Old Lillooet Rd",
+    "slug": "north-vancouver/old-lillooet-rd",
+    "city": "North Vancouver",
+    "lastIncident": "2026-03-11T15:20:00Z",
     "count": 1
   }
 }

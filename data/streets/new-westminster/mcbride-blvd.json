@@ -4,6 +4,20 @@
   "city": "New Westminster",
   "incidents": [
     {
+      "id": "2026-03-11T15:20:00Z_new-westminster/e-8th-ave_new-westminster/mcbride-blvd",
+      "timestamp": "2026-03-11T15:20:00Z",
+      "address": "E 8TH AVE & MCBRIDE BLVD",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/e-8th-ave",
+        "new-westminster/mcbride-blvd"
+      ],
+      "streetNames": [
+        "E 8th Ave",
+        "Mcbride Blvd"
+      ]
+    },
+    {
       "id": "2026-03-08T16:42:00Z_memorial-dr_mcbride-blvd",
       "timestamp": "2026-03-08T16:42:00Z",
       "address": "MEMORIAL DR & MCBRIDE BLVD",
@@ -32,6 +46,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-08T16:42:00Z",
-  "count": 2
+  "lastIncident": "2026-03-11T15:20:00Z",
+  "count": 3
 }

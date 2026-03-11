@@ -1,0 +1,21 @@
+{
+  "slug": "north-vancouver/old-lillooet-rd",
+  "name": "Old Lillooet Rd",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-11T15:20:00Z_north-vancouver/old-lillooet-rd",
+      "timestamp": "2026-03-11T15:20:00Z",
+      "address": "OLD LILLOOET RD",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/old-lillooet-rd"
+      ],
+      "streetNames": [
+        "Old Lillooet Rd"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-11T15:20:00Z",
+  "count": 1
+}

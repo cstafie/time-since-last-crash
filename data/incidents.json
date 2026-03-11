@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-03-11T15:20:00Z_new-westminster/e-8th-ave_new-westminster/mcbride-blvd",
+    "timestamp": "2026-03-11T15:20:00Z",
+    "scrapedAt": "2026-03-11T15:45:10Z",
+    "address": "E 8TH AVE & MCBRIDE BLVD",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/e-8th-ave",
+      "new-westminster/mcbride-blvd"
+    ],
+    "streetNames": [
+      "E 8th Ave",
+      "Mcbride Blvd"
+    ]
+  },
+  {
+    "id": "2026-03-11T15:20:00Z_north-vancouver/old-lillooet-rd",
+    "timestamp": "2026-03-11T15:20:00Z",
+    "scrapedAt": "2026-03-11T15:45:10Z",
+    "address": "OLD LILLOOET RD",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/old-lillooet-rd"
+    ],
+    "streetNames": [
+      "Old Lillooet Rd"
+    ]
+  },
+  {
     "id": "2026-03-11T14:48:00Z_abbotsford/engineer-cres",
     "timestamp": "2026-03-11T14:48:00Z",
     "scrapedAt": "2026-03-11T15:14:02Z",
