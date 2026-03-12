@@ -4,6 +4,18 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-03-12T17:25:00Z_surrey/64th-ave",
+      "timestamp": "2026-03-12T17:25:00Z",
+      "address": "64TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/64th-ave"
+      ],
+      "streetNames": [
+        "64th Ave"
+      ]
+    },
+    {
       "id": "2026-03-11T22:04:00Z_surrey/64th-ave",
       "timestamp": "2026-03-11T22:04:00Z",
       "address": "64TH AVE",
@@ -44,6 +56,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-11T22:04:00Z",
-  "count": 3
+  "lastIncident": "2026-03-12T17:25:00Z",
+  "count": 4
 }
