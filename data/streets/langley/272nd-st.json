@@ -4,6 +4,18 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-03-12T15:06:00Z_langley/272nd-st",
+      "timestamp": "2026-03-12T15:06:00Z",
+      "address": "272ND ST",
+      "city": "Langley",
+      "streets": [
+        "langley/272nd-st"
+      ],
+      "streetNames": [
+        "272nd St"
+      ]
+    },
+    {
       "id": "2026-03-10T02:39:00Z_langley/30th-ave_langley/272nd-st",
       "timestamp": "2026-03-10T02:39:00Z",
       "address": "30TH AVE & 272ND ST",
@@ -32,6 +44,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-10T02:39:00Z",
-  "count": 2
+  "lastIncident": "2026-03-12T15:06:00Z",
+  "count": 3
 }
