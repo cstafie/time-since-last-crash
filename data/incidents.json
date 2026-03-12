@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-12T20:16:00Z_surrey/64th-ave",
+    "timestamp": "2026-03-12T20:16:00Z",
+    "scrapedAt": "2026-03-12T20:43:28Z",
+    "address": "64TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/64th-ave"
+    ],
+    "streetNames": [
+      "64th Ave"
+    ],
+    "pulsePointId": "2432686044"
+  },
+  {
+    "id": "2026-03-12T20:15:00Z_surrey/176th-st_surrey/64th-ave",
+    "timestamp": "2026-03-12T20:15:00Z",
+    "scrapedAt": "2026-03-12T20:43:28Z",
+    "address": "176TH ST & 64TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/176th-st",
+      "surrey/64th-ave"
+    ],
+    "streetNames": [
+      "176th St",
+      "64th Ave"
+    ],
+    "pulsePointId": "2432685718"
+  },
+  {
     "id": "2026-03-12T19:35:00Z_vancouver/w-broadway",
     "timestamp": "2026-03-12T19:35:00Z",
     "scrapedAt": "2026-03-12T19:43:48Z",
