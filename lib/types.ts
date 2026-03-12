@@ -4,6 +4,7 @@
 
 export interface Incident {
   id: string;
+  pulsePointId?: string;
   timestamp: string; // ISO 8601, Pacific time
   scrapedAt: string;
   address: string;

@@ -3,7 +3,9 @@ scrape.py – Fetch traffic collision incidents from PulsePoint (BC EMS)
 and append new Metro Vancouver incidents to the local JSON data files.
 
 Uses Playwright (headless Chromium) to load the page, waits for the
-JS-rendered table, then scrapes each row's inner text directly.
+JS-rendered table, then extracts PulsePoint incident IDs from the React
+fiber tree on each table row for definitive deduplication.  No clicking
+is required — all data is read from the DOM in a single JS call.
 
 Exits 0 always. Prints a summary line used by the GitHub Actions workflow
 to decide whether to commit.
@@ -108,7 +110,7 @@ def save_json(path: Path, data) -> None:
 
 
 # ---------------------------------------------------------------------------
-# Fetch via Playwright – wait for rendered table, scrape rows
+# Fetch via Playwright – extract PulsePoint IDs for deduplication
 # ---------------------------------------------------------------------------
 
 # PulsePoint renders a single-column incident table (tables[1] on the page).
@@ -116,47 +118,109 @@ def save_json(path: Path, data) -> None:
 #   "Traffic Collision | 12:19 a.m. | ADDRESS, CITY, BC [| unit…]"
 #   "Traffic Collision | Yesterday 11:15 p.m. | CLOSED - DURATION 23M | ADDRESS, CITY, BC [| unit…]"
 # Section-header rows ("Active | (6)", "Recent | (56)") are filtered out.
+#
+# PulsePoint IDs are extracted from React's internal fiber tree on each <tr>.
+# The TableRow component (at fiber ancestor depth 2) stores the numeric
+# PulsePoint incident ID as its React key.  This avoids any clicking.
 
 _TIME_RE = re.compile(
     r"((?:yesterday\s+)?\d{1,2}:\d{2}\s*[ap]\.?m\.?)",
     re.IGNORECASE,
 )
 
+# JavaScript snippet injected once to extract PP IDs from all rows at once.
+# Returns a list of {index, ppId, text} for every <tr> in the incident table.
+_EXTRACT_PP_IDS_JS = """() => {
+    const table = document.querySelectorAll('table')[1];
+    if (!table) return [];
+    const rows = table.querySelectorAll('tr');
+    const results = [];
 
-def fetch_incidents(scrape_dt: datetime) -> list[dict]:
+    for (let i = 0; i < rows.length; i++) {
+        const row = rows[i];
+        const text = row.innerText || '';
+        let ppId = null;
+
+        // Walk up the React fiber tree to find the TableRow component key.
+        const fiberKey = Object.keys(row).find(k =>
+            k.startsWith('__reactFiber$') || k.startsWith('__reactInternalInstance$')
+        );
+        if (fiberKey) {
+            let current = row[fiberKey];
+            // TableRow is typically at depth 2 (tr → Styled(tr) → TableRow),
+            // but search up to 5 levels to be safe.
+            for (let depth = 0; depth < 5 && current; depth++) {
+                if (current.key && /^\\d{5,}$/.test(String(current.key))) {
+                    ppId = String(current.key);
+                    break;
+                }
+                current = current.return;
+            }
+        }
+        results.push({index: i, ppId: ppId, text: text});
+    }
+    return results;
+}"""
+
+
+def fetch_incidents(
+    scrape_dt: datetime,
+    known_pp_ids: set[str],
+) -> list[dict]:
     """
-    Launch headless Chromium, wait for the PulsePoint table to render,
-    then read each row's inner text and parse it.
+    Launch headless Chromium, parse the PulsePoint feed table.
+    Extracts PulsePoint incident IDs from the React fiber tree on each row
+    (no clicking needed). Rows whose PulsePoint ID is already known are
+    skipped immediately.
     """
     with sync_playwright() as pw:
         browser = pw.chromium.launch(headless=True)
-        # Force Pacific time so PulsePoint renders incident times in PST/PDT
-        # consistently regardless of the runner's system timezone (e.g. UTC on GH Actions).
         context = browser.new_context(timezone_id="America/Vancouver")
         page = context.new_page()
 
         print(f"[scrape] Loading {FEED_URL}")
         page.goto(FEED_URL, timeout=60_000)
-
-        # Wait for the JS-rendered incident table
         page.wait_for_selector("table", timeout=30_000)
-        # Small extra wait to let all rows finish rendering
         page.wait_for_timeout(2_000)
 
-        tables = page.query_selector_all("table")
-        # tables[0] is the keyboard-shortcut table; tables[-1] is the incidents feed
-        incident_table = tables[-1] if len(tables) >= 2 else tables[0]
-        rows = incident_table.query_selector_all("tr")
-        print(f"[scrape] Found {len(rows)} incident rows")
-
-        row_texts = [row.inner_text().strip() for row in rows]
+        # Extract all row texts and PP IDs in a single JS call
+        row_data = page.evaluate(_EXTRACT_PP_IDS_JS)
         browser.close()
 
+    print(f"[scrape] Found {len(row_data)} rows in incident table")
+
     incidents: list[dict] = []
-    for text in row_texts:
+    skipped_known = 0
+    skipped_no_id = 0
+
+    for entry in row_data:
+        text = entry["text"]
+        pp_id = entry["ppId"]
+
+        if INCIDENT_TYPE_FILTER not in text.lower():
+            continue
+
+        # Skip already-known incidents by PulsePoint ID
+        if pp_id and pp_id in known_pp_ids:
+            skipped_known += 1
+            continue
+
         parsed = _parse_row(text, scrape_dt)
-        if parsed:
-            incidents.append(parsed)
+        if not parsed:
+            continue
+
+        if pp_id:
+            parsed["pulsePointId"] = pp_id
+        else:
+            skipped_no_id += 1
+            print(f"[scrape] WARNING: No PP ID for {parsed['address']}, {parsed['city']}")
+
+        incidents.append(parsed)
+
+    pp_id_count = sum(1 for e in row_data if e["ppId"])
+    collision_count = sum(1 for e in row_data if INCIDENT_TYPE_FILTER in e["text"].lower())
+    print(f"[scrape] {collision_count} traffic collisions, {pp_id_count} PP IDs extracted")
+    print(f"[scrape] Skipped {skipped_known} known, {skipped_no_id} without PP ID, {len(incidents)} candidates")
 
     return incidents
 
@@ -258,14 +322,14 @@ def update_data_files(new_incidents: list[dict]) -> int:
     streets_index: dict = load_json(STREETS_INDEX_FILE, {})
 
     existing_ids = {inc["id"] for inc in all_incidents}
+    existing_pp_ids = {inc["pulsePointId"] for inc in all_incidents if inc.get("pulsePointId")}
     added = 0
 
     def _is_near_duplicate(inc: dict) -> bool:
         """
-        True if an existing incident at the same location is within 25 hours.
-        PulsePoint can keep showing the same incident across day boundaries
-        without a "Yesterday" prefix, causing the scraper to re-assign it to
-        the new scrape date. 25 hours (instead of 24) accounts for DST shifts.
+        Fallback dedup for incidents that lack a PulsePoint ID.
+        Only used during the transition period while historical incidents
+        don't yet have PulsePoint IDs.
         """
         new_ts = datetime.fromisoformat(inc["timestamp"])
         new_slugs = set(inc["streets"])
@@ -283,14 +347,24 @@ def update_data_files(new_incidents: list[dict]) -> int:
         return False
 
     for inc in new_incidents:
+        # Primary dedup: PulsePoint ID (definitive)
+        pp_id = inc.get("pulsePointId")
+        if pp_id and pp_id in existing_pp_ids:
+            continue
+
+        # Secondary dedup: our generated ID
         if inc["id"] in existing_ids:
             continue
-        if _is_near_duplicate(inc):
-            print(f"[scrape] Skipping near-duplicate: {inc['id']}")
+
+        # Fallback dedup: near-duplicate heuristic for incidents without PP ID
+        if not pp_id and _is_near_duplicate(inc):
+            print(f"[scrape] Skipping near-duplicate (no PP ID): {inc['id']}")
             continue
 
         all_incidents.append(inc)
         existing_ids.add(inc["id"])
+        if pp_id:
+            existing_pp_ids.add(pp_id)
         added += 1
 
         for slug, name in zip(inc["streets"], inc["streetNames"]):
@@ -301,16 +375,18 @@ def update_data_files(new_incidents: list[dict]) -> int:
                 {"slug": slug, "name": name, "city": inc["city"], "incidents": [], "lastIncident": None, "count": 0},
             )
 
-            street_data["incidents"].append(
-                {
-                    "id": inc["id"],
-                    "timestamp": inc["timestamp"],
-                    "address": inc["address"],
-                    "city": inc["city"],
-                    "streets": inc["streets"],
-                    "streetNames": inc["streetNames"],
-                }
-            )
+            incident_entry = {
+                "id": inc["id"],
+                "timestamp": inc["timestamp"],
+                "address": inc["address"],
+                "city": inc["city"],
+                "streets": inc["streets"],
+                "streetNames": inc["streetNames"],
+            }
+            if pp_id:
+                incident_entry["pulsePointId"] = pp_id
+
+            street_data["incidents"].append(incident_entry)
             street_data["incidents"].sort(key=lambda x: x["timestamp"], reverse=True)
             street_data["lastIncident"] = street_data["incidents"][0]["timestamp"]
             street_data["name"] = name
@@ -344,13 +420,19 @@ def main() -> None:
     scrape_dt = datetime.now(tz=PACIFIC)
     print(f"[scrape] Starting at {scrape_dt.isoformat()}")
 
+    # Load known PulsePoint IDs so we can skip already-recorded incidents
+    # without needing to click into them.
+    existing = load_json(INCIDENTS_FILE, [])
+    known_pp_ids = {inc["pulsePointId"] for inc in existing if inc.get("pulsePointId")}
+    print(f"[scrape] {len(existing)} existing incidents, {len(known_pp_ids)} with PulsePoint IDs")
+
     try:
-        fetched = fetch_incidents(scrape_dt)
+        fetched = fetch_incidents(scrape_dt, known_pp_ids)
     except Exception as exc:
         print(f"[scrape] ERROR fetching: {exc}", file=sys.stderr)
         sys.exit(0)
 
-    print(f"[scrape] Found {len(fetched)} Metro Vancouver incidents from feed")
+    print(f"[scrape] {len(fetched)} candidate incidents from feed")
 
     added = update_data_files(fetched)
     print(f"[scrape] NEW_INCIDENTS={added}")
