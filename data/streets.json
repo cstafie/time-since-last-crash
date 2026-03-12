@@ -871,8 +871,8 @@
     "name": "120th St",
     "slug": "delta/120th-st",
     "city": "Delta",
-    "lastIncident": "2026-03-12T19:23:00Z",
-    "count": 3
+    "lastIncident": "2026-03-12T23:15:00Z",
+    "count": 4
   },
   "delta/roberts-bank-rd": {
     "name": "Roberts Bank Rd",
@@ -1151,8 +1151,8 @@
     "name": "W 10th Ave",
     "slug": "vancouver/w-10th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-03-11T02:24:00Z",
-    "count": 1
+    "lastIncident": "2026-03-12T23:36:00Z",
+    "count": 2
   },
   "surrey/57th-ave": {
     "name": "57th Ave",
@@ -1473,8 +1473,8 @@
     "name": "Kingsway",
     "slug": "burnaby/kingsway",
     "city": "Burnaby",
-    "lastIncident": "2026-03-12T16:03:00Z",
-    "count": 1
+    "lastIncident": "2026-03-12T23:12:00Z",
+    "count": 2
   },
   "burnaby/gilley-ave": {
     "name": "Gilley Ave",
@@ -1551,6 +1551,20 @@
     "slug": "vancouver/tyne-st",
     "city": "Vancouver",
     "lastIncident": "2026-03-12T22:06:00Z",
+    "count": 1
+  },
+  "delta/95th-ave": {
+    "name": "95th Ave",
+    "slug": "delta/95th-ave",
+    "city": "Delta",
+    "lastIncident": "2026-03-12T23:15:00Z",
+    "count": 1
+  },
+  "burnaby/randolph-ave": {
+    "name": "Randolph Ave",
+    "slug": "burnaby/randolph-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-12T23:12:00Z",
     "count": 1
   }
 }

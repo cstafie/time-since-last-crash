@@ -1,0 +1,24 @@
+{
+  "slug": "delta/95th-ave",
+  "name": "95th Ave",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-03-12T23:15:00Z_delta/120th-st_delta/95th-ave",
+      "timestamp": "2026-03-12T23:15:00Z",
+      "address": "120TH ST & 95TH AVE",
+      "city": "Delta",
+      "streets": [
+        "delta/120th-st",
+        "delta/95th-ave"
+      ],
+      "streetNames": [
+        "120th St",
+        "95th Ave"
+      ],
+      "pulsePointId": "2432802694"
+    }
+  ],
+  "lastIncident": "2026-03-12T23:15:00Z",
+  "count": 1
+}

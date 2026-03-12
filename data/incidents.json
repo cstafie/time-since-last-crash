@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-03-12T23:36:00Z_vancouver/w-10th-ave",
+    "timestamp": "2026-03-12T23:36:00Z",
+    "scrapedAt": "2026-03-12T23:39:33Z",
+    "address": "W 10TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-10th-ave"
+    ],
+    "streetNames": [
+      "W 10th Ave"
+    ],
+    "pulsePointId": "2432816609"
+  },
+  {
+    "id": "2026-03-12T23:15:00Z_delta/120th-st_delta/95th-ave",
+    "timestamp": "2026-03-12T23:15:00Z",
+    "scrapedAt": "2026-03-12T23:39:33Z",
+    "address": "120TH ST & 95TH AVE",
+    "city": "Delta",
+    "streets": [
+      "delta/120th-st",
+      "delta/95th-ave"
+    ],
+    "streetNames": [
+      "120th St",
+      "95th Ave"
+    ],
+    "pulsePointId": "2432802694"
+  },
+  {
+    "id": "2026-03-12T23:12:00Z_burnaby/randolph-ave_burnaby/kingsway",
+    "timestamp": "2026-03-12T23:12:00Z",
+    "scrapedAt": "2026-03-12T23:39:33Z",
+    "address": "RANDOLPH AVE & KINGSWAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/randolph-ave",
+      "burnaby/kingsway"
+    ],
+    "streetNames": [
+      "Randolph Ave",
+      "Kingsway"
+    ],
+    "pulsePointId": "2432802128"
+  },
+  {
     "id": "2026-03-12T22:59:00Z_burnaby/lougheed-hwy",
     "timestamp": "2026-03-12T22:59:00Z",
     "scrapedAt": "2026-03-12T23:04:06Z",

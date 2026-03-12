@@ -1,6 +1,6 @@
 {
-  "slug": "burnaby/kingsway",
-  "name": "Kingsway",
+  "slug": "burnaby/randolph-ave",
+  "name": "Randolph Ave",
   "city": "Burnaby",
   "incidents": [
     {
@@ -17,22 +17,8 @@
         "Kingsway"
       ],
       "pulsePointId": "2432802128"
-    },
-    {
-      "id": "2026-03-12T16:03:00Z_burnaby/kingsway_burnaby/gilley-ave",
-      "timestamp": "2026-03-12T16:03:00Z",
-      "address": "KINGSWAY & GILLEY AVE",
-      "city": "Burnaby",
-      "streets": [
-        "burnaby/kingsway",
-        "burnaby/gilley-ave"
-      ],
-      "streetNames": [
-        "Kingsway",
-        "Gilley Ave"
-      ]
     }
   ],
   "lastIncident": "2026-03-12T23:12:00Z",
-  "count": 2
+  "count": 1
 }
