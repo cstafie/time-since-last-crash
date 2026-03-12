@@ -4,6 +4,20 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-03-12T19:23:00Z_delta/72nd-ave_delta/120th-st",
+      "timestamp": "2026-03-12T19:23:00Z",
+      "address": "72ND AVE & 120TH ST",
+      "city": "Delta",
+      "streets": [
+        "delta/72nd-ave",
+        "delta/120th-st"
+      ],
+      "streetNames": [
+        "72nd Ave",
+        "120th St"
+      ]
+    },
+    {
       "id": "2026-03-12T03:15:00Z_delta/64th-ave_delta/120th-st",
       "timestamp": "2026-03-12T03:15:00Z",
       "address": "64TH AVE & 120TH ST",
@@ -32,6 +46,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-12T03:15:00Z",
-  "count": 2
+  "lastIncident": "2026-03-12T19:23:00Z",
+  "count": 3
 }
