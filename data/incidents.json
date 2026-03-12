@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-12T20:43:00Z_vancouver/w-6th-ave_vancouver/columbia-st",
+    "timestamp": "2026-03-12T20:43:00Z",
+    "scrapedAt": "2026-03-12T21:07:19Z",
+    "address": "W 6TH AVE & COLUMBIA ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-6th-ave",
+      "vancouver/columbia-st"
+    ],
+    "streetNames": [
+      "W 6th Ave",
+      "Columbia St"
+    ],
+    "pulsePointId": "2432704249"
+  },
+  {
     "id": "2026-03-12T20:16:00Z_surrey/64th-ave",
     "timestamp": "2026-03-12T20:16:00Z",
     "scrapedAt": "2026-03-12T20:43:28Z",

@@ -1510,5 +1510,19 @@
     "city": "North Vancouver",
     "lastIncident": "2026-03-12T18:45:00Z",
     "count": 1
+  },
+  "vancouver/w-6th-ave": {
+    "name": "W 6th Ave",
+    "slug": "vancouver/w-6th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-12T20:43:00Z",
+    "count": 1
+  },
+  "vancouver/columbia-st": {
+    "name": "Columbia St",
+    "slug": "vancouver/columbia-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-12T20:43:00Z",
+    "count": 1
   }
 }
