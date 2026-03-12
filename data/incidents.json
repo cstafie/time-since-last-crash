@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026-03-12T13:42:00Z_burnaby/canada-way_burnaby/10th-ave",
+    "timestamp": "2026-03-12T13:42:00Z",
+    "scrapedAt": "2026-03-12T13:50:19Z",
+    "address": "CANADA WAY & 10TH AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/canada-way",
+      "burnaby/10th-ave"
+    ],
+    "streetNames": [
+      "Canada Way",
+      "10th Ave"
+    ]
+  },
+  {
     "id": "2026-03-12T07:29:00Z_richmond/bridgeport-rd_richmond/jow-st",
     "timestamp": "2026-03-12T07:29:00Z",
     "scrapedAt": "2026-03-12T07:44:41Z",

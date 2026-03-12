@@ -1130,8 +1130,8 @@
     "name": "Canada Way",
     "slug": "burnaby/canada-way",
     "city": "Burnaby",
-    "lastIncident": "2026-03-11T21:47:00Z",
-    "count": 2
+    "lastIncident": "2026-03-12T13:42:00Z",
+    "count": 3
   },
   "burnaby/norland-ave": {
     "name": "Norland Ave",
@@ -1460,6 +1460,13 @@
     "slug": "richmond/jow-st",
     "city": "Richmond",
     "lastIncident": "2026-03-12T07:29:00Z",
+    "count": 1
+  },
+  "burnaby/10th-ave": {
+    "name": "10th Ave",
+    "slug": "burnaby/10th-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-12T13:42:00Z",
     "count": 1
   }
 }
