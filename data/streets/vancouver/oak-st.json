@@ -4,6 +4,18 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-12T14:33:00Z_vancouver/oak-st",
+      "timestamp": "2026-03-12T14:33:00Z",
+      "address": "OAK ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/oak-st"
+      ],
+      "streetNames": [
+        "Oak St"
+      ]
+    },
+    {
       "id": "2026-03-09T21:47:00Z_oak-st_w-33rd-ave",
       "timestamp": "2026-03-09T21:47:00Z",
       "address": "OAK ST & W 33RD AVE",
@@ -32,6 +44,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-09T21:47:00Z",
-  "count": 2
+  "lastIncident": "2026-03-12T14:33:00Z",
+  "count": 3
 }
