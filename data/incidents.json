@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-03-12T22:25:00Z_surrey/port-mann-brdg",
+    "timestamp": "2026-03-12T22:25:00Z",
+    "scrapedAt": "2026-03-12T22:40:11Z",
+    "address": "PORT MANN BRDG",
+    "city": "Surrey",
+    "streets": [
+      "surrey/port-mann-brdg"
+    ],
+    "streetNames": [
+      "Port Mann Brdg"
+    ],
+    "pulsePointId": "2432772941"
+  },
+  {
+    "id": "2026-03-12T22:06:00Z_vancouver/tyne-st",
+    "timestamp": "2026-03-12T22:06:00Z",
+    "scrapedAt": "2026-03-12T22:40:11Z",
+    "address": "TYNE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/tyne-st"
+    ],
+    "streetNames": [
+      "Tyne St"
+    ],
+    "pulsePointId": "2432757590"
+  },
+  {
     "id": "2026-03-12T21:52:00Z_chilliwack/airport-rd_chilliwack/young-rd",
     "timestamp": "2026-03-12T21:52:00Z",
     "scrapedAt": "2026-03-12T22:03:42Z",
