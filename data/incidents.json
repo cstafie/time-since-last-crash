@@ -1,5 +1,31 @@
 [
   {
+    "id": "2026-03-12T04:09:00Z_new-westminster/6th-st",
+    "timestamp": "2026-03-12T04:09:00Z",
+    "scrapedAt": "2026-03-12T04:31:35Z",
+    "address": "6TH ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/6th-st"
+    ],
+    "streetNames": [
+      "6th St"
+    ]
+  },
+  {
+    "id": "2026-03-12T03:45:00Z_surrey/trans-canada-hwy",
+    "timestamp": "2026-03-12T03:45:00Z",
+    "scrapedAt": "2026-03-12T04:31:35Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ]
+  },
+  {
     "id": "2026-03-12T03:37:00Z_port-coquitlam/broadway-st_port-coquitlam/mary-hill-bps",
     "timestamp": "2026-03-12T03:37:00Z",
     "scrapedAt": "2026-03-12T03:45:31Z",

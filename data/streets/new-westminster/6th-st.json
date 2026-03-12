@@ -1,0 +1,21 @@
+{
+  "slug": "new-westminster/6th-st",
+  "name": "6th St",
+  "city": "New Westminster",
+  "incidents": [
+    {
+      "id": "2026-03-12T04:09:00Z_new-westminster/6th-st",
+      "timestamp": "2026-03-12T04:09:00Z",
+      "address": "6TH ST",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/6th-st"
+      ],
+      "streetNames": [
+        "6th St"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-12T04:09:00Z",
+  "count": 1
+}
