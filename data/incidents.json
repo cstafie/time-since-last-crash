@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-12T21:52:00Z_chilliwack/airport-rd_chilliwack/young-rd",
+    "timestamp": "2026-03-12T21:52:00Z",
+    "scrapedAt": "2026-03-12T22:03:42Z",
+    "address": "AIRPORT RD & YOUNG RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/airport-rd",
+      "chilliwack/young-rd"
+    ],
+    "streetNames": [
+      "Airport Rd",
+      "Young Rd"
+    ],
+    "pulsePointId": "2432750193"
+  },
+  {
     "id": "2026-03-12T20:43:00Z_vancouver/w-6th-ave_vancouver/columbia-st",
     "timestamp": "2026-03-12T20:43:00Z",
     "scrapedAt": "2026-03-12T21:07:19Z",
