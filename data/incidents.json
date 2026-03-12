@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-12T22:59:00Z_burnaby/lougheed-hwy",
+    "timestamp": "2026-03-12T22:59:00Z",
+    "scrapedAt": "2026-03-12T23:04:06Z",
+    "address": "LOUGHEED HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2432794227"
+  },
+  {
     "id": "2026-03-12T22:25:00Z_surrey/port-mann-brdg",
     "timestamp": "2026-03-12T22:25:00Z",
     "scrapedAt": "2026-03-12T22:40:11Z",

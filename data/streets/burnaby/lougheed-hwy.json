@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-03-12T22:59:00Z_burnaby/lougheed-hwy",
+      "timestamp": "2026-03-12T22:59:00Z",
+      "address": "LOUGHEED HWY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/lougheed-hwy"
+      ],
+      "streetNames": [
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2432794227"
+    },
+    {
       "id": "2026-03-10T17:32:00Z_burnaby/lougheed-hwy",
       "timestamp": "2026-03-10T17:32:00Z",
       "address": "LOUGHEED HWY",
@@ -42,6 +55,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-10T17:32:00Z",
-  "count": 3
+  "lastIncident": "2026-03-12T22:59:00Z",
+  "count": 4
 }
