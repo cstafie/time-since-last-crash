@@ -1,0 +1,21 @@
+{
+  "slug": "richmond/hwy-99",
+  "name": "Hwy 99",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-03-12T01:41:00Z_richmond/hwy-99",
+      "timestamp": "2026-03-12T01:41:00Z",
+      "address": "HWY 99",
+      "city": "Richmond",
+      "streets": [
+        "richmond/hwy-99"
+      ],
+      "streetNames": [
+        "Hwy 99"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-12T01:41:00Z",
+  "count": 1
+}
