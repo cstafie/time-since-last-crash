@@ -1,0 +1,21 @@
+{
+  "slug": "north-vancouver/seymour-blvd",
+  "name": "Seymour Blvd",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-12T18:45:00Z_north-vancouver/seymour-blvd",
+      "timestamp": "2026-03-12T18:45:00Z",
+      "address": "SEYMOUR BLVD",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/seymour-blvd"
+      ],
+      "streetNames": [
+        "Seymour Blvd"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-12T18:45:00Z",
+  "count": 1
+}
