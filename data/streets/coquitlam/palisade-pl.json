@@ -1,0 +1,21 @@
+{
+  "slug": "coquitlam/palisade-pl",
+  "name": "Palisade Pl",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-03-12T07:14:00Z_coquitlam/palisade-pl",
+      "timestamp": "2026-03-12T07:14:00Z",
+      "address": "PALISADE PL",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/palisade-pl"
+      ],
+      "streetNames": [
+        "Palisade Pl"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-12T07:14:00Z",
+  "count": 1
+}

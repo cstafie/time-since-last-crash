@@ -1,0 +1,23 @@
+{
+  "slug": "port-coquitlam/mary-hill-rd",
+  "name": "Mary Hill Rd",
+  "city": "Port Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-03-12T07:12:00Z_port-coquitlam/mary-hill-rd_port-coquitlam/pitt-river-rd",
+      "timestamp": "2026-03-12T07:12:00Z",
+      "address": "MARY HILL RD & PITT RIVER RD",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/mary-hill-rd",
+        "port-coquitlam/pitt-river-rd"
+      ],
+      "streetNames": [
+        "Mary Hill Rd",
+        "Pitt River Rd"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-12T07:12:00Z",
+  "count": 1
+}
