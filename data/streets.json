@@ -1419,5 +1419,12 @@
     "city": "New Westminster",
     "lastIncident": "2026-03-12T04:09:00Z",
     "count": 1
+  },
+  "abbotsford/32900-south-fraser-way": {
+    "name": "32900 South Fraser Way",
+    "slug": "abbotsford/32900-south-fraser-way",
+    "city": "Abbotsford",
+    "lastIncident": "2026-03-12T04:56:00Z",
+    "count": 1
   }
 }

@@ -1,5 +1,18 @@
 [
   {
+    "id": "2026-03-12T04:56:00Z_abbotsford/32900-south-fraser-way",
+    "timestamp": "2026-03-12T04:56:00Z",
+    "scrapedAt": "2026-03-12T05:21:32Z",
+    "address": "32900 SOUTH FRASER WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/32900-south-fraser-way"
+    ],
+    "streetNames": [
+      "32900 South Fraser Way"
+    ]
+  },
+  {
     "id": "2026-03-12T04:09:00Z_new-westminster/6th-st",
     "timestamp": "2026-03-12T04:09:00Z",
     "scrapedAt": "2026-03-12T04:31:35Z",
