@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-03-12T16:03:00Z_burnaby/kingsway_burnaby/gilley-ave",
+    "timestamp": "2026-03-12T16:03:00Z",
+    "scrapedAt": "2026-03-12T16:19:05Z",
+    "address": "KINGSWAY & GILLEY AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/kingsway",
+      "burnaby/gilley-ave"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "Gilley Ave"
+    ]
+  },
+  {
+    "id": "2026-03-12T15:51:00Z_new-westminster/5th-st",
+    "timestamp": "2026-03-12T15:51:00Z",
+    "scrapedAt": "2026-03-12T16:19:05Z",
+    "address": "5TH ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/5th-st"
+    ],
+    "streetNames": [
+      "5th St"
+    ]
+  },
+  {
     "id": "2026-03-12T15:06:00Z_langley/272nd-st",
     "timestamp": "2026-03-12T15:06:00Z",
     "scrapedAt": "2026-03-12T15:15:32Z",

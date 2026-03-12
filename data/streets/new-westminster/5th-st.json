@@ -1,0 +1,21 @@
+{
+  "slug": "new-westminster/5th-st",
+  "name": "5th St",
+  "city": "New Westminster",
+  "incidents": [
+    {
+      "id": "2026-03-12T15:51:00Z_new-westminster/5th-st",
+      "timestamp": "2026-03-12T15:51:00Z",
+      "address": "5TH ST",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/5th-st"
+      ],
+      "streetNames": [
+        "5th St"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-12T15:51:00Z",
+  "count": 1
+}
