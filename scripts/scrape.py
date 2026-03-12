@@ -262,9 +262,10 @@ def update_data_files(new_incidents: list[dict]) -> int:
 
     def _is_near_duplicate(inc: dict) -> bool:
         """
-        True if an existing incident at the same location is within 2 hours.
-        With the future-time guard in _parse_time_str, DST/day-boundary
-        duplicates will now land within ~1 hour of each other.
+        True if an existing incident at the same location is within 25 hours.
+        PulsePoint can keep showing the same incident across day boundaries
+        without a "Yesterday" prefix, causing the scraper to re-assign it to
+        the new scrape date. 25 hours (instead of 24) accounts for DST shifts.
         """
         new_ts = datetime.fromisoformat(inc["timestamp"])
         new_slugs = set(inc["streets"])
@@ -276,7 +277,7 @@ def update_data_files(new_incidents: list[dict]) -> int:
                 continue
 
             existing_ts = datetime.fromisoformat(existing["timestamp"])
-            if abs((new_ts - existing_ts).total_seconds()) < 7200:  # 2 hours
+            if abs((new_ts - existing_ts).total_seconds()) < 90000:  # 25 hours
                 return True
 
         return False

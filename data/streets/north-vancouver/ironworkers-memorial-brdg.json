@@ -4,30 +4,14 @@
   "city": "North Vancouver",
   "incidents": [
     {
-      "id": "2026-03-12T06:01:00Z_north-vancouver/ironworkers-memorial-brdg",
-      "timestamp": "2026-03-12T06:01:00Z",
-      "address": "IRONWORKERS MEMORIAL BRDG",
-      "city": "North Vancouver",
-      "streets": [
-        "north-vancouver/ironworkers-memorial-brdg"
-      ],
-      "streetNames": [
-        "Ironworkers Memorial Brdg"
-      ]
-    },
-    {
       "id": "2026-03-11T06:01:00Z_north-vancouver/ironworkers-memorial-brdg",
       "timestamp": "2026-03-11T06:01:00Z",
       "address": "IRONWORKERS MEMORIAL BRDG",
       "city": "North Vancouver",
-      "streets": [
-        "north-vancouver/ironworkers-memorial-brdg"
-      ],
-      "streetNames": [
-        "Ironworkers Memorial Brdg"
-      ]
+      "streets": ["north-vancouver/ironworkers-memorial-brdg"],
+      "streetNames": ["Ironworkers Memorial Brdg"]
     }
   ],
-  "lastIncident": "2026-03-12T06:01:00Z",
-  "count": 2
+  "lastIncident": "2026-03-11T06:01:00Z",
+  "count": 1
 }

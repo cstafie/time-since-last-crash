@@ -20,12 +20,8 @@
     "scrapedAt": "2026-03-12T17:45:20Z",
     "address": "64TH AVE",
     "city": "Surrey",
-    "streets": [
-      "surrey/64th-ave"
-    ],
-    "streetNames": [
-      "64th Ave"
-    ]
+    "streets": ["surrey/64th-ave"],
+    "streetNames": ["64th Ave"]
   },
   {
     "id": "2026-03-12T16:55:00Z_vancouver/keefer-st",
@@ -33,12 +29,8 @@
     "scrapedAt": "2026-03-12T17:16:25Z",
     "address": "KEEFER ST",
     "city": "Vancouver",
-    "streets": [
-      "vancouver/keefer-st"
-    ],
-    "streetNames": [
-      "Keefer St"
-    ]
+    "streets": ["vancouver/keefer-st"],
+    "streetNames": ["Keefer St"]
   },
   {
     "id": "2026-03-12T16:03:00Z_burnaby/kingsway_burnaby/gilley-ave",
@@ -46,14 +38,8 @@
     "scrapedAt": "2026-03-12T16:19:05Z",
     "address": "KINGSWAY & GILLEY AVE",
     "city": "Burnaby",
-    "streets": [
-      "burnaby/kingsway",
-      "burnaby/gilley-ave"
-    ],
-    "streetNames": [
-      "Kingsway",
-      "Gilley Ave"
-    ]
+    "streets": ["burnaby/kingsway", "burnaby/gilley-ave"],
+    "streetNames": ["Kingsway", "Gilley Ave"]
   },
   {
     "id": "2026-03-12T15:51:00Z_new-westminster/5th-st",
@@ -61,12 +47,8 @@
     "scrapedAt": "2026-03-12T16:19:05Z",
     "address": "5TH ST",
     "city": "New Westminster",
-    "streets": [
-      "new-westminster/5th-st"
-    ],
-    "streetNames": [
-      "5th St"
-    ]
+    "streets": ["new-westminster/5th-st"],
+    "streetNames": ["5th St"]
   },
   {
     "id": "2026-03-12T15:06:00Z_langley/272nd-st",
@@ -74,12 +56,8 @@
     "scrapedAt": "2026-03-12T15:15:32Z",
     "address": "272ND ST",
     "city": "Langley",
-    "streets": [
-      "langley/272nd-st"
-    ],
-    "streetNames": [
-      "272nd St"
-    ]
+    "streets": ["langley/272nd-st"],
+    "streetNames": ["272nd St"]
   },
   {
     "id": "2026-03-12T14:33:00Z_vancouver/oak-st",
@@ -87,12 +65,8 @@
     "scrapedAt": "2026-03-12T14:45:18Z",
     "address": "OAK ST",
     "city": "Vancouver",
-    "streets": [
-      "vancouver/oak-st"
-    ],
-    "streetNames": [
-      "Oak St"
-    ]
+    "streets": ["vancouver/oak-st"],
+    "streetNames": ["Oak St"]
   },
   {
     "id": "2026-03-12T13:42:00Z_burnaby/canada-way_burnaby/10th-ave",
@@ -100,14 +74,8 @@
     "scrapedAt": "2026-03-12T13:50:19Z",
     "address": "CANADA WAY & 10TH AVE",
     "city": "Burnaby",
-    "streets": [
-      "burnaby/canada-way",
-      "burnaby/10th-ave"
-    ],
-    "streetNames": [
-      "Canada Way",
-      "10th Ave"
-    ]
+    "streets": ["burnaby/canada-way", "burnaby/10th-ave"],
+    "streetNames": ["Canada Way", "10th Ave"]
   },
   {
     "id": "2026-03-12T07:29:00Z_richmond/bridgeport-rd_richmond/jow-st",
@@ -115,14 +83,8 @@
     "scrapedAt": "2026-03-12T07:44:41Z",
     "address": "BRIDGEPORT RD & JOW ST",
     "city": "Richmond",
-    "streets": [
-      "richmond/bridgeport-rd",
-      "richmond/jow-st"
-    ],
-    "streetNames": [
-      "Bridgeport Rd",
-      "Jow St"
-    ]
+    "streets": ["richmond/bridgeport-rd", "richmond/jow-st"],
+    "streetNames": ["Bridgeport Rd", "Jow St"]
   },
   {
     "id": "2026-03-12T07:15:00Z_port-coquitlam/pitt-river-rd",
@@ -130,12 +92,8 @@
     "scrapedAt": "2026-03-12T07:44:41Z",
     "address": "PITT RIVER RD",
     "city": "Port Coquitlam",
-    "streets": [
-      "port-coquitlam/pitt-river-rd"
-    ],
-    "streetNames": [
-      "Pitt River Rd"
-    ]
+    "streets": ["port-coquitlam/pitt-river-rd"],
+    "streetNames": ["Pitt River Rd"]
   },
   {
     "id": "2026-03-12T07:14:00Z_coquitlam/palisade-pl",
@@ -143,12 +101,8 @@
     "scrapedAt": "2026-03-12T07:16:39Z",
     "address": "PALISADE PL",
     "city": "Coquitlam",
-    "streets": [
-      "coquitlam/palisade-pl"
-    ],
-    "streetNames": [
-      "Palisade Pl"
-    ]
+    "streets": ["coquitlam/palisade-pl"],
+    "streetNames": ["Palisade Pl"]
   },
   {
     "id": "2026-03-12T07:12:00Z_port-coquitlam/mary-hill-rd_port-coquitlam/pitt-river-rd",
@@ -156,27 +110,8 @@
     "scrapedAt": "2026-03-12T07:16:39Z",
     "address": "MARY HILL RD & PITT RIVER RD",
     "city": "Port Coquitlam",
-    "streets": [
-      "port-coquitlam/mary-hill-rd",
-      "port-coquitlam/pitt-river-rd"
-    ],
-    "streetNames": [
-      "Mary Hill Rd",
-      "Pitt River Rd"
-    ]
-  },
-  {
-    "id": "2026-03-12T06:01:00Z_north-vancouver/ironworkers-memorial-brdg",
-    "timestamp": "2026-03-12T06:01:00Z",
-    "scrapedAt": "2026-03-12T07:16:39Z",
-    "address": "IRONWORKERS MEMORIAL BRDG",
-    "city": "North Vancouver",
-    "streets": [
-      "north-vancouver/ironworkers-memorial-brdg"
-    ],
-    "streetNames": [
-      "Ironworkers Memorial Brdg"
-    ]
+    "streets": ["port-coquitlam/mary-hill-rd", "port-coquitlam/pitt-river-rd"],
+    "streetNames": ["Mary Hill Rd", "Pitt River Rd"]
   },
   {
     "id": "2026-03-12T05:52:00Z_burnaby/12th-ave",
@@ -184,12 +119,8 @@
     "scrapedAt": "2026-03-12T06:12:43Z",
     "address": "12TH AVE",
     "city": "Burnaby",
-    "streets": [
-      "burnaby/12th-ave"
-    ],
-    "streetNames": [
-      "12th Ave"
-    ]
+    "streets": ["burnaby/12th-ave"],
+    "streetNames": ["12th Ave"]
   },
   {
     "id": "2026-03-12T04:56:00Z_abbotsford/32900-south-fraser-way",
@@ -197,12 +128,8 @@
     "scrapedAt": "2026-03-12T05:21:32Z",
     "address": "32900 SOUTH FRASER WAY",
     "city": "Abbotsford",
-    "streets": [
-      "abbotsford/32900-south-fraser-way"
-    ],
-    "streetNames": [
-      "32900 South Fraser Way"
-    ]
+    "streets": ["abbotsford/32900-south-fraser-way"],
+    "streetNames": ["32900 South Fraser Way"]
   },
   {
     "id": "2026-03-12T04:09:00Z_new-westminster/6th-st",
@@ -210,12 +137,8 @@
     "scrapedAt": "2026-03-12T04:31:35Z",
     "address": "6TH ST",
     "city": "New Westminster",
-    "streets": [
-      "new-westminster/6th-st"
-    ],
-    "streetNames": [
-      "6th St"
-    ]
+    "streets": ["new-westminster/6th-st"],
+    "streetNames": ["6th St"]
   },
   {
     "id": "2026-03-12T03:45:00Z_surrey/trans-canada-hwy",
@@ -223,12 +146,8 @@
     "scrapedAt": "2026-03-12T04:31:35Z",
     "address": "TRANS CANADA HWY",
     "city": "Surrey",
-    "streets": [
-      "surrey/trans-canada-hwy"
-    ],
-    "streetNames": [
-      "Trans Canada Hwy"
-    ]
+    "streets": ["surrey/trans-canada-hwy"],
+    "streetNames": ["Trans Canada Hwy"]
   },
   {
     "id": "2026-03-12T03:37:00Z_port-coquitlam/broadway-st_port-coquitlam/mary-hill-bps",
@@ -236,14 +155,8 @@
     "scrapedAt": "2026-03-12T03:45:31Z",
     "address": "BROADWAY ST & MARY HILL BPS",
     "city": "Port Coquitlam",
-    "streets": [
-      "port-coquitlam/broadway-st",
-      "port-coquitlam/mary-hill-bps"
-    ],
-    "streetNames": [
-      "Broadway St",
-      "Mary Hill Bps"
-    ]
+    "streets": ["port-coquitlam/broadway-st", "port-coquitlam/mary-hill-bps"],
+    "streetNames": ["Broadway St", "Mary Hill Bps"]
   },
   {
     "id": "2026-03-12T03:15:00Z_delta/64th-ave_delta/120th-st",
@@ -251,14 +164,8 @@
     "scrapedAt": "2026-03-12T03:45:31Z",
     "address": "64TH AVE & 120TH ST",
     "city": "Delta",
-    "streets": [
-      "delta/64th-ave",
-      "delta/120th-st"
-    ],
-    "streetNames": [
-      "64th Ave",
-      "120th St"
-    ]
+    "streets": ["delta/64th-ave", "delta/120th-st"],
+    "streetNames": ["64th Ave", "120th St"]
   },
   {
     "id": "2026-03-12T01:41:00Z_richmond/hwy-99",
@@ -266,12 +173,8 @@
     "scrapedAt": "2026-03-12T02:54:07Z",
     "address": "HWY 99",
     "city": "Richmond",
-    "streets": [
-      "richmond/hwy-99"
-    ],
-    "streetNames": [
-      "Hwy 99"
-    ]
+    "streets": ["richmond/hwy-99"],
+    "streetNames": ["Hwy 99"]
   },
   {
     "id": "2026-03-12T01:31:00Z_port-moody/barnet-hwy",
@@ -279,12 +182,8 @@
     "scrapedAt": "2026-03-12T02:54:07Z",
     "address": "BARNET HWY",
     "city": "Port Moody",
-    "streets": [
-      "port-moody/barnet-hwy"
-    ],
-    "streetNames": [
-      "Barnet Hwy"
-    ]
+    "streets": ["port-moody/barnet-hwy"],
+    "streetNames": ["Barnet Hwy"]
   },
   {
     "id": "2026-03-12T00:37:00Z_surrey/66a-ave_surrey/176th-st",
@@ -292,14 +191,8 @@
     "scrapedAt": "2026-03-12T00:48:03Z",
     "address": "66A AVE & 176TH ST",
     "city": "Surrey",
-    "streets": [
-      "surrey/66a-ave",
-      "surrey/176th-st"
-    ],
-    "streetNames": [
-      "66a Ave",
-      "176th St"
-    ]
+    "streets": ["surrey/66a-ave", "surrey/176th-st"],
+    "streetNames": ["66a Ave", "176th St"]
   },
   {
     "id": "2026-03-11T23:16:00Z_langley/fraser-hwy_langley/268th-st",
@@ -307,14 +200,8 @@
     "scrapedAt": "2026-03-11T23:38:34Z",
     "address": "FRASER HWY & 268TH ST",
     "city": "Langley",
-    "streets": [
-      "langley/fraser-hwy",
-      "langley/268th-st"
-    ],
-    "streetNames": [
-      "Fraser Hwy",
-      "268th St"
-    ]
+    "streets": ["langley/fraser-hwy", "langley/268th-st"],
+    "streetNames": ["Fraser Hwy", "268th St"]
   },
   {
     "id": "2026-03-11T22:50:00Z_surrey/turning-lane",
@@ -322,12 +209,8 @@
     "scrapedAt": "2026-03-11T23:03:02Z",
     "address": "TURNING LANE",
     "city": "Surrey",
-    "streets": [
-      "surrey/turning-lane"
-    ],
-    "streetNames": [
-      "Turning Lane"
-    ]
+    "streets": ["surrey/turning-lane"],
+    "streetNames": ["Turning Lane"]
   },
   {
     "id": "2026-03-11T22:50:00Z_surrey/192nd-st",
@@ -335,12 +218,8 @@
     "scrapedAt": "2026-03-11T23:38:34Z",
     "address": "192ND ST",
     "city": "Surrey",
-    "streets": [
-      "surrey/192nd-st"
-    ],
-    "streetNames": [
-      "192nd St"
-    ]
+    "streets": ["surrey/192nd-st"],
+    "streetNames": ["192nd St"]
   },
   {
     "id": "2026-03-11T22:48:00Z_surrey/160th-st",
@@ -348,12 +227,8 @@
     "scrapedAt": "2026-03-11T23:03:02Z",
     "address": "160TH ST",
     "city": "Surrey",
-    "streets": [
-      "surrey/160th-st"
-    ],
-    "streetNames": [
-      "160th St"
-    ]
+    "streets": ["surrey/160th-st"],
+    "streetNames": ["160th St"]
   },
   {
     "id": "2026-03-11T22:16:00Z_maple-ridge/lougheed-hwy_maple-ridge/222nd-st",
@@ -361,14 +236,8 @@
     "scrapedAt": "2026-03-11T22:39:36Z",
     "address": "LOUGHEED HWY & 222ND ST",
     "city": "Maple Ridge",
-    "streets": [
-      "maple-ridge/lougheed-hwy",
-      "maple-ridge/222nd-st"
-    ],
-    "streetNames": [
-      "Lougheed Hwy",
-      "222nd St"
-    ]
+    "streets": ["maple-ridge/lougheed-hwy", "maple-ridge/222nd-st"],
+    "streetNames": ["Lougheed Hwy", "222nd St"]
   },
   {
     "id": "2026-03-11T22:09:00Z_mission/horne-street-onrp",
@@ -376,12 +245,8 @@
     "scrapedAt": "2026-03-11T22:39:36Z",
     "address": "HORNE STREET ONRP",
     "city": "Mission",
-    "streets": [
-      "mission/horne-street-onrp"
-    ],
-    "streetNames": [
-      "Horne Street Onrp"
-    ]
+    "streets": ["mission/horne-street-onrp"],
+    "streetNames": ["Horne Street Onrp"]
   },
   {
     "id": "2026-03-11T22:04:00Z_surrey/64th-ave",
@@ -389,12 +254,8 @@
     "scrapedAt": "2026-03-11T22:39:36Z",
     "address": "64TH AVE",
     "city": "Surrey",
-    "streets": [
-      "surrey/64th-ave"
-    ],
-    "streetNames": [
-      "64th Ave"
-    ]
+    "streets": ["surrey/64th-ave"],
+    "streetNames": ["64th Ave"]
   },
   {
     "id": "2026-03-11T22:01:00Z_vancouver/cassiar-tunl",
@@ -402,12 +263,8 @@
     "scrapedAt": "2026-03-11T22:39:36Z",
     "address": "CASSIAR TUNL",
     "city": "Vancouver",
-    "streets": [
-      "vancouver/cassiar-tunl"
-    ],
-    "streetNames": [
-      "Cassiar Tunl"
-    ]
+    "streets": ["vancouver/cassiar-tunl"],
+    "streetNames": ["Cassiar Tunl"]
   },
   {
     "id": "2026-03-11T21:47:00Z_burnaby/kensington-ave_burnaby/canada-way",
@@ -415,14 +272,8 @@
     "scrapedAt": "2026-03-11T22:03:37Z",
     "address": "KENSINGTON AVE & CANADA WAY",
     "city": "Burnaby",
-    "streets": [
-      "burnaby/kensington-ave",
-      "burnaby/canada-way"
-    ],
-    "streetNames": [
-      "Kensington Ave",
-      "Canada Way"
-    ]
+    "streets": ["burnaby/kensington-ave", "burnaby/canada-way"],
+    "streetNames": ["Kensington Ave", "Canada Way"]
   },
   {
     "id": "2026-03-11T21:15:00Z_vancouver/trans-canada-hwy",
@@ -430,12 +281,8 @@
     "scrapedAt": "2026-03-11T21:42:37Z",
     "address": "TRANS CANADA HWY",
     "city": "Vancouver",
-    "streets": [
-      "vancouver/trans-canada-hwy"
-    ],
-    "streetNames": [
-      "Trans Canada Hwy"
-    ]
+    "streets": ["vancouver/trans-canada-hwy"],
+    "streetNames": ["Trans Canada Hwy"]
   },
   {
     "id": "2026-03-11T21:07:00Z_surrey/137th-st",
@@ -443,12 +290,8 @@
     "scrapedAt": "2026-03-11T21:42:37Z",
     "address": "137TH ST",
     "city": "Surrey",
-    "streets": [
-      "surrey/137th-st"
-    ],
-    "streetNames": [
-      "137th St"
-    ]
+    "streets": ["surrey/137th-st"],
+    "streetNames": ["137th St"]
   },
   {
     "id": "2026-03-11T21:02:00Z_surrey/160th-st_surrey/28th-ave",
@@ -456,14 +299,8 @@
     "scrapedAt": "2026-03-11T21:06:20Z",
     "address": "160TH ST & 28TH AVE",
     "city": "Surrey",
-    "streets": [
-      "surrey/160th-st",
-      "surrey/28th-ave"
-    ],
-    "streetNames": [
-      "160th St",
-      "28th Ave"
-    ]
+    "streets": ["surrey/160th-st", "surrey/28th-ave"],
+    "streetNames": ["160th St", "28th Ave"]
   },
   {
     "id": "2026-03-11T20:58:00Z_surrey/100th-ave_surrey/120th-st",
@@ -471,14 +308,8 @@
     "scrapedAt": "2026-03-11T21:06:20Z",
     "address": "100TH AVE & 120TH ST",
     "city": "Surrey",
-    "streets": [
-      "surrey/100th-ave",
-      "surrey/120th-st"
-    ],
-    "streetNames": [
-      "100th Ave",
-      "120th St"
-    ]
+    "streets": ["surrey/100th-ave", "surrey/120th-st"],
+    "streetNames": ["100th Ave", "120th St"]
   },
   {
     "id": "2026-03-11T20:55:00Z_delta/72nd-st",
@@ -486,12 +317,8 @@
     "scrapedAt": "2026-03-11T21:06:20Z",
     "address": "72ND ST",
     "city": "Delta",
-    "streets": [
-      "delta/72nd-st"
-    ],
-    "streetNames": [
-      "72nd St"
-    ]
+    "streets": ["delta/72nd-st"],
+    "streetNames": ["72nd St"]
   },
   {
     "id": "2026-03-11T20:54:00Z_surrey/104th-ave_surrey/122nd-st",
@@ -499,14 +326,8 @@
     "scrapedAt": "2026-03-11T21:06:20Z",
     "address": "104TH AVE & 122ND ST",
     "city": "Surrey",
-    "streets": [
-      "surrey/104th-ave",
-      "surrey/122nd-st"
-    ],
-    "streetNames": [
-      "104th Ave",
-      "122nd St"
-    ]
+    "streets": ["surrey/104th-ave", "surrey/122nd-st"],
+    "streetNames": ["104th Ave", "122nd St"]
   },
   {
     "id": "2026-03-11T20:26:00Z_burnaby/hazel-st",
@@ -514,12 +335,8 @@
     "scrapedAt": "2026-03-11T20:42:29Z",
     "address": "HAZEL ST",
     "city": "Burnaby",
-    "streets": [
-      "burnaby/hazel-st"
-    ],
-    "streetNames": [
-      "Hazel St"
-    ]
+    "streets": ["burnaby/hazel-st"],
+    "streetNames": ["Hazel St"]
   },
   {
     "id": "2026-03-11T20:19:00Z_richmond/steveston-hwy",
@@ -527,12 +344,8 @@
     "scrapedAt": "2026-03-11T20:42:29Z",
     "address": "STEVESTON HWY",
     "city": "Richmond",
-    "streets": [
-      "richmond/steveston-hwy"
-    ],
-    "streetNames": [
-      "Steveston Hwy"
-    ]
+    "streets": ["richmond/steveston-hwy"],
+    "streetNames": ["Steveston Hwy"]
   },
   {
     "id": "2026-03-11T20:10:00Z_port-coquitlam/mary-hill-bps_port-coquitlam/broadway-st",
@@ -540,14 +353,8 @@
     "scrapedAt": "2026-03-11T20:42:29Z",
     "address": "MARY HILL BPS & BROADWAY ST",
     "city": "Port Coquitlam",
-    "streets": [
-      "port-coquitlam/mary-hill-bps",
-      "port-coquitlam/broadway-st"
-    ],
-    "streetNames": [
-      "Mary Hill Bps",
-      "Broadway St"
-    ]
+    "streets": ["port-coquitlam/mary-hill-bps", "port-coquitlam/broadway-st"],
+    "streetNames": ["Mary Hill Bps", "Broadway St"]
   },
   {
     "id": "2026-03-11T19:17:00Z_surrey/hwy-17",
@@ -555,12 +362,8 @@
     "scrapedAt": "2026-03-11T19:43:31Z",
     "address": "HWY 17",
     "city": "Surrey",
-    "streets": [
-      "surrey/hwy-17"
-    ],
-    "streetNames": [
-      "Hwy 17"
-    ]
+    "streets": ["surrey/hwy-17"],
+    "streetNames": ["Hwy 17"]
   },
   {
     "id": "2026-03-11T19:12:00Z_surrey/langley-bps",
@@ -568,12 +371,8 @@
     "scrapedAt": "2026-03-11T19:15:15Z",
     "address": "LANGLEY BPS",
     "city": "Surrey",
-    "streets": [
-      "surrey/langley-bps"
-    ],
-    "streetNames": [
-      "Langley Bps"
-    ]
+    "streets": ["surrey/langley-bps"],
+    "streetNames": ["Langley Bps"]
   },
   {
     "id": "2026-03-11T17:02:00Z_vancouver/e-1st-ave_vancouver/boundary-rd",
@@ -581,14 +380,8 @@
     "scrapedAt": "2026-03-11T17:16:04Z",
     "address": "E 1ST AVE & BOUNDARY RD",
     "city": "Vancouver",
-    "streets": [
-      "vancouver/e-1st-ave",
-      "vancouver/boundary-rd"
-    ],
-    "streetNames": [
-      "E 1st Ave",
-      "Boundary Rd"
-    ]
+    "streets": ["vancouver/e-1st-ave", "vancouver/boundary-rd"],
+    "streetNames": ["E 1st Ave", "Boundary Rd"]
   },
   {
     "id": "2026-03-11T15:55:00Z_surrey/140th-st",
@@ -596,12 +389,8 @@
     "scrapedAt": "2026-03-11T16:13:57Z",
     "address": "140TH ST",
     "city": "Surrey",
-    "streets": [
-      "surrey/140th-st"
-    ],
-    "streetNames": [
-      "140th St"
-    ]
+    "streets": ["surrey/140th-st"],
+    "streetNames": ["140th St"]
   },
   {
     "id": "2026-03-11T15:48:00Z_burnaby/grange-st_burnaby/halley-ave",
@@ -609,14 +398,8 @@
     "scrapedAt": "2026-03-11T16:13:57Z",
     "address": "GRANGE ST & HALLEY AVE",
     "city": "Burnaby",
-    "streets": [
-      "burnaby/grange-st",
-      "burnaby/halley-ave"
-    ],
-    "streetNames": [
-      "Grange St",
-      "Halley Ave"
-    ]
+    "streets": ["burnaby/grange-st", "burnaby/halley-ave"],
+    "streetNames": ["Grange St", "Halley Ave"]
   },
   {
     "id": "2026-03-11T15:46:00Z_burnaby/trans-canada-hwy",
@@ -624,12 +407,8 @@
     "scrapedAt": "2026-03-11T16:13:57Z",
     "address": "TRANS CANADA HWY",
     "city": "Burnaby",
-    "streets": [
-      "burnaby/trans-canada-hwy"
-    ],
-    "streetNames": [
-      "Trans Canada Hwy"
-    ]
+    "streets": ["burnaby/trans-canada-hwy"],
+    "streetNames": ["Trans Canada Hwy"]
   },
   {
     "id": "2026-03-11T15:20:00Z_new-westminster/e-8th-ave_new-westminster/mcbride-blvd",
@@ -637,14 +416,8 @@
     "scrapedAt": "2026-03-11T15:45:10Z",
     "address": "E 8TH AVE & MCBRIDE BLVD",
     "city": "New Westminster",
-    "streets": [
-      "new-westminster/e-8th-ave",
-      "new-westminster/mcbride-blvd"
-    ],
-    "streetNames": [
-      "E 8th Ave",
-      "Mcbride Blvd"
-    ]
+    "streets": ["new-westminster/e-8th-ave", "new-westminster/mcbride-blvd"],
+    "streetNames": ["E 8th Ave", "Mcbride Blvd"]
   },
   {
     "id": "2026-03-11T15:20:00Z_north-vancouver/old-lillooet-rd",
@@ -652,12 +425,8 @@
     "scrapedAt": "2026-03-11T15:45:10Z",
     "address": "OLD LILLOOET RD",
     "city": "North Vancouver",
-    "streets": [
-      "north-vancouver/old-lillooet-rd"
-    ],
-    "streetNames": [
-      "Old Lillooet Rd"
-    ]
+    "streets": ["north-vancouver/old-lillooet-rd"],
+    "streetNames": ["Old Lillooet Rd"]
   },
   {
     "id": "2026-03-11T14:48:00Z_abbotsford/engineer-cres",
@@ -665,12 +434,8 @@
     "scrapedAt": "2026-03-11T15:14:02Z",
     "address": "ENGINEER CRES",
     "city": "Abbotsford",
-    "streets": [
-      "abbotsford/engineer-cres"
-    ],
-    "streetNames": [
-      "Engineer Cres"
-    ]
+    "streets": ["abbotsford/engineer-cres"],
+    "streetNames": ["Engineer Cres"]
   },
   {
     "id": "2026-03-11T14:21:00Z_vancouver/se-marine-dr_vancouver/kerr-st",
@@ -678,14 +443,8 @@
     "scrapedAt": "2026-03-11T14:44:54Z",
     "address": "SE MARINE DR & KERR ST",
     "city": "Vancouver",
-    "streets": [
-      "vancouver/se-marine-dr",
-      "vancouver/kerr-st"
-    ],
-    "streetNames": [
-      "Se Marine Dr",
-      "Kerr St"
-    ]
+    "streets": ["vancouver/se-marine-dr", "vancouver/kerr-st"],
+    "streetNames": ["Se Marine Dr", "Kerr St"]
   },
   {
     "id": "2026-03-11T12:51:00Z_surrey/king-george-blvd_surrey/88th-ave",
@@ -693,14 +452,8 @@
     "scrapedAt": "2026-03-11T13:25:38Z",
     "address": "KING GEORGE BLVD & 88TH AVE",
     "city": "Surrey",
-    "streets": [
-      "surrey/king-george-blvd",
-      "surrey/88th-ave"
-    ],
-    "streetNames": [
-      "King George Blvd",
-      "88th Ave"
-    ]
+    "streets": ["surrey/king-george-blvd", "surrey/88th-ave"],
+    "streetNames": ["King George Blvd", "88th Ave"]
   },
   {
     "id": "2026-03-11T07:52:00Z_chilliwack/watson-rd",
@@ -708,12 +461,8 @@
     "scrapedAt": "2026-03-11T08:07:07Z",
     "address": "WATSON RD",
     "city": "Chilliwack",
-    "streets": [
-      "chilliwack/watson-rd"
-    ],
-    "streetNames": [
-      "Watson Rd"
-    ]
+    "streets": ["chilliwack/watson-rd"],
+    "streetNames": ["Watson Rd"]
   },
   {
     "id": "2026-03-11T06:01:00Z_north-vancouver/ironworkers-memorial-brdg",
@@ -721,12 +470,8 @@
     "scrapedAt": "2026-03-11T06:11:55Z",
     "address": "IRONWORKERS MEMORIAL BRDG",
     "city": "North Vancouver",
-    "streets": [
-      "north-vancouver/ironworkers-memorial-brdg"
-    ],
-    "streetNames": [
-      "Ironworkers Memorial Brdg"
-    ]
+    "streets": ["north-vancouver/ironworkers-memorial-brdg"],
+    "streetNames": ["Ironworkers Memorial Brdg"]
   },
   {
     "id": "2026-03-11T05:47:00Z_langley/264th-st_langley/64th-ave",
@@ -734,14 +479,8 @@
     "scrapedAt": "2026-03-11T06:11:55Z",
     "address": "264TH ST & 64TH AVE",
     "city": "Langley",
-    "streets": [
-      "langley/264th-st",
-      "langley/64th-ave"
-    ],
-    "streetNames": [
-      "264th St",
-      "64th Ave"
-    ]
+    "streets": ["langley/264th-st", "langley/64th-ave"],
+    "streetNames": ["264th St", "64th Ave"]
   },
   {
     "id": "2026-03-11T05:18:00Z_abbotsford/tolmie-rd",
@@ -749,12 +488,8 @@
     "scrapedAt": "2026-03-11T05:25:07Z",
     "address": "TOLMIE RD",
     "city": "Abbotsford",
-    "streets": [
-      "abbotsford/tolmie-rd"
-    ],
-    "streetNames": [
-      "Tolmie Rd"
-    ]
+    "streets": ["abbotsford/tolmie-rd"],
+    "streetNames": ["Tolmie Rd"]
   },
   {
     "id": "2026-03-11T04:22:00Z_surrey/57th-ave",
@@ -762,12 +497,8 @@
     "scrapedAt": "2026-03-11T04:58:05Z",
     "address": "57TH AVE",
     "city": "Surrey",
-    "streets": [
-      "surrey/57th-ave"
-    ],
-    "streetNames": [
-      "57th Ave"
-    ]
+    "streets": ["surrey/57th-ave"],
+    "streetNames": ["57th Ave"]
   },
   {
     "id": "2026-03-11T02:29:00Z_maple-ridge/227th-st",
@@ -775,12 +506,8 @@
     "scrapedAt": "2026-03-11T03:16:57Z",
     "address": "227TH ST",
     "city": "Maple Ridge",
-    "streets": [
-      "maple-ridge/227th-st"
-    ],
-    "streetNames": [
-      "227th St"
-    ]
+    "streets": ["maple-ridge/227th-st"],
+    "streetNames": ["227th St"]
   },
   {
     "id": "2026-03-11T02:24:00Z_vancouver/blanca-st_vancouver/w-10th-ave",
@@ -788,14 +515,8 @@
     "scrapedAt": "2026-03-11T03:16:57Z",
     "address": "BLANCA ST & W 10TH AVE",
     "city": "Vancouver",
-    "streets": [
-      "vancouver/blanca-st",
-      "vancouver/w-10th-ave"
-    ],
-    "streetNames": [
-      "Blanca St",
-      "W 10th Ave"
-    ]
+    "streets": ["vancouver/blanca-st", "vancouver/w-10th-ave"],
+    "streetNames": ["Blanca St", "W 10th Ave"]
   },
   {
     "id": "2026-03-11T02:14:00Z_delta/hwy-91",
@@ -803,12 +524,8 @@
     "scrapedAt": "2026-03-11T02:21:06Z",
     "address": "HWY 91",
     "city": "Delta",
-    "streets": [
-      "delta/hwy-91"
-    ],
-    "streetNames": [
-      "Hwy 91"
-    ]
+    "streets": ["delta/hwy-91"],
+    "streetNames": ["Hwy 91"]
   },
   {
     "id": "2026-03-11T01:30:00Z_burnaby/canada-way_burnaby/norland-ave",
@@ -816,14 +533,8 @@
     "scrapedAt": "2026-03-11T02:21:06Z",
     "address": "CANADA WAY & NORLAND AVE",
     "city": "Burnaby",
-    "streets": [
-      "burnaby/canada-way",
-      "burnaby/norland-ave"
-    ],
-    "streetNames": [
-      "Canada Way",
-      "Norland Ave"
-    ]
+    "streets": ["burnaby/canada-way", "burnaby/norland-ave"],
+    "streetNames": ["Canada Way", "Norland Ave"]
   },
   {
     "id": "2026-03-11T01:06:00Z_coquitlam/lougheed-hwy",
@@ -831,12 +542,8 @@
     "scrapedAt": "2026-03-11T01:30:26Z",
     "address": "LOUGHEED HWY",
     "city": "Coquitlam",
-    "streets": [
-      "coquitlam/lougheed-hwy"
-    ],
-    "streetNames": [
-      "Lougheed Hwy"
-    ]
+    "streets": ["coquitlam/lougheed-hwy"],
+    "streetNames": ["Lougheed Hwy"]
   },
   {
     "id": "2026-03-11T01:06:00Z_coquitlam/lougheed-hwy_coquitlam/orchid-dr",
@@ -844,14 +551,8 @@
     "scrapedAt": "2026-03-11T01:30:26Z",
     "address": "LOUGHEED HWY & ORCHID DR",
     "city": "Coquitlam",
-    "streets": [
-      "coquitlam/lougheed-hwy",
-      "coquitlam/orchid-dr"
-    ],
-    "streetNames": [
-      "Lougheed Hwy",
-      "Orchid Dr"
-    ]
+    "streets": ["coquitlam/lougheed-hwy", "coquitlam/orchid-dr"],
+    "streetNames": ["Lougheed Hwy", "Orchid Dr"]
   },
   {
     "id": "2026-03-10T23:43:00Z_langley/72nd-ave_langley/200th-st",
@@ -859,14 +560,8 @@
     "scrapedAt": "2026-03-11T00:03:02Z",
     "address": "72ND AVE & 200TH ST",
     "city": "Langley",
-    "streets": [
-      "langley/72nd-ave",
-      "langley/200th-st"
-    ],
-    "streetNames": [
-      "72nd Ave",
-      "200th St"
-    ]
+    "streets": ["langley/72nd-ave", "langley/200th-st"],
+    "streetNames": ["72nd Ave", "200th St"]
   },
   {
     "id": "2026-03-10T23:42:00Z_abbotsford/downes-rd",
@@ -874,12 +569,8 @@
     "scrapedAt": "2026-03-11T00:03:02Z",
     "address": "DOWNES RD",
     "city": "Abbotsford",
-    "streets": [
-      "abbotsford/downes-rd"
-    ],
-    "streetNames": [
-      "Downes Rd"
-    ]
+    "streets": ["abbotsford/downes-rd"],
+    "streetNames": ["Downes Rd"]
   },
   {
     "id": "2026-03-10T23:20:00Z_chilliwack/ryder-lake-rd",
@@ -887,12 +578,8 @@
     "scrapedAt": "2026-03-10T23:39:18Z",
     "address": "RYDER LAKE RD",
     "city": "Chilliwack",
-    "streets": [
-      "chilliwack/ryder-lake-rd"
-    ],
-    "streetNames": [
-      "Ryder Lake Rd"
-    ]
+    "streets": ["chilliwack/ryder-lake-rd"],
+    "streetNames": ["Ryder Lake Rd"]
   },
   {
     "id": "2026-03-10T23:12:00Z_abbotsford/peardonville-rd_abbotsford/townline-rd",
@@ -900,14 +587,8 @@
     "scrapedAt": "2026-03-10T23:39:18Z",
     "address": "PEARDONVILLE RD & TOWNLINE RD",
     "city": "Abbotsford",
-    "streets": [
-      "abbotsford/peardonville-rd",
-      "abbotsford/townline-rd"
-    ],
-    "streetNames": [
-      "Peardonville Rd",
-      "Townline Rd"
-    ]
+    "streets": ["abbotsford/peardonville-rd", "abbotsford/townline-rd"],
+    "streetNames": ["Peardonville Rd", "Townline Rd"]
   },
   {
     "id": "2026-03-10T23:10:00Z_coquitlam/mariner-way",
@@ -915,12 +596,8 @@
     "scrapedAt": "2026-03-10T23:39:18Z",
     "address": "MARINER WAY",
     "city": "Coquitlam",
-    "streets": [
-      "coquitlam/mariner-way"
-    ],
-    "streetNames": [
-      "Mariner Way"
-    ]
+    "streets": ["coquitlam/mariner-way"],
+    "streetNames": ["Mariner Way"]
   },
   {
     "id": "2026-03-10T23:03:00Z_richmond/no-1-rd_richmond/steveston-hwy",
@@ -928,14 +605,8 @@
     "scrapedAt": "2026-03-10T23:39:18Z",
     "address": "NO 1 RD & STEVESTON HWY",
     "city": "Richmond",
-    "streets": [
-      "richmond/no-1-rd",
-      "richmond/steveston-hwy"
-    ],
-    "streetNames": [
-      "No 1 Rd",
-      "Steveston Hwy"
-    ]
+    "streets": ["richmond/no-1-rd", "richmond/steveston-hwy"],
+    "streetNames": ["No 1 Rd", "Steveston Hwy"]
   },
   {
     "id": "2026-03-10T22:55:00Z_vancouver/e-28th-ave",
@@ -943,12 +614,8 @@
     "scrapedAt": "2026-03-10T23:04:07Z",
     "address": "E 28TH AVE",
     "city": "Vancouver",
-    "streets": [
-      "vancouver/e-28th-ave"
-    ],
-    "streetNames": [
-      "E 28th Ave"
-    ]
+    "streets": ["vancouver/e-28th-ave"],
+    "streetNames": ["E 28th Ave"]
   },
   {
     "id": "2026-03-10T22:45:00Z_langley/88th-ave",
@@ -956,12 +623,8 @@
     "scrapedAt": "2026-03-10T23:04:07Z",
     "address": "88TH AVE",
     "city": "Langley",
-    "streets": [
-      "langley/88th-ave"
-    ],
-    "streetNames": [
-      "88th Ave"
-    ]
+    "streets": ["langley/88th-ave"],
+    "streetNames": ["88th Ave"]
   },
   {
     "id": "2026-03-10T22:35:00Z_surrey/160th-st",
@@ -969,12 +632,8 @@
     "scrapedAt": "2026-03-10T23:04:07Z",
     "address": "160TH ST",
     "city": "Surrey",
-    "streets": [
-      "surrey/160th-st"
-    ],
-    "streetNames": [
-      "160th St"
-    ]
+    "streets": ["surrey/160th-st"],
+    "streetNames": ["160th St"]
   },
   {
     "id": "2026-03-10T22:26:00Z_vancouver/e-37th-ave_vancouver/prince-albert-st",
@@ -982,14 +641,8 @@
     "scrapedAt": "2026-03-10T22:41:12Z",
     "address": "E 37TH AVE & PRINCE ALBERT ST",
     "city": "Vancouver",
-    "streets": [
-      "vancouver/e-37th-ave",
-      "vancouver/prince-albert-st"
-    ],
-    "streetNames": [
-      "E 37th Ave",
-      "Prince Albert St"
-    ]
+    "streets": ["vancouver/e-37th-ave", "vancouver/prince-albert-st"],
+    "streetNames": ["E 37th Ave", "Prince Albert St"]
   },
   {
     "id": "2026-03-10T22:14:00Z_coquitlam/lougheed-hwy-onrp_coquitlam/united-boulevard-ofrp",
@@ -1001,10 +654,7 @@
       "coquitlam/lougheed-hwy-onrp",
       "coquitlam/united-boulevard-ofrp"
     ],
-    "streetNames": [
-      "Lougheed Hwy Onrp",
-      "United Boulevard Ofrp"
-    ]
+    "streetNames": ["Lougheed Hwy Onrp", "United Boulevard Ofrp"]
   },
   {
     "id": "2026-03-10T22:06:00Z_maple-ridge/22826-dewdney-trunk-rd",
@@ -1012,12 +662,8 @@
     "scrapedAt": "2026-03-10T22:41:12Z",
     "address": "22826 DEWDNEY TRUNK RD",
     "city": "Maple Ridge",
-    "streets": [
-      "maple-ridge/22826-dewdney-trunk-rd"
-    ],
-    "streetNames": [
-      "22826 Dewdney Trunk Rd"
-    ]
+    "streets": ["maple-ridge/22826-dewdney-trunk-rd"],
+    "streetNames": ["22826 Dewdney Trunk Rd"]
   },
   {
     "id": "2026-03-10T21:59:00Z_richmond/cook-rd",
@@ -1025,12 +671,8 @@
     "scrapedAt": "2026-03-10T22:03:08Z",
     "address": "COOK RD",
     "city": "Richmond",
-    "streets": [
-      "richmond/cook-rd"
-    ],
-    "streetNames": [
-      "Cook Rd"
-    ]
+    "streets": ["richmond/cook-rd"],
+    "streetNames": ["Cook Rd"]
   },
   {
     "id": "2026-03-10T21:58:00Z_vancouver/granville-st_vancouver/w-49th-ave",
@@ -1038,14 +680,8 @@
     "scrapedAt": "2026-03-10T22:03:08Z",
     "address": "GRANVILLE ST & W 49TH AVE",
     "city": "Vancouver",
-    "streets": [
-      "vancouver/granville-st",
-      "vancouver/w-49th-ave"
-    ],
-    "streetNames": [
-      "Granville St",
-      "W 49th Ave"
-    ]
+    "streets": ["vancouver/granville-st", "vancouver/w-49th-ave"],
+    "streetNames": ["Granville St", "W 49th Ave"]
   },
   {
     "id": "2026-03-10T21:49:00Z_richmond/no-6-rd_richmond/westminster-hwy",
@@ -1053,14 +689,8 @@
     "scrapedAt": "2026-03-10T22:03:08Z",
     "address": "NO 6 RD & WESTMINSTER HWY",
     "city": "Richmond",
-    "streets": [
-      "richmond/no-6-rd",
-      "richmond/westminster-hwy"
-    ],
-    "streetNames": [
-      "No 6 Rd",
-      "Westminster Hwy"
-    ]
+    "streets": ["richmond/no-6-rd", "richmond/westminster-hwy"],
+    "streetNames": ["No 6 Rd", "Westminster Hwy"]
   },
   {
     "id": "2026-03-10T21:30:00Z_surrey/trans-canada-hwy_surrey/152nd-street-ofrp",
@@ -1068,14 +698,8 @@
     "scrapedAt": "2026-03-10T21:39:08Z",
     "address": "TRANS CANADA HWY & 152ND STREET OFRP",
     "city": "Surrey",
-    "streets": [
-      "surrey/trans-canada-hwy",
-      "surrey/152nd-street-ofrp"
-    ],
-    "streetNames": [
-      "Trans Canada Hwy",
-      "152nd Street Ofrp"
-    ]
+    "streets": ["surrey/trans-canada-hwy", "surrey/152nd-street-ofrp"],
+    "streetNames": ["Trans Canada Hwy", "152nd Street Ofrp"]
   },
   {
     "id": "2026-03-10T21:16:00Z_port-coquitlam/pooley-ave",
@@ -1083,12 +707,8 @@
     "scrapedAt": "2026-03-10T21:39:08Z",
     "address": "POOLEY AVE",
     "city": "Port Coquitlam",
-    "streets": [
-      "port-coquitlam/pooley-ave"
-    ],
-    "streetNames": [
-      "Pooley Ave"
-    ]
+    "streets": ["port-coquitlam/pooley-ave"],
+    "streetNames": ["Pooley Ave"]
   },
   {
     "id": "2026-03-10T20:40:00Z_mission/rai-ave",
@@ -1096,12 +716,8 @@
     "scrapedAt": "2026-03-10T20:43:10Z",
     "address": "RAI AVE",
     "city": "Mission",
-    "streets": [
-      "mission/rai-ave"
-    ],
-    "streetNames": [
-      "Rai Ave"
-    ]
+    "streets": ["mission/rai-ave"],
+    "streetNames": ["Rai Ave"]
   },
   {
     "id": "2026-03-10T20:36:00Z_pitt-meadows/lougheed-hwy",
@@ -1109,12 +725,8 @@
     "scrapedAt": "2026-03-10T20:43:10Z",
     "address": "LOUGHEED HWY",
     "city": "Pitt Meadows",
-    "streets": [
-      "pitt-meadows/lougheed-hwy"
-    ],
-    "streetNames": [
-      "Lougheed Hwy"
-    ]
+    "streets": ["pitt-meadows/lougheed-hwy"],
+    "streetNames": ["Lougheed Hwy"]
   },
   {
     "id": "2026-03-10T20:13:00Z_richmond/bridgeport-rd_richmond/shell-rd",
@@ -1122,14 +734,8 @@
     "scrapedAt": "2026-03-10T20:43:10Z",
     "address": "BRIDGEPORT RD & SHELL RD",
     "city": "Richmond",
-    "streets": [
-      "richmond/bridgeport-rd",
-      "richmond/shell-rd"
-    ],
-    "streetNames": [
-      "Bridgeport Rd",
-      "Shell Rd"
-    ]
+    "streets": ["richmond/bridgeport-rd", "richmond/shell-rd"],
+    "streetNames": ["Bridgeport Rd", "Shell Rd"]
   },
   {
     "id": "2026-03-10T18:40:00Z_new-westminster/royal-ave_new-westminster/granville-st",
@@ -1137,14 +743,8 @@
     "scrapedAt": "2026-03-10T18:48:33Z",
     "address": "ROYAL AVE & GRANVILLE ST",
     "city": "New Westminster",
-    "streets": [
-      "new-westminster/royal-ave",
-      "new-westminster/granville-st"
-    ],
-    "streetNames": [
-      "Royal Ave",
-      "Granville St"
-    ]
+    "streets": ["new-westminster/royal-ave", "new-westminster/granville-st"],
+    "streetNames": ["Royal Ave", "Granville St"]
   },
   {
     "id": "2026-03-10T17:57:00Z_surrey/fraser-hwy_surrey/159th-st",
@@ -1152,14 +752,8 @@
     "scrapedAt": "2026-03-10T18:11:29Z",
     "address": "FRASER HWY & 159TH ST",
     "city": "Surrey",
-    "streets": [
-      "surrey/fraser-hwy",
-      "surrey/159th-st"
-    ],
-    "streetNames": [
-      "Fraser Hwy",
-      "159th St"
-    ]
+    "streets": ["surrey/fraser-hwy", "surrey/159th-st"],
+    "streetNames": ["Fraser Hwy", "159th St"]
   },
   {
     "id": "2026-03-10T17:32:00Z_burnaby/lougheed-hwy",
@@ -1167,12 +761,8 @@
     "scrapedAt": "2026-03-10T17:44:52Z",
     "address": "LOUGHEED HWY",
     "city": "Burnaby",
-    "streets": [
-      "burnaby/lougheed-hwy"
-    ],
-    "streetNames": [
-      "Lougheed Hwy"
-    ]
+    "streets": ["burnaby/lougheed-hwy"],
+    "streetNames": ["Lougheed Hwy"]
   },
   {
     "id": "2026-03-10T17:27:00Z_new-westminster/cumberland-st_new-westminster/e-columbia-st",
@@ -1184,10 +774,7 @@
       "new-westminster/cumberland-st",
       "new-westminster/e-columbia-st"
     ],
-    "streetNames": [
-      "Cumberland St",
-      "E Columbia St"
-    ]
+    "streetNames": ["Cumberland St", "E Columbia St"]
   },
   {
     "id": "2026-03-10T17:13:00Z_burnaby/marine-way_burnaby/market-crss",
@@ -1195,14 +782,8 @@
     "scrapedAt": "2026-03-10T17:44:52Z",
     "address": "MARINE WAY & MARKET CRSS",
     "city": "Burnaby",
-    "streets": [
-      "burnaby/marine-way",
-      "burnaby/market-crss"
-    ],
-    "streetNames": [
-      "Marine Way",
-      "Market Crss"
-    ]
+    "streets": ["burnaby/marine-way", "burnaby/market-crss"],
+    "streetNames": ["Marine Way", "Market Crss"]
   },
   {
     "id": "2026-03-10T15:14:00Z_abbotsford/old-clayburn-rd",
@@ -1210,12 +791,8 @@
     "scrapedAt": "2026-03-10T15:47:10Z",
     "address": "OLD CLAYBURN RD",
     "city": "Abbotsford",
-    "streets": [
-      "abbotsford/old-clayburn-rd"
-    ],
-    "streetNames": [
-      "Old Clayburn Rd"
-    ]
+    "streets": ["abbotsford/old-clayburn-rd"],
+    "streetNames": ["Old Clayburn Rd"]
   },
   {
     "id": "2026-03-10T14:28:00Z_surrey/100th-ave_surrey/king-george-blvd",
@@ -1223,14 +800,8 @@
     "scrapedAt": "2026-03-10T14:45:09Z",
     "address": "100TH AVE & KING GEORGE BLVD",
     "city": "Surrey",
-    "streets": [
-      "surrey/100th-ave",
-      "surrey/king-george-blvd"
-    ],
-    "streetNames": [
-      "100th Ave",
-      "King George Blvd"
-    ]
+    "streets": ["surrey/100th-ave", "surrey/king-george-blvd"],
+    "streetNames": ["100th Ave", "King George Blvd"]
   },
   {
     "id": "2026-03-10T13:34:00Z_surrey/64th-ave_surrey/176th-st",
@@ -1238,14 +809,8 @@
     "scrapedAt": "2026-03-10T13:50:56Z",
     "address": "64TH AVE & 176TH ST",
     "city": "Surrey",
-    "streets": [
-      "surrey/64th-ave",
-      "surrey/176th-st"
-    ],
-    "streetNames": [
-      "64th Ave",
-      "176th St"
-    ]
+    "streets": ["surrey/64th-ave", "surrey/176th-st"],
+    "streetNames": ["64th Ave", "176th St"]
   },
   {
     "id": "2026-03-10T13:25:00Z_delta/roberts-bank-rd",
@@ -1253,12 +818,8 @@
     "scrapedAt": "2026-03-10T13:50:56Z",
     "address": "ROBERTS BANK RD",
     "city": "Delta",
-    "streets": [
-      "delta/roberts-bank-rd"
-    ],
-    "streetNames": [
-      "Roberts Bank Rd"
-    ]
+    "streets": ["delta/roberts-bank-rd"],
+    "streetNames": ["Roberts Bank Rd"]
   },
   {
     "id": "2026-03-10T04:40:00Z_delta/58th-ave_delta/120th-st",
@@ -1266,14 +827,8 @@
     "scrapedAt": "2026-03-10T04:57:18Z",
     "address": "58TH AVE & 120TH ST",
     "city": "Delta",
-    "streets": [
-      "delta/58th-ave",
-      "delta/120th-st"
-    ],
-    "streetNames": [
-      "58th Ave",
-      "120th St"
-    ]
+    "streets": ["delta/58th-ave", "delta/120th-st"],
+    "streetNames": ["58th Ave", "120th St"]
   },
   {
     "id": "2026-03-10T02:46:00Z_surrey/32nd-ave_surrey/168th-st",
@@ -1281,14 +836,8 @@
     "scrapedAt": "2026-03-10T03:16:54Z",
     "address": "32ND AVE & 168TH ST",
     "city": "Surrey",
-    "streets": [
-      "surrey/32nd-ave",
-      "surrey/168th-st"
-    ],
-    "streetNames": [
-      "32nd Ave",
-      "168th St"
-    ]
+    "streets": ["surrey/32nd-ave", "surrey/168th-st"],
+    "streetNames": ["32nd Ave", "168th St"]
   },
   {
     "id": "2026-03-10T02:39:00Z_langley/30th-ave_langley/272nd-st",
@@ -1296,14 +845,8 @@
     "scrapedAt": "2026-03-10T03:16:54Z",
     "address": "30TH AVE & 272ND ST",
     "city": "Langley",
-    "streets": [
-      "langley/30th-ave",
-      "langley/272nd-st"
-    ],
-    "streetNames": [
-      "30th Ave",
-      "272nd St"
-    ]
+    "streets": ["langley/30th-ave", "langley/272nd-st"],
+    "streetNames": ["30th Ave", "272nd St"]
   },
   {
     "id": "2026-03-10T01:04:00Z_surrey/168th-st",
@@ -1311,12 +854,8 @@
     "scrapedAt": "2026-03-10T01:30:28Z",
     "address": "168TH ST",
     "city": "Surrey",
-    "streets": [
-      "surrey/168th-st"
-    ],
-    "streetNames": [
-      "168th St"
-    ]
+    "streets": ["surrey/168th-st"],
+    "streetNames": ["168th St"]
   },
   {
     "id": "2026-03-10T00:35:00Z_pitt-meadows/lougheed-hwy",
@@ -1324,12 +863,8 @@
     "scrapedAt": "2026-03-10T00:49:44Z",
     "address": "LOUGHEED HWY",
     "city": "Pitt Meadows",
-    "streets": [
-      "pitt-meadows/lougheed-hwy"
-    ],
-    "streetNames": [
-      "Lougheed Hwy"
-    ]
+    "streets": ["pitt-meadows/lougheed-hwy"],
+    "streetNames": ["Lougheed Hwy"]
   },
   {
     "id": "2026-03-10T00:18:00Z_langley/240th-st_langley/16th-ave",
@@ -1337,14 +872,8 @@
     "scrapedAt": "2026-03-10T00:49:44Z",
     "address": "240TH ST & 16TH AVE",
     "city": "Langley",
-    "streets": [
-      "langley/240th-st",
-      "langley/16th-ave"
-    ],
-    "streetNames": [
-      "240th St",
-      "16th Ave"
-    ]
+    "streets": ["langley/240th-st", "langley/16th-ave"],
+    "streetNames": ["240th St", "16th Ave"]
   },
   {
     "id": "2026-03-09T23:11:00Z_mcdougall-ave_mccallum-rd",
@@ -1352,14 +881,8 @@
     "scrapedAt": "2026-03-09T23:39:28Z",
     "address": "MCDOUGALL AVE & MCCALLUM RD",
     "city": "Abbotsford",
-    "streets": [
-      "abbotsford/mcdougall-ave",
-      "abbotsford/mccallum-rd"
-    ],
-    "streetNames": [
-      "Mcdougall Ave",
-      "Mccallum Rd"
-    ]
+    "streets": ["abbotsford/mcdougall-ave", "abbotsford/mccallum-rd"],
+    "streetNames": ["Mcdougall Ave", "Mccallum Rd"]
   },
   {
     "id": "2026-03-09T22:51:00Z_56th-ave_58th-cres",
@@ -1367,14 +890,8 @@
     "scrapedAt": "2026-03-09T23:04:20Z",
     "address": "56TH AVE & 58TH CRES",
     "city": "Langley",
-    "streets": [
-      "langley/56th-ave",
-      "langley/58th-cres"
-    ],
-    "streetNames": [
-      "56th Ave",
-      "58th Cres"
-    ]
+    "streets": ["langley/56th-ave", "langley/58th-cres"],
+    "streetNames": ["56th Ave", "58th Cres"]
   },
   {
     "id": "2026-03-09T22:21:00Z_mt-seymour-pkwy_roche-point-dr",
@@ -1386,10 +903,7 @@
       "north-vancouver/mt-seymour-pkwy",
       "north-vancouver/roche-point-dr"
     ],
-    "streetNames": [
-      "Mt Seymour Pkwy",
-      "Roche Point Dr"
-    ]
+    "streetNames": ["Mt Seymour Pkwy", "Roche Point Dr"]
   },
   {
     "id": "2026-03-09T21:57:00Z_119th-ave_228th-st",
@@ -1397,14 +911,8 @@
     "scrapedAt": "2026-03-09T22:03:53Z",
     "address": "119TH AVE & 228TH ST",
     "city": "Maple Ridge",
-    "streets": [
-      "maple-ridge/119th-ave",
-      "maple-ridge/228th-st"
-    ],
-    "streetNames": [
-      "119th Ave",
-      "228th St"
-    ]
+    "streets": ["maple-ridge/119th-ave", "maple-ridge/228th-st"],
+    "streetNames": ["119th Ave", "228th St"]
   },
   {
     "id": "2026-03-09T21:52:00Z_bridgeport-rd_no-3-rd",
@@ -1412,14 +920,8 @@
     "scrapedAt": "2026-03-09T22:03:53Z",
     "address": "BRIDGEPORT RD & NO 3 RD",
     "city": "Richmond",
-    "streets": [
-      "richmond/bridgeport-rd",
-      "richmond/no-3-rd"
-    ],
-    "streetNames": [
-      "Bridgeport Rd",
-      "No 3 Rd"
-    ]
+    "streets": ["richmond/bridgeport-rd", "richmond/no-3-rd"],
+    "streetNames": ["Bridgeport Rd", "No 3 Rd"]
   },
   {
     "id": "2026-03-09T21:48:00Z_151st-st_96th-ave",
@@ -1427,14 +929,8 @@
     "scrapedAt": "2026-03-09T22:03:53Z",
     "address": "151ST ST & 96TH AVE",
     "city": "Surrey",
-    "streets": [
-      "surrey/151st-st",
-      "surrey/96th-ave"
-    ],
-    "streetNames": [
-      "151st St",
-      "96th Ave"
-    ]
+    "streets": ["surrey/151st-st", "surrey/96th-ave"],
+    "streetNames": ["151st St", "96th Ave"]
   },
   {
     "id": "2026-03-09T21:47:00Z_oak-st_w-33rd-ave",
@@ -1442,14 +938,8 @@
     "scrapedAt": "2026-03-09T22:03:53Z",
     "address": "OAK ST & W 33RD AVE",
     "city": "Vancouver",
-    "streets": [
-      "vancouver/oak-st",
-      "vancouver/w-33rd-ave"
-    ],
-    "streetNames": [
-      "Oak St",
-      "W 33rd Ave"
-    ]
+    "streets": ["vancouver/oak-st", "vancouver/w-33rd-ave"],
+    "streetNames": ["Oak St", "W 33rd Ave"]
   },
   {
     "id": "2026-03-09T20:52:00Z_wren-st_lougheed-hwy",
@@ -1457,14 +947,8 @@
     "scrapedAt": "2026-03-09T21:06:17Z",
     "address": "WREN ST & LOUGHEED HWY",
     "city": "Mission",
-    "streets": [
-      "mission/wren-st",
-      "mission/lougheed-hwy"
-    ],
-    "streetNames": [
-      "Wren St",
-      "Lougheed Hwy"
-    ]
+    "streets": ["mission/wren-st", "mission/lougheed-hwy"],
+    "streetNames": ["Wren St", "Lougheed Hwy"]
   },
   {
     "id": "2026-03-09T19:57:00Z_trethewey-st",
@@ -1472,12 +956,8 @@
     "scrapedAt": "2026-03-09T20:04:39Z",
     "address": "TRETHEWEY ST",
     "city": "Abbotsford",
-    "streets": [
-      "abbotsford/trethewey-st"
-    ],
-    "streetNames": [
-      "Trethewey St"
-    ]
+    "streets": ["abbotsford/trethewey-st"],
+    "streetNames": ["Trethewey St"]
   },
   {
     "id": "2026-03-09T19:45:00Z_8111-ackroyd-rd",
@@ -1485,12 +965,8 @@
     "scrapedAt": "2026-03-09T20:04:39Z",
     "address": "8111 ACKROYD RD",
     "city": "Richmond",
-    "streets": [
-      "richmond/8111-ackroyd-rd"
-    ],
-    "streetNames": [
-      "8111 Ackroyd Rd"
-    ]
+    "streets": ["richmond/8111-ackroyd-rd"],
+    "streetNames": ["8111 Ackroyd Rd"]
   },
   {
     "id": "2026-03-09T19:34:00Z_glengarry-ave_ross-rd",
@@ -1498,14 +974,8 @@
     "scrapedAt": "2026-03-09T20:04:39Z",
     "address": "GLENGARRY AVE & ROSS RD",
     "city": "Abbotsford",
-    "streets": [
-      "abbotsford/glengarry-ave",
-      "abbotsford/ross-rd"
-    ],
-    "streetNames": [
-      "Glengarry Ave",
-      "Ross Rd"
-    ]
+    "streets": ["abbotsford/glengarry-ave", "abbotsford/ross-rd"],
+    "streetNames": ["Glengarry Ave", "Ross Rd"]
   },
   {
     "id": "2026-03-09T19:26:00Z_hwy-91",
@@ -1513,12 +983,8 @@
     "scrapedAt": "2026-03-09T20:04:39Z",
     "address": "HWY 91",
     "city": "Richmond",
-    "streets": [
-      "richmond/hwy-91"
-    ],
-    "streetNames": [
-      "Hwy 91"
-    ]
+    "streets": ["richmond/hwy-91"],
+    "streetNames": ["Hwy 91"]
   },
   {
     "id": "2026-03-09T18:39:00Z_knight-st",
@@ -1526,12 +992,8 @@
     "scrapedAt": "2026-03-09T18:45:29Z",
     "address": "KNIGHT ST",
     "city": "Vancouver",
-    "streets": [
-      "vancouver/knight-st"
-    ],
-    "streetNames": [
-      "Knight St"
-    ]
+    "streets": ["vancouver/knight-st"],
+    "streetNames": ["Knight St"]
   },
   {
     "id": "2026-03-09T17:57:00Z_prairie-central-rd_chilliwack-river-rd",
@@ -1543,10 +1005,7 @@
       "chilliwack/prairie-central-rd",
       "chilliwack/chilliwack-river-rd"
     ],
-    "streetNames": [
-      "Prairie Central Rd",
-      "Chilliwack River Rd"
-    ]
+    "streetNames": ["Prairie Central Rd", "Chilliwack River Rd"]
   },
   {
     "id": "2026-03-09T17:08:00Z_chadsey-rd_keith-wilson-rd",
@@ -1554,14 +1013,8 @@
     "scrapedAt": "2026-03-09T17:15:27Z",
     "address": "CHADSEY RD & KEITH WILSON RD",
     "city": "Chilliwack",
-    "streets": [
-      "chilliwack/chadsey-rd",
-      "chilliwack/keith-wilson-rd"
-    ],
-    "streetNames": [
-      "Chadsey Rd",
-      "Keith Wilson Rd"
-    ]
+    "streets": ["chilliwack/chadsey-rd", "chilliwack/keith-wilson-rd"],
+    "streetNames": ["Chadsey Rd", "Keith Wilson Rd"]
   },
   {
     "id": "2026-03-09T17:04:00Z_w-4th-ave",
@@ -1569,12 +1022,8 @@
     "scrapedAt": "2026-03-09T17:15:27Z",
     "address": "W 4TH AVE",
     "city": "Vancouver",
-    "streets": [
-      "vancouver/w-4th-ave"
-    ],
-    "streetNames": [
-      "W 4th Ave"
-    ]
+    "streets": ["vancouver/w-4th-ave"],
+    "streetNames": ["W 4th Ave"]
   },
   {
     "id": "2026-03-09T15:47:00Z_king-george-blvd_64th-ave",
@@ -1582,14 +1031,8 @@
     "scrapedAt": "2026-03-09T16:17:38Z",
     "address": "KING GEORGE BLVD & 64TH AVE",
     "city": "Surrey",
-    "streets": [
-      "surrey/king-george-blvd",
-      "surrey/64th-ave"
-    ],
-    "streetNames": [
-      "King George Blvd",
-      "64th Ave"
-    ]
+    "streets": ["surrey/king-george-blvd", "surrey/64th-ave"],
+    "streetNames": ["King George Blvd", "64th Ave"]
   },
   {
     "id": "2026-03-09T15:26:00Z_blundell-rd_no-4-rd",
@@ -1597,14 +1040,8 @@
     "scrapedAt": "2026-03-09T15:46:44Z",
     "address": "BLUNDELL RD & NO 4 RD",
     "city": "Richmond",
-    "streets": [
-      "richmond/blundell-rd",
-      "richmond/no-4-rd"
-    ],
-    "streetNames": [
-      "Blundell Rd",
-      "No 4 Rd"
-    ]
+    "streets": ["richmond/blundell-rd", "richmond/no-4-rd"],
+    "streetNames": ["Blundell Rd", "No 4 Rd"]
   },
   {
     "id": "2026-03-09T14:23:00Z_trans-canada-hwy",
@@ -1612,12 +1049,8 @@
     "scrapedAt": "2026-03-09T14:45:46Z",
     "address": "TRANS CANADA HWY",
     "city": "Chilliwack",
-    "streets": [
-      "chilliwack/trans-canada-hwy"
-    ],
-    "streetNames": [
-      "Trans Canada Hwy"
-    ]
+    "streets": ["chilliwack/trans-canada-hwy"],
+    "streetNames": ["Trans Canada Hwy"]
   },
   {
     "id": "2026-03-09T12:03:00Z_kingsway_e-12th-ave",
@@ -1625,14 +1058,8 @@
     "scrapedAt": "2026-03-09T12:45:37Z",
     "address": "KINGSWAY & E 12TH AVE",
     "city": "Vancouver",
-    "streets": [
-      "vancouver/kingsway",
-      "vancouver/e-12th-ave"
-    ],
-    "streetNames": [
-      "Kingsway",
-      "E 12th Ave"
-    ]
+    "streets": ["vancouver/kingsway", "vancouver/e-12th-ave"],
+    "streetNames": ["Kingsway", "E 12th Ave"]
   },
   {
     "id": "2026-03-09T10:50:00Z_44th-ave_fraser-hwy",
@@ -1640,14 +1067,8 @@
     "scrapedAt": "2026-03-09T11:12:27Z",
     "address": "44TH AVE & FRASER HWY",
     "city": "Langley",
-    "streets": [
-      "langley/44th-ave",
-      "langley/fraser-hwy"
-    ],
-    "streetNames": [
-      "44th Ave",
-      "Fraser Hwy"
-    ]
+    "streets": ["langley/44th-ave", "langley/fraser-hwy"],
+    "streetNames": ["44th Ave", "Fraser Hwy"]
   },
   {
     "id": "2026-03-09T08:01:00Z_capilano-rd",
@@ -1655,12 +1076,8 @@
     "scrapedAt": "2026-03-09T08:08:04Z",
     "address": "CAPILANO RD",
     "city": "North Vancouver",
-    "streets": [
-      "north-vancouver/capilano-rd"
-    ],
-    "streetNames": [
-      "Capilano Rd"
-    ]
+    "streets": ["north-vancouver/capilano-rd"],
+    "streetNames": ["Capilano Rd"]
   },
   {
     "id": "2026-03-09T03:52:00Z_granville-st",
@@ -1668,12 +1085,8 @@
     "scrapedAt": "2026-03-09T04:33:25Z",
     "address": "GRANVILLE ST",
     "city": "Vancouver",
-    "streets": [
-      "vancouver/granville-st"
-    ],
-    "streetNames": [
-      "Granville St"
-    ]
+    "streets": ["vancouver/granville-st"],
+    "streetNames": ["Granville St"]
   },
   {
     "id": "2026-03-09T03:29:00Z_e-2nd-st",
@@ -1681,12 +1094,8 @@
     "scrapedAt": "2026-03-09T03:47:27Z",
     "address": "E 2ND ST",
     "city": "North Vancouver",
-    "streets": [
-      "north-vancouver/e-2nd-st"
-    ],
-    "streetNames": [
-      "E 2nd St"
-    ]
+    "streets": ["north-vancouver/e-2nd-st"],
+    "streetNames": ["E 2nd St"]
   },
   {
     "id": "2026-03-09T03:10:00Z_no-4-rd_wilkinson-rd",
@@ -1694,14 +1103,8 @@
     "scrapedAt": "2026-03-09T03:47:27Z",
     "address": "NO 4 RD & WILKINSON RD",
     "city": "Richmond",
-    "streets": [
-      "richmond/no-4-rd",
-      "richmond/wilkinson-rd"
-    ],
-    "streetNames": [
-      "No 4 Rd",
-      "Wilkinson Rd"
-    ]
+    "streets": ["richmond/no-4-rd", "richmond/wilkinson-rd"],
+    "streetNames": ["No 4 Rd", "Wilkinson Rd"]
   },
   {
     "id": "2026-03-09T01:44:00Z_central-ave_ladner-trunk-rd",
@@ -1709,14 +1112,8 @@
     "scrapedAt": "2026-03-09T02:56:15Z",
     "address": "CENTRAL AVE & LADNER TRUNK RD",
     "city": "Delta",
-    "streets": [
-      "delta/central-ave",
-      "delta/ladner-trunk-rd"
-    ],
-    "streetNames": [
-      "Central Ave",
-      "Ladner Trunk Rd"
-    ]
+    "streets": ["delta/central-ave", "delta/ladner-trunk-rd"],
+    "streetNames": ["Central Ave", "Ladner Trunk Rd"]
   },
   {
     "id": "2026-03-09T01:39:00Z_princess-ave",
@@ -1724,12 +1121,8 @@
     "scrapedAt": "2026-03-09T02:56:15Z",
     "address": "PRINCESS AVE",
     "city": "Chilliwack",
-    "streets": [
-      "chilliwack/princess-ave"
-    ],
-    "streetNames": [
-      "Princess Ave"
-    ]
+    "streets": ["chilliwack/princess-ave"],
+    "streetNames": ["Princess Ave"]
   },
   {
     "id": "2026-03-09T00:43:00Z_no-3-rd_blundell-rd",
@@ -1737,14 +1130,8 @@
     "scrapedAt": "2026-03-09T00:54:24Z",
     "address": "NO 3 RD & BLUNDELL RD",
     "city": "Richmond",
-    "streets": [
-      "richmond/no-3-rd",
-      "richmond/blundell-rd"
-    ],
-    "streetNames": [
-      "No 3 Rd",
-      "Blundell Rd"
-    ]
+    "streets": ["richmond/no-3-rd", "richmond/blundell-rd"],
+    "streetNames": ["No 3 Rd", "Blundell Rd"]
   },
   {
     "id": "2026-03-09T00:23:00Z_hwy-17_104th-avenue-onrp",
@@ -1752,14 +1139,8 @@
     "scrapedAt": "2026-03-09T00:54:24Z",
     "address": "HWY 17 & 104TH AVENUE ONRP",
     "city": "Surrey",
-    "streets": [
-      "surrey/hwy-17",
-      "surrey/104th-avenue-onrp"
-    ],
-    "streetNames": [
-      "Hwy 17",
-      "104th Avenue Onrp"
-    ]
+    "streets": ["surrey/hwy-17", "surrey/104th-avenue-onrp"],
+    "streetNames": ["Hwy 17", "104th Avenue Onrp"]
   },
   {
     "id": "2026-03-08T23:56:00Z_78th-ave_140th-st",
@@ -1767,14 +1148,8 @@
     "scrapedAt": "2026-03-09T00:03:06Z",
     "address": "78TH AVE & 140TH ST",
     "city": "Surrey",
-    "streets": [
-      "surrey/78th-ave",
-      "surrey/140th-st"
-    ],
-    "streetNames": [
-      "78th Ave",
-      "140th St"
-    ]
+    "streets": ["surrey/78th-ave", "surrey/140th-st"],
+    "streetNames": ["78th Ave", "140th St"]
   },
   {
     "id": "2026-03-08T23:52:00Z_no-2-rd_granville-ave",
@@ -1782,14 +1157,8 @@
     "scrapedAt": "2026-03-09T00:03:06Z",
     "address": "NO 2 RD & GRANVILLE AVE",
     "city": "Richmond",
-    "streets": [
-      "richmond/no-2-rd",
-      "richmond/granville-ave"
-    ],
-    "streetNames": [
-      "No 2 Rd",
-      "Granville Ave"
-    ]
+    "streets": ["richmond/no-2-rd", "richmond/granville-ave"],
+    "streetNames": ["No 2 Rd", "Granville Ave"]
   },
   {
     "id": "2026-03-08T23:46:00Z_16th-ave_168th-st",
@@ -1797,14 +1166,8 @@
     "scrapedAt": "2026-03-09T00:03:06Z",
     "address": "16TH AVE & 168TH ST",
     "city": "Surrey",
-    "streets": [
-      "surrey/16th-ave",
-      "surrey/168th-st"
-    ],
-    "streetNames": [
-      "16th Ave",
-      "168th St"
-    ]
+    "streets": ["surrey/16th-ave", "surrey/168th-st"],
+    "streetNames": ["16th Ave", "168th St"]
   },
   {
     "id": "2026-03-08T22:45:00Z_marshall-rd",
@@ -1812,12 +1175,8 @@
     "scrapedAt": "2026-03-08T23:02:06Z",
     "address": "MARSHALL RD",
     "city": "Abbotsford",
-    "streets": [
-      "abbotsford/marshall-rd"
-    ],
-    "streetNames": [
-      "Marshall Rd"
-    ]
+    "streets": ["abbotsford/marshall-rd"],
+    "streetNames": ["Marshall Rd"]
   },
   {
     "id": "2026-03-08T22:31:00Z_128th-st_88th-ave",
@@ -1825,14 +1184,8 @@
     "scrapedAt": "2026-03-08T22:39:02Z",
     "address": "128TH ST & 88TH AVE",
     "city": "Surrey",
-    "streets": [
-      "surrey/128th-st",
-      "surrey/88th-ave"
-    ],
-    "streetNames": [
-      "128th St",
-      "88th Ave"
-    ]
+    "streets": ["surrey/128th-st", "surrey/88th-ave"],
+    "streetNames": ["128th St", "88th Ave"]
   },
   {
     "id": "2026-03-08T22:26:00Z_128th-st_82nd-ave",
@@ -1840,14 +1193,8 @@
     "scrapedAt": "2026-03-08T22:39:02Z",
     "address": "128TH ST & 82ND AVE",
     "city": "Surrey",
-    "streets": [
-      "surrey/128th-st",
-      "surrey/82nd-ave"
-    ],
-    "streetNames": [
-      "128th St",
-      "82nd Ave"
-    ]
+    "streets": ["surrey/128th-st", "surrey/82nd-ave"],
+    "streetNames": ["128th St", "82nd Ave"]
   },
   {
     "id": "2026-03-08T22:03:00Z_227th-st_brown-ave",
@@ -1855,14 +1202,8 @@
     "scrapedAt": "2026-03-08T22:39:02Z",
     "address": "227TH ST & BROWN AVE",
     "city": "Maple Ridge",
-    "streets": [
-      "maple-ridge/227th-st",
-      "maple-ridge/brown-ave"
-    ],
-    "streetNames": [
-      "227th St",
-      "Brown Ave"
-    ]
+    "streets": ["maple-ridge/227th-st", "maple-ridge/brown-ave"],
+    "streetNames": ["227th St", "Brown Ave"]
   },
   {
     "id": "2026-03-08T20:40:00Z_upper-prairie-rd_hinkley-rd",
@@ -1870,14 +1211,8 @@
     "scrapedAt": "2026-03-08T21:02:49Z",
     "address": "UPPER PRAIRIE RD & HINKLEY RD",
     "city": "Chilliwack",
-    "streets": [
-      "chilliwack/upper-prairie-rd",
-      "chilliwack/hinkley-rd"
-    ],
-    "streetNames": [
-      "Upper Prairie Rd",
-      "Hinkley Rd"
-    ]
+    "streets": ["chilliwack/upper-prairie-rd", "chilliwack/hinkley-rd"],
+    "streetNames": ["Upper Prairie Rd", "Hinkley Rd"]
   },
   {
     "id": "2026-03-08T19:46:00Z_lynn-ave_mccallum-rd",
@@ -1885,14 +1220,8 @@
     "scrapedAt": "2026-03-08T20:01:46Z",
     "address": "LYNN AVE & MCCALLUM RD",
     "city": "Abbotsford",
-    "streets": [
-      "abbotsford/lynn-ave",
-      "abbotsford/mccallum-rd"
-    ],
-    "streetNames": [
-      "Lynn Ave",
-      "Mccallum Rd"
-    ]
+    "streets": ["abbotsford/lynn-ave", "abbotsford/mccallum-rd"],
+    "streetNames": ["Lynn Ave", "Mccallum Rd"]
   },
   {
     "id": "2026-03-08T19:44:00Z_248th-st_fraser-hwy",
@@ -1900,14 +1229,8 @@
     "scrapedAt": "2026-03-08T20:01:46Z",
     "address": "248TH ST & FRASER HWY",
     "city": "Langley",
-    "streets": [
-      "langley/248th-st",
-      "langley/fraser-hwy"
-    ],
-    "streetNames": [
-      "248th St",
-      "Fraser Hwy"
-    ]
+    "streets": ["langley/248th-st", "langley/fraser-hwy"],
+    "streetNames": ["248th St", "Fraser Hwy"]
   },
   {
     "id": "2026-03-08T19:44:00Z_fraser-hwy",
@@ -1915,12 +1238,8 @@
     "scrapedAt": "2026-03-08T20:01:46Z",
     "address": "FRASER HWY",
     "city": "Langley",
-    "streets": [
-      "langley/fraser-hwy"
-    ],
-    "streetNames": [
-      "Fraser Hwy"
-    ]
+    "streets": ["langley/fraser-hwy"],
+    "streetNames": ["Fraser Hwy"]
   },
   {
     "id": "2026-03-08T19:13:00Z_trans-canada-hwy_eagleridge-drive-ofrp",
@@ -1932,10 +1251,7 @@
       "west-vancouver/trans-canada-hwy",
       "west-vancouver/eagleridge-drive-ofrp"
     ],
-    "streetNames": [
-      "Trans Canada Hwy",
-      "Eagleridge Drive Ofrp"
-    ]
+    "streetNames": ["Trans Canada Hwy", "Eagleridge Drive Ofrp"]
   },
   {
     "id": "2026-03-08T18:17:00Z_bowcock-rd_st-albans-rd",
@@ -1943,14 +1259,8 @@
     "scrapedAt": "2026-03-08T18:43:46Z",
     "address": "BOWCOCK RD & ST ALBANS RD",
     "city": "Richmond",
-    "streets": [
-      "richmond/bowcock-rd",
-      "richmond/st-albans-rd"
-    ],
-    "streetNames": [
-      "Bowcock Rd",
-      "St Albans Rd"
-    ]
+    "streets": ["richmond/bowcock-rd", "richmond/st-albans-rd"],
+    "streetNames": ["Bowcock Rd", "St Albans Rd"]
   },
   {
     "id": "2026-03-08T18:06:00Z_mary-hill-bps",
@@ -1958,12 +1268,8 @@
     "scrapedAt": "2026-03-08T18:43:46Z",
     "address": "MARY HILL BPS",
     "city": "Port Coquitlam",
-    "streets": [
-      "port-coquitlam/mary-hill-bps"
-    ],
-    "streetNames": [
-      "Mary Hill Bps"
-    ]
+    "streets": ["port-coquitlam/mary-hill-bps"],
+    "streetNames": ["Mary Hill Bps"]
   },
   {
     "id": "2026-03-08T17:26:00Z_royal-ave_8th-st",
@@ -1971,14 +1277,8 @@
     "scrapedAt": "2026-03-08T17:37:49Z",
     "address": "ROYAL AVE & 8TH ST",
     "city": "New Westminster",
-    "streets": [
-      "new-westminster/royal-ave",
-      "new-westminster/8th-st"
-    ],
-    "streetNames": [
-      "Royal Ave",
-      "8th St"
-    ]
+    "streets": ["new-westminster/royal-ave", "new-westminster/8th-st"],
+    "streetNames": ["Royal Ave", "8th St"]
   },
   {
     "id": "2026-03-08T16:42:00Z_memorial-dr_mcbride-blvd",
@@ -1986,14 +1286,8 @@
     "scrapedAt": "2026-03-08T17:03:58Z",
     "address": "MEMORIAL DR & MCBRIDE BLVD",
     "city": "New Westminster",
-    "streets": [
-      "new-westminster/memorial-dr",
-      "new-westminster/mcbride-blvd"
-    ],
-    "streetNames": [
-      "Memorial Dr",
-      "Mcbride Blvd"
-    ]
+    "streets": ["new-westminster/memorial-dr", "new-westminster/mcbride-blvd"],
+    "streetNames": ["Memorial Dr", "Mcbride Blvd"]
   },
   {
     "id": "2026-03-08T16:30:00Z_112th-st_72nd-ave",
@@ -2001,14 +1295,8 @@
     "scrapedAt": "2026-03-08T16:41:48Z",
     "address": "112TH ST & 72ND AVE",
     "city": "Delta",
-    "streets": [
-      "delta/112th-st",
-      "delta/72nd-ave"
-    ],
-    "streetNames": [
-      "112th St",
-      "72nd Ave"
-    ]
+    "streets": ["delta/112th-st", "delta/72nd-ave"],
+    "streetNames": ["112th St", "72nd Ave"]
   },
   {
     "id": "2026-03-08T15:49:00Z_1960-como-lake-ave",
@@ -2016,12 +1304,8 @@
     "scrapedAt": "2026-03-08T16:02:13Z",
     "address": "1960 COMO LAKE AVE",
     "city": "Coquitlam",
-    "streets": [
-      "coquitlam/1960-como-lake-ave"
-    ],
-    "streetNames": [
-      "1960 Como Lake Ave"
-    ]
+    "streets": ["coquitlam/1960-como-lake-ave"],
+    "streetNames": ["1960 Como Lake Ave"]
   },
   {
     "id": "2026-03-08T13:55:00Z_mcbride-blvd_memorial-dr",
@@ -2029,14 +1313,8 @@
     "scrapedAt": "2026-03-08T14:03:32Z",
     "address": "MCBRIDE BLVD & MEMORIAL DR",
     "city": "New Westminster",
-    "streets": [
-      "new-westminster/mcbride-blvd",
-      "new-westminster/memorial-dr"
-    ],
-    "streetNames": [
-      "Mcbride Blvd",
-      "Memorial Dr"
-    ]
+    "streets": ["new-westminster/mcbride-blvd", "new-westminster/memorial-dr"],
+    "streetNames": ["Mcbride Blvd", "Memorial Dr"]
   },
   {
     "id": "2026-03-08T12:17:00Z_marine-way",
@@ -2044,12 +1322,8 @@
     "scrapedAt": "2026-03-08T12:44:43Z",
     "address": "MARINE WAY",
     "city": "Burnaby",
-    "streets": [
-      "burnaby/marine-way"
-    ],
-    "streetNames": [
-      "Marine Way"
-    ]
+    "streets": ["burnaby/marine-way"],
+    "streetNames": ["Marine Way"]
   },
   {
     "id": "2026-03-08T09:47:00Z_prince-charles-blvd",
@@ -2057,12 +1331,8 @@
     "scrapedAt": "2026-03-08T09:53:23Z",
     "address": "PRINCE CHARLES BLVD",
     "city": "Surrey",
-    "streets": [
-      "surrey/prince-charles-blvd"
-    ],
-    "streetNames": [
-      "Prince Charles Blvd"
-    ]
+    "streets": ["surrey/prince-charles-blvd"],
+    "streetNames": ["Prince Charles Blvd"]
   },
   {
     "id": "2026-03-08T08:51:00Z_trans-canada-hwy",
@@ -2070,12 +1340,8 @@
     "scrapedAt": "2026-03-08T09:00:59Z",
     "address": "TRANS CANADA HWY",
     "city": "Surrey",
-    "streets": [
-      "surrey/trans-canada-hwy"
-    ],
-    "streetNames": [
-      "Trans Canada Hwy"
-    ]
+    "streets": ["surrey/trans-canada-hwy"],
+    "streetNames": ["Trans Canada Hwy"]
   },
   {
     "id": "2026-03-08T08:16:00Z_w-broadway_balaclava-st",
@@ -2083,14 +1349,8 @@
     "scrapedAt": "2026-03-08T08:21:28Z",
     "address": "W BROADWAY & BALACLAVA ST",
     "city": "Vancouver",
-    "streets": [
-      "vancouver/w-broadway",
-      "vancouver/balaclava-st"
-    ],
-    "streetNames": [
-      "W Broadway",
-      "Balaclava St"
-    ]
+    "streets": ["vancouver/w-broadway", "vancouver/balaclava-st"],
+    "streetNames": ["W Broadway", "Balaclava St"]
   },
   {
     "id": "2026-03-08T08:09:00Z_84th-ave",
@@ -2098,12 +1358,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "84TH AVE",
     "city": "Surrey",
-    "streets": [
-      "surrey/84th-ave"
-    ],
-    "streetNames": [
-      "84th Ave"
-    ]
+    "streets": ["surrey/84th-ave"],
+    "streetNames": ["84th Ave"]
   },
   {
     "id": "2026-03-08T07:39:00Z_hwy-91",
@@ -2111,12 +1367,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "HWY 91",
     "city": "Delta",
-    "streets": [
-      "delta/hwy-91"
-    ],
-    "streetNames": [
-      "Hwy 91"
-    ]
+    "streets": ["delta/hwy-91"],
+    "streetNames": ["Hwy 91"]
   },
   {
     "id": "2026-03-08T07:37:00Z_lower-mall",
@@ -2124,12 +1376,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "LOWER MALL",
     "city": "Vancouver",
-    "streets": [
-      "vancouver/lower-mall"
-    ],
-    "streetNames": [
-      "Lower Mall"
-    ]
+    "streets": ["vancouver/lower-mall"],
+    "streetNames": ["Lower Mall"]
   },
   {
     "id": "2026-03-08T07:19:00Z_141a-st_72a-ave",
@@ -2137,14 +1385,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "141A ST & 72A AVE",
     "city": "Surrey",
-    "streets": [
-      "surrey/141a-st",
-      "surrey/72a-ave"
-    ],
-    "streetNames": [
-      "141a St",
-      "72a Ave"
-    ]
+    "streets": ["surrey/141a-st", "surrey/72a-ave"],
+    "streetNames": ["141a St", "72a Ave"]
   },
   {
     "id": "2026-03-08T07:11:00Z_168th-st",
@@ -2152,12 +1394,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "168TH ST",
     "city": "Surrey",
-    "streets": [
-      "surrey/168th-st"
-    ],
-    "streetNames": [
-      "168th St"
-    ]
+    "streets": ["surrey/168th-st"],
+    "streetNames": ["168th St"]
   },
   {
     "id": "2026-03-08T07:09:00Z_royal-ave_1st-st",
@@ -2165,14 +1403,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "ROYAL AVE & 1ST ST",
     "city": "New Westminster",
-    "streets": [
-      "new-westminster/royal-ave",
-      "new-westminster/1st-st"
-    ],
-    "streetNames": [
-      "Royal Ave",
-      "1st St"
-    ]
+    "streets": ["new-westminster/royal-ave", "new-westminster/1st-st"],
+    "streetNames": ["Royal Ave", "1st St"]
   },
   {
     "id": "2026-03-08T06:58:00Z_garden-grove-dr_deer-lake-pkwy",
@@ -2180,14 +1412,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "GARDEN GROVE DR & DEER LAKE PKWY",
     "city": "Burnaby",
-    "streets": [
-      "burnaby/garden-grove-dr",
-      "burnaby/deer-lake-pkwy"
-    ],
-    "streetNames": [
-      "Garden Grove Dr",
-      "Deer Lake Pkwy"
-    ]
+    "streets": ["burnaby/garden-grove-dr", "burnaby/deer-lake-pkwy"],
+    "streetNames": ["Garden Grove Dr", "Deer Lake Pkwy"]
   },
   {
     "id": "2026-03-08T06:57:00Z_deer-lake-pkwy",
@@ -2195,12 +1421,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "DEER LAKE PKWY",
     "city": "Burnaby",
-    "streets": [
-      "burnaby/deer-lake-pkwy"
-    ],
-    "streetNames": [
-      "Deer Lake Pkwy"
-    ]
+    "streets": ["burnaby/deer-lake-pkwy"],
+    "streetNames": ["Deer Lake Pkwy"]
   },
   {
     "id": "2026-03-08T06:55:00Z_willingdon-ave_lougheed-hwy",
@@ -2208,14 +1430,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "WILLINGDON AVE & LOUGHEED HWY",
     "city": "Burnaby",
-    "streets": [
-      "burnaby/willingdon-ave",
-      "burnaby/lougheed-hwy"
-    ],
-    "streetNames": [
-      "Willingdon Ave",
-      "Lougheed Hwy"
-    ]
+    "streets": ["burnaby/willingdon-ave", "burnaby/lougheed-hwy"],
+    "streetNames": ["Willingdon Ave", "Lougheed Hwy"]
   },
   {
     "id": "2026-03-08T06:15:00Z_nelson-rd",
@@ -2223,12 +1439,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "NELSON RD",
     "city": "Richmond",
-    "streets": [
-      "richmond/nelson-rd"
-    ],
-    "streetNames": [
-      "Nelson Rd"
-    ]
+    "streets": ["richmond/nelson-rd"],
+    "streetNames": ["Nelson Rd"]
   },
   {
     "id": "2026-03-08T05:47:00Z_216th-street-ofrp_trans-canada-hwy",
@@ -2236,14 +1448,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "216TH STREET OFRP & TRANS CANADA HWY",
     "city": "Langley",
-    "streets": [
-      "langley/216th-street-ofrp",
-      "langley/trans-canada-hwy"
-    ],
-    "streetNames": [
-      "216th Street Ofrp",
-      "Trans Canada Hwy"
-    ]
+    "streets": ["langley/216th-street-ofrp", "langley/trans-canada-hwy"],
+    "streetNames": ["216th Street Ofrp", "Trans Canada Hwy"]
   },
   {
     "id": "2026-03-08T03:30:00Z_lougheed-hwy_203rd-st",
@@ -2251,14 +1457,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "LOUGHEED HWY & 203RD ST",
     "city": "Maple Ridge",
-    "streets": [
-      "maple-ridge/lougheed-hwy",
-      "maple-ridge/203rd-st"
-    ],
-    "streetNames": [
-      "Lougheed Hwy",
-      "203rd St"
-    ]
+    "streets": ["maple-ridge/lougheed-hwy", "maple-ridge/203rd-st"],
+    "streetNames": ["Lougheed Hwy", "203rd St"]
   },
   {
     "id": "2026-03-08T02:47:00Z_heather-st_w-70th-ave",
@@ -2266,14 +1466,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "HEATHER ST & W 70TH AVE",
     "city": "Vancouver",
-    "streets": [
-      "vancouver/heather-st",
-      "vancouver/w-70th-ave"
-    ],
-    "streetNames": [
-      "Heather St",
-      "W 70th Ave"
-    ]
+    "streets": ["vancouver/heather-st", "vancouver/w-70th-ave"],
+    "streetNames": ["Heather St", "W 70th Ave"]
   },
   {
     "id": "2026-03-08T02:12:00Z_92nd-ave_124th-st",
@@ -2281,14 +1475,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "92ND AVE & 124TH ST",
     "city": "Surrey",
-    "streets": [
-      "surrey/92nd-ave",
-      "surrey/124th-st"
-    ],
-    "streetNames": [
-      "92nd Ave",
-      "124th St"
-    ]
+    "streets": ["surrey/92nd-ave", "surrey/124th-st"],
+    "streetNames": ["92nd Ave", "124th St"]
   },
   {
     "id": "2026-03-08T01:18:00Z_20th-st_6th-ave",
@@ -2296,14 +1484,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "20TH ST & 6TH AVE",
     "city": "New Westminster",
-    "streets": [
-      "new-westminster/20th-st",
-      "new-westminster/6th-ave"
-    ],
-    "streetNames": [
-      "20th St",
-      "6th Ave"
-    ]
+    "streets": ["new-westminster/20th-st", "new-westminster/6th-ave"],
+    "streetNames": ["20th St", "6th Ave"]
   },
   {
     "id": "2026-03-08T00:24:00Z_w-33rd-ave_oak-st",
@@ -2311,14 +1493,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "W 33RD AVE & OAK ST",
     "city": "Vancouver",
-    "streets": [
-      "vancouver/w-33rd-ave",
-      "vancouver/oak-st"
-    ],
-    "streetNames": [
-      "W 33rd Ave",
-      "Oak St"
-    ]
+    "streets": ["vancouver/w-33rd-ave", "vancouver/oak-st"],
+    "streetNames": ["W 33rd Ave", "Oak St"]
   },
   {
     "id": "2026-03-07T23:33:00Z_w-49th-ave_granville-st",
@@ -2326,14 +1502,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "W 49TH AVE & GRANVILLE ST",
     "city": "Vancouver",
-    "streets": [
-      "vancouver/w-49th-ave",
-      "vancouver/granville-st"
-    ],
-    "streetNames": [
-      "W 49th Ave",
-      "Granville St"
-    ]
+    "streets": ["vancouver/w-49th-ave", "vancouver/granville-st"],
+    "streetNames": ["W 49th Ave", "Granville St"]
   },
   {
     "id": "2026-03-07T22:14:00Z_beatrice-st_e-41st-ave",
@@ -2341,14 +1511,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "BEATRICE ST & E 41ST AVE",
     "city": "Vancouver",
-    "streets": [
-      "vancouver/beatrice-st",
-      "vancouver/e-41st-ave"
-    ],
-    "streetNames": [
-      "Beatrice St",
-      "E 41st Ave"
-    ]
+    "streets": ["vancouver/beatrice-st", "vancouver/e-41st-ave"],
+    "streetNames": ["Beatrice St", "E 41st Ave"]
   },
   {
     "id": "2026-03-07T20:00:00Z_lougheed-hwy",
@@ -2356,12 +1520,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "LOUGHEED HWY",
     "city": "Burnaby",
-    "streets": [
-      "burnaby/lougheed-hwy"
-    ],
-    "streetNames": [
-      "Lougheed Hwy"
-    ]
+    "streets": ["burnaby/lougheed-hwy"],
+    "streetNames": ["Lougheed Hwy"]
   },
   {
     "id": "2026-03-07T19:46:00Z_dewdney-trunk-rd_207th-st",
@@ -2369,14 +1529,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "DEWDNEY TRUNK RD & 207TH ST",
     "city": "Maple Ridge",
-    "streets": [
-      "maple-ridge/dewdney-trunk-rd",
-      "maple-ridge/207th-st"
-    ],
-    "streetNames": [
-      "Dewdney Trunk Rd",
-      "207th St"
-    ]
+    "streets": ["maple-ridge/dewdney-trunk-rd", "maple-ridge/207th-st"],
+    "streetNames": ["Dewdney Trunk Rd", "207th St"]
   },
   {
     "id": "2026-03-07T18:52:00Z_273rd-st_fraser-hwy",
@@ -2384,14 +1538,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "273RD ST & FRASER HWY",
     "city": "Langley",
-    "streets": [
-      "langley/273rd-st",
-      "langley/fraser-hwy"
-    ],
-    "streetNames": [
-      "273rd St",
-      "Fraser Hwy"
-    ]
+    "streets": ["langley/273rd-st", "langley/fraser-hwy"],
+    "streetNames": ["273rd St", "Fraser Hwy"]
   },
   {
     "id": "2026-03-07T18:24:00Z_burrard-st_w-12th-ave",
@@ -2399,14 +1547,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "BURRARD ST & W 12TH AVE",
     "city": "Vancouver",
-    "streets": [
-      "vancouver/burrard-st",
-      "vancouver/w-12th-ave"
-    ],
-    "streetNames": [
-      "Burrard St",
-      "W 12th Ave"
-    ]
+    "streets": ["vancouver/burrard-st", "vancouver/w-12th-ave"],
+    "streetNames": ["Burrard St", "W 12th Ave"]
   },
   {
     "id": "2026-03-07T18:08:00Z_trans-canada-hwy",
@@ -2414,12 +1556,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "TRANS CANADA HWY",
     "city": "West Vancouver",
-    "streets": [
-      "west-vancouver/trans-canada-hwy"
-    ],
-    "streetNames": [
-      "Trans Canada Hwy"
-    ]
+    "streets": ["west-vancouver/trans-canada-hwy"],
+    "streetNames": ["Trans Canada Hwy"]
   },
   {
     "id": "2026-03-07T17:51:00Z_foster-ave_blue-mountain-st",
@@ -2427,14 +1565,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "FOSTER AVE & BLUE MOUNTAIN ST",
     "city": "Coquitlam",
-    "streets": [
-      "coquitlam/foster-ave",
-      "coquitlam/blue-mountain-st"
-    ],
-    "streetNames": [
-      "Foster Ave",
-      "Blue Mountain St"
-    ]
+    "streets": ["coquitlam/foster-ave", "coquitlam/blue-mountain-st"],
+    "streetNames": ["Foster Ave", "Blue Mountain St"]
   },
   {
     "id": "2026-03-07T17:45:00Z_united-blvd",
@@ -2442,12 +1574,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "UNITED BLVD",
     "city": "Coquitlam",
-    "streets": [
-      "coquitlam/united-blvd"
-    ],
-    "streetNames": [
-      "United Blvd"
-    ]
+    "streets": ["coquitlam/united-blvd"],
+    "streetNames": ["United Blvd"]
   },
   {
     "id": "2026-03-07T15:44:00Z_granville-street-ofrp",
@@ -2455,12 +1583,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "GRANVILLE STREET OFRP",
     "city": "Vancouver",
-    "streets": [
-      "vancouver/granville-street-ofrp"
-    ],
-    "streetNames": [
-      "Granville Street Ofrp"
-    ]
+    "streets": ["vancouver/granville-street-ofrp"],
+    "streetNames": ["Granville Street Ofrp"]
   },
   {
     "id": "2026-03-07T13:04:00Z_132nd-st_108th-ave",
@@ -2468,14 +1592,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "132ND ST & 108TH AVE",
     "city": "Surrey",
-    "streets": [
-      "surrey/132nd-st",
-      "surrey/108th-ave"
-    ],
-    "streetNames": [
-      "132nd St",
-      "108th Ave"
-    ]
+    "streets": ["surrey/132nd-st", "surrey/108th-ave"],
+    "streetNames": ["132nd St", "108th Ave"]
   },
   {
     "id": "2026-03-07T11:04:00Z_63a-ave_130b-st",
@@ -2483,14 +1601,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "63A AVE & 130B ST",
     "city": "Surrey",
-    "streets": [
-      "surrey/63a-ave",
-      "surrey/130b-st"
-    ],
-    "streetNames": [
-      "63a Ave",
-      "130b St"
-    ]
+    "streets": ["surrey/63a-ave", "surrey/130b-st"],
+    "streetNames": ["63a Ave", "130b St"]
   },
   {
     "id": "2026-03-07T09:04:00Z_272nd-st_43rd-ave",
@@ -2498,14 +1610,8 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "272ND ST & 43RD AVE",
     "city": "Langley",
-    "streets": [
-      "langley/272nd-st",
-      "langley/43rd-ave"
-    ],
-    "streetNames": [
-      "272nd St",
-      "43rd Ave"
-    ]
+    "streets": ["langley/272nd-st", "langley/43rd-ave"],
+    "streetNames": ["272nd St", "43rd Ave"]
   },
   {
     "id": "2026-03-07T08:38:00Z_king-george-blvd_bolivar-rd",
@@ -2513,13 +1619,7 @@
     "scrapedAt": "2026-03-08T08:19:09Z",
     "address": "KING GEORGE BLVD & BOLIVAR RD",
     "city": "Surrey",
-    "streets": [
-      "surrey/king-george-blvd",
-      "surrey/bolivar-rd"
-    ],
-    "streetNames": [
-      "King George Blvd",
-      "Bolivar Rd"
-    ]
+    "streets": ["surrey/king-george-blvd", "surrey/bolivar-rd"],
+    "streetNames": ["King George Blvd", "Bolivar Rd"]
   }
 ]
