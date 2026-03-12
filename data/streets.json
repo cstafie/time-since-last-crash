@@ -451,8 +451,8 @@
     "name": "Bridgeport Rd",
     "slug": "richmond/bridgeport-rd",
     "city": "Richmond",
-    "lastIncident": "2026-03-10T20:13:00Z",
-    "count": 2
+    "lastIncident": "2026-03-12T07:29:00Z",
+    "count": 3
   },
   "richmond/granville-ave": {
     "name": "Granville Ave",
@@ -1452,7 +1452,14 @@
     "name": "Pitt River Rd",
     "slug": "port-coquitlam/pitt-river-rd",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-03-12T07:12:00Z",
+    "lastIncident": "2026-03-12T07:15:00Z",
+    "count": 2
+  },
+  "richmond/jow-st": {
+    "name": "Jow St",
+    "slug": "richmond/jow-st",
+    "city": "Richmond",
+    "lastIncident": "2026-03-12T07:29:00Z",
     "count": 1
   }
 }

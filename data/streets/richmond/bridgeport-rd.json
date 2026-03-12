@@ -4,6 +4,20 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-03-12T07:29:00Z_richmond/bridgeport-rd_richmond/jow-st",
+      "timestamp": "2026-03-12T07:29:00Z",
+      "address": "BRIDGEPORT RD & JOW ST",
+      "city": "Richmond",
+      "streets": [
+        "richmond/bridgeport-rd",
+        "richmond/jow-st"
+      ],
+      "streetNames": [
+        "Bridgeport Rd",
+        "Jow St"
+      ]
+    },
+    {
       "id": "2026-03-10T20:13:00Z_richmond/bridgeport-rd_richmond/shell-rd",
       "timestamp": "2026-03-10T20:13:00Z",
       "address": "BRIDGEPORT RD & SHELL RD",
@@ -32,6 +46,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-10T20:13:00Z",
-  "count": 2
+  "lastIncident": "2026-03-12T07:29:00Z",
+  "count": 3
 }

@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-03-12T07:29:00Z_richmond/bridgeport-rd_richmond/jow-st",
+    "timestamp": "2026-03-12T07:29:00Z",
+    "scrapedAt": "2026-03-12T07:44:41Z",
+    "address": "BRIDGEPORT RD & JOW ST",
+    "city": "Richmond",
+    "streets": [
+      "richmond/bridgeport-rd",
+      "richmond/jow-st"
+    ],
+    "streetNames": [
+      "Bridgeport Rd",
+      "Jow St"
+    ]
+  },
+  {
+    "id": "2026-03-12T07:15:00Z_port-coquitlam/pitt-river-rd",
+    "timestamp": "2026-03-12T07:15:00Z",
+    "scrapedAt": "2026-03-12T07:44:41Z",
+    "address": "PITT RIVER RD",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/pitt-river-rd"
+    ],
+    "streetNames": [
+      "Pitt River Rd"
+    ]
+  },
+  {
     "id": "2026-03-12T07:14:00Z_coquitlam/palisade-pl",
     "timestamp": "2026-03-12T07:14:00Z",
     "scrapedAt": "2026-03-12T07:16:39Z",

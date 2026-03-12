@@ -1,0 +1,23 @@
+{
+  "slug": "richmond/jow-st",
+  "name": "Jow St",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-03-12T07:29:00Z_richmond/bridgeport-rd_richmond/jow-st",
+      "timestamp": "2026-03-12T07:29:00Z",
+      "address": "BRIDGEPORT RD & JOW ST",
+      "city": "Richmond",
+      "streets": [
+        "richmond/bridgeport-rd",
+        "richmond/jow-st"
+      ],
+      "streetNames": [
+        "Bridgeport Rd",
+        "Jow St"
+      ]
+    }
+  ],
+  "lastIncident": "2026-03-12T07:29:00Z",
+  "count": 1
+}
