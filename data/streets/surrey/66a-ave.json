@@ -1,6 +1,6 @@
 {
-  "slug": "surrey/176th-st",
-  "name": "176th St",
+  "slug": "surrey/66a-ave",
+  "name": "66a Ave",
   "city": "Surrey",
   "incidents": [
     {
@@ -16,22 +16,8 @@
         "66a Ave",
         "176th St"
       ]
-    },
-    {
-      "id": "2026-03-10T13:34:00Z_surrey/64th-ave_surrey/176th-st",
-      "timestamp": "2026-03-10T13:34:00Z",
-      "address": "64TH AVE & 176TH ST",
-      "city": "Surrey",
-      "streets": [
-        "surrey/64th-ave",
-        "surrey/176th-st"
-      ],
-      "streetNames": [
-        "64th Ave",
-        "176th St"
-      ]
     }
   ],
   "lastIncident": "2026-03-12T00:37:00Z",
-  "count": 2
+  "count": 1
 }

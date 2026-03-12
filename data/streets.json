@@ -885,8 +885,8 @@
     "name": "176th St",
     "slug": "surrey/176th-st",
     "city": "Surrey",
-    "lastIncident": "2026-03-10T13:34:00Z",
-    "count": 1
+    "lastIncident": "2026-03-12T00:37:00Z",
+    "count": 2
   },
   "surrey/100th-ave": {
     "name": "100th Ave",
@@ -1383,6 +1383,13 @@
     "slug": "surrey/192nd-st",
     "city": "Surrey",
     "lastIncident": "2026-03-11T22:50:00Z",
+    "count": 1
+  },
+  "surrey/66a-ave": {
+    "name": "66a Ave",
+    "slug": "surrey/66a-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-03-12T00:37:00Z",
     "count": 1
   }
 }
