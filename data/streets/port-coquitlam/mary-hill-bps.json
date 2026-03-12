@@ -4,6 +4,20 @@
   "city": "Port Coquitlam",
   "incidents": [
     {
+      "id": "2026-03-12T03:37:00Z_port-coquitlam/broadway-st_port-coquitlam/mary-hill-bps",
+      "timestamp": "2026-03-12T03:37:00Z",
+      "address": "BROADWAY ST & MARY HILL BPS",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/broadway-st",
+        "port-coquitlam/mary-hill-bps"
+      ],
+      "streetNames": [
+        "Broadway St",
+        "Mary Hill Bps"
+      ]
+    },
+    {
       "id": "2026-03-11T20:10:00Z_port-coquitlam/mary-hill-bps_port-coquitlam/broadway-st",
       "timestamp": "2026-03-11T20:10:00Z",
       "address": "MARY HILL BPS & BROADWAY ST",
@@ -30,6 +44,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-11T20:10:00Z",
-  "count": 2
+  "lastIncident": "2026-03-12T03:37:00Z",
+  "count": 3
 }

@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-12T03:37:00Z_port-coquitlam/broadway-st_port-coquitlam/mary-hill-bps",
+    "timestamp": "2026-03-12T03:37:00Z",
+    "scrapedAt": "2026-03-12T03:45:31Z",
+    "address": "BROADWAY ST & MARY HILL BPS",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/broadway-st",
+      "port-coquitlam/mary-hill-bps"
+    ],
+    "streetNames": [
+      "Broadway St",
+      "Mary Hill Bps"
+    ]
+  },
+  {
+    "id": "2026-03-12T03:15:00Z_delta/64th-ave_delta/120th-st",
+    "timestamp": "2026-03-12T03:15:00Z",
+    "scrapedAt": "2026-03-12T03:45:31Z",
+    "address": "64TH AVE & 120TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/64th-ave",
+      "delta/120th-st"
+    ],
+    "streetNames": [
+      "64th Ave",
+      "120th St"
+    ]
+  },
+  {
     "id": "2026-03-12T01:41:00Z_richmond/hwy-99",
     "timestamp": "2026-03-12T01:41:00Z",
     "scrapedAt": "2026-03-12T02:54:07Z",

@@ -1,6 +1,6 @@
 {
-  "slug": "delta/120th-st",
-  "name": "120th St",
+  "slug": "delta/64th-ave",
+  "name": "64th Ave",
   "city": "Delta",
   "incidents": [
     {
@@ -16,22 +16,8 @@
         "64th Ave",
         "120th St"
       ]
-    },
-    {
-      "id": "2026-03-10T04:40:00Z_delta/58th-ave_delta/120th-st",
-      "timestamp": "2026-03-10T04:40:00Z",
-      "address": "58TH AVE & 120TH ST",
-      "city": "Delta",
-      "streets": [
-        "delta/58th-ave",
-        "delta/120th-st"
-      ],
-      "streetNames": [
-        "58th Ave",
-        "120th St"
-      ]
     }
   ],
   "lastIncident": "2026-03-12T03:15:00Z",
-  "count": 2
+  "count": 1
 }
