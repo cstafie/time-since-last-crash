@@ -451,6 +451,22 @@
     ]
   },
   {
+    "id": "2026-03-11T21:50:00Z_burnaby/kensington-ave_burnaby/canada-way",
+    "timestamp": "2026-03-11T21:50:00Z",
+    "scrapedAt": "2026-03-12T20:05:30Z",
+    "address": "KENSINGTON AVE & CANADA WAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/kensington-ave",
+      "burnaby/canada-way"
+    ],
+    "streetNames": [
+      "Kensington Ave",
+      "Canada Way"
+    ],
+    "pulsePointId": "2432062646"
+  },
+  {
     "id": "2026-03-11T21:47:00Z_burnaby/kensington-ave_burnaby/canada-way",
     "timestamp": "2026-03-11T21:47:00Z",
     "scrapedAt": "2026-03-11T22:03:37Z",
@@ -520,6 +536,22 @@
       "100th Ave",
       "120th St"
     ]
+  },
+  {
+    "id": "2026-03-11T20:58:00Z_surrey/122nd-st_surrey/104th-ave",
+    "timestamp": "2026-03-11T20:58:00Z",
+    "scrapedAt": "2026-03-12T20:05:30Z",
+    "address": "122ND ST & 104TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/122nd-st",
+      "surrey/104th-ave"
+    ],
+    "streetNames": [
+      "122nd St",
+      "104th Ave"
+    ],
+    "pulsePointId": "2432026862"
   },
   {
     "id": "2026-03-11T20:55:00Z_delta/72nd-st",
