@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-13T22:10:00Z_richmond/garden-city-rd_richmond/granville-ave",
+    "timestamp": "2026-03-13T22:10:00Z",
+    "scrapedAt": "2026-03-13T22:40:37Z",
+    "address": "GARDEN CITY RD & GRANVILLE AVE",
+    "city": "Richmond",
+    "streets": [
+      "richmond/garden-city-rd",
+      "richmond/granville-ave"
+    ],
+    "streetNames": [
+      "Garden City Rd",
+      "Granville Ave"
+    ],
+    "pulsePointId": "2433457530"
+  },
+  {
     "id": "2026-03-13T21:16:00Z_surrey/trans-canada-hwy",
     "timestamp": "2026-03-13T21:16:00Z",
     "scrapedAt": "2026-03-13T21:42:18Z",
