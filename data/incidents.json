@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-13T20:28:00Z_langley/20611-fraser-hwyste-111",
+    "timestamp": "2026-03-13T20:28:00Z",
+    "scrapedAt": "2026-03-13T20:43:12Z",
+    "address": "20611 FRASER HWY,STE 111",
+    "city": "Langley",
+    "streets": [
+      "langley/20611-fraser-hwyste-111"
+    ],
+    "streetNames": [
+      "20611 Fraser Hwy,ste 111"
+    ],
+    "pulsePointId": "2433386623"
+  },
+  {
     "id": "2026-03-13T19:11:00Z_surrey/101st-ave_surrey/152nd-st",
     "timestamp": "2026-03-13T19:11:00Z",
     "scrapedAt": "2026-03-13T19:41:37Z",

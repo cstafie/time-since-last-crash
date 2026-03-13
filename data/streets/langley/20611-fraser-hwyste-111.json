@@ -1,0 +1,22 @@
+{
+  "slug": "langley/20611-fraser-hwyste-111",
+  "name": "20611 Fraser Hwy,ste 111",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-03-13T20:28:00Z_langley/20611-fraser-hwyste-111",
+      "timestamp": "2026-03-13T20:28:00Z",
+      "address": "20611 FRASER HWY,STE 111",
+      "city": "Langley",
+      "streets": [
+        "langley/20611-fraser-hwyste-111"
+      ],
+      "streetNames": [
+        "20611 Fraser Hwy,ste 111"
+      ],
+      "pulsePointId": "2433386623"
+    }
+  ],
+  "lastIncident": "2026-03-13T20:28:00Z",
+  "count": 1
+}
