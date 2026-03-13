@@ -577,8 +577,8 @@
     "name": "168th St",
     "slug": "surrey/168th-st",
     "city": "Surrey",
-    "lastIncident": "2026-03-10T02:46:00Z",
-    "count": 4
+    "lastIncident": "2026-03-13T01:41:00Z",
+    "count": 5
   },
   "surrey/16th-ave": {
     "name": "16th Ave",
@@ -1312,8 +1312,8 @@
     "name": "104th Ave",
     "slug": "surrey/104th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-11T20:58:00Z",
-    "count": 2
+    "lastIncident": "2026-03-13T01:30:00Z",
+    "count": 3
   },
   "surrey/122nd-st": {
     "name": "122nd St",
@@ -1600,6 +1600,34 @@
     "slug": "vancouver/w-22nd-ave",
     "city": "Vancouver",
     "lastIncident": "2026-03-13T00:16:00Z",
+    "count": 1
+  },
+  "vancouver/nicola-st": {
+    "name": "Nicola St",
+    "slug": "vancouver/nicola-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-13T02:41:00Z",
+    "count": 1
+  },
+  "vancouver/alberni-st": {
+    "name": "Alberni St",
+    "slug": "vancouver/alberni-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-13T02:41:00Z",
+    "count": 1
+  },
+  "surrey/80th-ave": {
+    "name": "80th Ave",
+    "slug": "surrey/80th-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-03-13T01:41:00Z",
+    "count": 1
+  },
+  "surrey/156th-st": {
+    "name": "156th St",
+    "slug": "surrey/156th-st",
+    "city": "Surrey",
+    "lastIncident": "2026-03-13T01:30:00Z",
     "count": 1
   }
 }

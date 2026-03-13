@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-03-13T02:41:00Z_vancouver/nicola-st_vancouver/alberni-st",
+    "timestamp": "2026-03-13T02:41:00Z",
+    "scrapedAt": "2026-03-13T02:52:49Z",
+    "address": "NICOLA ST & ALBERNI ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/nicola-st",
+      "vancouver/alberni-st"
+    ],
+    "streetNames": [
+      "Nicola St",
+      "Alberni St"
+    ],
+    "pulsePointId": "2432930342"
+  },
+  {
+    "id": "2026-03-13T01:41:00Z_surrey/80th-ave_surrey/168th-st",
+    "timestamp": "2026-03-13T01:41:00Z",
+    "scrapedAt": "2026-03-13T02:52:49Z",
+    "address": "80TH AVE & 168TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/80th-ave",
+      "surrey/168th-st"
+    ],
+    "streetNames": [
+      "80th Ave",
+      "168th St"
+    ],
+    "pulsePointId": "2432896824"
+  },
+  {
+    "id": "2026-03-13T01:30:00Z_surrey/156th-st_surrey/104th-ave",
+    "timestamp": "2026-03-13T01:30:00Z",
+    "scrapedAt": "2026-03-13T02:52:49Z",
+    "address": "156TH ST & 104TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/156th-st",
+      "surrey/104th-ave"
+    ],
+    "streetNames": [
+      "156th St",
+      "104th Ave"
+    ],
+    "pulsePointId": "2432889415"
+  },
+  {
     "id": "2026-03-13T01:02:00Z_langley/200th-st_langley/72nd-ave",
     "timestamp": "2026-03-13T01:02:00Z",
     "scrapedAt": "2026-03-13T01:30:34Z",
