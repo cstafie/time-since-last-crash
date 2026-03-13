@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/eagle-mountain-dr",
+  "name": "Eagle Mountain Dr",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-03-13T04:06:00Z_abbotsford/eagle-mountain-dr_abbotsford/old-yale-rd",
+      "timestamp": "2026-03-13T04:06:00Z",
+      "address": "EAGLE MOUNTAIN DR & OLD YALE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/eagle-mountain-dr",
+        "abbotsford/old-yale-rd"
+      ],
+      "streetNames": [
+        "Eagle Mountain Dr",
+        "Old Yale Rd"
+      ],
+      "pulsePointId": "2432971315"
+    }
+  ],
+  "lastIncident": "2026-03-13T04:06:00Z",
+  "count": 1
+}

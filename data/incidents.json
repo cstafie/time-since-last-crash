@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-13T04:06:00Z_abbotsford/eagle-mountain-dr_abbotsford/old-yale-rd",
+    "timestamp": "2026-03-13T04:06:00Z",
+    "scrapedAt": "2026-03-13T04:30:43Z",
+    "address": "EAGLE MOUNTAIN DR & OLD YALE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/eagle-mountain-dr",
+      "abbotsford/old-yale-rd"
+    ],
+    "streetNames": [
+      "Eagle Mountain Dr",
+      "Old Yale Rd"
+    ],
+    "pulsePointId": "2432971315"
+  },
+  {
+    "id": "2026-03-13T03:44:00Z_vancouver/e-41st-ave_vancouver/knight-st",
+    "timestamp": "2026-03-13T03:44:00Z",
+    "scrapedAt": "2026-03-13T04:30:43Z",
+    "address": "E 41ST AVE & KNIGHT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-41st-ave",
+      "vancouver/knight-st"
+    ],
+    "streetNames": [
+      "E 41st Ave",
+      "Knight St"
+    ],
+    "pulsePointId": "2432961664"
+  },
+  {
     "id": "2026-03-13T03:30:00Z_north-vancouver/pemberton-ave_north-vancouver/marine-dr",
     "timestamp": "2026-03-13T03:30:00Z",
     "scrapedAt": "2026-03-13T03:44:35Z",
