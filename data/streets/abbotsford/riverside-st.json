@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/riverside-st",
+  "name": "Riverside St",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-03-13T16:00:00Z_abbotsford/riverside-st",
+      "timestamp": "2026-03-13T16:00:00Z",
+      "address": "RIVERSIDE ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/riverside-st"
+      ],
+      "streetNames": [
+        "Riverside St"
+      ],
+      "pulsePointId": "2433206429"
+    }
+  ],
+  "lastIncident": "2026-03-13T16:00:00Z",
+  "count": 1
+}

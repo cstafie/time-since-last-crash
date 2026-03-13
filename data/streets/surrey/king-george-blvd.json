@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-03-13T15:45:00Z_surrey/king-george-blvd_surrey/108th-ave",
+      "timestamp": "2026-03-13T15:45:00Z",
+      "address": "KING GEORGE BLVD & 108TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/king-george-blvd",
+        "surrey/108th-ave"
+      ],
+      "streetNames": [
+        "King George Blvd",
+        "108th Ave"
+      ],
+      "pulsePointId": "2433197152"
+    },
+    {
       "id": "2026-03-11T12:51:00Z_surrey/king-george-blvd_surrey/88th-ave",
       "timestamp": "2026-03-11T12:51:00Z",
       "address": "KING GEORGE BLVD & 88TH AVE",
@@ -60,6 +75,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-11T12:51:00Z",
-  "count": 4
+  "lastIncident": "2026-03-13T15:45:00Z",
+  "count": 5
 }

@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-03-13T16:00:00Z_abbotsford/riverside-st",
+    "timestamp": "2026-03-13T16:00:00Z",
+    "scrapedAt": "2026-03-13T16:08:16Z",
+    "address": "RIVERSIDE ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/riverside-st"
+    ],
+    "streetNames": [
+      "Riverside St"
+    ],
+    "pulsePointId": "2433206429"
+  },
+  {
+    "id": "2026-03-13T15:49:00Z_abbotsford/ware-st_abbotsford/bourquin-cres-e",
+    "timestamp": "2026-03-13T15:49:00Z",
+    "scrapedAt": "2026-03-13T16:08:16Z",
+    "address": "WARE ST & BOURQUIN CRES E",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/ware-st",
+      "abbotsford/bourquin-cres-e"
+    ],
+    "streetNames": [
+      "Ware St",
+      "Bourquin Cres E"
+    ],
+    "pulsePointId": "2433198543"
+  },
+  {
+    "id": "2026-03-13T15:45:00Z_surrey/king-george-blvd_surrey/108th-ave",
+    "timestamp": "2026-03-13T15:45:00Z",
+    "scrapedAt": "2026-03-13T16:08:16Z",
+    "address": "KING GEORGE BLVD & 108TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/108th-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "108th Ave"
+    ],
+    "pulsePointId": "2433197152"
+  },
+  {
     "id": "2026-03-13T14:55:00Z_delta/alex-fraser-brdg",
     "timestamp": "2026-03-13T14:55:00Z",
     "scrapedAt": "2026-03-13T15:12:48Z",

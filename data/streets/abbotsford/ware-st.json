@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/ware-st",
+  "name": "Ware St",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-03-13T15:49:00Z_abbotsford/ware-st_abbotsford/bourquin-cres-e",
+      "timestamp": "2026-03-13T15:49:00Z",
+      "address": "WARE ST & BOURQUIN CRES E",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/ware-st",
+        "abbotsford/bourquin-cres-e"
+      ],
+      "streetNames": [
+        "Ware St",
+        "Bourquin Cres E"
+      ],
+      "pulsePointId": "2433198543"
+    }
+  ],
+  "lastIncident": "2026-03-13T15:49:00Z",
+  "count": 1
+}
