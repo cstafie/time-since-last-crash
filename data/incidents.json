@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-03-13T14:55:00Z_delta/alex-fraser-brdg",
+    "timestamp": "2026-03-13T14:55:00Z",
+    "scrapedAt": "2026-03-13T15:12:48Z",
+    "address": "ALEX FRASER BRDG",
+    "city": "Delta",
+    "streets": [
+      "delta/alex-fraser-brdg"
+    ],
+    "streetNames": [
+      "Alex Fraser Brdg"
+    ],
+    "pulsePointId": "2433169493"
+  },
+  {
+    "id": "2026-03-13T14:52:00Z_delta/hwy-91",
+    "timestamp": "2026-03-13T14:52:00Z",
+    "scrapedAt": "2026-03-13T15:12:48Z",
+    "address": "HWY 91",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-91"
+    ],
+    "streetNames": [
+      "Hwy 91"
+    ],
+    "pulsePointId": "2433168637"
+  },
+  {
     "id": "2026-03-13T14:32:00Z_delta/alex-fraser-brdg",
     "timestamp": "2026-03-13T14:32:00Z",
     "scrapedAt": "2026-03-13T14:44:08Z",
