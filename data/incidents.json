@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-13T13:39:00Z_maple-ridge/216th-st_maple-ridge/128th-ave",
+    "timestamp": "2026-03-13T13:39:00Z",
+    "scrapedAt": "2026-03-13T13:48:44Z",
+    "address": "216TH ST & 128TH AVE",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/216th-st",
+      "maple-ridge/128th-ave"
+    ],
+    "streetNames": [
+      "216th St",
+      "128th Ave"
+    ],
+    "pulsePointId": "2433139158"
+  },
+  {
     "id": "2026-03-13T09:11:00Z_richmond/francis-rd",
     "timestamp": "2026-03-13T09:11:00Z",
     "scrapedAt": "2026-03-13T09:45:42Z",
