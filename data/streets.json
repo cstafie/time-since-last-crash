@@ -717,8 +717,8 @@
     "name": "E 41st Ave",
     "slug": "vancouver/e-41st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-03-13T04:28:00Z",
-    "count": 5
+    "lastIncident": "2026-03-13T22:43:00Z",
+    "count": 6
   },
   "vancouver/granville-st": {
     "name": "Granville St",
@@ -1810,6 +1810,13 @@
     "slug": "richmond/garden-city-rd",
     "city": "Richmond",
     "lastIncident": "2026-03-13T22:10:00Z",
+    "count": 1
+  },
+  "vancouver/commercial-st": {
+    "name": "Commercial St",
+    "slug": "vancouver/commercial-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-13T22:43:00Z",
     "count": 1
   }
 }
