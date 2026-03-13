@@ -1732,8 +1732,8 @@
     "name": "Alex Fraser Brdg",
     "slug": "delta/alex-fraser-brdg",
     "city": "Delta",
-    "lastIncident": "2026-03-13T14:55:00Z",
-    "count": 2
+    "lastIncident": "2026-03-13T18:27:00Z",
+    "count": 3
   },
   "abbotsford/riverside-st": {
     "name": "Riverside St",
@@ -1768,6 +1768,20 @@
     "slug": "abbotsford/south-fraser-way",
     "city": "Abbotsford",
     "lastIncident": "2026-03-13T16:54:00Z",
+    "count": 1
+  },
+  "vancouver/e-hastings-st": {
+    "name": "E Hastings St",
+    "slug": "vancouver/e-hastings-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-13T18:33:00Z",
+    "count": 1
+  },
+  "abbotsford/king-rd": {
+    "name": "King Rd",
+    "slug": "abbotsford/king-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-03-13T18:27:00Z",
     "count": 1
   }
 }

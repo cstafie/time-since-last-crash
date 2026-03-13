@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/king-rd",
+  "name": "King Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-03-13T18:27:00Z_abbotsford/king-rd",
+      "timestamp": "2026-03-13T18:27:00Z",
+      "address": "KING RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/king-rd"
+      ],
+      "streetNames": [
+        "King Rd"
+      ],
+      "pulsePointId": "2433301036"
+    }
+  ],
+  "lastIncident": "2026-03-13T18:27:00Z",
+  "count": 1
+}

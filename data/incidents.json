@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-03-13T18:33:00Z_vancouver/e-hastings-st",
+    "timestamp": "2026-03-13T18:33:00Z",
+    "scrapedAt": "2026-03-13T18:44:13Z",
+    "address": "E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "E Hastings St"
+    ],
+    "pulsePointId": "2433305056"
+  },
+  {
+    "id": "2026-03-13T18:27:00Z_abbotsford/king-rd",
+    "timestamp": "2026-03-13T18:27:00Z",
+    "scrapedAt": "2026-03-13T18:44:13Z",
+    "address": "KING RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/king-rd"
+    ],
+    "streetNames": [
+      "King Rd"
+    ],
+    "pulsePointId": "2433301036"
+  },
+  {
+    "id": "2026-03-13T18:27:00Z_delta/alex-fraser-brdg",
+    "timestamp": "2026-03-13T18:27:00Z",
+    "scrapedAt": "2026-03-13T18:44:13Z",
+    "address": "ALEX FRASER BRDG",
+    "city": "Delta",
+    "streets": [
+      "delta/alex-fraser-brdg"
+    ],
+    "streetNames": [
+      "Alex Fraser Brdg"
+    ],
+    "pulsePointId": "2433300890"
+  },
+  {
     "id": "2026-03-13T16:54:00Z_abbotsford/south-fraser-way_abbotsford/peardonville-rd",
     "timestamp": "2026-03-13T16:54:00Z",
     "scrapedAt": "2026-03-13T17:10:15Z",
