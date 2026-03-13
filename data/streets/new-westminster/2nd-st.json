@@ -1,0 +1,24 @@
+{
+  "slug": "new-westminster/2nd-st",
+  "name": "2nd St",
+  "city": "New Westminster",
+  "incidents": [
+    {
+      "id": "2026-03-13T16:48:00Z_new-westminster/2nd-st_new-westminster/royal-ave",
+      "timestamp": "2026-03-13T16:48:00Z",
+      "address": "2ND ST & ROYAL AVE",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/2nd-st",
+        "new-westminster/royal-ave"
+      ],
+      "streetNames": [
+        "2nd St",
+        "Royal Ave"
+      ],
+      "pulsePointId": "2433232587"
+    }
+  ],
+  "lastIncident": "2026-03-13T16:48:00Z",
+  "count": 1
+}

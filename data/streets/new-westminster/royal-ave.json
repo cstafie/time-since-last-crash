@@ -4,6 +4,21 @@
   "city": "New Westminster",
   "incidents": [
     {
+      "id": "2026-03-13T16:48:00Z_new-westminster/2nd-st_new-westminster/royal-ave",
+      "timestamp": "2026-03-13T16:48:00Z",
+      "address": "2ND ST & ROYAL AVE",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/2nd-st",
+        "new-westminster/royal-ave"
+      ],
+      "streetNames": [
+        "2nd St",
+        "Royal Ave"
+      ],
+      "pulsePointId": "2433232587"
+    },
+    {
       "id": "2026-03-10T18:40:00Z_new-westminster/royal-ave_new-westminster/granville-st",
       "timestamp": "2026-03-10T18:40:00Z",
       "address": "ROYAL AVE & GRANVILLE ST",
@@ -46,6 +61,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-10T18:40:00Z",
-  "count": 3
+  "lastIncident": "2026-03-13T16:48:00Z",
+  "count": 4
 }

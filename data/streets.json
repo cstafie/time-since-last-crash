@@ -388,8 +388,8 @@
     "name": "Royal Ave",
     "slug": "new-westminster/royal-ave",
     "city": "New Westminster",
-    "lastIncident": "2026-03-10T18:40:00Z",
-    "count": 3
+    "lastIncident": "2026-03-13T16:48:00Z",
+    "count": 4
   },
   "north-vancouver/capilano-rd": {
     "name": "Capilano Rd",
@@ -1060,8 +1060,8 @@
     "name": "Peardonville Rd",
     "slug": "abbotsford/peardonville-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-10T23:12:00Z",
-    "count": 1
+    "lastIncident": "2026-03-13T16:54:00Z",
+    "count": 2
   },
   "abbotsford/townline-rd": {
     "name": "Townline Rd",
@@ -1754,6 +1754,20 @@
     "slug": "abbotsford/bourquin-cres-e",
     "city": "Abbotsford",
     "lastIncident": "2026-03-13T15:49:00Z",
+    "count": 1
+  },
+  "new-westminster/2nd-st": {
+    "name": "2nd St",
+    "slug": "new-westminster/2nd-st",
+    "city": "New Westminster",
+    "lastIncident": "2026-03-13T16:48:00Z",
+    "count": 1
+  },
+  "abbotsford/south-fraser-way": {
+    "name": "South Fraser Way",
+    "slug": "abbotsford/south-fraser-way",
+    "city": "Abbotsford",
+    "lastIncident": "2026-03-13T16:54:00Z",
     "count": 1
   }
 }
