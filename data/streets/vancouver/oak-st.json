@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-13T00:16:00Z_vancouver/oak-st_vancouver/w-22nd-ave",
+      "timestamp": "2026-03-13T00:16:00Z",
+      "address": "OAK ST & W 22ND AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/oak-st",
+        "vancouver/w-22nd-ave"
+      ],
+      "streetNames": [
+        "Oak St",
+        "W 22nd Ave"
+      ],
+      "pulsePointId": "2432843481"
+    },
+    {
       "id": "2026-03-12T14:33:00Z_vancouver/oak-st",
       "timestamp": "2026-03-12T14:33:00Z",
       "address": "OAK ST",
@@ -44,6 +59,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-12T14:33:00Z",
-  "count": 3
+  "lastIncident": "2026-03-13T00:16:00Z",
+  "count": 4
 }
