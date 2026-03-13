@@ -1727,5 +1727,12 @@
     "city": "Richmond",
     "lastIncident": "2026-03-13T13:58:00Z",
     "count": 1
+  },
+  "delta/alex-fraser-brdg": {
+    "name": "Alex Fraser Brdg",
+    "slug": "delta/alex-fraser-brdg",
+    "city": "Delta",
+    "lastIncident": "2026-03-13T14:32:00Z",
+    "count": 1
   }
 }

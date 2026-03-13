@@ -1,0 +1,22 @@
+{
+  "slug": "delta/alex-fraser-brdg",
+  "name": "Alex Fraser Brdg",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-03-13T14:32:00Z_delta/alex-fraser-brdg",
+      "timestamp": "2026-03-13T14:32:00Z",
+      "address": "ALEX FRASER BRDG",
+      "city": "Delta",
+      "streets": [
+        "delta/alex-fraser-brdg"
+      ],
+      "streetNames": [
+        "Alex Fraser Brdg"
+      ],
+      "pulsePointId": "2433160188"
+    }
+  ],
+  "lastIncident": "2026-03-13T14:32:00Z",
+  "count": 1
+}
