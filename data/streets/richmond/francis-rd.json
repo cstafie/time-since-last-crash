@@ -1,0 +1,22 @@
+{
+  "slug": "richmond/francis-rd",
+  "name": "Francis Rd",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-03-13T09:11:00Z_richmond/francis-rd",
+      "timestamp": "2026-03-13T09:11:00Z",
+      "address": "FRANCIS RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/francis-rd"
+      ],
+      "streetNames": [
+        "Francis Rd"
+      ],
+      "pulsePointId": "2433067582"
+    }
+  ],
+  "lastIncident": "2026-03-13T09:11:00Z",
+  "count": 1
+}
