@@ -1,0 +1,24 @@
+{
+  "slug": "coquitlam/shaughnessy-st",
+  "name": "Shaughnessy St",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-03-13T03:07:00Z_coquitlam/shaughnessy-st_coquitlam/david-ave",
+      "timestamp": "2026-03-13T03:07:00Z",
+      "address": "SHAUGHNESSY ST & DAVID AVE",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/shaughnessy-st",
+        "coquitlam/david-ave"
+      ],
+      "streetNames": [
+        "Shaughnessy St",
+        "David Ave"
+      ],
+      "pulsePointId": "2432943793"
+    }
+  ],
+  "lastIncident": "2026-03-13T03:07:00Z",
+  "count": 1
+}

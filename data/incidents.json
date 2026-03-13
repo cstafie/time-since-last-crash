@@ -1,5 +1,85 @@
 [
   {
+    "id": "2026-03-13T03:30:00Z_north-vancouver/pemberton-ave_north-vancouver/marine-dr",
+    "timestamp": "2026-03-13T03:30:00Z",
+    "scrapedAt": "2026-03-13T03:44:35Z",
+    "address": "PEMBERTON AVE & MARINE DR",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/pemberton-ave",
+      "north-vancouver/marine-dr"
+    ],
+    "streetNames": [
+      "Pemberton Ave",
+      "Marine Dr"
+    ],
+    "pulsePointId": "2432954898"
+  },
+  {
+    "id": "2026-03-13T03:07:00Z_coquitlam/shaughnessy-st_coquitlam/david-ave",
+    "timestamp": "2026-03-13T03:07:00Z",
+    "scrapedAt": "2026-03-13T03:44:35Z",
+    "address": "SHAUGHNESSY ST & DAVID AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/shaughnessy-st",
+      "coquitlam/david-ave"
+    ],
+    "streetNames": [
+      "Shaughnessy St",
+      "David Ave"
+    ],
+    "pulsePointId": "2432943793"
+  },
+  {
+    "id": "2026-03-13T03:07:00Z_coquitlam/david-ave_coquitlam/oxford-st",
+    "timestamp": "2026-03-13T03:07:00Z",
+    "scrapedAt": "2026-03-13T03:44:35Z",
+    "address": "DAVID AVE & OXFORD ST",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/david-ave",
+      "coquitlam/oxford-st"
+    ],
+    "streetNames": [
+      "David Ave",
+      "Oxford St"
+    ],
+    "pulsePointId": "2432944071"
+  },
+  {
+    "id": "2026-03-13T03:05:00Z_vancouver/earles-lane_vancouver/e-41st-ave",
+    "timestamp": "2026-03-13T03:05:00Z",
+    "scrapedAt": "2026-03-13T03:44:35Z",
+    "address": "EARLES LANE & E 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/earles-lane",
+      "vancouver/e-41st-ave"
+    ],
+    "streetNames": [
+      "Earles Lane",
+      "E 41st Ave"
+    ],
+    "pulsePointId": "2432943055"
+  },
+  {
+    "id": "2026-03-13T02:56:00Z_vancouver/main-st_vancouver/e-41st-ave",
+    "timestamp": "2026-03-13T02:56:00Z",
+    "scrapedAt": "2026-03-13T03:44:35Z",
+    "address": "MAIN ST & E 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st",
+      "vancouver/e-41st-ave"
+    ],
+    "streetNames": [
+      "Main St",
+      "E 41st Ave"
+    ],
+    "pulsePointId": "2432937969"
+  },
+  {
     "id": "2026-03-13T02:41:00Z_vancouver/nicola-st_vancouver/alberni-st",
     "timestamp": "2026-03-13T02:41:00Z",
     "scrapedAt": "2026-03-13T02:52:49Z",

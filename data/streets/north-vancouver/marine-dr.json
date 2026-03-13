@@ -1,0 +1,24 @@
+{
+  "slug": "north-vancouver/marine-dr",
+  "name": "Marine Dr",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-13T03:30:00Z_north-vancouver/pemberton-ave_north-vancouver/marine-dr",
+      "timestamp": "2026-03-13T03:30:00Z",
+      "address": "PEMBERTON AVE & MARINE DR",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/pemberton-ave",
+        "north-vancouver/marine-dr"
+      ],
+      "streetNames": [
+        "Pemberton Ave",
+        "Marine Dr"
+      ],
+      "pulsePointId": "2432954898"
+    }
+  ],
+  "lastIncident": "2026-03-13T03:30:00Z",
+  "count": 1
+}
