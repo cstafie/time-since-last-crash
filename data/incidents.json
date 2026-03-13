@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-12T23:40:00Z_richmond/templeton-st_richmond/north-service-rd",
+    "timestamp": "2026-03-12T23:40:00Z",
+    "scrapedAt": "2026-03-13T00:04:07Z",
+    "address": "TEMPLETON ST & NORTH SERVICE RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/templeton-st",
+      "richmond/north-service-rd"
+    ],
+    "streetNames": [
+      "Templeton St",
+      "North Service Rd"
+    ],
+    "pulsePointId": "2432820548"
+  },
+  {
     "id": "2026-03-12T23:36:00Z_vancouver/w-10th-ave",
     "timestamp": "2026-03-12T23:36:00Z",
     "scrapedAt": "2026-03-12T23:39:33Z",

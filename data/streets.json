@@ -1566,5 +1566,19 @@
     "city": "Burnaby",
     "lastIncident": "2026-03-12T23:12:00Z",
     "count": 1
+  },
+  "richmond/templeton-st": {
+    "name": "Templeton St",
+    "slug": "richmond/templeton-st",
+    "city": "Richmond",
+    "lastIncident": "2026-03-12T23:40:00Z",
+    "count": 1
+  },
+  "richmond/north-service-rd": {
+    "name": "North Service Rd",
+    "slug": "richmond/north-service-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-03-12T23:40:00Z",
+    "count": 1
   }
 }

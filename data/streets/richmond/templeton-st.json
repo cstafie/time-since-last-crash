@@ -1,0 +1,24 @@
+{
+  "slug": "richmond/templeton-st",
+  "name": "Templeton St",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-03-12T23:40:00Z_richmond/templeton-st_richmond/north-service-rd",
+      "timestamp": "2026-03-12T23:40:00Z",
+      "address": "TEMPLETON ST & NORTH SERVICE RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/templeton-st",
+        "richmond/north-service-rd"
+      ],
+      "streetNames": [
+        "Templeton St",
+        "North Service Rd"
+      ],
+      "pulsePointId": "2432820548"
+    }
+  ],
+  "lastIncident": "2026-03-12T23:40:00Z",
+  "count": 1
+}
