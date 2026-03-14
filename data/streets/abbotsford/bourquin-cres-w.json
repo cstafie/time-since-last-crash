@@ -1,6 +1,6 @@
 {
-  "slug": "abbotsford/south-fraser-way",
-  "name": "South Fraser Way",
+  "slug": "abbotsford/bourquin-cres-w",
+  "name": "Bourquin Cres W",
   "city": "Abbotsford",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Bourquin Cres W"
       ],
       "pulsePointId": "2433538670"
-    },
-    {
-      "id": "2026-03-13T16:54:00Z_abbotsford/south-fraser-way_abbotsford/peardonville-rd",
-      "timestamp": "2026-03-13T16:54:00Z",
-      "address": "SOUTH FRASER WAY & PEARDONVILLE RD",
-      "city": "Abbotsford",
-      "streets": [
-        "abbotsford/south-fraser-way",
-        "abbotsford/peardonville-rd"
-      ],
-      "streetNames": [
-        "South Fraser Way",
-        "Peardonville Rd"
-      ],
-      "pulsePointId": "2433235919"
     }
   ],
   "lastIncident": "2026-03-14T00:10:00Z",
-  "count": 2
+  "count": 1
 }
