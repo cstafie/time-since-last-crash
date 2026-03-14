@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-14T19:45:00Z_new-westminster/6th-ave",
+    "timestamp": "2026-03-14T19:45:00Z",
+    "scrapedAt": "2026-03-14T20:02:17Z",
+    "address": "6TH AVE",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/6th-ave"
+    ],
+    "streetNames": [
+      "6th Ave"
+    ],
+    "pulsePointId": "2434041551"
+  },
+  {
     "id": "2026-03-14T18:51:00Z_vancouver/dunbar-st_vancouver/w-3rd-ave",
     "timestamp": "2026-03-14T18:51:00Z",
     "scrapedAt": "2026-03-14T19:07:31Z",
