@@ -4,6 +4,19 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-03-14T21:49:00Z_surrey/port-mann-brdg",
+      "timestamp": "2026-03-14T21:49:00Z",
+      "address": "PORT MANN BRDG",
+      "city": "Surrey",
+      "streets": [
+        "surrey/port-mann-brdg"
+      ],
+      "streetNames": [
+        "Port Mann Brdg"
+      ],
+      "pulsePointId": "2434113580"
+    },
+    {
       "id": "2026-03-12T22:25:00Z_surrey/port-mann-brdg",
       "timestamp": "2026-03-12T22:25:00Z",
       "address": "PORT MANN BRDG",
@@ -17,6 +30,6 @@
       "pulsePointId": "2432772941"
     }
   ],
-  "lastIncident": "2026-03-12T22:25:00Z",
-  "count": 1
+  "lastIncident": "2026-03-14T21:49:00Z",
+  "count": 2
 }
