@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-14T22:42:00Z_vancouver/oak-street-brdg",
+    "timestamp": "2026-03-14T22:42:00Z",
+    "scrapedAt": "2026-03-14T23:04:14Z",
+    "address": "OAK STREET BRDG",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/oak-street-brdg"
+    ],
+    "streetNames": [
+      "Oak Street Brdg"
+    ],
+    "pulsePointId": "2434145101"
+  },
+  {
     "id": "2026-03-14T22:01:00Z_new-westminster/3rd-ave_new-westminster/stewardson-way",
     "timestamp": "2026-03-14T22:01:00Z",
     "scrapedAt": "2026-03-14T22:40:39Z",
