@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-14T08:30:00Z_vancouver/renfrew-st_vancouver/e-22nd-ave",
+    "timestamp": "2026-03-14T08:30:00Z",
+    "scrapedAt": "2026-03-14T08:43:27Z",
+    "address": "RENFREW ST & E 22ND AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/renfrew-st",
+      "vancouver/e-22nd-ave"
+    ],
+    "streetNames": [
+      "Renfrew St",
+      "E 22nd Ave"
+    ],
+    "pulsePointId": "2433781130"
+  },
+  {
     "id": "2026-03-14T06:56:00Z_abbotsford/clearbrook-rd_abbotsford/maclure-rd",
     "timestamp": "2026-03-14T06:56:00Z",
     "scrapedAt": "2026-03-14T07:13:12Z",
