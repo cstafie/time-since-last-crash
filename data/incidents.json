@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-14T06:56:00Z_abbotsford/clearbrook-rd_abbotsford/maclure-rd",
+    "timestamp": "2026-03-14T06:56:00Z",
+    "scrapedAt": "2026-03-14T07:13:12Z",
+    "address": "CLEARBROOK RD & MACLURE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/clearbrook-rd",
+      "abbotsford/maclure-rd"
+    ],
+    "streetNames": [
+      "Clearbrook Rd",
+      "Maclure Rd"
+    ],
+    "pulsePointId": "2433749907"
+  },
+  {
+    "id": "2026-03-14T06:55:00Z_surrey/156th-st",
+    "timestamp": "2026-03-14T06:55:00Z",
+    "scrapedAt": "2026-03-14T07:13:12Z",
+    "address": "156TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/156th-st"
+    ],
+    "streetNames": [
+      "156th St"
+    ],
+    "pulsePointId": "2433749543"
+  },
+  {
     "id": "2026-03-14T06:22:00Z_richmond/elmbridge-way",
     "timestamp": "2026-03-14T06:22:00Z",
     "scrapedAt": "2026-03-14T06:44:41Z",

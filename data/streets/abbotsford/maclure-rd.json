@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/maclure-rd",
+  "name": "Maclure Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-03-14T06:56:00Z_abbotsford/clearbrook-rd_abbotsford/maclure-rd",
+      "timestamp": "2026-03-14T06:56:00Z",
+      "address": "CLEARBROOK RD & MACLURE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/clearbrook-rd",
+        "abbotsford/maclure-rd"
+      ],
+      "streetNames": [
+        "Clearbrook Rd",
+        "Maclure Rd"
+      ],
+      "pulsePointId": "2433749907"
+    }
+  ],
+  "lastIncident": "2026-03-14T06:56:00Z",
+  "count": 1
+}
