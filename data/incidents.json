@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-03-14T01:23:00Z_surrey/40th-ave",
+    "timestamp": "2026-03-14T01:23:00Z",
+    "scrapedAt": "2026-03-14T01:30:36Z",
+    "address": "40TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/40th-ave"
+    ],
+    "streetNames": [
+      "40th Ave"
+    ],
+    "pulsePointId": "2433583396"
+  },
+  {
+    "id": "2026-03-14T01:07:00Z_richmond/no-2-rd_richmond/francis-rd",
+    "timestamp": "2026-03-14T01:07:00Z",
+    "scrapedAt": "2026-03-14T01:30:36Z",
+    "address": "NO 2 RD & FRANCIS RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/no-2-rd",
+      "richmond/francis-rd"
+    ],
+    "streetNames": [
+      "No 2 Rd",
+      "Francis Rd"
+    ],
+    "pulsePointId": "2433574931"
+  },
+  {
+    "id": "2026-03-14T00:56:00Z_chilliwack/vedder-rd_chilliwack/spruce-dr",
+    "timestamp": "2026-03-14T00:56:00Z",
+    "scrapedAt": "2026-03-14T01:30:36Z",
+    "address": "VEDDER RD & SPRUCE DR",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/vedder-rd",
+      "chilliwack/spruce-dr"
+    ],
+    "streetNames": [
+      "Vedder Rd",
+      "Spruce Dr"
+    ],
+    "pulsePointId": "2433567443"
+  },
+  {
+    "id": "2026-03-14T00:51:00Z_coquitlam/1200-seguin-dr",
+    "timestamp": "2026-03-14T00:51:00Z",
+    "scrapedAt": "2026-03-14T01:30:36Z",
+    "address": "1200 SEGUIN DR",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/1200-seguin-dr"
+    ],
+    "streetNames": [
+      "1200 Seguin Dr"
+    ],
+    "pulsePointId": "2433565247"
+  },
+  {
     "id": "2026-03-14T00:10:00Z_abbotsford/south-fraser-way_abbotsford/bourquin-cres-w",
     "timestamp": "2026-03-14T00:10:00Z",
     "scrapedAt": "2026-03-14T00:50:47Z",
