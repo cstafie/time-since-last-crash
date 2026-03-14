@@ -1993,5 +1993,12 @@
     "city": "Vancouver",
     "lastIncident": "2026-03-14T18:51:00Z",
     "count": 1
+  },
+  "coquitlam/port-mann-brdg": {
+    "name": "Port Mann Brdg",
+    "slug": "coquitlam/port-mann-brdg",
+    "city": "Coquitlam",
+    "lastIncident": "2026-03-14T20:48:00Z",
+    "count": 1
   }
 }
