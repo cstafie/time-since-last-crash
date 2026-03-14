@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-14T02:06:00Z_vancouver/n-penticton-st_vancouver/mcgill-st",
+    "timestamp": "2026-03-14T02:06:00Z",
+    "scrapedAt": "2026-03-14T02:51:52Z",
+    "address": "N PENTICTON ST & MCGILL ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/n-penticton-st",
+      "vancouver/mcgill-st"
+    ],
+    "streetNames": [
+      "N Penticton St",
+      "Mcgill St"
+    ],
+    "pulsePointId": "2433609059"
+  },
+  {
+    "id": "2026-03-14T01:33:00Z_vancouver/knight-st_vancouver/e-51st-ave",
+    "timestamp": "2026-03-14T01:33:00Z",
+    "scrapedAt": "2026-03-14T02:51:52Z",
+    "address": "KNIGHT ST & E 51ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/knight-st",
+      "vancouver/e-51st-ave"
+    ],
+    "streetNames": [
+      "Knight St",
+      "E 51st Ave"
+    ],
+    "pulsePointId": "2433588734"
+  },
+  {
     "id": "2026-03-14T01:23:00Z_surrey/40th-ave",
     "timestamp": "2026-03-14T01:23:00Z",
     "scrapedAt": "2026-03-14T01:30:36Z",

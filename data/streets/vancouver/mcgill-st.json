@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/mcgill-st",
+  "name": "Mcgill St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-14T02:06:00Z_vancouver/n-penticton-st_vancouver/mcgill-st",
+      "timestamp": "2026-03-14T02:06:00Z",
+      "address": "N PENTICTON ST & MCGILL ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/n-penticton-st",
+        "vancouver/mcgill-st"
+      ],
+      "streetNames": [
+        "N Penticton St",
+        "Mcgill St"
+      ],
+      "pulsePointId": "2433609059"
+    }
+  ],
+  "lastIncident": "2026-03-14T02:06:00Z",
+  "count": 1
+}

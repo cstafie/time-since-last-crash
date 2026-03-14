@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-14T01:33:00Z_vancouver/knight-st_vancouver/e-51st-ave",
+      "timestamp": "2026-03-14T01:33:00Z",
+      "address": "KNIGHT ST & E 51ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/knight-st",
+        "vancouver/e-51st-ave"
+      ],
+      "streetNames": [
+        "Knight St",
+        "E 51st Ave"
+      ],
+      "pulsePointId": "2433588734"
+    },
+    {
       "id": "2026-03-13T03:44:00Z_vancouver/e-41st-ave_vancouver/knight-st",
       "timestamp": "2026-03-13T03:44:00Z",
       "address": "E 41ST AVE & KNIGHT ST",
@@ -31,6 +46,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-13T03:44:00Z",
-  "count": 2
+  "lastIncident": "2026-03-14T01:33:00Z",
+  "count": 3
 }
