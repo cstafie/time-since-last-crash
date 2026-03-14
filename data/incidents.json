@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-14T14:07:00Z_abbotsford/trans-canada-hwy_abbotsford/sumas-way-ofrp",
+    "timestamp": "2026-03-14T14:07:00Z",
+    "scrapedAt": "2026-03-14T14:41:17Z",
+    "address": "TRANS CANADA HWY & SUMAS WAY OFRP",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy",
+      "abbotsford/sumas-way-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "Sumas Way Ofrp"
+    ],
+    "pulsePointId": "2433875318"
+  },
+  {
     "id": "2026-03-14T12:48:00Z_surrey/100th-ave_surrey/148th-st",
     "timestamp": "2026-03-14T12:48:00Z",
     "scrapedAt": "2026-03-14T13:17:36Z",
