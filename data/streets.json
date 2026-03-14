@@ -1951,5 +1951,19 @@
     "city": "Abbotsford",
     "lastIncident": "2026-03-14T09:13:00Z",
     "count": 1
+  },
+  "vancouver/w-16th-ave": {
+    "name": "W 16th Ave",
+    "slug": "vancouver/w-16th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-14T09:47:00Z",
+    "count": 1
+  },
+  "vancouver/dunbar-st": {
+    "name": "Dunbar St",
+    "slug": "vancouver/dunbar-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-14T09:47:00Z",
+    "count": 1
   }
 }
