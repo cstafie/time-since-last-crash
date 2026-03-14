@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/earles-st",
+  "name": "Earles St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-14T04:58:00Z_vancouver/e-41st-ave_vancouver/earles-st",
+      "timestamp": "2026-03-14T04:58:00Z",
+      "address": "E 41ST AVE & EARLES ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-41st-ave",
+        "vancouver/earles-st"
+      ],
+      "streetNames": [
+        "E 41st Ave",
+        "Earles St"
+      ],
+      "pulsePointId": "2433697764"
+    }
+  ],
+  "lastIncident": "2026-03-14T04:58:00Z",
+  "count": 1
+}

@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-03-14T05:41:00Z_chilliwack/bellevue-dr_chilliwack/crescent-dr",
+    "timestamp": "2026-03-14T05:41:00Z",
+    "scrapedAt": "2026-03-14T05:44:22Z",
+    "address": "BELLEVUE DR & CRESCENT DR",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/bellevue-dr",
+      "chilliwack/crescent-dr"
+    ],
+    "streetNames": [
+      "Bellevue Dr",
+      "Crescent Dr"
+    ],
+    "pulsePointId": "2433718544"
+  },
+  {
+    "id": "2026-03-14T05:35:00Z_surrey/108th-ave_surrey/148th-st",
+    "timestamp": "2026-03-14T05:35:00Z",
+    "scrapedAt": "2026-03-14T05:44:22Z",
+    "address": "108TH AVE & 148TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/108th-ave",
+      "surrey/148th-st"
+    ],
+    "streetNames": [
+      "108th Ave",
+      "148th St"
+    ],
+    "pulsePointId": "2433715392"
+  },
+  {
+    "id": "2026-03-14T04:58:00Z_vancouver/e-41st-ave_vancouver/earles-st",
+    "timestamp": "2026-03-14T04:58:00Z",
+    "scrapedAt": "2026-03-14T05:44:22Z",
+    "address": "E 41ST AVE & EARLES ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-41st-ave",
+      "vancouver/earles-st"
+    ],
+    "streetNames": [
+      "E 41st Ave",
+      "Earles St"
+    ],
+    "pulsePointId": "2433697764"
+  },
+  {
     "id": "2026-03-14T02:06:00Z_vancouver/n-penticton-st_vancouver/mcgill-st",
     "timestamp": "2026-03-14T02:06:00Z",
     "scrapedAt": "2026-03-14T02:51:52Z",
