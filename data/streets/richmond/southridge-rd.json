@@ -1,0 +1,24 @@
+{
+  "slug": "richmond/southridge-rd",
+  "name": "Southridge Rd",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-03-14T23:37:00Z_richmond/steveston-hwy_richmond/southridge-rd",
+      "timestamp": "2026-03-14T23:37:00Z",
+      "address": "STEVESTON HWY & SOUTHRIDGE RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/steveston-hwy",
+        "richmond/southridge-rd"
+      ],
+      "streetNames": [
+        "Steveston Hwy",
+        "Southridge Rd"
+      ],
+      "pulsePointId": "2434171253"
+    }
+  ],
+  "lastIncident": "2026-03-14T23:37:00Z",
+  "count": 1
+}

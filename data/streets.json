@@ -1088,8 +1088,8 @@
     "name": "Steveston Hwy",
     "slug": "richmond/steveston-hwy",
     "city": "Richmond",
-    "lastIncident": "2026-03-11T20:19:00Z",
-    "count": 2
+    "lastIncident": "2026-03-14T23:37:00Z",
+    "count": 4
   },
   "langley/72nd-ave": {
     "name": "72nd Ave",
@@ -2020,6 +2020,27 @@
     "slug": "vancouver/oak-street-brdg",
     "city": "Vancouver",
     "lastIncident": "2026-03-14T22:42:00Z",
+    "count": 1
+  },
+  "richmond/southridge-rd": {
+    "name": "Southridge Rd",
+    "slug": "richmond/southridge-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-03-14T23:37:00Z",
+    "count": 1
+  },
+  "richmond/mortfield-gt": {
+    "name": "Mortfield Gt",
+    "slug": "richmond/mortfield-gt",
+    "city": "Richmond",
+    "lastIncident": "2026-03-14T23:18:00Z",
+    "count": 1
+  },
+  "coquitlam/trans-canada-hwy": {
+    "name": "Trans Canada Hwy",
+    "slug": "coquitlam/trans-canada-hwy",
+    "city": "Coquitlam",
+    "lastIncident": "2026-03-14T23:12:00Z",
     "count": 1
   }
 }
