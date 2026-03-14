@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-14T09:17:00Z_maple-ridge/216th-st_maple-ridge/132nd-ave",
+    "timestamp": "2026-03-14T09:17:00Z",
+    "scrapedAt": "2026-03-14T09:42:40Z",
+    "address": "216TH ST & 132ND AVE",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/216th-st",
+      "maple-ridge/132nd-ave"
+    ],
+    "streetNames": [
+      "216th St",
+      "132nd Ave"
+    ],
+    "pulsePointId": "2433794431"
+  },
+  {
+    "id": "2026-03-14T09:13:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-03-14T09:13:00Z",
+    "scrapedAt": "2026-03-14T09:42:40Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2433793691"
+  },
+  {
     "id": "2026-03-14T08:30:00Z_vancouver/renfrew-st_vancouver/e-22nd-ave",
     "timestamp": "2026-03-14T08:30:00Z",
     "scrapedAt": "2026-03-14T08:43:27Z",

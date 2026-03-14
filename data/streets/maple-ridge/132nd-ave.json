@@ -1,6 +1,6 @@
 {
-  "slug": "maple-ridge/216th-st",
-  "name": "216th St",
+  "slug": "maple-ridge/132nd-ave",
+  "name": "132nd Ave",
   "city": "Maple Ridge",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "132nd Ave"
       ],
       "pulsePointId": "2433794431"
-    },
-    {
-      "id": "2026-03-13T13:39:00Z_maple-ridge/216th-st_maple-ridge/128th-ave",
-      "timestamp": "2026-03-13T13:39:00Z",
-      "address": "216TH ST & 128TH AVE",
-      "city": "Maple Ridge",
-      "streets": [
-        "maple-ridge/216th-st",
-        "maple-ridge/128th-ave"
-      ],
-      "streetNames": [
-        "216th St",
-        "128th Ave"
-      ],
-      "pulsePointId": "2433139158"
     }
   ],
   "lastIncident": "2026-03-14T09:17:00Z",
-  "count": 2
+  "count": 1
 }
