@@ -2000,5 +2000,19 @@
     "city": "Coquitlam",
     "lastIncident": "2026-03-14T20:48:00Z",
     "count": 1
+  },
+  "new-westminster/3rd-ave": {
+    "name": "3rd Ave",
+    "slug": "new-westminster/3rd-ave",
+    "city": "New Westminster",
+    "lastIncident": "2026-03-14T22:01:00Z",
+    "count": 1
+  },
+  "new-westminster/stewardson-way": {
+    "name": "Stewardson Way",
+    "slug": "new-westminster/stewardson-way",
+    "city": "New Westminster",
+    "lastIncident": "2026-03-14T22:01:00Z",
+    "count": 1
   }
 }
