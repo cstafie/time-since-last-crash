@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-13T23:54:00Z_vancouver/e-41st-ave_vancouver/inverness-st",
+      "timestamp": "2026-03-13T23:54:00Z",
+      "address": "E 41ST AVE & INVERNESS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-41st-ave",
+        "vancouver/inverness-st"
+      ],
+      "streetNames": [
+        "E 41st Ave",
+        "Inverness St"
+      ],
+      "pulsePointId": "2433526615"
+    },
+    {
       "id": "2026-03-13T22:43:00Z_vancouver/e-41st-ave_vancouver/commercial-st",
       "timestamp": "2026-03-13T22:43:00Z",
       "address": "E 41ST AVE & COMMERCIAL ST",
@@ -93,6 +108,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-13T22:43:00Z",
-  "count": 6
+  "lastIncident": "2026-03-13T23:54:00Z",
+  "count": 7
 }

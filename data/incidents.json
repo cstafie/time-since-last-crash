@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-13T23:54:00Z_vancouver/e-41st-ave_vancouver/inverness-st",
+    "timestamp": "2026-03-13T23:54:00Z",
+    "scrapedAt": "2026-03-14T00:04:57Z",
+    "address": "E 41ST AVE & INVERNESS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-41st-ave",
+      "vancouver/inverness-st"
+    ],
+    "streetNames": [
+      "E 41st Ave",
+      "Inverness St"
+    ],
+    "pulsePointId": "2433526615"
+  },
+  {
     "id": "2026-03-13T23:13:00Z_surrey/156th-st_surrey/96th-ave",
     "timestamp": "2026-03-13T23:13:00Z",
     "scrapedAt": "2026-03-13T23:40:08Z",
