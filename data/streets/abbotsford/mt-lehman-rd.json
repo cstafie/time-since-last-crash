@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/mt-lehman-rd",
+  "name": "Mt Lehman Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-03-15T05:43:00Z_abbotsford/mt-lehman-rd_abbotsford/peardonville-rd",
+      "timestamp": "2026-03-15T05:43:00Z",
+      "address": "MT LEHMAN RD & PEARDONVILLE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/mt-lehman-rd",
+        "abbotsford/peardonville-rd"
+      ],
+      "streetNames": [
+        "Mt Lehman Rd",
+        "Peardonville Rd"
+      ],
+      "pulsePointId": "2434362355"
+    }
+  ],
+  "lastIncident": "2026-03-15T05:43:00Z",
+  "count": 1
+}

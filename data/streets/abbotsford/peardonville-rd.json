@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-03-15T05:43:00Z_abbotsford/mt-lehman-rd_abbotsford/peardonville-rd",
+      "timestamp": "2026-03-15T05:43:00Z",
+      "address": "MT LEHMAN RD & PEARDONVILLE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/mt-lehman-rd",
+        "abbotsford/peardonville-rd"
+      ],
+      "streetNames": [
+        "Mt Lehman Rd",
+        "Peardonville Rd"
+      ],
+      "pulsePointId": "2434362355"
+    },
+    {
       "id": "2026-03-13T16:54:00Z_abbotsford/south-fraser-way_abbotsford/peardonville-rd",
       "timestamp": "2026-03-13T16:54:00Z",
       "address": "SOUTH FRASER WAY & PEARDONVILLE RD",
@@ -33,6 +48,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-13T16:54:00Z",
-  "count": 2
+  "lastIncident": "2026-03-15T05:43:00Z",
+  "count": 3
 }

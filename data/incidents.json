@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-15T05:46:00Z_vancouver/nelson-st_vancouver/burrard-st",
+    "timestamp": "2026-03-15T05:46:00Z",
+    "scrapedAt": "2026-03-15T05:57:18Z",
+    "address": "NELSON ST & BURRARD ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/nelson-st",
+      "vancouver/burrard-st"
+    ],
+    "streetNames": [
+      "Nelson St",
+      "Burrard St"
+    ],
+    "pulsePointId": "2434363478"
+  },
+  {
+    "id": "2026-03-15T05:43:00Z_abbotsford/mt-lehman-rd_abbotsford/peardonville-rd",
+    "timestamp": "2026-03-15T05:43:00Z",
+    "scrapedAt": "2026-03-15T05:57:18Z",
+    "address": "MT LEHMAN RD & PEARDONVILLE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/mt-lehman-rd",
+      "abbotsford/peardonville-rd"
+    ],
+    "streetNames": [
+      "Mt Lehman Rd",
+      "Peardonville Rd"
+    ],
+    "pulsePointId": "2434362355"
+  },
+  {
     "id": "2026-03-15T05:13:00Z_surrey/huntley-ave_surrey/132nd-st",
     "timestamp": "2026-03-15T05:13:00Z",
     "scrapedAt": "2026-03-15T05:29:38Z",
