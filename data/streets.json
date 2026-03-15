@@ -598,8 +598,8 @@
     "name": "64th Ave",
     "slug": "surrey/64th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-12T20:16:00Z",
-    "count": 7
+    "lastIncident": "2026-03-15T03:43:00Z",
+    "count": 8
   },
   "surrey/72a-ave": {
     "name": "72a Ave",
@@ -2090,6 +2090,13 @@
     "slug": "west-vancouver/gordon-ave",
     "city": "West Vancouver",
     "lastIncident": "2026-03-15T02:18:00Z",
+    "count": 1
+  },
+  "surrey/126th-st": {
+    "name": "126th St",
+    "slug": "surrey/126th-st",
+    "city": "Surrey",
+    "lastIncident": "2026-03-15T03:43:00Z",
     "count": 1
   }
 }
