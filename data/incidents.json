@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-15T06:41:00Z_new-westminster/e-columbia-st",
+    "timestamp": "2026-03-15T06:41:00Z",
+    "scrapedAt": "2026-03-15T06:45:58Z",
+    "address": "E COLUMBIA ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/e-columbia-st"
+    ],
+    "streetNames": [
+      "E Columbia St"
+    ],
+    "pulsePointId": "2434383746"
+  },
+  {
+    "id": "2026-03-15T06:27:00Z_vancouver/napier-st_vancouver/commercial-dr",
+    "timestamp": "2026-03-15T06:27:00Z",
+    "scrapedAt": "2026-03-15T06:45:58Z",
+    "address": "NAPIER ST & COMMERCIAL DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/napier-st",
+      "vancouver/commercial-dr"
+    ],
+    "streetNames": [
+      "Napier St",
+      "Commercial Dr"
+    ],
+    "pulsePointId": "2434378699"
+  },
+  {
     "id": "2026-03-15T05:46:00Z_vancouver/nelson-st_vancouver/burrard-st",
     "timestamp": "2026-03-15T05:46:00Z",
     "scrapedAt": "2026-03-15T05:57:18Z",

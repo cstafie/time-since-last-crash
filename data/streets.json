@@ -913,8 +913,8 @@
     "name": "E Columbia St",
     "slug": "new-westminster/e-columbia-st",
     "city": "New Westminster",
-    "lastIncident": "2026-03-10T17:27:00Z",
-    "count": 1
+    "lastIncident": "2026-03-15T06:41:00Z",
+    "count": 2
   },
   "burnaby/market-crss": {
     "name": "Market Crss",
@@ -2118,6 +2118,20 @@
     "slug": "abbotsford/mt-lehman-rd",
     "city": "Abbotsford",
     "lastIncident": "2026-03-15T05:43:00Z",
+    "count": 1
+  },
+  "vancouver/napier-st": {
+    "name": "Napier St",
+    "slug": "vancouver/napier-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-15T06:27:00Z",
+    "count": 1
+  },
+  "vancouver/commercial-dr": {
+    "name": "Commercial Dr",
+    "slug": "vancouver/commercial-dr",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-15T06:27:00Z",
     "count": 1
   }
 }
