@@ -2070,5 +2070,26 @@
     "city": "Richmond",
     "lastIncident": "2026-03-15T00:23:00Z",
     "count": 1
+  },
+  "vancouver/ironworkers-memorial-brdg": {
+    "name": "Ironworkers Memorial Brdg",
+    "slug": "vancouver/ironworkers-memorial-brdg",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-15T02:47:00Z",
+    "count": 1
+  },
+  "west-vancouver/21st-st": {
+    "name": "21st St",
+    "slug": "west-vancouver/21st-st",
+    "city": "West Vancouver",
+    "lastIncident": "2026-03-15T02:18:00Z",
+    "count": 1
+  },
+  "west-vancouver/gordon-ave": {
+    "name": "Gordon Ave",
+    "slug": "west-vancouver/gordon-ave",
+    "city": "West Vancouver",
+    "lastIncident": "2026-03-15T02:18:00Z",
+    "count": 1
   }
 }

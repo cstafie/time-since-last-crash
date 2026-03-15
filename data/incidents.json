@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-15T02:47:00Z_vancouver/ironworkers-memorial-brdg",
+    "timestamp": "2026-03-15T02:47:00Z",
+    "scrapedAt": "2026-03-15T03:21:56Z",
+    "address": "IRONWORKERS MEMORIAL BRDG",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/ironworkers-memorial-brdg"
+    ],
+    "streetNames": [
+      "Ironworkers Memorial Brdg"
+    ],
+    "pulsePointId": "2434278466"
+  },
+  {
+    "id": "2026-03-15T02:18:00Z_west-vancouver/21st-st_west-vancouver/gordon-ave",
+    "timestamp": "2026-03-15T02:18:00Z",
+    "scrapedAt": "2026-03-15T03:21:56Z",
+    "address": "21ST ST & GORDON AVE",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/21st-st",
+      "west-vancouver/gordon-ave"
+    ],
+    "streetNames": [
+      "21st St",
+      "Gordon Ave"
+    ],
+    "pulsePointId": "2434260108"
+  },
+  {
     "id": "2026-03-15T00:23:00Z_richmond/cambie-rd_richmond/viking-way",
     "timestamp": "2026-03-15T00:23:00Z",
     "scrapedAt": "2026-03-15T01:01:17Z",
