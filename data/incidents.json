@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-15T10:14:00Z_vancouver/se-marine-dr",
+    "timestamp": "2026-03-15T10:14:00Z",
+    "scrapedAt": "2026-03-15T10:41:43Z",
+    "address": "SE MARINE DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/se-marine-dr"
+    ],
+    "streetNames": [
+      "Se Marine Dr"
+    ],
+    "pulsePointId": "2434452167"
+  },
+  {
     "id": "2026-03-15T08:20:00Z_abbotsford/trans-canada-hwy",
     "timestamp": "2026-03-15T08:20:00Z",
     "scrapedAt": "2026-03-15T08:43:29Z",
