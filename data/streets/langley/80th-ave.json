@@ -1,0 +1,24 @@
+{
+  "slug": "langley/80th-ave",
+  "name": "80th Ave",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-03-15T00:21:00Z_langley/202a-st_langley/80th-ave",
+      "timestamp": "2026-03-15T00:21:00Z",
+      "address": "202A ST & 80TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/202a-st",
+        "langley/80th-ave"
+      ],
+      "streetNames": [
+        "202a St",
+        "80th Ave"
+      ],
+      "pulsePointId": "2434196018"
+    }
+  ],
+  "lastIncident": "2026-03-15T00:21:00Z",
+  "count": 1
+}

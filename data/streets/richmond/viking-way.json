@@ -1,0 +1,24 @@
+{
+  "slug": "richmond/viking-way",
+  "name": "Viking Way",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-03-15T00:23:00Z_richmond/cambie-rd_richmond/viking-way",
+      "timestamp": "2026-03-15T00:23:00Z",
+      "address": "CAMBIE RD & VIKING WAY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/cambie-rd",
+        "richmond/viking-way"
+      ],
+      "streetNames": [
+        "Cambie Rd",
+        "Viking Way"
+      ],
+      "pulsePointId": "2434197215"
+    }
+  ],
+  "lastIncident": "2026-03-15T00:23:00Z",
+  "count": 1
+}

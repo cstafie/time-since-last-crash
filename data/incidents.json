@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-15T00:23:00Z_richmond/cambie-rd_richmond/viking-way",
+    "timestamp": "2026-03-15T00:23:00Z",
+    "scrapedAt": "2026-03-15T01:01:17Z",
+    "address": "CAMBIE RD & VIKING WAY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/cambie-rd",
+      "richmond/viking-way"
+    ],
+    "streetNames": [
+      "Cambie Rd",
+      "Viking Way"
+    ],
+    "pulsePointId": "2434197215"
+  },
+  {
+    "id": "2026-03-15T00:21:00Z_langley/202a-st_langley/80th-ave",
+    "timestamp": "2026-03-15T00:21:00Z",
+    "scrapedAt": "2026-03-15T01:01:17Z",
+    "address": "202A ST & 80TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/202a-st",
+      "langley/80th-ave"
+    ],
+    "streetNames": [
+      "202a St",
+      "80th Ave"
+    ],
+    "pulsePointId": "2434196018"
+  },
+  {
     "id": "2026-03-14T23:37:00Z_richmond/steveston-hwy_richmond/southridge-rd",
     "timestamp": "2026-03-14T23:37:00Z",
     "scrapedAt": "2026-03-14T23:39:42Z",
