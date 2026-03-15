@@ -808,8 +808,8 @@
     "name": "W Broadway",
     "slug": "vancouver/w-broadway",
     "city": "Vancouver",
-    "lastIncident": "2026-03-12T19:35:00Z",
-    "count": 2
+    "lastIncident": "2026-03-15T18:35:00Z",
+    "count": 3
   },
   "west-vancouver/eagleridge-drive-ofrp": {
     "name": "Eagleridge Drive Ofrp",
@@ -2160,6 +2160,13 @@
     "slug": "surrey/22nd-ave",
     "city": "Surrey",
     "lastIncident": "2026-03-15T17:53:00Z",
+    "count": 1
+  },
+  "vancouver/alder-st": {
+    "name": "Alder St",
+    "slug": "vancouver/alder-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-15T18:35:00Z",
     "count": 1
   }
 }
