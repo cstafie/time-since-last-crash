@@ -1,0 +1,22 @@
+{
+  "slug": "north-vancouver/1133-mt-seymour-rd",
+  "name": "1133 Mt Seymour Rd",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-15T19:20:00Z_north-vancouver/1133-mt-seymour-rd",
+      "timestamp": "2026-03-15T19:20:00Z",
+      "address": "1133 MT SEYMOUR RD",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/1133-mt-seymour-rd"
+      ],
+      "streetNames": [
+        "1133 Mt Seymour Rd"
+      ],
+      "pulsePointId": "2434663170"
+    }
+  ],
+  "lastIncident": "2026-03-15T19:20:00Z",
+  "count": 1
+}
