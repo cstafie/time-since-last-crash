@@ -850,8 +850,8 @@
     "name": "32nd Ave",
     "slug": "surrey/32nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-10T02:46:00Z",
-    "count": 1
+    "lastIncident": "2026-03-16T22:02:00Z",
+    "count": 2
   },
   "langley/30th-ave": {
     "name": "30th Ave",
@@ -1249,8 +1249,8 @@
     "name": "Trans Canada Hwy",
     "slug": "burnaby/trans-canada-hwy",
     "city": "Burnaby",
-    "lastIncident": "2026-03-11T15:46:00Z",
-    "count": 1
+    "lastIncident": "2026-03-16T21:12:00Z",
+    "count": 2
   },
   "vancouver/e-1st-ave": {
     "name": "E 1st Ave",
@@ -2384,6 +2384,34 @@
     "slug": "langley/langley-bps",
     "city": "Langley",
     "lastIncident": "2026-03-16T20:14:00Z",
+    "count": 1
+  },
+  "surrey/56th-ave": {
+    "name": "56th Ave",
+    "slug": "surrey/56th-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-03-16T21:58:00Z",
+    "count": 2
+  },
+  "port-moody/grant-st": {
+    "name": "Grant St",
+    "slug": "port-moody/grant-st",
+    "city": "Port Moody",
+    "lastIncident": "2026-03-16T21:23:00Z",
+    "count": 1
+  },
+  "port-moody/st-george-st": {
+    "name": "St George St",
+    "slug": "port-moody/st-george-st",
+    "city": "Port Moody",
+    "lastIncident": "2026-03-16T21:23:00Z",
+    "count": 1
+  },
+  "surrey/180th-st": {
+    "name": "180th St",
+    "slug": "surrey/180th-st",
+    "city": "Surrey",
+    "lastIncident": "2026-03-16T22:02:00Z",
     "count": 1
   }
 }

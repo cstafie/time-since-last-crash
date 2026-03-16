@@ -1,6 +1,6 @@
 {
-  "slug": "surrey/32nd-ave",
-  "name": "32nd Ave",
+  "slug": "surrey/180th-st",
+  "name": "180th St",
   "city": "Surrey",
   "incidents": [
     {
@@ -17,22 +17,8 @@
         "32nd Ave"
       ],
       "pulsePointId": "2435412973"
-    },
-    {
-      "id": "2026-03-10T02:46:00Z_surrey/32nd-ave_surrey/168th-st",
-      "timestamp": "2026-03-10T02:46:00Z",
-      "address": "32ND AVE & 168TH ST",
-      "city": "Surrey",
-      "streets": [
-        "surrey/32nd-ave",
-        "surrey/168th-st"
-      ],
-      "streetNames": [
-        "32nd Ave",
-        "168th St"
-      ]
     }
   ],
   "lastIncident": "2026-03-16T22:02:00Z",
-  "count": 2
+  "count": 1
 }

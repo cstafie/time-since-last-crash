@@ -1,5 +1,79 @@
 [
   {
+    "id": "2026-03-16T22:02:00Z_surrey/180th-st_surrey/32nd-ave",
+    "timestamp": "2026-03-16T22:02:00Z",
+    "scrapedAt": "2026-03-16T22:07:25Z",
+    "address": "180TH ST & 32ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/180th-st",
+      "surrey/32nd-ave"
+    ],
+    "streetNames": [
+      "180th St",
+      "32nd Ave"
+    ],
+    "pulsePointId": "2435412973"
+  },
+  {
+    "id": "2026-03-16T21:58:00Z_surrey/56th-ave",
+    "timestamp": "2026-03-16T21:58:00Z",
+    "scrapedAt": "2026-03-16T22:07:25Z",
+    "address": "56TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/56th-ave"
+    ],
+    "streetNames": [
+      "56th Ave"
+    ],
+    "pulsePointId": "2435411233"
+  },
+  {
+    "id": "2026-03-16T21:54:00Z_surrey/56th-ave",
+    "timestamp": "2026-03-16T21:54:00Z",
+    "scrapedAt": "2026-03-16T22:07:25Z",
+    "address": "56TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/56th-ave"
+    ],
+    "streetNames": [
+      "56th Ave"
+    ],
+    "pulsePointId": "2435409934"
+  },
+  {
+    "id": "2026-03-16T21:23:00Z_port-moody/grant-st_port-moody/st-george-st",
+    "timestamp": "2026-03-16T21:23:00Z",
+    "scrapedAt": "2026-03-16T22:07:25Z",
+    "address": "GRANT ST & ST GEORGE ST",
+    "city": "Port Moody",
+    "streets": [
+      "port-moody/grant-st",
+      "port-moody/st-george-st"
+    ],
+    "streetNames": [
+      "Grant St",
+      "St George St"
+    ],
+    "pulsePointId": "2435390682"
+  },
+  {
+    "id": "2026-03-16T21:12:00Z_burnaby/trans-canada-hwy",
+    "timestamp": "2026-03-16T21:12:00Z",
+    "scrapedAt": "2026-03-16T22:07:25Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2435383682"
+  },
+  {
     "id": "2026-03-16T20:14:00Z_langley/202nd-st_langley/langley-bps",
     "timestamp": "2026-03-16T20:14:00Z",
     "scrapedAt": "2026-03-16T20:43:46Z",
