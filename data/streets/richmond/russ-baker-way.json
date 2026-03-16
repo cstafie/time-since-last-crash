@@ -1,0 +1,22 @@
+{
+  "slug": "richmond/russ-baker-way",
+  "name": "Russ Baker Way",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-03-16T15:56:00Z_richmond/russ-baker-way",
+      "timestamp": "2026-03-16T15:56:00Z",
+      "address": "RUSS BAKER WAY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/russ-baker-way"
+      ],
+      "streetNames": [
+        "Russ Baker Way"
+      ],
+      "pulsePointId": "2435194327"
+    }
+  ],
+  "lastIncident": "2026-03-16T15:56:00Z",
+  "count": 1
+}
