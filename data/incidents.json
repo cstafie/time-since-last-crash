@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-16T02:08:00Z_langley/trans-canada-hwy",
+    "timestamp": "2026-03-16T02:08:00Z",
+    "scrapedAt": "2026-03-16T02:58:43Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2434893114"
+  },
+  {
+    "id": "2026-03-16T02:06:00Z_abbotsford/liamel-rd_abbotsford/sumas-mountain-rd",
+    "timestamp": "2026-03-16T02:06:00Z",
+    "scrapedAt": "2026-03-16T02:58:43Z",
+    "address": "LIAMEL RD & SUMAS MOUNTAIN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/liamel-rd",
+      "abbotsford/sumas-mountain-rd"
+    ],
+    "streetNames": [
+      "Liamel Rd",
+      "Sumas Mountain Rd"
+    ],
+    "pulsePointId": "2434891884"
+  },
+  {
     "id": "2026-03-16T01:14:00Z_vancouver/fir-st_vancouver/w-11th-ave",
     "timestamp": "2026-03-16T01:14:00Z",
     "scrapedAt": "2026-03-16T01:44:28Z",

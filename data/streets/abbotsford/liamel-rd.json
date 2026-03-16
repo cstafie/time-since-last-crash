@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/liamel-rd",
+  "name": "Liamel Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-03-16T02:06:00Z_abbotsford/liamel-rd_abbotsford/sumas-mountain-rd",
+      "timestamp": "2026-03-16T02:06:00Z",
+      "address": "LIAMEL RD & SUMAS MOUNTAIN RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/liamel-rd",
+        "abbotsford/sumas-mountain-rd"
+      ],
+      "streetNames": [
+        "Liamel Rd",
+        "Sumas Mountain Rd"
+      ],
+      "pulsePointId": "2434891884"
+    }
+  ],
+  "lastIncident": "2026-03-16T02:06:00Z",
+  "count": 1
+}
