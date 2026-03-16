@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-16T17:00:00Z_vancouver/4064-fraser-st",
+    "timestamp": "2026-03-16T17:00:00Z",
+    "scrapedAt": "2026-03-16T17:20:14Z",
+    "address": "4064 FRASER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/4064-fraser-st"
+    ],
+    "streetNames": [
+      "4064 Fraser St"
+    ],
+    "pulsePointId": "2435230190"
+  },
+  {
     "id": "2026-03-16T15:56:00Z_surrey/whalley-blvd",
     "timestamp": "2026-03-16T15:56:00Z",
     "scrapedAt": "2026-03-16T16:19:27Z",

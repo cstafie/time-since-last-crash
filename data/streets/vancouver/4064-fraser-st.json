@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/4064-fraser-st",
+  "name": "4064 Fraser St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-16T17:00:00Z_vancouver/4064-fraser-st",
+      "timestamp": "2026-03-16T17:00:00Z",
+      "address": "4064 FRASER ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/4064-fraser-st"
+      ],
+      "streetNames": [
+        "4064 Fraser St"
+      ],
+      "pulsePointId": "2435230190"
+    }
+  ],
+  "lastIncident": "2026-03-16T17:00:00Z",
+  "count": 1
+}

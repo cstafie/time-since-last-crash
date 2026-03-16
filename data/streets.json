@@ -2329,5 +2329,12 @@
     "city": "Richmond",
     "lastIncident": "2026-03-16T15:56:00Z",
     "count": 1
+  },
+  "vancouver/4064-fraser-st": {
+    "name": "4064 Fraser St",
+    "slug": "vancouver/4064-fraser-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-16T17:00:00Z",
+    "count": 1
   }
 }
