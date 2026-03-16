@@ -1,0 +1,22 @@
+{
+  "slug": "langley/19653-willowbrook-drste-160",
+  "name": "19653 Willowbrook Dr,ste 160",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-03-16T23:29:00Z_langley/19653-willowbrook-drste-160",
+      "timestamp": "2026-03-16T23:29:00Z",
+      "address": "19653 WILLOWBROOK DR,STE 160",
+      "city": "Langley",
+      "streets": [
+        "langley/19653-willowbrook-drste-160"
+      ],
+      "streetNames": [
+        "19653 Willowbrook Dr,ste 160"
+      ],
+      "pulsePointId": "2435469084"
+    }
+  ],
+  "lastIncident": "2026-03-16T23:29:00Z",
+  "count": 1
+}

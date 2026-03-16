@@ -1,6 +1,6 @@
 {
-  "slug": "new-westminster/stewardson-way",
-  "name": "Stewardson Way",
+  "slug": "new-westminster/14th-st",
+  "name": "14th St",
   "city": "New Westminster",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Stewardson Way"
       ],
       "pulsePointId": "2435455897"
-    },
-    {
-      "id": "2026-03-14T22:01:00Z_new-westminster/3rd-ave_new-westminster/stewardson-way",
-      "timestamp": "2026-03-14T22:01:00Z",
-      "address": "3RD AVE & STEWARDSON WAY",
-      "city": "New Westminster",
-      "streets": [
-        "new-westminster/3rd-ave",
-        "new-westminster/stewardson-way"
-      ],
-      "streetNames": [
-        "3rd Ave",
-        "Stewardson Way"
-      ],
-      "pulsePointId": "2434119568"
     }
   ],
   "lastIncident": "2026-03-16T23:09:00Z",
-  "count": 2
+  "count": 1
 }

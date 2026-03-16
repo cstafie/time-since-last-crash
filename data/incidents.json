@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-16T23:29:00Z_langley/19653-willowbrook-drste-160",
+    "timestamp": "2026-03-16T23:29:00Z",
+    "scrapedAt": "2026-03-16T23:40:14Z",
+    "address": "19653 WILLOWBROOK DR,STE 160",
+    "city": "Langley",
+    "streets": [
+      "langley/19653-willowbrook-drste-160"
+    ],
+    "streetNames": [
+      "19653 Willowbrook Dr,ste 160"
+    ],
+    "pulsePointId": "2435469084"
+  },
+  {
+    "id": "2026-03-16T23:09:00Z_new-westminster/14th-st_new-westminster/stewardson-way",
+    "timestamp": "2026-03-16T23:09:00Z",
+    "scrapedAt": "2026-03-16T23:40:14Z",
+    "address": "14TH ST & STEWARDSON WAY",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/14th-st",
+      "new-westminster/stewardson-way"
+    ],
+    "streetNames": [
+      "14th St",
+      "Stewardson Way"
+    ],
+    "pulsePointId": "2435455897"
+  },
+  {
     "id": "2026-03-16T22:50:00Z_chilliwack/first-ave",
     "timestamp": "2026-03-16T22:50:00Z",
     "scrapedAt": "2026-03-16T23:05:33Z",
