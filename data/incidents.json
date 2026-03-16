@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-03-16T14:56:00Z_delta/hwy-17a-ofrp",
+    "timestamp": "2026-03-16T14:56:00Z",
+    "scrapedAt": "2026-03-16T15:21:27Z",
+    "address": "HWY 17A OFRP",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-17a-ofrp"
+    ],
+    "streetNames": [
+      "Hwy 17a Ofrp"
+    ],
+    "pulsePointId": "2435160792"
+  },
+  {
+    "id": "2026-03-16T14:51:00Z_delta/hwy-99",
+    "timestamp": "2026-03-16T14:51:00Z",
+    "scrapedAt": "2026-03-16T15:21:27Z",
+    "address": "HWY 99",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2435158466"
+  },
+  {
     "id": "2026-03-16T14:34:00Z_delta/alex-fraser-brdg",
     "timestamp": "2026-03-16T14:34:00Z",
     "scrapedAt": "2026-03-16T14:49:30Z",
