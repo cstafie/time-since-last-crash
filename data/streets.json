@@ -2189,5 +2189,19 @@
     "city": "Vancouver",
     "lastIncident": "2026-03-16T00:03:00Z",
     "count": 1
+  },
+  "vancouver/fir-st": {
+    "name": "Fir St",
+    "slug": "vancouver/fir-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-16T01:14:00Z",
+    "count": 1
+  },
+  "vancouver/w-11th-ave": {
+    "name": "W 11th Ave",
+    "slug": "vancouver/w-11th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-16T01:14:00Z",
+    "count": 1
   }
 }
