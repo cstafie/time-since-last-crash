@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-16T18:55:00Z_west-vancouver/bellevue-ave",
+    "timestamp": "2026-03-16T18:55:00Z",
+    "scrapedAt": "2026-03-16T19:21:25Z",
+    "address": "BELLEVUE AVE",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/bellevue-ave"
+    ],
+    "streetNames": [
+      "Bellevue Ave"
+    ],
+    "pulsePointId": "2435296471"
+  },
+  {
     "id": "2026-03-16T18:34:00Z_burnaby/cariboo-rd_burnaby/avalon-ave",
     "timestamp": "2026-03-16T18:34:00Z",
     "scrapedAt": "2026-03-16T18:46:25Z",

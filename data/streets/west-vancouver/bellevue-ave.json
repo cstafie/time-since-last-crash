@@ -1,0 +1,22 @@
+{
+  "slug": "west-vancouver/bellevue-ave",
+  "name": "Bellevue Ave",
+  "city": "West Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-16T18:55:00Z_west-vancouver/bellevue-ave",
+      "timestamp": "2026-03-16T18:55:00Z",
+      "address": "BELLEVUE AVE",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/bellevue-ave"
+      ],
+      "streetNames": [
+        "Bellevue Ave"
+      ],
+      "pulsePointId": "2435296471"
+    }
+  ],
+  "lastIncident": "2026-03-16T18:55:00Z",
+  "count": 1
+}
