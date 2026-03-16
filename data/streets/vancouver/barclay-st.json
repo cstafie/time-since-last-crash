@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/barclay-st",
+  "name": "Barclay St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-16T05:24:00Z_vancouver/denman-st_vancouver/barclay-st",
+      "timestamp": "2026-03-16T05:24:00Z",
+      "address": "DENMAN ST & BARCLAY ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/denman-st",
+        "vancouver/barclay-st"
+      ],
+      "streetNames": [
+        "Denman St",
+        "Barclay St"
+      ],
+      "pulsePointId": "2434983078"
+    }
+  ],
+  "lastIncident": "2026-03-16T05:24:00Z",
+  "count": 1
+}

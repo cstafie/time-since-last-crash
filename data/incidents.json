@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-16T05:29:00Z_vancouver/hemlock-st_vancouver/w-8th-ave",
+    "timestamp": "2026-03-16T05:29:00Z",
+    "scrapedAt": "2026-03-16T06:01:12Z",
+    "address": "HEMLOCK ST & W 8TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/hemlock-st",
+      "vancouver/w-8th-ave"
+    ],
+    "streetNames": [
+      "Hemlock St",
+      "W 8th Ave"
+    ],
+    "pulsePointId": "2434984828"
+  },
+  {
+    "id": "2026-03-16T05:24:00Z_vancouver/denman-st_vancouver/barclay-st",
+    "timestamp": "2026-03-16T05:24:00Z",
+    "scrapedAt": "2026-03-16T06:01:12Z",
+    "address": "DENMAN ST & BARCLAY ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/denman-st",
+      "vancouver/barclay-st"
+    ],
+    "streetNames": [
+      "Denman St",
+      "Barclay St"
+    ],
+    "pulsePointId": "2434983078"
+  },
+  {
     "id": "2026-03-16T05:02:00Z_surrey/10416-king-george-blvd",
     "timestamp": "2026-03-16T05:02:00Z",
     "scrapedAt": "2026-03-16T05:14:31Z",

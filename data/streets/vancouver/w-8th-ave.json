@@ -1,6 +1,6 @@
 {
-  "slug": "vancouver/hemlock-st",
-  "name": "Hemlock St",
+  "slug": "vancouver/w-8th-ave",
+  "name": "W 8th Ave",
   "city": "Vancouver",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "W 8th Ave"
       ],
       "pulsePointId": "2434984828"
-    },
-    {
-      "id": "2026-03-15T15:01:00Z_vancouver/w-12th-ave_vancouver/hemlock-st",
-      "timestamp": "2026-03-15T15:01:00Z",
-      "address": "W 12TH AVE & HEMLOCK ST",
-      "city": "Vancouver",
-      "streets": [
-        "vancouver/w-12th-ave",
-        "vancouver/hemlock-st"
-      ],
-      "streetNames": [
-        "W 12th Ave",
-        "Hemlock St"
-      ],
-      "pulsePointId": "2434534341"
     }
   ],
   "lastIncident": "2026-03-16T05:29:00Z",
-  "count": 2
+  "count": 1
 }

@@ -2152,8 +2152,8 @@
     "name": "Hemlock St",
     "slug": "vancouver/hemlock-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-15T15:01:00Z",
-    "count": 1
+    "lastIncident": "2026-03-16T05:29:00Z",
+    "count": 2
   },
   "surrey/22nd-ave": {
     "name": "22nd Ave",
@@ -2258,6 +2258,27 @@
     "slug": "surrey/10416-king-george-blvd",
     "city": "Surrey",
     "lastIncident": "2026-03-16T05:02:00Z",
+    "count": 1
+  },
+  "vancouver/w-8th-ave": {
+    "name": "W 8th Ave",
+    "slug": "vancouver/w-8th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-16T05:29:00Z",
+    "count": 1
+  },
+  "vancouver/denman-st": {
+    "name": "Denman St",
+    "slug": "vancouver/denman-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-16T05:24:00Z",
+    "count": 1
+  },
+  "vancouver/barclay-st": {
+    "name": "Barclay St",
+    "slug": "vancouver/barclay-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-16T05:24:00Z",
     "count": 1
   }
 }
