@@ -1,0 +1,24 @@
+{
+  "slug": "langley/202nd-st",
+  "name": "202nd St",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-03-16T20:14:00Z_langley/202nd-st_langley/langley-bps",
+      "timestamp": "2026-03-16T20:14:00Z",
+      "address": "202ND ST & LANGLEY BPS",
+      "city": "Langley",
+      "streets": [
+        "langley/202nd-st",
+        "langley/langley-bps"
+      ],
+      "streetNames": [
+        "202nd St",
+        "Langley Bps"
+      ],
+      "pulsePointId": "2435348390"
+    }
+  ],
+  "lastIncident": "2026-03-16T20:14:00Z",
+  "count": 1
+}

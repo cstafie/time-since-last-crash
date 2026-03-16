@@ -2371,5 +2371,19 @@
     "city": "West Vancouver",
     "lastIncident": "2026-03-16T18:55:00Z",
     "count": 1
+  },
+  "langley/202nd-st": {
+    "name": "202nd St",
+    "slug": "langley/202nd-st",
+    "city": "Langley",
+    "lastIncident": "2026-03-16T20:14:00Z",
+    "count": 1
+  },
+  "langley/langley-bps": {
+    "name": "Langley Bps",
+    "slug": "langley/langley-bps",
+    "city": "Langley",
+    "lastIncident": "2026-03-16T20:14:00Z",
+    "count": 1
   }
 }
