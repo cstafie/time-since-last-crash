@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-16T13:46:00Z_vancouver/e-41st-ave_vancouver/knight-st",
+    "timestamp": "2026-03-16T13:46:00Z",
+    "scrapedAt": "2026-03-16T14:01:49Z",
+    "address": "E 41ST AVE & KNIGHT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-41st-ave",
+      "vancouver/knight-st"
+    ],
+    "streetNames": [
+      "E 41st Ave",
+      "Knight St"
+    ],
+    "pulsePointId": "2435128174"
+  },
+  {
     "id": "2026-03-16T12:32:00Z_delta/hwy-99",
     "timestamp": "2026-03-16T12:32:00Z",
     "scrapedAt": "2026-03-16T12:46:20Z",

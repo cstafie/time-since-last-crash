@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-16T13:46:00Z_vancouver/e-41st-ave_vancouver/knight-st",
+      "timestamp": "2026-03-16T13:46:00Z",
+      "address": "E 41ST AVE & KNIGHT ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-41st-ave",
+        "vancouver/knight-st"
+      ],
+      "streetNames": [
+        "E 41st Ave",
+        "Knight St"
+      ],
+      "pulsePointId": "2435128174"
+    },
+    {
       "id": "2026-03-14T04:58:00Z_vancouver/e-41st-ave_vancouver/earles-st",
       "timestamp": "2026-03-14T04:58:00Z",
       "address": "E 41ST AVE & EARLES ST",
@@ -123,6 +138,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-14T04:58:00Z",
-  "count": 8
+  "lastIncident": "2026-03-16T13:46:00Z",
+  "count": 9
 }
