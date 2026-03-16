@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-03-16T14:34:00Z_delta/alex-fraser-brdg",
+    "timestamp": "2026-03-16T14:34:00Z",
+    "scrapedAt": "2026-03-16T14:49:30Z",
+    "address": "ALEX FRASER BRDG",
+    "city": "Delta",
+    "streets": [
+      "delta/alex-fraser-brdg"
+    ],
+    "streetNames": [
+      "Alex Fraser Brdg"
+    ],
+    "pulsePointId": "2435150452"
+  },
+  {
+    "id": "2026-03-16T14:16:00Z_burnaby/hastings-st_burnaby/willingdon-ave",
+    "timestamp": "2026-03-16T14:16:00Z",
+    "scrapedAt": "2026-03-16T14:49:30Z",
+    "address": "HASTINGS ST & WILLINGDON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/hastings-st",
+      "burnaby/willingdon-ave"
+    ],
+    "streetNames": [
+      "Hastings St",
+      "Willingdon Ave"
+    ],
+    "pulsePointId": "2435141614"
+  },
+  {
+    "id": "2026-03-16T14:09:00Z_richmond/hwy-91",
+    "timestamp": "2026-03-16T14:09:00Z",
+    "scrapedAt": "2026-03-16T14:49:30Z",
+    "address": "HWY 91",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hwy-91"
+    ],
+    "streetNames": [
+      "Hwy 91"
+    ],
+    "pulsePointId": "2435138403"
+  },
+  {
     "id": "2026-03-16T13:46:00Z_vancouver/e-41st-ave_vancouver/knight-st",
     "timestamp": "2026-03-16T13:46:00Z",
     "scrapedAt": "2026-03-16T14:01:49Z",
