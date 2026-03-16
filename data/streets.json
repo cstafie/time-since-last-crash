@@ -2280,5 +2280,19 @@
     "city": "Vancouver",
     "lastIncident": "2026-03-16T05:24:00Z",
     "count": 1
+  },
+  "delta/hwy-99": {
+    "name": "Hwy 99",
+    "slug": "delta/hwy-99",
+    "city": "Delta",
+    "lastIncident": "2026-03-16T12:32:00Z",
+    "count": 1
+  },
+  "coquitlam/redonda-dr": {
+    "name": "Redonda Dr",
+    "slug": "coquitlam/redonda-dr",
+    "city": "Coquitlam",
+    "lastIncident": "2026-03-16T12:28:00Z",
+    "count": 1
   }
 }

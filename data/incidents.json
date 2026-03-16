@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-03-16T12:32:00Z_delta/hwy-99",
+    "timestamp": "2026-03-16T12:32:00Z",
+    "scrapedAt": "2026-03-16T12:46:20Z",
+    "address": "HWY 99",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2435101972"
+  },
+  {
+    "id": "2026-03-16T12:28:00Z_coquitlam/redonda-dr",
+    "timestamp": "2026-03-16T12:28:00Z",
+    "scrapedAt": "2026-03-16T12:46:20Z",
+    "address": "REDONDA DR",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/redonda-dr"
+    ],
+    "streetNames": [
+      "Redonda Dr"
+    ],
+    "pulsePointId": "2435100393"
+  },
+  {
     "id": "2026-03-16T05:29:00Z_vancouver/hemlock-st_vancouver/w-8th-ave",
     "timestamp": "2026-03-16T05:29:00Z",
     "scrapedAt": "2026-03-16T06:01:12Z",
