@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-16T00:33:00Z_abbotsford/marshall-rd_abbotsford/peardonville-rd",
+    "timestamp": "2026-03-16T00:33:00Z",
+    "scrapedAt": "2026-03-16T01:00:24Z",
+    "address": "MARSHALL RD & PEARDONVILLE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/marshall-rd",
+      "abbotsford/peardonville-rd"
+    ],
+    "streetNames": [
+      "Marshall Rd",
+      "Peardonville Rd"
+    ],
+    "pulsePointId": "2434842286"
+  },
+  {
+    "id": "2026-03-16T00:03:00Z_vancouver/e-29th-ave_vancouver/rupert-st",
+    "timestamp": "2026-03-16T00:03:00Z",
+    "scrapedAt": "2026-03-16T01:00:24Z",
+    "address": "E 29TH AVE & RUPERT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-29th-ave",
+      "vancouver/rupert-st"
+    ],
+    "streetNames": [
+      "E 29th Ave",
+      "Rupert St"
+    ],
+    "pulsePointId": "2434824658"
+  },
+  {
     "id": "2026-03-15T19:20:00Z_north-vancouver/1133-mt-seymour-rd",
     "timestamp": "2026-03-15T19:20:00Z",
     "scrapedAt": "2026-03-15T19:39:19Z",

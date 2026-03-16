@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-03-16T00:33:00Z_abbotsford/marshall-rd_abbotsford/peardonville-rd",
+      "timestamp": "2026-03-16T00:33:00Z",
+      "address": "MARSHALL RD & PEARDONVILLE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/marshall-rd",
+        "abbotsford/peardonville-rd"
+      ],
+      "streetNames": [
+        "Marshall Rd",
+        "Peardonville Rd"
+      ],
+      "pulsePointId": "2434842286"
+    },
+    {
       "id": "2026-03-15T05:43:00Z_abbotsford/mt-lehman-rd_abbotsford/peardonville-rd",
       "timestamp": "2026-03-15T05:43:00Z",
       "address": "MT LEHMAN RD & PEARDONVILLE RD",
@@ -48,6 +63,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-15T05:43:00Z",
-  "count": 3
+  "lastIncident": "2026-03-16T00:33:00Z",
+  "count": 4
 }
