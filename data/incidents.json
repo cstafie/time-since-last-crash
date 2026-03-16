@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-16T22:50:00Z_chilliwack/first-ave",
+    "timestamp": "2026-03-16T22:50:00Z",
+    "scrapedAt": "2026-03-16T23:05:33Z",
+    "address": "FIRST AVE",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/first-ave"
+    ],
+    "streetNames": [
+      "First Ave"
+    ],
+    "pulsePointId": "2435443522"
+  },
+  {
+    "id": "2026-03-16T22:43:00Z_coquitlam/trans-canada-hwy-onrp_coquitlam/united-boulevard-ofrp",
+    "timestamp": "2026-03-16T22:43:00Z",
+    "scrapedAt": "2026-03-16T23:05:33Z",
+    "address": "TRANS CANADA HWY ONRP & UNITED BOULEVARD OFRP",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/trans-canada-hwy-onrp",
+      "coquitlam/united-boulevard-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy Onrp",
+      "United Boulevard Ofrp"
+    ],
+    "pulsePointId": "2435440487"
+  },
+  {
     "id": "2026-03-16T22:02:00Z_surrey/180th-st_surrey/32nd-ave",
     "timestamp": "2026-03-16T22:02:00Z",
     "scrapedAt": "2026-03-16T22:07:25Z",
