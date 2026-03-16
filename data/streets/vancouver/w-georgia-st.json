@@ -1,6 +1,6 @@
 {
-  "slug": "vancouver/denman-st",
-  "name": "Denman St",
+  "slug": "vancouver/w-georgia-st",
+  "name": "W Georgia St",
   "city": "Vancouver",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Denman St"
       ],
       "pulsePointId": "2435242336"
-    },
-    {
-      "id": "2026-03-16T05:24:00Z_vancouver/denman-st_vancouver/barclay-st",
-      "timestamp": "2026-03-16T05:24:00Z",
-      "address": "DENMAN ST & BARCLAY ST",
-      "city": "Vancouver",
-      "streets": [
-        "vancouver/denman-st",
-        "vancouver/barclay-st"
-      ],
-      "streetNames": [
-        "Denman St",
-        "Barclay St"
-      ],
-      "pulsePointId": "2434983078"
     }
   ],
   "lastIncident": "2026-03-16T17:24:00Z",
-  "count": 2
+  "count": 1
 }
