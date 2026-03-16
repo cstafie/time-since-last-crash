@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-16T15:25:00Z_delta/hwy-17-ofrp",
+    "timestamp": "2026-03-16T15:25:00Z",
+    "scrapedAt": "2026-03-16T15:49:22Z",
+    "address": "HWY 17 OFRP",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-17-ofrp"
+    ],
+    "streetNames": [
+      "Hwy 17 Ofrp"
+    ],
+    "pulsePointId": "2435176027"
+  },
+  {
     "id": "2026-03-16T14:56:00Z_delta/hwy-17a-ofrp",
     "timestamp": "2026-03-16T14:56:00Z",
     "scrapedAt": "2026-03-16T15:21:27Z",

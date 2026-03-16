@@ -2308,5 +2308,12 @@
     "city": "Delta",
     "lastIncident": "2026-03-16T14:56:00Z",
     "count": 1
+  },
+  "delta/hwy-17-ofrp": {
+    "name": "Hwy 17 Ofrp",
+    "slug": "delta/hwy-17-ofrp",
+    "city": "Delta",
+    "lastIncident": "2026-03-16T15:25:00Z",
+    "count": 1
   }
 }

@@ -1,0 +1,22 @@
+{
+  "slug": "delta/hwy-17-ofrp",
+  "name": "Hwy 17 Ofrp",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-03-16T15:25:00Z_delta/hwy-17-ofrp",
+      "timestamp": "2026-03-16T15:25:00Z",
+      "address": "HWY 17 OFRP",
+      "city": "Delta",
+      "streets": [
+        "delta/hwy-17-ofrp"
+      ],
+      "streetNames": [
+        "Hwy 17 Ofrp"
+      ],
+      "pulsePointId": "2435176027"
+    }
+  ],
+  "lastIncident": "2026-03-16T15:25:00Z",
+  "count": 1
+}
