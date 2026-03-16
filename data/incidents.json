@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-16T18:34:00Z_burnaby/cariboo-rd_burnaby/avalon-ave",
+    "timestamp": "2026-03-16T18:34:00Z",
+    "scrapedAt": "2026-03-16T18:46:25Z",
+    "address": "CARIBOO RD & AVALON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/cariboo-rd",
+      "burnaby/avalon-ave"
+    ],
+    "streetNames": [
+      "Cariboo Rd",
+      "Avalon Ave"
+    ],
+    "pulsePointId": "2435284202"
+  },
+  {
     "id": "2026-03-16T17:47:00Z_vancouver/w-41st-ave",
     "timestamp": "2026-03-16T17:47:00Z",
     "scrapedAt": "2026-03-16T18:15:15Z",

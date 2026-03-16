@@ -2350,5 +2350,19 @@
     "city": "Vancouver",
     "lastIncident": "2026-03-16T17:47:00Z",
     "count": 1
+  },
+  "burnaby/cariboo-rd": {
+    "name": "Cariboo Rd",
+    "slug": "burnaby/cariboo-rd",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-16T18:34:00Z",
+    "count": 1
+  },
+  "burnaby/avalon-ave": {
+    "name": "Avalon Ave",
+    "slug": "burnaby/avalon-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-16T18:34:00Z",
+    "count": 1
   }
 }
