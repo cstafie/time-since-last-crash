@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-03-16T05:02:00Z_surrey/10416-king-george-blvd",
+    "timestamp": "2026-03-16T05:02:00Z",
+    "scrapedAt": "2026-03-16T05:14:31Z",
+    "address": "10416 KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/10416-king-george-blvd"
+    ],
+    "streetNames": [
+      "10416 King George Blvd"
+    ],
+    "pulsePointId": "2434974618"
+  },
+  {
+    "id": "2026-03-16T04:29:00Z_vancouver/kingsway",
+    "timestamp": "2026-03-16T04:29:00Z",
+    "scrapedAt": "2026-03-16T05:14:31Z",
+    "address": "KINGSWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kingsway"
+    ],
+    "streetNames": [
+      "Kingsway"
+    ],
+    "pulsePointId": "2434961970"
+  },
+  {
     "id": "2026-03-16T03:27:00Z_delta/18th-ave_delta/56th-st",
     "timestamp": "2026-03-16T03:27:00Z",
     "scrapedAt": "2026-03-16T04:04:35Z",
