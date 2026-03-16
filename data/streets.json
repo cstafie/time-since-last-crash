@@ -2343,5 +2343,12 @@
     "city": "Vancouver",
     "lastIncident": "2026-03-16T17:24:00Z",
     "count": 1
+  },
+  "vancouver/w-41st-ave": {
+    "name": "W 41st Ave",
+    "slug": "vancouver/w-41st-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-16T17:47:00Z",
+    "count": 1
   }
 }

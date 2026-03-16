@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/w-41st-ave",
+  "name": "W 41st Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-16T17:47:00Z_vancouver/w-41st-ave",
+      "timestamp": "2026-03-16T17:47:00Z",
+      "address": "W 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-41st-ave"
+      ],
+      "streetNames": [
+        "W 41st Ave"
+      ],
+      "pulsePointId": "2435256240"
+    }
+  ],
+  "lastIncident": "2026-03-16T17:47:00Z",
+  "count": 1
+}

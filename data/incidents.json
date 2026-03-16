@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-16T17:47:00Z_vancouver/w-41st-ave",
+    "timestamp": "2026-03-16T17:47:00Z",
+    "scrapedAt": "2026-03-16T18:15:15Z",
+    "address": "W 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-41st-ave"
+    ],
+    "streetNames": [
+      "W 41st Ave"
+    ],
+    "pulsePointId": "2435256240"
+  },
+  {
     "id": "2026-03-16T17:24:00Z_vancouver/w-georgia-st_vancouver/denman-st",
     "timestamp": "2026-03-16T17:24:00Z",
     "scrapedAt": "2026-03-16T17:48:30Z",
