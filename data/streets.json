@@ -45,8 +45,8 @@
     "name": "Trethewey St",
     "slug": "abbotsford/trethewey-st",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-09T19:57:00Z",
-    "count": 1
+    "lastIncident": "2026-03-16T03:22:00Z",
+    "count": 2
   },
   "burnaby/deer-lake-pkwy": {
     "name": "Deer Lake Pkwy",
@@ -647,8 +647,8 @@
     "name": "96th Ave",
     "slug": "surrey/96th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-13T23:13:00Z",
-    "count": 2
+    "lastIncident": "2026-03-16T03:11:00Z",
+    "count": 3
   },
   "surrey/bolivar-rd": {
     "name": "Bolivar Rd",
@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-03-13T15:45:00Z",
-    "count": 5
+    "lastIncident": "2026-03-16T03:11:00Z",
+    "count": 6
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -752,8 +752,8 @@
     "name": "Knight St",
     "slug": "vancouver/knight-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-14T01:33:00Z",
-    "count": 3
+    "lastIncident": "2026-03-16T03:19:00Z",
+    "count": 4
   },
   "vancouver/lower-mall": {
     "name": "Lower Mall",
@@ -1921,8 +1921,8 @@
     "name": "Maclure Rd",
     "slug": "abbotsford/maclure-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-14T06:56:00Z",
-    "count": 1
+    "lastIncident": "2026-03-16T03:22:00Z",
+    "count": 2
   },
   "vancouver/renfrew-st": {
     "name": "Renfrew St",
@@ -2216,6 +2216,41 @@
     "slug": "abbotsford/sumas-mountain-rd",
     "city": "Abbotsford",
     "lastIncident": "2026-03-16T02:06:00Z",
+    "count": 1
+  },
+  "delta/18th-ave": {
+    "name": "18th Ave",
+    "slug": "delta/18th-ave",
+    "city": "Delta",
+    "lastIncident": "2026-03-16T03:27:00Z",
+    "count": 1
+  },
+  "delta/56th-st": {
+    "name": "56th St",
+    "slug": "delta/56th-st",
+    "city": "Delta",
+    "lastIncident": "2026-03-16T03:27:00Z",
+    "count": 1
+  },
+  "vancouver/e-63rd-ave": {
+    "name": "E 63rd Ave",
+    "slug": "vancouver/e-63rd-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-16T03:19:00Z",
+    "count": 1
+  },
+  "port-coquitlam/lougheed-hwy": {
+    "name": "Lougheed Hwy",
+    "slug": "port-coquitlam/lougheed-hwy",
+    "city": "Port Coquitlam",
+    "lastIncident": "2026-03-16T03:05:00Z",
+    "count": 1
+  },
+  "port-coquitlam/hastings-st": {
+    "name": "Hastings St",
+    "slug": "port-coquitlam/hastings-st",
+    "city": "Port Coquitlam",
+    "lastIncident": "2026-03-16T03:05:00Z",
     "count": 1
   }
 }

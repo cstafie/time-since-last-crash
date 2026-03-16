@@ -1,0 +1,24 @@
+{
+  "slug": "port-coquitlam/lougheed-hwy",
+  "name": "Lougheed Hwy",
+  "city": "Port Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-03-16T03:05:00Z_port-coquitlam/lougheed-hwy_port-coquitlam/hastings-st",
+      "timestamp": "2026-03-16T03:05:00Z",
+      "address": "LOUGHEED HWY & HASTINGS ST",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/lougheed-hwy",
+        "port-coquitlam/hastings-st"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "Hastings St"
+      ],
+      "pulsePointId": "2434921067"
+    }
+  ],
+  "lastIncident": "2026-03-16T03:05:00Z",
+  "count": 1
+}

@@ -1,5 +1,85 @@
 [
   {
+    "id": "2026-03-16T03:27:00Z_delta/18th-ave_delta/56th-st",
+    "timestamp": "2026-03-16T03:27:00Z",
+    "scrapedAt": "2026-03-16T04:04:35Z",
+    "address": "18TH AVE & 56TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/18th-ave",
+      "delta/56th-st"
+    ],
+    "streetNames": [
+      "18th Ave",
+      "56th St"
+    ],
+    "pulsePointId": "2434934368"
+  },
+  {
+    "id": "2026-03-16T03:22:00Z_abbotsford/maclure-rd_abbotsford/trethewey-st",
+    "timestamp": "2026-03-16T03:22:00Z",
+    "scrapedAt": "2026-03-16T04:04:35Z",
+    "address": "MACLURE RD & TRETHEWEY ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/maclure-rd",
+      "abbotsford/trethewey-st"
+    ],
+    "streetNames": [
+      "Maclure Rd",
+      "Trethewey St"
+    ],
+    "pulsePointId": "2434929722"
+  },
+  {
+    "id": "2026-03-16T03:19:00Z_vancouver/e-63rd-ave_vancouver/knight-st",
+    "timestamp": "2026-03-16T03:19:00Z",
+    "scrapedAt": "2026-03-16T04:04:35Z",
+    "address": "E 63RD AVE & KNIGHT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-63rd-ave",
+      "vancouver/knight-st"
+    ],
+    "streetNames": [
+      "E 63rd Ave",
+      "Knight St"
+    ],
+    "pulsePointId": "2434929621"
+  },
+  {
+    "id": "2026-03-16T03:11:00Z_surrey/96th-ave_surrey/king-george-blvd",
+    "timestamp": "2026-03-16T03:11:00Z",
+    "scrapedAt": "2026-03-16T04:04:35Z",
+    "address": "96TH AVE & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/96th-ave",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "96th Ave",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2434924693"
+  },
+  {
+    "id": "2026-03-16T03:05:00Z_port-coquitlam/lougheed-hwy_port-coquitlam/hastings-st",
+    "timestamp": "2026-03-16T03:05:00Z",
+    "scrapedAt": "2026-03-16T04:04:35Z",
+    "address": "LOUGHEED HWY & HASTINGS ST",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/lougheed-hwy",
+      "port-coquitlam/hastings-st"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "Hastings St"
+    ],
+    "pulsePointId": "2434921067"
+  },
+  {
     "id": "2026-03-16T02:08:00Z_langley/trans-canada-hwy",
     "timestamp": "2026-03-16T02:08:00Z",
     "scrapedAt": "2026-03-16T02:58:43Z",
