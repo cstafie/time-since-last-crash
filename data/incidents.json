@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-17T18:29:00Z_abbotsford/32847-south-fraser-way",
+    "timestamp": "2026-03-17T18:29:00Z",
+    "scrapedAt": "2026-03-17T18:46:44Z",
+    "address": "32847 SOUTH FRASER WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/32847-south-fraser-way"
+    ],
+    "streetNames": [
+      "32847 South Fraser Way"
+    ],
+    "pulsePointId": "2435956975"
+  },
+  {
     "id": "2026-03-17T17:06:00Z_port-moody/heritage-mountain-blvd_port-moody/ungless-way",
     "timestamp": "2026-03-17T17:06:00Z",
     "scrapedAt": "2026-03-17T17:20:12Z",
