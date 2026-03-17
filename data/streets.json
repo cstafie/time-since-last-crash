@@ -262,8 +262,8 @@
     "name": "Fraser Hwy",
     "slug": "langley/fraser-hwy",
     "city": "Langley",
-    "lastIncident": "2026-03-11T23:16:00Z",
-    "count": 5
+    "lastIncident": "2026-03-17T20:52:00Z",
+    "count": 6
   },
   "langley/trans-canada-hwy": {
     "name": "Trans Canada Hwy",
@@ -1186,8 +1186,8 @@
     "name": "64th Ave",
     "slug": "langley/64th-ave",
     "city": "Langley",
-    "lastIncident": "2026-03-11T05:47:00Z",
-    "count": 1
+    "lastIncident": "2026-03-17T21:09:00Z",
+    "count": 2
   },
   "chilliwack/watson-rd": {
     "name": "Watson Rd",
@@ -2636,6 +2636,13 @@
     "slug": "burnaby/nelson-ave",
     "city": "Burnaby",
     "lastIncident": "2026-03-17T20:08:00Z",
+    "count": 1
+  },
+  "langley/216th-st": {
+    "name": "216th St",
+    "slug": "langley/216th-st",
+    "city": "Langley",
+    "lastIncident": "2026-03-17T20:52:00Z",
     "count": 1
   }
 }
