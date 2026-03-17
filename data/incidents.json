@@ -1,5 +1,85 @@
 [
   {
+    "id": "2026-03-17T14:38:00Z_surrey/176th-st_surrey/64th-ave",
+    "timestamp": "2026-03-17T14:38:00Z",
+    "scrapedAt": "2026-03-17T14:47:11Z",
+    "address": "176TH ST & 64TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/176th-st",
+      "surrey/64th-ave"
+    ],
+    "streetNames": [
+      "176th St",
+      "64th Ave"
+    ],
+    "pulsePointId": "2435820202"
+  },
+  {
+    "id": "2026-03-17T14:37:00Z_surrey/64th-ave_surrey/176th-st",
+    "timestamp": "2026-03-17T14:37:00Z",
+    "scrapedAt": "2026-03-17T14:47:11Z",
+    "address": "64TH AVE & 176TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/64th-ave",
+      "surrey/176th-st"
+    ],
+    "streetNames": [
+      "64th Ave",
+      "176th St"
+    ],
+    "pulsePointId": "2435820191"
+  },
+  {
+    "id": "2026-03-17T14:30:00Z_vancouver/renfrew-st_vancouver/e-broadway",
+    "timestamp": "2026-03-17T14:30:00Z",
+    "scrapedAt": "2026-03-17T14:47:11Z",
+    "address": "RENFREW ST & E BROADWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/renfrew-st",
+      "vancouver/e-broadway"
+    ],
+    "streetNames": [
+      "Renfrew St",
+      "E Broadway"
+    ],
+    "pulsePointId": "2435817118"
+  },
+  {
+    "id": "2026-03-17T14:14:00Z_vancouver/cassiar-st_vancouver/lougheed-hwy",
+    "timestamp": "2026-03-17T14:14:00Z",
+    "scrapedAt": "2026-03-17T14:47:11Z",
+    "address": "CASSIAR ST & LOUGHEED HWY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/cassiar-st",
+      "vancouver/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Cassiar St",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2435810816"
+  },
+  {
+    "id": "2026-03-17T14:11:00Z_vancouver/raymur-ave_vancouver/venables-st",
+    "timestamp": "2026-03-17T14:11:00Z",
+    "scrapedAt": "2026-03-17T14:47:11Z",
+    "address": "RAYMUR AVE & VENABLES ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/raymur-ave",
+      "vancouver/venables-st"
+    ],
+    "streetNames": [
+      "Raymur Ave",
+      "Venables St"
+    ],
+    "pulsePointId": "2435809865"
+  },
+  {
     "id": "2026-03-17T13:19:00Z_vancouver/w-king-edward-ave_vancouver/puget-dr",
     "timestamp": "2026-03-17T13:19:00Z",
     "scrapedAt": "2026-03-17T13:28:39Z",
