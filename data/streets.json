@@ -2040,8 +2040,8 @@
     "name": "Trans Canada Hwy",
     "slug": "coquitlam/trans-canada-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-03-17T05:18:00Z",
-    "count": 2
+    "lastIncident": "2026-03-17T05:22:00Z",
+    "count": 3
   },
   "langley/202a-st": {
     "name": "202a St",
@@ -2489,6 +2489,13 @@
     "slug": "vancouver/davie-st",
     "city": "Vancouver",
     "lastIncident": "2026-03-17T04:12:00Z",
+    "count": 1
+  },
+  "coquitlam/brunette-avenue-onrp": {
+    "name": "Brunette Avenue Onrp",
+    "slug": "coquitlam/brunette-avenue-onrp",
+    "city": "Coquitlam",
+    "lastIncident": "2026-03-17T05:22:00Z",
     "count": 1
   }
 }

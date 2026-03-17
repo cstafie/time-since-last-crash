@@ -1,0 +1,24 @@
+{
+  "slug": "coquitlam/brunette-avenue-onrp",
+  "name": "Brunette Avenue Onrp",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-03-17T05:22:00Z_coquitlam/trans-canada-hwy_coquitlam/brunette-avenue-onrp",
+      "timestamp": "2026-03-17T05:22:00Z",
+      "address": "TRANS CANADA HWY & BRUNETTE AVENUE ONRP",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/trans-canada-hwy",
+        "coquitlam/brunette-avenue-onrp"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy",
+        "Brunette Avenue Onrp"
+      ],
+      "pulsePointId": "2435653790"
+    }
+  ],
+  "lastIncident": "2026-03-17T05:22:00Z",
+  "count": 1
+}
