@@ -2658,5 +2658,19 @@
     "city": "Delta",
     "lastIncident": "2026-03-17T22:46:00Z",
     "count": 1
+  },
+  "chilliwack/prest-rd": {
+    "name": "Prest Rd",
+    "slug": "chilliwack/prest-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-03-17T23:07:00Z",
+    "count": 1
+  },
+  "chilliwack/mcguire-rd": {
+    "name": "Mcguire Rd",
+    "slug": "chilliwack/mcguire-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-03-17T23:07:00Z",
+    "count": 1
   }
 }
