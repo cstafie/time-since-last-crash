@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-17T17:06:00Z_port-moody/heritage-mountain-blvd_port-moody/ungless-way",
+    "timestamp": "2026-03-17T17:06:00Z",
+    "scrapedAt": "2026-03-17T17:20:12Z",
+    "address": "HERITAGE MOUNTAIN BLVD & UNGLESS WAY",
+    "city": "Port Moody",
+    "streets": [
+      "port-moody/heritage-mountain-blvd",
+      "port-moody/ungless-way"
+    ],
+    "streetNames": [
+      "Heritage Mountain Blvd",
+      "Ungless Way"
+    ],
+    "pulsePointId": "2435902003"
+  },
+  {
+    "id": "2026-03-17T17:03:00Z_vancouver/taunton-st_vancouver/euclid-ave",
+    "timestamp": "2026-03-17T17:03:00Z",
+    "scrapedAt": "2026-03-17T17:20:12Z",
+    "address": "TAUNTON ST & EUCLID AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/taunton-st",
+      "vancouver/euclid-ave"
+    ],
+    "streetNames": [
+      "Taunton St",
+      "Euclid Ave"
+    ],
+    "pulsePointId": "2435899764"
+  },
+  {
     "id": "2026-03-17T14:53:00Z_richmond/westminster-hwy_richmond/no-5-rd",
     "timestamp": "2026-03-17T14:53:00Z",
     "scrapedAt": "2026-03-17T15:23:48Z",
