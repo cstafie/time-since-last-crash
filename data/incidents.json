@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-17T06:39:00Z_abbotsford/maclure-rd_abbotsford/old-yale-rd",
+    "timestamp": "2026-03-17T06:39:00Z",
+    "scrapedAt": "2026-03-17T06:46:46Z",
+    "address": "MACLURE RD & OLD YALE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/maclure-rd",
+      "abbotsford/old-yale-rd"
+    ],
+    "streetNames": [
+      "Maclure Rd",
+      "Old Yale Rd"
+    ],
+    "pulsePointId": "2435682759"
+  },
+  {
+    "id": "2026-03-17T06:24:00Z_surrey/104th-ave_surrey/122nd-st",
+    "timestamp": "2026-03-17T06:24:00Z",
+    "scrapedAt": "2026-03-17T06:46:46Z",
+    "address": "104TH AVE & 122ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/104th-ave",
+      "surrey/122nd-st"
+    ],
+    "streetNames": [
+      "104th Ave",
+      "122nd St"
+    ],
+    "pulsePointId": "2435678169"
+  },
+  {
     "id": "2026-03-17T05:22:00Z_coquitlam/trans-canada-hwy_coquitlam/brunette-avenue-onrp",
     "timestamp": "2026-03-17T05:22:00Z",
     "scrapedAt": "2026-03-17T05:48:20Z",

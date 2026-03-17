@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-03-17T06:39:00Z_abbotsford/maclure-rd_abbotsford/old-yale-rd",
+      "timestamp": "2026-03-17T06:39:00Z",
+      "address": "MACLURE RD & OLD YALE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/maclure-rd",
+        "abbotsford/old-yale-rd"
+      ],
+      "streetNames": [
+        "Maclure Rd",
+        "Old Yale Rd"
+      ],
+      "pulsePointId": "2435682759"
+    },
+    {
       "id": "2026-03-16T03:22:00Z_abbotsford/maclure-rd_abbotsford/trethewey-st",
       "timestamp": "2026-03-16T03:22:00Z",
       "address": "MACLURE RD & TRETHEWEY ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2433749907"
     }
   ],
-  "lastIncident": "2026-03-16T03:22:00Z",
-  "count": 2
+  "lastIncident": "2026-03-17T06:39:00Z",
+  "count": 3
 }
