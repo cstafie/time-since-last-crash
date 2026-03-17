@@ -2609,5 +2609,33 @@
     "city": "Abbotsford",
     "lastIncident": "2026-03-17T18:29:00Z",
     "count": 1
+  },
+  "coquitlam/lansdowne-dr": {
+    "name": "Lansdowne Dr",
+    "slug": "coquitlam/lansdowne-dr",
+    "city": "Coquitlam",
+    "lastIncident": "2026-03-17T20:20:00Z",
+    "count": 1
+  },
+  "coquitlam/guildford-way": {
+    "name": "Guildford Way",
+    "slug": "coquitlam/guildford-way",
+    "city": "Coquitlam",
+    "lastIncident": "2026-03-17T20:20:00Z",
+    "count": 1
+  },
+  "burnaby/sanders-st": {
+    "name": "Sanders St",
+    "slug": "burnaby/sanders-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-17T20:08:00Z",
+    "count": 1
+  },
+  "burnaby/nelson-ave": {
+    "name": "Nelson Ave",
+    "slug": "burnaby/nelson-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-17T20:08:00Z",
+    "count": 1
   }
 }

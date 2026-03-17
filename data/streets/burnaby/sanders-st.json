@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/sanders-st",
+  "name": "Sanders St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-03-17T20:08:00Z_burnaby/sanders-st_burnaby/nelson-ave",
+      "timestamp": "2026-03-17T20:08:00Z",
+      "address": "SANDERS ST & NELSON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/sanders-st",
+        "burnaby/nelson-ave"
+      ],
+      "streetNames": [
+        "Sanders St",
+        "Nelson Ave"
+      ],
+      "pulsePointId": "2436020332"
+    }
+  ],
+  "lastIncident": "2026-03-17T20:08:00Z",
+  "count": 1
+}

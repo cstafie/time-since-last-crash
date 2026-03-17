@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-17T20:20:00Z_coquitlam/lansdowne-dr_coquitlam/guildford-way",
+    "timestamp": "2026-03-17T20:20:00Z",
+    "scrapedAt": "2026-03-17T20:43:47Z",
+    "address": "LANSDOWNE DR & GUILDFORD WAY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/lansdowne-dr",
+      "coquitlam/guildford-way"
+    ],
+    "streetNames": [
+      "Lansdowne Dr",
+      "Guildford Way"
+    ],
+    "pulsePointId": "2436026722"
+  },
+  {
+    "id": "2026-03-17T20:08:00Z_burnaby/sanders-st_burnaby/nelson-ave",
+    "timestamp": "2026-03-17T20:08:00Z",
+    "scrapedAt": "2026-03-17T20:43:47Z",
+    "address": "SANDERS ST & NELSON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/sanders-st",
+      "burnaby/nelson-ave"
+    ],
+    "streetNames": [
+      "Sanders St",
+      "Nelson Ave"
+    ],
+    "pulsePointId": "2436020332"
+  },
+  {
     "id": "2026-03-17T18:29:00Z_abbotsford/32847-south-fraser-way",
     "timestamp": "2026-03-17T18:29:00Z",
     "scrapedAt": "2026-03-17T18:46:44Z",

@@ -1,0 +1,24 @@
+{
+  "slug": "coquitlam/guildford-way",
+  "name": "Guildford Way",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-03-17T20:20:00Z_coquitlam/lansdowne-dr_coquitlam/guildford-way",
+      "timestamp": "2026-03-17T20:20:00Z",
+      "address": "LANSDOWNE DR & GUILDFORD WAY",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/lansdowne-dr",
+        "coquitlam/guildford-way"
+      ],
+      "streetNames": [
+        "Lansdowne Dr",
+        "Guildford Way"
+      ],
+      "pulsePointId": "2436026722"
+    }
+  ],
+  "lastIncident": "2026-03-17T20:20:00Z",
+  "count": 1
+}
