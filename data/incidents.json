@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-03-17T03:04:00Z_vancouver/e-broadway_vancouver/renfrew-st",
+    "timestamp": "2026-03-17T03:04:00Z",
+    "scrapedAt": "2026-03-17T03:46:14Z",
+    "address": "E BROADWAY & RENFREW ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-broadway",
+      "vancouver/renfrew-st"
+    ],
+    "streetNames": [
+      "E Broadway",
+      "Renfrew St"
+    ],
+    "pulsePointId": "2435592326"
+  },
+  {
+    "id": "2026-03-17T03:02:00Z_vancouver/w-41st-ave_vancouver/granville-st",
+    "timestamp": "2026-03-17T03:02:00Z",
+    "scrapedAt": "2026-03-17T03:46:14Z",
+    "address": "W 41ST AVE & GRANVILLE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-41st-ave",
+      "vancouver/granville-st"
+    ],
+    "streetNames": [
+      "W 41st Ave",
+      "Granville St"
+    ],
+    "pulsePointId": "2435588938"
+  },
+  {
+    "id": "2026-03-17T03:01:00Z_vancouver/rupert-st",
+    "timestamp": "2026-03-17T03:01:00Z",
+    "scrapedAt": "2026-03-17T03:46:14Z",
+    "address": "RUPERT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/rupert-st"
+    ],
+    "streetNames": [
+      "Rupert St"
+    ],
+    "pulsePointId": "2435587077"
+  },
+  {
     "id": "2026-03-17T02:52:00Z_vancouver/e-27th-ave_vancouver/nanaimo-st",
     "timestamp": "2026-03-17T02:52:00Z",
     "scrapedAt": "2026-03-17T02:54:21Z",

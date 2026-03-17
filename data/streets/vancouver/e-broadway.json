@@ -1,6 +1,6 @@
 {
-  "slug": "vancouver/renfrew-st",
-  "name": "Renfrew St",
+  "slug": "vancouver/e-broadway",
+  "name": "E Broadway",
   "city": "Vancouver",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Renfrew St"
       ],
       "pulsePointId": "2435592326"
-    },
-    {
-      "id": "2026-03-14T08:30:00Z_vancouver/renfrew-st_vancouver/e-22nd-ave",
-      "timestamp": "2026-03-14T08:30:00Z",
-      "address": "RENFREW ST & E 22ND AVE",
-      "city": "Vancouver",
-      "streets": [
-        "vancouver/renfrew-st",
-        "vancouver/e-22nd-ave"
-      ],
-      "streetNames": [
-        "Renfrew St",
-        "E 22nd Ave"
-      ],
-      "pulsePointId": "2433781130"
     }
   ],
   "lastIncident": "2026-03-17T03:04:00Z",
-  "count": 2
+  "count": 1
 }
