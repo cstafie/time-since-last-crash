@@ -1,0 +1,24 @@
+{
+  "slug": "chilliwack/chilliwack-mountain-rd",
+  "name": "Chilliwack Mountain Rd",
+  "city": "Chilliwack",
+  "incidents": [
+    {
+      "id": "2026-03-17T07:58:00Z_chilliwack/chilliwack-mountain-rd_chilliwack/aitken-rd",
+      "timestamp": "2026-03-17T07:58:00Z",
+      "address": "CHILLIWACK MOUNTAIN RD & AITKEN RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/chilliwack-mountain-rd",
+        "chilliwack/aitken-rd"
+      ],
+      "streetNames": [
+        "Chilliwack Mountain Rd",
+        "Aitken Rd"
+      ],
+      "pulsePointId": "2435706852"
+    }
+  ],
+  "lastIncident": "2026-03-17T07:58:00Z",
+  "count": 1
+}

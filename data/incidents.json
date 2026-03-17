@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-03-17T07:58:00Z_chilliwack/chilliwack-mountain-rd_chilliwack/aitken-rd",
+    "timestamp": "2026-03-17T07:58:00Z",
+    "scrapedAt": "2026-03-17T08:11:05Z",
+    "address": "CHILLIWACK MOUNTAIN RD & AITKEN RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/chilliwack-mountain-rd",
+      "chilliwack/aitken-rd"
+    ],
+    "streetNames": [
+      "Chilliwack Mountain Rd",
+      "Aitken Rd"
+    ],
+    "pulsePointId": "2435706852"
+  },
+  {
+    "id": "2026-03-17T07:58:00Z_coquitlam/trans-canada-hwy",
+    "timestamp": "2026-03-17T07:58:00Z",
+    "scrapedAt": "2026-03-17T08:11:05Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2435706428"
+  },
+  {
+    "id": "2026-03-17T07:55:00Z_coquitlam/trans-canada-hwy",
+    "timestamp": "2026-03-17T07:55:00Z",
+    "scrapedAt": "2026-03-17T08:11:05Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2435706485"
+  },
+  {
     "id": "2026-03-17T06:39:00Z_abbotsford/maclure-rd_abbotsford/old-yale-rd",
     "timestamp": "2026-03-17T06:39:00Z",
     "scrapedAt": "2026-03-17T06:46:46Z",
