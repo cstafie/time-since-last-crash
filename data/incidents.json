@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-17T02:52:00Z_vancouver/e-27th-ave_vancouver/nanaimo-st",
+    "timestamp": "2026-03-17T02:52:00Z",
+    "scrapedAt": "2026-03-17T02:54:21Z",
+    "address": "E 27TH AVE & NANAIMO ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-27th-ave",
+      "vancouver/nanaimo-st"
+    ],
+    "streetNames": [
+      "E 27th Ave",
+      "Nanaimo St"
+    ],
+    "pulsePointId": "2435582679"
+  },
+  {
+    "id": "2026-03-17T02:24:00Z_vancouver/w-33rd-ave_vancouver/cambie-st",
+    "timestamp": "2026-03-17T02:24:00Z",
+    "scrapedAt": "2026-03-17T02:54:21Z",
+    "address": "W 33RD AVE & CAMBIE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-33rd-ave",
+      "vancouver/cambie-st"
+    ],
+    "streetNames": [
+      "W 33rd Ave",
+      "Cambie St"
+    ],
+    "pulsePointId": "2435569506"
+  },
+  {
     "id": "2026-03-17T00:43:00Z_delta/hwy-99",
     "timestamp": "2026-03-17T00:43:00Z",
     "scrapedAt": "2026-03-17T00:52:49Z",
