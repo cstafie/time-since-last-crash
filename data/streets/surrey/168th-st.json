@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-03-17T22:08:00Z_surrey/168th-st_surrey/87th-ave",
+      "timestamp": "2026-03-17T22:08:00Z",
+      "address": "168TH ST & 87TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/168th-st",
+        "surrey/87th-ave"
+      ],
+      "streetNames": [
+        "168th St",
+        "87th Ave"
+      ],
+      "pulsePointId": "2436097973"
+    },
+    {
       "id": "2026-03-13T01:41:00Z_surrey/80th-ave_surrey/168th-st",
       "timestamp": "2026-03-13T01:41:00Z",
       "address": "80TH AVE & 168TH ST",
@@ -71,6 +86,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-13T01:41:00Z",
-  "count": 5
+  "lastIncident": "2026-03-17T22:08:00Z",
+  "count": 6
 }
