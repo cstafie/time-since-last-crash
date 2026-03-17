@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/pacific-blvd",
+  "name": "Pacific Blvd",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-17T04:12:00Z_vancouver/pacific-blvd_vancouver/davie-st",
+      "timestamp": "2026-03-17T04:12:00Z",
+      "address": "PACIFIC BLVD & DAVIE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/pacific-blvd",
+        "vancouver/davie-st"
+      ],
+      "streetNames": [
+        "Pacific Blvd",
+        "Davie St"
+      ],
+      "pulsePointId": "2435623611"
+    }
+  ],
+  "lastIncident": "2026-03-17T04:12:00Z",
+  "count": 1
+}

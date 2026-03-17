@@ -4,6 +4,19 @@
   "city": "New Westminster",
   "incidents": [
     {
+      "id": "2026-03-17T03:45:00Z_new-westminster/mcbride-blvd",
+      "timestamp": "2026-03-17T03:45:00Z",
+      "address": "MCBRIDE BLVD",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/mcbride-blvd"
+      ],
+      "streetNames": [
+        "Mcbride Blvd"
+      ],
+      "pulsePointId": "2435610919"
+    },
+    {
       "id": "2026-03-11T15:20:00Z_new-westminster/e-8th-ave_new-westminster/mcbride-blvd",
       "timestamp": "2026-03-11T15:20:00Z",
       "address": "E 8TH AVE & MCBRIDE BLVD",
@@ -46,6 +59,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-11T15:20:00Z",
-  "count": 3
+  "lastIncident": "2026-03-17T03:45:00Z",
+  "count": 4
 }

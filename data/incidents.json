@@ -1,5 +1,93 @@
 [
   {
+    "id": "2026-03-17T04:28:00Z_maple-ridge/240th-st_maple-ridge/lougheed-hwy",
+    "timestamp": "2026-03-17T04:28:00Z",
+    "scrapedAt": "2026-03-17T04:33:07Z",
+    "address": "240TH ST & LOUGHEED HWY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/240th-st",
+      "maple-ridge/lougheed-hwy"
+    ],
+    "streetNames": [
+      "240th St",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2435629259"
+  },
+  {
+    "id": "2026-03-17T04:25:00Z_surrey/hwy-17",
+    "timestamp": "2026-03-17T04:25:00Z",
+    "scrapedAt": "2026-03-17T04:33:07Z",
+    "address": "HWY 17",
+    "city": "Surrey",
+    "streets": [
+      "surrey/hwy-17"
+    ],
+    "streetNames": [
+      "Hwy 17"
+    ],
+    "pulsePointId": "2435628321"
+  },
+  {
+    "id": "2026-03-17T04:12:00Z_vancouver/pacific-blvd_vancouver/davie-st",
+    "timestamp": "2026-03-17T04:12:00Z",
+    "scrapedAt": "2026-03-17T04:33:07Z",
+    "address": "PACIFIC BLVD & DAVIE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/pacific-blvd",
+      "vancouver/davie-st"
+    ],
+    "streetNames": [
+      "Pacific Blvd",
+      "Davie St"
+    ],
+    "pulsePointId": "2435623611"
+  },
+  {
+    "id": "2026-03-17T03:59:00Z_new-westminster/e-columbia-st",
+    "timestamp": "2026-03-17T03:59:00Z",
+    "scrapedAt": "2026-03-17T04:33:07Z",
+    "address": "E COLUMBIA ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/e-columbia-st"
+    ],
+    "streetNames": [
+      "E Columbia St"
+    ],
+    "pulsePointId": "2435617395"
+  },
+  {
+    "id": "2026-03-17T03:56:00Z_surrey/trans-canada-hwy",
+    "timestamp": "2026-03-17T03:56:00Z",
+    "scrapedAt": "2026-03-17T04:33:07Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2435617515"
+  },
+  {
+    "id": "2026-03-17T03:45:00Z_new-westminster/mcbride-blvd",
+    "timestamp": "2026-03-17T03:45:00Z",
+    "scrapedAt": "2026-03-17T04:33:07Z",
+    "address": "MCBRIDE BLVD",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/mcbride-blvd"
+    ],
+    "streetNames": [
+      "Mcbride Blvd"
+    ],
+    "pulsePointId": "2435610919"
+  },
+  {
     "id": "2026-03-17T03:04:00Z_vancouver/e-broadway_vancouver/renfrew-st",
     "timestamp": "2026-03-17T03:04:00Z",
     "scrapedAt": "2026-03-17T03:46:14Z",
