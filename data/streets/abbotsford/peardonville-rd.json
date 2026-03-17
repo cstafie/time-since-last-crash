@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-03-17T11:59:00Z_abbotsford/simpson-rd_abbotsford/peardonville-rd",
+      "timestamp": "2026-03-17T11:59:00Z",
+      "address": "SIMPSON RD & PEARDONVILLE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/simpson-rd",
+        "abbotsford/peardonville-rd"
+      ],
+      "streetNames": [
+        "Simpson Rd",
+        "Peardonville Rd"
+      ],
+      "pulsePointId": "2435765678"
+    },
+    {
       "id": "2026-03-16T00:33:00Z_abbotsford/marshall-rd_abbotsford/peardonville-rd",
       "timestamp": "2026-03-16T00:33:00Z",
       "address": "MARSHALL RD & PEARDONVILLE RD",
@@ -63,6 +78,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-16T00:33:00Z",
-  "count": 4
+  "lastIncident": "2026-03-17T11:59:00Z",
+  "count": 5
 }

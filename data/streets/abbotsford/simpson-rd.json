@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/simpson-rd",
+  "name": "Simpson Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-03-17T11:59:00Z_abbotsford/simpson-rd_abbotsford/peardonville-rd",
+      "timestamp": "2026-03-17T11:59:00Z",
+      "address": "SIMPSON RD & PEARDONVILLE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/simpson-rd",
+        "abbotsford/peardonville-rd"
+      ],
+      "streetNames": [
+        "Simpson Rd",
+        "Peardonville Rd"
+      ],
+      "pulsePointId": "2435765678"
+    }
+  ],
+  "lastIncident": "2026-03-17T11:59:00Z",
+  "count": 1
+}

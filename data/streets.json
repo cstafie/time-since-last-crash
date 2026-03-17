@@ -1060,8 +1060,8 @@
     "name": "Peardonville Rd",
     "slug": "abbotsford/peardonville-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-16T00:33:00Z",
-    "count": 4
+    "lastIncident": "2026-03-17T11:59:00Z",
+    "count": 5
   },
   "abbotsford/townline-rd": {
     "name": "Townline Rd",
@@ -2510,6 +2510,13 @@
     "slug": "chilliwack/aitken-rd",
     "city": "Chilliwack",
     "lastIncident": "2026-03-17T07:58:00Z",
+    "count": 1
+  },
+  "abbotsford/simpson-rd": {
+    "name": "Simpson Rd",
+    "slug": "abbotsford/simpson-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-03-17T11:59:00Z",
     "count": 1
   }
 }
