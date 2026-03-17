@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-03-17T13:19:00Z_vancouver/w-king-edward-ave_vancouver/puget-dr",
+    "timestamp": "2026-03-17T13:19:00Z",
+    "scrapedAt": "2026-03-17T13:28:39Z",
+    "address": "W KING EDWARD AVE & PUGET DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-king-edward-ave",
+      "vancouver/puget-dr"
+    ],
+    "streetNames": [
+      "W King Edward Ave",
+      "Puget Dr"
+    ],
+    "pulsePointId": "2435790624"
+  },
+  {
+    "id": "2026-03-17T13:15:00Z_vancouver/main-st",
+    "timestamp": "2026-03-17T13:15:00Z",
+    "scrapedAt": "2026-03-17T13:28:39Z",
+    "address": "MAIN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st"
+    ],
+    "streetNames": [
+      "Main St"
+    ],
+    "pulsePointId": "2435789264"
+  },
+  {
+    "id": "2026-03-17T13:12:00Z_surrey/166a-st_surrey/16th-ave",
+    "timestamp": "2026-03-17T13:12:00Z",
+    "scrapedAt": "2026-03-17T13:28:39Z",
+    "address": "166A ST & 16TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/166a-st",
+      "surrey/16th-ave"
+    ],
+    "streetNames": [
+      "166a St",
+      "16th Ave"
+    ],
+    "pulsePointId": "2435787557"
+  },
+  {
     "id": "2026-03-17T11:59:00Z_abbotsford/simpson-rd_abbotsford/peardonville-rd",
     "timestamp": "2026-03-17T11:59:00Z",
     "scrapedAt": "2026-03-17T12:09:02Z",

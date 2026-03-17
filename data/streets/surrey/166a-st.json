@@ -1,6 +1,6 @@
 {
-  "slug": "surrey/16th-ave",
-  "name": "16th Ave",
+  "slug": "surrey/166a-st",
+  "name": "166a St",
   "city": "Surrey",
   "incidents": [
     {
@@ -17,22 +17,8 @@
         "16th Ave"
       ],
       "pulsePointId": "2435787557"
-    },
-    {
-      "id": "2026-03-08T23:46:00Z_16th-ave_168th-st",
-      "timestamp": "2026-03-08T23:46:00Z",
-      "address": "16TH AVE & 168TH ST",
-      "city": "Surrey",
-      "streets": [
-        "surrey/16th-ave",
-        "surrey/168th-st"
-      ],
-      "streetNames": [
-        "16th Ave",
-        "168th St"
-      ]
     }
   ],
   "lastIncident": "2026-03-17T13:12:00Z",
-  "count": 2
+  "count": 1
 }
