@@ -73,8 +73,8 @@
     "name": "Marine Way",
     "slug": "burnaby/marine-way",
     "city": "Burnaby",
-    "lastIncident": "2026-03-10T17:13:00Z",
-    "count": 2
+    "lastIncident": "2026-03-18T11:31:00Z",
+    "count": 3
   },
   "burnaby/willingdon-ave": {
     "name": "Willingdon Ave",
@@ -2769,6 +2769,13 @@
     "slug": "abbotsford/fraser-hwy",
     "city": "Abbotsford",
     "lastIncident": "2026-03-18T11:03:00Z",
+    "count": 1
+  },
+  "burnaby/north-fraser-way": {
+    "name": "North Fraser Way",
+    "slug": "burnaby/north-fraser-way",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-18T11:31:00Z",
     "count": 1
   }
 }

@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-18T11:31:00Z_burnaby/north-fraser-way_burnaby/marine-way",
+    "timestamp": "2026-03-18T11:31:00Z",
+    "scrapedAt": "2026-03-18T11:44:42Z",
+    "address": "NORTH FRASER WAY & MARINE WAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/north-fraser-way",
+      "burnaby/marine-way"
+    ],
+    "streetNames": [
+      "North Fraser Way",
+      "Marine Way"
+    ],
+    "pulsePointId": "2436439706"
+  },
+  {
     "id": "2026-03-18T11:03:00Z_abbotsford/fraser-hwy",
     "timestamp": "2026-03-18T11:03:00Z",
     "scrapedAt": "2026-03-18T11:14:57Z",
