@@ -1,0 +1,24 @@
+{
+  "slug": "coquitlam/austin-ave",
+  "name": "Austin Ave",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-03-18T13:58:00Z_coquitlam/westview-st_coquitlam/austin-ave",
+      "timestamp": "2026-03-18T13:58:00Z",
+      "address": "WESTVIEW ST & AUSTIN AVE",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/westview-st",
+        "coquitlam/austin-ave"
+      ],
+      "streetNames": [
+        "Westview St",
+        "Austin Ave"
+      ],
+      "pulsePointId": "2436486390"
+    }
+  ],
+  "lastIncident": "2026-03-18T13:58:00Z",
+  "count": 1
+}
