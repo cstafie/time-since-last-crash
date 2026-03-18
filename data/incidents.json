@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-18T04:15:00Z_surrey/lauder-dr_surrey/ursus-cres",
+    "timestamp": "2026-03-18T04:15:00Z",
+    "scrapedAt": "2026-03-18T04:37:28Z",
+    "address": "LAUDER DR & URSUS CRES",
+    "city": "Surrey",
+    "streets": [
+      "surrey/lauder-dr",
+      "surrey/ursus-cres"
+    ],
+    "streetNames": [
+      "Lauder Dr",
+      "Ursus Cres"
+    ],
+    "pulsePointId": "2436309150"
+  },
+  {
     "id": "2026-03-18T03:35:00Z_abbotsford/ross-rd_abbotsford/downes-rd",
     "timestamp": "2026-03-18T03:35:00Z",
     "scrapedAt": "2026-03-18T03:53:55Z",

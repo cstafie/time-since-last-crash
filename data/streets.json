@@ -2721,5 +2721,19 @@
     "city": "Vancouver",
     "lastIncident": "2026-03-18T02:13:00Z",
     "count": 1
+  },
+  "surrey/lauder-dr": {
+    "name": "Lauder Dr",
+    "slug": "surrey/lauder-dr",
+    "city": "Surrey",
+    "lastIncident": "2026-03-18T04:15:00Z",
+    "count": 1
+  },
+  "surrey/ursus-cres": {
+    "name": "Ursus Cres",
+    "slug": "surrey/ursus-cres",
+    "city": "Surrey",
+    "lastIncident": "2026-03-18T04:15:00Z",
+    "count": 1
   }
 }
