@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/e-50th-ave",
+  "name": "E 50th Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-18T03:28:00Z_vancouver/main-st_vancouver/e-50th-ave",
+      "timestamp": "2026-03-18T03:28:00Z",
+      "address": "MAIN ST & E 50TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/main-st",
+        "vancouver/e-50th-ave"
+      ],
+      "streetNames": [
+        "Main St",
+        "E 50th Ave"
+      ],
+      "pulsePointId": "2436287197"
+    }
+  ],
+  "lastIncident": "2026-03-18T03:28:00Z",
+  "count": 1
+}

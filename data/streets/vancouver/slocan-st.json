@@ -1,6 +1,6 @@
 {
-  "slug": "vancouver/e-1st-ave",
-  "name": "E 1st Ave",
+  "slug": "vancouver/slocan-st",
+  "name": "Slocan St",
   "city": "Vancouver",
   "incidents": [
     {
@@ -17,22 +17,8 @@
         "E 1st Ave"
       ],
       "pulsePointId": "2436249042"
-    },
-    {
-      "id": "2026-03-11T17:02:00Z_vancouver/e-1st-ave_vancouver/boundary-rd",
-      "timestamp": "2026-03-11T17:02:00Z",
-      "address": "E 1ST AVE & BOUNDARY RD",
-      "city": "Vancouver",
-      "streets": [
-        "vancouver/e-1st-ave",
-        "vancouver/boundary-rd"
-      ],
-      "streetNames": [
-        "E 1st Ave",
-        "Boundary Rd"
-      ]
     }
   ],
   "lastIncident": "2026-03-18T02:13:00Z",
-  "count": 2
+  "count": 1
 }

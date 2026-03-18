@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-18T03:35:00Z_abbotsford/ross-rd_abbotsford/downes-rd",
+    "timestamp": "2026-03-18T03:35:00Z",
+    "scrapedAt": "2026-03-18T03:53:55Z",
+    "address": "ROSS RD & DOWNES RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/ross-rd",
+      "abbotsford/downes-rd"
+    ],
+    "streetNames": [
+      "Ross Rd",
+      "Downes Rd"
+    ],
+    "pulsePointId": "2436290941"
+  },
+  {
+    "id": "2026-03-18T03:28:00Z_vancouver/main-st_vancouver/e-50th-ave",
+    "timestamp": "2026-03-18T03:28:00Z",
+    "scrapedAt": "2026-03-18T03:53:55Z",
+    "address": "MAIN ST & E 50TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st",
+      "vancouver/e-50th-ave"
+    ],
+    "streetNames": [
+      "Main St",
+      "E 50th Ave"
+    ],
+    "pulsePointId": "2436287197"
+  },
+  {
     "id": "2026-03-18T02:30:00Z_vancouver/kingsway_vancouver/tyne-st",
     "timestamp": "2026-03-18T02:30:00Z",
     "scrapedAt": "2026-03-18T02:57:35Z",
@@ -30,6 +62,22 @@
       "Bonsor Ave"
     ],
     "pulsePointId": "2436250218"
+  },
+  {
+    "id": "2026-03-18T02:13:00Z_vancouver/slocan-st_vancouver/e-1st-ave",
+    "timestamp": "2026-03-18T02:13:00Z",
+    "scrapedAt": "2026-03-18T03:53:55Z",
+    "address": "SLOCAN ST & E 1ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/slocan-st",
+      "vancouver/e-1st-ave"
+    ],
+    "streetNames": [
+      "Slocan St",
+      "E 1st Ave"
+    ],
+    "pulsePointId": "2436249042"
   },
   {
     "id": "2026-03-18T00:59:00Z_vancouver/e-hastings-st",
