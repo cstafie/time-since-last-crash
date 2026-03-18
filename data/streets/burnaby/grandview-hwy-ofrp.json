@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/grandview-hwy-ofrp",
+  "name": "Grandview Hwy Ofrp",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-03-18T04:35:00Z_burnaby/trans-canada-hwy_burnaby/grandview-hwy-ofrp",
+      "timestamp": "2026-03-18T04:35:00Z",
+      "address": "TRANS CANADA HWY & GRANDVIEW HWY OFRP",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/trans-canada-hwy",
+        "burnaby/grandview-hwy-ofrp"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy",
+        "Grandview Hwy Ofrp"
+      ],
+      "pulsePointId": "2436318091"
+    }
+  ],
+  "lastIncident": "2026-03-18T04:35:00Z",
+  "count": 1
+}

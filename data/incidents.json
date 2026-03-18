@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-18T04:51:00Z_langley/langley-bps_langley/fraser-hwy",
+    "timestamp": "2026-03-18T04:51:00Z",
+    "scrapedAt": "2026-03-18T05:28:29Z",
+    "address": "LANGLEY BPS & FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/langley-bps",
+      "langley/fraser-hwy"
+    ],
+    "streetNames": [
+      "Langley Bps",
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2436324840"
+  },
+  {
+    "id": "2026-03-18T04:35:00Z_burnaby/trans-canada-hwy_burnaby/grandview-hwy-ofrp",
+    "timestamp": "2026-03-18T04:35:00Z",
+    "scrapedAt": "2026-03-18T05:28:29Z",
+    "address": "TRANS CANADA HWY & GRANDVIEW HWY OFRP",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy",
+      "burnaby/grandview-hwy-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "Grandview Hwy Ofrp"
+    ],
+    "pulsePointId": "2436318091"
+  },
+  {
     "id": "2026-03-18T04:15:00Z_surrey/lauder-dr_surrey/ursus-cres",
     "timestamp": "2026-03-18T04:15:00Z",
     "scrapedAt": "2026-03-18T04:37:28Z",
