@@ -451,8 +451,8 @@
     "name": "Bridgeport Rd",
     "slug": "richmond/bridgeport-rd",
     "city": "Richmond",
-    "lastIncident": "2026-03-18T19:43:00Z",
-    "count": 4
+    "lastIncident": "2026-03-18T23:14:00Z",
+    "count": 5
   },
   "richmond/granville-ave": {
     "name": "Granville Ave",
@@ -535,8 +535,8 @@
     "name": "128th St",
     "slug": "surrey/128th-st",
     "city": "Surrey",
-    "lastIncident": "2026-03-08T22:31:00Z",
-    "count": 2
+    "lastIncident": "2026-03-18T23:09:00Z",
+    "count": 3
   },
   "surrey/130b-st": {
     "name": "130b St",
@@ -2888,6 +2888,20 @@
     "slug": "vancouver/e-61st-ave",
     "city": "Vancouver",
     "lastIncident": "2026-03-18T21:29:00Z",
+    "count": 1
+  },
+  "richmond/simpson-rd": {
+    "name": "Simpson Rd",
+    "slug": "richmond/simpson-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-03-18T23:14:00Z",
+    "count": 1
+  },
+  "surrey/79th-ave": {
+    "name": "79th Ave",
+    "slug": "surrey/79th-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-03-18T23:09:00Z",
     "count": 1
   }
 }

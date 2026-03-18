@@ -1,0 +1,24 @@
+{
+  "slug": "richmond/simpson-rd",
+  "name": "Simpson Rd",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-03-18T23:14:00Z_richmond/bridgeport-rd_richmond/simpson-rd",
+      "timestamp": "2026-03-18T23:14:00Z",
+      "address": "BRIDGEPORT RD & SIMPSON RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/bridgeport-rd",
+        "richmond/simpson-rd"
+      ],
+      "streetNames": [
+        "Bridgeport Rd",
+        "Simpson Rd"
+      ],
+      "pulsePointId": "2436826723"
+    }
+  ],
+  "lastIncident": "2026-03-18T23:14:00Z",
+  "count": 1
+}
