@@ -1,0 +1,39 @@
+{
+  "slug": "vancouver/west-boulevard",
+  "name": "West Boulevard",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-18T20:30:00Z_vancouver/w-45th-ave_vancouver/west-boulevard",
+      "timestamp": "2026-03-18T20:30:00Z",
+      "address": "W 45TH AVE & WEST BOULEVARD",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-45th-ave",
+        "vancouver/west-boulevard"
+      ],
+      "streetNames": [
+        "W 45th Ave",
+        "West Boulevard"
+      ],
+      "pulsePointId": "2436714438"
+    },
+    {
+      "id": "2026-03-18T20:30:00Z_vancouver/west-boulevard_vancouver/w-45th-ave",
+      "timestamp": "2026-03-18T20:30:00Z",
+      "address": "WEST BOULEVARD & W 45TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/west-boulevard",
+        "vancouver/w-45th-ave"
+      ],
+      "streetNames": [
+        "West Boulevard",
+        "W 45th Ave"
+      ],
+      "pulsePointId": "2436714441"
+    }
+  ],
+  "lastIncident": "2026-03-18T20:30:00Z",
+  "count": 2
+}

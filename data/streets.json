@@ -269,8 +269,8 @@
     "name": "Trans Canada Hwy",
     "slug": "langley/trans-canada-hwy",
     "city": "Langley",
-    "lastIncident": "2026-03-16T02:08:00Z",
-    "count": 2
+    "lastIncident": "2026-03-18T20:26:00Z",
+    "count": 3
   },
   "maple-ridge/119th-ave": {
     "name": "119th Ave",
@@ -2854,5 +2854,19 @@
     "city": "Maple Ridge",
     "lastIncident": "2026-03-18T19:43:00Z",
     "count": 1
+  },
+  "vancouver/w-45th-ave": {
+    "name": "W 45th Ave",
+    "slug": "vancouver/w-45th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-18T20:30:00Z",
+    "count": 2
+  },
+  "vancouver/west-boulevard": {
+    "name": "West Boulevard",
+    "slug": "vancouver/west-boulevard",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-18T20:30:00Z",
+    "count": 2
   }
 }

@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-03-18T20:30:00Z_vancouver/w-45th-ave_vancouver/west-boulevard",
+    "timestamp": "2026-03-18T20:30:00Z",
+    "scrapedAt": "2026-03-18T20:43:33Z",
+    "address": "W 45TH AVE & WEST BOULEVARD",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-45th-ave",
+      "vancouver/west-boulevard"
+    ],
+    "streetNames": [
+      "W 45th Ave",
+      "West Boulevard"
+    ],
+    "pulsePointId": "2436714438"
+  },
+  {
+    "id": "2026-03-18T20:30:00Z_vancouver/west-boulevard_vancouver/w-45th-ave",
+    "timestamp": "2026-03-18T20:30:00Z",
+    "scrapedAt": "2026-03-18T20:43:33Z",
+    "address": "WEST BOULEVARD & W 45TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/west-boulevard",
+      "vancouver/w-45th-ave"
+    ],
+    "streetNames": [
+      "West Boulevard",
+      "W 45th Ave"
+    ],
+    "pulsePointId": "2436714441"
+  },
+  {
+    "id": "2026-03-18T20:26:00Z_langley/trans-canada-hwy",
+    "timestamp": "2026-03-18T20:26:00Z",
+    "scrapedAt": "2026-03-18T20:43:33Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2436711641"
+  },
+  {
     "id": "2026-03-18T19:43:00Z_richmond/sexsmith-rd_richmond/bridgeport-rd",
     "timestamp": "2026-03-18T19:43:00Z",
     "scrapedAt": "2026-03-18T20:07:35Z",
