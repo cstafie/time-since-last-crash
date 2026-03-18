@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-03-17T23:59:00Z_abbotsford/allwood-st_abbotsford/south-fraser-way",
+      "timestamp": "2026-03-17T23:59:00Z",
+      "address": "ALLWOOD ST & SOUTH FRASER WAY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/allwood-st",
+        "abbotsford/south-fraser-way"
+      ],
+      "streetNames": [
+        "Allwood St",
+        "South Fraser Way"
+      ],
+      "pulsePointId": "2436169309"
+    },
+    {
       "id": "2026-03-14T00:10:00Z_abbotsford/south-fraser-way_abbotsford/bourquin-cres-w",
       "timestamp": "2026-03-14T00:10:00Z",
       "address": "SOUTH FRASER WAY & BOURQUIN CRES W",
@@ -34,6 +49,6 @@
       "pulsePointId": "2433235919"
     }
   ],
-  "lastIncident": "2026-03-14T00:10:00Z",
-  "count": 2
+  "lastIncident": "2026-03-17T23:59:00Z",
+  "count": 3
 }

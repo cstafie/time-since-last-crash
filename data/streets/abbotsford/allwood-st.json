@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/allwood-st",
+  "name": "Allwood St",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-03-17T23:59:00Z_abbotsford/allwood-st_abbotsford/south-fraser-way",
+      "timestamp": "2026-03-17T23:59:00Z",
+      "address": "ALLWOOD ST & SOUTH FRASER WAY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/allwood-st",
+        "abbotsford/south-fraser-way"
+      ],
+      "streetNames": [
+        "Allwood St",
+        "South Fraser Way"
+      ],
+      "pulsePointId": "2436169309"
+    }
+  ],
+  "lastIncident": "2026-03-17T23:59:00Z",
+  "count": 1
+}

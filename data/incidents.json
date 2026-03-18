@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-17T23:59:00Z_abbotsford/allwood-st_abbotsford/south-fraser-way",
+    "timestamp": "2026-03-17T23:59:00Z",
+    "scrapedAt": "2026-03-18T00:06:09Z",
+    "address": "ALLWOOD ST & SOUTH FRASER WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/allwood-st",
+      "abbotsford/south-fraser-way"
+    ],
+    "streetNames": [
+      "Allwood St",
+      "South Fraser Way"
+    ],
+    "pulsePointId": "2436169309"
+  },
+  {
+    "id": "2026-03-17T23:49:00Z_coquitlam/dewdney-trunk-rd_coquitlam/norman-ave",
+    "timestamp": "2026-03-17T23:49:00Z",
+    "scrapedAt": "2026-03-18T00:06:09Z",
+    "address": "DEWDNEY TRUNK RD & NORMAN AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/dewdney-trunk-rd",
+      "coquitlam/norman-ave"
+    ],
+    "streetNames": [
+      "Dewdney Trunk Rd",
+      "Norman Ave"
+    ],
+    "pulsePointId": "2436163261"
+  },
+  {
     "id": "2026-03-17T23:07:00Z_chilliwack/prest-rd_chilliwack/mcguire-rd",
     "timestamp": "2026-03-17T23:07:00Z",
     "scrapedAt": "2026-03-17T23:41:44Z",

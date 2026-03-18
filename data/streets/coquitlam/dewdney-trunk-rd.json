@@ -1,0 +1,24 @@
+{
+  "slug": "coquitlam/dewdney-trunk-rd",
+  "name": "Dewdney Trunk Rd",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-03-17T23:49:00Z_coquitlam/dewdney-trunk-rd_coquitlam/norman-ave",
+      "timestamp": "2026-03-17T23:49:00Z",
+      "address": "DEWDNEY TRUNK RD & NORMAN AVE",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/dewdney-trunk-rd",
+        "coquitlam/norman-ave"
+      ],
+      "streetNames": [
+        "Dewdney Trunk Rd",
+        "Norman Ave"
+      ],
+      "pulsePointId": "2436163261"
+    }
+  ],
+  "lastIncident": "2026-03-17T23:49:00Z",
+  "count": 1
+}
