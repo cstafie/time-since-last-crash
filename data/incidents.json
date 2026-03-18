@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-18T22:14:00Z_burnaby/trans-canada-hwy",
+    "timestamp": "2026-03-18T22:14:00Z",
+    "scrapedAt": "2026-03-18T22:43:09Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2436783064"
+  },
+  {
     "id": "2026-03-18T21:55:00Z_vancouver/kingsway_vancouver/rupert-st",
     "timestamp": "2026-03-18T21:55:00Z",
     "scrapedAt": "2026-03-18T22:05:26Z",

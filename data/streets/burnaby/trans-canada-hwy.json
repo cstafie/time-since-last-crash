@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-03-18T22:14:00Z_burnaby/trans-canada-hwy",
+      "timestamp": "2026-03-18T22:14:00Z",
+      "address": "TRANS CANADA HWY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2436783064"
+    },
+    {
       "id": "2026-03-18T04:35:00Z_burnaby/trans-canada-hwy_burnaby/grandview-hwy-ofrp",
       "timestamp": "2026-03-18T04:35:00Z",
       "address": "TRANS CANADA HWY & GRANDVIEW HWY OFRP",
@@ -44,6 +57,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-18T04:35:00Z",
-  "count": 3
+  "lastIncident": "2026-03-18T22:14:00Z",
+  "count": 4
 }
