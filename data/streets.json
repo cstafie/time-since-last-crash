@@ -1949,8 +1949,8 @@
     "name": "Trans Canada Hwy",
     "slug": "abbotsford/trans-canada-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-15T08:20:00Z",
-    "count": 4
+    "lastIncident": "2026-03-18T09:23:00Z",
+    "count": 6
   },
   "vancouver/w-16th-ave": {
     "name": "W 16th Ave",
@@ -2755,6 +2755,13 @@
     "slug": "langley/204th-st",
     "city": "Langley",
     "lastIncident": "2026-03-18T05:56:00Z",
+    "count": 1
+  },
+  "burnaby/lake-city-way": {
+    "name": "Lake City Way",
+    "slug": "burnaby/lake-city-way",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-18T09:27:00Z",
     "count": 1
   }
 }
