@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-18T18:02:00Z_coquitlam/foster-ave",
+    "timestamp": "2026-03-18T18:02:00Z",
+    "scrapedAt": "2026-03-18T18:15:36Z",
+    "address": "FOSTER AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/foster-ave"
+    ],
+    "streetNames": [
+      "Foster Ave"
+    ],
+    "pulsePointId": "2436616874"
+  },
+  {
     "id": "2026-03-18T15:40:00Z_abbotsford/trans-canada-hwy",
     "timestamp": "2026-03-18T15:40:00Z",
     "scrapedAt": "2026-03-18T15:52:32Z",
