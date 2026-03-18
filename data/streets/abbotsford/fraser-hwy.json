@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/fraser-hwy",
+  "name": "Fraser Hwy",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-03-18T11:03:00Z_abbotsford/fraser-hwy",
+      "timestamp": "2026-03-18T11:03:00Z",
+      "address": "FRASER HWY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/fraser-hwy"
+      ],
+      "streetNames": [
+        "Fraser Hwy"
+      ],
+      "pulsePointId": "2436433195"
+    }
+  ],
+  "lastIncident": "2026-03-18T11:03:00Z",
+  "count": 1
+}

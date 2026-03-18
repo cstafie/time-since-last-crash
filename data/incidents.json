@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-18T11:03:00Z_abbotsford/fraser-hwy",
+    "timestamp": "2026-03-18T11:03:00Z",
+    "scrapedAt": "2026-03-18T11:14:57Z",
+    "address": "FRASER HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/fraser-hwy"
+    ],
+    "streetNames": [
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2436433195"
+  },
+  {
     "id": "2026-03-18T09:27:00Z_burnaby/lake-city-way",
     "timestamp": "2026-03-18T09:27:00Z",
     "scrapedAt": "2026-03-18T09:45:38Z",
