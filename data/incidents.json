@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-18T02:30:00Z_vancouver/kingsway_vancouver/tyne-st",
+    "timestamp": "2026-03-18T02:30:00Z",
+    "scrapedAt": "2026-03-18T02:57:35Z",
+    "address": "KINGSWAY & TYNE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kingsway",
+      "vancouver/tyne-st"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "Tyne St"
+    ],
+    "pulsePointId": "2436260831"
+  },
+  {
+    "id": "2026-03-18T02:14:00Z_burnaby/central-blvd_burnaby/bonsor-ave",
+    "timestamp": "2026-03-18T02:14:00Z",
+    "scrapedAt": "2026-03-18T02:57:35Z",
+    "address": "CENTRAL BLVD & BONSOR AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/central-blvd",
+      "burnaby/bonsor-ave"
+    ],
+    "streetNames": [
+      "Central Blvd",
+      "Bonsor Ave"
+    ],
+    "pulsePointId": "2436250218"
+  },
+  {
     "id": "2026-03-18T00:59:00Z_vancouver/e-hastings-st",
     "timestamp": "2026-03-18T00:59:00Z",
     "scrapedAt": "2026-03-18T01:31:35Z",

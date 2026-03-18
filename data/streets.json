@@ -745,8 +745,8 @@
     "name": "Kingsway",
     "slug": "vancouver/kingsway",
     "city": "Vancouver",
-    "lastIncident": "2026-03-16T04:29:00Z",
-    "count": 2
+    "lastIncident": "2026-03-18T02:30:00Z",
+    "count": 3
   },
   "vancouver/knight-st": {
     "name": "Knight St",
@@ -1550,8 +1550,8 @@
     "name": "Tyne St",
     "slug": "vancouver/tyne-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-12T22:06:00Z",
-    "count": 1
+    "lastIncident": "2026-03-18T02:30:00Z",
+    "count": 2
   },
   "delta/95th-ave": {
     "name": "95th Ave",
@@ -2692,6 +2692,20 @@
     "slug": "coquitlam/norman-ave",
     "city": "Coquitlam",
     "lastIncident": "2026-03-17T23:49:00Z",
+    "count": 1
+  },
+  "burnaby/central-blvd": {
+    "name": "Central Blvd",
+    "slug": "burnaby/central-blvd",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-18T02:14:00Z",
+    "count": 1
+  },
+  "burnaby/bonsor-ave": {
+    "name": "Bonsor Ave",
+    "slug": "burnaby/bonsor-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-18T02:14:00Z",
     "count": 1
   }
 }

@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/bonsor-ave",
+  "name": "Bonsor Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-03-18T02:14:00Z_burnaby/central-blvd_burnaby/bonsor-ave",
+      "timestamp": "2026-03-18T02:14:00Z",
+      "address": "CENTRAL BLVD & BONSOR AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/central-blvd",
+        "burnaby/bonsor-ave"
+      ],
+      "streetNames": [
+        "Central Blvd",
+        "Bonsor Ave"
+      ],
+      "pulsePointId": "2436250218"
+    }
+  ],
+  "lastIncident": "2026-03-18T02:14:00Z",
+  "count": 1
+}
