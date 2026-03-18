@@ -1,0 +1,22 @@
+{
+  "slug": "langley/204th-st",
+  "name": "204th St",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-03-18T05:56:00Z_langley/204th-st",
+      "timestamp": "2026-03-18T05:56:00Z",
+      "address": "204TH ST",
+      "city": "Langley",
+      "streets": [
+        "langley/204th-st"
+      ],
+      "streetNames": [
+        "204th St"
+      ],
+      "pulsePointId": "2436349799"
+    }
+  ],
+  "lastIncident": "2026-03-18T05:56:00Z",
+  "count": 1
+}
