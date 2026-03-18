@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-18T22:40:00Z_surrey/104th-ave",
+    "timestamp": "2026-03-18T22:40:00Z",
+    "scrapedAt": "2026-03-18T23:05:47Z",
+    "address": "104TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/104th-ave"
+    ],
+    "streetNames": [
+      "104th Ave"
+    ],
+    "pulsePointId": "2436805194"
+  },
+  {
     "id": "2026-03-18T22:14:00Z_burnaby/trans-canada-hwy",
     "timestamp": "2026-03-18T22:14:00Z",
     "scrapedAt": "2026-03-18T22:43:09Z",
