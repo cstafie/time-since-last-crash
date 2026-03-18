@@ -1,0 +1,24 @@
+{
+  "slug": "richmond/sexsmith-rd",
+  "name": "Sexsmith Rd",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-03-18T19:43:00Z_richmond/sexsmith-rd_richmond/bridgeport-rd",
+      "timestamp": "2026-03-18T19:43:00Z",
+      "address": "SEXSMITH RD & BRIDGEPORT RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/sexsmith-rd",
+        "richmond/bridgeport-rd"
+      ],
+      "streetNames": [
+        "Sexsmith Rd",
+        "Bridgeport Rd"
+      ],
+      "pulsePointId": "2436685497"
+    }
+  ],
+  "lastIncident": "2026-03-18T19:43:00Z",
+  "count": 1
+}

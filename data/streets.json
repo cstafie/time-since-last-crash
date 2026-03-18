@@ -325,8 +325,8 @@
     "name": "Lougheed Hwy",
     "slug": "maple-ridge/lougheed-hwy",
     "city": "Maple Ridge",
-    "lastIncident": "2026-03-17T04:28:00Z",
-    "count": 3
+    "lastIncident": "2026-03-18T19:43:00Z",
+    "count": 4
   },
   "mission/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -451,8 +451,8 @@
     "name": "Bridgeport Rd",
     "slug": "richmond/bridgeport-rd",
     "city": "Richmond",
-    "lastIncident": "2026-03-12T07:29:00Z",
-    "count": 3
+    "lastIncident": "2026-03-18T19:43:00Z",
+    "count": 4
   },
   "richmond/granville-ave": {
     "name": "Granville Ave",
@@ -2839,6 +2839,20 @@
     "slug": "mission/7th-ave",
     "city": "Mission",
     "lastIncident": "2026-03-18T19:07:00Z",
+    "count": 1
+  },
+  "richmond/sexsmith-rd": {
+    "name": "Sexsmith Rd",
+    "slug": "richmond/sexsmith-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-03-18T19:43:00Z",
+    "count": 1
+  },
+  "maple-ridge/kanaka-way": {
+    "name": "Kanaka Way",
+    "slug": "maple-ridge/kanaka-way",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-03-18T19:43:00Z",
     "count": 1
   }
 }

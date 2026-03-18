@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-03-18T19:43:00Z_maple-ridge/lougheed-hwy_maple-ridge/kanaka-way",
+      "timestamp": "2026-03-18T19:43:00Z",
+      "address": "LOUGHEED HWY & KANAKA WAY",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/lougheed-hwy",
+        "maple-ridge/kanaka-way"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "Kanaka Way"
+      ],
+      "pulsePointId": "2436686094"
+    },
+    {
       "id": "2026-03-17T04:28:00Z_maple-ridge/240th-st_maple-ridge/lougheed-hwy",
       "timestamp": "2026-03-17T04:28:00Z",
       "address": "240TH ST & LOUGHEED HWY",
@@ -47,6 +62,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-17T04:28:00Z",
-  "count": 3
+  "lastIncident": "2026-03-18T19:43:00Z",
+  "count": 4
 }
