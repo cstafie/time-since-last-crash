@@ -752,8 +752,8 @@
     "name": "Knight St",
     "slug": "vancouver/knight-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-16T13:46:00Z",
-    "count": 5
+    "lastIncident": "2026-03-18T21:29:00Z",
+    "count": 6
   },
   "vancouver/lower-mall": {
     "name": "Lower Mall",
@@ -2868,5 +2868,26 @@
     "city": "Vancouver",
     "lastIncident": "2026-03-18T20:30:00Z",
     "count": 2
+  },
+  "chilliwack/evans-rd": {
+    "name": "Evans Rd",
+    "slug": "chilliwack/evans-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-03-18T21:30:00Z",
+    "count": 1
+  },
+  "chilliwack/yale-rd": {
+    "name": "Yale Rd",
+    "slug": "chilliwack/yale-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-03-18T21:30:00Z",
+    "count": 1
+  },
+  "vancouver/e-61st-ave": {
+    "name": "E 61st Ave",
+    "slug": "vancouver/e-61st-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-18T21:29:00Z",
+    "count": 1
   }
 }

@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-18T21:30:00Z_chilliwack/evans-rd_chilliwack/yale-rd",
+    "timestamp": "2026-03-18T21:30:00Z",
+    "scrapedAt": "2026-03-18T21:42:55Z",
+    "address": "EVANS RD & YALE RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/evans-rd",
+      "chilliwack/yale-rd"
+    ],
+    "streetNames": [
+      "Evans Rd",
+      "Yale Rd"
+    ],
+    "pulsePointId": "2436752247"
+  },
+  {
+    "id": "2026-03-18T21:29:00Z_vancouver/e-61st-ave_vancouver/knight-st",
+    "timestamp": "2026-03-18T21:29:00Z",
+    "scrapedAt": "2026-03-18T21:42:55Z",
+    "address": "E 61ST AVE & KNIGHT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-61st-ave",
+      "vancouver/knight-st"
+    ],
+    "streetNames": [
+      "E 61st Ave",
+      "Knight St"
+    ],
+    "pulsePointId": "2436752849"
+  },
+  {
     "id": "2026-03-18T20:30:00Z_vancouver/w-45th-ave_vancouver/west-boulevard",
     "timestamp": "2026-03-18T20:30:00Z",
     "scrapedAt": "2026-03-18T20:43:33Z",
