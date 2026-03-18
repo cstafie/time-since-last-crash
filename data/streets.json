@@ -2798,5 +2798,33 @@
     "city": "Coquitlam",
     "lastIncident": "2026-03-18T13:58:00Z",
     "count": 1
+  },
+  "vancouver/larch-st": {
+    "name": "Larch St",
+    "slug": "vancouver/larch-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-18T15:07:00Z",
+    "count": 1
+  },
+  "vancouver/w-39th-ave": {
+    "name": "W 39th Ave",
+    "slug": "vancouver/w-39th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-18T15:07:00Z",
+    "count": 1
+  },
+  "north-vancouver/e-21st-st": {
+    "name": "E 21st St",
+    "slug": "north-vancouver/e-21st-st",
+    "city": "North Vancouver",
+    "lastIncident": "2026-03-18T14:49:00Z",
+    "count": 1
+  },
+  "north-vancouver/boulevard-cres": {
+    "name": "Boulevard Cres",
+    "slug": "north-vancouver/boulevard-cres",
+    "city": "North Vancouver",
+    "lastIncident": "2026-03-18T14:49:00Z",
+    "count": 1
   }
 }

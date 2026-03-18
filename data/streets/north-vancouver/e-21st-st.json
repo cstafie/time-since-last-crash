@@ -1,0 +1,24 @@
+{
+  "slug": "north-vancouver/e-21st-st",
+  "name": "E 21st St",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-18T14:49:00Z_north-vancouver/e-21st-st_north-vancouver/boulevard-cres",
+      "timestamp": "2026-03-18T14:49:00Z",
+      "address": "E 21ST ST & BOULEVARD CRES",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/e-21st-st",
+        "north-vancouver/boulevard-cres"
+      ],
+      "streetNames": [
+        "E 21st St",
+        "Boulevard Cres"
+      ],
+      "pulsePointId": "2436509336"
+    }
+  ],
+  "lastIncident": "2026-03-18T14:49:00Z",
+  "count": 1
+}
