@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-18T12:22:00Z_burnaby/lougheed-hwy_burnaby/boundary-rd",
+    "timestamp": "2026-03-18T12:22:00Z",
+    "scrapedAt": "2026-03-18T12:46:16Z",
+    "address": "LOUGHEED HWY & BOUNDARY RD",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/lougheed-hwy",
+      "burnaby/boundary-rd"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "Boundary Rd"
+    ],
+    "pulsePointId": "2436452941"
+  },
+  {
+    "id": "2026-03-18T12:21:00Z_vancouver/boundary-rd_vancouver/lougheed-hwy",
+    "timestamp": "2026-03-18T12:21:00Z",
+    "scrapedAt": "2026-03-18T12:46:16Z",
+    "address": "BOUNDARY RD & LOUGHEED HWY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/boundary-rd",
+      "vancouver/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Boundary Rd",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2436453532"
+  },
+  {
     "id": "2026-03-18T11:31:00Z_burnaby/north-fraser-way_burnaby/marine-way",
     "timestamp": "2026-03-18T11:31:00Z",
     "scrapedAt": "2026-03-18T11:44:42Z",

@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/boundary-rd",
+  "name": "Boundary Rd",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-03-18T12:22:00Z_burnaby/lougheed-hwy_burnaby/boundary-rd",
+      "timestamp": "2026-03-18T12:22:00Z",
+      "address": "LOUGHEED HWY & BOUNDARY RD",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/lougheed-hwy",
+        "burnaby/boundary-rd"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "Boundary Rd"
+      ],
+      "pulsePointId": "2436452941"
+    }
+  ],
+  "lastIncident": "2026-03-18T12:22:00Z",
+  "count": 1
+}
