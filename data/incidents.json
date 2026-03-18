@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-03-18T19:07:00Z_mission/7th-ave",
+    "timestamp": "2026-03-18T19:07:00Z",
+    "scrapedAt": "2026-03-18T19:19:53Z",
+    "address": "7TH AVE",
+    "city": "Mission",
+    "streets": [
+      "mission/7th-ave"
+    ],
+    "streetNames": [
+      "7th Ave"
+    ],
+    "pulsePointId": "2436661219"
+  },
+  {
+    "id": "2026-03-18T19:06:00Z_vancouver/w-16th-ave",
+    "timestamp": "2026-03-18T19:06:00Z",
+    "scrapedAt": "2026-03-18T19:19:53Z",
+    "address": "W 16TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-16th-ave"
+    ],
+    "streetNames": [
+      "W 16th Ave"
+    ],
+    "pulsePointId": "2436660965"
+  },
+  {
     "id": "2026-03-18T18:23:00Z_abbotsford/south-parallel-rd",
     "timestamp": "2026-03-18T18:23:00Z",
     "scrapedAt": "2026-03-18T18:45:29Z",
