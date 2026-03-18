@@ -1,0 +1,35 @@
+{
+  "slug": "abbotsford/south-parallel-rd",
+  "name": "South Parallel Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-03-18T18:23:00Z_abbotsford/south-parallel-rd",
+      "timestamp": "2026-03-18T18:23:00Z",
+      "address": "SOUTH PARALLEL RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/south-parallel-rd"
+      ],
+      "streetNames": [
+        "South Parallel Rd"
+      ],
+      "pulsePointId": "2436632947"
+    },
+    {
+      "id": "2026-03-18T18:22:00Z_abbotsford/south-parallel-rd",
+      "timestamp": "2026-03-18T18:22:00Z",
+      "address": "SOUTH PARALLEL RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/south-parallel-rd"
+      ],
+      "streetNames": [
+        "South Parallel Rd"
+      ],
+      "pulsePointId": "2436632647"
+    }
+  ],
+  "lastIncident": "2026-03-18T18:23:00Z",
+  "count": 2
+}

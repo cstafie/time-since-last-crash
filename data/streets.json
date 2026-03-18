@@ -2826,5 +2826,12 @@
     "city": "North Vancouver",
     "lastIncident": "2026-03-18T14:49:00Z",
     "count": 1
+  },
+  "abbotsford/south-parallel-rd": {
+    "name": "South Parallel Rd",
+    "slug": "abbotsford/south-parallel-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-03-18T18:23:00Z",
+    "count": 2
   }
 }
