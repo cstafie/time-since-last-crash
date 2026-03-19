@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-19T19:32:00Z_new-westminster/6th-st_new-westminster/queens-ave",
+    "timestamp": "2026-03-19T19:32:00Z",
+    "scrapedAt": "2026-03-19T19:44:50Z",
+    "address": "6TH ST & QUEENS AVE",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/6th-st",
+      "new-westminster/queens-ave"
+    ],
+    "streetNames": [
+      "6th St",
+      "Queens Ave"
+    ],
+    "pulsePointId": "2437342301"
+  },
+  {
+    "id": "2026-03-19T19:23:00Z_abbotsford/sumas-way-ofrp_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-03-19T19:23:00Z",
+    "scrapedAt": "2026-03-19T19:44:50Z",
+    "address": "SUMAS WAY OFRP & TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/sumas-way-ofrp",
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Sumas Way Ofrp",
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2437336613"
+  },
+  {
     "id": "2026-03-19T18:48:00Z_surrey/26th-ave",
     "timestamp": "2026-03-19T18:48:00Z",
     "scrapedAt": "2026-03-19T19:18:01Z",

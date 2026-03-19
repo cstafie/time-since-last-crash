@@ -1417,8 +1417,8 @@
     "name": "6th St",
     "slug": "new-westminster/6th-st",
     "city": "New Westminster",
-    "lastIncident": "2026-03-12T04:09:00Z",
-    "count": 1
+    "lastIncident": "2026-03-19T19:32:00Z",
+    "count": 2
   },
   "abbotsford/32900-south-fraser-way": {
     "name": "32900 South Fraser Way",
@@ -1949,8 +1949,8 @@
     "name": "Trans Canada Hwy",
     "slug": "abbotsford/trans-canada-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-18T15:40:00Z",
-    "count": 7
+    "lastIncident": "2026-03-19T19:23:00Z",
+    "count": 8
   },
   "vancouver/w-16th-ave": {
     "name": "W 16th Ave",
@@ -1970,8 +1970,8 @@
     "name": "Sumas Way Ofrp",
     "slug": "abbotsford/sumas-way-ofrp",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-14T14:07:00Z",
-    "count": 1
+    "lastIncident": "2026-03-19T19:23:00Z",
+    "count": 2
   },
   "richmond/hwy-91-ofrp": {
     "name": "Hwy 91 Ofrp",
@@ -2957,8 +2957,8 @@
     "name": "Queens Ave",
     "slug": "new-westminster/queens-ave",
     "city": "New Westminster",
-    "lastIncident": "2026-03-19T13:35:00Z",
-    "count": 1
+    "lastIncident": "2026-03-19T19:32:00Z",
+    "count": 2
   },
   "richmond/hwy-91a": {
     "name": "Hwy 91a",
