@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-19T00:41:00Z_surrey/80th-ave_surrey/harvie-rd",
+    "timestamp": "2026-03-19T00:41:00Z",
+    "scrapedAt": "2026-03-19T00:55:58Z",
+    "address": "80TH AVE & HARVIE RD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/80th-ave",
+      "surrey/harvie-rd"
+    ],
+    "streetNames": [
+      "80th Ave",
+      "Harvie Rd"
+    ],
+    "pulsePointId": "2436877449"
+  },
+  {
+    "id": "2026-03-19T00:05:00Z_burnaby/grange-st",
+    "timestamp": "2026-03-19T00:05:00Z",
+    "scrapedAt": "2026-03-19T00:55:58Z",
+    "address": "GRANGE ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/grange-st"
+    ],
+    "streetNames": [
+      "Grange St"
+    ],
+    "pulsePointId": "2436856061"
+  },
+  {
     "id": "2026-03-18T23:14:00Z_richmond/bridgeport-rd_richmond/simpson-rd",
     "timestamp": "2026-03-18T23:14:00Z",
     "scrapedAt": "2026-03-18T23:39:55Z",
