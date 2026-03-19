@@ -1,0 +1,22 @@
+{
+  "slug": "langley/102b-ave",
+  "name": "102b Ave",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-03-19T02:37:00Z_langley/102b-ave",
+      "timestamp": "2026-03-19T02:37:00Z",
+      "address": "102B AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/102b-ave"
+      ],
+      "streetNames": [
+        "102b Ave"
+      ],
+      "pulsePointId": "2436943619"
+    }
+  ],
+  "lastIncident": "2026-03-19T02:37:00Z",
+  "count": 1
+}

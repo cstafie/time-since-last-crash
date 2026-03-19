@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-03-19T02:37:00Z_langley/102b-ave",
+    "timestamp": "2026-03-19T02:37:00Z",
+    "scrapedAt": "2026-03-19T02:58:18Z",
+    "address": "102B AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/102b-ave"
+    ],
+    "streetNames": [
+      "102b Ave"
+    ],
+    "pulsePointId": "2436943619"
+  },
+  {
+    "id": "2026-03-19T02:31:00Z_abbotsford/clearbrook-rd",
+    "timestamp": "2026-03-19T02:31:00Z",
+    "scrapedAt": "2026-03-19T02:58:18Z",
+    "address": "CLEARBROOK RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/clearbrook-rd"
+    ],
+    "streetNames": [
+      "Clearbrook Rd"
+    ],
+    "pulsePointId": "2436940646"
+  },
+  {
+    "id": "2026-03-19T01:31:00Z_delta/hwy-17-ofrp",
+    "timestamp": "2026-03-19T01:31:00Z",
+    "scrapedAt": "2026-03-19T02:58:18Z",
+    "address": "HWY 17 OFRP",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-17-ofrp"
+    ],
+    "streetNames": [
+      "Hwy 17 Ofrp"
+    ],
+    "pulsePointId": "2436909158"
+  },
+  {
     "id": "2026-03-19T01:27:00Z_vancouver/w-41st-ave_vancouver/dunbar-st",
     "timestamp": "2026-03-19T01:27:00Z",
     "scrapedAt": "2026-03-19T01:31:40Z",
