@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-03-19T22:26:00Z_surrey/104th-ave_surrey/160th-st",
+    "timestamp": "2026-03-19T22:26:00Z",
+    "scrapedAt": "2026-03-19T22:41:33Z",
+    "address": "104TH AVE & 160TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/104th-ave",
+      "surrey/160th-st"
+    ],
+    "streetNames": [
+      "104th Ave",
+      "160th St"
+    ],
+    "pulsePointId": "2437457264"
+  },
+  {
+    "id": "2026-03-19T22:26:00Z_vancouver/w-6th-ave",
+    "timestamp": "2026-03-19T22:26:00Z",
+    "scrapedAt": "2026-03-19T22:41:33Z",
+    "address": "W 6TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-6th-ave"
+    ],
+    "streetNames": [
+      "W 6th Ave"
+    ],
+    "pulsePointId": "2437457874"
+  },
+  {
+    "id": "2026-03-19T22:21:00Z_langley/56th-ave",
+    "timestamp": "2026-03-19T22:21:00Z",
+    "scrapedAt": "2026-03-19T22:41:33Z",
+    "address": "56TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/56th-ave"
+    ],
+    "streetNames": [
+      "56th Ave"
+    ],
+    "pulsePointId": "2437452259"
+  },
+  {
     "id": "2026-03-19T21:50:00Z_vancouver/inverness-st_vancouver/e-60th-ave",
     "timestamp": "2026-03-19T21:50:00Z",
     "scrapedAt": "2026-03-19T22:03:30Z",
