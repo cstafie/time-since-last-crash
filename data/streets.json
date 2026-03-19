@@ -2980,5 +2980,12 @@
     "city": "Surrey",
     "lastIncident": "2026-03-19T13:27:00Z",
     "count": 1
+  },
+  "pitt-meadows/airport-way": {
+    "name": "Airport Way",
+    "slug": "pitt-meadows/airport-way",
+    "city": "Pitt Meadows",
+    "lastIncident": "2026-03-19T14:07:00Z",
+    "count": 1
   }
 }

@@ -1,0 +1,22 @@
+{
+  "slug": "pitt-meadows/airport-way",
+  "name": "Airport Way",
+  "city": "Pitt Meadows",
+  "incidents": [
+    {
+      "id": "2026-03-19T14:07:00Z_pitt-meadows/airport-way",
+      "timestamp": "2026-03-19T14:07:00Z",
+      "address": "AIRPORT WAY",
+      "city": "Pitt Meadows",
+      "streets": [
+        "pitt-meadows/airport-way"
+      ],
+      "streetNames": [
+        "Airport Way"
+      ],
+      "pulsePointId": "2437157644"
+    }
+  ],
+  "lastIncident": "2026-03-19T14:07:00Z",
+  "count": 1
+}
