@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/terminal-ave",
+  "name": "Terminal Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-19T14:45:00Z_vancouver/terminal-ave_vancouver/main-st",
+      "timestamp": "2026-03-19T14:45:00Z",
+      "address": "TERMINAL AVE & MAIN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/terminal-ave",
+        "vancouver/main-st"
+      ],
+      "streetNames": [
+        "Terminal Ave",
+        "Main St"
+      ],
+      "pulsePointId": "2437174039"
+    }
+  ],
+  "lastIncident": "2026-03-19T14:45:00Z",
+  "count": 1
+}

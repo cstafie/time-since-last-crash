@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-19T14:45:00Z_vancouver/terminal-ave_vancouver/main-st",
+    "timestamp": "2026-03-19T14:45:00Z",
+    "scrapedAt": "2026-03-19T15:14:06Z",
+    "address": "TERMINAL AVE & MAIN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/terminal-ave",
+      "vancouver/main-st"
+    ],
+    "streetNames": [
+      "Terminal Ave",
+      "Main St"
+    ],
+    "pulsePointId": "2437174039"
+  },
+  {
     "id": "2026-03-19T14:19:00Z_coquitlam/lougheed-hwy_coquitlam/colony-farm-rd",
     "timestamp": "2026-03-19T14:19:00Z",
     "scrapedAt": "2026-03-19T14:44:58Z",

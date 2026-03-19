@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-19T14:16:00Z",
-    "count": 4
+    "lastIncident": "2026-03-19T14:45:00Z",
+    "count": 5
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",
@@ -2993,6 +2993,13 @@
     "slug": "coquitlam/colony-farm-rd",
     "city": "Coquitlam",
     "lastIncident": "2026-03-19T14:19:00Z",
+    "count": 1
+  },
+  "vancouver/terminal-ave": {
+    "name": "Terminal Ave",
+    "slug": "vancouver/terminal-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-19T14:45:00Z",
     "count": 1
   }
 }
