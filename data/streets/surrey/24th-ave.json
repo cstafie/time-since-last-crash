@@ -1,0 +1,24 @@
+{
+  "slug": "surrey/24th-ave",
+  "name": "24th Ave",
+  "city": "Surrey",
+  "incidents": [
+    {
+      "id": "2026-03-19T19:45:00Z_surrey/24th-ave_surrey/king-george-blvd",
+      "timestamp": "2026-03-19T19:45:00Z",
+      "address": "24TH AVE & KING GEORGE BLVD",
+      "city": "Surrey",
+      "streets": [
+        "surrey/24th-ave",
+        "surrey/king-george-blvd"
+      ],
+      "streetNames": [
+        "24th Ave",
+        "King George Blvd"
+      ],
+      "pulsePointId": "2437349820"
+    }
+  ],
+  "lastIncident": "2026-03-19T19:45:00Z",
+  "count": 1
+}

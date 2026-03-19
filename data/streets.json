@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-03-16T03:11:00Z",
-    "count": 6
+    "lastIncident": "2026-03-19T19:45:00Z",
+    "count": 7
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -3056,6 +3056,13 @@
     "slug": "surrey/26th-ave",
     "city": "Surrey",
     "lastIncident": "2026-03-19T18:48:00Z",
+    "count": 1
+  },
+  "surrey/24th-ave": {
+    "name": "24th Ave",
+    "slug": "surrey/24th-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-03-19T19:45:00Z",
     "count": 1
   }
 }
