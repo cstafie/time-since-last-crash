@@ -269,8 +269,8 @@
     "name": "Trans Canada Hwy",
     "slug": "langley/trans-canada-hwy",
     "city": "Langley",
-    "lastIncident": "2026-03-18T20:26:00Z",
-    "count": 3
+    "lastIncident": "2026-03-19T22:46:00Z",
+    "count": 4
   },
   "maple-ridge/119th-ave": {
     "name": "119th Ave",
@@ -3084,6 +3084,13 @@
     "slug": "vancouver/e-60th-ave",
     "city": "Vancouver",
     "lastIncident": "2026-03-19T21:50:00Z",
+    "count": 1
+  },
+  "langley/56th-avenue-ofrp": {
+    "name": "56th Avenue Ofrp",
+    "slug": "langley/56th-avenue-ofrp",
+    "city": "Langley",
+    "lastIncident": "2026-03-19T22:46:00Z",
     "count": 1
   }
 }
