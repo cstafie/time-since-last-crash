@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-19T23:28:00Z_chilliwack/nowell-st_chilliwack/first-ave",
+    "timestamp": "2026-03-19T23:28:00Z",
+    "scrapedAt": "2026-03-19T23:40:12Z",
+    "address": "NOWELL ST & FIRST AVE",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/nowell-st",
+      "chilliwack/first-ave"
+    ],
+    "streetNames": [
+      "Nowell St",
+      "First Ave"
+    ],
+    "pulsePointId": "2437496969"
+  },
+  {
     "id": "2026-03-19T22:46:00Z_langley/trans-canada-hwy_langley/56th-avenue-ofrp",
     "timestamp": "2026-03-19T22:46:00Z",
     "scrapedAt": "2026-03-19T23:05:03Z",
