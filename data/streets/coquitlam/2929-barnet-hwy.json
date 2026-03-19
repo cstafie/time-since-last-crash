@@ -1,0 +1,22 @@
+{
+  "slug": "coquitlam/2929-barnet-hwy",
+  "name": "2929 Barnet Hwy",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-03-19T18:25:00Z_coquitlam/2929-barnet-hwy",
+      "timestamp": "2026-03-19T18:25:00Z",
+      "address": "2929 BARNET HWY",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/2929-barnet-hwy"
+      ],
+      "streetNames": [
+        "2929 Barnet Hwy"
+      ],
+      "pulsePointId": "2437296633"
+    }
+  ],
+  "lastIncident": "2026-03-19T18:25:00Z",
+  "count": 1
+}
