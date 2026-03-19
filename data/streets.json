@@ -3022,5 +3022,19 @@
     "city": "North Vancouver",
     "lastIncident": "2026-03-19T15:38:00Z",
     "count": 1
+  },
+  "chilliwack/maple-ave": {
+    "name": "Maple Ave",
+    "slug": "chilliwack/maple-ave",
+    "city": "Chilliwack",
+    "lastIncident": "2026-03-19T17:19:00Z",
+    "count": 1
+  },
+  "chilliwack/coote-st": {
+    "name": "Coote St",
+    "slug": "chilliwack/coote-st",
+    "city": "Chilliwack",
+    "lastIncident": "2026-03-19T17:19:00Z",
+    "count": 1
   }
 }
