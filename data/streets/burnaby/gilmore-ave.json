@@ -1,6 +1,6 @@
 {
-  "slug": "burnaby/hastings-st",
-  "name": "Hastings St",
+  "slug": "burnaby/gilmore-ave",
+  "name": "Gilmore Ave",
   "city": "Burnaby",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Hastings St"
       ],
       "pulsePointId": "2437006115"
-    },
-    {
-      "id": "2026-03-16T14:16:00Z_burnaby/hastings-st_burnaby/willingdon-ave",
-      "timestamp": "2026-03-16T14:16:00Z",
-      "address": "HASTINGS ST & WILLINGDON AVE",
-      "city": "Burnaby",
-      "streets": [
-        "burnaby/hastings-st",
-        "burnaby/willingdon-ave"
-      ],
-      "streetNames": [
-        "Hastings St",
-        "Willingdon Ave"
-      ],
-      "pulsePointId": "2435141614"
     }
   ],
   "lastIncident": "2026-03-19T05:06:00Z",
-  "count": 2
+  "count": 1
 }
