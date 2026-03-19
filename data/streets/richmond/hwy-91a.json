@@ -1,0 +1,22 @@
+{
+  "slug": "richmond/hwy-91a",
+  "name": "Hwy 91a",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-03-19T13:29:00Z_richmond/hwy-91a",
+      "timestamp": "2026-03-19T13:29:00Z",
+      "address": "HWY 91A",
+      "city": "Richmond",
+      "streets": [
+        "richmond/hwy-91a"
+      ],
+      "streetNames": [
+        "Hwy 91a"
+      ],
+      "pulsePointId": "2437145408"
+    }
+  ],
+  "lastIncident": "2026-03-19T13:29:00Z",
+  "count": 1
+}

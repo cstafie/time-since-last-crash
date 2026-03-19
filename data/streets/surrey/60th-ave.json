@@ -1,0 +1,24 @@
+{
+  "slug": "surrey/60th-ave",
+  "name": "60th Ave",
+  "city": "Surrey",
+  "incidents": [
+    {
+      "id": "2026-03-19T13:27:00Z_surrey/176th-st_surrey/60th-ave",
+      "timestamp": "2026-03-19T13:27:00Z",
+      "address": "176TH ST & 60TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/176th-st",
+        "surrey/60th-ave"
+      ],
+      "streetNames": [
+        "176th St",
+        "60th Ave"
+      ],
+      "pulsePointId": "2437144167"
+    }
+  ],
+  "lastIncident": "2026-03-19T13:27:00Z",
+  "count": 1
+}

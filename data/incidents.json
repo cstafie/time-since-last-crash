@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-03-19T13:43:00Z_surrey/66a-ave_surrey/176th-st",
+    "timestamp": "2026-03-19T13:43:00Z",
+    "scrapedAt": "2026-03-19T13:55:48Z",
+    "address": "66A AVE & 176TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/66a-ave",
+      "surrey/176th-st"
+    ],
+    "streetNames": [
+      "66a Ave",
+      "176th St"
+    ],
+    "pulsePointId": "2437148990"
+  },
+  {
+    "id": "2026-03-19T13:35:00Z_new-westminster/11th-st_new-westminster/queens-ave",
+    "timestamp": "2026-03-19T13:35:00Z",
+    "scrapedAt": "2026-03-19T13:55:48Z",
+    "address": "11TH ST & QUEENS AVE",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/11th-st",
+      "new-westminster/queens-ave"
+    ],
+    "streetNames": [
+      "11th St",
+      "Queens Ave"
+    ],
+    "pulsePointId": "2437146314"
+  },
+  {
+    "id": "2026-03-19T13:29:00Z_richmond/hwy-91a",
+    "timestamp": "2026-03-19T13:29:00Z",
+    "scrapedAt": "2026-03-19T13:55:48Z",
+    "address": "HWY 91A",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hwy-91a"
+    ],
+    "streetNames": [
+      "Hwy 91a"
+    ],
+    "pulsePointId": "2437145408"
+  },
+  {
+    "id": "2026-03-19T13:28:00Z_surrey/cloverdale-bps",
+    "timestamp": "2026-03-19T13:28:00Z",
+    "scrapedAt": "2026-03-19T13:55:48Z",
+    "address": "CLOVERDALE BPS",
+    "city": "Surrey",
+    "streets": [
+      "surrey/cloverdale-bps"
+    ],
+    "streetNames": [
+      "Cloverdale Bps"
+    ],
+    "pulsePointId": "2437144285"
+  },
+  {
+    "id": "2026-03-19T13:27:00Z_surrey/176th-st_surrey/60th-ave",
+    "timestamp": "2026-03-19T13:27:00Z",
+    "scrapedAt": "2026-03-19T13:55:48Z",
+    "address": "176TH ST & 60TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/176th-st",
+      "surrey/60th-ave"
+    ],
+    "streetNames": [
+      "176th St",
+      "60th Ave"
+    ],
+    "pulsePointId": "2437144167"
+  },
+  {
+    "id": "2026-03-19T13:20:00Z_surrey/cloverdale-bps",
+    "timestamp": "2026-03-19T13:20:00Z",
+    "scrapedAt": "2026-03-19T13:55:48Z",
+    "address": "CLOVERDALE BPS",
+    "city": "Surrey",
+    "streets": [
+      "surrey/cloverdale-bps"
+    ],
+    "streetNames": [
+      "Cloverdale Bps"
+    ],
+    "pulsePointId": "2437141725"
+  },
+  {
     "id": "2026-03-19T11:56:00Z_surrey/176th-st",
     "timestamp": "2026-03-19T11:56:00Z",
     "scrapedAt": "2026-03-19T12:05:48Z",

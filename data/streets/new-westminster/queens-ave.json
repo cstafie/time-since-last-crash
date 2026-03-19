@@ -1,0 +1,24 @@
+{
+  "slug": "new-westminster/queens-ave",
+  "name": "Queens Ave",
+  "city": "New Westminster",
+  "incidents": [
+    {
+      "id": "2026-03-19T13:35:00Z_new-westminster/11th-st_new-westminster/queens-ave",
+      "timestamp": "2026-03-19T13:35:00Z",
+      "address": "11TH ST & QUEENS AVE",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/11th-st",
+        "new-westminster/queens-ave"
+      ],
+      "streetNames": [
+        "11th St",
+        "Queens Ave"
+      ],
+      "pulsePointId": "2437146314"
+    }
+  ],
+  "lastIncident": "2026-03-19T13:35:00Z",
+  "count": 1
+}
