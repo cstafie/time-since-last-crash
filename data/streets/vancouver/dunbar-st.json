@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-19T01:27:00Z_vancouver/w-41st-ave_vancouver/dunbar-st",
+      "timestamp": "2026-03-19T01:27:00Z",
+      "address": "W 41ST AVE & DUNBAR ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-41st-ave",
+        "vancouver/dunbar-st"
+      ],
+      "streetNames": [
+        "W 41st Ave",
+        "Dunbar St"
+      ],
+      "pulsePointId": "2436905681"
+    },
+    {
       "id": "2026-03-14T18:51:00Z_vancouver/dunbar-st_vancouver/w-3rd-ave",
       "timestamp": "2026-03-14T18:51:00Z",
       "address": "DUNBAR ST & W 3RD AVE",
@@ -34,6 +49,6 @@
       "pulsePointId": "2433803079"
     }
   ],
-  "lastIncident": "2026-03-14T18:51:00Z",
-  "count": 2
+  "lastIncident": "2026-03-19T01:27:00Z",
+  "count": 3
 }
