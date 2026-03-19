@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-19T21:19:00Z_surrey/128th-st_surrey/88th-ave",
+    "timestamp": "2026-03-19T21:19:00Z",
+    "scrapedAt": "2026-03-19T21:42:56Z",
+    "address": "128TH ST & 88TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/128th-st",
+      "surrey/88th-ave"
+    ],
+    "streetNames": [
+      "128th St",
+      "88th Ave"
+    ],
+    "pulsePointId": "2437411000"
+  },
+  {
     "id": "2026-03-19T20:26:00Z_vancouver/e-49th-ave_vancouver/victoria-dr",
     "timestamp": "2026-03-19T20:26:00Z",
     "scrapedAt": "2026-03-19T20:43:35Z",
