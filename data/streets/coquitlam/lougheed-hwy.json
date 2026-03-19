@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-03-19T14:19:00Z_coquitlam/lougheed-hwy_coquitlam/colony-farm-rd",
+      "timestamp": "2026-03-19T14:19:00Z",
+      "address": "LOUGHEED HWY & COLONY FARM RD",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/lougheed-hwy",
+        "coquitlam/colony-farm-rd"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "Colony Farm Rd"
+      ],
+      "pulsePointId": "2437162246"
+    },
+    {
       "id": "2026-03-15T17:10:00Z_coquitlam/lougheed-hwy",
       "timestamp": "2026-03-15T17:10:00Z",
       "address": "LOUGHEED HWY",
@@ -43,6 +58,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-15T17:10:00Z",
-  "count": 3
+  "lastIncident": "2026-03-19T14:19:00Z",
+  "count": 4
 }

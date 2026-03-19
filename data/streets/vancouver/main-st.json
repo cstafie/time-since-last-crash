@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-19T14:16:00Z_vancouver/main-st",
+      "timestamp": "2026-03-19T14:16:00Z",
+      "address": "MAIN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/main-st"
+      ],
+      "streetNames": [
+        "Main St"
+      ],
+      "pulsePointId": "2437160706"
+    },
+    {
       "id": "2026-03-18T03:28:00Z_vancouver/main-st_vancouver/e-50th-ave",
       "timestamp": "2026-03-18T03:28:00Z",
       "address": "MAIN ST & E 50TH AVE",
@@ -47,6 +60,6 @@
       "pulsePointId": "2432937969"
     }
   ],
-  "lastIncident": "2026-03-18T03:28:00Z",
-  "count": 3
+  "lastIncident": "2026-03-19T14:16:00Z",
+  "count": 4
 }

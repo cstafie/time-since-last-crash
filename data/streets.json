@@ -1116,8 +1116,8 @@
     "name": "Lougheed Hwy",
     "slug": "coquitlam/lougheed-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-03-15T17:10:00Z",
-    "count": 3
+    "lastIncident": "2026-03-19T14:19:00Z",
+    "count": 4
   },
   "coquitlam/orchid-dr": {
     "name": "Orchid Dr",
@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-18T03:28:00Z",
-    "count": 3
+    "lastIncident": "2026-03-19T14:16:00Z",
+    "count": 4
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",
@@ -2986,6 +2986,13 @@
     "slug": "pitt-meadows/airport-way",
     "city": "Pitt Meadows",
     "lastIncident": "2026-03-19T14:07:00Z",
+    "count": 1
+  },
+  "coquitlam/colony-farm-rd": {
+    "name": "Colony Farm Rd",
+    "slug": "coquitlam/colony-farm-rd",
+    "city": "Coquitlam",
+    "lastIncident": "2026-03-19T14:19:00Z",
     "count": 1
   }
 }
