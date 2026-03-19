@@ -1,0 +1,24 @@
+{
+  "slug": "delta/nordel-way",
+  "name": "Nordel Way",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-03-19T03:34:00Z_delta/brooke-rd_delta/nordel-way",
+      "timestamp": "2026-03-19T03:34:00Z",
+      "address": "BROOKE RD & NORDEL WAY",
+      "city": "Delta",
+      "streets": [
+        "delta/brooke-rd",
+        "delta/nordel-way"
+      ],
+      "streetNames": [
+        "Brooke Rd",
+        "Nordel Way"
+      ],
+      "pulsePointId": "2436970054"
+    }
+  ],
+  "lastIncident": "2026-03-19T03:34:00Z",
+  "count": 1
+}

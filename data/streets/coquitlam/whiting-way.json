@@ -1,0 +1,24 @@
+{
+  "slug": "coquitlam/whiting-way",
+  "name": "Whiting Way",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-03-19T02:56:00Z_coquitlam/whiting-way_coquitlam/foster-ave",
+      "timestamp": "2026-03-19T02:56:00Z",
+      "address": "WHITING WAY & FOSTER AVE",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/whiting-way",
+        "coquitlam/foster-ave"
+      ],
+      "streetNames": [
+        "Whiting Way",
+        "Foster Ave"
+      ],
+      "pulsePointId": "2436953266"
+    }
+  ],
+  "lastIncident": "2026-03-19T02:56:00Z",
+  "count": 1
+}

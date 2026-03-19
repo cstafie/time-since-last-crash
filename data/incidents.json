@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-03-19T03:51:00Z_langley/langley-bps_langley/fraser-hwy",
+    "timestamp": "2026-03-19T03:51:00Z",
+    "scrapedAt": "2026-03-19T03:54:01Z",
+    "address": "LANGLEY BPS & FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/langley-bps",
+      "langley/fraser-hwy"
+    ],
+    "streetNames": [
+      "Langley Bps",
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2436977108"
+  },
+  {
+    "id": "2026-03-19T03:34:00Z_delta/brooke-rd_delta/nordel-way",
+    "timestamp": "2026-03-19T03:34:00Z",
+    "scrapedAt": "2026-03-19T03:54:01Z",
+    "address": "BROOKE RD & NORDEL WAY",
+    "city": "Delta",
+    "streets": [
+      "delta/brooke-rd",
+      "delta/nordel-way"
+    ],
+    "streetNames": [
+      "Brooke Rd",
+      "Nordel Way"
+    ],
+    "pulsePointId": "2436970054"
+  },
+  {
+    "id": "2026-03-19T02:56:00Z_coquitlam/whiting-way_coquitlam/foster-ave",
+    "timestamp": "2026-03-19T02:56:00Z",
+    "scrapedAt": "2026-03-19T03:54:01Z",
+    "address": "WHITING WAY & FOSTER AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/whiting-way",
+      "coquitlam/foster-ave"
+    ],
+    "streetNames": [
+      "Whiting Way",
+      "Foster Ave"
+    ],
+    "pulsePointId": "2436953266"
+  },
+  {
     "id": "2026-03-19T02:37:00Z_langley/102b-ave",
     "timestamp": "2026-03-19T02:37:00Z",
     "scrapedAt": "2026-03-19T02:58:18Z",
