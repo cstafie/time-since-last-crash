@@ -3064,5 +3064,19 @@
     "city": "Surrey",
     "lastIncident": "2026-03-19T19:45:00Z",
     "count": 1
+  },
+  "vancouver/e-49th-ave": {
+    "name": "E 49th Ave",
+    "slug": "vancouver/e-49th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-19T20:26:00Z",
+    "count": 1
+  },
+  "vancouver/victoria-dr": {
+    "name": "Victoria Dr",
+    "slug": "vancouver/victoria-dr",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-19T20:26:00Z",
+    "count": 1
   }
 }

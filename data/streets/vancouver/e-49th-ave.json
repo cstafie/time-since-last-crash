@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/e-49th-ave",
+  "name": "E 49th Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-19T20:26:00Z_vancouver/e-49th-ave_vancouver/victoria-dr",
+      "timestamp": "2026-03-19T20:26:00Z",
+      "address": "E 49TH AVE & VICTORIA DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-49th-ave",
+        "vancouver/victoria-dr"
+      ],
+      "streetNames": [
+        "E 49th Ave",
+        "Victoria Dr"
+      ],
+      "pulsePointId": "2437375979"
+    }
+  ],
+  "lastIncident": "2026-03-19T20:26:00Z",
+  "count": 1
+}
