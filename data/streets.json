@@ -1697,8 +1697,8 @@
     "name": "Inverness St",
     "slug": "vancouver/inverness-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-13T23:54:00Z",
-    "count": 2
+    "lastIncident": "2026-03-19T21:50:00Z",
+    "count": 3
   },
   "richmond/francis-rd": {
     "name": "Francis Rd",
@@ -3077,6 +3077,13 @@
     "slug": "vancouver/victoria-dr",
     "city": "Vancouver",
     "lastIncident": "2026-03-19T20:26:00Z",
+    "count": 1
+  },
+  "vancouver/e-60th-ave": {
+    "name": "E 60th Ave",
+    "slug": "vancouver/e-60th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-19T21:50:00Z",
     "count": 1
   }
 }

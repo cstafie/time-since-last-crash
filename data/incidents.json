@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-19T21:50:00Z_vancouver/inverness-st_vancouver/e-60th-ave",
+    "timestamp": "2026-03-19T21:50:00Z",
+    "scrapedAt": "2026-03-19T22:03:30Z",
+    "address": "INVERNESS ST & E 60TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/inverness-st",
+      "vancouver/e-60th-ave"
+    ],
+    "streetNames": [
+      "Inverness St",
+      "E 60th Ave"
+    ],
+    "pulsePointId": "2437431434"
+  },
+  {
     "id": "2026-03-19T21:19:00Z_surrey/128th-st_surrey/88th-ave",
     "timestamp": "2026-03-19T21:19:00Z",
     "scrapedAt": "2026-03-19T21:42:56Z",

@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/e-60th-ave",
+  "name": "E 60th Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-19T21:50:00Z_vancouver/inverness-st_vancouver/e-60th-ave",
+      "timestamp": "2026-03-19T21:50:00Z",
+      "address": "INVERNESS ST & E 60TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/inverness-st",
+        "vancouver/e-60th-ave"
+      ],
+      "streetNames": [
+        "Inverness St",
+        "E 60th Ave"
+      ],
+      "pulsePointId": "2437431434"
+    }
+  ],
+  "lastIncident": "2026-03-19T21:50:00Z",
+  "count": 1
+}
