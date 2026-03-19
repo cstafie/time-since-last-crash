@@ -1,0 +1,24 @@
+{
+  "slug": "north-vancouver/w-1st-st",
+  "name": "W 1st St",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-19T15:38:00Z_north-vancouver/w-1st-st_north-vancouver/chesterfield-ave",
+      "timestamp": "2026-03-19T15:38:00Z",
+      "address": "W 1ST ST & CHESTERFIELD AVE",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/w-1st-st",
+        "north-vancouver/chesterfield-ave"
+      ],
+      "streetNames": [
+        "W 1st St",
+        "Chesterfield Ave"
+      ],
+      "pulsePointId": "2437200820"
+    }
+  ],
+  "lastIncident": "2026-03-19T15:38:00Z",
+  "count": 1
+}

@@ -1473,8 +1473,8 @@
     "name": "Kingsway",
     "slug": "burnaby/kingsway",
     "city": "Burnaby",
-    "lastIncident": "2026-03-12T23:12:00Z",
-    "count": 2
+    "lastIncident": "2026-03-19T15:41:00Z",
+    "count": 3
   },
   "burnaby/gilley-ave": {
     "name": "Gilley Ave",
@@ -3000,6 +3000,27 @@
     "slug": "vancouver/terminal-ave",
     "city": "Vancouver",
     "lastIncident": "2026-03-19T14:45:00Z",
+    "count": 1
+  },
+  "burnaby/griffiths-dr": {
+    "name": "Griffiths Dr",
+    "slug": "burnaby/griffiths-dr",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-19T15:41:00Z",
+    "count": 1
+  },
+  "north-vancouver/w-1st-st": {
+    "name": "W 1st St",
+    "slug": "north-vancouver/w-1st-st",
+    "city": "North Vancouver",
+    "lastIncident": "2026-03-19T15:38:00Z",
+    "count": 1
+  },
+  "north-vancouver/chesterfield-ave": {
+    "name": "Chesterfield Ave",
+    "slug": "north-vancouver/chesterfield-ave",
+    "city": "North Vancouver",
+    "lastIncident": "2026-03-19T15:38:00Z",
     "count": 1
   }
 }

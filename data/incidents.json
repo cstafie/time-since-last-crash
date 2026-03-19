@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-19T15:41:00Z_burnaby/kingsway_burnaby/griffiths-dr",
+    "timestamp": "2026-03-19T15:41:00Z",
+    "scrapedAt": "2026-03-19T15:45:52Z",
+    "address": "KINGSWAY & GRIFFITHS DR",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/kingsway",
+      "burnaby/griffiths-dr"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "Griffiths Dr"
+    ],
+    "pulsePointId": "2437201982"
+  },
+  {
+    "id": "2026-03-19T15:38:00Z_north-vancouver/w-1st-st_north-vancouver/chesterfield-ave",
+    "timestamp": "2026-03-19T15:38:00Z",
+    "scrapedAt": "2026-03-19T15:45:52Z",
+    "address": "W 1ST ST & CHESTERFIELD AVE",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/w-1st-st",
+      "north-vancouver/chesterfield-ave"
+    ],
+    "streetNames": [
+      "W 1st St",
+      "Chesterfield Ave"
+    ],
+    "pulsePointId": "2437200820"
+  },
+  {
     "id": "2026-03-19T14:45:00Z_vancouver/terminal-ave_vancouver/main-st",
     "timestamp": "2026-03-19T14:45:00Z",
     "scrapedAt": "2026-03-19T15:14:06Z",

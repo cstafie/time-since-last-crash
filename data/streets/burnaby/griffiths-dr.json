@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/griffiths-dr",
+  "name": "Griffiths Dr",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-03-19T15:41:00Z_burnaby/kingsway_burnaby/griffiths-dr",
+      "timestamp": "2026-03-19T15:41:00Z",
+      "address": "KINGSWAY & GRIFFITHS DR",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/kingsway",
+        "burnaby/griffiths-dr"
+      ],
+      "streetNames": [
+        "Kingsway",
+        "Griffiths Dr"
+      ],
+      "pulsePointId": "2437201982"
+    }
+  ],
+  "lastIncident": "2026-03-19T15:41:00Z",
+  "count": 1
+}
