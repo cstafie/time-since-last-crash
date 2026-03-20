@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/grandview-hwy-s",
+  "name": "Grandview Hwy S",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-20T23:03:00Z_vancouver/garden-dr_vancouver/grandview-hwy-s",
+      "timestamp": "2026-03-20T23:03:00Z",
+      "address": "GARDEN DR & GRANDVIEW HWY S",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/garden-dr",
+        "vancouver/grandview-hwy-s"
+      ],
+      "streetNames": [
+        "Garden Dr",
+        "Grandview Hwy S"
+      ],
+      "pulsePointId": "2438160406"
+    }
+  ],
+  "lastIncident": "2026-03-20T23:03:00Z",
+  "count": 1
+}

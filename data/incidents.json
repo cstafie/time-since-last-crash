@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-20T23:26:00Z_surrey/67th-ave",
+    "timestamp": "2026-03-20T23:26:00Z",
+    "scrapedAt": "2026-03-20T23:40:03Z",
+    "address": "67TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/67th-ave"
+    ],
+    "streetNames": [
+      "67th Ave"
+    ],
+    "pulsePointId": "2438176121"
+  },
+  {
+    "id": "2026-03-20T23:03:00Z_vancouver/garden-dr_vancouver/grandview-hwy-s",
+    "timestamp": "2026-03-20T23:03:00Z",
+    "scrapedAt": "2026-03-20T23:40:03Z",
+    "address": "GARDEN DR & GRANDVIEW HWY S",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/garden-dr",
+      "vancouver/grandview-hwy-s"
+    ],
+    "streetNames": [
+      "Garden Dr",
+      "Grandview Hwy S"
+    ],
+    "pulsePointId": "2438160406"
+  },
+  {
     "id": "2026-03-20T23:01:00Z_abbotsford/bateman-rd_abbotsford/hwy-11",
     "timestamp": "2026-03-20T23:01:00Z",
     "scrapedAt": "2026-03-20T23:04:58Z",
