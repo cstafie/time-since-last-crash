@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-20T19:58:00Z_vancouver/fraser-st_vancouver/e-41st-ave",
+    "timestamp": "2026-03-20T19:58:00Z",
+    "scrapedAt": "2026-03-20T20:04:20Z",
+    "address": "FRASER ST & E 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/fraser-st",
+      "vancouver/e-41st-ave"
+    ],
+    "streetNames": [
+      "Fraser St",
+      "E 41st Ave"
+    ],
+    "pulsePointId": "2438036867"
+  },
+  {
+    "id": "2026-03-20T19:51:00Z_abbotsford/32470-simon-ave",
+    "timestamp": "2026-03-20T19:51:00Z",
+    "scrapedAt": "2026-03-20T20:04:20Z",
+    "address": "32470 SIMON AVE",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/32470-simon-ave"
+    ],
+    "streetNames": [
+      "32470 Simon Ave"
+    ],
+    "pulsePointId": "2438031684"
+  },
+  {
     "id": "2026-03-20T19:26:00Z_port-moody/ioco-rd",
     "timestamp": "2026-03-20T19:26:00Z",
     "scrapedAt": "2026-03-20T19:41:30Z",

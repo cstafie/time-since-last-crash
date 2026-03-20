@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-20T19:58:00Z_vancouver/fraser-st_vancouver/e-41st-ave",
+      "timestamp": "2026-03-20T19:58:00Z",
+      "address": "FRASER ST & E 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/fraser-st",
+        "vancouver/e-41st-ave"
+      ],
+      "streetNames": [
+        "Fraser St",
+        "E 41st Ave"
+      ],
+      "pulsePointId": "2438036867"
+    },
+    {
       "id": "2026-03-16T13:46:00Z_vancouver/e-41st-ave_vancouver/knight-st",
       "timestamp": "2026-03-16T13:46:00Z",
       "address": "E 41ST AVE & KNIGHT ST",
@@ -138,6 +153,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-16T13:46:00Z",
-  "count": 9
+  "lastIncident": "2026-03-20T19:58:00Z",
+  "count": 10
 }

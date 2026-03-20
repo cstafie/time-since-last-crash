@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/32470-simon-ave",
+  "name": "32470 Simon Ave",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-03-20T19:51:00Z_abbotsford/32470-simon-ave",
+      "timestamp": "2026-03-20T19:51:00Z",
+      "address": "32470 SIMON AVE",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/32470-simon-ave"
+      ],
+      "streetNames": [
+        "32470 Simon Ave"
+      ],
+      "pulsePointId": "2438031684"
+    }
+  ],
+  "lastIncident": "2026-03-20T19:51:00Z",
+  "count": 1
+}
