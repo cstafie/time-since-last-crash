@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-03-20T01:18:00Z_coquitlam/plateau-blvd",
+    "timestamp": "2026-03-20T01:18:00Z",
+    "scrapedAt": "2026-03-20T01:30:40Z",
+    "address": "PLATEAU BLVD",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/plateau-blvd"
+    ],
+    "streetNames": [
+      "Plateau Blvd"
+    ],
+    "pulsePointId": "2437564111"
+  },
+  {
+    "id": "2026-03-20T01:05:00Z_coquitlam/brunette-ave",
+    "timestamp": "2026-03-20T01:05:00Z",
+    "scrapedAt": "2026-03-20T01:30:40Z",
+    "address": "BRUNETTE AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/brunette-ave"
+    ],
+    "streetNames": [
+      "Brunette Ave"
+    ],
+    "pulsePointId": "2437558090"
+  },
+  {
     "id": "2026-03-20T00:09:00Z_abbotsford/trans-canada-hwy",
     "timestamp": "2026-03-20T00:09:00Z",
     "scrapedAt": "2026-03-20T00:53:20Z",

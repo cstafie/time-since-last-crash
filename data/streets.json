@@ -3099,5 +3099,19 @@
     "city": "Chilliwack",
     "lastIncident": "2026-03-19T23:28:00Z",
     "count": 1
+  },
+  "coquitlam/plateau-blvd": {
+    "name": "Plateau Blvd",
+    "slug": "coquitlam/plateau-blvd",
+    "city": "Coquitlam",
+    "lastIncident": "2026-03-20T01:18:00Z",
+    "count": 1
+  },
+  "coquitlam/brunette-ave": {
+    "name": "Brunette Ave",
+    "slug": "coquitlam/brunette-ave",
+    "city": "Coquitlam",
+    "lastIncident": "2026-03-20T01:05:00Z",
+    "count": 1
   }
 }
