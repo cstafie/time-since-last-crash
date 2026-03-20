@@ -521,8 +521,8 @@
     "name": "108th Ave",
     "slug": "surrey/108th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-17T04:56:00Z",
-    "count": 4
+    "lastIncident": "2026-03-20T03:57:00Z",
+    "count": 5
   },
   "surrey/124th-st": {
     "name": "124th St",
@@ -3133,6 +3133,13 @@
     "slug": "abbotsford/huntingdon-rd",
     "city": "Abbotsford",
     "lastIncident": "2026-03-20T03:30:00Z",
+    "count": 1
+  },
+  "surrey/164th-st": {
+    "name": "164th St",
+    "slug": "surrey/164th-st",
+    "city": "Surrey",
+    "lastIncident": "2026-03-20T03:57:00Z",
     "count": 1
   }
 }
