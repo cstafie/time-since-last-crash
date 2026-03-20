@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-20T00:09:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-03-20T00:09:00Z",
+    "scrapedAt": "2026-03-20T00:53:20Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2437523412"
+  },
+  {
     "id": "2026-03-19T23:28:00Z_chilliwack/nowell-st_chilliwack/first-ave",
     "timestamp": "2026-03-19T23:28:00Z",
     "scrapedAt": "2026-03-19T23:40:12Z",
