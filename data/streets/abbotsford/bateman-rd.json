@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/bateman-rd",
+  "name": "Bateman Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-03-20T23:01:00Z_abbotsford/bateman-rd_abbotsford/hwy-11",
+      "timestamp": "2026-03-20T23:01:00Z",
+      "address": "BATEMAN RD & HWY 11",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/bateman-rd",
+        "abbotsford/hwy-11"
+      ],
+      "streetNames": [
+        "Bateman Rd",
+        "Hwy 11"
+      ],
+      "pulsePointId": "2438158784"
+    }
+  ],
+  "lastIncident": "2026-03-20T23:01:00Z",
+  "count": 1
+}

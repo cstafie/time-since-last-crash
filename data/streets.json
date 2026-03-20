@@ -3316,5 +3316,19 @@
     "city": "Richmond",
     "lastIncident": "2026-03-20T22:26:00Z",
     "count": 1
+  },
+  "abbotsford/bateman-rd": {
+    "name": "Bateman Rd",
+    "slug": "abbotsford/bateman-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-03-20T23:01:00Z",
+    "count": 1
+  },
+  "abbotsford/hwy-11": {
+    "name": "Hwy 11",
+    "slug": "abbotsford/hwy-11",
+    "city": "Abbotsford",
+    "lastIncident": "2026-03-20T23:01:00Z",
+    "count": 1
   }
 }
