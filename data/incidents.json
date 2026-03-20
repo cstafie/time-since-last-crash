@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-20T22:26:00Z_richmond/shell-rd_richmond/alderbridge-way",
+    "timestamp": "2026-03-20T22:26:00Z",
+    "scrapedAt": "2026-03-20T22:41:03Z",
+    "address": "SHELL RD & ALDERBRIDGE WAY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/shell-rd",
+      "richmond/alderbridge-way"
+    ],
+    "streetNames": [
+      "Shell Rd",
+      "Alderbridge Way"
+    ],
+    "pulsePointId": "2438136091"
+  },
+  {
     "id": "2026-03-20T21:25:00Z_maple-ridge/116th-ave",
     "timestamp": "2026-03-20T21:25:00Z",
     "scrapedAt": "2026-03-20T21:40:47Z",

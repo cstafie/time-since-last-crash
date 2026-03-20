@@ -1,6 +1,6 @@
 {
-  "slug": "richmond/shell-rd",
-  "name": "Shell Rd",
+  "slug": "richmond/alderbridge-way",
+  "name": "Alderbridge Way",
   "city": "Richmond",
   "incidents": [
     {
@@ -17,22 +17,8 @@
         "Alderbridge Way"
       ],
       "pulsePointId": "2438136091"
-    },
-    {
-      "id": "2026-03-10T20:13:00Z_richmond/bridgeport-rd_richmond/shell-rd",
-      "timestamp": "2026-03-10T20:13:00Z",
-      "address": "BRIDGEPORT RD & SHELL RD",
-      "city": "Richmond",
-      "streets": [
-        "richmond/bridgeport-rd",
-        "richmond/shell-rd"
-      ],
-      "streetNames": [
-        "Bridgeport Rd",
-        "Shell Rd"
-      ]
     }
   ],
   "lastIncident": "2026-03-20T22:26:00Z",
-  "count": 2
+  "count": 1
 }
