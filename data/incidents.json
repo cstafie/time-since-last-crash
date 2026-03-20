@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-20T16:09:00Z_burnaby/canada-way_burnaby/rosewood-st",
+    "timestamp": "2026-03-20T16:09:00Z",
+    "scrapedAt": "2026-03-20T16:44:11Z",
+    "address": "CANADA WAY & ROSEWOOD ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/canada-way",
+      "burnaby/rosewood-st"
+    ],
+    "streetNames": [
+      "Canada Way",
+      "Rosewood St"
+    ],
+    "pulsePointId": "2437888575"
+  },
+  {
     "id": "2026-03-20T15:29:00Z_vancouver/e-22nd-ave_vancouver/lillooet-st",
     "timestamp": "2026-03-20T15:29:00Z",
     "scrapedAt": "2026-03-20T15:43:55Z",

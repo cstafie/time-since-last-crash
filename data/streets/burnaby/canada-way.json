@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-03-20T16:09:00Z_burnaby/canada-way_burnaby/rosewood-st",
+      "timestamp": "2026-03-20T16:09:00Z",
+      "address": "CANADA WAY & ROSEWOOD ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/canada-way",
+        "burnaby/rosewood-st"
+      ],
+      "streetNames": [
+        "Canada Way",
+        "Rosewood St"
+      ],
+      "pulsePointId": "2437888575"
+    },
+    {
       "id": "2026-03-12T13:42:00Z_burnaby/canada-way_burnaby/10th-ave",
       "timestamp": "2026-03-12T13:42:00Z",
       "address": "CANADA WAY & 10TH AVE",
@@ -61,6 +76,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-12T13:42:00Z",
-  "count": 4
+  "lastIncident": "2026-03-20T16:09:00Z",
+  "count": 5
 }

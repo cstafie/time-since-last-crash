@@ -1130,8 +1130,8 @@
     "name": "Canada Way",
     "slug": "burnaby/canada-way",
     "city": "Burnaby",
-    "lastIncident": "2026-03-12T13:42:00Z",
-    "count": 4
+    "lastIncident": "2026-03-20T16:09:00Z",
+    "count": 5
   },
   "burnaby/norland-ave": {
     "name": "Norland Ave",
@@ -3196,6 +3196,13 @@
     "slug": "vancouver/lillooet-st",
     "city": "Vancouver",
     "lastIncident": "2026-03-20T15:29:00Z",
+    "count": 1
+  },
+  "burnaby/rosewood-st": {
+    "name": "Rosewood St",
+    "slug": "burnaby/rosewood-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-20T16:09:00Z",
     "count": 1
   }
 }
