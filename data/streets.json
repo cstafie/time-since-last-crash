@@ -318,8 +318,8 @@
     "name": "Dewdney Trunk Rd",
     "slug": "maple-ridge/dewdney-trunk-rd",
     "city": "Maple Ridge",
-    "lastIncident": "2026-03-07T19:46:00Z",
-    "count": 1
+    "lastIncident": "2026-03-20T12:29:00Z",
+    "count": 2
   },
   "maple-ridge/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -1347,8 +1347,8 @@
     "name": "222nd St",
     "slug": "maple-ridge/222nd-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-03-11T22:16:00Z",
-    "count": 1
+    "lastIncident": "2026-03-20T12:29:00Z",
+    "count": 2
   },
   "mission/horne-street-onrp": {
     "name": "Horne Street Onrp",
