@@ -3274,5 +3274,40 @@
     "city": "Burnaby",
     "lastIncident": "2026-03-20T21:03:00Z",
     "count": 1
+  },
+  "maple-ridge/callaghan-ave": {
+    "name": "Callaghan Ave",
+    "slug": "maple-ridge/callaghan-ave",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-03-20T21:21:00Z",
+    "count": 1
+  },
+  "maple-ridge/haney-bps": {
+    "name": "Haney Bps",
+    "slug": "maple-ridge/haney-bps",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-03-20T21:21:00Z",
+    "count": 1
+  },
+  "north-vancouver/lonsdale-ave": {
+    "name": "Lonsdale Ave",
+    "slug": "north-vancouver/lonsdale-ave",
+    "city": "North Vancouver",
+    "lastIncident": "2026-03-20T21:18:00Z",
+    "count": 1
+  },
+  "north-vancouver/e-29th-st": {
+    "name": "E 29th St",
+    "slug": "north-vancouver/e-29th-st",
+    "city": "North Vancouver",
+    "lastIncident": "2026-03-20T21:18:00Z",
+    "count": 1
+  },
+  "maple-ridge/116th-ave": {
+    "name": "116th Ave",
+    "slug": "maple-ridge/116th-ave",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-03-20T21:25:00Z",
+    "count": 1
   }
 }
