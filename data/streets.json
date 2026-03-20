@@ -2873,15 +2873,15 @@
     "name": "Evans Rd",
     "slug": "chilliwack/evans-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-03-18T21:30:00Z",
-    "count": 1
+    "lastIncident": "2026-03-20T20:54:00Z",
+    "count": 2
   },
   "chilliwack/yale-rd": {
     "name": "Yale Rd",
     "slug": "chilliwack/yale-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-03-18T21:30:00Z",
-    "count": 1
+    "lastIncident": "2026-03-20T20:54:00Z",
+    "count": 2
   },
   "vancouver/e-61st-ave": {
     "name": "E 61st Ave",
@@ -3266,6 +3266,13 @@
     "slug": "abbotsford/32470-simon-ave",
     "city": "Abbotsford",
     "lastIncident": "2026-03-20T19:51:00Z",
+    "count": 1
+  },
+  "burnaby/4867-sperling-ave": {
+    "name": "4867 Sperling Ave",
+    "slug": "burnaby/4867-sperling-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-20T21:03:00Z",
     "count": 1
   }
 }

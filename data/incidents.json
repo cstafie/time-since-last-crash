@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-20T21:03:00Z_burnaby/4867-sperling-ave",
+    "timestamp": "2026-03-20T21:03:00Z",
+    "scrapedAt": "2026-03-20T21:05:39Z",
+    "address": "4867 SPERLING AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/4867-sperling-ave"
+    ],
+    "streetNames": [
+      "4867 Sperling Ave"
+    ],
+    "pulsePointId": "2438080494"
+  },
+  {
+    "id": "2026-03-20T20:54:00Z_chilliwack/evans-rd_chilliwack/yale-rd",
+    "timestamp": "2026-03-20T20:54:00Z",
+    "scrapedAt": "2026-03-20T21:05:39Z",
+    "address": "EVANS RD & YALE RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/evans-rd",
+      "chilliwack/yale-rd"
+    ],
+    "streetNames": [
+      "Evans Rd",
+      "Yale Rd"
+    ],
+    "pulsePointId": "2438076337"
+  },
+  {
     "id": "2026-03-20T19:58:00Z_vancouver/fraser-st_vancouver/e-41st-ave",
     "timestamp": "2026-03-20T19:58:00Z",
     "scrapedAt": "2026-03-20T20:04:20Z",
