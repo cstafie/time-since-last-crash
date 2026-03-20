@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-03-20T18:01:00Z_surrey/32nd-ave_surrey/154th-st",
+    "timestamp": "2026-03-20T18:01:00Z",
+    "scrapedAt": "2026-03-20T18:07:12Z",
+    "address": "32ND AVE & 154TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/32nd-ave",
+      "surrey/154th-st"
+    ],
+    "streetNames": [
+      "32nd Ave",
+      "154th St"
+    ],
+    "pulsePointId": "2437954989"
+  },
+  {
+    "id": "2026-03-20T17:53:00Z_langley/88th-ave",
+    "timestamp": "2026-03-20T17:53:00Z",
+    "scrapedAt": "2026-03-20T18:07:12Z",
+    "address": "88TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/88th-ave"
+    ],
+    "streetNames": [
+      "88th Ave"
+    ],
+    "pulsePointId": "2437950117"
+  },
+  {
+    "id": "2026-03-20T17:52:00Z_vancouver/w-42nd-ave_vancouver/oak-st",
+    "timestamp": "2026-03-20T17:52:00Z",
+    "scrapedAt": "2026-03-20T18:07:12Z",
+    "address": "W 42ND AVE & OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-42nd-ave",
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "W 42nd Ave",
+      "Oak St"
+    ],
+    "pulsePointId": "2437950254"
+  },
+  {
     "id": "2026-03-20T17:26:00Z_surrey/king-george-blvd",
     "timestamp": "2026-03-20T17:26:00Z",
     "scrapedAt": "2026-03-20T17:42:28Z",
