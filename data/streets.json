@@ -3176,5 +3176,19 @@
     "city": "Mission",
     "lastIncident": "2026-03-20T09:12:00Z",
     "count": 2
+  },
+  "delta/33a-ave": {
+    "name": "33a Ave",
+    "slug": "delta/33a-ave",
+    "city": "Delta",
+    "lastIncident": "2026-03-20T13:50:00Z",
+    "count": 1
+  },
+  "delta/41b-st": {
+    "name": "41b St",
+    "slug": "delta/41b-st",
+    "city": "Delta",
+    "lastIncident": "2026-03-20T13:50:00Z",
+    "count": 1
   }
 }

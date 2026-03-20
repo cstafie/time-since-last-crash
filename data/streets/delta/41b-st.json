@@ -1,0 +1,24 @@
+{
+  "slug": "delta/41b-st",
+  "name": "41b St",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-03-20T13:50:00Z_delta/33a-ave_delta/41b-st",
+      "timestamp": "2026-03-20T13:50:00Z",
+      "address": "33A AVE & 41B ST",
+      "city": "Delta",
+      "streets": [
+        "delta/33a-ave",
+        "delta/41b-st"
+      ],
+      "streetNames": [
+        "33a Ave",
+        "41b St"
+      ],
+      "pulsePointId": "2437820431"
+    }
+  ],
+  "lastIncident": "2026-03-20T13:50:00Z",
+  "count": 1
+}
