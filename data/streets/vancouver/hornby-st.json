@@ -1,6 +1,6 @@
 {
-  "slug": "vancouver/nelson-st",
-  "name": "Nelson St",
+  "slug": "vancouver/hornby-st",
+  "name": "Hornby St",
   "city": "Vancouver",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Hornby St"
       ],
       "pulsePointId": "2437915968"
-    },
-    {
-      "id": "2026-03-15T05:46:00Z_vancouver/nelson-st_vancouver/burrard-st",
-      "timestamp": "2026-03-15T05:46:00Z",
-      "address": "NELSON ST & BURRARD ST",
-      "city": "Vancouver",
-      "streets": [
-        "vancouver/nelson-st",
-        "vancouver/burrard-st"
-      ],
-      "streetNames": [
-        "Nelson St",
-        "Burrard St"
-      ],
-      "pulsePointId": "2434363478"
     }
   ],
   "lastIncident": "2026-03-20T17:00:00Z",
-  "count": 2
+  "count": 1
 }

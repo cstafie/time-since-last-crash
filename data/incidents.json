@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-03-20T17:06:00Z_langley/fraser-hwy_langley/langley-bps",
+    "timestamp": "2026-03-20T17:06:00Z",
+    "scrapedAt": "2026-03-20T17:12:27Z",
+    "address": "FRASER HWY & LANGLEY BPS",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy",
+      "langley/langley-bps"
+    ],
+    "streetNames": [
+      "Fraser Hwy",
+      "Langley Bps"
+    ],
+    "pulsePointId": "2437919645"
+  },
+  {
+    "id": "2026-03-20T17:00:00Z_vancouver/nelson-st_vancouver/hornby-st",
+    "timestamp": "2026-03-20T17:00:00Z",
+    "scrapedAt": "2026-03-20T17:12:27Z",
+    "address": "NELSON ST & HORNBY ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/nelson-st",
+      "vancouver/hornby-st"
+    ],
+    "streetNames": [
+      "Nelson St",
+      "Hornby St"
+    ],
+    "pulsePointId": "2437915968"
+  },
+  {
+    "id": "2026-03-20T16:56:00Z_surrey/nordel-way",
+    "timestamp": "2026-03-20T16:56:00Z",
+    "scrapedAt": "2026-03-20T17:12:27Z",
+    "address": "NORDEL WAY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/nordel-way"
+    ],
+    "streetNames": [
+      "Nordel Way"
+    ],
+    "pulsePointId": "2437913652"
+  },
+  {
     "id": "2026-03-20T16:09:00Z_burnaby/canada-way_burnaby/rosewood-st",
     "timestamp": "2026-03-20T16:09:00Z",
     "scrapedAt": "2026-03-20T16:44:11Z",
