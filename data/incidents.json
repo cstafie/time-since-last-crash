@@ -1,5 +1,83 @@
 [
   {
+    "id": "2026-03-20T03:43:00Z_vancouver/burrard-st_vancouver/pacific-st",
+    "timestamp": "2026-03-20T03:43:00Z",
+    "scrapedAt": "2026-03-20T03:45:04Z",
+    "address": "BURRARD ST & PACIFIC ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/burrard-st",
+      "vancouver/pacific-st"
+    ],
+    "streetNames": [
+      "Burrard St",
+      "Pacific St"
+    ],
+    "pulsePointId": "2437639493"
+  },
+  {
+    "id": "2026-03-20T03:30:00Z_abbotsford/lefeuvre-rd_abbotsford/huntingdon-rd",
+    "timestamp": "2026-03-20T03:30:00Z",
+    "scrapedAt": "2026-03-20T03:45:04Z",
+    "address": "LEFEUVRE RD & HUNTINGDON RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/lefeuvre-rd",
+      "abbotsford/huntingdon-rd"
+    ],
+    "streetNames": [
+      "Lefeuvre Rd",
+      "Huntingdon Rd"
+    ],
+    "pulsePointId": "2437634536"
+  },
+  {
+    "id": "2026-03-20T03:24:00Z_vancouver/boundary-rd_vancouver/e-29th-ave",
+    "timestamp": "2026-03-20T03:24:00Z",
+    "scrapedAt": "2026-03-20T03:45:04Z",
+    "address": "BOUNDARY RD & E 29TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/boundary-rd",
+      "vancouver/e-29th-ave"
+    ],
+    "streetNames": [
+      "Boundary Rd",
+      "E 29th Ave"
+    ],
+    "pulsePointId": "2437630158"
+  },
+  {
+    "id": "2026-03-20T03:23:00Z_vancouver/knight-st_vancouver/e-63rd-ave",
+    "timestamp": "2026-03-20T03:23:00Z",
+    "scrapedAt": "2026-03-20T03:45:04Z",
+    "address": "KNIGHT ST & E 63RD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/knight-st",
+      "vancouver/e-63rd-ave"
+    ],
+    "streetNames": [
+      "Knight St",
+      "E 63rd Ave"
+    ],
+    "pulsePointId": "2437630224"
+  },
+  {
+    "id": "2026-03-20T03:07:00Z_abbotsford/old-clayburn-rd",
+    "timestamp": "2026-03-20T03:07:00Z",
+    "scrapedAt": "2026-03-20T03:45:04Z",
+    "address": "OLD CLAYBURN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/old-clayburn-rd"
+    ],
+    "streetNames": [
+      "Old Clayburn Rd"
+    ],
+    "pulsePointId": "2437623329"
+  },
+  {
     "id": "2026-03-20T01:18:00Z_coquitlam/plateau-blvd",
     "timestamp": "2026-03-20T01:18:00Z",
     "scrapedAt": "2026-03-20T01:30:40Z",

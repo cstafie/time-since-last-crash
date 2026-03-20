@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-20T03:24:00Z_vancouver/boundary-rd_vancouver/e-29th-ave",
+      "timestamp": "2026-03-20T03:24:00Z",
+      "address": "BOUNDARY RD & E 29TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/boundary-rd",
+        "vancouver/e-29th-ave"
+      ],
+      "streetNames": [
+        "Boundary Rd",
+        "E 29th Ave"
+      ],
+      "pulsePointId": "2437630158"
+    },
+    {
       "id": "2026-03-18T12:21:00Z_vancouver/boundary-rd_vancouver/lougheed-hwy",
       "timestamp": "2026-03-18T12:21:00Z",
       "address": "BOUNDARY RD & LOUGHEED HWY",
@@ -33,6 +48,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-18T12:21:00Z",
-  "count": 2
+  "lastIncident": "2026-03-20T03:24:00Z",
+  "count": 3
 }

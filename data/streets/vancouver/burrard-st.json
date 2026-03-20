@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-20T03:43:00Z_vancouver/burrard-st_vancouver/pacific-st",
+      "timestamp": "2026-03-20T03:43:00Z",
+      "address": "BURRARD ST & PACIFIC ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/burrard-st",
+        "vancouver/pacific-st"
+      ],
+      "streetNames": [
+        "Burrard St",
+        "Pacific St"
+      ],
+      "pulsePointId": "2437639493"
+    },
+    {
       "id": "2026-03-15T05:46:00Z_vancouver/nelson-st_vancouver/burrard-st",
       "timestamp": "2026-03-15T05:46:00Z",
       "address": "NELSON ST & BURRARD ST",
@@ -33,6 +48,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-15T05:46:00Z",
-  "count": 2
+  "lastIncident": "2026-03-20T03:43:00Z",
+  "count": 3
 }

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-20T03:24:00Z_vancouver/boundary-rd_vancouver/e-29th-ave",
+      "timestamp": "2026-03-20T03:24:00Z",
+      "address": "BOUNDARY RD & E 29TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/boundary-rd",
+        "vancouver/e-29th-ave"
+      ],
+      "streetNames": [
+        "Boundary Rd",
+        "E 29th Ave"
+      ],
+      "pulsePointId": "2437630158"
+    },
+    {
       "id": "2026-03-16T00:03:00Z_vancouver/e-29th-ave_vancouver/rupert-st",
       "timestamp": "2026-03-16T00:03:00Z",
       "address": "E 29TH AVE & RUPERT ST",
@@ -19,6 +34,6 @@
       "pulsePointId": "2434824658"
     }
   ],
-  "lastIncident": "2026-03-16T00:03:00Z",
-  "count": 1
+  "lastIncident": "2026-03-20T03:24:00Z",
+  "count": 2
 }
