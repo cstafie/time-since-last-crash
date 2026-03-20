@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-03-20T09:32:00Z_surrey/150th-st",
+    "timestamp": "2026-03-20T09:32:00Z",
+    "scrapedAt": "2026-03-20T09:43:50Z",
+    "address": "150TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/150th-st"
+    ],
+    "streetNames": [
+      "150th St"
+    ],
+    "pulsePointId": "2437751695"
+  },
+  {
+    "id": "2026-03-20T09:12:00Z_mission/knight-ave_mission/stave-lake-st",
+    "timestamp": "2026-03-20T09:12:00Z",
+    "scrapedAt": "2026-03-20T09:43:50Z",
+    "address": "KNIGHT AVE & STAVE LAKE ST",
+    "city": "Mission",
+    "streets": [
+      "mission/knight-ave",
+      "mission/stave-lake-st"
+    ],
+    "streetNames": [
+      "Knight Ave",
+      "Stave Lake St"
+    ],
+    "pulsePointId": "2437748430"
+  },
+  {
+    "id": "2026-03-20T09:11:00Z_mission/stave-lake-st_mission/knight-ave",
+    "timestamp": "2026-03-20T09:11:00Z",
+    "scrapedAt": "2026-03-20T09:43:50Z",
+    "address": "STAVE LAKE ST & KNIGHT AVE",
+    "city": "Mission",
+    "streets": [
+      "mission/stave-lake-st",
+      "mission/knight-ave"
+    ],
+    "streetNames": [
+      "Stave Lake St",
+      "Knight Ave"
+    ],
+    "pulsePointId": "2437746855"
+  },
+  {
     "id": "2026-03-20T07:48:00Z_surrey/12th-ave_surrey/176th-st",
     "timestamp": "2026-03-20T07:48:00Z",
     "scrapedAt": "2026-03-20T08:07:50Z",
