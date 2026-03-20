@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-20T19:02:00Z_surrey/fraser-hwy",
+    "timestamp": "2026-03-20T19:02:00Z",
+    "scrapedAt": "2026-03-20T19:13:33Z",
+    "address": "FRASER HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/fraser-hwy"
+    ],
+    "streetNames": [
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2437999341"
+  },
+  {
     "id": "2026-03-20T18:28:00Z_surrey/146th-st_surrey/104th-ave",
     "timestamp": "2026-03-20T18:28:00Z",
     "scrapedAt": "2026-03-20T18:44:44Z",
