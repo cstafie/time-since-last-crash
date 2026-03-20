@@ -1249,8 +1249,8 @@
     "name": "Trans Canada Hwy",
     "slug": "burnaby/trans-canada-hwy",
     "city": "Burnaby",
-    "lastIncident": "2026-03-18T22:14:00Z",
-    "count": 4
+    "lastIncident": "2026-03-20T06:38:00Z",
+    "count": 5
   },
   "vancouver/e-1st-ave": {
     "name": "E 1st Ave",
@@ -3140,6 +3140,13 @@
     "slug": "surrey/164th-st",
     "city": "Surrey",
     "lastIncident": "2026-03-20T03:57:00Z",
+    "count": 1
+  },
+  "burnaby/kensington-avenue-ofrp": {
+    "name": "Kensington Avenue Ofrp",
+    "slug": "burnaby/kensington-avenue-ofrp",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-20T06:38:00Z",
     "count": 1
   }
 }
