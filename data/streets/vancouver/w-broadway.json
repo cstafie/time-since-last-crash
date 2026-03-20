@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-20T18:18:00Z_vancouver/w-broadway_vancouver/macdonald-st",
+      "timestamp": "2026-03-20T18:18:00Z",
+      "address": "W BROADWAY & MACDONALD ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-broadway",
+        "vancouver/macdonald-st"
+      ],
+      "streetNames": [
+        "W Broadway",
+        "Macdonald St"
+      ],
+      "pulsePointId": "2437967178"
+    },
+    {
       "id": "2026-03-18T05:35:00Z_vancouver/w-broadway_vancouver/trafalgar-st",
       "timestamp": "2026-03-18T05:35:00Z",
       "address": "W BROADWAY & TRAFALGAR ST",
@@ -60,6 +75,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-18T05:35:00Z",
-  "count": 4
+  "lastIncident": "2026-03-20T18:18:00Z",
+  "count": 5
 }
