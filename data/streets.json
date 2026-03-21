@@ -3372,5 +3372,19 @@
     "city": "Coquitlam",
     "lastIncident": "2026-03-21T06:33:00Z",
     "count": 1
+  },
+  "delta/80th-street-ofrp": {
+    "name": "80th Street Ofrp",
+    "slug": "delta/80th-street-ofrp",
+    "city": "Delta",
+    "lastIncident": "2026-03-21T06:40:00Z",
+    "count": 1
+  },
+  "vancouver/e-55th-ave": {
+    "name": "E 55th Ave",
+    "slug": "vancouver/e-55th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-21T06:45:00Z",
+    "count": 1
   }
 }

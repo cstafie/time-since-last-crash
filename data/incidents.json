@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-03-21T06:45:00Z_vancouver/e-55th-ave",
+    "timestamp": "2026-03-21T06:45:00Z",
+    "scrapedAt": "2026-03-21T07:12:06Z",
+    "address": "E 55TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-55th-ave"
+    ],
+    "streetNames": [
+      "E 55th Ave"
+    ],
+    "pulsePointId": "2438409230"
+  },
+  {
+    "id": "2026-03-21T06:40:00Z_delta/80th-street-ofrp",
+    "timestamp": "2026-03-21T06:40:00Z",
+    "scrapedAt": "2026-03-21T07:12:06Z",
+    "address": "80TH STREET OFRP",
+    "city": "Delta",
+    "streets": [
+      "delta/80th-street-ofrp"
+    ],
+    "streetNames": [
+      "80th Street Ofrp"
+    ],
+    "pulsePointId": "2438408766"
+  },
+  {
     "id": "2026-03-21T06:36:00Z_burnaby/trans-canada-hwy",
     "timestamp": "2026-03-21T06:36:00Z",
     "scrapedAt": "2026-03-21T06:43:57Z",

@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/e-55th-ave",
+  "name": "E 55th Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-21T06:45:00Z_vancouver/e-55th-ave",
+      "timestamp": "2026-03-21T06:45:00Z",
+      "address": "E 55TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-55th-ave"
+      ],
+      "streetNames": [
+        "E 55th Ave"
+      ],
+      "pulsePointId": "2438409230"
+    }
+  ],
+  "lastIncident": "2026-03-21T06:45:00Z",
+  "count": 1
+}
