@@ -3477,5 +3477,19 @@
     "city": "Delta",
     "lastIncident": "2026-03-21T22:56:00Z",
     "count": 1
+  },
+  "surrey/25th-ave": {
+    "name": "25th Ave",
+    "slug": "surrey/25th-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-03-21T23:31:00Z",
+    "count": 1
+  },
+  "surrey/124b-st": {
+    "name": "124b St",
+    "slug": "surrey/124b-st",
+    "city": "Surrey",
+    "lastIncident": "2026-03-21T23:31:00Z",
+    "count": 1
   }
 }
