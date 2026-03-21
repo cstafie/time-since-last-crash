@@ -192,8 +192,8 @@
     "name": "Hwy 91",
     "slug": "delta/hwy-91",
     "city": "Delta",
-    "lastIncident": "2026-03-13T14:52:00Z",
-    "count": 3
+    "lastIncident": "2026-03-21T13:11:00Z",
+    "count": 4
   },
   "delta/ladner-trunk-rd": {
     "name": "Ladner Trunk Rd",
@@ -3399,6 +3399,13 @@
     "slug": "vancouver/cambie-street-brdg",
     "city": "Vancouver",
     "lastIncident": "2026-03-21T10:06:00Z",
+    "count": 1
+  },
+  "delta/64th-avenue-ofrp": {
+    "name": "64th Avenue Ofrp",
+    "slug": "delta/64th-avenue-ofrp",
+    "city": "Delta",
+    "lastIncident": "2026-03-21T13:11:00Z",
     "count": 1
   }
 }
