@@ -3421,5 +3421,19 @@
     "city": "White Rock",
     "lastIncident": "2026-03-21T17:51:00Z",
     "count": 1
+  },
+  "surrey/wallace-dr": {
+    "name": "Wallace Dr",
+    "slug": "surrey/wallace-dr",
+    "city": "Surrey",
+    "lastIncident": "2026-03-21T19:24:00Z",
+    "count": 1
+  },
+  "lions-bay/hwy-99": {
+    "name": "Hwy 99",
+    "slug": "lions-bay/hwy-99",
+    "city": "Lions Bay",
+    "lastIncident": "2026-03-21T19:09:00Z",
+    "count": 1
   }
 }

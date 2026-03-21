@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-03-21T19:24:00Z_surrey/wallace-dr",
+    "timestamp": "2026-03-21T19:24:00Z",
+    "scrapedAt": "2026-03-21T19:36:37Z",
+    "address": "WALLACE DR",
+    "city": "Surrey",
+    "streets": [
+      "surrey/wallace-dr"
+    ],
+    "streetNames": [
+      "Wallace Dr"
+    ],
+    "pulsePointId": "2438684682"
+  },
+  {
+    "id": "2026-03-21T19:09:00Z_lions-bay/hwy-99",
+    "timestamp": "2026-03-21T19:09:00Z",
+    "scrapedAt": "2026-03-21T19:36:37Z",
+    "address": "HWY 99",
+    "city": "Lions Bay",
+    "streets": [
+      "lions-bay/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2438676208"
+  },
+  {
     "id": "2026-03-21T17:51:00Z_white-rock/habgood-st_white-rock/pacific-ave",
     "timestamp": "2026-03-21T17:51:00Z",
     "scrapedAt": "2026-03-21T18:02:54Z",
