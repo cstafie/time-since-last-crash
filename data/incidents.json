@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-21T02:07:00Z_vancouver/nanaimo-st_vancouver/e-hastings-st",
+    "timestamp": "2026-03-21T02:07:00Z",
+    "scrapedAt": "2026-03-21T02:20:37Z",
+    "address": "NANAIMO ST & E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/nanaimo-st",
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "Nanaimo St",
+      "E Hastings St"
+    ],
+    "pulsePointId": "2438275146"
+  },
+  {
     "id": "2026-03-21T00:44:00Z_surrey/60th-ave",
     "timestamp": "2026-03-21T00:44:00Z",
     "scrapedAt": "2026-03-21T00:50:33Z",
