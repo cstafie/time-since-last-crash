@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-21T04:21:00Z_port-coquitlam/wedgewood-st",
+    "timestamp": "2026-03-21T04:21:00Z",
+    "scrapedAt": "2026-03-21T04:55:27Z",
+    "address": "WEDGEWOOD ST",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/wedgewood-st"
+    ],
+    "streetNames": [
+      "Wedgewood St"
+    ],
+    "pulsePointId": "2438349838"
+  },
+  {
     "id": "2026-03-21T03:38:00Z_surrey/fraser-hwy_surrey/willowbrook-dr",
     "timestamp": "2026-03-21T03:38:00Z",
     "scrapedAt": "2026-03-21T04:11:20Z",
