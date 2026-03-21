@@ -1,0 +1,22 @@
+{
+  "slug": "mission/n-railway-ave",
+  "name": "N Railway Ave",
+  "city": "Mission",
+  "incidents": [
+    {
+      "id": "2026-03-21T19:50:00Z_mission/n-railway-ave",
+      "timestamp": "2026-03-21T19:50:00Z",
+      "address": "N RAILWAY AVE",
+      "city": "Mission",
+      "streets": [
+        "mission/n-railway-ave"
+      ],
+      "streetNames": [
+        "N Railway Ave"
+      ],
+      "pulsePointId": "2438700379"
+    }
+  ],
+  "lastIncident": "2026-03-21T19:50:00Z",
+  "count": 1
+}

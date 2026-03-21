@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-03-21T19:58:00Z_north-vancouver/kennard-ave",
+    "timestamp": "2026-03-21T19:58:00Z",
+    "scrapedAt": "2026-03-21T20:01:34Z",
+    "address": "KENNARD AVE",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/kennard-ave"
+    ],
+    "streetNames": [
+      "Kennard Ave"
+    ],
+    "pulsePointId": "2438705586"
+  },
+  {
+    "id": "2026-03-21T19:50:00Z_mission/n-railway-ave",
+    "timestamp": "2026-03-21T19:50:00Z",
+    "scrapedAt": "2026-03-21T20:01:34Z",
+    "address": "N RAILWAY AVE",
+    "city": "Mission",
+    "streets": [
+      "mission/n-railway-ave"
+    ],
+    "streetNames": [
+      "N Railway Ave"
+    ],
+    "pulsePointId": "2438700379"
+  },
+  {
     "id": "2026-03-21T19:24:00Z_surrey/wallace-dr",
     "timestamp": "2026-03-21T19:24:00Z",
     "scrapedAt": "2026-03-21T19:36:37Z",
