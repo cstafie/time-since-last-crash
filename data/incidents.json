@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-03-21T06:36:00Z_burnaby/trans-canada-hwy",
+    "timestamp": "2026-03-21T06:36:00Z",
+    "scrapedAt": "2026-03-21T06:43:57Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2438406674"
+  },
+  {
+    "id": "2026-03-21T06:33:00Z_coquitlam/trans-canada-hwy_coquitlam/brunette-avenue-ofrp",
+    "timestamp": "2026-03-21T06:33:00Z",
+    "scrapedAt": "2026-03-21T06:43:57Z",
+    "address": "TRANS CANADA HWY & BRUNETTE AVENUE OFRP",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/trans-canada-hwy",
+      "coquitlam/brunette-avenue-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "Brunette Avenue Ofrp"
+    ],
+    "pulsePointId": "2438406425"
+  },
+  {
+    "id": "2026-03-21T06:32:00Z_burnaby/trans-canada-hwy",
+    "timestamp": "2026-03-21T06:32:00Z",
+    "scrapedAt": "2026-03-21T06:43:57Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2438404831"
+  },
+  {
     "id": "2026-03-21T04:21:00Z_port-coquitlam/wedgewood-st",
     "timestamp": "2026-03-21T04:21:00Z",
     "scrapedAt": "2026-03-21T04:55:27Z",

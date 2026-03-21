@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-03-21T06:33:00Z_coquitlam/trans-canada-hwy_coquitlam/brunette-avenue-ofrp",
+      "timestamp": "2026-03-21T06:33:00Z",
+      "address": "TRANS CANADA HWY & BRUNETTE AVENUE OFRP",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/trans-canada-hwy",
+        "coquitlam/brunette-avenue-ofrp"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy",
+        "Brunette Avenue Ofrp"
+      ],
+      "pulsePointId": "2438406425"
+    },
+    {
       "id": "2026-03-17T07:58:00Z_coquitlam/trans-canada-hwy",
       "timestamp": "2026-03-17T07:58:00Z",
       "address": "TRANS CANADA HWY",
@@ -71,6 +86,6 @@
       "pulsePointId": "2434158498"
     }
   ],
-  "lastIncident": "2026-03-17T07:58:00Z",
-  "count": 5
+  "lastIncident": "2026-03-21T06:33:00Z",
+  "count": 6
 }
