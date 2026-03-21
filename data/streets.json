@@ -3407,5 +3407,19 @@
     "city": "Delta",
     "lastIncident": "2026-03-21T13:11:00Z",
     "count": 1
+  },
+  "white-rock/habgood-st": {
+    "name": "Habgood St",
+    "slug": "white-rock/habgood-st",
+    "city": "White Rock",
+    "lastIncident": "2026-03-21T17:51:00Z",
+    "count": 1
+  },
+  "white-rock/pacific-ave": {
+    "name": "Pacific Ave",
+    "slug": "white-rock/pacific-ave",
+    "city": "White Rock",
+    "lastIncident": "2026-03-21T17:51:00Z",
+    "count": 1
   }
 }

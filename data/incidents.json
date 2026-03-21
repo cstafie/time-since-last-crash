@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-21T17:51:00Z_white-rock/habgood-st_white-rock/pacific-ave",
+    "timestamp": "2026-03-21T17:51:00Z",
+    "scrapedAt": "2026-03-21T18:02:54Z",
+    "address": "HABGOOD ST & PACIFIC AVE",
+    "city": "White Rock",
+    "streets": [
+      "white-rock/habgood-st",
+      "white-rock/pacific-ave"
+    ],
+    "streetNames": [
+      "Habgood St",
+      "Pacific Ave"
+    ],
+    "pulsePointId": "2438631704"
+  },
+  {
     "id": "2026-03-21T16:40:00Z_surrey/96th-ave_surrey/king-george-blvd",
     "timestamp": "2026-03-21T16:40:00Z",
     "scrapedAt": "2026-03-21T16:41:45Z",
