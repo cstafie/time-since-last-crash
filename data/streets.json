@@ -647,8 +647,8 @@
     "name": "96th Ave",
     "slug": "surrey/96th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-16T03:11:00Z",
-    "count": 3
+    "lastIncident": "2026-03-21T16:40:00Z",
+    "count": 5
   },
   "surrey/bolivar-rd": {
     "name": "Bolivar Rd",
@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-03-20T17:26:00Z",
-    "count": 8
+    "lastIncident": "2026-03-21T16:40:00Z",
+    "count": 10
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",

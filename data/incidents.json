@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-21T16:40:00Z_surrey/96th-ave_surrey/king-george-blvd",
+    "timestamp": "2026-03-21T16:40:00Z",
+    "scrapedAt": "2026-03-21T16:41:45Z",
+    "address": "96TH AVE & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/96th-ave",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "96th Ave",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2438593940"
+  },
+  {
+    "id": "2026-03-21T16:39:00Z_surrey/96th-ave_surrey/king-george-blvd",
+    "timestamp": "2026-03-21T16:39:00Z",
+    "scrapedAt": "2026-03-21T16:41:45Z",
+    "address": "96TH AVE & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/96th-ave",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "96th Ave",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2438593927"
+  },
+  {
     "id": "2026-03-21T13:11:00Z_delta/64th-avenue-ofrp_delta/hwy-91",
     "timestamp": "2026-03-21T13:11:00Z",
     "scrapedAt": "2026-03-21T13:15:47Z",
