@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-21T03:38:00Z_surrey/fraser-hwy_surrey/willowbrook-dr",
+    "timestamp": "2026-03-21T03:38:00Z",
+    "scrapedAt": "2026-03-21T04:11:20Z",
+    "address": "FRASER HWY & WILLOWBROOK DR",
+    "city": "Surrey",
+    "streets": [
+      "surrey/fraser-hwy",
+      "surrey/willowbrook-dr"
+    ],
+    "streetNames": [
+      "Fraser Hwy",
+      "Willowbrook Dr"
+    ],
+    "pulsePointId": "2438328293"
+  },
+  {
     "id": "2026-03-21T02:07:00Z_vancouver/nanaimo-st_vancouver/e-hastings-st",
     "timestamp": "2026-03-21T02:07:00Z",
     "scrapedAt": "2026-03-21T02:20:37Z",

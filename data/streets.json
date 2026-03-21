@@ -927,8 +927,8 @@
     "name": "Fraser Hwy",
     "slug": "surrey/fraser-hwy",
     "city": "Surrey",
-    "lastIncident": "2026-03-20T19:02:00Z",
-    "count": 2
+    "lastIncident": "2026-03-21T03:38:00Z",
+    "count": 3
   },
   "surrey/159th-st": {
     "name": "159th St",
@@ -3350,6 +3350,13 @@
     "slug": "vancouver/grandview-hwy-s",
     "city": "Vancouver",
     "lastIncident": "2026-03-20T23:03:00Z",
+    "count": 1
+  },
+  "surrey/willowbrook-dr": {
+    "name": "Willowbrook Dr",
+    "slug": "surrey/willowbrook-dr",
+    "city": "Surrey",
+    "lastIncident": "2026-03-21T03:38:00Z",
     "count": 1
   }
 }

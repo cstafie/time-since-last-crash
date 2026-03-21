@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-03-21T03:38:00Z_surrey/fraser-hwy_surrey/willowbrook-dr",
+      "timestamp": "2026-03-21T03:38:00Z",
+      "address": "FRASER HWY & WILLOWBROOK DR",
+      "city": "Surrey",
+      "streets": [
+        "surrey/fraser-hwy",
+        "surrey/willowbrook-dr"
+      ],
+      "streetNames": [
+        "Fraser Hwy",
+        "Willowbrook Dr"
+      ],
+      "pulsePointId": "2438328293"
+    },
+    {
       "id": "2026-03-20T19:02:00Z_surrey/fraser-hwy",
       "timestamp": "2026-03-20T19:02:00Z",
       "address": "FRASER HWY",
@@ -31,6 +46,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-20T19:02:00Z",
-  "count": 2
+  "lastIncident": "2026-03-21T03:38:00Z",
+  "count": 3
 }
