@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/clark-dr",
+  "name": "Clark Dr",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-21T20:44:00Z_vancouver/clark-dr_vancouver/e-broadway",
+      "timestamp": "2026-03-21T20:44:00Z",
+      "address": "CLARK DR & E BROADWAY",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/clark-dr",
+        "vancouver/e-broadway"
+      ],
+      "streetNames": [
+        "Clark Dr",
+        "E Broadway"
+      ],
+      "pulsePointId": "2438733768"
+    }
+  ],
+  "lastIncident": "2026-03-21T20:44:00Z",
+  "count": 1
+}
