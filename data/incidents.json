@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-21T10:06:00Z_vancouver/cambie-street-brdg",
+    "timestamp": "2026-03-21T10:06:00Z",
+    "scrapedAt": "2026-03-21T10:40:47Z",
+    "address": "CAMBIE STREET BRDG",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/cambie-street-brdg"
+    ],
+    "streetNames": [
+      "Cambie Street Brdg"
+    ],
+    "pulsePointId": "2438464234"
+  },
+  {
     "id": "2026-03-21T08:45:00Z_vancouver/e-47th-ave_vancouver/fraser-st",
     "timestamp": "2026-03-21T08:45:00Z",
     "scrapedAt": "2026-03-21T09:05:43Z",

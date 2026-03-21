@@ -3393,5 +3393,12 @@
     "city": "Vancouver",
     "lastIncident": "2026-03-21T08:45:00Z",
     "count": 1
+  },
+  "vancouver/cambie-street-brdg": {
+    "name": "Cambie Street Brdg",
+    "slug": "vancouver/cambie-street-brdg",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-21T10:06:00Z",
+    "count": 1
   }
 }
