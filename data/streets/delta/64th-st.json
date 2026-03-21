@@ -1,0 +1,24 @@
+{
+  "slug": "delta/64th-st",
+  "name": "64th St",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-03-21T22:56:00Z_delta/ladner-trunk-rd_delta/64th-st",
+      "timestamp": "2026-03-21T22:56:00Z",
+      "address": "LADNER TRUNK RD & 64TH ST",
+      "city": "Delta",
+      "streets": [
+        "delta/ladner-trunk-rd",
+        "delta/64th-st"
+      ],
+      "streetNames": [
+        "Ladner Trunk Rd",
+        "64th St"
+      ],
+      "pulsePointId": "2438812052"
+    }
+  ],
+  "lastIncident": "2026-03-21T22:56:00Z",
+  "count": 1
+}
