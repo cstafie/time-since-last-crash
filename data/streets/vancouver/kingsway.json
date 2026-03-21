@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-21T22:03:00Z_vancouver/kingsway_vancouver/e-12th-ave",
+      "timestamp": "2026-03-21T22:03:00Z",
+      "address": "KINGSWAY & E 12TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/kingsway",
+        "vancouver/e-12th-ave"
+      ],
+      "streetNames": [
+        "Kingsway",
+        "E 12th Ave"
+      ],
+      "pulsePointId": "2438779859"
+    },
+    {
       "id": "2026-03-18T21:55:00Z_vancouver/kingsway_vancouver/rupert-st",
       "timestamp": "2026-03-18T21:55:00Z",
       "address": "KINGSWAY & RUPERT ST",
@@ -61,6 +76,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-18T21:55:00Z",
-  "count": 4
+  "lastIncident": "2026-03-21T22:03:00Z",
+  "count": 5
 }

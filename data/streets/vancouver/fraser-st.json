@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-21T22:14:00Z_vancouver/fraser-st_vancouver/e-17th-ave",
+      "timestamp": "2026-03-21T22:14:00Z",
+      "address": "FRASER ST & E 17TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/fraser-st",
+        "vancouver/e-17th-ave"
+      ],
+      "streetNames": [
+        "Fraser St",
+        "E 17th Ave"
+      ],
+      "pulsePointId": "2438787356"
+    },
+    {
       "id": "2026-03-21T08:45:00Z_vancouver/e-47th-ave_vancouver/fraser-st",
       "timestamp": "2026-03-21T08:45:00Z",
       "address": "E 47TH AVE & FRASER ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2438036867"
     }
   ],
-  "lastIncident": "2026-03-21T08:45:00Z",
-  "count": 2
+  "lastIncident": "2026-03-21T22:14:00Z",
+  "count": 3
 }

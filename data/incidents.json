@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-21T22:14:00Z_vancouver/fraser-st_vancouver/e-17th-ave",
+    "timestamp": "2026-03-21T22:14:00Z",
+    "scrapedAt": "2026-03-21T22:39:38Z",
+    "address": "FRASER ST & E 17TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/fraser-st",
+      "vancouver/e-17th-ave"
+    ],
+    "streetNames": [
+      "Fraser St",
+      "E 17th Ave"
+    ],
+    "pulsePointId": "2438787356"
+  },
+  {
+    "id": "2026-03-21T22:03:00Z_vancouver/kingsway_vancouver/e-12th-ave",
+    "timestamp": "2026-03-21T22:03:00Z",
+    "scrapedAt": "2026-03-21T22:39:38Z",
+    "address": "KINGSWAY & E 12TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kingsway",
+      "vancouver/e-12th-ave"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "E 12th Ave"
+    ],
+    "pulsePointId": "2438779859"
+  },
+  {
     "id": "2026-03-21T20:44:00Z_vancouver/clark-dr_vancouver/e-broadway",
     "timestamp": "2026-03-21T20:44:00Z",
     "scrapedAt": "2026-03-21T21:03:36Z",
