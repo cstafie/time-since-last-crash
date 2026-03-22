@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-22T05:12:00Z_pitt-meadows/lougheed-hwy_pitt-meadows/harris-rd",
+    "timestamp": "2026-03-22T05:12:00Z",
+    "scrapedAt": "2026-03-22T05:24:20Z",
+    "address": "LOUGHEED HWY & HARRIS RD",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/lougheed-hwy",
+      "pitt-meadows/harris-rd"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "Harris Rd"
+    ],
+    "pulsePointId": "2439010835"
+  },
+  {
+    "id": "2026-03-22T04:51:00Z_surrey/144a-st_surrey/king-george-blvd",
+    "timestamp": "2026-03-22T04:51:00Z",
+    "scrapedAt": "2026-03-22T05:24:20Z",
+    "address": "144A ST & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/144a-st",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "144a St",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2439000957"
+  },
+  {
     "id": "2026-03-22T04:22:00Z_surrey/golden-ears-way",
     "timestamp": "2026-03-22T04:22:00Z",
     "scrapedAt": "2026-03-22T04:35:14Z",

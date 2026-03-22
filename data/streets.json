@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-03-21T16:40:00Z",
-    "count": 10
+    "lastIncident": "2026-03-22T04:51:00Z",
+    "count": 11
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -829,8 +829,8 @@
     "name": "Lougheed Hwy",
     "slug": "pitt-meadows/lougheed-hwy",
     "city": "Pitt Meadows",
-    "lastIncident": "2026-03-10T20:36:00Z",
-    "count": 2
+    "lastIncident": "2026-03-22T05:12:00Z",
+    "count": 3
   },
   "langley/240th-st": {
     "name": "240th St",
@@ -3511,6 +3511,20 @@
     "slug": "surrey/golden-ears-way",
     "city": "Surrey",
     "lastIncident": "2026-03-22T04:22:00Z",
+    "count": 1
+  },
+  "surrey/144a-st": {
+    "name": "144a St",
+    "slug": "surrey/144a-st",
+    "city": "Surrey",
+    "lastIncident": "2026-03-22T04:51:00Z",
+    "count": 1
+  },
+  "pitt-meadows/harris-rd": {
+    "name": "Harris Rd",
+    "slug": "pitt-meadows/harris-rd",
+    "city": "Pitt Meadows",
+    "lastIncident": "2026-03-22T05:12:00Z",
     "count": 1
   }
 }
