@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-22T06:59:00Z_surrey/80th-ave_surrey/176th-st",
+    "timestamp": "2026-03-22T06:59:00Z",
+    "scrapedAt": "2026-03-22T07:14:20Z",
+    "address": "80TH AVE & 176TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/80th-ave",
+      "surrey/176th-st"
+    ],
+    "streetNames": [
+      "80th Ave",
+      "176th St"
+    ],
+    "pulsePointId": "2439052051"
+  },
+  {
+    "id": "2026-03-22T06:58:00Z_surrey/80th-ave",
+    "timestamp": "2026-03-22T06:58:00Z",
+    "scrapedAt": "2026-03-22T07:14:20Z",
+    "address": "80TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/80th-ave"
+    ],
+    "streetNames": [
+      "80th Ave"
+    ],
+    "pulsePointId": "2439051366"
+  },
+  {
     "id": "2026-03-22T06:26:00Z_burnaby/gaglardi-way",
     "timestamp": "2026-03-22T06:26:00Z",
     "scrapedAt": "2026-03-22T06:44:59Z",
