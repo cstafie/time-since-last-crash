@@ -192,8 +192,8 @@
     "name": "Hwy 91",
     "slug": "delta/hwy-91",
     "city": "Delta",
-    "lastIncident": "2026-03-21T13:11:00Z",
-    "count": 4
+    "lastIncident": "2026-03-22T11:29:00Z",
+    "count": 5
   },
   "delta/ladner-trunk-rd": {
     "name": "Ladner Trunk Rd",
@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-17T03:02:00Z",
-    "count": 4
+    "lastIncident": "2026-03-22T11:19:00Z",
+    "count": 5
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -3539,6 +3539,27 @@
     "slug": "north-vancouver/w-3rd-st",
     "city": "North Vancouver",
     "lastIncident": "2026-03-22T08:44:00Z",
+    "count": 1
+  },
+  "delta/hwy-10-ofrp": {
+    "name": "Hwy 10 Ofrp",
+    "slug": "delta/hwy-10-ofrp",
+    "city": "Delta",
+    "lastIncident": "2026-03-22T11:29:00Z",
+    "count": 1
+  },
+  "burnaby/beaverbrook-dr": {
+    "name": "Beaverbrook Dr",
+    "slug": "burnaby/beaverbrook-dr",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-22T11:23:00Z",
+    "count": 1
+  },
+  "vancouver/w-13th-ave": {
+    "name": "W 13th Ave",
+    "slug": "vancouver/w-13th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-22T11:19:00Z",
     "count": 1
   }
 }

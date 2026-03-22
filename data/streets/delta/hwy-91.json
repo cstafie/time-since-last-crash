@@ -4,6 +4,21 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-03-22T11:29:00Z_delta/hwy-91_delta/hwy-10-ofrp",
+      "timestamp": "2026-03-22T11:29:00Z",
+      "address": "HWY 91 & HWY 10 OFRP",
+      "city": "Delta",
+      "streets": [
+        "delta/hwy-91",
+        "delta/hwy-10-ofrp"
+      ],
+      "streetNames": [
+        "Hwy 91",
+        "Hwy 10 Ofrp"
+      ],
+      "pulsePointId": "2439127744"
+    },
+    {
       "id": "2026-03-21T13:11:00Z_delta/64th-avenue-ofrp_delta/hwy-91",
       "timestamp": "2026-03-21T13:11:00Z",
       "address": "64TH AVENUE OFRP & HWY 91",
@@ -56,6 +71,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-21T13:11:00Z",
-  "count": 4
+  "lastIncident": "2026-03-22T11:29:00Z",
+  "count": 5
 }

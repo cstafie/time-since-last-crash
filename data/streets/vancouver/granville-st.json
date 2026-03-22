@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-22T11:19:00Z_vancouver/granville-st_vancouver/w-13th-ave",
+      "timestamp": "2026-03-22T11:19:00Z",
+      "address": "GRANVILLE ST & W 13TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st",
+        "vancouver/w-13th-ave"
+      ],
+      "streetNames": [
+        "Granville St",
+        "W 13th Ave"
+      ],
+      "pulsePointId": "2439124462"
+    },
+    {
       "id": "2026-03-17T03:02:00Z_vancouver/w-41st-ave_vancouver/granville-st",
       "timestamp": "2026-03-17T03:02:00Z",
       "address": "W 41ST AVE & GRANVILLE ST",
@@ -59,6 +74,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-17T03:02:00Z",
-  "count": 4
+  "lastIncident": "2026-03-22T11:19:00Z",
+  "count": 5
 }

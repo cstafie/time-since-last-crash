@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-03-22T11:29:00Z_delta/hwy-91_delta/hwy-10-ofrp",
+    "timestamp": "2026-03-22T11:29:00Z",
+    "scrapedAt": "2026-03-22T11:36:39Z",
+    "address": "HWY 91 & HWY 10 OFRP",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-91",
+      "delta/hwy-10-ofrp"
+    ],
+    "streetNames": [
+      "Hwy 91",
+      "Hwy 10 Ofrp"
+    ],
+    "pulsePointId": "2439127744"
+  },
+  {
+    "id": "2026-03-22T11:23:00Z_burnaby/beaverbrook-dr",
+    "timestamp": "2026-03-22T11:23:00Z",
+    "scrapedAt": "2026-03-22T11:36:39Z",
+    "address": "BEAVERBROOK DR",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/beaverbrook-dr"
+    ],
+    "streetNames": [
+      "Beaverbrook Dr"
+    ],
+    "pulsePointId": "2439125785"
+  },
+  {
+    "id": "2026-03-22T11:19:00Z_vancouver/granville-st_vancouver/w-13th-ave",
+    "timestamp": "2026-03-22T11:19:00Z",
+    "scrapedAt": "2026-03-22T11:36:39Z",
+    "address": "GRANVILLE ST & W 13TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st",
+      "vancouver/w-13th-ave"
+    ],
+    "streetNames": [
+      "Granville St",
+      "W 13th Ave"
+    ],
+    "pulsePointId": "2439124462"
+  },
+  {
     "id": "2026-03-22T10:45:00Z_surrey/146th-st_surrey/108th-ave",
     "timestamp": "2026-03-22T10:45:00Z",
     "scrapedAt": "2026-03-22T11:03:50Z",

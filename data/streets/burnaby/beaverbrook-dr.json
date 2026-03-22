@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/beaverbrook-dr",
+  "name": "Beaverbrook Dr",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-03-22T11:23:00Z_burnaby/beaverbrook-dr",
+      "timestamp": "2026-03-22T11:23:00Z",
+      "address": "BEAVERBROOK DR",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/beaverbrook-dr"
+      ],
+      "streetNames": [
+        "Beaverbrook Dr"
+      ],
+      "pulsePointId": "2439125785"
+    }
+  ],
+  "lastIncident": "2026-03-22T11:23:00Z",
+  "count": 1
+}
