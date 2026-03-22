@@ -1,0 +1,22 @@
+{
+  "slug": "maple-ridge/fraser-st",
+  "name": "Fraser St",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-03-22T11:59:00Z_maple-ridge/fraser-st",
+      "timestamp": "2026-03-22T11:59:00Z",
+      "address": "FRASER ST",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/fraser-st"
+      ],
+      "streetNames": [
+        "Fraser St"
+      ],
+      "pulsePointId": "2439135906"
+    }
+  ],
+  "lastIncident": "2026-03-22T11:59:00Z",
+  "count": 1
+}
