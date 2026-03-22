@@ -479,8 +479,8 @@
     "name": "No 2 Rd",
     "slug": "richmond/no-2-rd",
     "city": "Richmond",
-    "lastIncident": "2026-03-14T01:07:00Z",
-    "count": 2
+    "lastIncident": "2026-03-22T17:16:00Z",
+    "count": 3
   },
   "richmond/no-3-rd": {
     "name": "No 3 Rd",
@@ -1704,8 +1704,8 @@
     "name": "Francis Rd",
     "slug": "richmond/francis-rd",
     "city": "Richmond",
-    "lastIncident": "2026-03-14T01:07:00Z",
-    "count": 2
+    "lastIncident": "2026-03-22T17:16:00Z",
+    "count": 3
   },
   "maple-ridge/216th-st": {
     "name": "216th St",

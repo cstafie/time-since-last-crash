@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-22T17:16:00Z_richmond/francis-rd_richmond/no-2-rd",
+    "timestamp": "2026-03-22T17:16:00Z",
+    "scrapedAt": "2026-03-22T17:38:49Z",
+    "address": "FRANCIS RD & NO 2 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/francis-rd",
+      "richmond/no-2-rd"
+    ],
+    "streetNames": [
+      "Francis Rd",
+      "No 2 Rd"
+    ],
+    "pulsePointId": "2439258471"
+  },
+  {
     "id": "2026-03-22T13:58:00Z_burnaby/walker-ave",
     "timestamp": "2026-03-22T13:58:00Z",
     "scrapedAt": "2026-03-22T14:05:54Z",
