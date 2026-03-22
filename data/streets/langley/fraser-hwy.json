@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-03-22T01:59:00Z_langley/256th-st_langley/fraser-hwy",
+      "timestamp": "2026-03-22T01:59:00Z",
+      "address": "256TH ST & FRASER HWY",
+      "city": "Langley",
+      "streets": [
+        "langley/256th-st",
+        "langley/fraser-hwy"
+      ],
+      "streetNames": [
+        "256th St",
+        "Fraser Hwy"
+      ],
+      "pulsePointId": "2438915688"
+    },
+    {
       "id": "2026-03-20T17:06:00Z_langley/fraser-hwy_langley/langley-bps",
       "timestamp": "2026-03-20T17:06:00Z",
       "address": "FRASER HWY & LANGLEY BPS",
@@ -132,6 +147,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-20T17:06:00Z",
-  "count": 9
+  "lastIncident": "2026-03-22T01:59:00Z",
+  "count": 10
 }
