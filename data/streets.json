@@ -3526,5 +3526,12 @@
     "city": "Pitt Meadows",
     "lastIncident": "2026-03-22T05:12:00Z",
     "count": 1
+  },
+  "burnaby/gaglardi-way": {
+    "name": "Gaglardi Way",
+    "slug": "burnaby/gaglardi-way",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-22T06:26:00Z",
+    "count": 1
   }
 }

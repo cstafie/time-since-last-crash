@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/gaglardi-way",
+  "name": "Gaglardi Way",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-03-22T06:26:00Z_burnaby/gaglardi-way",
+      "timestamp": "2026-03-22T06:26:00Z",
+      "address": "GAGLARDI WAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/gaglardi-way"
+      ],
+      "streetNames": [
+        "Gaglardi Way"
+      ],
+      "pulsePointId": "2439039502"
+    }
+  ],
+  "lastIncident": "2026-03-22T06:26:00Z",
+  "count": 1
+}
