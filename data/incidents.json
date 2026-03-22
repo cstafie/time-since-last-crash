@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-22T19:01:00Z_vancouver/e-28th-ave_vancouver/fraser-st",
+    "timestamp": "2026-03-22T19:01:00Z",
+    "scrapedAt": "2026-03-22T19:06:58Z",
+    "address": "E 28TH AVE & FRASER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-28th-ave",
+      "vancouver/fraser-st"
+    ],
+    "streetNames": [
+      "E 28th Ave",
+      "Fraser St"
+    ],
+    "pulsePointId": "2439314440"
+  },
+  {
+    "id": "2026-03-22T18:58:00Z_langley/200th-street-ofrp_langley/trans-canada-hwy",
+    "timestamp": "2026-03-22T18:58:00Z",
+    "scrapedAt": "2026-03-22T19:06:58Z",
+    "address": "200TH STREET OFRP & TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/200th-street-ofrp",
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "200th Street Ofrp",
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2439314574"
+  },
+  {
     "id": "2026-03-22T18:26:00Z_coquitlam/valleyvista-dr_coquitlam/johnson-st",
     "timestamp": "2026-03-22T18:26:00Z",
     "scrapedAt": "2026-03-22T18:43:23Z",
