@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-22T20:01:00Z_surrey/100th-ave_surrey/whalley-blvd",
+    "timestamp": "2026-03-22T20:01:00Z",
+    "scrapedAt": "2026-03-22T20:40:58Z",
+    "address": "100TH AVE & WHALLEY BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/100th-ave",
+      "surrey/whalley-blvd"
+    ],
+    "streetNames": [
+      "100th Ave",
+      "Whalley Blvd"
+    ],
+    "pulsePointId": "2439346618"
+  },
+  {
     "id": "2026-03-22T19:01:00Z_vancouver/e-28th-ave_vancouver/fraser-st",
     "timestamp": "2026-03-22T19:01:00Z",
     "scrapedAt": "2026-03-22T19:06:58Z",
