@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-22T08:44:00Z_north-vancouver/chesterfield-ave_north-vancouver/w-3rd-st",
+    "timestamp": "2026-03-22T08:44:00Z",
+    "scrapedAt": "2026-03-22T09:06:01Z",
+    "address": "CHESTERFIELD AVE & W 3RD ST",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/chesterfield-ave",
+      "north-vancouver/w-3rd-st"
+    ],
+    "streetNames": [
+      "Chesterfield Ave",
+      "W 3rd St"
+    ],
+    "pulsePointId": "2439083787"
+  },
+  {
     "id": "2026-03-22T07:29:00Z_surrey/trans-canada-hwy",
     "timestamp": "2026-03-22T07:29:00Z",
     "scrapedAt": "2026-03-22T07:42:34Z",

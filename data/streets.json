@@ -3020,8 +3020,8 @@
     "name": "Chesterfield Ave",
     "slug": "north-vancouver/chesterfield-ave",
     "city": "North Vancouver",
-    "lastIncident": "2026-03-19T15:38:00Z",
-    "count": 1
+    "lastIncident": "2026-03-22T08:44:00Z",
+    "count": 2
   },
   "chilliwack/maple-ave": {
     "name": "Maple Ave",
@@ -3532,6 +3532,13 @@
     "slug": "burnaby/gaglardi-way",
     "city": "Burnaby",
     "lastIncident": "2026-03-22T06:26:00Z",
+    "count": 1
+  },
+  "north-vancouver/w-3rd-st": {
+    "name": "W 3rd St",
+    "slug": "north-vancouver/w-3rd-st",
+    "city": "North Vancouver",
+    "lastIncident": "2026-03-22T08:44:00Z",
     "count": 1
   }
 }
