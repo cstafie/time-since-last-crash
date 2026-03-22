@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-22T22:45:00Z_surrey/58a-ave",
+    "timestamp": "2026-03-22T22:45:00Z",
+    "scrapedAt": "2026-03-22T23:03:58Z",
+    "address": "58A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/58a-ave"
+    ],
+    "streetNames": [
+      "58a Ave"
+    ],
+    "pulsePointId": "2439441213"
+  },
+  {
     "id": "2026-03-22T21:10:00Z_surrey/king-george-blvd",
     "timestamp": "2026-03-22T21:10:00Z",
     "scrapedAt": "2026-03-22T21:38:48Z",
