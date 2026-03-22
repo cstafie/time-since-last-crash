@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-22T03:48:00Z_vancouver/helmcken-st",
+    "timestamp": "2026-03-22T03:48:00Z",
+    "scrapedAt": "2026-03-22T03:52:22Z",
+    "address": "HELMCKEN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/helmcken-st"
+    ],
+    "streetNames": [
+      "Helmcken St"
+    ],
+    "pulsePointId": "2438973030"
+  },
+  {
+    "id": "2026-03-22T03:00:00Z_maple-ridge/240th-st_maple-ridge/dewdney-trunk-rd",
+    "timestamp": "2026-03-22T03:00:00Z",
+    "scrapedAt": "2026-03-22T03:52:22Z",
+    "address": "240TH ST & DEWDNEY TRUNK RD",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/240th-st",
+      "maple-ridge/dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "240th St",
+      "Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2438947487"
+  },
+  {
     "id": "2026-03-22T01:59:00Z_langley/256th-st_langley/fraser-hwy",
     "timestamp": "2026-03-22T01:59:00Z",
     "scrapedAt": "2026-03-22T02:58:11Z",

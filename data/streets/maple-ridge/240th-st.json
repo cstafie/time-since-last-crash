@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-03-22T03:00:00Z_maple-ridge/240th-st_maple-ridge/dewdney-trunk-rd",
+      "timestamp": "2026-03-22T03:00:00Z",
+      "address": "240TH ST & DEWDNEY TRUNK RD",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/240th-st",
+        "maple-ridge/dewdney-trunk-rd"
+      ],
+      "streetNames": [
+        "240th St",
+        "Dewdney Trunk Rd"
+      ],
+      "pulsePointId": "2438947487"
+    },
+    {
       "id": "2026-03-17T04:28:00Z_maple-ridge/240th-st_maple-ridge/lougheed-hwy",
       "timestamp": "2026-03-17T04:28:00Z",
       "address": "240TH ST & LOUGHEED HWY",
@@ -19,6 +34,6 @@
       "pulsePointId": "2435629259"
     }
   ],
-  "lastIncident": "2026-03-17T04:28:00Z",
-  "count": 1
+  "lastIncident": "2026-03-22T03:00:00Z",
+  "count": 2
 }
