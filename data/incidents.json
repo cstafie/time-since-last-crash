@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-22T04:22:00Z_surrey/golden-ears-way",
+    "timestamp": "2026-03-22T04:22:00Z",
+    "scrapedAt": "2026-03-22T04:35:14Z",
+    "address": "GOLDEN EARS WAY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/golden-ears-way"
+    ],
+    "streetNames": [
+      "Golden Ears Way"
+    ],
+    "pulsePointId": "2438989206"
+  },
+  {
     "id": "2026-03-22T03:48:00Z_vancouver/helmcken-st",
     "timestamp": "2026-03-22T03:48:00Z",
     "scrapedAt": "2026-03-22T03:52:22Z",

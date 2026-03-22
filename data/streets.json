@@ -3505,5 +3505,12 @@
     "city": "Vancouver",
     "lastIncident": "2026-03-22T03:48:00Z",
     "count": 1
+  },
+  "surrey/golden-ears-way": {
+    "name": "Golden Ears Way",
+    "slug": "surrey/golden-ears-way",
+    "city": "Surrey",
+    "lastIncident": "2026-03-22T04:22:00Z",
+    "count": 1
   }
 }
