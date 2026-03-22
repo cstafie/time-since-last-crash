@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-22T23:29:00Z_abbotsford/sumas-way",
+    "timestamp": "2026-03-22T23:29:00Z",
+    "scrapedAt": "2026-03-22T23:40:07Z",
+    "address": "SUMAS WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/sumas-way"
+    ],
+    "streetNames": [
+      "Sumas Way"
+    ],
+    "pulsePointId": "2439464523"
+  },
+  {
     "id": "2026-03-22T22:45:00Z_surrey/58a-ave",
     "timestamp": "2026-03-22T22:45:00Z",
     "scrapedAt": "2026-03-22T23:03:58Z",
