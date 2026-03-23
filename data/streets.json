@@ -423,8 +423,8 @@
     "name": "Mary Hill Bps",
     "slug": "port-coquitlam/mary-hill-bps",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-03-12T03:37:00Z",
-    "count": 3
+    "lastIncident": "2026-03-23T19:52:00Z",
+    "count": 4
   },
   "richmond/8111-ackroyd-rd": {
     "name": "8111 Ackroyd Rd",
@@ -1452,8 +1452,8 @@
     "name": "Pitt River Rd",
     "slug": "port-coquitlam/pitt-river-rd",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-03-12T07:15:00Z",
-    "count": 2
+    "lastIncident": "2026-03-23T19:52:00Z",
+    "count": 3
   },
   "richmond/jow-st": {
     "name": "Jow St",
