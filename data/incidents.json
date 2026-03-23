@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-23T10:04:00Z_abbotsford/ross-rd",
+    "timestamp": "2026-03-23T10:04:00Z",
+    "scrapedAt": "2026-03-23T10:18:09Z",
+    "address": "ROSS RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/ross-rd"
+    ],
+    "streetNames": [
+      "Ross Rd"
+    ],
+    "pulsePointId": "2439723875"
+  },
+  {
     "id": "2026-03-23T06:32:00Z_abbotsford/cottonwood-st_abbotsford/fraser-hwy",
     "timestamp": "2026-03-23T06:32:00Z",
     "scrapedAt": "2026-03-23T06:39:09Z",

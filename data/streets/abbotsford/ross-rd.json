@@ -4,6 +4,19 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-03-23T10:04:00Z_abbotsford/ross-rd",
+      "timestamp": "2026-03-23T10:04:00Z",
+      "address": "ROSS RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/ross-rd"
+      ],
+      "streetNames": [
+        "Ross Rd"
+      ],
+      "pulsePointId": "2439723875"
+    },
+    {
       "id": "2026-03-18T03:35:00Z_abbotsford/ross-rd_abbotsford/downes-rd",
       "timestamp": "2026-03-18T03:35:00Z",
       "address": "ROSS RD & DOWNES RD",
@@ -33,6 +46,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-18T03:35:00Z",
-  "count": 2
+  "lastIncident": "2026-03-23T10:04:00Z",
+  "count": 3
 }
