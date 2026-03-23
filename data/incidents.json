@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-23T05:53:00Z_burnaby/broadway_burnaby/gaglardi-way",
+    "timestamp": "2026-03-23T05:53:00Z",
+    "scrapedAt": "2026-03-23T05:59:34Z",
+    "address": "BROADWAY & GAGLARDI WAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/broadway",
+      "burnaby/gaglardi-way"
+    ],
+    "streetNames": [
+      "Broadway",
+      "Gaglardi Way"
+    ],
+    "pulsePointId": "2439652648"
+  },
+  {
+    "id": "2026-03-23T05:45:00Z_surrey/88th-ave_surrey/140th-st",
+    "timestamp": "2026-03-23T05:45:00Z",
+    "scrapedAt": "2026-03-23T05:59:34Z",
+    "address": "88TH AVE & 140TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/88th-ave",
+      "surrey/140th-st"
+    ],
+    "streetNames": [
+      "88th Ave",
+      "140th St"
+    ],
+    "pulsePointId": "2439650392"
+  },
+  {
     "id": "2026-03-23T04:30:00Z_maple-ridge/226th-st_maple-ridge/119th-ave",
     "timestamp": "2026-03-23T04:30:00Z",
     "scrapedAt": "2026-03-23T04:45:55Z",
