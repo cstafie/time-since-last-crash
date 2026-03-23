@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-23T22:15:00Z_vancouver/w-57th-ave",
+    "timestamp": "2026-03-23T22:15:00Z",
+    "scrapedAt": "2026-03-23T22:42:27Z",
+    "address": "W 57TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-57th-ave"
+    ],
+    "streetNames": [
+      "W 57th Ave"
+    ],
+    "pulsePointId": "2440090548"
+  },
+  {
     "id": "2026-03-23T19:52:00Z_port-coquitlam/mary-hill-bps_port-coquitlam/pitt-river-rd",
     "timestamp": "2026-03-23T19:52:00Z",
     "scrapedAt": "2026-03-23T20:09:59Z",
