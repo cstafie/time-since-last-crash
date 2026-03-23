@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-23T03:32:00Z_surrey/92nd-ave_surrey/king-george-blvd",
+    "timestamp": "2026-03-23T03:32:00Z",
+    "scrapedAt": "2026-03-23T03:57:02Z",
+    "address": "92ND AVE & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/92nd-ave",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "92nd Ave",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2439594108"
+  },
+  {
+    "id": "2026-03-23T03:23:00Z_abbotsford/1965-sumas-way",
+    "timestamp": "2026-03-23T03:23:00Z",
+    "scrapedAt": "2026-03-23T03:57:02Z",
+    "address": "1965 SUMAS WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/1965-sumas-way"
+    ],
+    "streetNames": [
+      "1965 Sumas Way"
+    ],
+    "pulsePointId": "2439590201"
+  },
+  {
     "id": "2026-03-23T01:20:00Z_surrey/91st-ave",
     "timestamp": "2026-03-23T01:20:00Z",
     "scrapedAt": "2026-03-23T01:37:07Z",

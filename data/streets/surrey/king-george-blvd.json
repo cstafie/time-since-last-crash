@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-03-23T03:32:00Z_surrey/92nd-ave_surrey/king-george-blvd",
+      "timestamp": "2026-03-23T03:32:00Z",
+      "address": "92ND AVE & KING GEORGE BLVD",
+      "city": "Surrey",
+      "streets": [
+        "surrey/92nd-ave",
+        "surrey/king-george-blvd"
+      ],
+      "streetNames": [
+        "92nd Ave",
+        "King George Blvd"
+      ],
+      "pulsePointId": "2439594108"
+    },
+    {
       "id": "2026-03-22T21:10:00Z_surrey/king-george-blvd",
       "timestamp": "2026-03-22T21:10:00Z",
       "address": "KING GEORGE BLVD",
@@ -176,6 +191,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-22T21:10:00Z",
-  "count": 12
+  "lastIncident": "2026-03-23T03:32:00Z",
+  "count": 13
 }

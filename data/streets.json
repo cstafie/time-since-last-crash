@@ -640,8 +640,8 @@
     "name": "92nd Ave",
     "slug": "surrey/92nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-08T02:12:00Z",
-    "count": 1
+    "lastIncident": "2026-03-23T03:32:00Z",
+    "count": 2
   },
   "surrey/96th-ave": {
     "name": "96th Ave",
@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-03-22T21:10:00Z",
-    "count": 12
+    "lastIncident": "2026-03-23T03:32:00Z",
+    "count": 13
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -3637,6 +3637,13 @@
     "slug": "surrey/91st-ave",
     "city": "Surrey",
     "lastIncident": "2026-03-23T01:20:00Z",
+    "count": 1
+  },
+  "abbotsford/1965-sumas-way": {
+    "name": "1965 Sumas Way",
+    "slug": "abbotsford/1965-sumas-way",
+    "city": "Abbotsford",
+    "lastIncident": "2026-03-23T03:23:00Z",
     "count": 1
   }
 }
