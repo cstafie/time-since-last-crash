@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-23T04:30:00Z_maple-ridge/226th-st_maple-ridge/119th-ave",
+    "timestamp": "2026-03-23T04:30:00Z",
+    "scrapedAt": "2026-03-23T04:45:55Z",
+    "address": "226TH ST & 119TH AVE",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/226th-st",
+      "maple-ridge/119th-ave"
+    ],
+    "streetNames": [
+      "226th St",
+      "119th Ave"
+    ],
+    "pulsePointId": "2439621836"
+  },
+  {
+    "id": "2026-03-23T04:08:00Z_abbotsford/sorenson-st_abbotsford/beaton-rd",
+    "timestamp": "2026-03-23T04:08:00Z",
+    "scrapedAt": "2026-03-23T04:45:55Z",
+    "address": "SORENSON ST & BEATON RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/sorenson-st",
+      "abbotsford/beaton-rd"
+    ],
+    "streetNames": [
+      "Sorenson St",
+      "Beaton Rd"
+    ],
+    "pulsePointId": "2439610851"
+  },
+  {
     "id": "2026-03-23T03:32:00Z_surrey/92nd-ave_surrey/king-george-blvd",
     "timestamp": "2026-03-23T03:32:00Z",
     "scrapedAt": "2026-03-23T03:57:02Z",
