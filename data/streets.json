@@ -24,8 +24,8 @@
     "name": "Mccallum Rd",
     "slug": "abbotsford/mccallum-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-09T23:11:00Z",
-    "count": 2
+    "lastIncident": "2026-03-23T12:58:00Z",
+    "count": 3
   },
   "abbotsford/mcdougall-ave": {
     "name": "Mcdougall Ave",
@@ -38,8 +38,8 @@
     "name": "Ross Rd",
     "slug": "abbotsford/ross-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-23T10:04:00Z",
-    "count": 3
+    "lastIncident": "2026-03-23T13:06:00Z",
+    "count": 4
   },
   "abbotsford/trethewey-st": {
     "name": "Trethewey St",
@@ -528,8 +528,8 @@
     "name": "124th St",
     "slug": "surrey/124th-st",
     "city": "Surrey",
-    "lastIncident": "2026-03-15T17:53:00Z",
-    "count": 2
+    "lastIncident": "2026-03-23T12:49:00Z",
+    "count": 3
   },
   "surrey/128th-st": {
     "name": "128th St",
@@ -2516,8 +2516,8 @@
     "name": "Simpson Rd",
     "slug": "abbotsford/simpson-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-17T11:59:00Z",
-    "count": 1
+    "lastIncident": "2026-03-23T13:06:00Z",
+    "count": 2
   },
   "vancouver/w-king-edward-ave": {
     "name": "W King Edward Ave",
@@ -3679,6 +3679,20 @@
     "slug": "abbotsford/cottonwood-st",
     "city": "Abbotsford",
     "lastIncident": "2026-03-23T06:32:00Z",
+    "count": 1
+  },
+  "abbotsford/gillis-rd": {
+    "name": "Gillis Rd",
+    "slug": "abbotsford/gillis-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-03-23T12:58:00Z",
+    "count": 1
+  },
+  "surrey/68th-ave": {
+    "name": "68th Ave",
+    "slug": "surrey/68th-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-03-23T12:49:00Z",
     "count": 1
   }
 }

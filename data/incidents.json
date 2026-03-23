@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-03-23T13:06:00Z_abbotsford/simpson-rd_abbotsford/ross-rd",
+    "timestamp": "2026-03-23T13:06:00Z",
+    "scrapedAt": "2026-03-23T13:28:19Z",
+    "address": "SIMPSON RD & ROSS RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/simpson-rd",
+      "abbotsford/ross-rd"
+    ],
+    "streetNames": [
+      "Simpson Rd",
+      "Ross Rd"
+    ],
+    "pulsePointId": "2439770613"
+  },
+  {
+    "id": "2026-03-23T12:58:00Z_abbotsford/gillis-rd_abbotsford/mccallum-rd",
+    "timestamp": "2026-03-23T12:58:00Z",
+    "scrapedAt": "2026-03-23T13:28:19Z",
+    "address": "GILLIS RD & MCCALLUM RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/gillis-rd",
+      "abbotsford/mccallum-rd"
+    ],
+    "streetNames": [
+      "Gillis Rd",
+      "Mccallum Rd"
+    ],
+    "pulsePointId": "2439768064"
+  },
+  {
+    "id": "2026-03-23T12:49:00Z_surrey/124th-st_surrey/68th-ave",
+    "timestamp": "2026-03-23T12:49:00Z",
+    "scrapedAt": "2026-03-23T13:28:19Z",
+    "address": "124TH ST & 68TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/124th-st",
+      "surrey/68th-ave"
+    ],
+    "streetNames": [
+      "124th St",
+      "68th Ave"
+    ],
+    "pulsePointId": "2439764591"
+  },
+  {
     "id": "2026-03-23T10:04:00Z_abbotsford/ross-rd",
     "timestamp": "2026-03-23T10:04:00Z",
     "scrapedAt": "2026-03-23T10:18:09Z",

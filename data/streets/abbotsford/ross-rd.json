@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-03-23T13:06:00Z_abbotsford/simpson-rd_abbotsford/ross-rd",
+      "timestamp": "2026-03-23T13:06:00Z",
+      "address": "SIMPSON RD & ROSS RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/simpson-rd",
+        "abbotsford/ross-rd"
+      ],
+      "streetNames": [
+        "Simpson Rd",
+        "Ross Rd"
+      ],
+      "pulsePointId": "2439770613"
+    },
+    {
       "id": "2026-03-23T10:04:00Z_abbotsford/ross-rd",
       "timestamp": "2026-03-23T10:04:00Z",
       "address": "ROSS RD",
@@ -46,6 +61,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-23T10:04:00Z",
-  "count": 3
+  "lastIncident": "2026-03-23T13:06:00Z",
+  "count": 4
 }
