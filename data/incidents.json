@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-23T18:35:00Z_burnaby/royal-oak-ave_burnaby/irving-st",
+    "timestamp": "2026-03-23T18:35:00Z",
+    "scrapedAt": "2026-03-23T18:45:55Z",
+    "address": "ROYAL OAK AVE & IRVING ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/royal-oak-ave",
+      "burnaby/irving-st"
+    ],
+    "streetNames": [
+      "Royal Oak Ave",
+      "Irving St"
+    ],
+    "pulsePointId": "2439944324"
+  },
+  {
     "id": "2026-03-23T13:06:00Z_abbotsford/simpson-rd_abbotsford/ross-rd",
     "timestamp": "2026-03-23T13:06:00Z",
     "scrapedAt": "2026-03-23T13:28:19Z",

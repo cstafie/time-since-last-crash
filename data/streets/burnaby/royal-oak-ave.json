@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/royal-oak-ave",
+  "name": "Royal Oak Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-03-23T18:35:00Z_burnaby/royal-oak-ave_burnaby/irving-st",
+      "timestamp": "2026-03-23T18:35:00Z",
+      "address": "ROYAL OAK AVE & IRVING ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/royal-oak-ave",
+        "burnaby/irving-st"
+      ],
+      "streetNames": [
+        "Royal Oak Ave",
+        "Irving St"
+      ],
+      "pulsePointId": "2439944324"
+    }
+  ],
+  "lastIncident": "2026-03-23T18:35:00Z",
+  "count": 1
+}
