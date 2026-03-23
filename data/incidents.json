@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-23T22:45:00Z_vancouver/w-10th-ave",
+    "timestamp": "2026-03-23T22:45:00Z",
+    "scrapedAt": "2026-03-23T23:06:45Z",
+    "address": "W 10TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-10th-ave"
+    ],
+    "streetNames": [
+      "W 10th Ave"
+    ],
+    "pulsePointId": "2440108210"
+  },
+  {
     "id": "2026-03-23T22:15:00Z_vancouver/w-57th-ave",
     "timestamp": "2026-03-23T22:15:00Z",
     "scrapedAt": "2026-03-23T22:42:27Z",
