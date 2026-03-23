@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-23T19:18:00Z_surrey/148th-st_surrey/64th-ave",
+    "timestamp": "2026-03-23T19:18:00Z",
+    "scrapedAt": "2026-03-23T19:45:06Z",
+    "address": "148TH ST & 64TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/148th-st",
+      "surrey/64th-ave"
+    ],
+    "streetNames": [
+      "148th St",
+      "64th Ave"
+    ],
+    "pulsePointId": "2439973562"
+  },
+  {
     "id": "2026-03-23T18:35:00Z_burnaby/royal-oak-ave_burnaby/irving-st",
     "timestamp": "2026-03-23T18:35:00Z",
     "scrapedAt": "2026-03-23T18:45:55Z",

@@ -598,8 +598,8 @@
     "name": "64th Ave",
     "slug": "surrey/64th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-17T14:38:00Z",
-    "count": 10
+    "lastIncident": "2026-03-23T19:18:00Z",
+    "count": 11
   },
   "surrey/72a-ave": {
     "name": "72a Ave",
@@ -1893,8 +1893,8 @@
     "name": "148th St",
     "slug": "surrey/148th-st",
     "city": "Surrey",
-    "lastIncident": "2026-03-14T12:48:00Z",
-    "count": 2
+    "lastIncident": "2026-03-23T19:18:00Z",
+    "count": 3
   },
   "vancouver/earles-st": {
     "name": "Earles St",
