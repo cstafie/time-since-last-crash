@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/marlborough-ave",
+  "name": "Marlborough Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-03-22T23:40:00Z_burnaby/marlborough-ave",
+      "timestamp": "2026-03-22T23:40:00Z",
+      "address": "MARLBOROUGH AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/marlborough-ave"
+      ],
+      "streetNames": [
+        "Marlborough Ave"
+      ],
+      "pulsePointId": "2439469293"
+    }
+  ],
+  "lastIncident": "2026-03-22T23:40:00Z",
+  "count": 1
+}

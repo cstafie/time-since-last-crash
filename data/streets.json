@@ -3610,5 +3610,12 @@
     "city": "Abbotsford",
     "lastIncident": "2026-03-22T23:29:00Z",
     "count": 1
+  },
+  "burnaby/marlborough-ave": {
+    "name": "Marlborough Ave",
+    "slug": "burnaby/marlborough-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-22T23:40:00Z",
+    "count": 1
   }
 }

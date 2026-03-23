@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-22T23:40:00Z_burnaby/marlborough-ave",
+    "timestamp": "2026-03-22T23:40:00Z",
+    "scrapedAt": "2026-03-23T00:05:06Z",
+    "address": "MARLBOROUGH AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/marlborough-ave"
+    ],
+    "streetNames": [
+      "Marlborough Ave"
+    ],
+    "pulsePointId": "2439469293"
+  },
+  {
     "id": "2026-03-22T23:29:00Z_abbotsford/sumas-way",
     "timestamp": "2026-03-22T23:29:00Z",
     "scrapedAt": "2026-03-22T23:40:07Z",
