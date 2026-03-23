@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-23T00:04:00Z_vancouver/e-hastings-st_vancouver/lillooet-st",
+      "timestamp": "2026-03-23T00:04:00Z",
+      "address": "E HASTINGS ST & LILLOOET ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-hastings-st",
+        "vancouver/lillooet-st"
+      ],
+      "streetNames": [
+        "E Hastings St",
+        "Lillooet St"
+      ],
+      "pulsePointId": "2439483628"
+    },
+    {
       "id": "2026-03-21T02:07:00Z_vancouver/nanaimo-st_vancouver/e-hastings-st",
       "timestamp": "2026-03-21T02:07:00Z",
       "address": "NANAIMO ST & E HASTINGS ST",
@@ -45,6 +60,6 @@
       "pulsePointId": "2433305056"
     }
   ],
-  "lastIncident": "2026-03-21T02:07:00Z",
-  "count": 3
+  "lastIncident": "2026-03-23T00:04:00Z",
+  "count": 4
 }

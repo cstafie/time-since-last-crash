@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-03-23T00:33:00Z_chilliwack/teskey-way",
+    "timestamp": "2026-03-23T00:33:00Z",
+    "scrapedAt": "2026-03-23T00:58:17Z",
+    "address": "TESKEY WAY",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/teskey-way"
+    ],
+    "streetNames": [
+      "Teskey Way"
+    ],
+    "pulsePointId": "2439500569"
+  },
+  {
+    "id": "2026-03-23T00:26:00Z_richmond/no-3-rd_richmond/williams-rd",
+    "timestamp": "2026-03-23T00:26:00Z",
+    "scrapedAt": "2026-03-23T00:58:17Z",
+    "address": "NO 3 RD & WILLIAMS RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/no-3-rd",
+      "richmond/williams-rd"
+    ],
+    "streetNames": [
+      "No 3 Rd",
+      "Williams Rd"
+    ],
+    "pulsePointId": "2439496679"
+  },
+  {
+    "id": "2026-03-23T00:04:00Z_vancouver/e-hastings-st_vancouver/lillooet-st",
+    "timestamp": "2026-03-23T00:04:00Z",
+    "scrapedAt": "2026-03-23T00:58:17Z",
+    "address": "E HASTINGS ST & LILLOOET ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-hastings-st",
+      "vancouver/lillooet-st"
+    ],
+    "streetNames": [
+      "E Hastings St",
+      "Lillooet St"
+    ],
+    "pulsePointId": "2439483628"
+  },
+  {
     "id": "2026-03-22T23:40:00Z_burnaby/marlborough-ave",
     "timestamp": "2026-03-22T23:40:00Z",
     "scrapedAt": "2026-03-23T00:05:06Z",
