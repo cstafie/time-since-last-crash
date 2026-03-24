@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-24T20:52:00Z_vancouver/e-4th-ave_vancouver/clark-dr",
+    "timestamp": "2026-03-24T20:52:00Z",
+    "scrapedAt": "2026-03-24T21:10:01Z",
+    "address": "E 4TH AVE & CLARK DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-4th-ave",
+      "vancouver/clark-dr"
+    ],
+    "streetNames": [
+      "E 4th Ave",
+      "Clark Dr"
+    ],
+    "pulsePointId": "2440699742"
+  },
+  {
     "id": "2026-03-24T19:29:00Z_maple-ridge/21467-dewdney-trunk-rd",
     "timestamp": "2026-03-24T19:29:00Z",
     "scrapedAt": "2026-03-24T19:46:15Z",
