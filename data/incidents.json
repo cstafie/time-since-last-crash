@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-24T16:06:00Z_surrey/33rd-ave_surrey/152nd-st",
+    "timestamp": "2026-03-24T16:06:00Z",
+    "scrapedAt": "2026-03-24T16:19:28Z",
+    "address": "33RD AVE & 152ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/33rd-ave",
+      "surrey/152nd-st"
+    ],
+    "streetNames": [
+      "33rd Ave",
+      "152nd St"
+    ],
+    "pulsePointId": "2440519905"
+  },
+  {
+    "id": "2026-03-24T15:57:00Z_vancouver/alberni-st_vancouver/burrard-st",
+    "timestamp": "2026-03-24T15:57:00Z",
+    "scrapedAt": "2026-03-24T16:19:28Z",
+    "address": "ALBERNI ST & BURRARD ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/alberni-st",
+      "vancouver/burrard-st"
+    ],
+    "streetNames": [
+      "Alberni St",
+      "Burrard St"
+    ],
+    "pulsePointId": "2440515299"
+  },
+  {
     "id": "2026-03-24T14:40:00Z_langley/56th-ave_langley/248th-st",
     "timestamp": "2026-03-24T14:40:00Z",
     "scrapedAt": "2026-03-24T15:21:52Z",
