@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-24T23:00:00Z_vancouver/columbia-st",
+    "timestamp": "2026-03-24T23:00:00Z",
+    "scrapedAt": "2026-03-24T23:06:23Z",
+    "address": "COLUMBIA ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/columbia-st"
+    ],
+    "streetNames": [
+      "Columbia St"
+    ],
+    "pulsePointId": "2440782069"
+  },
+  {
     "id": "2026-03-24T21:42:00Z_maple-ridge/240th-st_maple-ridge/river-rd",
     "timestamp": "2026-03-24T21:42:00Z",
     "scrapedAt": "2026-03-24T22:06:22Z",
