@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-24T06:38:00Z_vancouver/e-54th-ave_vancouver/elliott-st",
+    "timestamp": "2026-03-24T06:38:00Z",
+    "scrapedAt": "2026-03-24T06:46:55Z",
+    "address": "E 54TH AVE & ELLIOTT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-54th-ave",
+      "vancouver/elliott-st"
+    ],
+    "streetNames": [
+      "E 54th Ave",
+      "Elliott St"
+    ],
+    "pulsePointId": "2440342758"
+  },
+  {
+    "id": "2026-03-24T06:22:00Z_vancouver/kingsway_vancouver/melbourne-st",
+    "timestamp": "2026-03-24T06:22:00Z",
+    "scrapedAt": "2026-03-24T06:46:55Z",
+    "address": "KINGSWAY & MELBOURNE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kingsway",
+      "vancouver/melbourne-st"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "Melbourne St"
+    ],
+    "pulsePointId": "2440338032"
+  },
+  {
     "id": "2026-03-24T05:19:00Z_lions-bay/hwy-99_lions-bay/ocean-point-dr",
     "timestamp": "2026-03-24T05:19:00Z",
     "scrapedAt": "2026-03-24T05:27:15Z",

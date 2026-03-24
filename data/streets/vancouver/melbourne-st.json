@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/melbourne-st",
+  "name": "Melbourne St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-24T06:22:00Z_vancouver/kingsway_vancouver/melbourne-st",
+      "timestamp": "2026-03-24T06:22:00Z",
+      "address": "KINGSWAY & MELBOURNE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/kingsway",
+        "vancouver/melbourne-st"
+      ],
+      "streetNames": [
+        "Kingsway",
+        "Melbourne St"
+      ],
+      "pulsePointId": "2440338032"
+    }
+  ],
+  "lastIncident": "2026-03-24T06:22:00Z",
+  "count": 1
+}

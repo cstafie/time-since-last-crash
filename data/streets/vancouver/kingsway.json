@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-24T06:22:00Z_vancouver/kingsway_vancouver/melbourne-st",
+      "timestamp": "2026-03-24T06:22:00Z",
+      "address": "KINGSWAY & MELBOURNE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/kingsway",
+        "vancouver/melbourne-st"
+      ],
+      "streetNames": [
+        "Kingsway",
+        "Melbourne St"
+      ],
+      "pulsePointId": "2440338032"
+    },
+    {
       "id": "2026-03-21T22:03:00Z_vancouver/kingsway_vancouver/e-12th-ave",
       "timestamp": "2026-03-21T22:03:00Z",
       "address": "KINGSWAY & E 12TH AVE",
@@ -76,6 +91,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-21T22:03:00Z",
-  "count": 5
+  "lastIncident": "2026-03-24T06:22:00Z",
+  "count": 6
 }

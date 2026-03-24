@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/e-54th-ave",
+  "name": "E 54th Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-24T06:38:00Z_vancouver/e-54th-ave_vancouver/elliott-st",
+      "timestamp": "2026-03-24T06:38:00Z",
+      "address": "E 54TH AVE & ELLIOTT ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-54th-ave",
+        "vancouver/elliott-st"
+      ],
+      "streetNames": [
+        "E 54th Ave",
+        "Elliott St"
+      ],
+      "pulsePointId": "2440342758"
+    }
+  ],
+  "lastIncident": "2026-03-24T06:38:00Z",
+  "count": 1
+}
