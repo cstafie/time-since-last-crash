@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-24T21:42:00Z_maple-ridge/240th-st_maple-ridge/river-rd",
+    "timestamp": "2026-03-24T21:42:00Z",
+    "scrapedAt": "2026-03-24T22:06:22Z",
+    "address": "240TH ST & RIVER RD",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/240th-st",
+      "maple-ridge/river-rd"
+    ],
+    "streetNames": [
+      "240th St",
+      "River Rd"
+    ],
+    "pulsePointId": "2440732169"
+  },
+  {
     "id": "2026-03-24T21:18:00Z_vancouver/richards-st_vancouver/smithe-st",
     "timestamp": "2026-03-24T21:18:00Z",
     "scrapedAt": "2026-03-24T21:43:10Z",

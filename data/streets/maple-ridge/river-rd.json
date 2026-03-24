@@ -1,0 +1,24 @@
+{
+  "slug": "maple-ridge/river-rd",
+  "name": "River Rd",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-03-24T21:42:00Z_maple-ridge/240th-st_maple-ridge/river-rd",
+      "timestamp": "2026-03-24T21:42:00Z",
+      "address": "240TH ST & RIVER RD",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/240th-st",
+        "maple-ridge/river-rd"
+      ],
+      "streetNames": [
+        "240th St",
+        "River Rd"
+      ],
+      "pulsePointId": "2440732169"
+    }
+  ],
+  "lastIncident": "2026-03-24T21:42:00Z",
+  "count": 1
+}

@@ -2474,8 +2474,8 @@
     "name": "240th St",
     "slug": "maple-ridge/240th-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-03-22T03:00:00Z",
-    "count": 2
+    "lastIncident": "2026-03-24T21:42:00Z",
+    "count": 3
   },
   "vancouver/pacific-blvd": {
     "name": "Pacific Blvd",
@@ -3868,6 +3868,13 @@
     "slug": "vancouver/smithe-st",
     "city": "Vancouver",
     "lastIncident": "2026-03-24T21:18:00Z",
+    "count": 1
+  },
+  "maple-ridge/river-rd": {
+    "name": "River Rd",
+    "slug": "maple-ridge/river-rd",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-03-24T21:42:00Z",
     "count": 1
   }
 }
