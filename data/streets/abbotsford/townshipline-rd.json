@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/townshipline-rd",
+  "name": "Townshipline Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-03-24T12:36:00Z_abbotsford/townshipline-rd",
+      "timestamp": "2026-03-24T12:36:00Z",
+      "address": "TOWNSHIPLINE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/townshipline-rd"
+      ],
+      "streetNames": [
+        "Townshipline Rd"
+      ],
+      "pulsePointId": "2440431488"
+    }
+  ],
+  "lastIncident": "2026-03-24T12:36:00Z",
+  "count": 1
+}

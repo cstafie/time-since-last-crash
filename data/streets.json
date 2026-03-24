@@ -3799,5 +3799,12 @@
     "city": "Vancouver",
     "lastIncident": "2026-03-24T06:22:00Z",
     "count": 1
+  },
+  "abbotsford/townshipline-rd": {
+    "name": "Townshipline Rd",
+    "slug": "abbotsford/townshipline-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-03-24T12:36:00Z",
+    "count": 1
   }
 }
