@@ -3834,5 +3834,12 @@
     "city": "Chilliwack",
     "lastIncident": "2026-03-24T19:05:00Z",
     "count": 2
+  },
+  "maple-ridge/21467-dewdney-trunk-rd": {
+    "name": "21467 Dewdney Trunk Rd",
+    "slug": "maple-ridge/21467-dewdney-trunk-rd",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-03-24T19:29:00Z",
+    "count": 1
   }
 }
