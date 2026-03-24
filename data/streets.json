@@ -3722,5 +3722,19 @@
     "city": "Richmond",
     "lastIncident": "2026-03-24T00:19:00Z",
     "count": 1
+  },
+  "chilliwack/lutz-rd": {
+    "name": "Lutz Rd",
+    "slug": "chilliwack/lutz-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-03-24T02:10:00Z",
+    "count": 1
+  },
+  "chilliwack/sylvan-dr": {
+    "name": "Sylvan Dr",
+    "slug": "chilliwack/sylvan-dr",
+    "city": "Chilliwack",
+    "lastIncident": "2026-03-24T02:10:00Z",
+    "count": 1
   }
 }
