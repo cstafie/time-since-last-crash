@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-03-24T05:01:00Z_langley/200th-st_langley/36th-ave",
+      "timestamp": "2026-03-24T05:01:00Z",
+      "address": "200TH ST & 36TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/200th-st",
+        "langley/36th-ave"
+      ],
+      "streetNames": [
+        "200th St",
+        "36th Ave"
+      ],
+      "pulsePointId": "2440310609"
+    },
+    {
       "id": "2026-03-13T01:02:00Z_langley/200th-st_langley/72nd-ave",
       "timestamp": "2026-03-13T01:02:00Z",
       "address": "200TH ST & 72ND AVE",
@@ -33,6 +48,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-13T01:02:00Z",
-  "count": 2
+  "lastIncident": "2026-03-24T05:01:00Z",
+  "count": 3
 }

@@ -1102,8 +1102,8 @@
     "name": "200th St",
     "slug": "langley/200th-st",
     "city": "Langley",
-    "lastIncident": "2026-03-13T01:02:00Z",
-    "count": 2
+    "lastIncident": "2026-03-24T05:01:00Z",
+    "count": 3
   },
   "abbotsford/downes-rd": {
     "name": "Downes Rd",
@@ -3433,8 +3433,8 @@
     "name": "Hwy 99",
     "slug": "lions-bay/hwy-99",
     "city": "Lions Bay",
-    "lastIncident": "2026-03-21T19:09:00Z",
-    "count": 1
+    "lastIncident": "2026-03-24T05:19:00Z",
+    "count": 3
   },
   "north-vancouver/kennard-ave": {
     "name": "Kennard Ave",
@@ -3763,6 +3763,20 @@
     "slug": "coquitlam/glen-dr",
     "city": "Coquitlam",
     "lastIncident": "2026-03-24T04:04:00Z",
+    "count": 1
+  },
+  "lions-bay/ocean-point-dr": {
+    "name": "Ocean Point Dr",
+    "slug": "lions-bay/ocean-point-dr",
+    "city": "Lions Bay",
+    "lastIncident": "2026-03-24T05:19:00Z",
+    "count": 1
+  },
+  "langley/36th-ave": {
+    "name": "36th Ave",
+    "slug": "langley/36th-ave",
+    "city": "Langley",
+    "lastIncident": "2026-03-24T05:01:00Z",
     "count": 1
   }
 }

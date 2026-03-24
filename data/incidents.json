@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-03-24T05:19:00Z_lions-bay/hwy-99_lions-bay/ocean-point-dr",
+    "timestamp": "2026-03-24T05:19:00Z",
+    "scrapedAt": "2026-03-24T05:27:15Z",
+    "address": "HWY 99 & OCEAN POINT DR",
+    "city": "Lions Bay",
+    "streets": [
+      "lions-bay/hwy-99",
+      "lions-bay/ocean-point-dr"
+    ],
+    "streetNames": [
+      "Hwy 99",
+      "Ocean Point Dr"
+    ],
+    "pulsePointId": "2440318144"
+  },
+  {
+    "id": "2026-03-24T05:19:00Z_lions-bay/hwy-99",
+    "timestamp": "2026-03-24T05:19:00Z",
+    "scrapedAt": "2026-03-24T05:27:15Z",
+    "address": "HWY 99",
+    "city": "Lions Bay",
+    "streets": [
+      "lions-bay/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2440318645"
+  },
+  {
+    "id": "2026-03-24T05:01:00Z_langley/200th-st_langley/36th-ave",
+    "timestamp": "2026-03-24T05:01:00Z",
+    "scrapedAt": "2026-03-24T05:27:15Z",
+    "address": "200TH ST & 36TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/200th-st",
+      "langley/36th-ave"
+    ],
+    "streetNames": [
+      "200th St",
+      "36th Ave"
+    ],
+    "pulsePointId": "2440310609"
+  },
+  {
     "id": "2026-03-24T04:04:00Z_coquitlam/pipeline-rd_coquitlam/glen-dr",
     "timestamp": "2026-03-24T04:04:00Z",
     "scrapedAt": "2026-03-24T04:33:59Z",
