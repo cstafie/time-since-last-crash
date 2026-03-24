@@ -4,6 +4,19 @@
   "city": "Lions Bay",
   "incidents": [
     {
+      "id": "2026-03-24T18:25:00Z_lions-bay/hwy-99",
+      "timestamp": "2026-03-24T18:25:00Z",
+      "address": "HWY 99",
+      "city": "Lions Bay",
+      "streets": [
+        "lions-bay/hwy-99"
+      ],
+      "streetNames": [
+        "Hwy 99"
+      ],
+      "pulsePointId": "2440603461"
+    },
+    {
       "id": "2026-03-24T05:19:00Z_lions-bay/hwy-99_lions-bay/ocean-point-dr",
       "timestamp": "2026-03-24T05:19:00Z",
       "address": "HWY 99 & OCEAN POINT DR",
@@ -45,6 +58,6 @@
       "pulsePointId": "2438676208"
     }
   ],
-  "lastIncident": "2026-03-24T05:19:00Z",
-  "count": 3
+  "lastIncident": "2026-03-24T18:25:00Z",
+  "count": 4
 }
