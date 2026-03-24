@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-24T16:20:00Z_richmond/hwy-91",
+    "timestamp": "2026-03-24T16:20:00Z",
+    "scrapedAt": "2026-03-24T16:46:50Z",
+    "address": "HWY 91",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hwy-91"
+    ],
+    "streetNames": [
+      "Hwy 91"
+    ],
+    "pulsePointId": "2440528806"
+  },
+  {
     "id": "2026-03-24T16:06:00Z_surrey/33rd-ave_surrey/152nd-st",
     "timestamp": "2026-03-24T16:06:00Z",
     "scrapedAt": "2026-03-24T16:19:28Z",
