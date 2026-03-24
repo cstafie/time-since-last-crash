@@ -556,8 +556,8 @@
     "name": "140th St",
     "slug": "surrey/140th-st",
     "city": "Surrey",
-    "lastIncident": "2026-03-23T05:45:00Z",
-    "count": 3
+    "lastIncident": "2026-03-24T13:40:00Z",
+    "count": 4
   },
   "surrey/141a-st": {
     "name": "141a St",
@@ -1312,8 +1312,8 @@
     "name": "104th Ave",
     "slug": "surrey/104th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-20T18:28:00Z",
-    "count": 7
+    "lastIncident": "2026-03-24T13:29:00Z",
+    "count": 8
   },
   "surrey/122nd-st": {
     "name": "122nd St",
@@ -2320,8 +2320,8 @@
     "name": "Whalley Blvd",
     "slug": "surrey/whalley-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-03-22T20:01:00Z",
-    "count": 2
+    "lastIncident": "2026-03-24T13:29:00Z",
+    "count": 3
   },
   "richmond/russ-baker-way": {
     "name": "Russ Baker Way",
@@ -3805,6 +3805,20 @@
     "slug": "abbotsford/townshipline-rd",
     "city": "Abbotsford",
     "lastIncident": "2026-03-24T12:36:00Z",
+    "count": 1
+  },
+  "chilliwack/industrial-way": {
+    "name": "Industrial Way",
+    "slug": "chilliwack/industrial-way",
+    "city": "Chilliwack",
+    "lastIncident": "2026-03-24T13:39:00Z",
+    "count": 1
+  },
+  "surrey/north-bluff-rd": {
+    "name": "North Bluff Rd",
+    "slug": "surrey/north-bluff-rd",
+    "city": "Surrey",
+    "lastIncident": "2026-03-24T13:40:00Z",
     "count": 1
   }
 }

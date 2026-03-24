@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-03-24T13:40:00Z_surrey/140th-st_surrey/north-bluff-rd",
+    "timestamp": "2026-03-24T13:40:00Z",
+    "scrapedAt": "2026-03-24T14:00:01Z",
+    "address": "140TH ST & NORTH BLUFF RD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/140th-st",
+      "surrey/north-bluff-rd"
+    ],
+    "streetNames": [
+      "140th St",
+      "North Bluff Rd"
+    ],
+    "pulsePointId": "2440453060"
+  },
+  {
+    "id": "2026-03-24T13:39:00Z_chilliwack/industrial-way",
+    "timestamp": "2026-03-24T13:39:00Z",
+    "scrapedAt": "2026-03-24T14:00:01Z",
+    "address": "INDUSTRIAL WAY",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/industrial-way"
+    ],
+    "streetNames": [
+      "Industrial Way"
+    ],
+    "pulsePointId": "2440452601"
+  },
+  {
+    "id": "2026-03-24T13:29:00Z_surrey/whalley-blvd_surrey/104th-ave",
+    "timestamp": "2026-03-24T13:29:00Z",
+    "scrapedAt": "2026-03-24T14:00:01Z",
+    "address": "WHALLEY BLVD & 104TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/whalley-blvd",
+      "surrey/104th-ave"
+    ],
+    "streetNames": [
+      "Whalley Blvd",
+      "104th Ave"
+    ],
+    "pulsePointId": "2440448290"
+  },
+  {
     "id": "2026-03-24T12:36:00Z_abbotsford/townshipline-rd",
     "timestamp": "2026-03-24T12:36:00Z",
     "scrapedAt": "2026-03-24T12:46:27Z",

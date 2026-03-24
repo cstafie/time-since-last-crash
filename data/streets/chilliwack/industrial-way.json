@@ -1,0 +1,22 @@
+{
+  "slug": "chilliwack/industrial-way",
+  "name": "Industrial Way",
+  "city": "Chilliwack",
+  "incidents": [
+    {
+      "id": "2026-03-24T13:39:00Z_chilliwack/industrial-way",
+      "timestamp": "2026-03-24T13:39:00Z",
+      "address": "INDUSTRIAL WAY",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/industrial-way"
+      ],
+      "streetNames": [
+        "Industrial Way"
+      ],
+      "pulsePointId": "2440452601"
+    }
+  ],
+  "lastIncident": "2026-03-24T13:39:00Z",
+  "count": 1
+}
