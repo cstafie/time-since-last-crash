@@ -1956,8 +1956,8 @@
     "name": "W 16th Ave",
     "slug": "vancouver/w-16th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-03-18T19:06:00Z",
-    "count": 2
+    "lastIncident": "2026-03-24T03:55:00Z",
+    "count": 3
   },
   "vancouver/dunbar-st": {
     "name": "Dunbar St",
@@ -3749,6 +3749,20 @@
     "slug": "surrey/142a-st",
     "city": "Surrey",
     "lastIncident": "2026-03-24T03:25:00Z",
+    "count": 1
+  },
+  "coquitlam/pipeline-rd": {
+    "name": "Pipeline Rd",
+    "slug": "coquitlam/pipeline-rd",
+    "city": "Coquitlam",
+    "lastIncident": "2026-03-24T04:04:00Z",
+    "count": 1
+  },
+  "coquitlam/glen-dr": {
+    "name": "Glen Dr",
+    "slug": "coquitlam/glen-dr",
+    "city": "Coquitlam",
+    "lastIncident": "2026-03-24T04:04:00Z",
     "count": 1
   }
 }

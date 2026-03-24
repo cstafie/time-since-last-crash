@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-24T03:55:00Z_vancouver/w-16th-ave",
+      "timestamp": "2026-03-24T03:55:00Z",
+      "address": "W 16TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-16th-ave"
+      ],
+      "streetNames": [
+        "W 16th Ave"
+      ],
+      "pulsePointId": "2440284494"
+    },
+    {
       "id": "2026-03-18T19:06:00Z_vancouver/w-16th-ave",
       "timestamp": "2026-03-18T19:06:00Z",
       "address": "W 16TH AVE",
@@ -32,6 +45,6 @@
       "pulsePointId": "2433803079"
     }
   ],
-  "lastIncident": "2026-03-18T19:06:00Z",
-  "count": 2
+  "lastIncident": "2026-03-24T03:55:00Z",
+  "count": 3
 }

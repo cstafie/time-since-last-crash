@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-24T04:04:00Z_coquitlam/pipeline-rd_coquitlam/glen-dr",
+    "timestamp": "2026-03-24T04:04:00Z",
+    "scrapedAt": "2026-03-24T04:33:59Z",
+    "address": "PIPELINE RD & GLEN DR",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/pipeline-rd",
+      "coquitlam/glen-dr"
+    ],
+    "streetNames": [
+      "Pipeline Rd",
+      "Glen Dr"
+    ],
+    "pulsePointId": "2440288224"
+  },
+  {
+    "id": "2026-03-24T03:55:00Z_vancouver/w-16th-ave",
+    "timestamp": "2026-03-24T03:55:00Z",
+    "scrapedAt": "2026-03-24T04:33:59Z",
+    "address": "W 16TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-16th-ave"
+    ],
+    "streetNames": [
+      "W 16th Ave"
+    ],
+    "pulsePointId": "2440284494"
+  },
+  {
     "id": "2026-03-24T03:25:00Z_surrey/crescent-rd_surrey/142a-st",
     "timestamp": "2026-03-24T03:25:00Z",
     "scrapedAt": "2026-03-24T03:46:19Z",

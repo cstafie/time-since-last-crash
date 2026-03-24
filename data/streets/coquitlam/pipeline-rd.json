@@ -1,0 +1,24 @@
+{
+  "slug": "coquitlam/pipeline-rd",
+  "name": "Pipeline Rd",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-03-24T04:04:00Z_coquitlam/pipeline-rd_coquitlam/glen-dr",
+      "timestamp": "2026-03-24T04:04:00Z",
+      "address": "PIPELINE RD & GLEN DR",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/pipeline-rd",
+        "coquitlam/glen-dr"
+      ],
+      "streetNames": [
+        "Pipeline Rd",
+        "Glen Dr"
+      ],
+      "pulsePointId": "2440288224"
+    }
+  ],
+  "lastIncident": "2026-03-24T04:04:00Z",
+  "count": 1
+}
