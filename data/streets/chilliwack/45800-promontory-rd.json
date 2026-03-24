@@ -1,0 +1,35 @@
+{
+  "slug": "chilliwack/45800-promontory-rd",
+  "name": "45800 Promontory Rd",
+  "city": "Chilliwack",
+  "incidents": [
+    {
+      "id": "2026-03-24T19:05:00Z_chilliwack/45800-promontory-rd",
+      "timestamp": "2026-03-24T19:05:00Z",
+      "address": "45800 PROMONTORY RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/45800-promontory-rd"
+      ],
+      "streetNames": [
+        "45800 Promontory Rd"
+      ],
+      "pulsePointId": "2440628218"
+    },
+    {
+      "id": "2026-03-24T19:04:00Z_chilliwack/45800-promontory-rd",
+      "timestamp": "2026-03-24T19:04:00Z",
+      "address": "45800 PROMONTORY RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/45800-promontory-rd"
+      ],
+      "streetNames": [
+        "45800 Promontory Rd"
+      ],
+      "pulsePointId": "2440628967"
+    }
+  ],
+  "lastIncident": "2026-03-24T19:05:00Z",
+  "count": 2
+}
