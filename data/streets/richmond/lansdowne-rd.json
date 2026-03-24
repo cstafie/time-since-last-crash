@@ -1,6 +1,6 @@
 {
-  "slug": "richmond/alderbridge-way",
-  "name": "Alderbridge Way",
+  "slug": "richmond/lansdowne-rd",
+  "name": "Lansdowne Rd",
   "city": "Richmond",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Lansdowne Rd"
       ],
       "pulsePointId": "2440171570"
-    },
-    {
-      "id": "2026-03-20T22:26:00Z_richmond/shell-rd_richmond/alderbridge-way",
-      "timestamp": "2026-03-20T22:26:00Z",
-      "address": "SHELL RD & ALDERBRIDGE WAY",
-      "city": "Richmond",
-      "streets": [
-        "richmond/shell-rd",
-        "richmond/alderbridge-way"
-      ],
-      "streetNames": [
-        "Shell Rd",
-        "Alderbridge Way"
-      ],
-      "pulsePointId": "2438136091"
     }
   ],
   "lastIncident": "2026-03-24T00:19:00Z",
-  "count": 2
+  "count": 1
 }

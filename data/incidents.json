@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-24T00:19:00Z_richmond/alderbridge-way_richmond/lansdowne-rd",
+    "timestamp": "2026-03-24T00:19:00Z",
+    "scrapedAt": "2026-03-24T00:50:31Z",
+    "address": "ALDERBRIDGE WAY & LANSDOWNE RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/alderbridge-way",
+      "richmond/lansdowne-rd"
+    ],
+    "streetNames": [
+      "Alderbridge Way",
+      "Lansdowne Rd"
+    ],
+    "pulsePointId": "2440171570"
+  },
+  {
+    "id": "2026-03-24T00:15:00Z_vancouver/victoria-dr",
+    "timestamp": "2026-03-24T00:15:00Z",
+    "scrapedAt": "2026-03-24T00:50:31Z",
+    "address": "VICTORIA DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/victoria-dr"
+    ],
+    "streetNames": [
+      "Victoria Dr"
+    ],
+    "pulsePointId": "2440169842"
+  },
+  {
     "id": "2026-03-23T22:45:00Z_vancouver/w-10th-ave",
     "timestamp": "2026-03-23T22:45:00Z",
     "scrapedAt": "2026-03-23T23:06:45Z",
