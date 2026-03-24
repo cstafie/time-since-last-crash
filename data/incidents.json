@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-24T03:25:00Z_surrey/crescent-rd_surrey/142a-st",
+    "timestamp": "2026-03-24T03:25:00Z",
+    "scrapedAt": "2026-03-24T03:46:19Z",
+    "address": "CRESCENT RD & 142A ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/crescent-rd",
+      "surrey/142a-st"
+    ],
+    "streetNames": [
+      "Crescent Rd",
+      "142a St"
+    ],
+    "pulsePointId": "2440271027"
+  },
+  {
     "id": "2026-03-24T02:10:00Z_chilliwack/lutz-rd_chilliwack/sylvan-dr",
     "timestamp": "2026-03-24T02:10:00Z",
     "scrapedAt": "2026-03-24T02:54:56Z",

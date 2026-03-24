@@ -3736,5 +3736,19 @@
     "city": "Chilliwack",
     "lastIncident": "2026-03-24T02:10:00Z",
     "count": 1
+  },
+  "surrey/crescent-rd": {
+    "name": "Crescent Rd",
+    "slug": "surrey/crescent-rd",
+    "city": "Surrey",
+    "lastIncident": "2026-03-24T03:25:00Z",
+    "count": 1
+  },
+  "surrey/142a-st": {
+    "name": "142a St",
+    "slug": "surrey/142a-st",
+    "city": "Surrey",
+    "lastIncident": "2026-03-24T03:25:00Z",
+    "count": 1
   }
 }
