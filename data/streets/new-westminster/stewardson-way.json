@@ -4,6 +4,21 @@
   "city": "New Westminster",
   "incidents": [
     {
+      "id": "2026-03-25T01:23:00Z_new-westminster/stewardson-way_new-westminster/12th-st",
+      "timestamp": "2026-03-25T01:23:00Z",
+      "address": "STEWARDSON WAY & 12TH ST",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/stewardson-way",
+        "new-westminster/12th-st"
+      ],
+      "streetNames": [
+        "Stewardson Way",
+        "12th St"
+      ],
+      "pulsePointId": "2440863478"
+    },
+    {
       "id": "2026-03-16T23:09:00Z_new-westminster/14th-st_new-westminster/stewardson-way",
       "timestamp": "2026-03-16T23:09:00Z",
       "address": "14TH ST & STEWARDSON WAY",
@@ -34,6 +49,6 @@
       "pulsePointId": "2434119568"
     }
   ],
-  "lastIncident": "2026-03-16T23:09:00Z",
-  "count": 2
+  "lastIncident": "2026-03-25T01:23:00Z",
+  "count": 3
 }

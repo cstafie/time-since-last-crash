@@ -1,0 +1,24 @@
+{
+  "slug": "new-westminster/12th-st",
+  "name": "12th St",
+  "city": "New Westminster",
+  "incidents": [
+    {
+      "id": "2026-03-25T01:23:00Z_new-westminster/stewardson-way_new-westminster/12th-st",
+      "timestamp": "2026-03-25T01:23:00Z",
+      "address": "STEWARDSON WAY & 12TH ST",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/stewardson-way",
+        "new-westminster/12th-st"
+      ],
+      "streetNames": [
+        "Stewardson Way",
+        "12th St"
+      ],
+      "pulsePointId": "2440863478"
+    }
+  ],
+  "lastIncident": "2026-03-25T01:23:00Z",
+  "count": 1
+}

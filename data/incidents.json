@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-25T01:23:00Z_new-westminster/stewardson-way_new-westminster/12th-st",
+    "timestamp": "2026-03-25T01:23:00Z",
+    "scrapedAt": "2026-03-25T01:30:35Z",
+    "address": "STEWARDSON WAY & 12TH ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/stewardson-way",
+      "new-westminster/12th-st"
+    ],
+    "streetNames": [
+      "Stewardson Way",
+      "12th St"
+    ],
+    "pulsePointId": "2440863478"
+  },
+  {
+    "id": "2026-03-25T01:11:00Z_vancouver/w-17th-ave_vancouver/cambie-st",
+    "timestamp": "2026-03-25T01:11:00Z",
+    "scrapedAt": "2026-03-25T01:30:35Z",
+    "address": "W 17TH AVE & CAMBIE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-17th-ave",
+      "vancouver/cambie-st"
+    ],
+    "streetNames": [
+      "W 17th Ave",
+      "Cambie St"
+    ],
+    "pulsePointId": "2440857200"
+  },
+  {
     "id": "2026-03-25T00:08:00Z_maple-ridge/dewdney-trunk-rd_maple-ridge/238b-st",
     "timestamp": "2026-03-25T00:08:00Z",
     "scrapedAt": "2026-03-25T00:55:14Z",

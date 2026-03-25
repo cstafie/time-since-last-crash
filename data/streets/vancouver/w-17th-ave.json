@@ -1,6 +1,6 @@
 {
-  "slug": "vancouver/cambie-st",
-  "name": "Cambie St",
+  "slug": "vancouver/w-17th-ave",
+  "name": "W 17th Ave",
   "city": "Vancouver",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Cambie St"
       ],
       "pulsePointId": "2440857200"
-    },
-    {
-      "id": "2026-03-17T02:24:00Z_vancouver/w-33rd-ave_vancouver/cambie-st",
-      "timestamp": "2026-03-17T02:24:00Z",
-      "address": "W 33RD AVE & CAMBIE ST",
-      "city": "Vancouver",
-      "streets": [
-        "vancouver/w-33rd-ave",
-        "vancouver/cambie-st"
-      ],
-      "streetNames": [
-        "W 33rd Ave",
-        "Cambie St"
-      ],
-      "pulsePointId": "2435569506"
     }
   ],
   "lastIncident": "2026-03-25T01:11:00Z",
-  "count": 2
+  "count": 1
 }
