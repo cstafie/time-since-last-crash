@@ -1,6 +1,6 @@
 {
-  "slug": "vancouver/pacific-blvd",
-  "name": "Pacific Blvd",
+  "slug": "vancouver/griffiths-way",
+  "name": "Griffiths Way",
   "city": "Vancouver",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Pacific Blvd"
       ],
       "pulsePointId": "2441189949"
-    },
-    {
-      "id": "2026-03-17T04:12:00Z_vancouver/pacific-blvd_vancouver/davie-st",
-      "timestamp": "2026-03-17T04:12:00Z",
-      "address": "PACIFIC BLVD & DAVIE ST",
-      "city": "Vancouver",
-      "streets": [
-        "vancouver/pacific-blvd",
-        "vancouver/davie-st"
-      ],
-      "streetNames": [
-        "Pacific Blvd",
-        "Davie St"
-      ],
-      "pulsePointId": "2435623611"
     }
   ],
   "lastIncident": "2026-03-25T16:34:00Z",
-  "count": 2
+  "count": 1
 }
