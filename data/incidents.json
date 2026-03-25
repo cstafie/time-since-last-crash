@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-03-25T03:45:00Z_vancouver/kingsway_vancouver/miller-st",
+    "timestamp": "2026-03-25T03:45:00Z",
+    "scrapedAt": "2026-03-25T03:49:39Z",
+    "address": "KINGSWAY & MILLER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kingsway",
+      "vancouver/miller-st"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "Miller St"
+    ],
+    "pulsePointId": "2440936676"
+  },
+  {
+    "id": "2026-03-25T02:59:00Z_richmond/george-massey-tunl",
+    "timestamp": "2026-03-25T02:59:00Z",
+    "scrapedAt": "2026-03-25T03:49:39Z",
+    "address": "GEORGE MASSEY TUNL",
+    "city": "Richmond",
+    "streets": [
+      "richmond/george-massey-tunl"
+    ],
+    "streetNames": [
+      "George Massey Tunl"
+    ],
+    "pulsePointId": "2440916832"
+  },
+  {
+    "id": "2026-03-25T02:57:00Z_delta/george-massey-tunl",
+    "timestamp": "2026-03-25T02:57:00Z",
+    "scrapedAt": "2026-03-25T03:49:39Z",
+    "address": "GEORGE MASSEY TUNL",
+    "city": "Delta",
+    "streets": [
+      "delta/george-massey-tunl"
+    ],
+    "streetNames": [
+      "George Massey Tunl"
+    ],
+    "pulsePointId": "2440915559"
+  },
+  {
     "id": "2026-03-25T02:01:00Z_langley/fraser-hwy_langley/langley-bps",
     "timestamp": "2026-03-25T02:01:00Z",
     "scrapedAt": "2026-03-25T02:56:55Z",

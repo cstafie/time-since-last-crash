@@ -1,0 +1,22 @@
+{
+  "slug": "richmond/george-massey-tunl",
+  "name": "George Massey Tunl",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-03-25T02:59:00Z_richmond/george-massey-tunl",
+      "timestamp": "2026-03-25T02:59:00Z",
+      "address": "GEORGE MASSEY TUNL",
+      "city": "Richmond",
+      "streets": [
+        "richmond/george-massey-tunl"
+      ],
+      "streetNames": [
+        "George Massey Tunl"
+      ],
+      "pulsePointId": "2440916832"
+    }
+  ],
+  "lastIncident": "2026-03-25T02:59:00Z",
+  "count": 1
+}

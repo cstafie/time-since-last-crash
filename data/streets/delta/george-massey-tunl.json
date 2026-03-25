@@ -1,0 +1,22 @@
+{
+  "slug": "delta/george-massey-tunl",
+  "name": "George Massey Tunl",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-03-25T02:57:00Z_delta/george-massey-tunl",
+      "timestamp": "2026-03-25T02:57:00Z",
+      "address": "GEORGE MASSEY TUNL",
+      "city": "Delta",
+      "streets": [
+        "delta/george-massey-tunl"
+      ],
+      "streetNames": [
+        "George Massey Tunl"
+      ],
+      "pulsePointId": "2440915559"
+    }
+  ],
+  "lastIncident": "2026-03-25T02:57:00Z",
+  "count": 1
+}

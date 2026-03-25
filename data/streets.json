@@ -745,8 +745,8 @@
     "name": "Kingsway",
     "slug": "vancouver/kingsway",
     "city": "Vancouver",
-    "lastIncident": "2026-03-24T06:22:00Z",
-    "count": 6
+    "lastIncident": "2026-03-25T03:45:00Z",
+    "count": 7
   },
   "vancouver/knight-st": {
     "name": "Knight St",
@@ -3910,6 +3910,27 @@
     "slug": "vancouver/w-17th-ave",
     "city": "Vancouver",
     "lastIncident": "2026-03-25T01:11:00Z",
+    "count": 1
+  },
+  "vancouver/miller-st": {
+    "name": "Miller St",
+    "slug": "vancouver/miller-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-25T03:45:00Z",
+    "count": 1
+  },
+  "richmond/george-massey-tunl": {
+    "name": "George Massey Tunl",
+    "slug": "richmond/george-massey-tunl",
+    "city": "Richmond",
+    "lastIncident": "2026-03-25T02:59:00Z",
+    "count": 1
+  },
+  "delta/george-massey-tunl": {
+    "name": "George Massey Tunl",
+    "slug": "delta/george-massey-tunl",
+    "city": "Delta",
+    "lastIncident": "2026-03-25T02:57:00Z",
     "count": 1
   }
 }
