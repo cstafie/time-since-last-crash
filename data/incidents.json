@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-25T13:52:00Z_surrey/132nd-st_surrey/92nd-ave",
+    "timestamp": "2026-03-25T13:52:00Z",
+    "scrapedAt": "2026-03-25T14:00:03Z",
+    "address": "132ND ST & 92ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/132nd-st",
+      "surrey/92nd-ave"
+    ],
+    "streetNames": [
+      "132nd St",
+      "92nd Ave"
+    ],
+    "pulsePointId": "2441107947"
+  },
+  {
+    "id": "2026-03-25T13:34:00Z_langley/fraser-hwy_langley/langley-bps",
+    "timestamp": "2026-03-25T13:34:00Z",
+    "scrapedAt": "2026-03-25T14:00:03Z",
+    "address": "FRASER HWY & LANGLEY BPS",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy",
+      "langley/langley-bps"
+    ],
+    "streetNames": [
+      "Fraser Hwy",
+      "Langley Bps"
+    ],
+    "pulsePointId": "2441100254"
+  },
+  {
     "id": "2026-03-25T12:06:00Z_richmond/steveston-hwy",
     "timestamp": "2026-03-25T12:06:00Z",
     "scrapedAt": "2026-03-25T12:45:56Z",
