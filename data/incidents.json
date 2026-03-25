@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-25T18:53:00Z_vancouver/euclid-ave_vancouver/joyce-st",
+    "timestamp": "2026-03-25T18:53:00Z",
+    "scrapedAt": "2026-03-25T19:15:45Z",
+    "address": "EUCLID AVE & JOYCE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/euclid-ave",
+      "vancouver/joyce-st"
+    ],
+    "streetNames": [
+      "Euclid Ave",
+      "Joyce St"
+    ],
+    "pulsePointId": "2441282635"
+  },
+  {
     "id": "2026-03-25T18:42:00Z_langley/56th-ave",
     "timestamp": "2026-03-25T18:42:00Z",
     "scrapedAt": "2026-03-25T18:45:44Z",

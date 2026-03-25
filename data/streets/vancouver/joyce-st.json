@@ -1,6 +1,6 @@
 {
-  "slug": "vancouver/euclid-ave",
-  "name": "Euclid Ave",
+  "slug": "vancouver/joyce-st",
+  "name": "Joyce St",
   "city": "Vancouver",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Joyce St"
       ],
       "pulsePointId": "2441282635"
-    },
-    {
-      "id": "2026-03-17T17:03:00Z_vancouver/taunton-st_vancouver/euclid-ave",
-      "timestamp": "2026-03-17T17:03:00Z",
-      "address": "TAUNTON ST & EUCLID AVE",
-      "city": "Vancouver",
-      "streets": [
-        "vancouver/taunton-st",
-        "vancouver/euclid-ave"
-      ],
-      "streetNames": [
-        "Taunton St",
-        "Euclid Ave"
-      ],
-      "pulsePointId": "2435899764"
     }
   ],
   "lastIncident": "2026-03-25T18:53:00Z",
-  "count": 2
+  "count": 1
 }
