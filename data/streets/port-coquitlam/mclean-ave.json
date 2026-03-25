@@ -1,0 +1,24 @@
+{
+  "slug": "port-coquitlam/mclean-ave",
+  "name": "Mclean Ave",
+  "city": "Port Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-03-25T23:05:00Z_port-coquitlam/mclean-ave_port-coquitlam/kingsway-ave",
+      "timestamp": "2026-03-25T23:05:00Z",
+      "address": "MCLEAN AVE & KINGSWAY AVE",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/mclean-ave",
+        "port-coquitlam/kingsway-ave"
+      ],
+      "streetNames": [
+        "Mclean Ave",
+        "Kingsway Ave"
+      ],
+      "pulsePointId": "2441451190"
+    }
+  ],
+  "lastIncident": "2026-03-25T23:05:00Z",
+  "count": 1
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "richmond/horseshoe-way",
+  "name": "Horseshoe Way",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-03-25T23:36:00Z_richmond/horseshoe-way",
+      "timestamp": "2026-03-25T23:36:00Z",
+      "address": "HORSESHOE WAY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/horseshoe-way"
+      ],
+      "streetNames": [
+        "Horseshoe Way"
+      ],
+      "pulsePointId": "2441470057"
+    }
+  ],
+  "lastIncident": "2026-03-25T23:36:00Z",
+  "count": 1
+}
