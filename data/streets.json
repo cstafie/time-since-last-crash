@@ -3876,5 +3876,19 @@
     "city": "Maple Ridge",
     "lastIncident": "2026-03-24T21:42:00Z",
     "count": 1
+  },
+  "langley/86th-ave": {
+    "name": "86th Ave",
+    "slug": "langley/86th-ave",
+    "city": "Langley",
+    "lastIncident": "2026-03-24T23:41:00Z",
+    "count": 1
+  },
+  "langley/201st-st": {
+    "name": "201st St",
+    "slug": "langley/201st-st",
+    "city": "Langley",
+    "lastIncident": "2026-03-24T23:41:00Z",
+    "count": 1
   }
 }

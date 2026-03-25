@@ -1,0 +1,24 @@
+{
+  "slug": "langley/86th-ave",
+  "name": "86th Ave",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-03-24T23:41:00Z_langley/86th-ave_langley/201st-st",
+      "timestamp": "2026-03-24T23:41:00Z",
+      "address": "86TH AVE & 201ST ST",
+      "city": "Langley",
+      "streets": [
+        "langley/86th-ave",
+        "langley/201st-st"
+      ],
+      "streetNames": [
+        "86th Ave",
+        "201st St"
+      ],
+      "pulsePointId": "2440804874"
+    }
+  ],
+  "lastIncident": "2026-03-24T23:41:00Z",
+  "count": 1
+}
