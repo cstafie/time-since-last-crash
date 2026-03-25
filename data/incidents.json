@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-25T22:51:00Z_abbotsford/clearbrook-rd_abbotsford/south-fraser-way",
+    "timestamp": "2026-03-25T22:51:00Z",
+    "scrapedAt": "2026-03-25T23:08:07Z",
+    "address": "CLEARBROOK RD & SOUTH FRASER WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/clearbrook-rd",
+      "abbotsford/south-fraser-way"
+    ],
+    "streetNames": [
+      "Clearbrook Rd",
+      "South Fraser Way"
+    ],
+    "pulsePointId": "2441441376"
+  },
+  {
     "id": "2026-03-25T22:18:00Z_surrey/132nd-st_surrey/92nd-ave",
     "timestamp": "2026-03-25T22:18:00Z",
     "scrapedAt": "2026-03-25T22:43:10Z",
