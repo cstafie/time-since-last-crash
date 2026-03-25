@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-25T19:42:00Z_burnaby/trans-canada-hwy",
+    "timestamp": "2026-03-25T19:42:00Z",
+    "scrapedAt": "2026-03-25T20:08:25Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2441317419"
+  },
+  {
     "id": "2026-03-25T19:33:00Z_richmond/garden-city-rd_richmond/general-currie-rd",
     "timestamp": "2026-03-25T19:33:00Z",
     "scrapedAt": "2026-03-25T19:44:53Z",
