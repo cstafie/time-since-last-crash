@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/e-33rd-ave",
+  "name": "E 33rd Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-25T04:55:00Z_vancouver/e-33rd-ave_vancouver/knight-st",
+      "timestamp": "2026-03-25T04:55:00Z",
+      "address": "E 33RD AVE & KNIGHT ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-33rd-ave",
+        "vancouver/knight-st"
+      ],
+      "streetNames": [
+        "E 33rd Ave",
+        "Knight St"
+      ],
+      "pulsePointId": "2440963529"
+    }
+  ],
+  "lastIncident": "2026-03-25T04:55:00Z",
+  "count": 1
+}
