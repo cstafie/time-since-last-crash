@@ -3953,5 +3953,33 @@
     "city": "Vancouver",
     "lastIncident": "2026-03-25T16:34:00Z",
     "count": 1
+  },
+  "richmond/cooney-rd": {
+    "name": "Cooney Rd",
+    "slug": "richmond/cooney-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-03-25T16:49:00Z",
+    "count": 1
+  },
+  "richmond/ackroyd-rd": {
+    "name": "Ackroyd Rd",
+    "slug": "richmond/ackroyd-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-03-25T16:49:00Z",
+    "count": 1
+  },
+  "vancouver/e-cordova-st": {
+    "name": "E Cordova St",
+    "slug": "vancouver/e-cordova-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-25T16:55:00Z",
+    "count": 1
+  },
+  "vancouver/gore-ave": {
+    "name": "Gore Ave",
+    "slug": "vancouver/gore-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-25T16:55:00Z",
+    "count": 1
   }
 }

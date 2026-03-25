@@ -1,0 +1,24 @@
+{
+  "slug": "richmond/ackroyd-rd",
+  "name": "Ackroyd Rd",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-03-25T16:49:00Z_richmond/cooney-rd_richmond/ackroyd-rd",
+      "timestamp": "2026-03-25T16:49:00Z",
+      "address": "COONEY RD & ACKROYD RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/cooney-rd",
+        "richmond/ackroyd-rd"
+      ],
+      "streetNames": [
+        "Cooney Rd",
+        "Ackroyd Rd"
+      ],
+      "pulsePointId": "2441198820"
+    }
+  ],
+  "lastIncident": "2026-03-25T16:49:00Z",
+  "count": 1
+}

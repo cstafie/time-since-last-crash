@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-25T16:55:00Z_vancouver/e-cordova-st_vancouver/gore-ave",
+    "timestamp": "2026-03-25T16:55:00Z",
+    "scrapedAt": "2026-03-25T17:20:06Z",
+    "address": "E CORDOVA ST & GORE AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-cordova-st",
+      "vancouver/gore-ave"
+    ],
+    "streetNames": [
+      "E Cordova St",
+      "Gore Ave"
+    ],
+    "pulsePointId": "2441206189"
+  },
+  {
+    "id": "2026-03-25T16:49:00Z_richmond/cooney-rd_richmond/ackroyd-rd",
+    "timestamp": "2026-03-25T16:49:00Z",
+    "scrapedAt": "2026-03-25T17:20:06Z",
+    "address": "COONEY RD & ACKROYD RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/cooney-rd",
+      "richmond/ackroyd-rd"
+    ],
+    "streetNames": [
+      "Cooney Rd",
+      "Ackroyd Rd"
+    ],
+    "pulsePointId": "2441198820"
+  },
+  {
     "id": "2026-03-25T16:34:00Z_vancouver/griffiths-way_vancouver/pacific-blvd",
     "timestamp": "2026-03-25T16:34:00Z",
     "scrapedAt": "2026-03-25T16:48:35Z",
