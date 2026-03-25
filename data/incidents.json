@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-25T18:00:00Z_richmond/burrows-rd_richmond/no-6-rd",
+    "timestamp": "2026-03-25T18:00:00Z",
+    "scrapedAt": "2026-03-25T18:14:54Z",
+    "address": "BURROWS RD & NO 6 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/burrows-rd",
+      "richmond/no-6-rd"
+    ],
+    "streetNames": [
+      "Burrows Rd",
+      "No 6 Rd"
+    ],
+    "pulsePointId": "2441245476"
+  },
+  {
+    "id": "2026-03-25T17:46:00Z_langley/19820-fraser-hwy",
+    "timestamp": "2026-03-25T17:46:00Z",
+    "scrapedAt": "2026-03-25T18:14:54Z",
+    "address": "19820 FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/19820-fraser-hwy"
+    ],
+    "streetNames": [
+      "19820 Fraser Hwy"
+    ],
+    "pulsePointId": "2441236829"
+  },
+  {
     "id": "2026-03-25T16:55:00Z_vancouver/e-cordova-st_vancouver/gore-ave",
     "timestamp": "2026-03-25T16:55:00Z",
     "scrapedAt": "2026-03-25T17:20:06Z",
