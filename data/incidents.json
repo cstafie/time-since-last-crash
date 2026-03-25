@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-25T06:00:00Z_surrey/university-dr",
+    "timestamp": "2026-03-25T06:00:00Z",
+    "scrapedAt": "2026-03-25T06:17:43Z",
+    "address": "UNIVERSITY DR",
+    "city": "Surrey",
+    "streets": [
+      "surrey/university-dr"
+    ],
+    "streetNames": [
+      "University Dr"
+    ],
+    "pulsePointId": "2440986769"
+  },
+  {
     "id": "2026-03-25T04:55:00Z_vancouver/e-33rd-ave_vancouver/knight-st",
     "timestamp": "2026-03-25T04:55:00Z",
     "scrapedAt": "2026-03-25T05:27:17Z",

@@ -3939,5 +3939,12 @@
     "city": "Vancouver",
     "lastIncident": "2026-03-25T04:55:00Z",
     "count": 1
+  },
+  "surrey/university-dr": {
+    "name": "University Dr",
+    "slug": "surrey/university-dr",
+    "city": "Surrey",
+    "lastIncident": "2026-03-25T06:00:00Z",
+    "count": 1
   }
 }
