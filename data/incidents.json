@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-25T12:06:00Z_richmond/steveston-hwy",
+    "timestamp": "2026-03-25T12:06:00Z",
+    "scrapedAt": "2026-03-25T12:45:56Z",
+    "address": "STEVESTON HWY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/steveston-hwy"
+    ],
+    "streetNames": [
+      "Steveston Hwy"
+    ],
+    "pulsePointId": "2441072662"
+  },
+  {
     "id": "2026-03-25T06:00:00Z_surrey/university-dr",
     "timestamp": "2026-03-25T06:00:00Z",
     "scrapedAt": "2026-03-25T06:17:43Z",

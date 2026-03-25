@@ -4,6 +4,19 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-03-25T12:06:00Z_richmond/steveston-hwy",
+      "timestamp": "2026-03-25T12:06:00Z",
+      "address": "STEVESTON HWY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/steveston-hwy"
+      ],
+      "streetNames": [
+        "Steveston Hwy"
+      ],
+      "pulsePointId": "2441072662"
+    },
+    {
       "id": "2026-03-14T23:37:00Z_richmond/steveston-hwy_richmond/southridge-rd",
       "timestamp": "2026-03-14T23:37:00Z",
       "address": "STEVESTON HWY & SOUTHRIDGE RD",
@@ -60,6 +73,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-14T23:37:00Z",
-  "count": 4
+  "lastIncident": "2026-03-25T12:06:00Z",
+  "count": 5
 }
