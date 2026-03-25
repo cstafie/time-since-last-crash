@@ -1,0 +1,24 @@
+{
+  "slug": "maple-ridge/238b-st",
+  "name": "238b St",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-03-25T00:08:00Z_maple-ridge/dewdney-trunk-rd_maple-ridge/238b-st",
+      "timestamp": "2026-03-25T00:08:00Z",
+      "address": "DEWDNEY TRUNK RD & 238B ST",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/dewdney-trunk-rd",
+        "maple-ridge/238b-st"
+      ],
+      "streetNames": [
+        "Dewdney Trunk Rd",
+        "238b St"
+      ],
+      "pulsePointId": "2440820438"
+    }
+  ],
+  "lastIncident": "2026-03-25T00:08:00Z",
+  "count": 1
+}
