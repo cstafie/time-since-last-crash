@@ -1,6 +1,6 @@
 {
-  "slug": "richmond/garden-city-rd",
-  "name": "Garden City Rd",
+  "slug": "richmond/general-currie-rd",
+  "name": "General Currie Rd",
   "city": "Richmond",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "General Currie Rd"
       ],
       "pulsePointId": "2441310855"
-    },
-    {
-      "id": "2026-03-13T22:10:00Z_richmond/garden-city-rd_richmond/granville-ave",
-      "timestamp": "2026-03-13T22:10:00Z",
-      "address": "GARDEN CITY RD & GRANVILLE AVE",
-      "city": "Richmond",
-      "streets": [
-        "richmond/garden-city-rd",
-        "richmond/granville-ave"
-      ],
-      "streetNames": [
-        "Garden City Rd",
-        "Granville Ave"
-      ],
-      "pulsePointId": "2433457530"
     }
   ],
   "lastIncident": "2026-03-25T19:33:00Z",
-  "count": 2
+  "count": 1
 }

@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-25T19:33:00Z_richmond/garden-city-rd_richmond/general-currie-rd",
+    "timestamp": "2026-03-25T19:33:00Z",
+    "scrapedAt": "2026-03-25T19:44:53Z",
+    "address": "GARDEN CITY RD & GENERAL CURRIE RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/garden-city-rd",
+      "richmond/general-currie-rd"
+    ],
+    "streetNames": [
+      "Garden City Rd",
+      "General Currie Rd"
+    ],
+    "pulsePointId": "2441310855"
+  },
+  {
     "id": "2026-03-25T18:53:00Z_vancouver/euclid-ave_vancouver/joyce-st",
     "timestamp": "2026-03-25T18:53:00Z",
     "scrapedAt": "2026-03-25T19:15:45Z",
