@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-25T21:53:00Z_surrey/17665-66a-ave",
+    "timestamp": "2026-03-25T21:53:00Z",
+    "scrapedAt": "2026-03-25T22:08:06Z",
+    "address": "17665 66A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/17665-66a-ave"
+    ],
+    "streetNames": [
+      "17665 66a Ave"
+    ],
+    "pulsePointId": "2441405045"
+  },
+  {
     "id": "2026-03-25T19:42:00Z_burnaby/trans-canada-hwy",
     "timestamp": "2026-03-25T19:42:00Z",
     "scrapedAt": "2026-03-25T20:08:25Z",

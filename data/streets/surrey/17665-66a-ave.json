@@ -1,0 +1,22 @@
+{
+  "slug": "surrey/17665-66a-ave",
+  "name": "17665 66a Ave",
+  "city": "Surrey",
+  "incidents": [
+    {
+      "id": "2026-03-25T21:53:00Z_surrey/17665-66a-ave",
+      "timestamp": "2026-03-25T21:53:00Z",
+      "address": "17665 66A AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/17665-66a-ave"
+      ],
+      "streetNames": [
+        "17665 66a Ave"
+      ],
+      "pulsePointId": "2441405045"
+    }
+  ],
+  "lastIncident": "2026-03-25T21:53:00Z",
+  "count": 1
+}
