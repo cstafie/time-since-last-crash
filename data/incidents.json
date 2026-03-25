@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-03-25T22:18:00Z_surrey/132nd-st_surrey/92nd-ave",
+    "timestamp": "2026-03-25T22:18:00Z",
+    "scrapedAt": "2026-03-25T22:43:10Z",
+    "address": "132ND ST & 92ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/132nd-st",
+      "surrey/92nd-ave"
+    ],
+    "streetNames": [
+      "132nd St",
+      "92nd Ave"
+    ],
+    "pulsePointId": "2441420150"
+  },
+  {
+    "id": "2026-03-25T22:18:00Z_surrey/90th-ave_surrey/132nd-st",
+    "timestamp": "2026-03-25T22:18:00Z",
+    "scrapedAt": "2026-03-25T22:43:10Z",
+    "address": "90TH AVE & 132ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/90th-ave",
+      "surrey/132nd-st"
+    ],
+    "streetNames": [
+      "90th Ave",
+      "132nd St"
+    ],
+    "pulsePointId": "2441421255"
+  },
+  {
+    "id": "2026-03-25T22:13:00Z_langley/272nd-st_langley/56th-ave",
+    "timestamp": "2026-03-25T22:13:00Z",
+    "scrapedAt": "2026-03-25T22:43:10Z",
+    "address": "272ND ST & 56TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/272nd-st",
+      "langley/56th-ave"
+    ],
+    "streetNames": [
+      "272nd St",
+      "56th Ave"
+    ],
+    "pulsePointId": "2441417405"
+  },
+  {
     "id": "2026-03-25T21:53:00Z_surrey/17665-66a-ave",
     "timestamp": "2026-03-25T21:53:00Z",
     "scrapedAt": "2026-03-25T22:08:06Z",
