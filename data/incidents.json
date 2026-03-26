@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-25T23:42:00Z_chilliwack/yale-rd_chilliwack/airport-rd",
+    "timestamp": "2026-03-25T23:42:00Z",
+    "scrapedAt": "2026-03-26T00:07:05Z",
+    "address": "YALE RD & AIRPORT RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/yale-rd",
+      "chilliwack/airport-rd"
+    ],
+    "streetNames": [
+      "Yale Rd",
+      "Airport Rd"
+    ],
+    "pulsePointId": "2441474386"
+  },
+  {
     "id": "2026-03-25T23:36:00Z_richmond/horseshoe-way",
     "timestamp": "2026-03-25T23:36:00Z",
     "scrapedAt": "2026-03-25T23:42:51Z",
