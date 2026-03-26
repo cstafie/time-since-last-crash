@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-26T18:34:00Z_coquitlam/pitt-river-rd_coquitlam/lougheed-hwy",
+    "timestamp": "2026-03-26T18:34:00Z",
+    "scrapedAt": "2026-03-26T18:46:42Z",
+    "address": "PITT RIVER RD & LOUGHEED HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/pitt-river-rd",
+      "coquitlam/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Pitt River Rd",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2441932855"
+  },
+  {
+    "id": "2026-03-26T18:14:00Z_north-vancouver/prospect-rd",
+    "timestamp": "2026-03-26T18:14:00Z",
+    "scrapedAt": "2026-03-26T18:46:42Z",
+    "address": "PROSPECT RD",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/prospect-rd"
+    ],
+    "streetNames": [
+      "Prospect Rd"
+    ],
+    "pulsePointId": "2441922869"
+  },
+  {
     "id": "2026-03-26T14:14:00Z_delta/84th-ave_delta/nordel-way",
     "timestamp": "2026-03-26T14:14:00Z",
     "scrapedAt": "2026-03-26T14:51:15Z",

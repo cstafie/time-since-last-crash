@@ -1,0 +1,22 @@
+{
+  "slug": "north-vancouver/prospect-rd",
+  "name": "Prospect Rd",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-26T18:14:00Z_north-vancouver/prospect-rd",
+      "timestamp": "2026-03-26T18:14:00Z",
+      "address": "PROSPECT RD",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/prospect-rd"
+      ],
+      "streetNames": [
+        "Prospect Rd"
+      ],
+      "pulsePointId": "2441922869"
+    }
+  ],
+  "lastIncident": "2026-03-26T18:14:00Z",
+  "count": 1
+}

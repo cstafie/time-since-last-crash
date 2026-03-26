@@ -1116,8 +1116,8 @@
     "name": "Lougheed Hwy",
     "slug": "coquitlam/lougheed-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-03-19T14:19:00Z",
-    "count": 4
+    "lastIncident": "2026-03-26T18:34:00Z",
+    "count": 5
   },
   "coquitlam/orchid-dr": {
     "name": "Orchid Dr",
@@ -4085,6 +4085,20 @@
     "slug": "delta/84th-ave",
     "city": "Delta",
     "lastIncident": "2026-03-26T14:14:00Z",
+    "count": 1
+  },
+  "coquitlam/pitt-river-rd": {
+    "name": "Pitt River Rd",
+    "slug": "coquitlam/pitt-river-rd",
+    "city": "Coquitlam",
+    "lastIncident": "2026-03-26T18:34:00Z",
+    "count": 1
+  },
+  "north-vancouver/prospect-rd": {
+    "name": "Prospect Rd",
+    "slug": "north-vancouver/prospect-rd",
+    "city": "North Vancouver",
+    "lastIncident": "2026-03-26T18:14:00Z",
     "count": 1
   }
 }
