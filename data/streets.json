@@ -1256,8 +1256,8 @@
     "name": "E 1st Ave",
     "slug": "vancouver/e-1st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-03-18T02:13:00Z",
-    "count": 2
+    "lastIncident": "2026-03-26T23:28:00Z",
+    "count": 3
   },
   "vancouver/boundary-rd": {
     "name": "Boundary Rd",
@@ -2453,8 +2453,8 @@
     "name": "Nanaimo St",
     "slug": "vancouver/nanaimo-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-21T02:07:00Z",
-    "count": 2
+    "lastIncident": "2026-03-26T23:28:00Z",
+    "count": 3
   },
   "vancouver/cambie-st": {
     "name": "Cambie St",
