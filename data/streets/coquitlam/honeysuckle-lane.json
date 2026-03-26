@@ -1,0 +1,24 @@
+{
+  "slug": "coquitlam/honeysuckle-lane",
+  "name": "Honeysuckle Lane",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-03-26T03:02:00Z_coquitlam/honeysuckle-lane_coquitlam/noons-creek-dr",
+      "timestamp": "2026-03-26T03:02:00Z",
+      "address": "HONEYSUCKLE LANE & NOONS CREEK DR",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/honeysuckle-lane",
+        "coquitlam/noons-creek-dr"
+      ],
+      "streetNames": [
+        "Honeysuckle Lane",
+        "Noons Creek Dr"
+      ],
+      "pulsePointId": "2441582327"
+    }
+  ],
+  "lastIncident": "2026-03-26T03:02:00Z",
+  "count": 1
+}

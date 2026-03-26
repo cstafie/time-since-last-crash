@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-26T03:02:00Z_coquitlam/honeysuckle-lane_coquitlam/noons-creek-dr",
+    "timestamp": "2026-03-26T03:02:00Z",
+    "scrapedAt": "2026-03-26T04:00:58Z",
+    "address": "HONEYSUCKLE LANE & NOONS CREEK DR",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/honeysuckle-lane",
+      "coquitlam/noons-creek-dr"
+    ],
+    "streetNames": [
+      "Honeysuckle Lane",
+      "Noons Creek Dr"
+    ],
+    "pulsePointId": "2441582327"
+  },
+  {
+    "id": "2026-03-26T02:58:00Z_langley/fraser-hwy_langley/langley-bps",
+    "timestamp": "2026-03-26T02:58:00Z",
+    "scrapedAt": "2026-03-26T04:00:58Z",
+    "address": "FRASER HWY & LANGLEY BPS",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy",
+      "langley/langley-bps"
+    ],
+    "streetNames": [
+      "Fraser Hwy",
+      "Langley Bps"
+    ],
+    "pulsePointId": "2441581403"
+  },
+  {
     "id": "2026-03-26T02:13:00Z_langley/96th-ave_langley/201st-st",
     "timestamp": "2026-03-26T02:13:00Z",
     "scrapedAt": "2026-03-26T02:58:26Z",

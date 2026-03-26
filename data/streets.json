@@ -262,8 +262,8 @@
     "name": "Fraser Hwy",
     "slug": "langley/fraser-hwy",
     "city": "Langley",
-    "lastIncident": "2026-03-25T13:34:00Z",
-    "count": 12
+    "lastIncident": "2026-03-26T02:58:00Z",
+    "count": 13
   },
   "langley/trans-canada-hwy": {
     "name": "Trans Canada Hwy",
@@ -2383,8 +2383,8 @@
     "name": "Langley Bps",
     "slug": "langley/langley-bps",
     "city": "Langley",
-    "lastIncident": "2026-03-25T13:34:00Z",
-    "count": 7
+    "lastIncident": "2026-03-26T02:58:00Z",
+    "count": 8
   },
   "surrey/56th-ave": {
     "name": "56th Ave",
@@ -4064,6 +4064,20 @@
     "slug": "langley/96th-ave",
     "city": "Langley",
     "lastIncident": "2026-03-26T02:13:00Z",
+    "count": 1
+  },
+  "coquitlam/honeysuckle-lane": {
+    "name": "Honeysuckle Lane",
+    "slug": "coquitlam/honeysuckle-lane",
+    "city": "Coquitlam",
+    "lastIncident": "2026-03-26T03:02:00Z",
+    "count": 1
+  },
+  "coquitlam/noons-creek-dr": {
+    "name": "Noons Creek Dr",
+    "slug": "coquitlam/noons-creek-dr",
+    "city": "Coquitlam",
+    "lastIncident": "2026-03-26T03:02:00Z",
     "count": 1
   }
 }
