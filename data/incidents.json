@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-26T00:31:00Z_surrey/trans-canada-hwy_surrey/192nd-street-ofrp",
+    "timestamp": "2026-03-26T00:31:00Z",
+    "scrapedAt": "2026-03-26T00:58:31Z",
+    "address": "TRANS CANADA HWY & 192ND STREET OFRP",
+    "city": "Surrey",
+    "streets": [
+      "surrey/trans-canada-hwy",
+      "surrey/192nd-street-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "192nd Street Ofrp"
+    ],
+    "pulsePointId": "2441505627"
+  },
+  {
+    "id": "2026-03-26T00:11:00Z_richmond/lansdowne-rd_richmond/cooney-rd",
+    "timestamp": "2026-03-26T00:11:00Z",
+    "scrapedAt": "2026-03-26T00:58:31Z",
+    "address": "LANSDOWNE RD & COONEY RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/lansdowne-rd",
+      "richmond/cooney-rd"
+    ],
+    "streetNames": [
+      "Lansdowne Rd",
+      "Cooney Rd"
+    ],
+    "pulsePointId": "2441493622"
+  },
+  {
     "id": "2026-03-25T23:42:00Z_chilliwack/yale-rd_chilliwack/airport-rd",
     "timestamp": "2026-03-25T23:42:00Z",
     "scrapedAt": "2026-03-26T00:07:05Z",
