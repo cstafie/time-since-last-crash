@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-26T02:13:00Z_langley/96th-ave_langley/201st-st",
+    "timestamp": "2026-03-26T02:13:00Z",
+    "scrapedAt": "2026-03-26T02:58:26Z",
+    "address": "96TH AVE & 201ST ST",
+    "city": "Langley",
+    "streets": [
+      "langley/96th-ave",
+      "langley/201st-st"
+    ],
+    "streetNames": [
+      "96th Ave",
+      "201st St"
+    ],
+    "pulsePointId": "2441560235"
+  },
+  {
+    "id": "2026-03-26T02:11:00Z_vancouver/e-49th-ave",
+    "timestamp": "2026-03-26T02:11:00Z",
+    "scrapedAt": "2026-03-26T02:58:26Z",
+    "address": "E 49TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-49th-ave"
+    ],
+    "streetNames": [
+      "E 49th Ave"
+    ],
+    "pulsePointId": "2441558403"
+  },
+  {
     "id": "2026-03-26T00:31:00Z_surrey/trans-canada-hwy_surrey/192nd-street-ofrp",
     "timestamp": "2026-03-26T00:31:00Z",
     "scrapedAt": "2026-03-26T00:58:31Z",
