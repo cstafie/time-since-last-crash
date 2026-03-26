@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-26T08:39:00Z_surrey/58th-ave",
+    "timestamp": "2026-03-26T08:39:00Z",
+    "scrapedAt": "2026-03-26T08:45:25Z",
+    "address": "58TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/58th-ave"
+    ],
+    "streetNames": [
+      "58th Ave"
+    ],
+    "pulsePointId": "2441689363"
+  },
+  {
     "id": "2026-03-26T07:32:00Z_langley/fraser-hwy_langley/langley-bps",
     "timestamp": "2026-03-26T07:32:00Z",
     "scrapedAt": "2026-03-26T07:48:56Z",
