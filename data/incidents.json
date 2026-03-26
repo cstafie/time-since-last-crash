@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-26T14:14:00Z_delta/84th-ave_delta/nordel-way",
+    "timestamp": "2026-03-26T14:14:00Z",
+    "scrapedAt": "2026-03-26T14:51:15Z",
+    "address": "84TH AVE & NORDEL WAY",
+    "city": "Delta",
+    "streets": [
+      "delta/84th-ave",
+      "delta/nordel-way"
+    ],
+    "streetNames": [
+      "84th Ave",
+      "Nordel Way"
+    ],
+    "pulsePointId": "2441782195"
+  },
+  {
     "id": "2026-03-26T12:27:00Z_langley/216th-st",
     "timestamp": "2026-03-26T12:27:00Z",
     "scrapedAt": "2026-03-26T12:46:50Z",

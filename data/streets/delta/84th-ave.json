@@ -1,6 +1,6 @@
 {
-  "slug": "delta/nordel-way",
-  "name": "Nordel Way",
+  "slug": "delta/84th-ave",
+  "name": "84th Ave",
   "city": "Delta",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Nordel Way"
       ],
       "pulsePointId": "2441782195"
-    },
-    {
-      "id": "2026-03-19T03:34:00Z_delta/brooke-rd_delta/nordel-way",
-      "timestamp": "2026-03-19T03:34:00Z",
-      "address": "BROOKE RD & NORDEL WAY",
-      "city": "Delta",
-      "streets": [
-        "delta/brooke-rd",
-        "delta/nordel-way"
-      ],
-      "streetNames": [
-        "Brooke Rd",
-        "Nordel Way"
-      ],
-      "pulsePointId": "2436970054"
     }
   ],
   "lastIncident": "2026-03-26T14:14:00Z",
-  "count": 2
+  "count": 1
 }

@@ -2929,8 +2929,8 @@
     "name": "Nordel Way",
     "slug": "delta/nordel-way",
     "city": "Delta",
-    "lastIncident": "2026-03-19T03:34:00Z",
-    "count": 1
+    "lastIncident": "2026-03-26T14:14:00Z",
+    "count": 2
   },
   "coquitlam/whiting-way": {
     "name": "Whiting Way",
@@ -4078,6 +4078,13 @@
     "slug": "coquitlam/noons-creek-dr",
     "city": "Coquitlam",
     "lastIncident": "2026-03-26T03:02:00Z",
+    "count": 1
+  },
+  "delta/84th-ave": {
+    "name": "84th Ave",
+    "slug": "delta/84th-ave",
+    "city": "Delta",
+    "lastIncident": "2026-03-26T14:14:00Z",
     "count": 1
   }
 }
