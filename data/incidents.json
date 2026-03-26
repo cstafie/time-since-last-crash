@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-26T18:54:00Z_burnaby/ingleton-ave_burnaby/frances-st",
+    "timestamp": "2026-03-26T18:54:00Z",
+    "scrapedAt": "2026-03-26T19:23:18Z",
+    "address": "INGLETON AVE & FRANCES ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/ingleton-ave",
+      "burnaby/frances-st"
+    ],
+    "streetNames": [
+      "Ingleton Ave",
+      "Frances St"
+    ],
+    "pulsePointId": "2441945339"
+  },
+  {
     "id": "2026-03-26T18:34:00Z_coquitlam/pitt-river-rd_coquitlam/lougheed-hwy",
     "timestamp": "2026-03-26T18:34:00Z",
     "scrapedAt": "2026-03-26T18:46:42Z",

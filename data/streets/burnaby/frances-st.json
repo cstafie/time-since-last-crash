@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/frances-st",
+  "name": "Frances St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-03-26T18:54:00Z_burnaby/ingleton-ave_burnaby/frances-st",
+      "timestamp": "2026-03-26T18:54:00Z",
+      "address": "INGLETON AVE & FRANCES ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/ingleton-ave",
+        "burnaby/frances-st"
+      ],
+      "streetNames": [
+        "Ingleton Ave",
+        "Frances St"
+      ],
+      "pulsePointId": "2441945339"
+    }
+  ],
+  "lastIncident": "2026-03-26T18:54:00Z",
+  "count": 1
+}

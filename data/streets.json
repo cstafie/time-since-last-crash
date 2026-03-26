@@ -4100,5 +4100,19 @@
     "city": "North Vancouver",
     "lastIncident": "2026-03-26T18:14:00Z",
     "count": 1
+  },
+  "burnaby/ingleton-ave": {
+    "name": "Ingleton Ave",
+    "slug": "burnaby/ingleton-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-26T18:54:00Z",
+    "count": 1
+  },
+  "burnaby/frances-st": {
+    "name": "Frances St",
+    "slug": "burnaby/frances-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-26T18:54:00Z",
+    "count": 1
   }
 }
