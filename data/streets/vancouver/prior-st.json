@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/prior-st",
+  "name": "Prior St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-26T22:31:00Z_vancouver/main-st_vancouver/prior-st",
+      "timestamp": "2026-03-26T22:31:00Z",
+      "address": "MAIN ST & PRIOR ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/main-st",
+        "vancouver/prior-st"
+      ],
+      "streetNames": [
+        "Main St",
+        "Prior St"
+      ],
+      "pulsePointId": "2442085622"
+    }
+  ],
+  "lastIncident": "2026-03-26T22:31:00Z",
+  "count": 1
+}

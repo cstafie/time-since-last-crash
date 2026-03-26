@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-26T22:31:00Z_vancouver/main-st_vancouver/prior-st",
+      "timestamp": "2026-03-26T22:31:00Z",
+      "address": "MAIN ST & PRIOR ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/main-st",
+        "vancouver/prior-st"
+      ],
+      "streetNames": [
+        "Main St",
+        "Prior St"
+      ],
+      "pulsePointId": "2442085622"
+    },
+    {
       "id": "2026-03-19T14:45:00Z_vancouver/terminal-ave_vancouver/main-st",
       "timestamp": "2026-03-19T14:45:00Z",
       "address": "TERMINAL AVE & MAIN ST",
@@ -75,6 +90,6 @@
       "pulsePointId": "2432937969"
     }
   ],
-  "lastIncident": "2026-03-19T14:45:00Z",
-  "count": 5
+  "lastIncident": "2026-03-26T22:31:00Z",
+  "count": 6
 }
