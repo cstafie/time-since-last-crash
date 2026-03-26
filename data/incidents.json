@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-26T19:23:00Z_vancouver/knight-st_vancouver/e-47th-ave",
+    "timestamp": "2026-03-26T19:23:00Z",
+    "scrapedAt": "2026-03-26T19:46:59Z",
+    "address": "KNIGHT ST & E 47TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/knight-st",
+      "vancouver/e-47th-ave"
+    ],
+    "streetNames": [
+      "Knight St",
+      "E 47th Ave"
+    ],
+    "pulsePointId": "2441964617"
+  },
+  {
+    "id": "2026-03-26T19:23:00Z_west-vancouver/capilano-rd",
+    "timestamp": "2026-03-26T19:23:00Z",
+    "scrapedAt": "2026-03-26T19:46:59Z",
+    "address": "CAPILANO RD",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/capilano-rd"
+    ],
+    "streetNames": [
+      "Capilano Rd"
+    ],
+    "pulsePointId": "2441962836"
+  },
+  {
     "id": "2026-03-26T18:54:00Z_burnaby/ingleton-ave_burnaby/frances-st",
     "timestamp": "2026-03-26T18:54:00Z",
     "scrapedAt": "2026-03-26T19:23:18Z",

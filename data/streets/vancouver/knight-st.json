@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-26T19:23:00Z_vancouver/knight-st_vancouver/e-47th-ave",
+      "timestamp": "2026-03-26T19:23:00Z",
+      "address": "KNIGHT ST & E 47TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/knight-st",
+        "vancouver/e-47th-ave"
+      ],
+      "streetNames": [
+        "Knight St",
+        "E 47th Ave"
+      ],
+      "pulsePointId": "2441964617"
+    },
+    {
       "id": "2026-03-25T04:55:00Z_vancouver/e-33rd-ave_vancouver/knight-st",
       "timestamp": "2026-03-25T04:55:00Z",
       "address": "E 33RD AVE & KNIGHT ST",
@@ -121,6 +136,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-25T04:55:00Z",
-  "count": 8
+  "lastIncident": "2026-03-26T19:23:00Z",
+  "count": 9
 }
