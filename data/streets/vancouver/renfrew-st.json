@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-27T20:21:00Z_vancouver/renfrew-st_vancouver/e-hastings-st",
+      "timestamp": "2026-03-27T20:21:00Z",
+      "address": "RENFREW ST & E HASTINGS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/renfrew-st",
+        "vancouver/e-hastings-st"
+      ],
+      "streetNames": [
+        "Renfrew St",
+        "E Hastings St"
+      ],
+      "pulsePointId": "2442669274"
+    },
+    {
       "id": "2026-03-17T14:30:00Z_vancouver/renfrew-st_vancouver/e-broadway",
       "timestamp": "2026-03-17T14:30:00Z",
       "address": "RENFREW ST & E BROADWAY",
@@ -49,6 +64,6 @@
       "pulsePointId": "2433781130"
     }
   ],
-  "lastIncident": "2026-03-17T14:30:00Z",
-  "count": 3
+  "lastIncident": "2026-03-27T20:21:00Z",
+  "count": 4
 }
