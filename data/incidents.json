@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-27T15:26:00Z_vancouver/e-41st-ave_vancouver/rupert-st",
+    "timestamp": "2026-03-27T15:26:00Z",
+    "scrapedAt": "2026-03-27T15:45:58Z",
+    "address": "E 41ST AVE & RUPERT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-41st-ave",
+      "vancouver/rupert-st"
+    ],
+    "streetNames": [
+      "E 41st Ave",
+      "Rupert St"
+    ],
+    "pulsePointId": "2442491368"
+  },
+  {
     "id": "2026-03-27T12:54:00Z_surrey/80th-ave_surrey/184th-st",
     "timestamp": "2026-03-27T12:54:00Z",
     "scrapedAt": "2026-03-27T13:27:11Z",

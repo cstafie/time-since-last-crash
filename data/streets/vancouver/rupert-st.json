@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-27T15:26:00Z_vancouver/e-41st-ave_vancouver/rupert-st",
+      "timestamp": "2026-03-27T15:26:00Z",
+      "address": "E 41ST AVE & RUPERT ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-41st-ave",
+        "vancouver/rupert-st"
+      ],
+      "streetNames": [
+        "E 41st Ave",
+        "Rupert St"
+      ],
+      "pulsePointId": "2442491368"
+    },
+    {
       "id": "2026-03-18T21:55:00Z_vancouver/kingsway_vancouver/rupert-st",
       "timestamp": "2026-03-18T21:55:00Z",
       "address": "KINGSWAY & RUPERT ST",
@@ -47,6 +62,6 @@
       "pulsePointId": "2434824658"
     }
   ],
-  "lastIncident": "2026-03-18T21:55:00Z",
-  "count": 3
+  "lastIncident": "2026-03-27T15:26:00Z",
+  "count": 4
 }

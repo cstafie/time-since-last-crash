@@ -717,8 +717,8 @@
     "name": "E 41st Ave",
     "slug": "vancouver/e-41st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-03-20T19:58:00Z",
-    "count": 10
+    "lastIncident": "2026-03-27T15:26:00Z",
+    "count": 11
   },
   "vancouver/granville-st": {
     "name": "Granville St",
@@ -2187,8 +2187,8 @@
     "name": "Rupert St",
     "slug": "vancouver/rupert-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-18T21:55:00Z",
-    "count": 3
+    "lastIncident": "2026-03-27T15:26:00Z",
+    "count": 4
   },
   "vancouver/fir-st": {
     "name": "Fir St",
