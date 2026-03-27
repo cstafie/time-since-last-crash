@@ -4,6 +4,19 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-03-27T23:34:00Z_abbotsford/fraser-hwy",
+      "timestamp": "2026-03-27T23:34:00Z",
+      "address": "FRASER HWY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/fraser-hwy"
+      ],
+      "streetNames": [
+        "Fraser Hwy"
+      ],
+      "pulsePointId": "2442797767"
+    },
+    {
       "id": "2026-03-23T06:32:00Z_abbotsford/cottonwood-st_abbotsford/fraser-hwy",
       "timestamp": "2026-03-23T06:32:00Z",
       "address": "COTTONWOOD ST & FRASER HWY",
@@ -32,6 +45,6 @@
       "pulsePointId": "2436433195"
     }
   ],
-  "lastIncident": "2026-03-23T06:32:00Z",
-  "count": 2
+  "lastIncident": "2026-03-27T23:34:00Z",
+  "count": 3
 }

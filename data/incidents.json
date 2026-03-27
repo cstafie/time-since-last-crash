@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-27T23:34:00Z_abbotsford/fraser-hwy",
+    "timestamp": "2026-03-27T23:34:00Z",
+    "scrapedAt": "2026-03-27T23:41:58Z",
+    "address": "FRASER HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/fraser-hwy"
+    ],
+    "streetNames": [
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2442797767"
+  },
+  {
+    "id": "2026-03-27T23:10:00Z_surrey/golden-ears-conn_surrey/179th-st",
+    "timestamp": "2026-03-27T23:10:00Z",
+    "scrapedAt": "2026-03-27T23:41:58Z",
+    "address": "GOLDEN EARS CONN & 179TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/golden-ears-conn",
+      "surrey/179th-st"
+    ],
+    "streetNames": [
+      "Golden Ears Conn",
+      "179th St"
+    ],
+    "pulsePointId": "2442780726"
+  },
+  {
     "id": "2026-03-27T23:00:00Z_surrey/hwy-91-ofrp_surrey/hwy-99",
     "timestamp": "2026-03-27T23:00:00Z",
     "scrapedAt": "2026-03-27T23:07:30Z",
