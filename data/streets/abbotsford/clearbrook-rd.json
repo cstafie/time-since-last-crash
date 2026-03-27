@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-03-27T20:55:00Z_abbotsford/clearbrook-rd_abbotsford/oak-ave",
+      "timestamp": "2026-03-27T20:55:00Z",
+      "address": "CLEARBROOK RD & OAK AVE",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/clearbrook-rd",
+        "abbotsford/oak-ave"
+      ],
+      "streetNames": [
+        "Clearbrook Rd",
+        "Oak Ave"
+      ],
+      "pulsePointId": "2442692331"
+    },
+    {
       "id": "2026-03-25T22:51:00Z_abbotsford/clearbrook-rd_abbotsford/south-fraser-way",
       "timestamp": "2026-03-25T22:51:00Z",
       "address": "CLEARBROOK RD & SOUTH FRASER WAY",
@@ -47,6 +62,6 @@
       "pulsePointId": "2433749907"
     }
   ],
-  "lastIncident": "2026-03-25T22:51:00Z",
-  "count": 3
+  "lastIncident": "2026-03-27T20:55:00Z",
+  "count": 4
 }

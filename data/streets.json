@@ -647,8 +647,8 @@
     "name": "96th Ave",
     "slug": "surrey/96th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-27T12:48:00Z",
-    "count": 6
+    "lastIncident": "2026-03-27T21:02:00Z",
+    "count": 7
   },
   "surrey/bolivar-rd": {
     "name": "Bolivar Rd",
@@ -1795,8 +1795,8 @@
     "name": "152nd St",
     "slug": "surrey/152nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-03-27T19:42:00Z",
-    "count": 4
+    "lastIncident": "2026-03-27T21:02:00Z",
+    "count": 5
   },
   "langley/20611-fraser-hwyste-111": {
     "name": "20611 Fraser Hwy,ste 111",
@@ -1914,8 +1914,8 @@
     "name": "Clearbrook Rd",
     "slug": "abbotsford/clearbrook-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-25T22:51:00Z",
-    "count": 3
+    "lastIncident": "2026-03-27T20:55:00Z",
+    "count": 4
   },
   "abbotsford/maclure-rd": {
     "name": "Maclure Rd",
@@ -4211,6 +4211,13 @@
     "slug": "richmond/pigott-rd",
     "city": "Richmond",
     "lastIncident": "2026-03-27T19:45:00Z",
+    "count": 1
+  },
+  "abbotsford/oak-ave": {
+    "name": "Oak Ave",
+    "slug": "abbotsford/oak-ave",
+    "city": "Abbotsford",
+    "lastIncident": "2026-03-27T20:55:00Z",
     "count": 1
   }
 }

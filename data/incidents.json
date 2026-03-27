@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-27T21:02:00Z_surrey/152nd-st_surrey/96th-ave",
+    "timestamp": "2026-03-27T21:02:00Z",
+    "scrapedAt": "2026-03-27T21:08:48Z",
+    "address": "152ND ST & 96TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/152nd-st",
+      "surrey/96th-ave"
+    ],
+    "streetNames": [
+      "152nd St",
+      "96th Ave"
+    ],
+    "pulsePointId": "2442695609"
+  },
+  {
+    "id": "2026-03-27T20:55:00Z_abbotsford/clearbrook-rd_abbotsford/oak-ave",
+    "timestamp": "2026-03-27T20:55:00Z",
+    "scrapedAt": "2026-03-27T21:08:48Z",
+    "address": "CLEARBROOK RD & OAK AVE",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/clearbrook-rd",
+      "abbotsford/oak-ave"
+    ],
+    "streetNames": [
+      "Clearbrook Rd",
+      "Oak Ave"
+    ],
+    "pulsePointId": "2442692331"
+  },
+  {
     "id": "2026-03-27T20:21:00Z_vancouver/renfrew-st_vancouver/e-hastings-st",
     "timestamp": "2026-03-27T20:21:00Z",
     "scrapedAt": "2026-03-27T20:43:35Z",
