@@ -66,8 +66,8 @@
     "name": "Lougheed Hwy",
     "slug": "burnaby/lougheed-hwy",
     "city": "Burnaby",
-    "lastIncident": "2026-03-18T12:22:00Z",
-    "count": 5
+    "lastIncident": "2026-03-27T19:18:00Z",
+    "count": 6
   },
   "burnaby/marine-way": {
     "name": "Marine Way",
@@ -4197,6 +4197,13 @@
     "slug": "surrey/184th-st",
     "city": "Surrey",
     "lastIncident": "2026-03-27T12:54:00Z",
+    "count": 1
+  },
+  "burnaby/rosser-ave": {
+    "name": "Rosser Ave",
+    "slug": "burnaby/rosser-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-27T19:18:00Z",
     "count": 1
   }
 }
