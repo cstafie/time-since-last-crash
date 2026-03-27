@@ -661,8 +661,8 @@
     "name": "Hwy 17",
     "slug": "surrey/hwy-17",
     "city": "Surrey",
-    "lastIncident": "2026-03-17T04:25:00Z",
-    "count": 3
+    "lastIncident": "2026-03-27T22:54:00Z",
+    "count": 4
   },
   "surrey/king-george-blvd": {
     "name": "King George Blvd",
@@ -1312,8 +1312,8 @@
     "name": "104th Ave",
     "slug": "surrey/104th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-24T13:29:00Z",
-    "count": 8
+    "lastIncident": "2026-03-27T22:54:00Z",
+    "count": 9
   },
   "surrey/122nd-st": {
     "name": "122nd St",
@@ -4225,6 +4225,20 @@
     "slug": "pitt-meadows/pitt-river-brdg",
     "city": "Pitt Meadows",
     "lastIncident": "2026-03-27T22:10:00Z",
+    "count": 1
+  },
+  "surrey/hwy-91-ofrp": {
+    "name": "Hwy 91 Ofrp",
+    "slug": "surrey/hwy-91-ofrp",
+    "city": "Surrey",
+    "lastIncident": "2026-03-27T23:00:00Z",
+    "count": 1
+  },
+  "surrey/hwy-99": {
+    "name": "Hwy 99",
+    "slug": "surrey/hwy-99",
+    "city": "Surrey",
+    "lastIncident": "2026-03-27T23:00:00Z",
     "count": 1
   }
 }
