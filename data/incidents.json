@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-27T12:54:00Z_surrey/80th-ave_surrey/184th-st",
+    "timestamp": "2026-03-27T12:54:00Z",
+    "scrapedAt": "2026-03-27T13:27:11Z",
+    "address": "80TH AVE & 184TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/80th-ave",
+      "surrey/184th-st"
+    ],
+    "streetNames": [
+      "80th Ave",
+      "184th St"
+    ],
+    "pulsePointId": "2442429012"
+  },
+  {
+    "id": "2026-03-27T12:48:00Z_surrey/96th-ave_surrey/152nd-st",
+    "timestamp": "2026-03-27T12:48:00Z",
+    "scrapedAt": "2026-03-27T13:27:11Z",
+    "address": "96TH AVE & 152ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/96th-ave",
+      "surrey/152nd-st"
+    ],
+    "streetNames": [
+      "96th Ave",
+      "152nd St"
+    ],
+    "pulsePointId": "2442427106"
+  },
+  {
     "id": "2026-03-27T11:15:00Z_burnaby/underhill-ave_burnaby/eastlake-dr",
     "timestamp": "2026-03-27T11:15:00Z",
     "scrapedAt": "2026-03-27T11:43:39Z",
