@@ -4219,5 +4219,12 @@
     "city": "Abbotsford",
     "lastIncident": "2026-03-27T20:55:00Z",
     "count": 1
+  },
+  "pitt-meadows/pitt-river-brdg": {
+    "name": "Pitt River Brdg",
+    "slug": "pitt-meadows/pitt-river-brdg",
+    "city": "Pitt Meadows",
+    "lastIncident": "2026-03-27T22:10:00Z",
+    "count": 1
   }
 }
