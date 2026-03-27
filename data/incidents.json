@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-27T05:32:00Z_vancouver/knight-st_vancouver/e-21st-ave",
+    "timestamp": "2026-03-27T05:32:00Z",
+    "scrapedAt": "2026-03-27T05:58:01Z",
+    "address": "KNIGHT ST & E 21ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/knight-st",
+      "vancouver/e-21st-ave"
+    ],
+    "streetNames": [
+      "Knight St",
+      "E 21st Ave"
+    ],
+    "pulsePointId": "2442312004"
+  },
+  {
     "id": "2026-03-27T03:58:00Z_maple-ridge/280th-st_maple-ridge/lougheed-hwy",
     "timestamp": "2026-03-27T03:58:00Z",
     "scrapedAt": "2026-03-27T04:01:19Z",

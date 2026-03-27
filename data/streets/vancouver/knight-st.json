@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-27T05:32:00Z_vancouver/knight-st_vancouver/e-21st-ave",
+      "timestamp": "2026-03-27T05:32:00Z",
+      "address": "KNIGHT ST & E 21ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/knight-st",
+        "vancouver/e-21st-ave"
+      ],
+      "streetNames": [
+        "Knight St",
+        "E 21st Ave"
+      ],
+      "pulsePointId": "2442312004"
+    },
+    {
       "id": "2026-03-26T19:23:00Z_vancouver/knight-st_vancouver/e-47th-ave",
       "timestamp": "2026-03-26T19:23:00Z",
       "address": "KNIGHT ST & E 47TH AVE",
@@ -136,6 +151,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-26T19:23:00Z",
-  "count": 9
+  "lastIncident": "2026-03-27T05:32:00Z",
+  "count": 10
 }
