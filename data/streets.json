@@ -325,8 +325,8 @@
     "name": "Lougheed Hwy",
     "slug": "maple-ridge/lougheed-hwy",
     "city": "Maple Ridge",
-    "lastIncident": "2026-03-18T19:43:00Z",
-    "count": 4
+    "lastIncident": "2026-03-27T03:58:00Z",
+    "count": 5
   },
   "mission/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -2460,8 +2460,8 @@
     "name": "Cambie St",
     "slug": "vancouver/cambie-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-25T01:11:00Z",
-    "count": 2
+    "lastIncident": "2026-03-27T03:41:00Z",
+    "count": 3
   },
   "vancouver/e-broadway": {
     "name": "E Broadway",
@@ -4148,6 +4148,20 @@
     "slug": "port-coquitlam/bradshaw-st",
     "city": "Port Coquitlam",
     "lastIncident": "2026-03-27T01:51:00Z",
+    "count": 1
+  },
+  "maple-ridge/280th-st": {
+    "name": "280th St",
+    "slug": "maple-ridge/280th-st",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-03-27T03:58:00Z",
+    "count": 1
+  },
+  "vancouver/w-2nd-ave": {
+    "name": "W 2nd Ave",
+    "slug": "vancouver/w-2nd-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-27T03:41:00Z",
     "count": 1
   }
 }

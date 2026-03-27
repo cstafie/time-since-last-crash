@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-27T03:58:00Z_maple-ridge/280th-st_maple-ridge/lougheed-hwy",
+    "timestamp": "2026-03-27T03:58:00Z",
+    "scrapedAt": "2026-03-27T04:01:19Z",
+    "address": "280TH ST & LOUGHEED HWY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/280th-st",
+      "maple-ridge/lougheed-hwy"
+    ],
+    "streetNames": [
+      "280th St",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2442273721"
+  },
+  {
+    "id": "2026-03-27T03:41:00Z_vancouver/cambie-st_vancouver/w-2nd-ave",
+    "timestamp": "2026-03-27T03:41:00Z",
+    "scrapedAt": "2026-03-27T04:01:19Z",
+    "address": "CAMBIE ST & W 2ND AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/cambie-st",
+      "vancouver/w-2nd-ave"
+    ],
+    "streetNames": [
+      "Cambie St",
+      "W 2nd Ave"
+    ],
+    "pulsePointId": "2442265889"
+  },
+  {
     "id": "2026-03-27T01:51:00Z_port-coquitlam/bradshaw-st",
     "timestamp": "2026-03-27T01:51:00Z",
     "scrapedAt": "2026-03-27T02:58:30Z",

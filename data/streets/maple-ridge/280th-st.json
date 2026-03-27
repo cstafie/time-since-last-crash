@@ -1,0 +1,24 @@
+{
+  "slug": "maple-ridge/280th-st",
+  "name": "280th St",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-03-27T03:58:00Z_maple-ridge/280th-st_maple-ridge/lougheed-hwy",
+      "timestamp": "2026-03-27T03:58:00Z",
+      "address": "280TH ST & LOUGHEED HWY",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/280th-st",
+        "maple-ridge/lougheed-hwy"
+      ],
+      "streetNames": [
+        "280th St",
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2442273721"
+    }
+  ],
+  "lastIncident": "2026-03-27T03:58:00Z",
+  "count": 1
+}

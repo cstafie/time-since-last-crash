@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-03-27T03:58:00Z_maple-ridge/280th-st_maple-ridge/lougheed-hwy",
+      "timestamp": "2026-03-27T03:58:00Z",
+      "address": "280TH ST & LOUGHEED HWY",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/280th-st",
+        "maple-ridge/lougheed-hwy"
+      ],
+      "streetNames": [
+        "280th St",
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2442273721"
+    },
+    {
       "id": "2026-03-18T19:43:00Z_maple-ridge/lougheed-hwy_maple-ridge/kanaka-way",
       "timestamp": "2026-03-18T19:43:00Z",
       "address": "LOUGHEED HWY & KANAKA WAY",
@@ -62,6 +77,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-18T19:43:00Z",
-  "count": 4
+  "lastIncident": "2026-03-27T03:58:00Z",
+  "count": 5
 }

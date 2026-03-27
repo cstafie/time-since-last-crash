@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-27T03:41:00Z_vancouver/cambie-st_vancouver/w-2nd-ave",
+      "timestamp": "2026-03-27T03:41:00Z",
+      "address": "CAMBIE ST & W 2ND AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/cambie-st",
+        "vancouver/w-2nd-ave"
+      ],
+      "streetNames": [
+        "Cambie St",
+        "W 2nd Ave"
+      ],
+      "pulsePointId": "2442265889"
+    },
+    {
       "id": "2026-03-25T01:11:00Z_vancouver/w-17th-ave_vancouver/cambie-st",
       "timestamp": "2026-03-25T01:11:00Z",
       "address": "W 17TH AVE & CAMBIE ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2435569506"
     }
   ],
-  "lastIncident": "2026-03-25T01:11:00Z",
-  "count": 2
+  "lastIncident": "2026-03-27T03:41:00Z",
+  "count": 3
 }

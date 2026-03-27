@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/w-2nd-ave",
+  "name": "W 2nd Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-27T03:41:00Z_vancouver/cambie-st_vancouver/w-2nd-ave",
+      "timestamp": "2026-03-27T03:41:00Z",
+      "address": "CAMBIE ST & W 2ND AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/cambie-st",
+        "vancouver/w-2nd-ave"
+      ],
+      "streetNames": [
+        "Cambie St",
+        "W 2nd Ave"
+      ],
+      "pulsePointId": "2442265889"
+    }
+  ],
+  "lastIncident": "2026-03-27T03:41:00Z",
+  "count": 1
+}
