@@ -4177,5 +4177,19 @@
     "city": "Surrey",
     "lastIncident": "2026-03-27T10:24:00Z",
     "count": 1
+  },
+  "burnaby/underhill-ave": {
+    "name": "Underhill Ave",
+    "slug": "burnaby/underhill-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-27T11:15:00Z",
+    "count": 1
+  },
+  "burnaby/eastlake-dr": {
+    "name": "Eastlake Dr",
+    "slug": "burnaby/eastlake-dr",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-27T11:15:00Z",
+    "count": 1
   }
 }
