@@ -1,0 +1,22 @@
+{
+  "slug": "richmond/pigott-rd",
+  "name": "Pigott Rd",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-03-27T19:45:00Z_richmond/pigott-rd",
+      "timestamp": "2026-03-27T19:45:00Z",
+      "address": "PIGOTT RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/pigott-rd"
+      ],
+      "streetNames": [
+        "Pigott Rd"
+      ],
+      "pulsePointId": "2442643365"
+    }
+  ],
+  "lastIncident": "2026-03-27T19:45:00Z",
+  "count": 1
+}

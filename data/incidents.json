@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-27T19:45:00Z_richmond/pigott-rd",
+    "timestamp": "2026-03-27T19:45:00Z",
+    "scrapedAt": "2026-03-27T20:06:43Z",
+    "address": "PIGOTT RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/pigott-rd"
+    ],
+    "streetNames": [
+      "Pigott Rd"
+    ],
+    "pulsePointId": "2442643365"
+  },
+  {
+    "id": "2026-03-27T19:42:00Z_surrey/100th-ave_surrey/152nd-st",
+    "timestamp": "2026-03-27T19:42:00Z",
+    "scrapedAt": "2026-03-27T20:06:43Z",
+    "address": "100TH AVE & 152ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/100th-ave",
+      "surrey/152nd-st"
+    ],
+    "streetNames": [
+      "100th Ave",
+      "152nd St"
+    ],
+    "pulsePointId": "2442642596"
+  },
+  {
     "id": "2026-03-27T19:18:00Z_burnaby/rosser-ave_burnaby/lougheed-hwy",
     "timestamp": "2026-03-27T19:18:00Z",
     "scrapedAt": "2026-03-27T19:43:01Z",
