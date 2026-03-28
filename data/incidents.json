@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-03-28T21:58:00Z_abbotsford/trans-canada-hwy_abbotsford/mt-lehman-road-ofrp",
+    "timestamp": "2026-03-28T21:58:00Z",
+    "scrapedAt": "2026-03-28T22:03:32Z",
+    "address": "TRANS CANADA HWY & MT LEHMAN ROAD OFRP",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy",
+      "abbotsford/mt-lehman-road-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "Mt Lehman Road Ofrp"
+    ],
+    "pulsePointId": "2443376019"
+  },
+  {
+    "id": "2026-03-28T21:50:00Z_abbotsford/edgehill-ave",
+    "timestamp": "2026-03-28T21:50:00Z",
+    "scrapedAt": "2026-03-28T22:03:32Z",
+    "address": "EDGEHILL AVE",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/edgehill-ave"
+    ],
+    "streetNames": [
+      "Edgehill Ave"
+    ],
+    "pulsePointId": "2443371615"
+  },
+  {
+    "id": "2026-03-28T21:50:00Z_surrey/king-george-blvd_surrey/100th-ave",
+    "timestamp": "2026-03-28T21:50:00Z",
+    "scrapedAt": "2026-03-28T22:03:32Z",
+    "address": "KING GEORGE BLVD & 100TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/100th-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "100th Ave"
+    ],
+    "pulsePointId": "2443372689"
+  },
+  {
     "id": "2026-03-28T21:34:00Z_surrey/60th-ave",
     "timestamp": "2026-03-28T21:34:00Z",
     "scrapedAt": "2026-03-28T21:40:36Z",

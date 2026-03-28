@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-03-23T03:32:00Z",
-    "count": 13
+    "lastIncident": "2026-03-28T21:50:00Z",
+    "count": 14
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -892,8 +892,8 @@
     "name": "100th Ave",
     "slug": "surrey/100th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-27T19:42:00Z",
-    "count": 5
+    "lastIncident": "2026-03-28T21:50:00Z",
+    "count": 6
   },
   "abbotsford/old-clayburn-rd": {
     "name": "Old Clayburn Rd",
@@ -1949,8 +1949,8 @@
     "name": "Trans Canada Hwy",
     "slug": "abbotsford/trans-canada-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-20T00:09:00Z",
-    "count": 9
+    "lastIncident": "2026-03-28T21:58:00Z",
+    "count": 10
   },
   "vancouver/w-16th-ave": {
     "name": "W 16th Ave",
@@ -4309,6 +4309,20 @@
     "slug": "langley/29a-ave",
     "city": "Langley",
     "lastIncident": "2026-03-28T21:05:00Z",
+    "count": 1
+  },
+  "abbotsford/mt-lehman-road-ofrp": {
+    "name": "Mt Lehman Road Ofrp",
+    "slug": "abbotsford/mt-lehman-road-ofrp",
+    "city": "Abbotsford",
+    "lastIncident": "2026-03-28T21:58:00Z",
+    "count": 1
+  },
+  "abbotsford/edgehill-ave": {
+    "name": "Edgehill Ave",
+    "slug": "abbotsford/edgehill-ave",
+    "city": "Abbotsford",
+    "lastIncident": "2026-03-28T21:50:00Z",
     "count": 1
   }
 }
