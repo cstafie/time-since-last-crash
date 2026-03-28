@@ -1,0 +1,22 @@
+{
+  "slug": "north-vancouver/westview-dr",
+  "name": "Westview Dr",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-28T22:02:00Z_north-vancouver/westview-dr",
+      "timestamp": "2026-03-28T22:02:00Z",
+      "address": "WESTVIEW DR",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/westview-dr"
+      ],
+      "streetNames": [
+        "Westview Dr"
+      ],
+      "pulsePointId": "2443380520"
+    }
+  ],
+  "lastIncident": "2026-03-28T22:02:00Z",
+  "count": 1
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/e-georgia-st",
+  "name": "E Georgia St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-28T21:59:00Z_vancouver/e-georgia-st_vancouver/renfrew-st",
+      "timestamp": "2026-03-28T21:59:00Z",
+      "address": "E GEORGIA ST & RENFREW ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-georgia-st",
+        "vancouver/renfrew-st"
+      ],
+      "streetNames": [
+        "E Georgia St",
+        "Renfrew St"
+      ],
+      "pulsePointId": "2443379049"
+    }
+  ],
+  "lastIncident": "2026-03-28T21:59:00Z",
+  "count": 1
+}
