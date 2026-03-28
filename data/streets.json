@@ -4282,5 +4282,12 @@
     "city": "Delta",
     "lastIncident": "2026-03-28T03:34:00Z",
     "count": 1
+  },
+  "vancouver/gladstone-st": {
+    "name": "Gladstone St",
+    "slug": "vancouver/gladstone-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-28T07:38:00Z",
+    "count": 1
   }
 }

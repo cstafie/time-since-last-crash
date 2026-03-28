@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-28T07:38:00Z_vancouver/gladstone-st",
+    "timestamp": "2026-03-28T07:38:00Z",
+    "scrapedAt": "2026-03-28T07:44:16Z",
+    "address": "GLADSTONE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/gladstone-st"
+    ],
+    "streetNames": [
+      "Gladstone St"
+    ],
+    "pulsePointId": "2443025260"
+  },
+  {
     "id": "2026-03-28T03:35:00Z_richmond/river-rd",
     "timestamp": "2026-03-28T03:35:00Z",
     "scrapedAt": "2026-03-28T03:48:20Z",
