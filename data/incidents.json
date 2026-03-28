@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-28T19:03:00Z_vancouver/renfrew-st_vancouver/e-hastings-st",
+    "timestamp": "2026-03-28T19:03:00Z",
+    "scrapedAt": "2026-03-28T19:09:35Z",
+    "address": "RENFREW ST & E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/renfrew-st",
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "Renfrew St",
+      "E Hastings St"
+    ],
+    "pulsePointId": "2443275657"
+  },
+  {
+    "id": "2026-03-28T18:48:00Z_vancouver/e-1st-ave",
+    "timestamp": "2026-03-28T18:48:00Z",
+    "scrapedAt": "2026-03-28T19:09:35Z",
+    "address": "E 1ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-1st-ave"
+    ],
+    "streetNames": [
+      "E 1st Ave"
+    ],
+    "pulsePointId": "2443267241"
+  },
+  {
     "id": "2026-03-28T16:10:00Z_north-vancouver/mt-seymour-pkwy_north-vancouver/seymour-blvd",
     "timestamp": "2026-03-28T16:10:00Z",
     "scrapedAt": "2026-03-28T16:43:01Z",

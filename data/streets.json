@@ -1256,8 +1256,8 @@
     "name": "E 1st Ave",
     "slug": "vancouver/e-1st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-03-26T23:28:00Z",
-    "count": 3
+    "lastIncident": "2026-03-28T18:48:00Z",
+    "count": 4
   },
   "vancouver/boundary-rd": {
     "name": "Boundary Rd",
@@ -1774,8 +1774,8 @@
     "name": "E Hastings St",
     "slug": "vancouver/e-hastings-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-27T20:21:00Z",
-    "count": 6
+    "lastIncident": "2026-03-28T19:03:00Z",
+    "count": 7
   },
   "abbotsford/king-rd": {
     "name": "King Rd",
@@ -1928,8 +1928,8 @@
     "name": "Renfrew St",
     "slug": "vancouver/renfrew-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-27T20:21:00Z",
-    "count": 4
+    "lastIncident": "2026-03-28T19:03:00Z",
+    "count": 5
   },
   "vancouver/e-22nd-ave": {
     "name": "E 22nd Ave",
