@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-28T01:16:00Z_surrey/184th-st_surrey/16th-ave",
+    "timestamp": "2026-03-28T01:16:00Z",
+    "scrapedAt": "2026-03-28T01:30:45Z",
+    "address": "184TH ST & 16TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/184th-st",
+      "surrey/16th-ave"
+    ],
+    "streetNames": [
+      "184th St",
+      "16th Ave"
+    ],
+    "pulsePointId": "2442856310"
+  },
+  {
+    "id": "2026-03-28T01:00:00Z_burnaby/trans-canada-hwy",
+    "timestamp": "2026-03-28T01:00:00Z",
+    "scrapedAt": "2026-03-28T01:30:45Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2442847090"
+  },
+  {
     "id": "2026-03-28T00:47:00Z_burnaby/imperial-st_burnaby/central-blvd",
     "timestamp": "2026-03-28T00:47:00Z",
     "scrapedAt": "2026-03-28T00:54:35Z",

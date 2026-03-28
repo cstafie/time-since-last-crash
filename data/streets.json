@@ -584,8 +584,8 @@
     "name": "16th Ave",
     "slug": "surrey/16th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-24T18:50:00Z",
-    "count": 3
+    "lastIncident": "2026-03-28T01:16:00Z",
+    "count": 4
   },
   "surrey/63a-ave": {
     "name": "63a Ave",
@@ -1249,8 +1249,8 @@
     "name": "Trans Canada Hwy",
     "slug": "burnaby/trans-canada-hwy",
     "city": "Burnaby",
-    "lastIncident": "2026-03-26T22:45:00Z",
-    "count": 9
+    "lastIncident": "2026-03-28T01:00:00Z",
+    "count": 10
   },
   "vancouver/e-1st-ave": {
     "name": "E 1st Ave",
@@ -4196,8 +4196,8 @@
     "name": "184th St",
     "slug": "surrey/184th-st",
     "city": "Surrey",
-    "lastIncident": "2026-03-27T12:54:00Z",
-    "count": 1
+    "lastIncident": "2026-03-28T01:16:00Z",
+    "count": 2
   },
   "burnaby/rosser-ave": {
     "name": "Rosser Ave",
