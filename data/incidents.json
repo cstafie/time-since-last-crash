@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-03-28T22:59:00Z_vancouver/campbell-ave",
+    "timestamp": "2026-03-28T22:59:00Z",
+    "scrapedAt": "2026-03-28T23:05:14Z",
+    "address": "CAMPBELL AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/campbell-ave"
+    ],
+    "streetNames": [
+      "Campbell Ave"
+    ],
+    "pulsePointId": "2443410859"
+  },
+  {
+    "id": "2026-03-28T22:45:00Z_vancouver/e-broadway_vancouver/clark-dr",
+    "timestamp": "2026-03-28T22:45:00Z",
+    "scrapedAt": "2026-03-28T23:05:14Z",
+    "address": "E BROADWAY & CLARK DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-broadway",
+      "vancouver/clark-dr"
+    ],
+    "streetNames": [
+      "E Broadway",
+      "Clark Dr"
+    ],
+    "pulsePointId": "2443403577"
+  },
+  {
+    "id": "2026-03-28T22:43:00Z_vancouver/w-10th-ave",
+    "timestamp": "2026-03-28T22:43:00Z",
+    "scrapedAt": "2026-03-28T23:05:14Z",
+    "address": "W 10TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-10th-ave"
+    ],
+    "streetNames": [
+      "W 10th Ave"
+    ],
+    "pulsePointId": "2443401963"
+  },
+  {
     "id": "2026-03-28T22:35:00Z_abbotsford/mt-lehman-rd",
     "timestamp": "2026-03-28T22:35:00Z",
     "scrapedAt": "2026-03-28T22:41:29Z",

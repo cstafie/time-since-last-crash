@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/campbell-ave",
+  "name": "Campbell Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-28T22:59:00Z_vancouver/campbell-ave",
+      "timestamp": "2026-03-28T22:59:00Z",
+      "address": "CAMPBELL AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/campbell-ave"
+      ],
+      "streetNames": [
+        "Campbell Ave"
+      ],
+      "pulsePointId": "2443410859"
+    }
+  ],
+  "lastIncident": "2026-03-28T22:59:00Z",
+  "count": 1
+}

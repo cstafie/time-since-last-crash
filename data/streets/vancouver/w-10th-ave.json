@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-28T22:43:00Z_vancouver/w-10th-ave",
+      "timestamp": "2026-03-28T22:43:00Z",
+      "address": "W 10TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-10th-ave"
+      ],
+      "streetNames": [
+        "W 10th Ave"
+      ],
+      "pulsePointId": "2443401963"
+    },
+    {
       "id": "2026-03-23T22:45:00Z_vancouver/w-10th-ave",
       "timestamp": "2026-03-23T22:45:00Z",
       "address": "W 10TH AVE",
@@ -44,6 +57,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-23T22:45:00Z",
-  "count": 3
+  "lastIncident": "2026-03-28T22:43:00Z",
+  "count": 4
 }

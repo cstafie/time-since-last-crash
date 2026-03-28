@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-28T22:45:00Z_vancouver/e-broadway_vancouver/clark-dr",
+      "timestamp": "2026-03-28T22:45:00Z",
+      "address": "E BROADWAY & CLARK DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-broadway",
+        "vancouver/clark-dr"
+      ],
+      "streetNames": [
+        "E Broadway",
+        "Clark Dr"
+      ],
+      "pulsePointId": "2443403577"
+    },
+    {
       "id": "2026-03-24T20:52:00Z_vancouver/e-4th-ave_vancouver/clark-dr",
       "timestamp": "2026-03-24T20:52:00Z",
       "address": "E 4TH AVE & CLARK DR",
@@ -34,6 +49,6 @@
       "pulsePointId": "2438733768"
     }
   ],
-  "lastIncident": "2026-03-24T20:52:00Z",
-  "count": 2
+  "lastIncident": "2026-03-28T22:45:00Z",
+  "count": 3
 }
