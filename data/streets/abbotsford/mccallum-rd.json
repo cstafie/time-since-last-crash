@@ -4,6 +4,19 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-03-28T20:04:00Z_abbotsford/mccallum-rd",
+      "timestamp": "2026-03-28T20:04:00Z",
+      "address": "MCCALLUM RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/mccallum-rd"
+      ],
+      "streetNames": [
+        "Mccallum Rd"
+      ],
+      "pulsePointId": "2443308306"
+    },
+    {
       "id": "2026-03-28T19:55:00Z_abbotsford/mcdougall-ave_abbotsford/mccallum-rd",
       "timestamp": "2026-03-28T19:55:00Z",
       "address": "MCDOUGALL AVE & MCCALLUM RD",
@@ -62,6 +75,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-28T19:55:00Z",
-  "count": 4
+  "lastIncident": "2026-03-28T20:04:00Z",
+  "count": 5
 }

@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-28T20:04:00Z_abbotsford/mccallum-rd",
+    "timestamp": "2026-03-28T20:04:00Z",
+    "scrapedAt": "2026-03-28T20:42:14Z",
+    "address": "MCCALLUM RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/mccallum-rd"
+    ],
+    "streetNames": [
+      "Mccallum Rd"
+    ],
+    "pulsePointId": "2443308306"
+  },
+  {
     "id": "2026-03-28T19:55:00Z_abbotsford/mcdougall-ave_abbotsford/mccallum-rd",
     "timestamp": "2026-03-28T19:55:00Z",
     "scrapedAt": "2026-03-28T20:03:25Z",
