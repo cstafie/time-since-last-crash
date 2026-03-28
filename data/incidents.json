@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-03-28T21:34:00Z_surrey/60th-ave",
+    "timestamp": "2026-03-28T21:34:00Z",
+    "scrapedAt": "2026-03-28T21:40:36Z",
+    "address": "60TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/60th-ave"
+    ],
+    "streetNames": [
+      "60th Ave"
+    ],
+    "pulsePointId": "2443362078"
+  },
+  {
+    "id": "2026-03-28T21:26:00Z_vancouver/renfrew-st_vancouver/e-1st-ave",
+    "timestamp": "2026-03-28T21:26:00Z",
+    "scrapedAt": "2026-03-28T21:40:36Z",
+    "address": "RENFREW ST & E 1ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/renfrew-st",
+      "vancouver/e-1st-ave"
+    ],
+    "streetNames": [
+      "Renfrew St",
+      "E 1st Ave"
+    ],
+    "pulsePointId": "2443357709"
+  },
+  {
+    "id": "2026-03-28T21:05:00Z_langley/29a-ave_langley/272nd-st",
+    "timestamp": "2026-03-28T21:05:00Z",
+    "scrapedAt": "2026-03-28T21:40:36Z",
+    "address": "29A AVE & 272ND ST",
+    "city": "Langley",
+    "streets": [
+      "langley/29a-ave",
+      "langley/272nd-st"
+    ],
+    "streetNames": [
+      "29a Ave",
+      "272nd St"
+    ],
+    "pulsePointId": "2443345260"
+  },
+  {
     "id": "2026-03-28T20:47:00Z_chilliwack/fletcher-st_chilliwack/yale-rd",
     "timestamp": "2026-03-28T20:47:00Z",
     "scrapedAt": "2026-03-28T21:05:21Z",

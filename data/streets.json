@@ -220,8 +220,8 @@
     "name": "272nd St",
     "slug": "langley/272nd-st",
     "city": "Langley",
-    "lastIncident": "2026-03-25T22:13:00Z",
-    "count": 4
+    "lastIncident": "2026-03-28T21:05:00Z",
+    "count": 5
   },
   "langley/273rd-st": {
     "name": "273rd St",
@@ -1256,8 +1256,8 @@
     "name": "E 1st Ave",
     "slug": "vancouver/e-1st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-03-28T18:48:00Z",
-    "count": 4
+    "lastIncident": "2026-03-28T21:26:00Z",
+    "count": 5
   },
   "vancouver/boundary-rd": {
     "name": "Boundary Rd",
@@ -1928,8 +1928,8 @@
     "name": "Renfrew St",
     "slug": "vancouver/renfrew-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-28T19:03:00Z",
-    "count": 5
+    "lastIncident": "2026-03-28T21:26:00Z",
+    "count": 6
   },
   "vancouver/e-22nd-ave": {
     "name": "E 22nd Ave",
@@ -2978,8 +2978,8 @@
     "name": "60th Ave",
     "slug": "surrey/60th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-21T00:44:00Z",
-    "count": 2
+    "lastIncident": "2026-03-28T21:34:00Z",
+    "count": 3
   },
   "pitt-meadows/airport-way": {
     "name": "Airport Way",
@@ -4302,6 +4302,13 @@
     "slug": "chilliwack/fletcher-st",
     "city": "Chilliwack",
     "lastIncident": "2026-03-28T20:47:00Z",
+    "count": 1
+  },
+  "langley/29a-ave": {
+    "name": "29a Ave",
+    "slug": "langley/29a-ave",
+    "city": "Langley",
+    "lastIncident": "2026-03-28T21:05:00Z",
     "count": 1
   }
 }
