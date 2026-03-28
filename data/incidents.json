@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-28T16:10:00Z_north-vancouver/mt-seymour-pkwy_north-vancouver/seymour-blvd",
+    "timestamp": "2026-03-28T16:10:00Z",
+    "scrapedAt": "2026-03-28T16:43:01Z",
+    "address": "MT SEYMOUR PKWY & SEYMOUR BLVD",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/mt-seymour-pkwy",
+      "north-vancouver/seymour-blvd"
+    ],
+    "streetNames": [
+      "Mt Seymour Pkwy",
+      "Seymour Blvd"
+    ],
+    "pulsePointId": "2443184603"
+  },
+  {
     "id": "2026-03-28T07:38:00Z_vancouver/gladstone-st",
     "timestamp": "2026-03-28T07:38:00Z",
     "scrapedAt": "2026-03-28T07:44:16Z",
