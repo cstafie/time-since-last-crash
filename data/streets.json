@@ -4268,5 +4268,19 @@
     "city": "Burnaby",
     "lastIncident": "2026-03-28T00:32:00Z",
     "count": 1
+  },
+  "richmond/river-rd": {
+    "name": "River Rd",
+    "slug": "richmond/river-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-03-28T03:35:00Z",
+    "count": 1
+  },
+  "delta/hwy-17a": {
+    "name": "Hwy 17a",
+    "slug": "delta/hwy-17a",
+    "city": "Delta",
+    "lastIncident": "2026-03-28T03:34:00Z",
+    "count": 1
   }
 }

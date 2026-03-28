@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-03-28T03:35:00Z_richmond/river-rd",
+    "timestamp": "2026-03-28T03:35:00Z",
+    "scrapedAt": "2026-03-28T03:48:20Z",
+    "address": "RIVER RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/river-rd"
+    ],
+    "streetNames": [
+      "River Rd"
+    ],
+    "pulsePointId": "2442927466"
+  },
+  {
+    "id": "2026-03-28T03:34:00Z_delta/hwy-17a",
+    "timestamp": "2026-03-28T03:34:00Z",
+    "scrapedAt": "2026-03-28T03:48:20Z",
+    "address": "HWY 17A",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-17a"
+    ],
+    "streetNames": [
+      "Hwy 17a"
+    ],
+    "pulsePointId": "2442926935"
+  },
+  {
     "id": "2026-03-28T02:04:00Z_vancouver/victoria-dr_vancouver/e-broadway",
     "timestamp": "2026-03-28T02:04:00Z",
     "scrapedAt": "2026-03-28T02:56:40Z",

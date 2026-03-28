@@ -1,0 +1,22 @@
+{
+  "slug": "richmond/river-rd",
+  "name": "River Rd",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-03-28T03:35:00Z_richmond/river-rd",
+      "timestamp": "2026-03-28T03:35:00Z",
+      "address": "RIVER RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/river-rd"
+      ],
+      "streetNames": [
+        "River Rd"
+      ],
+      "pulsePointId": "2442927466"
+    }
+  ],
+  "lastIncident": "2026-03-28T03:35:00Z",
+  "count": 1
+}

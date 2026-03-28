@@ -1,0 +1,22 @@
+{
+  "slug": "delta/hwy-17a",
+  "name": "Hwy 17a",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-03-28T03:34:00Z_delta/hwy-17a",
+      "timestamp": "2026-03-28T03:34:00Z",
+      "address": "HWY 17A",
+      "city": "Delta",
+      "streets": [
+        "delta/hwy-17a"
+      ],
+      "streetNames": [
+        "Hwy 17a"
+      ],
+      "pulsePointId": "2442926935"
+    }
+  ],
+  "lastIncident": "2026-03-28T03:34:00Z",
+  "count": 1
+}
