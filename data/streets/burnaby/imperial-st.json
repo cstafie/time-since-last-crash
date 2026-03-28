@@ -1,6 +1,6 @@
 {
-  "slug": "burnaby/central-blvd",
-  "name": "Central Blvd",
+  "slug": "burnaby/imperial-st",
+  "name": "Imperial St",
   "city": "Burnaby",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Central Blvd"
       ],
       "pulsePointId": "2442839188"
-    },
-    {
-      "id": "2026-03-18T02:14:00Z_burnaby/central-blvd_burnaby/bonsor-ave",
-      "timestamp": "2026-03-18T02:14:00Z",
-      "address": "CENTRAL BLVD & BONSOR AVE",
-      "city": "Burnaby",
-      "streets": [
-        "burnaby/central-blvd",
-        "burnaby/bonsor-ave"
-      ],
-      "streetNames": [
-        "Central Blvd",
-        "Bonsor Ave"
-      ],
-      "pulsePointId": "2436250218"
     }
   ],
   "lastIncident": "2026-03-28T00:47:00Z",
-  "count": 2
+  "count": 1
 }

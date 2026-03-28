@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-28T00:09:00Z_vancouver/boundary-rd_vancouver/e-4th-ave",
+      "timestamp": "2026-03-28T00:09:00Z",
+      "address": "BOUNDARY RD & E 4TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/boundary-rd",
+        "vancouver/e-4th-ave"
+      ],
+      "streetNames": [
+        "Boundary Rd",
+        "E 4th Ave"
+      ],
+      "pulsePointId": "2442817635"
+    },
+    {
       "id": "2026-03-24T20:52:00Z_vancouver/e-4th-ave_vancouver/clark-dr",
       "timestamp": "2026-03-24T20:52:00Z",
       "address": "E 4TH AVE & CLARK DR",
@@ -19,6 +34,6 @@
       "pulsePointId": "2440699742"
     }
   ],
-  "lastIncident": "2026-03-24T20:52:00Z",
-  "count": 1
+  "lastIncident": "2026-03-28T00:09:00Z",
+  "count": 2
 }

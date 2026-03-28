@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/kitchener-st",
+  "name": "Kitchener St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-03-28T00:32:00Z_burnaby/kitchener-st_burnaby/willingdon-ave",
+      "timestamp": "2026-03-28T00:32:00Z",
+      "address": "KITCHENER ST & WILLINGDON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/kitchener-st",
+        "burnaby/willingdon-ave"
+      ],
+      "streetNames": [
+        "Kitchener St",
+        "Willingdon Ave"
+      ],
+      "pulsePointId": "2442830231"
+    }
+  ],
+  "lastIncident": "2026-03-28T00:32:00Z",
+  "count": 1
+}

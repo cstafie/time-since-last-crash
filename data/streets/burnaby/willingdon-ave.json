@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-03-28T00:32:00Z_burnaby/kitchener-st_burnaby/willingdon-ave",
+      "timestamp": "2026-03-28T00:32:00Z",
+      "address": "KITCHENER ST & WILLINGDON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/kitchener-st",
+        "burnaby/willingdon-ave"
+      ],
+      "streetNames": [
+        "Kitchener St",
+        "Willingdon Ave"
+      ],
+      "pulsePointId": "2442830231"
+    },
+    {
       "id": "2026-03-16T14:16:00Z_burnaby/hastings-st_burnaby/willingdon-ave",
       "timestamp": "2026-03-16T14:16:00Z",
       "address": "HASTINGS ST & WILLINGDON AVE",
@@ -33,6 +48,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-16T14:16:00Z",
-  "count": 2
+  "lastIncident": "2026-03-28T00:32:00Z",
+  "count": 3
 }
