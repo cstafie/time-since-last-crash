@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-28T19:55:00Z_abbotsford/mcdougall-ave_abbotsford/mccallum-rd",
+    "timestamp": "2026-03-28T19:55:00Z",
+    "scrapedAt": "2026-03-28T20:03:25Z",
+    "address": "MCDOUGALL AVE & MCCALLUM RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/mcdougall-ave",
+      "abbotsford/mccallum-rd"
+    ],
+    "streetNames": [
+      "Mcdougall Ave",
+      "Mccallum Rd"
+    ],
+    "pulsePointId": "2443303812"
+  },
+  {
     "id": "2026-03-28T19:21:00Z_vancouver/broughton-st_vancouver/w-georgia-st",
     "timestamp": "2026-03-28T19:21:00Z",
     "scrapedAt": "2026-03-28T19:40:14Z",
