@@ -2460,8 +2460,8 @@
     "name": "Cambie St",
     "slug": "vancouver/cambie-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-27T03:41:00Z",
-    "count": 3
+    "lastIncident": "2026-03-29T17:20:00Z",
+    "count": 4
   },
   "vancouver/e-broadway": {
     "name": "E Broadway",
@@ -4421,6 +4421,13 @@
     "slug": "coquitlam/eagle-mtn-accs",
     "city": "Coquitlam",
     "lastIncident": "2026-03-29T16:43:00Z",
+    "count": 1
+  },
+  "vancouver/w-64th-ave": {
+    "name": "W 64th Ave",
+    "slug": "vancouver/w-64th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-29T17:20:00Z",
     "count": 1
   }
 }
