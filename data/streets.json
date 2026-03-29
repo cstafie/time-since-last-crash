@@ -2243,15 +2243,15 @@
     "name": "Lougheed Hwy",
     "slug": "port-coquitlam/lougheed-hwy",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-03-16T03:05:00Z",
-    "count": 1
+    "lastIncident": "2026-03-29T04:51:00Z",
+    "count": 2
   },
   "port-coquitlam/hastings-st": {
     "name": "Hastings St",
     "slug": "port-coquitlam/hastings-st",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-03-16T03:05:00Z",
-    "count": 1
+    "lastIncident": "2026-03-29T04:51:00Z",
+    "count": 2
   },
   "surrey/10416-king-george-blvd": {
     "name": "10416 King George Blvd",
