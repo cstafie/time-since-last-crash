@@ -16,6 +16,22 @@
     "pulsePointId": "2443979004"
   },
   {
+    "id": "2026-03-29T21:04:00Z_langley/64th-ave_langley/200th-st",
+    "timestamp": "2026-03-29T21:04:00Z",
+    "scrapedAt": "2026-03-29T21:41:58Z",
+    "address": "64TH AVE & 200TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/64th-ave",
+      "langley/200th-st"
+    ],
+    "streetNames": [
+      "64th Ave",
+      "200th St"
+    ],
+    "pulsePointId": "2443979434"
+  },
+  {
     "id": "2026-03-29T20:27:00Z_burnaby/14th-ave",
     "timestamp": "2026-03-29T20:27:00Z",
     "scrapedAt": "2026-03-29T20:42:47Z",
