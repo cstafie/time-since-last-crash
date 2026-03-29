@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-22T11:19:00Z",
-    "count": 5
+    "lastIncident": "2026-03-29T09:55:00Z",
+    "count": 6
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -4379,6 +4379,13 @@
     "slug": "surrey/12025-nordel-way",
     "city": "Surrey",
     "lastIncident": "2026-03-29T07:15:00Z",
+    "count": 1
+  },
+  "vancouver/angus-dr": {
+    "name": "Angus Dr",
+    "slug": "vancouver/angus-dr",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-29T09:55:00Z",
     "count": 1
   }
 }
