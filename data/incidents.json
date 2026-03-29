@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-03-28T23:49:00Z_pitt-meadows/lougheed-hwy",
+    "timestamp": "2026-03-28T23:49:00Z",
+    "scrapedAt": "2026-03-29T00:05:51Z",
+    "address": "LOUGHEED HWY",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2443439711"
+  },
+  {
     "id": "2026-03-28T22:59:00Z_vancouver/campbell-ave",
     "timestamp": "2026-03-28T22:59:00Z",
     "scrapedAt": "2026-03-28T23:05:14Z",
