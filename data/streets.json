@@ -367,8 +367,8 @@
     "name": "8th St",
     "slug": "new-westminster/8th-st",
     "city": "New Westminster",
-    "lastIncident": "2026-03-08T17:26:00Z",
-    "count": 1
+    "lastIncident": "2026-03-29T04:34:00Z",
+    "count": 2
   },
   "new-westminster/mcbride-blvd": {
     "name": "Mcbride Blvd",
@@ -4365,6 +4365,13 @@
     "slug": "surrey/117b-st",
     "city": "Surrey",
     "lastIncident": "2026-03-29T03:05:00Z",
+    "count": 1
+  },
+  "new-westminster/4th-ave": {
+    "name": "4th Ave",
+    "slug": "new-westminster/4th-ave",
+    "city": "New Westminster",
+    "lastIncident": "2026-03-29T04:34:00Z",
     "count": 1
   }
 }

@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-29T04:34:00Z_new-westminster/4th-ave_new-westminster/8th-st",
+    "timestamp": "2026-03-29T04:34:00Z",
+    "scrapedAt": "2026-03-29T04:47:23Z",
+    "address": "4TH AVE & 8TH ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/4th-ave",
+      "new-westminster/8th-st"
+    ],
+    "streetNames": [
+      "4th Ave",
+      "8th St"
+    ],
+    "pulsePointId": "2443588405"
+  },
+  {
     "id": "2026-03-29T03:05:00Z_surrey/97th-ave_surrey/117b-st",
     "timestamp": "2026-03-29T03:05:00Z",
     "scrapedAt": "2026-03-29T03:36:19Z",

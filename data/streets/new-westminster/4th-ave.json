@@ -1,6 +1,6 @@
 {
-  "slug": "new-westminster/8th-st",
-  "name": "8th St",
+  "slug": "new-westminster/4th-ave",
+  "name": "4th Ave",
   "city": "New Westminster",
   "incidents": [
     {
@@ -17,22 +17,8 @@
         "8th St"
       ],
       "pulsePointId": "2443588405"
-    },
-    {
-      "id": "2026-03-08T17:26:00Z_royal-ave_8th-st",
-      "timestamp": "2026-03-08T17:26:00Z",
-      "address": "ROYAL AVE & 8TH ST",
-      "city": "New Westminster",
-      "streets": [
-        "new-westminster/royal-ave",
-        "new-westminster/8th-st"
-      ],
-      "streetNames": [
-        "Royal Ave",
-        "8th St"
-      ]
     }
   ],
   "lastIncident": "2026-03-29T04:34:00Z",
-  "count": 2
+  "count": 1
 }
