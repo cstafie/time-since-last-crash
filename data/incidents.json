@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-03-29T22:28:00Z_surrey/80th-ave",
+    "timestamp": "2026-03-29T22:28:00Z",
+    "scrapedAt": "2026-03-29T22:42:14Z",
+    "address": "80TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/80th-ave"
+    ],
+    "streetNames": [
+      "80th Ave"
+    ],
+    "pulsePointId": "2444028885"
+  },
+  {
+    "id": "2026-03-29T22:16:00Z_coquitlam/cape-horn-ave",
+    "timestamp": "2026-03-29T22:16:00Z",
+    "scrapedAt": "2026-03-29T22:42:14Z",
+    "address": "CAPE HORN AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/cape-horn-ave"
+    ],
+    "streetNames": [
+      "Cape Horn Ave"
+    ],
+    "pulsePointId": "2444022847"
+  },
+  {
     "id": "2026-03-29T21:04:00Z_langley/200th-st_langley/64th-ave",
     "timestamp": "2026-03-29T21:04:00Z",
     "scrapedAt": "2026-03-29T21:05:54Z",
