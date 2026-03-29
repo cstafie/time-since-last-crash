@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-03-29T01:46:00Z_surrey/96th-ave",
+    "timestamp": "2026-03-29T01:46:00Z",
+    "scrapedAt": "2026-03-29T02:14:56Z",
+    "address": "96TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/96th-ave"
+    ],
+    "streetNames": [
+      "96th Ave"
+    ],
+    "pulsePointId": "2443507411"
+  },
+  {
+    "id": "2026-03-29T01:28:00Z_burnaby/4469-kingsway",
+    "timestamp": "2026-03-29T01:28:00Z",
+    "scrapedAt": "2026-03-29T02:14:56Z",
+    "address": "4469 KINGSWAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/4469-kingsway"
+    ],
+    "streetNames": [
+      "4469 Kingsway"
+    ],
+    "pulsePointId": "2443497835"
+  },
+  {
     "id": "2026-03-29T00:46:00Z_new-westminster/stewardson-way_new-westminster/3rd-ave",
     "timestamp": "2026-03-29T00:46:00Z",
     "scrapedAt": "2026-03-29T01:02:01Z",
