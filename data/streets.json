@@ -1102,8 +1102,8 @@
     "name": "200th St",
     "slug": "langley/200th-st",
     "city": "Langley",
-    "lastIncident": "2026-03-24T05:01:00Z",
-    "count": 3
+    "lastIncident": "2026-03-29T21:04:00Z",
+    "count": 4
   },
   "abbotsford/downes-rd": {
     "name": "Downes Rd",
@@ -1186,8 +1186,8 @@
     "name": "64th Ave",
     "slug": "langley/64th-ave",
     "city": "Langley",
-    "lastIncident": "2026-03-17T21:09:00Z",
-    "count": 2
+    "lastIncident": "2026-03-29T21:04:00Z",
+    "count": 3
   },
   "chilliwack/watson-rd": {
     "name": "Watson Rd",
