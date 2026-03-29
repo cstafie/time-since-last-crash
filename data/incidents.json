@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-03-29T00:46:00Z_new-westminster/stewardson-way_new-westminster/3rd-ave",
+    "timestamp": "2026-03-29T00:46:00Z",
+    "scrapedAt": "2026-03-29T01:02:01Z",
+    "address": "STEWARDSON WAY & 3RD AVE",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/stewardson-way",
+      "new-westminster/3rd-ave"
+    ],
+    "streetNames": [
+      "Stewardson Way",
+      "3rd Ave"
+    ],
+    "pulsePointId": "2443471443"
+  },
+  {
+    "id": "2026-03-29T00:33:00Z_new-westminster/mcbride-blvd_new-westminster/memorial-dr",
+    "timestamp": "2026-03-29T00:33:00Z",
+    "scrapedAt": "2026-03-29T01:02:01Z",
+    "address": "MCBRIDE BLVD & MEMORIAL DR",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/mcbride-blvd",
+      "new-westminster/memorial-dr"
+    ],
+    "streetNames": [
+      "Mcbride Blvd",
+      "Memorial Dr"
+    ],
+    "pulsePointId": "2443463858"
+  },
+  {
+    "id": "2026-03-29T00:32:00Z_new-westminster/10th-ave",
+    "timestamp": "2026-03-29T00:32:00Z",
+    "scrapedAt": "2026-03-29T01:02:01Z",
+    "address": "10TH AVE",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/10th-ave"
+    ],
+    "streetNames": [
+      "10th Ave"
+    ],
+    "pulsePointId": "2443463998"
+  },
+  {
     "id": "2026-03-28T23:49:00Z_pitt-meadows/lougheed-hwy",
     "timestamp": "2026-03-28T23:49:00Z",
     "scrapedAt": "2026-03-29T00:05:51Z",

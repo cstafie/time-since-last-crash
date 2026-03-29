@@ -4,6 +4,21 @@
   "city": "New Westminster",
   "incidents": [
     {
+      "id": "2026-03-29T00:33:00Z_new-westminster/mcbride-blvd_new-westminster/memorial-dr",
+      "timestamp": "2026-03-29T00:33:00Z",
+      "address": "MCBRIDE BLVD & MEMORIAL DR",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/mcbride-blvd",
+        "new-westminster/memorial-dr"
+      ],
+      "streetNames": [
+        "Mcbride Blvd",
+        "Memorial Dr"
+      ],
+      "pulsePointId": "2443463858"
+    },
+    {
       "id": "2026-03-17T03:45:00Z_new-westminster/mcbride-blvd",
       "timestamp": "2026-03-17T03:45:00Z",
       "address": "MCBRIDE BLVD",
@@ -59,6 +74,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-17T03:45:00Z",
-  "count": 4
+  "lastIncident": "2026-03-29T00:33:00Z",
+  "count": 5
 }
