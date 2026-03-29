@@ -4387,5 +4387,19 @@
     "city": "Vancouver",
     "lastIncident": "2026-03-29T09:55:00Z",
     "count": 1
+  },
+  "surrey/138th-st": {
+    "name": "138th St",
+    "slug": "surrey/138th-st",
+    "city": "Surrey",
+    "lastIncident": "2026-03-29T12:14:00Z",
+    "count": 1
+  },
+  "surrey/74th-ave": {
+    "name": "74th Ave",
+    "slug": "surrey/74th-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-03-29T12:14:00Z",
+    "count": 1
   }
 }

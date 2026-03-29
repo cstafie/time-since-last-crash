@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-29T12:14:00Z_surrey/138th-st_surrey/74th-ave",
+    "timestamp": "2026-03-29T12:14:00Z",
+    "scrapedAt": "2026-03-29T12:45:13Z",
+    "address": "138TH ST & 74TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/138th-st",
+      "surrey/74th-ave"
+    ],
+    "streetNames": [
+      "138th St",
+      "74th Ave"
+    ],
+    "pulsePointId": "2443734962"
+  },
+  {
     "id": "2026-03-29T09:55:00Z_vancouver/angus-dr_vancouver/granville-st",
     "timestamp": "2026-03-29T09:55:00Z",
     "scrapedAt": "2026-03-29T10:06:30Z",
