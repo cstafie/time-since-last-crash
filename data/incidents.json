@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-03-30T19:03:00Z_vancouver/smithe-st_vancouver/seymour-st",
+    "timestamp": "2026-03-30T19:03:00Z",
+    "scrapedAt": "2026-03-30T19:20:58Z",
+    "address": "SMITHE ST & SEYMOUR ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/smithe-st",
+      "vancouver/seymour-st"
+    ],
+    "streetNames": [
+      "Smithe St",
+      "Seymour St"
+    ],
+    "pulsePointId": "2444548216"
+  },
+  {
+    "id": "2026-03-30T18:44:00Z_surrey/120th-st_surrey/72nd-ave",
+    "timestamp": "2026-03-30T18:44:00Z",
+    "scrapedAt": "2026-03-30T19:20:58Z",
+    "address": "120TH ST & 72ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/120th-st",
+      "surrey/72nd-ave"
+    ],
+    "streetNames": [
+      "120th St",
+      "72nd Ave"
+    ],
+    "pulsePointId": "2444536491"
+  },
+  {
+    "id": "2026-03-30T18:15:00Z_pitt-meadows/airport-way",
+    "timestamp": "2026-03-30T18:15:00Z",
+    "scrapedAt": "2026-03-30T19:20:58Z",
+    "address": "AIRPORT WAY",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/airport-way"
+    ],
+    "streetNames": [
+      "Airport Way"
+    ],
+    "pulsePointId": "2444517653"
+  },
+  {
     "id": "2026-03-30T18:00:00Z_port-moody/dewdney-trunk-rd",
     "timestamp": "2026-03-30T18:00:00Z",
     "scrapedAt": "2026-03-30T18:14:09Z",

@@ -1298,8 +1298,8 @@
     "name": "120th St",
     "slug": "surrey/120th-st",
     "city": "Surrey",
-    "lastIncident": "2026-03-27T22:02:00Z",
-    "count": 2
+    "lastIncident": "2026-03-30T18:44:00Z",
+    "count": 3
   },
   "delta/72nd-st": {
     "name": "72nd St",
@@ -2985,8 +2985,8 @@
     "name": "Airport Way",
     "slug": "pitt-meadows/airport-way",
     "city": "Pitt Meadows",
-    "lastIncident": "2026-03-19T14:07:00Z",
-    "count": 1
+    "lastIncident": "2026-03-30T18:15:00Z",
+    "count": 2
   },
   "coquitlam/colony-farm-rd": {
     "name": "Colony Farm Rd",
@@ -3867,8 +3867,8 @@
     "name": "Smithe St",
     "slug": "vancouver/smithe-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-24T21:18:00Z",
-    "count": 1
+    "lastIncident": "2026-03-30T19:03:00Z",
+    "count": 2
   },
   "maple-ridge/river-rd": {
     "name": "River Rd",
@@ -4505,6 +4505,20 @@
     "slug": "port-moody/dewdney-trunk-rd",
     "city": "Port Moody",
     "lastIncident": "2026-03-30T18:00:00Z",
+    "count": 1
+  },
+  "vancouver/seymour-st": {
+    "name": "Seymour St",
+    "slug": "vancouver/seymour-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-30T19:03:00Z",
+    "count": 1
+  },
+  "surrey/72nd-ave": {
+    "name": "72nd Ave",
+    "slug": "surrey/72nd-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-03-30T18:44:00Z",
     "count": 1
   }
 }
