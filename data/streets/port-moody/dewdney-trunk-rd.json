@@ -1,0 +1,22 @@
+{
+  "slug": "port-moody/dewdney-trunk-rd",
+  "name": "Dewdney Trunk Rd",
+  "city": "Port Moody",
+  "incidents": [
+    {
+      "id": "2026-03-30T18:00:00Z_port-moody/dewdney-trunk-rd",
+      "timestamp": "2026-03-30T18:00:00Z",
+      "address": "DEWDNEY TRUNK RD",
+      "city": "Port Moody",
+      "streets": [
+        "port-moody/dewdney-trunk-rd"
+      ],
+      "streetNames": [
+        "Dewdney Trunk Rd"
+      ],
+      "pulsePointId": "2444507680"
+    }
+  ],
+  "lastIncident": "2026-03-30T18:00:00Z",
+  "count": 1
+}
