@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-03-30T22:00:00Z_new-westminster/stewardson-way",
+    "timestamp": "2026-03-30T22:00:00Z",
+    "scrapedAt": "2026-03-30T22:08:25Z",
+    "address": "STEWARDSON WAY",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/stewardson-way"
+    ],
+    "streetNames": [
+      "Stewardson Way"
+    ],
+    "pulsePointId": "2444666340"
+  },
+  {
+    "id": "2026-03-30T22:00:00Z_vancouver/w-29th-ave",
+    "timestamp": "2026-03-30T22:00:00Z",
+    "scrapedAt": "2026-03-30T22:08:25Z",
+    "address": "W 29TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-29th-ave"
+    ],
+    "streetNames": [
+      "W 29th Ave"
+    ],
+    "pulsePointId": "2444663779"
+  },
+  {
     "id": "2026-03-30T21:38:00Z_vancouver/inverness-st_vancouver/e-62nd-ave",
     "timestamp": "2026-03-30T21:38:00Z",
     "scrapedAt": "2026-03-30T21:43:52Z",
