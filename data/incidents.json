@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-30T21:38:00Z_vancouver/inverness-st_vancouver/e-62nd-ave",
+    "timestamp": "2026-03-30T21:38:00Z",
+    "scrapedAt": "2026-03-30T21:43:52Z",
+    "address": "INVERNESS ST & E 62ND AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/inverness-st",
+      "vancouver/e-62nd-ave"
+    ],
+    "streetNames": [
+      "Inverness St",
+      "E 62nd Ave"
+    ],
+    "pulsePointId": "2444649115"
+  },
+  {
     "id": "2026-03-30T20:13:00Z_abbotsford/south-fraser-way_abbotsford/laurel-st",
     "timestamp": "2026-03-30T20:13:00Z",
     "scrapedAt": "2026-03-30T20:44:16Z",

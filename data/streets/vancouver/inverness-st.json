@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-30T21:38:00Z_vancouver/inverness-st_vancouver/e-62nd-ave",
+      "timestamp": "2026-03-30T21:38:00Z",
+      "address": "INVERNESS ST & E 62ND AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/inverness-st",
+        "vancouver/e-62nd-ave"
+      ],
+      "streetNames": [
+        "Inverness St",
+        "E 62nd Ave"
+      ],
+      "pulsePointId": "2444649115"
+    },
+    {
       "id": "2026-03-19T21:50:00Z_vancouver/inverness-st_vancouver/e-60th-ave",
       "timestamp": "2026-03-19T21:50:00Z",
       "address": "INVERNESS ST & E 60TH AVE",
@@ -49,6 +64,6 @@
       "pulsePointId": "2432981060"
     }
   ],
-  "lastIncident": "2026-03-19T21:50:00Z",
-  "count": 3
+  "lastIncident": "2026-03-30T21:38:00Z",
+  "count": 4
 }
