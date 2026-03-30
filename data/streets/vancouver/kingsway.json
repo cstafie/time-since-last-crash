@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-30T03:53:00Z_vancouver/kingsway_vancouver/knight-st",
+      "timestamp": "2026-03-30T03:53:00Z",
+      "address": "KINGSWAY & KNIGHT ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/kingsway",
+        "vancouver/knight-st"
+      ],
+      "streetNames": [
+        "Kingsway",
+        "Knight St"
+      ],
+      "pulsePointId": "2444199336"
+    },
+    {
       "id": "2026-03-25T03:45:00Z_vancouver/kingsway_vancouver/miller-st",
       "timestamp": "2026-03-25T03:45:00Z",
       "address": "KINGSWAY & MILLER ST",
@@ -106,6 +121,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-25T03:45:00Z",
-  "count": 7
+  "lastIncident": "2026-03-30T03:53:00Z",
+  "count": 8
 }

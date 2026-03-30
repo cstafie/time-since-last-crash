@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-30T03:53:00Z_vancouver/kingsway_vancouver/knight-st",
+    "timestamp": "2026-03-30T03:53:00Z",
+    "scrapedAt": "2026-03-30T04:53:19Z",
+    "address": "KINGSWAY & KNIGHT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kingsway",
+      "vancouver/knight-st"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "Knight St"
+    ],
+    "pulsePointId": "2444199336"
+  },
+  {
     "id": "2026-03-30T03:26:00Z_burnaby/manchester-dr",
     "timestamp": "2026-03-30T03:26:00Z",
     "scrapedAt": "2026-03-30T03:38:07Z",

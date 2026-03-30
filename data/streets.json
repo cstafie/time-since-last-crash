@@ -745,15 +745,15 @@
     "name": "Kingsway",
     "slug": "vancouver/kingsway",
     "city": "Vancouver",
-    "lastIncident": "2026-03-25T03:45:00Z",
-    "count": 7
+    "lastIncident": "2026-03-30T03:53:00Z",
+    "count": 8
   },
   "vancouver/knight-st": {
     "name": "Knight St",
     "slug": "vancouver/knight-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-27T05:32:00Z",
-    "count": 10
+    "lastIncident": "2026-03-30T03:53:00Z",
+    "count": 11
   },
   "vancouver/lower-mall": {
     "name": "Lower Mall",
