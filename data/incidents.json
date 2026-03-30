@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-30T06:38:00Z_vancouver/kingsway_vancouver/e-12th-ave",
+    "timestamp": "2026-03-30T06:38:00Z",
+    "scrapedAt": "2026-03-30T07:06:52Z",
+    "address": "KINGSWAY & E 12TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kingsway",
+      "vancouver/e-12th-ave"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "E 12th Ave"
+    ],
+    "pulsePointId": "2444256491"
+  },
+  {
+    "id": "2026-03-30T06:29:00Z_chilliwack/elk-view-rd",
+    "timestamp": "2026-03-30T06:29:00Z",
+    "scrapedAt": "2026-03-30T07:06:52Z",
+    "address": "ELK VIEW RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/elk-view-rd"
+    ],
+    "streetNames": [
+      "Elk View Rd"
+    ],
+    "pulsePointId": "2444253393"
+  },
+  {
     "id": "2026-03-30T03:53:00Z_vancouver/kingsway_vancouver/knight-st",
     "timestamp": "2026-03-30T03:53:00Z",
     "scrapedAt": "2026-03-30T04:53:19Z",
