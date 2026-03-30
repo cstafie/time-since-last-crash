@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-03-30T00:38:00Z_abbotsford/trans-canada-hwy_abbotsford/mt-lehman-road-ofrp",
+    "timestamp": "2026-03-30T00:38:00Z",
+    "scrapedAt": "2026-03-30T01:01:57Z",
+    "address": "TRANS CANADA HWY & MT LEHMAN ROAD OFRP",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy",
+      "abbotsford/mt-lehman-road-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "Mt Lehman Road Ofrp"
+    ],
+    "pulsePointId": "2444103384"
+  },
+  {
+    "id": "2026-03-30T00:38:00Z_abbotsford/fraser-hwy",
+    "timestamp": "2026-03-30T00:38:00Z",
+    "scrapedAt": "2026-03-30T01:01:57Z",
+    "address": "FRASER HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/fraser-hwy"
+    ],
+    "streetNames": [
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2444100181"
+  },
+  {
+    "id": "2026-03-30T00:23:00Z_west-vancouver/24th-st_west-vancouver/mathers-ave",
+    "timestamp": "2026-03-30T00:23:00Z",
+    "scrapedAt": "2026-03-30T01:01:57Z",
+    "address": "24TH ST & MATHERS AVE",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/24th-st",
+      "west-vancouver/mathers-ave"
+    ],
+    "streetNames": [
+      "24th St",
+      "Mathers Ave"
+    ],
+    "pulsePointId": "2444092451"
+  },
+  {
+    "id": "2026-03-30T00:20:00Z_vancouver/w-10th-ave",
+    "timestamp": "2026-03-30T00:20:00Z",
+    "scrapedAt": "2026-03-30T01:01:57Z",
+    "address": "W 10TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-10th-ave"
+    ],
+    "streetNames": [
+      "W 10th Ave"
+    ],
+    "pulsePointId": "2444089153"
+  },
+  {
     "id": "2026-03-29T23:25:00Z_richmond/no-3-rd",
     "timestamp": "2026-03-29T23:25:00Z",
     "scrapedAt": "2026-03-29T23:42:51Z",

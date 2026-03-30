@@ -1,0 +1,24 @@
+{
+  "slug": "west-vancouver/mathers-ave",
+  "name": "Mathers Ave",
+  "city": "West Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-30T00:23:00Z_west-vancouver/24th-st_west-vancouver/mathers-ave",
+      "timestamp": "2026-03-30T00:23:00Z",
+      "address": "24TH ST & MATHERS AVE",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/24th-st",
+        "west-vancouver/mathers-ave"
+      ],
+      "streetNames": [
+        "24th St",
+        "Mathers Ave"
+      ],
+      "pulsePointId": "2444092451"
+    }
+  ],
+  "lastIncident": "2026-03-30T00:23:00Z",
+  "count": 1
+}

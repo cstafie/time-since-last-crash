@@ -1151,8 +1151,8 @@
     "name": "W 10th Ave",
     "slug": "vancouver/w-10th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-03-28T22:43:00Z",
-    "count": 4
+    "lastIncident": "2026-03-30T00:20:00Z",
+    "count": 5
   },
   "surrey/57th-ave": {
     "name": "57th Ave",
@@ -1949,8 +1949,8 @@
     "name": "Trans Canada Hwy",
     "slug": "abbotsford/trans-canada-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-28T21:58:00Z",
-    "count": 10
+    "lastIncident": "2026-03-30T00:38:00Z",
+    "count": 11
   },
   "vancouver/w-16th-ave": {
     "name": "W 16th Ave",
@@ -2768,8 +2768,8 @@
     "name": "Fraser Hwy",
     "slug": "abbotsford/fraser-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-27T23:34:00Z",
-    "count": 3
+    "lastIncident": "2026-03-30T00:38:00Z",
+    "count": 4
   },
   "burnaby/north-fraser-way": {
     "name": "North Fraser Way",
@@ -4315,8 +4315,8 @@
     "name": "Mt Lehman Road Ofrp",
     "slug": "abbotsford/mt-lehman-road-ofrp",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-28T21:58:00Z",
-    "count": 1
+    "lastIncident": "2026-03-30T00:38:00Z",
+    "count": 2
   },
   "abbotsford/edgehill-ave": {
     "name": "Edgehill Ave",
@@ -4449,6 +4449,20 @@
     "slug": "coquitlam/cape-horn-ave",
     "city": "Coquitlam",
     "lastIncident": "2026-03-29T22:16:00Z",
+    "count": 1
+  },
+  "west-vancouver/24th-st": {
+    "name": "24th St",
+    "slug": "west-vancouver/24th-st",
+    "city": "West Vancouver",
+    "lastIncident": "2026-03-30T00:23:00Z",
+    "count": 1
+  },
+  "west-vancouver/mathers-ave": {
+    "name": "Mathers Ave",
+    "slug": "west-vancouver/mathers-ave",
+    "city": "West Vancouver",
+    "lastIncident": "2026-03-30T00:23:00Z",
     "count": 1
   }
 }
