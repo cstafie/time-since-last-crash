@@ -4478,5 +4478,19 @@
     "city": "Chilliwack",
     "lastIncident": "2026-03-30T06:29:00Z",
     "count": 1
+  },
+  "richmond/jacombs-rd": {
+    "name": "Jacombs Rd",
+    "slug": "richmond/jacombs-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-03-30T10:09:00Z",
+    "count": 1
+  },
+  "richmond/delf-pl": {
+    "name": "Delf Pl",
+    "slug": "richmond/delf-pl",
+    "city": "Richmond",
+    "lastIncident": "2026-03-30T10:09:00Z",
+    "count": 1
   }
 }
