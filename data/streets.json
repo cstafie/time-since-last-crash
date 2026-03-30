@@ -4464,5 +4464,12 @@
     "city": "West Vancouver",
     "lastIncident": "2026-03-30T00:23:00Z",
     "count": 1
+  },
+  "burnaby/manchester-dr": {
+    "name": "Manchester Dr",
+    "slug": "burnaby/manchester-dr",
+    "city": "Burnaby",
+    "lastIncident": "2026-03-30T03:26:00Z",
+    "count": 1
   }
 }
