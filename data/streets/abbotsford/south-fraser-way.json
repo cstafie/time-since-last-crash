@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-03-30T20:13:00Z_abbotsford/south-fraser-way_abbotsford/laurel-st",
+      "timestamp": "2026-03-30T20:13:00Z",
+      "address": "SOUTH FRASER WAY & LAUREL ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/south-fraser-way",
+        "abbotsford/laurel-st"
+      ],
+      "streetNames": [
+        "South Fraser Way",
+        "Laurel St"
+      ],
+      "pulsePointId": "2444596722"
+    },
+    {
       "id": "2026-03-25T22:51:00Z_abbotsford/clearbrook-rd_abbotsford/south-fraser-way",
       "timestamp": "2026-03-25T22:51:00Z",
       "address": "CLEARBROOK RD & SOUTH FRASER WAY",
@@ -79,6 +94,6 @@
       "pulsePointId": "2433235919"
     }
   ],
-  "lastIncident": "2026-03-25T22:51:00Z",
-  "count": 5
+  "lastIncident": "2026-03-30T20:13:00Z",
+  "count": 6
 }

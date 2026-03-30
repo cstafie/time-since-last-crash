@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/laurel-st",
+  "name": "Laurel St",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-03-30T20:13:00Z_abbotsford/south-fraser-way_abbotsford/laurel-st",
+      "timestamp": "2026-03-30T20:13:00Z",
+      "address": "SOUTH FRASER WAY & LAUREL ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/south-fraser-way",
+        "abbotsford/laurel-st"
+      ],
+      "streetNames": [
+        "South Fraser Way",
+        "Laurel St"
+      ],
+      "pulsePointId": "2444596722"
+    }
+  ],
+  "lastIncident": "2026-03-30T20:13:00Z",
+  "count": 1
+}
