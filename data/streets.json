@@ -871,8 +871,8 @@
     "name": "120th St",
     "slug": "delta/120th-st",
     "city": "Delta",
-    "lastIncident": "2026-03-12T23:15:00Z",
-    "count": 4
+    "lastIncident": "2026-03-30T14:59:00Z",
+    "count": 5
   },
   "delta/roberts-bank-rd": {
     "name": "Roberts Bank Rd",
@@ -4491,6 +4491,13 @@
     "slug": "richmond/delf-pl",
     "city": "Richmond",
     "lastIncident": "2026-03-30T10:09:00Z",
+    "count": 1
+  },
+  "delta/hwy-10": {
+    "name": "Hwy 10",
+    "slug": "delta/hwy-10",
+    "city": "Delta",
+    "lastIncident": "2026-03-30T14:59:00Z",
     "count": 1
   }
 }
