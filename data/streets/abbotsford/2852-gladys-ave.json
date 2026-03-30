@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/2852-gladys-ave",
+  "name": "2852 Gladys Ave",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-03-30T23:31:00Z_abbotsford/2852-gladys-ave",
+      "timestamp": "2026-03-30T23:31:00Z",
+      "address": "2852 GLADYS AVE",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/2852-gladys-ave"
+      ],
+      "streetNames": [
+        "2852 Gladys Ave"
+      ],
+      "pulsePointId": "2444721324"
+    }
+  ],
+  "lastIncident": "2026-03-30T23:31:00Z",
+  "count": 1
+}

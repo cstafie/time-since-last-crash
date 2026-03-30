@@ -1,0 +1,24 @@
+{
+  "slug": "coquitlam/clarke-rd",
+  "name": "Clarke Rd",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-03-30T23:22:00Z_coquitlam/clarke-rd_coquitlam/smith-ave",
+      "timestamp": "2026-03-30T23:22:00Z",
+      "address": "CLARKE RD & SMITH AVE",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/clarke-rd",
+        "coquitlam/smith-ave"
+      ],
+      "streetNames": [
+        "Clarke Rd",
+        "Smith Ave"
+      ],
+      "pulsePointId": "2444715548"
+    }
+  ],
+  "lastIncident": "2026-03-30T23:22:00Z",
+  "count": 1
+}

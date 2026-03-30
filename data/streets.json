@@ -4555,5 +4555,26 @@
     "city": "Langley",
     "lastIncident": "2026-03-30T22:09:00Z",
     "count": 1
+  },
+  "abbotsford/2852-gladys-ave": {
+    "name": "2852 Gladys Ave",
+    "slug": "abbotsford/2852-gladys-ave",
+    "city": "Abbotsford",
+    "lastIncident": "2026-03-30T23:31:00Z",
+    "count": 1
+  },
+  "coquitlam/clarke-rd": {
+    "name": "Clarke Rd",
+    "slug": "coquitlam/clarke-rd",
+    "city": "Coquitlam",
+    "lastIncident": "2026-03-30T23:22:00Z",
+    "count": 1
+  },
+  "coquitlam/smith-ave": {
+    "name": "Smith Ave",
+    "slug": "coquitlam/smith-ave",
+    "city": "Coquitlam",
+    "lastIncident": "2026-03-30T23:22:00Z",
+    "count": 1
   }
 }

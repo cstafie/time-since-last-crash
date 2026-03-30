@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-30T23:31:00Z_abbotsford/2852-gladys-ave",
+    "timestamp": "2026-03-30T23:31:00Z",
+    "scrapedAt": "2026-03-30T23:42:51Z",
+    "address": "2852 GLADYS AVE",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/2852-gladys-ave"
+    ],
+    "streetNames": [
+      "2852 Gladys Ave"
+    ],
+    "pulsePointId": "2444721324"
+  },
+  {
+    "id": "2026-03-30T23:22:00Z_coquitlam/clarke-rd_coquitlam/smith-ave",
+    "timestamp": "2026-03-30T23:22:00Z",
+    "scrapedAt": "2026-03-30T23:42:51Z",
+    "address": "CLARKE RD & SMITH AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/clarke-rd",
+      "coquitlam/smith-ave"
+    ],
+    "streetNames": [
+      "Clarke Rd",
+      "Smith Ave"
+    ],
+    "pulsePointId": "2444715548"
+  },
+  {
     "id": "2026-03-30T22:09:00Z_langley/208th-st_langley/46a-ave",
     "timestamp": "2026-03-30T22:09:00Z",
     "scrapedAt": "2026-03-30T22:43:15Z",
