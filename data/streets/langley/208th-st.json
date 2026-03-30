@@ -1,0 +1,24 @@
+{
+  "slug": "langley/208th-st",
+  "name": "208th St",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-03-30T22:09:00Z_langley/208th-st_langley/46a-ave",
+      "timestamp": "2026-03-30T22:09:00Z",
+      "address": "208TH ST & 46A AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/208th-st",
+        "langley/46a-ave"
+      ],
+      "streetNames": [
+        "208th St",
+        "46a Ave"
+      ],
+      "pulsePointId": "2444669082"
+    }
+  ],
+  "lastIncident": "2026-03-30T22:09:00Z",
+  "count": 1
+}
