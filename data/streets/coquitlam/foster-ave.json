@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-03-30T16:00:00Z_coquitlam/foster-ave_coquitlam/blue-mountain-st",
+      "timestamp": "2026-03-30T16:00:00Z",
+      "address": "FOSTER AVE & BLUE MOUNTAIN ST",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/foster-ave",
+        "coquitlam/blue-mountain-st"
+      ],
+      "streetNames": [
+        "Foster Ave",
+        "Blue Mountain St"
+      ],
+      "pulsePointId": "2444432872"
+    },
+    {
       "id": "2026-03-19T02:56:00Z_coquitlam/whiting-way_coquitlam/foster-ave",
       "timestamp": "2026-03-19T02:56:00Z",
       "address": "WHITING WAY & FOSTER AVE",
@@ -46,6 +61,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-19T02:56:00Z",
-  "count": 3
+  "lastIncident": "2026-03-30T16:00:00Z",
+  "count": 4
 }

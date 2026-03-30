@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-30T16:00:00Z_coquitlam/foster-ave_coquitlam/blue-mountain-st",
+    "timestamp": "2026-03-30T16:00:00Z",
+    "scrapedAt": "2026-03-30T16:18:11Z",
+    "address": "FOSTER AVE & BLUE MOUNTAIN ST",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/foster-ave",
+      "coquitlam/blue-mountain-st"
+    ],
+    "streetNames": [
+      "Foster Ave",
+      "Blue Mountain St"
+    ],
+    "pulsePointId": "2444432872"
+  },
+  {
     "id": "2026-03-30T14:59:00Z_delta/hwy-10_delta/120th-st",
     "timestamp": "2026-03-30T14:59:00Z",
     "scrapedAt": "2026-03-30T15:24:04Z",
