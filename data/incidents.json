@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-03-30T14:08:00Z_delta/hwy-99",
+    "timestamp": "2026-03-30T14:08:00Z",
+    "scrapedAt": "2026-03-30T14:52:27Z",
+    "address": "HWY 99",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2444378544"
+  },
+  {
+    "id": "2026-03-30T13:35:00Z_coquitlam/port-mann-brdg",
+    "timestamp": "2026-03-30T13:35:00Z",
+    "scrapedAt": "2026-03-30T14:52:27Z",
+    "address": "PORT MANN BRDG",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/port-mann-brdg"
+    ],
+    "streetNames": [
+      "Port Mann Brdg"
+    ],
+    "pulsePointId": "2444365405"
+  },
+  {
     "id": "2026-03-30T13:04:00Z_langley/trans-canada-hwy",
     "timestamp": "2026-03-30T13:04:00Z",
     "scrapedAt": "2026-03-30T13:29:18Z",
