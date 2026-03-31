@@ -479,8 +479,8 @@
     "name": "No 2 Rd",
     "slug": "richmond/no-2-rd",
     "city": "Richmond",
-    "lastIncident": "2026-03-22T17:16:00Z",
-    "count": 3
+    "lastIncident": "2026-03-31T22:06:00Z",
+    "count": 4
   },
   "richmond/no-3-rd": {
     "name": "No 3 Rd",
@@ -4666,6 +4666,13 @@
     "slug": "surrey/15291-fraser-hwy",
     "city": "Surrey",
     "lastIncident": "2026-03-31T21:10:00Z",
+    "count": 1
+  },
+  "richmond/andrews-rd": {
+    "name": "Andrews Rd",
+    "slug": "richmond/andrews-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-03-31T22:06:00Z",
     "count": 1
   }
 }
