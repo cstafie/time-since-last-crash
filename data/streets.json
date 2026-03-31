@@ -703,8 +703,8 @@
     "name": "Burrard St",
     "slug": "vancouver/burrard-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-24T15:57:00Z",
-    "count": 4
+    "lastIncident": "2026-03-31T09:39:00Z",
+    "count": 6
   },
   "vancouver/e-12th-ave": {
     "name": "E 12th Ave",
@@ -1613,8 +1613,8 @@
     "name": "Alberni St",
     "slug": "vancouver/alberni-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-24T15:57:00Z",
-    "count": 2
+    "lastIncident": "2026-03-31T09:38:00Z",
+    "count": 3
   },
   "surrey/80th-ave": {
     "name": "80th Ave",

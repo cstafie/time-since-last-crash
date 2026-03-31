@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-03-31T09:38:00Z_vancouver/burrard-st_vancouver/alberni-st",
+      "timestamp": "2026-03-31T09:38:00Z",
+      "address": "BURRARD ST & ALBERNI ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/burrard-st",
+        "vancouver/alberni-st"
+      ],
+      "streetNames": [
+        "Burrard St",
+        "Alberni St"
+      ],
+      "pulsePointId": "2444953597"
+    },
+    {
       "id": "2026-03-24T15:57:00Z_vancouver/alberni-st_vancouver/burrard-st",
       "timestamp": "2026-03-24T15:57:00Z",
       "address": "ALBERNI ST & BURRARD ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2432930342"
     }
   ],
-  "lastIncident": "2026-03-24T15:57:00Z",
-  "count": 2
+  "lastIncident": "2026-03-31T09:38:00Z",
+  "count": 3
 }
