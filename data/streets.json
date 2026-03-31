@@ -885,8 +885,8 @@
     "name": "176th St",
     "slug": "surrey/176th-st",
     "city": "Surrey",
-    "lastIncident": "2026-03-22T06:59:00Z",
-    "count": 10
+    "lastIncident": "2026-03-31T00:38:00Z",
+    "count": 11
   },
   "surrey/100th-ave": {
     "name": "100th Ave",
@@ -1102,8 +1102,8 @@
     "name": "200th St",
     "slug": "langley/200th-st",
     "city": "Langley",
-    "lastIncident": "2026-03-29T21:04:00Z",
-    "count": 5
+    "lastIncident": "2026-03-31T00:49:00Z",
+    "count": 6
   },
   "abbotsford/downes-rd": {
     "name": "Downes Rd",
@@ -4589,6 +4589,20 @@
     "slug": "abbotsford/regal-pkwy",
     "city": "Abbotsford",
     "lastIncident": "2026-03-30T23:59:00Z",
+    "count": 1
+  },
+  "langley/66th-ave": {
+    "name": "66th Ave",
+    "slug": "langley/66th-ave",
+    "city": "Langley",
+    "lastIncident": "2026-03-31T00:49:00Z",
+    "count": 1
+  },
+  "surrey/20th-ave": {
+    "name": "20th Ave",
+    "slug": "surrey/20th-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-03-31T00:38:00Z",
     "count": 1
   }
 }

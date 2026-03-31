@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-31T00:49:00Z_langley/200th-st_langley/66th-ave",
+    "timestamp": "2026-03-31T00:49:00Z",
+    "scrapedAt": "2026-03-31T00:59:10Z",
+    "address": "200TH ST & 66TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/200th-st",
+      "langley/66th-ave"
+    ],
+    "streetNames": [
+      "200th St",
+      "66th Ave"
+    ],
+    "pulsePointId": "2444764564"
+  },
+  {
+    "id": "2026-03-31T00:38:00Z_surrey/176th-st_surrey/20th-ave",
+    "timestamp": "2026-03-31T00:38:00Z",
+    "scrapedAt": "2026-03-31T00:59:10Z",
+    "address": "176TH ST & 20TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/176th-st",
+      "surrey/20th-ave"
+    ],
+    "streetNames": [
+      "176th St",
+      "20th Ave"
+    ],
+    "pulsePointId": "2444758825"
+  },
+  {
     "id": "2026-03-30T23:59:00Z_abbotsford/whatcom-rd_abbotsford/regal-pkwy",
     "timestamp": "2026-03-30T23:59:00Z",
     "scrapedAt": "2026-03-31T00:07:32Z",
