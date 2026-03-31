@@ -4632,5 +4632,19 @@
     "city": "Vancouver",
     "lastIncident": "2026-03-31T14:54:00Z",
     "count": 1
+  },
+  "maple-ridge/224th-st": {
+    "name": "224th St",
+    "slug": "maple-ridge/224th-st",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-03-31T15:45:00Z",
+    "count": 1
+  },
+  "maple-ridge/124th-ave": {
+    "name": "124th Ave",
+    "slug": "maple-ridge/124th-ave",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-03-31T15:45:00Z",
+    "count": 1
   }
 }
