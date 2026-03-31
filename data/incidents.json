@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-31T18:57:00Z_langley/272nd-st_langley/32nd-ave",
+    "timestamp": "2026-03-31T18:57:00Z",
+    "scrapedAt": "2026-03-31T19:21:18Z",
+    "address": "272ND ST & 32ND AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/272nd-st",
+      "langley/32nd-ave"
+    ],
+    "streetNames": [
+      "272nd St",
+      "32nd Ave"
+    ],
+    "pulsePointId": "2445189958"
+  },
+  {
     "id": "2026-03-31T17:59:00Z_pitt-meadows/harris-rd",
     "timestamp": "2026-03-31T17:59:00Z",
     "scrapedAt": "2026-03-31T18:13:54Z",

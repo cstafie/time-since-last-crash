@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-03-31T18:57:00Z_langley/272nd-st_langley/32nd-ave",
+      "timestamp": "2026-03-31T18:57:00Z",
+      "address": "272ND ST & 32ND AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/272nd-st",
+        "langley/32nd-ave"
+      ],
+      "streetNames": [
+        "272nd St",
+        "32nd Ave"
+      ],
+      "pulsePointId": "2445189958"
+    },
+    {
       "id": "2026-03-28T21:05:00Z_langley/29a-ave_langley/272nd-st",
       "timestamp": "2026-03-28T21:05:00Z",
       "address": "29A AVE & 272ND ST",
@@ -74,6 +89,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-28T21:05:00Z",
-  "count": 5
+  "lastIncident": "2026-03-31T18:57:00Z",
+  "count": 6
 }
