@@ -1,0 +1,22 @@
+{
+  "slug": "north-vancouver/2100-dollarton-hwy",
+  "name": "2100 Dollarton Hwy",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-31T20:37:00Z_north-vancouver/2100-dollarton-hwy",
+      "timestamp": "2026-03-31T20:37:00Z",
+      "address": "2100 DOLLARTON HWY",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/2100-dollarton-hwy"
+      ],
+      "streetNames": [
+        "2100 Dollarton Hwy"
+      ],
+      "pulsePointId": "2445246702"
+    }
+  ],
+  "lastIncident": "2026-03-31T20:37:00Z",
+  "count": 1
+}

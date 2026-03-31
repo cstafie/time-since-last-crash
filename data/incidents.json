@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-31T20:37:00Z_north-vancouver/2100-dollarton-hwy",
+    "timestamp": "2026-03-31T20:37:00Z",
+    "scrapedAt": "2026-03-31T20:44:18Z",
+    "address": "2100 DOLLARTON HWY",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/2100-dollarton-hwy"
+    ],
+    "streetNames": [
+      "2100 Dollarton Hwy"
+    ],
+    "pulsePointId": "2445246702"
+  },
+  {
+    "id": "2026-03-31T20:13:00Z_vancouver/boundary-rd_vancouver/e-1st-ave",
+    "timestamp": "2026-03-31T20:13:00Z",
+    "scrapedAt": "2026-03-31T20:44:18Z",
+    "address": "BOUNDARY RD & E 1ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/boundary-rd",
+      "vancouver/e-1st-ave"
+    ],
+    "streetNames": [
+      "Boundary Rd",
+      "E 1st Ave"
+    ],
+    "pulsePointId": "2445232946"
+  },
+  {
     "id": "2026-03-31T18:57:00Z_langley/272nd-st_langley/32nd-ave",
     "timestamp": "2026-03-31T18:57:00Z",
     "scrapedAt": "2026-03-31T19:21:18Z",
