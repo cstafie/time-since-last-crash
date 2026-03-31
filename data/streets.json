@@ -451,8 +451,8 @@
     "name": "Bridgeport Rd",
     "slug": "richmond/bridgeport-rd",
     "city": "Richmond",
-    "lastIncident": "2026-03-18T23:14:00Z",
-    "count": 5
+    "lastIncident": "2026-03-31T02:04:00Z",
+    "count": 6
   },
   "richmond/granville-ave": {
     "name": "Granville Ave",
@@ -486,8 +486,8 @@
     "name": "No 3 Rd",
     "slug": "richmond/no-3-rd",
     "city": "Richmond",
-    "lastIncident": "2026-03-30T08:58:00Z",
-    "count": 6
+    "lastIncident": "2026-03-31T02:04:00Z",
+    "count": 7
   },
   "richmond/no-4-rd": {
     "name": "No 4 Rd",
@@ -4603,6 +4603,20 @@
     "slug": "surrey/20th-ave",
     "city": "Surrey",
     "lastIncident": "2026-03-31T00:38:00Z",
+    "count": 1
+  },
+  "richmond/3rd-ave": {
+    "name": "3rd Ave",
+    "slug": "richmond/3rd-ave",
+    "city": "Richmond",
+    "lastIncident": "2026-03-31T02:39:00Z",
+    "count": 1
+  },
+  "richmond/chatham-st": {
+    "name": "Chatham St",
+    "slug": "richmond/chatham-st",
+    "city": "Richmond",
+    "lastIncident": "2026-03-31T02:39:00Z",
     "count": 1
   }
 }

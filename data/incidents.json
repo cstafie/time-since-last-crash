@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-03-31T02:39:00Z_richmond/3rd-ave_richmond/chatham-st",
+    "timestamp": "2026-03-31T02:39:00Z",
+    "scrapedAt": "2026-03-31T02:58:17Z",
+    "address": "3RD AVE & CHATHAM ST",
+    "city": "Richmond",
+    "streets": [
+      "richmond/3rd-ave",
+      "richmond/chatham-st"
+    ],
+    "streetNames": [
+      "3rd Ave",
+      "Chatham St"
+    ],
+    "pulsePointId": "2444822333"
+  },
+  {
+    "id": "2026-03-31T02:04:00Z_richmond/bridgeport-rd_richmond/no-3-rd",
+    "timestamp": "2026-03-31T02:04:00Z",
+    "scrapedAt": "2026-03-31T02:58:17Z",
+    "address": "BRIDGEPORT RD & NO 3 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/bridgeport-rd",
+      "richmond/no-3-rd"
+    ],
+    "streetNames": [
+      "Bridgeport Rd",
+      "No 3 Rd"
+    ],
+    "pulsePointId": "2444805070"
+  },
+  {
     "id": "2026-03-31T00:49:00Z_langley/200th-st_langley/66th-ave",
     "timestamp": "2026-03-31T00:49:00Z",
     "scrapedAt": "2026-03-31T00:59:10Z",
