@@ -1,6 +1,6 @@
 {
-  "slug": "langley/264th-st",
-  "name": "264th St",
+  "slug": "langley/32nd-ave",
+  "name": "32nd Ave",
   "city": "Langley",
   "incidents": [
     {
@@ -17,22 +17,8 @@
         "264th St"
       ],
       "pulsePointId": "2445114370"
-    },
-    {
-      "id": "2026-03-11T05:47:00Z_langley/264th-st_langley/64th-ave",
-      "timestamp": "2026-03-11T05:47:00Z",
-      "address": "264TH ST & 64TH AVE",
-      "city": "Langley",
-      "streets": [
-        "langley/264th-st",
-        "langley/64th-ave"
-      ],
-      "streetNames": [
-        "264th St",
-        "64th Ave"
-      ]
     }
   ],
   "lastIncident": "2026-03-31T16:50:00Z",
-  "count": 2
+  "count": 1
 }
