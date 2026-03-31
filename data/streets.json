@@ -388,8 +388,8 @@
     "name": "Royal Ave",
     "slug": "new-westminster/royal-ave",
     "city": "New Westminster",
-    "lastIncident": "2026-03-19T18:18:00Z",
-    "count": 5
+    "lastIncident": "2026-03-31T04:46:00Z",
+    "count": 6
   },
   "north-vancouver/capilano-rd": {
     "name": "Capilano Rd",
@@ -1417,8 +1417,8 @@
     "name": "6th St",
     "slug": "new-westminster/6th-st",
     "city": "New Westminster",
-    "lastIncident": "2026-03-19T19:32:00Z",
-    "count": 2
+    "lastIncident": "2026-03-31T04:46:00Z",
+    "count": 3
   },
   "abbotsford/32900-south-fraser-way": {
     "name": "32900 South Fraser Way",

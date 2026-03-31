@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-31T04:46:00Z_new-westminster/royal-ave_new-westminster/6th-st",
+    "timestamp": "2026-03-31T04:46:00Z",
+    "scrapedAt": "2026-03-31T05:13:35Z",
+    "address": "ROYAL AVE & 6TH ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/royal-ave",
+      "new-westminster/6th-st"
+    ],
+    "streetNames": [
+      "Royal Ave",
+      "6th St"
+    ],
+    "pulsePointId": "2444874658"
+  },
+  {
     "id": "2026-03-31T03:42:00Z_surrey/96th-ave_surrey/king-george-blvd",
     "timestamp": "2026-03-31T03:42:00Z",
     "scrapedAt": "2026-03-31T04:01:16Z",
