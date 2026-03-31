@@ -1,6 +1,6 @@
 {
-  "slug": "vancouver/commercial-dr",
-  "name": "Commercial Dr",
+  "slug": "vancouver/powell-st",
+  "name": "Powell St",
   "city": "Vancouver",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Commercial Dr"
       ],
       "pulsePointId": "2445054657"
-    },
-    {
-      "id": "2026-03-15T06:27:00Z_vancouver/napier-st_vancouver/commercial-dr",
-      "timestamp": "2026-03-15T06:27:00Z",
-      "address": "NAPIER ST & COMMERCIAL DR",
-      "city": "Vancouver",
-      "streets": [
-        "vancouver/napier-st",
-        "vancouver/commercial-dr"
-      ],
-      "streetNames": [
-        "Napier St",
-        "Commercial Dr"
-      ],
-      "pulsePointId": "2434378699"
     }
   ],
   "lastIncident": "2026-03-31T14:54:00Z",
-  "count": 2
+  "count": 1
 }

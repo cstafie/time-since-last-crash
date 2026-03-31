@@ -2131,8 +2131,8 @@
     "name": "Commercial Dr",
     "slug": "vancouver/commercial-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-03-15T06:27:00Z",
-    "count": 1
+    "lastIncident": "2026-03-31T14:54:00Z",
+    "count": 2
   },
   "mission/keystone-ave": {
     "name": "Keystone Ave",
@@ -4624,6 +4624,13 @@
     "slug": "new-westminster/e-6th-ave",
     "city": "New Westminster",
     "lastIncident": "2026-03-31T05:48:00Z",
+    "count": 1
+  },
+  "vancouver/powell-st": {
+    "name": "Powell St",
+    "slug": "vancouver/powell-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-03-31T14:54:00Z",
     "count": 1
   }
 }
