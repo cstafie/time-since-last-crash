@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-03-31T03:42:00Z_surrey/96th-ave_surrey/king-george-blvd",
+    "timestamp": "2026-03-31T03:42:00Z",
+    "scrapedAt": "2026-03-31T04:01:16Z",
+    "address": "96TH AVE & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/96th-ave",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "96th Ave",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2444850773"
+  },
+  {
     "id": "2026-03-31T02:39:00Z_richmond/3rd-ave_richmond/chatham-st",
     "timestamp": "2026-03-31T02:39:00Z",
     "scrapedAt": "2026-03-31T02:58:17Z",
