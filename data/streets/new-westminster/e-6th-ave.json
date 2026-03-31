@@ -1,0 +1,24 @@
+{
+  "slug": "new-westminster/e-6th-ave",
+  "name": "E 6th Ave",
+  "city": "New Westminster",
+  "incidents": [
+    {
+      "id": "2026-03-31T05:48:00Z_new-westminster/mcbride-blvd_new-westminster/e-6th-ave",
+      "timestamp": "2026-03-31T05:48:00Z",
+      "address": "MCBRIDE BLVD & E 6TH AVE",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/mcbride-blvd",
+        "new-westminster/e-6th-ave"
+      ],
+      "streetNames": [
+        "Mcbride Blvd",
+        "E 6th Ave"
+      ],
+      "pulsePointId": "2444896726"
+    }
+  ],
+  "lastIncident": "2026-03-31T05:48:00Z",
+  "count": 1
+}

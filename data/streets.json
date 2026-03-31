@@ -374,8 +374,8 @@
     "name": "Mcbride Blvd",
     "slug": "new-westminster/mcbride-blvd",
     "city": "New Westminster",
-    "lastIncident": "2026-03-29T00:33:00Z",
-    "count": 5
+    "lastIncident": "2026-03-31T05:48:00Z",
+    "count": 6
   },
   "new-westminster/memorial-dr": {
     "name": "Memorial Dr",
@@ -4617,6 +4617,13 @@
     "slug": "richmond/chatham-st",
     "city": "Richmond",
     "lastIncident": "2026-03-31T02:39:00Z",
+    "count": 1
+  },
+  "new-westminster/e-6th-ave": {
+    "name": "E 6th Ave",
+    "slug": "new-westminster/e-6th-ave",
+    "city": "New Westminster",
+    "lastIncident": "2026-03-31T05:48:00Z",
     "count": 1
   }
 }
