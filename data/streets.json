@@ -4576,5 +4576,19 @@
     "city": "Coquitlam",
     "lastIncident": "2026-03-30T23:22:00Z",
     "count": 1
+  },
+  "abbotsford/whatcom-rd": {
+    "name": "Whatcom Rd",
+    "slug": "abbotsford/whatcom-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-03-30T23:59:00Z",
+    "count": 1
+  },
+  "abbotsford/regal-pkwy": {
+    "name": "Regal Pkwy",
+    "slug": "abbotsford/regal-pkwy",
+    "city": "Abbotsford",
+    "lastIncident": "2026-03-30T23:59:00Z",
+    "count": 1
   }
 }

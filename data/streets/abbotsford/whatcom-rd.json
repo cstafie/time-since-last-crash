@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/whatcom-rd",
+  "name": "Whatcom Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-03-30T23:59:00Z_abbotsford/whatcom-rd_abbotsford/regal-pkwy",
+      "timestamp": "2026-03-30T23:59:00Z",
+      "address": "WHATCOM RD & REGAL PKWY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/whatcom-rd",
+        "abbotsford/regal-pkwy"
+      ],
+      "streetNames": [
+        "Whatcom Rd",
+        "Regal Pkwy"
+      ],
+      "pulsePointId": "2444737079"
+    }
+  ],
+  "lastIncident": "2026-03-30T23:59:00Z",
+  "count": 1
+}
