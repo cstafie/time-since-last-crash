@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-03-31T23:01:00Z_burnaby/southridge-dr",
+    "timestamp": "2026-03-31T23:01:00Z",
+    "scrapedAt": "2026-03-31T23:06:56Z",
+    "address": "SOUTHRIDGE DR",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/southridge-dr"
+    ],
+    "streetNames": [
+      "Southridge Dr"
+    ],
+    "pulsePointId": "2445331496"
+  },
+  {
+    "id": "2026-03-31T22:56:00Z_vancouver/e-broadway_vancouver/garden-dr",
+    "timestamp": "2026-03-31T22:56:00Z",
+    "scrapedAt": "2026-03-31T23:06:56Z",
+    "address": "E BROADWAY & GARDEN DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-broadway",
+      "vancouver/garden-dr"
+    ],
+    "streetNames": [
+      "E Broadway",
+      "Garden Dr"
+    ],
+    "pulsePointId": "2445328230"
+  },
+  {
     "id": "2026-03-31T22:06:00Z_richmond/no-2-rd_richmond/andrews-rd",
     "timestamp": "2026-03-31T22:06:00Z",
     "scrapedAt": "2026-03-31T22:08:05Z",
