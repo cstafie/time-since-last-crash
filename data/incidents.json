@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-01T07:47:00Z_abbotsford/gladys-ave_abbotsford/sumas-way",
+    "timestamp": "2026-04-01T07:47:00Z",
+    "scrapedAt": "2026-04-01T08:00:11Z",
+    "address": "GLADYS AVE & SUMAS WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/gladys-ave",
+      "abbotsford/sumas-way"
+    ],
+    "streetNames": [
+      "Gladys Ave",
+      "Sumas Way"
+    ],
+    "pulsePointId": "2445561277"
+  },
+  {
     "id": "2026-04-01T06:46:00Z_langley/232nd-street-ofrp",
     "timestamp": "2026-04-01T06:46:00Z",
     "scrapedAt": "2026-04-01T07:01:47Z",

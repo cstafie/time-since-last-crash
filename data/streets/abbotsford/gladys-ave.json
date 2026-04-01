@@ -1,6 +1,6 @@
 {
-  "slug": "abbotsford/sumas-way",
-  "name": "Sumas Way",
+  "slug": "abbotsford/gladys-ave",
+  "name": "Gladys Ave",
   "city": "Abbotsford",
   "incidents": [
     {
@@ -17,21 +17,8 @@
         "Sumas Way"
       ],
       "pulsePointId": "2445561277"
-    },
-    {
-      "id": "2026-03-22T23:29:00Z_abbotsford/sumas-way",
-      "timestamp": "2026-03-22T23:29:00Z",
-      "address": "SUMAS WAY",
-      "city": "Abbotsford",
-      "streets": [
-        "abbotsford/sumas-way"
-      ],
-      "streetNames": [
-        "Sumas Way"
-      ],
-      "pulsePointId": "2439464523"
     }
   ],
   "lastIncident": "2026-04-01T07:47:00Z",
-  "count": 2
+  "count": 1
 }
