@@ -1,6 +1,6 @@
 {
-  "slug": "vancouver/nicola-st",
-  "name": "Nicola St",
+  "slug": "vancouver/robson-st",
+  "name": "Robson St",
   "city": "Vancouver",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Robson St"
       ],
       "pulsePointId": "2445733996"
-    },
-    {
-      "id": "2026-03-13T02:41:00Z_vancouver/nicola-st_vancouver/alberni-st",
-      "timestamp": "2026-03-13T02:41:00Z",
-      "address": "NICOLA ST & ALBERNI ST",
-      "city": "Vancouver",
-      "streets": [
-        "vancouver/nicola-st",
-        "vancouver/alberni-st"
-      ],
-      "streetNames": [
-        "Nicola St",
-        "Alberni St"
-      ],
-      "pulsePointId": "2432930342"
     }
   ],
   "lastIncident": "2026-04-01T16:39:00Z",
-  "count": 2
+  "count": 1
 }

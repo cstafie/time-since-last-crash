@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/maxine-lane",
+  "name": "Maxine Lane",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-01T16:16:00Z_vancouver/thurlow-st_vancouver/maxine-lane",
+      "timestamp": "2026-04-01T16:16:00Z",
+      "address": "THURLOW ST & MAXINE LANE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/thurlow-st",
+        "vancouver/maxine-lane"
+      ],
+      "streetNames": [
+        "Thurlow St",
+        "Maxine Lane"
+      ],
+      "pulsePointId": "2445720348"
+    }
+  ],
+  "lastIncident": "2026-04-01T16:16:00Z",
+  "count": 1
+}

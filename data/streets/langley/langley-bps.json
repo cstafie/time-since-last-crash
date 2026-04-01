@@ -4,6 +4,19 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-04-01T16:22:00Z_langley/langley-bps",
+      "timestamp": "2026-04-01T16:22:00Z",
+      "address": "LANGLEY BPS",
+      "city": "Langley",
+      "streets": [
+        "langley/langley-bps"
+      ],
+      "streetNames": [
+        "Langley Bps"
+      ],
+      "pulsePointId": "2445724152"
+    },
+    {
       "id": "2026-03-26T07:32:00Z_langley/fraser-hwy_langley/langley-bps",
       "timestamp": "2026-03-26T07:32:00Z",
       "address": "FRASER HWY & LANGLEY BPS",
@@ -152,6 +165,6 @@
       "pulsePointId": "2435348390"
     }
   ],
-  "lastIncident": "2026-03-26T07:32:00Z",
-  "count": 10
+  "lastIncident": "2026-04-01T16:22:00Z",
+  "count": 11
 }
