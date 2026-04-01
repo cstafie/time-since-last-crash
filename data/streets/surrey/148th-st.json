@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-04-01T18:48:00Z_surrey/148th-st_surrey/94th-ave",
+      "timestamp": "2026-04-01T18:48:00Z",
+      "address": "148TH ST & 94TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/148th-st",
+        "surrey/94th-ave"
+      ],
+      "streetNames": [
+        "148th St",
+        "94th Ave"
+      ],
+      "pulsePointId": "2445812475"
+    },
+    {
       "id": "2026-03-23T19:18:00Z_surrey/148th-st_surrey/64th-ave",
       "timestamp": "2026-03-23T19:18:00Z",
       "address": "148TH ST & 64TH AVE",
@@ -49,6 +64,6 @@
       "pulsePointId": "2433715392"
     }
   ],
-  "lastIncident": "2026-03-23T19:18:00Z",
-  "count": 3
+  "lastIncident": "2026-04-01T18:48:00Z",
+  "count": 4
 }
