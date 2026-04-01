@@ -2796,8 +2796,8 @@
     "name": "Austin Ave",
     "slug": "coquitlam/austin-ave",
     "city": "Coquitlam",
-    "lastIncident": "2026-03-19T18:21:00Z",
-    "count": 2
+    "lastIncident": "2026-04-01T17:44:00Z",
+    "count": 3
   },
   "vancouver/larch-st": {
     "name": "Larch St",
@@ -4827,6 +4827,13 @@
     "slug": "vancouver/e-38th-ave",
     "city": "Vancouver",
     "lastIncident": "2026-04-01T16:52:00Z",
+    "count": 1
+  },
+  "coquitlam/nelson-st": {
+    "name": "Nelson St",
+    "slug": "coquitlam/nelson-st",
+    "city": "Coquitlam",
+    "lastIncident": "2026-04-01T17:44:00Z",
     "count": 1
   }
 }

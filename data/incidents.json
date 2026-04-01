@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-01T17:44:00Z_coquitlam/nelson-st_coquitlam/austin-ave",
+    "timestamp": "2026-04-01T17:44:00Z",
+    "scrapedAt": "2026-04-01T18:13:11Z",
+    "address": "NELSON ST & AUSTIN AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/nelson-st",
+      "coquitlam/austin-ave"
+    ],
+    "streetNames": [
+      "Nelson St",
+      "Austin Ave"
+    ],
+    "pulsePointId": "2445771674"
+  },
+  {
     "id": "2026-04-01T17:10:00Z_surrey/112th-ave_surrey/136th-st",
     "timestamp": "2026-04-01T17:10:00Z",
     "scrapedAt": "2026-04-01T17:16:59Z",
