@@ -4,6 +4,19 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-04-01T20:03:00Z_surrey/king-george-blvd",
+      "timestamp": "2026-04-01T20:03:00Z",
+      "address": "KING GEORGE BLVD",
+      "city": "Surrey",
+      "streets": [
+        "surrey/king-george-blvd"
+      ],
+      "streetNames": [
+        "King George Blvd"
+      ],
+      "pulsePointId": "2445863282"
+    },
+    {
       "id": "2026-03-31T23:40:00Z_surrey/king-george-blvd_surrey/64th-ave",
       "timestamp": "2026-03-31T23:40:00Z",
       "address": "KING GEORGE BLVD & 64TH AVE",
@@ -236,6 +249,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-31T23:40:00Z",
-  "count": 16
+  "lastIncident": "2026-04-01T20:03:00Z",
+  "count": 17
 }
