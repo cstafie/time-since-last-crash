@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-01T16:52:00Z_vancouver/e-38th-ave_vancouver/main-st",
+      "timestamp": "2026-04-01T16:52:00Z",
+      "address": "E 38TH AVE & MAIN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-38th-ave",
+        "vancouver/main-st"
+      ],
+      "streetNames": [
+        "E 38th Ave",
+        "Main St"
+      ],
+      "pulsePointId": "2445741499"
+    },
+    {
       "id": "2026-03-26T22:31:00Z_vancouver/main-st_vancouver/prior-st",
       "timestamp": "2026-03-26T22:31:00Z",
       "address": "MAIN ST & PRIOR ST",
@@ -90,6 +105,6 @@
       "pulsePointId": "2432937969"
     }
   ],
-  "lastIncident": "2026-03-26T22:31:00Z",
-  "count": 6
+  "lastIncident": "2026-04-01T16:52:00Z",
+  "count": 7
 }

@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-01T17:10:00Z_surrey/112th-ave_surrey/136th-st",
+    "timestamp": "2026-04-01T17:10:00Z",
+    "scrapedAt": "2026-04-01T17:16:59Z",
+    "address": "112TH AVE & 136TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/112th-ave",
+      "surrey/136th-st"
+    ],
+    "streetNames": [
+      "112th Ave",
+      "136th St"
+    ],
+    "pulsePointId": "2445752132"
+  },
+  {
+    "id": "2026-04-01T16:52:00Z_vancouver/e-38th-ave_vancouver/main-st",
+    "timestamp": "2026-04-01T16:52:00Z",
+    "scrapedAt": "2026-04-01T17:16:59Z",
+    "address": "E 38TH AVE & MAIN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-38th-ave",
+      "vancouver/main-st"
+    ],
+    "streetNames": [
+      "E 38th Ave",
+      "Main St"
+    ],
+    "pulsePointId": "2445741499"
+  },
+  {
     "id": "2026-04-01T16:41:00Z_abbotsford/trans-canada-hwy",
     "timestamp": "2026-04-01T16:41:00Z",
     "scrapedAt": "2026-04-01T16:45:43Z",

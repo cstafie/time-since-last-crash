@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/e-38th-ave",
+  "name": "E 38th Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-01T16:52:00Z_vancouver/e-38th-ave_vancouver/main-st",
+      "timestamp": "2026-04-01T16:52:00Z",
+      "address": "E 38TH AVE & MAIN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-38th-ave",
+        "vancouver/main-st"
+      ],
+      "streetNames": [
+        "E 38th Ave",
+        "Main St"
+      ],
+      "pulsePointId": "2445741499"
+    }
+  ],
+  "lastIncident": "2026-04-01T16:52:00Z",
+  "count": 1
+}
