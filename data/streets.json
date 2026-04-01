@@ -556,8 +556,8 @@
     "name": "140th St",
     "slug": "surrey/140th-st",
     "city": "Surrey",
-    "lastIncident": "2026-03-24T13:40:00Z",
-    "count": 4
+    "lastIncident": "2026-04-01T15:46:00Z",
+    "count": 5
   },
   "surrey/141a-st": {
     "name": "141a St",
@@ -647,8 +647,8 @@
     "name": "96th Ave",
     "slug": "surrey/96th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-31T03:42:00Z",
-    "count": 9
+    "lastIncident": "2026-04-01T15:46:00Z",
+    "count": 10
   },
   "surrey/bolivar-rd": {
     "name": "Bolivar Rd",
@@ -1627,8 +1627,8 @@
     "name": "156th St",
     "slug": "surrey/156th-st",
     "city": "Surrey",
-    "lastIncident": "2026-03-15T17:15:00Z",
-    "count": 4
+    "lastIncident": "2026-04-01T15:42:00Z",
+    "count": 5
   },
   "north-vancouver/pemberton-ave": {
     "name": "Pemberton Ave",
@@ -3062,8 +3062,8 @@
     "name": "24th Ave",
     "slug": "surrey/24th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-01T15:10:00Z",
-    "count": 3
+    "lastIncident": "2026-04-01T15:42:00Z",
+    "count": 4
   },
   "vancouver/e-49th-ave": {
     "name": "E 49th Ave",

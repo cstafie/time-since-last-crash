@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-01T15:46:00Z_surrey/140th-st_surrey/96th-ave",
+    "timestamp": "2026-04-01T15:46:00Z",
+    "scrapedAt": "2026-04-01T15:55:37Z",
+    "address": "140TH ST & 96TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/140th-st",
+      "surrey/96th-ave"
+    ],
+    "streetNames": [
+      "140th St",
+      "96th Ave"
+    ],
+    "pulsePointId": "2445705066"
+  },
+  {
+    "id": "2026-04-01T15:42:00Z_surrey/156th-st_surrey/24th-ave",
+    "timestamp": "2026-04-01T15:42:00Z",
+    "scrapedAt": "2026-04-01T15:55:37Z",
+    "address": "156TH ST & 24TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/156th-st",
+      "surrey/24th-ave"
+    ],
+    "streetNames": [
+      "156th St",
+      "24th Ave"
+    ],
+    "pulsePointId": "2445702536"
+  },
+  {
     "id": "2026-04-01T15:19:00Z_chilliwack/vedder-rd",
     "timestamp": "2026-04-01T15:19:00Z",
     "scrapedAt": "2026-04-01T15:25:24Z",
