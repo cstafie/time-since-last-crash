@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-01T13:09:00Z_richmond/garden-city-rd",
+    "timestamp": "2026-04-01T13:09:00Z",
+    "scrapedAt": "2026-04-01T13:29:17Z",
+    "address": "GARDEN CITY RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/garden-city-rd"
+    ],
+    "streetNames": [
+      "Garden City Rd"
+    ],
+    "pulsePointId": "2445638050"
+  },
+  {
     "id": "2026-04-01T12:27:00Z_vancouver/dunlevy-ave_vancouver/e-hastings-st",
     "timestamp": "2026-04-01T12:27:00Z",
     "scrapedAt": "2026-04-01T12:46:56Z",
