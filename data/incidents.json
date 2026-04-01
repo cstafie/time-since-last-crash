@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-01T04:01:00Z_vancouver/harold-st",
+    "timestamp": "2026-04-01T04:01:00Z",
+    "scrapedAt": "2026-04-01T04:54:23Z",
+    "address": "HAROLD ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/harold-st"
+    ],
+    "streetNames": [
+      "Harold St"
+    ],
+    "pulsePointId": "2445485488"
+  },
+  {
     "id": "2026-04-01T00:51:00Z_surrey/126th-st",
     "timestamp": "2026-04-01T00:51:00Z",
     "scrapedAt": "2026-04-01T01:05:44Z",

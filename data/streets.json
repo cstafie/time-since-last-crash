@@ -4716,5 +4716,12 @@
     "city": "Vancouver",
     "lastIncident": "2026-03-31T23:47:00Z",
     "count": 1
+  },
+  "vancouver/harold-st": {
+    "name": "Harold St",
+    "slug": "vancouver/harold-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-01T04:01:00Z",
+    "count": 1
   }
 }
