@@ -528,8 +528,8 @@
     "name": "124th St",
     "slug": "surrey/124th-st",
     "city": "Surrey",
-    "lastIncident": "2026-03-28T00:01:00Z",
-    "count": 4
+    "lastIncident": "2026-04-01T16:00:00Z",
+    "count": 5
   },
   "surrey/128th-st": {
     "name": "128th St",
@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-25T15:50:00Z",
-    "count": 5
+    "lastIncident": "2026-04-01T16:00:00Z",
+    "count": 6
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",
