@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-01T12:27:00Z_vancouver/dunlevy-ave_vancouver/e-hastings-st",
+    "timestamp": "2026-04-01T12:27:00Z",
+    "scrapedAt": "2026-04-01T12:46:56Z",
+    "address": "DUNLEVY AVE & E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/dunlevy-ave",
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "Dunlevy Ave",
+      "E Hastings St"
+    ],
+    "pulsePointId": "2445624556"
+  },
+  {
     "id": "2026-04-01T08:35:00Z_abbotsford/trans-canada-hwy",
     "timestamp": "2026-04-01T08:35:00Z",
     "scrapedAt": "2026-04-01T09:22:37Z",
