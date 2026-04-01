@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-01T20:00:00Z_vancouver/denman-st_vancouver/w-georgia-st",
+    "timestamp": "2026-04-01T20:00:00Z",
+    "scrapedAt": "2026-04-01T20:10:13Z",
+    "address": "DENMAN ST & W GEORGIA ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/denman-st",
+      "vancouver/w-georgia-st"
+    ],
+    "streetNames": [
+      "Denman St",
+      "W Georgia St"
+    ],
+    "pulsePointId": "2445857751"
+  },
+  {
     "id": "2026-04-01T19:15:00Z_maple-ridge/dewdney-trunk-rd_maple-ridge/238b-st",
     "timestamp": "2026-04-01T19:15:00Z",
     "scrapedAt": "2026-04-01T19:22:18Z",
