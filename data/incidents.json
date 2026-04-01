@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-04-01T23:05:00Z_vancouver/victoria-dr_vancouver/e-43rd-ave",
+    "timestamp": "2026-04-01T23:05:00Z",
+    "scrapedAt": "2026-04-01T23:09:30Z",
+    "address": "VICTORIA DR & E 43RD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/victoria-dr",
+      "vancouver/e-43rd-ave"
+    ],
+    "streetNames": [
+      "Victoria Dr",
+      "E 43rd Ave"
+    ],
+    "pulsePointId": "2445968204"
+  },
+  {
+    "id": "2026-04-01T23:02:00Z_burnaby/boundary-rd_burnaby/lougheed-hwy",
+    "timestamp": "2026-04-01T23:02:00Z",
+    "scrapedAt": "2026-04-01T23:09:30Z",
+    "address": "BOUNDARY RD & LOUGHEED HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/boundary-rd",
+      "burnaby/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Boundary Rd",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2445966446"
+  },
+  {
+    "id": "2026-04-01T23:02:00Z_burnaby/kingsway",
+    "timestamp": "2026-04-01T23:02:00Z",
+    "scrapedAt": "2026-04-01T23:09:30Z",
+    "address": "KINGSWAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/kingsway"
+    ],
+    "streetNames": [
+      "Kingsway"
+    ],
+    "pulsePointId": "2445966020"
+  },
+  {
+    "id": "2026-04-01T22:57:00Z_port-moody/douglas-st_port-moody/clarke-st",
+    "timestamp": "2026-04-01T22:57:00Z",
+    "scrapedAt": "2026-04-01T23:09:30Z",
+    "address": "DOUGLAS ST & CLARKE ST",
+    "city": "Port Moody",
+    "streets": [
+      "port-moody/douglas-st",
+      "port-moody/clarke-st"
+    ],
+    "streetNames": [
+      "Douglas St",
+      "Clarke St"
+    ],
+    "pulsePointId": "2445964979"
+  },
+  {
     "id": "2026-04-01T21:56:00Z_vancouver/granville-st_vancouver/w-34th-ave",
     "timestamp": "2026-04-01T21:56:00Z",
     "scrapedAt": "2026-04-01T22:08:33Z",

@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-04-01T23:02:00Z_burnaby/boundary-rd_burnaby/lougheed-hwy",
+      "timestamp": "2026-04-01T23:02:00Z",
+      "address": "BOUNDARY RD & LOUGHEED HWY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/boundary-rd",
+        "burnaby/lougheed-hwy"
+      ],
+      "streetNames": [
+        "Boundary Rd",
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2445966446"
+    },
+    {
       "id": "2026-04-01T13:43:00Z_burnaby/boundary-rd_burnaby/burke-st",
       "timestamp": "2026-04-01T13:43:00Z",
       "address": "BOUNDARY RD & BURKE ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2436452941"
     }
   ],
-  "lastIncident": "2026-04-01T13:43:00Z",
-  "count": 2
+  "lastIncident": "2026-04-01T23:02:00Z",
+  "count": 3
 }

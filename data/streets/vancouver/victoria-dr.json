@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-01T23:05:00Z_vancouver/victoria-dr_vancouver/e-43rd-ave",
+      "timestamp": "2026-04-01T23:05:00Z",
+      "address": "VICTORIA DR & E 43RD AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/victoria-dr",
+        "vancouver/e-43rd-ave"
+      ],
+      "streetNames": [
+        "Victoria Dr",
+        "E 43rd Ave"
+      ],
+      "pulsePointId": "2445968204"
+    },
+    {
       "id": "2026-03-28T02:04:00Z_vancouver/victoria-dr_vancouver/e-broadway",
       "timestamp": "2026-03-28T02:04:00Z",
       "address": "VICTORIA DR & E BROADWAY",
@@ -47,6 +62,6 @@
       "pulsePointId": "2437375979"
     }
   ],
-  "lastIncident": "2026-03-28T02:04:00Z",
-  "count": 3
+  "lastIncident": "2026-04-01T23:05:00Z",
+  "count": 4
 }

@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-04-01T23:02:00Z_burnaby/kingsway",
+      "timestamp": "2026-04-01T23:02:00Z",
+      "address": "KINGSWAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/kingsway"
+      ],
+      "streetNames": [
+        "Kingsway"
+      ],
+      "pulsePointId": "2445966020"
+    },
+    {
       "id": "2026-03-19T15:41:00Z_burnaby/kingsway_burnaby/griffiths-dr",
       "timestamp": "2026-03-19T15:41:00Z",
       "address": "KINGSWAY & GRIFFITHS DR",
@@ -48,6 +61,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-19T15:41:00Z",
-  "count": 3
+  "lastIncident": "2026-04-01T23:02:00Z",
+  "count": 4
 }
