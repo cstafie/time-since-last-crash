@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-01T05:58:00Z_abbotsford/south-fraser-way",
+    "timestamp": "2026-04-01T05:58:00Z",
+    "scrapedAt": "2026-04-01T06:28:45Z",
+    "address": "SOUTH FRASER WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/south-fraser-way"
+    ],
+    "streetNames": [
+      "South Fraser Way"
+    ],
+    "pulsePointId": "2445529403"
+  },
+  {
     "id": "2026-04-01T05:10:00Z_surrey/152nd-st_surrey/102a-ave",
     "timestamp": "2026-04-01T05:10:00Z",
     "scrapedAt": "2026-04-01T05:38:11Z",
