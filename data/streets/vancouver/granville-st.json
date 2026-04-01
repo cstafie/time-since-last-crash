@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-01T21:56:00Z_vancouver/granville-st_vancouver/w-34th-ave",
+      "timestamp": "2026-04-01T21:56:00Z",
+      "address": "GRANVILLE ST & W 34TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st",
+        "vancouver/w-34th-ave"
+      ],
+      "streetNames": [
+        "Granville St",
+        "W 34th Ave"
+      ],
+      "pulsePointId": "2445929341"
+    },
+    {
       "id": "2026-03-29T09:55:00Z_vancouver/angus-dr_vancouver/granville-st",
       "timestamp": "2026-03-29T09:55:00Z",
       "address": "ANGUS DR & GRANVILLE ST",
@@ -89,6 +104,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-29T09:55:00Z",
-  "count": 6
+  "lastIncident": "2026-04-01T21:56:00Z",
+  "count": 7
 }

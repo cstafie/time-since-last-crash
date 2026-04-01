@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/w-34th-ave",
+  "name": "W 34th Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-01T21:56:00Z_vancouver/granville-st_vancouver/w-34th-ave",
+      "timestamp": "2026-04-01T21:56:00Z",
+      "address": "GRANVILLE ST & W 34TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st",
+        "vancouver/w-34th-ave"
+      ],
+      "streetNames": [
+        "Granville St",
+        "W 34th Ave"
+      ],
+      "pulsePointId": "2445929341"
+    }
+  ],
+  "lastIncident": "2026-04-01T21:56:00Z",
+  "count": 1
+}
