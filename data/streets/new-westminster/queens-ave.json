@@ -4,6 +4,21 @@
   "city": "New Westminster",
   "incidents": [
     {
+      "id": "2026-04-01T05:04:00Z_new-westminster/queens-ave_new-westminster/10th-st",
+      "timestamp": "2026-04-01T05:04:00Z",
+      "address": "QUEENS AVE & 10TH ST",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/queens-ave",
+        "new-westminster/10th-st"
+      ],
+      "streetNames": [
+        "Queens Ave",
+        "10th St"
+      ],
+      "pulsePointId": "2445511131"
+    },
+    {
       "id": "2026-03-19T19:32:00Z_new-westminster/6th-st_new-westminster/queens-ave",
       "timestamp": "2026-03-19T19:32:00Z",
       "address": "6TH ST & QUEENS AVE",
@@ -34,6 +49,6 @@
       "pulsePointId": "2437146314"
     }
   ],
-  "lastIncident": "2026-03-19T19:32:00Z",
-  "count": 2
+  "lastIncident": "2026-04-01T05:04:00Z",
+  "count": 3
 }

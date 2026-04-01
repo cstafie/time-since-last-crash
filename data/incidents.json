@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-01T05:10:00Z_surrey/152nd-st_surrey/102a-ave",
+    "timestamp": "2026-04-01T05:10:00Z",
+    "scrapedAt": "2026-04-01T05:38:11Z",
+    "address": "152ND ST & 102A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/152nd-st",
+      "surrey/102a-ave"
+    ],
+    "streetNames": [
+      "152nd St",
+      "102a Ave"
+    ],
+    "pulsePointId": "2445512356"
+  },
+  {
+    "id": "2026-04-01T05:04:00Z_new-westminster/queens-ave_new-westminster/10th-st",
+    "timestamp": "2026-04-01T05:04:00Z",
+    "scrapedAt": "2026-04-01T05:38:11Z",
+    "address": "QUEENS AVE & 10TH ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/queens-ave",
+      "new-westminster/10th-st"
+    ],
+    "streetNames": [
+      "Queens Ave",
+      "10th St"
+    ],
+    "pulsePointId": "2445511131"
+  },
+  {
     "id": "2026-04-01T04:01:00Z_vancouver/harold-st",
     "timestamp": "2026-04-01T04:01:00Z",
     "scrapedAt": "2026-04-01T04:54:23Z",
