@@ -1,6 +1,6 @@
 {
-  "slug": "burnaby/boundary-rd",
-  "name": "Boundary Rd",
+  "slug": "burnaby/burke-st",
+  "name": "Burke St",
   "city": "Burnaby",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Burke St"
       ],
       "pulsePointId": "2445648366"
-    },
-    {
-      "id": "2026-03-18T12:22:00Z_burnaby/lougheed-hwy_burnaby/boundary-rd",
-      "timestamp": "2026-03-18T12:22:00Z",
-      "address": "LOUGHEED HWY & BOUNDARY RD",
-      "city": "Burnaby",
-      "streets": [
-        "burnaby/lougheed-hwy",
-        "burnaby/boundary-rd"
-      ],
-      "streetNames": [
-        "Lougheed Hwy",
-        "Boundary Rd"
-      ],
-      "pulsePointId": "2436452941"
     }
   ],
   "lastIncident": "2026-04-01T13:43:00Z",
-  "count": 2
+  "count": 1
 }

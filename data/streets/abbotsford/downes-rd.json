@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-01T14:06:00Z_abbotsford/downes-rd_abbotsford/seldon-rd",
+      "timestamp": "2026-04-01T14:06:00Z",
+      "address": "DOWNES RD & SELDON RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/downes-rd",
+        "abbotsford/seldon-rd"
+      ],
+      "streetNames": [
+        "Downes Rd",
+        "Seldon Rd"
+      ],
+      "pulsePointId": "2445656274"
+    },
+    {
       "id": "2026-03-18T03:35:00Z_abbotsford/ross-rd_abbotsford/downes-rd",
       "timestamp": "2026-03-18T03:35:00Z",
       "address": "ROSS RD & DOWNES RD",
@@ -31,6 +46,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-18T03:35:00Z",
-  "count": 2
+  "lastIncident": "2026-04-01T14:06:00Z",
+  "count": 3
 }

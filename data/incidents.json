@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-01T14:06:00Z_abbotsford/downes-rd_abbotsford/seldon-rd",
+    "timestamp": "2026-04-01T14:06:00Z",
+    "scrapedAt": "2026-04-01T14:08:48Z",
+    "address": "DOWNES RD & SELDON RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/downes-rd",
+      "abbotsford/seldon-rd"
+    ],
+    "streetNames": [
+      "Downes Rd",
+      "Seldon Rd"
+    ],
+    "pulsePointId": "2445656274"
+  },
+  {
+    "id": "2026-04-01T13:43:00Z_burnaby/boundary-rd_burnaby/burke-st",
+    "timestamp": "2026-04-01T13:43:00Z",
+    "scrapedAt": "2026-04-01T14:08:48Z",
+    "address": "BOUNDARY RD & BURKE ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/boundary-rd",
+      "burnaby/burke-st"
+    ],
+    "streetNames": [
+      "Boundary Rd",
+      "Burke St"
+    ],
+    "pulsePointId": "2445648366"
+  },
+  {
     "id": "2026-04-01T13:09:00Z_richmond/garden-city-rd",
     "timestamp": "2026-04-01T13:09:00Z",
     "scrapedAt": "2026-04-01T13:29:17Z",

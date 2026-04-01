@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/seldon-rd",
+  "name": "Seldon Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-04-01T14:06:00Z_abbotsford/downes-rd_abbotsford/seldon-rd",
+      "timestamp": "2026-04-01T14:06:00Z",
+      "address": "DOWNES RD & SELDON RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/downes-rd",
+        "abbotsford/seldon-rd"
+      ],
+      "streetNames": [
+        "Downes Rd",
+        "Seldon Rd"
+      ],
+      "pulsePointId": "2445656274"
+    }
+  ],
+  "lastIncident": "2026-04-01T14:06:00Z",
+  "count": 1
+}
