@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/burlington-ave",
+  "name": "Burlington Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-04-01T15:17:00Z_burnaby/burlington-ave_burnaby/imperial-st",
+      "timestamp": "2026-04-01T15:17:00Z",
+      "address": "BURLINGTON AVE & IMPERIAL ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/burlington-ave",
+        "burnaby/imperial-st"
+      ],
+      "streetNames": [
+        "Burlington Ave",
+        "Imperial St"
+      ],
+      "pulsePointId": "2445690035"
+    }
+  ],
+  "lastIncident": "2026-04-01T15:17:00Z",
+  "count": 1
+}

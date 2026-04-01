@@ -325,8 +325,8 @@
     "name": "Lougheed Hwy",
     "slug": "maple-ridge/lougheed-hwy",
     "city": "Maple Ridge",
-    "lastIncident": "2026-03-27T03:58:00Z",
-    "count": 5
+    "lastIncident": "2026-04-01T15:10:00Z",
+    "count": 6
   },
   "mission/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -885,8 +885,8 @@
     "name": "176th St",
     "slug": "surrey/176th-st",
     "city": "Surrey",
-    "lastIncident": "2026-03-31T00:38:00Z",
-    "count": 11
+    "lastIncident": "2026-04-01T15:10:00Z",
+    "count": 12
   },
   "surrey/100th-ave": {
     "name": "100th Ave",
@@ -1102,8 +1102,8 @@
     "name": "200th St",
     "slug": "langley/200th-st",
     "city": "Langley",
-    "lastIncident": "2026-03-31T00:49:00Z",
-    "count": 6
+    "lastIncident": "2026-04-01T15:00:00Z",
+    "count": 7
   },
   "abbotsford/downes-rd": {
     "name": "Downes Rd",
@@ -1837,8 +1837,8 @@
     "name": "Vedder Rd",
     "slug": "chilliwack/vedder-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-04-01T00:33:00Z",
-    "count": 3
+    "lastIncident": "2026-04-01T15:19:00Z",
+    "count": 4
   },
   "chilliwack/spruce-dr": {
     "name": "Spruce Dr",
@@ -3062,8 +3062,8 @@
     "name": "24th Ave",
     "slug": "surrey/24th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-27T00:07:00Z",
-    "count": 2
+    "lastIncident": "2026-04-01T15:10:00Z",
+    "count": 3
   },
   "vancouver/e-49th-ave": {
     "name": "E 49th Ave",
@@ -3699,8 +3699,8 @@
     "name": "Royal Oak Ave",
     "slug": "burnaby/royal-oak-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-03-23T18:35:00Z",
-    "count": 1
+    "lastIncident": "2026-04-01T15:16:00Z",
+    "count": 2
   },
   "burnaby/irving-st": {
     "name": "Irving St",
@@ -4259,8 +4259,8 @@
     "name": "Imperial St",
     "slug": "burnaby/imperial-st",
     "city": "Burnaby",
-    "lastIncident": "2026-03-28T00:47:00Z",
-    "count": 1
+    "lastIncident": "2026-04-01T15:17:00Z",
+    "count": 3
   },
   "burnaby/kitchener-st": {
     "name": "Kitchener St",
@@ -4771,6 +4771,20 @@
     "slug": "burnaby/burke-st",
     "city": "Burnaby",
     "lastIncident": "2026-04-01T13:43:00Z",
+    "count": 1
+  },
+  "burnaby/burlington-ave": {
+    "name": "Burlington Ave",
+    "slug": "burnaby/burlington-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-04-01T15:17:00Z",
+    "count": 1
+  },
+  "maple-ridge/jim-robson-way": {
+    "name": "Jim Robson Way",
+    "slug": "maple-ridge/jim-robson-way",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-04-01T15:10:00Z",
     "count": 1
   }
 }

@@ -1,5 +1,97 @@
 [
   {
+    "id": "2026-04-01T15:19:00Z_chilliwack/vedder-rd",
+    "timestamp": "2026-04-01T15:19:00Z",
+    "scrapedAt": "2026-04-01T15:25:24Z",
+    "address": "VEDDER RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/vedder-rd"
+    ],
+    "streetNames": [
+      "Vedder Rd"
+    ],
+    "pulsePointId": "2445689811"
+  },
+  {
+    "id": "2026-04-01T15:17:00Z_burnaby/burlington-ave_burnaby/imperial-st",
+    "timestamp": "2026-04-01T15:17:00Z",
+    "scrapedAt": "2026-04-01T15:25:24Z",
+    "address": "BURLINGTON AVE & IMPERIAL ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/burlington-ave",
+      "burnaby/imperial-st"
+    ],
+    "streetNames": [
+      "Burlington Ave",
+      "Imperial St"
+    ],
+    "pulsePointId": "2445690035"
+  },
+  {
+    "id": "2026-04-01T15:16:00Z_burnaby/royal-oak-ave_burnaby/imperial-st",
+    "timestamp": "2026-04-01T15:16:00Z",
+    "scrapedAt": "2026-04-01T15:25:24Z",
+    "address": "ROYAL OAK AVE & IMPERIAL ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/royal-oak-ave",
+      "burnaby/imperial-st"
+    ],
+    "streetNames": [
+      "Royal Oak Ave",
+      "Imperial St"
+    ],
+    "pulsePointId": "2445689122"
+  },
+  {
+    "id": "2026-04-01T15:10:00Z_maple-ridge/jim-robson-way_maple-ridge/lougheed-hwy",
+    "timestamp": "2026-04-01T15:10:00Z",
+    "scrapedAt": "2026-04-01T15:25:24Z",
+    "address": "JIM ROBSON WAY & LOUGHEED HWY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/jim-robson-way",
+      "maple-ridge/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Jim Robson Way",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2445686207"
+  },
+  {
+    "id": "2026-04-01T15:10:00Z_surrey/24th-ave_surrey/176th-st",
+    "timestamp": "2026-04-01T15:10:00Z",
+    "scrapedAt": "2026-04-01T15:25:24Z",
+    "address": "24TH AVE & 176TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/24th-ave",
+      "surrey/176th-st"
+    ],
+    "streetNames": [
+      "24th Ave",
+      "176th St"
+    ],
+    "pulsePointId": "2445686716"
+  },
+  {
+    "id": "2026-04-01T15:00:00Z_langley/200th-st",
+    "timestamp": "2026-04-01T15:00:00Z",
+    "scrapedAt": "2026-04-01T15:25:24Z",
+    "address": "200TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/200th-st"
+    ],
+    "streetNames": [
+      "200th St"
+    ],
+    "pulsePointId": "2445681946"
+  },
+  {
     "id": "2026-04-01T14:06:00Z_abbotsford/downes-rd_abbotsford/seldon-rd",
     "timestamp": "2026-04-01T14:06:00Z",
     "scrapedAt": "2026-04-01T14:08:48Z",
