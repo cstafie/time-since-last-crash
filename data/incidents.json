@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-04-01T23:39:00Z_maple-ridge/dewdney-trunk-rd_maple-ridge/222nd-st",
+    "timestamp": "2026-04-01T23:39:00Z",
+    "scrapedAt": "2026-04-01T23:42:56Z",
+    "address": "DEWDNEY TRUNK RD & 222ND ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/dewdney-trunk-rd",
+      "maple-ridge/222nd-st"
+    ],
+    "streetNames": [
+      "Dewdney Trunk Rd",
+      "222nd St"
+    ],
+    "pulsePointId": "2445989396"
+  },
+  {
+    "id": "2026-04-01T23:10:00Z_vancouver/rupert-st",
+    "timestamp": "2026-04-01T23:10:00Z",
+    "scrapedAt": "2026-04-01T23:42:56Z",
+    "address": "RUPERT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/rupert-st"
+    ],
+    "streetNames": [
+      "Rupert St"
+    ],
+    "pulsePointId": "2445972271"
+  },
+  {
+    "id": "2026-04-01T23:07:00Z_north-vancouver/apex-ave_north-vancouver/mt-seymour-pkwy",
+    "timestamp": "2026-04-01T23:07:00Z",
+    "scrapedAt": "2026-04-01T23:42:56Z",
+    "address": "APEX AVE & MT SEYMOUR PKWY",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/apex-ave",
+      "north-vancouver/mt-seymour-pkwy"
+    ],
+    "streetNames": [
+      "Apex Ave",
+      "Mt Seymour Pkwy"
+    ],
+    "pulsePointId": "2445970086"
+  },
+  {
     "id": "2026-04-01T23:05:00Z_vancouver/victoria-dr_vancouver/e-43rd-ave",
     "timestamp": "2026-04-01T23:05:00Z",
     "scrapedAt": "2026-04-01T23:09:30Z",
@@ -14,6 +60,22 @@
       "E 43rd Ave"
     ],
     "pulsePointId": "2445968204"
+  },
+  {
+    "id": "2026-04-01T23:05:00Z_vancouver/e-45th-ave_vancouver/victoria-dr",
+    "timestamp": "2026-04-01T23:05:00Z",
+    "scrapedAt": "2026-04-01T23:42:56Z",
+    "address": "E 45TH AVE & VICTORIA DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-45th-ave",
+      "vancouver/victoria-dr"
+    ],
+    "streetNames": [
+      "E 45th Ave",
+      "Victoria Dr"
+    ],
+    "pulsePointId": "2445970784"
   },
   {
     "id": "2026-04-01T23:02:00Z_burnaby/boundary-rd_burnaby/lougheed-hwy",

@@ -1,0 +1,24 @@
+{
+  "slug": "north-vancouver/apex-ave",
+  "name": "Apex Ave",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-01T23:07:00Z_north-vancouver/apex-ave_north-vancouver/mt-seymour-pkwy",
+      "timestamp": "2026-04-01T23:07:00Z",
+      "address": "APEX AVE & MT SEYMOUR PKWY",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/apex-ave",
+        "north-vancouver/mt-seymour-pkwy"
+      ],
+      "streetNames": [
+        "Apex Ave",
+        "Mt Seymour Pkwy"
+      ],
+      "pulsePointId": "2445970086"
+    }
+  ],
+  "lastIncident": "2026-04-01T23:07:00Z",
+  "count": 1
+}

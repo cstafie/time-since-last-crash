@@ -318,8 +318,8 @@
     "name": "Dewdney Trunk Rd",
     "slug": "maple-ridge/dewdney-trunk-rd",
     "city": "Maple Ridge",
-    "lastIncident": "2026-04-01T19:15:00Z",
-    "count": 7
+    "lastIncident": "2026-04-01T23:39:00Z",
+    "count": 8
   },
   "maple-ridge/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -409,8 +409,8 @@
     "name": "Mt Seymour Pkwy",
     "slug": "north-vancouver/mt-seymour-pkwy",
     "city": "North Vancouver",
-    "lastIncident": "2026-03-28T16:10:00Z",
-    "count": 2
+    "lastIncident": "2026-04-01T23:07:00Z",
+    "count": 3
   },
   "north-vancouver/roche-point-dr": {
     "name": "Roche Point Dr",
@@ -1347,8 +1347,8 @@
     "name": "222nd St",
     "slug": "maple-ridge/222nd-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-03-20T12:29:00Z",
-    "count": 2
+    "lastIncident": "2026-04-01T23:39:00Z",
+    "count": 3
   },
   "mission/horne-street-onrp": {
     "name": "Horne Street Onrp",
@@ -2187,8 +2187,8 @@
     "name": "Rupert St",
     "slug": "vancouver/rupert-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-27T15:26:00Z",
-    "count": 4
+    "lastIncident": "2026-04-01T23:10:00Z",
+    "count": 5
   },
   "vancouver/fir-st": {
     "name": "Fir St",
@@ -3077,7 +3077,7 @@
     "slug": "vancouver/victoria-dr",
     "city": "Vancouver",
     "lastIncident": "2026-04-01T23:05:00Z",
-    "count": 4
+    "count": 5
   },
   "vancouver/e-60th-ave": {
     "name": "E 60th Ave",
@@ -4876,6 +4876,20 @@
     "slug": "port-moody/clarke-st",
     "city": "Port Moody",
     "lastIncident": "2026-04-01T22:57:00Z",
+    "count": 1
+  },
+  "north-vancouver/apex-ave": {
+    "name": "Apex Ave",
+    "slug": "north-vancouver/apex-ave",
+    "city": "North Vancouver",
+    "lastIncident": "2026-04-01T23:07:00Z",
+    "count": 1
+  },
+  "vancouver/e-45th-ave": {
+    "name": "E 45th Ave",
+    "slug": "vancouver/e-45th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-01T23:05:00Z",
     "count": 1
   }
 }

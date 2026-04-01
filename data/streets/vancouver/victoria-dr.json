@@ -19,6 +19,21 @@
       "pulsePointId": "2445968204"
     },
     {
+      "id": "2026-04-01T23:05:00Z_vancouver/e-45th-ave_vancouver/victoria-dr",
+      "timestamp": "2026-04-01T23:05:00Z",
+      "address": "E 45TH AVE & VICTORIA DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-45th-ave",
+        "vancouver/victoria-dr"
+      ],
+      "streetNames": [
+        "E 45th Ave",
+        "Victoria Dr"
+      ],
+      "pulsePointId": "2445970784"
+    },
+    {
       "id": "2026-03-28T02:04:00Z_vancouver/victoria-dr_vancouver/e-broadway",
       "timestamp": "2026-03-28T02:04:00Z",
       "address": "VICTORIA DR & E BROADWAY",
@@ -63,5 +78,5 @@
     }
   ],
   "lastIncident": "2026-04-01T23:05:00Z",
-  "count": 4
+  "count": 5
 }
