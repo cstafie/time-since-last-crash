@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/bridgeway",
+  "name": "Bridgeway",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-03-31T23:47:00Z_vancouver/n-skeena-st_vancouver/bridgeway",
+      "timestamp": "2026-03-31T23:47:00Z",
+      "address": "N SKEENA ST & BRIDGEWAY",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/n-skeena-st",
+        "vancouver/bridgeway"
+      ],
+      "streetNames": [
+        "N Skeena St",
+        "Bridgeway"
+      ],
+      "pulsePointId": "2445357719"
+    }
+  ],
+  "lastIncident": "2026-03-31T23:47:00Z",
+  "count": 1
+}

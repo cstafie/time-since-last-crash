@@ -1,5 +1,113 @@
 [
   {
+    "id": "2026-04-01T00:51:00Z_surrey/126th-st",
+    "timestamp": "2026-04-01T00:51:00Z",
+    "scrapedAt": "2026-04-01T01:05:44Z",
+    "address": "126TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/126th-st"
+    ],
+    "streetNames": [
+      "126th St"
+    ],
+    "pulsePointId": "2445392773"
+  },
+  {
+    "id": "2026-04-01T00:33:00Z_chilliwack/vedder-rd",
+    "timestamp": "2026-04-01T00:33:00Z",
+    "scrapedAt": "2026-04-01T01:05:44Z",
+    "address": "VEDDER RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/vedder-rd"
+    ],
+    "streetNames": [
+      "Vedder Rd"
+    ],
+    "pulsePointId": "2445382977"
+  },
+  {
+    "id": "2026-04-01T00:07:00Z_langley/216th-st_langley/trans-canada-hwy-onrp",
+    "timestamp": "2026-04-01T00:07:00Z",
+    "scrapedAt": "2026-04-01T01:05:44Z",
+    "address": "216TH ST & TRANS CANADA HWY ONRP",
+    "city": "Langley",
+    "streets": [
+      "langley/216th-st",
+      "langley/trans-canada-hwy-onrp"
+    ],
+    "streetNames": [
+      "216th St",
+      "Trans Canada Hwy Onrp"
+    ],
+    "pulsePointId": "2445368958"
+  },
+  {
+    "id": "2026-04-01T00:02:00Z_coquitlam/barnet-hwy_coquitlam/falcon-dr",
+    "timestamp": "2026-04-01T00:02:00Z",
+    "scrapedAt": "2026-04-01T01:05:44Z",
+    "address": "BARNET HWY & FALCON DR",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/barnet-hwy",
+      "coquitlam/falcon-dr"
+    ],
+    "streetNames": [
+      "Barnet Hwy",
+      "Falcon Dr"
+    ],
+    "pulsePointId": "2445366422"
+  },
+  {
+    "id": "2026-03-31T23:51:00Z_surrey/92nd-ave_surrey/152nd-st",
+    "timestamp": "2026-03-31T23:51:00Z",
+    "scrapedAt": "2026-04-01T01:05:44Z",
+    "address": "92ND AVE & 152ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/92nd-ave",
+      "surrey/152nd-st"
+    ],
+    "streetNames": [
+      "92nd Ave",
+      "152nd St"
+    ],
+    "pulsePointId": "2445360598"
+  },
+  {
+    "id": "2026-03-31T23:47:00Z_vancouver/n-skeena-st_vancouver/bridgeway",
+    "timestamp": "2026-03-31T23:47:00Z",
+    "scrapedAt": "2026-04-01T01:05:44Z",
+    "address": "N SKEENA ST & BRIDGEWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/n-skeena-st",
+      "vancouver/bridgeway"
+    ],
+    "streetNames": [
+      "N Skeena St",
+      "Bridgeway"
+    ],
+    "pulsePointId": "2445357719"
+  },
+  {
+    "id": "2026-03-31T23:40:00Z_surrey/king-george-blvd_surrey/64th-ave",
+    "timestamp": "2026-03-31T23:40:00Z",
+    "scrapedAt": "2026-04-01T01:05:44Z",
+    "address": "KING GEORGE BLVD & 64TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/64th-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "64th Ave"
+    ],
+    "pulsePointId": "2445353977"
+  },
+  {
     "id": "2026-03-31T23:01:00Z_burnaby/southridge-dr",
     "timestamp": "2026-03-31T23:01:00Z",
     "scrapedAt": "2026-03-31T23:06:56Z",
