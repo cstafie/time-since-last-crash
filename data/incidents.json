@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-02T11:43:00Z_langley/216th-st_langley/glover-rd",
+    "timestamp": "2026-04-02T11:43:00Z",
+    "scrapedAt": "2026-04-02T12:11:37Z",
+    "address": "216TH ST & GLOVER RD",
+    "city": "Langley",
+    "streets": [
+      "langley/216th-st",
+      "langley/glover-rd"
+    ],
+    "streetNames": [
+      "216th St",
+      "Glover Rd"
+    ],
+    "pulsePointId": "2446246891"
+  },
+  {
     "id": "2026-04-02T11:27:00Z_abbotsford/blueridge-dr_abbotsford/valdes-dr",
     "timestamp": "2026-04-02T11:27:00Z",
     "scrapedAt": "2026-04-02T11:44:29Z",
