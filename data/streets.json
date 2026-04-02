@@ -5017,5 +5017,19 @@
     "city": "Langley",
     "lastIncident": "2026-04-02T16:23:00Z",
     "count": 1
+  },
+  "chilliwack/adams-rd": {
+    "name": "Adams Rd",
+    "slug": "chilliwack/adams-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-04-02T16:46:00Z",
+    "count": 1
+  },
+  "chilliwack/sumas-prairie-rd": {
+    "name": "Sumas Prairie Rd",
+    "slug": "chilliwack/sumas-prairie-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-04-02T16:46:00Z",
+    "count": 1
   }
 }

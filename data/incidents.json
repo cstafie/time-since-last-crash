@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-02T16:46:00Z_chilliwack/adams-rd_chilliwack/sumas-prairie-rd",
+    "timestamp": "2026-04-02T16:46:00Z",
+    "scrapedAt": "2026-04-02T17:14:31Z",
+    "address": "ADAMS RD & SUMAS PRAIRIE RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/adams-rd",
+      "chilliwack/sumas-prairie-rd"
+    ],
+    "streetNames": [
+      "Adams Rd",
+      "Sumas Prairie Rd"
+    ],
+    "pulsePointId": "2446368782"
+  },
+  {
     "id": "2026-04-02T16:35:00Z_maple-ridge/243rd-st_maple-ridge/dewdney-trunk-rd",
     "timestamp": "2026-04-02T16:35:00Z",
     "scrapedAt": "2026-04-02T16:46:01Z",
