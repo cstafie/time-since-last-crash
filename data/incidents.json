@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-02T13:19:00Z_delta/nordel-way",
+    "timestamp": "2026-04-02T13:19:00Z",
+    "scrapedAt": "2026-04-02T13:29:02Z",
+    "address": "NORDEL WAY",
+    "city": "Delta",
+    "streets": [
+      "delta/nordel-way"
+    ],
+    "streetNames": [
+      "Nordel Way"
+    ],
+    "pulsePointId": "2446275226"
+  },
+  {
     "id": "2026-04-02T11:43:00Z_langley/216th-st_langley/glover-rd",
     "timestamp": "2026-04-02T11:43:00Z",
     "scrapedAt": "2026-04-02T12:11:37Z",
