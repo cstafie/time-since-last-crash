@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-02T16:00:00Z_surrey/104th-ave",
+    "timestamp": "2026-04-02T16:00:00Z",
+    "scrapedAt": "2026-04-02T16:16:31Z",
+    "address": "104TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/104th-ave"
+    ],
+    "streetNames": [
+      "104th Ave"
+    ],
+    "pulsePointId": "2446344952"
+  },
+  {
     "id": "2026-04-02T14:47:00Z_surrey/24th-ave",
     "timestamp": "2026-04-02T14:47:00Z",
     "scrapedAt": "2026-04-02T15:19:15Z",
