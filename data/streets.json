@@ -5031,5 +5031,26 @@
     "city": "Chilliwack",
     "lastIncident": "2026-04-02T16:46:00Z",
     "count": 1
+  },
+  "abbotsford/clayburn-rd": {
+    "name": "Clayburn Rd",
+    "slug": "abbotsford/clayburn-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-04-02T19:33:00Z",
+    "count": 1
+  },
+  "abbotsford/straiton-rd": {
+    "name": "Straiton Rd",
+    "slug": "abbotsford/straiton-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-04-02T19:33:00Z",
+    "count": 1
+  },
+  "abbotsford/livingstone-ave": {
+    "name": "Livingstone Ave",
+    "slug": "abbotsford/livingstone-ave",
+    "city": "Abbotsford",
+    "lastIncident": "2026-04-02T19:31:00Z",
+    "count": 1
   }
 }

@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-02T19:33:00Z_abbotsford/clayburn-rd_abbotsford/straiton-rd",
+    "timestamp": "2026-04-02T19:33:00Z",
+    "scrapedAt": "2026-04-02T19:45:22Z",
+    "address": "CLAYBURN RD & STRAITON RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/clayburn-rd",
+      "abbotsford/straiton-rd"
+    ],
+    "streetNames": [
+      "Clayburn Rd",
+      "Straiton Rd"
+    ],
+    "pulsePointId": "2446468661"
+  },
+  {
+    "id": "2026-04-02T19:31:00Z_abbotsford/livingstone-ave",
+    "timestamp": "2026-04-02T19:31:00Z",
+    "scrapedAt": "2026-04-02T19:45:22Z",
+    "address": "LIVINGSTONE AVE",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/livingstone-ave"
+    ],
+    "streetNames": [
+      "Livingstone Ave"
+    ],
+    "pulsePointId": "2446467770"
+  },
+  {
     "id": "2026-04-02T19:10:00Z_surrey/trans-canada-hwy",
     "timestamp": "2026-04-02T19:10:00Z",
     "scrapedAt": "2026-04-02T19:18:59Z",

@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/straiton-rd",
+  "name": "Straiton Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-04-02T19:33:00Z_abbotsford/clayburn-rd_abbotsford/straiton-rd",
+      "timestamp": "2026-04-02T19:33:00Z",
+      "address": "CLAYBURN RD & STRAITON RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/clayburn-rd",
+        "abbotsford/straiton-rd"
+      ],
+      "streetNames": [
+        "Clayburn Rd",
+        "Straiton Rd"
+      ],
+      "pulsePointId": "2446468661"
+    }
+  ],
+  "lastIncident": "2026-04-02T19:33:00Z",
+  "count": 1
+}
