@@ -850,8 +850,8 @@
     "name": "32nd Ave",
     "slug": "surrey/32nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-20T18:01:00Z",
-    "count": 3
+    "lastIncident": "2026-04-02T07:48:00Z",
+    "count": 4
   },
   "langley/30th-ave": {
     "name": "30th Ave",
@@ -4961,5 +4961,12 @@
     "city": "Abbotsford",
     "lastIncident": "2026-04-02T05:44:00Z",
     "count": 2
+  },
+  "surrey/188th-st": {
+    "name": "188th St",
+    "slug": "surrey/188th-st",
+    "city": "Surrey",
+    "lastIncident": "2026-04-02T07:48:00Z",
+    "count": 1
   }
 }
