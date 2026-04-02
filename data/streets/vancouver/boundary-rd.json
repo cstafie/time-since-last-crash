@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-02T09:31:00Z_vancouver/boundary-rd",
+      "timestamp": "2026-04-02T09:31:00Z",
+      "address": "BOUNDARY RD",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/boundary-rd"
+      ],
+      "streetNames": [
+        "Boundary Rd"
+      ],
+      "pulsePointId": "2446216079"
+    },
+    {
       "id": "2026-03-31T20:13:00Z_vancouver/boundary-rd_vancouver/e-1st-ave",
       "timestamp": "2026-03-31T20:13:00Z",
       "address": "BOUNDARY RD & E 1ST AVE",
@@ -78,6 +91,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-31T20:13:00Z",
-  "count": 5
+  "lastIncident": "2026-04-02T09:31:00Z",
+  "count": 6
 }
