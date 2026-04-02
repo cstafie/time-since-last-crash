@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-04-02T00:43:00Z_vancouver/w-hastings-st_vancouver/abbott-st",
+    "timestamp": "2026-04-02T00:43:00Z",
+    "scrapedAt": "2026-04-02T00:56:48Z",
+    "address": "W HASTINGS ST & ABBOTT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-hastings-st",
+      "vancouver/abbott-st"
+    ],
+    "streetNames": [
+      "W Hastings St",
+      "Abbott St"
+    ],
+    "pulsePointId": "2446024838"
+  },
+  {
+    "id": "2026-04-02T00:36:00Z_delta/hwy-17",
+    "timestamp": "2026-04-02T00:36:00Z",
+    "scrapedAt": "2026-04-02T00:56:48Z",
+    "address": "HWY 17",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-17"
+    ],
+    "streetNames": [
+      "Hwy 17"
+    ],
+    "pulsePointId": "2446023750"
+  },
+  {
+    "id": "2026-04-02T00:13:00Z_burnaby/canada-way",
+    "timestamp": "2026-04-02T00:13:00Z",
+    "scrapedAt": "2026-04-02T00:56:48Z",
+    "address": "CANADA WAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/canada-way"
+    ],
+    "streetNames": [
+      "Canada Way"
+    ],
+    "pulsePointId": "2446009047"
+  },
+  {
+    "id": "2026-04-02T00:08:00Z_coquitlam/winslow-ave_coquitlam/schoolhouse-st",
+    "timestamp": "2026-04-02T00:08:00Z",
+    "scrapedAt": "2026-04-02T00:56:48Z",
+    "address": "WINSLOW AVE & SCHOOLHOUSE ST",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/winslow-ave",
+      "coquitlam/schoolhouse-st"
+    ],
+    "streetNames": [
+      "Winslow Ave",
+      "Schoolhouse St"
+    ],
+    "pulsePointId": "2446005649"
+  },
+  {
     "id": "2026-04-01T23:39:00Z_maple-ridge/dewdney-trunk-rd_maple-ridge/222nd-st",
     "timestamp": "2026-04-01T23:39:00Z",
     "scrapedAt": "2026-04-01T23:42:56Z",

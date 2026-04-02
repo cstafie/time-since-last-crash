@@ -1130,8 +1130,8 @@
     "name": "Canada Way",
     "slug": "burnaby/canada-way",
     "city": "Burnaby",
-    "lastIncident": "2026-03-20T18:13:00Z",
-    "count": 6
+    "lastIncident": "2026-04-02T00:13:00Z",
+    "count": 7
   },
   "burnaby/norland-ave": {
     "name": "Norland Ave",
@@ -4890,6 +4890,41 @@
     "slug": "vancouver/e-45th-ave",
     "city": "Vancouver",
     "lastIncident": "2026-04-01T23:05:00Z",
+    "count": 1
+  },
+  "vancouver/w-hastings-st": {
+    "name": "W Hastings St",
+    "slug": "vancouver/w-hastings-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-02T00:43:00Z",
+    "count": 1
+  },
+  "vancouver/abbott-st": {
+    "name": "Abbott St",
+    "slug": "vancouver/abbott-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-02T00:43:00Z",
+    "count": 1
+  },
+  "delta/hwy-17": {
+    "name": "Hwy 17",
+    "slug": "delta/hwy-17",
+    "city": "Delta",
+    "lastIncident": "2026-04-02T00:36:00Z",
+    "count": 1
+  },
+  "coquitlam/winslow-ave": {
+    "name": "Winslow Ave",
+    "slug": "coquitlam/winslow-ave",
+    "city": "Coquitlam",
+    "lastIncident": "2026-04-02T00:08:00Z",
+    "count": 1
+  },
+  "coquitlam/schoolhouse-st": {
+    "name": "Schoolhouse St",
+    "slug": "coquitlam/schoolhouse-st",
+    "city": "Coquitlam",
+    "lastIncident": "2026-04-02T00:08:00Z",
     "count": 1
   }
 }

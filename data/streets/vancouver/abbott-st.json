@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/abbott-st",
+  "name": "Abbott St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-02T00:43:00Z_vancouver/w-hastings-st_vancouver/abbott-st",
+      "timestamp": "2026-04-02T00:43:00Z",
+      "address": "W HASTINGS ST & ABBOTT ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-hastings-st",
+        "vancouver/abbott-st"
+      ],
+      "streetNames": [
+        "W Hastings St",
+        "Abbott St"
+      ],
+      "pulsePointId": "2446024838"
+    }
+  ],
+  "lastIncident": "2026-04-02T00:43:00Z",
+  "count": 1
+}

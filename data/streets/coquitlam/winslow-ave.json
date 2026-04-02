@@ -1,0 +1,24 @@
+{
+  "slug": "coquitlam/winslow-ave",
+  "name": "Winslow Ave",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-04-02T00:08:00Z_coquitlam/winslow-ave_coquitlam/schoolhouse-st",
+      "timestamp": "2026-04-02T00:08:00Z",
+      "address": "WINSLOW AVE & SCHOOLHOUSE ST",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/winslow-ave",
+        "coquitlam/schoolhouse-st"
+      ],
+      "streetNames": [
+        "Winslow Ave",
+        "Schoolhouse St"
+      ],
+      "pulsePointId": "2446005649"
+    }
+  ],
+  "lastIncident": "2026-04-02T00:08:00Z",
+  "count": 1
+}
