@@ -2551,8 +2551,8 @@
     "name": "Lougheed Hwy",
     "slug": "vancouver/lougheed-hwy",
     "city": "Vancouver",
-    "lastIncident": "2026-03-18T12:21:00Z",
-    "count": 2
+    "lastIncident": "2026-04-02T23:32:00Z",
+    "count": 3
   },
   "vancouver/raymur-ave": {
     "name": "Raymur Ave",
@@ -5086,6 +5086,13 @@
     "slug": "burnaby/sumner-ave",
     "city": "Burnaby",
     "lastIncident": "2026-04-02T21:33:00Z",
+    "count": 1
+  },
+  "vancouver/skeena-st": {
+    "name": "Skeena St",
+    "slug": "vancouver/skeena-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-02T23:32:00Z",
     "count": 1
   }
 }

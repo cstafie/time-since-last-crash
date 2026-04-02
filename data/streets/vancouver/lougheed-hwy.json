@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-02T23:32:00Z_vancouver/lougheed-hwy_vancouver/skeena-st",
+      "timestamp": "2026-04-02T23:32:00Z",
+      "address": "LOUGHEED HWY & SKEENA ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/lougheed-hwy",
+        "vancouver/skeena-st"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "Skeena St"
+      ],
+      "pulsePointId": "2446617026"
+    },
+    {
       "id": "2026-03-18T12:21:00Z_vancouver/boundary-rd_vancouver/lougheed-hwy",
       "timestamp": "2026-03-18T12:21:00Z",
       "address": "BOUNDARY RD & LOUGHEED HWY",
@@ -34,6 +49,6 @@
       "pulsePointId": "2435810816"
     }
   ],
-  "lastIncident": "2026-03-18T12:21:00Z",
-  "count": 2
+  "lastIncident": "2026-04-02T23:32:00Z",
+  "count": 3
 }
