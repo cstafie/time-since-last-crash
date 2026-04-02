@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/sumner-ave",
+  "name": "Sumner Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-04-02T21:33:00Z_burnaby/dominion-st_burnaby/sumner-ave",
+      "timestamp": "2026-04-02T21:33:00Z",
+      "address": "DOMINION ST & SUMNER AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/dominion-st",
+        "burnaby/sumner-ave"
+      ],
+      "streetNames": [
+        "Dominion St",
+        "Sumner Ave"
+      ],
+      "pulsePointId": "2446546539"
+    }
+  ],
+  "lastIncident": "2026-04-02T21:33:00Z",
+  "count": 1
+}

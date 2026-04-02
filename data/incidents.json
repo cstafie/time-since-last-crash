@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-04-02T21:33:00Z_burnaby/dominion-st_burnaby/sumner-ave",
+    "timestamp": "2026-04-02T21:33:00Z",
+    "scrapedAt": "2026-04-02T21:43:11Z",
+    "address": "DOMINION ST & SUMNER AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/dominion-st",
+      "burnaby/sumner-ave"
+    ],
+    "streetNames": [
+      "Dominion St",
+      "Sumner Ave"
+    ],
+    "pulsePointId": "2446546539"
+  },
+  {
+    "id": "2026-04-02T21:15:00Z_langley/56th-ave",
+    "timestamp": "2026-04-02T21:15:00Z",
+    "scrapedAt": "2026-04-02T21:43:11Z",
+    "address": "56TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/56th-ave"
+    ],
+    "streetNames": [
+      "56th Ave"
+    ],
+    "pulsePointId": "2446533598"
+  },
+  {
+    "id": "2026-04-02T21:07:00Z_abbotsford/ross-rd_abbotsford/old-yale-rd",
+    "timestamp": "2026-04-02T21:07:00Z",
+    "scrapedAt": "2026-04-02T21:43:11Z",
+    "address": "ROSS RD & OLD YALE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/ross-rd",
+      "abbotsford/old-yale-rd"
+    ],
+    "streetNames": [
+      "Ross Rd",
+      "Old Yale Rd"
+    ],
+    "pulsePointId": "2446529105"
+  },
+  {
     "id": "2026-04-02T20:33:00Z_abbotsford/1812-vedder-way",
     "timestamp": "2026-04-02T20:33:00Z",
     "scrapedAt": "2026-04-02T20:43:02Z",

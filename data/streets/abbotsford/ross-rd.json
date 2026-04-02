@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-02T21:07:00Z_abbotsford/ross-rd_abbotsford/old-yale-rd",
+      "timestamp": "2026-04-02T21:07:00Z",
+      "address": "ROSS RD & OLD YALE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/ross-rd",
+        "abbotsford/old-yale-rd"
+      ],
+      "streetNames": [
+        "Ross Rd",
+        "Old Yale Rd"
+      ],
+      "pulsePointId": "2446529105"
+    },
+    {
       "id": "2026-03-23T13:06:00Z_abbotsford/simpson-rd_abbotsford/ross-rd",
       "timestamp": "2026-03-23T13:06:00Z",
       "address": "SIMPSON RD & ROSS RD",
@@ -61,6 +76,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-23T13:06:00Z",
-  "count": 4
+  "lastIncident": "2026-04-02T21:07:00Z",
+  "count": 5
 }
