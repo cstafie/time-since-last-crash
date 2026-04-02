@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-04-02T01:29:00Z_maple-ridge/dewdney-trunk-rd",
+    "timestamp": "2026-04-02T01:29:00Z",
+    "scrapedAt": "2026-04-02T01:34:16Z",
+    "address": "DEWDNEY TRUNK RD",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2446050059"
+  },
+  {
+    "id": "2026-04-02T00:56:00Z_vancouver/w-12th-ave",
+    "timestamp": "2026-04-02T00:56:00Z",
+    "scrapedAt": "2026-04-02T01:34:16Z",
+    "address": "W 12TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-12th-ave"
+    ],
+    "streetNames": [
+      "W 12th Ave"
+    ],
+    "pulsePointId": "2446032549"
+  },
+  {
     "id": "2026-04-02T00:43:00Z_vancouver/w-hastings-st_vancouver/abbott-st",
     "timestamp": "2026-04-02T00:43:00Z",
     "scrapedAt": "2026-04-02T00:56:48Z",

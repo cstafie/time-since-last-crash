@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-02T00:56:00Z_vancouver/w-12th-ave",
+      "timestamp": "2026-04-02T00:56:00Z",
+      "address": "W 12TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-12th-ave"
+      ],
+      "streetNames": [
+        "W 12th Ave"
+      ],
+      "pulsePointId": "2446032549"
+    },
+    {
       "id": "2026-03-15T15:01:00Z_vancouver/w-12th-ave_vancouver/hemlock-st",
       "timestamp": "2026-03-15T15:01:00Z",
       "address": "W 12TH AVE & HEMLOCK ST",
@@ -33,6 +46,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-15T15:01:00Z",
-  "count": 2
+  "lastIncident": "2026-04-02T00:56:00Z",
+  "count": 3
 }
