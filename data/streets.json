@@ -808,8 +808,8 @@
     "name": "W Broadway",
     "slug": "vancouver/w-broadway",
     "city": "Vancouver",
-    "lastIncident": "2026-03-20T18:18:00Z",
-    "count": 5
+    "lastIncident": "2026-04-02T20:24:00Z",
+    "count": 6
   },
   "west-vancouver/eagleridge-drive-ofrp": {
     "name": "Eagleridge Drive Ofrp",
@@ -5051,6 +5051,27 @@
     "slug": "abbotsford/livingstone-ave",
     "city": "Abbotsford",
     "lastIncident": "2026-04-02T19:31:00Z",
+    "count": 1
+  },
+  "abbotsford/1812-vedder-way": {
+    "name": "1812 Vedder Way",
+    "slug": "abbotsford/1812-vedder-way",
+    "city": "Abbotsford",
+    "lastIncident": "2026-04-02T20:33:00Z",
+    "count": 1
+  },
+  "port-coquitlam/lincoln-ave": {
+    "name": "Lincoln Ave",
+    "slug": "port-coquitlam/lincoln-ave",
+    "city": "Port Coquitlam",
+    "lastIncident": "2026-04-02T20:19:00Z",
+    "count": 1
+  },
+  "vancouver/mackenzie-st": {
+    "name": "Mackenzie St",
+    "slug": "vancouver/mackenzie-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-02T20:24:00Z",
     "count": 1
   }
 }

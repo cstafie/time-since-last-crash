@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-02T20:24:00Z_vancouver/w-broadway_vancouver/mackenzie-st",
+      "timestamp": "2026-04-02T20:24:00Z",
+      "address": "W BROADWAY & MACKENZIE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-broadway",
+        "vancouver/mackenzie-st"
+      ],
+      "streetNames": [
+        "W Broadway",
+        "Mackenzie St"
+      ],
+      "pulsePointId": "2446502418"
+    },
+    {
       "id": "2026-03-20T18:18:00Z_vancouver/w-broadway_vancouver/macdonald-st",
       "timestamp": "2026-03-20T18:18:00Z",
       "address": "W BROADWAY & MACDONALD ST",
@@ -75,6 +90,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-20T18:18:00Z",
-  "count": 5
+  "lastIncident": "2026-04-02T20:24:00Z",
+  "count": 6
 }

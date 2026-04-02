@@ -1,0 +1,22 @@
+{
+  "slug": "port-coquitlam/lincoln-ave",
+  "name": "Lincoln Ave",
+  "city": "Port Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-04-02T20:19:00Z_port-coquitlam/lincoln-ave",
+      "timestamp": "2026-04-02T20:19:00Z",
+      "address": "LINCOLN AVE",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/lincoln-ave"
+      ],
+      "streetNames": [
+        "Lincoln Ave"
+      ],
+      "pulsePointId": "2446500073"
+    }
+  ],
+  "lastIncident": "2026-04-02T20:19:00Z",
+  "count": 1
+}

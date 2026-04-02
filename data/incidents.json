@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-04-02T20:33:00Z_abbotsford/1812-vedder-way",
+    "timestamp": "2026-04-02T20:33:00Z",
+    "scrapedAt": "2026-04-02T20:43:02Z",
+    "address": "1812 VEDDER WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/1812-vedder-way"
+    ],
+    "streetNames": [
+      "1812 Vedder Way"
+    ],
+    "pulsePointId": "2446508787"
+  },
+  {
+    "id": "2026-04-02T20:24:00Z_vancouver/w-broadway_vancouver/mackenzie-st",
+    "timestamp": "2026-04-02T20:24:00Z",
+    "scrapedAt": "2026-04-02T20:43:02Z",
+    "address": "W BROADWAY & MACKENZIE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-broadway",
+      "vancouver/mackenzie-st"
+    ],
+    "streetNames": [
+      "W Broadway",
+      "Mackenzie St"
+    ],
+    "pulsePointId": "2446502418"
+  },
+  {
+    "id": "2026-04-02T20:19:00Z_port-coquitlam/lincoln-ave",
+    "timestamp": "2026-04-02T20:19:00Z",
+    "scrapedAt": "2026-04-02T20:43:02Z",
+    "address": "LINCOLN AVE",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/lincoln-ave"
+    ],
+    "streetNames": [
+      "Lincoln Ave"
+    ],
+    "pulsePointId": "2446500073"
+  },
+  {
     "id": "2026-04-02T19:56:00Z_vancouver/e-33rd-ave_vancouver/nanaimo-st",
     "timestamp": "2026-04-02T19:56:00Z",
     "scrapedAt": "2026-04-02T20:08:30Z",

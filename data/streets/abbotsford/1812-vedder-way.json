@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/1812-vedder-way",
+  "name": "1812 Vedder Way",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-04-02T20:33:00Z_abbotsford/1812-vedder-way",
+      "timestamp": "2026-04-02T20:33:00Z",
+      "address": "1812 VEDDER WAY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/1812-vedder-way"
+      ],
+      "streetNames": [
+        "1812 Vedder Way"
+      ],
+      "pulsePointId": "2446508787"
+    }
+  ],
+  "lastIncident": "2026-04-02T20:33:00Z",
+  "count": 1
+}
