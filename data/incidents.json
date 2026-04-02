@@ -1,5 +1,61 @@
 [
   {
+    "id": "2026-04-02T14:20:00Z_richmond/knight-street-ofrp",
+    "timestamp": "2026-04-02T14:20:00Z",
+    "scrapedAt": "2026-04-02T14:46:22Z",
+    "address": "KNIGHT STREET OFRP",
+    "city": "Richmond",
+    "streets": [
+      "richmond/knight-street-ofrp"
+    ],
+    "streetNames": [
+      "Knight Street Ofrp"
+    ],
+    "pulsePointId": "2446296604"
+  },
+  {
+    "id": "2026-04-02T14:17:00Z_vancouver/dunlevy-ave",
+    "timestamp": "2026-04-02T14:17:00Z",
+    "scrapedAt": "2026-04-02T14:46:22Z",
+    "address": "DUNLEVY AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/dunlevy-ave"
+    ],
+    "streetNames": [
+      "Dunlevy Ave"
+    ],
+    "pulsePointId": "2446294886"
+  },
+  {
+    "id": "2026-04-02T14:17:00Z_vancouver/alexander-st",
+    "timestamp": "2026-04-02T14:17:00Z",
+    "scrapedAt": "2026-04-02T14:46:22Z",
+    "address": "ALEXANDER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/alexander-st"
+    ],
+    "streetNames": [
+      "Alexander St"
+    ],
+    "pulsePointId": "2446295122"
+  },
+  {
+    "id": "2026-04-02T14:04:00Z_west-vancouver/marine-drive-onrp",
+    "timestamp": "2026-04-02T14:04:00Z",
+    "scrapedAt": "2026-04-02T14:46:22Z",
+    "address": "MARINE DRIVE ONRP",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/marine-drive-onrp"
+    ],
+    "streetNames": [
+      "Marine Drive Onrp"
+    ],
+    "pulsePointId": "2446290486"
+  },
+  {
     "id": "2026-04-02T13:19:00Z_delta/nordel-way",
     "timestamp": "2026-04-02T13:19:00Z",
     "scrapedAt": "2026-04-02T13:29:02Z",
