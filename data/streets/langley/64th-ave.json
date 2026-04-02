@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-04-02T16:23:00Z_langley/64th-ave_langley/willowbrook-conn",
+      "timestamp": "2026-04-02T16:23:00Z",
+      "address": "64TH AVE & WILLOWBROOK CONN",
+      "city": "Langley",
+      "streets": [
+        "langley/64th-ave",
+        "langley/willowbrook-conn"
+      ],
+      "streetNames": [
+        "64th Ave",
+        "Willowbrook Conn"
+      ],
+      "pulsePointId": "2446356208"
+    },
+    {
       "id": "2026-03-29T21:04:00Z_langley/200th-st_langley/64th-ave",
       "timestamp": "2026-03-29T21:04:00Z",
       "address": "200TH ST & 64TH AVE",
@@ -61,6 +76,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-29T21:04:00Z",
-  "count": 4
+  "lastIncident": "2026-04-02T16:23:00Z",
+  "count": 5
 }

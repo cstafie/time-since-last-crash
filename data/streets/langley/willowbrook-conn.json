@@ -1,0 +1,24 @@
+{
+  "slug": "langley/willowbrook-conn",
+  "name": "Willowbrook Conn",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-04-02T16:23:00Z_langley/64th-ave_langley/willowbrook-conn",
+      "timestamp": "2026-04-02T16:23:00Z",
+      "address": "64TH AVE & WILLOWBROOK CONN",
+      "city": "Langley",
+      "streets": [
+        "langley/64th-ave",
+        "langley/willowbrook-conn"
+      ],
+      "streetNames": [
+        "64th Ave",
+        "Willowbrook Conn"
+      ],
+      "pulsePointId": "2446356208"
+    }
+  ],
+  "lastIncident": "2026-04-02T16:23:00Z",
+  "count": 1
+}

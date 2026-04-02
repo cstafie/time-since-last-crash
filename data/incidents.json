@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-02T16:35:00Z_maple-ridge/243rd-st_maple-ridge/dewdney-trunk-rd",
+    "timestamp": "2026-04-02T16:35:00Z",
+    "scrapedAt": "2026-04-02T16:46:01Z",
+    "address": "243RD ST & DEWDNEY TRUNK RD",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/243rd-st",
+      "maple-ridge/dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "243rd St",
+      "Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2446363015"
+  },
+  {
+    "id": "2026-04-02T16:23:00Z_langley/64th-ave_langley/willowbrook-conn",
+    "timestamp": "2026-04-02T16:23:00Z",
+    "scrapedAt": "2026-04-02T16:46:01Z",
+    "address": "64TH AVE & WILLOWBROOK CONN",
+    "city": "Langley",
+    "streets": [
+      "langley/64th-ave",
+      "langley/willowbrook-conn"
+    ],
+    "streetNames": [
+      "64th Ave",
+      "Willowbrook Conn"
+    ],
+    "pulsePointId": "2446356208"
+  },
+  {
     "id": "2026-04-02T16:00:00Z_surrey/104th-ave",
     "timestamp": "2026-04-02T16:00:00Z",
     "scrapedAt": "2026-04-02T16:16:31Z",
