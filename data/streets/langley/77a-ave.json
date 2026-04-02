@@ -1,6 +1,6 @@
 {
-  "slug": "langley/208th-st",
-  "name": "208th St",
+  "slug": "langley/77a-ave",
+  "name": "77a Ave",
   "city": "Langley",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "208th St"
       ],
       "pulsePointId": "2446106818"
-    },
-    {
-      "id": "2026-03-30T22:09:00Z_langley/208th-st_langley/46a-ave",
-      "timestamp": "2026-03-30T22:09:00Z",
-      "address": "208TH ST & 46A AVE",
-      "city": "Langley",
-      "streets": [
-        "langley/208th-st",
-        "langley/46a-ave"
-      ],
-      "streetNames": [
-        "208th St",
-        "46a Ave"
-      ],
-      "pulsePointId": "2444669082"
     }
   ],
   "lastIncident": "2026-04-02T03:36:00Z",
-  "count": 2
+  "count": 1
 }

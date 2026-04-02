@@ -1,0 +1,22 @@
+{
+  "slug": "pitt-meadows/old-dewdney-trunk-rd",
+  "name": "Old Dewdney Trunk Rd",
+  "city": "Pitt Meadows",
+  "incidents": [
+    {
+      "id": "2026-04-02T02:56:00Z_pitt-meadows/old-dewdney-trunk-rd",
+      "timestamp": "2026-04-02T02:56:00Z",
+      "address": "OLD DEWDNEY TRUNK RD",
+      "city": "Pitt Meadows",
+      "streets": [
+        "pitt-meadows/old-dewdney-trunk-rd"
+      ],
+      "streetNames": [
+        "Old Dewdney Trunk Rd"
+      ],
+      "pulsePointId": "2446090998"
+    }
+  ],
+  "lastIncident": "2026-04-02T02:56:00Z",
+  "count": 1
+}

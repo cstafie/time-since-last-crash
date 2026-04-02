@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-04-02T03:53:00Z_surrey/88th-ave",
+    "timestamp": "2026-04-02T03:53:00Z",
+    "scrapedAt": "2026-04-02T03:58:04Z",
+    "address": "88TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/88th-ave"
+    ],
+    "streetNames": [
+      "88th Ave"
+    ],
+    "pulsePointId": "2446114696"
+  },
+  {
+    "id": "2026-04-02T03:51:00Z_abbotsford/trans-canada-hwy_abbotsford/sumas-way-ofrp",
+    "timestamp": "2026-04-02T03:51:00Z",
+    "scrapedAt": "2026-04-02T03:58:04Z",
+    "address": "TRANS CANADA HWY & SUMAS WAY OFRP",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy",
+      "abbotsford/sumas-way-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "Sumas Way Ofrp"
+    ],
+    "pulsePointId": "2446113304"
+  },
+  {
+    "id": "2026-04-02T03:36:00Z_langley/77a-ave_langley/208th-st",
+    "timestamp": "2026-04-02T03:36:00Z",
+    "scrapedAt": "2026-04-02T03:58:04Z",
+    "address": "77A AVE & 208TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/77a-ave",
+      "langley/208th-st"
+    ],
+    "streetNames": [
+      "77a Ave",
+      "208th St"
+    ],
+    "pulsePointId": "2446106818"
+  },
+  {
+    "id": "2026-04-02T02:56:00Z_pitt-meadows/old-dewdney-trunk-rd",
+    "timestamp": "2026-04-02T02:56:00Z",
+    "scrapedAt": "2026-04-02T03:58:04Z",
+    "address": "OLD DEWDNEY TRUNK RD",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/old-dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "Old Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2446090998"
+  },
+  {
     "id": "2026-04-02T02:32:00Z_maple-ridge/maple-cres",
     "timestamp": "2026-04-02T02:32:00Z",
     "scrapedAt": "2026-04-02T02:58:12Z",

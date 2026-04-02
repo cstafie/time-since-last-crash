@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-01T16:00:00Z",
-    "count": 6
+    "lastIncident": "2026-04-02T03:53:00Z",
+    "count": 7
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",
@@ -1949,8 +1949,8 @@
     "name": "Trans Canada Hwy",
     "slug": "abbotsford/trans-canada-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-01T16:41:00Z",
-    "count": 13
+    "lastIncident": "2026-04-02T03:51:00Z",
+    "count": 14
   },
   "vancouver/w-16th-ave": {
     "name": "W 16th Ave",
@@ -1970,8 +1970,8 @@
     "name": "Sumas Way Ofrp",
     "slug": "abbotsford/sumas-way-ofrp",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-19T19:23:00Z",
-    "count": 2
+    "lastIncident": "2026-04-02T03:51:00Z",
+    "count": 3
   },
   "richmond/hwy-91-ofrp": {
     "name": "Hwy 91 Ofrp",
@@ -4546,8 +4546,8 @@
     "name": "208th St",
     "slug": "langley/208th-st",
     "city": "Langley",
-    "lastIncident": "2026-03-30T22:09:00Z",
-    "count": 1
+    "lastIncident": "2026-04-02T03:36:00Z",
+    "count": 2
   },
   "langley/46a-ave": {
     "name": "46a Ave",
@@ -4932,6 +4932,20 @@
     "slug": "maple-ridge/maple-cres",
     "city": "Maple Ridge",
     "lastIncident": "2026-04-02T02:32:00Z",
+    "count": 1
+  },
+  "langley/77a-ave": {
+    "name": "77a Ave",
+    "slug": "langley/77a-ave",
+    "city": "Langley",
+    "lastIncident": "2026-04-02T03:36:00Z",
+    "count": 1
+  },
+  "pitt-meadows/old-dewdney-trunk-rd": {
+    "name": "Old Dewdney Trunk Rd",
+    "slug": "pitt-meadows/old-dewdney-trunk-rd",
+    "city": "Pitt Meadows",
+    "lastIncident": "2026-04-02T02:56:00Z",
     "count": 1
   }
 }
