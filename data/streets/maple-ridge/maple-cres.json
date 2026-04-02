@@ -1,0 +1,22 @@
+{
+  "slug": "maple-ridge/maple-cres",
+  "name": "Maple Cres",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-04-02T02:32:00Z_maple-ridge/maple-cres",
+      "timestamp": "2026-04-02T02:32:00Z",
+      "address": "MAPLE CRES",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/maple-cres"
+      ],
+      "streetNames": [
+        "Maple Cres"
+      ],
+      "pulsePointId": "2446079782"
+    }
+  ],
+  "lastIncident": "2026-04-02T02:32:00Z",
+  "count": 1
+}

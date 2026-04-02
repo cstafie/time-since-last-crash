@@ -1,5 +1,79 @@
 [
   {
+    "id": "2026-04-02T02:32:00Z_maple-ridge/maple-cres",
+    "timestamp": "2026-04-02T02:32:00Z",
+    "scrapedAt": "2026-04-02T02:58:12Z",
+    "address": "MAPLE CRES",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/maple-cres"
+    ],
+    "streetNames": [
+      "Maple Cres"
+    ],
+    "pulsePointId": "2446079782"
+  },
+  {
+    "id": "2026-04-02T02:31:00Z_burnaby/trans-canada-hwy_burnaby/willingdon-avenue-ofrp",
+    "timestamp": "2026-04-02T02:31:00Z",
+    "scrapedAt": "2026-04-02T02:58:12Z",
+    "address": "TRANS CANADA HWY & WILLINGDON AVENUE OFRP",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy",
+      "burnaby/willingdon-avenue-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "Willingdon Avenue Ofrp"
+    ],
+    "pulsePointId": "2446077829"
+  },
+  {
+    "id": "2026-04-02T02:12:00Z_burnaby/trans-canada-hwy",
+    "timestamp": "2026-04-02T02:12:00Z",
+    "scrapedAt": "2026-04-02T02:58:12Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2446070894"
+  },
+  {
+    "id": "2026-04-02T02:09:00Z_burnaby/trans-canada-hwy_burnaby/willingdon-avenue-ofrp",
+    "timestamp": "2026-04-02T02:09:00Z",
+    "scrapedAt": "2026-04-02T02:58:12Z",
+    "address": "TRANS CANADA HWY & WILLINGDON AVENUE OFRP",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy",
+      "burnaby/willingdon-avenue-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "Willingdon Avenue Ofrp"
+    ],
+    "pulsePointId": "2446069778"
+  },
+  {
+    "id": "2026-04-02T01:46:00Z_delta/alex-fraser-brdg",
+    "timestamp": "2026-04-02T01:46:00Z",
+    "scrapedAt": "2026-04-02T02:58:12Z",
+    "address": "ALEX FRASER BRDG",
+    "city": "Delta",
+    "streets": [
+      "delta/alex-fraser-brdg"
+    ],
+    "streetNames": [
+      "Alex Fraser Brdg"
+    ],
+    "pulsePointId": "2446058640"
+  },
+  {
     "id": "2026-04-02T01:29:00Z_maple-ridge/dewdney-trunk-rd",
     "timestamp": "2026-04-02T01:29:00Z",
     "scrapedAt": "2026-04-02T01:34:16Z",
