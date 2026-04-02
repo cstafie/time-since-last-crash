@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-02T22:43:00Z_abbotsford/mt-lehman-rd_abbotsford/downes-rd",
+    "timestamp": "2026-04-02T22:43:00Z",
+    "scrapedAt": "2026-04-02T23:07:17Z",
+    "address": "MT LEHMAN RD & DOWNES RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/mt-lehman-rd",
+      "abbotsford/downes-rd"
+    ],
+    "streetNames": [
+      "Mt Lehman Rd",
+      "Downes Rd"
+    ],
+    "pulsePointId": "2446588257"
+  },
+  {
     "id": "2026-04-02T21:33:00Z_burnaby/dominion-st_burnaby/sumner-ave",
     "timestamp": "2026-04-02T21:33:00Z",
     "scrapedAt": "2026-04-02T21:43:11Z",

@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-02T22:43:00Z_abbotsford/mt-lehman-rd_abbotsford/downes-rd",
+      "timestamp": "2026-04-02T22:43:00Z",
+      "address": "MT LEHMAN RD & DOWNES RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/mt-lehman-rd",
+        "abbotsford/downes-rd"
+      ],
+      "streetNames": [
+        "Mt Lehman Rd",
+        "Downes Rd"
+      ],
+      "pulsePointId": "2446588257"
+    },
+    {
       "id": "2026-03-28T22:35:00Z_abbotsford/mt-lehman-rd",
       "timestamp": "2026-03-28T22:35:00Z",
       "address": "MT LEHMAN RD",
@@ -32,6 +47,6 @@
       "pulsePointId": "2434362355"
     }
   ],
-  "lastIncident": "2026-03-28T22:35:00Z",
-  "count": 2
+  "lastIncident": "2026-04-02T22:43:00Z",
+  "count": 3
 }
