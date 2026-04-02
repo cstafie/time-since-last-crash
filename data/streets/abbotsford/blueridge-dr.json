@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-02T11:27:00Z_abbotsford/blueridge-dr_abbotsford/valdes-dr",
+      "timestamp": "2026-04-02T11:27:00Z",
+      "address": "BLUERIDGE DR & VALDES DR",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/blueridge-dr",
+        "abbotsford/valdes-dr"
+      ],
+      "streetNames": [
+        "Blueridge Dr",
+        "Valdes Dr"
+      ],
+      "pulsePointId": "2446242127"
+    },
+    {
       "id": "2026-04-02T05:44:00Z_abbotsford/blueridge-dr_abbotsford/clearbrook-rd",
       "timestamp": "2026-04-02T05:44:00Z",
       "address": "BLUERIDGE DR & CLEARBROOK RD",
@@ -32,6 +47,6 @@
       "pulsePointId": "2446156501"
     }
   ],
-  "lastIncident": "2026-04-02T05:44:00Z",
-  "count": 2
+  "lastIncident": "2026-04-02T11:27:00Z",
+  "count": 3
 }

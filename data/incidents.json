@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-02T11:27:00Z_abbotsford/blueridge-dr_abbotsford/valdes-dr",
+    "timestamp": "2026-04-02T11:27:00Z",
+    "scrapedAt": "2026-04-02T11:44:29Z",
+    "address": "BLUERIDGE DR & VALDES DR",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/blueridge-dr",
+      "abbotsford/valdes-dr"
+    ],
+    "streetNames": [
+      "Blueridge Dr",
+      "Valdes Dr"
+    ],
+    "pulsePointId": "2446242127"
+  },
+  {
     "id": "2026-04-02T09:31:00Z_vancouver/boundary-rd",
     "timestamp": "2026-04-02T09:31:00Z",
     "scrapedAt": "2026-04-02T09:47:14Z",
