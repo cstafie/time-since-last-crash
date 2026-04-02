@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-02T05:44:00Z_abbotsford/blueridge-dr_abbotsford/clearbrook-rd",
+      "timestamp": "2026-04-02T05:44:00Z",
+      "address": "BLUERIDGE DR & CLEARBROOK RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/blueridge-dr",
+        "abbotsford/clearbrook-rd"
+      ],
+      "streetNames": [
+        "Blueridge Dr",
+        "Clearbrook Rd"
+      ],
+      "pulsePointId": "2446157071"
+    },
+    {
       "id": "2026-03-27T20:55:00Z_abbotsford/clearbrook-rd_abbotsford/oak-ave",
       "timestamp": "2026-03-27T20:55:00Z",
       "address": "CLEARBROOK RD & OAK AVE",
@@ -62,6 +77,6 @@
       "pulsePointId": "2433749907"
     }
   ],
-  "lastIncident": "2026-03-27T20:55:00Z",
-  "count": 4
+  "lastIncident": "2026-04-02T05:44:00Z",
+  "count": 5
 }

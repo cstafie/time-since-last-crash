@@ -1914,8 +1914,8 @@
     "name": "Clearbrook Rd",
     "slug": "abbotsford/clearbrook-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-27T20:55:00Z",
-    "count": 4
+    "lastIncident": "2026-04-02T05:44:00Z",
+    "count": 5
   },
   "abbotsford/maclure-rd": {
     "name": "Maclure Rd",
@@ -4954,5 +4954,12 @@
     "city": "Langley",
     "lastIncident": "2026-04-02T03:56:00Z",
     "count": 1
+  },
+  "abbotsford/blueridge-dr": {
+    "name": "Blueridge Dr",
+    "slug": "abbotsford/blueridge-dr",
+    "city": "Abbotsford",
+    "lastIncident": "2026-04-02T05:44:00Z",
+    "count": 2
   }
 }
