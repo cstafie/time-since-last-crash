@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-04-02T04:44:00Z_burnaby/central-blvd",
+      "timestamp": "2026-04-02T04:44:00Z",
+      "address": "CENTRAL BLVD",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/central-blvd"
+      ],
+      "streetNames": [
+        "Central Blvd"
+      ],
+      "pulsePointId": "2446133906"
+    },
+    {
       "id": "2026-03-28T00:47:00Z_burnaby/imperial-st_burnaby/central-blvd",
       "timestamp": "2026-03-28T00:47:00Z",
       "address": "IMPERIAL ST & CENTRAL BLVD",
@@ -34,6 +47,6 @@
       "pulsePointId": "2436250218"
     }
   ],
-  "lastIncident": "2026-03-28T00:47:00Z",
-  "count": 2
+  "lastIncident": "2026-04-02T04:44:00Z",
+  "count": 3
 }
