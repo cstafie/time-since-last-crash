@@ -17,15 +17,15 @@
     "name": "Marshall Rd",
     "slug": "abbotsford/marshall-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-16T00:33:00Z",
-    "count": 2
+    "lastIncident": "2026-04-02T17:31:00Z",
+    "count": 3
   },
   "abbotsford/mccallum-rd": {
     "name": "Mccallum Rd",
     "slug": "abbotsford/mccallum-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-28T20:04:00Z",
-    "count": 5
+    "lastIncident": "2026-04-02T17:31:00Z",
+    "count": 6
   },
   "abbotsford/mcdougall-ave": {
     "name": "Mcdougall Ave",
@@ -3629,8 +3629,8 @@
     "name": "Williams Rd",
     "slug": "richmond/williams-rd",
     "city": "Richmond",
-    "lastIncident": "2026-03-23T00:26:00Z",
-    "count": 1
+    "lastIncident": "2026-04-02T17:28:00Z",
+    "count": 2
   },
   "surrey/91st-ave": {
     "name": "91st Ave",

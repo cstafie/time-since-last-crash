@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-02T17:31:00Z_abbotsford/mccallum-rd_abbotsford/marshall-rd",
+      "timestamp": "2026-04-02T17:31:00Z",
+      "address": "MCCALLUM RD & MARSHALL RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/mccallum-rd",
+        "abbotsford/marshall-rd"
+      ],
+      "streetNames": [
+        "Mccallum Rd",
+        "Marshall Rd"
+      ],
+      "pulsePointId": "2446393980"
+    },
+    {
       "id": "2026-03-28T20:04:00Z_abbotsford/mccallum-rd",
       "timestamp": "2026-03-28T20:04:00Z",
       "address": "MCCALLUM RD",
@@ -75,6 +90,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-28T20:04:00Z",
-  "count": 5
+  "lastIncident": "2026-04-02T17:31:00Z",
+  "count": 6
 }

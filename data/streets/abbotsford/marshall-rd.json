@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-02T17:31:00Z_abbotsford/mccallum-rd_abbotsford/marshall-rd",
+      "timestamp": "2026-04-02T17:31:00Z",
+      "address": "MCCALLUM RD & MARSHALL RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/mccallum-rd",
+        "abbotsford/marshall-rd"
+      ],
+      "streetNames": [
+        "Mccallum Rd",
+        "Marshall Rd"
+      ],
+      "pulsePointId": "2446393980"
+    },
+    {
       "id": "2026-03-16T00:33:00Z_abbotsford/marshall-rd_abbotsford/peardonville-rd",
       "timestamp": "2026-03-16T00:33:00Z",
       "address": "MARSHALL RD & PEARDONVILLE RD",
@@ -31,6 +46,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-16T00:33:00Z",
-  "count": 2
+  "lastIncident": "2026-04-02T17:31:00Z",
+  "count": 3
 }
