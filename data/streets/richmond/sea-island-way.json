@@ -1,6 +1,6 @@
 {
-  "slug": "richmond/sexsmith-rd",
-  "name": "Sexsmith Rd",
+  "slug": "richmond/sea-island-way",
+  "name": "Sea Island Way",
   "city": "Richmond",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Sea Island Way"
       ],
       "pulsePointId": "2446672753"
-    },
-    {
-      "id": "2026-03-18T19:43:00Z_richmond/sexsmith-rd_richmond/bridgeport-rd",
-      "timestamp": "2026-03-18T19:43:00Z",
-      "address": "SEXSMITH RD & BRIDGEPORT RD",
-      "city": "Richmond",
-      "streets": [
-        "richmond/sexsmith-rd",
-        "richmond/bridgeport-rd"
-      ],
-      "streetNames": [
-        "Sexsmith Rd",
-        "Bridgeport Rd"
-      ],
-      "pulsePointId": "2436685497"
     }
   ],
   "lastIncident": "2026-04-03T01:13:00Z",
-  "count": 2
+  "count": 1
 }

@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-04-03T01:28:00Z_north-vancouver/trans-canada-hwy",
+    "timestamp": "2026-04-03T01:28:00Z",
+    "scrapedAt": "2026-04-03T01:41:24Z",
+    "address": "TRANS CANADA HWY",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2446681723"
+  },
+  {
+    "id": "2026-04-03T01:17:00Z_chilliwack/topaz-dr_chilliwack/luckakuck-way",
+    "timestamp": "2026-04-03T01:17:00Z",
+    "scrapedAt": "2026-04-03T01:41:24Z",
+    "address": "TOPAZ DR & LUCKAKUCK WAY",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/topaz-dr",
+      "chilliwack/luckakuck-way"
+    ],
+    "streetNames": [
+      "Topaz Dr",
+      "Luckakuck Way"
+    ],
+    "pulsePointId": "2446676179"
+  },
+  {
+    "id": "2026-04-03T01:13:00Z_richmond/sexsmith-rd_richmond/sea-island-way",
+    "timestamp": "2026-04-03T01:13:00Z",
+    "scrapedAt": "2026-04-03T01:41:24Z",
+    "address": "SEXSMITH RD & SEA ISLAND WAY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/sexsmith-rd",
+      "richmond/sea-island-way"
+    ],
+    "streetNames": [
+      "Sexsmith Rd",
+      "Sea Island Way"
+    ],
+    "pulsePointId": "2446672753"
+  },
+  {
     "id": "2026-04-03T00:40:00Z_richmond/saba-rd_richmond/no-3-rd",
     "timestamp": "2026-04-03T00:40:00Z",
     "scrapedAt": "2026-04-03T00:59:18Z",

@@ -1,0 +1,24 @@
+{
+  "slug": "chilliwack/topaz-dr",
+  "name": "Topaz Dr",
+  "city": "Chilliwack",
+  "incidents": [
+    {
+      "id": "2026-04-03T01:17:00Z_chilliwack/topaz-dr_chilliwack/luckakuck-way",
+      "timestamp": "2026-04-03T01:17:00Z",
+      "address": "TOPAZ DR & LUCKAKUCK WAY",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/topaz-dr",
+        "chilliwack/luckakuck-way"
+      ],
+      "streetNames": [
+        "Topaz Dr",
+        "Luckakuck Way"
+      ],
+      "pulsePointId": "2446676179"
+    }
+  ],
+  "lastIncident": "2026-04-03T01:17:00Z",
+  "count": 1
+}

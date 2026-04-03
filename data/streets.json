@@ -2845,8 +2845,8 @@
     "name": "Sexsmith Rd",
     "slug": "richmond/sexsmith-rd",
     "city": "Richmond",
-    "lastIncident": "2026-03-18T19:43:00Z",
-    "count": 1
+    "lastIncident": "2026-04-03T01:13:00Z",
+    "count": 2
   },
   "maple-ridge/kanaka-way": {
     "name": "Kanaka Way",
@@ -5107,6 +5107,34 @@
     "slug": "new-westminster/ovens-ave",
     "city": "New Westminster",
     "lastIncident": "2026-04-03T00:36:00Z",
+    "count": 1
+  },
+  "north-vancouver/trans-canada-hwy": {
+    "name": "Trans Canada Hwy",
+    "slug": "north-vancouver/trans-canada-hwy",
+    "city": "North Vancouver",
+    "lastIncident": "2026-04-03T01:28:00Z",
+    "count": 1
+  },
+  "chilliwack/topaz-dr": {
+    "name": "Topaz Dr",
+    "slug": "chilliwack/topaz-dr",
+    "city": "Chilliwack",
+    "lastIncident": "2026-04-03T01:17:00Z",
+    "count": 1
+  },
+  "chilliwack/luckakuck-way": {
+    "name": "Luckakuck Way",
+    "slug": "chilliwack/luckakuck-way",
+    "city": "Chilliwack",
+    "lastIncident": "2026-04-03T01:17:00Z",
+    "count": 1
+  },
+  "richmond/sea-island-way": {
+    "name": "Sea Island Way",
+    "slug": "richmond/sea-island-way",
+    "city": "Richmond",
+    "lastIncident": "2026-04-03T01:13:00Z",
     "count": 1
   }
 }

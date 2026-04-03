@@ -1,0 +1,22 @@
+{
+  "slug": "north-vancouver/trans-canada-hwy",
+  "name": "Trans Canada Hwy",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-03T01:28:00Z_north-vancouver/trans-canada-hwy",
+      "timestamp": "2026-04-03T01:28:00Z",
+      "address": "TRANS CANADA HWY",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2446681723"
+    }
+  ],
+  "lastIncident": "2026-04-03T01:28:00Z",
+  "count": 1
+}
