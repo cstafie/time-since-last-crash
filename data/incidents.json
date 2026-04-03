@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-03T04:40:00Z_surrey/184th-st_surrey/80th-ave",
+    "timestamp": "2026-04-03T04:40:00Z",
+    "scrapedAt": "2026-04-03T04:52:29Z",
+    "address": "184TH ST & 80TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/184th-st",
+      "surrey/80th-ave"
+    ],
+    "streetNames": [
+      "184th St",
+      "80th Ave"
+    ],
+    "pulsePointId": "2446768821"
+  },
+  {
+    "id": "2026-04-03T04:38:00Z_vancouver/pacific-st_vancouver/seymour-st",
+    "timestamp": "2026-04-03T04:38:00Z",
+    "scrapedAt": "2026-04-03T04:52:29Z",
+    "address": "PACIFIC ST & SEYMOUR ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/pacific-st",
+      "vancouver/seymour-st"
+    ],
+    "streetNames": [
+      "Pacific St",
+      "Seymour St"
+    ],
+    "pulsePointId": "2446767963"
+  },
+  {
     "id": "2026-04-03T03:53:00Z_richmond/azure-rd_richmond/camsell-cres",
     "timestamp": "2026-04-03T03:53:00Z",
     "scrapedAt": "2026-04-03T03:58:57Z",
