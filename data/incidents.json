@@ -1,5 +1,79 @@
 [
   {
+    "id": "2026-04-03T03:53:00Z_richmond/azure-rd_richmond/camsell-cres",
+    "timestamp": "2026-04-03T03:53:00Z",
+    "scrapedAt": "2026-04-03T03:58:57Z",
+    "address": "AZURE RD & CAMSELL CRES",
+    "city": "Richmond",
+    "streets": [
+      "richmond/azure-rd",
+      "richmond/camsell-cres"
+    ],
+    "streetNames": [
+      "Azure Rd",
+      "Camsell Cres"
+    ],
+    "pulsePointId": "2446749055"
+  },
+  {
+    "id": "2026-04-03T03:52:00Z_richmond/azure-rd",
+    "timestamp": "2026-04-03T03:52:00Z",
+    "scrapedAt": "2026-04-03T03:58:57Z",
+    "address": "AZURE RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/azure-rd"
+    ],
+    "streetNames": [
+      "Azure Rd"
+    ],
+    "pulsePointId": "2446748470"
+  },
+  {
+    "id": "2026-04-03T03:49:00Z_maple-ridge/21667-lougheed-hwy",
+    "timestamp": "2026-04-03T03:49:00Z",
+    "scrapedAt": "2026-04-03T03:58:57Z",
+    "address": "21667 LOUGHEED HWY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/21667-lougheed-hwy"
+    ],
+    "streetNames": [
+      "21667 Lougheed Hwy"
+    ],
+    "pulsePointId": "2446747900"
+  },
+  {
+    "id": "2026-04-03T03:23:00Z_vancouver/davie-st",
+    "timestamp": "2026-04-03T03:23:00Z",
+    "scrapedAt": "2026-04-03T03:58:57Z",
+    "address": "DAVIE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/davie-st"
+    ],
+    "streetNames": [
+      "Davie St"
+    ],
+    "pulsePointId": "2446735233"
+  },
+  {
+    "id": "2026-04-03T03:16:00Z_burnaby/salisbury-ave_burnaby/arcola-way",
+    "timestamp": "2026-04-03T03:16:00Z",
+    "scrapedAt": "2026-04-03T03:58:57Z",
+    "address": "SALISBURY AVE & ARCOLA WAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/salisbury-ave",
+      "burnaby/arcola-way"
+    ],
+    "streetNames": [
+      "Salisbury Ave",
+      "Arcola Way"
+    ],
+    "pulsePointId": "2446731268"
+  },
+  {
     "id": "2026-04-03T02:29:00Z_richmond/garden-city-rd_richmond/francis-rd",
     "timestamp": "2026-04-03T02:29:00Z",
     "scrapedAt": "2026-04-03T02:58:21Z",

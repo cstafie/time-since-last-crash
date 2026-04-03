@@ -1,0 +1,24 @@
+{
+  "slug": "richmond/camsell-cres",
+  "name": "Camsell Cres",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-04-03T03:53:00Z_richmond/azure-rd_richmond/camsell-cres",
+      "timestamp": "2026-04-03T03:53:00Z",
+      "address": "AZURE RD & CAMSELL CRES",
+      "city": "Richmond",
+      "streets": [
+        "richmond/azure-rd",
+        "richmond/camsell-cres"
+      ],
+      "streetNames": [
+        "Azure Rd",
+        "Camsell Cres"
+      ],
+      "pulsePointId": "2446749055"
+    }
+  ],
+  "lastIncident": "2026-04-03T03:53:00Z",
+  "count": 1
+}

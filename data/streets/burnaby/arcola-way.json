@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/arcola-way",
+  "name": "Arcola Way",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-04-03T03:16:00Z_burnaby/salisbury-ave_burnaby/arcola-way",
+      "timestamp": "2026-04-03T03:16:00Z",
+      "address": "SALISBURY AVE & ARCOLA WAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/salisbury-ave",
+        "burnaby/arcola-way"
+      ],
+      "streetNames": [
+        "Salisbury Ave",
+        "Arcola Way"
+      ],
+      "pulsePointId": "2446731268"
+    }
+  ],
+  "lastIncident": "2026-04-03T03:16:00Z",
+  "count": 1
+}

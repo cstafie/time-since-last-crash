@@ -2488,8 +2488,8 @@
     "name": "Davie St",
     "slug": "vancouver/davie-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-17T04:12:00Z",
-    "count": 1
+    "lastIncident": "2026-04-03T03:23:00Z",
+    "count": 2
   },
   "coquitlam/brunette-avenue-onrp": {
     "name": "Brunette Avenue Onrp",
@@ -5135,6 +5135,41 @@
     "slug": "richmond/sea-island-way",
     "city": "Richmond",
     "lastIncident": "2026-04-03T01:13:00Z",
+    "count": 1
+  },
+  "richmond/azure-rd": {
+    "name": "Azure Rd",
+    "slug": "richmond/azure-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-04-03T03:53:00Z",
+    "count": 2
+  },
+  "richmond/camsell-cres": {
+    "name": "Camsell Cres",
+    "slug": "richmond/camsell-cres",
+    "city": "Richmond",
+    "lastIncident": "2026-04-03T03:53:00Z",
+    "count": 1
+  },
+  "maple-ridge/21667-lougheed-hwy": {
+    "name": "21667 Lougheed Hwy",
+    "slug": "maple-ridge/21667-lougheed-hwy",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-04-03T03:49:00Z",
+    "count": 1
+  },
+  "burnaby/salisbury-ave": {
+    "name": "Salisbury Ave",
+    "slug": "burnaby/salisbury-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-04-03T03:16:00Z",
+    "count": 1
+  },
+  "burnaby/arcola-way": {
+    "name": "Arcola Way",
+    "slug": "burnaby/arcola-way",
+    "city": "Burnaby",
+    "lastIncident": "2026-04-03T03:16:00Z",
     "count": 1
   }
 }
