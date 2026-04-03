@@ -1767,8 +1767,8 @@
     "name": "South Fraser Way",
     "slug": "abbotsford/south-fraser-way",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-01T05:58:00Z",
-    "count": 7
+    "lastIncident": "2026-04-03T21:21:00Z",
+    "count": 8
   },
   "vancouver/e-hastings-st": {
     "name": "E Hastings St",
@@ -5219,6 +5219,20 @@
     "slug": "richmond/fisher-gt",
     "city": "Richmond",
     "lastIncident": "2026-04-03T20:06:00Z",
+    "count": 1
+  },
+  "new-westminster/queensborough-brdg": {
+    "name": "Queensborough Brdg",
+    "slug": "new-westminster/queensborough-brdg",
+    "city": "New Westminster",
+    "lastIncident": "2026-04-03T21:27:00Z",
+    "count": 1
+  },
+  "abbotsford/gladwin-rd": {
+    "name": "Gladwin Rd",
+    "slug": "abbotsford/gladwin-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-04-03T21:21:00Z",
     "count": 1
   }
 }

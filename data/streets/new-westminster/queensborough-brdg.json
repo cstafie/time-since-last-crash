@@ -1,0 +1,22 @@
+{
+  "slug": "new-westminster/queensborough-brdg",
+  "name": "Queensborough Brdg",
+  "city": "New Westminster",
+  "incidents": [
+    {
+      "id": "2026-04-03T21:27:00Z_new-westminster/queensborough-brdg",
+      "timestamp": "2026-04-03T21:27:00Z",
+      "address": "QUEENSBOROUGH BRDG",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/queensborough-brdg"
+      ],
+      "streetNames": [
+        "Queensborough Brdg"
+      ],
+      "pulsePointId": "2447167398"
+    }
+  ],
+  "lastIncident": "2026-04-03T21:27:00Z",
+  "count": 1
+}
