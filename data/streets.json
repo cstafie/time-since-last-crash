@@ -703,8 +703,8 @@
     "name": "Burrard St",
     "slug": "vancouver/burrard-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-31T09:39:00Z",
-    "count": 6
+    "lastIncident": "2026-04-03T11:16:00Z",
+    "count": 7
   },
   "vancouver/e-12th-ave": {
     "name": "E 12th Ave",
@@ -2488,8 +2488,8 @@
     "name": "Davie St",
     "slug": "vancouver/davie-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-03T03:23:00Z",
-    "count": 2
+    "lastIncident": "2026-04-03T11:16:00Z",
+    "count": 3
   },
   "coquitlam/brunette-avenue-onrp": {
     "name": "Brunette Avenue Onrp",
