@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-04-03T09:22:00Z_burnaby/6th-st_burnaby/10th-ave",
+      "timestamp": "2026-04-03T09:22:00Z",
+      "address": "6TH ST & 10TH AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/6th-st",
+        "burnaby/10th-ave"
+      ],
+      "streetNames": [
+        "6th St",
+        "10th Ave"
+      ],
+      "pulsePointId": "2446849806"
+    },
+    {
       "id": "2026-03-20T18:13:00Z_burnaby/canada-way_burnaby/10th-ave",
       "timestamp": "2026-03-20T18:13:00Z",
       "address": "CANADA WAY & 10TH AVE",
@@ -33,6 +48,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-20T18:13:00Z",
-  "count": 2
+  "lastIncident": "2026-04-03T09:22:00Z",
+  "count": 3
 }

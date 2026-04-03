@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-03T09:22:00Z_burnaby/6th-st_burnaby/10th-ave",
+    "timestamp": "2026-04-03T09:22:00Z",
+    "scrapedAt": "2026-04-03T09:45:51Z",
+    "address": "6TH ST & 10TH AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/6th-st",
+      "burnaby/10th-ave"
+    ],
+    "streetNames": [
+      "6th St",
+      "10th Ave"
+    ],
+    "pulsePointId": "2446849806"
+  },
+  {
     "id": "2026-04-03T06:26:00Z_burnaby/glenlyon-pkwy",
     "timestamp": "2026-04-03T06:26:00Z",
     "scrapedAt": "2026-04-03T06:50:57Z",

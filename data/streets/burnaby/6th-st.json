@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/6th-st",
+  "name": "6th St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-04-03T09:22:00Z_burnaby/6th-st_burnaby/10th-ave",
+      "timestamp": "2026-04-03T09:22:00Z",
+      "address": "6TH ST & 10TH AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/6th-st",
+        "burnaby/10th-ave"
+      ],
+      "streetNames": [
+        "6th St",
+        "10th Ave"
+      ],
+      "pulsePointId": "2446849806"
+    }
+  ],
+  "lastIncident": "2026-04-03T09:22:00Z",
+  "count": 1
+}

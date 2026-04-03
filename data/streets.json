@@ -1466,8 +1466,8 @@
     "name": "10th Ave",
     "slug": "burnaby/10th-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-03-20T18:13:00Z",
-    "count": 2
+    "lastIncident": "2026-04-03T09:22:00Z",
+    "count": 3
   },
   "burnaby/kingsway": {
     "name": "Kingsway",
@@ -5178,5 +5178,12 @@
     "city": "Burnaby",
     "lastIncident": "2026-04-03T06:26:00Z",
     "count": 2
+  },
+  "burnaby/6th-st": {
+    "name": "6th St",
+    "slug": "burnaby/6th-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-04-03T09:22:00Z",
+    "count": 1
   }
 }
