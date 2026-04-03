@@ -1,0 +1,37 @@
+{
+  "slug": "burnaby/glenlyon-pkwy",
+  "name": "Glenlyon Pkwy",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-04-03T06:26:00Z_burnaby/glenlyon-pkwy",
+      "timestamp": "2026-04-03T06:26:00Z",
+      "address": "GLENLYON PKWY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/glenlyon-pkwy"
+      ],
+      "streetNames": [
+        "Glenlyon Pkwy"
+      ],
+      "pulsePointId": "2446805084"
+    },
+    {
+      "id": "2026-04-03T06:23:00Z_burnaby/glenlyon-pkwy_burnaby/north-fraser-way",
+      "timestamp": "2026-04-03T06:23:00Z",
+      "address": "GLENLYON PKWY & NORTH FRASER WAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/glenlyon-pkwy",
+        "burnaby/north-fraser-way"
+      ],
+      "streetNames": [
+        "Glenlyon Pkwy",
+        "North Fraser Way"
+      ],
+      "pulsePointId": "2446804803"
+    }
+  ],
+  "lastIncident": "2026-04-03T06:26:00Z",
+  "count": 2
+}

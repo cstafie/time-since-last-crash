@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-03T06:26:00Z_burnaby/glenlyon-pkwy",
+    "timestamp": "2026-04-03T06:26:00Z",
+    "scrapedAt": "2026-04-03T06:50:57Z",
+    "address": "GLENLYON PKWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/glenlyon-pkwy"
+    ],
+    "streetNames": [
+      "Glenlyon Pkwy"
+    ],
+    "pulsePointId": "2446805084"
+  },
+  {
+    "id": "2026-04-03T06:23:00Z_burnaby/glenlyon-pkwy_burnaby/north-fraser-way",
+    "timestamp": "2026-04-03T06:23:00Z",
+    "scrapedAt": "2026-04-03T06:50:57Z",
+    "address": "GLENLYON PKWY & NORTH FRASER WAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/glenlyon-pkwy",
+      "burnaby/north-fraser-way"
+    ],
+    "streetNames": [
+      "Glenlyon Pkwy",
+      "North Fraser Way"
+    ],
+    "pulsePointId": "2446804803"
+  },
+  {
     "id": "2026-04-03T06:18:00Z_richmond/granville-ave_richmond/no-1-rd",
     "timestamp": "2026-04-03T06:18:00Z",
     "scrapedAt": "2026-04-03T06:20:43Z",
