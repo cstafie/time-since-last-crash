@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/dundas-st",
+  "name": "Dundas St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-03T16:26:00Z_vancouver/n-nanaimo-st_vancouver/dundas-st",
+      "timestamp": "2026-04-03T16:26:00Z",
+      "address": "N NANAIMO ST & DUNDAS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/n-nanaimo-st",
+        "vancouver/dundas-st"
+      ],
+      "streetNames": [
+        "N Nanaimo St",
+        "Dundas St"
+      ],
+      "pulsePointId": "2446987655"
+    }
+  ],
+  "lastIncident": "2026-04-03T16:26:00Z",
+  "count": 1
+}

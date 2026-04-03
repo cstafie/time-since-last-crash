@@ -5185,5 +5185,19 @@
     "city": "Burnaby",
     "lastIncident": "2026-04-03T09:22:00Z",
     "count": 1
+  },
+  "vancouver/n-nanaimo-st": {
+    "name": "N Nanaimo St",
+    "slug": "vancouver/n-nanaimo-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-03T16:26:00Z",
+    "count": 1
+  },
+  "vancouver/dundas-st": {
+    "name": "Dundas St",
+    "slug": "vancouver/dundas-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-03T16:26:00Z",
+    "count": 1
   }
 }
