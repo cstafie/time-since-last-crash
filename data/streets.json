@@ -493,8 +493,8 @@
     "name": "No 4 Rd",
     "slug": "richmond/no-4-rd",
     "city": "Richmond",
-    "lastIncident": "2026-03-09T15:26:00Z",
-    "count": 2
+    "lastIncident": "2026-04-03T20:06:00Z",
+    "count": 3
   },
   "richmond/st-albans-rd": {
     "name": "St Albans Rd",
@@ -5205,6 +5205,20 @@
     "slug": "abbotsford/1999-sumas-way",
     "city": "Abbotsford",
     "lastIncident": "2026-04-03T16:50:00Z",
+    "count": 1
+  },
+  "west-vancouver/wentworth-ave": {
+    "name": "Wentworth Ave",
+    "slug": "west-vancouver/wentworth-ave",
+    "city": "West Vancouver",
+    "lastIncident": "2026-04-03T20:30:00Z",
+    "count": 1
+  },
+  "richmond/fisher-gt": {
+    "name": "Fisher Gt",
+    "slug": "richmond/fisher-gt",
+    "city": "Richmond",
+    "lastIncident": "2026-04-03T20:06:00Z",
     "count": 1
   }
 }

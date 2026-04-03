@@ -1,0 +1,22 @@
+{
+  "slug": "west-vancouver/wentworth-ave",
+  "name": "Wentworth Ave",
+  "city": "West Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-03T20:30:00Z_west-vancouver/wentworth-ave",
+      "timestamp": "2026-04-03T20:30:00Z",
+      "address": "WENTWORTH AVE",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/wentworth-ave"
+      ],
+      "streetNames": [
+        "Wentworth Ave"
+      ],
+      "pulsePointId": "2447132596"
+    }
+  ],
+  "lastIncident": "2026-04-03T20:30:00Z",
+  "count": 1
+}

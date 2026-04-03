@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-03T20:30:00Z_west-vancouver/wentworth-ave",
+    "timestamp": "2026-04-03T20:30:00Z",
+    "scrapedAt": "2026-04-03T20:43:06Z",
+    "address": "WENTWORTH AVE",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/wentworth-ave"
+    ],
+    "streetNames": [
+      "Wentworth Ave"
+    ],
+    "pulsePointId": "2447132596"
+  },
+  {
+    "id": "2026-04-03T20:06:00Z_richmond/fisher-gt_richmond/no-4-rd",
+    "timestamp": "2026-04-03T20:06:00Z",
+    "scrapedAt": "2026-04-03T20:43:06Z",
+    "address": "FISHER GT & NO 4 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/fisher-gt",
+      "richmond/no-4-rd"
+    ],
+    "streetNames": [
+      "Fisher Gt",
+      "No 4 Rd"
+    ],
+    "pulsePointId": "2447117925"
+  },
+  {
     "id": "2026-04-03T18:31:00Z_surrey/101st-ave",
     "timestamp": "2026-04-03T18:31:00Z",
     "scrapedAt": "2026-04-03T18:44:27Z",

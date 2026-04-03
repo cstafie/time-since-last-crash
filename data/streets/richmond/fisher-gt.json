@@ -1,0 +1,24 @@
+{
+  "slug": "richmond/fisher-gt",
+  "name": "Fisher Gt",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-04-03T20:06:00Z_richmond/fisher-gt_richmond/no-4-rd",
+      "timestamp": "2026-04-03T20:06:00Z",
+      "address": "FISHER GT & NO 4 RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/fisher-gt",
+        "richmond/no-4-rd"
+      ],
+      "streetNames": [
+        "Fisher Gt",
+        "No 4 Rd"
+      ],
+      "pulsePointId": "2447117925"
+    }
+  ],
+  "lastIncident": "2026-04-03T20:06:00Z",
+  "count": 1
+}
