@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-04-03T16:46:00Z_surrey/king-george-blvd_surrey/104th-ave",
+      "timestamp": "2026-04-03T16:46:00Z",
+      "address": "KING GEORGE BLVD & 104TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/king-george-blvd",
+        "surrey/104th-ave"
+      ],
+      "streetNames": [
+        "King George Blvd",
+        "104th Ave"
+      ],
+      "pulsePointId": "2446997674"
+    },
+    {
       "id": "2026-04-02T16:00:00Z_surrey/104th-ave",
       "timestamp": "2026-04-02T16:00:00Z",
       "address": "104TH AVE",
@@ -164,6 +179,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-02T16:00:00Z",
-  "count": 11
+  "lastIncident": "2026-04-03T16:46:00Z",
+  "count": 12
 }

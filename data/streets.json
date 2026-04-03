@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-04-03T00:30:00Z",
-    "count": 19
+    "lastIncident": "2026-04-03T16:46:00Z",
+    "count": 20
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -738,8 +738,8 @@
     "name": "Heather St",
     "slug": "vancouver/heather-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-08T02:47:00Z",
-    "count": 1
+    "lastIncident": "2026-04-03T17:02:00Z",
+    "count": 2
   },
   "vancouver/kingsway": {
     "name": "Kingsway",
@@ -1312,8 +1312,8 @@
     "name": "104th Ave",
     "slug": "surrey/104th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-02T16:00:00Z",
-    "count": 11
+    "lastIncident": "2026-04-03T16:46:00Z",
+    "count": 12
   },
   "surrey/122nd-st": {
     "name": "122nd St",
@@ -1732,8 +1732,8 @@
     "name": "Alex Fraser Brdg",
     "slug": "delta/alex-fraser-brdg",
     "city": "Delta",
-    "lastIncident": "2026-04-02T01:46:00Z",
-    "count": 5
+    "lastIncident": "2026-04-03T16:58:00Z",
+    "count": 6
   },
   "abbotsford/riverside-st": {
     "name": "Riverside St",
@@ -3713,8 +3713,8 @@
     "name": "W 57th Ave",
     "slug": "vancouver/w-57th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-03-23T22:15:00Z",
-    "count": 1
+    "lastIncident": "2026-04-03T17:02:00Z",
+    "count": 2
   },
   "richmond/lansdowne-rd": {
     "name": "Lansdowne Rd",
@@ -5198,6 +5198,13 @@
     "slug": "vancouver/dundas-st",
     "city": "Vancouver",
     "lastIncident": "2026-04-03T16:26:00Z",
+    "count": 1
+  },
+  "abbotsford/1999-sumas-way": {
+    "name": "1999 Sumas Way",
+    "slug": "abbotsford/1999-sumas-way",
+    "city": "Abbotsford",
+    "lastIncident": "2026-04-03T16:50:00Z",
     "count": 1
   }
 }
