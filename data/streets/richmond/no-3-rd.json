@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-04-03T00:40:00Z_richmond/saba-rd_richmond/no-3-rd",
+      "timestamp": "2026-04-03T00:40:00Z",
+      "address": "SABA RD & NO 3 RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/saba-rd",
+        "richmond/no-3-rd"
+      ],
+      "streetNames": [
+        "Saba Rd",
+        "No 3 Rd"
+      ],
+      "pulsePointId": "2446656288"
+    },
+    {
       "id": "2026-03-31T02:04:00Z_richmond/bridgeport-rd_richmond/no-3-rd",
       "timestamp": "2026-03-31T02:04:00Z",
       "address": "BRIDGEPORT RD & NO 3 RD",
@@ -105,6 +120,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-31T02:04:00Z",
-  "count": 7
+  "lastIncident": "2026-04-03T00:40:00Z",
+  "count": 8
 }

@@ -1,0 +1,24 @@
+{
+  "slug": "new-westminster/ovens-ave",
+  "name": "Ovens Ave",
+  "city": "New Westminster",
+  "incidents": [
+    {
+      "id": "2026-04-03T00:36:00Z_new-westminster/colborne-st_new-westminster/ovens-ave",
+      "timestamp": "2026-04-03T00:36:00Z",
+      "address": "COLBORNE ST & OVENS AVE",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/colborne-st",
+        "new-westminster/ovens-ave"
+      ],
+      "streetNames": [
+        "Colborne St",
+        "Ovens Ave"
+      ],
+      "pulsePointId": "2446653327"
+    }
+  ],
+  "lastIncident": "2026-04-03T00:36:00Z",
+  "count": 1
+}

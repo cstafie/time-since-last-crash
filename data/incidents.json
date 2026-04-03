@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-04-03T00:40:00Z_richmond/saba-rd_richmond/no-3-rd",
+    "timestamp": "2026-04-03T00:40:00Z",
+    "scrapedAt": "2026-04-03T00:59:18Z",
+    "address": "SABA RD & NO 3 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/saba-rd",
+      "richmond/no-3-rd"
+    ],
+    "streetNames": [
+      "Saba Rd",
+      "No 3 Rd"
+    ],
+    "pulsePointId": "2446656288"
+  },
+  {
+    "id": "2026-04-03T00:36:00Z_new-westminster/colborne-st_new-westminster/ovens-ave",
+    "timestamp": "2026-04-03T00:36:00Z",
+    "scrapedAt": "2026-04-03T00:59:18Z",
+    "address": "COLBORNE ST & OVENS AVE",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/colborne-st",
+      "new-westminster/ovens-ave"
+    ],
+    "streetNames": [
+      "Colborne St",
+      "Ovens Ave"
+    ],
+    "pulsePointId": "2446653327"
+  },
+  {
+    "id": "2026-04-03T00:30:00Z_surrey/96th-ave_surrey/king-george-blvd",
+    "timestamp": "2026-04-03T00:30:00Z",
+    "scrapedAt": "2026-04-03T00:59:18Z",
+    "address": "96TH AVE & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/96th-ave",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "96th Ave",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2446649938"
+  },
+  {
+    "id": "2026-04-03T00:29:00Z_surrey/26th-ave",
+    "timestamp": "2026-04-03T00:29:00Z",
+    "scrapedAt": "2026-04-03T00:59:18Z",
+    "address": "26TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/26th-ave"
+    ],
+    "streetNames": [
+      "26th Ave"
+    ],
+    "pulsePointId": "2446648978"
+  },
+  {
     "id": "2026-04-02T23:32:00Z_vancouver/lougheed-hwy_vancouver/skeena-st",
     "timestamp": "2026-04-02T23:32:00Z",
     "scrapedAt": "2026-04-02T23:42:56Z",
