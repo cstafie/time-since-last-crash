@@ -458,8 +458,8 @@
     "name": "Granville Ave",
     "slug": "richmond/granville-ave",
     "city": "Richmond",
-    "lastIncident": "2026-03-13T22:10:00Z",
-    "count": 2
+    "lastIncident": "2026-04-03T06:18:00Z",
+    "count": 3
   },
   "richmond/hwy-91": {
     "name": "Hwy 91",
@@ -1081,8 +1081,8 @@
     "name": "No 1 Rd",
     "slug": "richmond/no-1-rd",
     "city": "Richmond",
-    "lastIncident": "2026-03-10T23:03:00Z",
-    "count": 1
+    "lastIncident": "2026-04-03T06:18:00Z",
+    "count": 2
   },
   "richmond/steveston-hwy": {
     "name": "Steveston Hwy",

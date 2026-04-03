@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-03T06:18:00Z_richmond/granville-ave_richmond/no-1-rd",
+    "timestamp": "2026-04-03T06:18:00Z",
+    "scrapedAt": "2026-04-03T06:20:43Z",
+    "address": "GRANVILLE AVE & NO 1 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/granville-ave",
+      "richmond/no-1-rd"
+    ],
+    "streetNames": [
+      "Granville Ave",
+      "No 1 Rd"
+    ],
+    "pulsePointId": "2446802633"
+  },
+  {
     "id": "2026-04-03T05:13:00Z_burnaby/broadway",
     "timestamp": "2026-04-03T05:13:00Z",
     "scrapedAt": "2026-04-03T05:30:53Z",
