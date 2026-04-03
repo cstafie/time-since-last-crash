@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-03T13:39:00Z_vancouver/nanaimo-st_vancouver/e-1st-ave",
+      "timestamp": "2026-04-03T13:39:00Z",
+      "address": "NANAIMO ST & E 1ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/nanaimo-st",
+        "vancouver/e-1st-ave"
+      ],
+      "streetNames": [
+        "Nanaimo St",
+        "E 1st Ave"
+      ],
+      "pulsePointId": "2446912358"
+    },
+    {
       "id": "2026-03-31T20:13:00Z_vancouver/boundary-rd_vancouver/e-1st-ave",
       "timestamp": "2026-03-31T20:13:00Z",
       "address": "BOUNDARY RD & E 1ST AVE",
@@ -91,6 +106,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-31T20:13:00Z",
-  "count": 6
+  "lastIncident": "2026-04-03T13:39:00Z",
+  "count": 7
 }
