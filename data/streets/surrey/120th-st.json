@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-04-03T01:47:00Z_surrey/120th-st_surrey/68th-ave",
+      "timestamp": "2026-04-03T01:47:00Z",
+      "address": "120TH ST & 68TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/120th-st",
+        "surrey/68th-ave"
+      ],
+      "streetNames": [
+        "120th St",
+        "68th Ave"
+      ],
+      "pulsePointId": "2446691052"
+    },
+    {
       "id": "2026-03-30T18:44:00Z_surrey/120th-st_surrey/72nd-ave",
       "timestamp": "2026-03-30T18:44:00Z",
       "address": "120TH ST & 72ND AVE",
@@ -48,6 +63,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-30T18:44:00Z",
-  "count": 3
+  "lastIncident": "2026-04-03T01:47:00Z",
+  "count": 4
 }

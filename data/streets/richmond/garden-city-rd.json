@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-04-03T02:29:00Z_richmond/garden-city-rd_richmond/francis-rd",
+      "timestamp": "2026-04-03T02:29:00Z",
+      "address": "GARDEN CITY RD & FRANCIS RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/garden-city-rd",
+        "richmond/francis-rd"
+      ],
+      "streetNames": [
+        "Garden City Rd",
+        "Francis Rd"
+      ],
+      "pulsePointId": "2446710481"
+    },
+    {
       "id": "2026-04-01T13:09:00Z_richmond/garden-city-rd",
       "timestamp": "2026-04-01T13:09:00Z",
       "address": "GARDEN CITY RD",
@@ -47,6 +62,6 @@
       "pulsePointId": "2433457530"
     }
   ],
-  "lastIncident": "2026-04-01T13:09:00Z",
-  "count": 3
+  "lastIncident": "2026-04-03T02:29:00Z",
+  "count": 4
 }

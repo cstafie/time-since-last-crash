@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-03T02:29:00Z_richmond/garden-city-rd_richmond/francis-rd",
+    "timestamp": "2026-04-03T02:29:00Z",
+    "scrapedAt": "2026-04-03T02:58:21Z",
+    "address": "GARDEN CITY RD & FRANCIS RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/garden-city-rd",
+      "richmond/francis-rd"
+    ],
+    "streetNames": [
+      "Garden City Rd",
+      "Francis Rd"
+    ],
+    "pulsePointId": "2446710481"
+  },
+  {
+    "id": "2026-04-03T01:47:00Z_surrey/120th-st_surrey/68th-ave",
+    "timestamp": "2026-04-03T01:47:00Z",
+    "scrapedAt": "2026-04-03T02:58:21Z",
+    "address": "120TH ST & 68TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/120th-st",
+      "surrey/68th-ave"
+    ],
+    "streetNames": [
+      "120th St",
+      "68th Ave"
+    ],
+    "pulsePointId": "2446691052"
+  },
+  {
     "id": "2026-04-03T01:28:00Z_north-vancouver/trans-canada-hwy",
     "timestamp": "2026-04-03T01:28:00Z",
     "scrapedAt": "2026-04-03T01:41:24Z",
