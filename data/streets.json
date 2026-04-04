@@ -5255,5 +5255,19 @@
     "city": "Abbotsford",
     "lastIncident": "2026-04-04T02:02:00Z",
     "count": 1
+  },
+  "new-westminster/4th-st": {
+    "name": "4th St",
+    "slug": "new-westminster/4th-st",
+    "city": "New Westminster",
+    "lastIncident": "2026-04-04T05:23:00Z",
+    "count": 1
+  },
+  "new-westminster/cunningham-st": {
+    "name": "Cunningham St",
+    "slug": "new-westminster/cunningham-st",
+    "city": "New Westminster",
+    "lastIncident": "2026-04-04T05:23:00Z",
+    "count": 1
   }
 }
