@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-04T22:49:00Z_chilliwack/45779-luckakuck-way",
+    "timestamp": "2026-04-04T22:49:00Z",
+    "scrapedAt": "2026-04-04T23:05:44Z",
+    "address": "45779 LUCKAKUCK WAY",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/45779-luckakuck-way"
+    ],
+    "streetNames": [
+      "45779 Luckakuck Way"
+    ],
+    "pulsePointId": "2447850240"
+  },
+  {
     "id": "2026-04-04T21:56:00Z_mission/cedar-st_mission/best-ave",
     "timestamp": "2026-04-04T21:56:00Z",
     "scrapedAt": "2026-04-04T22:03:34Z",

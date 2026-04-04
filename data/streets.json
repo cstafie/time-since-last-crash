@@ -5367,5 +5367,12 @@
     "city": "Mission",
     "lastIncident": "2026-04-04T21:56:00Z",
     "count": 1
+  },
+  "chilliwack/45779-luckakuck-way": {
+    "name": "45779 Luckakuck Way",
+    "slug": "chilliwack/45779-luckakuck-way",
+    "city": "Chilliwack",
+    "lastIncident": "2026-04-04T22:49:00Z",
+    "count": 1
   }
 }
