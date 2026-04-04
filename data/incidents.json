@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-04T19:02:00Z_delta/barmston-pl",
+    "timestamp": "2026-04-04T19:02:00Z",
+    "scrapedAt": "2026-04-04T19:10:58Z",
+    "address": "BARMSTON PL",
+    "city": "Delta",
+    "streets": [
+      "delta/barmston-pl"
+    ],
+    "streetNames": [
+      "Barmston Pl"
+    ],
+    "pulsePointId": "2447718838"
+  },
+  {
     "id": "2026-04-04T18:36:00Z_vancouver/knight-st_vancouver/e-59th-ave",
     "timestamp": "2026-04-04T18:36:00Z",
     "scrapedAt": "2026-04-04T18:43:50Z",

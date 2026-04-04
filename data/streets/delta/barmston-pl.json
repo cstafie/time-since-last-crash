@@ -1,0 +1,22 @@
+{
+  "slug": "delta/barmston-pl",
+  "name": "Barmston Pl",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-04-04T19:02:00Z_delta/barmston-pl",
+      "timestamp": "2026-04-04T19:02:00Z",
+      "address": "BARMSTON PL",
+      "city": "Delta",
+      "streets": [
+        "delta/barmston-pl"
+      ],
+      "streetNames": [
+        "Barmston Pl"
+      ],
+      "pulsePointId": "2447718838"
+    }
+  ],
+  "lastIncident": "2026-04-04T19:02:00Z",
+  "count": 1
+}
