@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-04-04T18:36:00Z_vancouver/knight-st_vancouver/e-59th-ave",
+    "timestamp": "2026-04-04T18:36:00Z",
+    "scrapedAt": "2026-04-04T18:43:50Z",
+    "address": "KNIGHT ST & E 59TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/knight-st",
+      "vancouver/e-59th-ave"
+    ],
+    "streetNames": [
+      "Knight St",
+      "E 59th Ave"
+    ],
+    "pulsePointId": "2447704384"
+  },
+  {
+    "id": "2026-04-04T18:25:00Z_abbotsford/sumas-way_abbotsford/south-fraser-way",
+    "timestamp": "2026-04-04T18:25:00Z",
+    "scrapedAt": "2026-04-04T18:43:50Z",
+    "address": "SUMAS WAY & SOUTH FRASER WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/sumas-way",
+      "abbotsford/south-fraser-way"
+    ],
+    "streetNames": [
+      "Sumas Way",
+      "South Fraser Way"
+    ],
+    "pulsePointId": "2447697038"
+  },
+  {
+    "id": "2026-04-04T18:08:00Z_vancouver/ross-st_vancouver/e-41st-ave",
+    "timestamp": "2026-04-04T18:08:00Z",
+    "scrapedAt": "2026-04-04T18:43:50Z",
+    "address": "ROSS ST & E 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/ross-st",
+      "vancouver/e-41st-ave"
+    ],
+    "streetNames": [
+      "Ross St",
+      "E 41st Ave"
+    ],
+    "pulsePointId": "2447688343"
+  },
+  {
     "id": "2026-04-04T17:15:00Z_surrey/96th-ave_surrey/152nd-st",
     "timestamp": "2026-04-04T17:15:00Z",
     "scrapedAt": "2026-04-04T17:41:33Z",

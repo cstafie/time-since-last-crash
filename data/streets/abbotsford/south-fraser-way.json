@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-04T18:25:00Z_abbotsford/sumas-way_abbotsford/south-fraser-way",
+      "timestamp": "2026-04-04T18:25:00Z",
+      "address": "SUMAS WAY & SOUTH FRASER WAY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/sumas-way",
+        "abbotsford/south-fraser-way"
+      ],
+      "streetNames": [
+        "Sumas Way",
+        "South Fraser Way"
+      ],
+      "pulsePointId": "2447697038"
+    },
+    {
       "id": "2026-04-03T21:21:00Z_abbotsford/south-fraser-way_abbotsford/gladwin-rd",
       "timestamp": "2026-04-03T21:21:00Z",
       "address": "SOUTH FRASER WAY & GLADWIN RD",
@@ -122,6 +137,6 @@
       "pulsePointId": "2433235919"
     }
   ],
-  "lastIncident": "2026-04-03T21:21:00Z",
-  "count": 8
+  "lastIncident": "2026-04-04T18:25:00Z",
+  "count": 9
 }

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-04T18:08:00Z_vancouver/ross-st_vancouver/e-41st-ave",
+      "timestamp": "2026-04-04T18:08:00Z",
+      "address": "ROSS ST & E 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/ross-st",
+        "vancouver/e-41st-ave"
+      ],
+      "streetNames": [
+        "Ross St",
+        "E 41st Ave"
+      ],
+      "pulsePointId": "2447688343"
+    },
+    {
       "id": "2026-03-27T15:26:00Z_vancouver/e-41st-ave_vancouver/rupert-st",
       "timestamp": "2026-03-27T15:26:00Z",
       "address": "E 41ST AVE & RUPERT ST",
@@ -168,6 +183,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-27T15:26:00Z",
-  "count": 11
+  "lastIncident": "2026-04-04T18:08:00Z",
+  "count": 12
 }
