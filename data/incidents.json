@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-04-04T06:23:00Z_langley/64th-ave",
+    "timestamp": "2026-04-04T06:23:00Z",
+    "scrapedAt": "2026-04-04T06:46:22Z",
+    "address": "64TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/64th-ave"
+    ],
+    "streetNames": [
+      "64th Ave"
+    ],
+    "pulsePointId": "2447446030"
+  },
+  {
+    "id": "2026-04-04T06:16:00Z_burnaby/7777-18th-st",
+    "timestamp": "2026-04-04T06:16:00Z",
+    "scrapedAt": "2026-04-04T06:46:22Z",
+    "address": "7777 18TH ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/7777-18th-st"
+    ],
+    "streetNames": [
+      "7777 18th St"
+    ],
+    "pulsePointId": "2447442829"
+  },
+  {
     "id": "2026-04-04T05:23:00Z_new-westminster/4th-st_new-westminster/cunningham-st",
     "timestamp": "2026-04-04T05:23:00Z",
     "scrapedAt": "2026-04-04T05:46:43Z",

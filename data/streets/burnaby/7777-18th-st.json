@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/7777-18th-st",
+  "name": "7777 18th St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-04-04T06:16:00Z_burnaby/7777-18th-st",
+      "timestamp": "2026-04-04T06:16:00Z",
+      "address": "7777 18TH ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/7777-18th-st"
+      ],
+      "streetNames": [
+        "7777 18th St"
+      ],
+      "pulsePointId": "2447442829"
+    }
+  ],
+  "lastIncident": "2026-04-04T06:16:00Z",
+  "count": 1
+}
