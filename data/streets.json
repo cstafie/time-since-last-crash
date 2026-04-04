@@ -5234,5 +5234,19 @@
     "city": "Abbotsford",
     "lastIncident": "2026-04-03T21:21:00Z",
     "count": 1
+  },
+  "surrey/old-yale-rd": {
+    "name": "Old Yale Rd",
+    "slug": "surrey/old-yale-rd",
+    "city": "Surrey",
+    "lastIncident": "2026-04-04T00:47:00Z",
+    "count": 1
+  },
+  "surrey/mall-accs": {
+    "name": "Mall Accs",
+    "slug": "surrey/mall-accs",
+    "city": "Surrey",
+    "lastIncident": "2026-04-04T00:47:00Z",
+    "count": 1
   }
 }

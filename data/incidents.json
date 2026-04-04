@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-04T00:47:00Z_surrey/old-yale-rd_surrey/mall-accs",
+    "timestamp": "2026-04-04T00:47:00Z",
+    "scrapedAt": "2026-04-04T00:55:17Z",
+    "address": "OLD YALE RD & MALL ACCS",
+    "city": "Surrey",
+    "streets": [
+      "surrey/old-yale-rd",
+      "surrey/mall-accs"
+    ],
+    "streetNames": [
+      "Old Yale Rd",
+      "Mall Accs"
+    ],
+    "pulsePointId": "2447286857"
+  },
+  {
     "id": "2026-04-03T21:27:00Z_new-westminster/queensborough-brdg",
     "timestamp": "2026-04-03T21:27:00Z",
     "scrapedAt": "2026-04-03T21:43:08Z",
