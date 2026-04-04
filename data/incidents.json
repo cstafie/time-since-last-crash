@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-04T02:11:00Z_new-westminster/12th-st",
+    "timestamp": "2026-04-04T02:11:00Z",
+    "scrapedAt": "2026-04-04T02:55:36Z",
+    "address": "12TH ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/12th-st"
+    ],
+    "streetNames": [
+      "12th St"
+    ],
+    "pulsePointId": "2447333014"
+  },
+  {
+    "id": "2026-04-04T02:02:00Z_abbotsford/mt-lehman-rd_abbotsford/burgess-ave",
+    "timestamp": "2026-04-04T02:02:00Z",
+    "scrapedAt": "2026-04-04T02:55:36Z",
+    "address": "MT LEHMAN RD & BURGESS AVE",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/mt-lehman-rd",
+      "abbotsford/burgess-ave"
+    ],
+    "streetNames": [
+      "Mt Lehman Rd",
+      "Burgess Ave"
+    ],
+    "pulsePointId": "2447327860"
+  },
+  {
     "id": "2026-04-04T00:47:00Z_surrey/old-yale-rd_surrey/mall-accs",
     "timestamp": "2026-04-04T00:47:00Z",
     "scrapedAt": "2026-04-04T00:55:17Z",

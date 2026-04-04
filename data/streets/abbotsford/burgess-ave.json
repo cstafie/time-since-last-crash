@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/burgess-ave",
+  "name": "Burgess Ave",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-04-04T02:02:00Z_abbotsford/mt-lehman-rd_abbotsford/burgess-ave",
+      "timestamp": "2026-04-04T02:02:00Z",
+      "address": "MT LEHMAN RD & BURGESS AVE",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/mt-lehman-rd",
+        "abbotsford/burgess-ave"
+      ],
+      "streetNames": [
+        "Mt Lehman Rd",
+        "Burgess Ave"
+      ],
+      "pulsePointId": "2447327860"
+    }
+  ],
+  "lastIncident": "2026-04-04T02:02:00Z",
+  "count": 1
+}
