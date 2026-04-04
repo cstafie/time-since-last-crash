@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-04T11:34:00Z_vancouver/w-12th-ave",
+    "timestamp": "2026-04-04T11:34:00Z",
+    "scrapedAt": "2026-04-04T11:39:33Z",
+    "address": "W 12TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-12th-ave"
+    ],
+    "streetNames": [
+      "W 12th Ave"
+    ],
+    "pulsePointId": "2447533635"
+  },
+  {
     "id": "2026-04-04T10:54:00Z_vancouver/main-st",
     "timestamp": "2026-04-04T10:54:00Z",
     "scrapedAt": "2026-04-04T11:06:12Z",

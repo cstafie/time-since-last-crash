@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-04T11:34:00Z_vancouver/w-12th-ave",
+      "timestamp": "2026-04-04T11:34:00Z",
+      "address": "W 12TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-12th-ave"
+      ],
+      "streetNames": [
+        "W 12th Ave"
+      ],
+      "pulsePointId": "2447533635"
+    },
+    {
       "id": "2026-04-02T00:56:00Z_vancouver/w-12th-ave",
       "timestamp": "2026-04-02T00:56:00Z",
       "address": "W 12TH AVE",
@@ -46,6 +59,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-02T00:56:00Z",
-  "count": 3
+  "lastIncident": "2026-04-04T11:34:00Z",
+  "count": 4
 }
