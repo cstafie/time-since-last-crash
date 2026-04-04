@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-04T17:01:00Z_port-coquitlam/shaughnessy-st_port-coquitlam/mary-hill-bps",
+    "timestamp": "2026-04-04T17:01:00Z",
+    "scrapedAt": "2026-04-04T17:06:39Z",
+    "address": "SHAUGHNESSY ST & MARY HILL BPS",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/shaughnessy-st",
+      "port-coquitlam/mary-hill-bps"
+    ],
+    "streetNames": [
+      "Shaughnessy St",
+      "Mary Hill Bps"
+    ],
+    "pulsePointId": "2447649475"
+  },
+  {
     "id": "2026-04-04T15:54:00Z_langley/199a-st",
     "timestamp": "2026-04-04T15:54:00Z",
     "scrapedAt": "2026-04-04T16:05:24Z",
