@@ -5297,5 +5297,19 @@
     "city": "Vancouver",
     "lastIncident": "2026-04-04T08:53:00Z",
     "count": 1
+  },
+  "coquitlam/tatla-pl": {
+    "name": "Tatla Pl",
+    "slug": "coquitlam/tatla-pl",
+    "city": "Coquitlam",
+    "lastIncident": "2026-04-04T12:18:00Z",
+    "count": 1
+  },
+  "coquitlam/chilko-dr": {
+    "name": "Chilko Dr",
+    "slug": "coquitlam/chilko-dr",
+    "city": "Coquitlam",
+    "lastIncident": "2026-04-04T12:18:00Z",
+    "count": 1
   }
 }

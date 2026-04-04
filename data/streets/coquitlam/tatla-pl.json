@@ -1,0 +1,24 @@
+{
+  "slug": "coquitlam/tatla-pl",
+  "name": "Tatla Pl",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-04-04T12:18:00Z_coquitlam/tatla-pl_coquitlam/chilko-dr",
+      "timestamp": "2026-04-04T12:18:00Z",
+      "address": "TATLA PL & CHILKO DR",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/tatla-pl",
+        "coquitlam/chilko-dr"
+      ],
+      "streetNames": [
+        "Tatla Pl",
+        "Chilko Dr"
+      ],
+      "pulsePointId": "2447544466"
+    }
+  ],
+  "lastIncident": "2026-04-04T12:18:00Z",
+  "count": 1
+}
