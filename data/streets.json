@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-02T03:53:00Z",
-    "count": 7
+    "lastIncident": "2026-04-04T06:47:00Z",
+    "count": 8
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",
@@ -1627,8 +1627,8 @@
     "name": "156th St",
     "slug": "surrey/156th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-01T15:42:00Z",
-    "count": 5
+    "lastIncident": "2026-04-04T06:47:00Z",
+    "count": 6
   },
   "north-vancouver/pemberton-ave": {
     "name": "Pemberton Ave",
