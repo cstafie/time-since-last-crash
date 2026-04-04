@@ -5346,5 +5346,12 @@
     "city": "Delta",
     "lastIncident": "2026-04-04T19:02:00Z",
     "count": 1
+  },
+  "new-westminster/9th-st": {
+    "name": "9th St",
+    "slug": "new-westminster/9th-st",
+    "city": "New Westminster",
+    "lastIncident": "2026-04-04T20:53:00Z",
+    "count": 1
   }
 }
