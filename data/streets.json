@@ -752,8 +752,8 @@
     "name": "Knight St",
     "slug": "vancouver/knight-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-30T03:53:00Z",
-    "count": 11
+    "lastIncident": "2026-04-04T08:53:00Z",
+    "count": 12
   },
   "vancouver/lower-mall": {
     "name": "Lower Mall",
@@ -5289,6 +5289,13 @@
     "slug": "burnaby/gilmore-avenue-dvrs",
     "city": "Burnaby",
     "lastIncident": "2026-04-04T07:34:00Z",
+    "count": 1
+  },
+  "vancouver/e-57th-ave": {
+    "name": "E 57th Ave",
+    "slug": "vancouver/e-57th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-04T08:53:00Z",
     "count": 1
   }
 }

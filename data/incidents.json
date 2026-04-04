@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-04T08:53:00Z_vancouver/e-57th-ave_vancouver/knight-st",
+    "timestamp": "2026-04-04T08:53:00Z",
+    "scrapedAt": "2026-04-04T09:10:40Z",
+    "address": "E 57TH AVE & KNIGHT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-57th-ave",
+      "vancouver/knight-st"
+    ],
+    "streetNames": [
+      "E 57th Ave",
+      "Knight St"
+    ],
+    "pulsePointId": "2447494168"
+  },
+  {
     "id": "2026-04-04T07:34:00Z_burnaby/still-creek-ave_burnaby/gilmore-avenue-dvrs",
     "timestamp": "2026-04-04T07:34:00Z",
     "scrapedAt": "2026-04-04T07:45:19Z",
