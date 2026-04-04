@@ -73,8 +73,8 @@
     "name": "Marine Way",
     "slug": "burnaby/marine-way",
     "city": "Burnaby",
-    "lastIncident": "2026-03-18T11:31:00Z",
-    "count": 3
+    "lastIncident": "2026-04-04T07:19:00Z",
+    "count": 4
   },
   "burnaby/willingdon-ave": {
     "name": "Willingdon Ave",
@@ -2775,8 +2775,8 @@
     "name": "North Fraser Way",
     "slug": "burnaby/north-fraser-way",
     "city": "Burnaby",
-    "lastIncident": "2026-04-03T06:23:00Z",
-    "count": 2
+    "lastIncident": "2026-04-04T07:19:00Z",
+    "count": 3
   },
   "burnaby/boundary-rd": {
     "name": "Boundary Rd",
@@ -5275,6 +5275,20 @@
     "slug": "burnaby/7777-18th-st",
     "city": "Burnaby",
     "lastIncident": "2026-04-04T06:16:00Z",
+    "count": 1
+  },
+  "burnaby/still-creek-ave": {
+    "name": "Still Creek Ave",
+    "slug": "burnaby/still-creek-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-04-04T07:34:00Z",
+    "count": 1
+  },
+  "burnaby/gilmore-avenue-dvrs": {
+    "name": "Gilmore Avenue Dvrs",
+    "slug": "burnaby/gilmore-avenue-dvrs",
+    "city": "Burnaby",
+    "lastIncident": "2026-04-04T07:34:00Z",
     "count": 1
   }
 }

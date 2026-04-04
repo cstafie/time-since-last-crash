@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-04T07:34:00Z_burnaby/still-creek-ave_burnaby/gilmore-avenue-dvrs",
+    "timestamp": "2026-04-04T07:34:00Z",
+    "scrapedAt": "2026-04-04T07:45:19Z",
+    "address": "STILL CREEK AVE & GILMORE AVENUE DVRS",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/still-creek-ave",
+      "burnaby/gilmore-avenue-dvrs"
+    ],
+    "streetNames": [
+      "Still Creek Ave",
+      "Gilmore Avenue Dvrs"
+    ],
+    "pulsePointId": "2447470025"
+  },
+  {
+    "id": "2026-04-04T07:19:00Z_burnaby/marine-way_burnaby/north-fraser-way",
+    "timestamp": "2026-04-04T07:19:00Z",
+    "scrapedAt": "2026-04-04T07:45:19Z",
+    "address": "MARINE WAY & NORTH FRASER WAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/marine-way",
+      "burnaby/north-fraser-way"
+    ],
+    "streetNames": [
+      "Marine Way",
+      "North Fraser Way"
+    ],
+    "pulsePointId": "2447465897"
+  },
+  {
     "id": "2026-04-04T06:47:00Z_surrey/88th-ave_surrey/156th-st",
     "timestamp": "2026-04-04T06:47:00Z",
     "scrapedAt": "2026-04-04T07:20:23Z",

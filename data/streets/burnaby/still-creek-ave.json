@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/still-creek-ave",
+  "name": "Still Creek Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-04-04T07:34:00Z_burnaby/still-creek-ave_burnaby/gilmore-avenue-dvrs",
+      "timestamp": "2026-04-04T07:34:00Z",
+      "address": "STILL CREEK AVE & GILMORE AVENUE DVRS",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/still-creek-ave",
+        "burnaby/gilmore-avenue-dvrs"
+      ],
+      "streetNames": [
+        "Still Creek Ave",
+        "Gilmore Avenue Dvrs"
+      ],
+      "pulsePointId": "2447470025"
+    }
+  ],
+  "lastIncident": "2026-04-04T07:34:00Z",
+  "count": 1
+}

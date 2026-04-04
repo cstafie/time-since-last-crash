@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-04-04T07:19:00Z_burnaby/marine-way_burnaby/north-fraser-way",
+      "timestamp": "2026-04-04T07:19:00Z",
+      "address": "MARINE WAY & NORTH FRASER WAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/marine-way",
+        "burnaby/north-fraser-way"
+      ],
+      "streetNames": [
+        "Marine Way",
+        "North Fraser Way"
+      ],
+      "pulsePointId": "2447465897"
+    },
+    {
       "id": "2026-03-18T11:31:00Z_burnaby/north-fraser-way_burnaby/marine-way",
       "timestamp": "2026-03-18T11:31:00Z",
       "address": "NORTH FRASER WAY & MARINE WAY",
@@ -45,6 +60,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-18T11:31:00Z",
-  "count": 3
+  "lastIncident": "2026-04-04T07:19:00Z",
+  "count": 4
 }
