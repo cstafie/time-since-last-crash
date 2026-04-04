@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-04T21:35:00Z_north-vancouver/trans-canada-hwy",
+    "timestamp": "2026-04-04T21:35:00Z",
+    "scrapedAt": "2026-04-04T21:41:28Z",
+    "address": "TRANS CANADA HWY",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2447807984"
+  },
+  {
     "id": "2026-04-04T20:53:00Z_new-westminster/9th-st",
     "timestamp": "2026-04-04T20:53:00Z",
     "scrapedAt": "2026-04-04T21:05:42Z",
