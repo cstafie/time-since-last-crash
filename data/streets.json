@@ -1473,8 +1473,8 @@
     "name": "Kingsway",
     "slug": "burnaby/kingsway",
     "city": "Burnaby",
-    "lastIncident": "2026-04-01T23:02:00Z",
-    "count": 4
+    "lastIncident": "2026-04-04T23:08:00Z",
+    "count": 5
   },
   "burnaby/gilley-ave": {
     "name": "Gilley Ave",
@@ -5373,6 +5373,13 @@
     "slug": "chilliwack/45779-luckakuck-way",
     "city": "Chilliwack",
     "lastIncident": "2026-04-04T22:49:00Z",
+    "count": 1
+  },
+  "burnaby/southoaks-cres": {
+    "name": "Southoaks Cres",
+    "slug": "burnaby/southoaks-cres",
+    "city": "Burnaby",
+    "lastIncident": "2026-04-04T23:08:00Z",
     "count": 1
   }
 }
