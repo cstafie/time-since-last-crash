@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-04T21:56:00Z_mission/cedar-st_mission/best-ave",
+    "timestamp": "2026-04-04T21:56:00Z",
+    "scrapedAt": "2026-04-04T22:03:34Z",
+    "address": "CEDAR ST & BEST AVE",
+    "city": "Mission",
+    "streets": [
+      "mission/cedar-st",
+      "mission/best-ave"
+    ],
+    "streetNames": [
+      "Cedar St",
+      "Best Ave"
+    ],
+    "pulsePointId": "2447818248"
+  },
+  {
+    "id": "2026-04-04T21:45:00Z_coquitlam/norman-ave_coquitlam/dewdney-trunk-rd",
+    "timestamp": "2026-04-04T21:45:00Z",
+    "scrapedAt": "2026-04-04T22:03:34Z",
+    "address": "NORMAN AVE & DEWDNEY TRUNK RD",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/norman-ave",
+      "coquitlam/dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "Norman Ave",
+      "Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2447815715"
+  },
+  {
     "id": "2026-04-04T21:35:00Z_north-vancouver/trans-canada-hwy",
     "timestamp": "2026-04-04T21:35:00Z",
     "scrapedAt": "2026-04-04T21:41:28Z",
