@@ -1,0 +1,22 @@
+{
+  "slug": "richmond/inglis-dr",
+  "name": "Inglis Dr",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-04-05T08:58:00Z_richmond/inglis-dr",
+      "timestamp": "2026-04-05T08:58:00Z",
+      "address": "INGLIS DR",
+      "city": "Richmond",
+      "streets": [
+        "richmond/inglis-dr"
+      ],
+      "streetNames": [
+        "Inglis Dr"
+      ],
+      "pulsePointId": "2448131234"
+    }
+  ],
+  "lastIncident": "2026-04-05T08:58:00Z",
+  "count": 1
+}

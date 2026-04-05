@@ -5472,5 +5472,12 @@
     "city": "Burnaby",
     "lastIncident": "2026-04-05T07:33:00Z",
     "count": 1
+  },
+  "richmond/inglis-dr": {
+    "name": "Inglis Dr",
+    "slug": "richmond/inglis-dr",
+    "city": "Richmond",
+    "lastIncident": "2026-04-05T08:58:00Z",
+    "count": 1
   }
 }
