@@ -717,8 +717,8 @@
     "name": "E 41st Ave",
     "slug": "vancouver/e-41st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-04T18:08:00Z",
-    "count": 12
+    "lastIncident": "2026-04-05T05:34:00Z",
+    "count": 13
   },
   "vancouver/granville-st": {
     "name": "Granville St",
@@ -1697,8 +1697,8 @@
     "name": "Inverness St",
     "slug": "vancouver/inverness-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-30T21:38:00Z",
-    "count": 4
+    "lastIncident": "2026-04-05T05:34:00Z",
+    "count": 5
   },
   "richmond/francis-rd": {
     "name": "Francis Rd",
@@ -1935,8 +1935,8 @@
     "name": "E 22nd Ave",
     "slug": "vancouver/e-22nd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-03-20T15:29:00Z",
-    "count": 2
+    "lastIncident": "2026-04-05T06:12:00Z",
+    "count": 3
   },
   "maple-ridge/132nd-ave": {
     "name": "132nd Ave",
@@ -5423,5 +5423,19 @@
     "city": "Surrey",
     "lastIncident": "2026-04-05T05:17:00Z",
     "count": 1
+  },
+  "delta/41b-street-conn": {
+    "name": "41b Street Conn",
+    "slug": "delta/41b-street-conn",
+    "city": "Delta",
+    "lastIncident": "2026-04-05T05:35:00Z",
+    "count": 1
+  },
+  "delta/deltaport-way": {
+    "name": "Deltaport Way",
+    "slug": "delta/deltaport-way",
+    "city": "Delta",
+    "lastIncident": "2026-04-05T05:35:00Z",
+    "count": 2
   }
 }

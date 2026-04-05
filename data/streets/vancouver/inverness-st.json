@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-05T05:34:00Z_vancouver/inverness-st_vancouver/e-41st-ave",
+      "timestamp": "2026-04-05T05:34:00Z",
+      "address": "INVERNESS ST & E 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/inverness-st",
+        "vancouver/e-41st-ave"
+      ],
+      "streetNames": [
+        "Inverness St",
+        "E 41st Ave"
+      ],
+      "pulsePointId": "2448064173"
+    },
+    {
       "id": "2026-03-30T21:38:00Z_vancouver/inverness-st_vancouver/e-62nd-ave",
       "timestamp": "2026-03-30T21:38:00Z",
       "address": "INVERNESS ST & E 62ND AVE",
@@ -64,6 +79,6 @@
       "pulsePointId": "2432981060"
     }
   ],
-  "lastIncident": "2026-03-30T21:38:00Z",
-  "count": 4
+  "lastIncident": "2026-04-05T05:34:00Z",
+  "count": 5
 }

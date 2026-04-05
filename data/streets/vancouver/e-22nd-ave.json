@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-05T06:12:00Z_vancouver/e-22nd-ave",
+      "timestamp": "2026-04-05T06:12:00Z",
+      "address": "E 22ND AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-22nd-ave"
+      ],
+      "streetNames": [
+        "E 22nd Ave"
+      ],
+      "pulsePointId": "2448079194"
+    },
+    {
       "id": "2026-03-20T15:29:00Z_vancouver/e-22nd-ave_vancouver/lillooet-st",
       "timestamp": "2026-03-20T15:29:00Z",
       "address": "E 22ND AVE & LILLOOET ST",
@@ -34,6 +47,6 @@
       "pulsePointId": "2433781130"
     }
   ],
-  "lastIncident": "2026-03-20T15:29:00Z",
-  "count": 2
+  "lastIncident": "2026-04-05T06:12:00Z",
+  "count": 3
 }

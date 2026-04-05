@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-04-05T06:12:00Z_vancouver/e-22nd-ave",
+    "timestamp": "2026-04-05T06:12:00Z",
+    "scrapedAt": "2026-04-05T06:21:17Z",
+    "address": "E 22ND AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-22nd-ave"
+    ],
+    "streetNames": [
+      "E 22nd Ave"
+    ],
+    "pulsePointId": "2448079194"
+  },
+  {
+    "id": "2026-04-05T05:35:00Z_delta/41b-street-conn_delta/deltaport-way",
+    "timestamp": "2026-04-05T05:35:00Z",
+    "scrapedAt": "2026-04-05T06:21:17Z",
+    "address": "41B STREET CONN & DELTAPORT WAY",
+    "city": "Delta",
+    "streets": [
+      "delta/41b-street-conn",
+      "delta/deltaport-way"
+    ],
+    "streetNames": [
+      "41b Street Conn",
+      "Deltaport Way"
+    ],
+    "pulsePointId": "2448065157"
+  },
+  {
+    "id": "2026-04-05T05:34:00Z_vancouver/inverness-st_vancouver/e-41st-ave",
+    "timestamp": "2026-04-05T05:34:00Z",
+    "scrapedAt": "2026-04-05T06:21:17Z",
+    "address": "INVERNESS ST & E 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/inverness-st",
+      "vancouver/e-41st-ave"
+    ],
+    "streetNames": [
+      "Inverness St",
+      "E 41st Ave"
+    ],
+    "pulsePointId": "2448064173"
+  },
+  {
+    "id": "2026-04-05T05:31:00Z_delta/deltaport-way",
+    "timestamp": "2026-04-05T05:31:00Z",
+    "scrapedAt": "2026-04-05T06:21:17Z",
+    "address": "DELTAPORT WAY",
+    "city": "Delta",
+    "streets": [
+      "delta/deltaport-way"
+    ],
+    "streetNames": [
+      "Deltaport Way"
+    ],
+    "pulsePointId": "2448064258"
+  },
+  {
     "id": "2026-04-05T05:17:00Z_surrey/city-pkwy",
     "timestamp": "2026-04-05T05:17:00Z",
     "scrapedAt": "2026-04-05T05:31:37Z",
