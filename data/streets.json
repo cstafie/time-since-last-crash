@@ -1263,8 +1263,8 @@
     "name": "Boundary Rd",
     "slug": "vancouver/boundary-rd",
     "city": "Vancouver",
-    "lastIncident": "2026-04-02T09:31:00Z",
-    "count": 6
+    "lastIncident": "2026-04-05T12:28:00Z",
+    "count": 7
   },
   "surrey/langley-bps": {
     "name": "Langley Bps",
@@ -5478,6 +5478,13 @@
     "slug": "richmond/inglis-dr",
     "city": "Richmond",
     "lastIncident": "2026-04-05T08:58:00Z",
+    "count": 1
+  },
+  "vancouver/imperial-st": {
+    "name": "Imperial St",
+    "slug": "vancouver/imperial-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-05T12:28:00Z",
     "count": 1
   }
 }
