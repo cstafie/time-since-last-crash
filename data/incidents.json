@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-04-05T05:17:00Z_surrey/city-pkwy",
+    "timestamp": "2026-04-05T05:17:00Z",
+    "scrapedAt": "2026-04-05T05:31:37Z",
+    "address": "CITY PKWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/city-pkwy"
+    ],
+    "streetNames": [
+      "City Pkwy"
+    ],
+    "pulsePointId": "2448055431"
+  },
+  {
+    "id": "2026-04-05T04:54:00Z_vancouver/e-55th-ave",
+    "timestamp": "2026-04-05T04:54:00Z",
+    "scrapedAt": "2026-04-05T05:31:37Z",
+    "address": "E 55TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-55th-ave"
+    ],
+    "streetNames": [
+      "E 55th Ave"
+    ],
+    "pulsePointId": "2448045101"
+  },
+  {
     "id": "2026-04-05T04:16:00Z_surrey/148th-st_surrey/96th-ave",
     "timestamp": "2026-04-05T04:16:00Z",
     "scrapedAt": "2026-04-05T04:47:25Z",
