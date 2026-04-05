@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-04-05T22:34:00Z_surrey/152nd-st_surrey/104th-ave",
+      "timestamp": "2026-04-05T22:34:00Z",
+      "address": "152ND ST & 104TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/152nd-st",
+        "surrey/104th-ave"
+      ],
+      "streetNames": [
+        "152nd St",
+        "104th Ave"
+      ],
+      "pulsePointId": "2448467414"
+    },
+    {
       "id": "2026-04-03T16:46:00Z_surrey/king-george-blvd_surrey/104th-ave",
       "timestamp": "2026-04-03T16:46:00Z",
       "address": "KING GEORGE BLVD & 104TH AVE",
@@ -179,6 +194,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-03T16:46:00Z",
-  "count": 12
+  "lastIncident": "2026-04-05T22:34:00Z",
+  "count": 13
 }

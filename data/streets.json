@@ -1312,8 +1312,8 @@
     "name": "104th Ave",
     "slug": "surrey/104th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-03T16:46:00Z",
-    "count": 12
+    "lastIncident": "2026-04-05T22:34:00Z",
+    "count": 13
   },
   "surrey/122nd-st": {
     "name": "122nd St",
@@ -1795,8 +1795,8 @@
     "name": "152nd St",
     "slug": "surrey/152nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-04T17:15:00Z",
-    "count": 8
+    "lastIncident": "2026-04-05T22:34:00Z",
+    "count": 9
   },
   "langley/20611-fraser-hwyste-111": {
     "name": "20611 Fraser Hwy,ste 111",
