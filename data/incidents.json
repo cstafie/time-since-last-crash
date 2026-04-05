@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-04T23:55:00Z_new-westminster/20th-st",
+    "timestamp": "2026-04-04T23:55:00Z",
+    "scrapedAt": "2026-04-05T00:05:29Z",
+    "address": "20TH ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/20th-st"
+    ],
+    "streetNames": [
+      "20th St"
+    ],
+    "pulsePointId": "2447888525"
+  },
+  {
     "id": "2026-04-04T23:08:00Z_burnaby/southoaks-cres_burnaby/kingsway",
     "timestamp": "2026-04-04T23:08:00Z",
     "scrapedAt": "2026-04-04T23:41:18Z",
