@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-05T01:44:00Z_coquitlam/harper-rd_coquitlam/dayton-st",
+    "timestamp": "2026-04-05T01:44:00Z",
+    "scrapedAt": "2026-04-05T02:15:04Z",
+    "address": "HARPER RD & DAYTON ST",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/harper-rd",
+      "coquitlam/dayton-st"
+    ],
+    "streetNames": [
+      "Harper Rd",
+      "Dayton St"
+    ],
+    "pulsePointId": "2447947817"
+  },
+  {
+    "id": "2026-04-05T01:40:00Z_chilliwack/stevenson-rd_chilliwack/vedder-rd",
+    "timestamp": "2026-04-05T01:40:00Z",
+    "scrapedAt": "2026-04-05T02:15:04Z",
+    "address": "STEVENSON RD & VEDDER RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/stevenson-rd",
+      "chilliwack/vedder-rd"
+    ],
+    "streetNames": [
+      "Stevenson Rd",
+      "Vedder Rd"
+    ],
+    "pulsePointId": "2447945419"
+  },
+  {
     "id": "2026-04-05T00:39:00Z_white-rock/north-bluff-rd",
     "timestamp": "2026-04-05T00:39:00Z",
     "scrapedAt": "2026-04-05T01:02:55Z",

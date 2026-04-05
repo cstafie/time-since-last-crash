@@ -1837,8 +1837,8 @@
     "name": "Vedder Rd",
     "slug": "chilliwack/vedder-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-04-01T15:19:00Z",
-    "count": 4
+    "lastIncident": "2026-04-05T01:40:00Z",
+    "count": 5
   },
   "chilliwack/spruce-dr": {
     "name": "Spruce Dr",
@@ -5387,6 +5387,27 @@
     "slug": "white-rock/north-bluff-rd",
     "city": "White Rock",
     "lastIncident": "2026-04-05T00:39:00Z",
+    "count": 1
+  },
+  "chilliwack/stevenson-rd": {
+    "name": "Stevenson Rd",
+    "slug": "chilliwack/stevenson-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-04-05T01:40:00Z",
+    "count": 1
+  },
+  "coquitlam/harper-rd": {
+    "name": "Harper Rd",
+    "slug": "coquitlam/harper-rd",
+    "city": "Coquitlam",
+    "lastIncident": "2026-04-05T01:44:00Z",
+    "count": 1
+  },
+  "coquitlam/dayton-st": {
+    "name": "Dayton St",
+    "slug": "coquitlam/dayton-st",
+    "city": "Coquitlam",
+    "lastIncident": "2026-04-05T01:44:00Z",
     "count": 1
   }
 }

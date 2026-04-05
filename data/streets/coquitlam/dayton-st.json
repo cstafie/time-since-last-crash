@@ -1,0 +1,24 @@
+{
+  "slug": "coquitlam/dayton-st",
+  "name": "Dayton St",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-04-05T01:44:00Z_coquitlam/harper-rd_coquitlam/dayton-st",
+      "timestamp": "2026-04-05T01:44:00Z",
+      "address": "HARPER RD & DAYTON ST",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/harper-rd",
+        "coquitlam/dayton-st"
+      ],
+      "streetNames": [
+        "Harper Rd",
+        "Dayton St"
+      ],
+      "pulsePointId": "2447947817"
+    }
+  ],
+  "lastIncident": "2026-04-05T01:44:00Z",
+  "count": 1
+}
