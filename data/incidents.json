@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-04-05T00:39:00Z_white-rock/north-bluff-rd",
+    "timestamp": "2026-04-05T00:39:00Z",
+    "scrapedAt": "2026-04-05T01:02:55Z",
+    "address": "NORTH BLUFF RD",
+    "city": "White Rock",
+    "streets": [
+      "white-rock/north-bluff-rd"
+    ],
+    "streetNames": [
+      "North Bluff Rd"
+    ],
+    "pulsePointId": "2447912053"
+  },
+  {
+    "id": "2026-04-05T00:27:00Z_burnaby/14th-ave",
+    "timestamp": "2026-04-05T00:27:00Z",
+    "scrapedAt": "2026-04-05T01:02:55Z",
+    "address": "14TH AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/14th-ave"
+    ],
+    "streetNames": [
+      "14th Ave"
+    ],
+    "pulsePointId": "2447906458"
+  },
+  {
+    "id": "2026-04-05T00:12:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-04-05T00:12:00Z",
+    "scrapedAt": "2026-04-05T01:02:55Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2447897483"
+  },
+  {
     "id": "2026-04-04T23:55:00Z_new-westminster/20th-st",
     "timestamp": "2026-04-04T23:55:00Z",
     "scrapedAt": "2026-04-05T00:05:29Z",

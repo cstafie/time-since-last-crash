@@ -1,0 +1,22 @@
+{
+  "slug": "white-rock/north-bluff-rd",
+  "name": "North Bluff Rd",
+  "city": "White Rock",
+  "incidents": [
+    {
+      "id": "2026-04-05T00:39:00Z_white-rock/north-bluff-rd",
+      "timestamp": "2026-04-05T00:39:00Z",
+      "address": "NORTH BLUFF RD",
+      "city": "White Rock",
+      "streets": [
+        "white-rock/north-bluff-rd"
+      ],
+      "streetNames": [
+        "North Bluff Rd"
+      ],
+      "pulsePointId": "2447912053"
+    }
+  ],
+  "lastIncident": "2026-04-05T00:39:00Z",
+  "count": 1
+}
