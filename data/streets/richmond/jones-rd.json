@@ -1,0 +1,24 @@
+{
+  "slug": "richmond/jones-rd",
+  "name": "Jones Rd",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-04-05T03:19:00Z_richmond/garden-city-rd_richmond/jones-rd",
+      "timestamp": "2026-04-05T03:19:00Z",
+      "address": "GARDEN CITY RD & JONES RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/garden-city-rd",
+        "richmond/jones-rd"
+      ],
+      "streetNames": [
+        "Garden City Rd",
+        "Jones Rd"
+      ],
+      "pulsePointId": "2447999964"
+    }
+  ],
+  "lastIncident": "2026-04-05T03:19:00Z",
+  "count": 1
+}

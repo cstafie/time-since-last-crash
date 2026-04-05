@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-05T03:19:00Z_richmond/garden-city-rd_richmond/jones-rd",
+    "timestamp": "2026-04-05T03:19:00Z",
+    "scrapedAt": "2026-04-05T03:37:12Z",
+    "address": "GARDEN CITY RD & JONES RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/garden-city-rd",
+      "richmond/jones-rd"
+    ],
+    "streetNames": [
+      "Garden City Rd",
+      "Jones Rd"
+    ],
+    "pulsePointId": "2447999964"
+  },
+  {
+    "id": "2026-04-05T02:18:00Z_maple-ridge/228th-st_maple-ridge/lougheed-hwy",
+    "timestamp": "2026-04-05T02:18:00Z",
+    "scrapedAt": "2026-04-05T03:37:12Z",
+    "address": "228TH ST & LOUGHEED HWY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/228th-st",
+      "maple-ridge/lougheed-hwy"
+    ],
+    "streetNames": [
+      "228th St",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2447967130"
+  },
+  {
     "id": "2026-04-05T01:44:00Z_coquitlam/harper-rd_coquitlam/dayton-st",
     "timestamp": "2026-04-05T01:44:00Z",
     "scrapedAt": "2026-04-05T02:15:04Z",
