@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/ulster-st",
+  "name": "Ulster St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-04-05T21:41:00Z_burnaby/canada-way_burnaby/ulster-st",
+      "timestamp": "2026-04-05T21:41:00Z",
+      "address": "CANADA WAY & ULSTER ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/canada-way",
+        "burnaby/ulster-st"
+      ],
+      "streetNames": [
+        "Canada Way",
+        "Ulster St"
+      ],
+      "pulsePointId": "2448439223"
+    }
+  ],
+  "lastIncident": "2026-04-05T21:41:00Z",
+  "count": 1
+}

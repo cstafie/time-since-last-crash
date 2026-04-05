@@ -1130,8 +1130,8 @@
     "name": "Canada Way",
     "slug": "burnaby/canada-way",
     "city": "Burnaby",
-    "lastIncident": "2026-04-05T06:16:00Z",
-    "count": 8
+    "lastIncident": "2026-04-05T21:41:00Z",
+    "count": 9
   },
   "burnaby/norland-ave": {
     "name": "Norland Ave",
@@ -5506,6 +5506,13 @@
     "slug": "langley/206th-st",
     "city": "Langley",
     "lastIncident": "2026-04-05T15:41:00Z",
+    "count": 1
+  },
+  "burnaby/ulster-st": {
+    "name": "Ulster St",
+    "slug": "burnaby/ulster-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-04-05T21:41:00Z",
     "count": 1
   }
 }

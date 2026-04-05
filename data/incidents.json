@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-05T21:41:00Z_burnaby/canada-way_burnaby/ulster-st",
+    "timestamp": "2026-04-05T21:41:00Z",
+    "scrapedAt": "2026-04-05T22:03:45Z",
+    "address": "CANADA WAY & ULSTER ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/canada-way",
+      "burnaby/ulster-st"
+    ],
+    "streetNames": [
+      "Canada Way",
+      "Ulster St"
+    ],
+    "pulsePointId": "2448439223"
+  },
+  {
     "id": "2026-04-05T19:22:00Z_langley/256th-st",
     "timestamp": "2026-04-05T19:22:00Z",
     "scrapedAt": "2026-04-05T19:41:33Z",
