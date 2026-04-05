@@ -4,6 +4,21 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-04-05T06:55:00Z_delta/92nd-ave_delta/120th-st",
+      "timestamp": "2026-04-05T06:55:00Z",
+      "address": "92ND AVE & 120TH ST",
+      "city": "Delta",
+      "streets": [
+        "delta/92nd-ave",
+        "delta/120th-st"
+      ],
+      "streetNames": [
+        "92nd Ave",
+        "120th St"
+      ],
+      "pulsePointId": "2448094531"
+    },
+    {
       "id": "2026-04-02T18:05:00Z_delta/120th-st_delta/nordel-way",
       "timestamp": "2026-04-02T18:05:00Z",
       "address": "120TH ST & NORDEL WAY",
@@ -91,6 +106,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-02T18:05:00Z",
-  "count": 6
+  "lastIncident": "2026-04-05T06:55:00Z",
+  "count": 7
 }

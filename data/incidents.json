@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-04-05T06:55:00Z_delta/92nd-ave_delta/120th-st",
+    "timestamp": "2026-04-05T06:55:00Z",
+    "scrapedAt": "2026-04-05T07:22:51Z",
+    "address": "92ND AVE & 120TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/92nd-ave",
+      "delta/120th-st"
+    ],
+    "streetNames": [
+      "92nd Ave",
+      "120th St"
+    ],
+    "pulsePointId": "2448094531"
+  },
+  {
+    "id": "2026-04-05T06:50:00Z_langley/208th-st_langley/36th-ave",
+    "timestamp": "2026-04-05T06:50:00Z",
+    "scrapedAt": "2026-04-05T07:22:51Z",
+    "address": "208TH ST & 36TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/208th-st",
+      "langley/36th-ave"
+    ],
+    "streetNames": [
+      "208th St",
+      "36th Ave"
+    ],
+    "pulsePointId": "2448092725"
+  },
+  {
+    "id": "2026-04-05T06:32:00Z_surrey/148th-st",
+    "timestamp": "2026-04-05T06:32:00Z",
+    "scrapedAt": "2026-04-05T07:22:51Z",
+    "address": "148TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/148th-st"
+    ],
+    "streetNames": [
+      "148th St"
+    ],
+    "pulsePointId": "2448086826"
+  },
+  {
     "id": "2026-04-05T06:27:00Z_chilliwack/wolfe-rd",
     "timestamp": "2026-04-05T06:27:00Z",
     "scrapedAt": "2026-04-05T06:48:45Z",
@@ -12,6 +58,22 @@
       "Wolfe Rd"
     ],
     "pulsePointId": "2448084528"
+  },
+  {
+    "id": "2026-04-05T06:16:00Z_burnaby/canada-way_burnaby/burris-st",
+    "timestamp": "2026-04-05T06:16:00Z",
+    "scrapedAt": "2026-04-05T07:22:51Z",
+    "address": "CANADA WAY & BURRIS ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/canada-way",
+      "burnaby/burris-st"
+    ],
+    "streetNames": [
+      "Canada Way",
+      "Burris St"
+    ],
+    "pulsePointId": "2448081247"
   },
   {
     "id": "2026-04-05T06:12:00Z_vancouver/e-22nd-ave",

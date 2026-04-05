@@ -871,8 +871,8 @@
     "name": "120th St",
     "slug": "delta/120th-st",
     "city": "Delta",
-    "lastIncident": "2026-04-02T18:05:00Z",
-    "count": 6
+    "lastIncident": "2026-04-05T06:55:00Z",
+    "count": 7
   },
   "delta/roberts-bank-rd": {
     "name": "Roberts Bank Rd",
@@ -1130,8 +1130,8 @@
     "name": "Canada Way",
     "slug": "burnaby/canada-way",
     "city": "Burnaby",
-    "lastIncident": "2026-04-02T00:13:00Z",
-    "count": 7
+    "lastIncident": "2026-04-05T06:16:00Z",
+    "count": 8
   },
   "burnaby/norland-ave": {
     "name": "Norland Ave",
@@ -1893,8 +1893,8 @@
     "name": "148th St",
     "slug": "surrey/148th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-05T04:16:00Z",
-    "count": 5
+    "lastIncident": "2026-04-05T06:32:00Z",
+    "count": 6
   },
   "vancouver/earles-st": {
     "name": "Earles St",
@@ -3776,8 +3776,8 @@
     "name": "36th Ave",
     "slug": "langley/36th-ave",
     "city": "Langley",
-    "lastIncident": "2026-03-24T05:01:00Z",
-    "count": 1
+    "lastIncident": "2026-04-05T06:50:00Z",
+    "count": 2
   },
   "vancouver/e-54th-ave": {
     "name": "E 54th Ave",
@@ -4546,8 +4546,8 @@
     "name": "208th St",
     "slug": "langley/208th-st",
     "city": "Langley",
-    "lastIncident": "2026-04-02T03:36:00Z",
-    "count": 2
+    "lastIncident": "2026-04-05T06:50:00Z",
+    "count": 3
   },
   "langley/46a-ave": {
     "name": "46a Ave",
@@ -5443,6 +5443,20 @@
     "slug": "chilliwack/wolfe-rd",
     "city": "Chilliwack",
     "lastIncident": "2026-04-05T06:27:00Z",
+    "count": 1
+  },
+  "delta/92nd-ave": {
+    "name": "92nd Ave",
+    "slug": "delta/92nd-ave",
+    "city": "Delta",
+    "lastIncident": "2026-04-05T06:55:00Z",
+    "count": 1
+  },
+  "burnaby/burris-st": {
+    "name": "Burris St",
+    "slug": "burnaby/burris-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-04-05T06:16:00Z",
     "count": 1
   }
 }
