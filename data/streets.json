@@ -5493,5 +5493,19 @@
     "city": "Abbotsford",
     "lastIncident": "2026-04-05T13:45:00Z",
     "count": 1
+  },
+  "langley/douglas-cres": {
+    "name": "Douglas Cres",
+    "slug": "langley/douglas-cres",
+    "city": "Langley",
+    "lastIncident": "2026-04-05T15:42:00Z",
+    "count": 2
+  },
+  "langley/206th-st": {
+    "name": "206th St",
+    "slug": "langley/206th-st",
+    "city": "Langley",
+    "lastIncident": "2026-04-05T15:41:00Z",
+    "count": 1
   }
 }
