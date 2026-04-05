@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-05T12:54:00Z_vancouver/boundary-rd_vancouver/imperial-st",
+    "timestamp": "2026-04-05T12:54:00Z",
+    "scrapedAt": "2026-04-05T13:22:12Z",
+    "address": "BOUNDARY RD & IMPERIAL ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/boundary-rd",
+      "vancouver/imperial-st"
+    ],
+    "streetNames": [
+      "Boundary Rd",
+      "Imperial St"
+    ],
+    "pulsePointId": "2448192937"
+  },
+  {
     "id": "2026-04-05T12:28:00Z_vancouver/imperial-st_vancouver/boundary-rd",
     "timestamp": "2026-04-05T12:28:00Z",
     "scrapedAt": "2026-04-05T12:45:08Z",
