@@ -5486,5 +5486,12 @@
     "city": "Vancouver",
     "lastIncident": "2026-04-05T12:54:00Z",
     "count": 2
+  },
+  "abbotsford/southern-dr": {
+    "name": "Southern Dr",
+    "slug": "abbotsford/southern-dr",
+    "city": "Abbotsford",
+    "lastIncident": "2026-04-05T13:45:00Z",
+    "count": 1
   }
 }

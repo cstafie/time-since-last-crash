@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/southern-dr",
+  "name": "Southern Dr",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-04-05T13:45:00Z_abbotsford/southern-dr",
+      "timestamp": "2026-04-05T13:45:00Z",
+      "address": "SOUTHERN DR",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/southern-dr"
+      ],
+      "streetNames": [
+        "Southern Dr"
+      ],
+      "pulsePointId": "2448209631"
+    }
+  ],
+  "lastIncident": "2026-04-05T13:45:00Z",
+  "count": 1
+}
