@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-05T06:27:00Z_chilliwack/wolfe-rd",
+    "timestamp": "2026-04-05T06:27:00Z",
+    "scrapedAt": "2026-04-05T06:48:45Z",
+    "address": "WOLFE RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/wolfe-rd"
+    ],
+    "streetNames": [
+      "Wolfe Rd"
+    ],
+    "pulsePointId": "2448084528"
+  },
+  {
     "id": "2026-04-05T06:12:00Z_vancouver/e-22nd-ave",
     "timestamp": "2026-04-05T06:12:00Z",
     "scrapedAt": "2026-04-05T06:21:17Z",
