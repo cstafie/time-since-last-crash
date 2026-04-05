@@ -640,8 +640,8 @@
     "name": "92nd Ave",
     "slug": "surrey/92nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-31T23:51:00Z",
-    "count": 5
+    "lastIncident": "2026-04-05T23:08:00Z",
+    "count": 6
   },
   "surrey/96th-ave": {
     "name": "96th Ave",
@@ -5513,6 +5513,34 @@
     "slug": "burnaby/ulster-st",
     "city": "Burnaby",
     "lastIncident": "2026-04-05T21:41:00Z",
+    "count": 1
+  },
+  "mission/tunbridge-ave": {
+    "name": "Tunbridge Ave",
+    "slug": "mission/tunbridge-ave",
+    "city": "Mission",
+    "lastIncident": "2026-04-05T23:40:00Z",
+    "count": 1
+  },
+  "vancouver/nanton-ave": {
+    "name": "Nanton Ave",
+    "slug": "vancouver/nanton-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-05T23:27:00Z",
+    "count": 1
+  },
+  "vancouver/arbutus-st": {
+    "name": "Arbutus St",
+    "slug": "vancouver/arbutus-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-05T23:27:00Z",
+    "count": 1
+  },
+  "surrey/125th-st": {
+    "name": "125th St",
+    "slug": "surrey/125th-st",
+    "city": "Surrey",
+    "lastIncident": "2026-04-05T23:08:00Z",
     "count": 1
   }
 }
