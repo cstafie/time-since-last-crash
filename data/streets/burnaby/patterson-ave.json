@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/patterson-ave",
+  "name": "Patterson Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-04-05T07:33:00Z_burnaby/marine-dr_burnaby/patterson-ave",
+      "timestamp": "2026-04-05T07:33:00Z",
+      "address": "MARINE DR & PATTERSON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/marine-dr",
+        "burnaby/patterson-ave"
+      ],
+      "streetNames": [
+        "Marine Dr",
+        "Patterson Ave"
+      ],
+      "pulsePointId": "2448106817"
+    }
+  ],
+  "lastIncident": "2026-04-05T07:33:00Z",
+  "count": 1
+}

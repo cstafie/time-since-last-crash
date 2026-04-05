@@ -5458,5 +5458,19 @@
     "city": "Burnaby",
     "lastIncident": "2026-04-05T06:16:00Z",
     "count": 1
+  },
+  "burnaby/marine-dr": {
+    "name": "Marine Dr",
+    "slug": "burnaby/marine-dr",
+    "city": "Burnaby",
+    "lastIncident": "2026-04-05T07:33:00Z",
+    "count": 1
+  },
+  "burnaby/patterson-ave": {
+    "name": "Patterson Ave",
+    "slug": "burnaby/patterson-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-04-05T07:33:00Z",
+    "count": 1
   }
 }

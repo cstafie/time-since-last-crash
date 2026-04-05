@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-05T07:33:00Z_burnaby/marine-dr_burnaby/patterson-ave",
+    "timestamp": "2026-04-05T07:33:00Z",
+    "scrapedAt": "2026-04-05T08:07:52Z",
+    "address": "MARINE DR & PATTERSON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/marine-dr",
+      "burnaby/patterson-ave"
+    ],
+    "streetNames": [
+      "Marine Dr",
+      "Patterson Ave"
+    ],
+    "pulsePointId": "2448106817"
+  },
+  {
     "id": "2026-04-05T07:32:00Z_vancouver/e-cordova-st",
     "timestamp": "2026-04-05T07:32:00Z",
     "scrapedAt": "2026-04-05T07:46:42Z",
