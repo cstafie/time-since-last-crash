@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-04-06T06:10:00Z_vancouver/thunderbird-blvd",
+    "timestamp": "2026-04-06T06:10:00Z",
+    "scrapedAt": "2026-04-06T06:30:28Z",
+    "address": "THUNDERBIRD BLVD",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/thunderbird-blvd"
+    ],
+    "streetNames": [
+      "Thunderbird Blvd"
+    ],
+    "pulsePointId": "2448694929"
+  },
+  {
+    "id": "2026-04-06T06:08:00Z_burnaby/16th-ave",
+    "timestamp": "2026-04-06T06:08:00Z",
+    "scrapedAt": "2026-04-06T06:30:28Z",
+    "address": "16TH AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/16th-ave"
+    ],
+    "streetNames": [
+      "16th Ave"
+    ],
+    "pulsePointId": "2448694527"
+  },
+  {
     "id": "2026-04-06T02:07:00Z_vancouver/windermere-st_vancouver/e-hastings-st",
     "timestamp": "2026-04-06T02:07:00Z",
     "scrapedAt": "2026-04-06T02:15:00Z",
