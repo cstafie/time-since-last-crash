@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-01T21:56:00Z",
-    "count": 7
+    "lastIncident": "2026-04-06T08:49:00Z",
+    "count": 8
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -5576,6 +5576,13 @@
     "slug": "chilliwack/chilliwack-central-rd",
     "city": "Chilliwack",
     "lastIncident": "2026-04-06T07:38:00Z",
+    "count": 1
+  },
+  "vancouver/w-36th-ave": {
+    "name": "W 36th Ave",
+    "slug": "vancouver/w-36th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-06T08:49:00Z",
     "count": 1
   }
 }
