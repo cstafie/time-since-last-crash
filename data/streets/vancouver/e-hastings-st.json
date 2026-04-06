@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-06T02:07:00Z_vancouver/windermere-st_vancouver/e-hastings-st",
+      "timestamp": "2026-04-06T02:07:00Z",
+      "address": "WINDERMERE ST & E HASTINGS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/windermere-st",
+        "vancouver/e-hastings-st"
+      ],
+      "streetNames": [
+        "Windermere St",
+        "E Hastings St"
+      ],
+      "pulsePointId": "2448585766"
+    },
+    {
       "id": "2026-04-01T12:27:00Z_vancouver/dunlevy-ave_vancouver/e-hastings-st",
       "timestamp": "2026-04-01T12:27:00Z",
       "address": "DUNLEVY AVE & E HASTINGS ST",
@@ -120,6 +135,6 @@
       "pulsePointId": "2433305056"
     }
   ],
-  "lastIncident": "2026-04-01T12:27:00Z",
-  "count": 8
+  "lastIncident": "2026-04-06T02:07:00Z",
+  "count": 9
 }
