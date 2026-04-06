@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-04T06:47:00Z",
-    "count": 8
+    "lastIncident": "2026-04-06T20:58:00Z",
+    "count": 9
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",
@@ -1732,8 +1732,8 @@
     "name": "Alex Fraser Brdg",
     "slug": "delta/alex-fraser-brdg",
     "city": "Delta",
-    "lastIncident": "2026-04-03T16:58:00Z",
-    "count": 6
+    "lastIncident": "2026-04-06T20:49:00Z",
+    "count": 7
   },
   "abbotsford/riverside-st": {
     "name": "Riverside St",
