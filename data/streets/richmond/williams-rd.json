@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-04-06T16:22:00Z_richmond/no-5-rd_richmond/williams-rd",
+      "timestamp": "2026-04-06T16:22:00Z",
+      "address": "NO 5 RD & WILLIAMS RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/no-5-rd",
+        "richmond/williams-rd"
+      ],
+      "streetNames": [
+        "No 5 Rd",
+        "Williams Rd"
+      ],
+      "pulsePointId": "2448892250"
+    },
+    {
       "id": "2026-04-02T17:28:00Z_richmond/williams-rd",
       "timestamp": "2026-04-02T17:28:00Z",
       "address": "WILLIAMS RD",
@@ -32,6 +47,6 @@
       "pulsePointId": "2439496679"
     }
   ],
-  "lastIncident": "2026-04-02T17:28:00Z",
-  "count": 2
+  "lastIncident": "2026-04-06T16:22:00Z",
+  "count": 3
 }

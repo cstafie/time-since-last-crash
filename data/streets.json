@@ -437,8 +437,8 @@
     "name": "Blundell Rd",
     "slug": "richmond/blundell-rd",
     "city": "Richmond",
-    "lastIncident": "2026-04-01T21:27:00Z",
-    "count": 4
+    "lastIncident": "2026-04-06T16:39:00Z",
+    "count": 5
   },
   "richmond/bowcock-rd": {
     "name": "Bowcock Rd",
@@ -500,8 +500,8 @@
     "name": "St Albans Rd",
     "slug": "richmond/st-albans-rd",
     "city": "Richmond",
-    "lastIncident": "2026-03-08T18:17:00Z",
-    "count": 1
+    "lastIncident": "2026-04-06T16:39:00Z",
+    "count": 2
   },
   "richmond/wilkinson-rd": {
     "name": "Wilkinson Rd",
@@ -2572,8 +2572,8 @@
     "name": "No 5 Rd",
     "slug": "richmond/no-5-rd",
     "city": "Richmond",
-    "lastIncident": "2026-03-17T14:53:00Z",
-    "count": 1
+    "lastIncident": "2026-04-06T16:22:00Z",
+    "count": 2
   },
   "port-moody/heritage-mountain-blvd": {
     "name": "Heritage Mountain Blvd",
@@ -3629,8 +3629,8 @@
     "name": "Williams Rd",
     "slug": "richmond/williams-rd",
     "city": "Richmond",
-    "lastIncident": "2026-04-02T17:28:00Z",
-    "count": 2
+    "lastIncident": "2026-04-06T16:22:00Z",
+    "count": 3
   },
   "surrey/91st-ave": {
     "name": "91st Ave",
