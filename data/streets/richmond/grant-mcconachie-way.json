@@ -1,0 +1,22 @@
+{
+  "slug": "richmond/grant-mcconachie-way",
+  "name": "Grant Mcconachie Way",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-04-06T17:40:00Z_richmond/grant-mcconachie-way",
+      "timestamp": "2026-04-06T17:40:00Z",
+      "address": "GRANT MCCONACHIE WAY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/grant-mcconachie-way"
+      ],
+      "streetNames": [
+        "Grant Mcconachie Way"
+      ],
+      "pulsePointId": "2448937172"
+    }
+  ],
+  "lastIncident": "2026-04-06T17:40:00Z",
+  "count": 1
+}

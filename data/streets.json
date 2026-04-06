@@ -5605,5 +5605,12 @@
     "city": "Burnaby",
     "lastIncident": "2026-04-06T17:20:00Z",
     "count": 1
+  },
+  "richmond/grant-mcconachie-way": {
+    "name": "Grant Mcconachie Way",
+    "slug": "richmond/grant-mcconachie-way",
+    "city": "Richmond",
+    "lastIncident": "2026-04-06T17:40:00Z",
+    "count": 1
   }
 }
