@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-06T14:57:00Z_maple-ridge/118th-ave",
+    "timestamp": "2026-04-06T14:57:00Z",
+    "scrapedAt": "2026-04-06T15:13:05Z",
+    "address": "118TH AVE",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/118th-ave"
+    ],
+    "streetNames": [
+      "118th Ave"
+    ],
+    "pulsePointId": "2448848273"
+  },
+  {
     "id": "2026-04-06T13:46:00Z_vancouver/main-st",
     "timestamp": "2026-04-06T13:46:00Z",
     "scrapedAt": "2026-04-06T13:57:13Z",
