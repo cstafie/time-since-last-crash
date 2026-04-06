@@ -1,6 +1,6 @@
 {
-  "slug": "burnaby/cariboo-rd",
-  "name": "Cariboo Rd",
+  "slug": "burnaby/cariboo-dr",
+  "name": "Cariboo Dr",
   "city": "Burnaby",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Cariboo Rd"
       ],
       "pulsePointId": "2448925919"
-    },
-    {
-      "id": "2026-03-16T18:34:00Z_burnaby/cariboo-rd_burnaby/avalon-ave",
-      "timestamp": "2026-03-16T18:34:00Z",
-      "address": "CARIBOO RD & AVALON AVE",
-      "city": "Burnaby",
-      "streets": [
-        "burnaby/cariboo-rd",
-        "burnaby/avalon-ave"
-      ],
-      "streetNames": [
-        "Cariboo Rd",
-        "Avalon Ave"
-      ],
-      "pulsePointId": "2435284202"
     }
   ],
   "lastIncident": "2026-04-06T17:20:00Z",
-  "count": 2
+  "count": 1
 }
