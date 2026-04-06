@@ -1116,8 +1116,8 @@
     "name": "Lougheed Hwy",
     "slug": "coquitlam/lougheed-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-03-26T18:34:00Z",
-    "count": 5
+    "lastIncident": "2026-04-06T20:00:00Z",
+    "count": 6
   },
   "coquitlam/orchid-dr": {
     "name": "Orchid Dr",
@@ -5618,6 +5618,13 @@
     "slug": "vancouver/w-51st-ave",
     "city": "Vancouver",
     "lastIncident": "2026-04-06T19:32:00Z",
+    "count": 1
+  },
+  "coquitlam/king-edward-st": {
+    "name": "King Edward St",
+    "slug": "coquitlam/king-edward-st",
+    "city": "Coquitlam",
+    "lastIncident": "2026-04-06T20:00:00Z",
     "count": 1
   }
 }
