@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-06T07:38:00Z_chilliwack/prest-rd_chilliwack/chilliwack-central-rd",
+    "timestamp": "2026-04-06T07:38:00Z",
+    "scrapedAt": "2026-04-06T08:04:45Z",
+    "address": "PREST RD & CHILLIWACK CENTRAL RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/prest-rd",
+      "chilliwack/chilliwack-central-rd"
+    ],
+    "streetNames": [
+      "Prest Rd",
+      "Chilliwack Central Rd"
+    ],
+    "pulsePointId": "2448720210"
+  },
+  {
     "id": "2026-04-06T06:10:00Z_vancouver/thunderbird-blvd",
     "timestamp": "2026-04-06T06:10:00Z",
     "scrapedAt": "2026-04-06T06:30:28Z",
