@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-06T13:46:00Z_vancouver/main-st",
+      "timestamp": "2026-04-06T13:46:00Z",
+      "address": "MAIN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/main-st"
+      ],
+      "streetNames": [
+        "Main St"
+      ],
+      "pulsePointId": "2448818634"
+    },
+    {
       "id": "2026-04-04T10:54:00Z_vancouver/main-st",
       "timestamp": "2026-04-04T10:54:00Z",
       "address": "MAIN ST",
@@ -118,6 +131,6 @@
       "pulsePointId": "2432937969"
     }
   ],
-  "lastIncident": "2026-04-04T10:54:00Z",
-  "count": 8
+  "lastIncident": "2026-04-06T13:46:00Z",
+  "count": 9
 }
