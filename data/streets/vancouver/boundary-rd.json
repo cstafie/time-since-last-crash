@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-06T21:43:00Z_vancouver/boundary-rd",
+      "timestamp": "2026-04-06T21:43:00Z",
+      "address": "BOUNDARY RD",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/boundary-rd"
+      ],
+      "streetNames": [
+        "Boundary Rd"
+      ],
+      "pulsePointId": "2449099693"
+    },
+    {
       "id": "2026-04-05T12:54:00Z_vancouver/boundary-rd_vancouver/imperial-st",
       "timestamp": "2026-04-05T12:54:00Z",
       "address": "BOUNDARY RD & IMPERIAL ST",
@@ -121,6 +134,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-05T12:54:00Z",
-  "count": 8
+  "lastIncident": "2026-04-06T21:43:00Z",
+  "count": 9
 }
