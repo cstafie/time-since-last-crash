@@ -5675,5 +5675,26 @@
     "city": "Surrey",
     "lastIncident": "2026-04-07T19:43:00Z",
     "count": 1
+  },
+  "burnaby/burnaby-mountain-pkwy": {
+    "name": "Burnaby Mountain Pkwy",
+    "slug": "burnaby/burnaby-mountain-pkwy",
+    "city": "Burnaby",
+    "lastIncident": "2026-04-07T22:22:00Z",
+    "count": 1
+  },
+  "burnaby/centennial-way": {
+    "name": "Centennial Way",
+    "slug": "burnaby/centennial-way",
+    "city": "Burnaby",
+    "lastIncident": "2026-04-07T22:22:00Z",
+    "count": 1
+  },
+  "surrey/103a-ave": {
+    "name": "103a Ave",
+    "slug": "surrey/103a-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-04-07T22:20:00Z",
+    "count": 1
   }
 }

@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-07T22:22:00Z_burnaby/burnaby-mountain-pkwy_burnaby/centennial-way",
+    "timestamp": "2026-04-07T22:22:00Z",
+    "scrapedAt": "2026-04-07T22:43:21Z",
+    "address": "BURNABY MOUNTAIN PKWY & CENTENNIAL WAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/burnaby-mountain-pkwy",
+      "burnaby/centennial-way"
+    ],
+    "streetNames": [
+      "Burnaby Mountain Pkwy",
+      "Centennial Way"
+    ],
+    "pulsePointId": "2449771563"
+  },
+  {
+    "id": "2026-04-07T22:20:00Z_surrey/103a-ave",
+    "timestamp": "2026-04-07T22:20:00Z",
+    "scrapedAt": "2026-04-07T22:43:21Z",
+    "address": "103A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/103a-ave"
+    ],
+    "streetNames": [
+      "103a Ave"
+    ],
+    "pulsePointId": "2449768441"
+  },
+  {
     "id": "2026-04-07T20:02:00Z_vancouver/w-29th-ave_vancouver/oak-st",
     "timestamp": "2026-04-07T20:02:00Z",
     "scrapedAt": "2026-04-07T20:09:18Z",
