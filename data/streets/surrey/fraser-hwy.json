@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-04-07T03:16:00Z_surrey/fraser-hwy_surrey/152nd-st",
+      "timestamp": "2026-04-07T03:16:00Z",
+      "address": "FRASER HWY & 152ND ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/fraser-hwy",
+        "surrey/152nd-st"
+      ],
+      "streetNames": [
+        "Fraser Hwy",
+        "152nd St"
+      ],
+      "pulsePointId": "2449286289"
+    },
+    {
       "id": "2026-03-21T03:38:00Z_surrey/fraser-hwy_surrey/willowbrook-dr",
       "timestamp": "2026-03-21T03:38:00Z",
       "address": "FRASER HWY & WILLOWBROOK DR",
@@ -46,6 +61,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-21T03:38:00Z",
-  "count": 3
+  "lastIncident": "2026-04-07T03:16:00Z",
+  "count": 4
 }

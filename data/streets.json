@@ -927,8 +927,8 @@
     "name": "Fraser Hwy",
     "slug": "surrey/fraser-hwy",
     "city": "Surrey",
-    "lastIncident": "2026-03-21T03:38:00Z",
-    "count": 3
+    "lastIncident": "2026-04-07T03:16:00Z",
+    "count": 4
   },
   "surrey/159th-st": {
     "name": "159th St",
@@ -1795,8 +1795,8 @@
     "name": "152nd St",
     "slug": "surrey/152nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-05T22:34:00Z",
-    "count": 9
+    "lastIncident": "2026-04-07T03:16:00Z",
+    "count": 10
   },
   "langley/20611-fraser-hwyste-111": {
     "name": "20611 Fraser Hwy,ste 111",
