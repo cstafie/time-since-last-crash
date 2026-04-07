@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-07T07:14:00Z_west-vancouver/trans-canada-hwy",
+    "timestamp": "2026-04-07T07:14:00Z",
+    "scrapedAt": "2026-04-07T07:28:55Z",
+    "address": "TRANS CANADA HWY",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2449371828"
+  },
+  {
     "id": "2026-04-07T04:20:00Z_vancouver/ash-st_vancouver/w-6th-ave",
     "timestamp": "2026-04-07T04:20:00Z",
     "scrapedAt": "2026-04-07T05:13:27Z",
