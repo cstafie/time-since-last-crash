@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-07T18:28:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-04-07T18:28:00Z",
+    "scrapedAt": "2026-04-07T18:46:15Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2449621957"
+  },
+  {
+    "id": "2026-04-07T18:14:00Z_abbotsford/livingstone-ave_abbotsford/peardonville-rd",
+    "timestamp": "2026-04-07T18:14:00Z",
+    "scrapedAt": "2026-04-07T18:46:15Z",
+    "address": "LIVINGSTONE AVE & PEARDONVILLE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/livingstone-ave",
+      "abbotsford/peardonville-rd"
+    ],
+    "streetNames": [
+      "Livingstone Ave",
+      "Peardonville Rd"
+    ],
+    "pulsePointId": "2449613393"
+  },
+  {
     "id": "2026-04-07T17:45:00Z_abbotsford/32442-george-ferguson-wayste-8",
     "timestamp": "2026-04-07T17:45:00Z",
     "scrapedAt": "2026-04-07T18:14:53Z",
