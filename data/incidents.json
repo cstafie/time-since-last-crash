@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-04-07T23:01:00Z_vancouver/oak-st_vancouver/w-46th-ave",
+    "timestamp": "2026-04-07T23:01:00Z",
+    "scrapedAt": "2026-04-07T23:10:36Z",
+    "address": "OAK ST & W 46TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/oak-st",
+      "vancouver/w-46th-ave"
+    ],
+    "streetNames": [
+      "Oak St",
+      "W 46th Ave"
+    ],
+    "pulsePointId": "2449797320"
+  },
+  {
+    "id": "2026-04-07T22:50:00Z_abbotsford/south-fraser-way_abbotsford/ware-st",
+    "timestamp": "2026-04-07T22:50:00Z",
+    "scrapedAt": "2026-04-07T23:10:36Z",
+    "address": "SOUTH FRASER WAY & WARE ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/south-fraser-way",
+      "abbotsford/ware-st"
+    ],
+    "streetNames": [
+      "South Fraser Way",
+      "Ware St"
+    ],
+    "pulsePointId": "2449789904"
+  },
+  {
+    "id": "2026-04-07T22:50:00Z_abbotsford/33147-south-fraser-way",
+    "timestamp": "2026-04-07T22:50:00Z",
+    "scrapedAt": "2026-04-07T23:10:36Z",
+    "address": "33147 SOUTH FRASER WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/33147-south-fraser-way"
+    ],
+    "streetNames": [
+      "33147 South Fraser Way"
+    ],
+    "pulsePointId": "2449790358"
+  },
+  {
+    "id": "2026-04-07T22:49:00Z_vancouver/w-broadway",
+    "timestamp": "2026-04-07T22:49:00Z",
+    "scrapedAt": "2026-04-07T23:10:36Z",
+    "address": "W BROADWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-broadway"
+    ],
+    "streetNames": [
+      "W Broadway"
+    ],
+    "pulsePointId": "2449789893"
+  },
+  {
     "id": "2026-04-07T22:22:00Z_burnaby/burnaby-mountain-pkwy_burnaby/centennial-way",
     "timestamp": "2026-04-07T22:22:00Z",
     "scrapedAt": "2026-04-07T22:43:21Z",

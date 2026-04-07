@@ -766,8 +766,8 @@
     "name": "Oak St",
     "slug": "vancouver/oak-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-07T20:02:00Z",
-    "count": 7
+    "lastIncident": "2026-04-07T23:01:00Z",
+    "count": 8
   },
   "vancouver/w-12th-ave": {
     "name": "W 12th Ave",
@@ -808,8 +808,8 @@
     "name": "W Broadway",
     "slug": "vancouver/w-broadway",
     "city": "Vancouver",
-    "lastIncident": "2026-04-02T20:24:00Z",
-    "count": 6
+    "lastIncident": "2026-04-07T22:49:00Z",
+    "count": 7
   },
   "west-vancouver/eagleridge-drive-ofrp": {
     "name": "Eagleridge Drive Ofrp",
@@ -1746,8 +1746,8 @@
     "name": "Ware St",
     "slug": "abbotsford/ware-st",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-13T15:49:00Z",
-    "count": 1
+    "lastIncident": "2026-04-07T22:50:00Z",
+    "count": 2
   },
   "abbotsford/bourquin-cres-e": {
     "name": "Bourquin Cres E",
@@ -1767,8 +1767,8 @@
     "name": "South Fraser Way",
     "slug": "abbotsford/south-fraser-way",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-04T18:25:00Z",
-    "count": 9
+    "lastIncident": "2026-04-07T22:50:00Z",
+    "count": 10
   },
   "vancouver/e-hastings-st": {
     "name": "E Hastings St",
@@ -5695,6 +5695,20 @@
     "slug": "surrey/103a-ave",
     "city": "Surrey",
     "lastIncident": "2026-04-07T22:20:00Z",
+    "count": 1
+  },
+  "vancouver/w-46th-ave": {
+    "name": "W 46th Ave",
+    "slug": "vancouver/w-46th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-07T23:01:00Z",
+    "count": 1
+  },
+  "abbotsford/33147-south-fraser-way": {
+    "name": "33147 South Fraser Way",
+    "slug": "abbotsford/33147-south-fraser-way",
+    "city": "Abbotsford",
+    "lastIncident": "2026-04-07T22:50:00Z",
     "count": 1
   }
 }
