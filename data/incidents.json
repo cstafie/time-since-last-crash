@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-07T07:58:00Z_vancouver/main-st_vancouver/e-8th-ave",
+    "timestamp": "2026-04-07T07:58:00Z",
+    "scrapedAt": "2026-04-07T08:37:38Z",
+    "address": "MAIN ST & E 8TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st",
+      "vancouver/e-8th-ave"
+    ],
+    "streetNames": [
+      "Main St",
+      "E 8th Ave"
+    ],
+    "pulsePointId": "2449382773"
+  },
+  {
     "id": "2026-04-07T07:14:00Z_west-vancouver/trans-canada-hwy",
     "timestamp": "2026-04-07T07:14:00Z",
     "scrapedAt": "2026-04-07T07:28:55Z",
