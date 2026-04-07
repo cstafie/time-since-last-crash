@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-04-07T18:50:00Z_vancouver/w-57th-ave_vancouver/oak-st",
+    "timestamp": "2026-04-07T18:50:00Z",
+    "scrapedAt": "2026-04-07T19:22:54Z",
+    "address": "W 57TH AVE & OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-57th-ave",
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "W 57th Ave",
+      "Oak St"
+    ],
+    "pulsePointId": "2449633362"
+  },
+  {
+    "id": "2026-04-07T18:47:00Z_coquitlam/como-lake-ave_coquitlam/clarke-rd",
+    "timestamp": "2026-04-07T18:47:00Z",
+    "scrapedAt": "2026-04-07T19:22:54Z",
+    "address": "COMO LAKE AVE & CLARKE RD",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/como-lake-ave",
+      "coquitlam/clarke-rd"
+    ],
+    "streetNames": [
+      "Como Lake Ave",
+      "Clarke Rd"
+    ],
+    "pulsePointId": "2449631707"
+  },
+  {
+    "id": "2026-04-07T18:44:00Z_white-rock/oxford-st",
+    "timestamp": "2026-04-07T18:44:00Z",
+    "scrapedAt": "2026-04-07T19:22:54Z",
+    "address": "OXFORD ST",
+    "city": "White Rock",
+    "streets": [
+      "white-rock/oxford-st"
+    ],
+    "streetNames": [
+      "Oxford St"
+    ],
+    "pulsePointId": "2449630424"
+  },
+  {
     "id": "2026-04-07T18:28:00Z_abbotsford/trans-canada-hwy",
     "timestamp": "2026-04-07T18:28:00Z",
     "scrapedAt": "2026-04-07T18:46:15Z",

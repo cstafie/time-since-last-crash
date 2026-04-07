@@ -1,0 +1,22 @@
+{
+  "slug": "white-rock/oxford-st",
+  "name": "Oxford St",
+  "city": "White Rock",
+  "incidents": [
+    {
+      "id": "2026-04-07T18:44:00Z_white-rock/oxford-st",
+      "timestamp": "2026-04-07T18:44:00Z",
+      "address": "OXFORD ST",
+      "city": "White Rock",
+      "streets": [
+        "white-rock/oxford-st"
+      ],
+      "streetNames": [
+        "Oxford St"
+      ],
+      "pulsePointId": "2449630424"
+    }
+  ],
+  "lastIncident": "2026-04-07T18:44:00Z",
+  "count": 1
+}
