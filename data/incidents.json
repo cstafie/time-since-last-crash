@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-04-07T23:38:00Z_langley/88th-ave",
+    "timestamp": "2026-04-07T23:38:00Z",
+    "scrapedAt": "2026-04-07T23:43:13Z",
+    "address": "88TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/88th-ave"
+    ],
+    "streetNames": [
+      "88th Ave"
+    ],
+    "pulsePointId": "2449822530"
+  },
+  {
+    "id": "2026-04-07T23:16:00Z_chilliwack/lickman-rd",
+    "timestamp": "2026-04-07T23:16:00Z",
+    "scrapedAt": "2026-04-07T23:43:13Z",
+    "address": "LICKMAN RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/lickman-rd"
+    ],
+    "streetNames": [
+      "Lickman Rd"
+    ],
+    "pulsePointId": "2449806893"
+  },
+  {
     "id": "2026-04-07T23:01:00Z_vancouver/oak-st_vancouver/w-46th-ave",
     "timestamp": "2026-04-07T23:01:00Z",
     "scrapedAt": "2026-04-07T23:10:36Z",
