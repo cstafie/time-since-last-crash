@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-07T04:20:00Z_vancouver/ash-st_vancouver/w-6th-ave",
+      "timestamp": "2026-04-07T04:20:00Z",
+      "address": "ASH ST & W 6TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/ash-st",
+        "vancouver/w-6th-ave"
+      ],
+      "streetNames": [
+        "Ash St",
+        "W 6th Ave"
+      ],
+      "pulsePointId": "2449313040"
+    },
+    {
       "id": "2026-03-19T22:26:00Z_vancouver/w-6th-ave",
       "timestamp": "2026-03-19T22:26:00Z",
       "address": "W 6TH AVE",
@@ -32,6 +47,6 @@
       "pulsePointId": "2432704249"
     }
   ],
-  "lastIncident": "2026-03-19T22:26:00Z",
-  "count": 2
+  "lastIncident": "2026-04-07T04:20:00Z",
+  "count": 3
 }
