@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-07T20:02:00Z_vancouver/w-29th-ave_vancouver/oak-st",
+      "timestamp": "2026-04-07T20:02:00Z",
+      "address": "W 29TH AVE & OAK ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-29th-ave",
+        "vancouver/oak-st"
+      ],
+      "streetNames": [
+        "W 29th Ave",
+        "Oak St"
+      ],
+      "pulsePointId": "2449679250"
+    },
+    {
       "id": "2026-04-07T18:50:00Z_vancouver/w-57th-ave_vancouver/oak-st",
       "timestamp": "2026-04-07T18:50:00Z",
       "address": "W 57TH AVE & OAK ST",
@@ -89,6 +104,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-07T18:50:00Z",
-  "count": 6
+  "lastIncident": "2026-04-07T20:02:00Z",
+  "count": 7
 }

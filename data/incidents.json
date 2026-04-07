@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-07T20:02:00Z_vancouver/w-29th-ave_vancouver/oak-st",
+    "timestamp": "2026-04-07T20:02:00Z",
+    "scrapedAt": "2026-04-07T20:09:18Z",
+    "address": "W 29TH AVE & OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-29th-ave",
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "W 29th Ave",
+      "Oak St"
+    ],
+    "pulsePointId": "2449679250"
+  },
+  {
     "id": "2026-04-07T19:43:00Z_surrey/riverview-brdg",
     "timestamp": "2026-04-07T19:43:00Z",
     "scrapedAt": "2026-04-07T19:49:54Z",
