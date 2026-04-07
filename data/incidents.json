@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-07T17:11:00Z_vancouver/w-king-edward-ave_vancouver/arbutus-st",
+    "timestamp": "2026-04-07T17:11:00Z",
+    "scrapedAt": "2026-04-07T17:22:27Z",
+    "address": "W KING EDWARD AVE & ARBUTUS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-king-edward-ave",
+      "vancouver/arbutus-st"
+    ],
+    "streetNames": [
+      "W King Edward Ave",
+      "Arbutus St"
+    ],
+    "pulsePointId": "2449576642"
+  },
+  {
     "id": "2026-04-07T15:14:00Z_vancouver/kerr-st_vancouver/e-54th-ave",
     "timestamp": "2026-04-07T15:14:00Z",
     "scrapedAt": "2026-04-07T15:25:48Z",
