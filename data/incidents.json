@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-07T14:21:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-04-07T14:21:00Z",
+    "scrapedAt": "2026-04-07T14:54:59Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2449487911"
+  },
+  {
     "id": "2026-04-07T13:29:00Z_surrey/80th-ave_surrey/176th-st",
     "timestamp": "2026-04-07T13:29:00Z",
     "scrapedAt": "2026-04-07T14:06:22Z",
