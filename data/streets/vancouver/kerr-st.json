@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-07T15:14:00Z_vancouver/kerr-st_vancouver/e-54th-ave",
+      "timestamp": "2026-04-07T15:14:00Z",
+      "address": "KERR ST & E 54TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/kerr-st",
+        "vancouver/e-54th-ave"
+      ],
+      "streetNames": [
+        "Kerr St",
+        "E 54th Ave"
+      ],
+      "pulsePointId": "2449513339"
+    },
+    {
       "id": "2026-03-11T14:21:00Z_vancouver/se-marine-dr_vancouver/kerr-st",
       "timestamp": "2026-03-11T14:21:00Z",
       "address": "SE MARINE DR & KERR ST",
@@ -18,6 +33,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-11T14:21:00Z",
-  "count": 1
+  "lastIncident": "2026-04-07T15:14:00Z",
+  "count": 2
 }

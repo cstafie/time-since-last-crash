@@ -1207,8 +1207,8 @@
     "name": "Kerr St",
     "slug": "vancouver/kerr-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-11T14:21:00Z",
-    "count": 1
+    "lastIncident": "2026-04-07T15:14:00Z",
+    "count": 2
   },
   "abbotsford/engineer-cres": {
     "name": "Engineer Cres",
@@ -2838,8 +2838,8 @@
     "name": "7th Ave",
     "slug": "mission/7th-ave",
     "city": "Mission",
-    "lastIncident": "2026-03-18T19:07:00Z",
-    "count": 1
+    "lastIncident": "2026-04-07T14:57:00Z",
+    "count": 2
   },
   "richmond/sexsmith-rd": {
     "name": "Sexsmith Rd",
@@ -3174,8 +3174,8 @@
     "name": "Stave Lake St",
     "slug": "mission/stave-lake-st",
     "city": "Mission",
-    "lastIncident": "2026-03-20T09:12:00Z",
-    "count": 2
+    "lastIncident": "2026-04-07T14:57:00Z",
+    "count": 3
   },
   "delta/33a-ave": {
     "name": "33a Ave",
@@ -3783,8 +3783,8 @@
     "name": "E 54th Ave",
     "slug": "vancouver/e-54th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-03-24T06:38:00Z",
-    "count": 1
+    "lastIncident": "2026-04-07T15:14:00Z",
+    "count": 2
   },
   "vancouver/elliott-st": {
     "name": "Elliott St",

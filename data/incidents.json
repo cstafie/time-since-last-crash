@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-07T15:14:00Z_vancouver/kerr-st_vancouver/e-54th-ave",
+    "timestamp": "2026-04-07T15:14:00Z",
+    "scrapedAt": "2026-04-07T15:25:48Z",
+    "address": "KERR ST & E 54TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kerr-st",
+      "vancouver/e-54th-ave"
+    ],
+    "streetNames": [
+      "Kerr St",
+      "E 54th Ave"
+    ],
+    "pulsePointId": "2449513339"
+  },
+  {
+    "id": "2026-04-07T14:57:00Z_mission/stave-lake-st_mission/7th-ave",
+    "timestamp": "2026-04-07T14:57:00Z",
+    "scrapedAt": "2026-04-07T15:25:48Z",
+    "address": "STAVE LAKE ST & 7TH AVE",
+    "city": "Mission",
+    "streets": [
+      "mission/stave-lake-st",
+      "mission/7th-ave"
+    ],
+    "streetNames": [
+      "Stave Lake St",
+      "7th Ave"
+    ],
+    "pulsePointId": "2449503703"
+  },
+  {
     "id": "2026-04-07T14:21:00Z_abbotsford/trans-canada-hwy",
     "timestamp": "2026-04-07T14:21:00Z",
     "scrapedAt": "2026-04-07T14:54:59Z",
