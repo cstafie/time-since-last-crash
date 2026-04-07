@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-07T17:40:00Z_langley/248th-st",
+    "timestamp": "2026-04-07T17:40:00Z",
+    "scrapedAt": "2026-04-07T17:46:35Z",
+    "address": "248TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/248th-st"
+    ],
+    "streetNames": [
+      "248th St"
+    ],
+    "pulsePointId": "2449592348"
+  },
+  {
     "id": "2026-04-07T17:11:00Z_vancouver/w-king-edward-ave_vancouver/arbutus-st",
     "timestamp": "2026-04-07T17:11:00Z",
     "scrapedAt": "2026-04-07T17:22:27Z",
