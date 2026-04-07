@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-07T02:05:00Z_vancouver/macdonald-st_vancouver/w-16th-ave",
+      "timestamp": "2026-04-07T02:05:00Z",
+      "address": "MACDONALD ST & W 16TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/macdonald-st",
+        "vancouver/w-16th-ave"
+      ],
+      "streetNames": [
+        "Macdonald St",
+        "W 16th Ave"
+      ],
+      "pulsePointId": "2449248313"
+    },
+    {
       "id": "2026-03-27T07:41:00Z_vancouver/fir-st_vancouver/w-16th-ave",
       "timestamp": "2026-03-27T07:41:00Z",
       "address": "FIR ST & W 16TH AVE",
@@ -60,6 +75,6 @@
       "pulsePointId": "2433803079"
     }
   ],
-  "lastIncident": "2026-03-27T07:41:00Z",
-  "count": 4
+  "lastIncident": "2026-04-07T02:05:00Z",
+  "count": 5
 }
