@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-07T17:45:00Z_abbotsford/32442-george-ferguson-wayste-8",
+    "timestamp": "2026-04-07T17:45:00Z",
+    "scrapedAt": "2026-04-07T18:14:53Z",
+    "address": "32442 GEORGE FERGUSON WAY,STE 8",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/32442-george-ferguson-wayste-8"
+    ],
+    "streetNames": [
+      "32442 George Ferguson Way,ste 8"
+    ],
+    "pulsePointId": "2449595057"
+  },
+  {
     "id": "2026-04-07T17:40:00Z_langley/248th-st",
     "timestamp": "2026-04-07T17:40:00Z",
     "scrapedAt": "2026-04-07T17:46:35Z",
