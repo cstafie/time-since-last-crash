@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-07T00:59:00Z_vancouver/slocan-st_vancouver/kingsway",
+      "timestamp": "2026-04-07T00:59:00Z",
+      "address": "SLOCAN ST & KINGSWAY",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/slocan-st",
+        "vancouver/kingsway"
+      ],
+      "streetNames": [
+        "Slocan St",
+        "Kingsway"
+      ],
+      "pulsePointId": "2449214771"
+    },
+    {
       "id": "2026-03-30T06:38:00Z_vancouver/kingsway_vancouver/e-12th-ave",
       "timestamp": "2026-03-30T06:38:00Z",
       "address": "KINGSWAY & E 12TH AVE",
@@ -136,6 +151,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-30T06:38:00Z",
-  "count": 9
+  "lastIncident": "2026-04-07T00:59:00Z",
+  "count": 10
 }

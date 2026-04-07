@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-07T01:25:00Z_surrey/148th-st_surrey/94th-ave",
+    "timestamp": "2026-04-07T01:25:00Z",
+    "scrapedAt": "2026-04-07T01:43:26Z",
+    "address": "148TH ST & 94TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/148th-st",
+      "surrey/94th-ave"
+    ],
+    "streetNames": [
+      "148th St",
+      "94th Ave"
+    ],
+    "pulsePointId": "2449228063"
+  },
+  {
+    "id": "2026-04-07T00:59:00Z_vancouver/slocan-st_vancouver/kingsway",
+    "timestamp": "2026-04-07T00:59:00Z",
+    "scrapedAt": "2026-04-07T01:43:26Z",
+    "address": "SLOCAN ST & KINGSWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/slocan-st",
+      "vancouver/kingsway"
+    ],
+    "streetNames": [
+      "Slocan St",
+      "Kingsway"
+    ],
+    "pulsePointId": "2449214771"
+  },
+  {
     "id": "2026-04-06T23:20:00Z_new-westminster/12th-st_new-westminster/stewardson-way",
     "timestamp": "2026-04-06T23:20:00Z",
     "scrapedAt": "2026-04-06T23:42:54Z",
