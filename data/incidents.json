@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-08T21:24:00Z_delta/vantage-way_delta/72nd-st",
+    "timestamp": "2026-04-08T21:24:00Z",
+    "scrapedAt": "2026-04-08T21:43:57Z",
+    "address": "VANTAGE WAY & 72ND ST",
+    "city": "Delta",
+    "streets": [
+      "delta/vantage-way",
+      "delta/72nd-st"
+    ],
+    "streetNames": [
+      "Vantage Way",
+      "72nd St"
+    ],
+    "pulsePointId": "2450407137"
+  },
+  {
+    "id": "2026-04-08T21:23:00Z_surrey/104th-ave_surrey/whalley-blvd",
+    "timestamp": "2026-04-08T21:23:00Z",
+    "scrapedAt": "2026-04-08T21:43:57Z",
+    "address": "104TH AVE & WHALLEY BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/104th-ave",
+      "surrey/whalley-blvd"
+    ],
+    "streetNames": [
+      "104th Ave",
+      "Whalley Blvd"
+    ],
+    "pulsePointId": "2450405355"
+  },
+  {
     "id": "2026-04-08T20:59:00Z_burnaby/claymore-pl",
     "timestamp": "2026-04-08T20:59:00Z",
     "scrapedAt": "2026-04-08T21:13:40Z",

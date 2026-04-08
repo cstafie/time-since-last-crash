@@ -1305,15 +1305,15 @@
     "name": "72nd St",
     "slug": "delta/72nd-st",
     "city": "Delta",
-    "lastIncident": "2026-03-11T20:55:00Z",
-    "count": 1
+    "lastIncident": "2026-04-08T21:24:00Z",
+    "count": 2
   },
   "surrey/104th-ave": {
     "name": "104th Ave",
     "slug": "surrey/104th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-05T22:34:00Z",
-    "count": 13
+    "lastIncident": "2026-04-08T21:23:00Z",
+    "count": 14
   },
   "surrey/122nd-st": {
     "name": "122nd St",
@@ -2320,8 +2320,8 @@
     "name": "Whalley Blvd",
     "slug": "surrey/whalley-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-03-24T13:29:00Z",
-    "count": 3
+    "lastIncident": "2026-04-08T21:23:00Z",
+    "count": 4
   },
   "richmond/russ-baker-way": {
     "name": "Russ Baker Way",
@@ -5842,6 +5842,13 @@
     "slug": "langley/51b-ave",
     "city": "Langley",
     "lastIncident": "2026-04-08T20:59:00Z",
+    "count": 1
+  },
+  "delta/vantage-way": {
+    "name": "Vantage Way",
+    "slug": "delta/vantage-way",
+    "city": "Delta",
+    "lastIncident": "2026-04-08T21:24:00Z",
     "count": 1
   }
 }

@@ -1,6 +1,6 @@
 {
-  "slug": "delta/72nd-st",
-  "name": "72nd St",
+  "slug": "delta/vantage-way",
+  "name": "Vantage Way",
   "city": "Delta",
   "incidents": [
     {
@@ -17,20 +17,8 @@
         "72nd St"
       ],
       "pulsePointId": "2450407137"
-    },
-    {
-      "id": "2026-03-11T20:55:00Z_delta/72nd-st",
-      "timestamp": "2026-03-11T20:55:00Z",
-      "address": "72ND ST",
-      "city": "Delta",
-      "streets": [
-        "delta/72nd-st"
-      ],
-      "streetNames": [
-        "72nd St"
-      ]
     }
   ],
   "lastIncident": "2026-04-08T21:24:00Z",
-  "count": 2
+  "count": 1
 }
