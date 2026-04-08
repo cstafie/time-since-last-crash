@@ -1,0 +1,24 @@
+{
+  "slug": "langley/198th-st",
+  "name": "198th St",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-04-08T01:14:00Z_langley/198th-st_langley/56th-ave",
+      "timestamp": "2026-04-08T01:14:00Z",
+      "address": "198TH ST & 56TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/198th-st",
+        "langley/56th-ave"
+      ],
+      "streetNames": [
+        "198th St",
+        "56th Ave"
+      ],
+      "pulsePointId": "2449883843"
+    }
+  ],
+  "lastIncident": "2026-04-08T01:14:00Z",
+  "count": 1
+}

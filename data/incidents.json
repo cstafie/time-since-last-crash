@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-04-08T02:05:00Z_delta/hwy-91-ofrp",
+    "timestamp": "2026-04-08T02:05:00Z",
+    "scrapedAt": "2026-04-08T02:14:38Z",
+    "address": "HWY 91 OFRP",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-91-ofrp"
+    ],
+    "streetNames": [
+      "Hwy 91 Ofrp"
+    ],
+    "pulsePointId": "2449913336"
+  },
+  {
+    "id": "2026-04-08T02:05:00Z_vancouver/renfrew-st_vancouver/venables-st",
+    "timestamp": "2026-04-08T02:05:00Z",
+    "scrapedAt": "2026-04-08T02:14:38Z",
+    "address": "RENFREW ST & VENABLES ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/renfrew-st",
+      "vancouver/venables-st"
+    ],
+    "streetNames": [
+      "Renfrew St",
+      "Venables St"
+    ],
+    "pulsePointId": "2449912923"
+  },
+  {
+    "id": "2026-04-08T01:14:00Z_langley/198th-st_langley/56th-ave",
+    "timestamp": "2026-04-08T01:14:00Z",
+    "scrapedAt": "2026-04-08T02:14:38Z",
+    "address": "198TH ST & 56TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/198th-st",
+      "langley/56th-ave"
+    ],
+    "streetNames": [
+      "198th St",
+      "56th Ave"
+    ],
+    "pulsePointId": "2449883843"
+  },
+  {
     "id": "2026-04-07T23:38:00Z_langley/88th-ave",
     "timestamp": "2026-04-07T23:38:00Z",
     "scrapedAt": "2026-04-07T23:43:13Z",

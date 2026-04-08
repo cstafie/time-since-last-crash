@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-08T02:05:00Z_vancouver/renfrew-st_vancouver/venables-st",
+      "timestamp": "2026-04-08T02:05:00Z",
+      "address": "RENFREW ST & VENABLES ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/renfrew-st",
+        "vancouver/venables-st"
+      ],
+      "streetNames": [
+        "Renfrew St",
+        "Venables St"
+      ],
+      "pulsePointId": "2449912923"
+    },
+    {
       "id": "2026-03-28T21:59:00Z_vancouver/e-georgia-st_vancouver/renfrew-st",
       "timestamp": "2026-03-28T21:59:00Z",
       "address": "E GEORGIA ST & RENFREW ST",
@@ -109,6 +124,6 @@
       "pulsePointId": "2433781130"
     }
   ],
-  "lastIncident": "2026-03-28T21:59:00Z",
-  "count": 7
+  "lastIncident": "2026-04-08T02:05:00Z",
+  "count": 8
 }
