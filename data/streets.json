@@ -801,8 +801,8 @@
     "name": "W 70th Ave",
     "slug": "vancouver/w-70th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-03-08T02:47:00Z",
-    "count": 1
+    "lastIncident": "2026-04-08T17:01:00Z",
+    "count": 2
   },
   "vancouver/w-broadway": {
     "name": "W Broadway",
@@ -5575,8 +5575,8 @@
     "name": "Chilliwack Central Rd",
     "slug": "chilliwack/chilliwack-central-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-04-06T07:38:00Z",
-    "count": 1
+    "lastIncident": "2026-04-08T17:10:00Z",
+    "count": 2
   },
   "vancouver/w-36th-ave": {
     "name": "W 36th Ave",
@@ -5786,6 +5786,48 @@
     "slug": "vancouver/e-24th-ave",
     "city": "Vancouver",
     "lastIncident": "2026-04-08T15:52:00Z",
+    "count": 1
+  },
+  "vancouver/cartier-st": {
+    "name": "Cartier St",
+    "slug": "vancouver/cartier-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-08T17:01:00Z",
+    "count": 1
+  },
+  "mission/dewdney-trunk-rd": {
+    "name": "Dewdney Trunk Rd",
+    "slug": "mission/dewdney-trunk-rd",
+    "city": "Mission",
+    "lastIncident": "2026-04-08T16:59:00Z",
+    "count": 1
+  },
+  "mission/creston-ave": {
+    "name": "Creston Ave",
+    "slug": "mission/creston-ave",
+    "city": "Mission",
+    "lastIncident": "2026-04-08T16:59:00Z",
+    "count": 1
+  },
+  "maple-ridge/230th-st": {
+    "name": "230th St",
+    "slug": "maple-ridge/230th-st",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-04-08T16:57:00Z",
+    "count": 1
+  },
+  "maple-ridge/abernethy-way": {
+    "name": "Abernethy Way",
+    "slug": "maple-ridge/abernethy-way",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-04-08T16:57:00Z",
+    "count": 1
+  },
+  "vancouver/w-26th-ave": {
+    "name": "W 26th Ave",
+    "slug": "vancouver/w-26th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-08T16:29:00Z",
     "count": 1
   }
 }

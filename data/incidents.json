@@ -1,5 +1,81 @@
 [
   {
+    "id": "2026-04-08T17:10:00Z_chilliwack/chilliwack-central-rd",
+    "timestamp": "2026-04-08T17:10:00Z",
+    "scrapedAt": "2026-04-08T17:22:00Z",
+    "address": "CHILLIWACK CENTRAL RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/chilliwack-central-rd"
+    ],
+    "streetNames": [
+      "Chilliwack Central Rd"
+    ],
+    "pulsePointId": "2450244692"
+  },
+  {
+    "id": "2026-04-08T17:01:00Z_vancouver/w-70th-ave_vancouver/cartier-st",
+    "timestamp": "2026-04-08T17:01:00Z",
+    "scrapedAt": "2026-04-08T17:22:00Z",
+    "address": "W 70TH AVE & CARTIER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-70th-ave",
+      "vancouver/cartier-st"
+    ],
+    "streetNames": [
+      "W 70th Ave",
+      "Cartier St"
+    ],
+    "pulsePointId": "2450237075"
+  },
+  {
+    "id": "2026-04-08T16:59:00Z_mission/dewdney-trunk-rd_mission/creston-ave",
+    "timestamp": "2026-04-08T16:59:00Z",
+    "scrapedAt": "2026-04-08T17:22:00Z",
+    "address": "DEWDNEY TRUNK RD & CRESTON AVE",
+    "city": "Mission",
+    "streets": [
+      "mission/dewdney-trunk-rd",
+      "mission/creston-ave"
+    ],
+    "streetNames": [
+      "Dewdney Trunk Rd",
+      "Creston Ave"
+    ],
+    "pulsePointId": "2450236340"
+  },
+  {
+    "id": "2026-04-08T16:57:00Z_maple-ridge/230th-st_maple-ridge/abernethy-way",
+    "timestamp": "2026-04-08T16:57:00Z",
+    "scrapedAt": "2026-04-08T17:22:00Z",
+    "address": "230TH ST & ABERNETHY WAY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/230th-st",
+      "maple-ridge/abernethy-way"
+    ],
+    "streetNames": [
+      "230th St",
+      "Abernethy Way"
+    ],
+    "pulsePointId": "2450234426"
+  },
+  {
+    "id": "2026-04-08T16:29:00Z_vancouver/w-26th-ave",
+    "timestamp": "2026-04-08T16:29:00Z",
+    "scrapedAt": "2026-04-08T17:22:00Z",
+    "address": "W 26TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-26th-ave"
+    ],
+    "streetNames": [
+      "W 26th Ave"
+    ],
+    "pulsePointId": "2450222288"
+  },
+  {
     "id": "2026-04-08T16:18:00Z_vancouver/w-6th-ave_vancouver/oak-st",
     "timestamp": "2026-04-08T16:18:00Z",
     "scrapedAt": "2026-04-08T16:36:04Z",

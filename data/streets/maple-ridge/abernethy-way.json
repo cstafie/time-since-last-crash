@@ -1,0 +1,24 @@
+{
+  "slug": "maple-ridge/abernethy-way",
+  "name": "Abernethy Way",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-04-08T16:57:00Z_maple-ridge/230th-st_maple-ridge/abernethy-way",
+      "timestamp": "2026-04-08T16:57:00Z",
+      "address": "230TH ST & ABERNETHY WAY",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/230th-st",
+        "maple-ridge/abernethy-way"
+      ],
+      "streetNames": [
+        "230th St",
+        "Abernethy Way"
+      ],
+      "pulsePointId": "2450234426"
+    }
+  ],
+  "lastIncident": "2026-04-08T16:57:00Z",
+  "count": 1
+}
