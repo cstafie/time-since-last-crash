@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/claymore-pl",
+  "name": "Claymore Pl",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-04-08T20:59:00Z_burnaby/claymore-pl",
+      "timestamp": "2026-04-08T20:59:00Z",
+      "address": "CLAYMORE PL",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/claymore-pl"
+      ],
+      "streetNames": [
+        "Claymore Pl"
+      ],
+      "pulsePointId": "2450390260"
+    }
+  ],
+  "lastIncident": "2026-04-08T20:59:00Z",
+  "count": 1
+}

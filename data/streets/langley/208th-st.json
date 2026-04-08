@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-04-08T20:59:00Z_langley/208th-st_langley/51b-ave",
+      "timestamp": "2026-04-08T20:59:00Z",
+      "address": "208TH ST & 51B AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/208th-st",
+        "langley/51b-ave"
+      ],
+      "streetNames": [
+        "208th St",
+        "51b Ave"
+      ],
+      "pulsePointId": "2450391794"
+    },
+    {
       "id": "2026-04-05T06:50:00Z_langley/208th-st_langley/36th-ave",
       "timestamp": "2026-04-05T06:50:00Z",
       "address": "208TH ST & 36TH AVE",
@@ -49,6 +64,6 @@
       "pulsePointId": "2444669082"
     }
   ],
-  "lastIncident": "2026-04-05T06:50:00Z",
-  "count": 3
+  "lastIncident": "2026-04-08T20:59:00Z",
+  "count": 4
 }

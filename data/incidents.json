@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-04-08T20:59:00Z_burnaby/claymore-pl",
+    "timestamp": "2026-04-08T20:59:00Z",
+    "scrapedAt": "2026-04-08T21:13:40Z",
+    "address": "CLAYMORE PL",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/claymore-pl"
+    ],
+    "streetNames": [
+      "Claymore Pl"
+    ],
+    "pulsePointId": "2450390260"
+  },
+  {
+    "id": "2026-04-08T20:59:00Z_langley/208th-st_langley/51b-ave",
+    "timestamp": "2026-04-08T20:59:00Z",
+    "scrapedAt": "2026-04-08T21:13:40Z",
+    "address": "208TH ST & 51B AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/208th-st",
+      "langley/51b-ave"
+    ],
+    "streetNames": [
+      "208th St",
+      "51b Ave"
+    ],
+    "pulsePointId": "2450391794"
+  },
+  {
+    "id": "2026-04-08T20:47:00Z_vancouver/nanaimo-st",
+    "timestamp": "2026-04-08T20:47:00Z",
+    "scrapedAt": "2026-04-08T21:13:40Z",
+    "address": "NANAIMO ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/nanaimo-st"
+    ],
+    "streetNames": [
+      "Nanaimo St"
+    ],
+    "pulsePointId": "2450382067"
+  },
+  {
     "id": "2026-04-08T20:32:00Z_richmond/sea-island-way_richmond/sexsmith-rd",
     "timestamp": "2026-04-08T20:32:00Z",
     "scrapedAt": "2026-04-08T20:44:29Z",
