@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-04-08T13:30:00Z_surrey/64th-ave_surrey/152nd-st",
+      "timestamp": "2026-04-08T13:30:00Z",
+      "address": "64TH AVE & 152ND ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/64th-ave",
+        "surrey/152nd-st"
+      ],
+      "streetNames": [
+        "64th Ave",
+        "152nd St"
+      ],
+      "pulsePointId": "2450134533"
+    },
+    {
       "id": "2026-03-31T23:40:00Z_surrey/king-george-blvd_surrey/64th-ave",
       "timestamp": "2026-03-31T23:40:00Z",
       "address": "KING GEORGE BLVD & 64TH AVE",
@@ -173,6 +188,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-31T23:40:00Z",
-  "count": 12
+  "lastIncident": "2026-04-08T13:30:00Z",
+  "count": 13
 }
