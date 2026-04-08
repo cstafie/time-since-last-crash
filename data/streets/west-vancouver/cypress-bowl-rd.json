@@ -1,0 +1,24 @@
+{
+  "slug": "west-vancouver/cypress-bowl-rd",
+  "name": "Cypress Bowl Rd",
+  "city": "West Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-08T07:27:00Z_west-vancouver/cypress-pl_west-vancouver/cypress-bowl-rd",
+      "timestamp": "2026-04-08T07:27:00Z",
+      "address": "CYPRESS PL & CYPRESS BOWL RD",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/cypress-pl",
+        "west-vancouver/cypress-bowl-rd"
+      ],
+      "streetNames": [
+        "Cypress Pl",
+        "Cypress Bowl Rd"
+      ],
+      "pulsePointId": "2450041749"
+    }
+  ],
+  "lastIncident": "2026-04-08T07:27:00Z",
+  "count": 1
+}

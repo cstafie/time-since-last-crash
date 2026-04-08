@@ -2040,8 +2040,8 @@
     "name": "Trans Canada Hwy",
     "slug": "coquitlam/trans-canada-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-03-21T06:33:00Z",
-    "count": 6
+    "lastIncident": "2026-04-08T07:17:00Z",
+    "count": 7
   },
   "langley/202a-st": {
     "name": "202a St",
@@ -5744,6 +5744,20 @@
     "slug": "vancouver/dunsmuir-st",
     "city": "Vancouver",
     "lastIncident": "2026-04-08T04:25:00Z",
+    "count": 1
+  },
+  "west-vancouver/cypress-pl": {
+    "name": "Cypress Pl",
+    "slug": "west-vancouver/cypress-pl",
+    "city": "West Vancouver",
+    "lastIncident": "2026-04-08T07:27:00Z",
+    "count": 1
+  },
+  "west-vancouver/cypress-bowl-rd": {
+    "name": "Cypress Bowl Rd",
+    "slug": "west-vancouver/cypress-bowl-rd",
+    "city": "West Vancouver",
+    "lastIncident": "2026-04-08T07:27:00Z",
     "count": 1
   }
 }
