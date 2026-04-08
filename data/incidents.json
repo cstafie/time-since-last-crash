@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-04-08T05:11:00Z_delta/hwy-17",
+    "timestamp": "2026-04-08T05:11:00Z",
+    "scrapedAt": "2026-04-08T05:31:49Z",
+    "address": "HWY 17",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-17"
+    ],
+    "streetNames": [
+      "Hwy 17"
+    ],
+    "pulsePointId": "2450001735"
+  },
+  {
+    "id": "2026-04-08T05:02:00Z_delta/hwy-17",
+    "timestamp": "2026-04-08T05:02:00Z",
+    "scrapedAt": "2026-04-08T05:31:49Z",
+    "address": "HWY 17",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-17"
+    ],
+    "streetNames": [
+      "Hwy 17"
+    ],
+    "pulsePointId": "2449998853"
+  },
+  {
     "id": "2026-04-08T04:25:00Z_vancouver/dunsmuir-st_vancouver/granville-st",
     "timestamp": "2026-04-08T04:25:00Z",
     "scrapedAt": "2026-04-08T04:47:25Z",
