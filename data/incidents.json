@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-04-08T15:56:00Z_abbotsford/immel-st_abbotsford/old-clayburn-rd",
+    "timestamp": "2026-04-08T15:56:00Z",
+    "scrapedAt": "2026-04-08T15:59:39Z",
+    "address": "IMMEL ST & OLD CLAYBURN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/immel-st",
+      "abbotsford/old-clayburn-rd"
+    ],
+    "streetNames": [
+      "Immel St",
+      "Old Clayburn Rd"
+    ],
+    "pulsePointId": "2450200532"
+  },
+  {
+    "id": "2026-04-08T15:53:00Z_vancouver/cambridge-st_vancouver/n-renfrew-st",
+    "timestamp": "2026-04-08T15:53:00Z",
+    "scrapedAt": "2026-04-08T15:59:39Z",
+    "address": "CAMBRIDGE ST & N RENFREW ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/cambridge-st",
+      "vancouver/n-renfrew-st"
+    ],
+    "streetNames": [
+      "Cambridge St",
+      "N Renfrew St"
+    ],
+    "pulsePointId": "2450198032"
+  },
+  {
+    "id": "2026-04-08T15:52:00Z_vancouver/nanaimo-st_vancouver/e-24th-ave",
+    "timestamp": "2026-04-08T15:52:00Z",
+    "scrapedAt": "2026-04-08T15:59:39Z",
+    "address": "NANAIMO ST & E 24TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/nanaimo-st",
+      "vancouver/e-24th-ave"
+    ],
+    "streetNames": [
+      "Nanaimo St",
+      "E 24th Ave"
+    ],
+    "pulsePointId": "2450198328"
+  },
+  {
     "id": "2026-04-08T14:36:00Z_surrey/103a-ave",
     "timestamp": "2026-04-08T14:36:00Z",
     "scrapedAt": "2026-04-08T14:55:27Z",

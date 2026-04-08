@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/e-24th-ave",
+  "name": "E 24th Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-08T15:52:00Z_vancouver/nanaimo-st_vancouver/e-24th-ave",
+      "timestamp": "2026-04-08T15:52:00Z",
+      "address": "NANAIMO ST & E 24TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/nanaimo-st",
+        "vancouver/e-24th-ave"
+      ],
+      "streetNames": [
+        "Nanaimo St",
+        "E 24th Ave"
+      ],
+      "pulsePointId": "2450198328"
+    }
+  ],
+  "lastIncident": "2026-04-08T15:52:00Z",
+  "count": 1
+}

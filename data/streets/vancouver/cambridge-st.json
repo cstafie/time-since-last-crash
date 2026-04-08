@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/cambridge-st",
+  "name": "Cambridge St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-08T15:53:00Z_vancouver/cambridge-st_vancouver/n-renfrew-st",
+      "timestamp": "2026-04-08T15:53:00Z",
+      "address": "CAMBRIDGE ST & N RENFREW ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/cambridge-st",
+        "vancouver/n-renfrew-st"
+      ],
+      "streetNames": [
+        "Cambridge St",
+        "N Renfrew St"
+      ],
+      "pulsePointId": "2450198032"
+    }
+  ],
+  "lastIncident": "2026-04-08T15:53:00Z",
+  "count": 1
+}

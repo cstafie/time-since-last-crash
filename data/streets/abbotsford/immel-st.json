@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/immel-st",
+  "name": "Immel St",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-04-08T15:56:00Z_abbotsford/immel-st_abbotsford/old-clayburn-rd",
+      "timestamp": "2026-04-08T15:56:00Z",
+      "address": "IMMEL ST & OLD CLAYBURN RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/immel-st",
+        "abbotsford/old-clayburn-rd"
+      ],
+      "streetNames": [
+        "Immel St",
+        "Old Clayburn Rd"
+      ],
+      "pulsePointId": "2450200532"
+    }
+  ],
+  "lastIncident": "2026-04-08T15:56:00Z",
+  "count": 1
+}
