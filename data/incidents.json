@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-08T23:21:00Z_maple-ridge/113b-ave_maple-ridge/stewart-cres",
+    "timestamp": "2026-04-08T23:21:00Z",
+    "scrapedAt": "2026-04-08T23:43:17Z",
+    "address": "113B AVE & STEWART CRES",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/113b-ave",
+      "maple-ridge/stewart-cres"
+    ],
+    "streetNames": [
+      "113b Ave",
+      "Stewart Cres"
+    ],
+    "pulsePointId": "2450481538"
+  },
+  {
+    "id": "2026-04-08T23:16:00Z_new-westminster/braid-st_new-westminster/kelly-st",
+    "timestamp": "2026-04-08T23:16:00Z",
+    "scrapedAt": "2026-04-08T23:43:17Z",
+    "address": "BRAID ST & KELLY ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/braid-st",
+      "new-westminster/kelly-st"
+    ],
+    "streetNames": [
+      "Braid St",
+      "Kelly St"
+    ],
+    "pulsePointId": "2450478822"
+  },
+  {
     "id": "2026-04-08T23:08:00Z_surrey/33rd-ave",
     "timestamp": "2026-04-08T23:08:00Z",
     "scrapedAt": "2026-04-08T23:11:29Z",

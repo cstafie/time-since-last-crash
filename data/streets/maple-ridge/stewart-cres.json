@@ -1,0 +1,24 @@
+{
+  "slug": "maple-ridge/stewart-cres",
+  "name": "Stewart Cres",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-04-08T23:21:00Z_maple-ridge/113b-ave_maple-ridge/stewart-cres",
+      "timestamp": "2026-04-08T23:21:00Z",
+      "address": "113B AVE & STEWART CRES",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/113b-ave",
+        "maple-ridge/stewart-cres"
+      ],
+      "streetNames": [
+        "113b Ave",
+        "Stewart Cres"
+      ],
+      "pulsePointId": "2450481538"
+    }
+  ],
+  "lastIncident": "2026-04-08T23:21:00Z",
+  "count": 1
+}
