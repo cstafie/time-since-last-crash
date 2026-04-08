@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/dunsmuir-st",
+  "name": "Dunsmuir St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-08T04:25:00Z_vancouver/dunsmuir-st_vancouver/granville-st",
+      "timestamp": "2026-04-08T04:25:00Z",
+      "address": "DUNSMUIR ST & GRANVILLE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/dunsmuir-st",
+        "vancouver/granville-st"
+      ],
+      "streetNames": [
+        "Dunsmuir St",
+        "Granville St"
+      ],
+      "pulsePointId": "2449984202"
+    }
+  ],
+  "lastIncident": "2026-04-08T04:25:00Z",
+  "count": 1
+}
