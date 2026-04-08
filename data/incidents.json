@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-08T20:32:00Z_richmond/sea-island-way_richmond/sexsmith-rd",
+    "timestamp": "2026-04-08T20:32:00Z",
+    "scrapedAt": "2026-04-08T20:44:29Z",
+    "address": "SEA ISLAND WAY & SEXSMITH RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/sea-island-way",
+      "richmond/sexsmith-rd"
+    ],
+    "streetNames": [
+      "Sea Island Way",
+      "Sexsmith Rd"
+    ],
+    "pulsePointId": "2450372307"
+  },
+  {
+    "id": "2026-04-08T20:17:00Z_surrey/137th-st",
+    "timestamp": "2026-04-08T20:17:00Z",
+    "scrapedAt": "2026-04-08T20:44:29Z",
+    "address": "137TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/137th-st"
+    ],
+    "streetNames": [
+      "137th St"
+    ],
+    "pulsePointId": "2450364679"
+  },
+  {
     "id": "2026-04-08T19:11:00Z_vancouver/w-41st-ave_vancouver/granville-st",
     "timestamp": "2026-04-08T19:11:00Z",
     "scrapedAt": "2026-04-08T19:51:30Z",
