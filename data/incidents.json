@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-08T03:17:00Z_vancouver/lincoln-st_vancouver/kingsway",
+    "timestamp": "2026-04-08T03:17:00Z",
+    "scrapedAt": "2026-04-08T03:34:24Z",
+    "address": "LINCOLN ST & KINGSWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/lincoln-st",
+      "vancouver/kingsway"
+    ],
+    "streetNames": [
+      "Lincoln St",
+      "Kingsway"
+    ],
+    "pulsePointId": "2449952790"
+  },
+  {
+    "id": "2026-04-08T02:19:00Z_vancouver/w-12th-ave_vancouver/cambie-st",
+    "timestamp": "2026-04-08T02:19:00Z",
+    "scrapedAt": "2026-04-08T03:34:24Z",
+    "address": "W 12TH AVE & CAMBIE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-12th-ave",
+      "vancouver/cambie-st"
+    ],
+    "streetNames": [
+      "W 12th Ave",
+      "Cambie St"
+    ],
+    "pulsePointId": "2449920283"
+  },
+  {
     "id": "2026-04-08T02:05:00Z_delta/hwy-91-ofrp",
     "timestamp": "2026-04-08T02:05:00Z",
     "scrapedAt": "2026-04-08T02:14:38Z",

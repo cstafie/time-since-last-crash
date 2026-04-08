@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-08T03:17:00Z_vancouver/lincoln-st_vancouver/kingsway",
+      "timestamp": "2026-04-08T03:17:00Z",
+      "address": "LINCOLN ST & KINGSWAY",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/lincoln-st",
+        "vancouver/kingsway"
+      ],
+      "streetNames": [
+        "Lincoln St",
+        "Kingsway"
+      ],
+      "pulsePointId": "2449952790"
+    },
+    {
       "id": "2026-04-07T00:59:00Z_vancouver/slocan-st_vancouver/kingsway",
       "timestamp": "2026-04-07T00:59:00Z",
       "address": "SLOCAN ST & KINGSWAY",
@@ -151,6 +166,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-07T00:59:00Z",
-  "count": 10
+  "lastIncident": "2026-04-08T03:17:00Z",
+  "count": 11
 }

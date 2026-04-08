@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/lincoln-st",
+  "name": "Lincoln St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-08T03:17:00Z_vancouver/lincoln-st_vancouver/kingsway",
+      "timestamp": "2026-04-08T03:17:00Z",
+      "address": "LINCOLN ST & KINGSWAY",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/lincoln-st",
+        "vancouver/kingsway"
+      ],
+      "streetNames": [
+        "Lincoln St",
+        "Kingsway"
+      ],
+      "pulsePointId": "2449952790"
+    }
+  ],
+  "lastIncident": "2026-04-08T03:17:00Z",
+  "count": 1
+}
