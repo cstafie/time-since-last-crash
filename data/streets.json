@@ -766,8 +766,8 @@
     "name": "Oak St",
     "slug": "vancouver/oak-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-07T23:01:00Z",
-    "count": 8
+    "lastIncident": "2026-04-08T16:18:00Z",
+    "count": 9
   },
   "vancouver/w-12th-ave": {
     "name": "W 12th Ave",
@@ -1515,8 +1515,8 @@
     "name": "W 6th Ave",
     "slug": "vancouver/w-6th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-07T04:20:00Z",
-    "count": 3
+    "lastIncident": "2026-04-08T16:18:00Z",
+    "count": 4
   },
   "vancouver/columbia-st": {
     "name": "Columbia St",

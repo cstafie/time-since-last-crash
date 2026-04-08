@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-08T16:18:00Z_vancouver/w-6th-ave_vancouver/oak-st",
+    "timestamp": "2026-04-08T16:18:00Z",
+    "scrapedAt": "2026-04-08T16:36:04Z",
+    "address": "W 6TH AVE & OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-6th-ave",
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "W 6th Ave",
+      "Oak St"
+    ],
+    "pulsePointId": "2450212163"
+  },
+  {
     "id": "2026-04-08T15:56:00Z_abbotsford/immel-st_abbotsford/old-clayburn-rd",
     "timestamp": "2026-04-08T15:56:00Z",
     "scrapedAt": "2026-04-08T15:59:39Z",

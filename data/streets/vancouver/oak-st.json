@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-08T16:18:00Z_vancouver/w-6th-ave_vancouver/oak-st",
+      "timestamp": "2026-04-08T16:18:00Z",
+      "address": "W 6TH AVE & OAK ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-6th-ave",
+        "vancouver/oak-st"
+      ],
+      "streetNames": [
+        "W 6th Ave",
+        "Oak St"
+      ],
+      "pulsePointId": "2450212163"
+    },
+    {
       "id": "2026-04-07T23:01:00Z_vancouver/oak-st_vancouver/w-46th-ave",
       "timestamp": "2026-04-07T23:01:00Z",
       "address": "OAK ST & W 46TH AVE",
@@ -119,6 +134,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-07T23:01:00Z",
-  "count": 8
+  "lastIncident": "2026-04-08T16:18:00Z",
+  "count": 9
 }
