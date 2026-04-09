@@ -1,0 +1,24 @@
+{
+  "slug": "north-vancouver/st-davids-ave",
+  "name": "St Davids Ave",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-09T20:43:00Z_north-vancouver/st-davids-ave_north-vancouver/e-3rd-st",
+      "timestamp": "2026-04-09T20:43:00Z",
+      "address": "ST DAVIDS AVE & E 3RD ST",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/st-davids-ave",
+        "north-vancouver/e-3rd-st"
+      ],
+      "streetNames": [
+        "St Davids Ave",
+        "E 3rd St"
+      ],
+      "pulsePointId": "2451044896"
+    }
+  ],
+  "lastIncident": "2026-04-09T20:43:00Z",
+  "count": 1
+}

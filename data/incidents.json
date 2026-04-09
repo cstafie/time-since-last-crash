@@ -1,5 +1,85 @@
 [
   {
+    "id": "2026-04-09T21:39:00Z_richmond/hwy-91_richmond/no-6-road-onrp",
+    "timestamp": "2026-04-09T21:39:00Z",
+    "scrapedAt": "2026-04-09T21:44:23Z",
+    "address": "HWY 91 & NO 6 ROAD ONRP",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hwy-91",
+      "richmond/no-6-road-onrp"
+    ],
+    "streetNames": [
+      "Hwy 91",
+      "No 6 Road Onrp"
+    ],
+    "pulsePointId": "2451079946"
+  },
+  {
+    "id": "2026-04-09T21:26:00Z_vancouver/arbutus-st_vancouver/w-57th-ave",
+    "timestamp": "2026-04-09T21:26:00Z",
+    "scrapedAt": "2026-04-09T21:44:23Z",
+    "address": "ARBUTUS ST & W 57TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/arbutus-st",
+      "vancouver/w-57th-ave"
+    ],
+    "streetNames": [
+      "Arbutus St",
+      "W 57th Ave"
+    ],
+    "pulsePointId": "2451072495"
+  },
+  {
+    "id": "2026-04-09T21:07:00Z_surrey/68th-ave_surrey/126th-st",
+    "timestamp": "2026-04-09T21:07:00Z",
+    "scrapedAt": "2026-04-09T21:44:23Z",
+    "address": "68TH AVE & 126TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/68th-ave",
+      "surrey/126th-st"
+    ],
+    "streetNames": [
+      "68th Ave",
+      "126th St"
+    ],
+    "pulsePointId": "2451059664"
+  },
+  {
+    "id": "2026-04-09T21:06:00Z_surrey/126th-st_surrey/68th-ave",
+    "timestamp": "2026-04-09T21:06:00Z",
+    "scrapedAt": "2026-04-09T21:44:23Z",
+    "address": "126TH ST & 68TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/126th-st",
+      "surrey/68th-ave"
+    ],
+    "streetNames": [
+      "126th St",
+      "68th Ave"
+    ],
+    "pulsePointId": "2451060306"
+  },
+  {
+    "id": "2026-04-09T20:43:00Z_north-vancouver/st-davids-ave_north-vancouver/e-3rd-st",
+    "timestamp": "2026-04-09T20:43:00Z",
+    "scrapedAt": "2026-04-09T21:44:23Z",
+    "address": "ST DAVIDS AVE & E 3RD ST",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/st-davids-ave",
+      "north-vancouver/e-3rd-st"
+    ],
+    "streetNames": [
+      "St Davids Ave",
+      "E 3rd St"
+    ],
+    "pulsePointId": "2451044896"
+  },
+  {
     "id": "2026-04-09T20:18:00Z_abbotsford/mercantile-way_abbotsford/madiera-pl",
     "timestamp": "2026-04-09T20:18:00Z",
     "scrapedAt": "2026-04-09T20:44:53Z",

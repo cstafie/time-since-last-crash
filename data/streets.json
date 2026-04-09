@@ -465,8 +465,8 @@
     "name": "Hwy 91",
     "slug": "richmond/hwy-91",
     "city": "Richmond",
-    "lastIncident": "2026-03-24T16:42:00Z",
-    "count": 4
+    "lastIncident": "2026-04-09T21:39:00Z",
+    "count": 5
   },
   "richmond/nelson-rd": {
     "name": "Nelson Rd",
@@ -2096,8 +2096,8 @@
     "name": "126th St",
     "slug": "surrey/126th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-09T02:42:00Z",
-    "count": 3
+    "lastIncident": "2026-04-09T21:07:00Z",
+    "count": 5
   },
   "surrey/huntley-ave": {
     "name": "Huntley Ave",
@@ -3692,8 +3692,8 @@
     "name": "68th Ave",
     "slug": "surrey/68th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-03T01:47:00Z",
-    "count": 2
+    "lastIncident": "2026-04-09T21:07:00Z",
+    "count": 4
   },
   "burnaby/royal-oak-ave": {
     "name": "Royal Oak Ave",
@@ -3713,8 +3713,8 @@
     "name": "W 57th Ave",
     "slug": "vancouver/w-57th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-07T18:50:00Z",
-    "count": 3
+    "lastIncident": "2026-04-09T21:26:00Z",
+    "count": 4
   },
   "richmond/lansdowne-rd": {
     "name": "Lansdowne Rd",
@@ -5533,8 +5533,8 @@
     "name": "Arbutus St",
     "slug": "vancouver/arbutus-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-07T17:11:00Z",
-    "count": 2
+    "lastIncident": "2026-04-09T21:26:00Z",
+    "count": 3
   },
   "surrey/125th-st": {
     "name": "125th St",
@@ -5968,6 +5968,27 @@
     "slug": "abbotsford/madiera-pl",
     "city": "Abbotsford",
     "lastIncident": "2026-04-09T20:18:00Z",
+    "count": 1
+  },
+  "richmond/no-6-road-onrp": {
+    "name": "No 6 Road Onrp",
+    "slug": "richmond/no-6-road-onrp",
+    "city": "Richmond",
+    "lastIncident": "2026-04-09T21:39:00Z",
+    "count": 1
+  },
+  "north-vancouver/st-davids-ave": {
+    "name": "St Davids Ave",
+    "slug": "north-vancouver/st-davids-ave",
+    "city": "North Vancouver",
+    "lastIncident": "2026-04-09T20:43:00Z",
+    "count": 1
+  },
+  "north-vancouver/e-3rd-st": {
+    "name": "E 3rd St",
+    "slug": "north-vancouver/e-3rd-st",
+    "city": "North Vancouver",
+    "lastIncident": "2026-04-09T20:43:00Z",
     "count": 1
   }
 }

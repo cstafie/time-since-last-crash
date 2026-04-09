@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-09T21:26:00Z_vancouver/arbutus-st_vancouver/w-57th-ave",
+      "timestamp": "2026-04-09T21:26:00Z",
+      "address": "ARBUTUS ST & W 57TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/arbutus-st",
+        "vancouver/w-57th-ave"
+      ],
+      "streetNames": [
+        "Arbutus St",
+        "W 57th Ave"
+      ],
+      "pulsePointId": "2451072495"
+    },
+    {
       "id": "2026-04-07T17:11:00Z_vancouver/w-king-edward-ave_vancouver/arbutus-st",
       "timestamp": "2026-04-07T17:11:00Z",
       "address": "W KING EDWARD AVE & ARBUTUS ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2448495578"
     }
   ],
-  "lastIncident": "2026-04-07T17:11:00Z",
-  "count": 2
+  "lastIncident": "2026-04-09T21:26:00Z",
+  "count": 3
 }
