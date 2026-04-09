@@ -640,8 +640,8 @@
     "name": "92nd Ave",
     "slug": "surrey/92nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-09T00:01:00Z",
-    "count": 8
+    "lastIncident": "2026-04-09T22:43:00Z",
+    "count": 9
   },
   "surrey/96th-ave": {
     "name": "96th Ave",
@@ -6003,6 +6003,13 @@
     "slug": "vancouver/w-7th-ave",
     "city": "Vancouver",
     "lastIncident": "2026-04-09T22:25:00Z",
+    "count": 1
+  },
+  "maple-ridge/laity-st": {
+    "name": "Laity St",
+    "slug": "maple-ridge/laity-st",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-04-09T23:05:00Z",
     "count": 1
   }
 }

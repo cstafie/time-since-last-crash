@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-04-09T23:05:00Z_maple-ridge/laity-st",
+    "timestamp": "2026-04-09T23:05:00Z",
+    "scrapedAt": "2026-04-09T23:12:33Z",
+    "address": "LAITY ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/laity-st"
+    ],
+    "streetNames": [
+      "Laity St"
+    ],
+    "pulsePointId": "2451135223"
+  },
+  {
+    "id": "2026-04-09T22:43:00Z_surrey/92nd-ave",
+    "timestamp": "2026-04-09T22:43:00Z",
+    "scrapedAt": "2026-04-09T23:12:33Z",
+    "address": "92ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/92nd-ave"
+    ],
+    "streetNames": [
+      "92nd Ave"
+    ],
+    "pulsePointId": "2451121615"
+  },
+  {
     "id": "2026-04-09T22:25:00Z_chilliwack/luckakuck-way_chilliwack/orr-rd",
     "timestamp": "2026-04-09T22:25:00Z",
     "scrapedAt": "2026-04-09T22:43:47Z",
