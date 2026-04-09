@@ -2187,8 +2187,8 @@
     "name": "Rupert St",
     "slug": "vancouver/rupert-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-01T23:10:00Z",
-    "count": 5
+    "lastIncident": "2026-04-09T14:53:00Z",
+    "count": 6
   },
   "vancouver/fir-st": {
     "name": "Fir St",
@@ -3069,8 +3069,8 @@
     "name": "E 49th Ave",
     "slug": "vancouver/e-49th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-03-26T02:11:00Z",
-    "count": 2
+    "lastIncident": "2026-04-09T14:53:00Z",
+    "count": 3
   },
   "vancouver/victoria-dr": {
     "name": "Victoria Dr",

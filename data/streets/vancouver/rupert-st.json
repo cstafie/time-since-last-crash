@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-09T14:53:00Z_vancouver/e-49th-ave_vancouver/rupert-st",
+      "timestamp": "2026-04-09T14:53:00Z",
+      "address": "E 49TH AVE & RUPERT ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-49th-ave",
+        "vancouver/rupert-st"
+      ],
+      "streetNames": [
+        "E 49th Ave",
+        "Rupert St"
+      ],
+      "pulsePointId": "2450830716"
+    },
+    {
       "id": "2026-04-01T23:10:00Z_vancouver/rupert-st",
       "timestamp": "2026-04-01T23:10:00Z",
       "address": "RUPERT ST",
@@ -75,6 +90,6 @@
       "pulsePointId": "2434824658"
     }
   ],
-  "lastIncident": "2026-04-01T23:10:00Z",
-  "count": 5
+  "lastIncident": "2026-04-09T14:53:00Z",
+  "count": 6
 }
