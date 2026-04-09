@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-09T00:01:00Z_surrey/152nd-st_surrey/92nd-ave",
+    "timestamp": "2026-04-09T00:01:00Z",
+    "scrapedAt": "2026-04-09T00:06:47Z",
+    "address": "152ND ST & 92ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/152nd-st",
+      "surrey/92nd-ave"
+    ],
+    "streetNames": [
+      "152nd St",
+      "92nd Ave"
+    ],
+    "pulsePointId": "2450504192"
+  },
+  {
+    "id": "2026-04-09T00:00:00Z_surrey/152nd-st_surrey/92nd-ave",
+    "timestamp": "2026-04-09T00:00:00Z",
+    "scrapedAt": "2026-04-09T00:06:47Z",
+    "address": "152ND ST & 92ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/152nd-st",
+      "surrey/92nd-ave"
+    ],
+    "streetNames": [
+      "152nd St",
+      "92nd Ave"
+    ],
+    "pulsePointId": "2450504429"
+  },
+  {
     "id": "2026-04-08T23:21:00Z_maple-ridge/113b-ave_maple-ridge/stewart-cres",
     "timestamp": "2026-04-08T23:21:00Z",
     "scrapedAt": "2026-04-08T23:43:17Z",

@@ -4,6 +4,36 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-04-09T00:01:00Z_surrey/152nd-st_surrey/92nd-ave",
+      "timestamp": "2026-04-09T00:01:00Z",
+      "address": "152ND ST & 92ND AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/152nd-st",
+        "surrey/92nd-ave"
+      ],
+      "streetNames": [
+        "152nd St",
+        "92nd Ave"
+      ],
+      "pulsePointId": "2450504192"
+    },
+    {
+      "id": "2026-04-09T00:00:00Z_surrey/152nd-st_surrey/92nd-ave",
+      "timestamp": "2026-04-09T00:00:00Z",
+      "address": "152ND ST & 92ND AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/152nd-st",
+        "surrey/92nd-ave"
+      ],
+      "streetNames": [
+        "152nd St",
+        "92nd Ave"
+      ],
+      "pulsePointId": "2450504429"
+    },
+    {
       "id": "2026-04-08T13:30:00Z_surrey/64th-ave_surrey/152nd-st",
       "timestamp": "2026-04-08T13:30:00Z",
       "address": "64TH AVE & 152ND ST",
@@ -169,6 +199,6 @@
       "pulsePointId": "2433332497"
     }
   ],
-  "lastIncident": "2026-04-08T13:30:00Z",
-  "count": 11
+  "lastIncident": "2026-04-09T00:01:00Z",
+  "count": 13
 }

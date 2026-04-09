@@ -640,8 +640,8 @@
     "name": "92nd Ave",
     "slug": "surrey/92nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-05T23:08:00Z",
-    "count": 6
+    "lastIncident": "2026-04-09T00:01:00Z",
+    "count": 8
   },
   "surrey/96th-ave": {
     "name": "96th Ave",
@@ -1795,8 +1795,8 @@
     "name": "152nd St",
     "slug": "surrey/152nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-08T13:30:00Z",
-    "count": 11
+    "lastIncident": "2026-04-09T00:01:00Z",
+    "count": 13
   },
   "langley/20611-fraser-hwyste-111": {
     "name": "20611 Fraser Hwy,ste 111",
