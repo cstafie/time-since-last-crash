@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-09T10:29:00Z_delta/river-rd",
+    "timestamp": "2026-04-09T10:29:00Z",
+    "scrapedAt": "2026-04-09T10:49:01Z",
+    "address": "RIVER RD",
+    "city": "Delta",
+    "streets": [
+      "delta/river-rd"
+    ],
+    "streetNames": [
+      "River Rd"
+    ],
+    "pulsePointId": "2450743486"
+  },
+  {
     "id": "2026-04-09T08:36:00Z_delta/kittson-pkwy_delta/64th-ave",
     "timestamp": "2026-04-09T08:36:00Z",
     "scrapedAt": "2026-04-09T08:53:30Z",
