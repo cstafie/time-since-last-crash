@@ -1,0 +1,22 @@
+{
+  "slug": "anmore/sunnyside-rd",
+  "name": "Sunnyside Rd",
+  "city": "Anmore",
+  "incidents": [
+    {
+      "id": "2026-04-09T23:17:00Z_anmore/sunnyside-rd",
+      "timestamp": "2026-04-09T23:17:00Z",
+      "address": "SUNNYSIDE RD",
+      "city": "Anmore",
+      "streets": [
+        "anmore/sunnyside-rd"
+      ],
+      "streetNames": [
+        "Sunnyside Rd"
+      ],
+      "pulsePointId": "2451143605"
+    }
+  ],
+  "lastIncident": "2026-04-09T23:17:00Z",
+  "count": 1
+}
