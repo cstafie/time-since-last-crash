@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-09T16:53:00Z_vancouver/dunsmuir-st_vancouver/burrard-st",
+      "timestamp": "2026-04-09T16:53:00Z",
+      "address": "DUNSMUIR ST & BURRARD ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/dunsmuir-st",
+        "vancouver/burrard-st"
+      ],
+      "streetNames": [
+        "Dunsmuir St",
+        "Burrard St"
+      ],
+      "pulsePointId": "2450895533"
+    },
+    {
       "id": "2026-04-08T04:25:00Z_vancouver/dunsmuir-st_vancouver/granville-st",
       "timestamp": "2026-04-08T04:25:00Z",
       "address": "DUNSMUIR ST & GRANVILLE ST",
@@ -19,6 +34,6 @@
       "pulsePointId": "2449984202"
     }
   ],
-  "lastIncident": "2026-04-08T04:25:00Z",
-  "count": 1
+  "lastIncident": "2026-04-09T16:53:00Z",
+  "count": 2
 }
