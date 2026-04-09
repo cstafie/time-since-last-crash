@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-09T19:23:00Z_maple-ridge/240th-st",
+    "timestamp": "2026-04-09T19:23:00Z",
+    "scrapedAt": "2026-04-09T19:51:14Z",
+    "address": "240TH ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/240th-st"
+    ],
+    "streetNames": [
+      "240th St"
+    ],
+    "pulsePointId": "2450990620"
+  },
+  {
     "id": "2026-04-09T19:14:00Z_chilliwack/prest-rd",
     "timestamp": "2026-04-09T19:14:00Z",
     "scrapedAt": "2026-04-09T19:24:34Z",
