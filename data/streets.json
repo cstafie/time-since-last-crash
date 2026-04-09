@@ -1935,8 +1935,8 @@
     "name": "E 22nd Ave",
     "slug": "vancouver/e-22nd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-05T06:12:00Z",
-    "count": 3
+    "lastIncident": "2026-04-09T13:06:00Z",
+    "count": 4
   },
   "maple-ridge/132nd-ave": {
     "name": "132nd Ave",
@@ -5905,6 +5905,13 @@
     "slug": "delta/river-rd",
     "city": "Delta",
     "lastIncident": "2026-04-09T10:29:00Z",
+    "count": 1
+  },
+  "vancouver/nootka-st": {
+    "name": "Nootka St",
+    "slug": "vancouver/nootka-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-09T13:06:00Z",
     "count": 1
   }
 }

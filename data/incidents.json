@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-09T13:06:00Z_vancouver/nootka-st_vancouver/e-22nd-ave",
+    "timestamp": "2026-04-09T13:06:00Z",
+    "scrapedAt": "2026-04-09T13:29:50Z",
+    "address": "NOOTKA ST & E 22ND AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/nootka-st",
+      "vancouver/e-22nd-ave"
+    ],
+    "streetNames": [
+      "Nootka St",
+      "E 22nd Ave"
+    ],
+    "pulsePointId": "2450784612"
+  },
+  {
     "id": "2026-04-09T11:43:00Z_langley/trans-canada-hwy_langley/200th-street-ofrp",
     "timestamp": "2026-04-09T11:43:00Z",
     "scrapedAt": "2026-04-09T11:45:59Z",

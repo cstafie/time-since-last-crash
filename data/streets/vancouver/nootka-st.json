@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/nootka-st",
+  "name": "Nootka St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-09T13:06:00Z_vancouver/nootka-st_vancouver/e-22nd-ave",
+      "timestamp": "2026-04-09T13:06:00Z",
+      "address": "NOOTKA ST & E 22ND AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/nootka-st",
+        "vancouver/e-22nd-ave"
+      ],
+      "streetNames": [
+        "Nootka St",
+        "E 22nd Ave"
+      ],
+      "pulsePointId": "2450784612"
+    }
+  ],
+  "lastIncident": "2026-04-09T13:06:00Z",
+  "count": 1
+}
