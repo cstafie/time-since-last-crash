@@ -1,6 +1,6 @@
 {
-  "slug": "burnaby/gilmore-ave",
-  "name": "Gilmore Ave",
+  "slug": "burnaby/1st-ave",
+  "name": "1st Ave",
   "city": "Burnaby",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "1st Ave"
       ],
       "pulsePointId": "2450913455"
-    },
-    {
-      "id": "2026-03-19T05:06:00Z_burnaby/gilmore-ave_burnaby/hastings-st",
-      "timestamp": "2026-03-19T05:06:00Z",
-      "address": "GILMORE AVE & HASTINGS ST",
-      "city": "Burnaby",
-      "streets": [
-        "burnaby/gilmore-ave",
-        "burnaby/hastings-st"
-      ],
-      "streetNames": [
-        "Gilmore Ave",
-        "Hastings St"
-      ],
-      "pulsePointId": "2437006115"
     }
   ],
   "lastIncident": "2026-04-09T17:24:00Z",
-  "count": 2
+  "count": 1
 }

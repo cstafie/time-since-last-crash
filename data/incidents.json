@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-09T17:24:00Z_burnaby/gilmore-ave_burnaby/1st-ave",
+    "timestamp": "2026-04-09T17:24:00Z",
+    "scrapedAt": "2026-04-09T17:47:59Z",
+    "address": "GILMORE AVE & 1ST AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/gilmore-ave",
+      "burnaby/1st-ave"
+    ],
+    "streetNames": [
+      "Gilmore Ave",
+      "1st Ave"
+    ],
+    "pulsePointId": "2450913455"
+  },
+  {
     "id": "2026-04-09T16:53:00Z_vancouver/dunsmuir-st_vancouver/burrard-st",
     "timestamp": "2026-04-09T16:53:00Z",
     "scrapedAt": "2026-04-09T17:22:36Z",
