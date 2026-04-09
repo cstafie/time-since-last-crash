@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-09T22:25:00Z_vancouver/granville-st_vancouver/w-7th-ave",
+      "timestamp": "2026-04-09T22:25:00Z",
+      "address": "GRANVILLE ST & W 7TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st",
+        "vancouver/w-7th-ave"
+      ],
+      "streetNames": [
+        "Granville St",
+        "W 7th Ave"
+      ],
+      "pulsePointId": "2451107823"
+    },
+    {
       "id": "2026-04-08T19:11:00Z_vancouver/w-41st-ave_vancouver/granville-st",
       "timestamp": "2026-04-08T19:11:00Z",
       "address": "W 41ST AVE & GRANVILLE ST",
@@ -149,6 +164,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-08T19:11:00Z",
-  "count": 10
+  "lastIncident": "2026-04-09T22:25:00Z",
+  "count": 11
 }
