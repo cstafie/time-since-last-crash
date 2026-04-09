@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-09T18:28:00Z_abbotsford/maclure-rd_abbotsford/babich-st",
+    "timestamp": "2026-04-09T18:28:00Z",
+    "scrapedAt": "2026-04-09T18:46:29Z",
+    "address": "MACLURE RD & BABICH ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/maclure-rd",
+      "abbotsford/babich-st"
+    ],
+    "streetNames": [
+      "Maclure Rd",
+      "Babich St"
+    ],
+    "pulsePointId": "2450956033"
+  },
+  {
+    "id": "2026-04-09T18:22:00Z_abbotsford/old-yale-rd_abbotsford/whatcom-rd",
+    "timestamp": "2026-04-09T18:22:00Z",
+    "scrapedAt": "2026-04-09T18:46:29Z",
+    "address": "OLD YALE RD & WHATCOM RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/old-yale-rd",
+      "abbotsford/whatcom-rd"
+    ],
+    "streetNames": [
+      "Old Yale Rd",
+      "Whatcom Rd"
+    ],
+    "pulsePointId": "2450951524"
+  },
+  {
     "id": "2026-04-09T17:24:00Z_burnaby/gilmore-ave_burnaby/1st-ave",
     "timestamp": "2026-04-09T17:24:00Z",
     "scrapedAt": "2026-04-09T17:47:59Z",

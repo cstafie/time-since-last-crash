@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/babich-st",
+  "name": "Babich St",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-04-09T18:28:00Z_abbotsford/maclure-rd_abbotsford/babich-st",
+      "timestamp": "2026-04-09T18:28:00Z",
+      "address": "MACLURE RD & BABICH ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/maclure-rd",
+        "abbotsford/babich-st"
+      ],
+      "streetNames": [
+        "Maclure Rd",
+        "Babich St"
+      ],
+      "pulsePointId": "2450956033"
+    }
+  ],
+  "lastIncident": "2026-04-09T18:28:00Z",
+  "count": 1
+}
