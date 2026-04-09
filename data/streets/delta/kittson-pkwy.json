@@ -1,0 +1,24 @@
+{
+  "slug": "delta/kittson-pkwy",
+  "name": "Kittson Pkwy",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-04-09T08:36:00Z_delta/kittson-pkwy_delta/64th-ave",
+      "timestamp": "2026-04-09T08:36:00Z",
+      "address": "KITTSON PKWY & 64TH AVE",
+      "city": "Delta",
+      "streets": [
+        "delta/kittson-pkwy",
+        "delta/64th-ave"
+      ],
+      "streetNames": [
+        "Kittson Pkwy",
+        "64th Ave"
+      ],
+      "pulsePointId": "2450719887"
+    }
+  ],
+  "lastIncident": "2026-04-09T08:36:00Z",
+  "count": 1
+}

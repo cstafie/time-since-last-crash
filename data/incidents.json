@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-09T08:36:00Z_delta/kittson-pkwy_delta/64th-ave",
+    "timestamp": "2026-04-09T08:36:00Z",
+    "scrapedAt": "2026-04-09T08:53:30Z",
+    "address": "KITTSON PKWY & 64TH AVE",
+    "city": "Delta",
+    "streets": [
+      "delta/kittson-pkwy",
+      "delta/64th-ave"
+    ],
+    "streetNames": [
+      "Kittson Pkwy",
+      "64th Ave"
+    ],
+    "pulsePointId": "2450719887"
+  },
+  {
     "id": "2026-04-09T08:19:00Z_vancouver/smithe-st_vancouver/howe-st",
     "timestamp": "2026-04-09T08:19:00Z",
     "scrapedAt": "2026-04-09T08:26:38Z",
