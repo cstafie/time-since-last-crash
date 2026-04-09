@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-04-09T15:45:00Z_richmond/rosehill-dr",
+    "timestamp": "2026-04-09T15:45:00Z",
+    "scrapedAt": "2026-04-09T16:00:31Z",
+    "address": "ROSEHILL DR",
+    "city": "Richmond",
+    "streets": [
+      "richmond/rosehill-dr"
+    ],
+    "streetNames": [
+      "Rosehill Dr"
+    ],
+    "pulsePointId": "2450856844"
+  },
+  {
+    "id": "2026-04-09T15:44:00Z_richmond/rosehill-dr",
+    "timestamp": "2026-04-09T15:44:00Z",
+    "scrapedAt": "2026-04-09T16:00:31Z",
+    "address": "ROSEHILL DR",
+    "city": "Richmond",
+    "streets": [
+      "richmond/rosehill-dr"
+    ],
+    "streetNames": [
+      "Rosehill Dr"
+    ],
+    "pulsePointId": "2450856831"
+  },
+  {
     "id": "2026-04-09T14:53:00Z_vancouver/e-49th-ave_vancouver/rupert-st",
     "timestamp": "2026-04-09T14:53:00Z",
     "scrapedAt": "2026-04-09T15:01:31Z",

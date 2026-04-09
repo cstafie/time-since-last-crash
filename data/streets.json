@@ -5913,5 +5913,12 @@
     "city": "Vancouver",
     "lastIncident": "2026-04-09T13:06:00Z",
     "count": 1
+  },
+  "richmond/rosehill-dr": {
+    "name": "Rosehill Dr",
+    "slug": "richmond/rosehill-dr",
+    "city": "Richmond",
+    "lastIncident": "2026-04-09T15:45:00Z",
+    "count": 2
   }
 }

@@ -1,0 +1,35 @@
+{
+  "slug": "richmond/rosehill-dr",
+  "name": "Rosehill Dr",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-04-09T15:45:00Z_richmond/rosehill-dr",
+      "timestamp": "2026-04-09T15:45:00Z",
+      "address": "ROSEHILL DR",
+      "city": "Richmond",
+      "streets": [
+        "richmond/rosehill-dr"
+      ],
+      "streetNames": [
+        "Rosehill Dr"
+      ],
+      "pulsePointId": "2450856844"
+    },
+    {
+      "id": "2026-04-09T15:44:00Z_richmond/rosehill-dr",
+      "timestamp": "2026-04-09T15:44:00Z",
+      "address": "ROSEHILL DR",
+      "city": "Richmond",
+      "streets": [
+        "richmond/rosehill-dr"
+      ],
+      "streetNames": [
+        "Rosehill Dr"
+      ],
+      "pulsePointId": "2450856831"
+    }
+  ],
+  "lastIncident": "2026-04-09T15:45:00Z",
+  "count": 2
+}
