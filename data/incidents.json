@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-09T00:59:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-04-09T00:59:00Z",
+    "scrapedAt": "2026-04-09T01:30:46Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2450539901"
+  },
+  {
     "id": "2026-04-09T00:09:00Z_vancouver/w-georgia-st_vancouver/seymour-st",
     "timestamp": "2026-04-09T00:09:00Z",
     "scrapedAt": "2026-04-09T00:51:47Z",
