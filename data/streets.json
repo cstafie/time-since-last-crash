@@ -2488,8 +2488,8 @@
     "name": "Davie St",
     "slug": "vancouver/davie-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-03T11:16:00Z",
-    "count": 3
+    "lastIncident": "2026-04-09T16:34:00Z",
+    "count": 4
   },
   "coquitlam/brunette-avenue-onrp": {
     "name": "Brunette Avenue Onrp",
@@ -5920,5 +5920,12 @@
     "city": "Richmond",
     "lastIncident": "2026-04-09T15:45:00Z",
     "count": 2
+  },
+  "vancouver/jervis-st": {
+    "name": "Jervis St",
+    "slug": "vancouver/jervis-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-09T16:34:00Z",
+    "count": 1
   }
 }

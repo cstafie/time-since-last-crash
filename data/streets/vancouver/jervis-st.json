@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/jervis-st",
+  "name": "Jervis St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-09T16:34:00Z_vancouver/jervis-st_vancouver/davie-st",
+      "timestamp": "2026-04-09T16:34:00Z",
+      "address": "JERVIS ST & DAVIE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/jervis-st",
+        "vancouver/davie-st"
+      ],
+      "streetNames": [
+        "Jervis St",
+        "Davie St"
+      ],
+      "pulsePointId": "2450884607"
+    }
+  ],
+  "lastIncident": "2026-04-09T16:34:00Z",
+  "count": 1
+}
