@@ -2096,8 +2096,8 @@
     "name": "126th St",
     "slug": "surrey/126th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-01T00:51:00Z",
-    "count": 2
+    "lastIncident": "2026-04-09T02:42:00Z",
+    "count": 3
   },
   "surrey/huntley-ave": {
     "name": "Huntley Ave",
@@ -5877,6 +5877,13 @@
     "slug": "new-westminster/kelly-st",
     "city": "New Westminster",
     "lastIncident": "2026-04-08T23:16:00Z",
+    "count": 1
+  },
+  "surrey/62nd-ave": {
+    "name": "62nd Ave",
+    "slug": "surrey/62nd-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-04-09T02:42:00Z",
     "count": 1
   }
 }

@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-04-09T02:42:00Z_surrey/62nd-ave_surrey/126th-st",
+      "timestamp": "2026-04-09T02:42:00Z",
+      "address": "62ND AVE & 126TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/62nd-ave",
+        "surrey/126th-st"
+      ],
+      "streetNames": [
+        "62nd Ave",
+        "126th St"
+      ],
+      "pulsePointId": "2450595443"
+    },
+    {
       "id": "2026-04-01T00:51:00Z_surrey/126th-st",
       "timestamp": "2026-04-01T00:51:00Z",
       "address": "126TH ST",
@@ -32,6 +47,6 @@
       "pulsePointId": "2434307841"
     }
   ],
-  "lastIncident": "2026-04-01T00:51:00Z",
-  "count": 2
+  "lastIncident": "2026-04-09T02:42:00Z",
+  "count": 3
 }
