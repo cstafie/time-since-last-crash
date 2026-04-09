@@ -5955,5 +5955,19 @@
     "city": "Chilliwack",
     "lastIncident": "2026-04-09T20:06:00Z",
     "count": 1
+  },
+  "abbotsford/mercantile-way": {
+    "name": "Mercantile Way",
+    "slug": "abbotsford/mercantile-way",
+    "city": "Abbotsford",
+    "lastIncident": "2026-04-09T20:18:00Z",
+    "count": 1
+  },
+  "abbotsford/madiera-pl": {
+    "name": "Madiera Pl",
+    "slug": "abbotsford/madiera-pl",
+    "city": "Abbotsford",
+    "lastIncident": "2026-04-09T20:18:00Z",
+    "count": 1
   }
 }

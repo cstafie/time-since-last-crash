@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/madiera-pl",
+  "name": "Madiera Pl",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-04-09T20:18:00Z_abbotsford/mercantile-way_abbotsford/madiera-pl",
+      "timestamp": "2026-04-09T20:18:00Z",
+      "address": "MERCANTILE WAY & MADIERA PL",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/mercantile-way",
+        "abbotsford/madiera-pl"
+      ],
+      "streetNames": [
+        "Mercantile Way",
+        "Madiera Pl"
+      ],
+      "pulsePointId": "2451026734"
+    }
+  ],
+  "lastIncident": "2026-04-09T20:18:00Z",
+  "count": 1
+}
