@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-09T00:09:00Z_vancouver/w-georgia-st_vancouver/seymour-st",
+    "timestamp": "2026-04-09T00:09:00Z",
+    "scrapedAt": "2026-04-09T00:51:47Z",
+    "address": "W GEORGIA ST & SEYMOUR ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-georgia-st",
+      "vancouver/seymour-st"
+    ],
+    "streetNames": [
+      "W Georgia St",
+      "Seymour St"
+    ],
+    "pulsePointId": "2450508937"
+  },
+  {
     "id": "2026-04-09T00:01:00Z_surrey/152nd-st_surrey/92nd-ave",
     "timestamp": "2026-04-09T00:01:00Z",
     "scrapedAt": "2026-04-09T00:06:47Z",

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-09T00:09:00Z_vancouver/w-georgia-st_vancouver/seymour-st",
+      "timestamp": "2026-04-09T00:09:00Z",
+      "address": "W GEORGIA ST & SEYMOUR ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-georgia-st",
+        "vancouver/seymour-st"
+      ],
+      "streetNames": [
+        "W Georgia St",
+        "Seymour St"
+      ],
+      "pulsePointId": "2450508937"
+    },
+    {
       "id": "2026-04-03T04:38:00Z_vancouver/pacific-st_vancouver/seymour-st",
       "timestamp": "2026-04-03T04:38:00Z",
       "address": "PACIFIC ST & SEYMOUR ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2444548216"
     }
   ],
-  "lastIncident": "2026-04-03T04:38:00Z",
-  "count": 2
+  "lastIncident": "2026-04-09T00:09:00Z",
+  "count": 3
 }
