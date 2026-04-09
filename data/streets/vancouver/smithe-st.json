@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-09T08:19:00Z_vancouver/smithe-st_vancouver/howe-st",
+      "timestamp": "2026-04-09T08:19:00Z",
+      "address": "SMITHE ST & HOWE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/smithe-st",
+        "vancouver/howe-st"
+      ],
+      "streetNames": [
+        "Smithe St",
+        "Howe St"
+      ],
+      "pulsePointId": "2450716796"
+    },
+    {
       "id": "2026-03-30T19:03:00Z_vancouver/smithe-st_vancouver/seymour-st",
       "timestamp": "2026-03-30T19:03:00Z",
       "address": "SMITHE ST & SEYMOUR ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2440715838"
     }
   ],
-  "lastIncident": "2026-03-30T19:03:00Z",
-  "count": 2
+  "lastIncident": "2026-04-09T08:19:00Z",
+  "count": 3
 }

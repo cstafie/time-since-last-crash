@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/howe-st",
+  "name": "Howe St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-09T08:19:00Z_vancouver/smithe-st_vancouver/howe-st",
+      "timestamp": "2026-04-09T08:19:00Z",
+      "address": "SMITHE ST & HOWE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/smithe-st",
+        "vancouver/howe-st"
+      ],
+      "streetNames": [
+        "Smithe St",
+        "Howe St"
+      ],
+      "pulsePointId": "2450716796"
+    }
+  ],
+  "lastIncident": "2026-04-09T08:19:00Z",
+  "count": 1
+}

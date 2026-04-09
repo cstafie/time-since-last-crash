@@ -3867,8 +3867,8 @@
     "name": "Smithe St",
     "slug": "vancouver/smithe-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-30T19:03:00Z",
-    "count": 2
+    "lastIncident": "2026-04-09T08:19:00Z",
+    "count": 3
   },
   "maple-ridge/river-rd": {
     "name": "River Rd",
@@ -5884,6 +5884,13 @@
     "slug": "surrey/62nd-ave",
     "city": "Surrey",
     "lastIncident": "2026-04-09T02:42:00Z",
+    "count": 1
+  },
+  "vancouver/howe-st": {
+    "name": "Howe St",
+    "slug": "vancouver/howe-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-09T08:19:00Z",
     "count": 1
   }
 }
