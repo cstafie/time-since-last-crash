@@ -5941,5 +5941,19 @@
     "city": "Abbotsford",
     "lastIncident": "2026-04-09T18:28:00Z",
     "count": 1
+  },
+  "chilliwack/cleveland-ave": {
+    "name": "Cleveland Ave",
+    "slug": "chilliwack/cleveland-ave",
+    "city": "Chilliwack",
+    "lastIncident": "2026-04-09T20:06:00Z",
+    "count": 1
+  },
+  "chilliwack/victor-st": {
+    "name": "Victor St",
+    "slug": "chilliwack/victor-st",
+    "city": "Chilliwack",
+    "lastIncident": "2026-04-09T20:06:00Z",
+    "count": 1
   }
 }

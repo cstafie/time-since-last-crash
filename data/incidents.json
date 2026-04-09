@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-09T20:06:00Z_chilliwack/cleveland-ave_chilliwack/victor-st",
+    "timestamp": "2026-04-09T20:06:00Z",
+    "scrapedAt": "2026-04-09T20:14:00Z",
+    "address": "CLEVELAND AVE & VICTOR ST",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/cleveland-ave",
+      "chilliwack/victor-st"
+    ],
+    "streetNames": [
+      "Cleveland Ave",
+      "Victor St"
+    ],
+    "pulsePointId": "2451018241"
+  },
+  {
     "id": "2026-04-09T19:23:00Z_maple-ridge/240th-st",
     "timestamp": "2026-04-09T19:23:00Z",
     "scrapedAt": "2026-04-09T19:51:14Z",
