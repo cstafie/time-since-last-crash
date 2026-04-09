@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-09T14:00:00Z_delta/64th-st",
+    "timestamp": "2026-04-09T14:00:00Z",
+    "scrapedAt": "2026-04-09T14:14:06Z",
+    "address": "64TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/64th-st"
+    ],
+    "streetNames": [
+      "64th St"
+    ],
+    "pulsePointId": "2450805502"
+  },
+  {
     "id": "2026-04-09T13:06:00Z_vancouver/nootka-st_vancouver/e-22nd-ave",
     "timestamp": "2026-04-09T13:06:00Z",
     "scrapedAt": "2026-04-09T13:29:50Z",
