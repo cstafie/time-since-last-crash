@@ -1,0 +1,22 @@
+{
+  "slug": "port-moody/bedwell-bay-rd",
+  "name": "Bedwell Bay Rd",
+  "city": "Port Moody",
+  "incidents": [
+    {
+      "id": "2026-04-10T08:43:00Z_port-moody/bedwell-bay-rd",
+      "timestamp": "2026-04-10T08:43:00Z",
+      "address": "BEDWELL BAY RD",
+      "city": "Port Moody",
+      "streets": [
+        "port-moody/bedwell-bay-rd"
+      ],
+      "streetNames": [
+        "Bedwell Bay Rd"
+      ],
+      "pulsePointId": "2451387751"
+    }
+  ],
+  "lastIncident": "2026-04-10T08:43:00Z",
+  "count": 1
+}

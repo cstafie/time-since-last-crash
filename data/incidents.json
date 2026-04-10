@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-10T08:43:00Z_port-moody/bedwell-bay-rd",
+    "timestamp": "2026-04-10T08:43:00Z",
+    "scrapedAt": "2026-04-10T08:55:04Z",
+    "address": "BEDWELL BAY RD",
+    "city": "Port Moody",
+    "streets": [
+      "port-moody/bedwell-bay-rd"
+    ],
+    "streetNames": [
+      "Bedwell Bay Rd"
+    ],
+    "pulsePointId": "2451387751"
+  },
+  {
     "id": "2026-04-10T04:10:00Z_burnaby/moscrop-st_burnaby/patterson-ave",
     "timestamp": "2026-04-10T04:10:00Z",
     "scrapedAt": "2026-04-10T05:16:35Z",
