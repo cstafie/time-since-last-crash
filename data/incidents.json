@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-10T03:52:00Z_abbotsford/ware-st_abbotsford/plaxton-cres",
+    "timestamp": "2026-04-10T03:52:00Z",
+    "scrapedAt": "2026-04-10T04:06:03Z",
+    "address": "WARE ST & PLAXTON CRES",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/ware-st",
+      "abbotsford/plaxton-cres"
+    ],
+    "streetNames": [
+      "Ware St",
+      "Plaxton Cres"
+    ],
+    "pulsePointId": "2451289149"
+  },
+  {
+    "id": "2026-04-10T03:28:00Z_langley/80th-ave_langley/211th-st",
+    "timestamp": "2026-04-10T03:28:00Z",
+    "scrapedAt": "2026-04-10T04:06:03Z",
+    "address": "80TH AVE & 211TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/80th-ave",
+      "langley/211th-st"
+    ],
+    "streetNames": [
+      "80th Ave",
+      "211th St"
+    ],
+    "pulsePointId": "2451278790"
+  },
+  {
     "id": "2026-04-10T02:20:00Z_delta/48th-ave_delta/georgia-st",
     "timestamp": "2026-04-10T02:20:00Z",
     "scrapedAt": "2026-04-10T02:58:49Z",
