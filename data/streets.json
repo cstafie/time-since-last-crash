@@ -6172,5 +6172,12 @@
     "city": "Abbotsford",
     "lastIncident": "2026-04-10T15:58:00Z",
     "count": 1
+  },
+  "port-coquitlam/2755-lougheed-hwy": {
+    "name": "2755 Lougheed Hwy",
+    "slug": "port-coquitlam/2755-lougheed-hwy",
+    "city": "Port Coquitlam",
+    "lastIncident": "2026-04-10T18:49:00Z",
+    "count": 1
   }
 }

@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-10T18:49:00Z_port-coquitlam/2755-lougheed-hwy",
+    "timestamp": "2026-04-10T18:49:00Z",
+    "scrapedAt": "2026-04-10T19:17:02Z",
+    "address": "2755 LOUGHEED HWY",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/2755-lougheed-hwy"
+    ],
+    "streetNames": [
+      "2755 Lougheed Hwy"
+    ],
+    "pulsePointId": "2451633603"
+  },
+  {
     "id": "2026-04-10T16:43:00Z_vancouver/main-st_vancouver/e-hastings-st",
     "timestamp": "2026-04-10T16:43:00Z",
     "scrapedAt": "2026-04-10T16:44:56Z",
