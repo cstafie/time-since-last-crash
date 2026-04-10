@@ -1179,8 +1179,8 @@
     "name": "264th St",
     "slug": "langley/264th-st",
     "city": "Langley",
-    "lastIncident": "2026-03-31T16:50:00Z",
-    "count": 2
+    "lastIncident": "2026-04-09T23:53:00Z",
+    "count": 3
   },
   "langley/64th-ave": {
     "name": "64th Ave",
@@ -1690,8 +1690,8 @@
     "name": "Old Yale Rd",
     "slug": "abbotsford/old-yale-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-09T18:22:00Z",
-    "count": 4
+    "lastIncident": "2026-04-09T23:59:00Z",
+    "count": 5
   },
   "vancouver/inverness-st": {
     "name": "Inverness St",
@@ -3608,8 +3608,8 @@
     "name": "Sumas Way",
     "slug": "abbotsford/sumas-way",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-04T18:25:00Z",
-    "count": 3
+    "lastIncident": "2026-04-09T23:58:00Z",
+    "count": 4
   },
   "burnaby/marlborough-ave": {
     "name": "Marlborough Ave",
@@ -6017,6 +6017,20 @@
     "slug": "anmore/sunnyside-rd",
     "city": "Anmore",
     "lastIncident": "2026-04-09T23:17:00Z",
+    "count": 1
+  },
+  "west-vancouver/12th-st": {
+    "name": "12th St",
+    "slug": "west-vancouver/12th-st",
+    "city": "West Vancouver",
+    "lastIncident": "2026-04-09T23:52:00Z",
+    "count": 2
+  },
+  "abbotsford/mcmillan-rd": {
+    "name": "Mcmillan Rd",
+    "slug": "abbotsford/mcmillan-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-04-09T23:59:00Z",
     "count": 1
   }
 }

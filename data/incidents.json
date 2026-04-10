@@ -1,5 +1,77 @@
 [
   {
+    "id": "2026-04-09T23:59:00Z_abbotsford/mcmillan-rd_abbotsford/old-yale-rd",
+    "timestamp": "2026-04-09T23:59:00Z",
+    "scrapedAt": "2026-04-10T00:08:59Z",
+    "address": "MCMILLAN RD & OLD YALE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/mcmillan-rd",
+      "abbotsford/old-yale-rd"
+    ],
+    "streetNames": [
+      "Mcmillan Rd",
+      "Old Yale Rd"
+    ],
+    "pulsePointId": "2451169230"
+  },
+  {
+    "id": "2026-04-09T23:58:00Z_abbotsford/sumas-way",
+    "timestamp": "2026-04-09T23:58:00Z",
+    "scrapedAt": "2026-04-10T00:08:59Z",
+    "address": "SUMAS WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/sumas-way"
+    ],
+    "streetNames": [
+      "Sumas Way"
+    ],
+    "pulsePointId": "2451170137"
+  },
+  {
+    "id": "2026-04-09T23:53:00Z_langley/264th-st",
+    "timestamp": "2026-04-09T23:53:00Z",
+    "scrapedAt": "2026-04-10T00:08:59Z",
+    "address": "264TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/264th-st"
+    ],
+    "streetNames": [
+      "264th St"
+    ],
+    "pulsePointId": "2451166612"
+  },
+  {
+    "id": "2026-04-09T23:52:00Z_west-vancouver/12th-st",
+    "timestamp": "2026-04-09T23:52:00Z",
+    "scrapedAt": "2026-04-10T00:08:59Z",
+    "address": "12TH ST",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/12th-st"
+    ],
+    "streetNames": [
+      "12th St"
+    ],
+    "pulsePointId": "2451165068"
+  },
+  {
+    "id": "2026-04-09T23:47:00Z_west-vancouver/12th-st",
+    "timestamp": "2026-04-09T23:47:00Z",
+    "scrapedAt": "2026-04-10T00:08:59Z",
+    "address": "12TH ST",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/12th-st"
+    ],
+    "streetNames": [
+      "12th St"
+    ],
+    "pulsePointId": "2451162032"
+  },
+  {
     "id": "2026-04-09T23:22:00Z_coquitlam/lougheed-hwy_coquitlam/colony-farm-rd",
     "timestamp": "2026-04-09T23:22:00Z",
     "scrapedAt": "2026-04-09T23:42:51Z",
