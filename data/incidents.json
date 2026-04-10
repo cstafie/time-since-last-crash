@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-10T04:10:00Z_burnaby/moscrop-st_burnaby/patterson-ave",
+    "timestamp": "2026-04-10T04:10:00Z",
+    "scrapedAt": "2026-04-10T05:16:35Z",
+    "address": "MOSCROP ST & PATTERSON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/moscrop-st",
+      "burnaby/patterson-ave"
+    ],
+    "streetNames": [
+      "Moscrop St",
+      "Patterson Ave"
+    ],
+    "pulsePointId": "2451298148"
+  },
+  {
     "id": "2026-04-10T03:52:00Z_abbotsford/ware-st_abbotsford/plaxton-cres",
     "timestamp": "2026-04-10T03:52:00Z",
     "scrapedAt": "2026-04-10T04:06:03Z",

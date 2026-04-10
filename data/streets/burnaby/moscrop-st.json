@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-04-10T04:10:00Z_burnaby/moscrop-st_burnaby/patterson-ave",
+      "timestamp": "2026-04-10T04:10:00Z",
+      "address": "MOSCROP ST & PATTERSON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/moscrop-st",
+        "burnaby/patterson-ave"
+      ],
+      "streetNames": [
+        "Moscrop St",
+        "Patterson Ave"
+      ],
+      "pulsePointId": "2451298148"
+    },
+    {
       "id": "2026-04-10T01:59:00Z_burnaby/moscrop-st_burnaby/boundary-rd",
       "timestamp": "2026-04-10T01:59:00Z",
       "address": "MOSCROP ST & BOUNDARY RD",
@@ -19,6 +34,6 @@
       "pulsePointId": "2451235592"
     }
   ],
-  "lastIncident": "2026-04-10T01:59:00Z",
-  "count": 1
+  "lastIncident": "2026-04-10T04:10:00Z",
+  "count": 2
 }
