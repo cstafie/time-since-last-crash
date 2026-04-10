@@ -4,6 +4,34 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-04-10T01:59:00Z_burnaby/moscrop-st_burnaby/boundary-rd",
+      "timestamp": "2026-04-10T01:59:00Z",
+      "address": "MOSCROP ST & BOUNDARY RD",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/moscrop-st",
+        "burnaby/boundary-rd"
+      ],
+      "streetNames": [
+        "Moscrop St",
+        "Boundary Rd"
+      ],
+      "pulsePointId": "2451235592"
+    },
+    {
+      "id": "2026-04-10T01:57:00Z_burnaby/boundary-rd",
+      "timestamp": "2026-04-10T01:57:00Z",
+      "address": "BOUNDARY RD",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/boundary-rd"
+      ],
+      "streetNames": [
+        "Boundary Rd"
+      ],
+      "pulsePointId": "2451236081"
+    },
+    {
       "id": "2026-04-01T23:02:00Z_burnaby/boundary-rd_burnaby/lougheed-hwy",
       "timestamp": "2026-04-01T23:02:00Z",
       "address": "BOUNDARY RD & LOUGHEED HWY",
@@ -49,6 +77,6 @@
       "pulsePointId": "2436452941"
     }
   ],
-  "lastIncident": "2026-04-01T23:02:00Z",
-  "count": 3
+  "lastIncident": "2026-04-10T01:59:00Z",
+  "count": 5
 }

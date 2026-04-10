@@ -1,0 +1,24 @@
+{
+  "slug": "delta/48th-ave",
+  "name": "48th Ave",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-04-10T02:20:00Z_delta/48th-ave_delta/georgia-st",
+      "timestamp": "2026-04-10T02:20:00Z",
+      "address": "48TH AVE & GEORGIA ST",
+      "city": "Delta",
+      "streets": [
+        "delta/48th-ave",
+        "delta/georgia-st"
+      ],
+      "streetNames": [
+        "48th Ave",
+        "Georgia St"
+      ],
+      "pulsePointId": "2451245991"
+    }
+  ],
+  "lastIncident": "2026-04-10T02:20:00Z",
+  "count": 1
+}

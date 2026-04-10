@@ -2782,8 +2782,8 @@
     "name": "Boundary Rd",
     "slug": "burnaby/boundary-rd",
     "city": "Burnaby",
-    "lastIncident": "2026-04-01T23:02:00Z",
-    "count": 3
+    "lastIncident": "2026-04-10T01:59:00Z",
+    "count": 5
   },
   "coquitlam/westview-st": {
     "name": "Westview St",
@@ -6073,6 +6073,34 @@
     "slug": "vancouver/waterloo-st",
     "city": "Vancouver",
     "lastIncident": "2026-04-10T01:13:00Z",
+    "count": 1
+  },
+  "delta/48th-ave": {
+    "name": "48th Ave",
+    "slug": "delta/48th-ave",
+    "city": "Delta",
+    "lastIncident": "2026-04-10T02:20:00Z",
+    "count": 1
+  },
+  "delta/georgia-st": {
+    "name": "Georgia St",
+    "slug": "delta/georgia-st",
+    "city": "Delta",
+    "lastIncident": "2026-04-10T02:20:00Z",
+    "count": 1
+  },
+  "burnaby/11th-ave": {
+    "name": "11th Ave",
+    "slug": "burnaby/11th-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-04-10T01:43:00Z",
+    "count": 1
+  },
+  "burnaby/moscrop-st": {
+    "name": "Moscrop St",
+    "slug": "burnaby/moscrop-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-04-10T01:59:00Z",
     "count": 1
   }
 }

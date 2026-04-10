@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-04-10T02:20:00Z_delta/48th-ave_delta/georgia-st",
+    "timestamp": "2026-04-10T02:20:00Z",
+    "scrapedAt": "2026-04-10T02:58:49Z",
+    "address": "48TH AVE & GEORGIA ST",
+    "city": "Delta",
+    "streets": [
+      "delta/48th-ave",
+      "delta/georgia-st"
+    ],
+    "streetNames": [
+      "48th Ave",
+      "Georgia St"
+    ],
+    "pulsePointId": "2451245991"
+  },
+  {
+    "id": "2026-04-10T01:59:00Z_burnaby/moscrop-st_burnaby/boundary-rd",
+    "timestamp": "2026-04-10T01:59:00Z",
+    "scrapedAt": "2026-04-10T02:58:49Z",
+    "address": "MOSCROP ST & BOUNDARY RD",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/moscrop-st",
+      "burnaby/boundary-rd"
+    ],
+    "streetNames": [
+      "Moscrop St",
+      "Boundary Rd"
+    ],
+    "pulsePointId": "2451235592"
+  },
+  {
+    "id": "2026-04-10T01:57:00Z_burnaby/boundary-rd",
+    "timestamp": "2026-04-10T01:57:00Z",
+    "scrapedAt": "2026-04-10T02:58:49Z",
+    "address": "BOUNDARY RD",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/boundary-rd"
+    ],
+    "streetNames": [
+      "Boundary Rd"
+    ],
+    "pulsePointId": "2451236081"
+  },
+  {
+    "id": "2026-04-10T01:43:00Z_burnaby/11th-ave",
+    "timestamp": "2026-04-10T01:43:00Z",
+    "scrapedAt": "2026-04-10T02:58:49Z",
+    "address": "11TH AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/11th-ave"
+    ],
+    "streetNames": [
+      "11th Ave"
+    ],
+    "pulsePointId": "2451228364"
+  },
+  {
     "id": "2026-04-10T01:32:00Z_vancouver/victoria-dr_vancouver/e-broadway",
     "timestamp": "2026-04-10T01:32:00Z",
     "scrapedAt": "2026-04-10T01:44:21Z",
