@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-10T22:02:00Z_surrey/108th-ave_surrey/142a-st",
+    "timestamp": "2026-04-10T22:02:00Z",
+    "scrapedAt": "2026-04-10T22:08:08Z",
+    "address": "108TH AVE & 142A ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/108th-ave",
+      "surrey/142a-st"
+    ],
+    "streetNames": [
+      "108th Ave",
+      "142a St"
+    ],
+    "pulsePointId": "2451761232"
+  },
+  {
+    "id": "2026-04-10T21:59:00Z_surrey/144th-st_surrey/108th-ave",
+    "timestamp": "2026-04-10T21:59:00Z",
+    "scrapedAt": "2026-04-10T22:08:08Z",
+    "address": "144TH ST & 108TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/144th-st",
+      "surrey/108th-ave"
+    ],
+    "streetNames": [
+      "144th St",
+      "108th Ave"
+    ],
+    "pulsePointId": "2451758024"
+  },
+  {
     "id": "2026-04-10T21:15:00Z_abbotsford/sumas-way_abbotsford/south-fraser-way",
     "timestamp": "2026-04-10T21:15:00Z",
     "scrapedAt": "2026-04-10T21:43:21Z",
