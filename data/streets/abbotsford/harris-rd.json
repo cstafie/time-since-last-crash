@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/harris-rd",
+  "name": "Harris Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-04-10T22:38:00Z_abbotsford/harris-rd",
+      "timestamp": "2026-04-10T22:38:00Z",
+      "address": "HARRIS RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/harris-rd"
+      ],
+      "streetNames": [
+        "Harris Rd"
+      ],
+      "pulsePointId": "2451782410"
+    }
+  ],
+  "lastIncident": "2026-04-10T22:38:00Z",
+  "count": 1
+}

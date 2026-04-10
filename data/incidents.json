@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-10T22:55:00Z_vancouver/commercial-dr_vancouver/e-broadway",
+    "timestamp": "2026-04-10T22:55:00Z",
+    "scrapedAt": "2026-04-10T23:08:51Z",
+    "address": "COMMERCIAL DR & E BROADWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/commercial-dr",
+      "vancouver/e-broadway"
+    ],
+    "streetNames": [
+      "Commercial Dr",
+      "E Broadway"
+    ],
+    "pulsePointId": "2451793268"
+  },
+  {
+    "id": "2026-04-10T22:38:00Z_abbotsford/harris-rd",
+    "timestamp": "2026-04-10T22:38:00Z",
+    "scrapedAt": "2026-04-10T23:08:51Z",
+    "address": "HARRIS RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/harris-rd"
+    ],
+    "streetNames": [
+      "Harris Rd"
+    ],
+    "pulsePointId": "2451782410"
+  },
+  {
     "id": "2026-04-10T22:02:00Z_surrey/108th-ave_surrey/142a-st",
     "timestamp": "2026-04-10T22:02:00Z",
     "scrapedAt": "2026-04-10T22:08:08Z",
