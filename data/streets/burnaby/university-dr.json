@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/university-dr",
+  "name": "University Dr",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-04-10T00:32:00Z_burnaby/gaglardi-way_burnaby/university-dr",
+      "timestamp": "2026-04-10T00:32:00Z",
+      "address": "GAGLARDI WAY & UNIVERSITY DR",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/gaglardi-way",
+        "burnaby/university-dr"
+      ],
+      "streetNames": [
+        "Gaglardi Way",
+        "University Dr"
+      ],
+      "pulsePointId": "2451190081"
+    }
+  ],
+  "lastIncident": "2026-04-10T00:32:00Z",
+  "count": 1
+}

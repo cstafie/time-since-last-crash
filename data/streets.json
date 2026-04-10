@@ -458,8 +458,8 @@
     "name": "Granville Ave",
     "slug": "richmond/granville-ave",
     "city": "Richmond",
-    "lastIncident": "2026-04-03T06:18:00Z",
-    "count": 3
+    "lastIncident": "2026-04-10T00:17:00Z",
+    "count": 4
   },
   "richmond/hwy-91": {
     "name": "Hwy 91",
@@ -710,8 +710,8 @@
     "name": "E 12th Ave",
     "slug": "vancouver/e-12th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-03-30T06:38:00Z",
-    "count": 3
+    "lastIncident": "2026-04-10T00:46:00Z",
+    "count": 4
   },
   "vancouver/e-41st-ave": {
     "name": "E 41st Ave",
@@ -2572,8 +2572,8 @@
     "name": "No 5 Rd",
     "slug": "richmond/no-5-rd",
     "city": "Richmond",
-    "lastIncident": "2026-04-06T16:22:00Z",
-    "count": 2
+    "lastIncident": "2026-04-10T00:17:00Z",
+    "count": 3
   },
   "port-moody/heritage-mountain-blvd": {
     "name": "Heritage Mountain Blvd",
@@ -3531,8 +3531,8 @@
     "name": "Gaglardi Way",
     "slug": "burnaby/gaglardi-way",
     "city": "Burnaby",
-    "lastIncident": "2026-03-23T05:53:00Z",
-    "count": 2
+    "lastIncident": "2026-04-10T00:32:00Z",
+    "count": 3
   },
   "north-vancouver/w-3rd-st": {
     "name": "W 3rd St",
@@ -6031,6 +6031,20 @@
     "slug": "abbotsford/mcmillan-rd",
     "city": "Abbotsford",
     "lastIncident": "2026-04-09T23:59:00Z",
+    "count": 1
+  },
+  "vancouver/lakewood-dr": {
+    "name": "Lakewood Dr",
+    "slug": "vancouver/lakewood-dr",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-10T00:46:00Z",
+    "count": 1
+  },
+  "burnaby/university-dr": {
+    "name": "University Dr",
+    "slug": "burnaby/university-dr",
+    "city": "Burnaby",
+    "lastIncident": "2026-04-10T00:32:00Z",
     "count": 1
   }
 }

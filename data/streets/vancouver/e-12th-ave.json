@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-10T00:46:00Z_vancouver/lakewood-dr_vancouver/e-12th-ave",
+      "timestamp": "2026-04-10T00:46:00Z",
+      "address": "LAKEWOOD DR & E 12TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/lakewood-dr",
+        "vancouver/e-12th-ave"
+      ],
+      "streetNames": [
+        "Lakewood Dr",
+        "E 12th Ave"
+      ],
+      "pulsePointId": "2451197448"
+    },
+    {
       "id": "2026-03-30T06:38:00Z_vancouver/kingsway_vancouver/e-12th-ave",
       "timestamp": "2026-03-30T06:38:00Z",
       "address": "KINGSWAY & E 12TH AVE",
@@ -48,6 +63,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-30T06:38:00Z",
-  "count": 3
+  "lastIncident": "2026-04-10T00:46:00Z",
+  "count": 4
 }

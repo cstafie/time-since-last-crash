@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-04-10T00:46:00Z_vancouver/lakewood-dr_vancouver/e-12th-ave",
+    "timestamp": "2026-04-10T00:46:00Z",
+    "scrapedAt": "2026-04-10T01:00:17Z",
+    "address": "LAKEWOOD DR & E 12TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/lakewood-dr",
+      "vancouver/e-12th-ave"
+    ],
+    "streetNames": [
+      "Lakewood Dr",
+      "E 12th Ave"
+    ],
+    "pulsePointId": "2451197448"
+  },
+  {
+    "id": "2026-04-10T00:32:00Z_burnaby/gaglardi-way_burnaby/university-dr",
+    "timestamp": "2026-04-10T00:32:00Z",
+    "scrapedAt": "2026-04-10T01:00:17Z",
+    "address": "GAGLARDI WAY & UNIVERSITY DR",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/gaglardi-way",
+      "burnaby/university-dr"
+    ],
+    "streetNames": [
+      "Gaglardi Way",
+      "University Dr"
+    ],
+    "pulsePointId": "2451190081"
+  },
+  {
+    "id": "2026-04-10T00:17:00Z_richmond/granville-ave_richmond/no-5-rd",
+    "timestamp": "2026-04-10T00:17:00Z",
+    "scrapedAt": "2026-04-10T01:00:17Z",
+    "address": "GRANVILLE AVE & NO 5 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/granville-ave",
+      "richmond/no-5-rd"
+    ],
+    "streetNames": [
+      "Granville Ave",
+      "No 5 Rd"
+    ],
+    "pulsePointId": "2451179829"
+  },
+  {
     "id": "2026-04-09T23:59:00Z_abbotsford/mcmillan-rd_abbotsford/old-yale-rd",
     "timestamp": "2026-04-09T23:59:00Z",
     "scrapedAt": "2026-04-10T00:08:59Z",
