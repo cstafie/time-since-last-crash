@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-10T21:15:00Z_abbotsford/sumas-way_abbotsford/south-fraser-way",
+      "timestamp": "2026-04-10T21:15:00Z",
+      "address": "SUMAS WAY & SOUTH FRASER WAY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/sumas-way",
+        "abbotsford/south-fraser-way"
+      ],
+      "streetNames": [
+        "Sumas Way",
+        "South Fraser Way"
+      ],
+      "pulsePointId": "2451729415"
+    },
+    {
       "id": "2026-04-09T23:58:00Z_abbotsford/sumas-way",
       "timestamp": "2026-04-09T23:58:00Z",
       "address": "SUMAS WAY",
@@ -60,6 +75,6 @@
       "pulsePointId": "2439464523"
     }
   ],
-  "lastIncident": "2026-04-09T23:58:00Z",
-  "count": 4
+  "lastIncident": "2026-04-10T21:15:00Z",
+  "count": 5
 }
