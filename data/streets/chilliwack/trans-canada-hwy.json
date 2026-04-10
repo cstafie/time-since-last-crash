@@ -4,6 +4,19 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-04-10T14:09:00Z_chilliwack/trans-canada-hwy",
+      "timestamp": "2026-04-10T14:09:00Z",
+      "address": "TRANS CANADA HWY",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2451475048"
+    },
+    {
       "id": "2026-04-06T23:16:00Z_chilliwack/trans-canada-hwy",
       "timestamp": "2026-04-06T23:16:00Z",
       "address": "TRANS CANADA HWY",
@@ -44,6 +57,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-06T23:16:00Z",
-  "count": 3
+  "lastIncident": "2026-04-10T14:09:00Z",
+  "count": 4
 }

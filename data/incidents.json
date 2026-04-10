@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-10T14:09:00Z_chilliwack/trans-canada-hwy",
+    "timestamp": "2026-04-10T14:09:00Z",
+    "scrapedAt": "2026-04-10T14:31:17Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2451475048"
+  },
+  {
     "id": "2026-04-10T13:36:00Z_abbotsford/hawthorne-ave",
     "timestamp": "2026-04-10T13:36:00Z",
     "scrapedAt": "2026-04-10T13:59:42Z",
