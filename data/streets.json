@@ -871,8 +871,8 @@
     "name": "120th St",
     "slug": "delta/120th-st",
     "city": "Delta",
-    "lastIncident": "2026-04-05T06:55:00Z",
-    "count": 7
+    "lastIncident": "2026-04-10T15:18:00Z",
+    "count": 8
   },
   "delta/roberts-bank-rd": {
     "name": "Roberts Bank Rd",
@@ -1060,8 +1060,8 @@
     "name": "Peardonville Rd",
     "slug": "abbotsford/peardonville-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-07T18:14:00Z",
-    "count": 6
+    "lastIncident": "2026-04-10T15:28:00Z",
+    "count": 7
   },
   "abbotsford/townline-rd": {
     "name": "Townline Rd",
@@ -6150,6 +6150,20 @@
     "slug": "langley/60th-ave",
     "city": "Langley",
     "lastIncident": "2026-04-10T14:51:00Z",
+    "count": 1
+  },
+  "abbotsford/parkview-st": {
+    "name": "Parkview St",
+    "slug": "abbotsford/parkview-st",
+    "city": "Abbotsford",
+    "lastIncident": "2026-04-10T15:28:00Z",
+    "count": 1
+  },
+  "delta/75a-ave": {
+    "name": "75a Ave",
+    "slug": "delta/75a-ave",
+    "city": "Delta",
+    "lastIncident": "2026-04-10T15:18:00Z",
     "count": 1
   }
 }

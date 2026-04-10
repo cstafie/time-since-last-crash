@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-10T15:28:00Z_abbotsford/peardonville-rd_abbotsford/parkview-st",
+      "timestamp": "2026-04-10T15:28:00Z",
+      "address": "PEARDONVILLE RD & PARKVIEW ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/peardonville-rd",
+        "abbotsford/parkview-st"
+      ],
+      "streetNames": [
+        "Peardonville Rd",
+        "Parkview St"
+      ],
+      "pulsePointId": "2451514503"
+    },
+    {
       "id": "2026-04-07T18:14:00Z_abbotsford/livingstone-ave_abbotsford/peardonville-rd",
       "timestamp": "2026-04-07T18:14:00Z",
       "address": "LIVINGSTONE AVE & PEARDONVILLE RD",
@@ -93,6 +108,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-07T18:14:00Z",
-  "count": 6
+  "lastIncident": "2026-04-10T15:28:00Z",
+  "count": 7
 }

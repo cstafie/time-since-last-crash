@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/parkview-st",
+  "name": "Parkview St",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-04-10T15:28:00Z_abbotsford/peardonville-rd_abbotsford/parkview-st",
+      "timestamp": "2026-04-10T15:28:00Z",
+      "address": "PEARDONVILLE RD & PARKVIEW ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/peardonville-rd",
+        "abbotsford/parkview-st"
+      ],
+      "streetNames": [
+        "Peardonville Rd",
+        "Parkview St"
+      ],
+      "pulsePointId": "2451514503"
+    }
+  ],
+  "lastIncident": "2026-04-10T15:28:00Z",
+  "count": 1
+}
