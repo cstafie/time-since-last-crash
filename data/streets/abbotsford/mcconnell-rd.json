@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/mcconnell-rd",
+  "name": "Mcconnell Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-04-10T19:37:00Z_abbotsford/mcconnell-rd",
+      "timestamp": "2026-04-10T19:37:00Z",
+      "address": "MCCONNELL RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/mcconnell-rd"
+      ],
+      "streetNames": [
+        "Mcconnell Rd"
+      ],
+      "pulsePointId": "2451668257"
+    }
+  ],
+  "lastIncident": "2026-04-10T19:37:00Z",
+  "count": 1
+}
