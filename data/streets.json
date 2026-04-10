@@ -2117,8 +2117,8 @@
     "name": "Mt Lehman Rd",
     "slug": "abbotsford/mt-lehman-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-04T02:02:00Z",
-    "count": 4
+    "lastIncident": "2026-04-10T15:58:00Z",
+    "count": 5
   },
   "vancouver/napier-st": {
     "name": "Napier St",
@@ -6164,6 +6164,13 @@
     "slug": "delta/75a-ave",
     "city": "Delta",
     "lastIncident": "2026-04-10T15:18:00Z",
+    "count": 1
+  },
+  "abbotsford/automall-dr": {
+    "name": "Automall Dr",
+    "slug": "abbotsford/automall-dr",
+    "city": "Abbotsford",
+    "lastIncident": "2026-04-10T15:58:00Z",
     "count": 1
   }
 }

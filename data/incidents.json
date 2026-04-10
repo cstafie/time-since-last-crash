@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-10T15:58:00Z_abbotsford/mt-lehman-rd_abbotsford/automall-dr",
+    "timestamp": "2026-04-10T15:58:00Z",
+    "scrapedAt": "2026-04-10T16:14:55Z",
+    "address": "MT LEHMAN RD & AUTOMALL DR",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/mt-lehman-rd",
+      "abbotsford/automall-dr"
+    ],
+    "streetNames": [
+      "Mt Lehman Rd",
+      "Automall Dr"
+    ],
+    "pulsePointId": "2451530114"
+  },
+  {
     "id": "2026-04-10T15:28:00Z_abbotsford/peardonville-rd_abbotsford/parkview-st",
     "timestamp": "2026-04-10T15:28:00Z",
     "scrapedAt": "2026-04-10T15:45:11Z",

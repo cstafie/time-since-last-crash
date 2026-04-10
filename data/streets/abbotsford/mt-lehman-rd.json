@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-10T15:58:00Z_abbotsford/mt-lehman-rd_abbotsford/automall-dr",
+      "timestamp": "2026-04-10T15:58:00Z",
+      "address": "MT LEHMAN RD & AUTOMALL DR",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/mt-lehman-rd",
+        "abbotsford/automall-dr"
+      ],
+      "streetNames": [
+        "Mt Lehman Rd",
+        "Automall Dr"
+      ],
+      "pulsePointId": "2451530114"
+    },
+    {
       "id": "2026-04-04T02:02:00Z_abbotsford/mt-lehman-rd_abbotsford/burgess-ave",
       "timestamp": "2026-04-04T02:02:00Z",
       "address": "MT LEHMAN RD & BURGESS AVE",
@@ -62,6 +77,6 @@
       "pulsePointId": "2434362355"
     }
   ],
-  "lastIncident": "2026-04-04T02:02:00Z",
-  "count": 4
+  "lastIncident": "2026-04-10T15:58:00Z",
+  "count": 5
 }
