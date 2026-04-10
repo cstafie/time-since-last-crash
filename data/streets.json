@@ -1179,8 +1179,8 @@
     "name": "264th St",
     "slug": "langley/264th-st",
     "city": "Langley",
-    "lastIncident": "2026-04-10T12:27:00Z",
-    "count": 4
+    "lastIncident": "2026-04-10T14:51:00Z",
+    "count": 5
   },
   "langley/64th-ave": {
     "name": "64th Ave",
@@ -6143,6 +6143,13 @@
     "slug": "abbotsford/hawthorne-ave",
     "city": "Abbotsford",
     "lastIncident": "2026-04-10T13:36:00Z",
+    "count": 1
+  },
+  "langley/60th-ave": {
+    "name": "60th Ave",
+    "slug": "langley/60th-ave",
+    "city": "Langley",
+    "lastIncident": "2026-04-10T14:51:00Z",
     "count": 1
   }
 }

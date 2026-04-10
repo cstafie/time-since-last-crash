@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-10T14:51:00Z_langley/264th-st_langley/60th-ave",
+    "timestamp": "2026-04-10T14:51:00Z",
+    "scrapedAt": "2026-04-10T15:13:57Z",
+    "address": "264TH ST & 60TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/264th-st",
+      "langley/60th-ave"
+    ],
+    "streetNames": [
+      "264th St",
+      "60th Ave"
+    ],
+    "pulsePointId": "2451494038"
+  },
+  {
     "id": "2026-04-10T14:09:00Z_chilliwack/trans-canada-hwy",
     "timestamp": "2026-04-10T14:09:00Z",
     "scrapedAt": "2026-04-10T14:31:17Z",

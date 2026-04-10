@@ -1,0 +1,24 @@
+{
+  "slug": "langley/60th-ave",
+  "name": "60th Ave",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-04-10T14:51:00Z_langley/264th-st_langley/60th-ave",
+      "timestamp": "2026-04-10T14:51:00Z",
+      "address": "264TH ST & 60TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/264th-st",
+        "langley/60th-ave"
+      ],
+      "streetNames": [
+        "264th St",
+        "60th Ave"
+      ],
+      "pulsePointId": "2451494038"
+    }
+  ],
+  "lastIncident": "2026-04-10T14:51:00Z",
+  "count": 1
+}
