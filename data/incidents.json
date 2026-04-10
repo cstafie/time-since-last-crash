@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-10T12:41:00Z_surrey/croydon-dr_surrey/32nd-ave",
+    "timestamp": "2026-04-10T12:41:00Z",
+    "scrapedAt": "2026-04-10T12:46:05Z",
+    "address": "CROYDON DR & 32ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/croydon-dr",
+      "surrey/32nd-ave"
+    ],
+    "streetNames": [
+      "Croydon Dr",
+      "32nd Ave"
+    ],
+    "pulsePointId": "2451444226"
+  },
+  {
+    "id": "2026-04-10T12:27:00Z_langley/264th-st_langley/26th-ave",
+    "timestamp": "2026-04-10T12:27:00Z",
+    "scrapedAt": "2026-04-10T12:46:05Z",
+    "address": "264TH ST & 26TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/264th-st",
+      "langley/26th-ave"
+    ],
+    "streetNames": [
+      "264th St",
+      "26th Ave"
+    ],
+    "pulsePointId": "2451440491"
+  },
+  {
     "id": "2026-04-10T08:59:00Z_vancouver/e-41st-ave_vancouver/nanaimo-st",
     "timestamp": "2026-04-10T08:59:00Z",
     "scrapedAt": "2026-04-10T09:24:18Z",

@@ -1,0 +1,24 @@
+{
+  "slug": "langley/26th-ave",
+  "name": "26th Ave",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-04-10T12:27:00Z_langley/264th-st_langley/26th-ave",
+      "timestamp": "2026-04-10T12:27:00Z",
+      "address": "264TH ST & 26TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/264th-st",
+        "langley/26th-ave"
+      ],
+      "streetNames": [
+        "264th St",
+        "26th Ave"
+      ],
+      "pulsePointId": "2451440491"
+    }
+  ],
+  "lastIncident": "2026-04-10T12:27:00Z",
+  "count": 1
+}
