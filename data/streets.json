@@ -6137,5 +6137,12 @@
     "city": "Langley",
     "lastIncident": "2026-04-10T12:27:00Z",
     "count": 1
+  },
+  "abbotsford/hawthorne-ave": {
+    "name": "Hawthorne Ave",
+    "slug": "abbotsford/hawthorne-ave",
+    "city": "Abbotsford",
+    "lastIncident": "2026-04-10T13:36:00Z",
+    "count": 1
   }
 }
