@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-10T16:43:00Z_vancouver/main-st_vancouver/e-hastings-st",
+      "timestamp": "2026-04-10T16:43:00Z",
+      "address": "MAIN ST & E HASTINGS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/main-st",
+        "vancouver/e-hastings-st"
+      ],
+      "streetNames": [
+        "Main St",
+        "E Hastings St"
+      ],
+      "pulsePointId": "2451555368"
+    },
+    {
       "id": "2026-04-09T05:59:00Z_vancouver/main-st_vancouver/keefer-st",
       "timestamp": "2026-04-09T05:59:00Z",
       "address": "MAIN ST & KEEFER ST",
@@ -176,6 +191,6 @@
       "pulsePointId": "2432937969"
     }
   ],
-  "lastIncident": "2026-04-09T05:59:00Z",
-  "count": 12
+  "lastIncident": "2026-04-10T16:43:00Z",
+  "count": 13
 }

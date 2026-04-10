@@ -626,8 +626,8 @@
     "name": "84th Ave",
     "slug": "surrey/84th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-18T00:15:00Z",
-    "count": 3
+    "lastIncident": "2026-04-10T16:41:00Z",
+    "count": 4
   },
   "surrey/88th-ave": {
     "name": "88th Ave",
@@ -1627,8 +1627,8 @@
     "name": "156th St",
     "slug": "surrey/156th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-04T06:47:00Z",
-    "count": 6
+    "lastIncident": "2026-04-10T16:41:00Z",
+    "count": 7
   },
   "north-vancouver/pemberton-ave": {
     "name": "Pemberton Ave",
@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-09T05:59:00Z",
-    "count": 12
+    "lastIncident": "2026-04-10T16:43:00Z",
+    "count": 13
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",
@@ -1774,8 +1774,8 @@
     "name": "E Hastings St",
     "slug": "vancouver/e-hastings-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-06T02:07:00Z",
-    "count": 9
+    "lastIncident": "2026-04-10T16:43:00Z",
+    "count": 10
   },
   "abbotsford/king-rd": {
     "name": "King Rd",

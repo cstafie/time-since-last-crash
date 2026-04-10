@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-10T16:43:00Z_vancouver/main-st_vancouver/e-hastings-st",
+    "timestamp": "2026-04-10T16:43:00Z",
+    "scrapedAt": "2026-04-10T16:44:56Z",
+    "address": "MAIN ST & E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st",
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "Main St",
+      "E Hastings St"
+    ],
+    "pulsePointId": "2451555368"
+  },
+  {
+    "id": "2026-04-10T16:41:00Z_surrey/156th-st_surrey/84th-ave",
+    "timestamp": "2026-04-10T16:41:00Z",
+    "scrapedAt": "2026-04-10T16:44:56Z",
+    "address": "156TH ST & 84TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/156th-st",
+      "surrey/84th-ave"
+    ],
+    "streetNames": [
+      "156th St",
+      "84th Ave"
+    ],
+    "pulsePointId": "2451554657"
+  },
+  {
     "id": "2026-04-10T15:58:00Z_abbotsford/mt-lehman-rd_abbotsford/automall-dr",
     "timestamp": "2026-04-10T15:58:00Z",
     "scrapedAt": "2026-04-10T16:14:55Z",
