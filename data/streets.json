@@ -913,8 +913,8 @@
     "name": "E Columbia St",
     "slug": "new-westminster/e-columbia-st",
     "city": "New Westminster",
-    "lastIncident": "2026-03-17T03:59:00Z",
-    "count": 3
+    "lastIncident": "2026-04-10T01:01:00Z",
+    "count": 4
   },
   "burnaby/market-crss": {
     "name": "Market Crss",
@@ -1130,8 +1130,8 @@
     "name": "Canada Way",
     "slug": "burnaby/canada-way",
     "city": "Burnaby",
-    "lastIncident": "2026-04-05T21:41:00Z",
-    "count": 9
+    "lastIncident": "2026-04-10T01:14:00Z",
+    "count": 10
   },
   "burnaby/norland-ave": {
     "name": "Norland Ave",
@@ -1536,8 +1536,8 @@
     "name": "Young Rd",
     "slug": "chilliwack/young-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-03-12T21:52:00Z",
-    "count": 1
+    "lastIncident": "2026-04-10T01:31:00Z",
+    "count": 2
   },
   "surrey/port-mann-brdg": {
     "name": "Port Mann Brdg",
@@ -2467,8 +2467,8 @@
     "name": "E Broadway",
     "slug": "vancouver/e-broadway",
     "city": "Vancouver",
-    "lastIncident": "2026-03-31T22:56:00Z",
-    "count": 6
+    "lastIncident": "2026-04-10T01:32:00Z",
+    "count": 7
   },
   "maple-ridge/240th-st": {
     "name": "240th St",
@@ -3076,8 +3076,8 @@
     "name": "Victoria Dr",
     "slug": "vancouver/victoria-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-04-01T23:05:00Z",
-    "count": 5
+    "lastIncident": "2026-04-10T01:32:00Z",
+    "count": 6
   },
   "vancouver/e-60th-ave": {
     "name": "E 60th Ave",
@@ -3615,8 +3615,8 @@
     "name": "Marlborough Ave",
     "slug": "burnaby/marlborough-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-03-22T23:40:00Z",
-    "count": 1
+    "lastIncident": "2026-04-10T01:00:00Z",
+    "count": 3
   },
   "chilliwack/teskey-way": {
     "name": "Teskey Way",
@@ -3867,8 +3867,8 @@
     "name": "Smithe St",
     "slug": "vancouver/smithe-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-09T08:19:00Z",
-    "count": 3
+    "lastIncident": "2026-04-10T01:01:00Z",
+    "count": 4
   },
   "maple-ridge/river-rd": {
     "name": "River Rd",
@@ -4259,8 +4259,8 @@
     "name": "Imperial St",
     "slug": "burnaby/imperial-st",
     "city": "Burnaby",
-    "lastIncident": "2026-04-01T15:17:00Z",
-    "count": 3
+    "lastIncident": "2026-04-10T00:59:00Z",
+    "count": 4
   },
   "burnaby/kitchener-st": {
     "name": "Kitchener St",
@@ -6045,6 +6045,34 @@
     "slug": "burnaby/university-dr",
     "city": "Burnaby",
     "lastIncident": "2026-04-10T00:32:00Z",
+    "count": 1
+  },
+  "chilliwack/second-ave": {
+    "name": "Second Ave",
+    "slug": "chilliwack/second-ave",
+    "city": "Chilliwack",
+    "lastIncident": "2026-04-10T01:31:00Z",
+    "count": 1
+  },
+  "burnaby/17th-ave": {
+    "name": "17th Ave",
+    "slug": "burnaby/17th-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-04-10T01:14:00Z",
+    "count": 1
+  },
+  "vancouver/w-14th-ave": {
+    "name": "W 14th Ave",
+    "slug": "vancouver/w-14th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-10T01:13:00Z",
+    "count": 1
+  },
+  "vancouver/waterloo-st": {
+    "name": "Waterloo St",
+    "slug": "vancouver/waterloo-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-10T01:13:00Z",
     "count": 1
   }
 }

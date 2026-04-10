@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-04-10T01:14:00Z_burnaby/17th-ave_burnaby/canada-way",
+      "timestamp": "2026-04-10T01:14:00Z",
+      "address": "17TH AVE & CANADA WAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/17th-ave",
+        "burnaby/canada-way"
+      ],
+      "streetNames": [
+        "17th Ave",
+        "Canada Way"
+      ],
+      "pulsePointId": "2451212434"
+    },
+    {
       "id": "2026-04-05T21:41:00Z_burnaby/canada-way_burnaby/ulster-st",
       "timestamp": "2026-04-05T21:41:00Z",
       "address": "CANADA WAY & ULSTER ST",
@@ -134,6 +149,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-05T21:41:00Z",
-  "count": 9
+  "lastIncident": "2026-04-10T01:14:00Z",
+  "count": 10
 }

@@ -1,5 +1,127 @@
 [
   {
+    "id": "2026-04-10T01:32:00Z_vancouver/victoria-dr_vancouver/e-broadway",
+    "timestamp": "2026-04-10T01:32:00Z",
+    "scrapedAt": "2026-04-10T01:44:21Z",
+    "address": "VICTORIA DR & E BROADWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/victoria-dr",
+      "vancouver/e-broadway"
+    ],
+    "streetNames": [
+      "Victoria Dr",
+      "E Broadway"
+    ],
+    "pulsePointId": "2451222305"
+  },
+  {
+    "id": "2026-04-10T01:31:00Z_chilliwack/young-rd_chilliwack/second-ave",
+    "timestamp": "2026-04-10T01:31:00Z",
+    "scrapedAt": "2026-04-10T01:44:21Z",
+    "address": "YOUNG RD & SECOND AVE",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/young-rd",
+      "chilliwack/second-ave"
+    ],
+    "streetNames": [
+      "Young Rd",
+      "Second Ave"
+    ],
+    "pulsePointId": "2451221368"
+  },
+  {
+    "id": "2026-04-10T01:14:00Z_burnaby/17th-ave_burnaby/canada-way",
+    "timestamp": "2026-04-10T01:14:00Z",
+    "scrapedAt": "2026-04-10T01:44:21Z",
+    "address": "17TH AVE & CANADA WAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/17th-ave",
+      "burnaby/canada-way"
+    ],
+    "streetNames": [
+      "17th Ave",
+      "Canada Way"
+    ],
+    "pulsePointId": "2451212434"
+  },
+  {
+    "id": "2026-04-10T01:13:00Z_vancouver/w-14th-ave_vancouver/waterloo-st",
+    "timestamp": "2026-04-10T01:13:00Z",
+    "scrapedAt": "2026-04-10T01:44:21Z",
+    "address": "W 14TH AVE & WATERLOO ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-14th-ave",
+      "vancouver/waterloo-st"
+    ],
+    "streetNames": [
+      "W 14th Ave",
+      "Waterloo St"
+    ],
+    "pulsePointId": "2451213006"
+  },
+  {
+    "id": "2026-04-10T01:01:00Z_vancouver/smithe-st",
+    "timestamp": "2026-04-10T01:01:00Z",
+    "scrapedAt": "2026-04-10T01:44:21Z",
+    "address": "SMITHE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/smithe-st"
+    ],
+    "streetNames": [
+      "Smithe St"
+    ],
+    "pulsePointId": "2451206808"
+  },
+  {
+    "id": "2026-04-10T01:01:00Z_new-westminster/e-columbia-st",
+    "timestamp": "2026-04-10T01:01:00Z",
+    "scrapedAt": "2026-04-10T01:44:21Z",
+    "address": "E COLUMBIA ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/e-columbia-st"
+    ],
+    "streetNames": [
+      "E Columbia St"
+    ],
+    "pulsePointId": "2451204507"
+  },
+  {
+    "id": "2026-04-10T01:00:00Z_burnaby/marlborough-ave",
+    "timestamp": "2026-04-10T01:00:00Z",
+    "scrapedAt": "2026-04-10T01:44:21Z",
+    "address": "MARLBOROUGH AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/marlborough-ave"
+    ],
+    "streetNames": [
+      "Marlborough Ave"
+    ],
+    "pulsePointId": "2451204746"
+  },
+  {
+    "id": "2026-04-10T00:59:00Z_burnaby/marlborough-ave_burnaby/imperial-st",
+    "timestamp": "2026-04-10T00:59:00Z",
+    "scrapedAt": "2026-04-10T01:44:21Z",
+    "address": "MARLBOROUGH AVE & IMPERIAL ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/marlborough-ave",
+      "burnaby/imperial-st"
+    ],
+    "streetNames": [
+      "Marlborough Ave",
+      "Imperial St"
+    ],
+    "pulsePointId": "2451204130"
+  },
+  {
     "id": "2026-04-10T00:46:00Z_vancouver/lakewood-dr_vancouver/e-12th-ave",
     "timestamp": "2026-04-10T00:46:00Z",
     "scrapedAt": "2026-04-10T01:00:17Z",

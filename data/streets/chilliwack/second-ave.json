@@ -1,6 +1,6 @@
 {
-  "slug": "chilliwack/young-rd",
-  "name": "Young Rd",
+  "slug": "chilliwack/second-ave",
+  "name": "Second Ave",
   "city": "Chilliwack",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Second Ave"
       ],
       "pulsePointId": "2451221368"
-    },
-    {
-      "id": "2026-03-12T21:52:00Z_chilliwack/airport-rd_chilliwack/young-rd",
-      "timestamp": "2026-03-12T21:52:00Z",
-      "address": "AIRPORT RD & YOUNG RD",
-      "city": "Chilliwack",
-      "streets": [
-        "chilliwack/airport-rd",
-        "chilliwack/young-rd"
-      ],
-      "streetNames": [
-        "Airport Rd",
-        "Young Rd"
-      ],
-      "pulsePointId": "2432750193"
     }
   ],
   "lastIncident": "2026-04-10T01:31:00Z",
-  "count": 2
+  "count": 1
 }

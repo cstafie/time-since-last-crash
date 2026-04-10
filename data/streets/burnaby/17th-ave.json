@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/17th-ave",
+  "name": "17th Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-04-10T01:14:00Z_burnaby/17th-ave_burnaby/canada-way",
+      "timestamp": "2026-04-10T01:14:00Z",
+      "address": "17TH AVE & CANADA WAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/17th-ave",
+        "burnaby/canada-way"
+      ],
+      "streetNames": [
+        "17th Ave",
+        "Canada Way"
+      ],
+      "pulsePointId": "2451212434"
+    }
+  ],
+  "lastIncident": "2026-04-10T01:14:00Z",
+  "count": 1
+}
