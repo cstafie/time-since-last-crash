@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-10T23:35:00Z_surrey/84th-ave_surrey/146th-st",
+    "timestamp": "2026-04-10T23:35:00Z",
+    "scrapedAt": "2026-04-10T23:43:03Z",
+    "address": "84TH AVE & 146TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/84th-ave",
+      "surrey/146th-st"
+    ],
+    "streetNames": [
+      "84th Ave",
+      "146th St"
+    ],
+    "pulsePointId": "2451818281"
+  },
+  {
+    "id": "2026-04-10T23:07:00Z_new-westminster/e-columbia-st",
+    "timestamp": "2026-04-10T23:07:00Z",
+    "scrapedAt": "2026-04-10T23:43:03Z",
+    "address": "E COLUMBIA ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/e-columbia-st"
+    ],
+    "streetNames": [
+      "E Columbia St"
+    ],
+    "pulsePointId": "2451801453"
+  },
+  {
     "id": "2026-04-10T22:55:00Z_vancouver/commercial-dr_vancouver/e-broadway",
     "timestamp": "2026-04-10T22:55:00Z",
     "scrapedAt": "2026-04-10T23:08:51Z",

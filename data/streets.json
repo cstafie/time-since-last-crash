@@ -626,8 +626,8 @@
     "name": "84th Ave",
     "slug": "surrey/84th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-10T16:41:00Z",
-    "count": 4
+    "lastIncident": "2026-04-10T23:35:00Z",
+    "count": 5
   },
   "surrey/88th-ave": {
     "name": "88th Ave",
@@ -913,8 +913,8 @@
     "name": "E Columbia St",
     "slug": "new-westminster/e-columbia-st",
     "city": "New Westminster",
-    "lastIncident": "2026-04-10T01:01:00Z",
-    "count": 4
+    "lastIncident": "2026-04-10T23:07:00Z",
+    "count": 5
   },
   "burnaby/market-crss": {
     "name": "Market Crss",
@@ -3237,8 +3237,8 @@
     "name": "146th St",
     "slug": "surrey/146th-st",
     "city": "Surrey",
-    "lastIncident": "2026-03-22T10:45:00Z",
-    "count": 2
+    "lastIncident": "2026-04-10T23:35:00Z",
+    "count": 3
   },
   "vancouver/macdonald-st": {
     "name": "Macdonald St",
