@@ -4,6 +4,19 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-04-10T20:57:00Z_langley/trans-canada-hwy",
+      "timestamp": "2026-04-10T20:57:00Z",
+      "address": "TRANS CANADA HWY",
+      "city": "Langley",
+      "streets": [
+        "langley/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2451717655"
+    },
+    {
       "id": "2026-04-09T11:43:00Z_langley/trans-canada-hwy_langley/200th-street-ofrp",
       "timestamp": "2026-04-09T11:43:00Z",
       "address": "TRANS CANADA HWY & 200TH STREET OFRP",
@@ -128,6 +141,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-09T11:43:00Z",
-  "count": 9
+  "lastIncident": "2026-04-10T20:57:00Z",
+  "count": 10
 }
