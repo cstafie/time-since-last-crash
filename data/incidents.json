@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-11T05:07:00Z_port-coquitlam/shaughnessy-st_port-coquitlam/argue-st",
+    "timestamp": "2026-04-11T05:07:00Z",
+    "scrapedAt": "2026-04-11T05:28:30Z",
+    "address": "SHAUGHNESSY ST & ARGUE ST",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/shaughnessy-st",
+      "port-coquitlam/argue-st"
+    ],
+    "streetNames": [
+      "Shaughnessy St",
+      "Argue St"
+    ],
+    "pulsePointId": "2451995098"
+  },
+  {
+    "id": "2026-04-11T04:57:00Z_langley/rawlison-cres",
+    "timestamp": "2026-04-11T04:57:00Z",
+    "scrapedAt": "2026-04-11T05:28:30Z",
+    "address": "RAWLISON CRES",
+    "city": "Langley",
+    "streets": [
+      "langley/rawlison-cres"
+    ],
+    "streetNames": [
+      "Rawlison Cres"
+    ],
+    "pulsePointId": "2451992267"
+  },
+  {
     "id": "2026-04-11T04:20:00Z_abbotsford/boundary-rd_abbotsford/keith-wilson-rd",
     "timestamp": "2026-04-11T04:20:00Z",
     "scrapedAt": "2026-04-11T04:36:32Z",

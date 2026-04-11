@@ -5323,8 +5323,8 @@
     "name": "Shaughnessy St",
     "slug": "port-coquitlam/shaughnessy-st",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-04-04T17:01:00Z",
-    "count": 1
+    "lastIncident": "2026-04-11T05:07:00Z",
+    "count": 2
   },
   "vancouver/e-59th-ave": {
     "name": "E 59th Ave",
@@ -6304,6 +6304,20 @@
     "slug": "port-moody/elgin-st",
     "city": "Port Moody",
     "lastIncident": "2026-04-11T04:17:00Z",
+    "count": 1
+  },
+  "port-coquitlam/argue-st": {
+    "name": "Argue St",
+    "slug": "port-coquitlam/argue-st",
+    "city": "Port Coquitlam",
+    "lastIncident": "2026-04-11T05:07:00Z",
+    "count": 1
+  },
+  "langley/rawlison-cres": {
+    "name": "Rawlison Cres",
+    "slug": "langley/rawlison-cres",
+    "city": "Langley",
+    "lastIncident": "2026-04-11T04:57:00Z",
     "count": 1
   }
 }

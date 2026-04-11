@@ -1,0 +1,22 @@
+{
+  "slug": "langley/rawlison-cres",
+  "name": "Rawlison Cres",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-04-11T04:57:00Z_langley/rawlison-cres",
+      "timestamp": "2026-04-11T04:57:00Z",
+      "address": "RAWLISON CRES",
+      "city": "Langley",
+      "streets": [
+        "langley/rawlison-cres"
+      ],
+      "streetNames": [
+        "Rawlison Cres"
+      ],
+      "pulsePointId": "2451992267"
+    }
+  ],
+  "lastIncident": "2026-04-11T04:57:00Z",
+  "count": 1
+}

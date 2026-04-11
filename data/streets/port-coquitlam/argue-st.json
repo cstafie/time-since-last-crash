@@ -1,0 +1,24 @@
+{
+  "slug": "port-coquitlam/argue-st",
+  "name": "Argue St",
+  "city": "Port Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-04-11T05:07:00Z_port-coquitlam/shaughnessy-st_port-coquitlam/argue-st",
+      "timestamp": "2026-04-11T05:07:00Z",
+      "address": "SHAUGHNESSY ST & ARGUE ST",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/shaughnessy-st",
+        "port-coquitlam/argue-st"
+      ],
+      "streetNames": [
+        "Shaughnessy St",
+        "Argue St"
+      ],
+      "pulsePointId": "2451995098"
+    }
+  ],
+  "lastIncident": "2026-04-11T05:07:00Z",
+  "count": 1
+}
