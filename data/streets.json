@@ -6361,5 +6361,12 @@
     "city": "Richmond",
     "lastIncident": "2026-04-11T14:32:00Z",
     "count": 1
+  },
+  "vancouver/cornett-rd": {
+    "name": "Cornett Rd",
+    "slug": "vancouver/cornett-rd",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-11T17:17:00Z",
+    "count": 1
   }
 }
