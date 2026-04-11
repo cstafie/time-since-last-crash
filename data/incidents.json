@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-11T20:44:00Z_langley/trans-canada-hwy",
+    "timestamp": "2026-04-11T20:44:00Z",
+    "scrapedAt": "2026-04-11T21:06:31Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2452352040"
+  },
+  {
     "id": "2026-04-11T19:12:00Z_vancouver/e-54th-ave_vancouver/knight-st",
     "timestamp": "2026-04-11T19:12:00Z",
     "scrapedAt": "2026-04-11T19:41:33Z",
