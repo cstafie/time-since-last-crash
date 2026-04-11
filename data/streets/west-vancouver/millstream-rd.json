@@ -1,0 +1,22 @@
+{
+  "slug": "west-vancouver/millstream-rd",
+  "name": "Millstream Rd",
+  "city": "West Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-11T12:24:00Z_west-vancouver/millstream-rd",
+      "timestamp": "2026-04-11T12:24:00Z",
+      "address": "MILLSTREAM RD",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/millstream-rd"
+      ],
+      "streetNames": [
+        "Millstream Rd"
+      ],
+      "pulsePointId": "2452123093"
+    }
+  ],
+  "lastIncident": "2026-04-11T12:24:00Z",
+  "count": 1
+}
