@@ -451,8 +451,8 @@
     "name": "Bridgeport Rd",
     "slug": "richmond/bridgeport-rd",
     "city": "Richmond",
-    "lastIncident": "2026-03-31T02:04:00Z",
-    "count": 6
+    "lastIncident": "2026-04-11T14:32:00Z",
+    "count": 7
   },
   "richmond/granville-ave": {
     "name": "Granville Ave",
@@ -6353,6 +6353,13 @@
     "slug": "west-vancouver/millstream-rd",
     "city": "West Vancouver",
     "lastIncident": "2026-04-11T12:24:00Z",
+    "count": 1
+  },
+  "richmond/no-8-rd": {
+    "name": "No 8 Rd",
+    "slug": "richmond/no-8-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-04-11T14:32:00Z",
     "count": 1
   }
 }
