@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-11T21:43:00Z_vancouver/knight-st_vancouver/e-43rd-ave",
+      "timestamp": "2026-04-11T21:43:00Z",
+      "address": "KNIGHT ST & E 43RD AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/knight-st",
+        "vancouver/e-43rd-ave"
+      ],
+      "streetNames": [
+        "Knight St",
+        "E 43rd Ave"
+      ],
+      "pulsePointId": "2452386459"
+    },
+    {
       "id": "2026-04-11T19:12:00Z_vancouver/e-54th-ave_vancouver/knight-st",
       "timestamp": "2026-04-11T19:12:00Z",
       "address": "E 54TH AVE & KNIGHT ST",
@@ -226,6 +241,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-11T19:12:00Z",
-  "count": 15
+  "lastIncident": "2026-04-11T21:43:00Z",
+  "count": 16
 }
