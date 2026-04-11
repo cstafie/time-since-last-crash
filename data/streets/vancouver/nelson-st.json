@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-11T07:04:00Z_vancouver/nelson-st_vancouver/homer-st",
+      "timestamp": "2026-04-11T07:04:00Z",
+      "address": "NELSON ST & HOMER ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/nelson-st",
+        "vancouver/homer-st"
+      ],
+      "streetNames": [
+        "Nelson St",
+        "Homer St"
+      ],
+      "pulsePointId": "2452040465"
+    },
+    {
       "id": "2026-03-20T17:00:00Z_vancouver/nelson-st_vancouver/hornby-st",
       "timestamp": "2026-03-20T17:00:00Z",
       "address": "NELSON ST & HORNBY ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2434363478"
     }
   ],
-  "lastIncident": "2026-03-20T17:00:00Z",
-  "count": 2
+  "lastIncident": "2026-04-11T07:04:00Z",
+  "count": 3
 }

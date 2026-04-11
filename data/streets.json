@@ -2110,8 +2110,8 @@
     "name": "Nelson St",
     "slug": "vancouver/nelson-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-20T17:00:00Z",
-    "count": 2
+    "lastIncident": "2026-04-11T07:04:00Z",
+    "count": 3
   },
   "abbotsford/mt-lehman-rd": {
     "name": "Mt Lehman Rd",
@@ -6332,6 +6332,13 @@
     "slug": "north-vancouver/w-2nd-st",
     "city": "North Vancouver",
     "lastIncident": "2026-04-11T05:33:00Z",
+    "count": 1
+  },
+  "vancouver/homer-st": {
+    "name": "Homer St",
+    "slug": "vancouver/homer-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-11T07:04:00Z",
     "count": 1
   }
 }
