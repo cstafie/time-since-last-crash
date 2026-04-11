@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-04-11T01:28:00Z_delta/86th-ave_delta/116th-st",
+    "timestamp": "2026-04-11T01:28:00Z",
+    "scrapedAt": "2026-04-11T01:37:02Z",
+    "address": "86TH AVE & 116TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/86th-ave",
+      "delta/116th-st"
+    ],
+    "streetNames": [
+      "86th Ave",
+      "116th St"
+    ],
+    "pulsePointId": "2451883831"
+  },
+  {
+    "id": "2026-04-11T01:23:00Z_burnaby/north-rd_burnaby/cameron-st",
+    "timestamp": "2026-04-11T01:23:00Z",
+    "scrapedAt": "2026-04-11T01:37:02Z",
+    "address": "NORTH RD & CAMERON ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/north-rd",
+      "burnaby/cameron-st"
+    ],
+    "streetNames": [
+      "North Rd",
+      "Cameron St"
+    ],
+    "pulsePointId": "2451881945"
+  },
+  {
+    "id": "2026-04-11T01:01:00Z_vancouver/knight-st_vancouver/e-61st-ave",
+    "timestamp": "2026-04-11T01:01:00Z",
+    "scrapedAt": "2026-04-11T01:37:02Z",
+    "address": "KNIGHT ST & E 61ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/knight-st",
+      "vancouver/e-61st-ave"
+    ],
+    "streetNames": [
+      "Knight St",
+      "E 61st Ave"
+    ],
+    "pulsePointId": "2451867948"
+  },
+  {
     "id": "2026-04-11T00:49:00Z_north-vancouver/capilano-road-onrp",
     "timestamp": "2026-04-11T00:49:00Z",
     "scrapedAt": "2026-04-11T00:57:47Z",

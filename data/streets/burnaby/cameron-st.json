@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/cameron-st",
+  "name": "Cameron St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-04-11T01:23:00Z_burnaby/north-rd_burnaby/cameron-st",
+      "timestamp": "2026-04-11T01:23:00Z",
+      "address": "NORTH RD & CAMERON ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/north-rd",
+        "burnaby/cameron-st"
+      ],
+      "streetNames": [
+        "North Rd",
+        "Cameron St"
+      ],
+      "pulsePointId": "2451881945"
+    }
+  ],
+  "lastIncident": "2026-04-11T01:23:00Z",
+  "count": 1
+}

@@ -752,8 +752,8 @@
     "name": "Knight St",
     "slug": "vancouver/knight-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-04T18:36:00Z",
-    "count": 13
+    "lastIncident": "2026-04-11T01:01:00Z",
+    "count": 14
   },
   "vancouver/lower-mall": {
     "name": "Lower Mall",
@@ -2887,8 +2887,8 @@
     "name": "E 61st Ave",
     "slug": "vancouver/e-61st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-03-18T21:29:00Z",
-    "count": 1
+    "lastIncident": "2026-04-11T01:01:00Z",
+    "count": 2
   },
   "richmond/simpson-rd": {
     "name": "Simpson Rd",
@@ -6241,6 +6241,34 @@
     "slug": "coquitlam/gatensbury-st",
     "city": "Coquitlam",
     "lastIncident": "2026-04-11T00:04:00Z",
+    "count": 1
+  },
+  "delta/86th-ave": {
+    "name": "86th Ave",
+    "slug": "delta/86th-ave",
+    "city": "Delta",
+    "lastIncident": "2026-04-11T01:28:00Z",
+    "count": 1
+  },
+  "delta/116th-st": {
+    "name": "116th St",
+    "slug": "delta/116th-st",
+    "city": "Delta",
+    "lastIncident": "2026-04-11T01:28:00Z",
+    "count": 1
+  },
+  "burnaby/north-rd": {
+    "name": "North Rd",
+    "slug": "burnaby/north-rd",
+    "city": "Burnaby",
+    "lastIncident": "2026-04-11T01:23:00Z",
+    "count": 1
+  },
+  "burnaby/cameron-st": {
+    "name": "Cameron St",
+    "slug": "burnaby/cameron-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-04-11T01:23:00Z",
     "count": 1
   }
 }
