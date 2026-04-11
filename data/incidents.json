@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-11T15:20:00Z_surrey/hwy-17",
+    "timestamp": "2026-04-11T15:20:00Z",
+    "scrapedAt": "2026-04-11T15:42:05Z",
+    "address": "HWY 17",
+    "city": "Surrey",
+    "streets": [
+      "surrey/hwy-17"
+    ],
+    "streetNames": [
+      "Hwy 17"
+    ],
+    "pulsePointId": "2452182668"
+  },
+  {
     "id": "2026-04-11T14:32:00Z_richmond/no-8-rd_richmond/bridgeport-rd",
     "timestamp": "2026-04-11T14:32:00Z",
     "scrapedAt": "2026-04-11T14:42:53Z",

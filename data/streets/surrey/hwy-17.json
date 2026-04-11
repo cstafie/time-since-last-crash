@@ -4,6 +4,19 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-04-11T15:20:00Z_surrey/hwy-17",
+      "timestamp": "2026-04-11T15:20:00Z",
+      "address": "HWY 17",
+      "city": "Surrey",
+      "streets": [
+        "surrey/hwy-17"
+      ],
+      "streetNames": [
+        "Hwy 17"
+      ],
+      "pulsePointId": "2452182668"
+    },
+    {
       "id": "2026-04-01T16:34:00Z_surrey/hwy-17",
       "timestamp": "2026-04-01T16:34:00Z",
       "address": "HWY 17",
@@ -71,6 +84,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-01T16:34:00Z",
-  "count": 5
+  "lastIncident": "2026-04-11T15:20:00Z",
+  "count": 6
 }
