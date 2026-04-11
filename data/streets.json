@@ -6270,5 +6270,12 @@
     "city": "Burnaby",
     "lastIncident": "2026-04-11T01:23:00Z",
     "count": 1
+  },
+  "chilliwack/lower-landing-rd": {
+    "name": "Lower Landing Rd",
+    "slug": "chilliwack/lower-landing-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-04-11T03:42:00Z",
+    "count": 1
   }
 }

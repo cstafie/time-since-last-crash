@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-11T03:42:00Z_chilliwack/lower-landing-rd",
+    "timestamp": "2026-04-11T03:42:00Z",
+    "scrapedAt": "2026-04-11T03:51:59Z",
+    "address": "LOWER LANDING RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/lower-landing-rd"
+    ],
+    "streetNames": [
+      "Lower Landing Rd"
+    ],
+    "pulsePointId": "2451955548"
+  },
+  {
     "id": "2026-04-11T01:28:00Z_delta/86th-ave_delta/116th-st",
     "timestamp": "2026-04-11T01:28:00Z",
     "scrapedAt": "2026-04-11T01:37:02Z",
