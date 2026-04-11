@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-11T18:12:00Z_new-westminster/e-8th-ave_new-westminster/mcbride-blvd",
+    "timestamp": "2026-04-11T18:12:00Z",
+    "scrapedAt": "2026-04-11T18:44:18Z",
+    "address": "E 8TH AVE & MCBRIDE BLVD",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/e-8th-ave",
+      "new-westminster/mcbride-blvd"
+    ],
+    "streetNames": [
+      "E 8th Ave",
+      "Mcbride Blvd"
+    ],
+    "pulsePointId": "2452266496"
+  },
+  {
     "id": "2026-04-11T17:17:00Z_vancouver/cornett-rd",
     "timestamp": "2026-04-11T17:17:00Z",
     "scrapedAt": "2026-04-11T17:41:49Z",
