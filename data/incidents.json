@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-04-11T22:38:00Z_surrey/143rd-st",
+    "timestamp": "2026-04-11T22:38:00Z",
+    "scrapedAt": "2026-04-11T22:42:24Z",
+    "address": "143RD ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/143rd-st"
+    ],
+    "streetNames": [
+      "143rd St"
+    ],
+    "pulsePointId": "2452416963"
+  },
+  {
+    "id": "2026-04-11T22:35:00Z_vancouver/commercial-dr_vancouver/e-12th-ave",
+    "timestamp": "2026-04-11T22:35:00Z",
+    "scrapedAt": "2026-04-11T22:42:24Z",
+    "address": "COMMERCIAL DR & E 12TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/commercial-dr",
+      "vancouver/e-12th-ave"
+    ],
+    "streetNames": [
+      "Commercial Dr",
+      "E 12th Ave"
+    ],
+    "pulsePointId": "2452415763"
+  },
+  {
+    "id": "2026-04-11T22:05:00Z_vancouver/main-st_vancouver/e-cordova-st",
+    "timestamp": "2026-04-11T22:05:00Z",
+    "scrapedAt": "2026-04-11T22:42:24Z",
+    "address": "MAIN ST & E CORDOVA ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st",
+      "vancouver/e-cordova-st"
+    ],
+    "streetNames": [
+      "Main St",
+      "E Cordova St"
+    ],
+    "pulsePointId": "2452396644"
+  },
+  {
     "id": "2026-04-11T21:43:00Z_vancouver/knight-st_vancouver/e-43rd-ave",
     "timestamp": "2026-04-11T21:43:00Z",
     "scrapedAt": "2026-04-11T22:04:27Z",

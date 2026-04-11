@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-11T22:05:00Z_vancouver/main-st_vancouver/e-cordova-st",
+      "timestamp": "2026-04-11T22:05:00Z",
+      "address": "MAIN ST & E CORDOVA ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/main-st",
+        "vancouver/e-cordova-st"
+      ],
+      "streetNames": [
+        "Main St",
+        "E Cordova St"
+      ],
+      "pulsePointId": "2452396644"
+    },
+    {
       "id": "2026-04-05T07:32:00Z_vancouver/e-cordova-st",
       "timestamp": "2026-04-05T07:32:00Z",
       "address": "E CORDOVA ST",
@@ -32,6 +47,6 @@
       "pulsePointId": "2441206189"
     }
   ],
-  "lastIncident": "2026-04-05T07:32:00Z",
-  "count": 2
+  "lastIncident": "2026-04-11T22:05:00Z",
+  "count": 3
 }
