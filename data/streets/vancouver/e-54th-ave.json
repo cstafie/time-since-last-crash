@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-11T19:12:00Z_vancouver/e-54th-ave_vancouver/knight-st",
+      "timestamp": "2026-04-11T19:12:00Z",
+      "address": "E 54TH AVE & KNIGHT ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-54th-ave",
+        "vancouver/knight-st"
+      ],
+      "streetNames": [
+        "E 54th Ave",
+        "Knight St"
+      ],
+      "pulsePointId": "2452298544"
+    },
+    {
       "id": "2026-04-07T15:14:00Z_vancouver/kerr-st_vancouver/e-54th-ave",
       "timestamp": "2026-04-07T15:14:00Z",
       "address": "KERR ST & E 54TH AVE",
@@ -34,6 +49,6 @@
       "pulsePointId": "2440342758"
     }
   ],
-  "lastIncident": "2026-04-07T15:14:00Z",
-  "count": 2
+  "lastIncident": "2026-04-11T19:12:00Z",
+  "count": 3
 }
