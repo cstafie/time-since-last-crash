@@ -1,6 +1,6 @@
 {
-  "slug": "coquitlam/como-lake-ave",
-  "name": "Como Lake Ave",
+  "slug": "coquitlam/gatensbury-st",
+  "name": "Gatensbury St",
   "city": "Coquitlam",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Gatensbury St"
       ],
       "pulsePointId": "2451834916"
-    },
-    {
-      "id": "2026-04-07T18:47:00Z_coquitlam/como-lake-ave_coquitlam/clarke-rd",
-      "timestamp": "2026-04-07T18:47:00Z",
-      "address": "COMO LAKE AVE & CLARKE RD",
-      "city": "Coquitlam",
-      "streets": [
-        "coquitlam/como-lake-ave",
-        "coquitlam/clarke-rd"
-      ],
-      "streetNames": [
-        "Como Lake Ave",
-        "Clarke Rd"
-      ],
-      "pulsePointId": "2449631707"
     }
   ],
   "lastIncident": "2026-04-11T00:04:00Z",
-  "count": 2
+  "count": 1
 }

@@ -1,0 +1,22 @@
+{
+  "slug": "north-vancouver/capilano-road-onrp",
+  "name": "Capilano Road Onrp",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-11T00:49:00Z_north-vancouver/capilano-road-onrp",
+      "timestamp": "2026-04-11T00:49:00Z",
+      "address": "CAPILANO ROAD ONRP",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/capilano-road-onrp"
+      ],
+      "streetNames": [
+        "Capilano Road Onrp"
+      ],
+      "pulsePointId": "2451861421"
+    }
+  ],
+  "lastIncident": "2026-04-11T00:49:00Z",
+  "count": 1
+}

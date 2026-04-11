@@ -1,5 +1,107 @@
 [
   {
+    "id": "2026-04-11T00:49:00Z_north-vancouver/capilano-road-onrp",
+    "timestamp": "2026-04-11T00:49:00Z",
+    "scrapedAt": "2026-04-11T00:57:47Z",
+    "address": "CAPILANO ROAD ONRP",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/capilano-road-onrp"
+    ],
+    "streetNames": [
+      "Capilano Road Onrp"
+    ],
+    "pulsePointId": "2451861421"
+  },
+  {
+    "id": "2026-04-11T00:45:00Z_surrey/trans-canada-hwy",
+    "timestamp": "2026-04-11T00:45:00Z",
+    "scrapedAt": "2026-04-11T00:57:47Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2451859871"
+  },
+  {
+    "id": "2026-04-11T00:32:00Z_surrey/king-george-blvd",
+    "timestamp": "2026-04-11T00:32:00Z",
+    "scrapedAt": "2026-04-11T00:57:47Z",
+    "address": "KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "King George Blvd"
+    ],
+    "pulsePointId": "2451852103"
+  },
+  {
+    "id": "2026-04-11T00:28:00Z_vancouver/manitoba-st_vancouver/w-2nd-ave",
+    "timestamp": "2026-04-11T00:28:00Z",
+    "scrapedAt": "2026-04-11T00:57:47Z",
+    "address": "MANITOBA ST & W 2ND AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/manitoba-st",
+      "vancouver/w-2nd-ave"
+    ],
+    "streetNames": [
+      "Manitoba St",
+      "W 2nd Ave"
+    ],
+    "pulsePointId": "2451848619"
+  },
+  {
+    "id": "2026-04-11T00:14:00Z_surrey/swan-cres",
+    "timestamp": "2026-04-11T00:14:00Z",
+    "scrapedAt": "2026-04-11T00:57:47Z",
+    "address": "SWAN CRES",
+    "city": "Surrey",
+    "streets": [
+      "surrey/swan-cres"
+    ],
+    "streetNames": [
+      "Swan Cres"
+    ],
+    "pulsePointId": "2451839543"
+  },
+  {
+    "id": "2026-04-11T00:11:00Z_surrey/coventry-rd",
+    "timestamp": "2026-04-11T00:11:00Z",
+    "scrapedAt": "2026-04-11T00:57:47Z",
+    "address": "COVENTRY RD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/coventry-rd"
+    ],
+    "streetNames": [
+      "Coventry Rd"
+    ],
+    "pulsePointId": "2451838391"
+  },
+  {
+    "id": "2026-04-11T00:04:00Z_coquitlam/como-lake-ave_coquitlam/gatensbury-st",
+    "timestamp": "2026-04-11T00:04:00Z",
+    "scrapedAt": "2026-04-11T00:57:47Z",
+    "address": "COMO LAKE AVE & GATENSBURY ST",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/como-lake-ave",
+      "coquitlam/gatensbury-st"
+    ],
+    "streetNames": [
+      "Como Lake Ave",
+      "Gatensbury St"
+    ],
+    "pulsePointId": "2451834916"
+  },
+  {
     "id": "2026-04-10T23:35:00Z_surrey/84th-ave_surrey/146th-st",
     "timestamp": "2026-04-10T23:35:00Z",
     "scrapedAt": "2026-04-10T23:43:03Z",
