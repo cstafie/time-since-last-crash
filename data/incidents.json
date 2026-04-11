@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-11T09:55:00Z_north-vancouver/mt-seymour-pkwy",
+    "timestamp": "2026-04-11T09:55:00Z",
+    "scrapedAt": "2026-04-11T10:07:49Z",
+    "address": "MT SEYMOUR PKWY",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/mt-seymour-pkwy"
+    ],
+    "streetNames": [
+      "Mt Seymour Pkwy"
+    ],
+    "pulsePointId": "2452087470"
+  },
+  {
     "id": "2026-04-11T07:04:00Z_vancouver/nelson-st_vancouver/homer-st",
     "timestamp": "2026-04-11T07:04:00Z",
     "scrapedAt": "2026-04-11T07:20:13Z",
