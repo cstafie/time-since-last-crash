@@ -1410,8 +1410,8 @@
     "name": "64th Ave",
     "slug": "delta/64th-ave",
     "city": "Delta",
-    "lastIncident": "2026-04-09T08:36:00Z",
-    "count": 3
+    "lastIncident": "2026-04-11T04:14:00Z",
+    "count": 4
   },
   "new-westminster/6th-st": {
     "name": "6th St",
@@ -6276,6 +6276,34 @@
     "slug": "chilliwack/lower-landing-rd",
     "city": "Chilliwack",
     "lastIncident": "2026-04-11T03:42:00Z",
+    "count": 1
+  },
+  "abbotsford/boundary-rd": {
+    "name": "Boundary Rd",
+    "slug": "abbotsford/boundary-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-04-11T04:20:00Z",
+    "count": 1
+  },
+  "abbotsford/keith-wilson-rd": {
+    "name": "Keith Wilson Rd",
+    "slug": "abbotsford/keith-wilson-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-04-11T04:20:00Z",
+    "count": 1
+  },
+  "port-moody/st-johns-st": {
+    "name": "St Johns St",
+    "slug": "port-moody/st-johns-st",
+    "city": "Port Moody",
+    "lastIncident": "2026-04-11T04:17:00Z",
+    "count": 1
+  },
+  "port-moody/elgin-st": {
+    "name": "Elgin St",
+    "slug": "port-moody/elgin-st",
+    "city": "Port Moody",
+    "lastIncident": "2026-04-11T04:17:00Z",
     "count": 1
   }
 }

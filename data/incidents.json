@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-04-11T04:20:00Z_abbotsford/boundary-rd_abbotsford/keith-wilson-rd",
+    "timestamp": "2026-04-11T04:20:00Z",
+    "scrapedAt": "2026-04-11T04:36:32Z",
+    "address": "BOUNDARY RD & KEITH WILSON RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/boundary-rd",
+      "abbotsford/keith-wilson-rd"
+    ],
+    "streetNames": [
+      "Boundary Rd",
+      "Keith Wilson Rd"
+    ],
+    "pulsePointId": "2451975235"
+  },
+  {
+    "id": "2026-04-11T04:17:00Z_port-moody/st-johns-st_port-moody/elgin-st",
+    "timestamp": "2026-04-11T04:17:00Z",
+    "scrapedAt": "2026-04-11T04:36:32Z",
+    "address": "ST JOHNS ST & ELGIN ST",
+    "city": "Port Moody",
+    "streets": [
+      "port-moody/st-johns-st",
+      "port-moody/elgin-st"
+    ],
+    "streetNames": [
+      "St Johns St",
+      "Elgin St"
+    ],
+    "pulsePointId": "2451972585"
+  },
+  {
+    "id": "2026-04-11T04:14:00Z_delta/64th-ave",
+    "timestamp": "2026-04-11T04:14:00Z",
+    "scrapedAt": "2026-04-11T04:36:32Z",
+    "address": "64TH AVE",
+    "city": "Delta",
+    "streets": [
+      "delta/64th-ave"
+    ],
+    "streetNames": [
+      "64th Ave"
+    ],
+    "pulsePointId": "2451971884"
+  },
+  {
     "id": "2026-04-11T03:42:00Z_chilliwack/lower-landing-rd",
     "timestamp": "2026-04-11T03:42:00Z",
     "scrapedAt": "2026-04-11T03:51:59Z",

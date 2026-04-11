@@ -4,6 +4,19 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-04-11T04:14:00Z_delta/64th-ave",
+      "timestamp": "2026-04-11T04:14:00Z",
+      "address": "64TH AVE",
+      "city": "Delta",
+      "streets": [
+        "delta/64th-ave"
+      ],
+      "streetNames": [
+        "64th Ave"
+      ],
+      "pulsePointId": "2451971884"
+    },
+    {
       "id": "2026-04-09T08:36:00Z_delta/kittson-pkwy_delta/64th-ave",
       "timestamp": "2026-04-09T08:36:00Z",
       "address": "KITTSON PKWY & 64TH AVE",
@@ -46,6 +59,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-09T08:36:00Z",
-  "count": 3
+  "lastIncident": "2026-04-11T04:14:00Z",
+  "count": 4
 }

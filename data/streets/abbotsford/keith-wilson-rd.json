@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/keith-wilson-rd",
+  "name": "Keith Wilson Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-04-11T04:20:00Z_abbotsford/boundary-rd_abbotsford/keith-wilson-rd",
+      "timestamp": "2026-04-11T04:20:00Z",
+      "address": "BOUNDARY RD & KEITH WILSON RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/boundary-rd",
+        "abbotsford/keith-wilson-rd"
+      ],
+      "streetNames": [
+        "Boundary Rd",
+        "Keith Wilson Rd"
+      ],
+      "pulsePointId": "2451975235"
+    }
+  ],
+  "lastIncident": "2026-04-11T04:20:00Z",
+  "count": 1
+}

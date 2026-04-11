@@ -1,0 +1,24 @@
+{
+  "slug": "port-moody/st-johns-st",
+  "name": "St Johns St",
+  "city": "Port Moody",
+  "incidents": [
+    {
+      "id": "2026-04-11T04:17:00Z_port-moody/st-johns-st_port-moody/elgin-st",
+      "timestamp": "2026-04-11T04:17:00Z",
+      "address": "ST JOHNS ST & ELGIN ST",
+      "city": "Port Moody",
+      "streets": [
+        "port-moody/st-johns-st",
+        "port-moody/elgin-st"
+      ],
+      "streetNames": [
+        "St Johns St",
+        "Elgin St"
+      ],
+      "pulsePointId": "2451972585"
+    }
+  ],
+  "lastIncident": "2026-04-11T04:17:00Z",
+  "count": 1
+}
