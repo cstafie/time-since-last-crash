@@ -248,8 +248,8 @@
     "name": "56th Ave",
     "slug": "langley/56th-ave",
     "city": "Langley",
-    "lastIncident": "2026-04-08T01:14:00Z",
-    "count": 7
+    "lastIncident": "2026-04-11T21:36:00Z",
+    "count": 8
   },
   "langley/58th-cres": {
     "name": "58th Cres",
@@ -2383,8 +2383,8 @@
     "name": "Langley Bps",
     "slug": "langley/langley-bps",
     "city": "Langley",
-    "lastIncident": "2026-04-01T16:22:00Z",
-    "count": 11
+    "lastIncident": "2026-04-11T21:36:00Z",
+    "count": 12
   },
   "surrey/56th-ave": {
     "name": "56th Ave",
