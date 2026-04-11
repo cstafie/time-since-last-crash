@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-06T20:58:00Z",
-    "count": 9
+    "lastIncident": "2026-04-11T23:10:00Z",
+    "count": 10
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",
@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-04-11T00:32:00Z",
-    "count": 21
+    "lastIncident": "2026-04-11T23:10:00Z",
+    "count": 22
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",

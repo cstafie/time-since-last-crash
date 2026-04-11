@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-11T23:10:00Z_surrey/king-george-blvd_surrey/88th-ave",
+    "timestamp": "2026-04-11T23:10:00Z",
+    "scrapedAt": "2026-04-11T23:42:55Z",
+    "address": "KING GEORGE BLVD & 88TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/88th-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "88th Ave"
+    ],
+    "pulsePointId": "2452435621"
+  },
+  {
     "id": "2026-04-11T22:51:00Z_surrey/80th-ave_surrey/176th-st",
     "timestamp": "2026-04-11T22:51:00Z",
     "scrapedAt": "2026-04-11T23:07:06Z",
