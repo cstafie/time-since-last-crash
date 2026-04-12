@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-12T00:00:00Z_vancouver/e-41st-ave_vancouver/st-catherines-st",
+    "timestamp": "2026-04-12T00:00:00Z",
+    "scrapedAt": "2026-04-12T00:07:08Z",
+    "address": "E 41ST AVE & ST CATHERINES ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-41st-ave",
+      "vancouver/st-catherines-st"
+    ],
+    "streetNames": [
+      "E 41st Ave",
+      "St Catherines St"
+    ],
+    "pulsePointId": "2452469030"
+  },
+  {
+    "id": "2026-04-11T23:40:00Z_vancouver/oak-st_vancouver/w-37th-ave",
+    "timestamp": "2026-04-11T23:40:00Z",
+    "scrapedAt": "2026-04-12T00:07:08Z",
+    "address": "OAK ST & W 37TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/oak-st",
+      "vancouver/w-37th-ave"
+    ],
+    "streetNames": [
+      "Oak St",
+      "W 37th Ave"
+    ],
+    "pulsePointId": "2452455422"
+  },
+  {
     "id": "2026-04-11T23:10:00Z_surrey/king-george-blvd_surrey/88th-ave",
     "timestamp": "2026-04-11T23:10:00Z",
     "scrapedAt": "2026-04-11T23:42:55Z",
@@ -60,6 +92,20 @@
       "E 12th Ave"
     ],
     "pulsePointId": "2452415763"
+  },
+  {
+    "id": "2026-04-11T22:18:00Z_mission/cathy-cres",
+    "timestamp": "2026-04-11T22:18:00Z",
+    "scrapedAt": "2026-04-12T00:07:08Z",
+    "address": "CATHY CRES",
+    "city": "Mission",
+    "streets": [
+      "mission/cathy-cres"
+    ],
+    "streetNames": [
+      "Cathy Cres"
+    ],
+    "pulsePointId": "2452405868"
   },
   {
     "id": "2026-04-11T22:05:00Z_vancouver/main-st_vancouver/e-cordova-st",

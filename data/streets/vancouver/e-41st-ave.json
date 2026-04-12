@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-12T00:00:00Z_vancouver/e-41st-ave_vancouver/st-catherines-st",
+      "timestamp": "2026-04-12T00:00:00Z",
+      "address": "E 41ST AVE & ST CATHERINES ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-41st-ave",
+        "vancouver/st-catherines-st"
+      ],
+      "streetNames": [
+        "E 41st Ave",
+        "St Catherines St"
+      ],
+      "pulsePointId": "2452469030"
+    },
+    {
       "id": "2026-04-10T08:59:00Z_vancouver/e-41st-ave_vancouver/nanaimo-st",
       "timestamp": "2026-04-10T08:59:00Z",
       "address": "E 41ST AVE & NANAIMO ST",
@@ -228,6 +243,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-10T08:59:00Z",
-  "count": 15
+  "lastIncident": "2026-04-12T00:00:00Z",
+  "count": 16
 }

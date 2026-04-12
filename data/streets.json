@@ -717,8 +717,8 @@
     "name": "E 41st Ave",
     "slug": "vancouver/e-41st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-10T08:59:00Z",
-    "count": 15
+    "lastIncident": "2026-04-12T00:00:00Z",
+    "count": 16
   },
   "vancouver/granville-st": {
     "name": "Granville St",
@@ -766,8 +766,8 @@
     "name": "Oak St",
     "slug": "vancouver/oak-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-08T16:18:00Z",
-    "count": 9
+    "lastIncident": "2026-04-11T23:40:00Z",
+    "count": 10
   },
   "vancouver/w-12th-ave": {
     "name": "W 12th Ave",
@@ -6374,6 +6374,27 @@
     "slug": "surrey/143rd-st",
     "city": "Surrey",
     "lastIncident": "2026-04-11T22:38:00Z",
+    "count": 1
+  },
+  "vancouver/st-catherines-st": {
+    "name": "St Catherines St",
+    "slug": "vancouver/st-catherines-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-12T00:00:00Z",
+    "count": 1
+  },
+  "vancouver/w-37th-ave": {
+    "name": "W 37th Ave",
+    "slug": "vancouver/w-37th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-11T23:40:00Z",
+    "count": 1
+  },
+  "mission/cathy-cres": {
+    "name": "Cathy Cres",
+    "slug": "mission/cathy-cres",
+    "city": "Mission",
+    "lastIncident": "2026-04-11T22:18:00Z",
     "count": 1
   }
 }
