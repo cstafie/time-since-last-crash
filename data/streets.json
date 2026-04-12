@@ -6403,5 +6403,19 @@
     "city": "Vancouver",
     "lastIncident": "2026-04-12T00:52:00Z",
     "count": 1
+  },
+  "new-westminster/jardine-st": {
+    "name": "Jardine St",
+    "slug": "new-westminster/jardine-st",
+    "city": "New Westminster",
+    "lastIncident": "2026-04-12T01:55:00Z",
+    "count": 1
+  },
+  "new-westminster/ewen-ave": {
+    "name": "Ewen Ave",
+    "slug": "new-westminster/ewen-ave",
+    "city": "New Westminster",
+    "lastIncident": "2026-04-12T01:55:00Z",
+    "count": 1
   }
 }

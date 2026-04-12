@@ -1,0 +1,24 @@
+{
+  "slug": "new-westminster/ewen-ave",
+  "name": "Ewen Ave",
+  "city": "New Westminster",
+  "incidents": [
+    {
+      "id": "2026-04-12T01:55:00Z_new-westminster/jardine-st_new-westminster/ewen-ave",
+      "timestamp": "2026-04-12T01:55:00Z",
+      "address": "JARDINE ST & EWEN AVE",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/jardine-st",
+        "new-westminster/ewen-ave"
+      ],
+      "streetNames": [
+        "Jardine St",
+        "Ewen Ave"
+      ],
+      "pulsePointId": "2452533757"
+    }
+  ],
+  "lastIncident": "2026-04-12T01:55:00Z",
+  "count": 1
+}

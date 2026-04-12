@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-12T01:55:00Z_new-westminster/jardine-st_new-westminster/ewen-ave",
+    "timestamp": "2026-04-12T01:55:00Z",
+    "scrapedAt": "2026-04-12T02:14:56Z",
+    "address": "JARDINE ST & EWEN AVE",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/jardine-st",
+      "new-westminster/ewen-ave"
+    ],
+    "streetNames": [
+      "Jardine St",
+      "Ewen Ave"
+    ],
+    "pulsePointId": "2452533757"
+  },
+  {
     "id": "2026-04-12T00:52:00Z_vancouver/guelph-st_vancouver/e-broadway",
     "timestamp": "2026-04-12T00:52:00Z",
     "scrapedAt": "2026-04-12T01:05:12Z",
