@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-12T04:43:00Z_delta/alex-fraser-brdg",
+    "timestamp": "2026-04-12T04:43:00Z",
+    "scrapedAt": "2026-04-12T04:54:11Z",
+    "address": "ALEX FRASER BRDG",
+    "city": "Delta",
+    "streets": [
+      "delta/alex-fraser-brdg"
+    ],
+    "streetNames": [
+      "Alex Fraser Brdg"
+    ],
+    "pulsePointId": "2452624419"
+  },
+  {
+    "id": "2026-04-12T04:14:00Z_vancouver/victoria-dr_vancouver/kingsway",
+    "timestamp": "2026-04-12T04:14:00Z",
+    "scrapedAt": "2026-04-12T04:54:11Z",
+    "address": "VICTORIA DR & KINGSWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/victoria-dr",
+      "vancouver/kingsway"
+    ],
+    "streetNames": [
+      "Victoria Dr",
+      "Kingsway"
+    ],
+    "pulsePointId": "2452611120"
+  },
+  {
     "id": "2026-04-12T03:31:00Z_surrey/139th-st",
     "timestamp": "2026-04-12T03:31:00Z",
     "scrapedAt": "2026-04-12T03:40:52Z",

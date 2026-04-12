@@ -745,8 +745,8 @@
     "name": "Kingsway",
     "slug": "vancouver/kingsway",
     "city": "Vancouver",
-    "lastIncident": "2026-04-08T03:17:00Z",
-    "count": 11
+    "lastIncident": "2026-04-12T04:14:00Z",
+    "count": 12
   },
   "vancouver/knight-st": {
     "name": "Knight St",
@@ -1732,8 +1732,8 @@
     "name": "Alex Fraser Brdg",
     "slug": "delta/alex-fraser-brdg",
     "city": "Delta",
-    "lastIncident": "2026-04-06T20:49:00Z",
-    "count": 7
+    "lastIncident": "2026-04-12T04:43:00Z",
+    "count": 8
   },
   "abbotsford/riverside-st": {
     "name": "Riverside St",
@@ -3076,8 +3076,8 @@
     "name": "Victoria Dr",
     "slug": "vancouver/victoria-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-04-10T01:32:00Z",
-    "count": 6
+    "lastIncident": "2026-04-12T04:14:00Z",
+    "count": 7
   },
   "vancouver/e-60th-ave": {
     "name": "E 60th Ave",

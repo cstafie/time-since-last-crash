@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-12T04:14:00Z_vancouver/victoria-dr_vancouver/kingsway",
+      "timestamp": "2026-04-12T04:14:00Z",
+      "address": "VICTORIA DR & KINGSWAY",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/victoria-dr",
+        "vancouver/kingsway"
+      ],
+      "streetNames": [
+        "Victoria Dr",
+        "Kingsway"
+      ],
+      "pulsePointId": "2452611120"
+    },
+    {
       "id": "2026-04-08T03:17:00Z_vancouver/lincoln-st_vancouver/kingsway",
       "timestamp": "2026-04-08T03:17:00Z",
       "address": "LINCOLN ST & KINGSWAY",
@@ -166,6 +181,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-08T03:17:00Z",
-  "count": 11
+  "lastIncident": "2026-04-12T04:14:00Z",
+  "count": 12
 }
