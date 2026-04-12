@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-12T00:52:00Z_vancouver/guelph-st_vancouver/e-broadway",
+    "timestamp": "2026-04-12T00:52:00Z",
+    "scrapedAt": "2026-04-12T01:05:12Z",
+    "address": "GUELPH ST & E BROADWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/guelph-st",
+      "vancouver/e-broadway"
+    ],
+    "streetNames": [
+      "Guelph St",
+      "E Broadway"
+    ],
+    "pulsePointId": "2452498899"
+  },
+  {
     "id": "2026-04-12T00:00:00Z_vancouver/e-41st-ave_vancouver/st-catherines-st",
     "timestamp": "2026-04-12T00:00:00Z",
     "scrapedAt": "2026-04-12T00:07:08Z",

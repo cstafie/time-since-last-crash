@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/guelph-st",
+  "name": "Guelph St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-12T00:52:00Z_vancouver/guelph-st_vancouver/e-broadway",
+      "timestamp": "2026-04-12T00:52:00Z",
+      "address": "GUELPH ST & E BROADWAY",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/guelph-st",
+        "vancouver/e-broadway"
+      ],
+      "streetNames": [
+        "Guelph St",
+        "E Broadway"
+      ],
+      "pulsePointId": "2452498899"
+    }
+  ],
+  "lastIncident": "2026-04-12T00:52:00Z",
+  "count": 1
+}

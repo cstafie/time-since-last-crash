@@ -2467,8 +2467,8 @@
     "name": "E Broadway",
     "slug": "vancouver/e-broadway",
     "city": "Vancouver",
-    "lastIncident": "2026-04-10T22:55:00Z",
-    "count": 8
+    "lastIncident": "2026-04-12T00:52:00Z",
+    "count": 9
   },
   "maple-ridge/240th-st": {
     "name": "240th St",
@@ -6395,6 +6395,13 @@
     "slug": "mission/cathy-cres",
     "city": "Mission",
     "lastIncident": "2026-04-11T22:18:00Z",
+    "count": 1
+  },
+  "vancouver/guelph-st": {
+    "name": "Guelph St",
+    "slug": "vancouver/guelph-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-12T00:52:00Z",
     "count": 1
   }
 }
