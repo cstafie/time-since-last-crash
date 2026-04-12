@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-04-12T16:50:00Z_coquitlam/schoolhouse-st",
+    "timestamp": "2026-04-12T16:50:00Z",
+    "scrapedAt": "2026-04-12T17:09:04Z",
+    "address": "SCHOOLHOUSE ST",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/schoolhouse-st"
+    ],
+    "streetNames": [
+      "Schoolhouse St"
+    ],
+    "pulsePointId": "2452873791"
+  },
+  {
+    "id": "2026-04-12T16:43:00Z_vancouver/w-41st-ave_vancouver/dunbar-st",
+    "timestamp": "2026-04-12T16:43:00Z",
+    "scrapedAt": "2026-04-12T17:09:04Z",
+    "address": "W 41ST AVE & DUNBAR ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-41st-ave",
+      "vancouver/dunbar-st"
+    ],
+    "streetNames": [
+      "W 41st Ave",
+      "Dunbar St"
+    ],
+    "pulsePointId": "2452871999"
+  },
+  {
+    "id": "2026-04-12T16:43:00Z_vancouver/dunbar-st_vancouver/w-41st-ave",
+    "timestamp": "2026-04-12T16:43:00Z",
+    "scrapedAt": "2026-04-12T17:09:04Z",
+    "address": "DUNBAR ST & W 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/dunbar-st",
+      "vancouver/w-41st-ave"
+    ],
+    "streetNames": [
+      "Dunbar St",
+      "W 41st Ave"
+    ],
+    "pulsePointId": "2452870584"
+  },
+  {
     "id": "2026-04-12T08:05:00Z_surrey/96th-ave_surrey/140th-st",
     "timestamp": "2026-04-12T08:05:00Z",
     "scrapedAt": "2026-04-12T08:13:05Z",

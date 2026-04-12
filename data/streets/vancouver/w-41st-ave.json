@@ -4,6 +4,36 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-12T16:43:00Z_vancouver/w-41st-ave_vancouver/dunbar-st",
+      "timestamp": "2026-04-12T16:43:00Z",
+      "address": "W 41ST AVE & DUNBAR ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-41st-ave",
+        "vancouver/dunbar-st"
+      ],
+      "streetNames": [
+        "W 41st Ave",
+        "Dunbar St"
+      ],
+      "pulsePointId": "2452871999"
+    },
+    {
+      "id": "2026-04-12T16:43:00Z_vancouver/dunbar-st_vancouver/w-41st-ave",
+      "timestamp": "2026-04-12T16:43:00Z",
+      "address": "DUNBAR ST & W 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/dunbar-st",
+        "vancouver/w-41st-ave"
+      ],
+      "streetNames": [
+        "Dunbar St",
+        "W 41st Ave"
+      ],
+      "pulsePointId": "2452870584"
+    },
+    {
       "id": "2026-04-08T19:11:00Z_vancouver/w-41st-ave_vancouver/granville-st",
       "timestamp": "2026-04-08T19:11:00Z",
       "address": "W 41ST AVE & GRANVILLE ST",
@@ -62,6 +92,6 @@
       "pulsePointId": "2435256240"
     }
   ],
-  "lastIncident": "2026-04-08T19:11:00Z",
-  "count": 4
+  "lastIncident": "2026-04-12T16:43:00Z",
+  "count": 6
 }
