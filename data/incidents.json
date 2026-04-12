@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-12T07:16:00Z_vancouver/granville-st_vancouver/w-16th-ave",
+    "timestamp": "2026-04-12T07:16:00Z",
+    "scrapedAt": "2026-04-12T07:29:08Z",
+    "address": "GRANVILLE ST & W 16TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st",
+      "vancouver/w-16th-ave"
+    ],
+    "streetNames": [
+      "Granville St",
+      "W 16th Ave"
+    ],
+    "pulsePointId": "2452684002"
+  },
+  {
     "id": "2026-04-12T04:43:00Z_delta/alex-fraser-brdg",
     "timestamp": "2026-04-12T04:43:00Z",
     "scrapedAt": "2026-04-12T04:54:11Z",
