@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-12T17:18:00Z_chilliwack/princess-ave_chilliwack/yale-rd",
+    "timestamp": "2026-04-12T17:18:00Z",
+    "scrapedAt": "2026-04-12T17:43:07Z",
+    "address": "PRINCESS AVE & YALE RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/princess-ave",
+      "chilliwack/yale-rd"
+    ],
+    "streetNames": [
+      "Princess Ave",
+      "Yale Rd"
+    ],
+    "pulsePointId": "2452888200"
+  },
+  {
     "id": "2026-04-12T16:50:00Z_coquitlam/schoolhouse-st",
     "timestamp": "2026-04-12T16:50:00Z",
     "scrapedAt": "2026-04-12T17:09:04Z",

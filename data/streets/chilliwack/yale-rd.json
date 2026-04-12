@@ -4,6 +4,21 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-04-12T17:18:00Z_chilliwack/princess-ave_chilliwack/yale-rd",
+      "timestamp": "2026-04-12T17:18:00Z",
+      "address": "PRINCESS AVE & YALE RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/princess-ave",
+        "chilliwack/yale-rd"
+      ],
+      "streetNames": [
+        "Princess Ave",
+        "Yale Rd"
+      ],
+      "pulsePointId": "2452888200"
+    },
+    {
       "id": "2026-03-28T20:47:00Z_chilliwack/fletcher-st_chilliwack/yale-rd",
       "timestamp": "2026-03-28T20:47:00Z",
       "address": "FLETCHER ST & YALE RD",
@@ -64,6 +79,6 @@
       "pulsePointId": "2436752247"
     }
   ],
-  "lastIncident": "2026-03-28T20:47:00Z",
-  "count": 4
+  "lastIncident": "2026-04-12T17:18:00Z",
+  "count": 5
 }
