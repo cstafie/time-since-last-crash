@@ -1,6 +1,6 @@
 {
-  "slug": "surrey/82nd-ave",
-  "name": "82nd Ave",
+  "slug": "surrey/158th-st",
+  "name": "158th St",
   "city": "Surrey",
   "incidents": [
     {
@@ -17,22 +17,8 @@
         "82nd Ave"
       ],
       "pulsePointId": "2452920292"
-    },
-    {
-      "id": "2026-03-08T22:26:00Z_128th-st_82nd-ave",
-      "timestamp": "2026-03-08T22:26:00Z",
-      "address": "128TH ST & 82ND AVE",
-      "city": "Surrey",
-      "streets": [
-        "surrey/128th-st",
-        "surrey/82nd-ave"
-      ],
-      "streetNames": [
-        "128th St",
-        "82nd Ave"
-      ]
     }
   ],
   "lastIncident": "2026-04-12T18:21:00Z",
-  "count": 2
+  "count": 1
 }
