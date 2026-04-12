@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-04-12T19:05:00Z_burnaby/kingsway",
+      "timestamp": "2026-04-12T19:05:00Z",
+      "address": "KINGSWAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/kingsway"
+      ],
+      "streetNames": [
+        "Kingsway"
+      ],
+      "pulsePointId": "2452944938"
+    },
+    {
       "id": "2026-04-04T23:08:00Z_burnaby/southoaks-cres_burnaby/kingsway",
       "timestamp": "2026-04-04T23:08:00Z",
       "address": "SOUTHOAKS CRES & KINGSWAY",
@@ -76,6 +89,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-04T23:08:00Z",
-  "count": 5
+  "lastIncident": "2026-04-12T19:05:00Z",
+  "count": 6
 }

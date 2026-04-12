@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-04-12T19:05:00Z_burnaby/kingsway",
+    "timestamp": "2026-04-12T19:05:00Z",
+    "scrapedAt": "2026-04-12T19:14:15Z",
+    "address": "KINGSWAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/kingsway"
+    ],
+    "streetNames": [
+      "Kingsway"
+    ],
+    "pulsePointId": "2452944938"
+  },
+  {
+    "id": "2026-04-12T18:41:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-04-12T18:41:00Z",
+    "scrapedAt": "2026-04-12T19:14:15Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2452932131"
+  },
+  {
     "id": "2026-04-12T18:21:00Z_surrey/158th-st_surrey/82nd-ave",
     "timestamp": "2026-04-12T18:21:00Z",
     "scrapedAt": "2026-04-12T18:44:27Z",

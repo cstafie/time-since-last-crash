@@ -1473,8 +1473,8 @@
     "name": "Kingsway",
     "slug": "burnaby/kingsway",
     "city": "Burnaby",
-    "lastIncident": "2026-04-04T23:08:00Z",
-    "count": 5
+    "lastIncident": "2026-04-12T19:05:00Z",
+    "count": 6
   },
   "burnaby/gilley-ave": {
     "name": "Gilley Ave",
@@ -1949,8 +1949,8 @@
     "name": "Trans Canada Hwy",
     "slug": "abbotsford/trans-canada-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-09T00:59:00Z",
-    "count": 19
+    "lastIncident": "2026-04-12T18:41:00Z",
+    "count": 20
   },
   "vancouver/w-16th-ave": {
     "name": "W 16th Ave",
