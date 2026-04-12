@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-04-12T03:31:00Z_surrey/139th-st",
+    "timestamp": "2026-04-12T03:31:00Z",
+    "scrapedAt": "2026-04-12T03:40:52Z",
+    "address": "139TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/139th-st"
+    ],
+    "streetNames": [
+      "139th St"
+    ],
+    "pulsePointId": "2452589419"
+  },
+  {
+    "id": "2026-04-12T03:10:00Z_langley/200th-st_langley/80th-ave",
+    "timestamp": "2026-04-12T03:10:00Z",
+    "scrapedAt": "2026-04-12T03:40:52Z",
+    "address": "200TH ST & 80TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/200th-st",
+      "langley/80th-ave"
+    ],
+    "streetNames": [
+      "200th St",
+      "80th Ave"
+    ],
+    "pulsePointId": "2452578531"
+  },
+  {
+    "id": "2026-04-12T02:22:00Z_abbotsford/harris-rd_abbotsford/bates-rd",
+    "timestamp": "2026-04-12T02:22:00Z",
+    "scrapedAt": "2026-04-12T03:40:52Z",
+    "address": "HARRIS RD & BATES RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/harris-rd",
+      "abbotsford/bates-rd"
+    ],
+    "streetNames": [
+      "Harris Rd",
+      "Bates Rd"
+    ],
+    "pulsePointId": "2452549488"
+  },
+  {
     "id": "2026-04-12T01:55:00Z_new-westminster/jardine-st_new-westminster/ewen-ave",
     "timestamp": "2026-04-12T01:55:00Z",
     "scrapedAt": "2026-04-12T02:14:56Z",

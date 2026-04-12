@@ -1,6 +1,6 @@
 {
-  "slug": "abbotsford/harris-rd",
-  "name": "Harris Rd",
+  "slug": "abbotsford/bates-rd",
+  "name": "Bates Rd",
   "city": "Abbotsford",
   "incidents": [
     {
@@ -17,21 +17,8 @@
         "Bates Rd"
       ],
       "pulsePointId": "2452549488"
-    },
-    {
-      "id": "2026-04-10T22:38:00Z_abbotsford/harris-rd",
-      "timestamp": "2026-04-10T22:38:00Z",
-      "address": "HARRIS RD",
-      "city": "Abbotsford",
-      "streets": [
-        "abbotsford/harris-rd"
-      ],
-      "streetNames": [
-        "Harris Rd"
-      ],
-      "pulsePointId": "2451782410"
     }
   ],
   "lastIncident": "2026-04-12T02:22:00Z",
-  "count": 2
+  "count": 1
 }
