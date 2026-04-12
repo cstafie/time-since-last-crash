@@ -17,8 +17,8 @@
     "name": "Marshall Rd",
     "slug": "abbotsford/marshall-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-02T17:31:00Z",
-    "count": 3
+    "lastIncident": "2026-04-12T20:39:00Z",
+    "count": 4
   },
   "abbotsford/mccallum-rd": {
     "name": "Mccallum Rd",
@@ -4196,8 +4196,8 @@
     "name": "184th St",
     "slug": "surrey/184th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-03T04:40:00Z",
-    "count": 3
+    "lastIncident": "2026-04-12T21:03:00Z",
+    "count": 4
   },
   "burnaby/rosser-ave": {
     "name": "Rosser Ave",
