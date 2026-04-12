@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-12T21:27:00Z_langley/224th-st_langley/56th-ave",
+    "timestamp": "2026-04-12T21:27:00Z",
+    "scrapedAt": "2026-04-12T21:43:04Z",
+    "address": "224TH ST & 56TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/224th-st",
+      "langley/56th-ave"
+    ],
+    "streetNames": [
+      "224th St",
+      "56th Ave"
+    ],
+    "pulsePointId": "2453018100"
+  },
+  {
+    "id": "2026-04-12T21:13:00Z_langley/272nd-st_langley/fraser-hwy",
+    "timestamp": "2026-04-12T21:13:00Z",
+    "scrapedAt": "2026-04-12T21:43:04Z",
+    "address": "272ND ST & FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/272nd-st",
+      "langley/fraser-hwy"
+    ],
+    "streetNames": [
+      "272nd St",
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2453011836"
+  },
+  {
     "id": "2026-04-12T21:03:00Z_surrey/184th-st",
     "timestamp": "2026-04-12T21:03:00Z",
     "scrapedAt": "2026-04-12T21:07:04Z",

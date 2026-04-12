@@ -220,8 +220,8 @@
     "name": "272nd St",
     "slug": "langley/272nd-st",
     "city": "Langley",
-    "lastIncident": "2026-03-31T18:57:00Z",
-    "count": 6
+    "lastIncident": "2026-04-12T21:13:00Z",
+    "count": 7
   },
   "langley/273rd-st": {
     "name": "273rd St",
@@ -248,8 +248,8 @@
     "name": "56th Ave",
     "slug": "langley/56th-ave",
     "city": "Langley",
-    "lastIncident": "2026-04-11T21:36:00Z",
-    "count": 8
+    "lastIncident": "2026-04-12T21:27:00Z",
+    "count": 9
   },
   "langley/58th-cres": {
     "name": "58th Cres",
@@ -262,8 +262,8 @@
     "name": "Fraser Hwy",
     "slug": "langley/fraser-hwy",
     "city": "Langley",
-    "lastIncident": "2026-03-26T07:32:00Z",
-    "count": 15
+    "lastIncident": "2026-04-12T21:13:00Z",
+    "count": 16
   },
   "langley/trans-canada-hwy": {
     "name": "Trans Canada Hwy",
@@ -6437,6 +6437,13 @@
     "slug": "surrey/158th-st",
     "city": "Surrey",
     "lastIncident": "2026-04-12T18:21:00Z",
+    "count": 1
+  },
+  "langley/224th-st": {
+    "name": "224th St",
+    "slug": "langley/224th-st",
+    "city": "Langley",
+    "lastIncident": "2026-04-12T21:27:00Z",
     "count": 1
   }
 }
