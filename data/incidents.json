@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-12T08:05:00Z_surrey/96th-ave_surrey/140th-st",
+    "timestamp": "2026-04-12T08:05:00Z",
+    "scrapedAt": "2026-04-12T08:13:05Z",
+    "address": "96TH AVE & 140TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/96th-ave",
+      "surrey/140th-st"
+    ],
+    "streetNames": [
+      "96th Ave",
+      "140th St"
+    ],
+    "pulsePointId": "2452698016"
+  },
+  {
+    "id": "2026-04-12T08:01:00Z_surrey/140th-st_surrey/fraser-hwy",
+    "timestamp": "2026-04-12T08:01:00Z",
+    "scrapedAt": "2026-04-12T08:13:05Z",
+    "address": "140TH ST & FRASER HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/140th-st",
+      "surrey/fraser-hwy"
+    ],
+    "streetNames": [
+      "140th St",
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2452699920"
+  },
+  {
     "id": "2026-04-12T07:16:00Z_vancouver/granville-st_vancouver/w-16th-ave",
     "timestamp": "2026-04-12T07:16:00Z",
     "scrapedAt": "2026-04-12T07:29:08Z",
