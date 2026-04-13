@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-13T22:05:00Z_abbotsford/south-fraser-way_abbotsford/bourquin-cres-w",
+      "timestamp": "2026-04-13T22:05:00Z",
+      "address": "SOUTH FRASER WAY & BOURQUIN CRES W",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/south-fraser-way",
+        "abbotsford/bourquin-cres-w"
+      ],
+      "streetNames": [
+        "South Fraser Way",
+        "Bourquin Cres W"
+      ],
+      "pulsePointId": "2453688587"
+    },
+    {
       "id": "2026-04-10T21:15:00Z_abbotsford/sumas-way_abbotsford/south-fraser-way",
       "timestamp": "2026-04-10T21:15:00Z",
       "address": "SUMAS WAY & SOUTH FRASER WAY",
@@ -167,6 +182,6 @@
       "pulsePointId": "2433235919"
     }
   ],
-  "lastIncident": "2026-04-10T21:15:00Z",
-  "count": 11
+  "lastIncident": "2026-04-13T22:05:00Z",
+  "count": 12
 }

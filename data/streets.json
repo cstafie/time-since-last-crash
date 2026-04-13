@@ -1767,8 +1767,8 @@
     "name": "South Fraser Way",
     "slug": "abbotsford/south-fraser-way",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-10T21:15:00Z",
-    "count": 11
+    "lastIncident": "2026-04-13T22:05:00Z",
+    "count": 12
   },
   "vancouver/e-hastings-st": {
     "name": "E Hastings St",
@@ -1823,8 +1823,8 @@
     "name": "Bourquin Cres W",
     "slug": "abbotsford/bourquin-cres-w",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-18T13:18:00Z",
-    "count": 2
+    "lastIncident": "2026-04-13T22:05:00Z",
+    "count": 3
   },
   "surrey/40th-ave": {
     "name": "40th Ave",
