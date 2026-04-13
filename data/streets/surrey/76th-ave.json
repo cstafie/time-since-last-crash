@@ -1,6 +1,6 @@
 {
-  "slug": "surrey/192nd-st",
-  "name": "192nd St",
+  "slug": "surrey/76th-ave",
+  "name": "76th Ave",
   "city": "Surrey",
   "incidents": [
     {
@@ -17,20 +17,8 @@
         "192nd St"
       ],
       "pulsePointId": "2453141772"
-    },
-    {
-      "id": "2026-03-11T22:50:00Z_surrey/192nd-st",
-      "timestamp": "2026-03-11T22:50:00Z",
-      "address": "192ND ST",
-      "city": "Surrey",
-      "streets": [
-        "surrey/192nd-st"
-      ],
-      "streetNames": [
-        "192nd St"
-      ]
     }
   ],
   "lastIncident": "2026-04-13T01:24:00Z",
-  "count": 2
+  "count": 1
 }

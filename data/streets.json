@@ -451,8 +451,8 @@
     "name": "Bridgeport Rd",
     "slug": "richmond/bridgeport-rd",
     "city": "Richmond",
-    "lastIncident": "2026-04-11T14:32:00Z",
-    "count": 7
+    "lastIncident": "2026-04-13T01:44:00Z",
+    "count": 8
   },
   "richmond/granville-ave": {
     "name": "Granville Ave",
@@ -549,8 +549,8 @@
     "name": "132nd St",
     "slug": "surrey/132nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-03-25T22:18:00Z",
-    "count": 6
+    "lastIncident": "2026-04-13T01:50:00Z",
+    "count": 7
   },
   "surrey/140th-st": {
     "name": "140th St",
@@ -1382,8 +1382,8 @@
     "name": "192nd St",
     "slug": "surrey/192nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-03-11T22:50:00Z",
-    "count": 1
+    "lastIncident": "2026-04-13T01:24:00Z",
+    "count": 2
   },
   "surrey/66a-ave": {
     "name": "66a Ave",
@@ -1536,8 +1536,8 @@
     "name": "Young Rd",
     "slug": "chilliwack/young-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-04-10T01:31:00Z",
-    "count": 2
+    "lastIncident": "2026-04-13T01:37:00Z",
+    "count": 3
   },
   "surrey/port-mann-brdg": {
     "name": "Port Mann Brdg",
@@ -2418,8 +2418,8 @@
     "name": "First Ave",
     "slug": "chilliwack/first-ave",
     "city": "Chilliwack",
-    "lastIncident": "2026-03-19T23:28:00Z",
-    "count": 2
+    "lastIncident": "2026-04-13T01:35:00Z",
+    "count": 3
   },
   "coquitlam/trans-canada-hwy-onrp": {
     "name": "Trans Canada Hwy Onrp",
@@ -2845,8 +2845,8 @@
     "name": "Sexsmith Rd",
     "slug": "richmond/sexsmith-rd",
     "city": "Richmond",
-    "lastIncident": "2026-04-08T20:32:00Z",
-    "count": 3
+    "lastIncident": "2026-04-13T01:44:00Z",
+    "count": 4
   },
   "maple-ridge/kanaka-way": {
     "name": "Kanaka Way",
@@ -6444,6 +6444,20 @@
     "slug": "langley/224th-st",
     "city": "Langley",
     "lastIncident": "2026-04-12T21:27:00Z",
+    "count": 1
+  },
+  "surrey/76th-ave": {
+    "name": "76th Ave",
+    "slug": "surrey/76th-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-04-13T01:24:00Z",
+    "count": 1
+  },
+  "surrey/67b-ave": {
+    "name": "67b Ave",
+    "slug": "surrey/67b-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-04-13T01:50:00Z",
     "count": 1
   }
 }

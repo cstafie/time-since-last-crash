@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-04-13T01:44:00Z_richmond/sexsmith-rd_richmond/bridgeport-rd",
+      "timestamp": "2026-04-13T01:44:00Z",
+      "address": "SEXSMITH RD & BRIDGEPORT RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/sexsmith-rd",
+        "richmond/bridgeport-rd"
+      ],
+      "streetNames": [
+        "Sexsmith Rd",
+        "Bridgeport Rd"
+      ],
+      "pulsePointId": "2453150964"
+    },
+    {
       "id": "2026-04-11T14:32:00Z_richmond/no-8-rd_richmond/bridgeport-rd",
       "timestamp": "2026-04-11T14:32:00Z",
       "address": "NO 8 RD & BRIDGEPORT RD",
@@ -106,6 +121,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-11T14:32:00Z",
-  "count": 7
+  "lastIncident": "2026-04-13T01:44:00Z",
+  "count": 8
 }

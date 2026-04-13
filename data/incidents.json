@@ -1,5 +1,81 @@
 [
   {
+    "id": "2026-04-13T01:50:00Z_surrey/132nd-st_surrey/67b-ave",
+    "timestamp": "2026-04-13T01:50:00Z",
+    "scrapedAt": "2026-04-13T02:15:52Z",
+    "address": "132ND ST & 67B AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/132nd-st",
+      "surrey/67b-ave"
+    ],
+    "streetNames": [
+      "132nd St",
+      "67b Ave"
+    ],
+    "pulsePointId": "2453154441"
+  },
+  {
+    "id": "2026-04-13T01:44:00Z_richmond/sexsmith-rd_richmond/bridgeport-rd",
+    "timestamp": "2026-04-13T01:44:00Z",
+    "scrapedAt": "2026-04-13T02:15:52Z",
+    "address": "SEXSMITH RD & BRIDGEPORT RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/sexsmith-rd",
+      "richmond/bridgeport-rd"
+    ],
+    "streetNames": [
+      "Sexsmith Rd",
+      "Bridgeport Rd"
+    ],
+    "pulsePointId": "2453150964"
+  },
+  {
+    "id": "2026-04-13T01:37:00Z_chilliwack/young-rd",
+    "timestamp": "2026-04-13T01:37:00Z",
+    "scrapedAt": "2026-04-13T02:15:52Z",
+    "address": "YOUNG RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/young-rd"
+    ],
+    "streetNames": [
+      "Young Rd"
+    ],
+    "pulsePointId": "2453148110"
+  },
+  {
+    "id": "2026-04-13T01:35:00Z_chilliwack/first-ave",
+    "timestamp": "2026-04-13T01:35:00Z",
+    "scrapedAt": "2026-04-13T02:15:52Z",
+    "address": "FIRST AVE",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/first-ave"
+    ],
+    "streetNames": [
+      "First Ave"
+    ],
+    "pulsePointId": "2453147045"
+  },
+  {
+    "id": "2026-04-13T01:24:00Z_surrey/76th-ave_surrey/192nd-st",
+    "timestamp": "2026-04-13T01:24:00Z",
+    "scrapedAt": "2026-04-13T02:15:52Z",
+    "address": "76TH AVE & 192ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/76th-ave",
+      "surrey/192nd-st"
+    ],
+    "streetNames": [
+      "76th Ave",
+      "192nd St"
+    ],
+    "pulsePointId": "2453141772"
+  },
+  {
     "id": "2026-04-13T00:29:00Z_surrey/56th-ave",
     "timestamp": "2026-04-13T00:29:00Z",
     "scrapedAt": "2026-04-13T01:06:49Z",
