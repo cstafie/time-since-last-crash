@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-04-13T16:34:00Z_burnaby/1st-ave",
+      "timestamp": "2026-04-13T16:34:00Z",
+      "address": "1ST AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/1st-ave"
+      ],
+      "streetNames": [
+        "1st Ave"
+      ],
+      "pulsePointId": "2453477181"
+    },
+    {
       "id": "2026-04-09T17:24:00Z_burnaby/gilmore-ave_burnaby/1st-ave",
       "timestamp": "2026-04-09T17:24:00Z",
       "address": "GILMORE AVE & 1ST AVE",
@@ -19,6 +32,6 @@
       "pulsePointId": "2450913455"
     }
   ],
-  "lastIncident": "2026-04-09T17:24:00Z",
-  "count": 1
+  "lastIncident": "2026-04-13T16:34:00Z",
+  "count": 2
 }

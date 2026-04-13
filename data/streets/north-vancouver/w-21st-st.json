@@ -1,6 +1,6 @@
 {
-  "slug": "north-vancouver/capilano-rd",
-  "name": "Capilano Rd",
+  "slug": "north-vancouver/w-21st-st",
+  "name": "W 21st St",
   "city": "North Vancouver",
   "incidents": [
     {
@@ -17,20 +17,8 @@
         "W 21st St"
       ],
       "pulsePointId": "2453481067"
-    },
-    {
-      "id": "2026-03-09T08:01:00Z_capilano-rd",
-      "timestamp": "2026-03-09T08:01:00Z",
-      "address": "CAPILANO RD",
-      "city": "North Vancouver",
-      "streets": [
-        "north-vancouver/capilano-rd"
-      ],
-      "streetNames": [
-        "Capilano Rd"
-      ]
     }
   ],
   "lastIncident": "2026-04-13T16:41:00Z",
-  "count": 2
+  "count": 1
 }

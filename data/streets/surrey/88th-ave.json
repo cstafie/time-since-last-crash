@@ -4,6 +4,19 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-04-13T16:23:00Z_surrey/88th-ave",
+      "timestamp": "2026-04-13T16:23:00Z",
+      "address": "88TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/88th-ave"
+      ],
+      "streetNames": [
+        "88th Ave"
+      ],
+      "pulsePointId": "2453469896"
+    },
+    {
       "id": "2026-04-11T23:10:00Z_surrey/king-george-blvd_surrey/88th-ave",
       "timestamp": "2026-04-11T23:10:00Z",
       "address": "KING GEORGE BLVD & 88TH AVE",
@@ -148,6 +161,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-11T23:10:00Z",
-  "count": 10
+  "lastIncident": "2026-04-13T16:23:00Z",
+  "count": 11
 }

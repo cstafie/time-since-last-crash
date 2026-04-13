@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-04-13T16:41:00Z_north-vancouver/capilano-rd_north-vancouver/w-21st-st",
+    "timestamp": "2026-04-13T16:41:00Z",
+    "scrapedAt": "2026-04-13T16:49:07Z",
+    "address": "CAPILANO RD & W 21ST ST",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/capilano-rd",
+      "north-vancouver/w-21st-st"
+    ],
+    "streetNames": [
+      "Capilano Rd",
+      "W 21st St"
+    ],
+    "pulsePointId": "2453481067"
+  },
+  {
+    "id": "2026-04-13T16:34:00Z_burnaby/1st-ave",
+    "timestamp": "2026-04-13T16:34:00Z",
+    "scrapedAt": "2026-04-13T16:49:07Z",
+    "address": "1ST AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/1st-ave"
+    ],
+    "streetNames": [
+      "1st Ave"
+    ],
+    "pulsePointId": "2453477181"
+  },
+  {
+    "id": "2026-04-13T16:23:00Z_surrey/88th-ave",
+    "timestamp": "2026-04-13T16:23:00Z",
+    "scrapedAt": "2026-04-13T16:49:07Z",
+    "address": "88TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/88th-ave"
+    ],
+    "streetNames": [
+      "88th Ave"
+    ],
+    "pulsePointId": "2453469896"
+  },
+  {
     "id": "2026-04-13T15:55:00Z_north-vancouver/ridgeway-ave_north-vancouver/e-keith-rd",
     "timestamp": "2026-04-13T15:55:00Z",
     "scrapedAt": "2026-04-13T16:23:22Z",
