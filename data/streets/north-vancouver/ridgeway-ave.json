@@ -1,0 +1,24 @@
+{
+  "slug": "north-vancouver/ridgeway-ave",
+  "name": "Ridgeway Ave",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-13T15:55:00Z_north-vancouver/ridgeway-ave_north-vancouver/e-keith-rd",
+      "timestamp": "2026-04-13T15:55:00Z",
+      "address": "RIDGEWAY AVE & E KEITH RD",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/ridgeway-ave",
+        "north-vancouver/e-keith-rd"
+      ],
+      "streetNames": [
+        "Ridgeway Ave",
+        "E Keith Rd"
+      ],
+      "pulsePointId": "2453454811"
+    }
+  ],
+  "lastIncident": "2026-04-13T15:55:00Z",
+  "count": 1
+}

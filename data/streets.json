@@ -6508,5 +6508,19 @@
     "city": "Vancouver",
     "lastIncident": "2026-04-13T15:13:00Z",
     "count": 1
+  },
+  "north-vancouver/ridgeway-ave": {
+    "name": "Ridgeway Ave",
+    "slug": "north-vancouver/ridgeway-ave",
+    "city": "North Vancouver",
+    "lastIncident": "2026-04-13T15:55:00Z",
+    "count": 1
+  },
+  "north-vancouver/e-keith-rd": {
+    "name": "E Keith Rd",
+    "slug": "north-vancouver/e-keith-rd",
+    "city": "North Vancouver",
+    "lastIncident": "2026-04-13T15:55:00Z",
+    "count": 1
   }
 }
