@@ -1,6 +1,6 @@
 {
-  "slug": "chilliwack/keith-wilson-rd",
-  "name": "Keith Wilson Rd",
+  "slug": "chilliwack/tyson-rd",
+  "name": "Tyson Rd",
   "city": "Chilliwack",
   "incidents": [
     {
@@ -17,22 +17,8 @@
         "Keith Wilson Rd"
       ],
       "pulsePointId": "2453670230"
-    },
-    {
-      "id": "2026-03-09T17:08:00Z_chadsey-rd_keith-wilson-rd",
-      "timestamp": "2026-03-09T17:08:00Z",
-      "address": "CHADSEY RD & KEITH WILSON RD",
-      "city": "Chilliwack",
-      "streets": [
-        "chilliwack/chadsey-rd",
-        "chilliwack/keith-wilson-rd"
-      ],
-      "streetNames": [
-        "Chadsey Rd",
-        "Keith Wilson Rd"
-      ]
     }
   ],
   "lastIncident": "2026-04-13T21:35:00Z",
-  "count": 2
+  "count": 1
 }

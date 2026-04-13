@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/oxford-st",
+  "name": "Oxford St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-04-13T21:14:00Z_burnaby/oxford-st_burnaby/n-madison-ave",
+      "timestamp": "2026-04-13T21:14:00Z",
+      "address": "OXFORD ST & N MADISON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/oxford-st",
+        "burnaby/n-madison-ave"
+      ],
+      "streetNames": [
+        "Oxford St",
+        "N Madison Ave"
+      ],
+      "pulsePointId": "2453656422"
+    }
+  ],
+  "lastIncident": "2026-04-13T21:14:00Z",
+  "count": 1
+}

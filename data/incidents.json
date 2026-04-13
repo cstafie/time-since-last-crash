@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-13T21:35:00Z_chilliwack/tyson-rd_chilliwack/keith-wilson-rd",
+    "timestamp": "2026-04-13T21:35:00Z",
+    "scrapedAt": "2026-04-13T21:44:43Z",
+    "address": "TYSON RD & KEITH WILSON RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/tyson-rd",
+      "chilliwack/keith-wilson-rd"
+    ],
+    "streetNames": [
+      "Tyson Rd",
+      "Keith Wilson Rd"
+    ],
+    "pulsePointId": "2453670230"
+  },
+  {
+    "id": "2026-04-13T21:14:00Z_burnaby/oxford-st_burnaby/n-madison-ave",
+    "timestamp": "2026-04-13T21:14:00Z",
+    "scrapedAt": "2026-04-13T21:44:43Z",
+    "address": "OXFORD ST & N MADISON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/oxford-st",
+      "burnaby/n-madison-ave"
+    ],
+    "streetNames": [
+      "Oxford St",
+      "N Madison Ave"
+    ],
+    "pulsePointId": "2453656422"
+  },
+  {
     "id": "2026-04-13T19:12:00Z_richmond/no-2-rd",
     "timestamp": "2026-04-13T19:12:00Z",
     "scrapedAt": "2026-04-13T19:26:55Z",
