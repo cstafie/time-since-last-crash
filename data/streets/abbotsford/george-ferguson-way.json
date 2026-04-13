@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/george-ferguson-way",
+  "name": "George Ferguson Way",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-04-13T14:22:00Z_abbotsford/trethewey-st_abbotsford/george-ferguson-way",
+      "timestamp": "2026-04-13T14:22:00Z",
+      "address": "TRETHEWEY ST & GEORGE FERGUSON WAY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/trethewey-st",
+        "abbotsford/george-ferguson-way"
+      ],
+      "streetNames": [
+        "Trethewey St",
+        "George Ferguson Way"
+      ],
+      "pulsePointId": "2453400546"
+    }
+  ],
+  "lastIncident": "2026-04-13T14:22:00Z",
+  "count": 1
+}
