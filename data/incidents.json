@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-13T17:15:00Z_surrey/168th-st_surrey/60th-ave",
+    "timestamp": "2026-04-13T17:15:00Z",
+    "scrapedAt": "2026-04-13T17:21:16Z",
+    "address": "168TH ST & 60TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/168th-st",
+      "surrey/60th-ave"
+    ],
+    "streetNames": [
+      "168th St",
+      "60th Ave"
+    ],
+    "pulsePointId": "2453501031"
+  },
+  {
     "id": "2026-04-13T16:41:00Z_north-vancouver/capilano-rd_north-vancouver/w-21st-st",
     "timestamp": "2026-04-13T16:41:00Z",
     "scrapedAt": "2026-04-13T16:49:07Z",

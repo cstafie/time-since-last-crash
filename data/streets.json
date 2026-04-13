@@ -577,8 +577,8 @@
     "name": "168th St",
     "slug": "surrey/168th-st",
     "city": "Surrey",
-    "lastIncident": "2026-03-25T14:50:00Z",
-    "count": 7
+    "lastIncident": "2026-04-13T17:15:00Z",
+    "count": 8
   },
   "surrey/16th-ave": {
     "name": "16th Ave",
@@ -2978,8 +2978,8 @@
     "name": "60th Ave",
     "slug": "surrey/60th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-28T21:34:00Z",
-    "count": 3
+    "lastIncident": "2026-04-13T17:15:00Z",
+    "count": 4
   },
   "pitt-meadows/airport-way": {
     "name": "Airport Way",
