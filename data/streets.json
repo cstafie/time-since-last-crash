@@ -325,8 +325,8 @@
     "name": "Lougheed Hwy",
     "slug": "maple-ridge/lougheed-hwy",
     "city": "Maple Ridge",
-    "lastIncident": "2026-04-05T02:18:00Z",
-    "count": 7
+    "lastIncident": "2026-04-13T17:58:00Z",
+    "count": 8
   },
   "mission/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -535,8 +535,8 @@
     "name": "128th St",
     "slug": "surrey/128th-st",
     "city": "Surrey",
-    "lastIncident": "2026-03-26T21:28:00Z",
-    "count": 5
+    "lastIncident": "2026-04-13T17:50:00Z",
+    "count": 6
   },
   "surrey/130b-st": {
     "name": "130b St",
@@ -3692,8 +3692,8 @@
     "name": "68th Ave",
     "slug": "surrey/68th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-09T21:07:00Z",
-    "count": 4
+    "lastIncident": "2026-04-13T17:50:00Z",
+    "count": 5
   },
   "burnaby/royal-oak-ave": {
     "name": "Royal Oak Ave",

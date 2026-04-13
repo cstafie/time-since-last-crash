@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-13T17:58:00Z_maple-ridge/lougheed-hwy",
+    "timestamp": "2026-04-13T17:58:00Z",
+    "scrapedAt": "2026-04-13T18:19:40Z",
+    "address": "LOUGHEED HWY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2453528892"
+  },
+  {
+    "id": "2026-04-13T17:50:00Z_surrey/128th-st_surrey/68th-ave",
+    "timestamp": "2026-04-13T17:50:00Z",
+    "scrapedAt": "2026-04-13T18:19:40Z",
+    "address": "128TH ST & 68TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/128th-st",
+      "surrey/68th-ave"
+    ],
+    "streetNames": [
+      "128th St",
+      "68th Ave"
+    ],
+    "pulsePointId": "2453522990"
+  },
+  {
     "id": "2026-04-13T17:25:00Z_burnaby/manchester-dr_burnaby/government-st",
     "timestamp": "2026-04-13T17:25:00Z",
     "scrapedAt": "2026-04-13T17:47:13Z",
