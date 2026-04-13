@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-04-13T02:49:00Z_delta/112th-st_delta/80th-ave",
+    "timestamp": "2026-04-13T02:49:00Z",
+    "scrapedAt": "2026-04-13T03:42:45Z",
+    "address": "112TH ST & 80TH AVE",
+    "city": "Delta",
+    "streets": [
+      "delta/112th-st",
+      "delta/80th-ave"
+    ],
+    "streetNames": [
+      "112th St",
+      "80th Ave"
+    ],
+    "pulsePointId": "2453182940"
+  },
+  {
+    "id": "2026-04-13T02:49:00Z_delta/80th-ave_delta/112th-st",
+    "timestamp": "2026-04-13T02:49:00Z",
+    "scrapedAt": "2026-04-13T03:42:45Z",
+    "address": "80TH AVE & 112TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/80th-ave",
+      "delta/112th-st"
+    ],
+    "streetNames": [
+      "80th Ave",
+      "112th St"
+    ],
+    "pulsePointId": "2453183429"
+  },
+  {
+    "id": "2026-04-13T02:39:00Z_surrey/74th-ave",
+    "timestamp": "2026-04-13T02:39:00Z",
+    "scrapedAt": "2026-04-13T03:42:45Z",
+    "address": "74TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/74th-ave"
+    ],
+    "streetNames": [
+      "74th Ave"
+    ],
+    "pulsePointId": "2453178863"
+  },
+  {
+    "id": "2026-04-13T02:19:00Z_burnaby/maureen-cres_burnaby/hastings-st",
+    "timestamp": "2026-04-13T02:19:00Z",
+    "scrapedAt": "2026-04-13T03:42:45Z",
+    "address": "MAUREEN CRES & HASTINGS ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/maureen-cres",
+      "burnaby/hastings-st"
+    ],
+    "streetNames": [
+      "Maureen Cres",
+      "Hastings St"
+    ],
+    "pulsePointId": "2453168386"
+  },
+  {
     "id": "2026-04-13T01:50:00Z_surrey/132nd-st_surrey/67b-ave",
     "timestamp": "2026-04-13T01:50:00Z",
     "scrapedAt": "2026-04-13T02:15:52Z",

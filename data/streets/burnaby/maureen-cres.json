@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/maureen-cres",
+  "name": "Maureen Cres",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-04-13T02:19:00Z_burnaby/maureen-cres_burnaby/hastings-st",
+      "timestamp": "2026-04-13T02:19:00Z",
+      "address": "MAUREEN CRES & HASTINGS ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/maureen-cres",
+        "burnaby/hastings-st"
+      ],
+      "streetNames": [
+        "Maureen Cres",
+        "Hastings St"
+      ],
+      "pulsePointId": "2453168386"
+    }
+  ],
+  "lastIncident": "2026-04-13T02:19:00Z",
+  "count": 1
+}

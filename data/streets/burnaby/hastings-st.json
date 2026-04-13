@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-04-13T02:19:00Z_burnaby/maureen-cres_burnaby/hastings-st",
+      "timestamp": "2026-04-13T02:19:00Z",
+      "address": "MAUREEN CRES & HASTINGS ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/maureen-cres",
+        "burnaby/hastings-st"
+      ],
+      "streetNames": [
+        "Maureen Cres",
+        "Hastings St"
+      ],
+      "pulsePointId": "2453168386"
+    },
+    {
       "id": "2026-03-19T05:06:00Z_burnaby/gilmore-ave_burnaby/hastings-st",
       "timestamp": "2026-03-19T05:06:00Z",
       "address": "GILMORE AVE & HASTINGS ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2435141614"
     }
   ],
-  "lastIncident": "2026-03-19T05:06:00Z",
-  "count": 2
+  "lastIncident": "2026-04-13T02:19:00Z",
+  "count": 3
 }
