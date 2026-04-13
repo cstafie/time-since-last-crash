@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/watson-rd",
+  "name": "Watson Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-04-13T11:41:00Z_abbotsford/watson-rd",
+      "timestamp": "2026-04-13T11:41:00Z",
+      "address": "WATSON RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/watson-rd"
+      ],
+      "streetNames": [
+        "Watson Rd"
+      ],
+      "pulsePointId": "2453343613"
+    }
+  ],
+  "lastIncident": "2026-04-13T11:41:00Z",
+  "count": 1
+}

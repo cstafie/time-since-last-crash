@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-04-13T11:41:00Z_abbotsford/watson-rd",
+    "timestamp": "2026-04-13T11:41:00Z",
+    "scrapedAt": "2026-04-13T11:54:40Z",
+    "address": "WATSON RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/watson-rd"
+    ],
+    "streetNames": [
+      "Watson Rd"
+    ],
+    "pulsePointId": "2453343613"
+  },
+  {
+    "id": "2026-04-13T11:37:00Z_new-westminster/hwy-91",
+    "timestamp": "2026-04-13T11:37:00Z",
+    "scrapedAt": "2026-04-13T11:54:40Z",
+    "address": "HWY 91",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/hwy-91"
+    ],
+    "streetNames": [
+      "Hwy 91"
+    ],
+    "pulsePointId": "2453343932"
+  },
+  {
     "id": "2026-04-13T09:17:00Z_coquitlam/trans-canada-hwy",
     "timestamp": "2026-04-13T09:17:00Z",
     "scrapedAt": "2026-04-13T09:31:25Z",

@@ -6473,5 +6473,19 @@
     "city": "Delta",
     "lastIncident": "2026-04-13T02:49:00Z",
     "count": 2
+  },
+  "abbotsford/watson-rd": {
+    "name": "Watson Rd",
+    "slug": "abbotsford/watson-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-04-13T11:41:00Z",
+    "count": 1
+  },
+  "new-westminster/hwy-91": {
+    "name": "Hwy 91",
+    "slug": "new-westminster/hwy-91",
+    "city": "New Westminster",
+    "lastIncident": "2026-04-13T11:37:00Z",
+    "count": 1
   }
 }

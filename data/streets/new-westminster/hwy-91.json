@@ -1,0 +1,22 @@
+{
+  "slug": "new-westminster/hwy-91",
+  "name": "Hwy 91",
+  "city": "New Westminster",
+  "incidents": [
+    {
+      "id": "2026-04-13T11:37:00Z_new-westminster/hwy-91",
+      "timestamp": "2026-04-13T11:37:00Z",
+      "address": "HWY 91",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/hwy-91"
+      ],
+      "streetNames": [
+        "Hwy 91"
+      ],
+      "pulsePointId": "2453343932"
+    }
+  ],
+  "lastIncident": "2026-04-13T11:37:00Z",
+  "count": 1
+}
