@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-04-13T22:59:00Z_surrey/76th-ave",
+    "timestamp": "2026-04-13T22:59:00Z",
+    "scrapedAt": "2026-04-13T23:13:33Z",
+    "address": "76TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/76th-ave"
+    ],
+    "streetNames": [
+      "76th Ave"
+    ],
+    "pulsePointId": "2453721493"
+  },
+  {
+    "id": "2026-04-13T22:56:00Z_delta/80th-st",
+    "timestamp": "2026-04-13T22:56:00Z",
+    "scrapedAt": "2026-04-13T23:13:33Z",
+    "address": "80TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/80th-st"
+    ],
+    "streetNames": [
+      "80th St"
+    ],
+    "pulsePointId": "2453719961"
+  },
+  {
     "id": "2026-04-13T22:22:00Z_langley/64th-ave_langley/199th-st",
     "timestamp": "2026-04-13T22:22:00Z",
     "scrapedAt": "2026-04-13T22:44:05Z",
