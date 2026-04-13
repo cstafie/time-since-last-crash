@@ -4,6 +4,19 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-04-13T00:29:00Z_surrey/56th-ave",
+      "timestamp": "2026-04-13T00:29:00Z",
+      "address": "56TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/56th-ave"
+      ],
+      "streetNames": [
+        "56th Ave"
+      ],
+      "pulsePointId": "2453113867"
+    },
+    {
       "id": "2026-04-08T14:28:00Z_surrey/56th-ave",
       "timestamp": "2026-04-08T14:28:00Z",
       "address": "56TH AVE",
@@ -56,6 +69,6 @@
       "pulsePointId": "2435409934"
     }
   ],
-  "lastIncident": "2026-04-08T14:28:00Z",
-  "count": 4
+  "lastIncident": "2026-04-13T00:29:00Z",
+  "count": 5
 }
