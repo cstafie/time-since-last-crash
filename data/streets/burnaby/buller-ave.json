@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/buller-ave",
+  "name": "Buller Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-04-13T22:17:00Z_burnaby/rumble-st_burnaby/buller-ave",
+      "timestamp": "2026-04-13T22:17:00Z",
+      "address": "RUMBLE ST & BULLER AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/rumble-st",
+        "burnaby/buller-ave"
+      ],
+      "streetNames": [
+        "Rumble St",
+        "Buller Ave"
+      ],
+      "pulsePointId": "2453696314"
+    }
+  ],
+  "lastIncident": "2026-04-13T22:17:00Z",
+  "count": 1
+}

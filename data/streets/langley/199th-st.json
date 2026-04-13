@@ -1,0 +1,24 @@
+{
+  "slug": "langley/199th-st",
+  "name": "199th St",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-04-13T22:22:00Z_langley/64th-ave_langley/199th-st",
+      "timestamp": "2026-04-13T22:22:00Z",
+      "address": "64TH AVE & 199TH ST",
+      "city": "Langley",
+      "streets": [
+        "langley/64th-ave",
+        "langley/199th-st"
+      ],
+      "streetNames": [
+        "64th Ave",
+        "199th St"
+      ],
+      "pulsePointId": "2453699039"
+    }
+  ],
+  "lastIncident": "2026-04-13T22:22:00Z",
+  "count": 1
+}

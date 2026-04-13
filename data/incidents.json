@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-13T22:22:00Z_langley/64th-ave_langley/199th-st",
+    "timestamp": "2026-04-13T22:22:00Z",
+    "scrapedAt": "2026-04-13T22:44:05Z",
+    "address": "64TH AVE & 199TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/64th-ave",
+      "langley/199th-st"
+    ],
+    "streetNames": [
+      "64th Ave",
+      "199th St"
+    ],
+    "pulsePointId": "2453699039"
+  },
+  {
+    "id": "2026-04-13T22:17:00Z_burnaby/rumble-st_burnaby/buller-ave",
+    "timestamp": "2026-04-13T22:17:00Z",
+    "scrapedAt": "2026-04-13T22:44:05Z",
+    "address": "RUMBLE ST & BULLER AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/rumble-st",
+      "burnaby/buller-ave"
+    ],
+    "streetNames": [
+      "Rumble St",
+      "Buller Ave"
+    ],
+    "pulsePointId": "2453696314"
+  },
+  {
     "id": "2026-04-13T22:05:00Z_abbotsford/south-fraser-way_abbotsford/bourquin-cres-w",
     "timestamp": "2026-04-13T22:05:00Z",
     "scrapedAt": "2026-04-13T22:12:43Z",
@@ -14,6 +46,20 @@
       "Bourquin Cres W"
     ],
     "pulsePointId": "2453688587"
+  },
+  {
+    "id": "2026-04-13T22:03:00Z_north-vancouver/935-marine-dr",
+    "timestamp": "2026-04-13T22:03:00Z",
+    "scrapedAt": "2026-04-13T22:44:05Z",
+    "address": "935 MARINE DR",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/935-marine-dr"
+    ],
+    "streetNames": [
+      "935 Marine Dr"
+    ],
+    "pulsePointId": "2453686143"
   },
   {
     "id": "2026-04-13T21:35:00Z_chilliwack/tyson-rd_chilliwack/keith-wilson-rd",
