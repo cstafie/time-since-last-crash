@@ -2040,8 +2040,8 @@
     "name": "Trans Canada Hwy",
     "slug": "coquitlam/trans-canada-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-04-08T07:17:00Z",
-    "count": 7
+    "lastIncident": "2026-04-13T09:17:00Z",
+    "count": 8
   },
   "langley/202a-st": {
     "name": "202a St",
@@ -5113,8 +5113,8 @@
     "name": "Trans Canada Hwy",
     "slug": "north-vancouver/trans-canada-hwy",
     "city": "North Vancouver",
-    "lastIncident": "2026-04-04T21:35:00Z",
-    "count": 2
+    "lastIncident": "2026-04-13T08:51:00Z",
+    "count": 3
   },
   "chilliwack/topaz-dr": {
     "name": "Topaz Dr",

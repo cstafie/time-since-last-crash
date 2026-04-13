@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-04-13T09:17:00Z_coquitlam/trans-canada-hwy",
+    "timestamp": "2026-04-13T09:17:00Z",
+    "scrapedAt": "2026-04-13T09:31:25Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2453310900"
+  },
+  {
+    "id": "2026-04-13T08:51:00Z_north-vancouver/trans-canada-hwy",
+    "timestamp": "2026-04-13T08:51:00Z",
+    "scrapedAt": "2026-04-13T09:31:25Z",
+    "address": "TRANS CANADA HWY",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2453305294"
+  },
+  {
     "id": "2026-04-13T06:00:00Z_vancouver/dunlevy-ave_vancouver/e-hastings-st",
     "timestamp": "2026-04-13T06:00:00Z",
     "scrapedAt": "2026-04-13T06:50:15Z",
