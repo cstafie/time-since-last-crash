@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-04-13T15:33:00Z_new-westminster/richmond-st_new-westminster/cumberland-st",
+    "timestamp": "2026-04-13T15:33:00Z",
+    "scrapedAt": "2026-04-13T15:38:37Z",
+    "address": "RICHMOND ST & CUMBERLAND ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/richmond-st",
+      "new-westminster/cumberland-st"
+    ],
+    "streetNames": [
+      "Richmond St",
+      "Cumberland St"
+    ],
+    "pulsePointId": "2453439441"
+  },
+  {
+    "id": "2026-04-13T15:13:00Z_vancouver/alma-st_vancouver/w-10th-ave",
+    "timestamp": "2026-04-13T15:13:00Z",
+    "scrapedAt": "2026-04-13T15:38:37Z",
+    "address": "ALMA ST & W 10TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/alma-st",
+      "vancouver/w-10th-ave"
+    ],
+    "streetNames": [
+      "Alma St",
+      "W 10th Ave"
+    ],
+    "pulsePointId": "2453428852"
+  },
+  {
+    "id": "2026-04-13T15:04:00Z_surrey/132nd-st_surrey/72nd-ave",
+    "timestamp": "2026-04-13T15:04:00Z",
+    "scrapedAt": "2026-04-13T15:38:37Z",
+    "address": "132ND ST & 72ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/132nd-st",
+      "surrey/72nd-ave"
+    ],
+    "streetNames": [
+      "132nd St",
+      "72nd Ave"
+    ],
+    "pulsePointId": "2453423658"
+  },
+  {
+    "id": "2026-04-13T14:59:00Z_surrey/trans-canada-hwy",
+    "timestamp": "2026-04-13T14:59:00Z",
+    "scrapedAt": "2026-04-13T15:38:37Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2453421275"
+  },
+  {
     "id": "2026-04-13T14:22:00Z_abbotsford/trethewey-st_abbotsford/george-ferguson-way",
     "timestamp": "2026-04-13T14:22:00Z",
     "scrapedAt": "2026-04-13T15:00:23Z",

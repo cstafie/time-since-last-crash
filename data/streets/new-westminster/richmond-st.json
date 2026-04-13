@@ -1,0 +1,24 @@
+{
+  "slug": "new-westminster/richmond-st",
+  "name": "Richmond St",
+  "city": "New Westminster",
+  "incidents": [
+    {
+      "id": "2026-04-13T15:33:00Z_new-westminster/richmond-st_new-westminster/cumberland-st",
+      "timestamp": "2026-04-13T15:33:00Z",
+      "address": "RICHMOND ST & CUMBERLAND ST",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/richmond-st",
+        "new-westminster/cumberland-st"
+      ],
+      "streetNames": [
+        "Richmond St",
+        "Cumberland St"
+      ],
+      "pulsePointId": "2453439441"
+    }
+  ],
+  "lastIncident": "2026-04-13T15:33:00Z",
+  "count": 1
+}
