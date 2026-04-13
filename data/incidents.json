@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-13T06:00:00Z_vancouver/dunlevy-ave_vancouver/e-hastings-st",
+    "timestamp": "2026-04-13T06:00:00Z",
+    "scrapedAt": "2026-04-13T06:50:15Z",
+    "address": "DUNLEVY AVE & E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/dunlevy-ave",
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "Dunlevy Ave",
+      "E Hastings St"
+    ],
+    "pulsePointId": "2453259989"
+  },
+  {
+    "id": "2026-04-13T05:56:00Z_surrey/56th-ave",
+    "timestamp": "2026-04-13T05:56:00Z",
+    "scrapedAt": "2026-04-13T06:50:15Z",
+    "address": "56TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/56th-ave"
+    ],
+    "streetNames": [
+      "56th Ave"
+    ],
+    "pulsePointId": "2453259093"
+  },
+  {
     "id": "2026-04-13T02:49:00Z_delta/112th-st_delta/80th-ave",
     "timestamp": "2026-04-13T02:49:00Z",
     "scrapedAt": "2026-04-13T03:42:45Z",
