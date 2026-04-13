@@ -4469,8 +4469,8 @@
     "name": "Manchester Dr",
     "slug": "burnaby/manchester-dr",
     "city": "Burnaby",
-    "lastIncident": "2026-03-30T03:26:00Z",
-    "count": 1
+    "lastIncident": "2026-04-13T17:25:00Z",
+    "count": 2
   },
   "chilliwack/elk-view-rd": {
     "name": "Elk View Rd",
@@ -6528,6 +6528,13 @@
     "slug": "north-vancouver/w-21st-st",
     "city": "North Vancouver",
     "lastIncident": "2026-04-13T16:41:00Z",
+    "count": 1
+  },
+  "burnaby/government-st": {
+    "name": "Government St",
+    "slug": "burnaby/government-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-04-13T17:25:00Z",
     "count": 1
   }
 }

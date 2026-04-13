@@ -1,6 +1,6 @@
 {
-  "slug": "burnaby/manchester-dr",
-  "name": "Manchester Dr",
+  "slug": "burnaby/government-st",
+  "name": "Government St",
   "city": "Burnaby",
   "incidents": [
     {
@@ -17,21 +17,8 @@
         "Government St"
       ],
       "pulsePointId": "2453507599"
-    },
-    {
-      "id": "2026-03-30T03:26:00Z_burnaby/manchester-dr",
-      "timestamp": "2026-03-30T03:26:00Z",
-      "address": "MANCHESTER DR",
-      "city": "Burnaby",
-      "streets": [
-        "burnaby/manchester-dr"
-      ],
-      "streetNames": [
-        "Manchester Dr"
-      ],
-      "pulsePointId": "2444187447"
     }
   ],
   "lastIncident": "2026-04-13T17:25:00Z",
-  "count": 2
+  "count": 1
 }
