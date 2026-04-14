@@ -1,0 +1,22 @@
+{
+  "slug": "richmond/13982-cambie-rd",
+  "name": "13982 Cambie Rd",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-04-14T23:05:00Z_richmond/13982-cambie-rd",
+      "timestamp": "2026-04-14T23:05:00Z",
+      "address": "13982 CAMBIE RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/13982-cambie-rd"
+      ],
+      "streetNames": [
+        "13982 Cambie Rd"
+      ],
+      "pulsePointId": "2454360638"
+    }
+  ],
+  "lastIncident": "2026-04-14T23:05:00Z",
+  "count": 1
+}

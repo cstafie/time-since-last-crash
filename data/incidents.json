@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-04-14T23:05:00Z_richmond/13982-cambie-rd",
+    "timestamp": "2026-04-14T23:05:00Z",
+    "scrapedAt": "2026-04-14T23:13:41Z",
+    "address": "13982 CAMBIE RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/13982-cambie-rd"
+    ],
+    "streetNames": [
+      "13982 Cambie Rd"
+    ],
+    "pulsePointId": "2454360638"
+  },
+  {
+    "id": "2026-04-14T22:58:00Z_maple-ridge/272nd-st",
+    "timestamp": "2026-04-14T22:58:00Z",
+    "scrapedAt": "2026-04-14T23:13:41Z",
+    "address": "272ND ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/272nd-st"
+    ],
+    "streetNames": [
+      "272nd St"
+    ],
+    "pulsePointId": "2454355284"
+  },
+  {
+    "id": "2026-04-14T22:48:00Z_abbotsford/gladwin-rd_abbotsford/townshipline-rd",
+    "timestamp": "2026-04-14T22:48:00Z",
+    "scrapedAt": "2026-04-14T23:13:41Z",
+    "address": "GLADWIN RD & TOWNSHIPLINE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/gladwin-rd",
+      "abbotsford/townshipline-rd"
+    ],
+    "streetNames": [
+      "Gladwin Rd",
+      "Townshipline Rd"
+    ],
+    "pulsePointId": "2454349552"
+  },
+  {
+    "id": "2026-04-14T22:44:00Z_surrey/88th-ave_surrey/queen-mary-blvd",
+    "timestamp": "2026-04-14T22:44:00Z",
+    "scrapedAt": "2026-04-14T23:13:41Z",
+    "address": "88TH AVE & QUEEN MARY BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/88th-ave",
+      "surrey/queen-mary-blvd"
+    ],
+    "streetNames": [
+      "88th Ave",
+      "Queen Mary Blvd"
+    ],
+    "pulsePointId": "2454345376"
+  },
+  {
     "id": "2026-04-14T22:39:00Z_north-vancouver/trans-canada-hwy",
     "timestamp": "2026-04-14T22:39:00Z",
     "scrapedAt": "2026-04-14T22:44:12Z",

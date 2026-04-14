@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-14T22:48:00Z_abbotsford/gladwin-rd_abbotsford/townshipline-rd",
+      "timestamp": "2026-04-14T22:48:00Z",
+      "address": "GLADWIN RD & TOWNSHIPLINE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/gladwin-rd",
+        "abbotsford/townshipline-rd"
+      ],
+      "streetNames": [
+        "Gladwin Rd",
+        "Townshipline Rd"
+      ],
+      "pulsePointId": "2454349552"
+    },
+    {
       "id": "2026-04-11T05:30:00Z_abbotsford/gladwin-rd",
       "timestamp": "2026-04-11T05:30:00Z",
       "address": "GLADWIN RD",
@@ -32,6 +47,6 @@
       "pulsePointId": "2447162234"
     }
   ],
-  "lastIncident": "2026-04-11T05:30:00Z",
-  "count": 2
+  "lastIncident": "2026-04-14T22:48:00Z",
+  "count": 3
 }
