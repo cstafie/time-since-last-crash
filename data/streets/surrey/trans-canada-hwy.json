@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-04-14T13:42:00Z_surrey/trans-canada-hwy_surrey/160th-street-onrp",
+      "timestamp": "2026-04-14T13:42:00Z",
+      "address": "TRANS CANADA HWY & 160TH STREET ONRP",
+      "city": "Surrey",
+      "streets": [
+        "surrey/trans-canada-hwy",
+        "surrey/160th-street-onrp"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy",
+        "160th Street Onrp"
+      ],
+      "pulsePointId": "2454029824"
+    },
+    {
       "id": "2026-04-13T14:59:00Z_surrey/trans-canada-hwy",
       "timestamp": "2026-04-13T14:59:00Z",
       "address": "TRANS CANADA HWY",
@@ -148,6 +163,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-13T14:59:00Z",
-  "count": 11
+  "lastIncident": "2026-04-14T13:42:00Z",
+  "count": 12
 }

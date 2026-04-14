@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-14T14:01:00Z_chilliwack/trans-canada-hwy_chilliwack/prest-road-ofrp",
+    "timestamp": "2026-04-14T14:01:00Z",
+    "scrapedAt": "2026-04-14T14:13:18Z",
+    "address": "TRANS CANADA HWY & PREST ROAD OFRP",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/trans-canada-hwy",
+      "chilliwack/prest-road-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "Prest Road Ofrp"
+    ],
+    "pulsePointId": "2454037473"
+  },
+  {
+    "id": "2026-04-14T13:42:00Z_surrey/trans-canada-hwy_surrey/160th-street-onrp",
+    "timestamp": "2026-04-14T13:42:00Z",
+    "scrapedAt": "2026-04-14T14:13:18Z",
+    "address": "TRANS CANADA HWY & 160TH STREET ONRP",
+    "city": "Surrey",
+    "streets": [
+      "surrey/trans-canada-hwy",
+      "surrey/160th-street-onrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "160th Street Onrp"
+    ],
+    "pulsePointId": "2454029824"
+  },
+  {
     "id": "2026-04-14T13:25:00Z_surrey/100th-ave_surrey/140th-st",
     "timestamp": "2026-04-14T13:25:00Z",
     "scrapedAt": "2026-04-14T13:29:30Z",

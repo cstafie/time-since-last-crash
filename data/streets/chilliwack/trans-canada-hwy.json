@@ -4,6 +4,21 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-04-14T14:01:00Z_chilliwack/trans-canada-hwy_chilliwack/prest-road-ofrp",
+      "timestamp": "2026-04-14T14:01:00Z",
+      "address": "TRANS CANADA HWY & PREST ROAD OFRP",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/trans-canada-hwy",
+        "chilliwack/prest-road-ofrp"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy",
+        "Prest Road Ofrp"
+      ],
+      "pulsePointId": "2454037473"
+    },
+    {
       "id": "2026-04-10T14:09:00Z_chilliwack/trans-canada-hwy",
       "timestamp": "2026-04-10T14:09:00Z",
       "address": "TRANS CANADA HWY",
@@ -57,6 +72,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-10T14:09:00Z",
-  "count": 4
+  "lastIncident": "2026-04-14T14:01:00Z",
+  "count": 5
 }
