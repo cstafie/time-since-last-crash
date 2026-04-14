@@ -1,0 +1,24 @@
+{
+  "slug": "coquitlam/trans-canada-hwy-ofrp",
+  "name": "Trans Canada Hwy Ofrp",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-04-14T17:37:00Z_coquitlam/trans-canada-hwy-ofrp_coquitlam/trans-canada-hwy",
+      "timestamp": "2026-04-14T17:37:00Z",
+      "address": "TRANS CANADA HWY OFRP & TRANS CANADA HWY",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/trans-canada-hwy-ofrp",
+        "coquitlam/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy Ofrp",
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2454148939"
+    }
+  ],
+  "lastIncident": "2026-04-14T17:37:00Z",
+  "count": 1
+}

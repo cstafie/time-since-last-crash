@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-14T17:39:00Z_vancouver/main-st_vancouver/prior-st",
+    "timestamp": "2026-04-14T17:39:00Z",
+    "scrapedAt": "2026-04-14T17:51:00Z",
+    "address": "MAIN ST & PRIOR ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st",
+      "vancouver/prior-st"
+    ],
+    "streetNames": [
+      "Main St",
+      "Prior St"
+    ],
+    "pulsePointId": "2454150923"
+  },
+  {
+    "id": "2026-04-14T17:37:00Z_coquitlam/trans-canada-hwy-ofrp_coquitlam/trans-canada-hwy",
+    "timestamp": "2026-04-14T17:37:00Z",
+    "scrapedAt": "2026-04-14T17:51:00Z",
+    "address": "TRANS CANADA HWY OFRP & TRANS CANADA HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/trans-canada-hwy-ofrp",
+      "coquitlam/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy Ofrp",
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2454148939"
+  },
+  {
     "id": "2026-04-14T17:11:00Z_langley/200th-st",
     "timestamp": "2026-04-14T17:11:00Z",
     "scrapedAt": "2026-04-14T17:23:10Z",
