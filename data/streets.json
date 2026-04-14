@@ -556,8 +556,8 @@
     "name": "140th St",
     "slug": "surrey/140th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-12T08:05:00Z",
-    "count": 7
+    "lastIncident": "2026-04-14T02:04:00Z",
+    "count": 8
   },
   "surrey/141a-st": {
     "name": "141a St",
@@ -1382,8 +1382,8 @@
     "name": "192nd St",
     "slug": "surrey/192nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-13T01:24:00Z",
-    "count": 2
+    "lastIncident": "2026-04-14T01:55:00Z",
+    "count": 3
   },
   "surrey/66a-ave": {
     "name": "66a Ave",
@@ -1620,8 +1620,8 @@
     "name": "80th Ave",
     "slug": "surrey/80th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-11T22:51:00Z",
-    "count": 9
+    "lastIncident": "2026-04-14T02:04:00Z",
+    "count": 10
   },
   "surrey/156th-st": {
     "name": "156th St",
@@ -6598,6 +6598,20 @@
     "slug": "vancouver/sw-marine-dr",
     "city": "Vancouver",
     "lastIncident": "2026-04-14T00:56:00Z",
+    "count": 1
+  },
+  "surrey/54th-ave": {
+    "name": "54th Ave",
+    "slug": "surrey/54th-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-04-14T01:55:00Z",
+    "count": 1
+  },
+  "port-coquitlam/3160-westwood-st": {
+    "name": "3160 Westwood St",
+    "slug": "port-coquitlam/3160-westwood-st",
+    "city": "Port Coquitlam",
+    "lastIncident": "2026-04-14T01:18:00Z",
     "count": 1
   }
 }

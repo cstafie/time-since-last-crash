@@ -1,0 +1,24 @@
+{
+  "slug": "surrey/54th-ave",
+  "name": "54th Ave",
+  "city": "Surrey",
+  "incidents": [
+    {
+      "id": "2026-04-14T01:55:00Z_surrey/192nd-st_surrey/54th-ave",
+      "timestamp": "2026-04-14T01:55:00Z",
+      "address": "192ND ST & 54TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/192nd-st",
+        "surrey/54th-ave"
+      ],
+      "streetNames": [
+        "192nd St",
+        "54th Ave"
+      ],
+      "pulsePointId": "2453812128"
+    }
+  ],
+  "lastIncident": "2026-04-14T01:55:00Z",
+  "count": 1
+}
