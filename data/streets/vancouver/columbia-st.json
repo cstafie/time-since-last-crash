@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-14T00:56:00Z_vancouver/sw-marine-dr_vancouver/columbia-st",
+      "timestamp": "2026-04-14T00:56:00Z",
+      "address": "SW MARINE DR & COLUMBIA ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/sw-marine-dr",
+        "vancouver/columbia-st"
+      ],
+      "streetNames": [
+        "Sw Marine Dr",
+        "Columbia St"
+      ],
+      "pulsePointId": "2453784324"
+    },
+    {
       "id": "2026-03-24T23:00:00Z_vancouver/columbia-st",
       "timestamp": "2026-03-24T23:00:00Z",
       "address": "COLUMBIA ST",
@@ -32,6 +47,6 @@
       "pulsePointId": "2432704249"
     }
   ],
-  "lastIncident": "2026-03-24T23:00:00Z",
-  "count": 2
+  "lastIncident": "2026-04-14T00:56:00Z",
+  "count": 3
 }

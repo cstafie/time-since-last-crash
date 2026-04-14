@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-14T00:56:00Z_vancouver/sw-marine-dr_vancouver/columbia-st",
+    "timestamp": "2026-04-14T00:56:00Z",
+    "scrapedAt": "2026-04-14T01:05:38Z",
+    "address": "SW MARINE DR & COLUMBIA ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/sw-marine-dr",
+      "vancouver/columbia-st"
+    ],
+    "streetNames": [
+      "Sw Marine Dr",
+      "Columbia St"
+    ],
+    "pulsePointId": "2453784324"
+  },
+  {
+    "id": "2026-04-14T00:18:00Z_delta/112th-st",
+    "timestamp": "2026-04-14T00:18:00Z",
+    "scrapedAt": "2026-04-14T01:05:38Z",
+    "address": "112TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/112th-st"
+    ],
+    "streetNames": [
+      "112th St"
+    ],
+    "pulsePointId": "2453764414"
+  },
+  {
     "id": "2026-04-13T22:59:00Z_surrey/76th-ave",
     "timestamp": "2026-04-13T22:59:00Z",
     "scrapedAt": "2026-04-13T23:13:33Z",
