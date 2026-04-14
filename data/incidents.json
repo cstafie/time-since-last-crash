@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-14T23:35:00Z_surrey/88th-ave_surrey/141a-st",
+    "timestamp": "2026-04-14T23:35:00Z",
+    "scrapedAt": "2026-04-14T23:43:45Z",
+    "address": "88TH AVE & 141A ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/88th-ave",
+      "surrey/141a-st"
+    ],
+    "streetNames": [
+      "88th Ave",
+      "141a St"
+    ],
+    "pulsePointId": "2454377916"
+  },
+  {
+    "id": "2026-04-14T23:32:00Z_surrey/144th-st",
+    "timestamp": "2026-04-14T23:32:00Z",
+    "scrapedAt": "2026-04-14T23:43:45Z",
+    "address": "144TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/144th-st"
+    ],
+    "streetNames": [
+      "144th St"
+    ],
+    "pulsePointId": "2454375886"
+  },
+  {
     "id": "2026-04-14T23:05:00Z_richmond/13982-cambie-rd",
     "timestamp": "2026-04-14T23:05:00Z",
     "scrapedAt": "2026-04-14T23:13:41Z",
