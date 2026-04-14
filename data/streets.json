@@ -2390,8 +2390,8 @@
     "name": "56th Ave",
     "slug": "surrey/56th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-13T05:56:00Z",
-    "count": 6
+    "lastIncident": "2026-04-14T12:46:00Z",
+    "count": 7
   },
   "port-moody/grant-st": {
     "name": "Grant St",
@@ -4196,8 +4196,8 @@
     "name": "184th St",
     "slug": "surrey/184th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-12T21:03:00Z",
-    "count": 4
+    "lastIncident": "2026-04-14T12:46:00Z",
+    "count": 5
   },
   "burnaby/rosser-ave": {
     "name": "Rosser Ave",
