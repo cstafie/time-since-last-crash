@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-14T16:45:00Z_delta/53rd-st_delta/ladner-trunk-rd",
+    "timestamp": "2026-04-14T16:45:00Z",
+    "scrapedAt": "2026-04-14T16:49:20Z",
+    "address": "53RD ST & LADNER TRUNK RD",
+    "city": "Delta",
+    "streets": [
+      "delta/53rd-st",
+      "delta/ladner-trunk-rd"
+    ],
+    "streetNames": [
+      "53rd St",
+      "Ladner Trunk Rd"
+    ],
+    "pulsePointId": "2454117993"
+  },
+  {
     "id": "2026-04-14T15:14:00Z_chilliwack/hack-brown-rd",
     "timestamp": "2026-04-14T15:14:00Z",
     "scrapedAt": "2026-04-14T15:35:05Z",

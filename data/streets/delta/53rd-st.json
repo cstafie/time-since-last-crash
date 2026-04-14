@@ -1,0 +1,24 @@
+{
+  "slug": "delta/53rd-st",
+  "name": "53rd St",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-04-14T16:45:00Z_delta/53rd-st_delta/ladner-trunk-rd",
+      "timestamp": "2026-04-14T16:45:00Z",
+      "address": "53RD ST & LADNER TRUNK RD",
+      "city": "Delta",
+      "streets": [
+        "delta/53rd-st",
+        "delta/ladner-trunk-rd"
+      ],
+      "streetNames": [
+        "53rd St",
+        "Ladner Trunk Rd"
+      ],
+      "pulsePointId": "2454117993"
+    }
+  ],
+  "lastIncident": "2026-04-14T16:45:00Z",
+  "count": 1
+}
