@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-14T04:04:00Z_surrey/62a-ave_surrey/killarney-dr",
+    "timestamp": "2026-04-14T04:04:00Z",
+    "scrapedAt": "2026-04-14T04:53:11Z",
+    "address": "62A AVE & KILLARNEY DR",
+    "city": "Surrey",
+    "streets": [
+      "surrey/62a-ave",
+      "surrey/killarney-dr"
+    ],
+    "streetNames": [
+      "62a Ave",
+      "Killarney Dr"
+    ],
+    "pulsePointId": "2453871438"
+  },
+  {
     "id": "2026-04-14T02:04:00Z_surrey/80th-ave_surrey/140th-st",
     "timestamp": "2026-04-14T02:04:00Z",
     "scrapedAt": "2026-04-14T02:15:00Z",

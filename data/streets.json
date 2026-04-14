@@ -6613,5 +6613,19 @@
     "city": "Port Coquitlam",
     "lastIncident": "2026-04-14T01:18:00Z",
     "count": 1
+  },
+  "surrey/62a-ave": {
+    "name": "62a Ave",
+    "slug": "surrey/62a-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-04-14T04:04:00Z",
+    "count": 1
+  },
+  "surrey/killarney-dr": {
+    "name": "Killarney Dr",
+    "slug": "surrey/killarney-dr",
+    "city": "Surrey",
+    "lastIncident": "2026-04-14T04:04:00Z",
+    "count": 1
   }
 }
