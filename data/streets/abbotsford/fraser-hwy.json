@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-14T13:22:00Z_abbotsford/fraser-hwy_abbotsford/station-rd",
+      "timestamp": "2026-04-14T13:22:00Z",
+      "address": "FRASER HWY & STATION RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/fraser-hwy",
+        "abbotsford/station-rd"
+      ],
+      "streetNames": [
+        "Fraser Hwy",
+        "Station Rd"
+      ],
+      "pulsePointId": "2454022998"
+    },
+    {
       "id": "2026-03-30T00:38:00Z_abbotsford/fraser-hwy",
       "timestamp": "2026-03-30T00:38:00Z",
       "address": "FRASER HWY",
@@ -58,6 +73,6 @@
       "pulsePointId": "2436433195"
     }
   ],
-  "lastIncident": "2026-03-30T00:38:00Z",
-  "count": 4
+  "lastIncident": "2026-04-14T13:22:00Z",
+  "count": 5
 }

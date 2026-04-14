@@ -556,8 +556,8 @@
     "name": "140th St",
     "slug": "surrey/140th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-14T02:04:00Z",
-    "count": 8
+    "lastIncident": "2026-04-14T13:25:00Z",
+    "count": 9
   },
   "surrey/141a-st": {
     "name": "141a St",
@@ -892,8 +892,8 @@
     "name": "100th Ave",
     "slug": "surrey/100th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-28T21:50:00Z",
-    "count": 6
+    "lastIncident": "2026-04-14T13:25:00Z",
+    "count": 7
   },
   "abbotsford/old-clayburn-rd": {
     "name": "Old Clayburn Rd",
@@ -2768,8 +2768,8 @@
     "name": "Fraser Hwy",
     "slug": "abbotsford/fraser-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-30T00:38:00Z",
-    "count": 4
+    "lastIncident": "2026-04-14T13:22:00Z",
+    "count": 5
   },
   "burnaby/north-fraser-way": {
     "name": "North Fraser Way",
@@ -6633,6 +6633,13 @@
     "slug": "surrey/105a-ave",
     "city": "Surrey",
     "lastIncident": "2026-04-14T06:18:00Z",
+    "count": 1
+  },
+  "abbotsford/station-rd": {
+    "name": "Station Rd",
+    "slug": "abbotsford/station-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-04-14T13:22:00Z",
     "count": 1
   }
 }
