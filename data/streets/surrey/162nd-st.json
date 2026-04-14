@@ -1,0 +1,24 @@
+{
+  "slug": "surrey/162nd-st",
+  "name": "162nd St",
+  "city": "Surrey",
+  "incidents": [
+    {
+      "id": "2026-04-14T20:04:00Z_surrey/88th-ave_surrey/162nd-st",
+      "timestamp": "2026-04-14T20:04:00Z",
+      "address": "88TH AVE & 162ND ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/88th-ave",
+        "surrey/162nd-st"
+      ],
+      "streetNames": [
+        "88th Ave",
+        "162nd St"
+      ],
+      "pulsePointId": "2454244600"
+    }
+  ],
+  "lastIncident": "2026-04-14T20:04:00Z",
+  "count": 1
+}

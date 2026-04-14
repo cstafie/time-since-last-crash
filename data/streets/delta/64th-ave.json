@@ -4,6 +4,21 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-04-14T20:08:00Z_delta/64th-ave_delta/westview-dr",
+      "timestamp": "2026-04-14T20:08:00Z",
+      "address": "64TH AVE & WESTVIEW DR",
+      "city": "Delta",
+      "streets": [
+        "delta/64th-ave",
+        "delta/westview-dr"
+      ],
+      "streetNames": [
+        "64th Ave",
+        "Westview Dr"
+      ],
+      "pulsePointId": "2454249815"
+    },
+    {
       "id": "2026-04-11T04:14:00Z_delta/64th-ave",
       "timestamp": "2026-04-11T04:14:00Z",
       "address": "64TH AVE",
@@ -59,6 +74,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-11T04:14:00Z",
-  "count": 4
+  "lastIncident": "2026-04-14T20:08:00Z",
+  "count": 5
 }

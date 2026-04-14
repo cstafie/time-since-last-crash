@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-14T20:08:00Z_delta/64th-ave_delta/westview-dr",
+    "timestamp": "2026-04-14T20:08:00Z",
+    "scrapedAt": "2026-04-14T20:16:56Z",
+    "address": "64TH AVE & WESTVIEW DR",
+    "city": "Delta",
+    "streets": [
+      "delta/64th-ave",
+      "delta/westview-dr"
+    ],
+    "streetNames": [
+      "64th Ave",
+      "Westview Dr"
+    ],
+    "pulsePointId": "2454249815"
+  },
+  {
+    "id": "2026-04-14T20:04:00Z_surrey/88th-ave_surrey/162nd-st",
+    "timestamp": "2026-04-14T20:04:00Z",
+    "scrapedAt": "2026-04-14T20:16:56Z",
+    "address": "88TH AVE & 162ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/88th-ave",
+      "surrey/162nd-st"
+    ],
+    "streetNames": [
+      "88th Ave",
+      "162nd St"
+    ],
+    "pulsePointId": "2454244600"
+  },
+  {
     "id": "2026-04-14T19:29:00Z_vancouver/manitoba-st_vancouver/w-2nd-ave",
     "timestamp": "2026-04-14T19:29:00Z",
     "scrapedAt": "2026-04-14T19:53:42Z",

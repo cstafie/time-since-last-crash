@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-13T16:23:00Z",
-    "count": 11
+    "lastIncident": "2026-04-14T20:04:00Z",
+    "count": 12
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",
@@ -1410,8 +1410,8 @@
     "name": "64th Ave",
     "slug": "delta/64th-ave",
     "city": "Delta",
-    "lastIncident": "2026-04-11T04:14:00Z",
-    "count": 4
+    "lastIncident": "2026-04-14T20:08:00Z",
+    "count": 5
   },
   "new-westminster/6th-st": {
     "name": "6th St",
@@ -6682,6 +6682,20 @@
     "slug": "new-westminster/alberta-st",
     "city": "New Westminster",
     "lastIncident": "2026-04-14T18:19:00Z",
+    "count": 1
+  },
+  "delta/westview-dr": {
+    "name": "Westview Dr",
+    "slug": "delta/westview-dr",
+    "city": "Delta",
+    "lastIncident": "2026-04-14T20:08:00Z",
+    "count": 1
+  },
+  "surrey/162nd-st": {
+    "name": "162nd St",
+    "slug": "surrey/162nd-st",
+    "city": "Surrey",
+    "lastIncident": "2026-04-14T20:04:00Z",
     "count": 1
   }
 }
