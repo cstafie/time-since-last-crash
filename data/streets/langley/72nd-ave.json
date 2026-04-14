@@ -4,6 +4,19 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-04-14T14:14:00Z_langley/72nd-ave",
+      "timestamp": "2026-04-14T14:14:00Z",
+      "address": "72ND AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/72nd-ave"
+      ],
+      "streetNames": [
+        "72nd Ave"
+      ],
+      "pulsePointId": "2454041193"
+    },
+    {
       "id": "2026-03-13T01:02:00Z_langley/200th-st_langley/72nd-ave",
       "timestamp": "2026-03-13T01:02:00Z",
       "address": "200TH ST & 72ND AVE",
@@ -33,6 +46,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-13T01:02:00Z",
-  "count": 2
+  "lastIncident": "2026-04-14T14:14:00Z",
+  "count": 3
 }

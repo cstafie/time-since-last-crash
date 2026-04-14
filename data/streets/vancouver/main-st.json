@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-14T14:54:00Z_vancouver/e-49th-ave_vancouver/main-st",
+      "timestamp": "2026-04-14T14:54:00Z",
+      "address": "E 49TH AVE & MAIN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-49th-ave",
+        "vancouver/main-st"
+      ],
+      "streetNames": [
+        "E 49th Ave",
+        "Main St"
+      ],
+      "pulsePointId": "2454059825"
+    },
+    {
       "id": "2026-04-11T22:05:00Z_vancouver/main-st_vancouver/e-cordova-st",
       "timestamp": "2026-04-11T22:05:00Z",
       "address": "MAIN ST & E CORDOVA ST",
@@ -206,6 +221,6 @@
       "pulsePointId": "2432937969"
     }
   ],
-  "lastIncident": "2026-04-11T22:05:00Z",
-  "count": 14
+  "lastIncident": "2026-04-14T14:54:00Z",
+  "count": 15
 }

@@ -598,8 +598,8 @@
     "name": "64th Ave",
     "slug": "surrey/64th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-08T13:30:00Z",
-    "count": 13
+    "lastIncident": "2026-04-14T14:47:00Z",
+    "count": 14
   },
   "surrey/72a-ave": {
     "name": "72a Ave",
@@ -1095,8 +1095,8 @@
     "name": "72nd Ave",
     "slug": "langley/72nd-ave",
     "city": "Langley",
-    "lastIncident": "2026-03-13T01:02:00Z",
-    "count": 2
+    "lastIncident": "2026-04-14T14:14:00Z",
+    "count": 3
   },
   "langley/200th-st": {
     "name": "200th St",
@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-11T22:05:00Z",
-    "count": 14
+    "lastIncident": "2026-04-14T14:54:00Z",
+    "count": 15
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",
@@ -1781,8 +1781,8 @@
     "name": "King Rd",
     "slug": "abbotsford/king-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-13T18:27:00Z",
-    "count": 1
+    "lastIncident": "2026-04-14T14:55:00Z",
+    "count": 2
   },
   "surrey/101st-ave": {
     "name": "101st Ave",
@@ -1795,8 +1795,8 @@
     "name": "152nd St",
     "slug": "surrey/152nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-09T00:01:00Z",
-    "count": 13
+    "lastIncident": "2026-04-14T14:47:00Z",
+    "count": 14
   },
   "langley/20611-fraser-hwyste-111": {
     "name": "20611 Fraser Hwy,ste 111",
@@ -1914,8 +1914,8 @@
     "name": "Clearbrook Rd",
     "slug": "abbotsford/clearbrook-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-02T05:44:00Z",
-    "count": 5
+    "lastIncident": "2026-04-14T14:55:00Z",
+    "count": 6
   },
   "abbotsford/maclure-rd": {
     "name": "Maclure Rd",
@@ -3069,8 +3069,8 @@
     "name": "E 49th Ave",
     "slug": "vancouver/e-49th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-09T14:53:00Z",
-    "count": 3
+    "lastIncident": "2026-04-14T14:54:00Z",
+    "count": 4
   },
   "vancouver/victoria-dr": {
     "name": "Victoria Dr",
@@ -4273,8 +4273,8 @@
     "name": "River Rd",
     "slug": "richmond/river-rd",
     "city": "Richmond",
-    "lastIncident": "2026-03-28T03:35:00Z",
-    "count": 1
+    "lastIncident": "2026-04-14T14:29:00Z",
+    "count": 2
   },
   "delta/hwy-17a": {
     "name": "Hwy 17a",

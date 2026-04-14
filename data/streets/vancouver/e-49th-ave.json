@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-14T14:54:00Z_vancouver/e-49th-ave_vancouver/main-st",
+      "timestamp": "2026-04-14T14:54:00Z",
+      "address": "E 49TH AVE & MAIN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-49th-ave",
+        "vancouver/main-st"
+      ],
+      "streetNames": [
+        "E 49th Ave",
+        "Main St"
+      ],
+      "pulsePointId": "2454059825"
+    },
+    {
       "id": "2026-04-09T14:53:00Z_vancouver/e-49th-ave_vancouver/rupert-st",
       "timestamp": "2026-04-09T14:53:00Z",
       "address": "E 49TH AVE & RUPERT ST",
@@ -47,6 +62,6 @@
       "pulsePointId": "2437375979"
     }
   ],
-  "lastIncident": "2026-04-09T14:53:00Z",
-  "count": 3
+  "lastIncident": "2026-04-14T14:54:00Z",
+  "count": 4
 }

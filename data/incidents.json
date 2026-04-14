@@ -1,5 +1,81 @@
 [
   {
+    "id": "2026-04-14T14:55:00Z_abbotsford/clearbrook-rd_abbotsford/king-rd",
+    "timestamp": "2026-04-14T14:55:00Z",
+    "scrapedAt": "2026-04-14T15:00:09Z",
+    "address": "CLEARBROOK RD & KING RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/clearbrook-rd",
+      "abbotsford/king-rd"
+    ],
+    "streetNames": [
+      "Clearbrook Rd",
+      "King Rd"
+    ],
+    "pulsePointId": "2454060272"
+  },
+  {
+    "id": "2026-04-14T14:54:00Z_vancouver/e-49th-ave_vancouver/main-st",
+    "timestamp": "2026-04-14T14:54:00Z",
+    "scrapedAt": "2026-04-14T15:00:09Z",
+    "address": "E 49TH AVE & MAIN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-49th-ave",
+      "vancouver/main-st"
+    ],
+    "streetNames": [
+      "E 49th Ave",
+      "Main St"
+    ],
+    "pulsePointId": "2454059825"
+  },
+  {
+    "id": "2026-04-14T14:47:00Z_surrey/152nd-st_surrey/64th-ave",
+    "timestamp": "2026-04-14T14:47:00Z",
+    "scrapedAt": "2026-04-14T15:00:09Z",
+    "address": "152ND ST & 64TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/152nd-st",
+      "surrey/64th-ave"
+    ],
+    "streetNames": [
+      "152nd St",
+      "64th Ave"
+    ],
+    "pulsePointId": "2454056663"
+  },
+  {
+    "id": "2026-04-14T14:29:00Z_richmond/river-rd",
+    "timestamp": "2026-04-14T14:29:00Z",
+    "scrapedAt": "2026-04-14T15:00:09Z",
+    "address": "RIVER RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/river-rd"
+    ],
+    "streetNames": [
+      "River Rd"
+    ],
+    "pulsePointId": "2454047739"
+  },
+  {
+    "id": "2026-04-14T14:14:00Z_langley/72nd-ave",
+    "timestamp": "2026-04-14T14:14:00Z",
+    "scrapedAt": "2026-04-14T15:00:09Z",
+    "address": "72ND AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/72nd-ave"
+    ],
+    "streetNames": [
+      "72nd Ave"
+    ],
+    "pulsePointId": "2454041193"
+  },
+  {
     "id": "2026-04-14T14:01:00Z_chilliwack/trans-canada-hwy_chilliwack/prest-road-ofrp",
     "timestamp": "2026-04-14T14:01:00Z",
     "scrapedAt": "2026-04-14T14:13:18Z",

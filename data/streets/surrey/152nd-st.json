@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-04-14T14:47:00Z_surrey/152nd-st_surrey/64th-ave",
+      "timestamp": "2026-04-14T14:47:00Z",
+      "address": "152ND ST & 64TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/152nd-st",
+        "surrey/64th-ave"
+      ],
+      "streetNames": [
+        "152nd St",
+        "64th Ave"
+      ],
+      "pulsePointId": "2454056663"
+    },
+    {
       "id": "2026-04-09T00:01:00Z_surrey/152nd-st_surrey/92nd-ave",
       "timestamp": "2026-04-09T00:01:00Z",
       "address": "152ND ST & 92ND AVE",
@@ -199,6 +214,6 @@
       "pulsePointId": "2433332497"
     }
   ],
-  "lastIncident": "2026-04-09T00:01:00Z",
-  "count": 13
+  "lastIncident": "2026-04-14T14:47:00Z",
+  "count": 14
 }
