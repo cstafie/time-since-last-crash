@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-14T21:22:00Z_abbotsford/bourquin-cres-e_abbotsford/ware-st",
+      "timestamp": "2026-04-14T21:22:00Z",
+      "address": "BOURQUIN CRES E & WARE ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/bourquin-cres-e",
+        "abbotsford/ware-st"
+      ],
+      "streetNames": [
+        "Bourquin Cres E",
+        "Ware St"
+      ],
+      "pulsePointId": "2454295774"
+    },
+    {
       "id": "2026-04-10T03:52:00Z_abbotsford/ware-st_abbotsford/plaxton-cres",
       "timestamp": "2026-04-10T03:52:00Z",
       "address": "WARE ST & PLAXTON CRES",
@@ -49,6 +64,6 @@
       "pulsePointId": "2433198543"
     }
   ],
-  "lastIncident": "2026-04-10T03:52:00Z",
-  "count": 3
+  "lastIncident": "2026-04-14T21:22:00Z",
+  "count": 4
 }
