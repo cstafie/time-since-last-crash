@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-04-14T17:11:00Z_langley/200th-st",
+    "timestamp": "2026-04-14T17:11:00Z",
+    "scrapedAt": "2026-04-14T17:23:10Z",
+    "address": "200TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/200th-st"
+    ],
+    "streetNames": [
+      "200th St"
+    ],
+    "pulsePointId": "2454134514"
+  },
+  {
+    "id": "2026-04-14T16:46:00Z_richmond/hwy-99",
+    "timestamp": "2026-04-14T16:46:00Z",
+    "scrapedAt": "2026-04-14T17:23:10Z",
+    "address": "HWY 99",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2454120453"
+  },
+  {
     "id": "2026-04-14T16:45:00Z_delta/53rd-st_delta/ladner-trunk-rd",
     "timestamp": "2026-04-14T16:45:00Z",
     "scrapedAt": "2026-04-14T16:49:20Z",

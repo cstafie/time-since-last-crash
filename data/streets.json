@@ -1102,8 +1102,8 @@
     "name": "200th St",
     "slug": "langley/200th-st",
     "city": "Langley",
-    "lastIncident": "2026-04-14T14:59:00Z",
-    "count": 10
+    "lastIncident": "2026-04-14T17:11:00Z",
+    "count": 11
   },
   "abbotsford/downes-rd": {
     "name": "Downes Rd",
@@ -1396,8 +1396,8 @@
     "name": "Hwy 99",
     "slug": "richmond/hwy-99",
     "city": "Richmond",
-    "lastIncident": "2026-03-12T01:41:00Z",
-    "count": 1
+    "lastIncident": "2026-04-14T16:46:00Z",
+    "count": 2
   },
   "port-moody/barnet-hwy": {
     "name": "Barnet Hwy",
