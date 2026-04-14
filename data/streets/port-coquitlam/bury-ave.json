@@ -1,0 +1,24 @@
+{
+  "slug": "port-coquitlam/bury-ave",
+  "name": "Bury Ave",
+  "city": "Port Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-04-14T22:14:00Z_port-coquitlam/wilson-ave_port-coquitlam/bury-ave",
+      "timestamp": "2026-04-14T22:14:00Z",
+      "address": "WILSON AVE & BURY AVE",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/wilson-ave",
+        "port-coquitlam/bury-ave"
+      ],
+      "streetNames": [
+        "Wilson Ave",
+        "Bury Ave"
+      ],
+      "pulsePointId": "2454328254"
+    }
+  ],
+  "lastIncident": "2026-04-14T22:14:00Z",
+  "count": 1
+}

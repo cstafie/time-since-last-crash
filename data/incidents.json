@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-14T22:39:00Z_north-vancouver/trans-canada-hwy",
+    "timestamp": "2026-04-14T22:39:00Z",
+    "scrapedAt": "2026-04-14T22:44:12Z",
+    "address": "TRANS CANADA HWY",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2454343848"
+  },
+  {
+    "id": "2026-04-14T22:14:00Z_port-coquitlam/wilson-ave_port-coquitlam/bury-ave",
+    "timestamp": "2026-04-14T22:14:00Z",
+    "scrapedAt": "2026-04-14T22:44:12Z",
+    "address": "WILSON AVE & BURY AVE",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/wilson-ave",
+      "port-coquitlam/bury-ave"
+    ],
+    "streetNames": [
+      "Wilson Ave",
+      "Bury Ave"
+    ],
+    "pulsePointId": "2454328254"
+  },
+  {
     "id": "2026-04-14T21:41:00Z_vancouver/mclean-dr_vancouver/e-hastings-st",
     "timestamp": "2026-04-14T21:41:00Z",
     "scrapedAt": "2026-04-14T22:12:58Z",
