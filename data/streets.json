@@ -1102,8 +1102,8 @@
     "name": "200th St",
     "slug": "langley/200th-st",
     "city": "Langley",
-    "lastIncident": "2026-04-12T03:10:00Z",
-    "count": 9
+    "lastIncident": "2026-04-14T14:59:00Z",
+    "count": 10
   },
   "abbotsford/downes-rd": {
     "name": "Downes Rd",
@@ -6647,6 +6647,20 @@
     "slug": "surrey/160th-street-onrp",
     "city": "Surrey",
     "lastIncident": "2026-04-14T13:42:00Z",
+    "count": 1
+  },
+  "langley/91a-ave": {
+    "name": "91a Ave",
+    "slug": "langley/91a-ave",
+    "city": "Langley",
+    "lastIncident": "2026-04-14T14:59:00Z",
+    "count": 1
+  },
+  "chilliwack/hack-brown-rd": {
+    "name": "Hack Brown Rd",
+    "slug": "chilliwack/hack-brown-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-04-14T15:14:00Z",
     "count": 1
   }
 }

@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-14T15:14:00Z_chilliwack/hack-brown-rd",
+    "timestamp": "2026-04-14T15:14:00Z",
+    "scrapedAt": "2026-04-14T15:35:05Z",
+    "address": "HACK BROWN RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/hack-brown-rd"
+    ],
+    "streetNames": [
+      "Hack Brown Rd"
+    ],
+    "pulsePointId": "2454070094"
+  },
+  {
+    "id": "2026-04-14T14:59:00Z_langley/91a-ave_langley/200th-st",
+    "timestamp": "2026-04-14T14:59:00Z",
+    "scrapedAt": "2026-04-14T15:35:05Z",
+    "address": "91A AVE & 200TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/91a-ave",
+      "langley/200th-st"
+    ],
+    "streetNames": [
+      "91a Ave",
+      "200th St"
+    ],
+    "pulsePointId": "2454062282"
+  },
+  {
     "id": "2026-04-14T14:55:00Z_abbotsford/clearbrook-rd_abbotsford/king-rd",
     "timestamp": "2026-04-14T14:55:00Z",
     "scrapedAt": "2026-04-14T15:00:09Z",
