@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-14T19:29:00Z_vancouver/manitoba-st_vancouver/w-2nd-ave",
+    "timestamp": "2026-04-14T19:29:00Z",
+    "scrapedAt": "2026-04-14T19:53:42Z",
+    "address": "MANITOBA ST & W 2ND AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/manitoba-st",
+      "vancouver/w-2nd-ave"
+    ],
+    "streetNames": [
+      "Manitoba St",
+      "W 2nd Ave"
+    ],
+    "pulsePointId": "2454220612"
+  },
+  {
     "id": "2026-04-14T18:19:00Z_new-westminster/alberta-st",
     "timestamp": "2026-04-14T18:19:00Z",
     "scrapedAt": "2026-04-14T18:49:50Z",
