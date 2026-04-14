@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-14T20:25:00Z_surrey/76a-ave",
+    "timestamp": "2026-04-14T20:25:00Z",
+    "scrapedAt": "2026-04-14T20:48:07Z",
+    "address": "76A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/76a-ave"
+    ],
+    "streetNames": [
+      "76a Ave"
+    ],
+    "pulsePointId": "2454257703"
+  },
+  {
     "id": "2026-04-14T20:08:00Z_delta/64th-ave_delta/westview-dr",
     "timestamp": "2026-04-14T20:08:00Z",
     "scrapedAt": "2026-04-14T20:16:56Z",
