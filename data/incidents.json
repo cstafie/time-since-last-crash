@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-14T18:19:00Z_new-westminster/alberta-st",
+    "timestamp": "2026-04-14T18:19:00Z",
+    "scrapedAt": "2026-04-14T18:49:50Z",
+    "address": "ALBERTA ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/alberta-st"
+    ],
+    "streetNames": [
+      "Alberta St"
+    ],
+    "pulsePointId": "2454175960"
+  },
+  {
     "id": "2026-04-14T17:39:00Z_vancouver/main-st_vancouver/prior-st",
     "timestamp": "2026-04-14T17:39:00Z",
     "scrapedAt": "2026-04-14T17:51:00Z",
