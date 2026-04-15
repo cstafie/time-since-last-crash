@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-14T23:46:00Z_surrey/70th-ave",
+    "timestamp": "2026-04-14T23:46:00Z",
+    "scrapedAt": "2026-04-15T00:12:25Z",
+    "address": "70TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/70th-ave"
+    ],
+    "streetNames": [
+      "70th Ave"
+    ],
+    "pulsePointId": "2454383244"
+  },
+  {
     "id": "2026-04-14T23:35:00Z_surrey/88th-ave_surrey/141a-st",
     "timestamp": "2026-04-14T23:35:00Z",
     "scrapedAt": "2026-04-14T23:43:45Z",
