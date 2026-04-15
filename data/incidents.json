@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-15T19:52:00Z_new-westminster/8th-ave_new-westminster/6th-st",
+    "timestamp": "2026-04-15T19:52:00Z",
+    "scrapedAt": "2026-04-15T20:44:49Z",
+    "address": "8TH AVE & 6TH ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/8th-ave",
+      "new-westminster/6th-st"
+    ],
+    "streetNames": [
+      "8th Ave",
+      "6th St"
+    ],
+    "pulsePointId": "2454895616"
+  },
+  {
     "id": "2026-04-15T19:48:00Z_vancouver/granville-st",
     "timestamp": "2026-04-15T19:48:00Z",
     "scrapedAt": "2026-04-15T20:15:08Z",
