@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-15T03:56:00Z_mission/keystone-ave",
+    "timestamp": "2026-04-15T03:56:00Z",
+    "scrapedAt": "2026-04-15T04:53:44Z",
+    "address": "KEYSTONE AVE",
+    "city": "Mission",
+    "streets": [
+      "mission/keystone-ave"
+    ],
+    "streetNames": [
+      "Keystone Ave"
+    ],
+    "pulsePointId": "2454515884"
+  },
+  {
+    "id": "2026-04-15T03:49:00Z_burnaby/willingdon-ave_burnaby/dawson-st",
+    "timestamp": "2026-04-15T03:49:00Z",
+    "scrapedAt": "2026-04-15T04:53:44Z",
+    "address": "WILLINGDON AVE & DAWSON ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/willingdon-ave",
+      "burnaby/dawson-st"
+    ],
+    "streetNames": [
+      "Willingdon Ave",
+      "Dawson St"
+    ],
+    "pulsePointId": "2454512238"
+  },
+  {
     "id": "2026-04-15T02:11:00Z_abbotsford/clearbrook-rd_abbotsford/south-fraser-way",
     "timestamp": "2026-04-15T02:11:00Z",
     "scrapedAt": "2026-04-15T02:15:21Z",

@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-04-15T03:49:00Z_burnaby/willingdon-ave_burnaby/dawson-st",
+      "timestamp": "2026-04-15T03:49:00Z",
+      "address": "WILLINGDON AVE & DAWSON ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/willingdon-ave",
+        "burnaby/dawson-st"
+      ],
+      "streetNames": [
+        "Willingdon Ave",
+        "Dawson St"
+      ],
+      "pulsePointId": "2454512238"
+    },
+    {
       "id": "2026-03-28T00:32:00Z_burnaby/kitchener-st_burnaby/willingdon-ave",
       "timestamp": "2026-03-28T00:32:00Z",
       "address": "KITCHENER ST & WILLINGDON AVE",
@@ -48,6 +63,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-28T00:32:00Z",
-  "count": 3
+  "lastIncident": "2026-04-15T03:49:00Z",
+  "count": 4
 }
