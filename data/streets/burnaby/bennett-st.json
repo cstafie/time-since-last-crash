@@ -1,6 +1,6 @@
 {
-  "slug": "burnaby/nelson-ave",
-  "name": "Nelson Ave",
+  "slug": "burnaby/bennett-st",
+  "name": "Bennett St",
   "city": "Burnaby",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Bennett St"
       ],
       "pulsePointId": "2454957402"
-    },
-    {
-      "id": "2026-03-17T20:08:00Z_burnaby/sanders-st_burnaby/nelson-ave",
-      "timestamp": "2026-03-17T20:08:00Z",
-      "address": "SANDERS ST & NELSON AVE",
-      "city": "Burnaby",
-      "streets": [
-        "burnaby/sanders-st",
-        "burnaby/nelson-ave"
-      ],
-      "streetNames": [
-        "Sanders St",
-        "Nelson Ave"
-      ],
-      "pulsePointId": "2436020332"
     }
   ],
   "lastIncident": "2026-04-15T21:20:00Z",
-  "count": 2
+  "count": 1
 }
