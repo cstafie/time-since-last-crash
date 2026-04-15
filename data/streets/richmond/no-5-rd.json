@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-04-15T15:04:00Z_richmond/steveston-hwy_richmond/no-5-rd",
+      "timestamp": "2026-04-15T15:04:00Z",
+      "address": "STEVESTON HWY & NO 5 RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/steveston-hwy",
+        "richmond/no-5-rd"
+      ],
+      "streetNames": [
+        "Steveston Hwy",
+        "No 5 Rd"
+      ],
+      "pulsePointId": "2454719918"
+    },
+    {
       "id": "2026-04-10T00:17:00Z_richmond/granville-ave_richmond/no-5-rd",
       "timestamp": "2026-04-10T00:17:00Z",
       "address": "GRANVILLE AVE & NO 5 RD",
@@ -49,6 +64,6 @@
       "pulsePointId": "2435827761"
     }
   ],
-  "lastIncident": "2026-04-10T00:17:00Z",
-  "count": 3
+  "lastIncident": "2026-04-15T15:04:00Z",
+  "count": 4
 }

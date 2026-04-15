@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-15T15:27:00Z_abbotsford/trethewey-st_abbotsford/maclure-rd",
+      "timestamp": "2026-04-15T15:27:00Z",
+      "address": "TRETHEWEY ST & MACLURE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/trethewey-st",
+        "abbotsford/maclure-rd"
+      ],
+      "streetNames": [
+        "Trethewey St",
+        "Maclure Rd"
+      ],
+      "pulsePointId": "2454732274"
+    },
+    {
       "id": "2026-04-13T14:22:00Z_abbotsford/trethewey-st_abbotsford/george-ferguson-way",
       "timestamp": "2026-04-13T14:22:00Z",
       "address": "TRETHEWEY ST & GEORGE FERGUSON WAY",
@@ -46,6 +61,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-13T14:22:00Z",
-  "count": 3
+  "lastIncident": "2026-04-15T15:27:00Z",
+  "count": 4
 }

@@ -45,8 +45,8 @@
     "name": "Trethewey St",
     "slug": "abbotsford/trethewey-st",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-13T14:22:00Z",
-    "count": 3
+    "lastIncident": "2026-04-15T15:27:00Z",
+    "count": 4
   },
   "burnaby/deer-lake-pkwy": {
     "name": "Deer Lake Pkwy",
@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-04-11T23:10:00Z",
-    "count": 22
+    "lastIncident": "2026-04-15T15:17:00Z",
+    "count": 23
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -1088,8 +1088,8 @@
     "name": "Steveston Hwy",
     "slug": "richmond/steveston-hwy",
     "city": "Richmond",
-    "lastIncident": "2026-03-25T12:06:00Z",
-    "count": 5
+    "lastIncident": "2026-04-15T15:04:00Z",
+    "count": 6
   },
   "langley/72nd-ave": {
     "name": "72nd Ave",
@@ -1921,8 +1921,8 @@
     "name": "Maclure Rd",
     "slug": "abbotsford/maclure-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-09T18:28:00Z",
-    "count": 4
+    "lastIncident": "2026-04-15T15:27:00Z",
+    "count": 5
   },
   "vancouver/renfrew-st": {
     "name": "Renfrew St",
@@ -2572,8 +2572,8 @@
     "name": "No 5 Rd",
     "slug": "richmond/no-5-rd",
     "city": "Richmond",
-    "lastIncident": "2026-04-10T00:17:00Z",
-    "count": 3
+    "lastIncident": "2026-04-15T15:04:00Z",
+    "count": 4
   },
   "port-moody/heritage-mountain-blvd": {
     "name": "Heritage Mountain Blvd",
@@ -6759,6 +6759,13 @@
     "slug": "burnaby/dawson-st",
     "city": "Burnaby",
     "lastIncident": "2026-04-15T03:49:00Z",
+    "count": 1
+  },
+  "surrey/73rd-ave": {
+    "name": "73rd Ave",
+    "slug": "surrey/73rd-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-04-15T15:17:00Z",
     "count": 1
   }
 }

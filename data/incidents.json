@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-04-15T15:27:00Z_abbotsford/trethewey-st_abbotsford/maclure-rd",
+    "timestamp": "2026-04-15T15:27:00Z",
+    "scrapedAt": "2026-04-15T15:32:51Z",
+    "address": "TRETHEWEY ST & MACLURE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trethewey-st",
+      "abbotsford/maclure-rd"
+    ],
+    "streetNames": [
+      "Trethewey St",
+      "Maclure Rd"
+    ],
+    "pulsePointId": "2454732274"
+  },
+  {
+    "id": "2026-04-15T15:17:00Z_surrey/73rd-ave_surrey/king-george-blvd",
+    "timestamp": "2026-04-15T15:17:00Z",
+    "scrapedAt": "2026-04-15T15:32:51Z",
+    "address": "73RD AVE & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/73rd-ave",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "73rd Ave",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2454727805"
+  },
+  {
+    "id": "2026-04-15T15:04:00Z_richmond/steveston-hwy_richmond/no-5-rd",
+    "timestamp": "2026-04-15T15:04:00Z",
+    "scrapedAt": "2026-04-15T15:32:51Z",
+    "address": "STEVESTON HWY & NO 5 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/steveston-hwy",
+      "richmond/no-5-rd"
+    ],
+    "streetNames": [
+      "Steveston Hwy",
+      "No 5 Rd"
+    ],
+    "pulsePointId": "2454719918"
+  },
+  {
     "id": "2026-04-15T13:17:00Z_richmond/blundell-rd_richmond/no-8-rd",
     "timestamp": "2026-04-15T13:17:00Z",
     "scrapedAt": "2026-04-15T13:29:41Z",
