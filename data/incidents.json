@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-04-15T21:03:00Z_vancouver/burrard-street-brdg",
+    "timestamp": "2026-04-15T21:03:00Z",
+    "scrapedAt": "2026-04-15T21:15:19Z",
+    "address": "BURRARD STREET BRDG",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/burrard-street-brdg"
+    ],
+    "streetNames": [
+      "Burrard Street Brdg"
+    ],
+    "pulsePointId": "2454946965"
+  },
+  {
+    "id": "2026-04-15T20:59:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-04-15T20:59:00Z",
+    "scrapedAt": "2026-04-15T21:15:19Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2454942209"
+  },
+  {
     "id": "2026-04-15T19:52:00Z_new-westminster/8th-ave_new-westminster/6th-st",
     "timestamp": "2026-04-15T19:52:00Z",
     "scrapedAt": "2026-04-15T20:44:49Z",
