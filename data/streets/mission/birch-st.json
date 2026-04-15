@@ -1,0 +1,22 @@
+{
+  "slug": "mission/birch-st",
+  "name": "Birch St",
+  "city": "Mission",
+  "incidents": [
+    {
+      "id": "2026-04-15T22:58:00Z_mission/birch-st",
+      "timestamp": "2026-04-15T22:58:00Z",
+      "address": "BIRCH ST",
+      "city": "Mission",
+      "streets": [
+        "mission/birch-st"
+      ],
+      "streetNames": [
+        "Birch St"
+      ],
+      "pulsePointId": "2455020614"
+    }
+  ],
+  "lastIncident": "2026-04-15T22:58:00Z",
+  "count": 1
+}

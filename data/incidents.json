@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-04-15T23:10:00Z_vancouver/park-dr_vancouver/hudson-st",
+    "timestamp": "2026-04-15T23:10:00Z",
+    "scrapedAt": "2026-04-15T23:13:27Z",
+    "address": "PARK DR & HUDSON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/park-dr",
+      "vancouver/hudson-st"
+    ],
+    "streetNames": [
+      "Park Dr",
+      "Hudson St"
+    ],
+    "pulsePointId": "2455028056"
+  },
+  {
+    "id": "2026-04-15T23:06:00Z_vancouver/elliott-st",
+    "timestamp": "2026-04-15T23:06:00Z",
+    "scrapedAt": "2026-04-15T23:13:27Z",
+    "address": "ELLIOTT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/elliott-st"
+    ],
+    "streetNames": [
+      "Elliott St"
+    ],
+    "pulsePointId": "2455026764"
+  },
+  {
+    "id": "2026-04-15T22:58:00Z_mission/birch-st",
+    "timestamp": "2026-04-15T22:58:00Z",
+    "scrapedAt": "2026-04-15T23:13:27Z",
+    "address": "BIRCH ST",
+    "city": "Mission",
+    "streets": [
+      "mission/birch-st"
+    ],
+    "streetNames": [
+      "Birch St"
+    ],
+    "pulsePointId": "2455020614"
+  },
+  {
     "id": "2026-04-15T22:32:00Z_richmond/lansdowne-rd_richmond/cooney-rd",
     "timestamp": "2026-04-15T22:32:00Z",
     "scrapedAt": "2026-04-15T22:43:53Z",

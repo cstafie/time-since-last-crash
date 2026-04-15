@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/park-dr",
+  "name": "Park Dr",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-15T23:10:00Z_vancouver/park-dr_vancouver/hudson-st",
+      "timestamp": "2026-04-15T23:10:00Z",
+      "address": "PARK DR & HUDSON ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/park-dr",
+        "vancouver/hudson-st"
+      ],
+      "streetNames": [
+        "Park Dr",
+        "Hudson St"
+      ],
+      "pulsePointId": "2455028056"
+    }
+  ],
+  "lastIncident": "2026-04-15T23:10:00Z",
+  "count": 1
+}
