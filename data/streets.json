@@ -3244,8 +3244,8 @@
     "name": "Macdonald St",
     "slug": "vancouver/macdonald-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-07T02:05:00Z",
-    "count": 2
+    "lastIncident": "2026-04-15T22:21:00Z",
+    "count": 3
   },
   "port-moody/ioco-rd": {
     "name": "Ioco Rd",
@@ -3720,8 +3720,8 @@
     "name": "Lansdowne Rd",
     "slug": "richmond/lansdowne-rd",
     "city": "Richmond",
-    "lastIncident": "2026-03-26T00:11:00Z",
-    "count": 2
+    "lastIncident": "2026-04-15T22:32:00Z",
+    "count": 3
   },
   "chilliwack/lutz-rd": {
     "name": "Lutz Rd",
@@ -3958,8 +3958,8 @@
     "name": "Cooney Rd",
     "slug": "richmond/cooney-rd",
     "city": "Richmond",
-    "lastIncident": "2026-03-26T00:11:00Z",
-    "count": 2
+    "lastIncident": "2026-04-15T22:32:00Z",
+    "count": 3
   },
   "richmond/ackroyd-rd": {
     "name": "Ackroyd Rd",
@@ -4161,8 +4161,8 @@
     "name": "W 2nd Ave",
     "slug": "vancouver/w-2nd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-14T19:29:00Z",
-    "count": 3
+    "lastIncident": "2026-04-15T22:21:00Z",
+    "count": 4
   },
   "vancouver/e-21st-ave": {
     "name": "E 21st Ave",
@@ -6794,6 +6794,13 @@
     "slug": "burnaby/bennett-st",
     "city": "Burnaby",
     "lastIncident": "2026-04-15T21:20:00Z",
+    "count": 1
+  },
+  "chilliwack/castleman-rd": {
+    "name": "Castleman Rd",
+    "slug": "chilliwack/castleman-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-04-15T22:31:00Z",
     "count": 1
   }
 }

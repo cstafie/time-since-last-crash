@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-15T22:21:00Z_vancouver/w-2nd-ave_vancouver/macdonald-st",
+      "timestamp": "2026-04-15T22:21:00Z",
+      "address": "W 2ND AVE & MACDONALD ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-2nd-ave",
+        "vancouver/macdonald-st"
+      ],
+      "streetNames": [
+        "W 2nd Ave",
+        "Macdonald St"
+      ],
+      "pulsePointId": "2454997767"
+    },
+    {
       "id": "2026-04-07T02:05:00Z_vancouver/macdonald-st_vancouver/w-16th-ave",
       "timestamp": "2026-04-07T02:05:00Z",
       "address": "MACDONALD ST & W 16TH AVE",
@@ -34,6 +49,6 @@
       "pulsePointId": "2437967178"
     }
   ],
-  "lastIncident": "2026-04-07T02:05:00Z",
-  "count": 2
+  "lastIncident": "2026-04-15T22:21:00Z",
+  "count": 3
 }

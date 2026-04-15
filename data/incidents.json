@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-04-15T22:32:00Z_richmond/lansdowne-rd_richmond/cooney-rd",
+    "timestamp": "2026-04-15T22:32:00Z",
+    "scrapedAt": "2026-04-15T22:43:53Z",
+    "address": "LANSDOWNE RD & COONEY RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/lansdowne-rd",
+      "richmond/cooney-rd"
+    ],
+    "streetNames": [
+      "Lansdowne Rd",
+      "Cooney Rd"
+    ],
+    "pulsePointId": "2455005005"
+  },
+  {
+    "id": "2026-04-15T22:31:00Z_chilliwack/castleman-rd",
+    "timestamp": "2026-04-15T22:31:00Z",
+    "scrapedAt": "2026-04-15T22:43:53Z",
+    "address": "CASTLEMAN RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/castleman-rd"
+    ],
+    "streetNames": [
+      "Castleman Rd"
+    ],
+    "pulsePointId": "2455004576"
+  },
+  {
+    "id": "2026-04-15T22:21:00Z_vancouver/w-2nd-ave_vancouver/macdonald-st",
+    "timestamp": "2026-04-15T22:21:00Z",
+    "scrapedAt": "2026-04-15T22:43:53Z",
+    "address": "W 2ND AVE & MACDONALD ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-2nd-ave",
+      "vancouver/macdonald-st"
+    ],
+    "streetNames": [
+      "W 2nd Ave",
+      "Macdonald St"
+    ],
+    "pulsePointId": "2454997767"
+  },
+  {
     "id": "2026-04-15T21:20:00Z_burnaby/nelson-ave_burnaby/bennett-st",
     "timestamp": "2026-04-15T21:20:00Z",
     "scrapedAt": "2026-04-15T21:45:29Z",
