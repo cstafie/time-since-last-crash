@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-15T19:48:00Z_vancouver/granville-st",
+      "timestamp": "2026-04-15T19:48:00Z",
+      "address": "GRANVILLE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st"
+      ],
+      "streetNames": [
+        "Granville St"
+      ],
+      "pulsePointId": "2454894983"
+    },
+    {
       "id": "2026-04-12T07:16:00Z_vancouver/granville-st_vancouver/w-16th-ave",
       "timestamp": "2026-04-12T07:16:00Z",
       "address": "GRANVILLE ST & W 16TH AVE",
@@ -179,6 +192,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-12T07:16:00Z",
-  "count": 12
+  "lastIncident": "2026-04-15T19:48:00Z",
+  "count": 13
 }
