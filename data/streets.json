@@ -1130,8 +1130,8 @@
     "name": "Canada Way",
     "slug": "burnaby/canada-way",
     "city": "Burnaby",
-    "lastIncident": "2026-04-10T01:14:00Z",
-    "count": 10
+    "lastIncident": "2026-04-15T15:51:00Z",
+    "count": 11
   },
   "burnaby/norland-ave": {
     "name": "Norland Ave",
@@ -6766,6 +6766,13 @@
     "slug": "surrey/73rd-ave",
     "city": "Surrey",
     "lastIncident": "2026-04-15T15:17:00Z",
+    "count": 1
+  },
+  "burnaby/13th-ave": {
+    "name": "13th Ave",
+    "slug": "burnaby/13th-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-04-15T15:51:00Z",
     "count": 1
   }
 }
