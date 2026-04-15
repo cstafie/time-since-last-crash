@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-15T02:11:00Z_abbotsford/clearbrook-rd_abbotsford/south-fraser-way",
+      "timestamp": "2026-04-15T02:11:00Z",
+      "address": "CLEARBROOK RD & SOUTH FRASER WAY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/clearbrook-rd",
+        "abbotsford/south-fraser-way"
+      ],
+      "streetNames": [
+        "Clearbrook Rd",
+        "South Fraser Way"
+      ],
+      "pulsePointId": "2454465390"
+    },
+    {
       "id": "2026-04-13T22:05:00Z_abbotsford/south-fraser-way_abbotsford/bourquin-cres-w",
       "timestamp": "2026-04-13T22:05:00Z",
       "address": "SOUTH FRASER WAY & BOURQUIN CRES W",
@@ -182,6 +197,6 @@
       "pulsePointId": "2433235919"
     }
   ],
-  "lastIncident": "2026-04-13T22:05:00Z",
-  "count": 12
+  "lastIncident": "2026-04-15T02:11:00Z",
+  "count": 13
 }

@@ -1767,8 +1767,8 @@
     "name": "South Fraser Way",
     "slug": "abbotsford/south-fraser-way",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-13T22:05:00Z",
-    "count": 12
+    "lastIncident": "2026-04-15T02:11:00Z",
+    "count": 13
   },
   "vancouver/e-hastings-st": {
     "name": "E Hastings St",
@@ -1914,8 +1914,8 @@
     "name": "Clearbrook Rd",
     "slug": "abbotsford/clearbrook-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-14T14:55:00Z",
-    "count": 6
+    "lastIncident": "2026-04-15T02:11:00Z",
+    "count": 7
   },
   "abbotsford/maclure-rd": {
     "name": "Maclure Rd",

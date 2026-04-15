@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-15T02:11:00Z_abbotsford/clearbrook-rd_abbotsford/south-fraser-way",
+      "timestamp": "2026-04-15T02:11:00Z",
+      "address": "CLEARBROOK RD & SOUTH FRASER WAY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/clearbrook-rd",
+        "abbotsford/south-fraser-way"
+      ],
+      "streetNames": [
+        "Clearbrook Rd",
+        "South Fraser Way"
+      ],
+      "pulsePointId": "2454465390"
+    },
+    {
       "id": "2026-04-14T14:55:00Z_abbotsford/clearbrook-rd_abbotsford/king-rd",
       "timestamp": "2026-04-14T14:55:00Z",
       "address": "CLEARBROOK RD & KING RD",
@@ -92,6 +107,6 @@
       "pulsePointId": "2433749907"
     }
   ],
-  "lastIncident": "2026-04-14T14:55:00Z",
-  "count": 6
+  "lastIncident": "2026-04-15T02:11:00Z",
+  "count": 7
 }
