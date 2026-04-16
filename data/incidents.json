@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-16T07:31:00Z_surrey/96th-ave_surrey/king-george-blvd",
+    "timestamp": "2026-04-16T07:31:00Z",
+    "scrapedAt": "2026-04-16T08:09:20Z",
+    "address": "96TH AVE & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/96th-ave",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "96th Ave",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2455262383"
+  },
+  {
     "id": "2026-04-16T03:35:00Z_vancouver/union-st_vancouver/main-st",
     "timestamp": "2026-04-16T03:35:00Z",
     "scrapedAt": "2026-04-16T03:41:03Z",

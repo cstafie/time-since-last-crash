@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-04-16T07:31:00Z_surrey/96th-ave_surrey/king-george-blvd",
+      "timestamp": "2026-04-16T07:31:00Z",
+      "address": "96TH AVE & KING GEORGE BLVD",
+      "city": "Surrey",
+      "streets": [
+        "surrey/96th-ave",
+        "surrey/king-george-blvd"
+      ],
+      "streetNames": [
+        "96th Ave",
+        "King George Blvd"
+      ],
+      "pulsePointId": "2455262383"
+    },
+    {
       "id": "2026-04-15T15:17:00Z_surrey/73rd-ave_surrey/king-george-blvd",
       "timestamp": "2026-04-15T15:17:00Z",
       "address": "73RD AVE & KING GEORGE BLVD",
@@ -335,6 +350,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-15T15:17:00Z",
-  "count": 23
+  "lastIncident": "2026-04-16T07:31:00Z",
+  "count": 24
 }
