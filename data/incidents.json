@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-04-16T22:19:00Z_vancouver/smithe-st_vancouver/hornby-st",
+    "timestamp": "2026-04-16T22:19:00Z",
+    "scrapedAt": "2026-04-16T22:43:46Z",
+    "address": "SMITHE ST & HORNBY ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/smithe-st",
+      "vancouver/hornby-st"
+    ],
+    "streetNames": [
+      "Smithe St",
+      "Hornby St"
+    ],
+    "pulsePointId": "2455689689"
+  },
+  {
+    "id": "2026-04-16T22:18:00Z_vancouver/e-54th-ave_vancouver/stirling-st",
+    "timestamp": "2026-04-16T22:18:00Z",
+    "scrapedAt": "2026-04-16T22:43:46Z",
+    "address": "E 54TH AVE & STIRLING ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-54th-ave",
+      "vancouver/stirling-st"
+    ],
+    "streetNames": [
+      "E 54th Ave",
+      "Stirling St"
+    ],
+    "pulsePointId": "2455689259"
+  },
+  {
+    "id": "2026-04-16T22:17:00Z_surrey/68th-ave_surrey/135th-st",
+    "timestamp": "2026-04-16T22:17:00Z",
+    "scrapedAt": "2026-04-16T22:43:46Z",
+    "address": "68TH AVE & 135TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/68th-ave",
+      "surrey/135th-st"
+    ],
+    "streetNames": [
+      "68th Ave",
+      "135th St"
+    ],
+    "pulsePointId": "2455688421"
+  },
+  {
     "id": "2026-04-16T21:35:00Z_burnaby/imperial-st",
     "timestamp": "2026-04-16T21:35:00Z",
     "scrapedAt": "2026-04-16T21:44:03Z",

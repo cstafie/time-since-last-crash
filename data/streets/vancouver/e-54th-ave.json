@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-16T22:18:00Z_vancouver/e-54th-ave_vancouver/stirling-st",
+      "timestamp": "2026-04-16T22:18:00Z",
+      "address": "E 54TH AVE & STIRLING ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-54th-ave",
+        "vancouver/stirling-st"
+      ],
+      "streetNames": [
+        "E 54th Ave",
+        "Stirling St"
+      ],
+      "pulsePointId": "2455689259"
+    },
+    {
       "id": "2026-04-11T19:12:00Z_vancouver/e-54th-ave_vancouver/knight-st",
       "timestamp": "2026-04-11T19:12:00Z",
       "address": "E 54TH AVE & KNIGHT ST",
@@ -49,6 +64,6 @@
       "pulsePointId": "2440342758"
     }
   ],
-  "lastIncident": "2026-04-11T19:12:00Z",
-  "count": 3
+  "lastIncident": "2026-04-16T22:18:00Z",
+  "count": 4
 }
