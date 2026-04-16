@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-04-16T16:26:00Z_chilliwack/trans-canada-hwy",
+    "timestamp": "2026-04-16T16:26:00Z",
+    "scrapedAt": "2026-04-16T16:56:08Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2455443206"
+  },
+  {
+    "id": "2026-04-16T16:24:00Z_chilliwack/trans-canada-hwy",
+    "timestamp": "2026-04-16T16:24:00Z",
+    "scrapedAt": "2026-04-16T16:56:08Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2455441908"
+  },
+  {
     "id": "2026-04-16T14:57:00Z_richmond/hwy-99",
     "timestamp": "2026-04-16T14:57:00Z",
     "scrapedAt": "2026-04-16T15:07:02Z",
