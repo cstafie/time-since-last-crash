@@ -4,6 +4,19 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-04-16T14:57:00Z_richmond/hwy-99",
+      "timestamp": "2026-04-16T14:57:00Z",
+      "address": "HWY 99",
+      "city": "Richmond",
+      "streets": [
+        "richmond/hwy-99"
+      ],
+      "streetNames": [
+        "Hwy 99"
+      ],
+      "pulsePointId": "2455391668"
+    },
+    {
       "id": "2026-04-14T16:46:00Z_richmond/hwy-99",
       "timestamp": "2026-04-14T16:46:00Z",
       "address": "HWY 99",
@@ -29,6 +42,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-14T16:46:00Z",
-  "count": 2
+  "lastIncident": "2026-04-16T14:57:00Z",
+  "count": 3
 }

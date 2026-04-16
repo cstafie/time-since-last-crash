@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-04-16T14:57:00Z_richmond/hwy-99",
+    "timestamp": "2026-04-16T14:57:00Z",
+    "scrapedAt": "2026-04-16T15:07:02Z",
+    "address": "HWY 99",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2455391668"
+  },
+  {
+    "id": "2026-04-16T14:38:00Z_surrey/94a-ave_surrey/king-george-blvd",
+    "timestamp": "2026-04-16T14:38:00Z",
+    "scrapedAt": "2026-04-16T15:07:02Z",
+    "address": "94A AVE & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/94a-ave",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "94a Ave",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2455382581"
+  },
+  {
+    "id": "2026-04-16T14:19:00Z_delta/ladner-trunk-rd_delta/104th-st",
+    "timestamp": "2026-04-16T14:19:00Z",
+    "scrapedAt": "2026-04-16T15:07:02Z",
+    "address": "LADNER TRUNK RD & 104TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/ladner-trunk-rd",
+      "delta/104th-st"
+    ],
+    "streetNames": [
+      "Ladner Trunk Rd",
+      "104th St"
+    ],
+    "pulsePointId": "2455373322"
+  },
+  {
     "id": "2026-04-16T12:12:00Z_surrey/176th-st_surrey/fraser-hwy",
     "timestamp": "2026-04-16T12:12:00Z",
     "scrapedAt": "2026-04-16T12:14:56Z",

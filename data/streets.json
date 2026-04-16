@@ -199,8 +199,8 @@
     "name": "Ladner Trunk Rd",
     "slug": "delta/ladner-trunk-rd",
     "city": "Delta",
-    "lastIncident": "2026-04-14T16:45:00Z",
-    "count": 4
+    "lastIncident": "2026-04-16T14:19:00Z",
+    "count": 5
   },
   "langley/216th-street-ofrp": {
     "name": "216th Street Ofrp",
@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-04-16T07:31:00Z",
-    "count": 24
+    "lastIncident": "2026-04-16T14:38:00Z",
+    "count": 25
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -1396,8 +1396,8 @@
     "name": "Hwy 99",
     "slug": "richmond/hwy-99",
     "city": "Richmond",
-    "lastIncident": "2026-04-14T16:46:00Z",
-    "count": 2
+    "lastIncident": "2026-04-16T14:57:00Z",
+    "count": 3
   },
   "port-moody/barnet-hwy": {
     "name": "Barnet Hwy",
@@ -6850,6 +6850,20 @@
     "slug": "west-vancouver/marr-creek-crt",
     "city": "West Vancouver",
     "lastIncident": "2026-04-16T09:43:00Z",
+    "count": 1
+  },
+  "surrey/94a-ave": {
+    "name": "94a Ave",
+    "slug": "surrey/94a-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-04-16T14:38:00Z",
+    "count": 1
+  },
+  "delta/104th-st": {
+    "name": "104th St",
+    "slug": "delta/104th-st",
+    "city": "Delta",
+    "lastIncident": "2026-04-16T14:19:00Z",
     "count": 1
   }
 }
