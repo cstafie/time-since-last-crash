@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-15T23:43:00Z_vancouver/e-hastings-st_vancouver/slocan-st",
+      "timestamp": "2026-04-15T23:43:00Z",
+      "address": "E HASTINGS ST & SLOCAN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-hastings-st",
+        "vancouver/slocan-st"
+      ],
+      "streetNames": [
+        "E Hastings St",
+        "Slocan St"
+      ],
+      "pulsePointId": "2455048620"
+    },
+    {
       "id": "2026-04-07T00:59:00Z_vancouver/slocan-st_vancouver/kingsway",
       "timestamp": "2026-04-07T00:59:00Z",
       "address": "SLOCAN ST & KINGSWAY",
@@ -34,6 +49,6 @@
       "pulsePointId": "2436249042"
     }
   ],
-  "lastIncident": "2026-04-07T00:59:00Z",
-  "count": 2
+  "lastIncident": "2026-04-15T23:43:00Z",
+  "count": 3
 }
