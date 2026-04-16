@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-16T22:46:00Z_vancouver/w-37th-ave_vancouver/oak-st",
+    "timestamp": "2026-04-16T22:46:00Z",
+    "scrapedAt": "2026-04-16T23:12:16Z",
+    "address": "W 37TH AVE & OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-37th-ave",
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "W 37th Ave",
+      "Oak St"
+    ],
+    "pulsePointId": "2455706500"
+  },
+  {
     "id": "2026-04-16T22:19:00Z_vancouver/smithe-st_vancouver/hornby-st",
     "timestamp": "2026-04-16T22:19:00Z",
     "scrapedAt": "2026-04-16T22:43:46Z",
