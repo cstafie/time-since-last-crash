@@ -5232,8 +5232,8 @@
     "name": "Gladwin Rd",
     "slug": "abbotsford/gladwin-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-14T22:48:00Z",
-    "count": 3
+    "lastIncident": "2026-04-16T17:32:00Z",
+    "count": 4
   },
   "surrey/old-yale-rd": {
     "name": "Old Yale Rd",
@@ -6205,8 +6205,8 @@
     "name": "Harris Rd",
     "slug": "abbotsford/harris-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-12T02:22:00Z",
-    "count": 2
+    "lastIncident": "2026-04-16T17:32:00Z",
+    "count": 3
   },
   "north-vancouver/capilano-road-onrp": {
     "name": "Capilano Road Onrp",

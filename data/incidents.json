@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-16T17:32:00Z_abbotsford/harris-rd_abbotsford/gladwin-rd",
+    "timestamp": "2026-04-16T17:32:00Z",
+    "scrapedAt": "2026-04-16T17:56:25Z",
+    "address": "HARRIS RD & GLADWIN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/harris-rd",
+      "abbotsford/gladwin-rd"
+    ],
+    "streetNames": [
+      "Harris Rd",
+      "Gladwin Rd"
+    ],
+    "pulsePointId": "2455488809"
+  },
+  {
     "id": "2026-04-16T16:58:00Z_surrey/152nd-st_surrey/60th-ave",
     "timestamp": "2026-04-16T16:58:00Z",
     "scrapedAt": "2026-04-16T17:27:43Z",

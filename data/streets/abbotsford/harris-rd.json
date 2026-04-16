@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-16T17:32:00Z_abbotsford/harris-rd_abbotsford/gladwin-rd",
+      "timestamp": "2026-04-16T17:32:00Z",
+      "address": "HARRIS RD & GLADWIN RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/harris-rd",
+        "abbotsford/gladwin-rd"
+      ],
+      "streetNames": [
+        "Harris Rd",
+        "Gladwin Rd"
+      ],
+      "pulsePointId": "2455488809"
+    },
+    {
       "id": "2026-04-12T02:22:00Z_abbotsford/harris-rd_abbotsford/bates-rd",
       "timestamp": "2026-04-12T02:22:00Z",
       "address": "HARRIS RD & BATES RD",
@@ -32,6 +47,6 @@
       "pulsePointId": "2451782410"
     }
   ],
-  "lastIncident": "2026-04-12T02:22:00Z",
-  "count": 2
+  "lastIncident": "2026-04-16T17:32:00Z",
+  "count": 3
 }
