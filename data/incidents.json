@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-16T12:12:00Z_surrey/176th-st_surrey/fraser-hwy",
+    "timestamp": "2026-04-16T12:12:00Z",
+    "scrapedAt": "2026-04-16T12:14:56Z",
+    "address": "176TH ST & FRASER HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/176th-st",
+      "surrey/fraser-hwy"
+    ],
+    "streetNames": [
+      "176th St",
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2455326036"
+  },
+  {
     "id": "2026-04-16T09:43:00Z_west-vancouver/chairlift-rd_west-vancouver/marr-creek-crt",
     "timestamp": "2026-04-16T09:43:00Z",
     "scrapedAt": "2026-04-16T09:57:44Z",

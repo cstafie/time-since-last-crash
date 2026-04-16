@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-04-16T12:12:00Z_surrey/176th-st_surrey/fraser-hwy",
+      "timestamp": "2026-04-16T12:12:00Z",
+      "address": "176TH ST & FRASER HWY",
+      "city": "Surrey",
+      "streets": [
+        "surrey/176th-st",
+        "surrey/fraser-hwy"
+      ],
+      "streetNames": [
+        "176th St",
+        "Fraser Hwy"
+      ],
+      "pulsePointId": "2455326036"
+    },
+    {
       "id": "2026-04-11T22:51:00Z_surrey/80th-ave_surrey/176th-st",
       "timestamp": "2026-04-11T22:51:00Z",
       "address": "80TH AVE & 176TH ST",
@@ -210,6 +225,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-11T22:51:00Z",
-  "count": 14
+  "lastIncident": "2026-04-16T12:12:00Z",
+  "count": 15
 }
