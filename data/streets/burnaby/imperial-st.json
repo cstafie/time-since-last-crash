@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-04-16T21:35:00Z_burnaby/imperial-st",
+      "timestamp": "2026-04-16T21:35:00Z",
+      "address": "IMPERIAL ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/imperial-st"
+      ],
+      "streetNames": [
+        "Imperial St"
+      ],
+      "pulsePointId": "2455660444"
+    },
+    {
       "id": "2026-04-10T00:59:00Z_burnaby/marlborough-ave_burnaby/imperial-st",
       "timestamp": "2026-04-10T00:59:00Z",
       "address": "MARLBOROUGH AVE & IMPERIAL ST",
@@ -64,6 +77,6 @@
       "pulsePointId": "2442839188"
     }
   ],
-  "lastIncident": "2026-04-10T00:59:00Z",
-  "count": 4
+  "lastIncident": "2026-04-16T21:35:00Z",
+  "count": 5
 }

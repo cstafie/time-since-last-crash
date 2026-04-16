@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-04-16T21:35:00Z_burnaby/imperial-st",
+    "timestamp": "2026-04-16T21:35:00Z",
+    "scrapedAt": "2026-04-16T21:44:03Z",
+    "address": "IMPERIAL ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/imperial-st"
+    ],
+    "streetNames": [
+      "Imperial St"
+    ],
+    "pulsePointId": "2455660444"
+  },
+  {
+    "id": "2026-04-16T21:26:00Z_delta/alex-fraser-brdg",
+    "timestamp": "2026-04-16T21:26:00Z",
+    "scrapedAt": "2026-04-16T21:44:03Z",
+    "address": "ALEX FRASER BRDG",
+    "city": "Delta",
+    "streets": [
+      "delta/alex-fraser-brdg"
+    ],
+    "streetNames": [
+      "Alex Fraser Brdg"
+    ],
+    "pulsePointId": "2455652340"
+  },
+  {
+    "id": "2026-04-16T21:15:00Z_surrey/84th-ave_surrey/164th-st",
+    "timestamp": "2026-04-16T21:15:00Z",
+    "scrapedAt": "2026-04-16T21:44:03Z",
+    "address": "84TH AVE & 164TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/84th-ave",
+      "surrey/164th-st"
+    ],
+    "streetNames": [
+      "84th Ave",
+      "164th St"
+    ],
+    "pulsePointId": "2455644804"
+  },
+  {
     "id": "2026-04-16T21:03:00Z_abbotsford/1812-vedder-way",
     "timestamp": "2026-04-16T21:03:00Z",
     "scrapedAt": "2026-04-16T21:13:19Z",
