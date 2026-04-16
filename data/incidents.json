@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-16T16:58:00Z_surrey/152nd-st_surrey/60th-ave",
+    "timestamp": "2026-04-16T16:58:00Z",
+    "scrapedAt": "2026-04-16T17:27:43Z",
+    "address": "152ND ST & 60TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/152nd-st",
+      "surrey/60th-ave"
+    ],
+    "streetNames": [
+      "152nd St",
+      "60th Ave"
+    ],
+    "pulsePointId": "2455465064"
+  },
+  {
     "id": "2026-04-16T16:26:00Z_chilliwack/trans-canada-hwy",
     "timestamp": "2026-04-16T16:26:00Z",
     "scrapedAt": "2026-04-16T16:56:08Z",
