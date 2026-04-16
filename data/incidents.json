@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-16T09:43:00Z_west-vancouver/chairlift-rd_west-vancouver/marr-creek-crt",
+    "timestamp": "2026-04-16T09:43:00Z",
+    "scrapedAt": "2026-04-16T09:57:44Z",
+    "address": "CHAIRLIFT RD & MARR CREEK CRT",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/chairlift-rd",
+      "west-vancouver/marr-creek-crt"
+    ],
+    "streetNames": [
+      "Chairlift Rd",
+      "Marr Creek Crt"
+    ],
+    "pulsePointId": "2455292015"
+  },
+  {
     "id": "2026-04-16T07:31:00Z_surrey/96th-ave_surrey/king-george-blvd",
     "timestamp": "2026-04-16T07:31:00Z",
     "scrapedAt": "2026-04-16T08:09:20Z",
