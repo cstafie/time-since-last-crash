@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-04-16T03:35:00Z_vancouver/union-st_vancouver/main-st",
+    "timestamp": "2026-04-16T03:35:00Z",
+    "scrapedAt": "2026-04-16T03:41:03Z",
+    "address": "UNION ST & MAIN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/union-st",
+      "vancouver/main-st"
+    ],
+    "streetNames": [
+      "Union St",
+      "Main St"
+    ],
+    "pulsePointId": "2455179110"
+  },
+  {
+    "id": "2026-04-16T03:31:00Z_surrey/128th-st_surrey/108th-ave",
+    "timestamp": "2026-04-16T03:31:00Z",
+    "scrapedAt": "2026-04-16T03:41:03Z",
+    "address": "128TH ST & 108TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/128th-st",
+      "surrey/108th-ave"
+    ],
+    "streetNames": [
+      "128th St",
+      "108th Ave"
+    ],
+    "pulsePointId": "2455177327"
+  },
+  {
+    "id": "2026-04-16T02:30:00Z_chilliwack/lickman-rd",
+    "timestamp": "2026-04-16T02:30:00Z",
+    "scrapedAt": "2026-04-16T03:41:03Z",
+    "address": "LICKMAN RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/lickman-rd"
+    ],
+    "streetNames": [
+      "Lickman Rd"
+    ],
+    "pulsePointId": "2455148960"
+  },
+  {
     "id": "2026-04-16T01:48:00Z_burnaby/trans-canada-hwy",
     "timestamp": "2026-04-16T01:48:00Z",
     "scrapedAt": "2026-04-16T02:15:20Z",

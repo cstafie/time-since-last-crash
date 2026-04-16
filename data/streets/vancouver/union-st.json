@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/union-st",
+  "name": "Union St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-16T03:35:00Z_vancouver/union-st_vancouver/main-st",
+      "timestamp": "2026-04-16T03:35:00Z",
+      "address": "UNION ST & MAIN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/union-st",
+        "vancouver/main-st"
+      ],
+      "streetNames": [
+        "Union St",
+        "Main St"
+      ],
+      "pulsePointId": "2455179110"
+    }
+  ],
+  "lastIncident": "2026-04-16T03:35:00Z",
+  "count": 1
+}

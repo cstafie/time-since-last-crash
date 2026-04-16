@@ -4,6 +4,19 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-04-16T02:30:00Z_chilliwack/lickman-rd",
+      "timestamp": "2026-04-16T02:30:00Z",
+      "address": "LICKMAN RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/lickman-rd"
+      ],
+      "streetNames": [
+        "Lickman Rd"
+      ],
+      "pulsePointId": "2455148960"
+    },
+    {
       "id": "2026-04-07T23:16:00Z_chilliwack/lickman-rd",
       "timestamp": "2026-04-07T23:16:00Z",
       "address": "LICKMAN RD",
@@ -17,6 +30,6 @@
       "pulsePointId": "2449806893"
     }
   ],
-  "lastIncident": "2026-04-07T23:16:00Z",
-  "count": 1
+  "lastIncident": "2026-04-16T02:30:00Z",
+  "count": 2
 }
