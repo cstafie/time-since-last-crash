@@ -2453,8 +2453,8 @@
     "name": "Nanaimo St",
     "slug": "vancouver/nanaimo-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-12T23:25:00Z",
-    "count": 10
+    "lastIncident": "2026-04-17T08:04:00Z",
+    "count": 11
   },
   "vancouver/cambie-st": {
     "name": "Cambie St",
@@ -6983,6 +6983,13 @@
     "slug": "port-coquitlam/coast-meridian-rd",
     "city": "Port Coquitlam",
     "lastIncident": "2026-04-17T06:00:00Z",
+    "count": 1
+  },
+  "vancouver/e-6th-ave": {
+    "name": "E 6th Ave",
+    "slug": "vancouver/e-6th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-17T08:04:00Z",
     "count": 1
   }
 }

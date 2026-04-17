@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-17T08:04:00Z_vancouver/e-6th-ave_vancouver/nanaimo-st",
+    "timestamp": "2026-04-17T08:04:00Z",
+    "scrapedAt": "2026-04-17T08:09:03Z",
+    "address": "E 6TH AVE & NANAIMO ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-6th-ave",
+      "vancouver/nanaimo-st"
+    ],
+    "streetNames": [
+      "E 6th Ave",
+      "Nanaimo St"
+    ],
+    "pulsePointId": "2455963783"
+  },
+  {
     "id": "2026-04-17T06:32:00Z_coquitlam/mariner-way",
     "timestamp": "2026-04-17T06:32:00Z",
     "scrapedAt": "2026-04-17T07:30:23Z",
