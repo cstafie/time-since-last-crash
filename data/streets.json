@@ -1697,8 +1697,8 @@
     "name": "Inverness St",
     "slug": "vancouver/inverness-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-05T05:34:00Z",
-    "count": 5
+    "lastIncident": "2026-04-17T23:40:00Z",
+    "count": 6
   },
   "richmond/francis-rd": {
     "name": "Francis Rd",
@@ -3069,8 +3069,8 @@
     "name": "E 49th Ave",
     "slug": "vancouver/e-49th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-14T14:54:00Z",
-    "count": 4
+    "lastIncident": "2026-04-17T23:40:00Z",
+    "count": 5
   },
   "vancouver/victoria-dr": {
     "name": "Victoria Dr",

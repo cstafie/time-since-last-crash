@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-17T23:40:00Z_vancouver/e-49th-ave_vancouver/inverness-st",
+    "timestamp": "2026-04-17T23:40:00Z",
+    "scrapedAt": "2026-04-17T23:43:32Z",
+    "address": "E 49TH AVE & INVERNESS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-49th-ave",
+      "vancouver/inverness-st"
+    ],
+    "streetNames": [
+      "E 49th Ave",
+      "Inverness St"
+    ],
+    "pulsePointId": "2456409371"
+  },
+  {
     "id": "2026-04-17T22:57:00Z_richmond/no-1-rd_richmond/westminster-hwy",
     "timestamp": "2026-04-17T22:57:00Z",
     "scrapedAt": "2026-04-17T23:11:04Z",
