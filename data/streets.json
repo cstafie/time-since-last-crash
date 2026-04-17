@@ -3692,8 +3692,8 @@
     "name": "68th Ave",
     "slug": "surrey/68th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-16T22:17:00Z",
-    "count": 6
+    "lastIncident": "2026-04-17T15:26:00Z",
+    "count": 7
   },
   "burnaby/royal-oak-ave": {
     "name": "Royal Oak Ave",
@@ -5547,8 +5547,8 @@
     "name": "130th St",
     "slug": "surrey/130th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-10T20:18:00Z",
-    "count": 2
+    "lastIncident": "2026-04-17T15:26:00Z",
+    "count": 3
   },
   "vancouver/windermere-st": {
     "name": "Windermere St",

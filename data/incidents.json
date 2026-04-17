@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-17T15:26:00Z_surrey/68th-ave_surrey/130th-st",
+    "timestamp": "2026-04-17T15:26:00Z",
+    "scrapedAt": "2026-04-17T15:46:30Z",
+    "address": "68TH AVE & 130TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/68th-ave",
+      "surrey/130th-st"
+    ],
+    "streetNames": [
+      "68th Ave",
+      "130th St"
+    ],
+    "pulsePointId": "2456097307"
+  },
+  {
     "id": "2026-04-17T15:08:00Z_vancouver/e-hastings-st_vancouver/main-st",
     "timestamp": "2026-04-17T15:08:00Z",
     "scrapedAt": "2026-04-17T15:20:10Z",

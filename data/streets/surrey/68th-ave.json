@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-04-17T15:26:00Z_surrey/68th-ave_surrey/130th-st",
+      "timestamp": "2026-04-17T15:26:00Z",
+      "address": "68TH AVE & 130TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/68th-ave",
+        "surrey/130th-st"
+      ],
+      "streetNames": [
+        "68th Ave",
+        "130th St"
+      ],
+      "pulsePointId": "2456097307"
+    },
+    {
       "id": "2026-04-16T22:17:00Z_surrey/68th-ave_surrey/135th-st",
       "timestamp": "2026-04-16T22:17:00Z",
       "address": "68TH AVE & 135TH ST",
@@ -94,6 +109,6 @@
       "pulsePointId": "2439764591"
     }
   ],
-  "lastIncident": "2026-04-16T22:17:00Z",
-  "count": 6
+  "lastIncident": "2026-04-17T15:26:00Z",
+  "count": 7
 }
