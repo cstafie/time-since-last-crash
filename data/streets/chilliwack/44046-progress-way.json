@@ -1,0 +1,22 @@
+{
+  "slug": "chilliwack/44046-progress-way",
+  "name": "44046 Progress Way",
+  "city": "Chilliwack",
+  "incidents": [
+    {
+      "id": "2026-04-17T00:20:00Z_chilliwack/44046-progress-way",
+      "timestamp": "2026-04-17T00:20:00Z",
+      "address": "44046 PROGRESS WAY",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/44046-progress-way"
+      ],
+      "streetNames": [
+        "44046 Progress Way"
+      ],
+      "pulsePointId": "2455767586"
+    }
+  ],
+  "lastIncident": "2026-04-17T00:20:00Z",
+  "count": 1
+}

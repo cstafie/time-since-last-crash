@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-17T00:25:00Z_vancouver/hemlock-st_vancouver/w-8th-ave",
+      "timestamp": "2026-04-17T00:25:00Z",
+      "address": "HEMLOCK ST & W 8TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/hemlock-st",
+        "vancouver/w-8th-ave"
+      ],
+      "streetNames": [
+        "Hemlock St",
+        "W 8th Ave"
+      ],
+      "pulsePointId": "2455769046"
+    },
+    {
       "id": "2026-03-16T05:29:00Z_vancouver/hemlock-st_vancouver/w-8th-ave",
       "timestamp": "2026-03-16T05:29:00Z",
       "address": "HEMLOCK ST & W 8TH AVE",
@@ -19,6 +34,6 @@
       "pulsePointId": "2434984828"
     }
   ],
-  "lastIncident": "2026-03-16T05:29:00Z",
-  "count": 1
+  "lastIncident": "2026-04-17T00:25:00Z",
+  "count": 2
 }

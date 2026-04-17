@@ -1,5 +1,109 @@
 [
   {
+    "id": "2026-04-17T00:39:00Z_abbotsford/2884-gladys-ave",
+    "timestamp": "2026-04-17T00:39:00Z",
+    "scrapedAt": "2026-04-17T01:05:20Z",
+    "address": "2884 GLADYS AVE",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/2884-gladys-ave"
+    ],
+    "streetNames": [
+      "2884 Gladys Ave"
+    ],
+    "pulsePointId": "2455777245"
+  },
+  {
+    "id": "2026-04-17T00:34:00Z_richmond/leonard-rd_richmond/williams-rd",
+    "timestamp": "2026-04-17T00:34:00Z",
+    "scrapedAt": "2026-04-17T01:05:20Z",
+    "address": "LEONARD RD & WILLIAMS RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/leonard-rd",
+      "richmond/williams-rd"
+    ],
+    "streetNames": [
+      "Leonard Rd",
+      "Williams Rd"
+    ],
+    "pulsePointId": "2455775407"
+  },
+  {
+    "id": "2026-04-17T00:29:00Z_mission/park-st_mission/lougheed-hwy",
+    "timestamp": "2026-04-17T00:29:00Z",
+    "scrapedAt": "2026-04-17T01:05:20Z",
+    "address": "PARK ST & LOUGHEED HWY",
+    "city": "Mission",
+    "streets": [
+      "mission/park-st",
+      "mission/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Park St",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2455772376"
+  },
+  {
+    "id": "2026-04-17T00:25:00Z_vancouver/hemlock-st_vancouver/w-8th-ave",
+    "timestamp": "2026-04-17T00:25:00Z",
+    "scrapedAt": "2026-04-17T01:05:20Z",
+    "address": "HEMLOCK ST & W 8TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/hemlock-st",
+      "vancouver/w-8th-ave"
+    ],
+    "streetNames": [
+      "Hemlock St",
+      "W 8th Ave"
+    ],
+    "pulsePointId": "2455769046"
+  },
+  {
+    "id": "2026-04-17T00:22:00Z_mission/3rd-ave",
+    "timestamp": "2026-04-17T00:22:00Z",
+    "scrapedAt": "2026-04-17T01:05:20Z",
+    "address": "3RD AVE",
+    "city": "Mission",
+    "streets": [
+      "mission/3rd-ave"
+    ],
+    "streetNames": [
+      "3rd Ave"
+    ],
+    "pulsePointId": "2455770938"
+  },
+  {
+    "id": "2026-04-17T00:20:00Z_chilliwack/44046-progress-way",
+    "timestamp": "2026-04-17T00:20:00Z",
+    "scrapedAt": "2026-04-17T01:05:20Z",
+    "address": "44046 PROGRESS WAY",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/44046-progress-way"
+    ],
+    "streetNames": [
+      "44046 Progress Way"
+    ],
+    "pulsePointId": "2455767586"
+  },
+  {
+    "id": "2026-04-17T00:14:00Z_langley/200th-st",
+    "timestamp": "2026-04-17T00:14:00Z",
+    "scrapedAt": "2026-04-17T01:05:20Z",
+    "address": "200TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/200th-st"
+    ],
+    "streetNames": [
+      "200th St"
+    ],
+    "pulsePointId": "2455762888"
+  },
+  {
     "id": "2026-04-16T23:58:00Z_surrey/128th-st",
     "timestamp": "2026-04-16T23:58:00Z",
     "scrapedAt": "2026-04-17T00:11:07Z",
