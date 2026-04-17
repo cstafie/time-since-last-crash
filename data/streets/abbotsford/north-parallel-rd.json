@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/north-parallel-rd",
+  "name": "North Parallel Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-04-17T19:43:00Z_abbotsford/north-parallel-rd",
+      "timestamp": "2026-04-17T19:43:00Z",
+      "address": "NORTH PARALLEL RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/north-parallel-rd"
+      ],
+      "streetNames": [
+        "North Parallel Rd"
+      ],
+      "pulsePointId": "2456254691"
+    }
+  ],
+  "lastIncident": "2026-04-17T19:43:00Z",
+  "count": 1
+}

@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-17T19:43:00Z_abbotsford/north-parallel-rd",
+    "timestamp": "2026-04-17T19:43:00Z",
+    "scrapedAt": "2026-04-17T19:47:44Z",
+    "address": "NORTH PARALLEL RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/north-parallel-rd"
+    ],
+    "streetNames": [
+      "North Parallel Rd"
+    ],
+    "pulsePointId": "2456254691"
+  },
+  {
     "id": "2026-04-17T18:58:00Z_langley/16th-ave",
     "timestamp": "2026-04-17T18:58:00Z",
     "scrapedAt": "2026-04-17T19:22:33Z",
