@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-17T17:50:00Z_abbotsford/sumas-way",
+    "timestamp": "2026-04-17T17:50:00Z",
+    "scrapedAt": "2026-04-17T18:13:51Z",
+    "address": "SUMAS WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/sumas-way"
+    ],
+    "streetNames": [
+      "Sumas Way"
+    ],
+    "pulsePointId": "2456182512"
+  },
+  {
     "id": "2026-04-17T17:25:00Z_vancouver/w-8th-ave_vancouver/granville-st",
     "timestamp": "2026-04-17T17:25:00Z",
     "scrapedAt": "2026-04-17T17:45:00Z",
