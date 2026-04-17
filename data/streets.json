@@ -549,8 +549,8 @@
     "name": "132nd St",
     "slug": "surrey/132nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-13T15:04:00Z",
-    "count": 8
+    "lastIncident": "2026-04-17T08:50:00Z",
+    "count": 9
   },
   "surrey/140th-st": {
     "name": "140th St",
@@ -1900,8 +1900,8 @@
     "name": "Earles St",
     "slug": "vancouver/earles-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-14T04:58:00Z",
-    "count": 1
+    "lastIncident": "2026-04-17T08:27:00Z",
+    "count": 2
   },
   "richmond/elmbridge-way": {
     "name": "Elmbridge Way",
@@ -2180,8 +2180,8 @@
     "name": "E 29th Ave",
     "slug": "vancouver/e-29th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-03-20T03:24:00Z",
-    "count": 2
+    "lastIncident": "2026-04-17T08:27:00Z",
+    "count": 3
   },
   "vancouver/rupert-st": {
     "name": "Rupert St",

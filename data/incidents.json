@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-17T08:50:00Z_surrey/132nd-st",
+    "timestamp": "2026-04-17T08:50:00Z",
+    "scrapedAt": "2026-04-17T09:00:14Z",
+    "address": "132ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/132nd-st"
+    ],
+    "streetNames": [
+      "132nd St"
+    ],
+    "pulsePointId": "2455974558"
+  },
+  {
+    "id": "2026-04-17T08:27:00Z_vancouver/e-29th-ave_vancouver/earles-st",
+    "timestamp": "2026-04-17T08:27:00Z",
+    "scrapedAt": "2026-04-17T09:00:14Z",
+    "address": "E 29TH AVE & EARLES ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-29th-ave",
+      "vancouver/earles-st"
+    ],
+    "streetNames": [
+      "E 29th Ave",
+      "Earles St"
+    ],
+    "pulsePointId": "2455968570"
+  },
+  {
     "id": "2026-04-17T08:04:00Z_vancouver/e-6th-ave_vancouver/nanaimo-st",
     "timestamp": "2026-04-17T08:04:00Z",
     "scrapedAt": "2026-04-17T08:09:03Z",
