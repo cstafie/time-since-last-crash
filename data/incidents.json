@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-04-17T15:08:00Z_vancouver/e-hastings-st_vancouver/main-st",
+    "timestamp": "2026-04-17T15:08:00Z",
+    "scrapedAt": "2026-04-17T15:20:10Z",
+    "address": "E HASTINGS ST & MAIN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-hastings-st",
+      "vancouver/main-st"
+    ],
+    "streetNames": [
+      "E Hastings St",
+      "Main St"
+    ],
+    "pulsePointId": "2456088512"
+  },
+  {
+    "id": "2026-04-17T15:04:00Z_surrey/trans-canada-hwy_surrey/160th-street-onrp",
+    "timestamp": "2026-04-17T15:04:00Z",
+    "scrapedAt": "2026-04-17T15:20:10Z",
+    "address": "TRANS CANADA HWY & 160TH STREET ONRP",
+    "city": "Surrey",
+    "streets": [
+      "surrey/trans-canada-hwy",
+      "surrey/160th-street-onrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "160th Street Onrp"
+    ],
+    "pulsePointId": "2456085552"
+  },
+  {
+    "id": "2026-04-17T14:57:00Z_surrey/trans-canada-hwy",
+    "timestamp": "2026-04-17T14:57:00Z",
+    "scrapedAt": "2026-04-17T15:20:10Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2456083831"
+  },
+  {
     "id": "2026-04-17T14:44:00Z_vancouver/perry-st_vancouver/kingsway",
     "timestamp": "2026-04-17T14:44:00Z",
     "scrapedAt": "2026-04-17T14:46:52Z",
