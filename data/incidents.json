@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-04-16T23:58:00Z_surrey/128th-st",
+    "timestamp": "2026-04-16T23:58:00Z",
+    "scrapedAt": "2026-04-17T00:11:07Z",
+    "address": "128TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/128th-st"
+    ],
+    "streetNames": [
+      "128th St"
+    ],
+    "pulsePointId": "2455753831"
+  },
+  {
+    "id": "2026-04-16T23:51:00Z_abbotsford/fraser-hwy",
+    "timestamp": "2026-04-16T23:51:00Z",
+    "scrapedAt": "2026-04-17T00:11:07Z",
+    "address": "FRASER HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/fraser-hwy"
+    ],
+    "streetNames": [
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2455747717"
+  },
+  {
     "id": "2026-04-16T23:21:00Z_vancouver/sw-marine-dr",
     "timestamp": "2026-04-16T23:21:00Z",
     "scrapedAt": "2026-04-16T23:43:35Z",

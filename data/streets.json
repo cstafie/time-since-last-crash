@@ -535,8 +535,8 @@
     "name": "128th St",
     "slug": "surrey/128th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-16T03:31:00Z",
-    "count": 7
+    "lastIncident": "2026-04-16T23:58:00Z",
+    "count": 8
   },
   "surrey/130b-st": {
     "name": "130b St",
@@ -2768,8 +2768,8 @@
     "name": "Fraser Hwy",
     "slug": "abbotsford/fraser-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-14T13:22:00Z",
-    "count": 5
+    "lastIncident": "2026-04-16T23:51:00Z",
+    "count": 6
   },
   "burnaby/north-fraser-way": {
     "name": "North Fraser Way",
