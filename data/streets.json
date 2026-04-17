@@ -745,8 +745,8 @@
     "name": "Kingsway",
     "slug": "vancouver/kingsway",
     "city": "Vancouver",
-    "lastIncident": "2026-04-12T04:14:00Z",
-    "count": 12
+    "lastIncident": "2026-04-17T14:44:00Z",
+    "count": 13
   },
   "vancouver/knight-st": {
     "name": "Knight St",
@@ -6990,6 +6990,13 @@
     "slug": "vancouver/e-6th-ave",
     "city": "Vancouver",
     "lastIncident": "2026-04-17T08:04:00Z",
+    "count": 1
+  },
+  "vancouver/perry-st": {
+    "name": "Perry St",
+    "slug": "vancouver/perry-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-17T14:44:00Z",
     "count": 1
   }
 }
