@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-17T21:39:00Z_surrey/80a-ave",
+    "timestamp": "2026-04-17T21:39:00Z",
+    "scrapedAt": "2026-04-17T21:44:07Z",
+    "address": "80A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/80a-ave"
+    ],
+    "streetNames": [
+      "80a Ave"
+    ],
+    "pulsePointId": "2456331174"
+  },
+  {
     "id": "2026-04-17T20:55:00Z_surrey/135a-st_surrey/108th-ave",
     "timestamp": "2026-04-17T20:55:00Z",
     "scrapedAt": "2026-04-17T21:13:00Z",
