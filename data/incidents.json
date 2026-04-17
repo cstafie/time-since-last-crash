@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-17T18:33:00Z_surrey/61st-ave",
+    "timestamp": "2026-04-17T18:33:00Z",
+    "scrapedAt": "2026-04-17T18:45:38Z",
+    "address": "61ST AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/61st-ave"
+    ],
+    "streetNames": [
+      "61st Ave"
+    ],
+    "pulsePointId": "2456210298"
+  },
+  {
+    "id": "2026-04-17T18:18:00Z_surrey/84th-ave_surrey/158th-st",
+    "timestamp": "2026-04-17T18:18:00Z",
+    "scrapedAt": "2026-04-17T18:45:38Z",
+    "address": "84TH AVE & 158TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/84th-ave",
+      "surrey/158th-st"
+    ],
+    "streetNames": [
+      "84th Ave",
+      "158th St"
+    ],
+    "pulsePointId": "2456200083"
+  },
+  {
     "id": "2026-04-17T17:50:00Z_abbotsford/sumas-way",
     "timestamp": "2026-04-17T17:50:00Z",
     "scrapedAt": "2026-04-17T18:13:51Z",

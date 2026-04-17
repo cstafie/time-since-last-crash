@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-04-17T18:18:00Z_surrey/84th-ave_surrey/158th-st",
+      "timestamp": "2026-04-17T18:18:00Z",
+      "address": "84TH AVE & 158TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/84th-ave",
+        "surrey/158th-st"
+      ],
+      "streetNames": [
+        "84th Ave",
+        "158th St"
+      ],
+      "pulsePointId": "2456200083"
+    },
+    {
       "id": "2026-04-16T21:15:00Z_surrey/84th-ave_surrey/164th-st",
       "timestamp": "2026-04-16T21:15:00Z",
       "address": "84TH AVE & 164TH ST",
@@ -91,6 +106,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-16T21:15:00Z",
-  "count": 6
+  "lastIncident": "2026-04-17T18:18:00Z",
+  "count": 7
 }
