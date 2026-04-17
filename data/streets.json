@@ -990,8 +990,8 @@
     "name": "Westminster Hwy",
     "slug": "richmond/westminster-hwy",
     "city": "Richmond",
-    "lastIncident": "2026-03-17T14:53:00Z",
-    "count": 4
+    "lastIncident": "2026-04-17T22:57:00Z",
+    "count": 5
   },
   "vancouver/e-37th-ave": {
     "name": "E 37th Ave",
@@ -1081,8 +1081,8 @@
     "name": "No 1 Rd",
     "slug": "richmond/no-1-rd",
     "city": "Richmond",
-    "lastIncident": "2026-04-03T06:18:00Z",
-    "count": 2
+    "lastIncident": "2026-04-17T22:57:00Z",
+    "count": 3
   },
   "richmond/steveston-hwy": {
     "name": "Steveston Hwy",
