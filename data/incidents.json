@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-17T06:32:00Z_coquitlam/mariner-way",
+    "timestamp": "2026-04-17T06:32:00Z",
+    "scrapedAt": "2026-04-17T07:30:23Z",
+    "address": "MARINER WAY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/mariner-way"
+    ],
+    "streetNames": [
+      "Mariner Way"
+    ],
+    "pulsePointId": "2455939724"
+  },
+  {
     "id": "2026-04-17T06:00:00Z_port-coquitlam/prairie-ave_port-coquitlam/coast-meridian-rd",
     "timestamp": "2026-04-17T06:00:00Z",
     "scrapedAt": "2026-04-17T06:30:54Z",
