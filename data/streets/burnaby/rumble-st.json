@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-04-17T15:58:00Z_burnaby/rumble-st_burnaby/patterson-ave",
+      "timestamp": "2026-04-17T15:58:00Z",
+      "address": "RUMBLE ST & PATTERSON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/rumble-st",
+        "burnaby/patterson-ave"
+      ],
+      "streetNames": [
+        "Rumble St",
+        "Patterson Ave"
+      ],
+      "pulsePointId": "2456114944"
+    },
+    {
       "id": "2026-04-13T22:17:00Z_burnaby/rumble-st_burnaby/buller-ave",
       "timestamp": "2026-04-13T22:17:00Z",
       "address": "RUMBLE ST & BULLER AVE",
@@ -19,6 +34,6 @@
       "pulsePointId": "2453696314"
     }
   ],
-  "lastIncident": "2026-04-13T22:17:00Z",
-  "count": 1
+  "lastIncident": "2026-04-17T15:58:00Z",
+  "count": 2
 }

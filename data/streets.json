@@ -5470,8 +5470,8 @@
     "name": "Patterson Ave",
     "slug": "burnaby/patterson-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-04-10T04:10:00Z",
-    "count": 2
+    "lastIncident": "2026-04-17T15:58:00Z",
+    "count": 3
   },
   "richmond/inglis-dr": {
     "name": "Inglis Dr",
@@ -6569,8 +6569,8 @@
     "name": "Rumble St",
     "slug": "burnaby/rumble-st",
     "city": "Burnaby",
-    "lastIncident": "2026-04-13T22:17:00Z",
-    "count": 1
+    "lastIncident": "2026-04-17T15:58:00Z",
+    "count": 2
   },
   "burnaby/buller-ave": {
     "name": "Buller Ave",
@@ -6997,6 +6997,13 @@
     "slug": "vancouver/perry-st",
     "city": "Vancouver",
     "lastIncident": "2026-04-17T14:44:00Z",
+    "count": 1
+  },
+  "abbotsford/mckenzie-rd": {
+    "name": "Mckenzie Rd",
+    "slug": "abbotsford/mckenzie-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-04-17T15:55:00Z",
     "count": 1
   }
 }

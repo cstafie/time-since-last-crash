@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-17T15:58:00Z_burnaby/rumble-st_burnaby/patterson-ave",
+    "timestamp": "2026-04-17T15:58:00Z",
+    "scrapedAt": "2026-04-17T16:17:09Z",
+    "address": "RUMBLE ST & PATTERSON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/rumble-st",
+      "burnaby/patterson-ave"
+    ],
+    "streetNames": [
+      "Rumble St",
+      "Patterson Ave"
+    ],
+    "pulsePointId": "2456114944"
+  },
+  {
+    "id": "2026-04-17T15:55:00Z_abbotsford/mckenzie-rd",
+    "timestamp": "2026-04-17T15:55:00Z",
+    "scrapedAt": "2026-04-17T16:17:09Z",
+    "address": "MCKENZIE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/mckenzie-rd"
+    ],
+    "streetNames": [
+      "Mckenzie Rd"
+    ],
+    "pulsePointId": "2456113555"
+  },
+  {
     "id": "2026-04-17T15:26:00Z_surrey/68th-ave_surrey/130th-st",
     "timestamp": "2026-04-17T15:26:00Z",
     "scrapedAt": "2026-04-17T15:46:30Z",
