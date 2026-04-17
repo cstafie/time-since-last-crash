@@ -4,6 +4,19 @@
   "city": "North Vancouver",
   "incidents": [
     {
+      "id": "2026-04-17T20:23:00Z_north-vancouver/trans-canada-hwy",
+      "timestamp": "2026-04-17T20:23:00Z",
+      "address": "TRANS CANADA HWY",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2456281918"
+    },
+    {
       "id": "2026-04-17T20:01:00Z_north-vancouver/westview-drive-ofrp_north-vancouver/trans-canada-hwy",
       "timestamp": "2026-04-17T20:01:00Z",
       "address": "WESTVIEW DRIVE OFRP & TRANS CANADA HWY",
@@ -71,6 +84,6 @@
       "pulsePointId": "2446681723"
     }
   ],
-  "lastIncident": "2026-04-17T20:01:00Z",
-  "count": 5
+  "lastIncident": "2026-04-17T20:23:00Z",
+  "count": 6
 }

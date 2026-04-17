@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-17T20:12:00Z_vancouver/joyce-st_vancouver/euclid-ave",
+      "timestamp": "2026-04-17T20:12:00Z",
+      "address": "JOYCE ST & EUCLID AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/joyce-st",
+        "vancouver/euclid-ave"
+      ],
+      "streetNames": [
+        "Joyce St",
+        "Euclid Ave"
+      ],
+      "pulsePointId": "2456274469"
+    },
+    {
       "id": "2026-03-25T18:53:00Z_vancouver/euclid-ave_vancouver/joyce-st",
       "timestamp": "2026-03-25T18:53:00Z",
       "address": "EUCLID AVE & JOYCE ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2435899764"
     }
   ],
-  "lastIncident": "2026-03-25T18:53:00Z",
-  "count": 2
+  "lastIncident": "2026-04-17T20:12:00Z",
+  "count": 3
 }

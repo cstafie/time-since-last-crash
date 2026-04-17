@@ -1,5 +1,63 @@
 [
   {
+    "id": "2026-04-17T20:35:00Z_surrey/pattullo-brdg",
+    "timestamp": "2026-04-17T20:35:00Z",
+    "scrapedAt": "2026-04-17T20:44:08Z",
+    "address": "PATTULLO BRDG",
+    "city": "Surrey",
+    "streets": [
+      "surrey/pattullo-brdg"
+    ],
+    "streetNames": [
+      "Pattullo Brdg"
+    ],
+    "pulsePointId": "2456287627"
+  },
+  {
+    "id": "2026-04-17T20:32:00Z_richmond/vulcan-way",
+    "timestamp": "2026-04-17T20:32:00Z",
+    "scrapedAt": "2026-04-17T20:44:08Z",
+    "address": "VULCAN WAY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/vulcan-way"
+    ],
+    "streetNames": [
+      "Vulcan Way"
+    ],
+    "pulsePointId": "2456287629"
+  },
+  {
+    "id": "2026-04-17T20:23:00Z_north-vancouver/trans-canada-hwy",
+    "timestamp": "2026-04-17T20:23:00Z",
+    "scrapedAt": "2026-04-17T20:44:08Z",
+    "address": "TRANS CANADA HWY",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2456281918"
+  },
+  {
+    "id": "2026-04-17T20:12:00Z_vancouver/joyce-st_vancouver/euclid-ave",
+    "timestamp": "2026-04-17T20:12:00Z",
+    "scrapedAt": "2026-04-17T20:44:08Z",
+    "address": "JOYCE ST & EUCLID AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/joyce-st",
+      "vancouver/euclid-ave"
+    ],
+    "streetNames": [
+      "Joyce St",
+      "Euclid Ave"
+    ],
+    "pulsePointId": "2456274469"
+  },
+  {
     "id": "2026-04-17T20:01:00Z_north-vancouver/westview-drive-ofrp_north-vancouver/trans-canada-hwy",
     "timestamp": "2026-04-17T20:01:00Z",
     "scrapedAt": "2026-04-17T20:11:14Z",

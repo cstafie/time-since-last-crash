@@ -1,0 +1,22 @@
+{
+  "slug": "richmond/vulcan-way",
+  "name": "Vulcan Way",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-04-17T20:32:00Z_richmond/vulcan-way",
+      "timestamp": "2026-04-17T20:32:00Z",
+      "address": "VULCAN WAY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/vulcan-way"
+      ],
+      "streetNames": [
+        "Vulcan Way"
+      ],
+      "pulsePointId": "2456287629"
+    }
+  ],
+  "lastIncident": "2026-04-17T20:32:00Z",
+  "count": 1
+}
