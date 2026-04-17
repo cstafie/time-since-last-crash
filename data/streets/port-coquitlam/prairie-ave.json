@@ -1,0 +1,24 @@
+{
+  "slug": "port-coquitlam/prairie-ave",
+  "name": "Prairie Ave",
+  "city": "Port Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-04-17T06:00:00Z_port-coquitlam/prairie-ave_port-coquitlam/coast-meridian-rd",
+      "timestamp": "2026-04-17T06:00:00Z",
+      "address": "PRAIRIE AVE & COAST MERIDIAN RD",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/prairie-ave",
+        "port-coquitlam/coast-meridian-rd"
+      ],
+      "streetNames": [
+        "Prairie Ave",
+        "Coast Meridian Rd"
+      ],
+      "pulsePointId": "2455929322"
+    }
+  ],
+  "lastIncident": "2026-04-17T06:00:00Z",
+  "count": 1
+}

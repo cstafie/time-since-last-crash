@@ -6970,5 +6970,19 @@
     "city": "Vancouver",
     "lastIncident": "2026-04-17T03:44:00Z",
     "count": 1
+  },
+  "port-coquitlam/prairie-ave": {
+    "name": "Prairie Ave",
+    "slug": "port-coquitlam/prairie-ave",
+    "city": "Port Coquitlam",
+    "lastIncident": "2026-04-17T06:00:00Z",
+    "count": 1
+  },
+  "port-coquitlam/coast-meridian-rd": {
+    "name": "Coast Meridian Rd",
+    "slug": "port-coquitlam/coast-meridian-rd",
+    "city": "Port Coquitlam",
+    "lastIncident": "2026-04-17T06:00:00Z",
+    "count": 1
   }
 }

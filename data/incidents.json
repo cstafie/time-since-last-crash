@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-17T06:00:00Z_port-coquitlam/prairie-ave_port-coquitlam/coast-meridian-rd",
+    "timestamp": "2026-04-17T06:00:00Z",
+    "scrapedAt": "2026-04-17T06:30:54Z",
+    "address": "PRAIRIE AVE & COAST MERIDIAN RD",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/prairie-ave",
+      "port-coquitlam/coast-meridian-rd"
+    ],
+    "streetNames": [
+      "Prairie Ave",
+      "Coast Meridian Rd"
+    ],
+    "pulsePointId": "2455929322"
+  },
+  {
     "id": "2026-04-17T04:30:00Z_abbotsford/queen-st_abbotsford/wheel-ave",
     "timestamp": "2026-04-17T04:30:00Z",
     "scrapedAt": "2026-04-17T04:55:55Z",
