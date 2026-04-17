@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-17T03:24:00Z_surrey/172nd-st_surrey/8th-ave",
+    "timestamp": "2026-04-17T03:24:00Z",
+    "scrapedAt": "2026-04-17T03:39:49Z",
+    "address": "172ND ST & 8TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/172nd-st",
+      "surrey/8th-ave"
+    ],
+    "streetNames": [
+      "172nd St",
+      "8th Ave"
+    ],
+    "pulsePointId": "2455865817"
+  },
+  {
+    "id": "2026-04-17T02:58:00Z_surrey/160th-st_surrey/56th-ave",
+    "timestamp": "2026-04-17T02:58:00Z",
+    "scrapedAt": "2026-04-17T03:39:49Z",
+    "address": "160TH ST & 56TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/160th-st",
+      "surrey/56th-ave"
+    ],
+    "streetNames": [
+      "160th St",
+      "56th Ave"
+    ],
+    "pulsePointId": "2455854088"
+  },
+  {
     "id": "2026-04-17T01:42:00Z_surrey/17th-ave_surrey/154th-st",
     "timestamp": "2026-04-17T01:42:00Z",
     "scrapedAt": "2026-04-17T02:14:55Z",

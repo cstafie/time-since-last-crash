@@ -1032,8 +1032,8 @@
     "name": "160th St",
     "slug": "surrey/160th-st",
     "city": "Surrey",
-    "lastIncident": "2026-03-19T22:26:00Z",
-    "count": 5
+    "lastIncident": "2026-04-17T02:58:00Z",
+    "count": 6
   },
   "vancouver/e-28th-ave": {
     "name": "E 28th Ave",
@@ -2390,8 +2390,8 @@
     "name": "56th Ave",
     "slug": "surrey/56th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-16T18:22:00Z",
-    "count": 8
+    "lastIncident": "2026-04-17T02:58:00Z",
+    "count": 9
   },
   "port-moody/grant-st": {
     "name": "Grant St",
@@ -6934,6 +6934,20 @@
     "slug": "surrey/17a-ave",
     "city": "Surrey",
     "lastIncident": "2026-04-17T01:18:00Z",
+    "count": 1
+  },
+  "surrey/172nd-st": {
+    "name": "172nd St",
+    "slug": "surrey/172nd-st",
+    "city": "Surrey",
+    "lastIncident": "2026-04-17T03:24:00Z",
+    "count": 1
+  },
+  "surrey/8th-ave": {
+    "name": "8th Ave",
+    "slug": "surrey/8th-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-04-17T03:24:00Z",
     "count": 1
   }
 }
