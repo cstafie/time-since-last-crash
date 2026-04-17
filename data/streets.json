@@ -535,8 +535,8 @@
     "name": "128th St",
     "slug": "surrey/128th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-16T23:58:00Z",
-    "count": 8
+    "lastIncident": "2026-04-17T12:45:00Z",
+    "count": 9
   },
   "surrey/130b-st": {
     "name": "130b St",
@@ -1592,8 +1592,8 @@
     "name": "58th Ave",
     "slug": "surrey/58th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-26T08:39:00Z",
-    "count": 2
+    "lastIncident": "2026-04-17T12:45:00Z",
+    "count": 3
   },
   "vancouver/w-22nd-ave": {
     "name": "W 22nd Ave",
