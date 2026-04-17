@@ -794,8 +794,8 @@
     "name": "W 4th Ave",
     "slug": "vancouver/w-4th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-03-09T17:04:00Z",
-    "count": 1
+    "lastIncident": "2026-04-17T03:44:00Z",
+    "count": 2
   },
   "vancouver/w-70th-ave": {
     "name": "W 70th Ave",
@@ -6948,6 +6948,27 @@
     "slug": "surrey/8th-ave",
     "city": "Surrey",
     "lastIncident": "2026-04-17T03:24:00Z",
+    "count": 1
+  },
+  "abbotsford/queen-st": {
+    "name": "Queen St",
+    "slug": "abbotsford/queen-st",
+    "city": "Abbotsford",
+    "lastIncident": "2026-04-17T04:30:00Z",
+    "count": 1
+  },
+  "abbotsford/wheel-ave": {
+    "name": "Wheel Ave",
+    "slug": "abbotsford/wheel-ave",
+    "city": "Abbotsford",
+    "lastIncident": "2026-04-17T04:30:00Z",
+    "count": 1
+  },
+  "vancouver/vine-st": {
+    "name": "Vine St",
+    "slug": "vancouver/vine-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-17T03:44:00Z",
     "count": 1
   }
 }

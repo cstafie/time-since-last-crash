@@ -1,6 +1,6 @@
 {
-  "slug": "vancouver/w-4th-ave",
-  "name": "W 4th Ave",
+  "slug": "vancouver/vine-st",
+  "name": "Vine St",
   "city": "Vancouver",
   "incidents": [
     {
@@ -17,20 +17,8 @@
         "Vine St"
       ],
       "pulsePointId": "2455875751"
-    },
-    {
-      "id": "2026-03-09T17:04:00Z_w-4th-ave",
-      "timestamp": "2026-03-09T17:04:00Z",
-      "address": "W 4TH AVE",
-      "city": "Vancouver",
-      "streets": [
-        "vancouver/w-4th-ave"
-      ],
-      "streetNames": [
-        "W 4th Ave"
-      ]
     }
   ],
   "lastIncident": "2026-04-17T03:44:00Z",
-  "count": 2
+  "count": 1
 }

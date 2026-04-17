@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/queen-st",
+  "name": "Queen St",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-04-17T04:30:00Z_abbotsford/queen-st_abbotsford/wheel-ave",
+      "timestamp": "2026-04-17T04:30:00Z",
+      "address": "QUEEN ST & WHEEL AVE",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/queen-st",
+        "abbotsford/wheel-ave"
+      ],
+      "streetNames": [
+        "Queen St",
+        "Wheel Ave"
+      ],
+      "pulsePointId": "2455896318"
+    }
+  ],
+  "lastIncident": "2026-04-17T04:30:00Z",
+  "count": 1
+}
