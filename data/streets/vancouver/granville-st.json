@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-17T17:25:00Z_vancouver/w-8th-ave_vancouver/granville-st",
+      "timestamp": "2026-04-17T17:25:00Z",
+      "address": "W 8TH AVE & GRANVILLE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-8th-ave",
+        "vancouver/granville-st"
+      ],
+      "streetNames": [
+        "W 8th Ave",
+        "Granville St"
+      ],
+      "pulsePointId": "2456166191"
+    },
+    {
       "id": "2026-04-15T19:48:00Z_vancouver/granville-st",
       "timestamp": "2026-04-15T19:48:00Z",
       "address": "GRANVILLE ST",
@@ -192,6 +207,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-15T19:48:00Z",
-  "count": 13
+  "lastIncident": "2026-04-17T17:25:00Z",
+  "count": 14
 }

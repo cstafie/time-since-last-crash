@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-17T17:25:00Z_vancouver/w-8th-ave_vancouver/granville-st",
+    "timestamp": "2026-04-17T17:25:00Z",
+    "scrapedAt": "2026-04-17T17:45:00Z",
+    "address": "W 8TH AVE & GRANVILLE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-8th-ave",
+      "vancouver/granville-st"
+    ],
+    "streetNames": [
+      "W 8th Ave",
+      "Granville St"
+    ],
+    "pulsePointId": "2456166191"
+  },
+  {
     "id": "2026-04-17T15:58:00Z_burnaby/rumble-st_burnaby/patterson-ave",
     "timestamp": "2026-04-17T15:58:00Z",
     "scrapedAt": "2026-04-17T16:17:09Z",
