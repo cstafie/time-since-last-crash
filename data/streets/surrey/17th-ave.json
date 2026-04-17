@@ -1,6 +1,6 @@
 {
-  "slug": "surrey/154th-st",
-  "name": "154th St",
+  "slug": "surrey/17th-ave",
+  "name": "17th Ave",
   "city": "Surrey",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "154th St"
       ],
       "pulsePointId": "2455814479"
-    },
-    {
-      "id": "2026-03-20T18:01:00Z_surrey/32nd-ave_surrey/154th-st",
-      "timestamp": "2026-03-20T18:01:00Z",
-      "address": "32ND AVE & 154TH ST",
-      "city": "Surrey",
-      "streets": [
-        "surrey/32nd-ave",
-        "surrey/154th-st"
-      ],
-      "streetNames": [
-        "32nd Ave",
-        "154th St"
-      ],
-      "pulsePointId": "2437954989"
     }
   ],
   "lastIncident": "2026-04-17T01:42:00Z",
-  "count": 2
+  "count": 1
 }

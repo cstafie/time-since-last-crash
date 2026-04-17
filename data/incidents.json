@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-04-17T01:42:00Z_surrey/17th-ave_surrey/154th-st",
+    "timestamp": "2026-04-17T01:42:00Z",
+    "scrapedAt": "2026-04-17T02:14:55Z",
+    "address": "17TH AVE & 154TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/17th-ave",
+      "surrey/154th-st"
+    ],
+    "streetNames": [
+      "17th Ave",
+      "154th St"
+    ],
+    "pulsePointId": "2455814479"
+  },
+  {
+    "id": "2026-04-17T01:20:00Z_burnaby/jefferson-ave_burnaby/north-rd",
+    "timestamp": "2026-04-17T01:20:00Z",
+    "scrapedAt": "2026-04-17T02:14:55Z",
+    "address": "JEFFERSON AVE & NORTH RD",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/jefferson-ave",
+      "burnaby/north-rd"
+    ],
+    "streetNames": [
+      "Jefferson Ave",
+      "North Rd"
+    ],
+    "pulsePointId": "2455801367"
+  },
+  {
+    "id": "2026-04-17T01:18:00Z_surrey/17a-ave",
+    "timestamp": "2026-04-17T01:18:00Z",
+    "scrapedAt": "2026-04-17T02:14:55Z",
+    "address": "17A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/17a-ave"
+    ],
+    "streetNames": [
+      "17a Ave"
+    ],
+    "pulsePointId": "2455800864"
+  },
+  {
     "id": "2026-04-17T00:39:00Z_abbotsford/2884-gladys-ave",
     "timestamp": "2026-04-17T00:39:00Z",
     "scrapedAt": "2026-04-17T01:05:20Z",
