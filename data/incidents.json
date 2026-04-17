@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-17T20:01:00Z_north-vancouver/westview-drive-ofrp_north-vancouver/trans-canada-hwy",
+    "timestamp": "2026-04-17T20:01:00Z",
+    "scrapedAt": "2026-04-17T20:11:14Z",
+    "address": "WESTVIEW DRIVE OFRP & TRANS CANADA HWY",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/westview-drive-ofrp",
+      "north-vancouver/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Westview Drive Ofrp",
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2456267800"
+  },
+  {
     "id": "2026-04-17T19:43:00Z_abbotsford/north-parallel-rd",
     "timestamp": "2026-04-17T19:43:00Z",
     "scrapedAt": "2026-04-17T19:47:44Z",

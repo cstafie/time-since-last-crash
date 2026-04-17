@@ -1,0 +1,24 @@
+{
+  "slug": "north-vancouver/westview-drive-ofrp",
+  "name": "Westview Drive Ofrp",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-17T20:01:00Z_north-vancouver/westview-drive-ofrp_north-vancouver/trans-canada-hwy",
+      "timestamp": "2026-04-17T20:01:00Z",
+      "address": "WESTVIEW DRIVE OFRP & TRANS CANADA HWY",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/westview-drive-ofrp",
+        "north-vancouver/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Westview Drive Ofrp",
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2456267800"
+    }
+  ],
+  "lastIncident": "2026-04-17T20:01:00Z",
+  "count": 1
+}
