@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-18T04:14:00Z_vancouver/e-broadway",
+      "timestamp": "2026-04-18T04:14:00Z",
+      "address": "E BROADWAY",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-broadway"
+      ],
+      "streetNames": [
+        "E Broadway"
+      ],
+      "pulsePointId": "2456563480"
+    },
+    {
       "id": "2026-04-12T00:52:00Z_vancouver/guelph-st_vancouver/e-broadway",
       "timestamp": "2026-04-12T00:52:00Z",
       "address": "GUELPH ST & E BROADWAY",
@@ -139,6 +152,6 @@
       "pulsePointId": "2435592326"
     }
   ],
-  "lastIncident": "2026-04-12T00:52:00Z",
-  "count": 9
+  "lastIncident": "2026-04-18T04:14:00Z",
+  "count": 10
 }
