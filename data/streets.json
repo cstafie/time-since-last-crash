@@ -738,8 +738,8 @@
     "name": "Heather St",
     "slug": "vancouver/heather-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-03T17:02:00Z",
-    "count": 2
+    "lastIncident": "2026-04-18T20:52:00Z",
+    "count": 3
   },
   "vancouver/kingsway": {
     "name": "Kingsway",
@@ -3713,8 +3713,8 @@
     "name": "W 57th Ave",
     "slug": "vancouver/w-57th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-09T21:26:00Z",
-    "count": 4
+    "lastIncident": "2026-04-18T20:52:00Z",
+    "count": 5
   },
   "richmond/lansdowne-rd": {
     "name": "Lansdowne Rd",

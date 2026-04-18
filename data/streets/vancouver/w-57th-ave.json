@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-18T20:52:00Z_vancouver/heather-st_vancouver/w-57th-ave",
+      "timestamp": "2026-04-18T20:52:00Z",
+      "address": "HEATHER ST & W 57TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/heather-st",
+        "vancouver/w-57th-ave"
+      ],
+      "streetNames": [
+        "Heather St",
+        "W 57th Ave"
+      ],
+      "pulsePointId": "2456961518"
+    },
+    {
       "id": "2026-04-09T21:26:00Z_vancouver/arbutus-st_vancouver/w-57th-ave",
       "timestamp": "2026-04-09T21:26:00Z",
       "address": "ARBUTUS ST & W 57TH AVE",
@@ -62,6 +77,6 @@
       "pulsePointId": "2440090548"
     }
   ],
-  "lastIncident": "2026-04-09T21:26:00Z",
-  "count": 4
+  "lastIncident": "2026-04-18T20:52:00Z",
+  "count": 5
 }
