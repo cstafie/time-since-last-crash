@@ -871,8 +871,8 @@
     "name": "120th St",
     "slug": "delta/120th-st",
     "city": "Delta",
-    "lastIncident": "2026-04-10T15:18:00Z",
-    "count": 8
+    "lastIncident": "2026-04-18T01:30:00Z",
+    "count": 9
   },
   "delta/roberts-bank-rd": {
     "name": "Roberts Bank Rd",
@@ -7067,6 +7067,13 @@
     "slug": "vancouver/parker-st",
     "city": "Vancouver",
     "lastIncident": "2026-04-18T00:28:00Z",
+    "count": 1
+  },
+  "delta/93a-ave": {
+    "name": "93a Ave",
+    "slug": "delta/93a-ave",
+    "city": "Delta",
+    "lastIncident": "2026-04-18T01:30:00Z",
     "count": 1
   }
 }
