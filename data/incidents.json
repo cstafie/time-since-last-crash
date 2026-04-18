@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-04-18T17:37:00Z_vancouver/clark-dr_vancouver/e-2nd-ave",
+    "timestamp": "2026-04-18T17:37:00Z",
+    "scrapedAt": "2026-04-18T17:42:48Z",
+    "address": "CLARK DR & E 2ND AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/clark-dr",
+      "vancouver/e-2nd-ave"
+    ],
+    "streetNames": [
+      "Clark Dr",
+      "E 2nd Ave"
+    ],
+    "pulsePointId": "2456840729"
+  },
+  {
+    "id": "2026-04-18T17:30:00Z_surrey/192nd-st_surrey/langley-bps",
+    "timestamp": "2026-04-18T17:30:00Z",
+    "scrapedAt": "2026-04-18T17:42:48Z",
+    "address": "192ND ST & LANGLEY BPS",
+    "city": "Surrey",
+    "streets": [
+      "surrey/192nd-st",
+      "surrey/langley-bps"
+    ],
+    "streetNames": [
+      "192nd St",
+      "Langley Bps"
+    ],
+    "pulsePointId": "2456836315"
+  },
+  {
+    "id": "2026-04-18T17:27:00Z_new-westminster/8th-ave",
+    "timestamp": "2026-04-18T17:27:00Z",
+    "scrapedAt": "2026-04-18T17:42:48Z",
+    "address": "8TH AVE",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/8th-ave"
+    ],
+    "streetNames": [
+      "8th Ave"
+    ],
+    "pulsePointId": "2456835155"
+  },
+  {
     "id": "2026-04-18T17:05:00Z_white-rock/north-bluff-rd",
     "timestamp": "2026-04-18T17:05:00Z",
     "scrapedAt": "2026-04-18T17:10:24Z",
