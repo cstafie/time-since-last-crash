@@ -4,6 +4,19 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-04-18T06:53:00Z_delta/hwy-99",
+      "timestamp": "2026-04-18T06:53:00Z",
+      "address": "HWY 99",
+      "city": "Delta",
+      "streets": [
+        "delta/hwy-99"
+      ],
+      "streetNames": [
+        "Hwy 99"
+      ],
+      "pulsePointId": "2456621563"
+    },
+    {
       "id": "2026-03-30T14:08:00Z_delta/hwy-99",
       "timestamp": "2026-03-30T14:08:00Z",
       "address": "HWY 99",
@@ -56,6 +69,6 @@
       "pulsePointId": "2435101972"
     }
   ],
-  "lastIncident": "2026-03-30T14:08:00Z",
-  "count": 4
+  "lastIncident": "2026-04-18T06:53:00Z",
+  "count": 5
 }

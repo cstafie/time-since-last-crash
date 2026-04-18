@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-18T06:53:00Z_delta/hwy-99",
+    "timestamp": "2026-04-18T06:53:00Z",
+    "scrapedAt": "2026-04-18T07:24:22Z",
+    "address": "HWY 99",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2456621563"
+  },
+  {
     "id": "2026-04-18T04:33:00Z_surrey/blackbird-cres_surrey/oriole-dr",
     "timestamp": "2026-04-18T04:33:00Z",
     "scrapedAt": "2026-04-18T04:54:33Z",
