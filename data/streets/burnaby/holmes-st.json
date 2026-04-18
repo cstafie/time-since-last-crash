@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/holmes-st",
+  "name": "Holmes St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-04-18T18:41:00Z_burnaby/cariboo-rd_burnaby/holmes-st",
+      "timestamp": "2026-04-18T18:41:00Z",
+      "address": "CARIBOO RD & HOLMES ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/cariboo-rd",
+        "burnaby/holmes-st"
+      ],
+      "streetNames": [
+        "Cariboo Rd",
+        "Holmes St"
+      ],
+      "pulsePointId": "2456878757"
+    }
+  ],
+  "lastIncident": "2026-04-18T18:41:00Z",
+  "count": 1
+}

@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-18T18:41:00Z_burnaby/cariboo-rd_burnaby/holmes-st",
+    "timestamp": "2026-04-18T18:41:00Z",
+    "scrapedAt": "2026-04-18T19:14:24Z",
+    "address": "CARIBOO RD & HOLMES ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/cariboo-rd",
+      "burnaby/holmes-st"
+    ],
+    "streetNames": [
+      "Cariboo Rd",
+      "Holmes St"
+    ],
+    "pulsePointId": "2456878757"
+  },
+  {
     "id": "2026-04-18T17:55:00Z_abbotsford/3033-immel-stste-600",
     "timestamp": "2026-04-18T17:55:00Z",
     "scrapedAt": "2026-04-18T18:08:06Z",
