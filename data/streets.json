@@ -647,8 +647,8 @@
     "name": "96th Ave",
     "slug": "surrey/96th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-16T07:31:00Z",
-    "count": 15
+    "lastIncident": "2026-04-18T21:36:00Z",
+    "count": 16
   },
   "surrey/bolivar-rd": {
     "name": "Bolivar Rd",
@@ -1893,8 +1893,8 @@
     "name": "148th St",
     "slug": "surrey/148th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-18T03:06:00Z",
-    "count": 9
+    "lastIncident": "2026-04-18T21:36:00Z",
+    "count": 10
   },
   "vancouver/earles-st": {
     "name": "Earles St",
