@@ -1,6 +1,6 @@
 {
-  "slug": "vancouver/e-62nd-ave",
-  "name": "E 62nd Ave",
+  "slug": "vancouver/argyle-st",
+  "name": "Argyle St",
   "city": "Vancouver",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Argyle St"
       ],
       "pulsePointId": "2456441701"
-    },
-    {
-      "id": "2026-03-30T21:38:00Z_vancouver/inverness-st_vancouver/e-62nd-ave",
-      "timestamp": "2026-03-30T21:38:00Z",
-      "address": "INVERNESS ST & E 62ND AVE",
-      "city": "Vancouver",
-      "streets": [
-        "vancouver/inverness-st",
-        "vancouver/e-62nd-ave"
-      ],
-      "streetNames": [
-        "Inverness St",
-        "E 62nd Ave"
-      ],
-      "pulsePointId": "2444649115"
     }
   ],
   "lastIncident": "2026-04-18T00:30:00Z",
-  "count": 2
+  "count": 1
 }

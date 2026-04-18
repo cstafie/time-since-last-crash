@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-04-18T00:30:00Z_vancouver/e-62nd-ave_vancouver/argyle-st",
+    "timestamp": "2026-04-18T00:30:00Z",
+    "scrapedAt": "2026-04-18T00:59:38Z",
+    "address": "E 62ND AVE & ARGYLE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-62nd-ave",
+      "vancouver/argyle-st"
+    ],
+    "streetNames": [
+      "E 62nd Ave",
+      "Argyle St"
+    ],
+    "pulsePointId": "2456441701"
+  },
+  {
+    "id": "2026-04-18T00:28:00Z_surrey/140th-st_surrey/80th-ave",
+    "timestamp": "2026-04-18T00:28:00Z",
+    "scrapedAt": "2026-04-18T00:59:38Z",
+    "address": "140TH ST & 80TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/140th-st",
+      "surrey/80th-ave"
+    ],
+    "streetNames": [
+      "140th St",
+      "80th Ave"
+    ],
+    "pulsePointId": "2456440551"
+  },
+  {
+    "id": "2026-04-18T00:28:00Z_vancouver/renfrew-st_vancouver/parker-st",
+    "timestamp": "2026-04-18T00:28:00Z",
+    "scrapedAt": "2026-04-18T00:59:38Z",
+    "address": "RENFREW ST & PARKER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/renfrew-st",
+      "vancouver/parker-st"
+    ],
+    "streetNames": [
+      "Renfrew St",
+      "Parker St"
+    ],
+    "pulsePointId": "2456438957"
+  },
+  {
     "id": "2026-04-17T23:40:00Z_vancouver/e-49th-ave_vancouver/inverness-st",
     "timestamp": "2026-04-17T23:40:00Z",
     "scrapedAt": "2026-04-17T23:43:32Z",
