@@ -7103,5 +7103,12 @@
     "city": "Abbotsford",
     "lastIncident": "2026-04-18T07:35:00Z",
     "count": 1
+  },
+  "port-moody/mount-royal-dr": {
+    "name": "Mount Royal Dr",
+    "slug": "port-moody/mount-royal-dr",
+    "city": "Port Moody",
+    "lastIncident": "2026-04-18T11:10:00Z",
+    "count": 1
   }
 }
