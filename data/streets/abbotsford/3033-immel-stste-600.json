@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/3033-immel-stste-600",
+  "name": "3033 Immel St,ste 600",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-04-18T17:55:00Z_abbotsford/3033-immel-stste-600",
+      "timestamp": "2026-04-18T17:55:00Z",
+      "address": "3033 IMMEL ST,STE 600",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/3033-immel-stste-600"
+      ],
+      "streetNames": [
+        "3033 Immel St,ste 600"
+      ],
+      "pulsePointId": "2456850236"
+    }
+  ],
+  "lastIncident": "2026-04-18T17:55:00Z",
+  "count": 1
+}
