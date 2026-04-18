@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-18T07:35:00Z_abbotsford/walters-st_abbotsford/anderson-rd",
+    "timestamp": "2026-04-18T07:35:00Z",
+    "scrapedAt": "2026-04-18T07:48:44Z",
+    "address": "WALTERS ST & ANDERSON RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/walters-st",
+      "abbotsford/anderson-rd"
+    ],
+    "streetNames": [
+      "Walters St",
+      "Anderson Rd"
+    ],
+    "pulsePointId": "2456635764"
+  },
+  {
     "id": "2026-04-18T06:53:00Z_delta/hwy-99",
     "timestamp": "2026-04-18T06:53:00Z",
     "scrapedAt": "2026-04-18T07:24:22Z",

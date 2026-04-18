@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/walters-st",
+  "name": "Walters St",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-04-18T07:35:00Z_abbotsford/walters-st_abbotsford/anderson-rd",
+      "timestamp": "2026-04-18T07:35:00Z",
+      "address": "WALTERS ST & ANDERSON RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/walters-st",
+        "abbotsford/anderson-rd"
+      ],
+      "streetNames": [
+        "Walters St",
+        "Anderson Rd"
+      ],
+      "pulsePointId": "2456635764"
+    }
+  ],
+  "lastIncident": "2026-04-18T07:35:00Z",
+  "count": 1
+}
