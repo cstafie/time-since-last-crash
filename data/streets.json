@@ -199,8 +199,8 @@
     "name": "Ladner Trunk Rd",
     "slug": "delta/ladner-trunk-rd",
     "city": "Delta",
-    "lastIncident": "2026-04-16T14:19:00Z",
-    "count": 5
+    "lastIncident": "2026-04-18T22:50:00Z",
+    "count": 6
   },
   "langley/216th-street-ofrp": {
     "name": "216th Street Ofrp",
@@ -1347,8 +1347,8 @@
     "name": "222nd St",
     "slug": "maple-ridge/222nd-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-04-01T23:39:00Z",
-    "count": 3
+    "lastIncident": "2026-04-18T22:44:00Z",
+    "count": 4
   },
   "mission/horne-street-onrp": {
     "name": "Horne Street Onrp",
@@ -3692,8 +3692,8 @@
     "name": "68th Ave",
     "slug": "surrey/68th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-17T15:26:00Z",
-    "count": 7
+    "lastIncident": "2026-04-18T22:50:00Z",
+    "count": 8
   },
   "burnaby/royal-oak-ave": {
     "name": "Royal Oak Ave",
@@ -4196,8 +4196,8 @@
     "name": "184th St",
     "slug": "surrey/184th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-14T12:46:00Z",
-    "count": 5
+    "lastIncident": "2026-04-18T22:50:00Z",
+    "count": 6
   },
   "burnaby/rosser-ave": {
     "name": "Rosser Ave",

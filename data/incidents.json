@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-04-18T22:50:00Z_delta/ladner-trunk-rd",
+    "timestamp": "2026-04-18T22:50:00Z",
+    "scrapedAt": "2026-04-18T23:08:02Z",
+    "address": "LADNER TRUNK RD",
+    "city": "Delta",
+    "streets": [
+      "delta/ladner-trunk-rd"
+    ],
+    "streetNames": [
+      "Ladner Trunk Rd"
+    ],
+    "pulsePointId": "2457033934"
+  },
+  {
+    "id": "2026-04-18T22:50:00Z_surrey/68th-ave_surrey/184th-st",
+    "timestamp": "2026-04-18T22:50:00Z",
+    "scrapedAt": "2026-04-18T23:08:02Z",
+    "address": "68TH AVE & 184TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/68th-ave",
+      "surrey/184th-st"
+    ],
+    "streetNames": [
+      "68th Ave",
+      "184th St"
+    ],
+    "pulsePointId": "2457033709"
+  },
+  {
+    "id": "2026-04-18T22:44:00Z_maple-ridge/222nd-st",
+    "timestamp": "2026-04-18T22:44:00Z",
+    "scrapedAt": "2026-04-18T23:08:02Z",
+    "address": "222ND ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/222nd-st"
+    ],
+    "streetNames": [
+      "222nd St"
+    ],
+    "pulsePointId": "2457030572"
+  },
+  {
     "id": "2026-04-18T21:36:00Z_surrey/96th-ave_surrey/148th-st",
     "timestamp": "2026-04-18T21:36:00Z",
     "scrapedAt": "2026-04-18T21:42:59Z",
