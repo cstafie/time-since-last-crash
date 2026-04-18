@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-18T19:20:00Z_vancouver/selkirk-st_vancouver/w-41st-ave",
+      "timestamp": "2026-04-18T19:20:00Z",
+      "address": "SELKIRK ST & W 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/selkirk-st",
+        "vancouver/w-41st-ave"
+      ],
+      "streetNames": [
+        "Selkirk St",
+        "W 41st Ave"
+      ],
+      "pulsePointId": "2456902150"
+    },
+    {
       "id": "2026-04-12T16:43:00Z_vancouver/w-41st-ave_vancouver/dunbar-st",
       "timestamp": "2026-04-12T16:43:00Z",
       "address": "W 41ST AVE & DUNBAR ST",
@@ -92,6 +107,6 @@
       "pulsePointId": "2435256240"
     }
   ],
-  "lastIncident": "2026-04-12T16:43:00Z",
-  "count": 6
+  "lastIncident": "2026-04-18T19:20:00Z",
+  "count": 7
 }

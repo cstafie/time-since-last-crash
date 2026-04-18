@@ -2348,8 +2348,8 @@
     "name": "W 41st Ave",
     "slug": "vancouver/w-41st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-12T16:43:00Z",
-    "count": 6
+    "lastIncident": "2026-04-18T19:20:00Z",
+    "count": 7
   },
   "burnaby/cariboo-rd": {
     "name": "Cariboo Rd",
@@ -7144,6 +7144,20 @@
     "slug": "burnaby/holmes-st",
     "city": "Burnaby",
     "lastIncident": "2026-04-18T18:41:00Z",
+    "count": 1
+  },
+  "vancouver/958-denman-st": {
+    "name": "958 Denman St",
+    "slug": "vancouver/958-denman-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-18T19:13:00Z",
+    "count": 1
+  },
+  "vancouver/selkirk-st": {
+    "name": "Selkirk St",
+    "slug": "vancouver/selkirk-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-18T19:20:00Z",
     "count": 1
   }
 }

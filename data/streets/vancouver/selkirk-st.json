@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/selkirk-st",
+  "name": "Selkirk St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-18T19:20:00Z_vancouver/selkirk-st_vancouver/w-41st-ave",
+      "timestamp": "2026-04-18T19:20:00Z",
+      "address": "SELKIRK ST & W 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/selkirk-st",
+        "vancouver/w-41st-ave"
+      ],
+      "streetNames": [
+        "Selkirk St",
+        "W 41st Ave"
+      ],
+      "pulsePointId": "2456902150"
+    }
+  ],
+  "lastIncident": "2026-04-18T19:20:00Z",
+  "count": 1
+}
