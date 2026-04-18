@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-18T15:39:00Z_langley/fraser-hwy_langley/langley-bps",
+    "timestamp": "2026-04-18T15:39:00Z",
+    "scrapedAt": "2026-04-18T15:42:49Z",
+    "address": "FRASER HWY & LANGLEY BPS",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy",
+      "langley/langley-bps"
+    ],
+    "streetNames": [
+      "Fraser Hwy",
+      "Langley Bps"
+    ],
+    "pulsePointId": "2456781991"
+  },
+  {
+    "id": "2026-04-18T15:38:00Z_langley/fraser-hwy_langley/langley-bps",
+    "timestamp": "2026-04-18T15:38:00Z",
+    "scrapedAt": "2026-04-18T15:42:49Z",
+    "address": "FRASER HWY & LANGLEY BPS",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy",
+      "langley/langley-bps"
+    ],
+    "streetNames": [
+      "Fraser Hwy",
+      "Langley Bps"
+    ],
+    "pulsePointId": "2456782171"
+  },
+  {
     "id": "2026-04-18T14:59:00Z_abbotsford/sumas-way-onrp_abbotsford/trans-canada-hwy",
     "timestamp": "2026-04-18T14:59:00Z",
     "scrapedAt": "2026-04-18T15:11:24Z",
