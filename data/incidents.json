@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-18T14:59:00Z_abbotsford/sumas-way-onrp_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-04-18T14:59:00Z",
+    "scrapedAt": "2026-04-18T15:11:24Z",
+    "address": "SUMAS WAY ONRP & TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/sumas-way-onrp",
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Sumas Way Onrp",
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2456766084"
+  },
+  {
     "id": "2026-04-18T11:10:00Z_port-moody/mount-royal-dr",
     "timestamp": "2026-04-18T11:10:00Z",
     "scrapedAt": "2026-04-18T11:42:08Z",
