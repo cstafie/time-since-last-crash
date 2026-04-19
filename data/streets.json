@@ -2117,8 +2117,8 @@
     "name": "Mt Lehman Rd",
     "slug": "abbotsford/mt-lehman-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-10T15:58:00Z",
-    "count": 5
+    "lastIncident": "2026-04-19T02:52:00Z",
+    "count": 6
   },
   "vancouver/napier-st": {
     "name": "Napier St",
@@ -3132,8 +3132,8 @@
     "name": "Huntingdon Rd",
     "slug": "abbotsford/huntingdon-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-20T03:30:00Z",
-    "count": 1
+    "lastIncident": "2026-04-19T02:52:00Z",
+    "count": 2
   },
   "surrey/164th-st": {
     "name": "164th St",

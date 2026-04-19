@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-19T02:52:00Z_abbotsford/huntingdon-rd_abbotsford/mt-lehman-rd",
+      "timestamp": "2026-04-19T02:52:00Z",
+      "address": "HUNTINGDON RD & MT LEHMAN RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/huntingdon-rd",
+        "abbotsford/mt-lehman-rd"
+      ],
+      "streetNames": [
+        "Huntingdon Rd",
+        "Mt Lehman Rd"
+      ],
+      "pulsePointId": "2457173195"
+    },
+    {
       "id": "2026-04-10T15:58:00Z_abbotsford/mt-lehman-rd_abbotsford/automall-dr",
       "timestamp": "2026-04-10T15:58:00Z",
       "address": "MT LEHMAN RD & AUTOMALL DR",
@@ -77,6 +92,6 @@
       "pulsePointId": "2434362355"
     }
   ],
-  "lastIncident": "2026-04-10T15:58:00Z",
-  "count": 5
+  "lastIncident": "2026-04-19T02:52:00Z",
+  "count": 6
 }

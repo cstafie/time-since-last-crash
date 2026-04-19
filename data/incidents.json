@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-19T02:52:00Z_abbotsford/huntingdon-rd_abbotsford/mt-lehman-rd",
+    "timestamp": "2026-04-19T02:52:00Z",
+    "scrapedAt": "2026-04-19T03:42:28Z",
+    "address": "HUNTINGDON RD & MT LEHMAN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/huntingdon-rd",
+      "abbotsford/mt-lehman-rd"
+    ],
+    "streetNames": [
+      "Huntingdon Rd",
+      "Mt Lehman Rd"
+    ],
+    "pulsePointId": "2457173195"
+  },
+  {
     "id": "2026-04-19T00:30:00Z_new-westminster/richmond-st_new-westminster/alberta-st",
     "timestamp": "2026-04-19T00:30:00Z",
     "scrapedAt": "2026-04-19T02:15:42Z",
