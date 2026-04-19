@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-04-18T23:57:00Z_langley/production-way_langley/200th-st",
+      "timestamp": "2026-04-18T23:57:00Z",
+      "address": "PRODUCTION WAY & 200TH ST",
+      "city": "Langley",
+      "streets": [
+        "langley/production-way",
+        "langley/200th-st"
+      ],
+      "streetNames": [
+        "Production Way",
+        "200th St"
+      ],
+      "pulsePointId": "2457072739"
+    },
+    {
       "id": "2026-04-18T02:55:00Z_langley/200th-st",
       "timestamp": "2026-04-18T02:55:00Z",
       "address": "200TH ST",
@@ -190,6 +205,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-18T02:55:00Z",
-  "count": 13
+  "lastIncident": "2026-04-18T23:57:00Z",
+  "count": 14
 }

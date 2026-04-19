@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-18T23:57:00Z_langley/production-way_langley/200th-st",
+    "timestamp": "2026-04-18T23:57:00Z",
+    "scrapedAt": "2026-04-19T00:08:16Z",
+    "address": "PRODUCTION WAY & 200TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/production-way",
+      "langley/200th-st"
+    ],
+    "streetNames": [
+      "Production Way",
+      "200th St"
+    ],
+    "pulsePointId": "2457072739"
+  },
+  {
+    "id": "2026-04-18T23:45:00Z_burnaby/kingsway",
+    "timestamp": "2026-04-18T23:45:00Z",
+    "scrapedAt": "2026-04-19T00:08:16Z",
+    "address": "KINGSWAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/kingsway"
+    ],
+    "streetNames": [
+      "Kingsway"
+    ],
+    "pulsePointId": "2457066427"
+  },
+  {
     "id": "2026-04-18T23:33:00Z_langley/9782-mckinnon-cres",
     "timestamp": "2026-04-18T23:33:00Z",
     "scrapedAt": "2026-04-18T23:42:59Z",
