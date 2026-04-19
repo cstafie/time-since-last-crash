@@ -129,8 +129,8 @@
     "name": "Trans Canada Hwy",
     "slug": "chilliwack/trans-canada-hwy",
     "city": "Chilliwack",
-    "lastIncident": "2026-04-16T16:26:00Z",
-    "count": 7
+    "lastIncident": "2026-04-19T19:07:00Z",
+    "count": 8
   },
   "chilliwack/upper-prairie-rd": {
     "name": "Upper Prairie Rd",
@@ -598,8 +598,8 @@
     "name": "64th Ave",
     "slug": "surrey/64th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-14T14:47:00Z",
-    "count": 14
+    "lastIncident": "2026-04-19T19:11:00Z",
+    "count": 15
   },
   "surrey/72a-ave": {
     "name": "72a Ave",
@@ -1795,8 +1795,8 @@
     "name": "152nd St",
     "slug": "surrey/152nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-16T16:58:00Z",
-    "count": 15
+    "lastIncident": "2026-04-19T19:11:00Z",
+    "count": 16
   },
   "langley/20611-fraser-hwyste-111": {
     "name": "20611 Fraser Hwy,ste 111",

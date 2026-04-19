@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-19T19:11:00Z_surrey/64th-ave_surrey/152nd-st",
+    "timestamp": "2026-04-19T19:11:00Z",
+    "scrapedAt": "2026-04-19T19:14:58Z",
+    "address": "64TH AVE & 152ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/64th-ave",
+      "surrey/152nd-st"
+    ],
+    "streetNames": [
+      "64th Ave",
+      "152nd St"
+    ],
+    "pulsePointId": "2457549112"
+  },
+  {
+    "id": "2026-04-19T19:07:00Z_chilliwack/trans-canada-hwy",
+    "timestamp": "2026-04-19T19:07:00Z",
+    "scrapedAt": "2026-04-19T19:14:58Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2457547848"
+  },
+  {
     "id": "2026-04-19T18:16:00Z_new-westminster/4th-ave_new-westminster/8th-st",
     "timestamp": "2026-04-19T18:16:00Z",
     "scrapedAt": "2026-04-19T18:44:44Z",
