@@ -4,6 +4,21 @@
   "city": "New Westminster",
   "incidents": [
     {
+      "id": "2026-04-19T00:30:00Z_new-westminster/richmond-st_new-westminster/alberta-st",
+      "timestamp": "2026-04-19T00:30:00Z",
+      "address": "RICHMOND ST & ALBERTA ST",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/richmond-st",
+        "new-westminster/alberta-st"
+      ],
+      "streetNames": [
+        "Richmond St",
+        "Alberta St"
+      ],
+      "pulsePointId": "2457092366"
+    },
+    {
       "id": "2026-04-14T18:19:00Z_new-westminster/alberta-st",
       "timestamp": "2026-04-14T18:19:00Z",
       "address": "ALBERTA ST",
@@ -17,6 +32,6 @@
       "pulsePointId": "2454175960"
     }
   ],
-  "lastIncident": "2026-04-14T18:19:00Z",
-  "count": 1
+  "lastIncident": "2026-04-19T00:30:00Z",
+  "count": 2
 }

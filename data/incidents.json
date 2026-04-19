@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-19T00:30:00Z_new-westminster/richmond-st_new-westminster/alberta-st",
+    "timestamp": "2026-04-19T00:30:00Z",
+    "scrapedAt": "2026-04-19T02:15:42Z",
+    "address": "RICHMOND ST & ALBERTA ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/richmond-st",
+      "new-westminster/alberta-st"
+    ],
+    "streetNames": [
+      "Richmond St",
+      "Alberta St"
+    ],
+    "pulsePointId": "2457092366"
+  },
+  {
     "id": "2026-04-18T23:57:00Z_langley/production-way_langley/200th-st",
     "timestamp": "2026-04-18T23:57:00Z",
     "scrapedAt": "2026-04-19T00:08:16Z",
