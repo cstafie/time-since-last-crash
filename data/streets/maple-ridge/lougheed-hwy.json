@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-04-19T22:08:00Z_maple-ridge/lougheed-hwy_maple-ridge/tamarack-lane",
+      "timestamp": "2026-04-19T22:08:00Z",
+      "address": "LOUGHEED HWY & TAMARACK LANE",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/lougheed-hwy",
+        "maple-ridge/tamarack-lane"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "Tamarack Lane"
+      ],
+      "pulsePointId": "2457652777"
+    },
+    {
       "id": "2026-04-19T21:55:00Z_maple-ridge/kanaka-way_maple-ridge/lougheed-hwy",
       "timestamp": "2026-04-19T21:55:00Z",
       "address": "KANAKA WAY & LOUGHEED HWY",
@@ -135,6 +150,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-19T21:55:00Z",
-  "count": 9
+  "lastIncident": "2026-04-19T22:08:00Z",
+  "count": 10
 }

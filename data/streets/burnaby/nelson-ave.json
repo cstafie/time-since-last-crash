@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-04-19T22:27:00Z_burnaby/marine-dr_burnaby/nelson-ave",
+      "timestamp": "2026-04-19T22:27:00Z",
+      "address": "MARINE DR & NELSON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/marine-dr",
+        "burnaby/nelson-ave"
+      ],
+      "streetNames": [
+        "Marine Dr",
+        "Nelson Ave"
+      ],
+      "pulsePointId": "2457663861"
+    },
+    {
       "id": "2026-04-15T21:20:00Z_burnaby/nelson-ave_burnaby/bennett-st",
       "timestamp": "2026-04-15T21:20:00Z",
       "address": "NELSON AVE & BENNETT ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2436020332"
     }
   ],
-  "lastIncident": "2026-04-15T21:20:00Z",
-  "count": 2
+  "lastIncident": "2026-04-19T22:27:00Z",
+  "count": 3
 }

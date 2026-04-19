@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-04-19T22:37:00Z_surrey/68th-ave",
+    "timestamp": "2026-04-19T22:37:00Z",
+    "scrapedAt": "2026-04-19T22:43:02Z",
+    "address": "68TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/68th-ave"
+    ],
+    "streetNames": [
+      "68th Ave"
+    ],
+    "pulsePointId": "2457669901"
+  },
+  {
+    "id": "2026-04-19T22:27:00Z_burnaby/marine-dr_burnaby/nelson-ave",
+    "timestamp": "2026-04-19T22:27:00Z",
+    "scrapedAt": "2026-04-19T22:43:02Z",
+    "address": "MARINE DR & NELSON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/marine-dr",
+      "burnaby/nelson-ave"
+    ],
+    "streetNames": [
+      "Marine Dr",
+      "Nelson Ave"
+    ],
+    "pulsePointId": "2457663861"
+  },
+  {
+    "id": "2026-04-19T22:08:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-04-19T22:08:00Z",
+    "scrapedAt": "2026-04-19T22:43:02Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2457654583"
+  },
+  {
+    "id": "2026-04-19T22:08:00Z_maple-ridge/lougheed-hwy_maple-ridge/tamarack-lane",
+    "timestamp": "2026-04-19T22:08:00Z",
+    "scrapedAt": "2026-04-19T22:43:02Z",
+    "address": "LOUGHEED HWY & TAMARACK LANE",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/lougheed-hwy",
+      "maple-ridge/tamarack-lane"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "Tamarack Lane"
+    ],
+    "pulsePointId": "2457652777"
+  },
+  {
     "id": "2026-04-19T21:55:00Z_maple-ridge/kanaka-way_maple-ridge/lougheed-hwy",
     "timestamp": "2026-04-19T21:55:00Z",
     "scrapedAt": "2026-04-19T22:06:03Z",

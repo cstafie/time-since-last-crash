@@ -4,6 +4,19 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-19T22:08:00Z_abbotsford/trans-canada-hwy",
+      "timestamp": "2026-04-19T22:08:00Z",
+      "address": "TRANS CANADA HWY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2457654583"
+    },
+    {
       "id": "2026-04-18T14:59:00Z_abbotsford/sumas-way-onrp_abbotsford/trans-canada-hwy",
       "timestamp": "2026-04-18T14:59:00Z",
       "address": "SUMAS WAY ONRP & TRANS CANADA HWY",
@@ -302,6 +315,6 @@
       "pulsePointId": "2433793691"
     }
   ],
-  "lastIncident": "2026-04-18T14:59:00Z",
-  "count": 22
+  "lastIncident": "2026-04-19T22:08:00Z",
+  "count": 23
 }
