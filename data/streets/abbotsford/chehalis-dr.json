@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/chehalis-dr",
+  "name": "Chehalis Dr",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-04-19T09:30:00Z_abbotsford/chehalis-dr",
+      "timestamp": "2026-04-19T09:30:00Z",
+      "address": "CHEHALIS DR",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/chehalis-dr"
+      ],
+      "streetNames": [
+        "Chehalis Dr"
+      ],
+      "pulsePointId": "2457331821"
+    }
+  ],
+  "lastIncident": "2026-04-19T09:30:00Z",
+  "count": 1
+}

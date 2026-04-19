@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-19T09:30:00Z_abbotsford/chehalis-dr",
+    "timestamp": "2026-04-19T09:30:00Z",
+    "scrapedAt": "2026-04-19T09:44:29Z",
+    "address": "CHEHALIS DR",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/chehalis-dr"
+    ],
+    "streetNames": [
+      "Chehalis Dr"
+    ],
+    "pulsePointId": "2457331821"
+  },
+  {
     "id": "2026-04-19T05:39:00Z_vancouver/e-49th-ave_vancouver/victoria-dr",
     "timestamp": "2026-04-19T05:39:00Z",
     "scrapedAt": "2026-04-19T05:44:16Z",
