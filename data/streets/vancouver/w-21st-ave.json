@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/w-21st-ave",
+  "name": "W 21st Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-19T19:26:00Z_vancouver/laurel-st_vancouver/w-21st-ave",
+      "timestamp": "2026-04-19T19:26:00Z",
+      "address": "LAUREL ST & W 21ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/laurel-st",
+        "vancouver/w-21st-ave"
+      ],
+      "streetNames": [
+        "Laurel St",
+        "W 21st Ave"
+      ],
+      "pulsePointId": "2457557585"
+    }
+  ],
+  "lastIncident": "2026-04-19T19:26:00Z",
+  "count": 1
+}

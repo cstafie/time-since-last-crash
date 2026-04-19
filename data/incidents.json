@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-19T19:26:00Z_vancouver/laurel-st_vancouver/w-21st-ave",
+    "timestamp": "2026-04-19T19:26:00Z",
+    "scrapedAt": "2026-04-19T20:06:44Z",
+    "address": "LAUREL ST & W 21ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/laurel-st",
+      "vancouver/w-21st-ave"
+    ],
+    "streetNames": [
+      "Laurel St",
+      "W 21st Ave"
+    ],
+    "pulsePointId": "2457557585"
+  },
+  {
     "id": "2026-04-19T19:11:00Z_surrey/64th-ave_surrey/152nd-st",
     "timestamp": "2026-04-19T19:11:00Z",
     "scrapedAt": "2026-04-19T19:14:58Z",
