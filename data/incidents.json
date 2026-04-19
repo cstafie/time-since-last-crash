@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-19T05:39:00Z_vancouver/e-49th-ave_vancouver/victoria-dr",
+    "timestamp": "2026-04-19T05:39:00Z",
+    "scrapedAt": "2026-04-19T05:44:16Z",
+    "address": "E 49TH AVE & VICTORIA DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-49th-ave",
+      "vancouver/victoria-dr"
+    ],
+    "streetNames": [
+      "E 49th Ave",
+      "Victoria Dr"
+    ],
+    "pulsePointId": "2457253245"
+  },
+  {
+    "id": "2026-04-19T05:33:00Z_surrey/88th-ave_surrey/144th-st",
+    "timestamp": "2026-04-19T05:33:00Z",
+    "scrapedAt": "2026-04-19T05:44:16Z",
+    "address": "88TH AVE & 144TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/88th-ave",
+      "surrey/144th-st"
+    ],
+    "streetNames": [
+      "88th Ave",
+      "144th St"
+    ],
+    "pulsePointId": "2457250935"
+  },
+  {
     "id": "2026-04-19T02:52:00Z_abbotsford/huntingdon-rd_abbotsford/mt-lehman-rd",
     "timestamp": "2026-04-19T02:52:00Z",
     "scrapedAt": "2026-04-19T03:42:28Z",

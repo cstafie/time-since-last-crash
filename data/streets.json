@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-14T23:35:00Z",
-    "count": 14
+    "lastIncident": "2026-04-19T05:33:00Z",
+    "count": 15
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",
@@ -1501,8 +1501,8 @@
     "name": "144th St",
     "slug": "surrey/144th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-14T23:32:00Z",
-    "count": 5
+    "lastIncident": "2026-04-19T05:33:00Z",
+    "count": 6
   },
   "north-vancouver/seymour-blvd": {
     "name": "Seymour Blvd",
@@ -3069,15 +3069,15 @@
     "name": "E 49th Ave",
     "slug": "vancouver/e-49th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-17T23:40:00Z",
-    "count": 5
+    "lastIncident": "2026-04-19T05:39:00Z",
+    "count": 6
   },
   "vancouver/victoria-dr": {
     "name": "Victoria Dr",
     "slug": "vancouver/victoria-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-04-12T04:14:00Z",
-    "count": 7
+    "lastIncident": "2026-04-19T05:39:00Z",
+    "count": 8
   },
   "vancouver/e-60th-ave": {
     "name": "E 60th Ave",
