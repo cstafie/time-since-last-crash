@@ -325,8 +325,8 @@
     "name": "Lougheed Hwy",
     "slug": "maple-ridge/lougheed-hwy",
     "city": "Maple Ridge",
-    "lastIncident": "2026-04-13T17:58:00Z",
-    "count": 8
+    "lastIncident": "2026-04-19T21:55:00Z",
+    "count": 9
   },
   "mission/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -2852,8 +2852,8 @@
     "name": "Kanaka Way",
     "slug": "maple-ridge/kanaka-way",
     "city": "Maple Ridge",
-    "lastIncident": "2026-03-18T19:43:00Z",
-    "count": 1
+    "lastIncident": "2026-04-19T21:55:00Z",
+    "count": 2
   },
   "vancouver/w-45th-ave": {
     "name": "W 45th Ave",
