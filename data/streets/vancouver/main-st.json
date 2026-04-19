@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-19T15:02:00Z_vancouver/main-st_vancouver/se-marine-dr",
+      "timestamp": "2026-04-19T15:02:00Z",
+      "address": "MAIN ST & SE MARINE DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/main-st",
+        "vancouver/se-marine-dr"
+      ],
+      "streetNames": [
+        "Main St",
+        "Se Marine Dr"
+      ],
+      "pulsePointId": "2457427543"
+    },
+    {
       "id": "2026-04-17T15:08:00Z_vancouver/e-hastings-st_vancouver/main-st",
       "timestamp": "2026-04-17T15:08:00Z",
       "address": "E HASTINGS ST & MAIN ST",
@@ -266,6 +281,6 @@
       "pulsePointId": "2432937969"
     }
   ],
-  "lastIncident": "2026-04-17T15:08:00Z",
-  "count": 18
+  "lastIncident": "2026-04-19T15:02:00Z",
+  "count": 19
 }

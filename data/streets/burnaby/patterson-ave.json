@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-04-19T14:54:00Z_burnaby/willingdon-extn_burnaby/patterson-ave",
+      "timestamp": "2026-04-19T14:54:00Z",
+      "address": "WILLINGDON EXTN & PATTERSON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/willingdon-extn",
+        "burnaby/patterson-ave"
+      ],
+      "streetNames": [
+        "Willingdon Extn",
+        "Patterson Ave"
+      ],
+      "pulsePointId": "2457424185"
+    },
+    {
       "id": "2026-04-17T15:58:00Z_burnaby/rumble-st_burnaby/patterson-ave",
       "timestamp": "2026-04-17T15:58:00Z",
       "address": "RUMBLE ST & PATTERSON AVE",
@@ -49,6 +64,6 @@
       "pulsePointId": "2448106817"
     }
   ],
-  "lastIncident": "2026-04-17T15:58:00Z",
-  "count": 3
+  "lastIncident": "2026-04-19T14:54:00Z",
+  "count": 4
 }

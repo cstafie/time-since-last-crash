@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-19T15:02:00Z_vancouver/main-st_vancouver/se-marine-dr",
+    "timestamp": "2026-04-19T15:02:00Z",
+    "scrapedAt": "2026-04-19T15:11:11Z",
+    "address": "MAIN ST & SE MARINE DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st",
+      "vancouver/se-marine-dr"
+    ],
+    "streetNames": [
+      "Main St",
+      "Se Marine Dr"
+    ],
+    "pulsePointId": "2457427543"
+  },
+  {
+    "id": "2026-04-19T14:54:00Z_burnaby/willingdon-extn_burnaby/patterson-ave",
+    "timestamp": "2026-04-19T14:54:00Z",
+    "scrapedAt": "2026-04-19T15:11:11Z",
+    "address": "WILLINGDON EXTN & PATTERSON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/willingdon-extn",
+      "burnaby/patterson-ave"
+    ],
+    "streetNames": [
+      "Willingdon Extn",
+      "Patterson Ave"
+    ],
+    "pulsePointId": "2457424185"
+  },
+  {
     "id": "2026-04-19T13:43:00Z_mission/grand-st_mission/7th-ave",
     "timestamp": "2026-04-19T13:43:00Z",
     "scrapedAt": "2026-04-19T13:48:50Z",
