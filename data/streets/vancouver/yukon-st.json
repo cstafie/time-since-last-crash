@@ -1,6 +1,6 @@
 {
-  "slug": "vancouver/w-7th-ave",
-  "name": "W 7th Ave",
+  "slug": "vancouver/yukon-st",
+  "name": "Yukon St",
   "city": "Vancouver",
   "incidents": [
     {
@@ -32,23 +32,8 @@
         "W 7th Ave"
       ],
       "pulsePointId": "2457677523"
-    },
-    {
-      "id": "2026-04-09T22:25:00Z_vancouver/granville-st_vancouver/w-7th-ave",
-      "timestamp": "2026-04-09T22:25:00Z",
-      "address": "GRANVILLE ST & W 7TH AVE",
-      "city": "Vancouver",
-      "streets": [
-        "vancouver/granville-st",
-        "vancouver/w-7th-ave"
-      ],
-      "streetNames": [
-        "Granville St",
-        "W 7th Ave"
-      ],
-      "pulsePointId": "2451107823"
     }
   ],
   "lastIncident": "2026-04-19T22:52:00Z",
-  "count": 3
+  "count": 2
 }

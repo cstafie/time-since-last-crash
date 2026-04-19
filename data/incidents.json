@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-19T22:52:00Z_vancouver/w-7th-ave_vancouver/yukon-st",
+    "timestamp": "2026-04-19T22:52:00Z",
+    "scrapedAt": "2026-04-19T23:08:49Z",
+    "address": "W 7TH AVE & YUKON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-7th-ave",
+      "vancouver/yukon-st"
+    ],
+    "streetNames": [
+      "W 7th Ave",
+      "Yukon St"
+    ],
+    "pulsePointId": "2457677397"
+  },
+  {
+    "id": "2026-04-19T22:51:00Z_vancouver/yukon-st_vancouver/w-7th-ave",
+    "timestamp": "2026-04-19T22:51:00Z",
+    "scrapedAt": "2026-04-19T23:08:49Z",
+    "address": "YUKON ST & W 7TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/yukon-st",
+      "vancouver/w-7th-ave"
+    ],
+    "streetNames": [
+      "Yukon St",
+      "W 7th Ave"
+    ],
+    "pulsePointId": "2457677523"
+  },
+  {
     "id": "2026-04-19T22:37:00Z_surrey/68th-ave",
     "timestamp": "2026-04-19T22:37:00Z",
     "scrapedAt": "2026-04-19T22:43:02Z",
