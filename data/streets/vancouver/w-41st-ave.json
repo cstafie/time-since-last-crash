@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-20T21:48:00Z_vancouver/w-41st-ave_vancouver/alma-st",
+      "timestamp": "2026-04-20T21:48:00Z",
+      "address": "W 41ST AVE & ALMA ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-41st-ave",
+        "vancouver/alma-st"
+      ],
+      "streetNames": [
+        "W 41st Ave",
+        "Alma St"
+      ],
+      "pulsePointId": "2458306126"
+    },
+    {
       "id": "2026-04-18T19:20:00Z_vancouver/selkirk-st_vancouver/w-41st-ave",
       "timestamp": "2026-04-18T19:20:00Z",
       "address": "SELKIRK ST & W 41ST AVE",
@@ -107,6 +122,6 @@
       "pulsePointId": "2435256240"
     }
   ],
-  "lastIncident": "2026-04-18T19:20:00Z",
-  "count": 7
+  "lastIncident": "2026-04-20T21:48:00Z",
+  "count": 8
 }
