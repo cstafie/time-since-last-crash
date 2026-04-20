@@ -220,8 +220,8 @@
     "name": "272nd St",
     "slug": "langley/272nd-st",
     "city": "Langley",
-    "lastIncident": "2026-04-12T21:13:00Z",
-    "count": 7
+    "lastIncident": "2026-04-20T01:30:00Z",
+    "count": 8
   },
   "langley/273rd-st": {
     "name": "273rd St",
@@ -234,8 +234,8 @@
     "name": "43rd Ave",
     "slug": "langley/43rd-ave",
     "city": "Langley",
-    "lastIncident": "2026-03-07T09:04:00Z",
-    "count": 1
+    "lastIncident": "2026-04-20T01:30:00Z",
+    "count": 2
   },
   "langley/44th-ave": {
     "name": "44th Ave",
@@ -990,8 +990,8 @@
     "name": "Westminster Hwy",
     "slug": "richmond/westminster-hwy",
     "city": "Richmond",
-    "lastIncident": "2026-04-17T22:57:00Z",
-    "count": 5
+    "lastIncident": "2026-04-20T02:09:00Z",
+    "count": 6
   },
   "vancouver/e-37th-ave": {
     "name": "E 37th Ave",
@@ -7241,8 +7241,8 @@
     "name": "Blenheim St",
     "slug": "vancouver/blenheim-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-20T01:02:00Z",
-    "count": 1
+    "lastIncident": "2026-04-20T01:54:00Z",
+    "count": 2
   },
   "pitt-meadows/golden-ears-way": {
     "name": "Golden Ears Way",
