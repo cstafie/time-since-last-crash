@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-04-20T23:23:00Z_langley/56th-ave",
+    "timestamp": "2026-04-20T23:23:00Z",
+    "scrapedAt": "2026-04-20T23:43:49Z",
+    "address": "56TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/56th-ave"
+    ],
+    "streetNames": [
+      "56th Ave"
+    ],
+    "pulsePointId": "2458368505"
+  },
+  {
+    "id": "2026-04-20T23:19:00Z_surrey/176th-st_surrey/18th-ave",
+    "timestamp": "2026-04-20T23:19:00Z",
+    "scrapedAt": "2026-04-20T23:43:49Z",
+    "address": "176TH ST & 18TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/176th-st",
+      "surrey/18th-ave"
+    ],
+    "streetNames": [
+      "176th St",
+      "18th Ave"
+    ],
+    "pulsePointId": "2458367083"
+  },
+  {
+    "id": "2026-04-20T23:19:00Z_surrey/16th-ave_surrey/176th-st",
+    "timestamp": "2026-04-20T23:19:00Z",
+    "scrapedAt": "2026-04-20T23:43:49Z",
+    "address": "16TH AVE & 176TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/16th-ave",
+      "surrey/176th-st"
+    ],
+    "streetNames": [
+      "16th Ave",
+      "176th St"
+    ],
+    "pulsePointId": "2458366500"
+  },
+  {
     "id": "2026-04-20T22:55:00Z_maple-ridge/207th-st_maple-ridge/lougheed-hwy",
     "timestamp": "2026-04-20T22:55:00Z",
     "scrapedAt": "2026-04-20T23:12:40Z",
