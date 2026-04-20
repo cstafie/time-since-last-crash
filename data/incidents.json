@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-19T23:55:00Z_surrey/88th-ave_surrey/164th-st",
+    "timestamp": "2026-04-19T23:55:00Z",
+    "scrapedAt": "2026-04-20T00:09:15Z",
+    "address": "88TH AVE & 164TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/88th-ave",
+      "surrey/164th-st"
+    ],
+    "streetNames": [
+      "88th Ave",
+      "164th St"
+    ],
+    "pulsePointId": "2457715867"
+  },
+  {
     "id": "2026-04-19T23:17:00Z_surrey/tannery-rd_surrey/hwy-17-onrp",
     "timestamp": "2026-04-19T23:17:00Z",
     "scrapedAt": "2026-04-19T23:42:59Z",

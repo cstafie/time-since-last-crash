@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-19T05:33:00Z",
-    "count": 15
+    "lastIncident": "2026-04-19T23:55:00Z",
+    "count": 16
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",
@@ -3139,8 +3139,8 @@
     "name": "164th St",
     "slug": "surrey/164th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-16T21:15:00Z",
-    "count": 2
+    "lastIncident": "2026-04-19T23:55:00Z",
+    "count": 3
   },
   "burnaby/kensington-avenue-ofrp": {
     "name": "Kensington Avenue Ofrp",
