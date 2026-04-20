@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-20T22:55:00Z_maple-ridge/207th-st_maple-ridge/lougheed-hwy",
+    "timestamp": "2026-04-20T22:55:00Z",
+    "scrapedAt": "2026-04-20T23:12:40Z",
+    "address": "207TH ST & LOUGHEED HWY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/207th-st",
+      "maple-ridge/lougheed-hwy"
+    ],
+    "streetNames": [
+      "207th St",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2458349634"
+  },
+  {
     "id": "2026-04-20T21:48:00Z_vancouver/w-41st-ave_vancouver/alma-st",
     "timestamp": "2026-04-20T21:48:00Z",
     "scrapedAt": "2026-04-20T22:12:31Z",
