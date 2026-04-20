@@ -1,6 +1,6 @@
 {
-  "slug": "surrey/old-yale-rd",
-  "name": "Old Yale Rd",
+  "slug": "surrey/103rd-ave",
+  "name": "103rd Ave",
   "city": "Surrey",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "103rd Ave"
       ],
       "pulsePointId": "2457925088"
-    },
-    {
-      "id": "2026-04-04T00:47:00Z_surrey/old-yale-rd_surrey/mall-accs",
-      "timestamp": "2026-04-04T00:47:00Z",
-      "address": "OLD YALE RD & MALL ACCS",
-      "city": "Surrey",
-      "streets": [
-        "surrey/old-yale-rd",
-        "surrey/mall-accs"
-      ],
-      "streetNames": [
-        "Old Yale Rd",
-        "Mall Accs"
-      ],
-      "pulsePointId": "2447286857"
     }
   ],
   "lastIncident": "2026-04-20T08:24:00Z",
-  "count": 2
+  "count": 1
 }

@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-20T08:24:00Z_surrey/old-yale-rd_surrey/103rd-ave",
+    "timestamp": "2026-04-20T08:24:00Z",
+    "scrapedAt": "2026-04-20T08:39:46Z",
+    "address": "OLD YALE RD & 103RD AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/old-yale-rd",
+      "surrey/103rd-ave"
+    ],
+    "streetNames": [
+      "Old Yale Rd",
+      "103rd Ave"
+    ],
+    "pulsePointId": "2457925088"
+  },
+  {
+    "id": "2026-04-20T07:56:00Z_coquitlam/lougheed-hwy",
+    "timestamp": "2026-04-20T07:56:00Z",
+    "scrapedAt": "2026-04-20T08:39:46Z",
+    "address": "LOUGHEED HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2457917183"
+  },
+  {
     "id": "2026-04-20T05:58:00Z_surrey/king-george-blvd_surrey/62nd-ave",
     "timestamp": "2026-04-20T05:58:00Z",
     "scrapedAt": "2026-04-20T06:47:46Z",
