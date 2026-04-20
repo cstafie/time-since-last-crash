@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-20T05:58:00Z_surrey/king-george-blvd_surrey/62nd-ave",
+    "timestamp": "2026-04-20T05:58:00Z",
+    "scrapedAt": "2026-04-20T06:47:46Z",
+    "address": "KING GEORGE BLVD & 62ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/62nd-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "62nd Ave"
+    ],
+    "pulsePointId": "2457882854"
+  },
+  {
     "id": "2026-04-20T05:52:00Z_surrey/140th-st_surrey/108th-ave",
     "timestamp": "2026-04-20T05:52:00Z",
     "scrapedAt": "2026-04-20T05:57:19Z",
