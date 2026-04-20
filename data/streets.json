@@ -521,8 +521,8 @@
     "name": "108th Ave",
     "slug": "surrey/108th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-17T20:55:00Z",
-    "count": 11
+    "lastIncident": "2026-04-20T05:52:00Z",
+    "count": 12
   },
   "surrey/124th-st": {
     "name": "124th St",
@@ -556,8 +556,8 @@
     "name": "140th St",
     "slug": "surrey/140th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-18T00:28:00Z",
-    "count": 10
+    "lastIncident": "2026-04-20T05:52:00Z",
+    "count": 11
   },
   "surrey/141a-st": {
     "name": "141a St",
@@ -7256,6 +7256,13 @@
     "slug": "abbotsford/mccallum-road-ofrp",
     "city": "Abbotsford",
     "lastIncident": "2026-04-20T04:28:00Z",
+    "count": 1
+  },
+  "surrey/king-rd": {
+    "name": "King Rd",
+    "slug": "surrey/king-rd",
+    "city": "Surrey",
+    "lastIncident": "2026-04-20T04:54:00Z",
     "count": 1
   }
 }
