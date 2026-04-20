@@ -7236,5 +7236,19 @@
     "city": "Surrey",
     "lastIncident": "2026-04-19T23:17:00Z",
     "count": 1
+  },
+  "vancouver/blenheim-st": {
+    "name": "Blenheim St",
+    "slug": "vancouver/blenheim-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-20T01:02:00Z",
+    "count": 1
+  },
+  "pitt-meadows/golden-ears-way": {
+    "name": "Golden Ears Way",
+    "slug": "pitt-meadows/golden-ears-way",
+    "city": "Pitt Meadows",
+    "lastIncident": "2026-04-20T00:20:00Z",
+    "count": 1
   }
 }
