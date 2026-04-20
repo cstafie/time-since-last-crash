@@ -2110,8 +2110,8 @@
     "name": "Nelson St",
     "slug": "vancouver/nelson-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-11T07:04:00Z",
-    "count": 3
+    "lastIncident": "2026-04-20T13:57:00Z",
+    "count": 4
   },
   "abbotsford/mt-lehman-rd": {
     "name": "Mt Lehman Rd",
@@ -4511,8 +4511,8 @@
     "name": "Seymour St",
     "slug": "vancouver/seymour-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-09T00:09:00Z",
-    "count": 3
+    "lastIncident": "2026-04-20T13:57:00Z",
+    "count": 4
   },
   "surrey/72nd-ave": {
     "name": "72nd Ave",

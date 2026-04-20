@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-20T13:57:00Z_vancouver/seymour-st_vancouver/nelson-st",
+      "timestamp": "2026-04-20T13:57:00Z",
+      "address": "SEYMOUR ST & NELSON ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/seymour-st",
+        "vancouver/nelson-st"
+      ],
+      "streetNames": [
+        "Seymour St",
+        "Nelson St"
+      ],
+      "pulsePointId": "2458014558"
+    },
+    {
       "id": "2026-04-09T00:09:00Z_vancouver/w-georgia-st_vancouver/seymour-st",
       "timestamp": "2026-04-09T00:09:00Z",
       "address": "W GEORGIA ST & SEYMOUR ST",
@@ -49,6 +64,6 @@
       "pulsePointId": "2444548216"
     }
   ],
-  "lastIncident": "2026-04-09T00:09:00Z",
-  "count": 3
+  "lastIncident": "2026-04-20T13:57:00Z",
+  "count": 4
 }
