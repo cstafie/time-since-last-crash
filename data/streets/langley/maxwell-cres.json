@@ -1,6 +1,6 @@
 {
-  "slug": "langley/glover-rd",
-  "name": "Glover Rd",
+  "slug": "langley/maxwell-cres",
+  "name": "Maxwell Cres",
   "city": "Langley",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Maxwell Cres"
       ],
       "pulsePointId": "2458121738"
-    },
-    {
-      "id": "2026-04-02T11:43:00Z_langley/216th-st_langley/glover-rd",
-      "timestamp": "2026-04-02T11:43:00Z",
-      "address": "216TH ST & GLOVER RD",
-      "city": "Langley",
-      "streets": [
-        "langley/216th-st",
-        "langley/glover-rd"
-      ],
-      "streetNames": [
-        "216th St",
-        "Glover Rd"
-      ],
-      "pulsePointId": "2446246891"
     }
   ],
   "lastIncident": "2026-04-20T17:02:00Z",
-  "count": 2
+  "count": 1
 }

@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-20T17:02:00Z_langley/glover-rd_langley/maxwell-cres",
+    "timestamp": "2026-04-20T17:02:00Z",
+    "scrapedAt": "2026-04-20T17:20:55Z",
+    "address": "GLOVER RD & MAXWELL CRES",
+    "city": "Langley",
+    "streets": [
+      "langley/glover-rd",
+      "langley/maxwell-cres"
+    ],
+    "streetNames": [
+      "Glover Rd",
+      "Maxwell Cres"
+    ],
+    "pulsePointId": "2458121738"
+  },
+  {
+    "id": "2026-04-20T16:46:00Z_chilliwack/camp-river-rd",
+    "timestamp": "2026-04-20T16:46:00Z",
+    "scrapedAt": "2026-04-20T17:20:55Z",
+    "address": "CAMP RIVER RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/camp-river-rd"
+    ],
+    "streetNames": [
+      "Camp River Rd"
+    ],
+    "pulsePointId": "2458111153"
+  },
+  {
     "id": "2026-04-20T13:57:00Z_vancouver/seymour-st_vancouver/nelson-st",
     "timestamp": "2026-04-20T13:57:00Z",
     "scrapedAt": "2026-04-20T14:13:20Z",
