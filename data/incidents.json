@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-21T18:34:00Z_vancouver/e-4th-ave",
+    "timestamp": "2026-04-21T18:34:00Z",
+    "scrapedAt": "2026-04-21T18:48:28Z",
+    "address": "E 4TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-4th-ave"
+    ],
+    "streetNames": [
+      "E 4th Ave"
+    ],
+    "pulsePointId": "2458852346"
+  },
+  {
     "id": "2026-04-21T15:24:00Z_surrey/hwy-99",
     "timestamp": "2026-04-21T15:24:00Z",
     "scrapedAt": "2026-04-21T15:31:59Z",
