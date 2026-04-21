@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-21T08:05:00Z_richmond/george-massey-tunl",
+    "timestamp": "2026-04-21T08:05:00Z",
+    "scrapedAt": "2026-04-21T08:11:32Z",
+    "address": "GEORGE MASSEY TUNL",
+    "city": "Richmond",
+    "streets": [
+      "richmond/george-massey-tunl"
+    ],
+    "streetNames": [
+      "George Massey Tunl"
+    ],
+    "pulsePointId": "2458596993"
+  },
+  {
     "id": "2026-04-21T05:49:00Z_vancouver/beatty-st",
     "timestamp": "2026-04-21T05:49:00Z",
     "scrapedAt": "2026-04-21T06:31:15Z",
