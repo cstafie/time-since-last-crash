@@ -7306,5 +7306,19 @@
     "city": "Mission",
     "lastIncident": "2026-04-20T23:21:00Z",
     "count": 1
+  },
+  "burnaby/duthie-ave": {
+    "name": "Duthie Ave",
+    "slug": "burnaby/duthie-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-04-21T01:10:00Z",
+    "count": 1
+  },
+  "burnaby/curtis-st": {
+    "name": "Curtis St",
+    "slug": "burnaby/curtis-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-04-21T01:10:00Z",
+    "count": 1
   }
 }

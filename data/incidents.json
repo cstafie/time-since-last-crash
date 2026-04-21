@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-21T01:10:00Z_burnaby/duthie-ave_burnaby/curtis-st",
+    "timestamp": "2026-04-21T01:10:00Z",
+    "scrapedAt": "2026-04-21T02:14:50Z",
+    "address": "DUTHIE AVE & CURTIS ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/duthie-ave",
+      "burnaby/curtis-st"
+    ],
+    "streetNames": [
+      "Duthie Ave",
+      "Curtis St"
+    ],
+    "pulsePointId": "2458432843"
+  },
+  {
     "id": "2026-04-21T00:54:00Z_langley/64th-ave_langley/200th-st",
     "timestamp": "2026-04-21T00:54:00Z",
     "scrapedAt": "2026-04-21T01:05:47Z",
