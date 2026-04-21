@@ -7341,5 +7341,19 @@
     "city": "Port Coquitlam",
     "lastIncident": "2026-04-21T10:47:00Z",
     "count": 1
+  },
+  "richmond/garry-st": {
+    "name": "Garry St",
+    "slug": "richmond/garry-st",
+    "city": "Richmond",
+    "lastIncident": "2026-04-21T14:34:00Z",
+    "count": 1
+  },
+  "richmond/railway-ave": {
+    "name": "Railway Ave",
+    "slug": "richmond/railway-ave",
+    "city": "Richmond",
+    "lastIncident": "2026-04-21T14:34:00Z",
+    "count": 1
   }
 }

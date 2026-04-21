@@ -1,0 +1,24 @@
+{
+  "slug": "richmond/railway-ave",
+  "name": "Railway Ave",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-04-21T14:34:00Z_richmond/garry-st_richmond/railway-ave",
+      "timestamp": "2026-04-21T14:34:00Z",
+      "address": "GARRY ST & RAILWAY AVE",
+      "city": "Richmond",
+      "streets": [
+        "richmond/garry-st",
+        "richmond/railway-ave"
+      ],
+      "streetNames": [
+        "Garry St",
+        "Railway Ave"
+      ],
+      "pulsePointId": "2458715405"
+    }
+  ],
+  "lastIncident": "2026-04-21T14:34:00Z",
+  "count": 1
+}
