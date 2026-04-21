@@ -647,8 +647,8 @@
     "name": "96th Ave",
     "slug": "surrey/96th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-18T21:36:00Z",
-    "count": 16
+    "lastIncident": "2026-04-21T14:54:00Z",
+    "count": 17
   },
   "surrey/bolivar-rd": {
     "name": "Bolivar Rd",
@@ -885,8 +885,8 @@
     "name": "176th St",
     "slug": "surrey/176th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-20T23:19:00Z",
-    "count": 17
+    "lastIncident": "2026-04-21T14:54:00Z",
+    "count": 19
   },
   "surrey/100th-ave": {
     "name": "100th Ave",
@@ -4238,8 +4238,8 @@
     "name": "Hwy 99",
     "slug": "surrey/hwy-99",
     "city": "Surrey",
-    "lastIncident": "2026-03-27T23:00:00Z",
-    "count": 1
+    "lastIncident": "2026-04-21T15:24:00Z",
+    "count": 2
   },
   "surrey/golden-ears-conn": {
     "name": "Golden Ears Conn",

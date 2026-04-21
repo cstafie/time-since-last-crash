@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-04-21T15:24:00Z_surrey/hwy-99",
+    "timestamp": "2026-04-21T15:24:00Z",
+    "scrapedAt": "2026-04-21T15:31:59Z",
+    "address": "HWY 99",
+    "city": "Surrey",
+    "streets": [
+      "surrey/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2458739608"
+  },
+  {
+    "id": "2026-04-21T14:54:00Z_surrey/96th-ave_surrey/176th-st",
+    "timestamp": "2026-04-21T14:54:00Z",
+    "scrapedAt": "2026-04-21T15:31:59Z",
+    "address": "96TH AVE & 176TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/96th-ave",
+      "surrey/176th-st"
+    ],
+    "streetNames": [
+      "96th Ave",
+      "176th St"
+    ],
+    "pulsePointId": "2458726423"
+  },
+  {
+    "id": "2026-04-21T14:53:00Z_surrey/176th-st",
+    "timestamp": "2026-04-21T14:53:00Z",
+    "scrapedAt": "2026-04-21T15:31:59Z",
+    "address": "176TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/176th-st"
+    ],
+    "streetNames": [
+      "176th St"
+    ],
+    "pulsePointId": "2458725735"
+  },
+  {
     "id": "2026-04-21T14:34:00Z_richmond/garry-st_richmond/railway-ave",
     "timestamp": "2026-04-21T14:34:00Z",
     "scrapedAt": "2026-04-21T14:57:44Z",
