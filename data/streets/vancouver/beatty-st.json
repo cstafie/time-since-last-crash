@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/beatty-st",
+  "name": "Beatty St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-21T05:49:00Z_vancouver/beatty-st",
+      "timestamp": "2026-04-21T05:49:00Z",
+      "address": "BEATTY ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/beatty-st"
+      ],
+      "streetNames": [
+        "Beatty St"
+      ],
+      "pulsePointId": "2458559572"
+    }
+  ],
+  "lastIncident": "2026-04-21T05:49:00Z",
+  "count": 1
+}

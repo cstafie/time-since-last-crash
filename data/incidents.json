@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-21T05:49:00Z_vancouver/beatty-st",
+    "timestamp": "2026-04-21T05:49:00Z",
+    "scrapedAt": "2026-04-21T06:31:15Z",
+    "address": "BEATTY ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/beatty-st"
+    ],
+    "streetNames": [
+      "Beatty St"
+    ],
+    "pulsePointId": "2458559572"
+  },
+  {
     "id": "2026-04-21T04:48:00Z_surrey/140th-st_surrey/104th-ave",
     "timestamp": "2026-04-21T04:48:00Z",
     "scrapedAt": "2026-04-21T04:55:14Z",
