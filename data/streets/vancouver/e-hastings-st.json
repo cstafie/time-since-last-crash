@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-21T00:11:00Z_vancouver/gore-ave_vancouver/e-hastings-st",
+      "timestamp": "2026-04-21T00:11:00Z",
+      "address": "GORE AVE & E HASTINGS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/gore-ave",
+        "vancouver/e-hastings-st"
+      ],
+      "streetNames": [
+        "Gore Ave",
+        "E Hastings St"
+      ],
+      "pulsePointId": "2458397814"
+    },
+    {
       "id": "2026-04-17T15:08:00Z_vancouver/e-hastings-st_vancouver/main-st",
       "timestamp": "2026-04-17T15:08:00Z",
       "address": "E HASTINGS ST & MAIN ST",
@@ -210,6 +225,6 @@
       "pulsePointId": "2433305056"
     }
   ],
-  "lastIncident": "2026-04-17T15:08:00Z",
-  "count": 14
+  "lastIncident": "2026-04-21T00:11:00Z",
+  "count": 15
 }

@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-04-21T00:54:00Z_langley/64th-ave_langley/200th-st",
+      "timestamp": "2026-04-21T00:54:00Z",
+      "address": "64TH AVE & 200TH ST",
+      "city": "Langley",
+      "streets": [
+        "langley/64th-ave",
+        "langley/200th-st"
+      ],
+      "streetNames": [
+        "64th Ave",
+        "200th St"
+      ],
+      "pulsePointId": "2458423664"
+    },
+    {
       "id": "2026-04-18T23:57:00Z_langley/production-way_langley/200th-st",
       "timestamp": "2026-04-18T23:57:00Z",
       "address": "PRODUCTION WAY & 200TH ST",
@@ -205,6 +220,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-18T23:57:00Z",
-  "count": 14
+  "lastIncident": "2026-04-21T00:54:00Z",
+  "count": 15
 }

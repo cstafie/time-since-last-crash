@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-21T00:54:00Z_langley/64th-ave_langley/200th-st",
+    "timestamp": "2026-04-21T00:54:00Z",
+    "scrapedAt": "2026-04-21T01:05:47Z",
+    "address": "64TH AVE & 200TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/64th-ave",
+      "langley/200th-st"
+    ],
+    "streetNames": [
+      "64th Ave",
+      "200th St"
+    ],
+    "pulsePointId": "2458423664"
+  },
+  {
+    "id": "2026-04-21T00:11:00Z_vancouver/gore-ave_vancouver/e-hastings-st",
+    "timestamp": "2026-04-21T00:11:00Z",
+    "scrapedAt": "2026-04-21T01:05:47Z",
+    "address": "GORE AVE & E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/gore-ave",
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "Gore Ave",
+      "E Hastings St"
+    ],
+    "pulsePointId": "2458397814"
+  },
+  {
     "id": "2026-04-20T23:48:00Z_langley/201st-st_langley/96th-ave",
     "timestamp": "2026-04-20T23:48:00Z",
     "scrapedAt": "2026-04-21T00:11:55Z",
