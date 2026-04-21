@@ -1,6 +1,6 @@
 {
-  "slug": "port-coquitlam/coast-meridian-rd",
-  "name": "Coast Meridian Rd",
+  "slug": "port-coquitlam/lougheed-meridian-conn",
+  "name": "Lougheed Meridian Conn",
   "city": "Port Coquitlam",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Coast Meridian Rd"
       ],
       "pulsePointId": "2458635050"
-    },
-    {
-      "id": "2026-04-17T06:00:00Z_port-coquitlam/prairie-ave_port-coquitlam/coast-meridian-rd",
-      "timestamp": "2026-04-17T06:00:00Z",
-      "address": "PRAIRIE AVE & COAST MERIDIAN RD",
-      "city": "Port Coquitlam",
-      "streets": [
-        "port-coquitlam/prairie-ave",
-        "port-coquitlam/coast-meridian-rd"
-      ],
-      "streetNames": [
-        "Prairie Ave",
-        "Coast Meridian Rd"
-      ],
-      "pulsePointId": "2455929322"
     }
   ],
   "lastIncident": "2026-04-21T10:47:00Z",
-  "count": 2
+  "count": 1
 }

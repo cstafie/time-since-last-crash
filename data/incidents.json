@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-21T10:47:00Z_port-coquitlam/lougheed-meridian-conn_port-coquitlam/coast-meridian-rd",
+    "timestamp": "2026-04-21T10:47:00Z",
+    "scrapedAt": "2026-04-21T11:23:25Z",
+    "address": "LOUGHEED MERIDIAN CONN & COAST MERIDIAN RD",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/lougheed-meridian-conn",
+      "port-coquitlam/coast-meridian-rd"
+    ],
+    "streetNames": [
+      "Lougheed Meridian Conn",
+      "Coast Meridian Rd"
+    ],
+    "pulsePointId": "2458635050"
+  },
+  {
     "id": "2026-04-21T08:05:00Z_richmond/george-massey-tunl",
     "timestamp": "2026-04-21T08:05:00Z",
     "scrapedAt": "2026-04-21T08:11:32Z",
