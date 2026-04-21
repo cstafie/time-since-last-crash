@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-21T22:42:00Z_langley/48th-ave",
+    "timestamp": "2026-04-21T22:42:00Z",
+    "scrapedAt": "2026-04-21T23:10:57Z",
+    "address": "48TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/48th-ave"
+    ],
+    "streetNames": [
+      "48th Ave"
+    ],
+    "pulsePointId": "2459008504"
+  },
+  {
     "id": "2026-04-21T18:34:00Z_vancouver/e-4th-ave",
     "timestamp": "2026-04-21T18:34:00Z",
     "scrapedAt": "2026-04-21T18:48:28Z",

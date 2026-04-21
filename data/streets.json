@@ -7355,5 +7355,12 @@
     "city": "Richmond",
     "lastIncident": "2026-04-21T14:34:00Z",
     "count": 1
+  },
+  "langley/48th-ave": {
+    "name": "48th Ave",
+    "slug": "langley/48th-ave",
+    "city": "Langley",
+    "lastIncident": "2026-04-21T22:42:00Z",
+    "count": 1
   }
 }
