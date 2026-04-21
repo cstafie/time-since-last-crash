@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-21T04:48:00Z_surrey/140th-st_surrey/104th-ave",
+    "timestamp": "2026-04-21T04:48:00Z",
+    "scrapedAt": "2026-04-21T04:55:14Z",
+    "address": "140TH ST & 104TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/140th-st",
+      "surrey/104th-ave"
+    ],
+    "streetNames": [
+      "140th St",
+      "104th Ave"
+    ],
+    "pulsePointId": "2458537508"
+  },
+  {
+    "id": "2026-04-21T04:02:00Z_vancouver/w-16th-ave",
+    "timestamp": "2026-04-21T04:02:00Z",
+    "scrapedAt": "2026-04-21T04:55:14Z",
+    "address": "W 16TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-16th-ave"
+    ],
+    "streetNames": [
+      "W 16th Ave"
+    ],
+    "pulsePointId": "2458520028"
+  },
+  {
     "id": "2026-04-21T03:22:00Z_surrey/scott-rd",
     "timestamp": "2026-04-21T03:22:00Z",
     "scrapedAt": "2026-04-21T03:40:38Z",

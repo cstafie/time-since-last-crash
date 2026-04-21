@@ -556,8 +556,8 @@
     "name": "140th St",
     "slug": "surrey/140th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-20T05:52:00Z",
-    "count": 11
+    "lastIncident": "2026-04-21T04:48:00Z",
+    "count": 12
   },
   "surrey/141a-st": {
     "name": "141a St",
@@ -1312,8 +1312,8 @@
     "name": "104th Ave",
     "slug": "surrey/104th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-08T21:23:00Z",
-    "count": 14
+    "lastIncident": "2026-04-21T04:48:00Z",
+    "count": 15
   },
   "surrey/122nd-st": {
     "name": "122nd St",
@@ -1956,8 +1956,8 @@
     "name": "W 16th Ave",
     "slug": "vancouver/w-16th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-12T07:16:00Z",
-    "count": 6
+    "lastIncident": "2026-04-21T04:02:00Z",
+    "count": 7
   },
   "vancouver/dunbar-st": {
     "name": "Dunbar St",

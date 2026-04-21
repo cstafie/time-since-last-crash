@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-04-21T04:48:00Z_surrey/140th-st_surrey/104th-ave",
+      "timestamp": "2026-04-21T04:48:00Z",
+      "address": "140TH ST & 104TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/140th-st",
+        "surrey/104th-ave"
+      ],
+      "streetNames": [
+        "140th St",
+        "104th Ave"
+      ],
+      "pulsePointId": "2458537508"
+    },
+    {
       "id": "2026-04-08T21:23:00Z_surrey/104th-ave_surrey/whalley-blvd",
       "timestamp": "2026-04-08T21:23:00Z",
       "address": "104TH AVE & WHALLEY BLVD",
@@ -209,6 +224,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-08T21:23:00Z",
-  "count": 14
+  "lastIncident": "2026-04-21T04:48:00Z",
+  "count": 15
 }
