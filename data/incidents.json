@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-21T13:11:00Z_delta/hwy-99",
+    "timestamp": "2026-04-21T13:11:00Z",
+    "scrapedAt": "2026-04-21T13:29:33Z",
+    "address": "HWY 99",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2458681781"
+  },
+  {
     "id": "2026-04-21T10:47:00Z_port-coquitlam/lougheed-meridian-conn_port-coquitlam/coast-meridian-rd",
     "timestamp": "2026-04-21T10:47:00Z",
     "scrapedAt": "2026-04-21T11:23:25Z",
