@@ -521,8 +521,8 @@
     "name": "108th Ave",
     "slug": "surrey/108th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-20T05:52:00Z",
-    "count": 12
+    "lastIncident": "2026-04-22T09:00:00Z",
+    "count": 13
   },
   "surrey/124th-st": {
     "name": "124th St",
@@ -556,8 +556,8 @@
     "name": "140th St",
     "slug": "surrey/140th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-21T04:48:00Z",
-    "count": 12
+    "lastIncident": "2026-04-22T09:00:00Z",
+    "count": 13
   },
   "surrey/141a-st": {
     "name": "141a St",

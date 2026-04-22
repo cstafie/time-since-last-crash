@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-22T09:00:00Z_surrey/140th-st_surrey/108th-ave",
+    "timestamp": "2026-04-22T09:00:00Z",
+    "scrapedAt": "2026-04-22T09:59:34Z",
+    "address": "140TH ST & 108TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/140th-st",
+      "surrey/108th-ave"
+    ],
+    "streetNames": [
+      "140th St",
+      "108th Ave"
+    ],
+    "pulsePointId": "2459256531"
+  },
+  {
     "id": "2026-04-22T08:11:00Z_west-vancouver/cypress-bowl-rd",
     "timestamp": "2026-04-22T08:11:00Z",
     "scrapedAt": "2026-04-22T09:01:33Z",
