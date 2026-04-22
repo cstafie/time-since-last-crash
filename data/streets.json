@@ -766,8 +766,8 @@
     "name": "Oak St",
     "slug": "vancouver/oak-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-16T22:46:00Z",
-    "count": 11
+    "lastIncident": "2026-04-22T18:56:00Z",
+    "count": 12
   },
   "vancouver/w-12th-ave": {
     "name": "W 12th Ave",
@@ -1795,8 +1795,8 @@
     "name": "152nd St",
     "slug": "surrey/152nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-19T19:11:00Z",
-    "count": 16
+    "lastIncident": "2026-04-22T19:09:00Z",
+    "count": 17
   },
   "langley/20611-fraser-hwyste-111": {
     "name": "20611 Fraser Hwy,ste 111",
@@ -3713,8 +3713,8 @@
     "name": "W 57th Ave",
     "slug": "vancouver/w-57th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-18T20:52:00Z",
-    "count": 5
+    "lastIncident": "2026-04-22T18:56:00Z",
+    "count": 6
   },
   "richmond/lansdowne-rd": {
     "name": "Lansdowne Rd",
