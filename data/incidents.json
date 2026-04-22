@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-22T16:29:00Z_chilliwack/prest-rd_chilliwack/chilliwack-central-rd",
+    "timestamp": "2026-04-22T16:29:00Z",
+    "scrapedAt": "2026-04-22T16:46:45Z",
+    "address": "PREST RD & CHILLIWACK CENTRAL RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/prest-rd",
+      "chilliwack/chilliwack-central-rd"
+    ],
+    "streetNames": [
+      "Prest Rd",
+      "Chilliwack Central Rd"
+    ],
+    "pulsePointId": "2459414134"
+  },
+  {
     "id": "2026-04-22T16:15:00Z_vancouver/w-10th-ave",
     "timestamp": "2026-04-22T16:15:00Z",
     "scrapedAt": "2026-04-22T16:20:07Z",
