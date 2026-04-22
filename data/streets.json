@@ -955,8 +955,8 @@
     "name": "Shell Rd",
     "slug": "richmond/shell-rd",
     "city": "Richmond",
-    "lastIncident": "2026-03-20T22:26:00Z",
-    "count": 2
+    "lastIncident": "2026-04-22T22:16:00Z",
+    "count": 3
   },
   "surrey/152nd-street-ofrp": {
     "name": "152nd Street Ofrp",
@@ -1200,8 +1200,8 @@
     "name": "Se Marine Dr",
     "slug": "vancouver/se-marine-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-04-19T15:02:00Z",
-    "count": 3
+    "lastIncident": "2026-04-22T22:11:00Z",
+    "count": 4
   },
   "vancouver/kerr-st": {
     "name": "Kerr St",
@@ -7424,6 +7424,13 @@
     "slug": "surrey/101a-ave",
     "city": "Surrey",
     "lastIncident": "2026-04-22T20:33:00Z",
+    "count": 1
+  },
+  "vancouver/borden-st": {
+    "name": "Borden St",
+    "slug": "vancouver/borden-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-22T22:11:00Z",
     "count": 1
   }
 }

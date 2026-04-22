@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-22T22:16:00Z_richmond/shell-rd",
+    "timestamp": "2026-04-22T22:16:00Z",
+    "scrapedAt": "2026-04-22T22:44:33Z",
+    "address": "SHELL RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/shell-rd"
+    ],
+    "streetNames": [
+      "Shell Rd"
+    ],
+    "pulsePointId": "2459600648"
+  },
+  {
+    "id": "2026-04-22T22:11:00Z_vancouver/se-marine-dr_vancouver/borden-st",
+    "timestamp": "2026-04-22T22:11:00Z",
+    "scrapedAt": "2026-04-22T22:44:33Z",
+    "address": "SE MARINE DR & BORDEN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/se-marine-dr",
+      "vancouver/borden-st"
+    ],
+    "streetNames": [
+      "Se Marine Dr",
+      "Borden St"
+    ],
+    "pulsePointId": "2459597242"
+  },
+  {
     "id": "2026-04-22T21:58:00Z_surrey/128th-st",
     "timestamp": "2026-04-22T21:58:00Z",
     "scrapedAt": "2026-04-22T22:13:01Z",

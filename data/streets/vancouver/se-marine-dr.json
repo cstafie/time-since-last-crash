@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-22T22:11:00Z_vancouver/se-marine-dr_vancouver/borden-st",
+      "timestamp": "2026-04-22T22:11:00Z",
+      "address": "SE MARINE DR & BORDEN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/se-marine-dr",
+        "vancouver/borden-st"
+      ],
+      "streetNames": [
+        "Se Marine Dr",
+        "Borden St"
+      ],
+      "pulsePointId": "2459597242"
+    },
+    {
       "id": "2026-04-19T15:02:00Z_vancouver/main-st_vancouver/se-marine-dr",
       "timestamp": "2026-04-19T15:02:00Z",
       "address": "MAIN ST & SE MARINE DR",
@@ -46,6 +61,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-19T15:02:00Z",
-  "count": 3
+  "lastIncident": "2026-04-22T22:11:00Z",
+  "count": 4
 }
