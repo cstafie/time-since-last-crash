@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-22T21:15:00Z_vancouver/fir-st_vancouver/w-16th-ave",
+      "timestamp": "2026-04-22T21:15:00Z",
+      "address": "FIR ST & W 16TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/fir-st",
+        "vancouver/w-16th-ave"
+      ],
+      "streetNames": [
+        "Fir St",
+        "W 16th Ave"
+      ],
+      "pulsePointId": "2459569268"
+    },
+    {
       "id": "2026-04-21T04:02:00Z_vancouver/w-16th-ave",
       "timestamp": "2026-04-21T04:02:00Z",
       "address": "W 16TH AVE",
@@ -103,6 +118,6 @@
       "pulsePointId": "2433803079"
     }
   ],
-  "lastIncident": "2026-04-21T04:02:00Z",
-  "count": 7
+  "lastIncident": "2026-04-22T21:15:00Z",
+  "count": 8
 }

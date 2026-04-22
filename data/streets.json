@@ -1956,8 +1956,8 @@
     "name": "W 16th Ave",
     "slug": "vancouver/w-16th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-21T04:02:00Z",
-    "count": 7
+    "lastIncident": "2026-04-22T21:15:00Z",
+    "count": 8
   },
   "vancouver/dunbar-st": {
     "name": "Dunbar St",
@@ -2194,8 +2194,8 @@
     "name": "Fir St",
     "slug": "vancouver/fir-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-27T07:41:00Z",
-    "count": 2
+    "lastIncident": "2026-04-22T21:15:00Z",
+    "count": 3
   },
   "vancouver/w-11th-ave": {
     "name": "W 11th Ave",
