@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/balfour-dr",
+  "name": "Balfour Dr",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-04-22T01:40:00Z_abbotsford/clearbrook-rd_abbotsford/balfour-dr",
+      "timestamp": "2026-04-22T01:40:00Z",
+      "address": "CLEARBROOK RD & BALFOUR DR",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/clearbrook-rd",
+        "abbotsford/balfour-dr"
+      ],
+      "streetNames": [
+        "Clearbrook Rd",
+        "Balfour Dr"
+      ],
+      "pulsePointId": "2459109601"
+    }
+  ],
+  "lastIncident": "2026-04-22T01:40:00Z",
+  "count": 1
+}

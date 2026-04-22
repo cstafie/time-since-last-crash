@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/elsom-ave",
+  "name": "Elsom Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-04-22T01:22:00Z_burnaby/elsom-ave",
+      "timestamp": "2026-04-22T01:22:00Z",
+      "address": "ELSOM AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/elsom-ave"
+      ],
+      "streetNames": [
+        "Elsom Ave"
+      ],
+      "pulsePointId": "2459100987"
+    }
+  ],
+  "lastIncident": "2026-04-22T01:22:00Z",
+  "count": 1
+}

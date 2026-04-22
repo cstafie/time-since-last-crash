@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-22T01:40:00Z_abbotsford/clearbrook-rd_abbotsford/balfour-dr",
+      "timestamp": "2026-04-22T01:40:00Z",
+      "address": "CLEARBROOK RD & BALFOUR DR",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/clearbrook-rd",
+        "abbotsford/balfour-dr"
+      ],
+      "streetNames": [
+        "Clearbrook Rd",
+        "Balfour Dr"
+      ],
+      "pulsePointId": "2459109601"
+    },
+    {
       "id": "2026-04-15T02:11:00Z_abbotsford/clearbrook-rd_abbotsford/south-fraser-way",
       "timestamp": "2026-04-15T02:11:00Z",
       "address": "CLEARBROOK RD & SOUTH FRASER WAY",
@@ -107,6 +122,6 @@
       "pulsePointId": "2433749907"
     }
   ],
-  "lastIncident": "2026-04-15T02:11:00Z",
-  "count": 7
+  "lastIncident": "2026-04-22T01:40:00Z",
+  "count": 8
 }

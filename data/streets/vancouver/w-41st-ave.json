@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-22T01:43:00Z_vancouver/cypress-st_vancouver/w-41st-ave",
+      "timestamp": "2026-04-22T01:43:00Z",
+      "address": "CYPRESS ST & W 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/cypress-st",
+        "vancouver/w-41st-ave"
+      ],
+      "streetNames": [
+        "Cypress St",
+        "W 41st Ave"
+      ],
+      "pulsePointId": "2459110563"
+    },
+    {
       "id": "2026-04-20T21:48:00Z_vancouver/w-41st-ave_vancouver/alma-st",
       "timestamp": "2026-04-20T21:48:00Z",
       "address": "W 41ST AVE & ALMA ST",
@@ -122,6 +137,6 @@
       "pulsePointId": "2435256240"
     }
   ],
-  "lastIncident": "2026-04-20T21:48:00Z",
-  "count": 8
+  "lastIncident": "2026-04-22T01:43:00Z",
+  "count": 9
 }
