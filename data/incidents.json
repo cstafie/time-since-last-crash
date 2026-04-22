@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-22T08:11:00Z_west-vancouver/cypress-bowl-rd",
+    "timestamp": "2026-04-22T08:11:00Z",
+    "scrapedAt": "2026-04-22T09:01:33Z",
+    "address": "CYPRESS BOWL RD",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/cypress-bowl-rd"
+    ],
+    "streetNames": [
+      "Cypress Bowl Rd"
+    ],
+    "pulsePointId": "2459245874"
+  },
+  {
     "id": "2026-04-22T06:49:00Z_delta/hwy-99",
     "timestamp": "2026-04-22T06:49:00Z",
     "scrapedAt": "2026-04-22T07:30:12Z",
