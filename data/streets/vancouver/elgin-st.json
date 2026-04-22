@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/elgin-st",
+  "name": "Elgin St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-22T22:40:00Z_vancouver/e-king-edward-ave_vancouver/elgin-st",
+      "timestamp": "2026-04-22T22:40:00Z",
+      "address": "E KING EDWARD AVE & ELGIN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-king-edward-ave",
+        "vancouver/elgin-st"
+      ],
+      "streetNames": [
+        "E King Edward Ave",
+        "Elgin St"
+      ],
+      "pulsePointId": "2459610366"
+    }
+  ],
+  "lastIncident": "2026-04-22T22:40:00Z",
+  "count": 1
+}
