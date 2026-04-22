@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-22T16:15:00Z_vancouver/w-10th-ave",
+      "timestamp": "2026-04-22T16:15:00Z",
+      "address": "W 10TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-10th-ave"
+      ],
+      "streetNames": [
+        "W 10th Ave"
+      ],
+      "pulsePointId": "2459405090"
+    },
+    {
       "id": "2026-04-13T15:13:00Z_vancouver/alma-st_vancouver/w-10th-ave",
       "timestamp": "2026-04-13T15:13:00Z",
       "address": "ALMA ST & W 10TH AVE",
@@ -85,6 +98,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-13T15:13:00Z",
-  "count": 6
+  "lastIncident": "2026-04-22T16:15:00Z",
+  "count": 7
 }

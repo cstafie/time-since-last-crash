@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-22T16:15:00Z_vancouver/w-10th-ave",
+    "timestamp": "2026-04-22T16:15:00Z",
+    "scrapedAt": "2026-04-22T16:20:07Z",
+    "address": "W 10TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-10th-ave"
+    ],
+    "streetNames": [
+      "W 10th Ave"
+    ],
+    "pulsePointId": "2459405090"
+  },
+  {
     "id": "2026-04-22T15:10:00Z_langley/264th-st_langley/24th-ave",
     "timestamp": "2026-04-22T15:10:00Z",
     "scrapedAt": "2026-04-22T15:33:17Z",
