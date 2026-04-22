@@ -4,6 +4,19 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-04-22T19:29:00Z_richmond/no-6-rd",
+      "timestamp": "2026-04-22T19:29:00Z",
+      "address": "NO 6 RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/no-6-rd"
+      ],
+      "streetNames": [
+        "No 6 Rd"
+      ],
+      "pulsePointId": "2459516887"
+    },
+    {
       "id": "2026-03-25T18:00:00Z_richmond/burrows-rd_richmond/no-6-rd",
       "timestamp": "2026-03-25T18:00:00Z",
       "address": "BURROWS RD & NO 6 RD",
@@ -33,6 +46,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-25T18:00:00Z",
-  "count": 2
+  "lastIncident": "2026-04-22T19:29:00Z",
+  "count": 3
 }

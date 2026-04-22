@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-04-22T20:11:00Z_abbotsford/clayburn-rd_abbotsford/hwy-11",
+    "timestamp": "2026-04-22T20:11:00Z",
+    "scrapedAt": "2026-04-22T20:17:11Z",
+    "address": "CLAYBURN RD & HWY 11",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/clayburn-rd",
+      "abbotsford/hwy-11"
+    ],
+    "streetNames": [
+      "Clayburn Rd",
+      "Hwy 11"
+    ],
+    "pulsePointId": "2459538678"
+  },
+  {
+    "id": "2026-04-22T20:10:00Z_abbotsford/hwy-11_abbotsford/clayburn-rd",
+    "timestamp": "2026-04-22T20:10:00Z",
+    "scrapedAt": "2026-04-22T20:17:11Z",
+    "address": "HWY 11 & CLAYBURN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/hwy-11",
+      "abbotsford/clayburn-rd"
+    ],
+    "streetNames": [
+      "Hwy 11",
+      "Clayburn Rd"
+    ],
+    "pulsePointId": "2459536680"
+  },
+  {
+    "id": "2026-04-22T19:48:00Z_abbotsford/clearbrook-rd",
+    "timestamp": "2026-04-22T19:48:00Z",
+    "scrapedAt": "2026-04-22T20:17:11Z",
+    "address": "CLEARBROOK RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/clearbrook-rd"
+    ],
+    "streetNames": [
+      "Clearbrook Rd"
+    ],
+    "pulsePointId": "2459527879"
+  },
+  {
+    "id": "2026-04-22T19:29:00Z_richmond/no-6-rd",
+    "timestamp": "2026-04-22T19:29:00Z",
+    "scrapedAt": "2026-04-22T20:17:11Z",
+    "address": "NO 6 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/no-6-rd"
+    ],
+    "streetNames": [
+      "No 6 Rd"
+    ],
+    "pulsePointId": "2459516887"
+  },
+  {
     "id": "2026-04-22T19:09:00Z_surrey/152nd-st",
     "timestamp": "2026-04-22T19:09:00Z",
     "scrapedAt": "2026-04-22T19:27:02Z",
