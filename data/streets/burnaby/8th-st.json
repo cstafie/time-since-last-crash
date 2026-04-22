@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/8th-st",
+  "name": "8th St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-04-22T04:09:00Z_burnaby/10th-ave_burnaby/8th-st",
+      "timestamp": "2026-04-22T04:09:00Z",
+      "address": "10TH AVE & 8TH ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/10th-ave",
+        "burnaby/8th-st"
+      ],
+      "streetNames": [
+        "10th Ave",
+        "8th St"
+      ],
+      "pulsePointId": "2459171606"
+    }
+  ],
+  "lastIncident": "2026-04-22T04:09:00Z",
+  "count": 1
+}

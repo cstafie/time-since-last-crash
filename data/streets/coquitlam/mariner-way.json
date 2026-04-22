@@ -4,6 +4,19 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-04-22T04:33:00Z_coquitlam/mariner-way",
+      "timestamp": "2026-04-22T04:33:00Z",
+      "address": "MARINER WAY",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/mariner-way"
+      ],
+      "streetNames": [
+        "Mariner Way"
+      ],
+      "pulsePointId": "2459179836"
+    },
+    {
       "id": "2026-04-17T06:32:00Z_coquitlam/mariner-way",
       "timestamp": "2026-04-17T06:32:00Z",
       "address": "MARINER WAY",
@@ -29,6 +42,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-17T06:32:00Z",
-  "count": 2
+  "lastIncident": "2026-04-22T04:33:00Z",
+  "count": 3
 }

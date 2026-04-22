@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-04-22T04:09:00Z_burnaby/10th-ave_burnaby/8th-st",
+      "timestamp": "2026-04-22T04:09:00Z",
+      "address": "10TH AVE & 8TH ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/10th-ave",
+        "burnaby/8th-st"
+      ],
+      "streetNames": [
+        "10th Ave",
+        "8th St"
+      ],
+      "pulsePointId": "2459171606"
+    },
+    {
       "id": "2026-04-03T09:22:00Z_burnaby/6th-st_burnaby/10th-ave",
       "timestamp": "2026-04-03T09:22:00Z",
       "address": "6TH ST & 10TH AVE",
@@ -48,6 +63,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-03T09:22:00Z",
-  "count": 3
+  "lastIncident": "2026-04-22T04:09:00Z",
+  "count": 4
 }

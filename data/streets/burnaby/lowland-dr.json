@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/lowland-dr",
+  "name": "Lowland Dr",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-04-22T04:04:00Z_burnaby/lowland-dr",
+      "timestamp": "2026-04-22T04:04:00Z",
+      "address": "LOWLAND DR",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/lowland-dr"
+      ],
+      "streetNames": [
+        "Lowland Dr"
+      ],
+      "pulsePointId": "2459170853"
+    }
+  ],
+  "lastIncident": "2026-04-22T04:04:00Z",
+  "count": 1
+}
