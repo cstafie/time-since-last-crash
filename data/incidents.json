@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-22T06:49:00Z_delta/hwy-99",
+    "timestamp": "2026-04-22T06:49:00Z",
+    "scrapedAt": "2026-04-22T07:30:12Z",
+    "address": "HWY 99",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2459223605"
+  },
+  {
     "id": "2026-04-22T05:02:00Z_port-moody/st-johns-st",
     "timestamp": "2026-04-22T05:02:00Z",
     "scrapedAt": "2026-04-22T05:40:51Z",
