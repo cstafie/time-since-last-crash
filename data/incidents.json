@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-22T18:11:00Z_vancouver/renfrew-st_vancouver/parker-st",
+    "timestamp": "2026-04-22T18:11:00Z",
+    "scrapedAt": "2026-04-22T18:17:54Z",
+    "address": "RENFREW ST & PARKER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/renfrew-st",
+      "vancouver/parker-st"
+    ],
+    "streetNames": [
+      "Renfrew St",
+      "Parker St"
+    ],
+    "pulsePointId": "2459476291"
+  },
+  {
+    "id": "2026-04-22T17:56:00Z_vancouver/burnaby-st_vancouver/burrard-st",
+    "timestamp": "2026-04-22T17:56:00Z",
+    "scrapedAt": "2026-04-22T18:17:54Z",
+    "address": "BURNABY ST & BURRARD ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/burnaby-st",
+      "vancouver/burrard-st"
+    ],
+    "streetNames": [
+      "Burnaby St",
+      "Burrard St"
+    ],
+    "pulsePointId": "2459466912"
+  },
+  {
     "id": "2026-04-22T16:29:00Z_chilliwack/prest-rd_chilliwack/chilliwack-central-rd",
     "timestamp": "2026-04-22T16:29:00Z",
     "scrapedAt": "2026-04-22T16:46:45Z",

@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/burnaby-st",
+  "name": "Burnaby St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-22T17:56:00Z_vancouver/burnaby-st_vancouver/burrard-st",
+      "timestamp": "2026-04-22T17:56:00Z",
+      "address": "BURNABY ST & BURRARD ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/burnaby-st",
+        "vancouver/burrard-st"
+      ],
+      "streetNames": [
+        "Burnaby St",
+        "Burrard St"
+      ],
+      "pulsePointId": "2459466912"
+    }
+  ],
+  "lastIncident": "2026-04-22T17:56:00Z",
+  "count": 1
+}
