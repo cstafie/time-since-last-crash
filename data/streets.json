@@ -1179,8 +1179,8 @@
     "name": "264th St",
     "slug": "langley/264th-st",
     "city": "Langley",
-    "lastIncident": "2026-04-10T14:51:00Z",
-    "count": 5
+    "lastIncident": "2026-04-22T15:10:00Z",
+    "count": 6
   },
   "langley/64th-ave": {
     "name": "64th Ave",
@@ -7403,6 +7403,13 @@
     "slug": "burnaby/8th-st",
     "city": "Burnaby",
     "lastIncident": "2026-04-22T04:09:00Z",
+    "count": 1
+  },
+  "langley/24th-ave": {
+    "name": "24th Ave",
+    "slug": "langley/24th-ave",
+    "city": "Langley",
+    "lastIncident": "2026-04-22T15:10:00Z",
     "count": 1
   }
 }

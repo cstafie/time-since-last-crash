@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-04-22T15:10:00Z_langley/264th-st_langley/24th-ave",
+      "timestamp": "2026-04-22T15:10:00Z",
+      "address": "264TH ST & 24TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/264th-st",
+        "langley/24th-ave"
+      ],
+      "streetNames": [
+        "264th St",
+        "24th Ave"
+      ],
+      "pulsePointId": "2459370532"
+    },
+    {
       "id": "2026-04-10T14:51:00Z_langley/264th-st_langley/60th-ave",
       "timestamp": "2026-04-10T14:51:00Z",
       "address": "264TH ST & 60TH AVE",
@@ -76,6 +91,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-10T14:51:00Z",
-  "count": 5
+  "lastIncident": "2026-04-22T15:10:00Z",
+  "count": 6
 }
