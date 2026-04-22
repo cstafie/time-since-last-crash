@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-04-22T20:53:00Z_vancouver/e-hastings-st",
+    "timestamp": "2026-04-22T20:53:00Z",
+    "scrapedAt": "2026-04-22T21:14:54Z",
+    "address": "E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "E Hastings St"
+    ],
+    "pulsePointId": "2459558286"
+  },
+  {
+    "id": "2026-04-22T20:33:00Z_surrey/101a-ave",
+    "timestamp": "2026-04-22T20:33:00Z",
+    "scrapedAt": "2026-04-22T21:14:54Z",
+    "address": "101A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/101a-ave"
+    ],
+    "streetNames": [
+      "101a Ave"
+    ],
+    "pulsePointId": "2459548785"
+  },
+  {
     "id": "2026-04-22T20:11:00Z_abbotsford/clayburn-rd_abbotsford/hwy-11",
     "timestamp": "2026-04-22T20:11:00Z",
     "scrapedAt": "2026-04-22T20:17:11Z",

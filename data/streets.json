@@ -1774,8 +1774,8 @@
     "name": "E Hastings St",
     "slug": "vancouver/e-hastings-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-21T00:11:00Z",
-    "count": 15
+    "lastIncident": "2026-04-22T20:53:00Z",
+    "count": 16
   },
   "abbotsford/king-rd": {
     "name": "King Rd",
@@ -7417,6 +7417,13 @@
     "slug": "vancouver/burnaby-st",
     "city": "Vancouver",
     "lastIncident": "2026-04-22T17:56:00Z",
+    "count": 1
+  },
+  "surrey/101a-ave": {
+    "name": "101a Ave",
+    "slug": "surrey/101a-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-04-22T20:33:00Z",
     "count": 1
   }
 }
