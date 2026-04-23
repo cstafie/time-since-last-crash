@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-23T17:14:00Z_abbotsford/vye-rd_abbotsford/mckenzie-rd",
+    "timestamp": "2026-04-23T17:14:00Z",
+    "scrapedAt": "2026-04-23T17:38:25Z",
+    "address": "VYE RD & MCKENZIE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/vye-rd",
+      "abbotsford/mckenzie-rd"
+    ],
+    "streetNames": [
+      "Vye Rd",
+      "Mckenzie Rd"
+    ],
+    "pulsePointId": "2459976148"
+  },
+  {
     "id": "2026-04-23T16:35:00Z_vancouver/n-renfrew-st_vancouver/mcgill-st",
     "timestamp": "2026-04-23T16:35:00Z",
     "scrapedAt": "2026-04-23T16:59:41Z",

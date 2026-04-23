@@ -1,6 +1,6 @@
 {
-  "slug": "abbotsford/mckenzie-rd",
-  "name": "Mckenzie Rd",
+  "slug": "abbotsford/vye-rd",
+  "name": "Vye Rd",
   "city": "Abbotsford",
   "incidents": [
     {
@@ -17,21 +17,8 @@
         "Mckenzie Rd"
       ],
       "pulsePointId": "2459976148"
-    },
-    {
-      "id": "2026-04-17T15:55:00Z_abbotsford/mckenzie-rd",
-      "timestamp": "2026-04-17T15:55:00Z",
-      "address": "MCKENZIE RD",
-      "city": "Abbotsford",
-      "streets": [
-        "abbotsford/mckenzie-rd"
-      ],
-      "streetNames": [
-        "Mckenzie Rd"
-      ],
-      "pulsePointId": "2456113555"
     }
   ],
   "lastIncident": "2026-04-23T17:14:00Z",
-  "count": 2
+  "count": 1
 }
