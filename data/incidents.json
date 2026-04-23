@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-23T22:05:00Z_surrey/176th-st_surrey/80th-ave",
+    "timestamp": "2026-04-23T22:05:00Z",
+    "scrapedAt": "2026-04-23T22:12:25Z",
+    "address": "176TH ST & 80TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/176th-st",
+      "surrey/80th-ave"
+    ],
+    "streetNames": [
+      "176th St",
+      "80th Ave"
+    ],
+    "pulsePointId": "2460170766"
+  },
+  {
+    "id": "2026-04-23T22:01:00Z_richmond/no-3-rd",
+    "timestamp": "2026-04-23T22:01:00Z",
+    "scrapedAt": "2026-04-23T22:12:25Z",
+    "address": "NO 3 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/no-3-rd"
+    ],
+    "streetNames": [
+      "No 3 Rd"
+    ],
+    "pulsePointId": "2460169555"
+  },
+  {
     "id": "2026-04-23T21:19:00Z_langley/216th-st_langley/trans-canada-hwy-onrp",
     "timestamp": "2026-04-23T21:19:00Z",
     "scrapedAt": "2026-04-23T21:44:34Z",
