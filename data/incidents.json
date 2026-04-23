@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-23T21:19:00Z_langley/216th-st_langley/trans-canada-hwy-onrp",
+    "timestamp": "2026-04-23T21:19:00Z",
+    "scrapedAt": "2026-04-23T21:44:34Z",
+    "address": "216TH ST & TRANS CANADA HWY ONRP",
+    "city": "Langley",
+    "streets": [
+      "langley/216th-st",
+      "langley/trans-canada-hwy-onrp"
+    ],
+    "streetNames": [
+      "216th St",
+      "Trans Canada Hwy Onrp"
+    ],
+    "pulsePointId": "2460141445"
+  },
+  {
     "id": "2026-04-23T20:29:00Z_vancouver/w-17th-ave_vancouver/cambie-st",
     "timestamp": "2026-04-23T20:29:00Z",
     "scrapedAt": "2026-04-23T20:45:15Z",

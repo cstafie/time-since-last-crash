@@ -2642,8 +2642,8 @@
     "name": "216th St",
     "slug": "langley/216th-st",
     "city": "Langley",
-    "lastIncident": "2026-04-02T11:43:00Z",
-    "count": 4
+    "lastIncident": "2026-04-23T21:19:00Z",
+    "count": 5
   },
   "surrey/87th-ave": {
     "name": "87th Ave",
@@ -4686,8 +4686,8 @@
     "name": "Trans Canada Hwy Onrp",
     "slug": "langley/trans-canada-hwy-onrp",
     "city": "Langley",
-    "lastIncident": "2026-04-01T00:07:00Z",
-    "count": 1
+    "lastIncident": "2026-04-23T21:19:00Z",
+    "count": 2
   },
   "coquitlam/barnet-hwy": {
     "name": "Barnet Hwy",
