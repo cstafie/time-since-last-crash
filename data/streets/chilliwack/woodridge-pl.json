@@ -1,0 +1,24 @@
+{
+  "slug": "chilliwack/woodridge-pl",
+  "name": "Woodridge Pl",
+  "city": "Chilliwack",
+  "incidents": [
+    {
+      "id": "2026-04-23T00:27:00Z_chilliwack/majuba-hill-rd_chilliwack/woodridge-pl",
+      "timestamp": "2026-04-23T00:27:00Z",
+      "address": "MAJUBA HILL RD & WOODRIDGE PL",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/majuba-hill-rd",
+        "chilliwack/woodridge-pl"
+      ],
+      "streetNames": [
+        "Majuba Hill Rd",
+        "Woodridge Pl"
+      ],
+      "pulsePointId": "2459658351"
+    }
+  ],
+  "lastIncident": "2026-04-23T00:27:00Z",
+  "count": 1
+}

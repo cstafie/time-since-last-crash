@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-23T01:56:00Z_abbotsford/hillcrest-ave_abbotsford/clearbrook-rd",
+      "timestamp": "2026-04-23T01:56:00Z",
+      "address": "HILLCREST AVE & CLEARBROOK RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/hillcrest-ave",
+        "abbotsford/clearbrook-rd"
+      ],
+      "streetNames": [
+        "Hillcrest Ave",
+        "Clearbrook Rd"
+      ],
+      "pulsePointId": "2459694857"
+    },
+    {
       "id": "2026-04-22T19:48:00Z_abbotsford/clearbrook-rd",
       "timestamp": "2026-04-22T19:48:00Z",
       "address": "CLEARBROOK RD",
@@ -135,6 +150,6 @@
       "pulsePointId": "2433749907"
     }
   ],
-  "lastIncident": "2026-04-22T19:48:00Z",
-  "count": 9
+  "lastIncident": "2026-04-23T01:56:00Z",
+  "count": 10
 }

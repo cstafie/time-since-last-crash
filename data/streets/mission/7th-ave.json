@@ -4,6 +4,21 @@
   "city": "Mission",
   "incidents": [
     {
+      "id": "2026-04-23T00:19:00Z_mission/cedar-st_mission/7th-ave",
+      "timestamp": "2026-04-23T00:19:00Z",
+      "address": "CEDAR ST & 7TH AVE",
+      "city": "Mission",
+      "streets": [
+        "mission/cedar-st",
+        "mission/7th-ave"
+      ],
+      "streetNames": [
+        "Cedar St",
+        "7th Ave"
+      ],
+      "pulsePointId": "2459655743"
+    },
+    {
       "id": "2026-04-19T13:43:00Z_mission/grand-st_mission/7th-ave",
       "timestamp": "2026-04-19T13:43:00Z",
       "address": "GRAND ST & 7TH AVE",
@@ -47,6 +62,6 @@
       "pulsePointId": "2436661219"
     }
   ],
-  "lastIncident": "2026-04-19T13:43:00Z",
-  "count": 3
+  "lastIncident": "2026-04-23T00:19:00Z",
+  "count": 4
 }

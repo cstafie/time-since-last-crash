@@ -1,5 +1,131 @@
 [
   {
+    "id": "2026-04-23T02:00:00Z_surrey/148th-st",
+    "timestamp": "2026-04-23T02:00:00Z",
+    "scrapedAt": "2026-04-23T02:15:18Z",
+    "address": "148TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/148th-st"
+    ],
+    "streetNames": [
+      "148th St"
+    ],
+    "pulsePointId": "2459696825"
+  },
+  {
+    "id": "2026-04-23T01:56:00Z_abbotsford/hillcrest-ave_abbotsford/clearbrook-rd",
+    "timestamp": "2026-04-23T01:56:00Z",
+    "scrapedAt": "2026-04-23T02:15:18Z",
+    "address": "HILLCREST AVE & CLEARBROOK RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/hillcrest-ave",
+      "abbotsford/clearbrook-rd"
+    ],
+    "streetNames": [
+      "Hillcrest Ave",
+      "Clearbrook Rd"
+    ],
+    "pulsePointId": "2459694857"
+  },
+  {
+    "id": "2026-04-23T01:50:00Z_surrey/154b-st_surrey/82nd-ave",
+    "timestamp": "2026-04-23T01:50:00Z",
+    "scrapedAt": "2026-04-23T02:15:18Z",
+    "address": "154B ST & 82ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/154b-st",
+      "surrey/82nd-ave"
+    ],
+    "streetNames": [
+      "154b St",
+      "82nd Ave"
+    ],
+    "pulsePointId": "2459693031"
+  },
+  {
+    "id": "2026-04-23T01:45:00Z_north-vancouver/w-3rd-st_north-vancouver/marine-dr",
+    "timestamp": "2026-04-23T01:45:00Z",
+    "scrapedAt": "2026-04-23T02:15:18Z",
+    "address": "W 3RD ST & MARINE DR",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/w-3rd-st",
+      "north-vancouver/marine-dr"
+    ],
+    "streetNames": [
+      "W 3rd St",
+      "Marine Dr"
+    ],
+    "pulsePointId": "2459691760"
+  },
+  {
+    "id": "2026-04-23T01:28:00Z_port-coquitlam/westwood-st_port-coquitlam/kitchener-ave",
+    "timestamp": "2026-04-23T01:28:00Z",
+    "scrapedAt": "2026-04-23T02:15:18Z",
+    "address": "WESTWOOD ST & KITCHENER AVE",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/westwood-st",
+      "port-coquitlam/kitchener-ave"
+    ],
+    "streetNames": [
+      "Westwood St",
+      "Kitchener Ave"
+    ],
+    "pulsePointId": "2459684615"
+  },
+  {
+    "id": "2026-04-23T00:27:00Z_chilliwack/majuba-hill-rd_chilliwack/woodridge-pl",
+    "timestamp": "2026-04-23T00:27:00Z",
+    "scrapedAt": "2026-04-23T02:15:18Z",
+    "address": "MAJUBA HILL RD & WOODRIDGE PL",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/majuba-hill-rd",
+      "chilliwack/woodridge-pl"
+    ],
+    "streetNames": [
+      "Majuba Hill Rd",
+      "Woodridge Pl"
+    ],
+    "pulsePointId": "2459658351"
+  },
+  {
+    "id": "2026-04-23T00:19:00Z_mission/cedar-st_mission/7th-ave",
+    "timestamp": "2026-04-23T00:19:00Z",
+    "scrapedAt": "2026-04-23T02:15:18Z",
+    "address": "CEDAR ST & 7TH AVE",
+    "city": "Mission",
+    "streets": [
+      "mission/cedar-st",
+      "mission/7th-ave"
+    ],
+    "streetNames": [
+      "Cedar St",
+      "7th Ave"
+    ],
+    "pulsePointId": "2459655743"
+  },
+  {
+    "id": "2026-04-23T00:18:00Z_surrey/150th-st_surrey/88th-ave",
+    "timestamp": "2026-04-23T00:18:00Z",
+    "scrapedAt": "2026-04-23T02:15:18Z",
+    "address": "150TH ST & 88TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/150th-st",
+      "surrey/88th-ave"
+    ],
+    "streetNames": [
+      "150th St",
+      "88th Ave"
+    ],
+    "pulsePointId": "2459655020"
+  },
+  {
     "id": "2026-04-23T00:04:00Z_surrey/104th-ave_surrey/144th-st",
     "timestamp": "2026-04-23T00:04:00Z",
     "scrapedAt": "2026-04-23T00:13:40Z",

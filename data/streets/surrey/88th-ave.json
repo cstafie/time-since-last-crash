@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-04-23T00:18:00Z_surrey/150th-st_surrey/88th-ave",
+      "timestamp": "2026-04-23T00:18:00Z",
+      "address": "150TH ST & 88TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/150th-st",
+        "surrey/88th-ave"
+      ],
+      "streetNames": [
+        "150th St",
+        "88th Ave"
+      ],
+      "pulsePointId": "2459655020"
+    },
+    {
       "id": "2026-04-22T04:36:00Z_surrey/fraser-hwy_surrey/88th-ave",
       "timestamp": "2026-04-22T04:36:00Z",
       "address": "FRASER HWY & 88TH AVE",
@@ -251,6 +266,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-22T04:36:00Z",
-  "count": 17
+  "lastIncident": "2026-04-23T00:18:00Z",
+  "count": 18
 }

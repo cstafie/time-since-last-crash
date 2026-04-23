@@ -1,0 +1,24 @@
+{
+  "slug": "port-coquitlam/westwood-st",
+  "name": "Westwood St",
+  "city": "Port Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-04-23T01:28:00Z_port-coquitlam/westwood-st_port-coquitlam/kitchener-ave",
+      "timestamp": "2026-04-23T01:28:00Z",
+      "address": "WESTWOOD ST & KITCHENER AVE",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/westwood-st",
+        "port-coquitlam/kitchener-ave"
+      ],
+      "streetNames": [
+        "Westwood St",
+        "Kitchener Ave"
+      ],
+      "pulsePointId": "2459684615"
+    }
+  ],
+  "lastIncident": "2026-04-23T01:28:00Z",
+  "count": 1
+}
