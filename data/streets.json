@@ -325,8 +325,8 @@
     "name": "Lougheed Hwy",
     "slug": "maple-ridge/lougheed-hwy",
     "city": "Maple Ridge",
-    "lastIncident": "2026-04-20T22:55:00Z",
-    "count": 11
+    "lastIncident": "2026-04-23T12:44:00Z",
+    "count": 14
   },
   "mission/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -6737,8 +6737,8 @@
     "name": "272nd St",
     "slug": "maple-ridge/272nd-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-04-14T22:58:00Z",
-    "count": 1
+    "lastIncident": "2026-04-23T12:38:00Z",
+    "count": 2
   },
   "surrey/queen-mary-blvd": {
     "name": "Queen Mary Blvd",
@@ -7487,6 +7487,13 @@
     "slug": "chilliwack/woodridge-pl",
     "city": "Chilliwack",
     "lastIncident": "2026-04-23T00:27:00Z",
+    "count": 1
+  },
+  "maple-ridge/spilsbury-st": {
+    "name": "Spilsbury St",
+    "slug": "maple-ridge/spilsbury-st",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-04-23T12:44:00Z",
     "count": 1
   }
 }

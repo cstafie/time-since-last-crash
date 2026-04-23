@@ -4,6 +4,49 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-04-23T12:44:00Z_maple-ridge/lougheed-hwy_maple-ridge/spilsbury-st",
+      "timestamp": "2026-04-23T12:44:00Z",
+      "address": "LOUGHEED HWY & SPILSBURY ST",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/lougheed-hwy",
+        "maple-ridge/spilsbury-st"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "Spilsbury St"
+      ],
+      "pulsePointId": "2459851977"
+    },
+    {
+      "id": "2026-04-23T12:38:00Z_maple-ridge/lougheed-hwy",
+      "timestamp": "2026-04-23T12:38:00Z",
+      "address": "LOUGHEED HWY",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/lougheed-hwy"
+      ],
+      "streetNames": [
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2459850452"
+    },
+    {
+      "id": "2026-04-23T12:38:00Z_maple-ridge/lougheed-hwy_maple-ridge/272nd-st",
+      "timestamp": "2026-04-23T12:38:00Z",
+      "address": "LOUGHEED HWY & 272ND ST",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/lougheed-hwy",
+        "maple-ridge/272nd-st"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "272nd St"
+      ],
+      "pulsePointId": "2459850272"
+    },
+    {
       "id": "2026-04-20T22:55:00Z_maple-ridge/207th-st_maple-ridge/lougheed-hwy",
       "timestamp": "2026-04-20T22:55:00Z",
       "address": "207TH ST & LOUGHEED HWY",
@@ -165,6 +208,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-20T22:55:00Z",
-  "count": 11
+  "lastIncident": "2026-04-23T12:44:00Z",
+  "count": 14
 }
