@@ -1,0 +1,22 @@
+{
+  "slug": "langley/62nd-ave",
+  "name": "62nd Ave",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-04-23T15:41:00Z_langley/62nd-ave",
+      "timestamp": "2026-04-23T15:41:00Z",
+      "address": "62ND AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/62nd-ave"
+      ],
+      "streetNames": [
+        "62nd Ave"
+      ],
+      "pulsePointId": "2459924006"
+    }
+  ],
+  "lastIncident": "2026-04-23T15:41:00Z",
+  "count": 1
+}

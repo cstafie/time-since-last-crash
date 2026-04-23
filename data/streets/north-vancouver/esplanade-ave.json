@@ -1,0 +1,24 @@
+{
+  "slug": "north-vancouver/esplanade-ave",
+  "name": "Esplanade Ave",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-23T15:51:00Z_north-vancouver/st-andrews-ave_north-vancouver/esplanade-ave",
+      "timestamp": "2026-04-23T15:51:00Z",
+      "address": "ST ANDREWS AVE & ESPLANADE AVE",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/st-andrews-ave",
+        "north-vancouver/esplanade-ave"
+      ],
+      "streetNames": [
+        "St Andrews Ave",
+        "Esplanade Ave"
+      ],
+      "pulsePointId": "2459926796"
+    }
+  ],
+  "lastIncident": "2026-04-23T15:51:00Z",
+  "count": 1
+}

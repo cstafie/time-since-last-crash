@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-04-23T16:35:00Z_vancouver/n-renfrew-st_vancouver/mcgill-st",
+    "timestamp": "2026-04-23T16:35:00Z",
+    "scrapedAt": "2026-04-23T16:59:41Z",
+    "address": "N RENFREW ST & MCGILL ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/n-renfrew-st",
+      "vancouver/mcgill-st"
+    ],
+    "streetNames": [
+      "N Renfrew St",
+      "Mcgill St"
+    ],
+    "pulsePointId": "2459953745"
+  },
+  {
+    "id": "2026-04-23T16:34:00Z_vancouver/ross-st_vancouver/se-marine-dr",
+    "timestamp": "2026-04-23T16:34:00Z",
+    "scrapedAt": "2026-04-23T16:59:41Z",
+    "address": "ROSS ST & SE MARINE DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/ross-st",
+      "vancouver/se-marine-dr"
+    ],
+    "streetNames": [
+      "Ross St",
+      "Se Marine Dr"
+    ],
+    "pulsePointId": "2459953168"
+  },
+  {
+    "id": "2026-04-23T15:51:00Z_north-vancouver/st-andrews-ave_north-vancouver/esplanade-ave",
+    "timestamp": "2026-04-23T15:51:00Z",
+    "scrapedAt": "2026-04-23T16:59:41Z",
+    "address": "ST ANDREWS AVE & ESPLANADE AVE",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/st-andrews-ave",
+      "north-vancouver/esplanade-ave"
+    ],
+    "streetNames": [
+      "St Andrews Ave",
+      "Esplanade Ave"
+    ],
+    "pulsePointId": "2459926796"
+  },
+  {
+    "id": "2026-04-23T15:41:00Z_langley/62nd-ave",
+    "timestamp": "2026-04-23T15:41:00Z",
+    "scrapedAt": "2026-04-23T16:59:41Z",
+    "address": "62ND AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/62nd-ave"
+    ],
+    "streetNames": [
+      "62nd Ave"
+    ],
+    "pulsePointId": "2459924006"
+  },
+  {
     "id": "2026-04-23T15:07:00Z_vancouver/n-renfrew-st_vancouver/mcgill-st",
     "timestamp": "2026-04-23T15:07:00Z",
     "scrapedAt": "2026-04-23T15:14:01Z",
