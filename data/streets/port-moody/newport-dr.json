@@ -1,0 +1,22 @@
+{
+  "slug": "port-moody/newport-dr",
+  "name": "Newport Dr",
+  "city": "Port Moody",
+  "incidents": [
+    {
+      "id": "2026-04-23T20:02:00Z_port-moody/newport-dr",
+      "timestamp": "2026-04-23T20:02:00Z",
+      "address": "NEWPORT DR",
+      "city": "Port Moody",
+      "streets": [
+        "port-moody/newport-dr"
+      ],
+      "streetNames": [
+        "Newport Dr"
+      ],
+      "pulsePointId": "2460085548"
+    }
+  ],
+  "lastIncident": "2026-04-23T20:02:00Z",
+  "count": 1
+}

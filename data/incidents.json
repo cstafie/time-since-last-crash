@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-23T20:29:00Z_vancouver/w-17th-ave_vancouver/cambie-st",
+    "timestamp": "2026-04-23T20:29:00Z",
+    "scrapedAt": "2026-04-23T20:45:15Z",
+    "address": "W 17TH AVE & CAMBIE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-17th-ave",
+      "vancouver/cambie-st"
+    ],
+    "streetNames": [
+      "W 17th Ave",
+      "Cambie St"
+    ],
+    "pulsePointId": "2460106629"
+  },
+  {
+    "id": "2026-04-23T20:02:00Z_port-moody/newport-dr",
+    "timestamp": "2026-04-23T20:02:00Z",
+    "scrapedAt": "2026-04-23T20:45:15Z",
+    "address": "NEWPORT DR",
+    "city": "Port Moody",
+    "streets": [
+      "port-moody/newport-dr"
+    ],
+    "streetNames": [
+      "Newport Dr"
+    ],
+    "pulsePointId": "2460085548"
+  },
+  {
     "id": "2026-04-23T19:08:00Z_maple-ridge/brown-ave",
     "timestamp": "2026-04-23T19:08:00Z",
     "scrapedAt": "2026-04-23T19:27:07Z",

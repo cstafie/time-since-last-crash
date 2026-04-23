@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-23T20:29:00Z_vancouver/w-17th-ave_vancouver/cambie-st",
+      "timestamp": "2026-04-23T20:29:00Z",
+      "address": "W 17TH AVE & CAMBIE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-17th-ave",
+        "vancouver/cambie-st"
+      ],
+      "streetNames": [
+        "W 17th Ave",
+        "Cambie St"
+      ],
+      "pulsePointId": "2460106629"
+    },
+    {
       "id": "2026-04-08T02:19:00Z_vancouver/w-12th-ave_vancouver/cambie-st",
       "timestamp": "2026-04-08T02:19:00Z",
       "address": "W 12TH AVE & CAMBIE ST",
@@ -79,6 +94,6 @@
       "pulsePointId": "2435569506"
     }
   ],
-  "lastIncident": "2026-04-08T02:19:00Z",
-  "count": 5
+  "lastIncident": "2026-04-23T20:29:00Z",
+  "count": 6
 }
