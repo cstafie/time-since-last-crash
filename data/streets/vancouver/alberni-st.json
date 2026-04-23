@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-23T22:22:00Z_vancouver/alberni-st_vancouver/broughton-st",
+      "timestamp": "2026-04-23T22:22:00Z",
+      "address": "ALBERNI ST & BROUGHTON ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/alberni-st",
+        "vancouver/broughton-st"
+      ],
+      "streetNames": [
+        "Alberni St",
+        "Broughton St"
+      ],
+      "pulsePointId": "2460180697"
+    },
+    {
       "id": "2026-03-31T09:38:00Z_vancouver/burrard-st_vancouver/alberni-st",
       "timestamp": "2026-03-31T09:38:00Z",
       "address": "BURRARD ST & ALBERNI ST",
@@ -49,6 +64,6 @@
       "pulsePointId": "2432930342"
     }
   ],
-  "lastIncident": "2026-03-31T09:38:00Z",
-  "count": 3
+  "lastIncident": "2026-04-23T22:22:00Z",
+  "count": 4
 }

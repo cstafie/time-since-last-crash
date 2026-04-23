@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-23T22:22:00Z_vancouver/alberni-st_vancouver/broughton-st",
+    "timestamp": "2026-04-23T22:22:00Z",
+    "scrapedAt": "2026-04-23T22:44:15Z",
+    "address": "ALBERNI ST & BROUGHTON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/alberni-st",
+      "vancouver/broughton-st"
+    ],
+    "streetNames": [
+      "Alberni St",
+      "Broughton St"
+    ],
+    "pulsePointId": "2460180697"
+  },
+  {
+    "id": "2026-04-23T22:15:00Z_maple-ridge/laity-st_maple-ridge/dewdney-trunk-rd",
+    "timestamp": "2026-04-23T22:15:00Z",
+    "scrapedAt": "2026-04-23T22:44:15Z",
+    "address": "LAITY ST & DEWDNEY TRUNK RD",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/laity-st",
+      "maple-ridge/dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "Laity St",
+      "Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2460176453"
+  },
+  {
     "id": "2026-04-23T22:05:00Z_surrey/176th-st_surrey/80th-ave",
     "timestamp": "2026-04-23T22:05:00Z",
     "scrapedAt": "2026-04-23T22:12:25Z",
