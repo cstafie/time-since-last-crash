@@ -535,8 +535,8 @@
     "name": "128th St",
     "slug": "surrey/128th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-22T21:58:00Z",
-    "count": 10
+    "lastIncident": "2026-04-23T23:21:00Z",
+    "count": 11
   },
   "surrey/130b-st": {
     "name": "130b St",
@@ -584,8 +584,8 @@
     "name": "16th Ave",
     "slug": "surrey/16th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-20T23:19:00Z",
-    "count": 5
+    "lastIncident": "2026-04-23T23:15:00Z",
+    "count": 6
   },
   "surrey/63a-ave": {
     "name": "63a Ave",
@@ -4518,8 +4518,8 @@
     "name": "72nd Ave",
     "slug": "surrey/72nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-20T13:16:00Z",
-    "count": 4
+    "lastIncident": "2026-04-23T23:21:00Z",
+    "count": 5
   },
   "abbotsford/laurel-st": {
     "name": "Laurel St",

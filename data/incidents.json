@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-23T23:21:00Z_surrey/72nd-ave_surrey/128th-st",
+    "timestamp": "2026-04-23T23:21:00Z",
+    "scrapedAt": "2026-04-23T23:44:16Z",
+    "address": "72ND AVE & 128TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/72nd-ave",
+      "surrey/128th-st"
+    ],
+    "streetNames": [
+      "72nd Ave",
+      "128th St"
+    ],
+    "pulsePointId": "2460219013"
+  },
+  {
+    "id": "2026-04-23T23:15:00Z_surrey/16th-ave",
+    "timestamp": "2026-04-23T23:15:00Z",
+    "scrapedAt": "2026-04-23T23:44:16Z",
+    "address": "16TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/16th-ave"
+    ],
+    "streetNames": [
+      "16th Ave"
+    ],
+    "pulsePointId": "2460215526"
+  },
+  {
     "id": "2026-04-23T22:22:00Z_vancouver/alberni-st_vancouver/broughton-st",
     "timestamp": "2026-04-23T22:22:00Z",
     "scrapedAt": "2026-04-23T22:44:15Z",
