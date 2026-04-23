@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-23T00:04:00Z_surrey/104th-ave_surrey/144th-st",
+    "timestamp": "2026-04-23T00:04:00Z",
+    "scrapedAt": "2026-04-23T00:13:40Z",
+    "address": "104TH AVE & 144TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/104th-ave",
+      "surrey/144th-st"
+    ],
+    "streetNames": [
+      "104th Ave",
+      "144th St"
+    ],
+    "pulsePointId": "2459648228"
+  },
+  {
+    "id": "2026-04-22T23:58:00Z_langley/trans-canada-hwy",
+    "timestamp": "2026-04-22T23:58:00Z",
+    "scrapedAt": "2026-04-23T00:13:40Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2459647413"
+  },
+  {
     "id": "2026-04-22T22:40:00Z_vancouver/e-king-edward-ave_vancouver/elgin-st",
     "timestamp": "2026-04-22T22:40:00Z",
     "scrapedAt": "2026-04-22T23:14:47Z",
