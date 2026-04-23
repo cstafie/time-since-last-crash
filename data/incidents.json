@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-23T19:08:00Z_maple-ridge/brown-ave",
+    "timestamp": "2026-04-23T19:08:00Z",
+    "scrapedAt": "2026-04-23T19:27:07Z",
+    "address": "BROWN AVE",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/brown-ave"
+    ],
+    "streetNames": [
+      "Brown Ave"
+    ],
+    "pulsePointId": "2460050412"
+  },
+  {
     "id": "2026-04-23T17:14:00Z_abbotsford/vye-rd_abbotsford/mckenzie-rd",
     "timestamp": "2026-04-23T17:14:00Z",
     "scrapedAt": "2026-04-23T17:38:25Z",
