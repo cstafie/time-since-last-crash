@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-23T03:26:00Z_vancouver/kingsway_vancouver/joyce-st",
+      "timestamp": "2026-04-23T03:26:00Z",
+      "address": "KINGSWAY & JOYCE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/kingsway",
+        "vancouver/joyce-st"
+      ],
+      "streetNames": [
+        "Kingsway",
+        "Joyce St"
+      ],
+      "pulsePointId": "2459725775"
+    },
+    {
       "id": "2026-04-17T20:12:00Z_vancouver/joyce-st_vancouver/euclid-ave",
       "timestamp": "2026-04-17T20:12:00Z",
       "address": "JOYCE ST & EUCLID AVE",
@@ -34,6 +49,6 @@
       "pulsePointId": "2441282635"
     }
   ],
-  "lastIncident": "2026-04-17T20:12:00Z",
-  "count": 2
+  "lastIncident": "2026-04-23T03:26:00Z",
+  "count": 3
 }

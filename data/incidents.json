@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-04-23T03:26:00Z_vancouver/kingsway_vancouver/joyce-st",
+    "timestamp": "2026-04-23T03:26:00Z",
+    "scrapedAt": "2026-04-23T03:40:40Z",
+    "address": "KINGSWAY & JOYCE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kingsway",
+      "vancouver/joyce-st"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "Joyce St"
+    ],
+    "pulsePointId": "2459725775"
+  },
+  {
+    "id": "2026-04-23T02:32:00Z_new-westminster/e-columbia-st",
+    "timestamp": "2026-04-23T02:32:00Z",
+    "scrapedAt": "2026-04-23T03:40:40Z",
+    "address": "E COLUMBIA ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/e-columbia-st"
+    ],
+    "streetNames": [
+      "E Columbia St"
+    ],
+    "pulsePointId": "2459707674"
+  },
+  {
+    "id": "2026-04-23T02:23:00Z_surrey/105a-ave_surrey/whalley-blvd",
+    "timestamp": "2026-04-23T02:23:00Z",
+    "scrapedAt": "2026-04-23T03:40:40Z",
+    "address": "105A AVE & WHALLEY BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/105a-ave",
+      "surrey/whalley-blvd"
+    ],
+    "streetNames": [
+      "105a Ave",
+      "Whalley Blvd"
+    ],
+    "pulsePointId": "2459705967"
+  },
+  {
     "id": "2026-04-23T02:00:00Z_surrey/148th-st",
     "timestamp": "2026-04-23T02:00:00Z",
     "scrapedAt": "2026-04-23T02:15:18Z",

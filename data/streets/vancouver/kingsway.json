@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-23T03:26:00Z_vancouver/kingsway_vancouver/joyce-st",
+      "timestamp": "2026-04-23T03:26:00Z",
+      "address": "KINGSWAY & JOYCE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/kingsway",
+        "vancouver/joyce-st"
+      ],
+      "streetNames": [
+        "Kingsway",
+        "Joyce St"
+      ],
+      "pulsePointId": "2459725775"
+    },
+    {
       "id": "2026-04-17T14:44:00Z_vancouver/perry-st_vancouver/kingsway",
       "timestamp": "2026-04-17T14:44:00Z",
       "address": "PERRY ST & KINGSWAY",
@@ -196,6 +211,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-17T14:44:00Z",
-  "count": 13
+  "lastIncident": "2026-04-23T03:26:00Z",
+  "count": 14
 }
