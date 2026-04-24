@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-24T15:13:00Z_abbotsford/trans-canada-hwy_abbotsford/mt-lehman-road-ofrp",
+    "timestamp": "2026-04-24T15:13:00Z",
+    "scrapedAt": "2026-04-24T15:24:14Z",
+    "address": "TRANS CANADA HWY & MT LEHMAN ROAD OFRP",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy",
+      "abbotsford/mt-lehman-road-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "Mt Lehman Road Ofrp"
+    ],
+    "pulsePointId": "2460577822"
+  },
+  {
+    "id": "2026-04-24T14:58:00Z_vancouver/w-4th-ave_vancouver/stephens-st",
+    "timestamp": "2026-04-24T14:58:00Z",
+    "scrapedAt": "2026-04-24T15:24:14Z",
+    "address": "W 4TH AVE & STEPHENS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-4th-ave",
+      "vancouver/stephens-st"
+    ],
+    "streetNames": [
+      "W 4th Ave",
+      "Stephens St"
+    ],
+    "pulsePointId": "2460569112"
+  },
+  {
     "id": "2026-04-24T14:48:00Z_north-vancouver/dollarton-hwy_north-vancouver/old-dollarton-rd",
     "timestamp": "2026-04-24T14:48:00Z",
     "scrapedAt": "2026-04-24T14:55:18Z",

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-24T14:58:00Z_vancouver/w-4th-ave_vancouver/stephens-st",
+      "timestamp": "2026-04-24T14:58:00Z",
+      "address": "W 4TH AVE & STEPHENS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-4th-ave",
+        "vancouver/stephens-st"
+      ],
+      "streetNames": [
+        "W 4th Ave",
+        "Stephens St"
+      ],
+      "pulsePointId": "2460569112"
+    },
+    {
       "id": "2026-04-17T03:44:00Z_vancouver/w-4th-ave_vancouver/vine-st",
       "timestamp": "2026-04-17T03:44:00Z",
       "address": "W 4TH AVE & VINE ST",
@@ -31,6 +46,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-17T03:44:00Z",
-  "count": 2
+  "lastIncident": "2026-04-24T14:58:00Z",
+  "count": 3
 }

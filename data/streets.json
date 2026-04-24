@@ -794,8 +794,8 @@
     "name": "W 4th Ave",
     "slug": "vancouver/w-4th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-17T03:44:00Z",
-    "count": 2
+    "lastIncident": "2026-04-24T14:58:00Z",
+    "count": 3
   },
   "vancouver/w-70th-ave": {
     "name": "W 70th Ave",
@@ -1949,8 +1949,8 @@
     "name": "Trans Canada Hwy",
     "slug": "abbotsford/trans-canada-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-20T04:28:00Z",
-    "count": 25
+    "lastIncident": "2026-04-24T15:13:00Z",
+    "count": 26
   },
   "vancouver/w-16th-ave": {
     "name": "W 16th Ave",
@@ -4315,8 +4315,8 @@
     "name": "Mt Lehman Road Ofrp",
     "slug": "abbotsford/mt-lehman-road-ofrp",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-30T00:38:00Z",
-    "count": 2
+    "lastIncident": "2026-04-24T15:13:00Z",
+    "count": 3
   },
   "abbotsford/edgehill-ave": {
     "name": "Edgehill Ave",
@@ -7564,6 +7564,13 @@
     "slug": "north-vancouver/old-dollarton-rd",
     "city": "North Vancouver",
     "lastIncident": "2026-04-24T14:48:00Z",
+    "count": 1
+  },
+  "vancouver/stephens-st": {
+    "name": "Stephens St",
+    "slug": "vancouver/stephens-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-24T14:58:00Z",
     "count": 1
   }
 }

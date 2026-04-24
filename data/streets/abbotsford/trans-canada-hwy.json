@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-24T15:13:00Z_abbotsford/trans-canada-hwy_abbotsford/mt-lehman-road-ofrp",
+      "timestamp": "2026-04-24T15:13:00Z",
+      "address": "TRANS CANADA HWY & MT LEHMAN ROAD OFRP",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/trans-canada-hwy",
+        "abbotsford/mt-lehman-road-ofrp"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy",
+        "Mt Lehman Road Ofrp"
+      ],
+      "pulsePointId": "2460577822"
+    },
+    {
       "id": "2026-04-20T04:28:00Z_abbotsford/trans-canada-hwy_abbotsford/mccallum-road-ofrp",
       "timestamp": "2026-04-20T04:28:00Z",
       "address": "TRANS CANADA HWY & MCCALLUM ROAD OFRP",
@@ -343,6 +358,6 @@
       "pulsePointId": "2433793691"
     }
   ],
-  "lastIncident": "2026-04-20T04:28:00Z",
-  "count": 25
+  "lastIncident": "2026-04-24T15:13:00Z",
+  "count": 26
 }
