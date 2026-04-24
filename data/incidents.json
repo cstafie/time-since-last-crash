@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-24T19:11:00Z_chilliwack/thomas-rd_chilliwack/promontory-rd",
+    "timestamp": "2026-04-24T19:11:00Z",
+    "scrapedAt": "2026-04-24T19:16:32Z",
+    "address": "THOMAS RD & PROMONTORY RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/thomas-rd",
+      "chilliwack/promontory-rd"
+    ],
+    "streetNames": [
+      "Thomas Rd",
+      "Promontory Rd"
+    ],
+    "pulsePointId": "2460725690"
+  },
+  {
     "id": "2026-04-24T18:32:00Z_langley/208th-st_langley/88th-ave",
     "timestamp": "2026-04-24T18:32:00Z",
     "scrapedAt": "2026-04-24T18:44:48Z",
