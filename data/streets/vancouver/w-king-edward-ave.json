@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-24T14:13:00Z_vancouver/w-king-edward-ave_vancouver/oak-st",
+      "timestamp": "2026-04-24T14:13:00Z",
+      "address": "W KING EDWARD AVE & OAK ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-king-edward-ave",
+        "vancouver/oak-st"
+      ],
+      "streetNames": [
+        "W King Edward Ave",
+        "Oak St"
+      ],
+      "pulsePointId": "2460548622"
+    },
+    {
       "id": "2026-04-07T17:11:00Z_vancouver/w-king-edward-ave_vancouver/arbutus-st",
       "timestamp": "2026-04-07T17:11:00Z",
       "address": "W KING EDWARD AVE & ARBUTUS ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2435790624"
     }
   ],
-  "lastIncident": "2026-04-07T17:11:00Z",
-  "count": 2
+  "lastIncident": "2026-04-24T14:13:00Z",
+  "count": 3
 }

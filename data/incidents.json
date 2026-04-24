@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-04-24T14:48:00Z_north-vancouver/dollarton-hwy_north-vancouver/old-dollarton-rd",
+    "timestamp": "2026-04-24T14:48:00Z",
+    "scrapedAt": "2026-04-24T14:55:18Z",
+    "address": "DOLLARTON HWY & OLD DOLLARTON RD",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/dollarton-hwy",
+      "north-vancouver/old-dollarton-rd"
+    ],
+    "streetNames": [
+      "Dollarton Hwy",
+      "Old Dollarton Rd"
+    ],
+    "pulsePointId": "2460564920"
+  },
+  {
+    "id": "2026-04-24T14:13:00Z_vancouver/w-king-edward-ave_vancouver/oak-st",
+    "timestamp": "2026-04-24T14:13:00Z",
+    "scrapedAt": "2026-04-24T14:55:18Z",
+    "address": "W KING EDWARD AVE & OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-king-edward-ave",
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "W King Edward Ave",
+      "Oak St"
+    ],
+    "pulsePointId": "2460548622"
+  },
+  {
+    "id": "2026-04-24T14:09:00Z_chilliwack/keith-wilson-rd",
+    "timestamp": "2026-04-24T14:09:00Z",
+    "scrapedAt": "2026-04-24T14:55:18Z",
+    "address": "KEITH WILSON RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/keith-wilson-rd"
+    ],
+    "streetNames": [
+      "Keith Wilson Rd"
+    ],
+    "pulsePointId": "2460546658"
+  },
+  {
     "id": "2026-04-24T11:27:00Z_vancouver/cambie-st",
     "timestamp": "2026-04-24T11:27:00Z",
     "scrapedAt": "2026-04-24T11:48:14Z",
