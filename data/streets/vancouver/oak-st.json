@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-24T02:37:00Z_vancouver/oak-st",
+      "timestamp": "2026-04-24T02:37:00Z",
+      "address": "OAK ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/oak-st"
+      ],
+      "streetNames": [
+        "Oak St"
+      ],
+      "pulsePointId": "2460330037"
+    },
+    {
       "id": "2026-04-24T02:03:00Z_vancouver/oak-st",
       "timestamp": "2026-04-24T02:03:00Z",
       "address": "OAK ST",
@@ -192,6 +205,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-24T02:03:00Z",
-  "count": 13
+  "lastIncident": "2026-04-24T02:37:00Z",
+  "count": 14
 }

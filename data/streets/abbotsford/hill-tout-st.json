@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/hill-tout-st",
+  "name": "Hill Tout St",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-04-24T02:37:00Z_abbotsford/hill-tout-st",
+      "timestamp": "2026-04-24T02:37:00Z",
+      "address": "HILL TOUT ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/hill-tout-st"
+      ],
+      "streetNames": [
+        "Hill Tout St"
+      ],
+      "pulsePointId": "2460331220"
+    }
+  ],
+  "lastIncident": "2026-04-24T02:37:00Z",
+  "count": 1
+}

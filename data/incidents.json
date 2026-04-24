@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-04-24T02:37:00Z_abbotsford/hill-tout-st",
+    "timestamp": "2026-04-24T02:37:00Z",
+    "scrapedAt": "2026-04-24T03:42:04Z",
+    "address": "HILL TOUT ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/hill-tout-st"
+    ],
+    "streetNames": [
+      "Hill Tout St"
+    ],
+    "pulsePointId": "2460331220"
+  },
+  {
+    "id": "2026-04-24T02:37:00Z_vancouver/oak-st",
+    "timestamp": "2026-04-24T02:37:00Z",
+    "scrapedAt": "2026-04-24T03:42:04Z",
+    "address": "OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "Oak St"
+    ],
+    "pulsePointId": "2460330037"
+  },
+  {
+    "id": "2026-04-24T02:24:00Z_north-vancouver/dollar-rd",
+    "timestamp": "2026-04-24T02:24:00Z",
+    "scrapedAt": "2026-04-24T03:42:04Z",
+    "address": "DOLLAR RD",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/dollar-rd"
+    ],
+    "streetNames": [
+      "Dollar Rd"
+    ],
+    "pulsePointId": "2460325108"
+  },
+  {
     "id": "2026-04-24T02:03:00Z_vancouver/oak-st",
     "timestamp": "2026-04-24T02:03:00Z",
     "scrapedAt": "2026-04-24T02:15:23Z",
