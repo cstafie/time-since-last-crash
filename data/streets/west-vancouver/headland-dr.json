@@ -1,0 +1,22 @@
+{
+  "slug": "west-vancouver/headland-dr",
+  "name": "Headland Dr",
+  "city": "West Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-24T20:38:00Z_west-vancouver/headland-dr",
+      "timestamp": "2026-04-24T20:38:00Z",
+      "address": "HEADLAND DR",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/headland-dr"
+      ],
+      "streetNames": [
+        "Headland Dr"
+      ],
+      "pulsePointId": "2460786344"
+    }
+  ],
+  "lastIncident": "2026-04-24T20:38:00Z",
+  "count": 1
+}

@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-24T20:38:00Z_west-vancouver/headland-dr",
+    "timestamp": "2026-04-24T20:38:00Z",
+    "scrapedAt": "2026-04-24T20:44:33Z",
+    "address": "HEADLAND DR",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/headland-dr"
+    ],
+    "streetNames": [
+      "Headland Dr"
+    ],
+    "pulsePointId": "2460786344"
+  },
+  {
+    "id": "2026-04-24T20:23:00Z_vancouver/w-46th-ave_vancouver/oak-st",
+    "timestamp": "2026-04-24T20:23:00Z",
+    "scrapedAt": "2026-04-24T20:44:33Z",
+    "address": "W 46TH AVE & OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-46th-ave",
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "W 46th Ave",
+      "Oak St"
+    ],
+    "pulsePointId": "2460776462"
+  },
+  {
     "id": "2026-04-24T19:11:00Z_chilliwack/thomas-rd_chilliwack/promontory-rd",
     "timestamp": "2026-04-24T19:11:00Z",
     "scrapedAt": "2026-04-24T19:16:32Z",
