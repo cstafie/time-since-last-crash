@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-04-24T02:03:00Z_vancouver/oak-st",
+    "timestamp": "2026-04-24T02:03:00Z",
+    "scrapedAt": "2026-04-24T02:15:23Z",
+    "address": "OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "Oak St"
+    ],
+    "pulsePointId": "2460313239"
+  },
+  {
+    "id": "2026-04-24T01:43:00Z_vancouver/w-58th-ave_vancouver/granville-st",
+    "timestamp": "2026-04-24T01:43:00Z",
+    "scrapedAt": "2026-04-24T02:15:23Z",
+    "address": "W 58TH AVE & GRANVILLE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-58th-ave",
+      "vancouver/granville-st"
+    ],
+    "streetNames": [
+      "W 58th Ave",
+      "Granville St"
+    ],
+    "pulsePointId": "2460303347"
+  },
+  {
+    "id": "2026-04-24T01:36:00Z_surrey/148th-st",
+    "timestamp": "2026-04-24T01:36:00Z",
+    "scrapedAt": "2026-04-24T02:15:23Z",
+    "address": "148TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/148th-st"
+    ],
+    "streetNames": [
+      "148th St"
+    ],
+    "pulsePointId": "2460299607"
+  },
+  {
     "id": "2026-04-24T01:00:00Z_vancouver/mcgill-st_vancouver/n-penticton-st",
     "timestamp": "2026-04-24T01:00:00Z",
     "scrapedAt": "2026-04-24T01:08:17Z",

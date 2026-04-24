@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-24T02:03:00Z_vancouver/oak-st",
+      "timestamp": "2026-04-24T02:03:00Z",
+      "address": "OAK ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/oak-st"
+      ],
+      "streetNames": [
+        "Oak St"
+      ],
+      "pulsePointId": "2460313239"
+    },
+    {
       "id": "2026-04-22T18:56:00Z_vancouver/w-57th-ave_vancouver/oak-st",
       "timestamp": "2026-04-22T18:56:00Z",
       "address": "W 57TH AVE & OAK ST",
@@ -179,6 +192,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-22T18:56:00Z",
-  "count": 12
+  "lastIncident": "2026-04-24T02:03:00Z",
+  "count": 13
 }

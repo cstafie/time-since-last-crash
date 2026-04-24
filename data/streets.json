@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-23T05:31:00Z",
-    "count": 15
+    "lastIncident": "2026-04-24T01:43:00Z",
+    "count": 16
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -766,8 +766,8 @@
     "name": "Oak St",
     "slug": "vancouver/oak-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-22T18:56:00Z",
-    "count": 12
+    "lastIncident": "2026-04-24T02:03:00Z",
+    "count": 13
   },
   "vancouver/w-12th-ave": {
     "name": "W 12th Ave",
@@ -1893,8 +1893,8 @@
     "name": "148th St",
     "slug": "surrey/148th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-23T02:00:00Z",
-    "count": 11
+    "lastIncident": "2026-04-24T01:36:00Z",
+    "count": 12
   },
   "vancouver/earles-st": {
     "name": "Earles St",
@@ -7529,6 +7529,13 @@
     "slug": "port-moody/newport-dr",
     "city": "Port Moody",
     "lastIncident": "2026-04-23T20:02:00Z",
+    "count": 1
+  },
+  "vancouver/w-58th-ave": {
+    "name": "W 58th Ave",
+    "slug": "vancouver/w-58th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-24T01:43:00Z",
     "count": 1
   }
 }
