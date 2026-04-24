@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-24T07:12:00Z_vancouver/w-33rd-ave_vancouver/oak-st",
+    "timestamp": "2026-04-24T07:12:00Z",
+    "scrapedAt": "2026-04-24T07:33:07Z",
+    "address": "W 33RD AVE & OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-33rd-ave",
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "W 33rd Ave",
+      "Oak St"
+    ],
+    "pulsePointId": "2460433546"
+  },
+  {
     "id": "2026-04-24T04:35:00Z_chilliwack/camp-river-rd",
     "timestamp": "2026-04-24T04:35:00Z",
     "scrapedAt": "2026-04-24T04:58:42Z",
