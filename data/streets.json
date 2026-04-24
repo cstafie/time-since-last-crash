@@ -1046,8 +1046,8 @@
     "name": "88th Ave",
     "slug": "langley/88th-ave",
     "city": "Langley",
-    "lastIncident": "2026-04-07T23:38:00Z",
-    "count": 3
+    "lastIncident": "2026-04-24T18:32:00Z",
+    "count": 4
   },
   "chilliwack/ryder-lake-rd": {
     "name": "Ryder Lake Rd",
@@ -4546,8 +4546,8 @@
     "name": "208th St",
     "slug": "langley/208th-st",
     "city": "Langley",
-    "lastIncident": "2026-04-08T20:59:00Z",
-    "count": 4
+    "lastIncident": "2026-04-24T18:32:00Z",
+    "count": 5
   },
   "langley/46a-ave": {
     "name": "46a Ave",

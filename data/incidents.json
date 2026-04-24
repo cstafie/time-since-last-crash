@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-24T18:32:00Z_langley/208th-st_langley/88th-ave",
+    "timestamp": "2026-04-24T18:32:00Z",
+    "scrapedAt": "2026-04-24T18:44:48Z",
+    "address": "208TH ST & 88TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/208th-st",
+      "langley/88th-ave"
+    ],
+    "streetNames": [
+      "208th St",
+      "88th Ave"
+    ],
+    "pulsePointId": "2460699066"
+  },
+  {
     "id": "2026-04-24T17:19:00Z_mission/1st-ave",
     "timestamp": "2026-04-24T17:19:00Z",
     "scrapedAt": "2026-04-24T17:45:13Z",
