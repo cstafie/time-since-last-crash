@@ -4,6 +4,19 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-04-24T04:35:00Z_chilliwack/camp-river-rd",
+      "timestamp": "2026-04-24T04:35:00Z",
+      "address": "CAMP RIVER RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/camp-river-rd"
+      ],
+      "streetNames": [
+        "Camp River Rd"
+      ],
+      "pulsePointId": "2460384103"
+    },
+    {
       "id": "2026-04-20T16:46:00Z_chilliwack/camp-river-rd",
       "timestamp": "2026-04-20T16:46:00Z",
       "address": "CAMP RIVER RD",
@@ -17,6 +30,6 @@
       "pulsePointId": "2458111153"
     }
   ],
-  "lastIncident": "2026-04-20T16:46:00Z",
-  "count": 1
+  "lastIncident": "2026-04-24T04:35:00Z",
+  "count": 2
 }

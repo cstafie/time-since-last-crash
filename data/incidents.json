@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-24T04:35:00Z_chilliwack/camp-river-rd",
+    "timestamp": "2026-04-24T04:35:00Z",
+    "scrapedAt": "2026-04-24T04:58:42Z",
+    "address": "CAMP RIVER RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/camp-river-rd"
+    ],
+    "streetNames": [
+      "Camp River Rd"
+    ],
+    "pulsePointId": "2460384103"
+  },
+  {
     "id": "2026-04-24T02:37:00Z_abbotsford/hill-tout-st",
     "timestamp": "2026-04-24T02:37:00Z",
     "scrapedAt": "2026-04-24T03:42:04Z",
