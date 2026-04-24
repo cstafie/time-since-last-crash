@@ -1,6 +1,6 @@
 {
-  "slug": "langley/204th-st",
-  "name": "204th St",
+  "slug": "langley/82nd-ave",
+  "name": "82nd Ave",
   "city": "Langley",
   "incidents": [
     {
@@ -17,21 +17,8 @@
         "82nd Ave"
       ],
       "pulsePointId": "2460589269"
-    },
-    {
-      "id": "2026-03-18T05:56:00Z_langley/204th-st",
-      "timestamp": "2026-03-18T05:56:00Z",
-      "address": "204TH ST",
-      "city": "Langley",
-      "streets": [
-        "langley/204th-st"
-      ],
-      "streetNames": [
-        "204th St"
-      ],
-      "pulsePointId": "2436349799"
     }
   ],
   "lastIncident": "2026-04-24T15:35:00Z",
-  "count": 2
+  "count": 1
 }

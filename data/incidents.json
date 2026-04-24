@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-24T15:35:00Z_langley/204th-st_langley/82nd-ave",
+    "timestamp": "2026-04-24T15:35:00Z",
+    "scrapedAt": "2026-04-24T15:51:42Z",
+    "address": "204TH ST & 82ND AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/204th-st",
+      "langley/82nd-ave"
+    ],
+    "streetNames": [
+      "204th St",
+      "82nd Ave"
+    ],
+    "pulsePointId": "2460589269"
+  },
+  {
     "id": "2026-04-24T15:13:00Z_abbotsford/trans-canada-hwy_abbotsford/mt-lehman-road-ofrp",
     "timestamp": "2026-04-24T15:13:00Z",
     "scrapedAt": "2026-04-24T15:24:14Z",
