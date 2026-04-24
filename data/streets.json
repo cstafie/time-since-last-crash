@@ -738,8 +738,8 @@
     "name": "Heather St",
     "slug": "vancouver/heather-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-18T20:52:00Z",
-    "count": 3
+    "lastIncident": "2026-04-24T00:15:00Z",
+    "count": 4
   },
   "vancouver/kingsway": {
     "name": "Kingsway",
@@ -1858,15 +1858,15 @@
     "name": "N Penticton St",
     "slug": "vancouver/n-penticton-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-14T02:06:00Z",
-    "count": 1
+    "lastIncident": "2026-04-24T01:00:00Z",
+    "count": 2
   },
   "vancouver/mcgill-st": {
     "name": "Mcgill St",
     "slug": "vancouver/mcgill-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-23T16:35:00Z",
-    "count": 3
+    "lastIncident": "2026-04-24T01:00:00Z",
+    "count": 4
   },
   "vancouver/e-51st-ave": {
     "name": "E 51st Ave",
@@ -3713,8 +3713,8 @@
     "name": "W 57th Ave",
     "slug": "vancouver/w-57th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-22T18:56:00Z",
-    "count": 6
+    "lastIncident": "2026-04-24T00:15:00Z",
+    "count": 7
   },
   "richmond/lansdowne-rd": {
     "name": "Lansdowne Rd",
