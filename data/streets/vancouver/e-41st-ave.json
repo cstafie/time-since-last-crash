@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-24T22:33:00Z_vancouver/argyle-st_vancouver/e-41st-ave",
+      "timestamp": "2026-04-24T22:33:00Z",
+      "address": "ARGYLE ST & E 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/argyle-st",
+        "vancouver/e-41st-ave"
+      ],
+      "streetNames": [
+        "Argyle St",
+        "E 41st Ave"
+      ],
+      "pulsePointId": "2460858068"
+    },
+    {
       "id": "2026-04-12T00:00:00Z_vancouver/e-41st-ave_vancouver/st-catherines-st",
       "timestamp": "2026-04-12T00:00:00Z",
       "address": "E 41ST AVE & ST CATHERINES ST",
@@ -243,6 +258,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-12T00:00:00Z",
-  "count": 16
+  "lastIncident": "2026-04-24T22:33:00Z",
+  "count": 17
 }

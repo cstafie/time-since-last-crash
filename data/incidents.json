@@ -1,5 +1,69 @@
 [
   {
+    "id": "2026-04-24T22:33:00Z_vancouver/argyle-st_vancouver/e-41st-ave",
+    "timestamp": "2026-04-24T22:33:00Z",
+    "scrapedAt": "2026-04-24T22:43:21Z",
+    "address": "ARGYLE ST & E 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/argyle-st",
+      "vancouver/e-41st-ave"
+    ],
+    "streetNames": [
+      "Argyle St",
+      "E 41st Ave"
+    ],
+    "pulsePointId": "2460858068"
+  },
+  {
+    "id": "2026-04-24T22:29:00Z_surrey/8th-ave_surrey/king-george-blvd",
+    "timestamp": "2026-04-24T22:29:00Z",
+    "scrapedAt": "2026-04-24T22:43:21Z",
+    "address": "8TH AVE & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/8th-ave",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "8th Ave",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2460856137"
+  },
+  {
+    "id": "2026-04-24T22:18:00Z_coquitlam/austin-ave_coquitlam/laurentian-cres",
+    "timestamp": "2026-04-24T22:18:00Z",
+    "scrapedAt": "2026-04-24T22:43:21Z",
+    "address": "AUSTIN AVE & LAURENTIAN CRES",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/austin-ave",
+      "coquitlam/laurentian-cres"
+    ],
+    "streetNames": [
+      "Austin Ave",
+      "Laurentian Cres"
+    ],
+    "pulsePointId": "2460848804"
+  },
+  {
+    "id": "2026-04-24T22:18:00Z_surrey/48th-ave_surrey/192nd-st",
+    "timestamp": "2026-04-24T22:18:00Z",
+    "scrapedAt": "2026-04-24T22:43:21Z",
+    "address": "48TH AVE & 192ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/48th-ave",
+      "surrey/192nd-st"
+    ],
+    "streetNames": [
+      "48th Ave",
+      "192nd St"
+    ],
+    "pulsePointId": "2460849482"
+  },
+  {
     "id": "2026-04-24T21:59:00Z_langley/216th-st",
     "timestamp": "2026-04-24T21:59:00Z",
     "scrapedAt": "2026-04-24T22:12:11Z",

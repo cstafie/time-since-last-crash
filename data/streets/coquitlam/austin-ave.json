@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-04-24T22:18:00Z_coquitlam/austin-ave_coquitlam/laurentian-cres",
+      "timestamp": "2026-04-24T22:18:00Z",
+      "address": "AUSTIN AVE & LAURENTIAN CRES",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/austin-ave",
+        "coquitlam/laurentian-cres"
+      ],
+      "streetNames": [
+        "Austin Ave",
+        "Laurentian Cres"
+      ],
+      "pulsePointId": "2460848804"
+    },
+    {
       "id": "2026-04-01T17:44:00Z_coquitlam/nelson-st_coquitlam/austin-ave",
       "timestamp": "2026-04-01T17:44:00Z",
       "address": "NELSON ST & AUSTIN AVE",
@@ -49,6 +64,6 @@
       "pulsePointId": "2436486390"
     }
   ],
-  "lastIncident": "2026-04-01T17:44:00Z",
-  "count": 3
+  "lastIncident": "2026-04-24T22:18:00Z",
+  "count": 4
 }

@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-04-24T22:29:00Z_surrey/8th-ave_surrey/king-george-blvd",
+      "timestamp": "2026-04-24T22:29:00Z",
+      "address": "8TH AVE & KING GEORGE BLVD",
+      "city": "Surrey",
+      "streets": [
+        "surrey/8th-ave",
+        "surrey/king-george-blvd"
+      ],
+      "streetNames": [
+        "8th Ave",
+        "King George Blvd"
+      ],
+      "pulsePointId": "2460856137"
+    },
+    {
       "id": "2026-04-20T05:58:00Z_surrey/king-george-blvd_surrey/62nd-ave",
       "timestamp": "2026-04-20T05:58:00Z",
       "address": "KING GEORGE BLVD & 62ND AVE",
@@ -380,6 +395,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-20T05:58:00Z",
-  "count": 26
+  "lastIncident": "2026-04-24T22:29:00Z",
+  "count": 27
 }
