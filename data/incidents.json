@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-24T16:06:00Z_burnaby/willingdon-avenue-ofrp_burnaby/trans-canada-hwy",
+    "timestamp": "2026-04-24T16:06:00Z",
+    "scrapedAt": "2026-04-24T16:16:33Z",
+    "address": "WILLINGDON AVENUE OFRP & TRANS CANADA HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/willingdon-avenue-ofrp",
+      "burnaby/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Willingdon Avenue Ofrp",
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2460607186"
+  },
+  {
     "id": "2026-04-24T15:35:00Z_langley/204th-st_langley/82nd-ave",
     "timestamp": "2026-04-24T15:35:00Z",
     "scrapedAt": "2026-04-24T15:51:42Z",

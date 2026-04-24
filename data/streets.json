@@ -1249,8 +1249,8 @@
     "name": "Trans Canada Hwy",
     "slug": "burnaby/trans-canada-hwy",
     "city": "Burnaby",
-    "lastIncident": "2026-04-16T01:48:00Z",
-    "count": 14
+    "lastIncident": "2026-04-24T16:06:00Z",
+    "count": 15
   },
   "vancouver/e-1st-ave": {
     "name": "E 1st Ave",
@@ -4133,8 +4133,8 @@
     "name": "Willingdon Avenue Ofrp",
     "slug": "burnaby/willingdon-avenue-ofrp",
     "city": "Burnaby",
-    "lastIncident": "2026-04-02T02:31:00Z",
-    "count": 3
+    "lastIncident": "2026-04-24T16:06:00Z",
+    "count": 4
   },
   "surrey/194a-st": {
     "name": "194a St",

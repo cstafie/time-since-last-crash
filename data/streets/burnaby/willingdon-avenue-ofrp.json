@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-04-24T16:06:00Z_burnaby/willingdon-avenue-ofrp_burnaby/trans-canada-hwy",
+      "timestamp": "2026-04-24T16:06:00Z",
+      "address": "WILLINGDON AVENUE OFRP & TRANS CANADA HWY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/willingdon-avenue-ofrp",
+        "burnaby/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Willingdon Avenue Ofrp",
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2460607186"
+    },
+    {
       "id": "2026-04-02T02:31:00Z_burnaby/trans-canada-hwy_burnaby/willingdon-avenue-ofrp",
       "timestamp": "2026-04-02T02:31:00Z",
       "address": "TRANS CANADA HWY & WILLINGDON AVENUE OFRP",
@@ -49,6 +64,6 @@
       "pulsePointId": "2442095486"
     }
   ],
-  "lastIncident": "2026-04-02T02:31:00Z",
-  "count": 3
+  "lastIncident": "2026-04-24T16:06:00Z",
+  "count": 4
 }
