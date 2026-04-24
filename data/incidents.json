@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-24T17:19:00Z_mission/1st-ave",
+    "timestamp": "2026-04-24T17:19:00Z",
+    "scrapedAt": "2026-04-24T17:45:13Z",
+    "address": "1ST AVE",
+    "city": "Mission",
+    "streets": [
+      "mission/1st-ave"
+    ],
+    "streetNames": [
+      "1st Ave"
+    ],
+    "pulsePointId": "2460651754"
+  },
+  {
     "id": "2026-04-24T16:49:00Z_vancouver/knight-st_vancouver/e-33rd-ave",
     "timestamp": "2026-04-24T16:49:00Z",
     "scrapedAt": "2026-04-24T17:17:50Z",

@@ -1,0 +1,22 @@
+{
+  "slug": "mission/1st-ave",
+  "name": "1st Ave",
+  "city": "Mission",
+  "incidents": [
+    {
+      "id": "2026-04-24T17:19:00Z_mission/1st-ave",
+      "timestamp": "2026-04-24T17:19:00Z",
+      "address": "1ST AVE",
+      "city": "Mission",
+      "streets": [
+        "mission/1st-ave"
+      ],
+      "streetNames": [
+        "1st Ave"
+      ],
+      "pulsePointId": "2460651754"
+    }
+  ],
+  "lastIncident": "2026-04-24T17:19:00Z",
+  "count": 1
+}
