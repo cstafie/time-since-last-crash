@@ -1641,8 +1641,8 @@
     "name": "Marine Dr",
     "slug": "north-vancouver/marine-dr",
     "city": "North Vancouver",
-    "lastIncident": "2026-04-23T01:45:00Z",
-    "count": 2
+    "lastIncident": "2026-04-24T22:46:00Z",
+    "count": 3
   },
   "coquitlam/shaughnessy-st": {
     "name": "Shaughnessy St",
@@ -2880,8 +2880,8 @@
     "name": "Yale Rd",
     "slug": "chilliwack/yale-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-04-15T18:34:00Z",
-    "count": 6
+    "lastIncident": "2026-04-24T22:55:00Z",
+    "count": 7
   },
   "vancouver/e-61st-ave": {
     "name": "E 61st Ave",
@@ -7620,6 +7620,13 @@
     "slug": "surrey/48th-ave",
     "city": "Surrey",
     "lastIncident": "2026-04-24T22:18:00Z",
+    "count": 1
+  },
+  "north-vancouver/hamilton-ave": {
+    "name": "Hamilton Ave",
+    "slug": "north-vancouver/hamilton-ave",
+    "city": "North Vancouver",
+    "lastIncident": "2026-04-24T22:46:00Z",
     "count": 1
   }
 }

@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-24T22:55:00Z_chilliwack/yale-rd",
+    "timestamp": "2026-04-24T22:55:00Z",
+    "scrapedAt": "2026-04-24T23:11:31Z",
+    "address": "YALE RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/yale-rd"
+    ],
+    "streetNames": [
+      "Yale Rd"
+    ],
+    "pulsePointId": "2460872589"
+  },
+  {
+    "id": "2026-04-24T22:46:00Z_north-vancouver/marine-dr_north-vancouver/hamilton-ave",
+    "timestamp": "2026-04-24T22:46:00Z",
+    "scrapedAt": "2026-04-24T23:11:31Z",
+    "address": "MARINE DR & HAMILTON AVE",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/marine-dr",
+      "north-vancouver/hamilton-ave"
+    ],
+    "streetNames": [
+      "Marine Dr",
+      "Hamilton Ave"
+    ],
+    "pulsePointId": "2460866216"
+  },
+  {
     "id": "2026-04-24T22:33:00Z_vancouver/argyle-st_vancouver/e-41st-ave",
     "timestamp": "2026-04-24T22:33:00Z",
     "scrapedAt": "2026-04-24T22:43:21Z",

@@ -1,0 +1,24 @@
+{
+  "slug": "north-vancouver/hamilton-ave",
+  "name": "Hamilton Ave",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-24T22:46:00Z_north-vancouver/marine-dr_north-vancouver/hamilton-ave",
+      "timestamp": "2026-04-24T22:46:00Z",
+      "address": "MARINE DR & HAMILTON AVE",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/marine-dr",
+        "north-vancouver/hamilton-ave"
+      ],
+      "streetNames": [
+        "Marine Dr",
+        "Hamilton Ave"
+      ],
+      "pulsePointId": "2460866216"
+    }
+  ],
+  "lastIncident": "2026-04-24T22:46:00Z",
+  "count": 1
+}
