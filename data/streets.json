@@ -535,8 +535,8 @@
     "name": "128th St",
     "slug": "surrey/128th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-23T23:21:00Z",
-    "count": 11
+    "lastIncident": "2026-04-23T23:54:00Z",
+    "count": 12
   },
   "surrey/130b-st": {
     "name": "130b St",
@@ -6450,8 +6450,8 @@
     "name": "76th Ave",
     "slug": "surrey/76th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-13T22:59:00Z",
-    "count": 2
+    "lastIncident": "2026-04-23T23:54:00Z",
+    "count": 3
   },
   "surrey/67b-ave": {
     "name": "67b Ave",
