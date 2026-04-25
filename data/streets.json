@@ -1746,8 +1746,8 @@
     "name": "Ware St",
     "slug": "abbotsford/ware-st",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-14T21:22:00Z",
-    "count": 4
+    "lastIncident": "2026-04-25T14:29:00Z",
+    "count": 5
   },
   "abbotsford/bourquin-cres-e": {
     "name": "Bourquin Cres E",
@@ -1767,8 +1767,8 @@
     "name": "South Fraser Way",
     "slug": "abbotsford/south-fraser-way",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-15T02:11:00Z",
-    "count": 13
+    "lastIncident": "2026-04-25T14:29:00Z",
+    "count": 14
   },
   "vancouver/e-hastings-st": {
     "name": "E Hastings St",
