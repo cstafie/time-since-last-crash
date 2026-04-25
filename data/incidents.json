@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-04-25T18:31:00Z_langley/248th-st",
+    "timestamp": "2026-04-25T18:31:00Z",
+    "scrapedAt": "2026-04-25T18:44:46Z",
+    "address": "248TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/248th-st"
+    ],
+    "streetNames": [
+      "248th St"
+    ],
+    "pulsePointId": "2461360424"
+  },
+  {
+    "id": "2026-04-25T18:30:00Z_delta/116th-st",
+    "timestamp": "2026-04-25T18:30:00Z",
+    "scrapedAt": "2026-04-25T18:44:46Z",
+    "address": "116TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/116th-st"
+    ],
+    "streetNames": [
+      "116th St"
+    ],
+    "pulsePointId": "2461359939"
+  },
+  {
+    "id": "2026-04-25T18:18:00Z_surrey/72nd-ave_surrey/137th-st",
+    "timestamp": "2026-04-25T18:18:00Z",
+    "scrapedAt": "2026-04-25T18:44:46Z",
+    "address": "72ND AVE & 137TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/72nd-ave",
+      "surrey/137th-st"
+    ],
+    "streetNames": [
+      "72nd Ave",
+      "137th St"
+    ],
+    "pulsePointId": "2461352808"
+  },
+  {
     "id": "2026-04-25T18:02:00Z_surrey/103rd-ave_surrey/160th-st",
     "timestamp": "2026-04-25T18:02:00Z",
     "scrapedAt": "2026-04-25T18:09:33Z",
