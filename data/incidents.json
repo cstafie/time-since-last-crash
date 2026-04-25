@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-25T20:50:00Z_vancouver/knight-st_vancouver/e-59th-ave",
+    "timestamp": "2026-04-25T20:50:00Z",
+    "scrapedAt": "2026-04-25T21:09:21Z",
+    "address": "KNIGHT ST & E 59TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/knight-st",
+      "vancouver/e-59th-ave"
+    ],
+    "streetNames": [
+      "Knight St",
+      "E 59th Ave"
+    ],
+    "pulsePointId": "2461437622"
+  },
+  {
     "id": "2026-04-25T18:31:00Z_langley/248th-st",
     "timestamp": "2026-04-25T18:31:00Z",
     "scrapedAt": "2026-04-25T18:44:46Z",

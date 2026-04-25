@@ -752,8 +752,8 @@
     "name": "Knight St",
     "slug": "vancouver/knight-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-24T16:49:00Z",
-    "count": 17
+    "lastIncident": "2026-04-25T20:50:00Z",
+    "count": 18
   },
   "vancouver/lower-mall": {
     "name": "Lower Mall",
@@ -5330,8 +5330,8 @@
     "name": "E 59th Ave",
     "slug": "vancouver/e-59th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-08T22:33:00Z",
-    "count": 2
+    "lastIncident": "2026-04-25T20:50:00Z",
+    "count": 3
   },
   "vancouver/ross-st": {
     "name": "Ross St",
