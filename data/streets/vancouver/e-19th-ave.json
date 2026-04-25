@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/e-19th-ave",
+  "name": "E 19th Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-25T21:53:00Z_vancouver/fraser-st_vancouver/e-19th-ave",
+      "timestamp": "2026-04-25T21:53:00Z",
+      "address": "FRASER ST & E 19TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/fraser-st",
+        "vancouver/e-19th-ave"
+      ],
+      "streetNames": [
+        "Fraser St",
+        "E 19th Ave"
+      ],
+      "pulsePointId": "2461474162"
+    }
+  ],
+  "lastIncident": "2026-04-25T21:53:00Z",
+  "count": 1
+}
