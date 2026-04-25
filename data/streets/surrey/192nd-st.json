@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-04-25T08:07:00Z_surrey/192nd-st_surrey/60b-ave",
+      "timestamp": "2026-04-25T08:07:00Z",
+      "address": "192ND ST & 60B AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/192nd-st",
+        "surrey/60b-ave"
+      ],
+      "streetNames": [
+        "192nd St",
+        "60b Ave"
+      ],
+      "pulsePointId": "2461136267"
+    },
+    {
       "id": "2026-04-24T22:18:00Z_surrey/48th-ave_surrey/192nd-st",
       "timestamp": "2026-04-24T22:18:00Z",
       "address": "48TH AVE & 192ND ST",
@@ -76,6 +91,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-24T22:18:00Z",
-  "count": 5
+  "lastIncident": "2026-04-25T08:07:00Z",
+  "count": 6
 }

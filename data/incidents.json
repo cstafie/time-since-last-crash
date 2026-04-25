@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-25T08:07:00Z_surrey/192nd-st_surrey/60b-ave",
+    "timestamp": "2026-04-25T08:07:00Z",
+    "scrapedAt": "2026-04-25T08:15:50Z",
+    "address": "192ND ST & 60B AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/192nd-st",
+      "surrey/60b-ave"
+    ],
+    "streetNames": [
+      "192nd St",
+      "60b Ave"
+    ],
+    "pulsePointId": "2461136267"
+  },
+  {
     "id": "2026-04-25T03:13:00Z_burnaby/buxton-st_burnaby/nelson-ave",
     "timestamp": "2026-04-25T03:13:00Z",
     "scrapedAt": "2026-04-25T03:34:05Z",
