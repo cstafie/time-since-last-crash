@@ -2271,8 +2271,8 @@
     "name": "Denman St",
     "slug": "vancouver/denman-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-01T20:00:00Z",
-    "count": 3
+    "lastIncident": "2026-04-25T13:43:00Z",
+    "count": 4
   },
   "vancouver/barclay-st": {
     "name": "Barclay St",
@@ -2341,8 +2341,8 @@
     "name": "W Georgia St",
     "slug": "vancouver/w-georgia-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-09T00:09:00Z",
-    "count": 4
+    "lastIncident": "2026-04-25T13:43:00Z",
+    "count": 5
   },
   "vancouver/w-41st-ave": {
     "name": "W 41st Ave",
