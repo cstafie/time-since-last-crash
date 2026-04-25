@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/buxton-st",
+  "name": "Buxton St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-04-25T03:13:00Z_burnaby/buxton-st_burnaby/nelson-ave",
+      "timestamp": "2026-04-25T03:13:00Z",
+      "address": "BUXTON ST & NELSON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/buxton-st",
+        "burnaby/nelson-ave"
+      ],
+      "streetNames": [
+        "Buxton St",
+        "Nelson Ave"
+      ],
+      "pulsePointId": "2461020459"
+    }
+  ],
+  "lastIncident": "2026-04-25T03:13:00Z",
+  "count": 1
+}

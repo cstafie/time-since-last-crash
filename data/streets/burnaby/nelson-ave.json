@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-04-25T03:13:00Z_burnaby/buxton-st_burnaby/nelson-ave",
+      "timestamp": "2026-04-25T03:13:00Z",
+      "address": "BUXTON ST & NELSON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/buxton-st",
+        "burnaby/nelson-ave"
+      ],
+      "streetNames": [
+        "Buxton St",
+        "Nelson Ave"
+      ],
+      "pulsePointId": "2461020459"
+    },
+    {
       "id": "2026-04-19T22:27:00Z_burnaby/marine-dr_burnaby/nelson-ave",
       "timestamp": "2026-04-19T22:27:00Z",
       "address": "MARINE DR & NELSON AVE",
@@ -49,6 +64,6 @@
       "pulsePointId": "2436020332"
     }
   ],
-  "lastIncident": "2026-04-19T22:27:00Z",
-  "count": 3
+  "lastIncident": "2026-04-25T03:13:00Z",
+  "count": 4
 }

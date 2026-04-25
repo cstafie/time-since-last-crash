@@ -4,6 +4,21 @@
   "city": "North Vancouver",
   "incidents": [
     {
+      "id": "2026-04-25T02:13:00Z_north-vancouver/philip-ave_north-vancouver/marine-dr",
+      "timestamp": "2026-04-25T02:13:00Z",
+      "address": "PHILIP AVE & MARINE DR",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/philip-ave",
+        "north-vancouver/marine-dr"
+      ],
+      "streetNames": [
+        "Philip Ave",
+        "Marine Dr"
+      ],
+      "pulsePointId": "2460990440"
+    },
+    {
       "id": "2026-04-24T22:46:00Z_north-vancouver/marine-dr_north-vancouver/hamilton-ave",
       "timestamp": "2026-04-24T22:46:00Z",
       "address": "MARINE DR & HAMILTON AVE",
@@ -49,6 +64,6 @@
       "pulsePointId": "2432954898"
     }
   ],
-  "lastIncident": "2026-04-24T22:46:00Z",
-  "count": 3
+  "lastIncident": "2026-04-25T02:13:00Z",
+  "count": 4
 }

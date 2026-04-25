@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-04-25T03:13:00Z_burnaby/buxton-st_burnaby/nelson-ave",
+    "timestamp": "2026-04-25T03:13:00Z",
+    "scrapedAt": "2026-04-25T03:34:05Z",
+    "address": "BUXTON ST & NELSON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/buxton-st",
+      "burnaby/nelson-ave"
+    ],
+    "streetNames": [
+      "Buxton St",
+      "Nelson Ave"
+    ],
+    "pulsePointId": "2461020459"
+  },
+  {
+    "id": "2026-04-25T02:56:00Z_pitt-meadows/bonson-rd",
+    "timestamp": "2026-04-25T02:56:00Z",
+    "scrapedAt": "2026-04-25T03:34:05Z",
+    "address": "BONSON RD",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/bonson-rd"
+    ],
+    "streetNames": [
+      "Bonson Rd"
+    ],
+    "pulsePointId": "2461012357"
+  },
+  {
+    "id": "2026-04-25T02:20:00Z_abbotsford/old-yale-rd_abbotsford/north-parallel-rd",
+    "timestamp": "2026-04-25T02:20:00Z",
+    "scrapedAt": "2026-04-25T03:34:05Z",
+    "address": "OLD YALE RD & NORTH PARALLEL RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/old-yale-rd",
+      "abbotsford/north-parallel-rd"
+    ],
+    "streetNames": [
+      "Old Yale Rd",
+      "North Parallel Rd"
+    ],
+    "pulsePointId": "2460996264"
+  },
+  {
+    "id": "2026-04-25T02:13:00Z_north-vancouver/philip-ave_north-vancouver/marine-dr",
+    "timestamp": "2026-04-25T02:13:00Z",
+    "scrapedAt": "2026-04-25T03:34:05Z",
+    "address": "PHILIP AVE & MARINE DR",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/philip-ave",
+      "north-vancouver/marine-dr"
+    ],
+    "streetNames": [
+      "Philip Ave",
+      "Marine Dr"
+    ],
+    "pulsePointId": "2460990440"
+  },
+  {
     "id": "2026-04-25T01:34:00Z_burnaby/sprott-st_burnaby/norland-ave",
     "timestamp": "2026-04-25T01:34:00Z",
     "scrapedAt": "2026-04-25T02:14:57Z",

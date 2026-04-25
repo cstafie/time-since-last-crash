@@ -1,0 +1,24 @@
+{
+  "slug": "north-vancouver/philip-ave",
+  "name": "Philip Ave",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-25T02:13:00Z_north-vancouver/philip-ave_north-vancouver/marine-dr",
+      "timestamp": "2026-04-25T02:13:00Z",
+      "address": "PHILIP AVE & MARINE DR",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/philip-ave",
+        "north-vancouver/marine-dr"
+      ],
+      "streetNames": [
+        "Philip Ave",
+        "Marine Dr"
+      ],
+      "pulsePointId": "2460990440"
+    }
+  ],
+  "lastIncident": "2026-04-25T02:13:00Z",
+  "count": 1
+}

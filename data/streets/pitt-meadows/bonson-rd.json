@@ -1,0 +1,22 @@
+{
+  "slug": "pitt-meadows/bonson-rd",
+  "name": "Bonson Rd",
+  "city": "Pitt Meadows",
+  "incidents": [
+    {
+      "id": "2026-04-25T02:56:00Z_pitt-meadows/bonson-rd",
+      "timestamp": "2026-04-25T02:56:00Z",
+      "address": "BONSON RD",
+      "city": "Pitt Meadows",
+      "streets": [
+        "pitt-meadows/bonson-rd"
+      ],
+      "streetNames": [
+        "Bonson Rd"
+      ],
+      "pulsePointId": "2461012357"
+    }
+  ],
+  "lastIncident": "2026-04-25T02:56:00Z",
+  "count": 1
+}
