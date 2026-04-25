@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-04-25T23:07:00Z_surrey/84th-ave_surrey/128th-st",
+    "timestamp": "2026-04-25T23:07:00Z",
+    "scrapedAt": "2026-04-25T23:10:10Z",
+    "address": "84TH AVE & 128TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/84th-ave",
+      "surrey/128th-st"
+    ],
+    "streetNames": [
+      "84th Ave",
+      "128th St"
+    ],
+    "pulsePointId": "2461515470"
+  },
+  {
+    "id": "2026-04-25T23:06:00Z_vancouver/victoria-dr",
+    "timestamp": "2026-04-25T23:06:00Z",
+    "scrapedAt": "2026-04-25T23:10:10Z",
+    "address": "VICTORIA DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/victoria-dr"
+    ],
+    "streetNames": [
+      "Victoria Dr"
+    ],
+    "pulsePointId": "2461514488"
+  },
+  {
+    "id": "2026-04-25T22:52:00Z_north-vancouver/dollarton-hwy_north-vancouver/dollarton-hwy-ofrp",
+    "timestamp": "2026-04-25T22:52:00Z",
+    "scrapedAt": "2026-04-25T23:10:10Z",
+    "address": "DOLLARTON HWY & DOLLARTON HWY OFRP",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/dollarton-hwy",
+      "north-vancouver/dollarton-hwy-ofrp"
+    ],
+    "streetNames": [
+      "Dollarton Hwy",
+      "Dollarton Hwy Ofrp"
+    ],
+    "pulsePointId": "2461508153"
+  },
+  {
     "id": "2026-04-25T21:53:00Z_vancouver/fraser-st_vancouver/e-19th-ave",
     "timestamp": "2026-04-25T21:53:00Z",
     "scrapedAt": "2026-04-25T22:07:07Z",
