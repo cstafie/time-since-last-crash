@@ -269,8 +269,8 @@
     "name": "Trans Canada Hwy",
     "slug": "langley/trans-canada-hwy",
     "city": "Langley",
-    "lastIncident": "2026-04-22T23:58:00Z",
-    "count": 12
+    "lastIncident": "2026-04-25T01:05:00Z",
+    "count": 13
   },
   "maple-ridge/119th-ave": {
     "name": "119th Ave",
@@ -360,15 +360,15 @@
     "name": "6th Ave",
     "slug": "new-westminster/6th-ave",
     "city": "New Westminster",
-    "lastIncident": "2026-03-14T19:45:00Z",
-    "count": 2
+    "lastIncident": "2026-04-25T01:31:00Z",
+    "count": 3
   },
   "new-westminster/8th-st": {
     "name": "8th St",
     "slug": "new-westminster/8th-st",
     "city": "New Westminster",
-    "lastIncident": "2026-04-19T18:16:00Z",
-    "count": 3
+    "lastIncident": "2026-04-25T01:20:00Z",
+    "count": 4
   },
   "new-westminster/mcbride-blvd": {
     "name": "Mcbride Blvd",
@@ -437,8 +437,8 @@
     "name": "Blundell Rd",
     "slug": "richmond/blundell-rd",
     "city": "Richmond",
-    "lastIncident": "2026-04-15T13:17:00Z",
-    "count": 6
+    "lastIncident": "2026-04-25T01:26:00Z",
+    "count": 7
   },
   "richmond/bowcock-rd": {
     "name": "Bowcock Rd",
@@ -500,8 +500,8 @@
     "name": "St Albans Rd",
     "slug": "richmond/st-albans-rd",
     "city": "Richmond",
-    "lastIncident": "2026-04-06T16:39:00Z",
-    "count": 2
+    "lastIncident": "2026-04-25T01:26:00Z",
+    "count": 3
   },
   "richmond/wilkinson-rd": {
     "name": "Wilkinson Rd",
@@ -1137,8 +1137,8 @@
     "name": "Norland Ave",
     "slug": "burnaby/norland-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-03-11T01:30:00Z",
-    "count": 1
+    "lastIncident": "2026-04-25T01:34:00Z",
+    "count": 2
   },
   "vancouver/blanca-st": {
     "name": "Blanca St",
@@ -1760,8 +1760,8 @@
     "name": "2nd St",
     "slug": "new-westminster/2nd-st",
     "city": "New Westminster",
-    "lastIncident": "2026-03-13T16:48:00Z",
-    "count": 1
+    "lastIncident": "2026-04-25T01:31:00Z",
+    "count": 2
   },
   "abbotsford/south-fraser-way": {
     "name": "South Fraser Way",
@@ -7634,6 +7634,27 @@
     "slug": "surrey/142nd-st",
     "city": "Surrey",
     "lastIncident": "2026-04-24T23:55:00Z",
+    "count": 1
+  },
+  "burnaby/sprott-st": {
+    "name": "Sprott St",
+    "slug": "burnaby/sprott-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-04-25T01:34:00Z",
+    "count": 1
+  },
+  "new-westminster/5th-ave": {
+    "name": "5th Ave",
+    "slug": "new-westminster/5th-ave",
+    "city": "New Westminster",
+    "lastIncident": "2026-04-25T01:20:00Z",
+    "count": 1
+  },
+  "chilliwack/banford-rd": {
+    "name": "Banford Rd",
+    "slug": "chilliwack/banford-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-04-25T01:25:00Z",
     "count": 1
   }
 }

@@ -1,6 +1,6 @@
 {
-  "slug": "burnaby/norland-ave",
-  "name": "Norland Ave",
+  "slug": "burnaby/sprott-st",
+  "name": "Sprott St",
   "city": "Burnaby",
   "incidents": [
     {
@@ -17,22 +17,8 @@
         "Norland Ave"
       ],
       "pulsePointId": "2460968438"
-    },
-    {
-      "id": "2026-03-11T01:30:00Z_burnaby/canada-way_burnaby/norland-ave",
-      "timestamp": "2026-03-11T01:30:00Z",
-      "address": "CANADA WAY & NORLAND AVE",
-      "city": "Burnaby",
-      "streets": [
-        "burnaby/canada-way",
-        "burnaby/norland-ave"
-      ],
-      "streetNames": [
-        "Canada Way",
-        "Norland Ave"
-      ]
     }
   ],
   "lastIncident": "2026-04-25T01:34:00Z",
-  "count": 2
+  "count": 1
 }
