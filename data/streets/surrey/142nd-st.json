@@ -1,0 +1,24 @@
+{
+  "slug": "surrey/142nd-st",
+  "name": "142nd St",
+  "city": "Surrey",
+  "incidents": [
+    {
+      "id": "2026-04-24T23:55:00Z_surrey/142nd-st_surrey/72nd-ave",
+      "timestamp": "2026-04-24T23:55:00Z",
+      "address": "142ND ST & 72ND AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/142nd-st",
+        "surrey/72nd-ave"
+      ],
+      "streetNames": [
+        "142nd St",
+        "72nd Ave"
+      ],
+      "pulsePointId": "2460909442"
+    }
+  ],
+  "lastIncident": "2026-04-24T23:55:00Z",
+  "count": 1
+}
