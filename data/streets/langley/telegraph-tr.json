@@ -1,0 +1,22 @@
+{
+  "slug": "langley/telegraph-tr",
+  "name": "Telegraph Tr",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-04-25T16:03:00Z_langley/telegraph-tr",
+      "timestamp": "2026-04-25T16:03:00Z",
+      "address": "TELEGRAPH TR",
+      "city": "Langley",
+      "streets": [
+        "langley/telegraph-tr"
+      ],
+      "streetNames": [
+        "Telegraph Tr"
+      ],
+      "pulsePointId": "2461282734"
+    }
+  ],
+  "lastIncident": "2026-04-25T16:03:00Z",
+  "count": 1
+}
