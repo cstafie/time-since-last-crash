@@ -7768,5 +7768,12 @@
     "city": "Richmond",
     "lastIncident": "2026-04-26T12:37:00Z",
     "count": 1
+  },
+  "richmond/7340-sidaway-rd": {
+    "name": "7340 Sidaway Rd",
+    "slug": "richmond/7340-sidaway-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-04-26T12:37:00Z",
+    "count": 1
   }
 }

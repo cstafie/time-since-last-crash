@@ -16,6 +16,20 @@
     "pulsePointId": "2461838958"
   },
   {
+    "id": "2026-04-26T12:37:00Z_richmond/7340-sidaway-rd",
+    "timestamp": "2026-04-26T12:37:00Z",
+    "scrapedAt": "2026-04-26T13:26:30Z",
+    "address": "7340 SIDAWAY RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/7340-sidaway-rd"
+    ],
+    "streetNames": [
+      "7340 Sidaway Rd"
+    ],
+    "pulsePointId": "2461840262"
+  },
+  {
     "id": "2026-04-26T08:36:00Z_vancouver/w-georgia-st_vancouver/denman-st",
     "timestamp": "2026-04-26T08:36:00Z",
     "scrapedAt": "2026-04-26T08:46:32Z",
