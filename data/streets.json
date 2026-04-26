@@ -7719,5 +7719,19 @@
     "city": "Langley",
     "lastIncident": "2026-04-26T00:14:00Z",
     "count": 1
+  },
+  "mission/rocky-point-fsr": {
+    "name": "Rocky Point Fsr",
+    "slug": "mission/rocky-point-fsr",
+    "city": "Mission",
+    "lastIncident": "2026-04-26T01:19:00Z",
+    "count": 1
+  },
+  "vancouver/knight-street-brdg": {
+    "name": "Knight Street Brdg",
+    "slug": "vancouver/knight-street-brdg",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-26T01:10:00Z",
+    "count": 1
   }
 }

@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-04-26T01:19:00Z_mission/rocky-point-fsr",
+    "timestamp": "2026-04-26T01:19:00Z",
+    "scrapedAt": "2026-04-26T02:15:13Z",
+    "address": "ROCKY POINT FSR",
+    "city": "Mission",
+    "streets": [
+      "mission/rocky-point-fsr"
+    ],
+    "streetNames": [
+      "Rocky Point Fsr"
+    ],
+    "pulsePointId": "2461588690"
+  },
+  {
+    "id": "2026-04-26T01:10:00Z_vancouver/knight-street-brdg",
+    "timestamp": "2026-04-26T01:10:00Z",
+    "scrapedAt": "2026-04-26T02:15:13Z",
+    "address": "KNIGHT STREET BRDG",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/knight-street-brdg"
+    ],
+    "streetNames": [
+      "Knight Street Brdg"
+    ],
+    "pulsePointId": "2461584953"
+  },
+  {
     "id": "2026-04-26T00:14:00Z_langley/232nd-st_langley/24th-ave",
     "timestamp": "2026-04-26T00:14:00Z",
     "scrapedAt": "2026-04-26T01:09:24Z",
