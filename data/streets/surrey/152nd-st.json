@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-04-26T15:10:00Z_surrey/48th-ave_surrey/152nd-st",
+      "timestamp": "2026-04-26T15:10:00Z",
+      "address": "48TH AVE & 152ND ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/48th-ave",
+        "surrey/152nd-st"
+      ],
+      "streetNames": [
+        "48th Ave",
+        "152nd St"
+      ],
+      "pulsePointId": "2461890592"
+    },
+    {
       "id": "2026-04-22T19:09:00Z_surrey/152nd-st",
       "timestamp": "2026-04-22T19:09:00Z",
       "address": "152ND ST",
@@ -257,6 +272,6 @@
       "pulsePointId": "2433332497"
     }
   ],
-  "lastIncident": "2026-04-22T19:09:00Z",
-  "count": 17
+  "lastIncident": "2026-04-26T15:10:00Z",
+  "count": 18
 }

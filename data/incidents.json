@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-26T15:10:00Z_surrey/48th-ave_surrey/152nd-st",
+    "timestamp": "2026-04-26T15:10:00Z",
+    "scrapedAt": "2026-04-26T15:12:46Z",
+    "address": "48TH AVE & 152ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/48th-ave",
+      "surrey/152nd-st"
+    ],
+    "streetNames": [
+      "48th Ave",
+      "152nd St"
+    ],
+    "pulsePointId": "2461890592"
+  },
+  {
     "id": "2026-04-26T13:45:00Z_abbotsford/interprovincial-hwy_abbotsford/no-3-rd",
     "timestamp": "2026-04-26T13:45:00Z",
     "scrapedAt": "2026-04-26T13:53:22Z",
