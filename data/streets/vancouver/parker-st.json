@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-26T16:41:00Z_vancouver/renfrew-st_vancouver/parker-st",
+      "timestamp": "2026-04-26T16:41:00Z",
+      "address": "RENFREW ST & PARKER ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/renfrew-st",
+        "vancouver/parker-st"
+      ],
+      "streetNames": [
+        "Renfrew St",
+        "Parker St"
+      ],
+      "pulsePointId": "2461931263"
+    },
+    {
       "id": "2026-04-22T18:11:00Z_vancouver/renfrew-st_vancouver/parker-st",
       "timestamp": "2026-04-22T18:11:00Z",
       "address": "RENFREW ST & PARKER ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2456438957"
     }
   ],
-  "lastIncident": "2026-04-22T18:11:00Z",
-  "count": 2
+  "lastIncident": "2026-04-26T16:41:00Z",
+  "count": 3
 }

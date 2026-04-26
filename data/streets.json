@@ -1928,8 +1928,8 @@
     "name": "Renfrew St",
     "slug": "vancouver/renfrew-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-22T18:11:00Z",
-    "count": 10
+    "lastIncident": "2026-04-26T16:41:00Z",
+    "count": 11
   },
   "vancouver/e-22nd-ave": {
     "name": "E 22nd Ave",
@@ -7066,8 +7066,8 @@
     "name": "Parker St",
     "slug": "vancouver/parker-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-22T18:11:00Z",
-    "count": 2
+    "lastIncident": "2026-04-26T16:41:00Z",
+    "count": 3
   },
   "delta/93a-ave": {
     "name": "93a Ave",
