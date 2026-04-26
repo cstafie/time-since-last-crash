@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-26T21:43:00Z_langley/88th-ave",
+    "timestamp": "2026-04-26T21:43:00Z",
+    "scrapedAt": "2026-04-26T22:08:18Z",
+    "address": "88TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/88th-ave"
+    ],
+    "streetNames": [
+      "88th Ave"
+    ],
+    "pulsePointId": "2462102554"
+  },
+  {
     "id": "2026-04-26T21:20:00Z_surrey/148th-st_surrey/north-bluff-rd",
     "timestamp": "2026-04-26T21:20:00Z",
     "scrapedAt": "2026-04-26T21:43:21Z",
