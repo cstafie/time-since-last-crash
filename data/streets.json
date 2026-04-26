@@ -2040,8 +2040,8 @@
     "name": "Trans Canada Hwy",
     "slug": "coquitlam/trans-canada-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-04-14T17:37:00Z",
-    "count": 9
+    "lastIncident": "2026-04-26T22:52:00Z",
+    "count": 10
   },
   "langley/202a-st": {
     "name": "202a St",
@@ -7816,6 +7816,20 @@
     "slug": "delta/nicholson-rd",
     "city": "Delta",
     "lastIncident": "2026-04-26T19:55:00Z",
+    "count": 1
+  },
+  "vancouver/cook-st": {
+    "name": "Cook St",
+    "slug": "vancouver/cook-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-26T22:58:00Z",
+    "count": 1
+  },
+  "vancouver/w-1st-ave": {
+    "name": "W 1st Ave",
+    "slug": "vancouver/w-1st-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-26T22:58:00Z",
     "count": 1
   }
 }

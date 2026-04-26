@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-26T22:58:00Z_vancouver/cook-st_vancouver/w-1st-ave",
+    "timestamp": "2026-04-26T22:58:00Z",
+    "scrapedAt": "2026-04-26T23:11:03Z",
+    "address": "COOK ST & W 1ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/cook-st",
+      "vancouver/w-1st-ave"
+    ],
+    "streetNames": [
+      "Cook St",
+      "W 1st Ave"
+    ],
+    "pulsePointId": "2462141924"
+  },
+  {
+    "id": "2026-04-26T22:52:00Z_coquitlam/trans-canada-hwy",
+    "timestamp": "2026-04-26T22:52:00Z",
+    "scrapedAt": "2026-04-26T23:11:03Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2462138884"
+  },
+  {
     "id": "2026-04-26T21:43:00Z_langley/88th-ave",
     "timestamp": "2026-04-26T21:43:00Z",
     "scrapedAt": "2026-04-26T22:08:18Z",
