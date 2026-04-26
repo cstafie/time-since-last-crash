@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-26T21:20:00Z_surrey/148th-st_surrey/north-bluff-rd",
+    "timestamp": "2026-04-26T21:20:00Z",
+    "scrapedAt": "2026-04-26T21:43:21Z",
+    "address": "148TH ST & NORTH BLUFF RD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/148th-st",
+      "surrey/north-bluff-rd"
+    ],
+    "streetNames": [
+      "148th St",
+      "North Bluff Rd"
+    ],
+    "pulsePointId": "2462088182"
+  },
+  {
     "id": "2026-04-26T20:03:00Z_vancouver/knight-st_vancouver/e-41st-ave",
     "timestamp": "2026-04-26T20:03:00Z",
     "scrapedAt": "2026-04-26T20:43:22Z",
