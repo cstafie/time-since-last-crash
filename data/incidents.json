@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-26T05:41:00Z_vancouver/kingsway_vancouver/tyne-st",
+    "timestamp": "2026-04-26T05:41:00Z",
+    "scrapedAt": "2026-04-26T05:54:28Z",
+    "address": "KINGSWAY & TYNE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kingsway",
+      "vancouver/tyne-st"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "Tyne St"
+    ],
+    "pulsePointId": "2461712412"
+  },
+  {
+    "id": "2026-04-26T05:23:00Z_coquitlam/quarry-rd",
+    "timestamp": "2026-04-26T05:23:00Z",
+    "scrapedAt": "2026-04-26T05:54:28Z",
+    "address": "QUARRY RD",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/quarry-rd"
+    ],
+    "streetNames": [
+      "Quarry Rd"
+    ],
+    "pulsePointId": "2461705920"
+  },
+  {
     "id": "2026-04-26T03:47:00Z_vancouver/bute-st",
     "timestamp": "2026-04-26T03:47:00Z",
     "scrapedAt": "2026-04-26T04:59:24Z",

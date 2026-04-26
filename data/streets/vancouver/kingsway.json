@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-26T05:41:00Z_vancouver/kingsway_vancouver/tyne-st",
+      "timestamp": "2026-04-26T05:41:00Z",
+      "address": "KINGSWAY & TYNE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/kingsway",
+        "vancouver/tyne-st"
+      ],
+      "streetNames": [
+        "Kingsway",
+        "Tyne St"
+      ],
+      "pulsePointId": "2461712412"
+    },
+    {
       "id": "2026-04-23T03:26:00Z_vancouver/kingsway_vancouver/joyce-st",
       "timestamp": "2026-04-23T03:26:00Z",
       "address": "KINGSWAY & JOYCE ST",
@@ -211,6 +226,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-23T03:26:00Z",
-  "count": 14
+  "lastIncident": "2026-04-26T05:41:00Z",
+  "count": 15
 }
