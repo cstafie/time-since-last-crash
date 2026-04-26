@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-04-26T19:20:00Z_surrey/156th-st_surrey/104th-ave",
+      "timestamp": "2026-04-26T19:20:00Z",
+      "address": "156TH ST & 104TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/156th-st",
+        "surrey/104th-ave"
+      ],
+      "streetNames": [
+        "156th St",
+        "104th Ave"
+      ],
+      "pulsePointId": "2462017523"
+    },
+    {
       "id": "2026-04-10T16:41:00Z_surrey/156th-st_surrey/84th-ave",
       "timestamp": "2026-04-10T16:41:00Z",
       "address": "156TH ST & 84TH AVE",
@@ -107,6 +122,6 @@
       "pulsePointId": "2432889415"
     }
   ],
-  "lastIncident": "2026-04-10T16:41:00Z",
-  "count": 7
+  "lastIncident": "2026-04-26T19:20:00Z",
+  "count": 8
 }

@@ -528,8 +528,8 @@
     "name": "124th St",
     "slug": "surrey/124th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-01T16:00:00Z",
-    "count": 5
+    "lastIncident": "2026-04-26T19:20:00Z",
+    "count": 6
   },
   "surrey/128th-st": {
     "name": "128th St",
@@ -1312,8 +1312,8 @@
     "name": "104th Ave",
     "slug": "surrey/104th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-23T00:04:00Z",
-    "count": 16
+    "lastIncident": "2026-04-26T19:20:00Z",
+    "count": 17
   },
   "surrey/122nd-st": {
     "name": "122nd St",
@@ -1620,15 +1620,15 @@
     "name": "80th Ave",
     "slug": "surrey/80th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-23T22:05:00Z",
-    "count": 12
+    "lastIncident": "2026-04-26T19:20:00Z",
+    "count": 13
   },
   "surrey/156th-st": {
     "name": "156th St",
     "slug": "surrey/156th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-10T16:41:00Z",
-    "count": 7
+    "lastIncident": "2026-04-26T19:20:00Z",
+    "count": 8
   },
   "north-vancouver/pemberton-ave": {
     "name": "Pemberton Ave",
