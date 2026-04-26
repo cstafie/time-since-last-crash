@@ -1200,8 +1200,8 @@
     "name": "Se Marine Dr",
     "slug": "vancouver/se-marine-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-04-23T16:34:00Z",
-    "count": 5
+    "lastIncident": "2026-04-26T16:02:00Z",
+    "count": 6
   },
   "vancouver/kerr-st": {
     "name": "Kerr St",
@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-23T06:36:00Z",
-    "count": 21
+    "lastIncident": "2026-04-26T16:02:00Z",
+    "count": 22
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",

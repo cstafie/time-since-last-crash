@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-26T16:02:00Z_vancouver/se-marine-dr_vancouver/main-st",
+      "timestamp": "2026-04-26T16:02:00Z",
+      "address": "SE MARINE DR & MAIN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/se-marine-dr",
+        "vancouver/main-st"
+      ],
+      "streetNames": [
+        "Se Marine Dr",
+        "Main St"
+      ],
+      "pulsePointId": "2461913744"
+    },
+    {
       "id": "2026-04-23T06:36:00Z_vancouver/main-st",
       "timestamp": "2026-04-23T06:36:00Z",
       "address": "MAIN ST",
@@ -309,6 +324,6 @@
       "pulsePointId": "2432937969"
     }
   ],
-  "lastIncident": "2026-04-23T06:36:00Z",
-  "count": 21
+  "lastIncident": "2026-04-26T16:02:00Z",
+  "count": 22
 }
