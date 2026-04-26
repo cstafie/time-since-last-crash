@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-26T23:34:00Z_west-vancouver/marine-dr_west-vancouver/18th-st",
+    "timestamp": "2026-04-26T23:34:00Z",
+    "scrapedAt": "2026-04-26T23:43:16Z",
+    "address": "MARINE DR & 18TH ST",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/marine-dr",
+      "west-vancouver/18th-st"
+    ],
+    "streetNames": [
+      "Marine Dr",
+      "18th St"
+    ],
+    "pulsePointId": "2462161326"
+  },
+  {
+    "id": "2026-04-26T23:33:00Z_vancouver/davie-st_vancouver/pacific-blvd",
+    "timestamp": "2026-04-26T23:33:00Z",
+    "scrapedAt": "2026-04-26T23:43:16Z",
+    "address": "DAVIE ST & PACIFIC BLVD",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/davie-st",
+      "vancouver/pacific-blvd"
+    ],
+    "streetNames": [
+      "Davie St",
+      "Pacific Blvd"
+    ],
+    "pulsePointId": "2462159784"
+  },
+  {
     "id": "2026-04-26T22:58:00Z_vancouver/cook-st_vancouver/w-1st-ave",
     "timestamp": "2026-04-26T22:58:00Z",
     "scrapedAt": "2026-04-26T23:11:03Z",

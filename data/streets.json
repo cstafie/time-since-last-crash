@@ -2481,15 +2481,15 @@
     "name": "Pacific Blvd",
     "slug": "vancouver/pacific-blvd",
     "city": "Vancouver",
-    "lastIncident": "2026-03-25T16:34:00Z",
-    "count": 2
+    "lastIncident": "2026-04-26T23:33:00Z",
+    "count": 3
   },
   "vancouver/davie-st": {
     "name": "Davie St",
     "slug": "vancouver/davie-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-09T16:34:00Z",
-    "count": 4
+    "lastIncident": "2026-04-26T23:33:00Z",
+    "count": 5
   },
   "coquitlam/brunette-avenue-onrp": {
     "name": "Brunette Avenue Onrp",
@@ -7830,6 +7830,20 @@
     "slug": "vancouver/w-1st-ave",
     "city": "Vancouver",
     "lastIncident": "2026-04-26T22:58:00Z",
+    "count": 1
+  },
+  "west-vancouver/marine-dr": {
+    "name": "Marine Dr",
+    "slug": "west-vancouver/marine-dr",
+    "city": "West Vancouver",
+    "lastIncident": "2026-04-26T23:34:00Z",
+    "count": 1
+  },
+  "west-vancouver/18th-st": {
+    "name": "18th St",
+    "slug": "west-vancouver/18th-st",
+    "city": "West Vancouver",
+    "lastIncident": "2026-04-26T23:34:00Z",
     "count": 1
   }
 }
