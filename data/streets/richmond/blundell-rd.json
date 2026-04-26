@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-04-26T12:37:00Z_richmond/sidaway-rd_richmond/blundell-rd",
+      "timestamp": "2026-04-26T12:37:00Z",
+      "address": "SIDAWAY RD & BLUNDELL RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/sidaway-rd",
+        "richmond/blundell-rd"
+      ],
+      "streetNames": [
+        "Sidaway Rd",
+        "Blundell Rd"
+      ],
+      "pulsePointId": "2461838958"
+    },
+    {
       "id": "2026-04-25T01:26:00Z_richmond/st-albans-rd_richmond/blundell-rd",
       "timestamp": "2026-04-25T01:26:00Z",
       "address": "ST ALBANS RD & BLUNDELL RD",
@@ -107,6 +122,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-25T01:26:00Z",
-  "count": 7
+  "lastIncident": "2026-04-26T12:37:00Z",
+  "count": 8
 }

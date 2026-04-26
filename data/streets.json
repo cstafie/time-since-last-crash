@@ -437,8 +437,8 @@
     "name": "Blundell Rd",
     "slug": "richmond/blundell-rd",
     "city": "Richmond",
-    "lastIncident": "2026-04-25T01:26:00Z",
-    "count": 7
+    "lastIncident": "2026-04-26T12:37:00Z",
+    "count": 8
   },
   "richmond/bowcock-rd": {
     "name": "Bowcock Rd",
@@ -7760,6 +7760,13 @@
     "slug": "delta/119a-st",
     "city": "Delta",
     "lastIncident": "2026-04-26T07:12:00Z",
+    "count": 1
+  },
+  "richmond/sidaway-rd": {
+    "name": "Sidaway Rd",
+    "slug": "richmond/sidaway-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-04-26T12:37:00Z",
     "count": 1
   }
 }

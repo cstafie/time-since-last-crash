@@ -1,0 +1,24 @@
+{
+  "slug": "richmond/sidaway-rd",
+  "name": "Sidaway Rd",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-04-26T12:37:00Z_richmond/sidaway-rd_richmond/blundell-rd",
+      "timestamp": "2026-04-26T12:37:00Z",
+      "address": "SIDAWAY RD & BLUNDELL RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/sidaway-rd",
+        "richmond/blundell-rd"
+      ],
+      "streetNames": [
+        "Sidaway Rd",
+        "Blundell Rd"
+      ],
+      "pulsePointId": "2461838958"
+    }
+  ],
+  "lastIncident": "2026-04-26T12:37:00Z",
+  "count": 1
+}
