@@ -1,0 +1,24 @@
+{
+  "slug": "delta/92a-ave",
+  "name": "92a Ave",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-04-26T07:12:00Z_delta/92a-ave_delta/119a-st",
+      "timestamp": "2026-04-26T07:12:00Z",
+      "address": "92A AVE & 119A ST",
+      "city": "Delta",
+      "streets": [
+        "delta/92a-ave",
+        "delta/119a-st"
+      ],
+      "streetNames": [
+        "92a Ave",
+        "119a St"
+      ],
+      "pulsePointId": "2461748539"
+    }
+  ],
+  "lastIncident": "2026-04-26T07:12:00Z",
+  "count": 1
+}

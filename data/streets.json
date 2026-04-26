@@ -7747,5 +7747,19 @@
     "city": "Coquitlam",
     "lastIncident": "2026-04-26T05:23:00Z",
     "count": 1
+  },
+  "delta/92a-ave": {
+    "name": "92a Ave",
+    "slug": "delta/92a-ave",
+    "city": "Delta",
+    "lastIncident": "2026-04-26T07:12:00Z",
+    "count": 1
+  },
+  "delta/119a-st": {
+    "name": "119a St",
+    "slug": "delta/119a-st",
+    "city": "Delta",
+    "lastIncident": "2026-04-26T07:12:00Z",
+    "count": 1
   }
 }
