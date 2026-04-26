@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-26T20:02:00Z_abbotsford/hill-tout-st_abbotsford/south-fraser-way",
+      "timestamp": "2026-04-26T20:02:00Z",
+      "address": "HILL TOUT ST & SOUTH FRASER WAY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/hill-tout-st",
+        "abbotsford/south-fraser-way"
+      ],
+      "streetNames": [
+        "Hill Tout St",
+        "South Fraser Way"
+      ],
+      "pulsePointId": "2462044253"
+    },
+    {
       "id": "2026-04-25T14:29:00Z_abbotsford/south-fraser-way_abbotsford/ware-st",
       "timestamp": "2026-04-25T14:29:00Z",
       "address": "SOUTH FRASER WAY & WARE ST",
@@ -212,6 +227,6 @@
       "pulsePointId": "2433235919"
     }
   ],
-  "lastIncident": "2026-04-25T14:29:00Z",
-  "count": 14
+  "lastIncident": "2026-04-26T20:02:00Z",
+  "count": 15
 }

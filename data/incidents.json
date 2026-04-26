@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-04-26T20:03:00Z_vancouver/knight-st_vancouver/e-41st-ave",
+    "timestamp": "2026-04-26T20:03:00Z",
+    "scrapedAt": "2026-04-26T20:43:22Z",
+    "address": "KNIGHT ST & E 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/knight-st",
+      "vancouver/e-41st-ave"
+    ],
+    "streetNames": [
+      "Knight St",
+      "E 41st Ave"
+    ],
+    "pulsePointId": "2462044955"
+  },
+  {
+    "id": "2026-04-26T20:02:00Z_abbotsford/hill-tout-st_abbotsford/south-fraser-way",
+    "timestamp": "2026-04-26T20:02:00Z",
+    "scrapedAt": "2026-04-26T20:43:22Z",
+    "address": "HILL TOUT ST & SOUTH FRASER WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/hill-tout-st",
+      "abbotsford/south-fraser-way"
+    ],
+    "streetNames": [
+      "Hill Tout St",
+      "South Fraser Way"
+    ],
+    "pulsePointId": "2462044253"
+  },
+  {
+    "id": "2026-04-26T20:00:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-04-26T20:00:00Z",
+    "scrapedAt": "2026-04-26T20:43:22Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2462043191"
+  },
+  {
+    "id": "2026-04-26T19:55:00Z_delta/70th-ave_delta/nicholson-rd",
+    "timestamp": "2026-04-26T19:55:00Z",
+    "scrapedAt": "2026-04-26T20:43:22Z",
+    "address": "70TH AVE & NICHOLSON RD",
+    "city": "Delta",
+    "streets": [
+      "delta/70th-ave",
+      "delta/nicholson-rd"
+    ],
+    "streetNames": [
+      "70th Ave",
+      "Nicholson Rd"
+    ],
+    "pulsePointId": "2462040119"
+  },
+  {
     "id": "2026-04-26T19:20:00Z_surrey/124th-st_surrey/80th-ave",
     "timestamp": "2026-04-26T19:20:00Z",
     "scrapedAt": "2026-04-26T19:44:25Z",
