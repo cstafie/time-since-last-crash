@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/interprovincial-hwy",
+  "name": "Interprovincial Hwy",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-04-26T13:45:00Z_abbotsford/interprovincial-hwy_abbotsford/no-3-rd",
+      "timestamp": "2026-04-26T13:45:00Z",
+      "address": "INTERPROVINCIAL HWY & NO 3 RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/interprovincial-hwy",
+        "abbotsford/no-3-rd"
+      ],
+      "streetNames": [
+        "Interprovincial Hwy",
+        "No 3 Rd"
+      ],
+      "pulsePointId": "2461858815"
+    }
+  ],
+  "lastIncident": "2026-04-26T13:45:00Z",
+  "count": 1
+}
