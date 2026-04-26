@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-26T18:19:00Z_new-westminster/5th-ave_new-westminster/stewardson-way",
+    "timestamp": "2026-04-26T18:19:00Z",
+    "scrapedAt": "2026-04-26T18:44:51Z",
+    "address": "5TH AVE & STEWARDSON WAY",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/5th-ave",
+      "new-westminster/stewardson-way"
+    ],
+    "streetNames": [
+      "5th Ave",
+      "Stewardson Way"
+    ],
+    "pulsePointId": "2461979644"
+  },
+  {
     "id": "2026-04-26T16:41:00Z_vancouver/renfrew-st_vancouver/parker-st",
     "timestamp": "2026-04-26T16:41:00Z",
     "scrapedAt": "2026-04-26T16:43:51Z",

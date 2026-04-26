@@ -4,6 +4,21 @@
   "city": "New Westminster",
   "incidents": [
     {
+      "id": "2026-04-26T18:19:00Z_new-westminster/5th-ave_new-westminster/stewardson-way",
+      "timestamp": "2026-04-26T18:19:00Z",
+      "address": "5TH AVE & STEWARDSON WAY",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/5th-ave",
+        "new-westminster/stewardson-way"
+      ],
+      "streetNames": [
+        "5th Ave",
+        "Stewardson Way"
+      ],
+      "pulsePointId": "2461979644"
+    },
+    {
       "id": "2026-04-06T23:20:00Z_new-westminster/12th-st_new-westminster/stewardson-way",
       "timestamp": "2026-04-06T23:20:00Z",
       "address": "12TH ST & STEWARDSON WAY",
@@ -92,6 +107,6 @@
       "pulsePointId": "2434119568"
     }
   ],
-  "lastIncident": "2026-04-06T23:20:00Z",
-  "count": 6
+  "lastIncident": "2026-04-26T18:19:00Z",
+  "count": 7
 }
