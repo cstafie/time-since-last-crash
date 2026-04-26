@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-26T19:04:00Z_white-rock/thrift-ave_white-rock/finlay-st",
+    "timestamp": "2026-04-26T19:04:00Z",
+    "scrapedAt": "2026-04-26T19:16:47Z",
+    "address": "THRIFT AVE & FINLAY ST",
+    "city": "White Rock",
+    "streets": [
+      "white-rock/thrift-ave",
+      "white-rock/finlay-st"
+    ],
+    "streetNames": [
+      "Thrift Ave",
+      "Finlay St"
+    ],
+    "pulsePointId": "2462006251"
+  },
+  {
+    "id": "2026-04-26T18:46:00Z_vancouver/e-49th-ave_vancouver/prince-albert-st",
+    "timestamp": "2026-04-26T18:46:00Z",
+    "scrapedAt": "2026-04-26T19:16:47Z",
+    "address": "E 49TH AVE & PRINCE ALBERT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-49th-ave",
+      "vancouver/prince-albert-st"
+    ],
+    "streetNames": [
+      "E 49th Ave",
+      "Prince Albert St"
+    ],
+    "pulsePointId": "2461993937"
+  },
+  {
     "id": "2026-04-26T18:19:00Z_new-westminster/5th-ave_new-westminster/stewardson-way",
     "timestamp": "2026-04-26T18:19:00Z",
     "scrapedAt": "2026-04-26T18:44:51Z",

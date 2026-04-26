@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-26T18:46:00Z_vancouver/e-49th-ave_vancouver/prince-albert-st",
+      "timestamp": "2026-04-26T18:46:00Z",
+      "address": "E 49TH AVE & PRINCE ALBERT ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-49th-ave",
+        "vancouver/prince-albert-st"
+      ],
+      "streetNames": [
+        "E 49th Ave",
+        "Prince Albert St"
+      ],
+      "pulsePointId": "2461993937"
+    },
+    {
       "id": "2026-04-19T05:39:00Z_vancouver/e-49th-ave_vancouver/victoria-dr",
       "timestamp": "2026-04-19T05:39:00Z",
       "address": "E 49TH AVE & VICTORIA DR",
@@ -92,6 +107,6 @@
       "pulsePointId": "2437375979"
     }
   ],
-  "lastIncident": "2026-04-19T05:39:00Z",
-  "count": 6
+  "lastIncident": "2026-04-26T18:46:00Z",
+  "count": 7
 }
