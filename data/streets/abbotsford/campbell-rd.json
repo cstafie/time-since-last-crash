@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/campbell-rd",
+  "name": "Campbell Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-04-27T23:25:00Z_abbotsford/campbell-rd_abbotsford/marion-rd",
+      "timestamp": "2026-04-27T23:25:00Z",
+      "address": "CAMPBELL RD & MARION RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/campbell-rd",
+        "abbotsford/marion-rd"
+      ],
+      "streetNames": [
+        "Campbell Rd",
+        "Marion Rd"
+      ],
+      "pulsePointId": "2462823751"
+    }
+  ],
+  "lastIncident": "2026-04-27T23:25:00Z",
+  "count": 1
+}
