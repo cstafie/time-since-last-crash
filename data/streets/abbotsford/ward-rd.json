@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/ward-rd",
+  "name": "Ward Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-04-27T17:20:00Z_abbotsford/ward-rd_abbotsford/sumas-mountain-rd",
+      "timestamp": "2026-04-27T17:20:00Z",
+      "address": "WARD RD & SUMAS MOUNTAIN RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/ward-rd",
+        "abbotsford/sumas-mountain-rd"
+      ],
+      "streetNames": [
+        "Ward Rd",
+        "Sumas Mountain Rd"
+      ],
+      "pulsePointId": "2462585026"
+    }
+  ],
+  "lastIncident": "2026-04-27T17:20:00Z",
+  "count": 1
+}
