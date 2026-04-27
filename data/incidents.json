@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-27T19:47:00Z_port-coquitlam/oxford-st_port-coquitlam/prairie-ave",
+    "timestamp": "2026-04-27T19:47:00Z",
+    "scrapedAt": "2026-04-27T19:58:04Z",
+    "address": "OXFORD ST & PRAIRIE AVE",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/oxford-st",
+      "port-coquitlam/prairie-ave"
+    ],
+    "streetNames": [
+      "Oxford St",
+      "Prairie Ave"
+    ],
+    "pulsePointId": "2462685255"
+  },
+  {
     "id": "2026-04-27T17:20:00Z_abbotsford/ward-rd_abbotsford/sumas-mountain-rd",
     "timestamp": "2026-04-27T17:20:00Z",
     "scrapedAt": "2026-04-27T17:52:40Z",

@@ -1,0 +1,24 @@
+{
+  "slug": "port-coquitlam/oxford-st",
+  "name": "Oxford St",
+  "city": "Port Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-04-27T19:47:00Z_port-coquitlam/oxford-st_port-coquitlam/prairie-ave",
+      "timestamp": "2026-04-27T19:47:00Z",
+      "address": "OXFORD ST & PRAIRIE AVE",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/oxford-st",
+        "port-coquitlam/prairie-ave"
+      ],
+      "streetNames": [
+        "Oxford St",
+        "Prairie Ave"
+      ],
+      "pulsePointId": "2462685255"
+    }
+  ],
+  "lastIncident": "2026-04-27T19:47:00Z",
+  "count": 1
+}
