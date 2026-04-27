@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-27T03:52:00Z_langley/turning-lane",
+    "timestamp": "2026-04-27T03:52:00Z",
+    "scrapedAt": "2026-04-27T05:01:20Z",
+    "address": "TURNING LANE",
+    "city": "Langley",
+    "streets": [
+      "langley/turning-lane"
+    ],
+    "streetNames": [
+      "Turning Lane"
+    ],
+    "pulsePointId": "2462295511"
+  },
+  {
+    "id": "2026-04-27T03:45:00Z_delta/nordel-way_delta/116th-st",
+    "timestamp": "2026-04-27T03:45:00Z",
+    "scrapedAt": "2026-04-27T05:01:20Z",
+    "address": "NORDEL WAY & 116TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/nordel-way",
+      "delta/116th-st"
+    ],
+    "streetNames": [
+      "Nordel Way",
+      "116th St"
+    ],
+    "pulsePointId": "2462291512"
+  },
+  {
     "id": "2026-04-27T02:54:00Z_coquitlam/lougheed-hwy_coquitlam/blue-mountain-st",
     "timestamp": "2026-04-27T02:54:00Z",
     "scrapedAt": "2026-04-27T03:43:07Z",

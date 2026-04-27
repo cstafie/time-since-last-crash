@@ -2929,8 +2929,8 @@
     "name": "Nordel Way",
     "slug": "delta/nordel-way",
     "city": "Delta",
-    "lastIncident": "2026-04-25T16:02:00Z",
-    "count": 5
+    "lastIncident": "2026-04-27T03:45:00Z",
+    "count": 6
   },
   "coquitlam/whiting-way": {
     "name": "Whiting Way",
@@ -6254,8 +6254,8 @@
     "name": "116th St",
     "slug": "delta/116th-st",
     "city": "Delta",
-    "lastIncident": "2026-04-25T18:30:00Z",
-    "count": 3
+    "lastIncident": "2026-04-27T03:45:00Z",
+    "count": 4
   },
   "burnaby/north-rd": {
     "name": "North Rd",
@@ -7844,6 +7844,13 @@
     "slug": "west-vancouver/18th-st",
     "city": "West Vancouver",
     "lastIncident": "2026-04-26T23:34:00Z",
+    "count": 1
+  },
+  "langley/turning-lane": {
+    "name": "Turning Lane",
+    "slug": "langley/turning-lane",
+    "city": "Langley",
+    "lastIncident": "2026-04-27T03:52:00Z",
     "count": 1
   }
 }
