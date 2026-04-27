@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-27T20:07:00Z_chilliwack/margaret-ave",
+    "timestamp": "2026-04-27T20:07:00Z",
+    "scrapedAt": "2026-04-27T20:28:17Z",
+    "address": "MARGARET AVE",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/margaret-ave"
+    ],
+    "streetNames": [
+      "Margaret Ave"
+    ],
+    "pulsePointId": "2462699922"
+  },
+  {
     "id": "2026-04-27T19:47:00Z_port-coquitlam/oxford-st_port-coquitlam/prairie-ave",
     "timestamp": "2026-04-27T19:47:00Z",
     "scrapedAt": "2026-04-27T19:58:04Z",

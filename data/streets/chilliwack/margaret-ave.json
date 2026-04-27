@@ -1,0 +1,22 @@
+{
+  "slug": "chilliwack/margaret-ave",
+  "name": "Margaret Ave",
+  "city": "Chilliwack",
+  "incidents": [
+    {
+      "id": "2026-04-27T20:07:00Z_chilliwack/margaret-ave",
+      "timestamp": "2026-04-27T20:07:00Z",
+      "address": "MARGARET AVE",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/margaret-ave"
+      ],
+      "streetNames": [
+        "Margaret Ave"
+      ],
+      "pulsePointId": "2462699922"
+    }
+  ],
+  "lastIncident": "2026-04-27T20:07:00Z",
+  "count": 1
+}
