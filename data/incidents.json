@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-27T22:40:00Z_mission/hayward-conn_mission/lougheed-hwy",
+    "timestamp": "2026-04-27T22:40:00Z",
+    "scrapedAt": "2026-04-27T22:45:15Z",
+    "address": "HAYWARD CONN & LOUGHEED HWY",
+    "city": "Mission",
+    "streets": [
+      "mission/hayward-conn",
+      "mission/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Hayward Conn",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2462797363"
+  },
+  {
+    "id": "2026-04-27T22:34:00Z_north-vancouver/main-st",
+    "timestamp": "2026-04-27T22:34:00Z",
+    "scrapedAt": "2026-04-27T22:45:15Z",
+    "address": "MAIN ST",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/main-st"
+    ],
+    "streetNames": [
+      "Main St"
+    ],
+    "pulsePointId": "2462793748"
+  },
+  {
     "id": "2026-04-27T20:07:00Z_chilliwack/margaret-ave",
     "timestamp": "2026-04-27T20:07:00Z",
     "scrapedAt": "2026-04-27T20:28:17Z",

@@ -1,0 +1,24 @@
+{
+  "slug": "mission/hayward-conn",
+  "name": "Hayward Conn",
+  "city": "Mission",
+  "incidents": [
+    {
+      "id": "2026-04-27T22:40:00Z_mission/hayward-conn_mission/lougheed-hwy",
+      "timestamp": "2026-04-27T22:40:00Z",
+      "address": "HAYWARD CONN & LOUGHEED HWY",
+      "city": "Mission",
+      "streets": [
+        "mission/hayward-conn",
+        "mission/lougheed-hwy"
+      ],
+      "streetNames": [
+        "Hayward Conn",
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2462797363"
+    }
+  ],
+  "lastIncident": "2026-04-27T22:40:00Z",
+  "count": 1
+}

@@ -332,8 +332,8 @@
     "name": "Lougheed Hwy",
     "slug": "mission/lougheed-hwy",
     "city": "Mission",
-    "lastIncident": "2026-04-17T00:29:00Z",
-    "count": 2
+    "lastIncident": "2026-04-27T22:40:00Z",
+    "count": 3
   },
   "mission/wren-st": {
     "name": "Wren St",
@@ -7879,6 +7879,20 @@
     "slug": "chilliwack/margaret-ave",
     "city": "Chilliwack",
     "lastIncident": "2026-04-27T20:07:00Z",
+    "count": 1
+  },
+  "mission/hayward-conn": {
+    "name": "Hayward Conn",
+    "slug": "mission/hayward-conn",
+    "city": "Mission",
+    "lastIncident": "2026-04-27T22:40:00Z",
+    "count": 1
+  },
+  "north-vancouver/main-st": {
+    "name": "Main St",
+    "slug": "north-vancouver/main-st",
+    "city": "North Vancouver",
+    "lastIncident": "2026-04-27T22:34:00Z",
     "count": 1
   }
 }
