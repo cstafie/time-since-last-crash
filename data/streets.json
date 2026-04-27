@@ -150,8 +150,8 @@
     "name": "Blue Mountain St",
     "slug": "coquitlam/blue-mountain-st",
     "city": "Coquitlam",
-    "lastIncident": "2026-03-30T16:00:00Z",
-    "count": 2
+    "lastIncident": "2026-04-27T02:54:00Z",
+    "count": 3
   },
   "coquitlam/foster-ave": {
     "name": "Foster Ave",
@@ -1116,8 +1116,8 @@
     "name": "Lougheed Hwy",
     "slug": "coquitlam/lougheed-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-04-20T07:56:00Z",
-    "count": 8
+    "lastIncident": "2026-04-27T02:54:00Z",
+    "count": 9
   },
   "coquitlam/orchid-dr": {
     "name": "Orchid Dr",
