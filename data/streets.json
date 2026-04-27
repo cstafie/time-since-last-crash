@@ -1837,8 +1837,8 @@
     "name": "Vedder Rd",
     "slug": "chilliwack/vedder-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-04-07T04:06:00Z",
-    "count": 6
+    "lastIncident": "2026-04-27T09:25:00Z",
+    "count": 7
   },
   "chilliwack/spruce-dr": {
     "name": "Spruce Dr",
@@ -7851,6 +7851,13 @@
     "slug": "langley/turning-lane",
     "city": "Langley",
     "lastIncident": "2026-04-27T03:52:00Z",
+    "count": 1
+  },
+  "chilliwack/knight-rd": {
+    "name": "Knight Rd",
+    "slug": "chilliwack/knight-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-04-27T09:25:00Z",
     "count": 1
   }
 }

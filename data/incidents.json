@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-27T09:25:00Z_chilliwack/vedder-rd_chilliwack/knight-rd",
+    "timestamp": "2026-04-27T09:25:00Z",
+    "scrapedAt": "2026-04-27T10:14:29Z",
+    "address": "VEDDER RD & KNIGHT RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/vedder-rd",
+      "chilliwack/knight-rd"
+    ],
+    "streetNames": [
+      "Vedder Rd",
+      "Knight Rd"
+    ],
+    "pulsePointId": "2462392718"
+  },
+  {
     "id": "2026-04-27T05:53:00Z_surrey/king-george-blvd",
     "timestamp": "2026-04-27T05:53:00Z",
     "scrapedAt": "2026-04-27T06:18:31Z",
