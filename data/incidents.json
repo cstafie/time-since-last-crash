@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-27T00:09:00Z_delta/river-rd",
+    "timestamp": "2026-04-27T00:09:00Z",
+    "scrapedAt": "2026-04-27T01:09:50Z",
+    "address": "RIVER RD",
+    "city": "Delta",
+    "streets": [
+      "delta/river-rd"
+    ],
+    "streetNames": [
+      "River Rd"
+    ],
+    "pulsePointId": "2462179575"
+  },
+  {
     "id": "2026-04-26T23:34:00Z_west-vancouver/marine-dr_west-vancouver/18th-st",
     "timestamp": "2026-04-26T23:34:00Z",
     "scrapedAt": "2026-04-26T23:43:16Z",
