@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-27T15:20:00Z_vancouver/clark-dr_vancouver/e-19th-ave",
+    "timestamp": "2026-04-27T15:20:00Z",
+    "scrapedAt": "2026-04-27T16:29:16Z",
+    "address": "CLARK DR & E 19TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/clark-dr",
+      "vancouver/e-19th-ave"
+    ],
+    "streetNames": [
+      "Clark Dr",
+      "E 19th Ave"
+    ],
+    "pulsePointId": "2462508801"
+  },
+  {
     "id": "2026-04-27T09:25:00Z_chilliwack/vedder-rd_chilliwack/knight-rd",
     "timestamp": "2026-04-27T09:25:00Z",
     "scrapedAt": "2026-04-27T10:14:29Z",

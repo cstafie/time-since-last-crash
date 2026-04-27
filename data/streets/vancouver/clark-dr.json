@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-27T15:20:00Z_vancouver/clark-dr_vancouver/e-19th-ave",
+      "timestamp": "2026-04-27T15:20:00Z",
+      "address": "CLARK DR & E 19TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/clark-dr",
+        "vancouver/e-19th-ave"
+      ],
+      "streetNames": [
+        "Clark Dr",
+        "E 19th Ave"
+      ],
+      "pulsePointId": "2462508801"
+    },
+    {
       "id": "2026-04-18T17:37:00Z_vancouver/clark-dr_vancouver/e-2nd-ave",
       "timestamp": "2026-04-18T17:37:00Z",
       "address": "CLARK DR & E 2ND AVE",
@@ -64,6 +79,6 @@
       "pulsePointId": "2438733768"
     }
   ],
-  "lastIncident": "2026-04-18T17:37:00Z",
-  "count": 4
+  "lastIncident": "2026-04-27T15:20:00Z",
+  "count": 5
 }
