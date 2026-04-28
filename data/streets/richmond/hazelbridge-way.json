@@ -1,0 +1,24 @@
+{
+  "slug": "richmond/hazelbridge-way",
+  "name": "Hazelbridge Way",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-04-28T07:22:00Z_richmond/sexsmith-rd_richmond/hazelbridge-way",
+      "timestamp": "2026-04-28T07:22:00Z",
+      "address": "SEXSMITH RD & HAZELBRIDGE WAY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/sexsmith-rd",
+        "richmond/hazelbridge-way"
+      ],
+      "streetNames": [
+        "Sexsmith Rd",
+        "Hazelbridge Way"
+      ],
+      "pulsePointId": "2463034081"
+    }
+  ],
+  "lastIncident": "2026-04-28T07:22:00Z",
+  "count": 1
+}
