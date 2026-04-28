@@ -2040,8 +2040,8 @@
     "name": "Trans Canada Hwy",
     "slug": "coquitlam/trans-canada-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-04-26T22:52:00Z",
-    "count": 10
+    "lastIncident": "2026-04-28T20:06:00Z",
+    "count": 11
   },
   "langley/202a-st": {
     "name": "202a St",
@@ -7999,5 +7999,12 @@
     "city": "North Vancouver",
     "lastIncident": "2026-04-28T18:49:00Z",
     "count": 1
+  },
+  "surrey/104th-avenue-ofrp": {
+    "name": "104th Avenue Ofrp",
+    "slug": "surrey/104th-avenue-ofrp",
+    "city": "Surrey",
+    "lastIncident": "2026-04-28T20:35:00Z",
+    "count": 2
   }
 }
