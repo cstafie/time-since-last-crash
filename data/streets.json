@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-28T16:25:00Z",
-    "count": 23
+    "lastIncident": "2026-04-28T17:56:00Z",
+    "count": 24
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",
@@ -7970,6 +7970,20 @@
     "slug": "vancouver/e-18th-ave",
     "city": "Vancouver",
     "lastIncident": "2026-04-28T16:25:00Z",
+    "count": 1
+  },
+  "vancouver/e-16th-ave": {
+    "name": "E 16th Ave",
+    "slug": "vancouver/e-16th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-28T17:56:00Z",
+    "count": 1
+  },
+  "chilliwack/hope-river-rd": {
+    "name": "Hope River Rd",
+    "slug": "chilliwack/hope-river-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-04-28T17:23:00Z",
     "count": 1
   }
 }
