@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-28T23:40:00Z_delta/alex-fraser-brdg",
+    "timestamp": "2026-04-28T23:40:00Z",
+    "scrapedAt": "2026-04-28T23:45:42Z",
+    "address": "ALEX FRASER BRDG",
+    "city": "Delta",
+    "streets": [
+      "delta/alex-fraser-brdg"
+    ],
+    "streetNames": [
+      "Alex Fraser Brdg"
+    ],
+    "pulsePointId": "2463501083"
+  },
+  {
     "id": "2026-04-28T20:51:00Z_abbotsford/maclure-rd",
     "timestamp": "2026-04-28T20:51:00Z",
     "scrapedAt": "2026-04-28T21:46:36Z",
