@@ -1,0 +1,24 @@
+{
+  "slug": "chilliwack/hodgins-ave",
+  "name": "Hodgins Ave",
+  "city": "Chilliwack",
+  "incidents": [
+    {
+      "id": "2026-04-28T03:09:00Z_chilliwack/hodgins-ave_chilliwack/yale-rd",
+      "timestamp": "2026-04-28T03:09:00Z",
+      "address": "HODGINS AVE & YALE RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/hodgins-ave",
+        "chilliwack/yale-rd"
+      ],
+      "streetNames": [
+        "Hodgins Ave",
+        "Yale Rd"
+      ],
+      "pulsePointId": "2462943143"
+    }
+  ],
+  "lastIncident": "2026-04-28T03:09:00Z",
+  "count": 1
+}

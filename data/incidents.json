@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-28T03:28:00Z_port-coquitlam/mary-hill-bps",
+    "timestamp": "2026-04-28T03:28:00Z",
+    "scrapedAt": "2026-04-28T03:43:14Z",
+    "address": "MARY HILL BPS",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/mary-hill-bps"
+    ],
+    "streetNames": [
+      "Mary Hill Bps"
+    ],
+    "pulsePointId": "2462951524"
+  },
+  {
+    "id": "2026-04-28T03:09:00Z_chilliwack/hodgins-ave_chilliwack/yale-rd",
+    "timestamp": "2026-04-28T03:09:00Z",
+    "scrapedAt": "2026-04-28T03:43:14Z",
+    "address": "HODGINS AVE & YALE RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/hodgins-ave",
+      "chilliwack/yale-rd"
+    ],
+    "streetNames": [
+      "Hodgins Ave",
+      "Yale Rd"
+    ],
+    "pulsePointId": "2462943143"
+  },
+  {
     "id": "2026-04-28T01:24:00Z_vancouver/park-dr_vancouver/oak-st",
     "timestamp": "2026-04-28T01:24:00Z",
     "scrapedAt": "2026-04-28T02:15:54Z",
