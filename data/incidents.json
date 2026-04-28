@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-28T11:46:00Z_vancouver/grandview-hwy",
+    "timestamp": "2026-04-28T11:46:00Z",
+    "scrapedAt": "2026-04-28T12:03:53Z",
+    "address": "GRANDVIEW HWY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/grandview-hwy"
+    ],
+    "streetNames": [
+      "Grandview Hwy"
+    ],
+    "pulsePointId": "2463096921"
+  },
+  {
     "id": "2026-04-28T09:17:00Z_pitt-meadows/hale-rd_pitt-meadows/old-dewdney-trunk-rd",
     "timestamp": "2026-04-28T09:17:00Z",
     "scrapedAt": "2026-04-28T10:14:18Z",

@@ -7929,5 +7929,12 @@
     "city": "Pitt Meadows",
     "lastIncident": "2026-04-28T09:17:00Z",
     "count": 2
+  },
+  "vancouver/grandview-hwy": {
+    "name": "Grandview Hwy",
+    "slug": "vancouver/grandview-hwy",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-28T11:46:00Z",
+    "count": 1
   }
 }

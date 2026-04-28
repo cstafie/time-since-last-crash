@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/grandview-hwy",
+  "name": "Grandview Hwy",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-28T11:46:00Z_vancouver/grandview-hwy",
+      "timestamp": "2026-04-28T11:46:00Z",
+      "address": "GRANDVIEW HWY",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/grandview-hwy"
+      ],
+      "streetNames": [
+        "Grandview Hwy"
+      ],
+      "pulsePointId": "2463096921"
+    }
+  ],
+  "lastIncident": "2026-04-28T11:46:00Z",
+  "count": 1
+}
