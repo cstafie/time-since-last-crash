@@ -1536,8 +1536,8 @@
     "name": "Young Rd",
     "slug": "chilliwack/young-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-04-13T01:37:00Z",
-    "count": 3
+    "lastIncident": "2026-04-28T01:07:00Z",
+    "count": 4
   },
   "surrey/port-mann-brdg": {
     "name": "Port Mann Brdg",
@@ -2418,8 +2418,8 @@
     "name": "First Ave",
     "slug": "chilliwack/first-ave",
     "city": "Chilliwack",
-    "lastIncident": "2026-04-13T01:35:00Z",
-    "count": 3
+    "lastIncident": "2026-04-28T01:07:00Z",
+    "count": 4
   },
   "coquitlam/trans-canada-hwy-onrp": {
     "name": "Trans Canada Hwy Onrp",

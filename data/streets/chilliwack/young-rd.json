@@ -4,6 +4,21 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-04-28T01:07:00Z_chilliwack/first-ave_chilliwack/young-rd",
+      "timestamp": "2026-04-28T01:07:00Z",
+      "address": "FIRST AVE & YOUNG RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/first-ave",
+        "chilliwack/young-rd"
+      ],
+      "streetNames": [
+        "First Ave",
+        "Young Rd"
+      ],
+      "pulsePointId": "2462879698"
+    },
+    {
       "id": "2026-04-13T01:37:00Z_chilliwack/young-rd",
       "timestamp": "2026-04-13T01:37:00Z",
       "address": "YOUNG RD",
@@ -47,6 +62,6 @@
       "pulsePointId": "2432750193"
     }
   ],
-  "lastIncident": "2026-04-13T01:37:00Z",
-  "count": 3
+  "lastIncident": "2026-04-28T01:07:00Z",
+  "count": 4
 }

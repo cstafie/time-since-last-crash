@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-28T01:07:00Z_chilliwack/first-ave_chilliwack/young-rd",
+    "timestamp": "2026-04-28T01:07:00Z",
+    "scrapedAt": "2026-04-28T01:12:15Z",
+    "address": "FIRST AVE & YOUNG RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/first-ave",
+      "chilliwack/young-rd"
+    ],
+    "streetNames": [
+      "First Ave",
+      "Young Rd"
+    ],
+    "pulsePointId": "2462879698"
+  },
+  {
     "id": "2026-04-28T00:07:00Z_langley/264th-st_langley/60th-ave",
     "timestamp": "2026-04-28T00:07:00Z",
     "scrapedAt": "2026-04-28T00:14:55Z",
