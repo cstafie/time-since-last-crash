@@ -4945,8 +4945,8 @@
     "name": "Old Dewdney Trunk Rd",
     "slug": "pitt-meadows/old-dewdney-trunk-rd",
     "city": "Pitt Meadows",
-    "lastIncident": "2026-04-14T20:50:00Z",
-    "count": 2
+    "lastIncident": "2026-04-28T09:17:00Z",
+    "count": 4
   },
   "langley/0th-ave": {
     "name": "0th Ave",
@@ -7922,5 +7922,12 @@
     "city": "Richmond",
     "lastIncident": "2026-04-28T07:22:00Z",
     "count": 1
+  },
+  "pitt-meadows/hale-rd": {
+    "name": "Hale Rd",
+    "slug": "pitt-meadows/hale-rd",
+    "city": "Pitt Meadows",
+    "lastIncident": "2026-04-28T09:17:00Z",
+    "count": 2
   }
 }

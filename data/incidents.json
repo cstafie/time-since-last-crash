@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-28T09:17:00Z_pitt-meadows/hale-rd_pitt-meadows/old-dewdney-trunk-rd",
+    "timestamp": "2026-04-28T09:17:00Z",
+    "scrapedAt": "2026-04-28T10:14:18Z",
+    "address": "HALE RD & OLD DEWDNEY TRUNK RD",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/hale-rd",
+      "pitt-meadows/old-dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "Hale Rd",
+      "Old Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2463063045"
+  },
+  {
+    "id": "2026-04-28T09:13:00Z_pitt-meadows/hale-rd_pitt-meadows/old-dewdney-trunk-rd",
+    "timestamp": "2026-04-28T09:13:00Z",
+    "scrapedAt": "2026-04-28T10:14:18Z",
+    "address": "HALE RD & OLD DEWDNEY TRUNK RD",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/hale-rd",
+      "pitt-meadows/old-dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "Hale Rd",
+      "Old Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2463061995"
+  },
+  {
     "id": "2026-04-28T07:22:00Z_richmond/sexsmith-rd_richmond/hazelbridge-way",
     "timestamp": "2026-04-28T07:22:00Z",
     "scrapedAt": "2026-04-28T08:15:19Z",
