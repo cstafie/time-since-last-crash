@@ -4,6 +4,19 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-28T20:51:00Z_abbotsford/maclure-rd",
+      "timestamp": "2026-04-28T20:51:00Z",
+      "address": "MACLURE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/maclure-rd"
+      ],
+      "streetNames": [
+        "Maclure Rd"
+      ],
+      "pulsePointId": "2463397807"
+    },
+    {
       "id": "2026-04-28T04:05:00Z_abbotsford/maclure-rd_abbotsford/townline-rd",
       "timestamp": "2026-04-28T04:05:00Z",
       "address": "MACLURE RD & TOWNLINE RD",
@@ -94,6 +107,6 @@
       "pulsePointId": "2433749907"
     }
   ],
-  "lastIncident": "2026-04-28T04:05:00Z",
-  "count": 6
+  "lastIncident": "2026-04-28T20:51:00Z",
+  "count": 7
 }

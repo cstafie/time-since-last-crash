@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-04-28T20:51:00Z_abbotsford/maclure-rd",
+    "timestamp": "2026-04-28T20:51:00Z",
+    "scrapedAt": "2026-04-28T21:46:36Z",
+    "address": "MACLURE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/maclure-rd"
+    ],
+    "streetNames": [
+      "Maclure Rd"
+    ],
+    "pulsePointId": "2463397807"
+  },
+  {
+    "id": "2026-04-28T20:49:00Z_surrey/101st-ave",
+    "timestamp": "2026-04-28T20:49:00Z",
+    "scrapedAt": "2026-04-28T21:46:36Z",
+    "address": "101ST AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/101st-ave"
+    ],
+    "streetNames": [
+      "101st Ave"
+    ],
+    "pulsePointId": "2463397475"
+  },
+  {
     "id": "2026-04-28T20:35:00Z_surrey/104th-avenue-ofrp",
     "timestamp": "2026-04-28T20:35:00Z",
     "scrapedAt": "2026-04-28T20:51:22Z",
