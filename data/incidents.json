@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-28T19:01:00Z_surrey/56th-ave_surrey/144th-st",
+    "timestamp": "2026-04-28T19:01:00Z",
+    "scrapedAt": "2026-04-28T19:29:57Z",
+    "address": "56TH AVE & 144TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/56th-ave",
+      "surrey/144th-st"
+    ],
+    "streetNames": [
+      "56th Ave",
+      "144th St"
+    ],
+    "pulsePointId": "2463322044"
+  },
+  {
+    "id": "2026-04-28T18:49:00Z_north-vancouver/lillooet-rd_north-vancouver/monashee-dr",
+    "timestamp": "2026-04-28T18:49:00Z",
+    "scrapedAt": "2026-04-28T19:29:57Z",
+    "address": "LILLOOET RD & MONASHEE DR",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/lillooet-rd",
+      "north-vancouver/monashee-dr"
+    ],
+    "streetNames": [
+      "Lillooet Rd",
+      "Monashee Dr"
+    ],
+    "pulsePointId": "2463314185"
+  },
+  {
     "id": "2026-04-28T17:56:00Z_vancouver/e-16th-ave_vancouver/main-st",
     "timestamp": "2026-04-28T17:56:00Z",
     "scrapedAt": "2026-04-28T18:00:19Z",

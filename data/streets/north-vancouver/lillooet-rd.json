@@ -1,0 +1,24 @@
+{
+  "slug": "north-vancouver/lillooet-rd",
+  "name": "Lillooet Rd",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-28T18:49:00Z_north-vancouver/lillooet-rd_north-vancouver/monashee-dr",
+      "timestamp": "2026-04-28T18:49:00Z",
+      "address": "LILLOOET RD & MONASHEE DR",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/lillooet-rd",
+        "north-vancouver/monashee-dr"
+      ],
+      "streetNames": [
+        "Lillooet Rd",
+        "Monashee Dr"
+      ],
+      "pulsePointId": "2463314185"
+    }
+  ],
+  "lastIncident": "2026-04-28T18:49:00Z",
+  "count": 1
+}
