@@ -1,5 +1,97 @@
 [
   {
+    "id": "2026-04-28T16:57:00Z_vancouver/clancy-loranger-way_vancouver/midlothian-ave",
+    "timestamp": "2026-04-28T16:57:00Z",
+    "scrapedAt": "2026-04-28T17:03:52Z",
+    "address": "CLANCY LORANGER WAY & MIDLOTHIAN AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/clancy-loranger-way",
+      "vancouver/midlothian-ave"
+    ],
+    "streetNames": [
+      "Clancy Loranger Way",
+      "Midlothian Ave"
+    ],
+    "pulsePointId": "2463238525"
+  },
+  {
+    "id": "2026-04-28T16:29:00Z_vancouver/renfrew-st_vancouver/e-broadway",
+    "timestamp": "2026-04-28T16:29:00Z",
+    "scrapedAt": "2026-04-28T17:03:52Z",
+    "address": "RENFREW ST & E BROADWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/renfrew-st",
+      "vancouver/e-broadway"
+    ],
+    "streetNames": [
+      "Renfrew St",
+      "E Broadway"
+    ],
+    "pulsePointId": "2463219599"
+  },
+  {
+    "id": "2026-04-28T16:25:00Z_vancouver/e-18th-ave_vancouver/main-st",
+    "timestamp": "2026-04-28T16:25:00Z",
+    "scrapedAt": "2026-04-28T17:03:52Z",
+    "address": "E 18TH AVE & MAIN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-18th-ave",
+      "vancouver/main-st"
+    ],
+    "streetNames": [
+      "E 18th Ave",
+      "Main St"
+    ],
+    "pulsePointId": "2463216576"
+  },
+  {
+    "id": "2026-04-28T16:17:00Z_vancouver/slocan-st_vancouver/kingsway",
+    "timestamp": "2026-04-28T16:17:00Z",
+    "scrapedAt": "2026-04-28T17:03:52Z",
+    "address": "SLOCAN ST & KINGSWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/slocan-st",
+      "vancouver/kingsway"
+    ],
+    "streetNames": [
+      "Slocan St",
+      "Kingsway"
+    ],
+    "pulsePointId": "2463212255"
+  },
+  {
+    "id": "2026-04-28T16:14:00Z_new-westminster/10th-ave",
+    "timestamp": "2026-04-28T16:14:00Z",
+    "scrapedAt": "2026-04-28T17:03:52Z",
+    "address": "10TH AVE",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/10th-ave"
+    ],
+    "streetNames": [
+      "10th Ave"
+    ],
+    "pulsePointId": "2463211624"
+  },
+  {
+    "id": "2026-04-28T16:10:00Z_langley/trans-canada-hwy",
+    "timestamp": "2026-04-28T16:10:00Z",
+    "scrapedAt": "2026-04-28T17:03:52Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2463207985"
+  },
+  {
     "id": "2026-04-28T15:30:00Z_richmond/no-4-rd_richmond/francis-rd",
     "timestamp": "2026-04-28T15:30:00Z",
     "scrapedAt": "2026-04-28T16:12:15Z",

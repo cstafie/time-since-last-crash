@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-28T16:25:00Z_vancouver/e-18th-ave_vancouver/main-st",
+      "timestamp": "2026-04-28T16:25:00Z",
+      "address": "E 18TH AVE & MAIN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-18th-ave",
+        "vancouver/main-st"
+      ],
+      "streetNames": [
+        "E 18th Ave",
+        "Main St"
+      ],
+      "pulsePointId": "2463216576"
+    },
+    {
       "id": "2026-04-26T16:02:00Z_vancouver/se-marine-dr_vancouver/main-st",
       "timestamp": "2026-04-26T16:02:00Z",
       "address": "SE MARINE DR & MAIN ST",
@@ -324,6 +339,6 @@
       "pulsePointId": "2432937969"
     }
   ],
-  "lastIncident": "2026-04-26T16:02:00Z",
-  "count": 22
+  "lastIncident": "2026-04-28T16:25:00Z",
+  "count": 23
 }

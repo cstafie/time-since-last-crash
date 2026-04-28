@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/e-18th-ave",
+  "name": "E 18th Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-28T16:25:00Z_vancouver/e-18th-ave_vancouver/main-st",
+      "timestamp": "2026-04-28T16:25:00Z",
+      "address": "E 18TH AVE & MAIN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-18th-ave",
+        "vancouver/main-st"
+      ],
+      "streetNames": [
+        "E 18th Ave",
+        "Main St"
+      ],
+      "pulsePointId": "2463216576"
+    }
+  ],
+  "lastIncident": "2026-04-28T16:25:00Z",
+  "count": 1
+}

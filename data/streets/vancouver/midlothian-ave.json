@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/midlothian-ave",
+  "name": "Midlothian Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-28T16:57:00Z_vancouver/clancy-loranger-way_vancouver/midlothian-ave",
+      "timestamp": "2026-04-28T16:57:00Z",
+      "address": "CLANCY LORANGER WAY & MIDLOTHIAN AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/clancy-loranger-way",
+        "vancouver/midlothian-ave"
+      ],
+      "streetNames": [
+        "Clancy Loranger Way",
+        "Midlothian Ave"
+      ],
+      "pulsePointId": "2463238525"
+    }
+  ],
+  "lastIncident": "2026-04-28T16:57:00Z",
+  "count": 1
+}
