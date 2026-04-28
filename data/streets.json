@@ -493,8 +493,8 @@
     "name": "No 4 Rd",
     "slug": "richmond/no-4-rd",
     "city": "Richmond",
-    "lastIncident": "2026-04-03T20:06:00Z",
-    "count": 3
+    "lastIncident": "2026-04-28T15:30:00Z",
+    "count": 4
   },
   "richmond/st-albans-rd": {
     "name": "St Albans Rd",
@@ -1382,8 +1382,8 @@
     "name": "192nd St",
     "slug": "surrey/192nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-25T08:07:00Z",
-    "count": 6
+    "lastIncident": "2026-04-28T14:31:00Z",
+    "count": 7
   },
   "surrey/66a-ave": {
     "name": "66a Ave",
@@ -1704,8 +1704,8 @@
     "name": "Francis Rd",
     "slug": "richmond/francis-rd",
     "city": "Richmond",
-    "lastIncident": "2026-04-03T02:29:00Z",
-    "count": 4
+    "lastIncident": "2026-04-28T15:30:00Z",
+    "count": 5
   },
   "maple-ridge/216th-st": {
     "name": "216th St",
@@ -2565,8 +2565,8 @@
     "name": "Venables St",
     "slug": "vancouver/venables-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-08T02:05:00Z",
-    "count": 2
+    "lastIncident": "2026-04-28T15:25:00Z",
+    "count": 3
   },
   "richmond/no-5-rd": {
     "name": "No 5 Rd",
@@ -3076,8 +3076,8 @@
     "name": "Victoria Dr",
     "slug": "vancouver/victoria-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-04-25T23:06:00Z",
-    "count": 9
+    "lastIncident": "2026-04-28T15:25:00Z",
+    "count": 10
   },
   "vancouver/e-60th-ave": {
     "name": "E 60th Ave",
@@ -4399,8 +4399,8 @@
     "name": "74th Ave",
     "slug": "surrey/74th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-13T02:39:00Z",
-    "count": 2
+    "lastIncident": "2026-04-28T14:31:00Z",
+    "count": 3
   },
   "maple-ridge/208th-st": {
     "name": "208th St",
@@ -7935,6 +7935,20 @@
     "slug": "vancouver/grandview-hwy",
     "city": "Vancouver",
     "lastIncident": "2026-04-28T11:46:00Z",
+    "count": 1
+  },
+  "surrey/9595-king-george-blvd": {
+    "name": "9595 King George Blvd",
+    "slug": "surrey/9595-king-george-blvd",
+    "city": "Surrey",
+    "lastIncident": "2026-04-28T15:19:00Z",
+    "count": 1
+  },
+  "vancouver/e-31st-ave": {
+    "name": "E 31st Ave",
+    "slug": "vancouver/e-31st-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-28T14:59:00Z",
     "count": 1
   }
 }

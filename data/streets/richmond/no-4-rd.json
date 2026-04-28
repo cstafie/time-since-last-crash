@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-04-28T15:30:00Z_richmond/no-4-rd_richmond/francis-rd",
+      "timestamp": "2026-04-28T15:30:00Z",
+      "address": "NO 4 RD & FRANCIS RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/no-4-rd",
+        "richmond/francis-rd"
+      ],
+      "streetNames": [
+        "No 4 Rd",
+        "Francis Rd"
+      ],
+      "pulsePointId": "2463185505"
+    },
+    {
       "id": "2026-04-03T20:06:00Z_richmond/fisher-gt_richmond/no-4-rd",
       "timestamp": "2026-04-03T20:06:00Z",
       "address": "FISHER GT & NO 4 RD",
@@ -47,6 +62,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-03T20:06:00Z",
-  "count": 3
+  "lastIncident": "2026-04-28T15:30:00Z",
+  "count": 4
 }

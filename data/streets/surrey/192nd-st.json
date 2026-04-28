@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-04-28T14:31:00Z_surrey/192nd-st_surrey/74th-ave",
+      "timestamp": "2026-04-28T14:31:00Z",
+      "address": "192ND ST & 74TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/192nd-st",
+        "surrey/74th-ave"
+      ],
+      "streetNames": [
+        "192nd St",
+        "74th Ave"
+      ],
+      "pulsePointId": "2463156170"
+    },
+    {
       "id": "2026-04-25T08:07:00Z_surrey/192nd-st_surrey/60b-ave",
       "timestamp": "2026-04-25T08:07:00Z",
       "address": "192ND ST & 60B AVE",
@@ -91,6 +106,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-25T08:07:00Z",
-  "count": 6
+  "lastIncident": "2026-04-28T14:31:00Z",
+  "count": 7
 }

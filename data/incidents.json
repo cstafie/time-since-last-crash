@@ -1,5 +1,81 @@
 [
   {
+    "id": "2026-04-28T15:30:00Z_richmond/no-4-rd_richmond/francis-rd",
+    "timestamp": "2026-04-28T15:30:00Z",
+    "scrapedAt": "2026-04-28T16:12:15Z",
+    "address": "NO 4 RD & FRANCIS RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/no-4-rd",
+      "richmond/francis-rd"
+    ],
+    "streetNames": [
+      "No 4 Rd",
+      "Francis Rd"
+    ],
+    "pulsePointId": "2463185505"
+  },
+  {
+    "id": "2026-04-28T15:25:00Z_vancouver/venables-st_vancouver/victoria-dr",
+    "timestamp": "2026-04-28T15:25:00Z",
+    "scrapedAt": "2026-04-28T16:12:15Z",
+    "address": "VENABLES ST & VICTORIA DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/venables-st",
+      "vancouver/victoria-dr"
+    ],
+    "streetNames": [
+      "Venables St",
+      "Victoria Dr"
+    ],
+    "pulsePointId": "2463183300"
+  },
+  {
+    "id": "2026-04-28T15:19:00Z_surrey/9595-king-george-blvd",
+    "timestamp": "2026-04-28T15:19:00Z",
+    "scrapedAt": "2026-04-28T16:12:15Z",
+    "address": "9595 KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/9595-king-george-blvd"
+    ],
+    "streetNames": [
+      "9595 King George Blvd"
+    ],
+    "pulsePointId": "2463179786"
+  },
+  {
+    "id": "2026-04-28T14:59:00Z_vancouver/e-31st-ave",
+    "timestamp": "2026-04-28T14:59:00Z",
+    "scrapedAt": "2026-04-28T16:12:15Z",
+    "address": "E 31ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-31st-ave"
+    ],
+    "streetNames": [
+      "E 31st Ave"
+    ],
+    "pulsePointId": "2463170682"
+  },
+  {
+    "id": "2026-04-28T14:31:00Z_surrey/192nd-st_surrey/74th-ave",
+    "timestamp": "2026-04-28T14:31:00Z",
+    "scrapedAt": "2026-04-28T16:12:15Z",
+    "address": "192ND ST & 74TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/192nd-st",
+      "surrey/74th-ave"
+    ],
+    "streetNames": [
+      "192nd St",
+      "74th Ave"
+    ],
+    "pulsePointId": "2463156170"
+  },
+  {
     "id": "2026-04-28T11:46:00Z_vancouver/grandview-hwy",
     "timestamp": "2026-04-28T11:46:00Z",
     "scrapedAt": "2026-04-28T12:03:53Z",

@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/e-31st-ave",
+  "name": "E 31st Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-28T14:59:00Z_vancouver/e-31st-ave",
+      "timestamp": "2026-04-28T14:59:00Z",
+      "address": "E 31ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-31st-ave"
+      ],
+      "streetNames": [
+        "E 31st Ave"
+      ],
+      "pulsePointId": "2463170682"
+    }
+  ],
+  "lastIncident": "2026-04-28T14:59:00Z",
+  "count": 1
+}
