@@ -1,0 +1,22 @@
+{
+  "slug": "delta/ferry-cswy",
+  "name": "Ferry Cswy",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-04-29T03:20:00Z_delta/ferry-cswy",
+      "timestamp": "2026-04-29T03:20:00Z",
+      "address": "FERRY CSWY",
+      "city": "Delta",
+      "streets": [
+        "delta/ferry-cswy"
+      ],
+      "streetNames": [
+        "Ferry Cswy"
+      ],
+      "pulsePointId": "2463617952"
+    }
+  ],
+  "lastIncident": "2026-04-29T03:20:00Z",
+  "count": 1
+}

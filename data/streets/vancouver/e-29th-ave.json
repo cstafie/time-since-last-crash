@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-29T03:16:00Z_vancouver/rupert-st_vancouver/e-29th-ave",
+      "timestamp": "2026-04-29T03:16:00Z",
+      "address": "RUPERT ST & E 29TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/rupert-st",
+        "vancouver/e-29th-ave"
+      ],
+      "streetNames": [
+        "Rupert St",
+        "E 29th Ave"
+      ],
+      "pulsePointId": "2463615611"
+    },
+    {
       "id": "2026-04-17T08:27:00Z_vancouver/e-29th-ave_vancouver/earles-st",
       "timestamp": "2026-04-17T08:27:00Z",
       "address": "E 29TH AVE & EARLES ST",
@@ -49,6 +64,6 @@
       "pulsePointId": "2434824658"
     }
   ],
-  "lastIncident": "2026-04-17T08:27:00Z",
-  "count": 3
+  "lastIncident": "2026-04-29T03:16:00Z",
+  "count": 4
 }

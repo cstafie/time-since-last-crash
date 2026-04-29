@@ -2180,15 +2180,15 @@
     "name": "E 29th Ave",
     "slug": "vancouver/e-29th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-17T08:27:00Z",
-    "count": 3
+    "lastIncident": "2026-04-29T03:16:00Z",
+    "count": 4
   },
   "vancouver/rupert-st": {
     "name": "Rupert St",
     "slug": "vancouver/rupert-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-09T14:53:00Z",
-    "count": 6
+    "lastIncident": "2026-04-29T03:16:00Z",
+    "count": 7
   },
   "vancouver/fir-st": {
     "name": "Fir St",
@@ -8012,6 +8012,13 @@
     "slug": "surrey/73a-ave",
     "city": "Surrey",
     "lastIncident": "2026-04-29T01:28:00Z",
+    "count": 1
+  },
+  "delta/ferry-cswy": {
+    "name": "Ferry Cswy",
+    "slug": "delta/ferry-cswy",
+    "city": "Delta",
+    "lastIncident": "2026-04-29T03:20:00Z",
     "count": 1
   }
 }
