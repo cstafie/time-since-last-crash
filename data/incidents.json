@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-29T07:20:00Z_surrey/old-yale-rd_surrey/125b-st",
+    "timestamp": "2026-04-29T07:20:00Z",
+    "scrapedAt": "2026-04-29T08:14:37Z",
+    "address": "OLD YALE RD & 125B ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/old-yale-rd",
+      "surrey/125b-st"
+    ],
+    "streetNames": [
+      "Old Yale Rd",
+      "125b St"
+    ],
+    "pulsePointId": "2463702199"
+  },
+  {
+    "id": "2026-04-29T07:18:00Z_new-westminster/columbia-st",
+    "timestamp": "2026-04-29T07:18:00Z",
+    "scrapedAt": "2026-04-29T08:14:37Z",
+    "address": "COLUMBIA ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/columbia-st"
+    ],
+    "streetNames": [
+      "Columbia St"
+    ],
+    "pulsePointId": "2463701656"
+  },
+  {
     "id": "2026-04-29T07:05:00Z_burnaby/imperial-st_burnaby/mckay-ave",
     "timestamp": "2026-04-29T07:05:00Z",
     "scrapedAt": "2026-04-29T07:15:55Z",
