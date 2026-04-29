@@ -4,6 +4,21 @@
   "city": "North Vancouver",
   "incidents": [
     {
+      "id": "2026-04-29T23:35:00Z_north-vancouver/beaufort-rd_north-vancouver/mt-seymour-pkwy",
+      "timestamp": "2026-04-29T23:35:00Z",
+      "address": "BEAUFORT RD & MT SEYMOUR PKWY",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/beaufort-rd",
+        "north-vancouver/mt-seymour-pkwy"
+      ],
+      "streetNames": [
+        "Beaufort Rd",
+        "Mt Seymour Pkwy"
+      ],
+      "pulsePointId": "2464145099"
+    },
+    {
       "id": "2026-04-11T09:55:00Z_north-vancouver/mt-seymour-pkwy",
       "timestamp": "2026-04-11T09:55:00Z",
       "address": "MT SEYMOUR PKWY",
@@ -61,6 +76,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-11T09:55:00Z",
-  "count": 4
+  "lastIncident": "2026-04-29T23:35:00Z",
+  "count": 5
 }

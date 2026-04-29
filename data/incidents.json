@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-29T23:39:00Z_delta/kittson-pkwy",
+    "timestamp": "2026-04-29T23:39:00Z",
+    "scrapedAt": "2026-04-29T23:45:33Z",
+    "address": "KITTSON PKWY",
+    "city": "Delta",
+    "streets": [
+      "delta/kittson-pkwy"
+    ],
+    "streetNames": [
+      "Kittson Pkwy"
+    ],
+    "pulsePointId": "2464146994"
+  },
+  {
+    "id": "2026-04-29T23:35:00Z_north-vancouver/beaufort-rd_north-vancouver/mt-seymour-pkwy",
+    "timestamp": "2026-04-29T23:35:00Z",
+    "scrapedAt": "2026-04-29T23:45:33Z",
+    "address": "BEAUFORT RD & MT SEYMOUR PKWY",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/beaufort-rd",
+      "north-vancouver/mt-seymour-pkwy"
+    ],
+    "streetNames": [
+      "Beaufort Rd",
+      "Mt Seymour Pkwy"
+    ],
+    "pulsePointId": "2464145099"
+  },
+  {
     "id": "2026-04-29T23:08:00Z_richmond/capstan-way_richmond/sexsmith-rd",
     "timestamp": "2026-04-29T23:08:00Z",
     "scrapedAt": "2026-04-29T23:16:09Z",

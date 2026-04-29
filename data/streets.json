@@ -409,8 +409,8 @@
     "name": "Mt Seymour Pkwy",
     "slug": "north-vancouver/mt-seymour-pkwy",
     "city": "North Vancouver",
-    "lastIncident": "2026-04-11T09:55:00Z",
-    "count": 4
+    "lastIncident": "2026-04-29T23:35:00Z",
+    "count": 5
   },
   "north-vancouver/roche-point-dr": {
     "name": "Roche Point Dr",
@@ -5897,8 +5897,8 @@
     "name": "Kittson Pkwy",
     "slug": "delta/kittson-pkwy",
     "city": "Delta",
-    "lastIncident": "2026-04-09T08:36:00Z",
-    "count": 1
+    "lastIncident": "2026-04-29T23:39:00Z",
+    "count": 2
   },
   "delta/river-rd": {
     "name": "River Rd",
@@ -8152,6 +8152,13 @@
     "slug": "richmond/miller-rd",
     "city": "Richmond",
     "lastIncident": "2026-04-29T22:43:00Z",
+    "count": 1
+  },
+  "north-vancouver/beaufort-rd": {
+    "name": "Beaufort Rd",
+    "slug": "north-vancouver/beaufort-rd",
+    "city": "North Vancouver",
+    "lastIncident": "2026-04-29T23:35:00Z",
     "count": 1
   }
 }
