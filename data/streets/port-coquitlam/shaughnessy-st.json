@@ -4,6 +4,21 @@
   "city": "Port Coquitlam",
   "incidents": [
     {
+      "id": "2026-04-29T20:29:00Z_port-coquitlam/shaughnessy-st_port-coquitlam/citadel-dr",
+      "timestamp": "2026-04-29T20:29:00Z",
+      "address": "SHAUGHNESSY ST & CITADEL DR",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/shaughnessy-st",
+        "port-coquitlam/citadel-dr"
+      ],
+      "streetNames": [
+        "Shaughnessy St",
+        "Citadel Dr"
+      ],
+      "pulsePointId": "2464033229"
+    },
+    {
       "id": "2026-04-11T05:07:00Z_port-coquitlam/shaughnessy-st_port-coquitlam/argue-st",
       "timestamp": "2026-04-11T05:07:00Z",
       "address": "SHAUGHNESSY ST & ARGUE ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2447649475"
     }
   ],
-  "lastIncident": "2026-04-11T05:07:00Z",
-  "count": 2
+  "lastIncident": "2026-04-29T20:29:00Z",
+  "count": 3
 }

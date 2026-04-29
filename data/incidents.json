@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-29T20:29:00Z_port-coquitlam/shaughnessy-st_port-coquitlam/citadel-dr",
+    "timestamp": "2026-04-29T20:29:00Z",
+    "scrapedAt": "2026-04-29T20:48:55Z",
+    "address": "SHAUGHNESSY ST & CITADEL DR",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/shaughnessy-st",
+      "port-coquitlam/citadel-dr"
+    ],
+    "streetNames": [
+      "Shaughnessy St",
+      "Citadel Dr"
+    ],
+    "pulsePointId": "2464033229"
+  },
+  {
+    "id": "2026-04-29T20:14:00Z_abbotsford/south-fraser-way_abbotsford/ware-st",
+    "timestamp": "2026-04-29T20:14:00Z",
+    "scrapedAt": "2026-04-29T20:48:55Z",
+    "address": "SOUTH FRASER WAY & WARE ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/south-fraser-way",
+      "abbotsford/ware-st"
+    ],
+    "streetNames": [
+      "South Fraser Way",
+      "Ware St"
+    ],
+    "pulsePointId": "2464021396"
+  },
+  {
     "id": "2026-04-29T19:16:00Z_vancouver/e-41st-ave_vancouver/knight-st",
     "timestamp": "2026-04-29T19:16:00Z",
     "scrapedAt": "2026-04-29T19:28:56Z",

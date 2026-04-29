@@ -1,0 +1,24 @@
+{
+  "slug": "port-coquitlam/citadel-dr",
+  "name": "Citadel Dr",
+  "city": "Port Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-04-29T20:29:00Z_port-coquitlam/shaughnessy-st_port-coquitlam/citadel-dr",
+      "timestamp": "2026-04-29T20:29:00Z",
+      "address": "SHAUGHNESSY ST & CITADEL DR",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/shaughnessy-st",
+        "port-coquitlam/citadel-dr"
+      ],
+      "streetNames": [
+        "Shaughnessy St",
+        "Citadel Dr"
+      ],
+      "pulsePointId": "2464033229"
+    }
+  ],
+  "lastIncident": "2026-04-29T20:29:00Z",
+  "count": 1
+}

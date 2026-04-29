@@ -1746,8 +1746,8 @@
     "name": "Ware St",
     "slug": "abbotsford/ware-st",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-25T14:29:00Z",
-    "count": 5
+    "lastIncident": "2026-04-29T20:14:00Z",
+    "count": 6
   },
   "abbotsford/bourquin-cres-e": {
     "name": "Bourquin Cres E",
@@ -1767,8 +1767,8 @@
     "name": "South Fraser Way",
     "slug": "abbotsford/south-fraser-way",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-26T20:02:00Z",
-    "count": 15
+    "lastIncident": "2026-04-29T20:14:00Z",
+    "count": 16
   },
   "vancouver/e-hastings-st": {
     "name": "E Hastings St",
@@ -5323,8 +5323,8 @@
     "name": "Shaughnessy St",
     "slug": "port-coquitlam/shaughnessy-st",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-04-11T05:07:00Z",
-    "count": 2
+    "lastIncident": "2026-04-29T20:29:00Z",
+    "count": 3
   },
   "vancouver/e-59th-ave": {
     "name": "E 59th Ave",
@@ -8110,6 +8110,13 @@
     "slug": "surrey/134th-st",
     "city": "Surrey",
     "lastIncident": "2026-04-29T16:36:00Z",
+    "count": 1
+  },
+  "port-coquitlam/citadel-dr": {
+    "name": "Citadel Dr",
+    "slug": "port-coquitlam/citadel-dr",
+    "city": "Port Coquitlam",
+    "lastIncident": "2026-04-29T20:29:00Z",
     "count": 1
   }
 }
