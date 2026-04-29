@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-29T19:16:00Z_vancouver/e-41st-ave_vancouver/knight-st",
+    "timestamp": "2026-04-29T19:16:00Z",
+    "scrapedAt": "2026-04-29T19:28:56Z",
+    "address": "E 41ST AVE & KNIGHT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-41st-ave",
+      "vancouver/knight-st"
+    ],
+    "streetNames": [
+      "E 41st Ave",
+      "Knight St"
+    ],
+    "pulsePointId": "2463982327"
+  },
+  {
+    "id": "2026-04-29T18:40:00Z_vancouver/campbell-ave_vancouver/union-st",
+    "timestamp": "2026-04-29T18:40:00Z",
+    "scrapedAt": "2026-04-29T19:28:56Z",
+    "address": "CAMPBELL AVE & UNION ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/campbell-ave",
+      "vancouver/union-st"
+    ],
+    "streetNames": [
+      "Campbell Ave",
+      "Union St"
+    ],
+    "pulsePointId": "2463959127"
+  },
+  {
     "id": "2026-04-29T17:23:00Z_richmond/hazelbridge-way_richmond/alderbridge-way",
     "timestamp": "2026-04-29T17:23:00Z",
     "scrapedAt": "2026-04-29T17:58:25Z",

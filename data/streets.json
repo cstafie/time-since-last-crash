@@ -717,8 +717,8 @@
     "name": "E 41st Ave",
     "slug": "vancouver/e-41st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-26T20:03:00Z",
-    "count": 18
+    "lastIncident": "2026-04-29T19:16:00Z",
+    "count": 19
   },
   "vancouver/granville-st": {
     "name": "Granville St",
@@ -752,8 +752,8 @@
     "name": "Knight St",
     "slug": "vancouver/knight-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-26T20:03:00Z",
-    "count": 19
+    "lastIncident": "2026-04-29T19:16:00Z",
+    "count": 20
   },
   "vancouver/lower-mall": {
     "name": "Lower Mall",
@@ -4343,8 +4343,8 @@
     "name": "Campbell Ave",
     "slug": "vancouver/campbell-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-03-28T22:59:00Z",
-    "count": 1
+    "lastIncident": "2026-04-29T18:40:00Z",
+    "count": 2
   },
   "new-westminster/10th-ave": {
     "name": "10th Ave",
@@ -6835,8 +6835,8 @@
     "name": "Union St",
     "slug": "vancouver/union-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-23T05:36:00Z",
-    "count": 2
+    "lastIncident": "2026-04-29T18:40:00Z",
+    "count": 3
   },
   "west-vancouver/chairlift-rd": {
     "name": "Chairlift Rd",
