@@ -1,0 +1,22 @@
+{
+  "slug": "langley/206a-st",
+  "name": "206a St",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-04-29T15:32:00Z_langley/206a-st",
+      "timestamp": "2026-04-29T15:32:00Z",
+      "address": "206A ST",
+      "city": "Langley",
+      "streets": [
+        "langley/206a-st"
+      ],
+      "streetNames": [
+        "206a St"
+      ],
+      "pulsePointId": "2463846702"
+    }
+  ],
+  "lastIncident": "2026-04-29T15:32:00Z",
+  "count": 1
+}

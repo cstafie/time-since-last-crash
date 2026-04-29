@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-04-29T14:44:00Z_burnaby/nelson-ave_burnaby/dover-st",
+      "timestamp": "2026-04-29T14:44:00Z",
+      "address": "NELSON AVE & DOVER ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/nelson-ave",
+        "burnaby/dover-st"
+      ],
+      "streetNames": [
+        "Nelson Ave",
+        "Dover St"
+      ],
+      "pulsePointId": "2463822509"
+    },
+    {
       "id": "2026-04-25T03:13:00Z_burnaby/buxton-st_burnaby/nelson-ave",
       "timestamp": "2026-04-25T03:13:00Z",
       "address": "BUXTON ST & NELSON AVE",
@@ -64,6 +79,6 @@
       "pulsePointId": "2436020332"
     }
   ],
-  "lastIncident": "2026-04-25T03:13:00Z",
-  "count": 4
+  "lastIncident": "2026-04-29T14:44:00Z",
+  "count": 5
 }

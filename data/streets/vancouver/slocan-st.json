@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-29T14:44:00Z_vancouver/grandview-hwy-s_vancouver/slocan-st",
+      "timestamp": "2026-04-29T14:44:00Z",
+      "address": "GRANDVIEW HWY S & SLOCAN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/grandview-hwy-s",
+        "vancouver/slocan-st"
+      ],
+      "streetNames": [
+        "Grandview Hwy S",
+        "Slocan St"
+      ],
+      "pulsePointId": "2463821670"
+    },
+    {
       "id": "2026-04-28T16:17:00Z_vancouver/slocan-st_vancouver/kingsway",
       "timestamp": "2026-04-28T16:17:00Z",
       "address": "SLOCAN ST & KINGSWAY",
@@ -64,6 +79,6 @@
       "pulsePointId": "2436249042"
     }
   ],
-  "lastIncident": "2026-04-28T16:17:00Z",
-  "count": 4
+  "lastIncident": "2026-04-29T14:44:00Z",
+  "count": 5
 }
