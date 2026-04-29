@@ -1,0 +1,24 @@
+{
+  "slug": "north-vancouver/w-5th-st",
+  "name": "W 5th St",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-29T22:23:00Z_north-vancouver/chesterfield-ave_north-vancouver/w-5th-st",
+      "timestamp": "2026-04-29T22:23:00Z",
+      "address": "CHESTERFIELD AVE & W 5TH ST",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/chesterfield-ave",
+        "north-vancouver/w-5th-st"
+      ],
+      "streetNames": [
+        "Chesterfield Ave",
+        "W 5th St"
+      ],
+      "pulsePointId": "2464102937"
+    }
+  ],
+  "lastIncident": "2026-04-29T22:23:00Z",
+  "count": 1
+}

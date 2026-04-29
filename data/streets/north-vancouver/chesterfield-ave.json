@@ -4,6 +4,36 @@
   "city": "North Vancouver",
   "incidents": [
     {
+      "id": "2026-04-29T22:23:00Z_north-vancouver/chesterfield-ave_north-vancouver/w-5th-lane",
+      "timestamp": "2026-04-29T22:23:00Z",
+      "address": "CHESTERFIELD AVE & W 5TH LANE",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/chesterfield-ave",
+        "north-vancouver/w-5th-lane"
+      ],
+      "streetNames": [
+        "Chesterfield Ave",
+        "W 5th Lane"
+      ],
+      "pulsePointId": "2464103659"
+    },
+    {
+      "id": "2026-04-29T22:23:00Z_north-vancouver/chesterfield-ave_north-vancouver/w-5th-st",
+      "timestamp": "2026-04-29T22:23:00Z",
+      "address": "CHESTERFIELD AVE & W 5TH ST",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/chesterfield-ave",
+        "north-vancouver/w-5th-st"
+      ],
+      "streetNames": [
+        "Chesterfield Ave",
+        "W 5th St"
+      ],
+      "pulsePointId": "2464102937"
+    },
+    {
       "id": "2026-03-22T08:44:00Z_north-vancouver/chesterfield-ave_north-vancouver/w-3rd-st",
       "timestamp": "2026-03-22T08:44:00Z",
       "address": "CHESTERFIELD AVE & W 3RD ST",
@@ -34,6 +64,6 @@
       "pulsePointId": "2437200820"
     }
   ],
-  "lastIncident": "2026-03-22T08:44:00Z",
-  "count": 2
+  "lastIncident": "2026-04-29T22:23:00Z",
+  "count": 4
 }

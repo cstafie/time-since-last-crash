@@ -703,8 +703,8 @@
     "name": "Burrard St",
     "slug": "vancouver/burrard-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-22T17:56:00Z",
-    "count": 9
+    "lastIncident": "2026-04-29T22:38:00Z",
+    "count": 10
   },
   "vancouver/e-12th-ave": {
     "name": "E 12th Ave",
@@ -794,8 +794,8 @@
     "name": "W 4th Ave",
     "slug": "vancouver/w-4th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-24T14:58:00Z",
-    "count": 3
+    "lastIncident": "2026-04-29T22:38:00Z",
+    "count": 4
   },
   "vancouver/w-70th-ave": {
     "name": "W 70th Ave",
@@ -3020,8 +3020,8 @@
     "name": "Chesterfield Ave",
     "slug": "north-vancouver/chesterfield-ave",
     "city": "North Vancouver",
-    "lastIncident": "2026-03-22T08:44:00Z",
-    "count": 2
+    "lastIncident": "2026-04-29T22:23:00Z",
+    "count": 4
   },
   "chilliwack/maple-ave": {
     "name": "Maple Ave",
@@ -8117,6 +8117,20 @@
     "slug": "port-coquitlam/citadel-dr",
     "city": "Port Coquitlam",
     "lastIncident": "2026-04-29T20:29:00Z",
+    "count": 1
+  },
+  "north-vancouver/w-5th-lane": {
+    "name": "W 5th Lane",
+    "slug": "north-vancouver/w-5th-lane",
+    "city": "North Vancouver",
+    "lastIncident": "2026-04-29T22:23:00Z",
+    "count": 1
+  },
+  "north-vancouver/w-5th-st": {
+    "name": "W 5th St",
+    "slug": "north-vancouver/w-5th-st",
+    "city": "North Vancouver",
+    "lastIncident": "2026-04-29T22:23:00Z",
     "count": 1
   }
 }
