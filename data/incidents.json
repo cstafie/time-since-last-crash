@@ -1,5 +1,81 @@
 [
   {
+    "id": "2026-04-29T16:56:00Z_langley/willoughby-town-centre-dr",
+    "timestamp": "2026-04-29T16:56:00Z",
+    "scrapedAt": "2026-04-29T17:05:28Z",
+    "address": "WILLOUGHBY TOWN CENTRE DR",
+    "city": "Langley",
+    "streets": [
+      "langley/willoughby-town-centre-dr"
+    ],
+    "streetNames": [
+      "Willoughby Town Centre Dr"
+    ],
+    "pulsePointId": "2463894448"
+  },
+  {
+    "id": "2026-04-29T16:51:00Z_port-coquitlam/kingsway-ave_port-coquitlam/wilson-ave",
+    "timestamp": "2026-04-29T16:51:00Z",
+    "scrapedAt": "2026-04-29T17:05:28Z",
+    "address": "KINGSWAY AVE & WILSON AVE",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/kingsway-ave",
+      "port-coquitlam/wilson-ave"
+    ],
+    "streetNames": [
+      "Kingsway Ave",
+      "Wilson Ave"
+    ],
+    "pulsePointId": "2463894075"
+  },
+  {
+    "id": "2026-04-29T16:42:00Z_vancouver/e-42nd-ave_vancouver/clarendon-st",
+    "timestamp": "2026-04-29T16:42:00Z",
+    "scrapedAt": "2026-04-29T17:05:28Z",
+    "address": "E 42ND AVE & CLARENDON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-42nd-ave",
+      "vancouver/clarendon-st"
+    ],
+    "streetNames": [
+      "E 42nd Ave",
+      "Clarendon St"
+    ],
+    "pulsePointId": "2463886387"
+  },
+  {
+    "id": "2026-04-29T16:36:00Z_surrey/64th-ave_surrey/134th-st",
+    "timestamp": "2026-04-29T16:36:00Z",
+    "scrapedAt": "2026-04-29T17:05:28Z",
+    "address": "64TH AVE & 134TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/64th-ave",
+      "surrey/134th-st"
+    ],
+    "streetNames": [
+      "64th Ave",
+      "134th St"
+    ],
+    "pulsePointId": "2463882703"
+  },
+  {
+    "id": "2026-04-29T16:28:00Z_delta/lyon-rd",
+    "timestamp": "2026-04-29T16:28:00Z",
+    "scrapedAt": "2026-04-29T17:05:28Z",
+    "address": "LYON RD",
+    "city": "Delta",
+    "streets": [
+      "delta/lyon-rd"
+    ],
+    "streetNames": [
+      "Lyon Rd"
+    ],
+    "pulsePointId": "2463878048"
+  },
+  {
     "id": "2026-04-29T16:04:00Z_surrey/24th-ave_surrey/166th-st",
     "timestamp": "2026-04-29T16:04:00Z",
     "scrapedAt": "2026-04-29T16:29:30Z",

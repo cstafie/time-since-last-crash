@@ -1,0 +1,22 @@
+{
+  "slug": "langley/willoughby-town-centre-dr",
+  "name": "Willoughby Town Centre Dr",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-04-29T16:56:00Z_langley/willoughby-town-centre-dr",
+      "timestamp": "2026-04-29T16:56:00Z",
+      "address": "WILLOUGHBY TOWN CENTRE DR",
+      "city": "Langley",
+      "streets": [
+        "langley/willoughby-town-centre-dr"
+      ],
+      "streetNames": [
+        "Willoughby Town Centre Dr"
+      ],
+      "pulsePointId": "2463894448"
+    }
+  ],
+  "lastIncident": "2026-04-29T16:56:00Z",
+  "count": 1
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "delta/lyon-rd",
+  "name": "Lyon Rd",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-04-29T16:28:00Z_delta/lyon-rd",
+      "timestamp": "2026-04-29T16:28:00Z",
+      "address": "LYON RD",
+      "city": "Delta",
+      "streets": [
+        "delta/lyon-rd"
+      ],
+      "streetNames": [
+        "Lyon Rd"
+      ],
+      "pulsePointId": "2463878048"
+    }
+  ],
+  "lastIncident": "2026-04-29T16:28:00Z",
+  "count": 1
+}
