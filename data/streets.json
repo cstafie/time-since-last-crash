@@ -4259,8 +4259,8 @@
     "name": "Imperial St",
     "slug": "burnaby/imperial-st",
     "city": "Burnaby",
-    "lastIncident": "2026-04-16T21:35:00Z",
-    "count": 5
+    "lastIncident": "2026-04-29T07:05:00Z",
+    "count": 7
   },
   "burnaby/kitchener-st": {
     "name": "Kitchener St",
@@ -8019,6 +8019,13 @@
     "slug": "delta/ferry-cswy",
     "city": "Delta",
     "lastIncident": "2026-04-29T03:20:00Z",
+    "count": 1
+  },
+  "burnaby/mckay-ave": {
+    "name": "Mckay Ave",
+    "slug": "burnaby/mckay-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-04-29T07:05:00Z",
     "count": 1
   }
 }

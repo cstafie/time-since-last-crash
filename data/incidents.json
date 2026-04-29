@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-29T07:05:00Z_burnaby/imperial-st_burnaby/mckay-ave",
+    "timestamp": "2026-04-29T07:05:00Z",
+    "scrapedAt": "2026-04-29T07:15:55Z",
+    "address": "IMPERIAL ST & MCKAY AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/imperial-st",
+      "burnaby/mckay-ave"
+    ],
+    "streetNames": [
+      "Imperial St",
+      "Mckay Ave"
+    ],
+    "pulsePointId": "2463698256"
+  },
+  {
+    "id": "2026-04-29T07:04:00Z_burnaby/imperial-st",
+    "timestamp": "2026-04-29T07:04:00Z",
+    "scrapedAt": "2026-04-29T07:15:55Z",
+    "address": "IMPERIAL ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/imperial-st"
+    ],
+    "streetNames": [
+      "Imperial St"
+    ],
+    "pulsePointId": "2463698257"
+  },
+  {
     "id": "2026-04-29T04:25:00Z_maple-ridge/river-rd",
     "timestamp": "2026-04-29T04:25:00Z",
     "scrapedAt": "2026-04-29T05:02:07Z",

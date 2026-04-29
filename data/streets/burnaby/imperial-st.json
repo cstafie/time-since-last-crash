@@ -4,6 +4,34 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-04-29T07:05:00Z_burnaby/imperial-st_burnaby/mckay-ave",
+      "timestamp": "2026-04-29T07:05:00Z",
+      "address": "IMPERIAL ST & MCKAY AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/imperial-st",
+        "burnaby/mckay-ave"
+      ],
+      "streetNames": [
+        "Imperial St",
+        "Mckay Ave"
+      ],
+      "pulsePointId": "2463698256"
+    },
+    {
+      "id": "2026-04-29T07:04:00Z_burnaby/imperial-st",
+      "timestamp": "2026-04-29T07:04:00Z",
+      "address": "IMPERIAL ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/imperial-st"
+      ],
+      "streetNames": [
+        "Imperial St"
+      ],
+      "pulsePointId": "2463698257"
+    },
+    {
       "id": "2026-04-16T21:35:00Z_burnaby/imperial-st",
       "timestamp": "2026-04-16T21:35:00Z",
       "address": "IMPERIAL ST",
@@ -77,6 +105,6 @@
       "pulsePointId": "2442839188"
     }
   ],
-  "lastIncident": "2026-04-16T21:35:00Z",
-  "count": 5
+  "lastIncident": "2026-04-29T07:05:00Z",
+  "count": 7
 }

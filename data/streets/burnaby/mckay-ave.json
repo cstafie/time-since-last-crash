@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/mckay-ave",
+  "name": "Mckay Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-04-29T07:05:00Z_burnaby/imperial-st_burnaby/mckay-ave",
+      "timestamp": "2026-04-29T07:05:00Z",
+      "address": "IMPERIAL ST & MCKAY AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/imperial-st",
+        "burnaby/mckay-ave"
+      ],
+      "streetNames": [
+        "Imperial St",
+        "Mckay Ave"
+      ],
+      "pulsePointId": "2463698256"
+    }
+  ],
+  "lastIncident": "2026-04-29T07:05:00Z",
+  "count": 1
+}
