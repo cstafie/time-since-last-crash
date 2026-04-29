@@ -1,0 +1,24 @@
+{
+  "slug": "richmond/capstan-way",
+  "name": "Capstan Way",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-04-29T23:08:00Z_richmond/capstan-way_richmond/sexsmith-rd",
+      "timestamp": "2026-04-29T23:08:00Z",
+      "address": "CAPSTAN WAY & SEXSMITH RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/capstan-way",
+        "richmond/sexsmith-rd"
+      ],
+      "streetNames": [
+        "Capstan Way",
+        "Sexsmith Rd"
+      ],
+      "pulsePointId": "2464130768"
+    }
+  ],
+  "lastIncident": "2026-04-29T23:08:00Z",
+  "count": 1
+}

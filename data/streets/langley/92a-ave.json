@@ -1,0 +1,24 @@
+{
+  "slug": "langley/92a-ave",
+  "name": "92a Ave",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-04-29T23:02:00Z_langley/92a-ave_langley/200th-st",
+      "timestamp": "2026-04-29T23:02:00Z",
+      "address": "92A AVE & 200TH ST",
+      "city": "Langley",
+      "streets": [
+        "langley/92a-ave",
+        "langley/200th-st"
+      ],
+      "streetNames": [
+        "92a Ave",
+        "200th St"
+      ],
+      "pulsePointId": "2464127345"
+    }
+  ],
+  "lastIncident": "2026-04-29T23:02:00Z",
+  "count": 1
+}

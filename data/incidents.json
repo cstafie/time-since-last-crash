@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-04-29T23:08:00Z_richmond/capstan-way_richmond/sexsmith-rd",
+    "timestamp": "2026-04-29T23:08:00Z",
+    "scrapedAt": "2026-04-29T23:16:09Z",
+    "address": "CAPSTAN WAY & SEXSMITH RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/capstan-way",
+      "richmond/sexsmith-rd"
+    ],
+    "streetNames": [
+      "Capstan Way",
+      "Sexsmith Rd"
+    ],
+    "pulsePointId": "2464130768"
+  },
+  {
+    "id": "2026-04-29T23:02:00Z_langley/92a-ave_langley/200th-st",
+    "timestamp": "2026-04-29T23:02:00Z",
+    "scrapedAt": "2026-04-29T23:16:09Z",
+    "address": "92A AVE & 200TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/92a-ave",
+      "langley/200th-st"
+    ],
+    "streetNames": [
+      "92a Ave",
+      "200th St"
+    ],
+    "pulsePointId": "2464127345"
+  },
+  {
+    "id": "2026-04-29T22:55:00Z_surrey/140th-st_surrey/18th-ave",
+    "timestamp": "2026-04-29T22:55:00Z",
+    "scrapedAt": "2026-04-29T23:16:09Z",
+    "address": "140TH ST & 18TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/140th-st",
+      "surrey/18th-ave"
+    ],
+    "streetNames": [
+      "140th St",
+      "18th Ave"
+    ],
+    "pulsePointId": "2464123275"
+  },
+  {
+    "id": "2026-04-29T22:43:00Z_richmond/miller-rd",
+    "timestamp": "2026-04-29T22:43:00Z",
+    "scrapedAt": "2026-04-29T23:16:09Z",
+    "address": "MILLER RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/miller-rd"
+    ],
+    "streetNames": [
+      "Miller Rd"
+    ],
+    "pulsePointId": "2464115969"
+  },
+  {
     "id": "2026-04-29T22:38:00Z_vancouver/burrard-st_vancouver/w-4th-ave",
     "timestamp": "2026-04-29T22:38:00Z",
     "scrapedAt": "2026-04-29T22:46:06Z",
