@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-29T04:23:00Z_vancouver/cambie-st_vancouver/w-7th-ave",
+      "timestamp": "2026-04-29T04:23:00Z",
+      "address": "CAMBIE ST & W 7TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/cambie-st",
+        "vancouver/w-7th-ave"
+      ],
+      "streetNames": [
+        "Cambie St",
+        "W 7th Ave"
+      ],
+      "pulsePointId": "2463646849"
+    },
+    {
       "id": "2026-04-19T22:52:00Z_vancouver/w-7th-ave_vancouver/yukon-st",
       "timestamp": "2026-04-19T22:52:00Z",
       "address": "W 7TH AVE & YUKON ST",
@@ -49,6 +64,6 @@
       "pulsePointId": "2451107823"
     }
   ],
-  "lastIncident": "2026-04-19T22:52:00Z",
-  "count": 3
+  "lastIncident": "2026-04-29T04:23:00Z",
+  "count": 4
 }
