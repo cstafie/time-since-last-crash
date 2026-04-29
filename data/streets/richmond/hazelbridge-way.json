@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-04-29T17:23:00Z_richmond/hazelbridge-way_richmond/alderbridge-way",
+      "timestamp": "2026-04-29T17:23:00Z",
+      "address": "HAZELBRIDGE WAY & ALDERBRIDGE WAY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/hazelbridge-way",
+        "richmond/alderbridge-way"
+      ],
+      "streetNames": [
+        "Hazelbridge Way",
+        "Alderbridge Way"
+      ],
+      "pulsePointId": "2463911977"
+    },
+    {
       "id": "2026-04-28T07:22:00Z_richmond/sexsmith-rd_richmond/hazelbridge-way",
       "timestamp": "2026-04-28T07:22:00Z",
       "address": "SEXSMITH RD & HAZELBRIDGE WAY",
@@ -19,6 +34,6 @@
       "pulsePointId": "2463034081"
     }
   ],
-  "lastIncident": "2026-04-28T07:22:00Z",
-  "count": 1
+  "lastIncident": "2026-04-29T17:23:00Z",
+  "count": 2
 }

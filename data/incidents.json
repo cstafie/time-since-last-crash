@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-04-29T17:23:00Z_richmond/hazelbridge-way_richmond/alderbridge-way",
+    "timestamp": "2026-04-29T17:23:00Z",
+    "scrapedAt": "2026-04-29T17:58:25Z",
+    "address": "HAZELBRIDGE WAY & ALDERBRIDGE WAY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hazelbridge-way",
+      "richmond/alderbridge-way"
+    ],
+    "streetNames": [
+      "Hazelbridge Way",
+      "Alderbridge Way"
+    ],
+    "pulsePointId": "2463911977"
+  },
+  {
+    "id": "2026-04-29T17:09:00Z_vancouver/davie-st_vancouver/pacific-blvd",
+    "timestamp": "2026-04-29T17:09:00Z",
+    "scrapedAt": "2026-04-29T17:58:25Z",
+    "address": "DAVIE ST & PACIFIC BLVD",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/davie-st",
+      "vancouver/pacific-blvd"
+    ],
+    "streetNames": [
+      "Davie St",
+      "Pacific Blvd"
+    ],
+    "pulsePointId": "2463901994"
+  },
+  {
+    "id": "2026-04-29T17:08:00Z_vancouver/e-29th-ave_vancouver/boundary-rd",
+    "timestamp": "2026-04-29T17:08:00Z",
+    "scrapedAt": "2026-04-29T17:58:25Z",
+    "address": "E 29TH AVE & BOUNDARY RD",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-29th-ave",
+      "vancouver/boundary-rd"
+    ],
+    "streetNames": [
+      "E 29th Ave",
+      "Boundary Rd"
+    ],
+    "pulsePointId": "2463901879"
+  },
+  {
     "id": "2026-04-29T16:56:00Z_langley/willoughby-town-centre-dr",
     "timestamp": "2026-04-29T16:56:00Z",
     "scrapedAt": "2026-04-29T17:05:28Z",
