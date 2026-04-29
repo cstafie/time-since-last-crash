@@ -80,8 +80,8 @@
     "name": "Willingdon Ave",
     "slug": "burnaby/willingdon-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-04-15T03:49:00Z",
-    "count": 4
+    "lastIncident": "2026-04-29T13:30:00Z",
+    "count": 5
   },
   "chilliwack/chadsey-rd": {
     "name": "Chadsey Rd",
@@ -3160,8 +3160,8 @@
     "name": "150th St",
     "slug": "surrey/150th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-23T00:18:00Z",
-    "count": 2
+    "lastIncident": "2026-04-29T14:28:00Z",
+    "count": 3
   },
   "mission/knight-ave": {
     "name": "Knight Ave",
@@ -8048,5 +8048,12 @@
     "city": "Abbotsford",
     "lastIncident": "2026-04-29T10:18:00Z",
     "count": 2
+  },
+  "surrey/105th-ave": {
+    "name": "105th Ave",
+    "slug": "surrey/105th-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-04-29T14:28:00Z",
+    "count": 1
   }
 }
