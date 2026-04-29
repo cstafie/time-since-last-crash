@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-04-29T10:18:00Z_abbotsford/lefeuvre-rd_abbotsford/marsh-mccormick-rd",
+    "timestamp": "2026-04-29T10:18:00Z",
+    "scrapedAt": "2026-04-29T11:05:22Z",
+    "address": "LEFEUVRE RD & MARSH MCCORMICK RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/lefeuvre-rd",
+      "abbotsford/marsh-mccormick-rd"
+    ],
+    "streetNames": [
+      "Lefeuvre Rd",
+      "Marsh Mccormick Rd"
+    ],
+    "pulsePointId": "2463738172"
+  },
+  {
+    "id": "2026-04-29T10:09:00Z_abbotsford/marsh-mccormick-rd_abbotsford/lefeuvre-rd",
+    "timestamp": "2026-04-29T10:09:00Z",
+    "scrapedAt": "2026-04-29T11:05:22Z",
+    "address": "MARSH MCCORMICK RD & LEFEUVRE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/marsh-mccormick-rd",
+      "abbotsford/lefeuvre-rd"
+    ],
+    "streetNames": [
+      "Marsh Mccormick Rd",
+      "Lefeuvre Rd"
+    ],
+    "pulsePointId": "2463736411"
+  },
+  {
     "id": "2026-04-29T08:50:00Z_surrey/176th-st",
     "timestamp": "2026-04-29T08:50:00Z",
     "scrapedAt": "2026-04-29T09:13:11Z",

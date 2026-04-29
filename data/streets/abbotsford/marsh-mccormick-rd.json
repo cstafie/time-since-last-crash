@@ -1,6 +1,6 @@
 {
-  "slug": "abbotsford/lefeuvre-rd",
-  "name": "Lefeuvre Rd",
+  "slug": "abbotsford/marsh-mccormick-rd",
+  "name": "Marsh Mccormick Rd",
   "city": "Abbotsford",
   "incidents": [
     {
@@ -32,23 +32,8 @@
         "Lefeuvre Rd"
       ],
       "pulsePointId": "2463736411"
-    },
-    {
-      "id": "2026-03-20T03:30:00Z_abbotsford/lefeuvre-rd_abbotsford/huntingdon-rd",
-      "timestamp": "2026-03-20T03:30:00Z",
-      "address": "LEFEUVRE RD & HUNTINGDON RD",
-      "city": "Abbotsford",
-      "streets": [
-        "abbotsford/lefeuvre-rd",
-        "abbotsford/huntingdon-rd"
-      ],
-      "streetNames": [
-        "Lefeuvre Rd",
-        "Huntingdon Rd"
-      ],
-      "pulsePointId": "2437634536"
     }
   ],
   "lastIncident": "2026-04-29T10:18:00Z",
-  "count": 3
+  "count": 2
 }
