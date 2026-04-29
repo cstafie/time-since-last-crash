@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-29T21:10:00Z_surrey/144a-st_surrey/108th-ave",
+    "timestamp": "2026-04-29T21:10:00Z",
+    "scrapedAt": "2026-04-29T21:20:51Z",
+    "address": "144A ST & 108TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/144a-st",
+      "surrey/108th-ave"
+    ],
+    "streetNames": [
+      "144a St",
+      "108th Ave"
+    ],
+    "pulsePointId": "2464057906"
+  },
+  {
     "id": "2026-04-29T20:29:00Z_port-coquitlam/shaughnessy-st_port-coquitlam/citadel-dr",
     "timestamp": "2026-04-29T20:29:00Z",
     "scrapedAt": "2026-04-29T20:48:55Z",
