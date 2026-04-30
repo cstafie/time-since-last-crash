@@ -1,0 +1,24 @@
+{
+  "slug": "white-rock/russell-ave",
+  "name": "Russell Ave",
+  "city": "White Rock",
+  "incidents": [
+    {
+      "id": "2026-04-30T19:28:00Z_white-rock/russell-ave_white-rock/best-st",
+      "timestamp": "2026-04-30T19:28:00Z",
+      "address": "RUSSELL AVE & BEST ST",
+      "city": "White Rock",
+      "streets": [
+        "white-rock/russell-ave",
+        "white-rock/best-st"
+      ],
+      "streetNames": [
+        "Russell Ave",
+        "Best St"
+      ],
+      "pulsePointId": "2464646077"
+    }
+  ],
+  "lastIncident": "2026-04-30T19:28:00Z",
+  "count": 1
+}

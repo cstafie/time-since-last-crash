@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-04-30T19:52:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-04-30T19:52:00Z",
+    "scrapedAt": "2026-04-30T19:59:50Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2464661589"
+  },
+  {
+    "id": "2026-04-30T19:28:00Z_white-rock/russell-ave_white-rock/best-st",
+    "timestamp": "2026-04-30T19:28:00Z",
+    "scrapedAt": "2026-04-30T19:59:50Z",
+    "address": "RUSSELL AVE & BEST ST",
+    "city": "White Rock",
+    "streets": [
+      "white-rock/russell-ave",
+      "white-rock/best-st"
+    ],
+    "streetNames": [
+      "Russell Ave",
+      "Best St"
+    ],
+    "pulsePointId": "2464646077"
+  },
+  {
     "id": "2026-04-30T18:00:00Z_burnaby/14th-ave_burnaby/kingsway",
     "timestamp": "2026-04-30T18:00:00Z",
     "scrapedAt": "2026-04-30T18:23:34Z",
