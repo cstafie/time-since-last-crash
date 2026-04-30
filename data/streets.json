@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-04-29T01:28:00Z",
-    "count": 29
+    "lastIncident": "2026-04-30T08:45:00Z",
+    "count": 30
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -8201,6 +8201,13 @@
     "slug": "port-moody/spring-st",
     "city": "Port Moody",
     "lastIncident": "2026-04-30T06:00:00Z",
+    "count": 1
+  },
+  "surrey/98a-ave": {
+    "name": "98a Ave",
+    "slug": "surrey/98a-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-04-30T08:45:00Z",
     "count": 1
   }
 }

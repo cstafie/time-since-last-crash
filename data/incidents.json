@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-30T08:45:00Z_surrey/98a-ave_surrey/king-george-blvd",
+    "timestamp": "2026-04-30T08:45:00Z",
+    "scrapedAt": "2026-04-30T09:13:47Z",
+    "address": "98A AVE & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/98a-ave",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "98a Ave",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2464373550"
+  },
+  {
     "id": "2026-04-30T07:29:00Z_burnaby/glenlyon-pkwy_burnaby/marine-way",
     "timestamp": "2026-04-30T07:29:00Z",
     "scrapedAt": "2026-04-30T08:14:55Z",

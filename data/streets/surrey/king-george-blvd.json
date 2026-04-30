@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-04-30T08:45:00Z_surrey/98a-ave_surrey/king-george-blvd",
+      "timestamp": "2026-04-30T08:45:00Z",
+      "address": "98A AVE & KING GEORGE BLVD",
+      "city": "Surrey",
+      "streets": [
+        "surrey/98a-ave",
+        "surrey/king-george-blvd"
+      ],
+      "streetNames": [
+        "98a Ave",
+        "King George Blvd"
+      ],
+      "pulsePointId": "2464373550"
+    },
+    {
       "id": "2026-04-29T01:28:00Z_surrey/king-george-blvd_surrey/73a-ave",
       "timestamp": "2026-04-29T01:28:00Z",
       "address": "KING GEORGE BLVD & 73A AVE",
@@ -423,6 +438,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-29T01:28:00Z",
-  "count": 29
+  "lastIncident": "2026-04-30T08:45:00Z",
+  "count": 30
 }
