@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-30T06:00:00Z_port-moody/spring-st",
+    "timestamp": "2026-04-30T06:00:00Z",
+    "scrapedAt": "2026-04-30T06:18:49Z",
+    "address": "SPRING ST",
+    "city": "Port Moody",
+    "streets": [
+      "port-moody/spring-st"
+    ],
+    "streetNames": [
+      "Spring St"
+    ],
+    "pulsePointId": "2464328531"
+  },
+  {
     "id": "2026-04-30T03:44:00Z_burnaby/18th-ave_burnaby/canada-way",
     "timestamp": "2026-04-30T03:44:00Z",
     "scrapedAt": "2026-04-30T05:04:13Z",
