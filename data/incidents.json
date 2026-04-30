@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-30T03:44:00Z_burnaby/18th-ave_burnaby/canada-way",
+    "timestamp": "2026-04-30T03:44:00Z",
+    "scrapedAt": "2026-04-30T05:04:13Z",
+    "address": "18TH AVE & CANADA WAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/18th-ave",
+      "burnaby/canada-way"
+    ],
+    "streetNames": [
+      "18th Ave",
+      "Canada Way"
+    ],
+    "pulsePointId": "2464276453"
+  },
+  {
     "id": "2026-04-30T03:40:00Z_abbotsford/mccallum-rd_abbotsford/hawthorne-ave",
     "timestamp": "2026-04-30T03:40:00Z",
     "scrapedAt": "2026-04-30T03:43:07Z",
@@ -14,6 +30,22 @@
       "Hawthorne Ave"
     ],
     "pulsePointId": "2464275014"
+  },
+  {
+    "id": "2026-04-30T03:40:00Z_langley/40th-ave_langley/240th-st",
+    "timestamp": "2026-04-30T03:40:00Z",
+    "scrapedAt": "2026-04-30T05:04:13Z",
+    "address": "40TH AVE & 240TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/40th-ave",
+      "langley/240th-st"
+    ],
+    "streetNames": [
+      "40th Ave",
+      "240th St"
+    ],
+    "pulsePointId": "2464276107"
   },
   {
     "id": "2026-04-30T02:35:00Z_port-moody/st-johns-st",

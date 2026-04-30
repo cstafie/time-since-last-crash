@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-04-30T03:44:00Z_burnaby/18th-ave_burnaby/canada-way",
+      "timestamp": "2026-04-30T03:44:00Z",
+      "address": "18TH AVE & CANADA WAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/18th-ave",
+        "burnaby/canada-way"
+      ],
+      "streetNames": [
+        "18th Ave",
+        "Canada Way"
+      ],
+      "pulsePointId": "2464276453"
+    },
+    {
       "id": "2026-04-15T15:51:00Z_burnaby/canada-way_burnaby/13th-ave",
       "timestamp": "2026-04-15T15:51:00Z",
       "address": "CANADA WAY & 13TH AVE",
@@ -164,6 +179,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-15T15:51:00Z",
-  "count": 11
+  "lastIncident": "2026-04-30T03:44:00Z",
+  "count": 12
 }
