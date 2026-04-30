@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/carnarvon-st",
+  "name": "Carnarvon St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-04-30T22:24:00Z_vancouver/sw-marine-dr_vancouver/carnarvon-st",
+      "timestamp": "2026-04-30T22:24:00Z",
+      "address": "SW MARINE DR & CARNARVON ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/sw-marine-dr",
+        "vancouver/carnarvon-st"
+      ],
+      "streetNames": [
+        "Sw Marine Dr",
+        "Carnarvon St"
+      ],
+      "pulsePointId": "2464763972"
+    }
+  ],
+  "lastIncident": "2026-04-30T22:24:00Z",
+  "count": 1
+}

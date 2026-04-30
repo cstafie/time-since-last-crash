@@ -1998,8 +1998,8 @@
     "name": "Port Mann Brdg",
     "slug": "coquitlam/port-mann-brdg",
     "city": "Coquitlam",
-    "lastIncident": "2026-03-30T13:35:00Z",
-    "count": 2
+    "lastIncident": "2026-04-30T22:28:00Z",
+    "count": 3
   },
   "new-westminster/3rd-ave": {
     "name": "3rd Ave",
@@ -6597,8 +6597,8 @@
     "name": "Sw Marine Dr",
     "slug": "vancouver/sw-marine-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-04-26T03:35:00Z",
-    "count": 3
+    "lastIncident": "2026-04-30T22:24:00Z",
+    "count": 4
   },
   "surrey/54th-ave": {
     "name": "54th Ave",
@@ -7598,8 +7598,8 @@
     "name": "Promontory Rd",
     "slug": "chilliwack/promontory-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-04-24T19:11:00Z",
-    "count": 1
+    "lastIncident": "2026-04-30T22:29:00Z",
+    "count": 2
   },
   "west-vancouver/headland-dr": {
     "name": "Headland Dr",
@@ -8250,6 +8250,20 @@
     "slug": "white-rock/best-st",
     "city": "White Rock",
     "lastIncident": "2026-04-30T19:28:00Z",
+    "count": 1
+  },
+  "chilliwack/chester-dr": {
+    "name": "Chester Dr",
+    "slug": "chilliwack/chester-dr",
+    "city": "Chilliwack",
+    "lastIncident": "2026-04-30T22:29:00Z",
+    "count": 1
+  },
+  "vancouver/carnarvon-st": {
+    "name": "Carnarvon St",
+    "slug": "vancouver/carnarvon-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-30T22:24:00Z",
     "count": 1
   }
 }
