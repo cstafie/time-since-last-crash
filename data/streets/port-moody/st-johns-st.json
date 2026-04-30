@@ -4,6 +4,19 @@
   "city": "Port Moody",
   "incidents": [
     {
+      "id": "2026-04-30T02:35:00Z_port-moody/st-johns-st",
+      "timestamp": "2026-04-30T02:35:00Z",
+      "address": "ST JOHNS ST",
+      "city": "Port Moody",
+      "streets": [
+        "port-moody/st-johns-st"
+      ],
+      "streetNames": [
+        "St Johns St"
+      ],
+      "pulsePointId": "2464243284"
+    },
+    {
       "id": "2026-04-22T05:02:00Z_port-moody/st-johns-st",
       "timestamp": "2026-04-22T05:02:00Z",
       "address": "ST JOHNS ST",
@@ -32,6 +45,6 @@
       "pulsePointId": "2451972585"
     }
   ],
-  "lastIncident": "2026-04-22T05:02:00Z",
-  "count": 2
+  "lastIncident": "2026-04-30T02:35:00Z",
+  "count": 3
 }

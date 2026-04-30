@@ -24,8 +24,8 @@
     "name": "Mccallum Rd",
     "slug": "abbotsford/mccallum-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-02T17:31:00Z",
-    "count": 6
+    "lastIncident": "2026-04-30T03:40:00Z",
+    "count": 7
   },
   "abbotsford/mcdougall-ave": {
     "name": "Mcdougall Ave",
@@ -3258,8 +3258,8 @@
     "name": "Fraser St",
     "slug": "vancouver/fraser-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-25T21:53:00Z",
-    "count": 5
+    "lastIncident": "2026-04-30T02:33:00Z",
+    "count": 6
   },
   "abbotsford/32470-simon-ave": {
     "name": "32470 Simon Ave",
@@ -3937,8 +3937,8 @@
     "name": "E 33rd Ave",
     "slug": "vancouver/e-33rd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-24T16:49:00Z",
-    "count": 3
+    "lastIncident": "2026-04-30T02:33:00Z",
+    "count": 4
   },
   "surrey/university-dr": {
     "name": "University Dr",
@@ -6142,8 +6142,8 @@
     "name": "Hawthorne Ave",
     "slug": "abbotsford/hawthorne-ave",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-10T13:36:00Z",
-    "count": 1
+    "lastIncident": "2026-04-30T03:40:00Z",
+    "count": 2
   },
   "langley/60th-ave": {
     "name": "60th Ave",
@@ -6296,8 +6296,8 @@
     "name": "St Johns St",
     "slug": "port-moody/st-johns-st",
     "city": "Port Moody",
-    "lastIncident": "2026-04-22T05:02:00Z",
-    "count": 2
+    "lastIncident": "2026-04-30T02:35:00Z",
+    "count": 3
   },
   "port-moody/elgin-st": {
     "name": "Elgin St",

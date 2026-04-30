@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-04-30T03:40:00Z_abbotsford/mccallum-rd_abbotsford/hawthorne-ave",
+    "timestamp": "2026-04-30T03:40:00Z",
+    "scrapedAt": "2026-04-30T03:43:07Z",
+    "address": "MCCALLUM RD & HAWTHORNE AVE",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/mccallum-rd",
+      "abbotsford/hawthorne-ave"
+    ],
+    "streetNames": [
+      "Mccallum Rd",
+      "Hawthorne Ave"
+    ],
+    "pulsePointId": "2464275014"
+  },
+  {
+    "id": "2026-04-30T02:35:00Z_port-moody/st-johns-st",
+    "timestamp": "2026-04-30T02:35:00Z",
+    "scrapedAt": "2026-04-30T03:43:07Z",
+    "address": "ST JOHNS ST",
+    "city": "Port Moody",
+    "streets": [
+      "port-moody/st-johns-st"
+    ],
+    "streetNames": [
+      "St Johns St"
+    ],
+    "pulsePointId": "2464243284"
+  },
+  {
+    "id": "2026-04-30T02:33:00Z_vancouver/fraser-st_vancouver/e-33rd-ave",
+    "timestamp": "2026-04-30T02:33:00Z",
+    "scrapedAt": "2026-04-30T03:43:07Z",
+    "address": "FRASER ST & E 33RD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/fraser-st",
+      "vancouver/e-33rd-ave"
+    ],
+    "streetNames": [
+      "Fraser St",
+      "E 33rd Ave"
+    ],
+    "pulsePointId": "2464241873"
+  },
+  {
     "id": "2026-04-30T01:57:00Z_delta/120th-st",
     "timestamp": "2026-04-30T01:57:00Z",
     "scrapedAt": "2026-04-30T02:16:12Z",

@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-04-30T03:40:00Z_abbotsford/mccallum-rd_abbotsford/hawthorne-ave",
+      "timestamp": "2026-04-30T03:40:00Z",
+      "address": "MCCALLUM RD & HAWTHORNE AVE",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/mccallum-rd",
+        "abbotsford/hawthorne-ave"
+      ],
+      "streetNames": [
+        "Mccallum Rd",
+        "Hawthorne Ave"
+      ],
+      "pulsePointId": "2464275014"
+    },
+    {
       "id": "2026-04-02T17:31:00Z_abbotsford/mccallum-rd_abbotsford/marshall-rd",
       "timestamp": "2026-04-02T17:31:00Z",
       "address": "MCCALLUM RD & MARSHALL RD",
@@ -90,6 +105,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-02T17:31:00Z",
-  "count": 6
+  "lastIncident": "2026-04-30T03:40:00Z",
+  "count": 7
 }
