@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-04-30T18:00:00Z_burnaby/14th-ave_burnaby/kingsway",
+      "timestamp": "2026-04-30T18:00:00Z",
+      "address": "14TH AVE & KINGSWAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/14th-ave",
+        "burnaby/kingsway"
+      ],
+      "streetNames": [
+        "14th Ave",
+        "Kingsway"
+      ],
+      "pulsePointId": "2464590275"
+    },
+    {
       "id": "2026-04-18T23:45:00Z_burnaby/kingsway",
       "timestamp": "2026-04-18T23:45:00Z",
       "address": "KINGSWAY",
@@ -102,6 +117,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-18T23:45:00Z",
-  "count": 7
+  "lastIncident": "2026-04-30T18:00:00Z",
+  "count": 8
 }

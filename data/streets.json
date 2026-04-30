@@ -1473,8 +1473,8 @@
     "name": "Kingsway",
     "slug": "burnaby/kingsway",
     "city": "Burnaby",
-    "lastIncident": "2026-04-18T23:45:00Z",
-    "count": 7
+    "lastIncident": "2026-04-30T18:00:00Z",
+    "count": 8
   },
   "burnaby/gilley-ave": {
     "name": "Gilley Ave",
@@ -4441,8 +4441,8 @@
     "name": "14th Ave",
     "slug": "burnaby/14th-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-04-05T00:27:00Z",
-    "count": 2
+    "lastIncident": "2026-04-30T18:00:00Z",
+    "count": 3
   },
   "coquitlam/cape-horn-ave": {
     "name": "Cape Horn Ave",
