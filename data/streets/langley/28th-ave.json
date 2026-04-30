@@ -1,0 +1,24 @@
+{
+  "slug": "langley/28th-ave",
+  "name": "28th Ave",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-04-30T16:12:00Z_langley/200th-st_langley/28th-ave",
+      "timestamp": "2026-04-30T16:12:00Z",
+      "address": "200TH ST & 28TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/200th-st",
+        "langley/28th-ave"
+      ],
+      "streetNames": [
+        "200th St",
+        "28th Ave"
+      ],
+      "pulsePointId": "2464523835"
+    }
+  ],
+  "lastIncident": "2026-04-30T16:12:00Z",
+  "count": 1
+}

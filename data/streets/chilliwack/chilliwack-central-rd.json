@@ -4,6 +4,21 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-04-30T15:36:00Z_chilliwack/broadway_chilliwack/chilliwack-central-rd",
+      "timestamp": "2026-04-30T15:36:00Z",
+      "address": "BROADWAY & CHILLIWACK CENTRAL RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/broadway",
+        "chilliwack/chilliwack-central-rd"
+      ],
+      "streetNames": [
+        "Broadway",
+        "Chilliwack Central Rd"
+      ],
+      "pulsePointId": "2464503742"
+    },
+    {
       "id": "2026-04-22T16:29:00Z_chilliwack/prest-rd_chilliwack/chilliwack-central-rd",
       "timestamp": "2026-04-22T16:29:00Z",
       "address": "PREST RD & CHILLIWACK CENTRAL RD",
@@ -47,6 +62,6 @@
       "pulsePointId": "2448720210"
     }
   ],
-  "lastIncident": "2026-04-22T16:29:00Z",
-  "count": 3
+  "lastIncident": "2026-04-30T15:36:00Z",
+  "count": 4
 }

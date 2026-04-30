@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-04-30T16:23:00Z_chilliwack/airport-rd_chilliwack/yale-rd",
+    "timestamp": "2026-04-30T16:23:00Z",
+    "scrapedAt": "2026-04-30T16:27:36Z",
+    "address": "AIRPORT RD & YALE RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/airport-rd",
+      "chilliwack/yale-rd"
+    ],
+    "streetNames": [
+      "Airport Rd",
+      "Yale Rd"
+    ],
+    "pulsePointId": "2464529499"
+  },
+  {
+    "id": "2026-04-30T16:12:00Z_langley/200th-st_langley/28th-ave",
+    "timestamp": "2026-04-30T16:12:00Z",
+    "scrapedAt": "2026-04-30T16:27:36Z",
+    "address": "200TH ST & 28TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/200th-st",
+      "langley/28th-ave"
+    ],
+    "streetNames": [
+      "200th St",
+      "28th Ave"
+    ],
+    "pulsePointId": "2464523835"
+  },
+  {
+    "id": "2026-04-30T15:36:00Z_chilliwack/broadway_chilliwack/chilliwack-central-rd",
+    "timestamp": "2026-04-30T15:36:00Z",
+    "scrapedAt": "2026-04-30T16:27:36Z",
+    "address": "BROADWAY & CHILLIWACK CENTRAL RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/broadway",
+      "chilliwack/chilliwack-central-rd"
+    ],
+    "streetNames": [
+      "Broadway",
+      "Chilliwack Central Rd"
+    ],
+    "pulsePointId": "2464503742"
+  },
+  {
     "id": "2026-04-30T13:05:00Z_delta/hwy-17",
     "timestamp": "2026-04-30T13:05:00Z",
     "scrapedAt": "2026-04-30T13:30:47Z",
