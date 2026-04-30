@@ -1,5 +1,111 @@
 [
   {
+    "id": "2026-04-30T01:57:00Z_delta/120th-st",
+    "timestamp": "2026-04-30T01:57:00Z",
+    "scrapedAt": "2026-04-30T02:16:12Z",
+    "address": "120TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/120th-st"
+    ],
+    "streetNames": [
+      "120th St"
+    ],
+    "pulsePointId": "2464225713"
+  },
+  {
+    "id": "2026-04-30T01:16:00Z_mission/cherry-ave_mission/cedar-st",
+    "timestamp": "2026-04-30T01:16:00Z",
+    "scrapedAt": "2026-04-30T02:16:12Z",
+    "address": "CHERRY AVE & CEDAR ST",
+    "city": "Mission",
+    "streets": [
+      "mission/cherry-ave",
+      "mission/cedar-st"
+    ],
+    "streetNames": [
+      "Cherry Ave",
+      "Cedar St"
+    ],
+    "pulsePointId": "2464200077"
+  },
+  {
+    "id": "2026-04-30T01:09:00Z_surrey/176a-st_surrey/60th-ave",
+    "timestamp": "2026-04-30T01:09:00Z",
+    "scrapedAt": "2026-04-30T02:16:12Z",
+    "address": "176A ST & 60TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/176a-st",
+      "surrey/60th-ave"
+    ],
+    "streetNames": [
+      "176a St",
+      "60th Ave"
+    ],
+    "pulsePointId": "2464197229"
+  },
+  {
+    "id": "2026-04-30T01:00:00Z_vancouver/willow-st_vancouver/w-38th-ave",
+    "timestamp": "2026-04-30T01:00:00Z",
+    "scrapedAt": "2026-04-30T02:16:12Z",
+    "address": "WILLOW ST & W 38TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/willow-st",
+      "vancouver/w-38th-ave"
+    ],
+    "streetNames": [
+      "Willow St",
+      "W 38th Ave"
+    ],
+    "pulsePointId": "2464192675"
+  },
+  {
+    "id": "2026-04-30T00:16:00Z_vancouver/main-st_vancouver/e-16th-ave",
+    "timestamp": "2026-04-30T00:16:00Z",
+    "scrapedAt": "2026-04-30T02:16:12Z",
+    "address": "MAIN ST & E 16TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st",
+      "vancouver/e-16th-ave"
+    ],
+    "streetNames": [
+      "Main St",
+      "E 16th Ave"
+    ],
+    "pulsePointId": "2464166339"
+  },
+  {
+    "id": "2026-04-30T00:12:00Z_surrey/168th-st",
+    "timestamp": "2026-04-30T00:12:00Z",
+    "scrapedAt": "2026-04-30T02:16:12Z",
+    "address": "168TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/168th-st"
+    ],
+    "streetNames": [
+      "168th St"
+    ],
+    "pulsePointId": "2464165630"
+  },
+  {
+    "id": "2026-04-29T23:56:00Z_surrey/28th-ave",
+    "timestamp": "2026-04-29T23:56:00Z",
+    "scrapedAt": "2026-04-30T02:16:12Z",
+    "address": "28TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/28th-ave"
+    ],
+    "streetNames": [
+      "28th Ave"
+    ],
+    "pulsePointId": "2464156407"
+  },
+  {
     "id": "2026-04-29T23:39:00Z_delta/kittson-pkwy",
     "timestamp": "2026-04-29T23:39:00Z",
     "scrapedAt": "2026-04-29T23:45:33Z",

@@ -1,0 +1,24 @@
+{
+  "slug": "mission/cherry-ave",
+  "name": "Cherry Ave",
+  "city": "Mission",
+  "incidents": [
+    {
+      "id": "2026-04-30T01:16:00Z_mission/cherry-ave_mission/cedar-st",
+      "timestamp": "2026-04-30T01:16:00Z",
+      "address": "CHERRY AVE & CEDAR ST",
+      "city": "Mission",
+      "streets": [
+        "mission/cherry-ave",
+        "mission/cedar-st"
+      ],
+      "streetNames": [
+        "Cherry Ave",
+        "Cedar St"
+      ],
+      "pulsePointId": "2464200077"
+    }
+  ],
+  "lastIncident": "2026-04-30T01:16:00Z",
+  "count": 1
+}

@@ -577,8 +577,8 @@
     "name": "168th St",
     "slug": "surrey/168th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-13T17:15:00Z",
-    "count": 8
+    "lastIncident": "2026-04-30T00:12:00Z",
+    "count": 9
   },
   "surrey/16th-ave": {
     "name": "16th Ave",
@@ -871,8 +871,8 @@
     "name": "120th St",
     "slug": "delta/120th-st",
     "city": "Delta",
-    "lastIncident": "2026-04-18T01:30:00Z",
-    "count": 9
+    "lastIncident": "2026-04-30T01:57:00Z",
+    "count": 10
   },
   "delta/roberts-bank-rd": {
     "name": "Roberts Bank Rd",
@@ -1291,8 +1291,8 @@
     "name": "28th Ave",
     "slug": "surrey/28th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-11T21:02:00Z",
-    "count": 1
+    "lastIncident": "2026-04-29T23:56:00Z",
+    "count": 2
   },
   "surrey/120th-st": {
     "name": "120th St",
@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-28T17:56:00Z",
-    "count": 24
+    "lastIncident": "2026-04-30T00:16:00Z",
+    "count": 25
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",
@@ -2978,8 +2978,8 @@
     "name": "60th Ave",
     "slug": "surrey/60th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-16T16:58:00Z",
-    "count": 5
+    "lastIncident": "2026-04-30T01:09:00Z",
+    "count": 6
   },
   "pitt-meadows/airport-way": {
     "name": "Airport Way",
@@ -5358,8 +5358,8 @@
     "name": "Cedar St",
     "slug": "mission/cedar-st",
     "city": "Mission",
-    "lastIncident": "2026-04-23T00:19:00Z",
-    "count": 2
+    "lastIncident": "2026-04-30T01:16:00Z",
+    "count": 3
   },
   "mission/best-ave": {
     "name": "Best Ave",
@@ -7696,8 +7696,8 @@
     "name": "Willow St",
     "slug": "vancouver/willow-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-25T16:37:00Z",
-    "count": 1
+    "lastIncident": "2026-04-30T01:00:00Z",
+    "count": 2
   },
   "vancouver/e-19th-ave": {
     "name": "E 19th Ave",
@@ -7976,8 +7976,8 @@
     "name": "E 16th Ave",
     "slug": "vancouver/e-16th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-28T17:56:00Z",
-    "count": 1
+    "lastIncident": "2026-04-30T00:16:00Z",
+    "count": 2
   },
   "chilliwack/hope-river-rd": {
     "name": "Hope River Rd",
@@ -8159,6 +8159,27 @@
     "slug": "north-vancouver/beaufort-rd",
     "city": "North Vancouver",
     "lastIncident": "2026-04-29T23:35:00Z",
+    "count": 1
+  },
+  "mission/cherry-ave": {
+    "name": "Cherry Ave",
+    "slug": "mission/cherry-ave",
+    "city": "Mission",
+    "lastIncident": "2026-04-30T01:16:00Z",
+    "count": 1
+  },
+  "surrey/176a-st": {
+    "name": "176a St",
+    "slug": "surrey/176a-st",
+    "city": "Surrey",
+    "lastIncident": "2026-04-30T01:09:00Z",
+    "count": 1
+  },
+  "vancouver/w-38th-ave": {
+    "name": "W 38th Ave",
+    "slug": "vancouver/w-38th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-30T01:00:00Z",
     "count": 1
   }
 }

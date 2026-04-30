@@ -1,6 +1,6 @@
 {
-  "slug": "vancouver/willow-st",
-  "name": "Willow St",
+  "slug": "vancouver/w-38th-ave",
+  "name": "W 38th Ave",
   "city": "Vancouver",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "W 38th Ave"
       ],
       "pulsePointId": "2464192675"
-    },
-    {
-      "id": "2026-04-25T16:37:00Z_vancouver/willow-st_vancouver/w-41st-ave",
-      "timestamp": "2026-04-25T16:37:00Z",
-      "address": "WILLOW ST & W 41ST AVE",
-      "city": "Vancouver",
-      "streets": [
-        "vancouver/willow-st",
-        "vancouver/w-41st-ave"
-      ],
-      "streetNames": [
-        "Willow St",
-        "W 41st Ave"
-      ],
-      "pulsePointId": "2461300689"
     }
   ],
   "lastIncident": "2026-04-30T01:00:00Z",
-  "count": 2
+  "count": 1
 }
