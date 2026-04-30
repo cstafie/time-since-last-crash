@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-30T13:05:00Z_delta/hwy-17",
+    "timestamp": "2026-04-30T13:05:00Z",
+    "scrapedAt": "2026-04-30T13:30:47Z",
+    "address": "HWY 17",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-17"
+    ],
+    "streetNames": [
+      "Hwy 17"
+    ],
+    "pulsePointId": "2464438011"
+  },
+  {
     "id": "2026-04-30T08:45:00Z_surrey/98a-ave_surrey/king-george-blvd",
     "timestamp": "2026-04-30T08:45:00Z",
     "scrapedAt": "2026-04-30T09:13:47Z",
