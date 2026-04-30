@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-04-30T23:09:00Z_vancouver/dundas-st_vancouver/n-garden-dr",
+      "timestamp": "2026-04-30T23:09:00Z",
+      "address": "DUNDAS ST & N GARDEN DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/dundas-st",
+        "vancouver/n-garden-dr"
+      ],
+      "streetNames": [
+        "Dundas St",
+        "N Garden Dr"
+      ],
+      "pulsePointId": "2464792636"
+    },
+    {
       "id": "2026-04-11T10:07:00Z_vancouver/dundas-st_vancouver/wall-st",
       "timestamp": "2026-04-11T10:07:00Z",
       "address": "DUNDAS ST & WALL ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2446987655"
     }
   ],
-  "lastIncident": "2026-04-11T10:07:00Z",
-  "count": 2
+  "lastIncident": "2026-04-30T23:09:00Z",
+  "count": 3
 }

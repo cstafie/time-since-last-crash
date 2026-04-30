@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-04-30T22:59:00Z_maple-ridge/207th-st_maple-ridge/dewdney-trunk-rd",
+      "timestamp": "2026-04-30T22:59:00Z",
+      "address": "207TH ST & DEWDNEY TRUNK RD",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/207th-st",
+        "maple-ridge/dewdney-trunk-rd"
+      ],
+      "streetNames": [
+        "207th St",
+        "Dewdney Trunk Rd"
+      ],
+      "pulsePointId": "2464786863"
+    },
+    {
       "id": "2026-04-23T22:15:00Z_maple-ridge/laity-st_maple-ridge/dewdney-trunk-rd",
       "timestamp": "2026-04-23T22:15:00Z",
       "address": "LAITY ST & DEWDNEY TRUNK RD",
@@ -179,6 +194,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-23T22:15:00Z",
-  "count": 12
+  "lastIncident": "2026-04-30T22:59:00Z",
+  "count": 13
 }

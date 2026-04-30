@@ -290,8 +290,8 @@
     "name": "207th St",
     "slug": "maple-ridge/207th-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-04-20T22:55:00Z",
-    "count": 2
+    "lastIncident": "2026-04-30T22:59:00Z",
+    "count": 3
   },
   "maple-ridge/227th-st": {
     "name": "227th St",
@@ -318,8 +318,8 @@
     "name": "Dewdney Trunk Rd",
     "slug": "maple-ridge/dewdney-trunk-rd",
     "city": "Maple Ridge",
-    "lastIncident": "2026-04-23T22:15:00Z",
-    "count": 12
+    "lastIncident": "2026-04-30T22:59:00Z",
+    "count": 13
   },
   "maple-ridge/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -5197,8 +5197,8 @@
     "name": "Dundas St",
     "slug": "vancouver/dundas-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-11T10:07:00Z",
-    "count": 2
+    "lastIncident": "2026-04-30T23:09:00Z",
+    "count": 3
   },
   "abbotsford/1999-sumas-way": {
     "name": "1999 Sumas Way",
@@ -8264,6 +8264,13 @@
     "slug": "vancouver/carnarvon-st",
     "city": "Vancouver",
     "lastIncident": "2026-04-30T22:24:00Z",
+    "count": 1
+  },
+  "vancouver/n-garden-dr": {
+    "name": "N Garden Dr",
+    "slug": "vancouver/n-garden-dr",
+    "city": "Vancouver",
+    "lastIncident": "2026-04-30T23:09:00Z",
     "count": 1
   }
 }
