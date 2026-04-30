@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-04-30T16:38:00Z_maple-ridge/maple-meadows-way_maple-ridge/200th-st",
+    "timestamp": "2026-04-30T16:38:00Z",
+    "scrapedAt": "2026-04-30T17:00:34Z",
+    "address": "MAPLE MEADOWS WAY & 200TH ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/maple-meadows-way",
+      "maple-ridge/200th-st"
+    ],
+    "streetNames": [
+      "Maple Meadows Way",
+      "200th St"
+    ],
+    "pulsePointId": "2464539086"
+  },
+  {
     "id": "2026-04-30T16:23:00Z_chilliwack/airport-rd_chilliwack/yale-rd",
     "timestamp": "2026-04-30T16:23:00Z",
     "scrapedAt": "2026-04-30T16:27:36Z",

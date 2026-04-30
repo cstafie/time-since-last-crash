@@ -1,0 +1,24 @@
+{
+  "slug": "maple-ridge/maple-meadows-way",
+  "name": "Maple Meadows Way",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-04-30T16:38:00Z_maple-ridge/maple-meadows-way_maple-ridge/200th-st",
+      "timestamp": "2026-04-30T16:38:00Z",
+      "address": "MAPLE MEADOWS WAY & 200TH ST",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/maple-meadows-way",
+        "maple-ridge/200th-st"
+      ],
+      "streetNames": [
+        "Maple Meadows Way",
+        "200th St"
+      ],
+      "pulsePointId": "2464539086"
+    }
+  ],
+  "lastIncident": "2026-04-30T16:38:00Z",
+  "count": 1
+}
