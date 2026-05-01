@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-01T04:40:00Z_vancouver/barclay-st_vancouver/burrard-st",
+    "timestamp": "2026-05-01T04:40:00Z",
+    "scrapedAt": "2026-05-01T05:12:54Z",
+    "address": "BARCLAY ST & BURRARD ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/barclay-st",
+      "vancouver/burrard-st"
+    ],
+    "streetNames": [
+      "Barclay St",
+      "Burrard St"
+    ],
+    "pulsePointId": "2464967254"
+  },
+  {
+    "id": "2026-05-01T04:06:00Z_north-vancouver/st-georges-ave",
+    "timestamp": "2026-05-01T04:06:00Z",
+    "scrapedAt": "2026-05-01T05:12:54Z",
+    "address": "ST GEORGES AVE",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/st-georges-ave"
+    ],
+    "streetNames": [
+      "St Georges Ave"
+    ],
+    "pulsePointId": "2464953440"
+  },
+  {
     "id": "2026-05-01T03:25:00Z_vancouver/w-24th-ave_vancouver/blenheim-st",
     "timestamp": "2026-05-01T03:25:00Z",
     "scrapedAt": "2026-05-01T03:43:41Z",

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-01T04:40:00Z_vancouver/barclay-st_vancouver/burrard-st",
+      "timestamp": "2026-05-01T04:40:00Z",
+      "address": "BARCLAY ST & BURRARD ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/barclay-st",
+        "vancouver/burrard-st"
+      ],
+      "streetNames": [
+        "Barclay St",
+        "Burrard St"
+      ],
+      "pulsePointId": "2464967254"
+    },
+    {
       "id": "2026-04-29T22:38:00Z_vancouver/burrard-st_vancouver/w-4th-ave",
       "timestamp": "2026-04-29T22:38:00Z",
       "address": "BURRARD ST & W 4TH AVE",
@@ -151,6 +166,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-29T22:38:00Z",
-  "count": 10
+  "lastIncident": "2026-05-01T04:40:00Z",
+  "count": 11
 }
