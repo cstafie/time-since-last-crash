@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-01T12:09:00Z_langley/40th-ave_langley/232nd-st",
+    "timestamp": "2026-05-01T12:09:00Z",
+    "scrapedAt": "2026-05-01T12:13:51Z",
+    "address": "40TH AVE & 232ND ST",
+    "city": "Langley",
+    "streets": [
+      "langley/40th-ave",
+      "langley/232nd-st"
+    ],
+    "streetNames": [
+      "40th Ave",
+      "232nd St"
+    ],
+    "pulsePointId": "2465086450"
+  },
+  {
     "id": "2026-05-01T06:08:00Z_surrey/108th-ave",
     "timestamp": "2026-05-01T06:08:00Z",
     "scrapedAt": "2026-05-01T06:27:16Z",
