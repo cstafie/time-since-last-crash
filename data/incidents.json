@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-01T18:35:00Z_burnaby/trans-canada-hwy",
+    "timestamp": "2026-05-01T18:35:00Z",
+    "scrapedAt": "2026-05-01T18:48:44Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2465278491"
+  },
+  {
     "id": "2026-05-01T17:47:00Z_north-vancouver/larson-rd_north-vancouver/bewicke-ave",
     "timestamp": "2026-05-01T17:47:00Z",
     "scrapedAt": "2026-05-01T18:17:30Z",
