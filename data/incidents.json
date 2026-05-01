@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-01T22:39:00Z_burnaby/kingsway",
+    "timestamp": "2026-05-01T22:39:00Z",
+    "scrapedAt": "2026-05-01T22:44:51Z",
+    "address": "KINGSWAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/kingsway"
+    ],
+    "streetNames": [
+      "Kingsway"
+    ],
+    "pulsePointId": "2465442044"
+  },
+  {
+    "id": "2026-05-01T22:31:00Z_abbotsford/simon-ave_abbotsford/emerson-st",
+    "timestamp": "2026-05-01T22:31:00Z",
+    "scrapedAt": "2026-05-01T22:44:51Z",
+    "address": "SIMON AVE & EMERSON ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/simon-ave",
+      "abbotsford/emerson-st"
+    ],
+    "streetNames": [
+      "Simon Ave",
+      "Emerson St"
+    ],
+    "pulsePointId": "2465435537"
+  },
+  {
     "id": "2026-05-01T21:02:00Z_burnaby/gilley-ave_burnaby/kingsway",
     "timestamp": "2026-05-01T21:02:00Z",
     "scrapedAt": "2026-05-01T21:14:25Z",

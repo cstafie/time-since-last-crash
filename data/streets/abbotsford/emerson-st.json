@@ -1,6 +1,6 @@
 {
-  "slug": "abbotsford/simon-ave",
-  "name": "Simon Ave",
+  "slug": "abbotsford/emerson-st",
+  "name": "Emerson St",
   "city": "Abbotsford",
   "incidents": [
     {
@@ -17,21 +17,8 @@
         "Emerson St"
       ],
       "pulsePointId": "2465435537"
-    },
-    {
-      "id": "2026-04-18T17:52:00Z_abbotsford/simon-ave",
-      "timestamp": "2026-04-18T17:52:00Z",
-      "address": "SIMON AVE",
-      "city": "Abbotsford",
-      "streets": [
-        "abbotsford/simon-ave"
-      ],
-      "streetNames": [
-        "Simon Ave"
-      ],
-      "pulsePointId": "2456851769"
     }
   ],
   "lastIncident": "2026-05-01T22:31:00Z",
-  "count": 2
+  "count": 1
 }
