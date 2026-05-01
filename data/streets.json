@@ -4980,8 +4980,8 @@
     "name": "Glover Rd",
     "slug": "langley/glover-rd",
     "city": "Langley",
-    "lastIncident": "2026-04-20T17:02:00Z",
-    "count": 2
+    "lastIncident": "2026-05-01T02:05:00Z",
+    "count": 3
   },
   "richmond/knight-street-ofrp": {
     "name": "Knight Street Ofrp",
@@ -8285,6 +8285,27 @@
     "slug": "vancouver/w-54th-ave",
     "city": "Vancouver",
     "lastIncident": "2026-05-01T00:19:00Z",
+    "count": 1
+  },
+  "langley/worrell-cres": {
+    "name": "Worrell Cres",
+    "slug": "langley/worrell-cres",
+    "city": "Langley",
+    "lastIncident": "2026-05-01T02:05:00Z",
+    "count": 1
+  },
+  "richmond/gilbert-rd": {
+    "name": "Gilbert Rd",
+    "slug": "richmond/gilbert-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-05-01T01:36:00Z",
+    "count": 1
+  },
+  "maple-ridge/camwood-ave": {
+    "name": "Camwood Ave",
+    "slug": "maple-ridge/camwood-ave",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-05-01T01:20:00Z",
     "count": 1
   }
 }

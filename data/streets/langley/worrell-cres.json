@@ -1,0 +1,24 @@
+{
+  "slug": "langley/worrell-cres",
+  "name": "Worrell Cres",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-05-01T02:05:00Z_langley/glover-rd_langley/worrell-cres",
+      "timestamp": "2026-05-01T02:05:00Z",
+      "address": "GLOVER RD & WORRELL CRES",
+      "city": "Langley",
+      "streets": [
+        "langley/glover-rd",
+        "langley/worrell-cres"
+      ],
+      "streetNames": [
+        "Glover Rd",
+        "Worrell Cres"
+      ],
+      "pulsePointId": "2464896118"
+    }
+  ],
+  "lastIncident": "2026-05-01T02:05:00Z",
+  "count": 1
+}

@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-05-01T02:05:00Z_langley/glover-rd_langley/worrell-cres",
+      "timestamp": "2026-05-01T02:05:00Z",
+      "address": "GLOVER RD & WORRELL CRES",
+      "city": "Langley",
+      "streets": [
+        "langley/glover-rd",
+        "langley/worrell-cres"
+      ],
+      "streetNames": [
+        "Glover Rd",
+        "Worrell Cres"
+      ],
+      "pulsePointId": "2464896118"
+    },
+    {
       "id": "2026-04-20T17:02:00Z_langley/glover-rd_langley/maxwell-cres",
       "timestamp": "2026-04-20T17:02:00Z",
       "address": "GLOVER RD & MAXWELL CRES",
@@ -34,6 +49,6 @@
       "pulsePointId": "2446246891"
     }
   ],
-  "lastIncident": "2026-04-20T17:02:00Z",
-  "count": 2
+  "lastIncident": "2026-05-01T02:05:00Z",
+  "count": 3
 }

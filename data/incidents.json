@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-05-01T02:05:00Z_langley/glover-rd_langley/worrell-cres",
+    "timestamp": "2026-05-01T02:05:00Z",
+    "scrapedAt": "2026-05-01T02:16:00Z",
+    "address": "GLOVER RD & WORRELL CRES",
+    "city": "Langley",
+    "streets": [
+      "langley/glover-rd",
+      "langley/worrell-cres"
+    ],
+    "streetNames": [
+      "Glover Rd",
+      "Worrell Cres"
+    ],
+    "pulsePointId": "2464896118"
+  },
+  {
+    "id": "2026-05-01T01:36:00Z_richmond/gilbert-rd",
+    "timestamp": "2026-05-01T01:36:00Z",
+    "scrapedAt": "2026-05-01T02:16:00Z",
+    "address": "GILBERT RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/gilbert-rd"
+    ],
+    "streetNames": [
+      "Gilbert Rd"
+    ],
+    "pulsePointId": "2464881239"
+  },
+  {
+    "id": "2026-05-01T01:20:00Z_maple-ridge/camwood-ave",
+    "timestamp": "2026-05-01T01:20:00Z",
+    "scrapedAt": "2026-05-01T02:16:00Z",
+    "address": "CAMWOOD AVE",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/camwood-ave"
+    ],
+    "streetNames": [
+      "Camwood Ave"
+    ],
+    "pulsePointId": "2464871728"
+  },
+  {
     "id": "2026-05-01T01:15:00Z_chilliwack/vedder-rd_chilliwack/thomas-rd",
     "timestamp": "2026-05-01T01:15:00Z",
     "scrapedAt": "2026-05-01T01:17:33Z",

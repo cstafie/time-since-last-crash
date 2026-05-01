@@ -1,0 +1,22 @@
+{
+  "slug": "maple-ridge/camwood-ave",
+  "name": "Camwood Ave",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-05-01T01:20:00Z_maple-ridge/camwood-ave",
+      "timestamp": "2026-05-01T01:20:00Z",
+      "address": "CAMWOOD AVE",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/camwood-ave"
+      ],
+      "streetNames": [
+        "Camwood Ave"
+      ],
+      "pulsePointId": "2464871728"
+    }
+  ],
+  "lastIncident": "2026-05-01T01:20:00Z",
+  "count": 1
+}
