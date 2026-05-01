@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-05-01T23:26:00Z_burnaby/north-rd_burnaby/como-lake-ave",
+    "timestamp": "2026-05-01T23:26:00Z",
+    "scrapedAt": "2026-05-01T23:45:04Z",
+    "address": "NORTH RD & COMO LAKE AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/north-rd",
+      "burnaby/como-lake-ave"
+    ],
+    "streetNames": [
+      "North Rd",
+      "Como Lake Ave"
+    ],
+    "pulsePointId": "2465471678"
+  },
+  {
+    "id": "2026-05-01T23:23:00Z_burnaby/como-lake-ave_burnaby/north-rd",
+    "timestamp": "2026-05-01T23:23:00Z",
+    "scrapedAt": "2026-05-01T23:45:04Z",
+    "address": "COMO LAKE AVE & NORTH RD",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/como-lake-ave",
+      "burnaby/north-rd"
+    ],
+    "streetNames": [
+      "Como Lake Ave",
+      "North Rd"
+    ],
+    "pulsePointId": "2465470056"
+  },
+  {
+    "id": "2026-05-01T23:21:00Z_vancouver/alberta-st_vancouver/w-41st-ave",
+    "timestamp": "2026-05-01T23:21:00Z",
+    "scrapedAt": "2026-05-01T23:45:04Z",
+    "address": "ALBERTA ST & W 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/alberta-st",
+      "vancouver/w-41st-ave"
+    ],
+    "streetNames": [
+      "Alberta St",
+      "W 41st Ave"
+    ],
+    "pulsePointId": "2465468488"
+  },
+  {
     "id": "2026-05-01T22:48:00Z_burnaby/arcola-st",
     "timestamp": "2026-05-01T22:48:00Z",
     "scrapedAt": "2026-05-01T23:14:47Z",

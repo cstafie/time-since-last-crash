@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-01T23:21:00Z_vancouver/alberta-st_vancouver/w-41st-ave",
+      "timestamp": "2026-05-01T23:21:00Z",
+      "address": "ALBERTA ST & W 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/alberta-st",
+        "vancouver/w-41st-ave"
+      ],
+      "streetNames": [
+        "Alberta St",
+        "W 41st Ave"
+      ],
+      "pulsePointId": "2465468488"
+    },
+    {
       "id": "2026-04-25T16:37:00Z_vancouver/willow-st_vancouver/w-41st-ave",
       "timestamp": "2026-04-25T16:37:00Z",
       "address": "WILLOW ST & W 41ST AVE",
@@ -152,6 +167,6 @@
       "pulsePointId": "2435256240"
     }
   ],
-  "lastIncident": "2026-04-25T16:37:00Z",
-  "count": 10
+  "lastIncident": "2026-05-01T23:21:00Z",
+  "count": 11
 }

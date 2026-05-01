@@ -1,6 +1,6 @@
 {
-  "slug": "burnaby/north-rd",
-  "name": "North Rd",
+  "slug": "burnaby/como-lake-ave",
+  "name": "Como Lake Ave",
   "city": "Burnaby",
   "incidents": [
     {
@@ -32,38 +32,8 @@
         "North Rd"
       ],
       "pulsePointId": "2465470056"
-    },
-    {
-      "id": "2026-04-17T01:20:00Z_burnaby/jefferson-ave_burnaby/north-rd",
-      "timestamp": "2026-04-17T01:20:00Z",
-      "address": "JEFFERSON AVE & NORTH RD",
-      "city": "Burnaby",
-      "streets": [
-        "burnaby/jefferson-ave",
-        "burnaby/north-rd"
-      ],
-      "streetNames": [
-        "Jefferson Ave",
-        "North Rd"
-      ],
-      "pulsePointId": "2455801367"
-    },
-    {
-      "id": "2026-04-11T01:23:00Z_burnaby/north-rd_burnaby/cameron-st",
-      "timestamp": "2026-04-11T01:23:00Z",
-      "address": "NORTH RD & CAMERON ST",
-      "city": "Burnaby",
-      "streets": [
-        "burnaby/north-rd",
-        "burnaby/cameron-st"
-      ],
-      "streetNames": [
-        "North Rd",
-        "Cameron St"
-      ],
-      "pulsePointId": "2451881945"
     }
   ],
   "lastIncident": "2026-05-01T23:26:00Z",
-  "count": 4
+  "count": 2
 }

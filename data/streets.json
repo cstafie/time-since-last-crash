@@ -2348,8 +2348,8 @@
     "name": "W 41st Ave",
     "slug": "vancouver/w-41st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-25T16:37:00Z",
-    "count": 10
+    "lastIncident": "2026-05-01T23:21:00Z",
+    "count": 11
   },
   "burnaby/cariboo-rd": {
     "name": "Cariboo Rd",
@@ -6261,8 +6261,8 @@
     "name": "North Rd",
     "slug": "burnaby/north-rd",
     "city": "Burnaby",
-    "lastIncident": "2026-04-17T01:20:00Z",
-    "count": 2
+    "lastIncident": "2026-05-01T23:26:00Z",
+    "count": 4
   },
   "burnaby/cameron-st": {
     "name": "Cameron St",
@@ -8390,6 +8390,20 @@
     "slug": "burnaby/arcola-st",
     "city": "Burnaby",
     "lastIncident": "2026-05-01T22:48:00Z",
+    "count": 1
+  },
+  "burnaby/como-lake-ave": {
+    "name": "Como Lake Ave",
+    "slug": "burnaby/como-lake-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-05-01T23:26:00Z",
+    "count": 2
+  },
+  "vancouver/alberta-st": {
+    "name": "Alberta St",
+    "slug": "vancouver/alberta-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-01T23:21:00Z",
     "count": 1
   }
 }
