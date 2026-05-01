@@ -199,8 +199,8 @@
     "name": "Ladner Trunk Rd",
     "slug": "delta/ladner-trunk-rd",
     "city": "Delta",
-    "lastIncident": "2026-04-18T22:50:00Z",
-    "count": 6
+    "lastIncident": "2026-05-01T19:06:00Z",
+    "count": 7
   },
   "langley/216th-street-ofrp": {
     "name": "216th Street Ofrp",
@@ -626,8 +626,8 @@
     "name": "84th Ave",
     "slug": "surrey/84th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-25T23:07:00Z",
-    "count": 8
+    "lastIncident": "2026-05-01T19:19:00Z",
+    "count": 9
   },
   "surrey/88th-ave": {
     "name": "88th Ave",
@@ -1627,8 +1627,8 @@
     "name": "156th St",
     "slug": "surrey/156th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-26T19:20:00Z",
-    "count": 8
+    "lastIncident": "2026-05-01T19:19:00Z",
+    "count": 9
   },
   "north-vancouver/pemberton-ave": {
     "name": "Pemberton Ave",

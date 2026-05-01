@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-01T19:19:00Z_surrey/156th-st_surrey/84th-ave",
+    "timestamp": "2026-05-01T19:19:00Z",
+    "scrapedAt": "2026-05-01T19:25:50Z",
+    "address": "156TH ST & 84TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/156th-st",
+      "surrey/84th-ave"
+    ],
+    "streetNames": [
+      "156th St",
+      "84th Ave"
+    ],
+    "pulsePointId": "2465304116"
+  },
+  {
+    "id": "2026-05-01T19:06:00Z_delta/ladner-trunk-rd",
+    "timestamp": "2026-05-01T19:06:00Z",
+    "scrapedAt": "2026-05-01T19:25:50Z",
+    "address": "LADNER TRUNK RD",
+    "city": "Delta",
+    "streets": [
+      "delta/ladner-trunk-rd"
+    ],
+    "streetNames": [
+      "Ladner Trunk Rd"
+    ],
+    "pulsePointId": "2465295784"
+  },
+  {
     "id": "2026-05-01T18:35:00Z_burnaby/trans-canada-hwy",
     "timestamp": "2026-05-01T18:35:00Z",
     "scrapedAt": "2026-05-01T18:48:44Z",
