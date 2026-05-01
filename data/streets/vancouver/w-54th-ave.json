@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/w-54th-ave",
+  "name": "W 54th Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-01T00:19:00Z_vancouver/granville-st_vancouver/w-54th-ave",
+      "timestamp": "2026-05-01T00:19:00Z",
+      "address": "GRANVILLE ST & W 54TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st",
+        "vancouver/w-54th-ave"
+      ],
+      "streetNames": [
+        "Granville St",
+        "W 54th Ave"
+      ],
+      "pulsePointId": "2464836030"
+    }
+  ],
+  "lastIncident": "2026-05-01T00:19:00Z",
+  "count": 1
+}

@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-05-01T01:15:00Z_chilliwack/vedder-rd_chilliwack/thomas-rd",
+    "timestamp": "2026-05-01T01:15:00Z",
+    "scrapedAt": "2026-05-01T01:17:33Z",
+    "address": "VEDDER RD & THOMAS RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/vedder-rd",
+      "chilliwack/thomas-rd"
+    ],
+    "streetNames": [
+      "Vedder Rd",
+      "Thomas Rd"
+    ],
+    "pulsePointId": "2464868424"
+  },
+  {
+    "id": "2026-05-01T00:19:00Z_vancouver/granville-st_vancouver/w-55th-ave",
+    "timestamp": "2026-05-01T00:19:00Z",
+    "scrapedAt": "2026-05-01T01:17:33Z",
+    "address": "GRANVILLE ST & W 55TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st",
+      "vancouver/w-55th-ave"
+    ],
+    "streetNames": [
+      "Granville St",
+      "W 55th Ave"
+    ],
+    "pulsePointId": "2464834732"
+  },
+  {
+    "id": "2026-05-01T00:19:00Z_vancouver/granville-st_vancouver/w-54th-ave",
+    "timestamp": "2026-05-01T00:19:00Z",
+    "scrapedAt": "2026-05-01T01:17:33Z",
+    "address": "GRANVILLE ST & W 54TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st",
+      "vancouver/w-54th-ave"
+    ],
+    "streetNames": [
+      "Granville St",
+      "W 54th Ave"
+    ],
+    "pulsePointId": "2464836030"
+  },
+  {
     "id": "2026-04-30T23:57:00Z_delta/hwy-17",
     "timestamp": "2026-04-30T23:57:00Z",
     "scrapedAt": "2026-05-01T00:15:37Z",
