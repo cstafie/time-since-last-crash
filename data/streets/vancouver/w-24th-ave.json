@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/w-24th-ave",
+  "name": "W 24th Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-01T03:25:00Z_vancouver/w-24th-ave_vancouver/blenheim-st",
+      "timestamp": "2026-05-01T03:25:00Z",
+      "address": "W 24TH AVE & BLENHEIM ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-24th-ave",
+        "vancouver/blenheim-st"
+      ],
+      "streetNames": [
+        "W 24th Ave",
+        "Blenheim St"
+      ],
+      "pulsePointId": "2464934345"
+    }
+  ],
+  "lastIncident": "2026-05-01T03:25:00Z",
+  "count": 1
+}

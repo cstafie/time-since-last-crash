@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-01T03:25:00Z_vancouver/w-24th-ave_vancouver/blenheim-st",
+    "timestamp": "2026-05-01T03:25:00Z",
+    "scrapedAt": "2026-05-01T03:43:41Z",
+    "address": "W 24TH AVE & BLENHEIM ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-24th-ave",
+      "vancouver/blenheim-st"
+    ],
+    "streetNames": [
+      "W 24th Ave",
+      "Blenheim St"
+    ],
+    "pulsePointId": "2464934345"
+  },
+  {
+    "id": "2026-05-01T03:15:00Z_vancouver/ross-st_vancouver/e-43rd-ave",
+    "timestamp": "2026-05-01T03:15:00Z",
+    "scrapedAt": "2026-05-01T03:43:41Z",
+    "address": "ROSS ST & E 43RD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/ross-st",
+      "vancouver/e-43rd-ave"
+    ],
+    "streetNames": [
+      "Ross St",
+      "E 43rd Ave"
+    ],
+    "pulsePointId": "2464930329"
+  },
+  {
     "id": "2026-05-01T02:05:00Z_langley/glover-rd_langley/worrell-cres",
     "timestamp": "2026-05-01T02:05:00Z",
     "scrapedAt": "2026-05-01T02:16:00Z",
