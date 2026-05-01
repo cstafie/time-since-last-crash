@@ -1,0 +1,24 @@
+{
+  "slug": "mission/james-st",
+  "name": "James St",
+  "city": "Mission",
+  "incidents": [
+    {
+      "id": "2026-05-01T12:48:00Z_mission/7th-ave_mission/james-st",
+      "timestamp": "2026-05-01T12:48:00Z",
+      "address": "7TH AVE & JAMES ST",
+      "city": "Mission",
+      "streets": [
+        "mission/7th-ave",
+        "mission/james-st"
+      ],
+      "streetNames": [
+        "7th Ave",
+        "James St"
+      ],
+      "pulsePointId": "2465098148"
+    }
+  ],
+  "lastIncident": "2026-05-01T12:48:00Z",
+  "count": 1
+}

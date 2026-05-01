@@ -2838,8 +2838,8 @@
     "name": "7th Ave",
     "slug": "mission/7th-ave",
     "city": "Mission",
-    "lastIncident": "2026-04-23T00:19:00Z",
-    "count": 4
+    "lastIncident": "2026-05-01T12:48:00Z",
+    "count": 5
   },
   "richmond/sexsmith-rd": {
     "name": "Sexsmith Rd",
@@ -8327,6 +8327,13 @@
     "slug": "burnaby/5009-kingsway",
     "city": "Burnaby",
     "lastIncident": "2026-05-01T05:31:00Z",
+    "count": 1
+  },
+  "mission/james-st": {
+    "name": "James St",
+    "slug": "mission/james-st",
+    "city": "Mission",
+    "lastIncident": "2026-05-01T12:48:00Z",
     "count": 1
   }
 }
