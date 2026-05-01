@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-01T15:38:00Z_vancouver/granville-st",
+    "timestamp": "2026-05-01T15:38:00Z",
+    "scrapedAt": "2026-05-01T15:46:02Z",
+    "address": "GRANVILLE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st"
+    ],
+    "streetNames": [
+      "Granville St"
+    ],
+    "pulsePointId": "2465170109"
+  },
+  {
+    "id": "2026-05-01T15:37:00Z_vancouver/granville-st_vancouver/devonshire-cres",
+    "timestamp": "2026-05-01T15:37:00Z",
+    "scrapedAt": "2026-05-01T15:46:02Z",
+    "address": "GRANVILLE ST & DEVONSHIRE CRES",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st",
+      "vancouver/devonshire-cres"
+    ],
+    "streetNames": [
+      "Granville St",
+      "Devonshire Cres"
+    ],
+    "pulsePointId": "2465170768"
+  },
+  {
     "id": "2026-05-01T13:32:00Z_delta/hwy-99",
     "timestamp": "2026-05-01T13:32:00Z",
     "scrapedAt": "2026-05-01T14:02:13Z",

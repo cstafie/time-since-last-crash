@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/devonshire-cres",
+  "name": "Devonshire Cres",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-01T15:37:00Z_vancouver/granville-st_vancouver/devonshire-cres",
+      "timestamp": "2026-05-01T15:37:00Z",
+      "address": "GRANVILLE ST & DEVONSHIRE CRES",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st",
+        "vancouver/devonshire-cres"
+      ],
+      "streetNames": [
+        "Granville St",
+        "Devonshire Cres"
+      ],
+      "pulsePointId": "2465170768"
+    }
+  ],
+  "lastIncident": "2026-05-01T15:37:00Z",
+  "count": 1
+}

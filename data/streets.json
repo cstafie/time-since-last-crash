@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-01T00:19:00Z",
-    "count": 18
+    "lastIncident": "2026-05-01T15:38:00Z",
+    "count": 20
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -8334,6 +8334,13 @@
     "slug": "mission/james-st",
     "city": "Mission",
     "lastIncident": "2026-05-01T12:48:00Z",
+    "count": 1
+  },
+  "vancouver/devonshire-cres": {
+    "name": "Devonshire Cres",
+    "slug": "vancouver/devonshire-cres",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-01T15:37:00Z",
     "count": 1
   }
 }
