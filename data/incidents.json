@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-01T13:32:00Z_delta/hwy-99",
+    "timestamp": "2026-05-01T13:32:00Z",
+    "scrapedAt": "2026-05-01T14:02:13Z",
+    "address": "HWY 99",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2465115153"
+  },
+  {
     "id": "2026-05-01T12:48:00Z_mission/7th-ave_mission/james-st",
     "timestamp": "2026-05-01T12:48:00Z",
     "scrapedAt": "2026-05-01T13:28:27Z",
