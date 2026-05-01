@@ -1,6 +1,6 @@
 {
-  "slug": "vancouver/mackenzie-st",
-  "name": "Mackenzie St",
+  "slug": "vancouver/w-35th-ave",
+  "name": "W 35th Ave",
   "city": "Vancouver",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Mackenzie St"
       ],
       "pulsePointId": "2465342995"
-    },
-    {
-      "id": "2026-04-02T20:24:00Z_vancouver/w-broadway_vancouver/mackenzie-st",
-      "timestamp": "2026-04-02T20:24:00Z",
-      "address": "W BROADWAY & MACKENZIE ST",
-      "city": "Vancouver",
-      "streets": [
-        "vancouver/w-broadway",
-        "vancouver/mackenzie-st"
-      ],
-      "streetNames": [
-        "W Broadway",
-        "Mackenzie St"
-      ],
-      "pulsePointId": "2446502418"
     }
   ],
   "lastIncident": "2026-05-01T20:18:00Z",
-  "count": 2
+  "count": 1
 }

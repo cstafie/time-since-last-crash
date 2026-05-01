@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-05-01T20:38:00Z_langley/fraser-hwy_langley/langley-bps",
+    "timestamp": "2026-05-01T20:38:00Z",
+    "scrapedAt": "2026-05-01T20:45:11Z",
+    "address": "FRASER HWY & LANGLEY BPS",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy",
+      "langley/langley-bps"
+    ],
+    "streetNames": [
+      "Fraser Hwy",
+      "Langley Bps"
+    ],
+    "pulsePointId": "2465356053"
+  },
+  {
+    "id": "2026-05-01T20:34:00Z_surrey/104th-ave_surrey/city-pkwy",
+    "timestamp": "2026-05-01T20:34:00Z",
+    "scrapedAt": "2026-05-01T20:45:11Z",
+    "address": "104TH AVE & CITY PKWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/104th-ave",
+      "surrey/city-pkwy"
+    ],
+    "streetNames": [
+      "104th Ave",
+      "City Pkwy"
+    ],
+    "pulsePointId": "2465352531"
+  },
+  {
+    "id": "2026-05-01T20:18:00Z_vancouver/w-35th-ave_vancouver/mackenzie-st",
+    "timestamp": "2026-05-01T20:18:00Z",
+    "scrapedAt": "2026-05-01T20:45:11Z",
+    "address": "W 35TH AVE & MACKENZIE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-35th-ave",
+      "vancouver/mackenzie-st"
+    ],
+    "streetNames": [
+      "W 35th Ave",
+      "Mackenzie St"
+    ],
+    "pulsePointId": "2465342995"
+  },
+  {
     "id": "2026-05-01T19:54:00Z_abbotsford/ware-st_abbotsford/marshall-rd",
     "timestamp": "2026-05-01T19:54:00Z",
     "scrapedAt": "2026-05-01T20:14:57Z",
