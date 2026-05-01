@@ -17,8 +17,8 @@
     "name": "Marshall Rd",
     "slug": "abbotsford/marshall-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-12T20:39:00Z",
-    "count": 4
+    "lastIncident": "2026-05-01T19:54:00Z",
+    "count": 5
   },
   "abbotsford/mccallum-rd": {
     "name": "Mccallum Rd",
@@ -248,8 +248,8 @@
     "name": "56th Ave",
     "slug": "langley/56th-ave",
     "city": "Langley",
-    "lastIncident": "2026-04-20T23:23:00Z",
-    "count": 10
+    "lastIncident": "2026-05-01T19:50:00Z",
+    "count": 11
   },
   "langley/58th-cres": {
     "name": "58th Cres",
@@ -836,8 +836,8 @@
     "name": "240th St",
     "slug": "langley/240th-st",
     "city": "Langley",
-    "lastIncident": "2026-04-30T03:40:00Z",
-    "count": 2
+    "lastIncident": "2026-05-01T19:50:00Z",
+    "count": 3
   },
   "langley/16th-ave": {
     "name": "16th Ave",
@@ -1746,8 +1746,8 @@
     "name": "Ware St",
     "slug": "abbotsford/ware-st",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-29T20:14:00Z",
-    "count": 6
+    "lastIncident": "2026-05-01T19:54:00Z",
+    "count": 7
   },
   "abbotsford/bourquin-cres-e": {
     "name": "Bourquin Cres E",
@@ -1893,8 +1893,8 @@
     "name": "148th St",
     "slug": "surrey/148th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-26T21:20:00Z",
-    "count": 14
+    "lastIncident": "2026-05-01T19:49:00Z",
+    "count": 15
   },
   "vancouver/earles-st": {
     "name": "Earles St",

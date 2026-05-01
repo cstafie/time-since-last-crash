@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-05-01T19:54:00Z_abbotsford/ware-st_abbotsford/marshall-rd",
+      "timestamp": "2026-05-01T19:54:00Z",
+      "address": "WARE ST & MARSHALL RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/ware-st",
+        "abbotsford/marshall-rd"
+      ],
+      "streetNames": [
+        "Ware St",
+        "Marshall Rd"
+      ],
+      "pulsePointId": "2465326770"
+    },
+    {
       "id": "2026-04-12T20:39:00Z_abbotsford/marshall-rd",
       "timestamp": "2026-04-12T20:39:00Z",
       "address": "MARSHALL RD",
@@ -59,6 +74,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-12T20:39:00Z",
-  "count": 4
+  "lastIncident": "2026-05-01T19:54:00Z",
+  "count": 5
 }
