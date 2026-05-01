@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-01T22:48:00Z_burnaby/arcola-st",
+    "timestamp": "2026-05-01T22:48:00Z",
+    "scrapedAt": "2026-05-01T23:14:47Z",
+    "address": "ARCOLA ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/arcola-st"
+    ],
+    "streetNames": [
+      "Arcola St"
+    ],
+    "pulsePointId": "2465447424"
+  },
+  {
     "id": "2026-05-01T22:39:00Z_burnaby/kingsway",
     "timestamp": "2026-05-01T22:39:00Z",
     "scrapedAt": "2026-05-01T22:44:51Z",

@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/arcola-st",
+  "name": "Arcola St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-05-01T22:48:00Z_burnaby/arcola-st",
+      "timestamp": "2026-05-01T22:48:00Z",
+      "address": "ARCOLA ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/arcola-st"
+      ],
+      "streetNames": [
+        "Arcola St"
+      ],
+      "pulsePointId": "2465447424"
+    }
+  ],
+  "lastIncident": "2026-05-01T22:48:00Z",
+  "count": 1
+}
