@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-05-01T06:08:00Z_surrey/108th-ave",
+    "timestamp": "2026-05-01T06:08:00Z",
+    "scrapedAt": "2026-05-01T06:27:16Z",
+    "address": "108TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/108th-ave"
+    ],
+    "streetNames": [
+      "108th Ave"
+    ],
+    "pulsePointId": "2464997971"
+  },
+  {
+    "id": "2026-05-01T05:31:00Z_burnaby/5009-kingsway",
+    "timestamp": "2026-05-01T05:31:00Z",
+    "scrapedAt": "2026-05-01T06:27:16Z",
+    "address": "5009 KINGSWAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/5009-kingsway"
+    ],
+    "streetNames": [
+      "5009 Kingsway"
+    ],
+    "pulsePointId": "2464984899"
+  },
+  {
     "id": "2026-05-01T04:40:00Z_vancouver/barclay-st_vancouver/burrard-st",
     "timestamp": "2026-05-01T04:40:00Z",
     "scrapedAt": "2026-05-01T05:12:54Z",

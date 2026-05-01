@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/5009-kingsway",
+  "name": "5009 Kingsway",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-05-01T05:31:00Z_burnaby/5009-kingsway",
+      "timestamp": "2026-05-01T05:31:00Z",
+      "address": "5009 KINGSWAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/5009-kingsway"
+      ],
+      "streetNames": [
+        "5009 Kingsway"
+      ],
+      "pulsePointId": "2464984899"
+    }
+  ],
+  "lastIncident": "2026-05-01T05:31:00Z",
+  "count": 1
+}
