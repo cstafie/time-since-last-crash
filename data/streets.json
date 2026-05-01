@@ -1620,8 +1620,8 @@
     "name": "80th Ave",
     "slug": "surrey/80th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-26T19:20:00Z",
-    "count": 13
+    "lastIncident": "2026-05-01T15:49:00Z",
+    "count": 14
   },
   "surrey/156th-st": {
     "name": "156th St",
@@ -4259,8 +4259,8 @@
     "name": "Imperial St",
     "slug": "burnaby/imperial-st",
     "city": "Burnaby",
-    "lastIncident": "2026-04-29T07:05:00Z",
-    "count": 7
+    "lastIncident": "2026-05-01T15:46:00Z",
+    "count": 8
   },
   "burnaby/kitchener-st": {
     "name": "Kitchener St",
@@ -8341,6 +8341,13 @@
     "slug": "vancouver/devonshire-cres",
     "city": "Vancouver",
     "lastIncident": "2026-05-01T15:37:00Z",
+    "count": 1
+  },
+  "burnaby/macpherson-ave": {
+    "name": "Macpherson Ave",
+    "slug": "burnaby/macpherson-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-05-01T15:46:00Z",
     "count": 1
   }
 }

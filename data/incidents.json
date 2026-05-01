@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-01T15:49:00Z_surrey/80th-ave",
+    "timestamp": "2026-05-01T15:49:00Z",
+    "scrapedAt": "2026-05-01T16:16:42Z",
+    "address": "80TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/80th-ave"
+    ],
+    "streetNames": [
+      "80th Ave"
+    ],
+    "pulsePointId": "2465176321"
+  },
+  {
+    "id": "2026-05-01T15:46:00Z_burnaby/imperial-st_burnaby/macpherson-ave",
+    "timestamp": "2026-05-01T15:46:00Z",
+    "scrapedAt": "2026-05-01T16:16:42Z",
+    "address": "IMPERIAL ST & MACPHERSON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/imperial-st",
+      "burnaby/macpherson-ave"
+    ],
+    "streetNames": [
+      "Imperial St",
+      "Macpherson Ave"
+    ],
+    "pulsePointId": "2465174304"
+  },
+  {
     "id": "2026-05-01T15:38:00Z_vancouver/granville-st",
     "timestamp": "2026-05-01T15:38:00Z",
     "scrapedAt": "2026-05-01T15:46:02Z",
