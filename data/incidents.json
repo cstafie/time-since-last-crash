@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-04-30T23:57:00Z_delta/hwy-17",
+    "timestamp": "2026-04-30T23:57:00Z",
+    "scrapedAt": "2026-05-01T00:15:37Z",
+    "address": "HWY 17",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-17"
+    ],
+    "streetNames": [
+      "Hwy 17"
+    ],
+    "pulsePointId": "2464821587"
+  },
+  {
     "id": "2026-04-30T23:09:00Z_vancouver/dundas-st_vancouver/n-garden-dr",
     "timestamp": "2026-04-30T23:09:00Z",
     "scrapedAt": "2026-04-30T23:15:52Z",
