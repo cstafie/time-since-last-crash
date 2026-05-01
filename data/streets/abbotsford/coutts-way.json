@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/coutts-way",
+  "name": "Coutts Way",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-05-01T17:10:00Z_abbotsford/coutts-way",
+      "timestamp": "2026-05-01T17:10:00Z",
+      "address": "COUTTS WAY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/coutts-way"
+      ],
+      "streetNames": [
+        "Coutts Way"
+      ],
+      "pulsePointId": "2465223020"
+    }
+  ],
+  "lastIncident": "2026-05-01T17:10:00Z",
+  "count": 1
+}

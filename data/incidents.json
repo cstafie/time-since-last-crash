@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-01T17:10:00Z_abbotsford/coutts-way",
+    "timestamp": "2026-05-01T17:10:00Z",
+    "scrapedAt": "2026-05-01T17:19:07Z",
+    "address": "COUTTS WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/coutts-way"
+    ],
+    "streetNames": [
+      "Coutts Way"
+    ],
+    "pulsePointId": "2465223020"
+  },
+  {
+    "id": "2026-05-01T17:00:00Z_surrey/king-george-blvd_surrey/160th-st",
+    "timestamp": "2026-05-01T17:00:00Z",
+    "scrapedAt": "2026-05-01T17:19:07Z",
+    "address": "KING GEORGE BLVD & 160TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/160th-st"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "160th St"
+    ],
+    "pulsePointId": "2465216900"
+  },
+  {
     "id": "2026-05-01T15:49:00Z_surrey/80th-ave",
     "timestamp": "2026-05-01T15:49:00Z",
     "scrapedAt": "2026-05-01T16:16:42Z",
