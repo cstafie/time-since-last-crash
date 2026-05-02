@@ -871,8 +871,8 @@
     "name": "120th St",
     "slug": "delta/120th-st",
     "city": "Delta",
-    "lastIncident": "2026-04-30T01:57:00Z",
-    "count": 10
+    "lastIncident": "2026-05-01T23:51:00Z",
+    "count": 11
   },
   "delta/roberts-bank-rd": {
     "name": "Roberts Bank Rd",
@@ -2383,8 +2383,8 @@
     "name": "Langley Bps",
     "slug": "langley/langley-bps",
     "city": "Langley",
-    "lastIncident": "2026-05-01T20:38:00Z",
-    "count": 16
+    "lastIncident": "2026-05-02T00:47:00Z",
+    "count": 17
   },
   "surrey/56th-ave": {
     "name": "56th Ave",
@@ -3286,8 +3286,8 @@
     "name": "Haney Bps",
     "slug": "maple-ridge/haney-bps",
     "city": "Maple Ridge",
-    "lastIncident": "2026-03-20T21:21:00Z",
-    "count": 1
+    "lastIncident": "2026-05-02T00:24:00Z",
+    "count": 2
   },
   "north-vancouver/lonsdale-ave": {
     "name": "Lonsdale Ave",
@@ -5820,8 +5820,8 @@
     "name": "Abernethy Way",
     "slug": "maple-ridge/abernethy-way",
     "city": "Maple Ridge",
-    "lastIncident": "2026-04-08T16:57:00Z",
-    "count": 1
+    "lastIncident": "2026-05-02T00:12:00Z",
+    "count": 2
   },
   "vancouver/w-26th-ave": {
     "name": "W 26th Ave",
@@ -8404,6 +8404,62 @@
     "slug": "vancouver/alberta-st",
     "city": "Vancouver",
     "lastIncident": "2026-05-01T23:21:00Z",
+    "count": 1
+  },
+  "vancouver/braeburn-st": {
+    "name": "Braeburn St",
+    "slug": "vancouver/braeburn-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-02T00:52:00Z",
+    "count": 1
+  },
+  "vancouver/e-56th-ave": {
+    "name": "E 56th Ave",
+    "slug": "vancouver/e-56th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-02T00:52:00Z",
+    "count": 1
+  },
+  "west-vancouver/13th-st": {
+    "name": "13th St",
+    "slug": "west-vancouver/13th-st",
+    "city": "West Vancouver",
+    "lastIncident": "2026-05-02T00:33:00Z",
+    "count": 1
+  },
+  "west-vancouver/inglewood-ave": {
+    "name": "Inglewood Ave",
+    "slug": "west-vancouver/inglewood-ave",
+    "city": "West Vancouver",
+    "lastIncident": "2026-05-02T00:33:00Z",
+    "count": 1
+  },
+  "maple-ridge/232nd-st": {
+    "name": "232nd St",
+    "slug": "maple-ridge/232nd-st",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-05-02T00:12:00Z",
+    "count": 1
+  },
+  "delta/82nd-ave": {
+    "name": "82nd Ave",
+    "slug": "delta/82nd-ave",
+    "city": "Delta",
+    "lastIncident": "2026-05-01T23:51:00Z",
+    "count": 1
+  },
+  "langley/84th-ave": {
+    "name": "84th Ave",
+    "slug": "langley/84th-ave",
+    "city": "Langley",
+    "lastIncident": "2026-05-01T23:44:00Z",
+    "count": 1
+  },
+  "langley/202b-st": {
+    "name": "202b St",
+    "slug": "langley/202b-st",
+    "city": "Langley",
+    "lastIncident": "2026-05-01T23:44:00Z",
     "count": 1
   }
 }

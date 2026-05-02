@@ -1,0 +1,24 @@
+{
+  "slug": "langley/202b-st",
+  "name": "202b St",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-05-01T23:44:00Z_langley/84th-ave_langley/202b-st",
+      "timestamp": "2026-05-01T23:44:00Z",
+      "address": "84TH AVE & 202B ST",
+      "city": "Langley",
+      "streets": [
+        "langley/84th-ave",
+        "langley/202b-st"
+      ],
+      "streetNames": [
+        "84th Ave",
+        "202b St"
+      ],
+      "pulsePointId": "2465481845"
+    }
+  ],
+  "lastIncident": "2026-05-01T23:44:00Z",
+  "count": 1
+}

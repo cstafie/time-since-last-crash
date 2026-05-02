@@ -1,5 +1,113 @@
 [
   {
+    "id": "2026-05-02T00:52:00Z_vancouver/braeburn-st_vancouver/e-56th-ave",
+    "timestamp": "2026-05-02T00:52:00Z",
+    "scrapedAt": "2026-05-02T01:08:55Z",
+    "address": "BRAEBURN ST & E 56TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/braeburn-st",
+      "vancouver/e-56th-ave"
+    ],
+    "streetNames": [
+      "Braeburn St",
+      "E 56th Ave"
+    ],
+    "pulsePointId": "2465522776"
+  },
+  {
+    "id": "2026-05-02T00:47:00Z_langley/langley-bps",
+    "timestamp": "2026-05-02T00:47:00Z",
+    "scrapedAt": "2026-05-02T01:08:55Z",
+    "address": "LANGLEY BPS",
+    "city": "Langley",
+    "streets": [
+      "langley/langley-bps"
+    ],
+    "streetNames": [
+      "Langley Bps"
+    ],
+    "pulsePointId": "2465519874"
+  },
+  {
+    "id": "2026-05-02T00:33:00Z_west-vancouver/13th-st_west-vancouver/inglewood-ave",
+    "timestamp": "2026-05-02T00:33:00Z",
+    "scrapedAt": "2026-05-02T01:08:55Z",
+    "address": "13TH ST & INGLEWOOD AVE",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/13th-st",
+      "west-vancouver/inglewood-ave"
+    ],
+    "streetNames": [
+      "13th St",
+      "Inglewood Ave"
+    ],
+    "pulsePointId": "2465510493"
+  },
+  {
+    "id": "2026-05-02T00:24:00Z_maple-ridge/haney-bps",
+    "timestamp": "2026-05-02T00:24:00Z",
+    "scrapedAt": "2026-05-02T01:08:55Z",
+    "address": "HANEY BPS",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/haney-bps"
+    ],
+    "streetNames": [
+      "Haney Bps"
+    ],
+    "pulsePointId": "2465506985"
+  },
+  {
+    "id": "2026-05-02T00:12:00Z_maple-ridge/232nd-st_maple-ridge/abernethy-way",
+    "timestamp": "2026-05-02T00:12:00Z",
+    "scrapedAt": "2026-05-02T01:08:55Z",
+    "address": "232ND ST & ABERNETHY WAY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/232nd-st",
+      "maple-ridge/abernethy-way"
+    ],
+    "streetNames": [
+      "232nd St",
+      "Abernethy Way"
+    ],
+    "pulsePointId": "2465498688"
+  },
+  {
+    "id": "2026-05-01T23:51:00Z_delta/120th-st_delta/82nd-ave",
+    "timestamp": "2026-05-01T23:51:00Z",
+    "scrapedAt": "2026-05-02T01:08:55Z",
+    "address": "120TH ST & 82ND AVE",
+    "city": "Delta",
+    "streets": [
+      "delta/120th-st",
+      "delta/82nd-ave"
+    ],
+    "streetNames": [
+      "120th St",
+      "82nd Ave"
+    ],
+    "pulsePointId": "2465486157"
+  },
+  {
+    "id": "2026-05-01T23:44:00Z_langley/84th-ave_langley/202b-st",
+    "timestamp": "2026-05-01T23:44:00Z",
+    "scrapedAt": "2026-05-02T01:08:55Z",
+    "address": "84TH AVE & 202B ST",
+    "city": "Langley",
+    "streets": [
+      "langley/84th-ave",
+      "langley/202b-st"
+    ],
+    "streetNames": [
+      "84th Ave",
+      "202b St"
+    ],
+    "pulsePointId": "2465481845"
+  },
+  {
     "id": "2026-05-01T23:26:00Z_burnaby/north-rd_burnaby/como-lake-ave",
     "timestamp": "2026-05-01T23:26:00Z",
     "scrapedAt": "2026-05-01T23:45:04Z",

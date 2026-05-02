@@ -1,0 +1,24 @@
+{
+  "slug": "west-vancouver/13th-st",
+  "name": "13th St",
+  "city": "West Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-02T00:33:00Z_west-vancouver/13th-st_west-vancouver/inglewood-ave",
+      "timestamp": "2026-05-02T00:33:00Z",
+      "address": "13TH ST & INGLEWOOD AVE",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/13th-st",
+        "west-vancouver/inglewood-ave"
+      ],
+      "streetNames": [
+        "13th St",
+        "Inglewood Ave"
+      ],
+      "pulsePointId": "2465510493"
+    }
+  ],
+  "lastIncident": "2026-05-02T00:33:00Z",
+  "count": 1
+}
