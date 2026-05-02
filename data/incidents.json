@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-05-02T07:12:00Z_vancouver/macdonald-st",
+    "timestamp": "2026-05-02T07:12:00Z",
+    "scrapedAt": "2026-05-02T07:29:49Z",
+    "address": "MACDONALD ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/macdonald-st"
+    ],
+    "streetNames": [
+      "Macdonald St"
+    ],
+    "pulsePointId": "2465712041"
+  },
+  {
+    "id": "2026-05-02T06:47:00Z_surrey/port-mann-brdg",
+    "timestamp": "2026-05-02T06:47:00Z",
+    "scrapedAt": "2026-05-02T07:29:49Z",
+    "address": "PORT MANN BRDG",
+    "city": "Surrey",
+    "streets": [
+      "surrey/port-mann-brdg"
+    ],
+    "streetNames": [
+      "Port Mann Brdg"
+    ],
+    "pulsePointId": "2465702545"
+  },
+  {
+    "id": "2026-05-02T06:47:00Z_surrey/140th-st_surrey/88th-ave",
+    "timestamp": "2026-05-02T06:47:00Z",
+    "scrapedAt": "2026-05-02T07:29:49Z",
+    "address": "140TH ST & 88TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/140th-st",
+      "surrey/88th-ave"
+    ],
+    "streetNames": [
+      "140th St",
+      "88th Ave"
+    ],
+    "pulsePointId": "2465702720"
+  },
+  {
     "id": "2026-05-02T05:09:00Z_surrey/176th-st_surrey/56th-ave",
     "timestamp": "2026-05-02T05:09:00Z",
     "scrapedAt": "2026-05-02T05:51:52Z",
