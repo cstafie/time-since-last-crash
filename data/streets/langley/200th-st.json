@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-05-02T17:28:00Z_langley/24th-ave_langley/200th-st",
+      "timestamp": "2026-05-02T17:28:00Z",
+      "address": "24TH AVE & 200TH ST",
+      "city": "Langley",
+      "streets": [
+        "langley/24th-ave",
+        "langley/200th-st"
+      ],
+      "streetNames": [
+        "24th Ave",
+        "200th St"
+      ],
+      "pulsePointId": "2465922667"
+    },
+    {
       "id": "2026-04-30T16:12:00Z_langley/200th-st_langley/28th-ave",
       "timestamp": "2026-04-30T16:12:00Z",
       "address": "200TH ST & 28TH AVE",
@@ -250,6 +265,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-30T16:12:00Z",
-  "count": 17
+  "lastIncident": "2026-05-02T17:28:00Z",
+  "count": 18
 }

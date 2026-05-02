@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-02T17:28:00Z_langley/24th-ave_langley/200th-st",
+    "timestamp": "2026-05-02T17:28:00Z",
+    "scrapedAt": "2026-05-02T17:44:07Z",
+    "address": "24TH AVE & 200TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/24th-ave",
+      "langley/200th-st"
+    ],
+    "streetNames": [
+      "24th Ave",
+      "200th St"
+    ],
+    "pulsePointId": "2465922667"
+  },
+  {
+    "id": "2026-05-02T17:25:00Z_surrey/104th-ave_surrey/university-dr",
+    "timestamp": "2026-05-02T17:25:00Z",
+    "scrapedAt": "2026-05-02T17:44:07Z",
+    "address": "104TH AVE & UNIVERSITY DR",
+    "city": "Surrey",
+    "streets": [
+      "surrey/104th-ave",
+      "surrey/university-dr"
+    ],
+    "streetNames": [
+      "104th Ave",
+      "University Dr"
+    ],
+    "pulsePointId": "2465921664"
+  },
+  {
     "id": "2026-05-02T07:12:00Z_vancouver/macdonald-st",
     "timestamp": "2026-05-02T07:12:00Z",
     "scrapedAt": "2026-05-02T07:29:49Z",

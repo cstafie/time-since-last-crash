@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-05-02T17:25:00Z_surrey/104th-ave_surrey/university-dr",
+      "timestamp": "2026-05-02T17:25:00Z",
+      "address": "104TH AVE & UNIVERSITY DR",
+      "city": "Surrey",
+      "streets": [
+        "surrey/104th-ave",
+        "surrey/university-dr"
+      ],
+      "streetNames": [
+        "104th Ave",
+        "University Dr"
+      ],
+      "pulsePointId": "2465921664"
+    },
+    {
       "id": "2026-05-01T20:34:00Z_surrey/104th-ave_surrey/city-pkwy",
       "timestamp": "2026-05-01T20:34:00Z",
       "address": "104TH AVE & CITY PKWY",
@@ -284,6 +299,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-01T20:34:00Z",
-  "count": 19
+  "lastIncident": "2026-05-02T17:25:00Z",
+  "count": 20
 }
