@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-02T20:07:00Z_richmond/bennett-rd_richmond/no-3-rd",
+    "timestamp": "2026-05-02T20:07:00Z",
+    "scrapedAt": "2026-05-02T20:09:09Z",
+    "address": "BENNETT RD & NO 3 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/bennett-rd",
+      "richmond/no-3-rd"
+    ],
+    "streetNames": [
+      "Bennett Rd",
+      "No 3 Rd"
+    ],
+    "pulsePointId": "2466015289"
+  },
+  {
+    "id": "2026-05-02T19:51:00Z_west-vancouver/lions-gate-brdg",
+    "timestamp": "2026-05-02T19:51:00Z",
+    "scrapedAt": "2026-05-02T20:09:09Z",
+    "address": "LIONS GATE BRDG",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/lions-gate-brdg"
+    ],
+    "streetNames": [
+      "Lions Gate Brdg"
+    ],
+    "pulsePointId": "2466006703"
+  },
+  {
     "id": "2026-05-02T19:16:00Z_burnaby/patterson-ave_burnaby/marine-dr",
     "timestamp": "2026-05-02T19:16:00Z",
     "scrapedAt": "2026-05-02T19:20:12Z",

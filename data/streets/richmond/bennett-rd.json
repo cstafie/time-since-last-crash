@@ -1,0 +1,24 @@
+{
+  "slug": "richmond/bennett-rd",
+  "name": "Bennett Rd",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-05-02T20:07:00Z_richmond/bennett-rd_richmond/no-3-rd",
+      "timestamp": "2026-05-02T20:07:00Z",
+      "address": "BENNETT RD & NO 3 RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/bennett-rd",
+        "richmond/no-3-rd"
+      ],
+      "streetNames": [
+        "Bennett Rd",
+        "No 3 Rd"
+      ],
+      "pulsePointId": "2466015289"
+    }
+  ],
+  "lastIncident": "2026-05-02T20:07:00Z",
+  "count": 1
+}
