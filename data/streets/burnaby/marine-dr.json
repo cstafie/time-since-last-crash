@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-02T19:16:00Z_burnaby/patterson-ave_burnaby/marine-dr",
+      "timestamp": "2026-05-02T19:16:00Z",
+      "address": "PATTERSON AVE & MARINE DR",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/patterson-ave",
+        "burnaby/marine-dr"
+      ],
+      "streetNames": [
+        "Patterson Ave",
+        "Marine Dr"
+      ],
+      "pulsePointId": "2465985274"
+    },
+    {
       "id": "2026-04-19T22:27:00Z_burnaby/marine-dr_burnaby/nelson-ave",
       "timestamp": "2026-04-19T22:27:00Z",
       "address": "MARINE DR & NELSON AVE",
@@ -34,6 +49,6 @@
       "pulsePointId": "2448106817"
     }
   ],
-  "lastIncident": "2026-04-19T22:27:00Z",
-  "count": 2
+  "lastIncident": "2026-05-02T19:16:00Z",
+  "count": 3
 }

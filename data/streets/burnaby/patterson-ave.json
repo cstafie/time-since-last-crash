@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-02T19:16:00Z_burnaby/patterson-ave_burnaby/marine-dr",
+      "timestamp": "2026-05-02T19:16:00Z",
+      "address": "PATTERSON AVE & MARINE DR",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/patterson-ave",
+        "burnaby/marine-dr"
+      ],
+      "streetNames": [
+        "Patterson Ave",
+        "Marine Dr"
+      ],
+      "pulsePointId": "2465985274"
+    },
+    {
       "id": "2026-04-19T14:54:00Z_burnaby/willingdon-extn_burnaby/patterson-ave",
       "timestamp": "2026-04-19T14:54:00Z",
       "address": "WILLINGDON EXTN & PATTERSON AVE",
@@ -64,6 +79,6 @@
       "pulsePointId": "2448106817"
     }
   ],
-  "lastIncident": "2026-04-19T14:54:00Z",
-  "count": 4
+  "lastIncident": "2026-05-02T19:16:00Z",
+  "count": 5
 }

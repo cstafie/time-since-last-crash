@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-02T19:16:00Z_burnaby/patterson-ave_burnaby/marine-dr",
+    "timestamp": "2026-05-02T19:16:00Z",
+    "scrapedAt": "2026-05-02T19:20:12Z",
+    "address": "PATTERSON AVE & MARINE DR",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/patterson-ave",
+      "burnaby/marine-dr"
+    ],
+    "streetNames": [
+      "Patterson Ave",
+      "Marine Dr"
+    ],
+    "pulsePointId": "2465985274"
+  },
+  {
+    "id": "2026-05-02T18:58:00Z_vancouver/se-marine-dr_vancouver/argyle-st",
+    "timestamp": "2026-05-02T18:58:00Z",
+    "scrapedAt": "2026-05-02T19:20:12Z",
+    "address": "SE MARINE DR & ARGYLE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/se-marine-dr",
+      "vancouver/argyle-st"
+    ],
+    "streetNames": [
+      "Se Marine Dr",
+      "Argyle St"
+    ],
+    "pulsePointId": "2465974962"
+  },
+  {
     "id": "2026-05-02T17:58:00Z_surrey/120a-st",
     "timestamp": "2026-05-02T17:58:00Z",
     "scrapedAt": "2026-05-02T18:12:53Z",
