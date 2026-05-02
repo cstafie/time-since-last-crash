@@ -766,8 +766,8 @@
     "name": "Oak St",
     "slug": "vancouver/oak-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-28T01:24:00Z",
-    "count": 18
+    "lastIncident": "2026-05-02T21:58:00Z",
+    "count": 19
   },
   "vancouver/w-12th-ave": {
     "name": "W 12th Ave",
@@ -4427,8 +4427,8 @@
     "name": "W 64th Ave",
     "slug": "vancouver/w-64th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-03-29T17:20:00Z",
-    "count": 1
+    "lastIncident": "2026-05-02T21:58:00Z",
+    "count": 2
   },
   "langley/210th-st": {
     "name": "210th St",
@@ -8502,6 +8502,13 @@
     "slug": "west-vancouver/lions-gate-brdg",
     "city": "West Vancouver",
     "lastIncident": "2026-05-02T19:51:00Z",
+    "count": 1
+  },
+  "delta/118th-st": {
+    "name": "118th St",
+    "slug": "delta/118th-st",
+    "city": "Delta",
+    "lastIncident": "2026-05-02T22:06:00Z",
     "count": 1
   }
 }
