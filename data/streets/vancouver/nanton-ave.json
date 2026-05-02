@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-02T21:40:00Z_vancouver/nanton-ave_vancouver/arbutus-st",
+      "timestamp": "2026-05-02T21:40:00Z",
+      "address": "NANTON AVE & ARBUTUS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/nanton-ave",
+        "vancouver/arbutus-st"
+      ],
+      "streetNames": [
+        "Nanton Ave",
+        "Arbutus St"
+      ],
+      "pulsePointId": "2466071609"
+    },
+    {
       "id": "2026-04-05T23:27:00Z_vancouver/nanton-ave_vancouver/arbutus-st",
       "timestamp": "2026-04-05T23:27:00Z",
       "address": "NANTON AVE & ARBUTUS ST",
@@ -19,6 +34,6 @@
       "pulsePointId": "2448495578"
     }
   ],
-  "lastIncident": "2026-04-05T23:27:00Z",
-  "count": 1
+  "lastIncident": "2026-05-02T21:40:00Z",
+  "count": 2
 }

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-02T21:40:00Z_vancouver/nanton-ave_vancouver/arbutus-st",
+      "timestamp": "2026-05-02T21:40:00Z",
+      "address": "NANTON AVE & ARBUTUS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/nanton-ave",
+        "vancouver/arbutus-st"
+      ],
+      "streetNames": [
+        "Nanton Ave",
+        "Arbutus St"
+      ],
+      "pulsePointId": "2466071609"
+    },
+    {
       "id": "2026-04-09T21:26:00Z_vancouver/arbutus-st_vancouver/w-57th-ave",
       "timestamp": "2026-04-09T21:26:00Z",
       "address": "ARBUTUS ST & W 57TH AVE",
@@ -49,6 +64,6 @@
       "pulsePointId": "2448495578"
     }
   ],
-  "lastIncident": "2026-04-09T21:26:00Z",
-  "count": 3
+  "lastIncident": "2026-05-02T21:40:00Z",
+  "count": 4
 }

@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-05-02T21:40:00Z_vancouver/nanton-ave_vancouver/arbutus-st",
+    "timestamp": "2026-05-02T21:40:00Z",
+    "scrapedAt": "2026-05-02T21:43:31Z",
+    "address": "NANTON AVE & ARBUTUS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/nanton-ave",
+      "vancouver/arbutus-st"
+    ],
+    "streetNames": [
+      "Nanton Ave",
+      "Arbutus St"
+    ],
+    "pulsePointId": "2466071609"
+  },
+  {
+    "id": "2026-05-02T21:29:00Z_vancouver/e-hastings-st",
+    "timestamp": "2026-05-02T21:29:00Z",
+    "scrapedAt": "2026-05-02T21:43:31Z",
+    "address": "E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "E Hastings St"
+    ],
+    "pulsePointId": "2466064774"
+  },
+  {
+    "id": "2026-05-02T20:49:00Z_surrey/90th-ave_surrey/140th-st",
+    "timestamp": "2026-05-02T20:49:00Z",
+    "scrapedAt": "2026-05-02T21:43:31Z",
+    "address": "90TH AVE & 140TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/90th-ave",
+      "surrey/140th-st"
+    ],
+    "streetNames": [
+      "90th Ave",
+      "140th St"
+    ],
+    "pulsePointId": "2466040386"
+  },
+  {
     "id": "2026-05-02T20:36:00Z_north-vancouver/trans-canada-hwy",
     "timestamp": "2026-05-02T20:36:00Z",
     "scrapedAt": "2026-05-02T20:43:46Z",
