@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-02T20:11:00Z_vancouver/e-29th-ave_vancouver/knight-st",
+      "timestamp": "2026-05-02T20:11:00Z",
+      "address": "E 29TH AVE & KNIGHT ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-29th-ave",
+        "vancouver/knight-st"
+      ],
+      "streetNames": [
+        "E 29th Ave",
+        "Knight St"
+      ],
+      "pulsePointId": "2466019588"
+    },
+    {
       "id": "2026-04-29T17:08:00Z_vancouver/e-29th-ave_vancouver/boundary-rd",
       "timestamp": "2026-04-29T17:08:00Z",
       "address": "E 29TH AVE & BOUNDARY RD",
@@ -79,6 +94,6 @@
       "pulsePointId": "2434824658"
     }
   ],
-  "lastIncident": "2026-04-29T17:08:00Z",
-  "count": 5
+  "lastIncident": "2026-05-02T20:11:00Z",
+  "count": 6
 }

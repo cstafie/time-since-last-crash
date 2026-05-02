@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-05-02T20:36:00Z_north-vancouver/trans-canada-hwy",
+    "timestamp": "2026-05-02T20:36:00Z",
+    "scrapedAt": "2026-05-02T20:43:46Z",
+    "address": "TRANS CANADA HWY",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2466033377"
+  },
+  {
+    "id": "2026-05-02T20:31:00Z_vancouver/main-st",
+    "timestamp": "2026-05-02T20:31:00Z",
+    "scrapedAt": "2026-05-02T20:43:46Z",
+    "address": "MAIN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st"
+    ],
+    "streetNames": [
+      "Main St"
+    ],
+    "pulsePointId": "2466029568"
+  },
+  {
+    "id": "2026-05-02T20:11:00Z_vancouver/e-29th-ave_vancouver/knight-st",
+    "timestamp": "2026-05-02T20:11:00Z",
+    "scrapedAt": "2026-05-02T20:43:46Z",
+    "address": "E 29TH AVE & KNIGHT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-29th-ave",
+      "vancouver/knight-st"
+    ],
+    "streetNames": [
+      "E 29th Ave",
+      "Knight St"
+    ],
+    "pulsePointId": "2466019588"
+  },
+  {
+    "id": "2026-05-02T20:10:00Z_langley/201st-st_langley/66th-ave",
+    "timestamp": "2026-05-02T20:10:00Z",
+    "scrapedAt": "2026-05-02T20:43:46Z",
+    "address": "201ST ST & 66TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/201st-st",
+      "langley/66th-ave"
+    ],
+    "streetNames": [
+      "201st St",
+      "66th Ave"
+    ],
+    "pulsePointId": "2466017611"
+  },
+  {
     "id": "2026-05-02T20:07:00Z_richmond/bennett-rd_richmond/no-3-rd",
     "timestamp": "2026-05-02T20:07:00Z",
     "scrapedAt": "2026-05-02T20:09:09Z",

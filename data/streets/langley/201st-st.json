@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-05-02T20:10:00Z_langley/201st-st_langley/66th-ave",
+      "timestamp": "2026-05-02T20:10:00Z",
+      "address": "201ST ST & 66TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/201st-st",
+        "langley/66th-ave"
+      ],
+      "streetNames": [
+        "201st St",
+        "66th Ave"
+      ],
+      "pulsePointId": "2466017611"
+    },
+    {
       "id": "2026-04-20T23:48:00Z_langley/201st-st_langley/96th-ave",
       "timestamp": "2026-04-20T23:48:00Z",
       "address": "201ST ST & 96TH AVE",
@@ -49,6 +64,6 @@
       "pulsePointId": "2440804874"
     }
   ],
-  "lastIncident": "2026-04-20T23:48:00Z",
-  "count": 3
+  "lastIncident": "2026-05-02T20:10:00Z",
+  "count": 4
 }
