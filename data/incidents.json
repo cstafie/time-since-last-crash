@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-02T04:44:00Z_delta/56th-st_delta/hwy-17",
+    "timestamp": "2026-05-02T04:44:00Z",
+    "scrapedAt": "2026-05-02T04:59:13Z",
+    "address": "56TH ST & HWY 17",
+    "city": "Delta",
+    "streets": [
+      "delta/56th-st",
+      "delta/hwy-17"
+    ],
+    "streetNames": [
+      "56th St",
+      "Hwy 17"
+    ],
+    "pulsePointId": "2465652478"
+  },
+  {
+    "id": "2026-05-02T04:00:00Z_surrey/157th-st_surrey/88th-ave",
+    "timestamp": "2026-05-02T04:00:00Z",
+    "scrapedAt": "2026-05-02T04:59:13Z",
+    "address": "157TH ST & 88TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/157th-st",
+      "surrey/88th-ave"
+    ],
+    "streetNames": [
+      "157th St",
+      "88th Ave"
+    ],
+    "pulsePointId": "2465631098"
+  },
+  {
     "id": "2026-05-02T02:02:00Z_richmond/blundell-rd",
     "timestamp": "2026-05-02T02:02:00Z",
     "scrapedAt": "2026-05-02T02:15:34Z",
