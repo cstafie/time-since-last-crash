@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-05-02T23:07:00Z_port-coquitlam/pitt-river-brdg",
+    "timestamp": "2026-05-02T23:07:00Z",
+    "scrapedAt": "2026-05-02T23:12:51Z",
+    "address": "PITT RIVER BRDG",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/pitt-river-brdg"
+    ],
+    "streetNames": [
+      "Pitt River Brdg"
+    ],
+    "pulsePointId": "2466124804"
+  },
+  {
+    "id": "2026-05-02T23:01:00Z_north-vancouver/premier-st",
+    "timestamp": "2026-05-02T23:01:00Z",
+    "scrapedAt": "2026-05-02T23:12:51Z",
+    "address": "PREMIER ST",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/premier-st"
+    ],
+    "streetNames": [
+      "Premier St"
+    ],
+    "pulsePointId": "2466120147"
+  },
+  {
     "id": "2026-05-02T22:36:00Z_surrey/144th-st_surrey/28th-ave",
     "timestamp": "2026-05-02T22:36:00Z",
     "scrapedAt": "2026-05-02T22:44:51Z",

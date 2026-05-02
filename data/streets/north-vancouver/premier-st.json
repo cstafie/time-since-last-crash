@@ -1,0 +1,22 @@
+{
+  "slug": "north-vancouver/premier-st",
+  "name": "Premier St",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-02T23:01:00Z_north-vancouver/premier-st",
+      "timestamp": "2026-05-02T23:01:00Z",
+      "address": "PREMIER ST",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/premier-st"
+      ],
+      "streetNames": [
+        "Premier St"
+      ],
+      "pulsePointId": "2466120147"
+    }
+  ],
+  "lastIncident": "2026-05-02T23:01:00Z",
+  "count": 1
+}
