@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-02T23:25:00Z_pitt-meadows/pitt-river-brdg",
+    "timestamp": "2026-05-02T23:25:00Z",
+    "scrapedAt": "2026-05-02T23:43:54Z",
+    "address": "PITT RIVER BRDG",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/pitt-river-brdg"
+    ],
+    "streetNames": [
+      "Pitt River Brdg"
+    ],
+    "pulsePointId": "2466134102"
+  },
+  {
+    "id": "2026-05-02T23:22:00Z_surrey/132nd-st_surrey/89th-ave",
+    "timestamp": "2026-05-02T23:22:00Z",
+    "scrapedAt": "2026-05-02T23:43:54Z",
+    "address": "132ND ST & 89TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/132nd-st",
+      "surrey/89th-ave"
+    ],
+    "streetNames": [
+      "132nd St",
+      "89th Ave"
+    ],
+    "pulsePointId": "2466132893"
+  },
+  {
     "id": "2026-05-02T23:07:00Z_port-coquitlam/pitt-river-brdg",
     "timestamp": "2026-05-02T23:07:00Z",
     "scrapedAt": "2026-05-02T23:12:51Z",
