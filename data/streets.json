@@ -885,8 +885,8 @@
     "name": "176th St",
     "slug": "surrey/176th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-29T08:50:00Z",
-    "count": 21
+    "lastIncident": "2026-05-02T05:09:00Z",
+    "count": 22
   },
   "surrey/100th-ave": {
     "name": "100th Ave",
@@ -2390,8 +2390,8 @@
     "name": "56th Ave",
     "slug": "surrey/56th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-28T19:01:00Z",
-    "count": 10
+    "lastIncident": "2026-05-02T05:09:00Z",
+    "count": 12
   },
   "port-moody/grant-st": {
     "name": "Grant St",
@@ -2971,8 +2971,8 @@
     "name": "Cloverdale Bps",
     "slug": "surrey/cloverdale-bps",
     "city": "Surrey",
-    "lastIncident": "2026-03-19T13:28:00Z",
-    "count": 2
+    "lastIncident": "2026-05-02T05:05:00Z",
+    "count": 3
   },
   "surrey/60th-ave": {
     "name": "60th Ave",
@@ -3160,8 +3160,8 @@
     "name": "150th St",
     "slug": "surrey/150th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-29T14:28:00Z",
-    "count": 3
+    "lastIncident": "2026-05-02T04:56:00Z",
+    "count": 4
   },
   "mission/knight-ave": {
     "name": "Knight Ave",
@@ -8474,6 +8474,13 @@
     "slug": "surrey/157th-st",
     "city": "Surrey",
     "lastIncident": "2026-05-02T04:00:00Z",
+    "count": 1
+  },
+  "north-vancouver/frederick-rd": {
+    "name": "Frederick Rd",
+    "slug": "north-vancouver/frederick-rd",
+    "city": "North Vancouver",
+    "lastIncident": "2026-05-02T05:06:00Z",
     "count": 1
   }
 }

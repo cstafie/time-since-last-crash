@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-05-02T05:09:00Z_surrey/176th-st_surrey/56th-ave",
+    "timestamp": "2026-05-02T05:09:00Z",
+    "scrapedAt": "2026-05-02T05:51:52Z",
+    "address": "176TH ST & 56TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/176th-st",
+      "surrey/56th-ave"
+    ],
+    "streetNames": [
+      "176th St",
+      "56th Ave"
+    ],
+    "pulsePointId": "2465663907"
+  },
+  {
+    "id": "2026-05-02T05:06:00Z_north-vancouver/frederick-rd",
+    "timestamp": "2026-05-02T05:06:00Z",
+    "scrapedAt": "2026-05-02T05:51:52Z",
+    "address": "FREDERICK RD",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/frederick-rd"
+    ],
+    "streetNames": [
+      "Frederick Rd"
+    ],
+    "pulsePointId": "2465662806"
+  },
+  {
+    "id": "2026-05-02T05:05:00Z_surrey/cloverdale-bps_surrey/56th-ave",
+    "timestamp": "2026-05-02T05:05:00Z",
+    "scrapedAt": "2026-05-02T05:51:52Z",
+    "address": "CLOVERDALE BPS & 56TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/cloverdale-bps",
+      "surrey/56th-ave"
+    ],
+    "streetNames": [
+      "Cloverdale Bps",
+      "56th Ave"
+    ],
+    "pulsePointId": "2465664246"
+  },
+  {
+    "id": "2026-05-02T04:56:00Z_surrey/150th-st",
+    "timestamp": "2026-05-02T04:56:00Z",
+    "scrapedAt": "2026-05-02T05:51:52Z",
+    "address": "150TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/150th-st"
+    ],
+    "streetNames": [
+      "150th St"
+    ],
+    "pulsePointId": "2465658695"
+  },
+  {
     "id": "2026-05-02T04:44:00Z_delta/56th-st_delta/hwy-17",
     "timestamp": "2026-05-02T04:44:00Z",
     "scrapedAt": "2026-05-02T04:59:13Z",

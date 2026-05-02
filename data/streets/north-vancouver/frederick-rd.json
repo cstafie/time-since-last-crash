@@ -1,0 +1,22 @@
+{
+  "slug": "north-vancouver/frederick-rd",
+  "name": "Frederick Rd",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-02T05:06:00Z_north-vancouver/frederick-rd",
+      "timestamp": "2026-05-02T05:06:00Z",
+      "address": "FREDERICK RD",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/frederick-rd"
+      ],
+      "streetNames": [
+        "Frederick Rd"
+      ],
+      "pulsePointId": "2465662806"
+    }
+  ],
+  "lastIncident": "2026-05-02T05:06:00Z",
+  "count": 1
+}
