@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-02T02:02:00Z_richmond/blundell-rd",
+    "timestamp": "2026-05-02T02:02:00Z",
+    "scrapedAt": "2026-05-02T02:15:34Z",
+    "address": "BLUNDELL RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/blundell-rd"
+    ],
+    "streetNames": [
+      "Blundell Rd"
+    ],
+    "pulsePointId": "2465565819"
+  },
+  {
+    "id": "2026-05-02T01:56:00Z_langley/224th-st_langley/56th-ave",
+    "timestamp": "2026-05-02T01:56:00Z",
+    "scrapedAt": "2026-05-02T02:15:34Z",
+    "address": "224TH ST & 56TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/224th-st",
+      "langley/56th-ave"
+    ],
+    "streetNames": [
+      "224th St",
+      "56th Ave"
+    ],
+    "pulsePointId": "2465561409"
+  },
+  {
     "id": "2026-05-02T00:52:00Z_vancouver/braeburn-st_vancouver/e-56th-ave",
     "timestamp": "2026-05-02T00:52:00Z",
     "scrapedAt": "2026-05-02T01:08:55Z",
@@ -14,6 +44,20 @@
       "E 56th Ave"
     ],
     "pulsePointId": "2465522776"
+  },
+  {
+    "id": "2026-05-02T00:49:00Z_burnaby/7311-kingsway",
+    "timestamp": "2026-05-02T00:49:00Z",
+    "scrapedAt": "2026-05-02T02:15:34Z",
+    "address": "7311 KINGSWAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/7311-kingsway"
+    ],
+    "streetNames": [
+      "7311 Kingsway"
+    ],
+    "pulsePointId": "2465522567"
   },
   {
     "id": "2026-05-02T00:47:00Z_langley/langley-bps",

@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/7311-kingsway",
+  "name": "7311 Kingsway",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-05-02T00:49:00Z_burnaby/7311-kingsway",
+      "timestamp": "2026-05-02T00:49:00Z",
+      "address": "7311 KINGSWAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/7311-kingsway"
+      ],
+      "streetNames": [
+        "7311 Kingsway"
+      ],
+      "pulsePointId": "2465522567"
+    }
+  ],
+  "lastIncident": "2026-05-02T00:49:00Z",
+  "count": 1
+}
