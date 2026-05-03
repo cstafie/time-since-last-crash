@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-03T12:54:00Z_vancouver/e-54th-ave",
+    "timestamp": "2026-05-03T12:54:00Z",
+    "scrapedAt": "2026-05-03T13:27:53Z",
+    "address": "E 54TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-54th-ave"
+    ],
+    "streetNames": [
+      "E 54th Ave"
+    ],
+    "pulsePointId": "2466475433"
+  },
+  {
     "id": "2026-05-03T11:48:00Z_surrey/colebrook-rd_surrey/157th-st",
     "timestamp": "2026-05-03T11:48:00Z",
     "scrapedAt": "2026-05-03T12:10:40Z",
