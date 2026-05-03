@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-03T01:43:00Z_vancouver/w-2nd-ave_vancouver/crowe-st",
+      "timestamp": "2026-05-03T01:43:00Z",
+      "address": "W 2ND AVE & CROWE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-2nd-ave",
+        "vancouver/crowe-st"
+      ],
+      "streetNames": [
+        "W 2nd Ave",
+        "Crowe St"
+      ],
+      "pulsePointId": "2466216900"
+    },
+    {
       "id": "2026-04-15T22:21:00Z_vancouver/w-2nd-ave_vancouver/macdonald-st",
       "timestamp": "2026-04-15T22:21:00Z",
       "address": "W 2ND AVE & MACDONALD ST",
@@ -64,6 +79,6 @@
       "pulsePointId": "2442265889"
     }
   ],
-  "lastIncident": "2026-04-15T22:21:00Z",
-  "count": 4
+  "lastIncident": "2026-05-03T01:43:00Z",
+  "count": 5
 }

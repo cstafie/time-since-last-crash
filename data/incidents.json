@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-03T01:43:00Z_vancouver/w-2nd-ave_vancouver/crowe-st",
+    "timestamp": "2026-05-03T01:43:00Z",
+    "scrapedAt": "2026-05-03T02:15:26Z",
+    "address": "W 2ND AVE & CROWE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-2nd-ave",
+      "vancouver/crowe-st"
+    ],
+    "streetNames": [
+      "W 2nd Ave",
+      "Crowe St"
+    ],
+    "pulsePointId": "2466216900"
+  },
+  {
     "id": "2026-05-03T01:10:00Z_new-westminster/holmes-st_new-westminster/e-columbia-st",
     "timestamp": "2026-05-03T01:10:00Z",
     "scrapedAt": "2026-05-03T01:15:39Z",
