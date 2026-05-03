@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-05-03T18:52:00Z_abbotsford/south-fraser-way_abbotsford/ware-st",
+      "timestamp": "2026-05-03T18:52:00Z",
+      "address": "SOUTH FRASER WAY & WARE ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/south-fraser-way",
+        "abbotsford/ware-st"
+      ],
+      "streetNames": [
+        "South Fraser Way",
+        "Ware St"
+      ],
+      "pulsePointId": "2466632309"
+    },
+    {
       "id": "2026-05-01T19:54:00Z_abbotsford/ware-st_abbotsford/marshall-rd",
       "timestamp": "2026-05-01T19:54:00Z",
       "address": "WARE ST & MARSHALL RD",
@@ -109,6 +124,6 @@
       "pulsePointId": "2433198543"
     }
   ],
-  "lastIncident": "2026-05-01T19:54:00Z",
-  "count": 7
+  "lastIncident": "2026-05-03T18:52:00Z",
+  "count": 8
 }

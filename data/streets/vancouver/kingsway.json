@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-03T18:57:00Z_vancouver/kingsway_vancouver/glen-dr",
+      "timestamp": "2026-05-03T18:57:00Z",
+      "address": "KINGSWAY & GLEN DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/kingsway",
+        "vancouver/glen-dr"
+      ],
+      "streetNames": [
+        "Kingsway",
+        "Glen Dr"
+      ],
+      "pulsePointId": "2466635287"
+    },
+    {
       "id": "2026-04-28T16:17:00Z_vancouver/slocan-st_vancouver/kingsway",
       "timestamp": "2026-04-28T16:17:00Z",
       "address": "SLOCAN ST & KINGSWAY",
@@ -241,6 +256,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-28T16:17:00Z",
-  "count": 16
+  "lastIncident": "2026-05-03T18:57:00Z",
+  "count": 17
 }

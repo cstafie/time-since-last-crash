@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/glen-dr",
+  "name": "Glen Dr",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-03T18:57:00Z_vancouver/kingsway_vancouver/glen-dr",
+      "timestamp": "2026-05-03T18:57:00Z",
+      "address": "KINGSWAY & GLEN DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/kingsway",
+        "vancouver/glen-dr"
+      ],
+      "streetNames": [
+        "Kingsway",
+        "Glen Dr"
+      ],
+      "pulsePointId": "2466635287"
+    }
+  ],
+  "lastIncident": "2026-05-03T18:57:00Z",
+  "count": 1
+}

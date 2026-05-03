@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-03T18:57:00Z_vancouver/kingsway_vancouver/glen-dr",
+    "timestamp": "2026-05-03T18:57:00Z",
+    "scrapedAt": "2026-05-03T19:20:45Z",
+    "address": "KINGSWAY & GLEN DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kingsway",
+      "vancouver/glen-dr"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "Glen Dr"
+    ],
+    "pulsePointId": "2466635287"
+  },
+  {
+    "id": "2026-05-03T18:52:00Z_abbotsford/south-fraser-way_abbotsford/ware-st",
+    "timestamp": "2026-05-03T18:52:00Z",
+    "scrapedAt": "2026-05-03T19:20:45Z",
+    "address": "SOUTH FRASER WAY & WARE ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/south-fraser-way",
+      "abbotsford/ware-st"
+    ],
+    "streetNames": [
+      "South Fraser Way",
+      "Ware St"
+    ],
+    "pulsePointId": "2466632309"
+  },
+  {
     "id": "2026-05-03T17:22:00Z_vancouver/granville-st_vancouver/w-37th-ave",
     "timestamp": "2026-05-03T17:22:00Z",
     "scrapedAt": "2026-05-03T17:44:29Z",
