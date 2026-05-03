@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-03T06:35:00Z_vancouver/rupert-st_vancouver/e-41st-ave",
+    "timestamp": "2026-05-03T06:35:00Z",
+    "scrapedAt": "2026-05-03T07:15:02Z",
+    "address": "RUPERT ST & E 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/rupert-st",
+      "vancouver/e-41st-ave"
+    ],
+    "streetNames": [
+      "Rupert St",
+      "E 41st Ave"
+    ],
+    "pulsePointId": "2466359482"
+  },
+  {
     "id": "2026-05-03T03:56:00Z_north-vancouver/st-georges-ave",
     "timestamp": "2026-05-03T03:56:00Z",
     "scrapedAt": "2026-05-03T05:04:43Z",

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-03T06:35:00Z_vancouver/rupert-st_vancouver/e-41st-ave",
+      "timestamp": "2026-05-03T06:35:00Z",
+      "address": "RUPERT ST & E 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/rupert-st",
+        "vancouver/e-41st-ave"
+      ],
+      "streetNames": [
+        "Rupert St",
+        "E 41st Ave"
+      ],
+      "pulsePointId": "2466359482"
+    },
+    {
       "id": "2026-05-03T00:20:00Z_vancouver/dumfries-st_vancouver/e-41st-ave",
       "timestamp": "2026-05-03T00:20:00Z",
       "address": "DUMFRIES ST & E 41ST AVE",
@@ -303,6 +318,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-03T00:20:00Z",
-  "count": 20
+  "lastIncident": "2026-05-03T06:35:00Z",
+  "count": 21
 }
