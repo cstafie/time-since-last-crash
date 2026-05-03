@@ -1,0 +1,24 @@
+{
+  "slug": "langley/willowbrook-dr",
+  "name": "Willowbrook Dr",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-05-03T20:38:00Z_langley/200th-st_langley/willowbrook-dr",
+      "timestamp": "2026-05-03T20:38:00Z",
+      "address": "200TH ST & WILLOWBROOK DR",
+      "city": "Langley",
+      "streets": [
+        "langley/200th-st",
+        "langley/willowbrook-dr"
+      ],
+      "streetNames": [
+        "200th St",
+        "Willowbrook Dr"
+      ],
+      "pulsePointId": "2466689810"
+    }
+  ],
+  "lastIncident": "2026-05-03T20:38:00Z",
+  "count": 1
+}

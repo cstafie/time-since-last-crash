@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-03T20:38:00Z_langley/200th-st_langley/willowbrook-dr",
+    "timestamp": "2026-05-03T20:38:00Z",
+    "scrapedAt": "2026-05-03T20:43:39Z",
+    "address": "200TH ST & WILLOWBROOK DR",
+    "city": "Langley",
+    "streets": [
+      "langley/200th-st",
+      "langley/willowbrook-dr"
+    ],
+    "streetNames": [
+      "200th St",
+      "Willowbrook Dr"
+    ],
+    "pulsePointId": "2466689810"
+  },
+  {
+    "id": "2026-05-03T20:22:00Z_langley/fraser-hwy",
+    "timestamp": "2026-05-03T20:22:00Z",
+    "scrapedAt": "2026-05-03T20:43:39Z",
+    "address": "FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy"
+    ],
+    "streetNames": [
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2466681672"
+  },
+  {
     "id": "2026-05-03T19:24:00Z_surrey/152nd-st_surrey/sitka-dr",
     "timestamp": "2026-05-03T19:24:00Z",
     "scrapedAt": "2026-05-03T19:45:59Z",
