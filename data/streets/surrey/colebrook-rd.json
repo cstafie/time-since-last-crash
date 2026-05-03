@@ -1,6 +1,6 @@
 {
-  "slug": "surrey/157th-st",
-  "name": "157th St",
+  "slug": "surrey/colebrook-rd",
+  "name": "Colebrook Rd",
   "city": "Surrey",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "157th St"
       ],
       "pulsePointId": "2466457988"
-    },
-    {
-      "id": "2026-05-02T04:00:00Z_surrey/157th-st_surrey/88th-ave",
-      "timestamp": "2026-05-02T04:00:00Z",
-      "address": "157TH ST & 88TH AVE",
-      "city": "Surrey",
-      "streets": [
-        "surrey/157th-st",
-        "surrey/88th-ave"
-      ],
-      "streetNames": [
-        "157th St",
-        "88th Ave"
-      ],
-      "pulsePointId": "2465631098"
     }
   ],
   "lastIncident": "2026-05-03T11:48:00Z",
-  "count": 2
+  "count": 1
 }
