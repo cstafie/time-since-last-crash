@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-03T15:57:00Z_abbotsford/riverside-st",
+    "timestamp": "2026-05-03T15:57:00Z",
+    "scrapedAt": "2026-05-03T16:12:46Z",
+    "address": "RIVERSIDE ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/riverside-st"
+    ],
+    "streetNames": [
+      "Riverside St"
+    ],
+    "pulsePointId": "2466546046"
+  },
+  {
     "id": "2026-05-03T12:54:00Z_vancouver/e-54th-ave",
     "timestamp": "2026-05-03T12:54:00Z",
     "scrapedAt": "2026-05-03T13:27:53Z",
