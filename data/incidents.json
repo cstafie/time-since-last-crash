@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-02T23:55:00Z_burnaby/3550-brighton-ave",
+    "timestamp": "2026-05-02T23:55:00Z",
+    "scrapedAt": "2026-05-03T00:13:49Z",
+    "address": "3550 BRIGHTON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/3550-brighton-ave"
+    ],
+    "streetNames": [
+      "3550 Brighton Ave"
+    ],
+    "pulsePointId": "2466150935"
+  },
+  {
+    "id": "2026-05-02T23:42:00Z_vancouver/broughton-st_vancouver/davie-st",
+    "timestamp": "2026-05-02T23:42:00Z",
+    "scrapedAt": "2026-05-03T00:13:49Z",
+    "address": "BROUGHTON ST & DAVIE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/broughton-st",
+      "vancouver/davie-st"
+    ],
+    "streetNames": [
+      "Broughton St",
+      "Davie St"
+    ],
+    "pulsePointId": "2466143647"
+  },
+  {
     "id": "2026-05-02T23:25:00Z_pitt-meadows/pitt-river-brdg",
     "timestamp": "2026-05-02T23:25:00Z",
     "scrapedAt": "2026-05-02T23:43:54Z",

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-02T23:42:00Z_vancouver/broughton-st_vancouver/davie-st",
+      "timestamp": "2026-05-02T23:42:00Z",
+      "address": "BROUGHTON ST & DAVIE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/broughton-st",
+        "vancouver/davie-st"
+      ],
+      "streetNames": [
+        "Broughton St",
+        "Davie St"
+      ],
+      "pulsePointId": "2466143647"
+    },
+    {
       "id": "2026-04-23T22:22:00Z_vancouver/alberni-st_vancouver/broughton-st",
       "timestamp": "2026-04-23T22:22:00Z",
       "address": "ALBERNI ST & BROUGHTON ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2443285327"
     }
   ],
-  "lastIncident": "2026-04-23T22:22:00Z",
-  "count": 2
+  "lastIncident": "2026-05-02T23:42:00Z",
+  "count": 3
 }

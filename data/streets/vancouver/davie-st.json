@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-02T23:42:00Z_vancouver/broughton-st_vancouver/davie-st",
+      "timestamp": "2026-05-02T23:42:00Z",
+      "address": "BROUGHTON ST & DAVIE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/broughton-st",
+        "vancouver/davie-st"
+      ],
+      "streetNames": [
+        "Broughton St",
+        "Davie St"
+      ],
+      "pulsePointId": "2466143647"
+    },
+    {
       "id": "2026-04-29T17:09:00Z_vancouver/davie-st_vancouver/pacific-blvd",
       "timestamp": "2026-04-29T17:09:00Z",
       "address": "DAVIE ST & PACIFIC BLVD",
@@ -92,6 +107,6 @@
       "pulsePointId": "2435623611"
     }
   ],
-  "lastIncident": "2026-04-29T17:09:00Z",
-  "count": 6
+  "lastIncident": "2026-05-02T23:42:00Z",
+  "count": 7
 }

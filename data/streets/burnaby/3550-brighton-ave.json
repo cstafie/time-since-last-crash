@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/3550-brighton-ave",
+  "name": "3550 Brighton Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-05-02T23:55:00Z_burnaby/3550-brighton-ave",
+      "timestamp": "2026-05-02T23:55:00Z",
+      "address": "3550 BRIGHTON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/3550-brighton-ave"
+      ],
+      "streetNames": [
+        "3550 Brighton Ave"
+      ],
+      "pulsePointId": "2466150935"
+    }
+  ],
+  "lastIncident": "2026-05-02T23:55:00Z",
+  "count": 1
+}
