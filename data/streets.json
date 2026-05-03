@@ -780,8 +780,8 @@
     "name": "W 33rd Ave",
     "slug": "vancouver/w-33rd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-24T07:12:00Z",
-    "count": 4
+    "lastIncident": "2026-05-03T21:09:00Z",
+    "count": 5
   },
   "vancouver/w-49th-ave": {
     "name": "W 49th Ave",
@@ -5071,8 +5071,8 @@
     "name": "Mackenzie St",
     "slug": "vancouver/mackenzie-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-01T20:18:00Z",
-    "count": 2
+    "lastIncident": "2026-05-03T21:09:00Z",
+    "count": 3
   },
   "burnaby/dominion-st": {
     "name": "Dominion St",
@@ -5358,8 +5358,8 @@
     "name": "Cedar St",
     "slug": "mission/cedar-st",
     "city": "Mission",
-    "lastIncident": "2026-04-30T01:16:00Z",
-    "count": 3
+    "lastIncident": "2026-05-03T20:57:00Z",
+    "count": 4
   },
   "mission/best-ave": {
     "name": "Best Ave",
@@ -8621,6 +8621,13 @@
     "slug": "langley/willowbrook-dr",
     "city": "Langley",
     "lastIncident": "2026-05-03T20:38:00Z",
+    "count": 1
+  },
+  "mission/10th-ave": {
+    "name": "10th Ave",
+    "slug": "mission/10th-ave",
+    "city": "Mission",
+    "lastIncident": "2026-05-03T20:57:00Z",
     "count": 1
   }
 }
