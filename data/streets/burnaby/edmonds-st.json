@@ -1,6 +1,6 @@
 {
-  "slug": "burnaby/griffiths-dr",
-  "name": "Griffiths Dr",
+  "slug": "burnaby/edmonds-st",
+  "name": "Edmonds St",
   "city": "Burnaby",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Edmonds St"
       ],
       "pulsePointId": "2466649476"
-    },
-    {
-      "id": "2026-03-19T15:41:00Z_burnaby/kingsway_burnaby/griffiths-dr",
-      "timestamp": "2026-03-19T15:41:00Z",
-      "address": "KINGSWAY & GRIFFITHS DR",
-      "city": "Burnaby",
-      "streets": [
-        "burnaby/kingsway",
-        "burnaby/griffiths-dr"
-      ],
-      "streetNames": [
-        "Kingsway",
-        "Griffiths Dr"
-      ],
-      "pulsePointId": "2437201982"
     }
   ],
   "lastIncident": "2026-05-03T19:22:00Z",
-  "count": 2
+  "count": 1
 }

@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-05-03T19:24:00Z_surrey/152nd-st_surrey/sitka-dr",
+      "timestamp": "2026-05-03T19:24:00Z",
+      "address": "152ND ST & SITKA DR",
+      "city": "Surrey",
+      "streets": [
+        "surrey/152nd-st",
+        "surrey/sitka-dr"
+      ],
+      "streetNames": [
+        "152nd St",
+        "Sitka Dr"
+      ],
+      "pulsePointId": "2466650159"
+    },
+    {
       "id": "2026-05-03T16:43:00Z_surrey/76th-ave_surrey/152nd-st",
       "timestamp": "2026-05-03T16:43:00Z",
       "address": "76TH AVE & 152ND ST",
@@ -302,6 +317,6 @@
       "pulsePointId": "2433332497"
     }
   ],
-  "lastIncident": "2026-05-03T16:43:00Z",
-  "count": 20
+  "lastIncident": "2026-05-03T19:24:00Z",
+  "count": 21
 }

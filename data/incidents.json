@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-03T19:24:00Z_surrey/152nd-st_surrey/sitka-dr",
+    "timestamp": "2026-05-03T19:24:00Z",
+    "scrapedAt": "2026-05-03T19:45:59Z",
+    "address": "152ND ST & SITKA DR",
+    "city": "Surrey",
+    "streets": [
+      "surrey/152nd-st",
+      "surrey/sitka-dr"
+    ],
+    "streetNames": [
+      "152nd St",
+      "Sitka Dr"
+    ],
+    "pulsePointId": "2466650159"
+  },
+  {
+    "id": "2026-05-03T19:22:00Z_burnaby/griffiths-dr_burnaby/edmonds-st",
+    "timestamp": "2026-05-03T19:22:00Z",
+    "scrapedAt": "2026-05-03T19:45:59Z",
+    "address": "GRIFFITHS DR & EDMONDS ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/griffiths-dr",
+      "burnaby/edmonds-st"
+    ],
+    "streetNames": [
+      "Griffiths Dr",
+      "Edmonds St"
+    ],
+    "pulsePointId": "2466649476"
+  },
+  {
     "id": "2026-05-03T18:57:00Z_vancouver/kingsway_vancouver/glen-dr",
     "timestamp": "2026-05-03T18:57:00Z",
     "scrapedAt": "2026-05-03T19:20:45Z",
