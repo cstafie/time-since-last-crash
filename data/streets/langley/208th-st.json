@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-05-03T16:46:00Z_langley/fraser-hwy_langley/208th-st",
+      "timestamp": "2026-05-03T16:46:00Z",
+      "address": "FRASER HWY & 208TH ST",
+      "city": "Langley",
+      "streets": [
+        "langley/fraser-hwy",
+        "langley/208th-st"
+      ],
+      "streetNames": [
+        "Fraser Hwy",
+        "208th St"
+      ],
+      "pulsePointId": "2466568744"
+    },
+    {
       "id": "2026-04-24T18:32:00Z_langley/208th-st_langley/88th-ave",
       "timestamp": "2026-04-24T18:32:00Z",
       "address": "208TH ST & 88TH AVE",
@@ -79,6 +94,6 @@
       "pulsePointId": "2444669082"
     }
   ],
-  "lastIncident": "2026-04-24T18:32:00Z",
-  "count": 5
+  "lastIncident": "2026-05-03T16:46:00Z",
+  "count": 6
 }

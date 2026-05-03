@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-03T17:10:00Z_abbotsford/sumas-river-brdg",
+    "timestamp": "2026-05-03T17:10:00Z",
+    "scrapedAt": "2026-05-03T17:14:56Z",
+    "address": "SUMAS RIVER BRDG",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/sumas-river-brdg"
+    ],
+    "streetNames": [
+      "Sumas River Brdg"
+    ],
+    "pulsePointId": "2466579077"
+  },
+  {
+    "id": "2026-05-03T16:46:00Z_langley/fraser-hwy_langley/208th-st",
+    "timestamp": "2026-05-03T16:46:00Z",
+    "scrapedAt": "2026-05-03T17:14:56Z",
+    "address": "FRASER HWY & 208TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy",
+      "langley/208th-st"
+    ],
+    "streetNames": [
+      "Fraser Hwy",
+      "208th St"
+    ],
+    "pulsePointId": "2466568744"
+  },
+  {
     "id": "2026-05-03T16:43:00Z_surrey/76th-ave_surrey/152nd-st",
     "timestamp": "2026-05-03T16:43:00Z",
     "scrapedAt": "2026-05-03T16:44:45Z",

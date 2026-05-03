@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-05-03T16:46:00Z_langley/fraser-hwy_langley/208th-st",
+      "timestamp": "2026-05-03T16:46:00Z",
+      "address": "FRASER HWY & 208TH ST",
+      "city": "Langley",
+      "streets": [
+        "langley/fraser-hwy",
+        "langley/208th-st"
+      ],
+      "streetNames": [
+        "Fraser Hwy",
+        "208th St"
+      ],
+      "pulsePointId": "2466568744"
+    },
+    {
       "id": "2026-05-01T20:38:00Z_langley/fraser-hwy_langley/langley-bps",
       "timestamp": "2026-05-01T20:38:00Z",
       "address": "FRASER HWY & LANGLEY BPS",
@@ -282,6 +297,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-01T20:38:00Z",
-  "count": 19
+  "lastIncident": "2026-05-03T16:46:00Z",
+  "count": 20
 }
