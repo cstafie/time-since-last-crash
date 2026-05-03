@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-03T21:43:00Z_vancouver/w-16th-ave_vancouver/highbury-st",
+    "timestamp": "2026-05-03T21:43:00Z",
+    "scrapedAt": "2026-05-03T22:10:44Z",
+    "address": "W 16TH AVE & HIGHBURY ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-16th-ave",
+      "vancouver/highbury-st"
+    ],
+    "streetNames": [
+      "W 16th Ave",
+      "Highbury St"
+    ],
+    "pulsePointId": "2466727554"
+  },
+  {
     "id": "2026-05-03T21:27:00Z_maple-ridge/cottonwood-dr_maple-ridge/dewdney-trunk-rd",
     "timestamp": "2026-05-03T21:27:00Z",
     "scrapedAt": "2026-05-03T21:43:41Z",

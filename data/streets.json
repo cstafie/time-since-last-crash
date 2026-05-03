@@ -1956,8 +1956,8 @@
     "name": "W 16th Ave",
     "slug": "vancouver/w-16th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-22T21:15:00Z",
-    "count": 8
+    "lastIncident": "2026-05-03T21:43:00Z",
+    "count": 9
   },
   "vancouver/dunbar-st": {
     "name": "Dunbar St",
@@ -8635,6 +8635,13 @@
     "slug": "maple-ridge/cottonwood-dr",
     "city": "Maple Ridge",
     "lastIncident": "2026-05-03T21:27:00Z",
+    "count": 1
+  },
+  "vancouver/highbury-st": {
+    "name": "Highbury St",
+    "slug": "vancouver/highbury-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-03T21:43:00Z",
     "count": 1
   }
 }

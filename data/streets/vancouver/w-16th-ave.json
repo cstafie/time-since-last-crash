@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-03T21:43:00Z_vancouver/w-16th-ave_vancouver/highbury-st",
+      "timestamp": "2026-05-03T21:43:00Z",
+      "address": "W 16TH AVE & HIGHBURY ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-16th-ave",
+        "vancouver/highbury-st"
+      ],
+      "streetNames": [
+        "W 16th Ave",
+        "Highbury St"
+      ],
+      "pulsePointId": "2466727554"
+    },
+    {
       "id": "2026-04-22T21:15:00Z_vancouver/fir-st_vancouver/w-16th-ave",
       "timestamp": "2026-04-22T21:15:00Z",
       "address": "FIR ST & W 16TH AVE",
@@ -118,6 +133,6 @@
       "pulsePointId": "2433803079"
     }
   ],
-  "lastIncident": "2026-04-22T21:15:00Z",
-  "count": 8
+  "lastIncident": "2026-05-03T21:43:00Z",
+  "count": 9
 }
