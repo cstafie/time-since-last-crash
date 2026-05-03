@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-03T21:27:00Z_maple-ridge/cottonwood-dr_maple-ridge/dewdney-trunk-rd",
+    "timestamp": "2026-05-03T21:27:00Z",
+    "scrapedAt": "2026-05-03T21:43:41Z",
+    "address": "COTTONWOOD DR & DEWDNEY TRUNK RD",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/cottonwood-dr",
+      "maple-ridge/dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "Cottonwood Dr",
+      "Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2466719627"
+  },
+  {
+    "id": "2026-05-03T21:15:00Z_new-westminster/4th-st_new-westminster/8th-ave",
+    "timestamp": "2026-05-03T21:15:00Z",
+    "scrapedAt": "2026-05-03T21:43:41Z",
+    "address": "4TH ST & 8TH AVE",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/4th-st",
+      "new-westminster/8th-ave"
+    ],
+    "streetNames": [
+      "4th St",
+      "8th Ave"
+    ],
+    "pulsePointId": "2466711689"
+  },
+  {
     "id": "2026-05-03T21:09:00Z_vancouver/w-33rd-ave_vancouver/mackenzie-st",
     "timestamp": "2026-05-03T21:09:00Z",
     "scrapedAt": "2026-05-03T21:13:02Z",

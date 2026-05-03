@@ -1,0 +1,24 @@
+{
+  "slug": "maple-ridge/cottonwood-dr",
+  "name": "Cottonwood Dr",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-05-03T21:27:00Z_maple-ridge/cottonwood-dr_maple-ridge/dewdney-trunk-rd",
+      "timestamp": "2026-05-03T21:27:00Z",
+      "address": "COTTONWOOD DR & DEWDNEY TRUNK RD",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/cottonwood-dr",
+        "maple-ridge/dewdney-trunk-rd"
+      ],
+      "streetNames": [
+        "Cottonwood Dr",
+        "Dewdney Trunk Rd"
+      ],
+      "pulsePointId": "2466719627"
+    }
+  ],
+  "lastIncident": "2026-05-03T21:27:00Z",
+  "count": 1
+}
