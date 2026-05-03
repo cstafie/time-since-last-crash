@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-05-03T01:01:00Z_langley/200th-st_langley/70th-ave",
+      "timestamp": "2026-05-03T01:01:00Z",
+      "address": "200TH ST & 70TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/200th-st",
+        "langley/70th-ave"
+      ],
+      "streetNames": [
+        "200th St",
+        "70th Ave"
+      ],
+      "pulsePointId": "2466189388"
+    },
+    {
       "id": "2026-05-02T17:28:00Z_langley/24th-ave_langley/200th-st",
       "timestamp": "2026-05-02T17:28:00Z",
       "address": "24TH AVE & 200TH ST",
@@ -265,6 +280,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-02T17:28:00Z",
-  "count": 18
+  "lastIncident": "2026-05-03T01:01:00Z",
+  "count": 19
 }

@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/hamilton-st",
+  "name": "Hamilton St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-03T00:54:00Z_vancouver/hamilton-st",
+      "timestamp": "2026-05-03T00:54:00Z",
+      "address": "HAMILTON ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/hamilton-st"
+      ],
+      "streetNames": [
+        "Hamilton St"
+      ],
+      "pulsePointId": "2466185045"
+    }
+  ],
+  "lastIncident": "2026-05-03T00:54:00Z",
+  "count": 1
+}

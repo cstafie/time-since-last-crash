@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/dumfries-st",
+  "name": "Dumfries St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-03T00:20:00Z_vancouver/dumfries-st_vancouver/e-41st-ave",
+      "timestamp": "2026-05-03T00:20:00Z",
+      "address": "DUMFRIES ST & E 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/dumfries-st",
+        "vancouver/e-41st-ave"
+      ],
+      "streetNames": [
+        "Dumfries St",
+        "E 41st Ave"
+      ],
+      "pulsePointId": "2466164947"
+    }
+  ],
+  "lastIncident": "2026-05-03T00:20:00Z",
+  "count": 1
+}

@@ -1,5 +1,83 @@
 [
   {
+    "id": "2026-05-03T01:10:00Z_new-westminster/holmes-st_new-westminster/e-columbia-st",
+    "timestamp": "2026-05-03T01:10:00Z",
+    "scrapedAt": "2026-05-03T01:15:39Z",
+    "address": "HOLMES ST & E COLUMBIA ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/holmes-st",
+      "new-westminster/e-columbia-st"
+    ],
+    "streetNames": [
+      "Holmes St",
+      "E Columbia St"
+    ],
+    "pulsePointId": "2466196193"
+  },
+  {
+    "id": "2026-05-03T01:01:00Z_langley/200th-st_langley/70th-ave",
+    "timestamp": "2026-05-03T01:01:00Z",
+    "scrapedAt": "2026-05-03T01:15:39Z",
+    "address": "200TH ST & 70TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/200th-st",
+      "langley/70th-ave"
+    ],
+    "streetNames": [
+      "200th St",
+      "70th Ave"
+    ],
+    "pulsePointId": "2466189388"
+  },
+  {
+    "id": "2026-05-03T00:54:00Z_vancouver/hamilton-st",
+    "timestamp": "2026-05-03T00:54:00Z",
+    "scrapedAt": "2026-05-03T01:15:39Z",
+    "address": "HAMILTON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/hamilton-st"
+    ],
+    "streetNames": [
+      "Hamilton St"
+    ],
+    "pulsePointId": "2466185045"
+  },
+  {
+    "id": "2026-05-03T00:46:00Z_surrey/102b-ave_surrey/140th-st",
+    "timestamp": "2026-05-03T00:46:00Z",
+    "scrapedAt": "2026-05-03T01:15:39Z",
+    "address": "102B AVE & 140TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/102b-ave",
+      "surrey/140th-st"
+    ],
+    "streetNames": [
+      "102b Ave",
+      "140th St"
+    ],
+    "pulsePointId": "2466180375"
+  },
+  {
+    "id": "2026-05-03T00:20:00Z_vancouver/dumfries-st_vancouver/e-41st-ave",
+    "timestamp": "2026-05-03T00:20:00Z",
+    "scrapedAt": "2026-05-03T01:15:39Z",
+    "address": "DUMFRIES ST & E 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/dumfries-st",
+      "vancouver/e-41st-ave"
+    ],
+    "streetNames": [
+      "Dumfries St",
+      "E 41st Ave"
+    ],
+    "pulsePointId": "2466164947"
+  },
+  {
     "id": "2026-05-02T23:55:00Z_burnaby/3550-brighton-ave",
     "timestamp": "2026-05-02T23:55:00Z",
     "scrapedAt": "2026-05-03T00:13:49Z",

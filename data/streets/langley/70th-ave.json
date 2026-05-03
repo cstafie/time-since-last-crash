@@ -1,0 +1,24 @@
+{
+  "slug": "langley/70th-ave",
+  "name": "70th Ave",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-05-03T01:01:00Z_langley/200th-st_langley/70th-ave",
+      "timestamp": "2026-05-03T01:01:00Z",
+      "address": "200TH ST & 70TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/200th-st",
+        "langley/70th-ave"
+      ],
+      "streetNames": [
+        "200th St",
+        "70th Ave"
+      ],
+      "pulsePointId": "2466189388"
+    }
+  ],
+  "lastIncident": "2026-05-03T01:01:00Z",
+  "count": 1
+}
