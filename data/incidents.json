@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-05-03T02:41:00Z_burnaby/sanders-st_burnaby/royal-oak-ave",
+    "timestamp": "2026-05-03T02:41:00Z",
+    "scrapedAt": "2026-05-03T03:43:11Z",
+    "address": "SANDERS ST & ROYAL OAK AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/sanders-st",
+      "burnaby/royal-oak-ave"
+    ],
+    "streetNames": [
+      "Sanders St",
+      "Royal Oak Ave"
+    ],
+    "pulsePointId": "2466249394"
+  },
+  {
+    "id": "2026-05-03T02:40:00Z_surrey/110th-ave",
+    "timestamp": "2026-05-03T02:40:00Z",
+    "scrapedAt": "2026-05-03T03:43:11Z",
+    "address": "110TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/110th-ave"
+    ],
+    "streetNames": [
+      "110th Ave"
+    ],
+    "pulsePointId": "2466249297"
+  },
+  {
+    "id": "2026-05-03T02:18:00Z_surrey/60th-ave",
+    "timestamp": "2026-05-03T02:18:00Z",
+    "scrapedAt": "2026-05-03T03:43:11Z",
+    "address": "60TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/60th-ave"
+    ],
+    "streetNames": [
+      "60th Ave"
+    ],
+    "pulsePointId": "2466235770"
+  },
+  {
     "id": "2026-05-03T01:43:00Z_vancouver/w-2nd-ave_vancouver/crowe-st",
     "timestamp": "2026-05-03T01:43:00Z",
     "scrapedAt": "2026-05-03T02:15:26Z",

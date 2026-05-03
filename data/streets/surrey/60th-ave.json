@@ -4,6 +4,19 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-05-03T02:18:00Z_surrey/60th-ave",
+      "timestamp": "2026-05-03T02:18:00Z",
+      "address": "60TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/60th-ave"
+      ],
+      "streetNames": [
+        "60th Ave"
+      ],
+      "pulsePointId": "2466235770"
+    },
+    {
       "id": "2026-04-30T01:09:00Z_surrey/176a-st_surrey/60th-ave",
       "timestamp": "2026-04-30T01:09:00Z",
       "address": "176A ST & 60TH AVE",
@@ -90,6 +103,6 @@
       "pulsePointId": "2437144167"
     }
   ],
-  "lastIncident": "2026-04-30T01:09:00Z",
-  "count": 6
+  "lastIncident": "2026-05-03T02:18:00Z",
+  "count": 7
 }

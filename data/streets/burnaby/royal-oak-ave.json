@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-03T02:41:00Z_burnaby/sanders-st_burnaby/royal-oak-ave",
+      "timestamp": "2026-05-03T02:41:00Z",
+      "address": "SANDERS ST & ROYAL OAK AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/sanders-st",
+        "burnaby/royal-oak-ave"
+      ],
+      "streetNames": [
+        "Sanders St",
+        "Royal Oak Ave"
+      ],
+      "pulsePointId": "2466249394"
+    },
+    {
       "id": "2026-04-01T15:16:00Z_burnaby/royal-oak-ave_burnaby/imperial-st",
       "timestamp": "2026-04-01T15:16:00Z",
       "address": "ROYAL OAK AVE & IMPERIAL ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2439944324"
     }
   ],
-  "lastIncident": "2026-04-01T15:16:00Z",
-  "count": 2
+  "lastIncident": "2026-05-03T02:41:00Z",
+  "count": 3
 }

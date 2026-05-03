@@ -2628,8 +2628,8 @@
     "name": "Sanders St",
     "slug": "burnaby/sanders-st",
     "city": "Burnaby",
-    "lastIncident": "2026-03-17T20:08:00Z",
-    "count": 1
+    "lastIncident": "2026-05-03T02:41:00Z",
+    "count": 2
   },
   "burnaby/nelson-ave": {
     "name": "Nelson Ave",
@@ -2978,8 +2978,8 @@
     "name": "60th Ave",
     "slug": "surrey/60th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-30T01:09:00Z",
-    "count": 6
+    "lastIncident": "2026-05-03T02:18:00Z",
+    "count": 7
   },
   "pitt-meadows/airport-way": {
     "name": "Airport Way",
@@ -3699,8 +3699,8 @@
     "name": "Royal Oak Ave",
     "slug": "burnaby/royal-oak-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-04-01T15:16:00Z",
-    "count": 2
+    "lastIncident": "2026-05-03T02:41:00Z",
+    "count": 3
   },
   "burnaby/irving-st": {
     "name": "Irving St",
@@ -6828,8 +6828,8 @@
     "name": "110th Ave",
     "slug": "surrey/110th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-15T23:43:00Z",
-    "count": 1
+    "lastIncident": "2026-05-03T02:40:00Z",
+    "count": 2
   },
   "vancouver/union-st": {
     "name": "Union St",
