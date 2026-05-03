@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-03T17:22:00Z_vancouver/granville-st_vancouver/w-37th-ave",
+      "timestamp": "2026-05-03T17:22:00Z",
+      "address": "GRANVILLE ST & W 37TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st",
+        "vancouver/w-37th-ave"
+      ],
+      "streetNames": [
+        "Granville St",
+        "W 37th Ave"
+      ],
+      "pulsePointId": "2466585687"
+    },
+    {
       "id": "2026-05-01T15:38:00Z_vancouver/granville-st",
       "timestamp": "2026-05-01T15:38:00Z",
       "address": "GRANVILLE ST",
@@ -295,6 +310,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-01T15:38:00Z",
-  "count": 20
+  "lastIncident": "2026-05-03T17:22:00Z",
+  "count": 21
 }

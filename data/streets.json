@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-01T15:38:00Z",
-    "count": 20
+    "lastIncident": "2026-05-03T17:22:00Z",
+    "count": 21
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -6387,8 +6387,8 @@
     "name": "W 37th Ave",
     "slug": "vancouver/w-37th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-16T22:46:00Z",
-    "count": 2
+    "lastIncident": "2026-05-03T17:22:00Z",
+    "count": 3
   },
   "mission/cathy-cres": {
     "name": "Cathy Cres",
