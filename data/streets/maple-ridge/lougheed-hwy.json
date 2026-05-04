@@ -4,6 +4,36 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-05-04T03:50:00Z_maple-ridge/266th-st_maple-ridge/lougheed-hwy",
+      "timestamp": "2026-05-04T03:50:00Z",
+      "address": "266TH ST & LOUGHEED HWY",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/266th-st",
+        "maple-ridge/lougheed-hwy"
+      ],
+      "streetNames": [
+        "266th St",
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2466930822"
+    },
+    {
+      "id": "2026-05-04T03:49:00Z_maple-ridge/river-rd_maple-ridge/lougheed-hwy",
+      "timestamp": "2026-05-04T03:49:00Z",
+      "address": "RIVER RD & LOUGHEED HWY",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/river-rd",
+        "maple-ridge/lougheed-hwy"
+      ],
+      "streetNames": [
+        "River Rd",
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2466930821"
+    },
+    {
       "id": "2026-04-23T12:44:00Z_maple-ridge/lougheed-hwy_maple-ridge/spilsbury-st",
       "timestamp": "2026-04-23T12:44:00Z",
       "address": "LOUGHEED HWY & SPILSBURY ST",
@@ -208,6 +238,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-23T12:44:00Z",
-  "count": 14
+  "lastIncident": "2026-05-04T03:50:00Z",
+  "count": 16
 }

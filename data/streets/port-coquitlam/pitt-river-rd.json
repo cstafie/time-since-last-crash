@@ -4,6 +4,21 @@
   "city": "Port Coquitlam",
   "incidents": [
     {
+      "id": "2026-05-04T04:44:00Z_port-coquitlam/mary-hill-bps_port-coquitlam/pitt-river-rd",
+      "timestamp": "2026-05-04T04:44:00Z",
+      "address": "MARY HILL BPS & PITT RIVER RD",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/mary-hill-bps",
+        "port-coquitlam/pitt-river-rd"
+      ],
+      "streetNames": [
+        "Mary Hill Bps",
+        "Pitt River Rd"
+      ],
+      "pulsePointId": "2466953674"
+    },
+    {
       "id": "2026-03-23T19:52:00Z_port-coquitlam/mary-hill-bps_port-coquitlam/pitt-river-rd",
       "timestamp": "2026-03-23T19:52:00Z",
       "address": "MARY HILL BPS & PITT RIVER RD",
@@ -45,6 +60,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-23T19:52:00Z",
-  "count": 3
+  "lastIncident": "2026-05-04T04:44:00Z",
+  "count": 4
 }

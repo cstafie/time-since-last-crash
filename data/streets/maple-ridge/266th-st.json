@@ -1,0 +1,24 @@
+{
+  "slug": "maple-ridge/266th-st",
+  "name": "266th St",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-05-04T03:50:00Z_maple-ridge/266th-st_maple-ridge/lougheed-hwy",
+      "timestamp": "2026-05-04T03:50:00Z",
+      "address": "266TH ST & LOUGHEED HWY",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/266th-st",
+        "maple-ridge/lougheed-hwy"
+      ],
+      "streetNames": [
+        "266th St",
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2466930822"
+    }
+  ],
+  "lastIncident": "2026-05-04T03:50:00Z",
+  "count": 1
+}

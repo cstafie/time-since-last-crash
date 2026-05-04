@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-05-04T04:44:00Z_port-coquitlam/mary-hill-bps_port-coquitlam/pitt-river-rd",
+    "timestamp": "2026-05-04T04:44:00Z",
+    "scrapedAt": "2026-05-04T05:05:44Z",
+    "address": "MARY HILL BPS & PITT RIVER RD",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/mary-hill-bps",
+      "port-coquitlam/pitt-river-rd"
+    ],
+    "streetNames": [
+      "Mary Hill Bps",
+      "Pitt River Rd"
+    ],
+    "pulsePointId": "2466953674"
+  },
+  {
+    "id": "2026-05-04T03:50:00Z_maple-ridge/266th-st_maple-ridge/lougheed-hwy",
+    "timestamp": "2026-05-04T03:50:00Z",
+    "scrapedAt": "2026-05-04T05:05:44Z",
+    "address": "266TH ST & LOUGHEED HWY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/266th-st",
+      "maple-ridge/lougheed-hwy"
+    ],
+    "streetNames": [
+      "266th St",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2466930822"
+  },
+  {
+    "id": "2026-05-04T03:49:00Z_maple-ridge/river-rd_maple-ridge/lougheed-hwy",
+    "timestamp": "2026-05-04T03:49:00Z",
+    "scrapedAt": "2026-05-04T05:05:44Z",
+    "address": "RIVER RD & LOUGHEED HWY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/river-rd",
+      "maple-ridge/lougheed-hwy"
+    ],
+    "streetNames": [
+      "River Rd",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2466930821"
+  },
+  {
     "id": "2026-05-04T02:16:00Z_surrey/132nd-st_surrey/103a-ave",
     "timestamp": "2026-05-04T02:16:00Z",
     "scrapedAt": "2026-05-04T03:43:08Z",

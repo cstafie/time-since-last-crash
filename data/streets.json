@@ -325,8 +325,8 @@
     "name": "Lougheed Hwy",
     "slug": "maple-ridge/lougheed-hwy",
     "city": "Maple Ridge",
-    "lastIncident": "2026-04-23T12:44:00Z",
-    "count": 14
+    "lastIncident": "2026-05-04T03:50:00Z",
+    "count": 16
   },
   "mission/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -423,8 +423,8 @@
     "name": "Mary Hill Bps",
     "slug": "port-coquitlam/mary-hill-bps",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-04-28T03:28:00Z",
-    "count": 6
+    "lastIncident": "2026-05-04T04:44:00Z",
+    "count": 7
   },
   "richmond/8111-ackroyd-rd": {
     "name": "8111 Ackroyd Rd",
@@ -1452,8 +1452,8 @@
     "name": "Pitt River Rd",
     "slug": "port-coquitlam/pitt-river-rd",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-03-23T19:52:00Z",
-    "count": 3
+    "lastIncident": "2026-05-04T04:44:00Z",
+    "count": 4
   },
   "richmond/jow-st": {
     "name": "Jow St",
@@ -3874,8 +3874,8 @@
     "name": "River Rd",
     "slug": "maple-ridge/river-rd",
     "city": "Maple Ridge",
-    "lastIncident": "2026-04-29T04:25:00Z",
-    "count": 2
+    "lastIncident": "2026-05-04T03:49:00Z",
+    "count": 3
   },
   "langley/86th-ave": {
     "name": "86th Ave",
@@ -8656,6 +8656,13 @@
     "slug": "surrey/67a-ave",
     "city": "Surrey",
     "lastIncident": "2026-05-04T01:42:00Z",
+    "count": 1
+  },
+  "maple-ridge/266th-st": {
+    "name": "266th St",
+    "slug": "maple-ridge/266th-st",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-05-04T03:50:00Z",
     "count": 1
   }
 }
