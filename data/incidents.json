@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-04T06:01:00Z_langley/200th-st_langley/27th-ave",
+    "timestamp": "2026-05-04T06:01:00Z",
+    "scrapedAt": "2026-05-04T06:27:44Z",
+    "address": "200TH ST & 27TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/200th-st",
+      "langley/27th-ave"
+    ],
+    "streetNames": [
+      "200th St",
+      "27th Ave"
+    ],
+    "pulsePointId": "2466982126"
+  },
+  {
     "id": "2026-05-04T04:44:00Z_port-coquitlam/mary-hill-bps_port-coquitlam/pitt-river-rd",
     "timestamp": "2026-05-04T04:44:00Z",
     "scrapedAt": "2026-05-04T05:05:44Z",

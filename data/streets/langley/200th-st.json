@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-05-04T06:01:00Z_langley/200th-st_langley/27th-ave",
+      "timestamp": "2026-05-04T06:01:00Z",
+      "address": "200TH ST & 27TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/200th-st",
+        "langley/27th-ave"
+      ],
+      "streetNames": [
+        "200th St",
+        "27th Ave"
+      ],
+      "pulsePointId": "2466982126"
+    },
+    {
       "id": "2026-05-03T20:38:00Z_langley/200th-st_langley/willowbrook-dr",
       "timestamp": "2026-05-03T20:38:00Z",
       "address": "200TH ST & WILLOWBROOK DR",
@@ -295,6 +310,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-03T20:38:00Z",
-  "count": 20
+  "lastIncident": "2026-05-04T06:01:00Z",
+  "count": 21
 }
