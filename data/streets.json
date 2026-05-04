@@ -626,8 +626,8 @@
     "name": "84th Ave",
     "slug": "surrey/84th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-01T19:19:00Z",
-    "count": 9
+    "lastIncident": "2026-05-04T12:47:00Z",
+    "count": 10
   },
   "surrey/88th-ave": {
     "name": "88th Ave",
@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-05-03T22:31:00Z",
-    "count": 32
+    "lastIncident": "2026-05-04T12:59:00Z",
+    "count": 33
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -1312,8 +1312,8 @@
     "name": "104th Ave",
     "slug": "surrey/104th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-02T17:25:00Z",
-    "count": 20
+    "lastIncident": "2026-05-04T12:59:00Z",
+    "count": 21
   },
   "surrey/122nd-st": {
     "name": "122nd St",
@@ -1627,8 +1627,8 @@
     "name": "156th St",
     "slug": "surrey/156th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-01T19:19:00Z",
-    "count": 9
+    "lastIncident": "2026-05-04T12:47:00Z",
+    "count": 10
   },
   "north-vancouver/pemberton-ave": {
     "name": "Pemberton Ave",
