@@ -1,0 +1,22 @@
+{
+  "slug": "maple-ridge/284th-st",
+  "name": "284th St",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-05-04T22:49:00Z_maple-ridge/284th-st",
+      "timestamp": "2026-05-04T22:49:00Z",
+      "address": "284TH ST",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/284th-st"
+      ],
+      "streetNames": [
+        "284th St"
+      ],
+      "pulsePointId": "2467461761"
+    }
+  ],
+  "lastIncident": "2026-05-04T22:49:00Z",
+  "count": 1
+}
