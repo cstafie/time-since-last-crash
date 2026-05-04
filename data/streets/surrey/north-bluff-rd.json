@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-05-04T22:30:00Z_surrey/north-bluff-rd_surrey/anderson-st",
+      "timestamp": "2026-05-04T22:30:00Z",
+      "address": "NORTH BLUFF RD & ANDERSON ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/north-bluff-rd",
+        "surrey/anderson-st"
+      ],
+      "streetNames": [
+        "North Bluff Rd",
+        "Anderson St"
+      ],
+      "pulsePointId": "2467454019"
+    },
+    {
       "id": "2026-04-26T21:20:00Z_surrey/148th-st_surrey/north-bluff-rd",
       "timestamp": "2026-04-26T21:20:00Z",
       "address": "148TH ST & NORTH BLUFF RD",
@@ -34,6 +49,6 @@
       "pulsePointId": "2440453060"
     }
   ],
-  "lastIncident": "2026-04-26T21:20:00Z",
-  "count": 2
+  "lastIncident": "2026-05-04T22:30:00Z",
+  "count": 3
 }

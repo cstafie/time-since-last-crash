@@ -1,0 +1,22 @@
+{
+  "slug": "coquitlam/midvale-st",
+  "name": "Midvale St",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-05-04T22:13:00Z_coquitlam/midvale-st",
+      "timestamp": "2026-05-04T22:13:00Z",
+      "address": "MIDVALE ST",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/midvale-st"
+      ],
+      "streetNames": [
+        "Midvale St"
+      ],
+      "pulsePointId": "2467439145"
+    }
+  ],
+  "lastIncident": "2026-05-04T22:13:00Z",
+  "count": 1
+}

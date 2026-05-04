@@ -1,5 +1,77 @@
 [
   {
+    "id": "2026-05-04T22:42:00Z_delta/centre-st",
+    "timestamp": "2026-05-04T22:42:00Z",
+    "scrapedAt": "2026-05-04T22:46:07Z",
+    "address": "CENTRE ST",
+    "city": "Delta",
+    "streets": [
+      "delta/centre-st"
+    ],
+    "streetNames": [
+      "Centre St"
+    ],
+    "pulsePointId": "2467455990"
+  },
+  {
+    "id": "2026-05-04T22:30:00Z_surrey/north-bluff-rd_surrey/anderson-st",
+    "timestamp": "2026-05-04T22:30:00Z",
+    "scrapedAt": "2026-05-04T22:46:07Z",
+    "address": "NORTH BLUFF RD & ANDERSON ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/north-bluff-rd",
+      "surrey/anderson-st"
+    ],
+    "streetNames": [
+      "North Bluff Rd",
+      "Anderson St"
+    ],
+    "pulsePointId": "2467454019"
+  },
+  {
+    "id": "2026-05-04T22:29:00Z_chilliwack/boundary-rd",
+    "timestamp": "2026-05-04T22:29:00Z",
+    "scrapedAt": "2026-05-04T22:46:07Z",
+    "address": "BOUNDARY RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/boundary-rd"
+    ],
+    "streetNames": [
+      "Boundary Rd"
+    ],
+    "pulsePointId": "2467448187"
+  },
+  {
+    "id": "2026-05-04T22:24:00Z_surrey/105th-ave",
+    "timestamp": "2026-05-04T22:24:00Z",
+    "scrapedAt": "2026-05-04T22:46:07Z",
+    "address": "105TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/105th-ave"
+    ],
+    "streetNames": [
+      "105th Ave"
+    ],
+    "pulsePointId": "2467445255"
+  },
+  {
+    "id": "2026-05-04T22:13:00Z_coquitlam/midvale-st",
+    "timestamp": "2026-05-04T22:13:00Z",
+    "scrapedAt": "2026-05-04T22:46:07Z",
+    "address": "MIDVALE ST",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/midvale-st"
+    ],
+    "streetNames": [
+      "Midvale St"
+    ],
+    "pulsePointId": "2467439145"
+  },
+  {
     "id": "2026-05-04T21:59:00Z_vancouver/w-16th-ave_vancouver/sw-marine-dr",
     "timestamp": "2026-05-04T21:59:00Z",
     "scrapedAt": "2026-05-04T22:18:01Z",

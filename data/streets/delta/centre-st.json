@@ -1,0 +1,22 @@
+{
+  "slug": "delta/centre-st",
+  "name": "Centre St",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-05-04T22:42:00Z_delta/centre-st",
+      "timestamp": "2026-05-04T22:42:00Z",
+      "address": "CENTRE ST",
+      "city": "Delta",
+      "streets": [
+        "delta/centre-st"
+      ],
+      "streetNames": [
+        "Centre St"
+      ],
+      "pulsePointId": "2467455990"
+    }
+  ],
+  "lastIncident": "2026-05-04T22:42:00Z",
+  "count": 1
+}
