@@ -1,0 +1,22 @@
+{
+  "slug": "richmond/dover-rd",
+  "name": "Dover Rd",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-05-04T16:19:00Z_richmond/dover-rd",
+      "timestamp": "2026-05-04T16:19:00Z",
+      "address": "DOVER RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/dover-rd"
+      ],
+      "streetNames": [
+        "Dover Rd"
+      ],
+      "pulsePointId": "2467194686"
+    }
+  ],
+  "lastIncident": "2026-05-04T16:19:00Z",
+  "count": 1
+}

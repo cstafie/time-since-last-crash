@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-04T16:19:00Z_richmond/dover-rd",
+    "timestamp": "2026-05-04T16:19:00Z",
+    "scrapedAt": "2026-05-04T17:03:38Z",
+    "address": "DOVER RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/dover-rd"
+    ],
+    "streetNames": [
+      "Dover Rd"
+    ],
+    "pulsePointId": "2467194686"
+  },
+  {
     "id": "2026-05-04T15:13:00Z_richmond/steveston-hwy_richmond/no-3-rd",
     "timestamp": "2026-05-04T15:13:00Z",
     "scrapedAt": "2026-05-04T16:10:31Z",

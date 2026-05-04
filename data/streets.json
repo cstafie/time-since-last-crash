@@ -8692,5 +8692,12 @@
     "city": "Burnaby",
     "lastIncident": "2026-05-04T14:27:00Z",
     "count": 1
+  },
+  "richmond/dover-rd": {
+    "name": "Dover Rd",
+    "slug": "richmond/dover-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-05-04T16:19:00Z",
+    "count": 1
   }
 }
