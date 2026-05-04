@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-04T23:35:00Z_surrey/143rd-st_surrey/108th-ave",
+    "timestamp": "2026-05-04T23:35:00Z",
+    "scrapedAt": "2026-05-04T23:45:25Z",
+    "address": "143RD ST & 108TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/143rd-st",
+      "surrey/108th-ave"
+    ],
+    "streetNames": [
+      "143rd St",
+      "108th Ave"
+    ],
+    "pulsePointId": "2467491124"
+  },
+  {
+    "id": "2026-05-04T23:19:00Z_north-vancouver/mt-seymour-pkwy_north-vancouver/browning-pl",
+    "timestamp": "2026-05-04T23:19:00Z",
+    "scrapedAt": "2026-05-04T23:45:25Z",
+    "address": "MT SEYMOUR PKWY & BROWNING PL",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/mt-seymour-pkwy",
+      "north-vancouver/browning-pl"
+    ],
+    "streetNames": [
+      "Mt Seymour Pkwy",
+      "Browning Pl"
+    ],
+    "pulsePointId": "2467480856"
+  },
+  {
     "id": "2026-05-04T22:49:00Z_maple-ridge/284th-st",
     "timestamp": "2026-05-04T22:49:00Z",
     "scrapedAt": "2026-05-04T23:15:45Z",
