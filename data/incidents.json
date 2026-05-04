@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-04T00:15:00Z_mission/best-ave",
+    "timestamp": "2026-05-04T00:15:00Z",
+    "scrapedAt": "2026-05-04T01:13:11Z",
+    "address": "BEST AVE",
+    "city": "Mission",
+    "streets": [
+      "mission/best-ave"
+    ],
+    "streetNames": [
+      "Best Ave"
+    ],
+    "pulsePointId": "2466811950"
+  },
+  {
     "id": "2026-05-03T23:45:00Z_maple-ridge/dewdney-trunk-rd_maple-ridge/248th-st",
     "timestamp": "2026-05-03T23:45:00Z",
     "scrapedAt": "2026-05-04T00:14:16Z",

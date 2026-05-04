@@ -4,6 +4,19 @@
   "city": "Mission",
   "incidents": [
     {
+      "id": "2026-05-04T00:15:00Z_mission/best-ave",
+      "timestamp": "2026-05-04T00:15:00Z",
+      "address": "BEST AVE",
+      "city": "Mission",
+      "streets": [
+        "mission/best-ave"
+      ],
+      "streetNames": [
+        "Best Ave"
+      ],
+      "pulsePointId": "2466811950"
+    },
+    {
       "id": "2026-04-04T21:56:00Z_mission/cedar-st_mission/best-ave",
       "timestamp": "2026-04-04T21:56:00Z",
       "address": "CEDAR ST & BEST AVE",
@@ -19,6 +32,6 @@
       "pulsePointId": "2447818248"
     }
   ],
-  "lastIncident": "2026-04-04T21:56:00Z",
-  "count": 1
+  "lastIncident": "2026-05-04T00:15:00Z",
+  "count": 2
 }
