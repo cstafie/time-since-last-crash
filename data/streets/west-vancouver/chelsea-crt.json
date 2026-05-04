@@ -1,6 +1,6 @@
 {
-  "slug": "west-vancouver/chairlift-rd",
-  "name": "Chairlift Rd",
+  "slug": "west-vancouver/chelsea-crt",
+  "name": "Chelsea Crt",
   "city": "West Vancouver",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Chairlift Rd"
       ],
       "pulsePointId": "2467276294"
-    },
-    {
-      "id": "2026-04-16T09:43:00Z_west-vancouver/chairlift-rd_west-vancouver/marr-creek-crt",
-      "timestamp": "2026-04-16T09:43:00Z",
-      "address": "CHAIRLIFT RD & MARR CREEK CRT",
-      "city": "West Vancouver",
-      "streets": [
-        "west-vancouver/chairlift-rd",
-        "west-vancouver/marr-creek-crt"
-      ],
-      "streetNames": [
-        "Chairlift Rd",
-        "Marr Creek Crt"
-      ],
-      "pulsePointId": "2455292015"
     }
   ],
   "lastIncident": "2026-05-04T18:28:00Z",
-  "count": 2
+  "count": 1
 }
