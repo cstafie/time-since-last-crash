@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-05-04T01:48:00Z_burnaby/rumble-st",
+    "timestamp": "2026-05-04T01:48:00Z",
+    "scrapedAt": "2026-05-04T02:15:54Z",
+    "address": "RUMBLE ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/rumble-st"
+    ],
+    "streetNames": [
+      "Rumble St"
+    ],
+    "pulsePointId": "2466869640"
+  },
+  {
+    "id": "2026-05-04T01:42:00Z_surrey/67a-ave",
+    "timestamp": "2026-05-04T01:42:00Z",
+    "scrapedAt": "2026-05-04T02:15:54Z",
+    "address": "67A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/67a-ave"
+    ],
+    "streetNames": [
+      "67a Ave"
+    ],
+    "pulsePointId": "2466866098"
+  },
+  {
     "id": "2026-05-04T00:15:00Z_mission/best-ave",
     "timestamp": "2026-05-04T00:15:00Z",
     "scrapedAt": "2026-05-04T01:13:11Z",

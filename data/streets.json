@@ -6569,8 +6569,8 @@
     "name": "Rumble St",
     "slug": "burnaby/rumble-st",
     "city": "Burnaby",
-    "lastIncident": "2026-04-17T15:58:00Z",
-    "count": 2
+    "lastIncident": "2026-05-04T01:48:00Z",
+    "count": 3
   },
   "burnaby/buller-ave": {
     "name": "Buller Ave",
@@ -8649,6 +8649,13 @@
     "slug": "maple-ridge/248th-st",
     "city": "Maple Ridge",
     "lastIncident": "2026-05-03T23:45:00Z",
+    "count": 1
+  },
+  "surrey/67a-ave": {
+    "name": "67a Ave",
+    "slug": "surrey/67a-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-05-04T01:42:00Z",
     "count": 1
   }
 }
