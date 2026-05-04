@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-04T21:59:00Z_vancouver/w-16th-ave_vancouver/sw-marine-dr",
+      "timestamp": "2026-05-04T21:59:00Z",
+      "address": "W 16TH AVE & SW MARINE DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-16th-ave",
+        "vancouver/sw-marine-dr"
+      ],
+      "streetNames": [
+        "W 16th Ave",
+        "Sw Marine Dr"
+      ],
+      "pulsePointId": "2467427296"
+    },
+    {
       "id": "2026-04-30T22:24:00Z_vancouver/sw-marine-dr_vancouver/carnarvon-st",
       "timestamp": "2026-04-30T22:24:00Z",
       "address": "SW MARINE DR & CARNARVON ST",
@@ -62,6 +77,6 @@
       "pulsePointId": "2453784324"
     }
   ],
-  "lastIncident": "2026-04-30T22:24:00Z",
-  "count": 4
+  "lastIncident": "2026-05-04T21:59:00Z",
+  "count": 5
 }

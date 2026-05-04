@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-04T21:59:00Z_vancouver/spruce-st_vancouver/w-broadway",
+      "timestamp": "2026-05-04T21:59:00Z",
+      "address": "SPRUCE ST & W BROADWAY",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/spruce-st",
+        "vancouver/w-broadway"
+      ],
+      "streetNames": [
+        "Spruce St",
+        "W Broadway"
+      ],
+      "pulsePointId": "2467427109"
+    },
+    {
       "id": "2026-04-07T22:49:00Z_vancouver/w-broadway",
       "timestamp": "2026-04-07T22:49:00Z",
       "address": "W BROADWAY",
@@ -103,6 +118,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-07T22:49:00Z",
-  "count": 7
+  "lastIncident": "2026-05-04T21:59:00Z",
+  "count": 8
 }

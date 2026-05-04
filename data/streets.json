@@ -626,8 +626,8 @@
     "name": "84th Ave",
     "slug": "surrey/84th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-04T12:47:00Z",
-    "count": 10
+    "lastIncident": "2026-05-04T21:55:00Z",
+    "count": 12
   },
   "surrey/88th-ave": {
     "name": "88th Ave",
@@ -808,8 +808,8 @@
     "name": "W Broadway",
     "slug": "vancouver/w-broadway",
     "city": "Vancouver",
-    "lastIncident": "2026-04-07T22:49:00Z",
-    "count": 7
+    "lastIncident": "2026-05-04T21:59:00Z",
+    "count": 8
   },
   "west-vancouver/eagleridge-drive-ofrp": {
     "name": "Eagleridge Drive Ofrp",
@@ -1956,8 +1956,8 @@
     "name": "W 16th Ave",
     "slug": "vancouver/w-16th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-03T21:43:00Z",
-    "count": 9
+    "lastIncident": "2026-05-04T21:59:00Z",
+    "count": 10
   },
   "vancouver/dunbar-st": {
     "name": "Dunbar St",
@@ -6597,8 +6597,8 @@
     "name": "Sw Marine Dr",
     "slug": "vancouver/sw-marine-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-04-30T22:24:00Z",
-    "count": 4
+    "lastIncident": "2026-05-04T21:59:00Z",
+    "count": 5
   },
   "surrey/54th-ave": {
     "name": "54th Ave",
@@ -8733,6 +8733,20 @@
     "slug": "vancouver/drake-st",
     "city": "Vancouver",
     "lastIncident": "2026-05-04T19:42:00Z",
+    "count": 1
+  },
+  "surrey/129a-st": {
+    "name": "129a St",
+    "slug": "surrey/129a-st",
+    "city": "Surrey",
+    "lastIncident": "2026-05-04T21:54:00Z",
+    "count": 1
+  },
+  "vancouver/spruce-st": {
+    "name": "Spruce St",
+    "slug": "vancouver/spruce-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-04T21:59:00Z",
     "count": 1
   }
 }

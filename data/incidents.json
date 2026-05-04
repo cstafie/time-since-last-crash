@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-05-04T21:59:00Z_vancouver/w-16th-ave_vancouver/sw-marine-dr",
+    "timestamp": "2026-05-04T21:59:00Z",
+    "scrapedAt": "2026-05-04T22:18:01Z",
+    "address": "W 16TH AVE & SW MARINE DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-16th-ave",
+      "vancouver/sw-marine-dr"
+    ],
+    "streetNames": [
+      "W 16th Ave",
+      "Sw Marine Dr"
+    ],
+    "pulsePointId": "2467427296"
+  },
+  {
+    "id": "2026-05-04T21:59:00Z_vancouver/spruce-st_vancouver/w-broadway",
+    "timestamp": "2026-05-04T21:59:00Z",
+    "scrapedAt": "2026-05-04T22:18:01Z",
+    "address": "SPRUCE ST & W BROADWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/spruce-st",
+      "vancouver/w-broadway"
+    ],
+    "streetNames": [
+      "Spruce St",
+      "W Broadway"
+    ],
+    "pulsePointId": "2467427109"
+  },
+  {
+    "id": "2026-05-04T21:55:00Z_surrey/84th-ave",
+    "timestamp": "2026-05-04T21:55:00Z",
+    "scrapedAt": "2026-05-04T22:18:01Z",
+    "address": "84TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/84th-ave"
+    ],
+    "streetNames": [
+      "84th Ave"
+    ],
+    "pulsePointId": "2467427279"
+  },
+  {
+    "id": "2026-05-04T21:54:00Z_surrey/84th-ave_surrey/129a-st",
+    "timestamp": "2026-05-04T21:54:00Z",
+    "scrapedAt": "2026-05-04T22:18:01Z",
+    "address": "84TH AVE & 129A ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/84th-ave",
+      "surrey/129a-st"
+    ],
+    "streetNames": [
+      "84th Ave",
+      "129a St"
+    ],
+    "pulsePointId": "2467423834"
+  },
+  {
     "id": "2026-05-04T21:14:00Z_surrey/trans-canada-hwy",
     "timestamp": "2026-05-04T21:14:00Z",
     "scrapedAt": "2026-05-04T21:21:12Z",
