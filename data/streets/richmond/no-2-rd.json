@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-05-04T17:03:00Z_richmond/no-2-rd_richmond/colville-rd",
+      "timestamp": "2026-05-04T17:03:00Z",
+      "address": "NO 2 RD & COLVILLE RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/no-2-rd",
+        "richmond/colville-rd"
+      ],
+      "streetNames": [
+        "No 2 Rd",
+        "Colville Rd"
+      ],
+      "pulsePointId": "2467222571"
+    },
+    {
       "id": "2026-04-13T19:12:00Z_richmond/no-2-rd",
       "timestamp": "2026-04-13T19:12:00Z",
       "address": "NO 2 RD",
@@ -76,6 +91,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-13T19:12:00Z",
-  "count": 5
+  "lastIncident": "2026-05-04T17:03:00Z",
+  "count": 6
 }

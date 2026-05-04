@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-05-04T17:40:00Z_abbotsford/bradner-rd_abbotsford/fraser-hwy",
+    "timestamp": "2026-05-04T17:40:00Z",
+    "scrapedAt": "2026-05-04T17:59:39Z",
+    "address": "BRADNER RD & FRASER HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/bradner-rd",
+      "abbotsford/fraser-hwy"
+    ],
+    "streetNames": [
+      "Bradner Rd",
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2467245565"
+  },
+  {
+    "id": "2026-05-04T17:07:00Z_new-westminster/7th-st_new-westminster/6th-ave",
+    "timestamp": "2026-05-04T17:07:00Z",
+    "scrapedAt": "2026-05-04T17:59:39Z",
+    "address": "7TH ST & 6TH AVE",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/7th-st",
+      "new-westminster/6th-ave"
+    ],
+    "streetNames": [
+      "7th St",
+      "6th Ave"
+    ],
+    "pulsePointId": "2467226205"
+  },
+  {
+    "id": "2026-05-04T17:03:00Z_richmond/no-2-rd_richmond/colville-rd",
+    "timestamp": "2026-05-04T17:03:00Z",
+    "scrapedAt": "2026-05-04T17:59:39Z",
+    "address": "NO 2 RD & COLVILLE RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/no-2-rd",
+      "richmond/colville-rd"
+    ],
+    "streetNames": [
+      "No 2 Rd",
+      "Colville Rd"
+    ],
+    "pulsePointId": "2467222571"
+  },
+  {
     "id": "2026-05-04T16:19:00Z_richmond/dover-rd",
     "timestamp": "2026-05-04T16:19:00Z",
     "scrapedAt": "2026-05-04T17:03:38Z",

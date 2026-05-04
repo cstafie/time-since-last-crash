@@ -1,0 +1,24 @@
+{
+  "slug": "new-westminster/7th-st",
+  "name": "7th St",
+  "city": "New Westminster",
+  "incidents": [
+    {
+      "id": "2026-05-04T17:07:00Z_new-westminster/7th-st_new-westminster/6th-ave",
+      "timestamp": "2026-05-04T17:07:00Z",
+      "address": "7TH ST & 6TH AVE",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/7th-st",
+        "new-westminster/6th-ave"
+      ],
+      "streetNames": [
+        "7th St",
+        "6th Ave"
+      ],
+      "pulsePointId": "2467226205"
+    }
+  ],
+  "lastIncident": "2026-05-04T17:07:00Z",
+  "count": 1
+}

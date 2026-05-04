@@ -360,8 +360,8 @@
     "name": "6th Ave",
     "slug": "new-westminster/6th-ave",
     "city": "New Westminster",
-    "lastIncident": "2026-04-25T01:31:00Z",
-    "count": 3
+    "lastIncident": "2026-05-04T17:07:00Z",
+    "count": 4
   },
   "new-westminster/8th-st": {
     "name": "8th St",
@@ -479,8 +479,8 @@
     "name": "No 2 Rd",
     "slug": "richmond/no-2-rd",
     "city": "Richmond",
-    "lastIncident": "2026-04-13T19:12:00Z",
-    "count": 5
+    "lastIncident": "2026-05-04T17:03:00Z",
+    "count": 6
   },
   "richmond/no-3-rd": {
     "name": "No 3 Rd",
@@ -2768,8 +2768,8 @@
     "name": "Fraser Hwy",
     "slug": "abbotsford/fraser-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-18T03:00:00Z",
-    "count": 7
+    "lastIncident": "2026-05-04T17:40:00Z",
+    "count": 8
   },
   "burnaby/north-fraser-way": {
     "name": "North Fraser Way",
@@ -8698,6 +8698,27 @@
     "slug": "richmond/dover-rd",
     "city": "Richmond",
     "lastIncident": "2026-05-04T16:19:00Z",
+    "count": 1
+  },
+  "abbotsford/bradner-rd": {
+    "name": "Bradner Rd",
+    "slug": "abbotsford/bradner-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-05-04T17:40:00Z",
+    "count": 1
+  },
+  "new-westminster/7th-st": {
+    "name": "7th St",
+    "slug": "new-westminster/7th-st",
+    "city": "New Westminster",
+    "lastIncident": "2026-05-04T17:07:00Z",
+    "count": 1
+  },
+  "richmond/colville-rd": {
+    "name": "Colville Rd",
+    "slug": "richmond/colville-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-05-04T17:03:00Z",
     "count": 1
   }
 }

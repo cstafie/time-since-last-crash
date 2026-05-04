@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/bradner-rd",
+  "name": "Bradner Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-05-04T17:40:00Z_abbotsford/bradner-rd_abbotsford/fraser-hwy",
+      "timestamp": "2026-05-04T17:40:00Z",
+      "address": "BRADNER RD & FRASER HWY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/bradner-rd",
+        "abbotsford/fraser-hwy"
+      ],
+      "streetNames": [
+        "Bradner Rd",
+        "Fraser Hwy"
+      ],
+      "pulsePointId": "2467245565"
+    }
+  ],
+  "lastIncident": "2026-05-04T17:40:00Z",
+  "count": 1
+}
