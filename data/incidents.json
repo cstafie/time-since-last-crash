@@ -1,5 +1,85 @@
 [
   {
+    "id": "2026-05-04T15:13:00Z_richmond/steveston-hwy_richmond/no-3-rd",
+    "timestamp": "2026-05-04T15:13:00Z",
+    "scrapedAt": "2026-05-04T16:10:31Z",
+    "address": "STEVESTON HWY & NO 3 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/steveston-hwy",
+      "richmond/no-3-rd"
+    ],
+    "streetNames": [
+      "Steveston Hwy",
+      "No 3 Rd"
+    ],
+    "pulsePointId": "2467154814"
+  },
+  {
+    "id": "2026-05-04T15:12:00Z_chilliwack/simmons-rd_chilliwack/vedder-mountain-rd",
+    "timestamp": "2026-05-04T15:12:00Z",
+    "scrapedAt": "2026-05-04T16:10:31Z",
+    "address": "SIMMONS RD & VEDDER MOUNTAIN RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/simmons-rd",
+      "chilliwack/vedder-mountain-rd"
+    ],
+    "streetNames": [
+      "Simmons Rd",
+      "Vedder Mountain Rd"
+    ],
+    "pulsePointId": "2467155150"
+  },
+  {
+    "id": "2026-05-04T15:08:00Z_surrey/58th-ave_surrey/150th-st",
+    "timestamp": "2026-05-04T15:08:00Z",
+    "scrapedAt": "2026-05-04T16:10:31Z",
+    "address": "58TH AVE & 150TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/58th-ave",
+      "surrey/150th-st"
+    ],
+    "streetNames": [
+      "58th Ave",
+      "150th St"
+    ],
+    "pulsePointId": "2467153564"
+  },
+  {
+    "id": "2026-05-04T14:27:00Z_burnaby/hastings-st_burnaby/esmond-ave",
+    "timestamp": "2026-05-04T14:27:00Z",
+    "scrapedAt": "2026-05-04T16:10:31Z",
+    "address": "HASTINGS ST & ESMOND AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/hastings-st",
+      "burnaby/esmond-ave"
+    ],
+    "streetNames": [
+      "Hastings St",
+      "Esmond Ave"
+    ],
+    "pulsePointId": "2467132326"
+  },
+  {
+    "id": "2026-05-04T14:25:00Z_vancouver/boundary-rd_vancouver/e-hastings-st",
+    "timestamp": "2026-05-04T14:25:00Z",
+    "scrapedAt": "2026-05-04T16:10:31Z",
+    "address": "BOUNDARY RD & E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/boundary-rd",
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "Boundary Rd",
+      "E Hastings St"
+    ],
+    "pulsePointId": "2467131928"
+  },
+  {
     "id": "2026-05-04T12:59:00Z_surrey/104th-ave_surrey/king-george-blvd",
     "timestamp": "2026-05-04T12:59:00Z",
     "scrapedAt": "2026-05-04T13:01:30Z",

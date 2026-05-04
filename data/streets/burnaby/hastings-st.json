@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-04T14:27:00Z_burnaby/hastings-st_burnaby/esmond-ave",
+      "timestamp": "2026-05-04T14:27:00Z",
+      "address": "HASTINGS ST & ESMOND AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/hastings-st",
+        "burnaby/esmond-ave"
+      ],
+      "streetNames": [
+        "Hastings St",
+        "Esmond Ave"
+      ],
+      "pulsePointId": "2467132326"
+    },
+    {
       "id": "2026-04-13T02:19:00Z_burnaby/maureen-cres_burnaby/hastings-st",
       "timestamp": "2026-04-13T02:19:00Z",
       "address": "MAUREEN CRES & HASTINGS ST",
@@ -49,6 +64,6 @@
       "pulsePointId": "2435141614"
     }
   ],
-  "lastIncident": "2026-04-13T02:19:00Z",
-  "count": 3
+  "lastIncident": "2026-05-04T14:27:00Z",
+  "count": 4
 }

@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-05-04T15:13:00Z_richmond/steveston-hwy_richmond/no-3-rd",
+      "timestamp": "2026-05-04T15:13:00Z",
+      "address": "STEVESTON HWY & NO 3 RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/steveston-hwy",
+        "richmond/no-3-rd"
+      ],
+      "streetNames": [
+        "Steveston Hwy",
+        "No 3 Rd"
+      ],
+      "pulsePointId": "2467154814"
+    },
+    {
       "id": "2026-05-02T20:07:00Z_richmond/bennett-rd_richmond/no-3-rd",
       "timestamp": "2026-05-02T20:07:00Z",
       "address": "BENNETT RD & NO 3 RD",
@@ -148,6 +163,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-02T20:07:00Z",
-  "count": 10
+  "lastIncident": "2026-05-04T15:13:00Z",
+  "count": 11
 }

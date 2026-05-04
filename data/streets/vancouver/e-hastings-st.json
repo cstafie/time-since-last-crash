@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-04T14:25:00Z_vancouver/boundary-rd_vancouver/e-hastings-st",
+      "timestamp": "2026-05-04T14:25:00Z",
+      "address": "BOUNDARY RD & E HASTINGS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/boundary-rd",
+        "vancouver/e-hastings-st"
+      ],
+      "streetNames": [
+        "Boundary Rd",
+        "E Hastings St"
+      ],
+      "pulsePointId": "2467131928"
+    },
+    {
       "id": "2026-05-02T21:29:00Z_vancouver/e-hastings-st",
       "timestamp": "2026-05-02T21:29:00Z",
       "address": "E HASTINGS ST",
@@ -264,6 +279,6 @@
       "pulsePointId": "2433305056"
     }
   ],
-  "lastIncident": "2026-05-02T21:29:00Z",
-  "count": 18
+  "lastIncident": "2026-05-04T14:25:00Z",
+  "count": 19
 }
