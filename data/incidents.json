@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-03T23:45:00Z_maple-ridge/dewdney-trunk-rd_maple-ridge/248th-st",
+    "timestamp": "2026-05-03T23:45:00Z",
+    "scrapedAt": "2026-05-04T00:14:16Z",
+    "address": "DEWDNEY TRUNK RD & 248TH ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/dewdney-trunk-rd",
+      "maple-ridge/248th-st"
+    ],
+    "streetNames": [
+      "Dewdney Trunk Rd",
+      "248th St"
+    ],
+    "pulsePointId": "2466794862"
+  },
+  {
     "id": "2026-05-03T22:31:00Z_surrey/58th-ave_surrey/king-george-blvd",
     "timestamp": "2026-05-03T22:31:00Z",
     "scrapedAt": "2026-05-03T22:43:39Z",

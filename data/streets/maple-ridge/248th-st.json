@@ -1,0 +1,24 @@
+{
+  "slug": "maple-ridge/248th-st",
+  "name": "248th St",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-05-03T23:45:00Z_maple-ridge/dewdney-trunk-rd_maple-ridge/248th-st",
+      "timestamp": "2026-05-03T23:45:00Z",
+      "address": "DEWDNEY TRUNK RD & 248TH ST",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/dewdney-trunk-rd",
+        "maple-ridge/248th-st"
+      ],
+      "streetNames": [
+        "Dewdney Trunk Rd",
+        "248th St"
+      ],
+      "pulsePointId": "2466794862"
+    }
+  ],
+  "lastIncident": "2026-05-03T23:45:00Z",
+  "count": 1
+}

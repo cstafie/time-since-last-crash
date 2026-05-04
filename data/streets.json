@@ -318,8 +318,8 @@
     "name": "Dewdney Trunk Rd",
     "slug": "maple-ridge/dewdney-trunk-rd",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-03T21:27:00Z",
-    "count": 14
+    "lastIncident": "2026-05-03T23:45:00Z",
+    "count": 15
   },
   "maple-ridge/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -8642,6 +8642,13 @@
     "slug": "vancouver/highbury-st",
     "city": "Vancouver",
     "lastIncident": "2026-05-03T21:43:00Z",
+    "count": 1
+  },
+  "maple-ridge/248th-st": {
+    "name": "248th St",
+    "slug": "maple-ridge/248th-st",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-05-03T23:45:00Z",
     "count": 1
   }
 }
