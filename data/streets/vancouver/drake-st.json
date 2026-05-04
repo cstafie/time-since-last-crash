@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/drake-st",
+  "name": "Drake St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-04T19:42:00Z_vancouver/drake-st_vancouver/seymour-st",
+      "timestamp": "2026-05-04T19:42:00Z",
+      "address": "DRAKE ST & SEYMOUR ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/drake-st",
+        "vancouver/seymour-st"
+      ],
+      "streetNames": [
+        "Drake St",
+        "Seymour St"
+      ],
+      "pulsePointId": "2467327399"
+    }
+  ],
+  "lastIncident": "2026-05-04T19:42:00Z",
+  "count": 1
+}
