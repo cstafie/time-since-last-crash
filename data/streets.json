@@ -1200,8 +1200,8 @@
     "name": "Se Marine Dr",
     "slug": "vancouver/se-marine-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-05-02T18:58:00Z",
-    "count": 7
+    "lastIncident": "2026-05-05T00:38:00Z",
+    "count": 8
   },
   "vancouver/kerr-st": {
     "name": "Kerr St",
@@ -3790,8 +3790,8 @@
     "name": "Elliott St",
     "slug": "vancouver/elliott-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-15T23:06:00Z",
-    "count": 2
+    "lastIncident": "2026-05-05T00:38:00Z",
+    "count": 3
   },
   "vancouver/melbourne-st": {
     "name": "Melbourne St",

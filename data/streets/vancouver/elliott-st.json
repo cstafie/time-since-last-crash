@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-05T00:38:00Z_vancouver/se-marine-dr_vancouver/elliott-st",
+      "timestamp": "2026-05-05T00:38:00Z",
+      "address": "SE MARINE DR & ELLIOTT ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/se-marine-dr",
+        "vancouver/elliott-st"
+      ],
+      "streetNames": [
+        "Se Marine Dr",
+        "Elliott St"
+      ],
+      "pulsePointId": "2467532075"
+    },
+    {
       "id": "2026-04-15T23:06:00Z_vancouver/elliott-st",
       "timestamp": "2026-04-15T23:06:00Z",
       "address": "ELLIOTT ST",
@@ -32,6 +47,6 @@
       "pulsePointId": "2440342758"
     }
   ],
-  "lastIncident": "2026-04-15T23:06:00Z",
-  "count": 2
+  "lastIncident": "2026-05-05T00:38:00Z",
+  "count": 3
 }

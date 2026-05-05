@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-05T00:38:00Z_vancouver/se-marine-dr_vancouver/elliott-st",
+    "timestamp": "2026-05-05T00:38:00Z",
+    "scrapedAt": "2026-05-05T01:08:44Z",
+    "address": "SE MARINE DR & ELLIOTT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/se-marine-dr",
+      "vancouver/elliott-st"
+    ],
+    "streetNames": [
+      "Se Marine Dr",
+      "Elliott St"
+    ],
+    "pulsePointId": "2467532075"
+  },
+  {
     "id": "2026-05-04T23:35:00Z_surrey/143rd-st_surrey/108th-ave",
     "timestamp": "2026-05-04T23:35:00Z",
     "scrapedAt": "2026-05-04T23:45:25Z",
