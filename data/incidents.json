@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-05T20:26:00Z_surrey/124th-st_surrey/96th-ave",
+    "timestamp": "2026-05-05T20:26:00Z",
+    "scrapedAt": "2026-05-05T20:33:27Z",
+    "address": "124TH ST & 96TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/124th-st",
+      "surrey/96th-ave"
+    ],
+    "streetNames": [
+      "124th St",
+      "96th Ave"
+    ],
+    "pulsePointId": "2468048956"
+  },
+  {
+    "id": "2026-05-05T19:57:00Z_vancouver/w-41st-ave_vancouver/macdonald-st",
+    "timestamp": "2026-05-05T19:57:00Z",
+    "scrapedAt": "2026-05-05T20:33:27Z",
+    "address": "W 41ST AVE & MACDONALD ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-41st-ave",
+      "vancouver/macdonald-st"
+    ],
+    "streetNames": [
+      "W 41st Ave",
+      "Macdonald St"
+    ],
+    "pulsePointId": "2468031279"
+  },
+  {
     "id": "2026-05-05T19:34:00Z_abbotsford/no-3-rd",
     "timestamp": "2026-05-05T19:34:00Z",
     "scrapedAt": "2026-05-05T19:59:59Z",

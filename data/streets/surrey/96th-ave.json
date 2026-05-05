@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-05-05T20:26:00Z_surrey/124th-st_surrey/96th-ave",
+      "timestamp": "2026-05-05T20:26:00Z",
+      "address": "124TH ST & 96TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/124th-st",
+        "surrey/96th-ave"
+      ],
+      "streetNames": [
+        "124th St",
+        "96th Ave"
+      ],
+      "pulsePointId": "2468048956"
+    },
+    {
       "id": "2026-04-21T14:54:00Z_surrey/96th-ave_surrey/176th-st",
       "timestamp": "2026-04-21T14:54:00Z",
       "address": "96TH AVE & 176TH ST",
@@ -256,6 +271,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-21T14:54:00Z",
-  "count": 17
+  "lastIncident": "2026-05-05T20:26:00Z",
+  "count": 18
 }

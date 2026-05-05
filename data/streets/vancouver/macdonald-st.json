@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-05T19:57:00Z_vancouver/w-41st-ave_vancouver/macdonald-st",
+      "timestamp": "2026-05-05T19:57:00Z",
+      "address": "W 41ST AVE & MACDONALD ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-41st-ave",
+        "vancouver/macdonald-st"
+      ],
+      "streetNames": [
+        "W 41st Ave",
+        "Macdonald St"
+      ],
+      "pulsePointId": "2468031279"
+    },
+    {
       "id": "2026-05-02T07:12:00Z_vancouver/macdonald-st",
       "timestamp": "2026-05-02T07:12:00Z",
       "address": "MACDONALD ST",
@@ -62,6 +77,6 @@
       "pulsePointId": "2437967178"
     }
   ],
-  "lastIncident": "2026-05-02T07:12:00Z",
-  "count": 4
+  "lastIncident": "2026-05-05T19:57:00Z",
+  "count": 5
 }
