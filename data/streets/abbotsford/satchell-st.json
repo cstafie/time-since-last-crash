@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/satchell-st",
+  "name": "Satchell St",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-05-05T17:31:00Z_abbotsford/satchell-st",
+      "timestamp": "2026-05-05T17:31:00Z",
+      "address": "SATCHELL ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/satchell-st"
+      ],
+      "streetNames": [
+        "Satchell St"
+      ],
+      "pulsePointId": "2467934953"
+    }
+  ],
+  "lastIncident": "2026-05-05T17:31:00Z",
+  "count": 1
+}
