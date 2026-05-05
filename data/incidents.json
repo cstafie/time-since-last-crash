@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-05-05T22:03:00Z_vancouver/e-hastings-st_vancouver/salsbury-dr",
+    "timestamp": "2026-05-05T22:03:00Z",
+    "scrapedAt": "2026-05-05T22:17:44Z",
+    "address": "E HASTINGS ST & SALSBURY DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-hastings-st",
+      "vancouver/salsbury-dr"
+    ],
+    "streetNames": [
+      "E Hastings St",
+      "Salsbury Dr"
+    ],
+    "pulsePointId": "2468108386"
+  },
+  {
+    "id": "2026-05-05T22:03:00Z_vancouver/e-12th-ave_vancouver/carolina-st",
+    "timestamp": "2026-05-05T22:03:00Z",
+    "scrapedAt": "2026-05-05T22:17:44Z",
+    "address": "E 12TH AVE & CAROLINA ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-12th-ave",
+      "vancouver/carolina-st"
+    ],
+    "streetNames": [
+      "E 12th Ave",
+      "Carolina St"
+    ],
+    "pulsePointId": "2468109723"
+  },
+  {
+    "id": "2026-05-05T22:00:00Z_vancouver/e-12th-ave_vancouver/windsor-st",
+    "timestamp": "2026-05-05T22:00:00Z",
+    "scrapedAt": "2026-05-05T22:17:44Z",
+    "address": "E 12TH AVE & WINDSOR ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-12th-ave",
+      "vancouver/windsor-st"
+    ],
+    "streetNames": [
+      "E 12th Ave",
+      "Windsor St"
+    ],
+    "pulsePointId": "2468108723"
+  },
+  {
     "id": "2026-05-05T21:00:00Z_chilliwack/8180-young-rd",
     "timestamp": "2026-05-05T21:00:00Z",
     "scrapedAt": "2026-05-05T21:19:05Z",

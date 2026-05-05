@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-05T22:03:00Z_vancouver/e-hastings-st_vancouver/salsbury-dr",
+      "timestamp": "2026-05-05T22:03:00Z",
+      "address": "E HASTINGS ST & SALSBURY DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-hastings-st",
+        "vancouver/salsbury-dr"
+      ],
+      "streetNames": [
+        "E Hastings St",
+        "Salsbury Dr"
+      ],
+      "pulsePointId": "2468108386"
+    },
+    {
       "id": "2026-05-04T14:25:00Z_vancouver/boundary-rd_vancouver/e-hastings-st",
       "timestamp": "2026-05-04T14:25:00Z",
       "address": "BOUNDARY RD & E HASTINGS ST",
@@ -279,6 +294,6 @@
       "pulsePointId": "2433305056"
     }
   ],
-  "lastIncident": "2026-05-04T14:25:00Z",
-  "count": 19
+  "lastIncident": "2026-05-05T22:03:00Z",
+  "count": 20
 }

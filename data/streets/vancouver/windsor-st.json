@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/windsor-st",
+  "name": "Windsor St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-05T22:00:00Z_vancouver/e-12th-ave_vancouver/windsor-st",
+      "timestamp": "2026-05-05T22:00:00Z",
+      "address": "E 12TH AVE & WINDSOR ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-12th-ave",
+        "vancouver/windsor-st"
+      ],
+      "streetNames": [
+        "E 12th Ave",
+        "Windsor St"
+      ],
+      "pulsePointId": "2468108723"
+    }
+  ],
+  "lastIncident": "2026-05-05T22:00:00Z",
+  "count": 1
+}

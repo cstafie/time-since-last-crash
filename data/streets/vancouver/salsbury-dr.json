@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/salsbury-dr",
+  "name": "Salsbury Dr",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-05T22:03:00Z_vancouver/e-hastings-st_vancouver/salsbury-dr",
+      "timestamp": "2026-05-05T22:03:00Z",
+      "address": "E HASTINGS ST & SALSBURY DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-hastings-st",
+        "vancouver/salsbury-dr"
+      ],
+      "streetNames": [
+        "E Hastings St",
+        "Salsbury Dr"
+      ],
+      "pulsePointId": "2468108386"
+    }
+  ],
+  "lastIncident": "2026-05-05T22:03:00Z",
+  "count": 1
+}

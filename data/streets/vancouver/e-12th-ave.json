@@ -4,6 +4,36 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-05T22:03:00Z_vancouver/e-12th-ave_vancouver/carolina-st",
+      "timestamp": "2026-05-05T22:03:00Z",
+      "address": "E 12TH AVE & CAROLINA ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-12th-ave",
+        "vancouver/carolina-st"
+      ],
+      "streetNames": [
+        "E 12th Ave",
+        "Carolina St"
+      ],
+      "pulsePointId": "2468109723"
+    },
+    {
+      "id": "2026-05-05T22:00:00Z_vancouver/e-12th-ave_vancouver/windsor-st",
+      "timestamp": "2026-05-05T22:00:00Z",
+      "address": "E 12TH AVE & WINDSOR ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-12th-ave",
+        "vancouver/windsor-st"
+      ],
+      "streetNames": [
+        "E 12th Ave",
+        "Windsor St"
+      ],
+      "pulsePointId": "2468108723"
+    },
+    {
       "id": "2026-04-19T17:39:00Z_vancouver/commercial-dr_vancouver/e-12th-ave",
       "timestamp": "2026-04-19T17:39:00Z",
       "address": "COMMERCIAL DR & E 12TH AVE",
@@ -93,6 +123,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-19T17:39:00Z",
-  "count": 6
+  "lastIncident": "2026-05-05T22:03:00Z",
+  "count": 8
 }
