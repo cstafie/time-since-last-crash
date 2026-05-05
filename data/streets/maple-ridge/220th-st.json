@@ -1,0 +1,24 @@
+{
+  "slug": "maple-ridge/220th-st",
+  "name": "220th St",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-05-05T23:40:00Z_maple-ridge/lougheed-hwy_maple-ridge/220th-st",
+      "timestamp": "2026-05-05T23:40:00Z",
+      "address": "LOUGHEED HWY & 220TH ST",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/lougheed-hwy",
+        "maple-ridge/220th-st"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "220th St"
+      ],
+      "pulsePointId": "2468171759"
+    }
+  ],
+  "lastIncident": "2026-05-05T23:40:00Z",
+  "count": 1
+}

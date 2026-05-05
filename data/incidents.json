@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-05-05T23:40:00Z_maple-ridge/lougheed-hwy_maple-ridge/220th-st",
+    "timestamp": "2026-05-05T23:40:00Z",
+    "scrapedAt": "2026-05-05T23:44:42Z",
+    "address": "LOUGHEED HWY & 220TH ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/lougheed-hwy",
+      "maple-ridge/220th-st"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "220th St"
+    ],
+    "pulsePointId": "2468171759"
+  },
+  {
+    "id": "2026-05-05T23:19:00Z_surrey/trans-canada-hwy",
+    "timestamp": "2026-05-05T23:19:00Z",
+    "scrapedAt": "2026-05-05T23:44:42Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2468159193"
+  },
+  {
+    "id": "2026-05-05T23:18:00Z_richmond/sexsmith-rd_richmond/sea-island-way",
+    "timestamp": "2026-05-05T23:18:00Z",
+    "scrapedAt": "2026-05-05T23:44:42Z",
+    "address": "SEXSMITH RD & SEA ISLAND WAY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/sexsmith-rd",
+      "richmond/sea-island-way"
+    ],
+    "streetNames": [
+      "Sexsmith Rd",
+      "Sea Island Way"
+    ],
+    "pulsePointId": "2468159345"
+  },
+  {
     "id": "2026-05-05T22:03:00Z_vancouver/e-hastings-st_vancouver/salsbury-dr",
     "timestamp": "2026-05-05T22:03:00Z",
     "scrapedAt": "2026-05-05T22:17:44Z",

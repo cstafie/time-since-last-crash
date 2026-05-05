@@ -325,8 +325,8 @@
     "name": "Lougheed Hwy",
     "slug": "maple-ridge/lougheed-hwy",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-04T03:50:00Z",
-    "count": 16
+    "lastIncident": "2026-05-05T23:40:00Z",
+    "count": 17
   },
   "mission/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -682,8 +682,8 @@
     "name": "Trans Canada Hwy",
     "slug": "surrey/trans-canada-hwy",
     "city": "Surrey",
-    "lastIncident": "2026-05-04T21:14:00Z",
-    "count": 16
+    "lastIncident": "2026-05-05T23:19:00Z",
+    "count": 17
   },
   "vancouver/balaclava-st": {
     "name": "Balaclava St",
@@ -2845,8 +2845,8 @@
     "name": "Sexsmith Rd",
     "slug": "richmond/sexsmith-rd",
     "city": "Richmond",
-    "lastIncident": "2026-04-29T23:08:00Z",
-    "count": 6
+    "lastIncident": "2026-05-05T23:18:00Z",
+    "count": 7
   },
   "maple-ridge/kanaka-way": {
     "name": "Kanaka Way",
@@ -5134,8 +5134,8 @@
     "name": "Sea Island Way",
     "slug": "richmond/sea-island-way",
     "city": "Richmond",
-    "lastIncident": "2026-04-08T20:32:00Z",
-    "count": 2
+    "lastIncident": "2026-05-05T23:18:00Z",
+    "count": 3
   },
   "richmond/azure-rd": {
     "name": "Azure Rd",
@@ -8936,6 +8936,13 @@
     "slug": "vancouver/carolina-st",
     "city": "Vancouver",
     "lastIncident": "2026-05-05T22:03:00Z",
+    "count": 1
+  },
+  "maple-ridge/220th-st": {
+    "name": "220th St",
+    "slug": "maple-ridge/220th-st",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-05-05T23:40:00Z",
     "count": 1
   }
 }
