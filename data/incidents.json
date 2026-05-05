@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-05T21:00:00Z_chilliwack/8180-young-rd",
+    "timestamp": "2026-05-05T21:00:00Z",
+    "scrapedAt": "2026-05-05T21:19:05Z",
+    "address": "8180 YOUNG RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/8180-young-rd"
+    ],
+    "streetNames": [
+      "8180 Young Rd"
+    ],
+    "pulsePointId": "2468070666"
+  },
+  {
     "id": "2026-05-05T20:26:00Z_surrey/124th-st_surrey/96th-ave",
     "timestamp": "2026-05-05T20:26:00Z",
     "scrapedAt": "2026-05-05T20:33:27Z",
