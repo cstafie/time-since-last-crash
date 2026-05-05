@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-05T08:55:00Z_west-vancouver/14th-st_west-vancouver/jefferson-ave",
+    "timestamp": "2026-05-05T08:55:00Z",
+    "scrapedAt": "2026-05-05T09:33:21Z",
+    "address": "14TH ST & JEFFERSON AVE",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/14th-st",
+      "west-vancouver/jefferson-ave"
+    ],
+    "streetNames": [
+      "14th St",
+      "Jefferson Ave"
+    ],
+    "pulsePointId": "2467728633"
+  },
+  {
     "id": "2026-05-05T07:44:00Z_surrey/north-bluff-rd",
     "timestamp": "2026-05-05T07:44:00Z",
     "scrapedAt": "2026-05-05T08:41:33Z",
