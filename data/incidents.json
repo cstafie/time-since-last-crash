@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-05T12:31:00Z_delta/nordel-way",
+    "timestamp": "2026-05-05T12:31:00Z",
+    "scrapedAt": "2026-05-05T12:52:49Z",
+    "address": "NORDEL WAY",
+    "city": "Delta",
+    "streets": [
+      "delta/nordel-way"
+    ],
+    "streetNames": [
+      "Nordel Way"
+    ],
+    "pulsePointId": "2467783941"
+  },
+  {
     "id": "2026-05-05T08:55:00Z_west-vancouver/14th-st_west-vancouver/jefferson-ave",
     "timestamp": "2026-05-05T08:55:00Z",
     "scrapedAt": "2026-05-05T09:33:21Z",
