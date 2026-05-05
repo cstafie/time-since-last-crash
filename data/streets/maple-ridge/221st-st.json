@@ -1,0 +1,24 @@
+{
+  "slug": "maple-ridge/221st-st",
+  "name": "221st St",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-05-05T03:41:00Z_maple-ridge/119th-ave_maple-ridge/221st-st",
+      "timestamp": "2026-05-05T03:41:00Z",
+      "address": "119TH AVE & 221ST ST",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/119th-ave",
+        "maple-ridge/221st-st"
+      ],
+      "streetNames": [
+        "119th Ave",
+        "221st St"
+      ],
+      "pulsePointId": "2467629424"
+    }
+  ],
+  "lastIncident": "2026-05-05T03:41:00Z",
+  "count": 1
+}

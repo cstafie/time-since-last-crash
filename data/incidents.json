@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-05T03:41:00Z_maple-ridge/119th-ave_maple-ridge/221st-st",
+    "timestamp": "2026-05-05T03:41:00Z",
+    "scrapedAt": "2026-05-05T05:00:08Z",
+    "address": "119TH AVE & 221ST ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/119th-ave",
+      "maple-ridge/221st-st"
+    ],
+    "streetNames": [
+      "119th Ave",
+      "221st St"
+    ],
+    "pulsePointId": "2467629424"
+  },
+  {
     "id": "2026-05-05T03:02:00Z_surrey/85a-ave_surrey/144th-st",
     "timestamp": "2026-05-05T03:02:00Z",
     "scrapedAt": "2026-05-05T03:41:30Z",
