@@ -1,0 +1,22 @@
+{
+  "slug": "coquitlam/north-rd",
+  "name": "North Rd",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-05-05T14:28:00Z_coquitlam/north-rd",
+      "timestamp": "2026-05-05T14:28:00Z",
+      "address": "NORTH RD",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/north-rd"
+      ],
+      "streetNames": [
+        "North Rd"
+      ],
+      "pulsePointId": "2467826842"
+    }
+  ],
+  "lastIncident": "2026-05-05T14:28:00Z",
+  "count": 1
+}

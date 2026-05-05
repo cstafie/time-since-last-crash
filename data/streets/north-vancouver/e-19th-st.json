@@ -1,0 +1,39 @@
+{
+  "slug": "north-vancouver/e-19th-st",
+  "name": "E 19th St",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-05T16:03:00Z_north-vancouver/queensbury-ave_north-vancouver/e-19th-st",
+      "timestamp": "2026-05-05T16:03:00Z",
+      "address": "QUEENSBURY AVE & E 19TH ST",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/queensbury-ave",
+        "north-vancouver/e-19th-st"
+      ],
+      "streetNames": [
+        "Queensbury Ave",
+        "E 19th St"
+      ],
+      "pulsePointId": "2467876961"
+    },
+    {
+      "id": "2026-05-05T16:03:00Z_north-vancouver/e-19th-st_north-vancouver/grand-blvd",
+      "timestamp": "2026-05-05T16:03:00Z",
+      "address": "E 19TH ST & GRAND BLVD",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/e-19th-st",
+        "north-vancouver/grand-blvd"
+      ],
+      "streetNames": [
+        "E 19th St",
+        "Grand Blvd"
+      ],
+      "pulsePointId": "2467876566"
+    }
+  ],
+  "lastIncident": "2026-05-05T16:03:00Z",
+  "count": 2
+}

@@ -1,6 +1,6 @@
 {
-  "slug": "port-moody/ioco-rd",
-  "name": "Ioco Rd",
+  "slug": "port-moody/guildford-way",
+  "name": "Guildford Way",
   "city": "Port Moody",
   "incidents": [
     {
@@ -17,21 +17,8 @@
         "Guildford Way"
       ],
       "pulsePointId": "2467867970"
-    },
-    {
-      "id": "2026-03-20T19:26:00Z_port-moody/ioco-rd",
-      "timestamp": "2026-03-20T19:26:00Z",
-      "address": "IOCO RD",
-      "city": "Port Moody",
-      "streets": [
-        "port-moody/ioco-rd"
-      ],
-      "streetNames": [
-        "Ioco Rd"
-      ],
-      "pulsePointId": "2438015861"
     }
   ],
   "lastIncident": "2026-05-05T15:48:00Z",
-  "count": 2
+  "count": 1
 }

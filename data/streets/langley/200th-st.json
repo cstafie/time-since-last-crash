@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-05-05T14:54:00Z_langley/200th-st_langley/53rd-ave",
+      "timestamp": "2026-05-05T14:54:00Z",
+      "address": "200TH ST & 53RD AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/200th-st",
+        "langley/53rd-ave"
+      ],
+      "streetNames": [
+        "200th St",
+        "53rd Ave"
+      ],
+      "pulsePointId": "2467839595"
+    },
+    {
       "id": "2026-05-04T06:01:00Z_langley/200th-st_langley/27th-ave",
       "timestamp": "2026-05-04T06:01:00Z",
       "address": "200TH ST & 27TH AVE",
@@ -310,6 +325,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-04T06:01:00Z",
-  "count": 21
+  "lastIncident": "2026-05-05T14:54:00Z",
+  "count": 22
 }

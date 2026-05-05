@@ -1,0 +1,24 @@
+{
+  "slug": "north-vancouver/grand-blvd",
+  "name": "Grand Blvd",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-05T16:03:00Z_north-vancouver/e-19th-st_north-vancouver/grand-blvd",
+      "timestamp": "2026-05-05T16:03:00Z",
+      "address": "E 19TH ST & GRAND BLVD",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/e-19th-st",
+        "north-vancouver/grand-blvd"
+      ],
+      "streetNames": [
+        "E 19th St",
+        "Grand Blvd"
+      ],
+      "pulsePointId": "2467876566"
+    }
+  ],
+  "lastIncident": "2026-05-05T16:03:00Z",
+  "count": 1
+}

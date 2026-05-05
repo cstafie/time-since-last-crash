@@ -1,5 +1,113 @@
 [
   {
+    "id": "2026-05-05T16:03:00Z_north-vancouver/queensbury-ave_north-vancouver/e-19th-st",
+    "timestamp": "2026-05-05T16:03:00Z",
+    "scrapedAt": "2026-05-05T17:03:33Z",
+    "address": "QUEENSBURY AVE & E 19TH ST",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/queensbury-ave",
+      "north-vancouver/e-19th-st"
+    ],
+    "streetNames": [
+      "Queensbury Ave",
+      "E 19th St"
+    ],
+    "pulsePointId": "2467876961"
+  },
+  {
+    "id": "2026-05-05T16:03:00Z_north-vancouver/e-19th-st_north-vancouver/grand-blvd",
+    "timestamp": "2026-05-05T16:03:00Z",
+    "scrapedAt": "2026-05-05T17:03:33Z",
+    "address": "E 19TH ST & GRAND BLVD",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/e-19th-st",
+      "north-vancouver/grand-blvd"
+    ],
+    "streetNames": [
+      "E 19th St",
+      "Grand Blvd"
+    ],
+    "pulsePointId": "2467876566"
+  },
+  {
+    "id": "2026-05-05T15:48:00Z_port-moody/ioco-rd_port-moody/guildford-way",
+    "timestamp": "2026-05-05T15:48:00Z",
+    "scrapedAt": "2026-05-05T17:03:33Z",
+    "address": "IOCO RD & GUILDFORD WAY",
+    "city": "Port Moody",
+    "streets": [
+      "port-moody/ioco-rd",
+      "port-moody/guildford-way"
+    ],
+    "streetNames": [
+      "Ioco Rd",
+      "Guildford Way"
+    ],
+    "pulsePointId": "2467867970"
+  },
+  {
+    "id": "2026-05-05T15:19:00Z_abbotsford/george-ferguson-way_abbotsford/trethewey-st",
+    "timestamp": "2026-05-05T15:19:00Z",
+    "scrapedAt": "2026-05-05T17:03:33Z",
+    "address": "GEORGE FERGUSON WAY & TRETHEWEY ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/george-ferguson-way",
+      "abbotsford/trethewey-st"
+    ],
+    "streetNames": [
+      "George Ferguson Way",
+      "Trethewey St"
+    ],
+    "pulsePointId": "2467851513"
+  },
+  {
+    "id": "2026-05-05T14:54:00Z_langley/200th-st_langley/53rd-ave",
+    "timestamp": "2026-05-05T14:54:00Z",
+    "scrapedAt": "2026-05-05T17:03:33Z",
+    "address": "200TH ST & 53RD AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/200th-st",
+      "langley/53rd-ave"
+    ],
+    "streetNames": [
+      "200th St",
+      "53rd Ave"
+    ],
+    "pulsePointId": "2467839595"
+  },
+  {
+    "id": "2026-05-05T14:28:00Z_coquitlam/north-rd",
+    "timestamp": "2026-05-05T14:28:00Z",
+    "scrapedAt": "2026-05-05T17:03:33Z",
+    "address": "NORTH RD",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/north-rd"
+    ],
+    "streetNames": [
+      "North Rd"
+    ],
+    "pulsePointId": "2467826842"
+  },
+  {
+    "id": "2026-05-05T14:14:00Z_vancouver/granville-st",
+    "timestamp": "2026-05-05T14:14:00Z",
+    "scrapedAt": "2026-05-05T17:03:33Z",
+    "address": "GRANVILLE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st"
+    ],
+    "streetNames": [
+      "Granville St"
+    ],
+    "pulsePointId": "2467823583"
+  },
+  {
     "id": "2026-05-05T12:31:00Z_delta/nordel-way",
     "timestamp": "2026-05-05T12:31:00Z",
     "scrapedAt": "2026-05-05T12:52:49Z",
