@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-05T19:23:00Z_coquitlam/lougheed-hwy_coquitlam/pinetree-way",
+    "timestamp": "2026-05-05T19:23:00Z",
+    "scrapedAt": "2026-05-05T19:28:36Z",
+    "address": "LOUGHEED HWY & PINETREE WAY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/lougheed-hwy",
+      "coquitlam/pinetree-way"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "Pinetree Way"
+    ],
+    "pulsePointId": "2468007459"
+  },
+  {
+    "id": "2026-05-05T19:03:00Z_richmond/birch-st_richmond/ferndale-rd",
+    "timestamp": "2026-05-05T19:03:00Z",
+    "scrapedAt": "2026-05-05T19:28:36Z",
+    "address": "BIRCH ST & FERNDALE RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/birch-st",
+      "richmond/ferndale-rd"
+    ],
+    "streetNames": [
+      "Birch St",
+      "Ferndale Rd"
+    ],
+    "pulsePointId": "2467995351"
+  },
+  {
     "id": "2026-05-05T17:31:00Z_abbotsford/satchell-st",
     "timestamp": "2026-05-05T17:31:00Z",
     "scrapedAt": "2026-05-05T17:59:38Z",

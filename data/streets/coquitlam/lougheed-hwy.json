@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-05-05T19:23:00Z_coquitlam/lougheed-hwy_coquitlam/pinetree-way",
+      "timestamp": "2026-05-05T19:23:00Z",
+      "address": "LOUGHEED HWY & PINETREE WAY",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/lougheed-hwy",
+        "coquitlam/pinetree-way"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "Pinetree Way"
+      ],
+      "pulsePointId": "2468007459"
+    },
+    {
       "id": "2026-04-27T02:54:00Z_coquitlam/lougheed-hwy_coquitlam/blue-mountain-st",
       "timestamp": "2026-04-27T02:54:00Z",
       "address": "LOUGHEED HWY & BLUE MOUNTAIN ST",
@@ -131,6 +146,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-27T02:54:00Z",
-  "count": 9
+  "lastIncident": "2026-05-05T19:23:00Z",
+  "count": 10
 }

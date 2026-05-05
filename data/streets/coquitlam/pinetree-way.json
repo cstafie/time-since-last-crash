@@ -1,0 +1,24 @@
+{
+  "slug": "coquitlam/pinetree-way",
+  "name": "Pinetree Way",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-05-05T19:23:00Z_coquitlam/lougheed-hwy_coquitlam/pinetree-way",
+      "timestamp": "2026-05-05T19:23:00Z",
+      "address": "LOUGHEED HWY & PINETREE WAY",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/lougheed-hwy",
+        "coquitlam/pinetree-way"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "Pinetree Way"
+      ],
+      "pulsePointId": "2468007459"
+    }
+  ],
+  "lastIncident": "2026-05-05T19:23:00Z",
+  "count": 1
+}

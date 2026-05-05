@@ -1116,8 +1116,8 @@
     "name": "Lougheed Hwy",
     "slug": "coquitlam/lougheed-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-04-27T02:54:00Z",
-    "count": 9
+    "lastIncident": "2026-05-05T19:23:00Z",
+    "count": 10
   },
   "coquitlam/orchid-dr": {
     "name": "Orchid Dr",
@@ -8887,6 +8887,27 @@
     "slug": "abbotsford/satchell-st",
     "city": "Abbotsford",
     "lastIncident": "2026-05-05T17:31:00Z",
+    "count": 1
+  },
+  "coquitlam/pinetree-way": {
+    "name": "Pinetree Way",
+    "slug": "coquitlam/pinetree-way",
+    "city": "Coquitlam",
+    "lastIncident": "2026-05-05T19:23:00Z",
+    "count": 1
+  },
+  "richmond/birch-st": {
+    "name": "Birch St",
+    "slug": "richmond/birch-st",
+    "city": "Richmond",
+    "lastIncident": "2026-05-05T19:03:00Z",
+    "count": 1
+  },
+  "richmond/ferndale-rd": {
+    "name": "Ferndale Rd",
+    "slug": "richmond/ferndale-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-05-05T19:03:00Z",
     "count": 1
   }
 }
