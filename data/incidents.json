@@ -1,5 +1,81 @@
 [
   {
+    "id": "2026-05-05T03:02:00Z_surrey/85a-ave_surrey/144th-st",
+    "timestamp": "2026-05-05T03:02:00Z",
+    "scrapedAt": "2026-05-05T03:41:30Z",
+    "address": "85A AVE & 144TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/85a-ave",
+      "surrey/144th-st"
+    ],
+    "streetNames": [
+      "85a Ave",
+      "144th St"
+    ],
+    "pulsePointId": "2467610502"
+  },
+  {
+    "id": "2026-05-05T03:02:00Z_surrey/144th-st_surrey/85a-ave",
+    "timestamp": "2026-05-05T03:02:00Z",
+    "scrapedAt": "2026-05-05T03:41:30Z",
+    "address": "144TH ST & 85A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/144th-st",
+      "surrey/85a-ave"
+    ],
+    "streetNames": [
+      "144th St",
+      "85a Ave"
+    ],
+    "pulsePointId": "2467609778"
+  },
+  {
+    "id": "2026-05-05T02:52:00Z_vancouver/e-waterfront-rd",
+    "timestamp": "2026-05-05T02:52:00Z",
+    "scrapedAt": "2026-05-05T03:41:30Z",
+    "address": "E WATERFRONT RD",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-waterfront-rd"
+    ],
+    "streetNames": [
+      "E Waterfront Rd"
+    ],
+    "pulsePointId": "2467605232"
+  },
+  {
+    "id": "2026-05-05T02:45:00Z_burnaby/4469-kingsway",
+    "timestamp": "2026-05-05T02:45:00Z",
+    "scrapedAt": "2026-05-05T03:41:30Z",
+    "address": "4469 KINGSWAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/4469-kingsway"
+    ],
+    "streetNames": [
+      "4469 Kingsway"
+    ],
+    "pulsePointId": "2467603715"
+  },
+  {
+    "id": "2026-05-05T02:36:00Z_north-vancouver/e-18th-st_north-vancouver/lonsdale-ave",
+    "timestamp": "2026-05-05T02:36:00Z",
+    "scrapedAt": "2026-05-05T03:41:30Z",
+    "address": "E 18TH ST & LONSDALE AVE",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/e-18th-st",
+      "north-vancouver/lonsdale-ave"
+    ],
+    "streetNames": [
+      "E 18th St",
+      "Lonsdale Ave"
+    ],
+    "pulsePointId": "2467596984"
+  },
+  {
     "id": "2026-05-05T00:38:00Z_vancouver/se-marine-dr_vancouver/elliott-st",
     "timestamp": "2026-05-05T00:38:00Z",
     "scrapedAt": "2026-05-05T01:08:44Z",

@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/e-waterfront-rd",
+  "name": "E Waterfront Rd",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-05T02:52:00Z_vancouver/e-waterfront-rd",
+      "timestamp": "2026-05-05T02:52:00Z",
+      "address": "E WATERFRONT RD",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-waterfront-rd"
+      ],
+      "streetNames": [
+        "E Waterfront Rd"
+      ],
+      "pulsePointId": "2467605232"
+    }
+  ],
+  "lastIncident": "2026-05-05T02:52:00Z",
+  "count": 1
+}
