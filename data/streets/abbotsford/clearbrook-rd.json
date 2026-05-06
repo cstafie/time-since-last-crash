@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-05-06T23:05:00Z_abbotsford/joyce-ave_abbotsford/clearbrook-rd",
+      "timestamp": "2026-05-06T23:05:00Z",
+      "address": "JOYCE AVE & CLEARBROOK RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/joyce-ave",
+        "abbotsford/clearbrook-rd"
+      ],
+      "streetNames": [
+        "Joyce Ave",
+        "Clearbrook Rd"
+      ],
+      "pulsePointId": "2468842277"
+    },
+    {
       "id": "2026-04-23T01:56:00Z_abbotsford/hillcrest-ave_abbotsford/clearbrook-rd",
       "timestamp": "2026-04-23T01:56:00Z",
       "address": "HILLCREST AVE & CLEARBROOK RD",
@@ -150,6 +165,6 @@
       "pulsePointId": "2433749907"
     }
   ],
-  "lastIncident": "2026-04-23T01:56:00Z",
-  "count": 10
+  "lastIncident": "2026-05-06T23:05:00Z",
+  "count": 11
 }

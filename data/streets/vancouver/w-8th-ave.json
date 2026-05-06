@@ -4,6 +4,34 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-06T23:09:00Z_vancouver/hemlock-st_vancouver/w-8th-ave",
+      "timestamp": "2026-05-06T23:09:00Z",
+      "address": "HEMLOCK ST & W 8TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/hemlock-st",
+        "vancouver/w-8th-ave"
+      ],
+      "streetNames": [
+        "Hemlock St",
+        "W 8th Ave"
+      ],
+      "pulsePointId": "2468844086"
+    },
+    {
+      "id": "2026-05-06T23:08:00Z_vancouver/w-8th-ave",
+      "timestamp": "2026-05-06T23:08:00Z",
+      "address": "W 8TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-8th-ave"
+      ],
+      "streetNames": [
+        "W 8th Ave"
+      ],
+      "pulsePointId": "2468843802"
+    },
+    {
       "id": "2026-04-17T17:25:00Z_vancouver/w-8th-ave_vancouver/granville-st",
       "timestamp": "2026-04-17T17:25:00Z",
       "address": "W 8TH AVE & GRANVILLE ST",
@@ -49,6 +77,6 @@
       "pulsePointId": "2434984828"
     }
   ],
-  "lastIncident": "2026-04-17T17:25:00Z",
-  "count": 3
+  "lastIncident": "2026-05-06T23:09:00Z",
+  "count": 5
 }

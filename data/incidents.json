@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-05-06T23:09:00Z_vancouver/hemlock-st_vancouver/w-8th-ave",
+    "timestamp": "2026-05-06T23:09:00Z",
+    "scrapedAt": "2026-05-06T23:14:19Z",
+    "address": "HEMLOCK ST & W 8TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/hemlock-st",
+      "vancouver/w-8th-ave"
+    ],
+    "streetNames": [
+      "Hemlock St",
+      "W 8th Ave"
+    ],
+    "pulsePointId": "2468844086"
+  },
+  {
+    "id": "2026-05-06T23:08:00Z_vancouver/w-8th-ave",
+    "timestamp": "2026-05-06T23:08:00Z",
+    "scrapedAt": "2026-05-06T23:14:19Z",
+    "address": "W 8TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-8th-ave"
+    ],
+    "streetNames": [
+      "W 8th Ave"
+    ],
+    "pulsePointId": "2468843802"
+  },
+  {
+    "id": "2026-05-06T23:05:00Z_abbotsford/joyce-ave_abbotsford/clearbrook-rd",
+    "timestamp": "2026-05-06T23:05:00Z",
+    "scrapedAt": "2026-05-06T23:14:19Z",
+    "address": "JOYCE AVE & CLEARBROOK RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/joyce-ave",
+      "abbotsford/clearbrook-rd"
+    ],
+    "streetNames": [
+      "Joyce Ave",
+      "Clearbrook Rd"
+    ],
+    "pulsePointId": "2468842277"
+  },
+  {
+    "id": "2026-05-06T22:26:00Z_vancouver/knight-st",
+    "timestamp": "2026-05-06T22:26:00Z",
+    "scrapedAt": "2026-05-06T23:14:19Z",
+    "address": "KNIGHT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/knight-st"
+    ],
+    "streetNames": [
+      "Knight St"
+    ],
+    "pulsePointId": "2468816530"
+  },
+  {
     "id": "2026-05-06T22:03:00Z_surrey/72nd-ave_surrey/193rd-st",
     "timestamp": "2026-05-06T22:03:00Z",
     "scrapedAt": "2026-05-06T22:14:10Z",

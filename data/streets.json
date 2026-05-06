@@ -752,8 +752,8 @@
     "name": "Knight St",
     "slug": "vancouver/knight-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-06T16:06:00Z",
-    "count": 22
+    "lastIncident": "2026-05-06T22:26:00Z",
+    "count": 23
   },
   "vancouver/lower-mall": {
     "name": "Lower Mall",
@@ -1914,8 +1914,8 @@
     "name": "Clearbrook Rd",
     "slug": "abbotsford/clearbrook-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-23T01:56:00Z",
-    "count": 10
+    "lastIncident": "2026-05-06T23:05:00Z",
+    "count": 11
   },
   "abbotsford/maclure-rd": {
     "name": "Maclure Rd",
@@ -2152,8 +2152,8 @@
     "name": "Hemlock St",
     "slug": "vancouver/hemlock-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-17T00:25:00Z",
-    "count": 3
+    "lastIncident": "2026-05-06T23:09:00Z",
+    "count": 4
   },
   "surrey/22nd-ave": {
     "name": "22nd Ave",
@@ -2264,8 +2264,8 @@
     "name": "W 8th Ave",
     "slug": "vancouver/w-8th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-17T17:25:00Z",
-    "count": 3
+    "lastIncident": "2026-05-06T23:09:00Z",
+    "count": 5
   },
   "vancouver/denman-st": {
     "name": "Denman St",
@@ -8992,6 +8992,13 @@
     "slug": "vancouver/princess-ave",
     "city": "Vancouver",
     "lastIncident": "2026-05-06T21:33:00Z",
+    "count": 1
+  },
+  "abbotsford/joyce-ave": {
+    "name": "Joyce Ave",
+    "slug": "abbotsford/joyce-ave",
+    "city": "Abbotsford",
+    "lastIncident": "2026-05-06T23:05:00Z",
     "count": 1
   }
 }
