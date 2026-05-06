@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-06T18:34:00Z_north-vancouver/capilano-rd_north-vancouver/marine-dr",
+    "timestamp": "2026-05-06T18:34:00Z",
+    "scrapedAt": "2026-05-06T19:05:47Z",
+    "address": "CAPILANO RD & MARINE DR",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/capilano-rd",
+      "north-vancouver/marine-dr"
+    ],
+    "streetNames": [
+      "Capilano Rd",
+      "Marine Dr"
+    ],
+    "pulsePointId": "2468658652"
+  },
+  {
     "id": "2026-05-06T16:06:00Z_vancouver/knight-st",
     "timestamp": "2026-05-06T16:06:00Z",
     "scrapedAt": "2026-05-06T17:00:17Z",
