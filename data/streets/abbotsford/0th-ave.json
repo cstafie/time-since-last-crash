@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/0th-ave",
+  "name": "0th Ave",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-05-06T13:47:00Z_abbotsford/0th-ave_abbotsford/townline-rd",
+      "timestamp": "2026-05-06T13:47:00Z",
+      "address": "0TH AVE & TOWNLINE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/0th-ave",
+        "abbotsford/townline-rd"
+      ],
+      "streetNames": [
+        "0th Ave",
+        "Townline Rd"
+      ],
+      "pulsePointId": "2468493933"
+    }
+  ],
+  "lastIncident": "2026-05-06T13:47:00Z",
+  "count": 1
+}

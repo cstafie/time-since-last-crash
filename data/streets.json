@@ -1067,8 +1067,8 @@
     "name": "Townline Rd",
     "slug": "abbotsford/townline-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-28T04:05:00Z",
-    "count": 2
+    "lastIncident": "2026-05-06T13:47:00Z",
+    "count": 3
   },
   "coquitlam/mariner-way": {
     "name": "Mariner Way",
@@ -8964,6 +8964,20 @@
     "slug": "vancouver/w-52nd-ave",
     "city": "Vancouver",
     "lastIncident": "2026-05-06T07:57:00Z",
+    "count": 1
+  },
+  "delta/hwy-17a-onrp": {
+    "name": "Hwy 17a Onrp",
+    "slug": "delta/hwy-17a-onrp",
+    "city": "Delta",
+    "lastIncident": "2026-05-06T13:33:00Z",
+    "count": 1
+  },
+  "abbotsford/0th-ave": {
+    "name": "0th Ave",
+    "slug": "abbotsford/0th-ave",
+    "city": "Abbotsford",
+    "lastIncident": "2026-05-06T13:47:00Z",
     "count": 1
   }
 }

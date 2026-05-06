@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-06T13:47:00Z_abbotsford/0th-ave_abbotsford/townline-rd",
+    "timestamp": "2026-05-06T13:47:00Z",
+    "scrapedAt": "2026-05-06T14:14:20Z",
+    "address": "0TH AVE & TOWNLINE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/0th-ave",
+      "abbotsford/townline-rd"
+    ],
+    "streetNames": [
+      "0th Ave",
+      "Townline Rd"
+    ],
+    "pulsePointId": "2468493933"
+  },
+  {
+    "id": "2026-05-06T13:33:00Z_delta/hwy-17a-onrp",
+    "timestamp": "2026-05-06T13:33:00Z",
+    "scrapedAt": "2026-05-06T14:14:20Z",
+    "address": "HWY 17A ONRP",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-17a-onrp"
+    ],
+    "streetNames": [
+      "Hwy 17a Onrp"
+    ],
+    "pulsePointId": "2468489843"
+  },
+  {
     "id": "2026-05-06T08:07:00Z_burnaby/canada-way",
     "timestamp": "2026-05-06T08:07:00Z",
     "scrapedAt": "2026-05-06T08:15:25Z",

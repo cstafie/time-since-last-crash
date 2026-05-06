@@ -1,0 +1,22 @@
+{
+  "slug": "delta/hwy-17a-onrp",
+  "name": "Hwy 17a Onrp",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-05-06T13:33:00Z_delta/hwy-17a-onrp",
+      "timestamp": "2026-05-06T13:33:00Z",
+      "address": "HWY 17A ONRP",
+      "city": "Delta",
+      "streets": [
+        "delta/hwy-17a-onrp"
+      ],
+      "streetNames": [
+        "Hwy 17a Onrp"
+      ],
+      "pulsePointId": "2468489843"
+    }
+  ],
+  "lastIncident": "2026-05-06T13:33:00Z",
+  "count": 1
+}
