@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-06T14:35:00Z_pitt-meadows/lougheed-hwy",
+    "timestamp": "2026-05-06T14:35:00Z",
+    "scrapedAt": "2026-05-06T15:17:03Z",
+    "address": "LOUGHEED HWY",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2468515503"
+  },
+  {
     "id": "2026-05-06T13:47:00Z_abbotsford/0th-ave_abbotsford/townline-rd",
     "timestamp": "2026-05-06T13:47:00Z",
     "scrapedAt": "2026-05-06T14:14:20Z",
