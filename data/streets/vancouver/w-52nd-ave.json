@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/w-52nd-ave",
+  "name": "W 52nd Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-06T07:57:00Z_vancouver/granville-st_vancouver/w-52nd-ave",
+      "timestamp": "2026-05-06T07:57:00Z",
+      "address": "GRANVILLE ST & W 52ND AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st",
+        "vancouver/w-52nd-ave"
+      ],
+      "streetNames": [
+        "Granville St",
+        "W 52nd Ave"
+      ],
+      "pulsePointId": "2468398356"
+    }
+  ],
+  "lastIncident": "2026-05-06T07:57:00Z",
+  "count": 1
+}

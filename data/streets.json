@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-05T14:14:00Z",
-    "count": 22
+    "lastIncident": "2026-05-06T07:57:00Z",
+    "count": 23
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -1130,8 +1130,8 @@
     "name": "Canada Way",
     "slug": "burnaby/canada-way",
     "city": "Burnaby",
-    "lastIncident": "2026-05-06T00:00:00Z",
-    "count": 13
+    "lastIncident": "2026-05-06T08:07:00Z",
+    "count": 14
   },
   "burnaby/norland-ave": {
     "name": "Norland Ave",
@@ -8957,6 +8957,13 @@
     "slug": "belcarra/bedwell-bay-rd",
     "city": "Belcarra",
     "lastIncident": "2026-05-06T01:20:00Z",
+    "count": 1
+  },
+  "vancouver/w-52nd-ave": {
+    "name": "W 52nd Ave",
+    "slug": "vancouver/w-52nd-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-06T07:57:00Z",
     "count": 1
   }
 }

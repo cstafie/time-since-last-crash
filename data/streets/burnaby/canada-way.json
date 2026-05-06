@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-06T08:07:00Z_burnaby/canada-way",
+      "timestamp": "2026-05-06T08:07:00Z",
+      "address": "CANADA WAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/canada-way"
+      ],
+      "streetNames": [
+        "Canada Way"
+      ],
+      "pulsePointId": "2468400587"
+    },
+    {
       "id": "2026-05-06T00:00:00Z_burnaby/ledger-ave_burnaby/canada-way",
       "timestamp": "2026-05-06T00:00:00Z",
       "address": "LEDGER AVE & CANADA WAY",
@@ -194,6 +207,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-06T00:00:00Z",
-  "count": 13
+  "lastIncident": "2026-05-06T08:07:00Z",
+  "count": 14
 }

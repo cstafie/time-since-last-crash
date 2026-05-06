@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-06T08:07:00Z_burnaby/canada-way",
+    "timestamp": "2026-05-06T08:07:00Z",
+    "scrapedAt": "2026-05-06T08:15:25Z",
+    "address": "CANADA WAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/canada-way"
+    ],
+    "streetNames": [
+      "Canada Way"
+    ],
+    "pulsePointId": "2468400587"
+  },
+  {
+    "id": "2026-05-06T07:57:00Z_vancouver/granville-st_vancouver/w-52nd-ave",
+    "timestamp": "2026-05-06T07:57:00Z",
+    "scrapedAt": "2026-05-06T08:15:25Z",
+    "address": "GRANVILLE ST & W 52ND AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st",
+      "vancouver/w-52nd-ave"
+    ],
+    "streetNames": [
+      "Granville St",
+      "W 52nd Ave"
+    ],
+    "pulsePointId": "2468398356"
+  },
+  {
     "id": "2026-05-06T01:40:00Z_chilliwack/first-ave_chilliwack/prest-rd",
     "timestamp": "2026-05-06T01:40:00Z",
     "scrapedAt": "2026-05-06T03:43:09Z",
