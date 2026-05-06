@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-06T23:41:00Z_surrey/108th-ave_surrey/150th-st",
+    "timestamp": "2026-05-06T23:41:00Z",
+    "scrapedAt": "2026-05-06T23:45:04Z",
+    "address": "108TH AVE & 150TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/108th-ave",
+      "surrey/150th-st"
+    ],
+    "streetNames": [
+      "108th Ave",
+      "150th St"
+    ],
+    "pulsePointId": "2468864240"
+  },
+  {
+    "id": "2026-05-06T23:17:00Z_vancouver/w-4th-ave_vancouver/fir-st",
+    "timestamp": "2026-05-06T23:17:00Z",
+    "scrapedAt": "2026-05-06T23:45:04Z",
+    "address": "W 4TH AVE & FIR ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-4th-ave",
+      "vancouver/fir-st"
+    ],
+    "streetNames": [
+      "W 4th Ave",
+      "Fir St"
+    ],
+    "pulsePointId": "2468848265"
+  },
+  {
     "id": "2026-05-06T23:09:00Z_vancouver/hemlock-st_vancouver/w-8th-ave",
     "timestamp": "2026-05-06T23:09:00Z",
     "scrapedAt": "2026-05-06T23:14:19Z",

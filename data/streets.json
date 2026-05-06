@@ -521,8 +521,8 @@
     "name": "108th Ave",
     "slug": "surrey/108th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-04T23:35:00Z",
-    "count": 16
+    "lastIncident": "2026-05-06T23:41:00Z",
+    "count": 17
   },
   "surrey/124th-st": {
     "name": "124th St",
@@ -794,8 +794,8 @@
     "name": "W 4th Ave",
     "slug": "vancouver/w-4th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-29T22:38:00Z",
-    "count": 4
+    "lastIncident": "2026-05-06T23:17:00Z",
+    "count": 5
   },
   "vancouver/w-70th-ave": {
     "name": "W 70th Ave",
@@ -2194,8 +2194,8 @@
     "name": "Fir St",
     "slug": "vancouver/fir-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-22T21:15:00Z",
-    "count": 3
+    "lastIncident": "2026-05-06T23:17:00Z",
+    "count": 4
   },
   "vancouver/w-11th-ave": {
     "name": "W 11th Ave",
@@ -3160,8 +3160,8 @@
     "name": "150th St",
     "slug": "surrey/150th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-04T15:08:00Z",
-    "count": 5
+    "lastIncident": "2026-05-06T23:41:00Z",
+    "count": 6
   },
   "mission/knight-ave": {
     "name": "Knight Ave",

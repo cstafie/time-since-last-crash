@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-06T23:17:00Z_vancouver/w-4th-ave_vancouver/fir-st",
+      "timestamp": "2026-05-06T23:17:00Z",
+      "address": "W 4TH AVE & FIR ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-4th-ave",
+        "vancouver/fir-st"
+      ],
+      "streetNames": [
+        "W 4th Ave",
+        "Fir St"
+      ],
+      "pulsePointId": "2468848265"
+    },
+    {
       "id": "2026-04-29T22:38:00Z_vancouver/burrard-st_vancouver/w-4th-ave",
       "timestamp": "2026-04-29T22:38:00Z",
       "address": "BURRARD ST & W 4TH AVE",
@@ -61,6 +76,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-29T22:38:00Z",
-  "count": 4
+  "lastIncident": "2026-05-06T23:17:00Z",
+  "count": 5
 }
