@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-06T22:03:00Z_surrey/72nd-ave_surrey/193rd-st",
+    "timestamp": "2026-05-06T22:03:00Z",
+    "scrapedAt": "2026-05-06T22:14:10Z",
+    "address": "72ND AVE & 193RD ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/72nd-ave",
+      "surrey/193rd-st"
+    ],
+    "streetNames": [
+      "72nd Ave",
+      "193rd St"
+    ],
+    "pulsePointId": "2468800427"
+  },
+  {
+    "id": "2026-05-06T21:33:00Z_vancouver/princess-ave_vancouver/e-cordova-st",
+    "timestamp": "2026-05-06T21:33:00Z",
+    "scrapedAt": "2026-05-06T22:14:10Z",
+    "address": "PRINCESS AVE & E CORDOVA ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/princess-ave",
+      "vancouver/e-cordova-st"
+    ],
+    "streetNames": [
+      "Princess Ave",
+      "E Cordova St"
+    ],
+    "pulsePointId": "2468780224"
+  },
+  {
     "id": "2026-05-06T19:55:00Z_vancouver/e-broadway_vancouver/renfrew-st",
     "timestamp": "2026-05-06T19:55:00Z",
     "scrapedAt": "2026-05-06T20:03:40Z",

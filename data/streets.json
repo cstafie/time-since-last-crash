@@ -3972,8 +3972,8 @@
     "name": "E Cordova St",
     "slug": "vancouver/e-cordova-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-11T22:05:00Z",
-    "count": 3
+    "lastIncident": "2026-05-06T21:33:00Z",
+    "count": 4
   },
   "vancouver/gore-ave": {
     "name": "Gore Ave",
@@ -4518,8 +4518,8 @@
     "name": "72nd Ave",
     "slug": "surrey/72nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-04T19:40:00Z",
-    "count": 8
+    "lastIncident": "2026-05-06T22:03:00Z",
+    "count": 9
   },
   "abbotsford/laurel-st": {
     "name": "Laurel St",
@@ -8978,6 +8978,20 @@
     "slug": "abbotsford/0th-ave",
     "city": "Abbotsford",
     "lastIncident": "2026-05-06T13:47:00Z",
+    "count": 1
+  },
+  "surrey/193rd-st": {
+    "name": "193rd St",
+    "slug": "surrey/193rd-st",
+    "city": "Surrey",
+    "lastIncident": "2026-05-06T22:03:00Z",
+    "count": 1
+  },
+  "vancouver/princess-ave": {
+    "name": "Princess Ave",
+    "slug": "vancouver/princess-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-06T21:33:00Z",
     "count": 1
   }
 }
