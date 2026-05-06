@@ -1130,8 +1130,8 @@
     "name": "Canada Way",
     "slug": "burnaby/canada-way",
     "city": "Burnaby",
-    "lastIncident": "2026-04-30T03:44:00Z",
-    "count": 12
+    "lastIncident": "2026-05-06T00:00:00Z",
+    "count": 13
   },
   "burnaby/norland-ave": {
     "name": "Norland Ave",
@@ -8943,6 +8943,13 @@
     "slug": "maple-ridge/220th-st",
     "city": "Maple Ridge",
     "lastIncident": "2026-05-05T23:40:00Z",
+    "count": 1
+  },
+  "burnaby/ledger-ave": {
+    "name": "Ledger Ave",
+    "slug": "burnaby/ledger-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-05-06T00:00:00Z",
     "count": 1
   }
 }
