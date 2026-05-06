@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-05-06T16:06:00Z_vancouver/knight-st",
+    "timestamp": "2026-05-06T16:06:00Z",
+    "scrapedAt": "2026-05-06T17:00:17Z",
+    "address": "KNIGHT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/knight-st"
+    ],
+    "streetNames": [
+      "Knight St"
+    ],
+    "pulsePointId": "2468566650"
+  },
+  {
+    "id": "2026-05-06T16:06:00Z_surrey/128th-st",
+    "timestamp": "2026-05-06T16:06:00Z",
+    "scrapedAt": "2026-05-06T17:00:17Z",
+    "address": "128TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/128th-st"
+    ],
+    "streetNames": [
+      "128th St"
+    ],
+    "pulsePointId": "2468566537"
+  },
+  {
+    "id": "2026-05-06T15:19:00Z_abbotsford/huntingdon-rd",
+    "timestamp": "2026-05-06T15:19:00Z",
+    "scrapedAt": "2026-05-06T17:00:17Z",
+    "address": "HUNTINGDON RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/huntingdon-rd"
+    ],
+    "streetNames": [
+      "Huntingdon Rd"
+    ],
+    "pulsePointId": "2468540558"
+  },
+  {
     "id": "2026-05-06T14:35:00Z_pitt-meadows/lougheed-hwy",
     "timestamp": "2026-05-06T14:35:00Z",
     "scrapedAt": "2026-05-06T15:17:03Z",

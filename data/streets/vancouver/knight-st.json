@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-06T16:06:00Z_vancouver/knight-st",
+      "timestamp": "2026-05-06T16:06:00Z",
+      "address": "KNIGHT ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/knight-st"
+      ],
+      "streetNames": [
+        "Knight St"
+      ],
+      "pulsePointId": "2468566650"
+    },
+    {
       "id": "2026-05-02T20:11:00Z_vancouver/e-29th-ave_vancouver/knight-st",
       "timestamp": "2026-05-02T20:11:00Z",
       "address": "E 29TH AVE & KNIGHT ST",
@@ -316,6 +329,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-02T20:11:00Z",
-  "count": 21
+  "lastIncident": "2026-05-06T16:06:00Z",
+  "count": 22
 }
