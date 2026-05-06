@@ -2418,8 +2418,8 @@
     "name": "First Ave",
     "slug": "chilliwack/first-ave",
     "city": "Chilliwack",
-    "lastIncident": "2026-04-28T01:07:00Z",
-    "count": 4
+    "lastIncident": "2026-05-06T01:40:00Z",
+    "count": 5
   },
   "coquitlam/trans-canada-hwy-onrp": {
     "name": "Trans Canada Hwy Onrp",
@@ -2663,8 +2663,8 @@
     "name": "Prest Rd",
     "slug": "chilliwack/prest-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-04-22T16:29:00Z",
-    "count": 4
+    "lastIncident": "2026-05-06T01:40:00Z",
+    "count": 5
   },
   "chilliwack/mcguire-rd": {
     "name": "Mcguire Rd",
@@ -8950,6 +8950,13 @@
     "slug": "burnaby/ledger-ave",
     "city": "Burnaby",
     "lastIncident": "2026-05-06T00:00:00Z",
+    "count": 1
+  },
+  "belcarra/bedwell-bay-rd": {
+    "name": "Bedwell Bay Rd",
+    "slug": "belcarra/bedwell-bay-rd",
+    "city": "Belcarra",
+    "lastIncident": "2026-05-06T01:20:00Z",
     "count": 1
   }
 }

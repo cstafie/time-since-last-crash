@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-06T01:40:00Z_chilliwack/first-ave_chilliwack/prest-rd",
+    "timestamp": "2026-05-06T01:40:00Z",
+    "scrapedAt": "2026-05-06T03:43:09Z",
+    "address": "FIRST AVE & PREST RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/first-ave",
+      "chilliwack/prest-rd"
+    ],
+    "streetNames": [
+      "First Ave",
+      "Prest Rd"
+    ],
+    "pulsePointId": "2468242088"
+  },
+  {
+    "id": "2026-05-06T01:20:00Z_belcarra/bedwell-bay-rd",
+    "timestamp": "2026-05-06T01:20:00Z",
+    "scrapedAt": "2026-05-06T03:43:09Z",
+    "address": "BEDWELL BAY RD",
+    "city": "Belcarra",
+    "streets": [
+      "belcarra/bedwell-bay-rd"
+    ],
+    "streetNames": [
+      "Bedwell Bay Rd"
+    ],
+    "pulsePointId": "2468231921"
+  },
+  {
     "id": "2026-05-06T00:00:00Z_burnaby/ledger-ave_burnaby/canada-way",
     "timestamp": "2026-05-06T00:00:00Z",
     "scrapedAt": "2026-05-06T00:15:06Z",

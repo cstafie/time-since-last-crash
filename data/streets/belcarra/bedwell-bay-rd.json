@@ -1,0 +1,22 @@
+{
+  "slug": "belcarra/bedwell-bay-rd",
+  "name": "Bedwell Bay Rd",
+  "city": "Belcarra",
+  "incidents": [
+    {
+      "id": "2026-05-06T01:20:00Z_belcarra/bedwell-bay-rd",
+      "timestamp": "2026-05-06T01:20:00Z",
+      "address": "BEDWELL BAY RD",
+      "city": "Belcarra",
+      "streets": [
+        "belcarra/bedwell-bay-rd"
+      ],
+      "streetNames": [
+        "Bedwell Bay Rd"
+      ],
+      "pulsePointId": "2468231921"
+    }
+  ],
+  "lastIncident": "2026-05-06T01:20:00Z",
+  "count": 1
+}
