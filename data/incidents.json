@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-06T19:55:00Z_vancouver/e-broadway_vancouver/renfrew-st",
+    "timestamp": "2026-05-06T19:55:00Z",
+    "scrapedAt": "2026-05-06T20:03:40Z",
+    "address": "E BROADWAY & RENFREW ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-broadway",
+      "vancouver/renfrew-st"
+    ],
+    "streetNames": [
+      "E Broadway",
+      "Renfrew St"
+    ],
+    "pulsePointId": "2468714870"
+  },
+  {
+    "id": "2026-05-06T19:42:00Z_surrey/64th-ave_surrey/fraser-hwy",
+    "timestamp": "2026-05-06T19:42:00Z",
+    "scrapedAt": "2026-05-06T20:03:40Z",
+    "address": "64TH AVE & FRASER HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/64th-ave",
+      "surrey/fraser-hwy"
+    ],
+    "streetNames": [
+      "64th Ave",
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2468707184"
+  },
+  {
     "id": "2026-05-06T18:34:00Z_north-vancouver/capilano-rd_north-vancouver/marine-dr",
     "timestamp": "2026-05-06T18:34:00Z",
     "scrapedAt": "2026-05-06T19:05:47Z",

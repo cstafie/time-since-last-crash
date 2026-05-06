@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-06T19:55:00Z_vancouver/e-broadway_vancouver/renfrew-st",
+      "timestamp": "2026-05-06T19:55:00Z",
+      "address": "E BROADWAY & RENFREW ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-broadway",
+        "vancouver/renfrew-st"
+      ],
+      "streetNames": [
+        "E Broadway",
+        "Renfrew St"
+      ],
+      "pulsePointId": "2468714870"
+    },
+    {
       "id": "2026-04-28T16:29:00Z_vancouver/renfrew-st_vancouver/e-broadway",
       "timestamp": "2026-04-28T16:29:00Z",
       "address": "RENFREW ST & E BROADWAY",
@@ -184,6 +199,6 @@
       "pulsePointId": "2433781130"
     }
   ],
-  "lastIncident": "2026-04-28T16:29:00Z",
-  "count": 12
+  "lastIncident": "2026-05-06T19:55:00Z",
+  "count": 13
 }

@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-05-06T19:42:00Z_surrey/64th-ave_surrey/fraser-hwy",
+      "timestamp": "2026-05-06T19:42:00Z",
+      "address": "64TH AVE & FRASER HWY",
+      "city": "Surrey",
+      "streets": [
+        "surrey/64th-ave",
+        "surrey/fraser-hwy"
+      ],
+      "streetNames": [
+        "64th Ave",
+        "Fraser Hwy"
+      ],
+      "pulsePointId": "2468707184"
+    },
+    {
       "id": "2026-04-29T16:36:00Z_surrey/64th-ave_surrey/134th-st",
       "timestamp": "2026-04-29T16:36:00Z",
       "address": "64TH AVE & 134TH ST",
@@ -248,6 +263,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-29T16:36:00Z",
-  "count": 17
+  "lastIncident": "2026-05-06T19:42:00Z",
+  "count": 18
 }
