@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-07T22:51:00Z_vancouver/w-36th-ave_vancouver/granville-st",
+      "timestamp": "2026-05-07T22:51:00Z",
+      "address": "W 36TH AVE & GRANVILLE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-36th-ave",
+        "vancouver/granville-st"
+      ],
+      "streetNames": [
+        "W 36th Ave",
+        "Granville St"
+      ],
+      "pulsePointId": "2469513287"
+    },
+    {
       "id": "2026-05-06T07:57:00Z_vancouver/granville-st_vancouver/w-52nd-ave",
       "timestamp": "2026-05-06T07:57:00Z",
       "address": "GRANVILLE ST & W 52ND AVE",
@@ -338,6 +353,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-06T07:57:00Z",
-  "count": 23
+  "lastIncident": "2026-05-07T22:51:00Z",
+  "count": 24
 }
