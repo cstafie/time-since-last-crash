@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-02T20:31:00Z",
-    "count": 26
+    "lastIncident": "2026-05-07T06:18:00Z",
+    "count": 27
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",
@@ -1774,8 +1774,8 @@
     "name": "E Hastings St",
     "slug": "vancouver/e-hastings-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-05T22:03:00Z",
-    "count": 20
+    "lastIncident": "2026-05-07T06:18:00Z",
+    "count": 21
   },
   "abbotsford/king-rd": {
     "name": "King Rd",
