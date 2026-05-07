@@ -269,8 +269,8 @@
     "name": "Trans Canada Hwy",
     "slug": "langley/trans-canada-hwy",
     "city": "Langley",
-    "lastIncident": "2026-04-28T16:10:00Z",
-    "count": 14
+    "lastIncident": "2026-05-07T14:26:00Z",
+    "count": 15
   },
   "maple-ridge/119th-ave": {
     "name": "119th Ave",
@@ -3244,8 +3244,8 @@
     "name": "Macdonald St",
     "slug": "vancouver/macdonald-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-05T19:57:00Z",
-    "count": 5
+    "lastIncident": "2026-05-07T15:16:00Z",
+    "count": 6
   },
   "port-moody/ioco-rd": {
     "name": "Ioco Rd",
@@ -6597,8 +6597,8 @@
     "name": "Sw Marine Dr",
     "slug": "vancouver/sw-marine-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-05-04T21:59:00Z",
-    "count": 5
+    "lastIncident": "2026-05-07T15:16:00Z",
+    "count": 6
   },
   "surrey/54th-ave": {
     "name": "54th Ave",
@@ -9013,6 +9013,13 @@
     "slug": "delta/66th-ave",
     "city": "Delta",
     "lastIncident": "2026-05-07T01:29:00Z",
+    "count": 1
+  },
+  "abbotsford/crescent-way": {
+    "name": "Crescent Way",
+    "slug": "abbotsford/crescent-way",
+    "city": "Abbotsford",
+    "lastIncident": "2026-05-07T15:14:00Z",
     "count": 1
   }
 }

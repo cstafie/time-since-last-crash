@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-05-07T15:16:00Z_vancouver/sw-marine-dr_vancouver/macdonald-st",
+    "timestamp": "2026-05-07T15:16:00Z",
+    "scrapedAt": "2026-05-07T15:22:41Z",
+    "address": "SW MARINE DR & MACDONALD ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/sw-marine-dr",
+      "vancouver/macdonald-st"
+    ],
+    "streetNames": [
+      "Sw Marine Dr",
+      "Macdonald St"
+    ],
+    "pulsePointId": "2469220443"
+  },
+  {
+    "id": "2026-05-07T15:14:00Z_abbotsford/crescent-way",
+    "timestamp": "2026-05-07T15:14:00Z",
+    "scrapedAt": "2026-05-07T15:22:41Z",
+    "address": "CRESCENT WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/crescent-way"
+    ],
+    "streetNames": [
+      "Crescent Way"
+    ],
+    "pulsePointId": "2469218508"
+  },
+  {
+    "id": "2026-05-07T14:26:00Z_langley/trans-canada-hwy",
+    "timestamp": "2026-05-07T14:26:00Z",
+    "scrapedAt": "2026-05-07T15:22:41Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2469197078"
+  },
+  {
     "id": "2026-05-07T13:18:00Z_surrey/56th-ave",
     "timestamp": "2026-05-07T13:18:00Z",
     "scrapedAt": "2026-05-07T14:15:53Z",

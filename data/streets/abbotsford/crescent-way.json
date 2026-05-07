@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/crescent-way",
+  "name": "Crescent Way",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-05-07T15:14:00Z_abbotsford/crescent-way",
+      "timestamp": "2026-05-07T15:14:00Z",
+      "address": "CRESCENT WAY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/crescent-way"
+      ],
+      "streetNames": [
+        "Crescent Way"
+      ],
+      "pulsePointId": "2469218508"
+    }
+  ],
+  "lastIncident": "2026-05-07T15:14:00Z",
+  "count": 1
+}
