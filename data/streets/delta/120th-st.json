@@ -4,6 +4,21 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-05-07T01:29:00Z_delta/66th-ave_delta/120th-st",
+      "timestamp": "2026-05-07T01:29:00Z",
+      "address": "66TH AVE & 120TH ST",
+      "city": "Delta",
+      "streets": [
+        "delta/66th-ave",
+        "delta/120th-st"
+      ],
+      "streetNames": [
+        "66th Ave",
+        "120th St"
+      ],
+      "pulsePointId": "2468930195"
+    },
+    {
       "id": "2026-05-01T23:51:00Z_delta/120th-st_delta/82nd-ave",
       "timestamp": "2026-05-01T23:51:00Z",
       "address": "120TH ST & 82ND AVE",
@@ -164,6 +179,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-01T23:51:00Z",
-  "count": 11
+  "lastIncident": "2026-05-07T01:29:00Z",
+  "count": 12
 }

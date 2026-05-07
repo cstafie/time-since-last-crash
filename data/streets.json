@@ -871,8 +871,8 @@
     "name": "120th St",
     "slug": "delta/120th-st",
     "city": "Delta",
-    "lastIncident": "2026-05-01T23:51:00Z",
-    "count": 11
+    "lastIncident": "2026-05-07T01:29:00Z",
+    "count": 12
   },
   "delta/roberts-bank-rd": {
     "name": "Roberts Bank Rd",
@@ -6065,8 +6065,8 @@
     "name": "W 14th Ave",
     "slug": "vancouver/w-14th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-10T01:13:00Z",
-    "count": 1
+    "lastIncident": "2026-05-07T01:12:00Z",
+    "count": 2
   },
   "vancouver/waterloo-st": {
     "name": "Waterloo St",
@@ -7220,8 +7220,8 @@
     "name": "Yukon St",
     "slug": "vancouver/yukon-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-19T22:52:00Z",
-    "count": 2
+    "lastIncident": "2026-05-07T01:12:00Z",
+    "count": 3
   },
   "surrey/tannery-rd": {
     "name": "Tannery Rd",
@@ -9006,6 +9006,13 @@
     "slug": "richmond/lucas-rd",
     "city": "Richmond",
     "lastIncident": "2026-05-07T00:44:00Z",
+    "count": 1
+  },
+  "delta/66th-ave": {
+    "name": "66th Ave",
+    "slug": "delta/66th-ave",
+    "city": "Delta",
+    "lastIncident": "2026-05-07T01:29:00Z",
     "count": 1
   }
 }

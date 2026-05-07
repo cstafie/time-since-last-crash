@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-07T01:12:00Z_vancouver/w-14th-ave_vancouver/yukon-st",
+      "timestamp": "2026-05-07T01:12:00Z",
+      "address": "W 14TH AVE & YUKON ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-14th-ave",
+        "vancouver/yukon-st"
+      ],
+      "streetNames": [
+        "W 14th Ave",
+        "Yukon St"
+      ],
+      "pulsePointId": "2468920186"
+    },
+    {
       "id": "2026-04-19T22:52:00Z_vancouver/w-7th-ave_vancouver/yukon-st",
       "timestamp": "2026-04-19T22:52:00Z",
       "address": "W 7TH AVE & YUKON ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2457677523"
     }
   ],
-  "lastIncident": "2026-04-19T22:52:00Z",
-  "count": 2
+  "lastIncident": "2026-05-07T01:12:00Z",
+  "count": 3
 }
