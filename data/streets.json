@@ -1767,8 +1767,8 @@
     "name": "South Fraser Way",
     "slug": "abbotsford/south-fraser-way",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-03T18:52:00Z",
-    "count": 17
+    "lastIncident": "2026-05-07T18:14:00Z",
+    "count": 18
   },
   "vancouver/e-hastings-st": {
     "name": "E Hastings St",
@@ -5232,8 +5232,8 @@
     "name": "Gladwin Rd",
     "slug": "abbotsford/gladwin-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-16T17:32:00Z",
-    "count": 4
+    "lastIncident": "2026-05-07T18:14:00Z",
+    "count": 5
   },
   "surrey/old-yale-rd": {
     "name": "Old Yale Rd",

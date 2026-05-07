@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-07T18:14:00Z_abbotsford/south-fraser-way_abbotsford/gladwin-rd",
+    "timestamp": "2026-05-07T18:14:00Z",
+    "scrapedAt": "2026-05-07T19:03:46Z",
+    "address": "SOUTH FRASER WAY & GLADWIN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/south-fraser-way",
+      "abbotsford/gladwin-rd"
+    ],
+    "streetNames": [
+      "South Fraser Way",
+      "Gladwin Rd"
+    ],
+    "pulsePointId": "2469326848"
+  },
+  {
     "id": "2026-05-07T15:16:00Z_vancouver/sw-marine-dr_vancouver/macdonald-st",
     "timestamp": "2026-05-07T15:16:00Z",
     "scrapedAt": "2026-05-07T15:22:41Z",
