@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-07T21:30:00Z_burnaby/trans-canada-hwy_burnaby/gaglardi-way-ofrp",
+    "timestamp": "2026-05-07T21:30:00Z",
+    "scrapedAt": "2026-05-07T21:45:54Z",
+    "address": "TRANS CANADA HWY & GAGLARDI WAY OFRP",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy",
+      "burnaby/gaglardi-way-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "Gaglardi Way Ofrp"
+    ],
+    "pulsePointId": "2469455657"
+  },
+  {
     "id": "2026-05-07T20:21:00Z_richmond/no-2-rd_richmond/blundell-rd",
     "timestamp": "2026-05-07T20:21:00Z",
     "scrapedAt": "2026-05-07T20:34:20Z",
