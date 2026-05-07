@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-07T23:33:00Z_burnaby/boundary-rd_burnaby/dominion-st",
+    "timestamp": "2026-05-07T23:33:00Z",
+    "scrapedAt": "2026-05-07T23:45:21Z",
+    "address": "BOUNDARY RD & DOMINION ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/boundary-rd",
+      "burnaby/dominion-st"
+    ],
+    "streetNames": [
+      "Boundary Rd",
+      "Dominion St"
+    ],
+    "pulsePointId": "2469539304"
+  },
+  {
+    "id": "2026-05-07T23:19:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-05-07T23:19:00Z",
+    "scrapedAt": "2026-05-07T23:45:21Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2469530313"
+  },
+  {
     "id": "2026-05-07T23:08:00Z_abbotsford/townline-rd_abbotsford/maclure-rd",
     "timestamp": "2026-05-07T23:08:00Z",
     "scrapedAt": "2026-05-07T23:16:14Z",

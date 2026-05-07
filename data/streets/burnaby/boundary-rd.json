@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-07T23:33:00Z_burnaby/boundary-rd_burnaby/dominion-st",
+      "timestamp": "2026-05-07T23:33:00Z",
+      "address": "BOUNDARY RD & DOMINION ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/boundary-rd",
+        "burnaby/dominion-st"
+      ],
+      "streetNames": [
+        "Boundary Rd",
+        "Dominion St"
+      ],
+      "pulsePointId": "2469539304"
+    },
+    {
       "id": "2026-04-10T01:59:00Z_burnaby/moscrop-st_burnaby/boundary-rd",
       "timestamp": "2026-04-10T01:59:00Z",
       "address": "MOSCROP ST & BOUNDARY RD",
@@ -77,6 +92,6 @@
       "pulsePointId": "2436452941"
     }
   ],
-  "lastIncident": "2026-04-10T01:59:00Z",
-  "count": 5
+  "lastIncident": "2026-05-07T23:33:00Z",
+  "count": 6
 }
