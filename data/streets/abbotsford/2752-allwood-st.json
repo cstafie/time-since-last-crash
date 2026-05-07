@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/2752-allwood-st",
+  "name": "2752 Allwood St",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-05-07T20:01:00Z_abbotsford/2752-allwood-st",
+      "timestamp": "2026-05-07T20:01:00Z",
+      "address": "2752 ALLWOOD ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/2752-allwood-st"
+      ],
+      "streetNames": [
+        "2752 Allwood St"
+      ],
+      "pulsePointId": "2469397163"
+    }
+  ],
+  "lastIncident": "2026-05-07T20:01:00Z",
+  "count": 1
+}

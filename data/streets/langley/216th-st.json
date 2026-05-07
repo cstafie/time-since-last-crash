@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-05-07T20:09:00Z_langley/216th-st_langley/96th-ave",
+      "timestamp": "2026-05-07T20:09:00Z",
+      "address": "216TH ST & 96TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/216th-st",
+        "langley/96th-ave"
+      ],
+      "streetNames": [
+        "216th St",
+        "96th Ave"
+      ],
+      "pulsePointId": "2469402987"
+    },
+    {
       "id": "2026-04-24T21:59:00Z_langley/216th-st",
       "timestamp": "2026-04-24T21:59:00Z",
       "address": "216TH ST",
@@ -90,6 +105,6 @@
       "pulsePointId": "2436047549"
     }
   ],
-  "lastIncident": "2026-04-24T21:59:00Z",
-  "count": 6
+  "lastIncident": "2026-05-07T20:09:00Z",
+  "count": 7
 }

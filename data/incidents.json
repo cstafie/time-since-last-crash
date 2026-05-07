@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-05-07T20:21:00Z_richmond/no-2-rd_richmond/blundell-rd",
+    "timestamp": "2026-05-07T20:21:00Z",
+    "scrapedAt": "2026-05-07T20:34:20Z",
+    "address": "NO 2 RD & BLUNDELL RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/no-2-rd",
+      "richmond/blundell-rd"
+    ],
+    "streetNames": [
+      "No 2 Rd",
+      "Blundell Rd"
+    ],
+    "pulsePointId": "2469410337"
+  },
+  {
+    "id": "2026-05-07T20:09:00Z_langley/216th-st_langley/96th-ave",
+    "timestamp": "2026-05-07T20:09:00Z",
+    "scrapedAt": "2026-05-07T20:34:20Z",
+    "address": "216TH ST & 96TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/216th-st",
+      "langley/96th-ave"
+    ],
+    "streetNames": [
+      "216th St",
+      "96th Ave"
+    ],
+    "pulsePointId": "2469402987"
+  },
+  {
+    "id": "2026-05-07T20:01:00Z_abbotsford/2752-allwood-st",
+    "timestamp": "2026-05-07T20:01:00Z",
+    "scrapedAt": "2026-05-07T20:34:20Z",
+    "address": "2752 ALLWOOD ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/2752-allwood-st"
+    ],
+    "streetNames": [
+      "2752 Allwood St"
+    ],
+    "pulsePointId": "2469397163"
+  },
+  {
     "id": "2026-05-07T18:14:00Z_abbotsford/south-fraser-way_abbotsford/gladwin-rd",
     "timestamp": "2026-05-07T18:14:00Z",
     "scrapedAt": "2026-05-07T19:03:46Z",

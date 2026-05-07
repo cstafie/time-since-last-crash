@@ -437,8 +437,8 @@
     "name": "Blundell Rd",
     "slug": "richmond/blundell-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-02T02:02:00Z",
-    "count": 9
+    "lastIncident": "2026-05-07T20:21:00Z",
+    "count": 10
   },
   "richmond/bowcock-rd": {
     "name": "Bowcock Rd",
@@ -479,8 +479,8 @@
     "name": "No 2 Rd",
     "slug": "richmond/no-2-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-04T17:03:00Z",
-    "count": 6
+    "lastIncident": "2026-05-07T20:21:00Z",
+    "count": 7
   },
   "richmond/no-3-rd": {
     "name": "No 3 Rd",
@@ -2642,8 +2642,8 @@
     "name": "216th St",
     "slug": "langley/216th-st",
     "city": "Langley",
-    "lastIncident": "2026-04-24T21:59:00Z",
-    "count": 6
+    "lastIncident": "2026-05-07T20:09:00Z",
+    "count": 7
   },
   "surrey/87th-ave": {
     "name": "87th Ave",
@@ -4063,8 +4063,8 @@
     "name": "96th Ave",
     "slug": "langley/96th-ave",
     "city": "Langley",
-    "lastIncident": "2026-04-20T23:48:00Z",
-    "count": 3
+    "lastIncident": "2026-05-07T20:09:00Z",
+    "count": 4
   },
   "coquitlam/honeysuckle-lane": {
     "name": "Honeysuckle Lane",
@@ -9020,6 +9020,13 @@
     "slug": "abbotsford/crescent-way",
     "city": "Abbotsford",
     "lastIncident": "2026-05-07T15:14:00Z",
+    "count": 1
+  },
+  "abbotsford/2752-allwood-st": {
+    "name": "2752 Allwood St",
+    "slug": "abbotsford/2752-allwood-st",
+    "city": "Abbotsford",
+    "lastIncident": "2026-05-07T20:01:00Z",
     "count": 1
   }
 }
