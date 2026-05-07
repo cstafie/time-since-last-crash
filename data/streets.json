@@ -2390,8 +2390,8 @@
     "name": "56th Ave",
     "slug": "surrey/56th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-07T13:18:00Z",
-    "count": 13
+    "lastIncident": "2026-05-07T21:57:00Z",
+    "count": 14
   },
   "port-moody/grant-st": {
     "name": "Grant St",
@@ -8172,8 +8172,8 @@
     "name": "176a St",
     "slug": "surrey/176a-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-30T01:09:00Z",
-    "count": 1
+    "lastIncident": "2026-05-07T21:57:00Z",
+    "count": 2
   },
   "vancouver/w-38th-ave": {
     "name": "W 38th Ave",
@@ -9034,6 +9034,13 @@
     "slug": "burnaby/gaglardi-way-ofrp",
     "city": "Burnaby",
     "lastIncident": "2026-05-07T21:30:00Z",
+    "count": 1
+  },
+  "abbotsford/primrose-st": {
+    "name": "Primrose St",
+    "slug": "abbotsford/primrose-st",
+    "city": "Abbotsford",
+    "lastIncident": "2026-05-07T22:08:00Z",
     "count": 1
   }
 }

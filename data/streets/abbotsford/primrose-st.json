@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/primrose-st",
+  "name": "Primrose St",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-05-07T22:08:00Z_abbotsford/primrose-st",
+      "timestamp": "2026-05-07T22:08:00Z",
+      "address": "PRIMROSE ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/primrose-st"
+      ],
+      "streetNames": [
+        "Primrose St"
+      ],
+      "pulsePointId": "2469481814"
+    }
+  ],
+  "lastIncident": "2026-05-07T22:08:00Z",
+  "count": 1
+}

@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-07T22:08:00Z_abbotsford/primrose-st",
+    "timestamp": "2026-05-07T22:08:00Z",
+    "scrapedAt": "2026-05-07T22:19:10Z",
+    "address": "PRIMROSE ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/primrose-st"
+    ],
+    "streetNames": [
+      "Primrose St"
+    ],
+    "pulsePointId": "2469481814"
+  },
+  {
+    "id": "2026-05-07T21:57:00Z_surrey/56th-ave_surrey/176a-st",
+    "timestamp": "2026-05-07T21:57:00Z",
+    "scrapedAt": "2026-05-07T22:19:10Z",
+    "address": "56TH AVE & 176A ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/56th-ave",
+      "surrey/176a-st"
+    ],
+    "streetNames": [
+      "56th Ave",
+      "176a St"
+    ],
+    "pulsePointId": "2469473869"
+  },
+  {
     "id": "2026-05-07T21:30:00Z_burnaby/trans-canada-hwy_burnaby/gaglardi-way-ofrp",
     "timestamp": "2026-05-07T21:30:00Z",
     "scrapedAt": "2026-05-07T21:45:54Z",
