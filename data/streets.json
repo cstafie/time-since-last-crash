@@ -556,8 +556,8 @@
     "name": "140th St",
     "slug": "surrey/140th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-03T00:46:00Z",
-    "count": 18
+    "lastIncident": "2026-05-07T22:29:00Z",
+    "count": 19
   },
   "surrey/141a-st": {
     "name": "141a St",
@@ -1914,8 +1914,8 @@
     "name": "Clearbrook Rd",
     "slug": "abbotsford/clearbrook-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-06T23:05:00Z",
-    "count": 11
+    "lastIncident": "2026-05-07T22:41:00Z",
+    "count": 12
   },
   "abbotsford/maclure-rd": {
     "name": "Maclure Rd",
@@ -9041,6 +9041,20 @@
     "slug": "abbotsford/primrose-st",
     "city": "Abbotsford",
     "lastIncident": "2026-05-07T22:08:00Z",
+    "count": 1
+  },
+  "surrey/green-timbers-way": {
+    "name": "Green Timbers Way",
+    "slug": "surrey/green-timbers-way",
+    "city": "Surrey",
+    "lastIncident": "2026-05-07T22:29:00Z",
+    "count": 1
+  },
+  "abbotsford/charlotte-ave": {
+    "name": "Charlotte Ave",
+    "slug": "abbotsford/charlotte-ave",
+    "city": "Abbotsford",
+    "lastIncident": "2026-05-07T22:41:00Z",
     "count": 1
   }
 }

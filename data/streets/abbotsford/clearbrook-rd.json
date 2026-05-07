@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-05-07T22:41:00Z_abbotsford/charlotte-ave_abbotsford/clearbrook-rd",
+      "timestamp": "2026-05-07T22:41:00Z",
+      "address": "CHARLOTTE AVE & CLEARBROOK RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/charlotte-ave",
+        "abbotsford/clearbrook-rd"
+      ],
+      "streetNames": [
+        "Charlotte Ave",
+        "Clearbrook Rd"
+      ],
+      "pulsePointId": "2469505589"
+    },
+    {
       "id": "2026-05-06T23:05:00Z_abbotsford/joyce-ave_abbotsford/clearbrook-rd",
       "timestamp": "2026-05-06T23:05:00Z",
       "address": "JOYCE AVE & CLEARBROOK RD",
@@ -165,6 +180,6 @@
       "pulsePointId": "2433749907"
     }
   ],
-  "lastIncident": "2026-05-06T23:05:00Z",
-  "count": 11
+  "lastIncident": "2026-05-07T22:41:00Z",
+  "count": 12
 }

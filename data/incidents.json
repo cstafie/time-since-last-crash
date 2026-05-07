@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-07T22:41:00Z_abbotsford/charlotte-ave_abbotsford/clearbrook-rd",
+    "timestamp": "2026-05-07T22:41:00Z",
+    "scrapedAt": "2026-05-07T22:46:36Z",
+    "address": "CHARLOTTE AVE & CLEARBROOK RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/charlotte-ave",
+      "abbotsford/clearbrook-rd"
+    ],
+    "streetNames": [
+      "Charlotte Ave",
+      "Clearbrook Rd"
+    ],
+    "pulsePointId": "2469505589"
+  },
+  {
+    "id": "2026-05-07T22:29:00Z_surrey/green-timbers-way_surrey/140th-st",
+    "timestamp": "2026-05-07T22:29:00Z",
+    "scrapedAt": "2026-05-07T22:46:36Z",
+    "address": "GREEN TIMBERS WAY & 140TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/green-timbers-way",
+      "surrey/140th-st"
+    ],
+    "streetNames": [
+      "Green Timbers Way",
+      "140th St"
+    ],
+    "pulsePointId": "2469497308"
+  },
+  {
     "id": "2026-05-07T22:08:00Z_abbotsford/primrose-st",
     "timestamp": "2026-05-07T22:08:00Z",
     "scrapedAt": "2026-05-07T22:19:10Z",
