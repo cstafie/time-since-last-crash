@@ -6205,8 +6205,8 @@
     "name": "Harris Rd",
     "slug": "abbotsford/harris-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-16T17:32:00Z",
-    "count": 3
+    "lastIncident": "2026-05-07T00:43:00Z",
+    "count": 4
   },
   "north-vancouver/capilano-road-onrp": {
     "name": "Capilano Road Onrp",
@@ -8999,6 +8999,13 @@
     "slug": "abbotsford/joyce-ave",
     "city": "Abbotsford",
     "lastIncident": "2026-05-06T23:05:00Z",
+    "count": 1
+  },
+  "richmond/lucas-rd": {
+    "name": "Lucas Rd",
+    "slug": "richmond/lucas-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-05-07T00:44:00Z",
     "count": 1
   }
 }

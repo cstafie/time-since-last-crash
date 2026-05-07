@@ -1,0 +1,22 @@
+{
+  "slug": "richmond/lucas-rd",
+  "name": "Lucas Rd",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-05-07T00:44:00Z_richmond/lucas-rd",
+      "timestamp": "2026-05-07T00:44:00Z",
+      "address": "LUCAS RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/lucas-rd"
+      ],
+      "streetNames": [
+        "Lucas Rd"
+      ],
+      "pulsePointId": "2468905160"
+    }
+  ],
+  "lastIncident": "2026-05-07T00:44:00Z",
+  "count": 1
+}

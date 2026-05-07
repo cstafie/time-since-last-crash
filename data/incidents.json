@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-05-07T00:44:00Z_richmond/lucas-rd",
+    "timestamp": "2026-05-07T00:44:00Z",
+    "scrapedAt": "2026-05-07T01:12:51Z",
+    "address": "LUCAS RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/lucas-rd"
+    ],
+    "streetNames": [
+      "Lucas Rd"
+    ],
+    "pulsePointId": "2468905160"
+  },
+  {
+    "id": "2026-05-07T00:43:00Z_abbotsford/harris-rd",
+    "timestamp": "2026-05-07T00:43:00Z",
+    "scrapedAt": "2026-05-07T01:12:51Z",
+    "address": "HARRIS RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/harris-rd"
+    ],
+    "streetNames": [
+      "Harris Rd"
+    ],
+    "pulsePointId": "2468903645"
+  },
+  {
     "id": "2026-05-06T23:41:00Z_surrey/108th-ave_surrey/150th-st",
     "timestamp": "2026-05-06T23:41:00Z",
     "scrapedAt": "2026-05-06T23:45:04Z",
