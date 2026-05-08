@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-05-08T07:58:00Z_maple-ridge/203rd-st_maple-ridge/dewdney-trunk-rd",
+      "timestamp": "2026-05-08T07:58:00Z",
+      "address": "203RD ST & DEWDNEY TRUNK RD",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/203rd-st",
+        "maple-ridge/dewdney-trunk-rd"
+      ],
+      "streetNames": [
+        "203rd St",
+        "Dewdney Trunk Rd"
+      ],
+      "pulsePointId": "2469774646"
+    },
+    {
       "id": "2026-05-03T23:45:00Z_maple-ridge/dewdney-trunk-rd_maple-ridge/248th-st",
       "timestamp": "2026-05-03T23:45:00Z",
       "address": "DEWDNEY TRUNK RD & 248TH ST",
@@ -224,6 +239,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-03T23:45:00Z",
-  "count": 15
+  "lastIncident": "2026-05-08T07:58:00Z",
+  "count": 16
 }

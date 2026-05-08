@@ -283,8 +283,8 @@
     "name": "203rd St",
     "slug": "maple-ridge/203rd-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-04T22:48:00Z",
-    "count": 2
+    "lastIncident": "2026-05-08T07:58:00Z",
+    "count": 3
   },
   "maple-ridge/207th-st": {
     "name": "207th St",
@@ -318,8 +318,8 @@
     "name": "Dewdney Trunk Rd",
     "slug": "maple-ridge/dewdney-trunk-rd",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-03T23:45:00Z",
-    "count": 15
+    "lastIncident": "2026-05-08T07:58:00Z",
+    "count": 16
   },
   "maple-ridge/lougheed-hwy": {
     "name": "Lougheed Hwy",
