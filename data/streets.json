@@ -199,8 +199,8 @@
     "name": "Ladner Trunk Rd",
     "slug": "delta/ladner-trunk-rd",
     "city": "Delta",
-    "lastIncident": "2026-05-01T19:06:00Z",
-    "count": 7
+    "lastIncident": "2026-05-08T10:05:00Z",
+    "count": 8
   },
   "langley/216th-street-ofrp": {
     "name": "216th Street Ofrp",
@@ -9076,6 +9076,13 @@
     "slug": "coquitlam/lea-ave",
     "city": "Coquitlam",
     "lastIncident": "2026-05-08T06:03:00Z",
+    "count": 1
+  },
+  "delta/96th-st": {
+    "name": "96th St",
+    "slug": "delta/96th-st",
+    "city": "Delta",
+    "lastIncident": "2026-05-08T10:05:00Z",
     "count": 1
   }
 }
