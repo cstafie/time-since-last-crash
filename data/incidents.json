@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-08T20:44:00Z_surrey/148th-st_surrey/72nd-ave",
+    "timestamp": "2026-05-08T20:44:00Z",
+    "scrapedAt": "2026-05-08T20:46:20Z",
+    "address": "148TH ST & 72ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/148th-st",
+      "surrey/72nd-ave"
+    ],
+    "streetNames": [
+      "148th St",
+      "72nd Ave"
+    ],
+    "pulsePointId": "2470126907"
+  },
+  {
+    "id": "2026-05-08T20:27:00Z_delta/hwy-17a_delta/ladner-trunk-rd",
+    "timestamp": "2026-05-08T20:27:00Z",
+    "scrapedAt": "2026-05-08T20:46:20Z",
+    "address": "HWY 17A & LADNER TRUNK RD",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-17a",
+      "delta/ladner-trunk-rd"
+    ],
+    "streetNames": [
+      "Hwy 17a",
+      "Ladner Trunk Rd"
+    ],
+    "pulsePointId": "2470115591"
+  },
+  {
     "id": "2026-05-08T20:12:00Z_delta/120th-st_delta/70th-ave",
     "timestamp": "2026-05-08T20:12:00Z",
     "scrapedAt": "2026-05-08T20:24:45Z",
