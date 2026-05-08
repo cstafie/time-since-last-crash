@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-08T21:12:00Z_vancouver/e-broadway_vancouver/garden-dr",
+      "timestamp": "2026-05-08T21:12:00Z",
+      "address": "E BROADWAY & GARDEN DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-broadway",
+        "vancouver/garden-dr"
+      ],
+      "streetNames": [
+        "E Broadway",
+        "Garden Dr"
+      ],
+      "pulsePointId": "2470147333"
+    },
+    {
       "id": "2026-03-31T22:56:00Z_vancouver/e-broadway_vancouver/garden-dr",
       "timestamp": "2026-03-31T22:56:00Z",
       "address": "E BROADWAY & GARDEN DR",
@@ -34,6 +49,6 @@
       "pulsePointId": "2438160406"
     }
   ],
-  "lastIncident": "2026-03-31T22:56:00Z",
-  "count": 2
+  "lastIncident": "2026-05-08T21:12:00Z",
+  "count": 3
 }

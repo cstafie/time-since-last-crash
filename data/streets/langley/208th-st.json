@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-05-08T20:54:00Z_langley/208th-st_langley/84th-ave",
+      "timestamp": "2026-05-08T20:54:00Z",
+      "address": "208TH ST & 84TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/208th-st",
+        "langley/84th-ave"
+      ],
+      "streetNames": [
+        "208th St",
+        "84th Ave"
+      ],
+      "pulsePointId": "2470135093"
+    },
+    {
       "id": "2026-05-03T16:46:00Z_langley/fraser-hwy_langley/208th-st",
       "timestamp": "2026-05-03T16:46:00Z",
       "address": "FRASER HWY & 208TH ST",
@@ -94,6 +109,6 @@
       "pulsePointId": "2444669082"
     }
   ],
-  "lastIncident": "2026-05-03T16:46:00Z",
-  "count": 6
+  "lastIncident": "2026-05-08T20:54:00Z",
+  "count": 7
 }

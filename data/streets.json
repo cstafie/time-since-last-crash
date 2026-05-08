@@ -297,8 +297,8 @@
     "name": "227th St",
     "slug": "maple-ridge/227th-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-03-11T02:29:00Z",
-    "count": 2
+    "lastIncident": "2026-05-08T21:05:00Z",
+    "count": 3
   },
   "maple-ridge/228th-st": {
     "name": "228th St",
@@ -325,8 +325,8 @@
     "name": "Lougheed Hwy",
     "slug": "maple-ridge/lougheed-hwy",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-05T23:40:00Z",
-    "count": 17
+    "lastIncident": "2026-05-08T21:05:00Z",
+    "count": 18
   },
   "mission/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -2467,8 +2467,8 @@
     "name": "E Broadway",
     "slug": "vancouver/e-broadway",
     "city": "Vancouver",
-    "lastIncident": "2026-05-06T19:55:00Z",
-    "count": 12
+    "lastIncident": "2026-05-08T21:12:00Z",
+    "count": 13
   },
   "maple-ridge/240th-st": {
     "name": "240th St",
@@ -3342,8 +3342,8 @@
     "name": "Garden Dr",
     "slug": "vancouver/garden-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-03-31T22:56:00Z",
-    "count": 2
+    "lastIncident": "2026-05-08T21:12:00Z",
+    "count": 3
   },
   "vancouver/grandview-hwy-s": {
     "name": "Grandview Hwy S",
@@ -4546,8 +4546,8 @@
     "name": "208th St",
     "slug": "langley/208th-st",
     "city": "Langley",
-    "lastIncident": "2026-05-03T16:46:00Z",
-    "count": 6
+    "lastIncident": "2026-05-08T20:54:00Z",
+    "count": 7
   },
   "langley/46a-ave": {
     "name": "46a Ave",
@@ -8452,8 +8452,8 @@
     "name": "84th Ave",
     "slug": "langley/84th-ave",
     "city": "Langley",
-    "lastIncident": "2026-05-01T23:44:00Z",
-    "count": 1
+    "lastIncident": "2026-05-08T20:54:00Z",
+    "count": 2
   },
   "langley/202b-st": {
     "name": "202b St",

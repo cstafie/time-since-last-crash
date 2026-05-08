@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-05-08T21:12:00Z_vancouver/e-broadway_vancouver/garden-dr",
+    "timestamp": "2026-05-08T21:12:00Z",
+    "scrapedAt": "2026-05-08T21:19:23Z",
+    "address": "E BROADWAY & GARDEN DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-broadway",
+      "vancouver/garden-dr"
+    ],
+    "streetNames": [
+      "E Broadway",
+      "Garden Dr"
+    ],
+    "pulsePointId": "2470147333"
+  },
+  {
+    "id": "2026-05-08T21:05:00Z_maple-ridge/lougheed-hwy_maple-ridge/227th-st",
+    "timestamp": "2026-05-08T21:05:00Z",
+    "scrapedAt": "2026-05-08T21:19:23Z",
+    "address": "LOUGHEED HWY & 227TH ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/lougheed-hwy",
+      "maple-ridge/227th-st"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "227th St"
+    ],
+    "pulsePointId": "2470141585"
+  },
+  {
+    "id": "2026-05-08T20:54:00Z_langley/208th-st_langley/84th-ave",
+    "timestamp": "2026-05-08T20:54:00Z",
+    "scrapedAt": "2026-05-08T21:19:23Z",
+    "address": "208TH ST & 84TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/208th-st",
+      "langley/84th-ave"
+    ],
+    "streetNames": [
+      "208th St",
+      "84th Ave"
+    ],
+    "pulsePointId": "2470135093"
+  },
+  {
     "id": "2026-05-08T20:44:00Z_surrey/148th-st_surrey/72nd-ave",
     "timestamp": "2026-05-08T20:44:00Z",
     "scrapedAt": "2026-05-08T20:46:20Z",
