@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-05-08T22:07:00Z_surrey/152nd-street-ofrp",
+    "timestamp": "2026-05-08T22:07:00Z",
+    "scrapedAt": "2026-05-08T22:17:15Z",
+    "address": "152ND STREET OFRP",
+    "city": "Surrey",
+    "streets": [
+      "surrey/152nd-street-ofrp"
+    ],
+    "streetNames": [
+      "152nd Street Ofrp"
+    ],
+    "pulsePointId": "2470184891"
+  },
+  {
+    "id": "2026-05-08T21:54:00Z_maple-ridge/dewdney-trunk-rd",
+    "timestamp": "2026-05-08T21:54:00Z",
+    "scrapedAt": "2026-05-08T22:17:15Z",
+    "address": "DEWDNEY TRUNK RD",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2470176377"
+  },
+  {
+    "id": "2026-05-08T21:54:00Z_delta/hwy-17",
+    "timestamp": "2026-05-08T21:54:00Z",
+    "scrapedAt": "2026-05-08T22:17:15Z",
+    "address": "HWY 17",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-17"
+    ],
+    "streetNames": [
+      "Hwy 17"
+    ],
+    "pulsePointId": "2470175729"
+  },
+  {
     "id": "2026-05-08T21:12:00Z_vancouver/e-broadway_vancouver/garden-dr",
     "timestamp": "2026-05-08T21:12:00Z",
     "scrapedAt": "2026-05-08T21:19:23Z",
