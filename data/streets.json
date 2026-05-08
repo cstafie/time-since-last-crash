@@ -9105,5 +9105,12 @@
     "city": "Mission",
     "lastIncident": "2026-05-08T15:44:00Z",
     "count": 2
+  },
+  "burnaby/noel-dr": {
+    "name": "Noel Dr",
+    "slug": "burnaby/noel-dr",
+    "city": "Burnaby",
+    "lastIncident": "2026-05-08T19:24:00Z",
+    "count": 1
   }
 }

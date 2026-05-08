@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/noel-dr",
+  "name": "Noel Dr",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-05-08T19:24:00Z_burnaby/noel-dr",
+      "timestamp": "2026-05-08T19:24:00Z",
+      "address": "NOEL DR",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/noel-dr"
+      ],
+      "streetNames": [
+        "Noel Dr"
+      ],
+      "pulsePointId": "2470075324"
+    }
+  ],
+  "lastIncident": "2026-05-08T19:24:00Z",
+  "count": 1
+}
