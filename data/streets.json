@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-08T00:25:00Z",
-    "count": 25
+    "lastIncident": "2026-05-08T23:10:00Z",
+    "count": 26
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -9111,6 +9111,13 @@
     "slug": "burnaby/noel-dr",
     "city": "Burnaby",
     "lastIncident": "2026-05-08T19:24:00Z",
+    "count": 1
+  },
+  "vancouver/laurier-ave": {
+    "name": "Laurier Ave",
+    "slug": "vancouver/laurier-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-08T23:10:00Z",
     "count": 1
   }
 }

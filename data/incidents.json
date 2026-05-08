@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-08T23:10:00Z_vancouver/granville-st_vancouver/laurier-ave",
+    "timestamp": "2026-05-08T23:10:00Z",
+    "scrapedAt": "2026-05-08T23:16:22Z",
+    "address": "GRANVILLE ST & LAURIER AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st",
+      "vancouver/laurier-ave"
+    ],
+    "streetNames": [
+      "Granville St",
+      "Laurier Ave"
+    ],
+    "pulsePointId": "2470230965"
+  },
+  {
     "id": "2026-05-08T22:32:00Z_abbotsford/fraser-hwy",
     "timestamp": "2026-05-08T22:32:00Z",
     "scrapedAt": "2026-05-08T22:45:39Z",
