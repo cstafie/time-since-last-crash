@@ -1,0 +1,22 @@
+{
+  "slug": "port-coquitlam/wellington-st",
+  "name": "Wellington St",
+  "city": "Port Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-05-08T04:38:00Z_port-coquitlam/wellington-st",
+      "timestamp": "2026-05-08T04:38:00Z",
+      "address": "WELLINGTON ST",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/wellington-st"
+      ],
+      "streetNames": [
+        "Wellington St"
+      ],
+      "pulsePointId": "2469707189"
+    }
+  ],
+  "lastIncident": "2026-05-08T04:38:00Z",
+  "count": 1
+}

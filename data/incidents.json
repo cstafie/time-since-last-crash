@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-05-08T04:38:00Z_port-coquitlam/wellington-st",
+    "timestamp": "2026-05-08T04:38:00Z",
+    "scrapedAt": "2026-05-08T04:57:58Z",
+    "address": "WELLINGTON ST",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/wellington-st"
+    ],
+    "streetNames": [
+      "Wellington St"
+    ],
+    "pulsePointId": "2469707189"
+  },
+  {
+    "id": "2026-05-08T03:54:00Z_chilliwack/aitken-rd",
+    "timestamp": "2026-05-08T03:54:00Z",
+    "scrapedAt": "2026-05-08T04:57:58Z",
+    "address": "AITKEN RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/aitken-rd"
+    ],
+    "streetNames": [
+      "Aitken Rd"
+    ],
+    "pulsePointId": "2469687632"
+  },
+  {
     "id": "2026-05-08T00:59:00Z_surrey/king-george-blvd_surrey/20th-ave",
     "timestamp": "2026-05-08T00:59:00Z",
     "scrapedAt": "2026-05-08T01:13:33Z",
