@@ -871,8 +871,8 @@
     "name": "120th St",
     "slug": "delta/120th-st",
     "city": "Delta",
-    "lastIncident": "2026-05-07T01:29:00Z",
-    "count": 12
+    "lastIncident": "2026-05-08T20:12:00Z",
+    "count": 13
   },
   "delta/roberts-bank-rd": {
     "name": "Roberts Bank Rd",
@@ -7808,8 +7808,8 @@
     "name": "70th Ave",
     "slug": "delta/70th-ave",
     "city": "Delta",
-    "lastIncident": "2026-04-26T19:55:00Z",
-    "count": 1
+    "lastIncident": "2026-05-08T20:12:00Z",
+    "count": 2
   },
   "delta/nicholson-rd": {
     "name": "Nicholson Rd",

@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-08T20:12:00Z_delta/120th-st_delta/70th-ave",
+    "timestamp": "2026-05-08T20:12:00Z",
+    "scrapedAt": "2026-05-08T20:24:45Z",
+    "address": "120TH ST & 70TH AVE",
+    "city": "Delta",
+    "streets": [
+      "delta/120th-st",
+      "delta/70th-ave"
+    ],
+    "streetNames": [
+      "120th St",
+      "70th Ave"
+    ],
+    "pulsePointId": "2470105168"
+  },
+  {
     "id": "2026-05-08T19:24:00Z_burnaby/noel-dr",
     "timestamp": "2026-05-08T19:24:00Z",
     "scrapedAt": "2026-05-08T19:57:49Z",
