@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-08T00:25:00Z_vancouver/granville-st_vancouver/w-12th-ave",
+      "timestamp": "2026-05-08T00:25:00Z",
+      "address": "GRANVILLE ST & W 12TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st",
+        "vancouver/w-12th-ave"
+      ],
+      "streetNames": [
+        "Granville St",
+        "W 12th Ave"
+      ],
+      "pulsePointId": "2469569507"
+    },
+    {
       "id": "2026-04-08T02:19:00Z_vancouver/w-12th-ave_vancouver/cambie-st",
       "timestamp": "2026-04-08T02:19:00Z",
       "address": "W 12TH AVE & CAMBIE ST",
@@ -74,6 +89,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-08T02:19:00Z",
-  "count": 5
+  "lastIncident": "2026-05-08T00:25:00Z",
+  "count": 6
 }

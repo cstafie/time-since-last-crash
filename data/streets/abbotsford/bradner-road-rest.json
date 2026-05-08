@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/bradner-road-rest",
+  "name": "Bradner Road Rest",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-05-08T00:57:00Z_abbotsford/bradner-road-rest",
+      "timestamp": "2026-05-08T00:57:00Z",
+      "address": "BRADNER ROAD REST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/bradner-road-rest"
+      ],
+      "streetNames": [
+        "Bradner Road Rest"
+      ],
+      "pulsePointId": "2469588468"
+    }
+  ],
+  "lastIncident": "2026-05-08T00:57:00Z",
+  "count": 1
+}

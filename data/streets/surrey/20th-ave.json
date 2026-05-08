@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-05-08T00:59:00Z_surrey/king-george-blvd_surrey/20th-ave",
+      "timestamp": "2026-05-08T00:59:00Z",
+      "address": "KING GEORGE BLVD & 20TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/king-george-blvd",
+        "surrey/20th-ave"
+      ],
+      "streetNames": [
+        "King George Blvd",
+        "20th Ave"
+      ],
+      "pulsePointId": "2469589430"
+    },
+    {
       "id": "2026-03-31T00:38:00Z_surrey/176th-st_surrey/20th-ave",
       "timestamp": "2026-03-31T00:38:00Z",
       "address": "176TH ST & 20TH AVE",
@@ -19,6 +34,6 @@
       "pulsePointId": "2444758825"
     }
   ],
-  "lastIncident": "2026-03-31T00:38:00Z",
-  "count": 1
+  "lastIncident": "2026-05-08T00:59:00Z",
+  "count": 2
 }

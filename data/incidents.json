@@ -1,5 +1,81 @@
 [
   {
+    "id": "2026-05-08T00:59:00Z_surrey/king-george-blvd_surrey/20th-ave",
+    "timestamp": "2026-05-08T00:59:00Z",
+    "scrapedAt": "2026-05-08T01:13:33Z",
+    "address": "KING GEORGE BLVD & 20TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/20th-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "20th Ave"
+    ],
+    "pulsePointId": "2469589430"
+  },
+  {
+    "id": "2026-05-08T00:57:00Z_abbotsford/bradner-road-rest",
+    "timestamp": "2026-05-08T00:57:00Z",
+    "scrapedAt": "2026-05-08T01:13:33Z",
+    "address": "BRADNER ROAD REST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/bradner-road-rest"
+    ],
+    "streetNames": [
+      "Bradner Road Rest"
+    ],
+    "pulsePointId": "2469588468"
+  },
+  {
+    "id": "2026-05-08T00:51:00Z_vancouver/w-37th-ave_vancouver/oak-st",
+    "timestamp": "2026-05-08T00:51:00Z",
+    "scrapedAt": "2026-05-08T01:13:33Z",
+    "address": "W 37TH AVE & OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-37th-ave",
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "W 37th Ave",
+      "Oak St"
+    ],
+    "pulsePointId": "2469584658"
+  },
+  {
+    "id": "2026-05-08T00:48:00Z_vancouver/main-st",
+    "timestamp": "2026-05-08T00:48:00Z",
+    "scrapedAt": "2026-05-08T01:13:33Z",
+    "address": "MAIN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st"
+    ],
+    "streetNames": [
+      "Main St"
+    ],
+    "pulsePointId": "2469582642"
+  },
+  {
+    "id": "2026-05-08T00:25:00Z_vancouver/granville-st_vancouver/w-12th-ave",
+    "timestamp": "2026-05-08T00:25:00Z",
+    "scrapedAt": "2026-05-08T01:13:33Z",
+    "address": "GRANVILLE ST & W 12TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st",
+      "vancouver/w-12th-ave"
+    ],
+    "streetNames": [
+      "Granville St",
+      "W 12th Ave"
+    ],
+    "pulsePointId": "2469569507"
+  },
+  {
     "id": "2026-05-08T00:05:00Z_vancouver/spruce-st_vancouver/w-broadway",
     "timestamp": "2026-05-08T00:05:00Z",
     "scrapedAt": "2026-05-08T00:15:48Z",

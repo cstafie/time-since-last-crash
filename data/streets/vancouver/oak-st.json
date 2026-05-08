@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-08T00:51:00Z_vancouver/w-37th-ave_vancouver/oak-st",
+      "timestamp": "2026-05-08T00:51:00Z",
+      "address": "W 37TH AVE & OAK ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-37th-ave",
+        "vancouver/oak-st"
+      ],
+      "streetNames": [
+        "W 37th Ave",
+        "Oak St"
+      ],
+      "pulsePointId": "2469584658"
+    },
+    {
       "id": "2026-05-02T21:58:00Z_vancouver/oak-st_vancouver/w-64th-ave",
       "timestamp": "2026-05-02T21:58:00Z",
       "address": "OAK ST & W 64TH AVE",
@@ -280,6 +295,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-02T21:58:00Z",
-  "count": 19
+  "lastIncident": "2026-05-08T00:51:00Z",
+  "count": 20
 }
