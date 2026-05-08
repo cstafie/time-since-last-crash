@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-08T06:03:00Z_coquitlam/lea-ave",
+    "timestamp": "2026-05-08T06:03:00Z",
+    "scrapedAt": "2026-05-08T06:32:05Z",
+    "address": "LEA AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/lea-ave"
+    ],
+    "streetNames": [
+      "Lea Ave"
+    ],
+    "pulsePointId": "2469740099"
+  },
+  {
     "id": "2026-05-08T04:38:00Z_port-coquitlam/wellington-st",
     "timestamp": "2026-05-08T04:38:00Z",
     "scrapedAt": "2026-05-08T04:57:58Z",

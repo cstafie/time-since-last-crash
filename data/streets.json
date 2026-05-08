@@ -9070,5 +9070,12 @@
     "city": "Port Coquitlam",
     "lastIncident": "2026-05-08T04:38:00Z",
     "count": 1
+  },
+  "coquitlam/lea-ave": {
+    "name": "Lea Ave",
+    "slug": "coquitlam/lea-ave",
+    "city": "Coquitlam",
+    "lastIncident": "2026-05-08T06:03:00Z",
+    "count": 1
   }
 }
