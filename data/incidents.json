@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-08T13:04:00Z_surrey/144th-st_surrey/64th-ave",
+    "timestamp": "2026-05-08T13:04:00Z",
+    "scrapedAt": "2026-05-08T13:31:38Z",
+    "address": "144TH ST & 64TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/144th-st",
+      "surrey/64th-ave"
+    ],
+    "streetNames": [
+      "144th St",
+      "64th Ave"
+    ],
+    "pulsePointId": "2469857254"
+  },
+  {
     "id": "2026-05-08T10:05:00Z_delta/96th-st_delta/ladner-trunk-rd",
     "timestamp": "2026-05-08T10:05:00Z",
     "scrapedAt": "2026-05-08T10:28:49Z",
