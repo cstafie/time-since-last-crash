@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/amicus-pl",
+  "name": "Amicus Pl",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-05-08T13:56:00Z_abbotsford/bourquin-cres-w_abbotsford/amicus-pl",
+      "timestamp": "2026-05-08T13:56:00Z",
+      "address": "BOURQUIN CRES W & AMICUS PL",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/bourquin-cres-w",
+        "abbotsford/amicus-pl"
+      ],
+      "streetNames": [
+        "Bourquin Cres W",
+        "Amicus Pl"
+      ],
+      "pulsePointId": "2469877540"
+    }
+  ],
+  "lastIncident": "2026-05-08T13:56:00Z",
+  "count": 1
+}

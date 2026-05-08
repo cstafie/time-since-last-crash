@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-05-08T14:06:00Z_delta/hwy-17a",
+    "timestamp": "2026-05-08T14:06:00Z",
+    "scrapedAt": "2026-05-08T14:31:22Z",
+    "address": "HWY 17A",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-17a"
+    ],
+    "streetNames": [
+      "Hwy 17a"
+    ],
+    "pulsePointId": "2469881356"
+  },
+  {
+    "id": "2026-05-08T13:56:00Z_surrey/96th-ave_surrey/190th-st",
+    "timestamp": "2026-05-08T13:56:00Z",
+    "scrapedAt": "2026-05-08T14:31:22Z",
+    "address": "96TH AVE & 190TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/96th-ave",
+      "surrey/190th-st"
+    ],
+    "streetNames": [
+      "96th Ave",
+      "190th St"
+    ],
+    "pulsePointId": "2469877026"
+  },
+  {
+    "id": "2026-05-08T13:56:00Z_abbotsford/bourquin-cres-w_abbotsford/amicus-pl",
+    "timestamp": "2026-05-08T13:56:00Z",
+    "scrapedAt": "2026-05-08T14:31:22Z",
+    "address": "BOURQUIN CRES W & AMICUS PL",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/bourquin-cres-w",
+      "abbotsford/amicus-pl"
+    ],
+    "streetNames": [
+      "Bourquin Cres W",
+      "Amicus Pl"
+    ],
+    "pulsePointId": "2469877540"
+  },
+  {
     "id": "2026-05-08T13:04:00Z_surrey/144th-st_surrey/64th-ave",
     "timestamp": "2026-05-08T13:04:00Z",
     "scrapedAt": "2026-05-08T13:31:38Z",
