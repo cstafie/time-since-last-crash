@@ -4,6 +4,34 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-05-08T18:00:00Z_maple-ridge/119th-ave_maple-ridge/224th-st",
+      "timestamp": "2026-05-08T18:00:00Z",
+      "address": "119TH AVE & 224TH ST",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/119th-ave",
+        "maple-ridge/224th-st"
+      ],
+      "streetNames": [
+        "119th Ave",
+        "224th St"
+      ],
+      "pulsePointId": "2470013185"
+    },
+    {
+      "id": "2026-05-08T17:59:00Z_maple-ridge/119th-ave",
+      "timestamp": "2026-05-08T17:59:00Z",
+      "address": "119TH AVE",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/119th-ave"
+      ],
+      "streetNames": [
+        "119th Ave"
+      ],
+      "pulsePointId": "2470014637"
+    },
+    {
       "id": "2026-05-05T03:41:00Z_maple-ridge/119th-ave_maple-ridge/221st-st",
       "timestamp": "2026-05-05T03:41:00Z",
       "address": "119TH AVE & 221ST ST",
@@ -48,6 +76,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-05T03:41:00Z",
-  "count": 3
+  "lastIncident": "2026-05-08T18:00:00Z",
+  "count": 5
 }
