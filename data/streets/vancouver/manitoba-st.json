@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-08T16:57:00Z_vancouver/w-broadway_vancouver/manitoba-st",
+      "timestamp": "2026-05-08T16:57:00Z",
+      "address": "W BROADWAY & MANITOBA ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-broadway",
+        "vancouver/manitoba-st"
+      ],
+      "streetNames": [
+        "W Broadway",
+        "Manitoba St"
+      ],
+      "pulsePointId": "2469971357"
+    },
+    {
       "id": "2026-04-14T19:29:00Z_vancouver/manitoba-st_vancouver/w-2nd-ave",
       "timestamp": "2026-04-14T19:29:00Z",
       "address": "MANITOBA ST & W 2ND AVE",
@@ -34,6 +49,6 @@
       "pulsePointId": "2451848619"
     }
   ],
-  "lastIncident": "2026-04-14T19:29:00Z",
-  "count": 2
+  "lastIncident": "2026-05-08T16:57:00Z",
+  "count": 3
 }

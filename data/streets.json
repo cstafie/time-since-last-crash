@@ -808,8 +808,8 @@
     "name": "W Broadway",
     "slug": "vancouver/w-broadway",
     "city": "Vancouver",
-    "lastIncident": "2026-05-08T00:05:00Z",
-    "count": 9
+    "lastIncident": "2026-05-08T16:57:00Z",
+    "count": 10
   },
   "west-vancouver/eagleridge-drive-ofrp": {
     "name": "Eagleridge Drive Ofrp",
@@ -6219,8 +6219,8 @@
     "name": "Manitoba St",
     "slug": "vancouver/manitoba-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-14T19:29:00Z",
-    "count": 2
+    "lastIncident": "2026-05-08T16:57:00Z",
+    "count": 3
   },
   "surrey/coventry-rd": {
     "name": "Coventry Rd",
