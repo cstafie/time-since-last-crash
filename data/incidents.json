@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-08T00:05:00Z_vancouver/spruce-st_vancouver/w-broadway",
+    "timestamp": "2026-05-08T00:05:00Z",
+    "scrapedAt": "2026-05-08T00:15:48Z",
+    "address": "SPRUCE ST & W BROADWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/spruce-st",
+      "vancouver/w-broadway"
+    ],
+    "streetNames": [
+      "Spruce St",
+      "W Broadway"
+    ],
+    "pulsePointId": "2469558238"
+  },
+  {
     "id": "2026-05-07T23:33:00Z_burnaby/boundary-rd_burnaby/dominion-st",
     "timestamp": "2026-05-07T23:33:00Z",
     "scrapedAt": "2026-05-07T23:45:21Z",
