@@ -1,0 +1,35 @@
+{
+  "slug": "mission/wilson-st",
+  "name": "Wilson St",
+  "city": "Mission",
+  "incidents": [
+    {
+      "id": "2026-05-08T15:44:00Z_mission/wilson-st",
+      "timestamp": "2026-05-08T15:44:00Z",
+      "address": "WILSON ST",
+      "city": "Mission",
+      "streets": [
+        "mission/wilson-st"
+      ],
+      "streetNames": [
+        "Wilson St"
+      ],
+      "pulsePointId": "2469927898"
+    },
+    {
+      "id": "2026-05-08T15:43:00Z_mission/wilson-st",
+      "timestamp": "2026-05-08T15:43:00Z",
+      "address": "WILSON ST",
+      "city": "Mission",
+      "streets": [
+        "mission/wilson-st"
+      ],
+      "streetNames": [
+        "Wilson St"
+      ],
+      "pulsePointId": "2469928147"
+    }
+  ],
+  "lastIncident": "2026-05-08T15:44:00Z",
+  "count": 2
+}

@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-05-08T15:44:00Z_mission/wilson-st",
+    "timestamp": "2026-05-08T15:44:00Z",
+    "scrapedAt": "2026-05-08T16:00:49Z",
+    "address": "WILSON ST",
+    "city": "Mission",
+    "streets": [
+      "mission/wilson-st"
+    ],
+    "streetNames": [
+      "Wilson St"
+    ],
+    "pulsePointId": "2469927898"
+  },
+  {
+    "id": "2026-05-08T15:43:00Z_mission/wilson-st",
+    "timestamp": "2026-05-08T15:43:00Z",
+    "scrapedAt": "2026-05-08T16:00:49Z",
+    "address": "WILSON ST",
+    "city": "Mission",
+    "streets": [
+      "mission/wilson-st"
+    ],
+    "streetNames": [
+      "Wilson St"
+    ],
+    "pulsePointId": "2469928147"
+  },
+  {
+    "id": "2026-05-08T15:26:00Z_langley/fraser-hwy",
+    "timestamp": "2026-05-08T15:26:00Z",
+    "scrapedAt": "2026-05-08T16:00:49Z",
+    "address": "FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy"
+    ],
+    "streetNames": [
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2469920216"
+  },
+  {
     "id": "2026-05-08T14:06:00Z_delta/hwy-17a",
     "timestamp": "2026-05-08T14:06:00Z",
     "scrapedAt": "2026-05-08T14:31:22Z",
