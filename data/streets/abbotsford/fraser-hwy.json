@@ -4,6 +4,19 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-05-08T22:32:00Z_abbotsford/fraser-hwy",
+      "timestamp": "2026-05-08T22:32:00Z",
+      "address": "FRASER HWY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/fraser-hwy"
+      ],
+      "streetNames": [
+        "Fraser Hwy"
+      ],
+      "pulsePointId": "2470202674"
+    },
+    {
       "id": "2026-05-04T17:40:00Z_abbotsford/bradner-rd_abbotsford/fraser-hwy",
       "timestamp": "2026-05-04T17:40:00Z",
       "address": "BRADNER RD & FRASER HWY",
@@ -114,6 +127,6 @@
       "pulsePointId": "2436433195"
     }
   ],
-  "lastIncident": "2026-05-04T17:40:00Z",
-  "count": 8
+  "lastIncident": "2026-05-08T22:32:00Z",
+  "count": 9
 }

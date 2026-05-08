@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-08T22:32:00Z_abbotsford/fraser-hwy",
+    "timestamp": "2026-05-08T22:32:00Z",
+    "scrapedAt": "2026-05-08T22:45:39Z",
+    "address": "FRASER HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/fraser-hwy"
+    ],
+    "streetNames": [
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2470202674"
+  },
+  {
     "id": "2026-05-08T22:07:00Z_surrey/152nd-street-ofrp",
     "timestamp": "2026-05-08T22:07:00Z",
     "scrapedAt": "2026-05-08T22:17:15Z",
