@@ -871,8 +871,8 @@
     "name": "120th St",
     "slug": "delta/120th-st",
     "city": "Delta",
-    "lastIncident": "2026-05-08T20:12:00Z",
-    "count": 13
+    "lastIncident": "2026-05-09T01:09:00Z",
+    "count": 14
   },
   "delta/roberts-bank-rd": {
     "name": "Roberts Bank Rd",
@@ -2040,8 +2040,8 @@
     "name": "Trans Canada Hwy",
     "slug": "coquitlam/trans-canada-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-04-28T20:06:00Z",
-    "count": 11
+    "lastIncident": "2026-05-09T00:35:00Z",
+    "count": 12
   },
   "langley/202a-st": {
     "name": "202a St",
@@ -3370,8 +3370,8 @@
     "name": "Brunette Avenue Ofrp",
     "slug": "coquitlam/brunette-avenue-ofrp",
     "city": "Coquitlam",
-    "lastIncident": "2026-04-02T04:32:00Z",
-    "count": 2
+    "lastIncident": "2026-05-09T00:35:00Z",
+    "count": 3
   },
   "delta/80th-street-ofrp": {
     "name": "80th Street Ofrp",
@@ -5449,8 +5449,8 @@
     "name": "92nd Ave",
     "slug": "delta/92nd-ave",
     "city": "Delta",
-    "lastIncident": "2026-04-05T06:55:00Z",
-    "count": 1
+    "lastIncident": "2026-05-09T01:09:00Z",
+    "count": 2
   },
   "burnaby/burris-st": {
     "name": "Burris St",
@@ -9118,6 +9118,27 @@
     "slug": "vancouver/laurier-ave",
     "city": "Vancouver",
     "lastIncident": "2026-05-08T23:10:00Z",
+    "count": 1
+  },
+  "port-moody/seaview-dr": {
+    "name": "Seaview Dr",
+    "slug": "port-moody/seaview-dr",
+    "city": "Port Moody",
+    "lastIncident": "2026-05-09T00:38:00Z",
+    "count": 1
+  },
+  "north-vancouver/dempsey-rd": {
+    "name": "Dempsey Rd",
+    "slug": "north-vancouver/dempsey-rd",
+    "city": "North Vancouver",
+    "lastIncident": "2026-05-09T00:17:00Z",
+    "count": 1
+  },
+  "north-vancouver/mountain-hwy": {
+    "name": "Mountain Hwy",
+    "slug": "north-vancouver/mountain-hwy",
+    "city": "North Vancouver",
+    "lastIncident": "2026-05-09T00:17:00Z",
     "count": 1
   }
 }

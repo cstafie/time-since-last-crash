@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-05-09T01:09:00Z_delta/120th-st_delta/92nd-ave",
+    "timestamp": "2026-05-09T01:09:00Z",
+    "scrapedAt": "2026-05-09T01:11:51Z",
+    "address": "120TH ST & 92ND AVE",
+    "city": "Delta",
+    "streets": [
+      "delta/120th-st",
+      "delta/92nd-ave"
+    ],
+    "streetNames": [
+      "120th St",
+      "92nd Ave"
+    ],
+    "pulsePointId": "2470303278"
+  },
+  {
+    "id": "2026-05-09T00:38:00Z_port-moody/seaview-dr",
+    "timestamp": "2026-05-09T00:38:00Z",
+    "scrapedAt": "2026-05-09T01:11:51Z",
+    "address": "SEAVIEW DR",
+    "city": "Port Moody",
+    "streets": [
+      "port-moody/seaview-dr"
+    ],
+    "streetNames": [
+      "Seaview Dr"
+    ],
+    "pulsePointId": "2470285687"
+  },
+  {
+    "id": "2026-05-09T00:35:00Z_coquitlam/brunette-avenue-ofrp_coquitlam/trans-canada-hwy",
+    "timestamp": "2026-05-09T00:35:00Z",
+    "scrapedAt": "2026-05-09T01:11:51Z",
+    "address": "BRUNETTE AVENUE OFRP & TRANS CANADA HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/brunette-avenue-ofrp",
+      "coquitlam/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Brunette Avenue Ofrp",
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2470285832"
+  },
+  {
+    "id": "2026-05-09T00:17:00Z_north-vancouver/dempsey-rd_north-vancouver/mountain-hwy",
+    "timestamp": "2026-05-09T00:17:00Z",
+    "scrapedAt": "2026-05-09T01:11:51Z",
+    "address": "DEMPSEY RD & MOUNTAIN HWY",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/dempsey-rd",
+      "north-vancouver/mountain-hwy"
+    ],
+    "streetNames": [
+      "Dempsey Rd",
+      "Mountain Hwy"
+    ],
+    "pulsePointId": "2470272645"
+  },
+  {
     "id": "2026-05-09T00:06:00Z_surrey/128th-st_surrey/58a-ave",
     "timestamp": "2026-05-09T00:06:00Z",
     "scrapedAt": "2026-05-09T00:16:53Z",
