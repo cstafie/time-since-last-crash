@@ -1,0 +1,22 @@
+{
+  "slug": "north-vancouver/e-13th-lane",
+  "name": "E 13th Lane",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-09T23:23:00Z_north-vancouver/e-13th-lane",
+      "timestamp": "2026-05-09T23:23:00Z",
+      "address": "E 13TH LANE",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/e-13th-lane"
+      ],
+      "streetNames": [
+        "E 13th Lane"
+      ],
+      "pulsePointId": "2470933387"
+    }
+  ],
+  "lastIncident": "2026-05-09T23:23:00Z",
+  "count": 1
+}

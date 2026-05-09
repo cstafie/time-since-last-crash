@@ -1,0 +1,22 @@
+{
+  "slug": "coquitlam/guilby-st",
+  "name": "Guilby St",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-05-09T23:33:00Z_coquitlam/guilby-st",
+      "timestamp": "2026-05-09T23:33:00Z",
+      "address": "GUILBY ST",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/guilby-st"
+      ],
+      "streetNames": [
+        "Guilby St"
+      ],
+      "pulsePointId": "2470940220"
+    }
+  ],
+  "lastIncident": "2026-05-09T23:33:00Z",
+  "count": 1
+}

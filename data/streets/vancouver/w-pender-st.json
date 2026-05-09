@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/w-pender-st",
+  "name": "W Pender St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-09T23:25:00Z_vancouver/w-pender-st_vancouver/broughton-st",
+      "timestamp": "2026-05-09T23:25:00Z",
+      "address": "W PENDER ST & BROUGHTON ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-pender-st",
+        "vancouver/broughton-st"
+      ],
+      "streetNames": [
+        "W Pender St",
+        "Broughton St"
+      ],
+      "pulsePointId": "2470935360"
+    }
+  ],
+  "lastIncident": "2026-05-09T23:25:00Z",
+  "count": 1
+}

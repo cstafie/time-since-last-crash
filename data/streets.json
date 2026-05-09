@@ -3244,8 +3244,8 @@
     "name": "Macdonald St",
     "slug": "vancouver/macdonald-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-07T15:16:00Z",
-    "count": 6
+    "lastIncident": "2026-05-09T23:17:00Z",
+    "count": 7
   },
   "port-moody/ioco-rd": {
     "name": "Ioco Rd",
@@ -4294,8 +4294,8 @@
     "name": "Broughton St",
     "slug": "vancouver/broughton-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-02T23:42:00Z",
-    "count": 3
+    "lastIncident": "2026-05-09T23:25:00Z",
+    "count": 4
   },
   "chilliwack/fletcher-st": {
     "name": "Fletcher St",
@@ -6597,8 +6597,8 @@
     "name": "Sw Marine Dr",
     "slug": "vancouver/sw-marine-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-05-09T19:48:00Z",
-    "count": 9
+    "lastIncident": "2026-05-09T23:17:00Z",
+    "count": 10
   },
   "surrey/54th-ave": {
     "name": "54th Ave",
@@ -9195,6 +9195,27 @@
     "slug": "mission/hurd-st",
     "city": "Mission",
     "lastIncident": "2026-05-09T22:47:00Z",
+    "count": 1
+  },
+  "coquitlam/guilby-st": {
+    "name": "Guilby St",
+    "slug": "coquitlam/guilby-st",
+    "city": "Coquitlam",
+    "lastIncident": "2026-05-09T23:33:00Z",
+    "count": 1
+  },
+  "vancouver/w-pender-st": {
+    "name": "W Pender St",
+    "slug": "vancouver/w-pender-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-09T23:25:00Z",
+    "count": 1
+  },
+  "north-vancouver/e-13th-lane": {
+    "name": "E 13th Lane",
+    "slug": "north-vancouver/e-13th-lane",
+    "city": "North Vancouver",
+    "lastIncident": "2026-05-09T23:23:00Z",
     "count": 1
   }
 }
