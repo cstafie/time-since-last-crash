@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/waverley-ave",
+  "name": "Waverley Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-05-09T18:01:00Z_burnaby/waverley-ave_burnaby/imperial-st",
+      "timestamp": "2026-05-09T18:01:00Z",
+      "address": "WAVERLEY AVE & IMPERIAL ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/waverley-ave",
+        "burnaby/imperial-st"
+      ],
+      "streetNames": [
+        "Waverley Ave",
+        "Imperial St"
+      ],
+      "pulsePointId": "2470725431"
+    }
+  ],
+  "lastIncident": "2026-05-09T18:01:00Z",
+  "count": 1
+}

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-09T18:01:00Z_vancouver/sw-marine-dr_vancouver/manitoba-st",
+      "timestamp": "2026-05-09T18:01:00Z",
+      "address": "SW MARINE DR & MANITOBA ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/sw-marine-dr",
+        "vancouver/manitoba-st"
+      ],
+      "streetNames": [
+        "Sw Marine Dr",
+        "Manitoba St"
+      ],
+      "pulsePointId": "2470726635"
+    },
+    {
       "id": "2026-05-08T16:57:00Z_vancouver/w-broadway_vancouver/manitoba-st",
       "timestamp": "2026-05-08T16:57:00Z",
       "address": "W BROADWAY & MANITOBA ST",
@@ -49,6 +64,6 @@
       "pulsePointId": "2451848619"
     }
   ],
-  "lastIncident": "2026-05-08T16:57:00Z",
-  "count": 3
+  "lastIncident": "2026-05-09T18:01:00Z",
+  "count": 4
 }
