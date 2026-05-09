@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-09T05:57:00Z_surrey/184th-st_surrey/fraser-hwy",
+    "timestamp": "2026-05-09T05:57:00Z",
+    "scrapedAt": "2026-05-09T06:14:25Z",
+    "address": "184TH ST & FRASER HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/184th-st",
+      "surrey/fraser-hwy"
+    ],
+    "streetNames": [
+      "184th St",
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2470449289"
+  },
+  {
+    "id": "2026-05-09T04:58:00Z_vancouver/w-33rd-ave",
+    "timestamp": "2026-05-09T04:58:00Z",
+    "scrapedAt": "2026-05-09T06:14:25Z",
+    "address": "W 33RD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-33rd-ave"
+    ],
+    "streetNames": [
+      "W 33rd Ave"
+    ],
+    "pulsePointId": "2470425586"
+  },
+  {
     "id": "2026-05-09T04:53:00Z_vancouver/commercial-st",
     "timestamp": "2026-05-09T04:53:00Z",
     "scrapedAt": "2026-05-09T05:01:28Z",

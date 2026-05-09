@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-09T04:58:00Z_vancouver/w-33rd-ave",
+      "timestamp": "2026-05-09T04:58:00Z",
+      "address": "W 33RD AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-33rd-ave"
+      ],
+      "streetNames": [
+        "W 33rd Ave"
+      ],
+      "pulsePointId": "2470425586"
+    },
+    {
       "id": "2026-05-03T21:09:00Z_vancouver/w-33rd-ave_vancouver/mackenzie-st",
       "timestamp": "2026-05-03T21:09:00Z",
       "address": "W 33RD AVE & MACKENZIE ST",
@@ -77,6 +90,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-03T21:09:00Z",
-  "count": 5
+  "lastIncident": "2026-05-09T04:58:00Z",
+  "count": 6
 }
