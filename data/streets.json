@@ -521,8 +521,8 @@
     "name": "108th Ave",
     "slug": "surrey/108th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-06T23:41:00Z",
-    "count": 17
+    "lastIncident": "2026-05-09T21:26:00Z",
+    "count": 18
   },
   "surrey/124th-st": {
     "name": "124th St",
@@ -871,8 +871,8 @@
     "name": "120th St",
     "slug": "delta/120th-st",
     "city": "Delta",
-    "lastIncident": "2026-05-09T01:09:00Z",
-    "count": 14
+    "lastIncident": "2026-05-09T21:41:00Z",
+    "count": 15
   },
   "delta/roberts-bank-rd": {
     "name": "Roberts Bank Rd",
@@ -1501,8 +1501,8 @@
     "name": "144th St",
     "slug": "surrey/144th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-08T13:04:00Z",
-    "count": 13
+    "lastIncident": "2026-05-09T21:26:00Z",
+    "count": 14
   },
   "north-vancouver/seymour-blvd": {
     "name": "Seymour Blvd",
