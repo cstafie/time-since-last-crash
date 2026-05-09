@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-09T23:02:00Z_maple-ridge/dewdney-trunk-rd_maple-ridge/232nd-st",
+    "timestamp": "2026-05-09T23:02:00Z",
+    "scrapedAt": "2026-05-09T23:13:45Z",
+    "address": "DEWDNEY TRUNK RD & 232ND ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/dewdney-trunk-rd",
+      "maple-ridge/232nd-st"
+    ],
+    "streetNames": [
+      "Dewdney Trunk Rd",
+      "232nd St"
+    ],
+    "pulsePointId": "2470918332"
+  },
+  {
+    "id": "2026-05-09T22:47:00Z_mission/7th-ave_mission/hurd-st",
+    "timestamp": "2026-05-09T22:47:00Z",
+    "scrapedAt": "2026-05-09T23:13:45Z",
+    "address": "7TH AVE & HURD ST",
+    "city": "Mission",
+    "streets": [
+      "mission/7th-ave",
+      "mission/hurd-st"
+    ],
+    "streetNames": [
+      "7th Ave",
+      "Hurd St"
+    ],
+    "pulsePointId": "2470908906"
+  },
+  {
     "id": "2026-05-09T22:39:00Z_langley/204th-st_langley/64th-ave",
     "timestamp": "2026-05-09T22:39:00Z",
     "scrapedAt": "2026-05-09T22:44:02Z",

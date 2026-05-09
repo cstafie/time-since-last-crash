@@ -1,0 +1,24 @@
+{
+  "slug": "mission/hurd-st",
+  "name": "Hurd St",
+  "city": "Mission",
+  "incidents": [
+    {
+      "id": "2026-05-09T22:47:00Z_mission/7th-ave_mission/hurd-st",
+      "timestamp": "2026-05-09T22:47:00Z",
+      "address": "7TH AVE & HURD ST",
+      "city": "Mission",
+      "streets": [
+        "mission/7th-ave",
+        "mission/hurd-st"
+      ],
+      "streetNames": [
+        "7th Ave",
+        "Hurd St"
+      ],
+      "pulsePointId": "2470908906"
+    }
+  ],
+  "lastIncident": "2026-05-09T22:47:00Z",
+  "count": 1
+}
