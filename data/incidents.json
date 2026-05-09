@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-09T10:55:00Z_delta/westview-dr",
+    "timestamp": "2026-05-09T10:55:00Z",
+    "scrapedAt": "2026-05-09T11:16:21Z",
+    "address": "WESTVIEW DR",
+    "city": "Delta",
+    "streets": [
+      "delta/westview-dr"
+    ],
+    "streetNames": [
+      "Westview Dr"
+    ],
+    "pulsePointId": "2470537533"
+  },
+  {
     "id": "2026-05-09T08:40:00Z_vancouver/victoria-dr_vancouver/e-49th-ave",
     "timestamp": "2026-05-09T08:40:00Z",
     "scrapedAt": "2026-05-09T08:59:06Z",
