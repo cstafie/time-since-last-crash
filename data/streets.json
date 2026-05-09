@@ -3069,15 +3069,15 @@
     "name": "E 49th Ave",
     "slug": "vancouver/e-49th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-26T18:46:00Z",
-    "count": 7
+    "lastIncident": "2026-05-09T08:40:00Z",
+    "count": 8
   },
   "vancouver/victoria-dr": {
     "name": "Victoria Dr",
     "slug": "vancouver/victoria-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-04-28T15:25:00Z",
-    "count": 10
+    "lastIncident": "2026-05-09T08:40:00Z",
+    "count": 11
   },
   "vancouver/e-60th-ave": {
     "name": "E 60th Ave",

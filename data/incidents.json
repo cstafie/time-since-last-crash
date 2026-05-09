@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-09T08:40:00Z_vancouver/victoria-dr_vancouver/e-49th-ave",
+    "timestamp": "2026-05-09T08:40:00Z",
+    "scrapedAt": "2026-05-09T08:59:06Z",
+    "address": "VICTORIA DR & E 49TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/victoria-dr",
+      "vancouver/e-49th-ave"
+    ],
+    "streetNames": [
+      "Victoria Dr",
+      "E 49th Ave"
+    ],
+    "pulsePointId": "2470503950"
+  },
+  {
     "id": "2026-05-09T05:57:00Z_surrey/184th-st_surrey/fraser-hwy",
     "timestamp": "2026-05-09T05:57:00Z",
     "scrapedAt": "2026-05-09T06:14:25Z",
