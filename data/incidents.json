@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-09T00:06:00Z_surrey/128th-st_surrey/58a-ave",
+    "timestamp": "2026-05-09T00:06:00Z",
+    "scrapedAt": "2026-05-09T00:16:53Z",
+    "address": "128TH ST & 58A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/128th-st",
+      "surrey/58a-ave"
+    ],
+    "streetNames": [
+      "128th St",
+      "58a Ave"
+    ],
+    "pulsePointId": "2470266092"
+  },
+  {
     "id": "2026-05-08T23:10:00Z_vancouver/granville-st_vancouver/laurier-ave",
     "timestamp": "2026-05-08T23:10:00Z",
     "scrapedAt": "2026-05-08T23:16:22Z",
