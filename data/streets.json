@@ -682,8 +682,8 @@
     "name": "Trans Canada Hwy",
     "slug": "surrey/trans-canada-hwy",
     "city": "Surrey",
-    "lastIncident": "2026-05-05T23:19:00Z",
-    "count": 17
+    "lastIncident": "2026-05-09T21:54:00Z",
+    "count": 18
   },
   "vancouver/balaclava-st": {
     "name": "Balaclava St",
@@ -1046,8 +1046,8 @@
     "name": "88th Ave",
     "slug": "langley/88th-ave",
     "city": "Langley",
-    "lastIncident": "2026-04-26T21:43:00Z",
-    "count": 5
+    "lastIncident": "2026-05-09T21:52:00Z",
+    "count": 6
   },
   "chilliwack/ryder-lake-rd": {
     "name": "Ryder Lake Rd",
@@ -9167,6 +9167,13 @@
     "slug": "maple-ridge/21626-lougheed-hwy",
     "city": "Maple Ridge",
     "lastIncident": "2026-05-09T20:55:00Z",
+    "count": 1
+  },
+  "richmond/knight-street-brdg": {
+    "name": "Knight Street Brdg",
+    "slug": "richmond/knight-street-brdg",
+    "city": "Richmond",
+    "lastIncident": "2026-05-09T21:43:00Z",
     "count": 1
   }
 }
