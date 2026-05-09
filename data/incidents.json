@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-09T19:27:00Z_chilliwack/lickman-rd",
+    "timestamp": "2026-05-09T19:27:00Z",
+    "scrapedAt": "2026-05-09T19:46:46Z",
+    "address": "LICKMAN RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/lickman-rd"
+    ],
+    "streetNames": [
+      "Lickman Rd"
+    ],
+    "pulsePointId": "2470778841"
+  },
+  {
     "id": "2026-05-09T18:28:00Z_vancouver/graveley-st_vancouver/boundary-rd",
     "timestamp": "2026-05-09T18:28:00Z",
     "scrapedAt": "2026-05-09T19:22:36Z",
