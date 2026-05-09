@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-09T18:28:00Z_vancouver/graveley-st_vancouver/boundary-rd",
+      "timestamp": "2026-05-09T18:28:00Z",
+      "address": "GRAVELEY ST & BOUNDARY RD",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/graveley-st",
+        "vancouver/boundary-rd"
+      ],
+      "streetNames": [
+        "Graveley St",
+        "Boundary Rd"
+      ],
+      "pulsePointId": "2470743563"
+    },
+    {
       "id": "2026-05-04T14:25:00Z_vancouver/boundary-rd_vancouver/e-hastings-st",
       "timestamp": "2026-05-04T14:25:00Z",
       "address": "BOUNDARY RD & E HASTINGS ST",
@@ -164,6 +179,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-04T14:25:00Z",
-  "count": 11
+  "lastIncident": "2026-05-09T18:28:00Z",
+  "count": 12
 }
