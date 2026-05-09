@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-09T16:18:00Z_vancouver/e-41st-ave_vancouver/clarendon-st",
+      "timestamp": "2026-05-09T16:18:00Z",
+      "address": "E 41ST AVE & CLARENDON ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-41st-ave",
+        "vancouver/clarendon-st"
+      ],
+      "streetNames": [
+        "E 41st Ave",
+        "Clarendon St"
+      ],
+      "pulsePointId": "2470665545"
+    },
+    {
       "id": "2026-05-03T06:35:00Z_vancouver/rupert-st_vancouver/e-41st-ave",
       "timestamp": "2026-05-03T06:35:00Z",
       "address": "RUPERT ST & E 41ST AVE",
@@ -318,6 +333,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-03T06:35:00Z",
-  "count": 21
+  "lastIncident": "2026-05-09T16:18:00Z",
+  "count": 22
 }

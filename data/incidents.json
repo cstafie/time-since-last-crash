@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-09T16:18:00Z_vancouver/e-41st-ave_vancouver/clarendon-st",
+    "timestamp": "2026-05-09T16:18:00Z",
+    "scrapedAt": "2026-05-09T16:45:22Z",
+    "address": "E 41ST AVE & CLARENDON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-41st-ave",
+      "vancouver/clarendon-st"
+    ],
+    "streetNames": [
+      "E 41st Ave",
+      "Clarendon St"
+    ],
+    "pulsePointId": "2470665545"
+  },
+  {
     "id": "2026-05-09T13:57:00Z_abbotsford/sumas-way",
     "timestamp": "2026-05-09T13:57:00Z",
     "scrapedAt": "2026-05-09T14:00:47Z",
