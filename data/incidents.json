@@ -1,5 +1,63 @@
 [
   {
+    "id": "2026-05-09T21:08:00Z_burnaby/boundary-rd_burnaby/e-2nd-ave",
+    "timestamp": "2026-05-09T21:08:00Z",
+    "scrapedAt": "2026-05-09T21:12:51Z",
+    "address": "BOUNDARY RD & E 2ND AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/boundary-rd",
+      "burnaby/e-2nd-ave"
+    ],
+    "streetNames": [
+      "Boundary Rd",
+      "E 2nd Ave"
+    ],
+    "pulsePointId": "2470843861"
+  },
+  {
+    "id": "2026-05-09T20:55:00Z_maple-ridge/21626-lougheed-hwy",
+    "timestamp": "2026-05-09T20:55:00Z",
+    "scrapedAt": "2026-05-09T21:12:51Z",
+    "address": "21626 LOUGHEED HWY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/21626-lougheed-hwy"
+    ],
+    "streetNames": [
+      "21626 Lougheed Hwy"
+    ],
+    "pulsePointId": "2470836292"
+  },
+  {
+    "id": "2026-05-09T20:49:00Z_surrey/89th-ave",
+    "timestamp": "2026-05-09T20:49:00Z",
+    "scrapedAt": "2026-05-09T21:12:51Z",
+    "address": "89TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/89th-ave"
+    ],
+    "streetNames": [
+      "89th Ave"
+    ],
+    "pulsePointId": "2470832990"
+  },
+  {
+    "id": "2026-05-09T20:41:00Z_vancouver/e-49th-ave",
+    "timestamp": "2026-05-09T20:41:00Z",
+    "scrapedAt": "2026-05-09T21:12:51Z",
+    "address": "E 49TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-49th-ave"
+    ],
+    "streetNames": [
+      "E 49th Ave"
+    ],
+    "pulsePointId": "2470826914"
+  },
+  {
     "id": "2026-05-09T19:48:00Z_vancouver/w-64th-ave_vancouver/sw-marine-dr",
     "timestamp": "2026-05-09T19:48:00Z",
     "scrapedAt": "2026-05-09T20:11:17Z",

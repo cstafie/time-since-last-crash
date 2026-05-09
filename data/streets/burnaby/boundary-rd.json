@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-09T21:08:00Z_burnaby/boundary-rd_burnaby/e-2nd-ave",
+      "timestamp": "2026-05-09T21:08:00Z",
+      "address": "BOUNDARY RD & E 2ND AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/boundary-rd",
+        "burnaby/e-2nd-ave"
+      ],
+      "streetNames": [
+        "Boundary Rd",
+        "E 2nd Ave"
+      ],
+      "pulsePointId": "2470843861"
+    },
+    {
       "id": "2026-05-07T23:33:00Z_burnaby/boundary-rd_burnaby/dominion-st",
       "timestamp": "2026-05-07T23:33:00Z",
       "address": "BOUNDARY RD & DOMINION ST",
@@ -92,6 +107,6 @@
       "pulsePointId": "2436452941"
     }
   ],
-  "lastIncident": "2026-05-07T23:33:00Z",
-  "count": 6
+  "lastIncident": "2026-05-09T21:08:00Z",
+  "count": 7
 }

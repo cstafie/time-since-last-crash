@@ -1,0 +1,22 @@
+{
+  "slug": "maple-ridge/21626-lougheed-hwy",
+  "name": "21626 Lougheed Hwy",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-05-09T20:55:00Z_maple-ridge/21626-lougheed-hwy",
+      "timestamp": "2026-05-09T20:55:00Z",
+      "address": "21626 LOUGHEED HWY",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/21626-lougheed-hwy"
+      ],
+      "streetNames": [
+        "21626 Lougheed Hwy"
+      ],
+      "pulsePointId": "2470836292"
+    }
+  ],
+  "lastIncident": "2026-05-09T20:55:00Z",
+  "count": 1
+}
