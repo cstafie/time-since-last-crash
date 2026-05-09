@@ -4,6 +4,34 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-09T19:48:00Z_vancouver/w-64th-ave_vancouver/sw-marine-dr",
+      "timestamp": "2026-05-09T19:48:00Z",
+      "address": "W 64TH AVE & SW MARINE DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-64th-ave",
+        "vancouver/sw-marine-dr"
+      ],
+      "streetNames": [
+        "W 64th Ave",
+        "Sw Marine Dr"
+      ],
+      "pulsePointId": "2470795319"
+    },
+    {
+      "id": "2026-05-09T19:47:00Z_vancouver/sw-marine-dr",
+      "timestamp": "2026-05-09T19:47:00Z",
+      "address": "SW MARINE DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/sw-marine-dr"
+      ],
+      "streetNames": [
+        "Sw Marine Dr"
+      ],
+      "pulsePointId": "2470792093"
+    },
+    {
       "id": "2026-05-09T18:01:00Z_vancouver/sw-marine-dr_vancouver/manitoba-st",
       "timestamp": "2026-05-09T18:01:00Z",
       "address": "SW MARINE DR & MANITOBA ST",
@@ -107,6 +135,6 @@
       "pulsePointId": "2453784324"
     }
   ],
-  "lastIncident": "2026-05-09T18:01:00Z",
-  "count": 7
+  "lastIncident": "2026-05-09T19:48:00Z",
+  "count": 9
 }

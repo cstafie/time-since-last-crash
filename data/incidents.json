@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-09T19:48:00Z_vancouver/w-64th-ave_vancouver/sw-marine-dr",
+    "timestamp": "2026-05-09T19:48:00Z",
+    "scrapedAt": "2026-05-09T20:11:17Z",
+    "address": "W 64TH AVE & SW MARINE DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-64th-ave",
+      "vancouver/sw-marine-dr"
+    ],
+    "streetNames": [
+      "W 64th Ave",
+      "Sw Marine Dr"
+    ],
+    "pulsePointId": "2470795319"
+  },
+  {
+    "id": "2026-05-09T19:47:00Z_vancouver/sw-marine-dr",
+    "timestamp": "2026-05-09T19:47:00Z",
+    "scrapedAt": "2026-05-09T20:11:17Z",
+    "address": "SW MARINE DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/sw-marine-dr"
+    ],
+    "streetNames": [
+      "Sw Marine Dr"
+    ],
+    "pulsePointId": "2470792093"
+  },
+  {
     "id": "2026-05-09T19:27:00Z_chilliwack/lickman-rd",
     "timestamp": "2026-05-09T19:27:00Z",
     "scrapedAt": "2026-05-09T19:46:46Z",

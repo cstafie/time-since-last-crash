@@ -4427,8 +4427,8 @@
     "name": "W 64th Ave",
     "slug": "vancouver/w-64th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-02T21:58:00Z",
-    "count": 2
+    "lastIncident": "2026-05-09T19:48:00Z",
+    "count": 3
   },
   "langley/210th-st": {
     "name": "210th St",
@@ -6597,8 +6597,8 @@
     "name": "Sw Marine Dr",
     "slug": "vancouver/sw-marine-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-05-09T18:01:00Z",
-    "count": 7
+    "lastIncident": "2026-05-09T19:48:00Z",
+    "count": 9
   },
   "surrey/54th-ave": {
     "name": "54th Ave",
