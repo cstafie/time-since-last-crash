@@ -1,0 +1,24 @@
+{
+  "slug": "north-vancouver/fell-ave",
+  "name": "Fell Ave",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-09T22:25:00Z_north-vancouver/fell-ave_north-vancouver/marine-dr",
+      "timestamp": "2026-05-09T22:25:00Z",
+      "address": "FELL AVE & MARINE DR",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/fell-ave",
+        "north-vancouver/marine-dr"
+      ],
+      "streetNames": [
+        "Fell Ave",
+        "Marine Dr"
+      ],
+      "pulsePointId": "2470894652"
+    }
+  ],
+  "lastIncident": "2026-05-09T22:25:00Z",
+  "count": 1
+}

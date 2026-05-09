@@ -4,6 +4,21 @@
   "city": "North Vancouver",
   "incidents": [
     {
+      "id": "2026-05-09T22:25:00Z_north-vancouver/fell-ave_north-vancouver/marine-dr",
+      "timestamp": "2026-05-09T22:25:00Z",
+      "address": "FELL AVE & MARINE DR",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/fell-ave",
+        "north-vancouver/marine-dr"
+      ],
+      "streetNames": [
+        "Fell Ave",
+        "Marine Dr"
+      ],
+      "pulsePointId": "2470894652"
+    },
+    {
       "id": "2026-05-06T18:34:00Z_north-vancouver/capilano-rd_north-vancouver/marine-dr",
       "timestamp": "2026-05-06T18:34:00Z",
       "address": "CAPILANO RD & MARINE DR",
@@ -79,6 +94,6 @@
       "pulsePointId": "2432954898"
     }
   ],
-  "lastIncident": "2026-05-06T18:34:00Z",
-  "count": 5
+  "lastIncident": "2026-05-09T22:25:00Z",
+  "count": 6
 }

@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-05-09T22:39:00Z_langley/204th-st_langley/64th-ave",
+      "timestamp": "2026-05-09T22:39:00Z",
+      "address": "204TH ST & 64TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/204th-st",
+        "langley/64th-ave"
+      ],
+      "streetNames": [
+        "204th St",
+        "64th Ave"
+      ],
+      "pulsePointId": "2470903082"
+    },
+    {
       "id": "2026-04-24T15:35:00Z_langley/204th-st_langley/82nd-ave",
       "timestamp": "2026-04-24T15:35:00Z",
       "address": "204TH ST & 82ND AVE",
@@ -32,6 +47,6 @@
       "pulsePointId": "2436349799"
     }
   ],
-  "lastIncident": "2026-04-24T15:35:00Z",
-  "count": 2
+  "lastIncident": "2026-05-09T22:39:00Z",
+  "count": 3
 }

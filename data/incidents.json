@@ -1,5 +1,69 @@
 [
   {
+    "id": "2026-05-09T22:39:00Z_langley/204th-st_langley/64th-ave",
+    "timestamp": "2026-05-09T22:39:00Z",
+    "scrapedAt": "2026-05-09T22:44:02Z",
+    "address": "204TH ST & 64TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/204th-st",
+      "langley/64th-ave"
+    ],
+    "streetNames": [
+      "204th St",
+      "64th Ave"
+    ],
+    "pulsePointId": "2470903082"
+  },
+  {
+    "id": "2026-05-09T22:32:00Z_new-westminster/e-columbia-st_new-westminster/holmes-st",
+    "timestamp": "2026-05-09T22:32:00Z",
+    "scrapedAt": "2026-05-09T22:44:02Z",
+    "address": "E COLUMBIA ST & HOLMES ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/e-columbia-st",
+      "new-westminster/holmes-st"
+    ],
+    "streetNames": [
+      "E Columbia St",
+      "Holmes St"
+    ],
+    "pulsePointId": "2470899810"
+  },
+  {
+    "id": "2026-05-09T22:28:00Z_langley/203rd-st_langley/64th-ave",
+    "timestamp": "2026-05-09T22:28:00Z",
+    "scrapedAt": "2026-05-09T22:44:02Z",
+    "address": "203RD ST & 64TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/203rd-st",
+      "langley/64th-ave"
+    ],
+    "streetNames": [
+      "203rd St",
+      "64th Ave"
+    ],
+    "pulsePointId": "2470897109"
+  },
+  {
+    "id": "2026-05-09T22:25:00Z_north-vancouver/fell-ave_north-vancouver/marine-dr",
+    "timestamp": "2026-05-09T22:25:00Z",
+    "scrapedAt": "2026-05-09T22:44:02Z",
+    "address": "FELL AVE & MARINE DR",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/fell-ave",
+      "north-vancouver/marine-dr"
+    ],
+    "streetNames": [
+      "Fell Ave",
+      "Marine Dr"
+    ],
+    "pulsePointId": "2470894652"
+  },
+  {
     "id": "2026-05-09T21:54:00Z_surrey/trans-canada-hwy",
     "timestamp": "2026-05-09T21:54:00Z",
     "scrapedAt": "2026-05-09T22:12:08Z",
