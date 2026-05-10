@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-10T00:49:00Z_vancouver/wellington-ave_vancouver/rupert-st",
+      "timestamp": "2026-05-10T00:49:00Z",
+      "address": "WELLINGTON AVE & RUPERT ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/wellington-ave",
+        "vancouver/rupert-st"
+      ],
+      "streetNames": [
+        "Wellington Ave",
+        "Rupert St"
+      ],
+      "pulsePointId": "2470988316"
+    },
+    {
       "id": "2026-05-03T06:35:00Z_vancouver/rupert-st_vancouver/e-41st-ave",
       "timestamp": "2026-05-03T06:35:00Z",
       "address": "RUPERT ST & E 41ST AVE",
@@ -120,6 +135,6 @@
       "pulsePointId": "2434824658"
     }
   ],
-  "lastIncident": "2026-05-03T06:35:00Z",
-  "count": 8
+  "lastIncident": "2026-05-10T00:49:00Z",
+  "count": 9
 }

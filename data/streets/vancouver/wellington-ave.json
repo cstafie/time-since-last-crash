@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/wellington-ave",
+  "name": "Wellington Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-10T00:49:00Z_vancouver/wellington-ave_vancouver/rupert-st",
+      "timestamp": "2026-05-10T00:49:00Z",
+      "address": "WELLINGTON AVE & RUPERT ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/wellington-ave",
+        "vancouver/rupert-st"
+      ],
+      "streetNames": [
+        "Wellington Ave",
+        "Rupert St"
+      ],
+      "pulsePointId": "2470988316"
+    }
+  ],
+  "lastIncident": "2026-05-10T00:49:00Z",
+  "count": 1
+}

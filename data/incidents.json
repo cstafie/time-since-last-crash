@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-10T00:49:00Z_vancouver/wellington-ave_vancouver/rupert-st",
+    "timestamp": "2026-05-10T00:49:00Z",
+    "scrapedAt": "2026-05-10T01:18:28Z",
+    "address": "WELLINGTON AVE & RUPERT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/wellington-ave",
+      "vancouver/rupert-st"
+    ],
+    "streetNames": [
+      "Wellington Ave",
+      "Rupert St"
+    ],
+    "pulsePointId": "2470988316"
+  },
+  {
     "id": "2026-05-09T23:33:00Z_coquitlam/guilby-st",
     "timestamp": "2026-05-09T23:33:00Z",
     "scrapedAt": "2026-05-09T23:44:44Z",
