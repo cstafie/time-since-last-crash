@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-10T01:23:00Z_vancouver/cambie-st_vancouver/w-hastings-st",
+      "timestamp": "2026-05-10T01:23:00Z",
+      "address": "CAMBIE ST & W HASTINGS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/cambie-st",
+        "vancouver/w-hastings-st"
+      ],
+      "streetNames": [
+        "Cambie St",
+        "W Hastings St"
+      ],
+      "pulsePointId": "2471009444"
+    },
+    {
       "id": "2026-04-06T20:18:00Z_vancouver/w-hastings-st",
       "timestamp": "2026-04-06T20:18:00Z",
       "address": "W HASTINGS ST",
@@ -45,6 +60,6 @@
       "pulsePointId": "2446024838"
     }
   ],
-  "lastIncident": "2026-04-06T20:18:00Z",
-  "count": 3
+  "lastIncident": "2026-05-10T01:23:00Z",
+  "count": 4
 }

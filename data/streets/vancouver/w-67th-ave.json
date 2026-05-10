@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/w-67th-ave",
+  "name": "W 67th Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-10T01:48:00Z_vancouver/w-67th-ave_vancouver/oak-st",
+      "timestamp": "2026-05-10T01:48:00Z",
+      "address": "W 67TH AVE & OAK ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-67th-ave",
+        "vancouver/oak-st"
+      ],
+      "streetNames": [
+        "W 67th Ave",
+        "Oak St"
+      ],
+      "pulsePointId": "2471026636"
+    }
+  ],
+  "lastIncident": "2026-05-10T01:48:00Z",
+  "count": 1
+}

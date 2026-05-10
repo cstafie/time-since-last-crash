@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-10T01:48:00Z_vancouver/w-67th-ave_vancouver/oak-st",
+    "timestamp": "2026-05-10T01:48:00Z",
+    "scrapedAt": "2026-05-10T02:15:41Z",
+    "address": "W 67TH AVE & OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-67th-ave",
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "W 67th Ave",
+      "Oak St"
+    ],
+    "pulsePointId": "2471026636"
+  },
+  {
+    "id": "2026-05-10T01:23:00Z_vancouver/cambie-st_vancouver/w-hastings-st",
+    "timestamp": "2026-05-10T01:23:00Z",
+    "scrapedAt": "2026-05-10T02:15:41Z",
+    "address": "CAMBIE ST & W HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/cambie-st",
+      "vancouver/w-hastings-st"
+    ],
+    "streetNames": [
+      "Cambie St",
+      "W Hastings St"
+    ],
+    "pulsePointId": "2471009444"
+  },
+  {
     "id": "2026-05-10T00:49:00Z_vancouver/wellington-ave_vancouver/rupert-st",
     "timestamp": "2026-05-10T00:49:00Z",
     "scrapedAt": "2026-05-10T01:18:28Z",
