@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-05-10T20:07:00Z_abbotsford/rogers-ave",
+    "timestamp": "2026-05-10T20:07:00Z",
+    "scrapedAt": "2026-05-10T20:12:04Z",
+    "address": "ROGERS AVE",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/rogers-ave"
+    ],
+    "streetNames": [
+      "Rogers Ave"
+    ],
+    "pulsePointId": "2471493353"
+  },
+  {
+    "id": "2026-05-10T20:05:00Z_mission/32700-lougheed-hwy",
+    "timestamp": "2026-05-10T20:05:00Z",
+    "scrapedAt": "2026-05-10T20:12:04Z",
+    "address": "32700 LOUGHEED HWY",
+    "city": "Mission",
+    "streets": [
+      "mission/32700-lougheed-hwy"
+    ],
+    "streetNames": [
+      "32700 Lougheed Hwy"
+    ],
+    "pulsePointId": "2471490349"
+  },
+  {
     "id": "2026-05-10T19:02:00Z_langley/trans-canada-hwy-onrp_langley/216th-st",
     "timestamp": "2026-05-10T19:02:00Z",
     "scrapedAt": "2026-05-10T19:22:49Z",

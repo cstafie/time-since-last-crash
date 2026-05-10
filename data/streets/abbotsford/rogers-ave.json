@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/rogers-ave",
+  "name": "Rogers Ave",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-05-10T20:07:00Z_abbotsford/rogers-ave",
+      "timestamp": "2026-05-10T20:07:00Z",
+      "address": "ROGERS AVE",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/rogers-ave"
+      ],
+      "streetNames": [
+        "Rogers Ave"
+      ],
+      "pulsePointId": "2471493353"
+    }
+  ],
+  "lastIncident": "2026-05-10T20:07:00Z",
+  "count": 1
+}

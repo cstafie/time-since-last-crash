@@ -9245,5 +9245,19 @@
     "city": "Surrey",
     "lastIncident": "2026-05-10T18:23:00Z",
     "count": 1
+  },
+  "abbotsford/rogers-ave": {
+    "name": "Rogers Ave",
+    "slug": "abbotsford/rogers-ave",
+    "city": "Abbotsford",
+    "lastIncident": "2026-05-10T20:07:00Z",
+    "count": 1
+  },
+  "mission/32700-lougheed-hwy": {
+    "name": "32700 Lougheed Hwy",
+    "slug": "mission/32700-lougheed-hwy",
+    "city": "Mission",
+    "lastIncident": "2026-05-10T20:05:00Z",
+    "count": 1
   }
 }
