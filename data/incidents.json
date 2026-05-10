@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-10T17:01:00Z_langley/40th-ave",
+    "timestamp": "2026-05-10T17:01:00Z",
+    "scrapedAt": "2026-05-10T17:17:50Z",
+    "address": "40TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/40th-ave"
+    ],
+    "streetNames": [
+      "40th Ave"
+    ],
+    "pulsePointId": "2471384079"
+  },
+  {
     "id": "2026-05-10T16:10:00Z_surrey/24th-ave_surrey/mall-accs",
     "timestamp": "2026-05-10T16:10:00Z",
     "scrapedAt": "2026-05-10T16:15:29Z",
