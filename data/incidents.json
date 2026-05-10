@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-05-10T19:02:00Z_langley/trans-canada-hwy-onrp_langley/216th-st",
+    "timestamp": "2026-05-10T19:02:00Z",
+    "scrapedAt": "2026-05-10T19:22:49Z",
+    "address": "TRANS CANADA HWY ONRP & 216TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy-onrp",
+      "langley/216th-st"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy Onrp",
+      "216th St"
+    ],
+    "pulsePointId": "2471454940"
+  },
+  {
+    "id": "2026-05-10T19:00:00Z_surrey/154th-st_surrey/32nd-ave",
+    "timestamp": "2026-05-10T19:00:00Z",
+    "scrapedAt": "2026-05-10T19:22:49Z",
+    "address": "154TH ST & 32ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/154th-st",
+      "surrey/32nd-ave"
+    ],
+    "streetNames": [
+      "154th St",
+      "32nd Ave"
+    ],
+    "pulsePointId": "2471450724"
+  },
+  {
+    "id": "2026-05-10T18:53:00Z_surrey/138th-st",
+    "timestamp": "2026-05-10T18:53:00Z",
+    "scrapedAt": "2026-05-10T19:22:49Z",
+    "address": "138TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/138th-st"
+    ],
+    "streetNames": [
+      "138th St"
+    ],
+    "pulsePointId": "2471447176"
+  },
+  {
     "id": "2026-05-10T18:23:00Z_surrey/116th-ave_surrey/king-rd",
     "timestamp": "2026-05-10T18:23:00Z",
     "scrapedAt": "2026-05-10T18:45:40Z",
