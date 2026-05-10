@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-10T23:14:00Z_vancouver/boundary-rd_vancouver/e-49th-ave",
+    "timestamp": "2026-05-10T23:14:00Z",
+    "scrapedAt": "2026-05-10T23:45:07Z",
+    "address": "BOUNDARY RD & E 49TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/boundary-rd",
+      "vancouver/e-49th-ave"
+    ],
+    "streetNames": [
+      "Boundary Rd",
+      "E 49th Ave"
+    ],
+    "pulsePointId": "2471608819"
+  },
+  {
     "id": "2026-05-10T22:49:00Z_vancouver/alberta-st",
     "timestamp": "2026-05-10T22:49:00Z",
     "scrapedAt": "2026-05-10T23:14:47Z",

@@ -1263,8 +1263,8 @@
     "name": "Boundary Rd",
     "slug": "vancouver/boundary-rd",
     "city": "Vancouver",
-    "lastIncident": "2026-05-09T18:28:00Z",
-    "count": 12
+    "lastIncident": "2026-05-10T23:14:00Z",
+    "count": 13
   },
   "surrey/langley-bps": {
     "name": "Langley Bps",
@@ -3069,8 +3069,8 @@
     "name": "E 49th Ave",
     "slug": "vancouver/e-49th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-09T20:41:00Z",
-    "count": 9
+    "lastIncident": "2026-05-10T23:14:00Z",
+    "count": 10
   },
   "vancouver/victoria-dr": {
     "name": "Victoria Dr",
