@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-10T18:23:00Z_surrey/116th-ave_surrey/king-rd",
+    "timestamp": "2026-05-10T18:23:00Z",
+    "scrapedAt": "2026-05-10T18:45:40Z",
+    "address": "116TH AVE & KING RD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/116th-ave",
+      "surrey/king-rd"
+    ],
+    "streetNames": [
+      "116th Ave",
+      "King Rd"
+    ],
+    "pulsePointId": "2471430550"
+  },
+  {
     "id": "2026-05-10T17:01:00Z_langley/40th-ave",
     "timestamp": "2026-05-10T17:01:00Z",
     "scrapedAt": "2026-05-10T17:17:50Z",

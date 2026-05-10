@@ -1,6 +1,6 @@
 {
-  "slug": "surrey/king-rd",
-  "name": "King Rd",
+  "slug": "surrey/116th-ave",
+  "name": "116th Ave",
   "city": "Surrey",
   "incidents": [
     {
@@ -17,21 +17,8 @@
         "King Rd"
       ],
       "pulsePointId": "2471430550"
-    },
-    {
-      "id": "2026-04-20T04:54:00Z_surrey/king-rd",
-      "timestamp": "2026-04-20T04:54:00Z",
-      "address": "KING RD",
-      "city": "Surrey",
-      "streets": [
-        "surrey/king-rd"
-      ],
-      "streetNames": [
-        "King Rd"
-      ],
-      "pulsePointId": "2457860875"
     }
   ],
   "lastIncident": "2026-05-10T18:23:00Z",
-  "count": 2
+  "count": 1
 }
