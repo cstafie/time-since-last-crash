@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-10T04:15:00Z_vancouver/nelson-st_vancouver/howe-st",
+      "timestamp": "2026-05-10T04:15:00Z",
+      "address": "NELSON ST & HOWE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/nelson-st",
+        "vancouver/howe-st"
+      ],
+      "streetNames": [
+        "Nelson St",
+        "Howe St"
+      ],
+      "pulsePointId": "2471103878"
+    },
+    {
       "id": "2026-04-20T13:57:00Z_vancouver/seymour-st_vancouver/nelson-st",
       "timestamp": "2026-04-20T13:57:00Z",
       "address": "SEYMOUR ST & NELSON ST",
@@ -64,6 +79,6 @@
       "pulsePointId": "2434363478"
     }
   ],
-  "lastIncident": "2026-04-20T13:57:00Z",
-  "count": 4
+  "lastIncident": "2026-05-10T04:15:00Z",
+  "count": 5
 }
