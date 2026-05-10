@@ -1,0 +1,22 @@
+{
+  "slug": "delta/28th-ave",
+  "name": "28th Ave",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-05-10T20:31:00Z_delta/28th-ave",
+      "timestamp": "2026-05-10T20:31:00Z",
+      "address": "28TH AVE",
+      "city": "Delta",
+      "streets": [
+        "delta/28th-ave"
+      ],
+      "streetNames": [
+        "28th Ave"
+      ],
+      "pulsePointId": "2471507204"
+    }
+  ],
+  "lastIncident": "2026-05-10T20:31:00Z",
+  "count": 1
+}

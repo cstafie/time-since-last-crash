@@ -9259,5 +9259,12 @@
     "city": "Mission",
     "lastIncident": "2026-05-10T20:05:00Z",
     "count": 1
+  },
+  "delta/28th-ave": {
+    "name": "28th Ave",
+    "slug": "delta/28th-ave",
+    "city": "Delta",
+    "lastIncident": "2026-05-10T20:31:00Z",
+    "count": 1
   }
 }
