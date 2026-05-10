@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-10T16:10:00Z_surrey/24th-ave_surrey/mall-accs",
+    "timestamp": "2026-05-10T16:10:00Z",
+    "scrapedAt": "2026-05-10T16:15:29Z",
+    "address": "24TH AVE & MALL ACCS",
+    "city": "Surrey",
+    "streets": [
+      "surrey/24th-ave",
+      "surrey/mall-accs"
+    ],
+    "streetNames": [
+      "24th Ave",
+      "Mall Accs"
+    ],
+    "pulsePointId": "2471356620"
+  },
+  {
     "id": "2026-05-10T15:17:00Z_surrey/100th-ave_surrey/148th-st",
     "timestamp": "2026-05-10T15:17:00Z",
     "scrapedAt": "2026-05-10T15:45:09Z",
