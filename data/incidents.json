@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-10T22:49:00Z_vancouver/alberta-st",
+    "timestamp": "2026-05-10T22:49:00Z",
+    "scrapedAt": "2026-05-10T23:14:47Z",
+    "address": "ALBERTA ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/alberta-st"
+    ],
+    "streetNames": [
+      "Alberta St"
+    ],
+    "pulsePointId": "2471592633"
+  },
+  {
+    "id": "2026-05-10T22:46:00Z_surrey/152nd-st_surrey/66a-ave",
+    "timestamp": "2026-05-10T22:46:00Z",
+    "scrapedAt": "2026-05-10T23:14:47Z",
+    "address": "152ND ST & 66A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/152nd-st",
+      "surrey/66a-ave"
+    ],
+    "streetNames": [
+      "152nd St",
+      "66a Ave"
+    ],
+    "pulsePointId": "2471591853"
+  },
+  {
     "id": "2026-05-10T21:08:00Z_maple-ridge/lougheed-hwy",
     "timestamp": "2026-05-10T21:08:00Z",
     "scrapedAt": "2026-05-10T21:14:08Z",
