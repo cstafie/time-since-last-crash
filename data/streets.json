@@ -325,8 +325,8 @@
     "name": "Lougheed Hwy",
     "slug": "maple-ridge/lougheed-hwy",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-08T21:05:00Z",
-    "count": 18
+    "lastIncident": "2026-05-10T21:08:00Z",
+    "count": 19
   },
   "mission/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -6254,8 +6254,8 @@
     "name": "116th St",
     "slug": "delta/116th-st",
     "city": "Delta",
-    "lastIncident": "2026-04-27T03:45:00Z",
-    "count": 4
+    "lastIncident": "2026-05-10T20:54:00Z",
+    "count": 5
   },
   "burnaby/north-rd": {
     "name": "North Rd",
@@ -9265,6 +9265,13 @@
     "slug": "delta/28th-ave",
     "city": "Delta",
     "lastIncident": "2026-05-10T20:31:00Z",
+    "count": 1
+  },
+  "delta/88th-ave": {
+    "name": "88th Ave",
+    "slug": "delta/88th-ave",
+    "city": "Delta",
+    "lastIncident": "2026-05-10T20:54:00Z",
     "count": 1
   }
 }

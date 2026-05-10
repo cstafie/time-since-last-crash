@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-10T21:08:00Z_maple-ridge/lougheed-hwy",
+    "timestamp": "2026-05-10T21:08:00Z",
+    "scrapedAt": "2026-05-10T21:14:08Z",
+    "address": "LOUGHEED HWY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2471528461"
+  },
+  {
+    "id": "2026-05-10T20:54:00Z_delta/88th-ave_delta/116th-st",
+    "timestamp": "2026-05-10T20:54:00Z",
+    "scrapedAt": "2026-05-10T21:14:08Z",
+    "address": "88TH AVE & 116TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/88th-ave",
+      "delta/116th-st"
+    ],
+    "streetNames": [
+      "88th Ave",
+      "116th St"
+    ],
+    "pulsePointId": "2471520454"
+  },
+  {
     "id": "2026-05-10T20:31:00Z_delta/28th-ave",
     "timestamp": "2026-05-10T20:31:00Z",
     "scrapedAt": "2026-05-10T20:44:06Z",
