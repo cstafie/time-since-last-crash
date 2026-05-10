@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-10T05:21:00Z_surrey/146th-st_surrey/88th-ave",
+    "timestamp": "2026-05-10T05:21:00Z",
+    "scrapedAt": "2026-05-10T06:25:02Z",
+    "address": "146TH ST & 88TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/146th-st",
+      "surrey/88th-ave"
+    ],
+    "streetNames": [
+      "146th St",
+      "88th Ave"
+    ],
+    "pulsePointId": "2471133968"
+  },
+  {
+    "id": "2026-05-10T05:14:00Z_vancouver/w-broadway_vancouver/oak-st",
+    "timestamp": "2026-05-10T05:14:00Z",
+    "scrapedAt": "2026-05-10T06:25:02Z",
+    "address": "W BROADWAY & OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-broadway",
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "W Broadway",
+      "Oak St"
+    ],
+    "pulsePointId": "2471131602"
+  },
+  {
     "id": "2026-05-10T04:15:00Z_vancouver/nelson-st_vancouver/howe-st",
     "timestamp": "2026-05-10T04:15:00Z",
     "scrapedAt": "2026-05-10T05:09:22Z",

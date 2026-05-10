@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-10T03:08:00Z",
-    "count": 21
+    "lastIncident": "2026-05-10T05:21:00Z",
+    "count": 22
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",
@@ -766,8 +766,8 @@
     "name": "Oak St",
     "slug": "vancouver/oak-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-10T01:48:00Z",
-    "count": 21
+    "lastIncident": "2026-05-10T05:14:00Z",
+    "count": 22
   },
   "vancouver/w-12th-ave": {
     "name": "W 12th Ave",
@@ -808,8 +808,8 @@
     "name": "W Broadway",
     "slug": "vancouver/w-broadway",
     "city": "Vancouver",
-    "lastIncident": "2026-05-08T16:57:00Z",
-    "count": 10
+    "lastIncident": "2026-05-10T05:14:00Z",
+    "count": 11
   },
   "west-vancouver/eagleridge-drive-ofrp": {
     "name": "Eagleridge Drive Ofrp",
@@ -3237,8 +3237,8 @@
     "name": "146th St",
     "slug": "surrey/146th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-10T23:35:00Z",
-    "count": 3
+    "lastIncident": "2026-05-10T05:21:00Z",
+    "count": 4
   },
   "vancouver/macdonald-st": {
     "name": "Macdonald St",
