@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-05-11T03:11:00Z_surrey/104th-ave_surrey/160th-st",
+      "timestamp": "2026-05-11T03:11:00Z",
+      "address": "104TH AVE & 160TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/104th-ave",
+        "surrey/160th-st"
+      ],
+      "streetNames": [
+        "104th Ave",
+        "160th St"
+      ],
+      "pulsePointId": "2471751161"
+    },
+    {
       "id": "2026-05-04T12:59:00Z_surrey/104th-ave_surrey/king-george-blvd",
       "timestamp": "2026-05-04T12:59:00Z",
       "address": "104TH AVE & KING GEORGE BLVD",
@@ -314,6 +329,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-04T12:59:00Z",
-  "count": 21
+  "lastIncident": "2026-05-11T03:11:00Z",
+  "count": 22
 }

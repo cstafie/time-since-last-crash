@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-05-11T03:18:00Z_richmond/st-albans-rd_richmond/blundell-rd",
+    "timestamp": "2026-05-11T03:18:00Z",
+    "scrapedAt": "2026-05-11T03:43:37Z",
+    "address": "ST ALBANS RD & BLUNDELL RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/st-albans-rd",
+      "richmond/blundell-rd"
+    ],
+    "streetNames": [
+      "St Albans Rd",
+      "Blundell Rd"
+    ],
+    "pulsePointId": "2471754495"
+  },
+  {
+    "id": "2026-05-11T03:11:00Z_surrey/104th-ave_surrey/160th-st",
+    "timestamp": "2026-05-11T03:11:00Z",
+    "scrapedAt": "2026-05-11T03:43:37Z",
+    "address": "104TH AVE & 160TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/104th-ave",
+      "surrey/160th-st"
+    ],
+    "streetNames": [
+      "104th Ave",
+      "160th St"
+    ],
+    "pulsePointId": "2471751161"
+  },
+  {
+    "id": "2026-05-11T03:10:00Z_abbotsford/whelan-rd_abbotsford/sumas-mountain-rd",
+    "timestamp": "2026-05-11T03:10:00Z",
+    "scrapedAt": "2026-05-11T03:43:37Z",
+    "address": "WHELAN RD & SUMAS MOUNTAIN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/whelan-rd",
+      "abbotsford/sumas-mountain-rd"
+    ],
+    "streetNames": [
+      "Whelan Rd",
+      "Sumas Mountain Rd"
+    ],
+    "pulsePointId": "2471749701"
+  },
+  {
     "id": "2026-05-11T01:55:00Z_burnaby/trans-canada-hwy_burnaby/kensington-avenue-ofrp",
     "timestamp": "2026-05-11T01:55:00Z",
     "scrapedAt": "2026-05-11T02:16:13Z",

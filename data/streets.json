@@ -437,8 +437,8 @@
     "name": "Blundell Rd",
     "slug": "richmond/blundell-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-07T20:21:00Z",
-    "count": 10
+    "lastIncident": "2026-05-11T03:18:00Z",
+    "count": 11
   },
   "richmond/bowcock-rd": {
     "name": "Bowcock Rd",
@@ -500,8 +500,8 @@
     "name": "St Albans Rd",
     "slug": "richmond/st-albans-rd",
     "city": "Richmond",
-    "lastIncident": "2026-04-25T01:26:00Z",
-    "count": 3
+    "lastIncident": "2026-05-11T03:18:00Z",
+    "count": 4
   },
   "richmond/wilkinson-rd": {
     "name": "Wilkinson Rd",
@@ -1032,8 +1032,8 @@
     "name": "160th St",
     "slug": "surrey/160th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-01T17:00:00Z",
-    "count": 8
+    "lastIncident": "2026-05-11T03:11:00Z",
+    "count": 9
   },
   "vancouver/e-28th-ave": {
     "name": "E 28th Ave",
@@ -1312,8 +1312,8 @@
     "name": "104th Ave",
     "slug": "surrey/104th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-04T12:59:00Z",
-    "count": 21
+    "lastIncident": "2026-05-11T03:11:00Z",
+    "count": 22
   },
   "surrey/122nd-st": {
     "name": "122nd St",
@@ -2215,8 +2215,8 @@
     "name": "Sumas Mountain Rd",
     "slug": "abbotsford/sumas-mountain-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-27T17:20:00Z",
-    "count": 2
+    "lastIncident": "2026-05-11T03:10:00Z",
+    "count": 3
   },
   "delta/18th-ave": {
     "name": "18th Ave",
@@ -9272,6 +9272,13 @@
     "slug": "delta/88th-ave",
     "city": "Delta",
     "lastIncident": "2026-05-10T20:54:00Z",
+    "count": 1
+  },
+  "abbotsford/whelan-rd": {
+    "name": "Whelan Rd",
+    "slug": "abbotsford/whelan-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-05-11T03:10:00Z",
     "count": 1
   }
 }
