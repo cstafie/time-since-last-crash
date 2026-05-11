@@ -4,6 +4,21 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-05-11T13:03:00Z_delta/hwy-10_delta/120th-st",
+      "timestamp": "2026-05-11T13:03:00Z",
+      "address": "HWY 10 & 120TH ST",
+      "city": "Delta",
+      "streets": [
+        "delta/hwy-10",
+        "delta/120th-st"
+      ],
+      "streetNames": [
+        "Hwy 10",
+        "120th St"
+      ],
+      "pulsePointId": "2471948642"
+    },
+    {
       "id": "2026-03-30T14:59:00Z_delta/hwy-10_delta/120th-st",
       "timestamp": "2026-03-30T14:59:00Z",
       "address": "HWY 10 & 120TH ST",
@@ -19,6 +34,6 @@
       "pulsePointId": "2444402718"
     }
   ],
-  "lastIncident": "2026-03-30T14:59:00Z",
-  "count": 1
+  "lastIncident": "2026-05-11T13:03:00Z",
+  "count": 2
 }

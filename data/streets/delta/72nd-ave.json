@@ -4,6 +4,21 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-05-11T12:45:00Z_delta/120th-st_delta/72nd-ave",
+      "timestamp": "2026-05-11T12:45:00Z",
+      "address": "120TH ST & 72ND AVE",
+      "city": "Delta",
+      "streets": [
+        "delta/120th-st",
+        "delta/72nd-ave"
+      ],
+      "streetNames": [
+        "120th St",
+        "72nd Ave"
+      ],
+      "pulsePointId": "2471943352"
+    },
+    {
       "id": "2026-03-12T19:23:00Z_delta/72nd-ave_delta/120th-st",
       "timestamp": "2026-03-12T19:23:00Z",
       "address": "72ND AVE & 120TH ST",
@@ -32,6 +47,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-12T19:23:00Z",
-  "count": 2
+  "lastIncident": "2026-05-11T12:45:00Z",
+  "count": 3
 }
