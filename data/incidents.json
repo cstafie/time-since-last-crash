@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-11T19:48:00Z_west-vancouver/hwy-99_west-vancouver/ansell-place-onrp",
+    "timestamp": "2026-05-11T19:48:00Z",
+    "scrapedAt": "2026-05-11T20:09:37Z",
+    "address": "HWY 99 & ANSELL PLACE ONRP",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/hwy-99",
+      "west-vancouver/ansell-place-onrp"
+    ],
+    "streetNames": [
+      "Hwy 99",
+      "Ansell Place Onrp"
+    ],
+    "pulsePointId": "2472203524"
+  },
+  {
+    "id": "2026-05-11T19:30:00Z_richmond/hwy-91",
+    "timestamp": "2026-05-11T19:30:00Z",
+    "scrapedAt": "2026-05-11T20:09:37Z",
+    "address": "HWY 91",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hwy-91"
+    ],
+    "streetNames": [
+      "Hwy 91"
+    ],
+    "pulsePointId": "2472191022"
+  },
+  {
     "id": "2026-05-11T19:11:00Z_richmond/minoru-blvd_richmond/gollner-ave",
     "timestamp": "2026-05-11T19:11:00Z",
     "scrapedAt": "2026-05-11T19:30:42Z",

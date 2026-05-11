@@ -1,0 +1,24 @@
+{
+  "slug": "west-vancouver/hwy-99",
+  "name": "Hwy 99",
+  "city": "West Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-11T19:48:00Z_west-vancouver/hwy-99_west-vancouver/ansell-place-onrp",
+      "timestamp": "2026-05-11T19:48:00Z",
+      "address": "HWY 99 & ANSELL PLACE ONRP",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/hwy-99",
+        "west-vancouver/ansell-place-onrp"
+      ],
+      "streetNames": [
+        "Hwy 99",
+        "Ansell Place Onrp"
+      ],
+      "pulsePointId": "2472203524"
+    }
+  ],
+  "lastIncident": "2026-05-11T19:48:00Z",
+  "count": 1
+}
