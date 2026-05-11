@@ -717,8 +717,8 @@
     "name": "E 41st Ave",
     "slug": "vancouver/e-41st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-09T16:18:00Z",
-    "count": 22
+    "lastIncident": "2026-05-11T13:45:00Z",
+    "count": 23
   },
   "vancouver/granville-st": {
     "name": "Granville St",
@@ -752,8 +752,8 @@
     "name": "Knight St",
     "slug": "vancouver/knight-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-06T22:26:00Z",
-    "count": 23
+    "lastIncident": "2026-05-11T13:45:00Z",
+    "count": 24
   },
   "vancouver/lower-mall": {
     "name": "Lower Mall",
