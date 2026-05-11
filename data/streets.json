@@ -465,8 +465,8 @@
     "name": "Hwy 91",
     "slug": "richmond/hwy-91",
     "city": "Richmond",
-    "lastIncident": "2026-05-11T19:30:00Z",
-    "count": 6
+    "lastIncident": "2026-05-11T23:13:00Z",
+    "count": 7
   },
   "richmond/nelson-rd": {
     "name": "Nelson Rd",
@@ -9335,6 +9335,13 @@
     "slug": "surrey/98th-ave",
     "city": "Surrey",
     "lastIncident": "2026-05-11T21:42:00Z",
+    "count": 1
+  },
+  "mission/florence-lake-rd": {
+    "name": "Florence Lake Rd",
+    "slug": "mission/florence-lake-rd",
+    "city": "Mission",
+    "lastIncident": "2026-05-11T23:19:00Z",
     "count": 1
   }
 }

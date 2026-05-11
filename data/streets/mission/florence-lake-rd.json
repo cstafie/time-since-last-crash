@@ -1,0 +1,22 @@
+{
+  "slug": "mission/florence-lake-rd",
+  "name": "Florence Lake Rd",
+  "city": "Mission",
+  "incidents": [
+    {
+      "id": "2026-05-11T23:19:00Z_mission/florence-lake-rd",
+      "timestamp": "2026-05-11T23:19:00Z",
+      "address": "FLORENCE LAKE RD",
+      "city": "Mission",
+      "streets": [
+        "mission/florence-lake-rd"
+      ],
+      "streetNames": [
+        "Florence Lake Rd"
+      ],
+      "pulsePointId": "2472355323"
+    }
+  ],
+  "lastIncident": "2026-05-11T23:19:00Z",
+  "count": 1
+}

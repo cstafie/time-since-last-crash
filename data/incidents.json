@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-05-11T23:19:00Z_mission/florence-lake-rd",
+    "timestamp": "2026-05-11T23:19:00Z",
+    "scrapedAt": "2026-05-11T23:45:54Z",
+    "address": "FLORENCE LAKE RD",
+    "city": "Mission",
+    "streets": [
+      "mission/florence-lake-rd"
+    ],
+    "streetNames": [
+      "Florence Lake Rd"
+    ],
+    "pulsePointId": "2472355323"
+  },
+  {
+    "id": "2026-05-11T23:13:00Z_richmond/hwy-91",
+    "timestamp": "2026-05-11T23:13:00Z",
+    "scrapedAt": "2026-05-11T23:45:54Z",
+    "address": "HWY 91",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hwy-91"
+    ],
+    "streetNames": [
+      "Hwy 91"
+    ],
+    "pulsePointId": "2472352089"
+  },
+  {
     "id": "2026-05-11T22:58:00Z_abbotsford/whatcom-rd",
     "timestamp": "2026-05-11T22:58:00Z",
     "scrapedAt": "2026-05-11T23:16:58Z",
