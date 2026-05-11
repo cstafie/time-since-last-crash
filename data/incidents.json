@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-11T17:28:00Z_surrey/king-george-blvd_surrey/40th-ave",
+    "timestamp": "2026-05-11T17:28:00Z",
+    "scrapedAt": "2026-05-11T17:36:48Z",
+    "address": "KING GEORGE BLVD & 40TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/40th-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "40th Ave"
+    ],
+    "pulsePointId": "2472107248"
+  },
+  {
+    "id": "2026-05-11T16:49:00Z_vancouver/tyne-st_vancouver/kingsway",
+    "timestamp": "2026-05-11T16:49:00Z",
+    "scrapedAt": "2026-05-11T17:36:48Z",
+    "address": "TYNE ST & KINGSWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/tyne-st",
+      "vancouver/kingsway"
+    ],
+    "streetNames": [
+      "Tyne St",
+      "Kingsway"
+    ],
+    "pulsePointId": "2472076096"
+  },
+  {
     "id": "2026-05-11T13:45:00Z_vancouver/e-41st-ave_vancouver/knight-st",
     "timestamp": "2026-05-11T13:45:00Z",
     "scrapedAt": "2026-05-11T14:18:39Z",

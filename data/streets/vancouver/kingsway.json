@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-11T16:49:00Z_vancouver/tyne-st_vancouver/kingsway",
+      "timestamp": "2026-05-11T16:49:00Z",
+      "address": "TYNE ST & KINGSWAY",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/tyne-st",
+        "vancouver/kingsway"
+      ],
+      "streetNames": [
+        "Tyne St",
+        "Kingsway"
+      ],
+      "pulsePointId": "2472076096"
+    },
+    {
       "id": "2026-05-03T18:57:00Z_vancouver/kingsway_vancouver/glen-dr",
       "timestamp": "2026-05-03T18:57:00Z",
       "address": "KINGSWAY & GLEN DR",
@@ -256,6 +271,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-03T18:57:00Z",
-  "count": 17
+  "lastIncident": "2026-05-11T16:49:00Z",
+  "count": 18
 }
