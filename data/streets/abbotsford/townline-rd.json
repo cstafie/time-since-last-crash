@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-05-11T01:02:00Z_abbotsford/townline-rd_abbotsford/edgehill-ave",
+      "timestamp": "2026-05-11T01:02:00Z",
+      "address": "TOWNLINE RD & EDGEHILL AVE",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/townline-rd",
+        "abbotsford/edgehill-ave"
+      ],
+      "streetNames": [
+        "Townline Rd",
+        "Edgehill Ave"
+      ],
+      "pulsePointId": "2471676872"
+    },
+    {
       "id": "2026-05-07T23:08:00Z_abbotsford/townline-rd_abbotsford/maclure-rd",
       "timestamp": "2026-05-07T23:08:00Z",
       "address": "TOWNLINE RD & MACLURE RD",
@@ -63,6 +78,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-07T23:08:00Z",
-  "count": 4
+  "lastIncident": "2026-05-11T01:02:00Z",
+  "count": 5
 }
