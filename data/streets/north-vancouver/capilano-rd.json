@@ -4,6 +4,21 @@
   "city": "North Vancouver",
   "incidents": [
     {
+      "id": "2026-05-11T17:37:00Z_north-vancouver/capilano-rd_north-vancouver/marine-dr",
+      "timestamp": "2026-05-11T17:37:00Z",
+      "address": "CAPILANO RD & MARINE DR",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/capilano-rd",
+        "north-vancouver/marine-dr"
+      ],
+      "streetNames": [
+        "Capilano Rd",
+        "Marine Dr"
+      ],
+      "pulsePointId": "2472112613"
+    },
+    {
       "id": "2026-05-06T18:34:00Z_north-vancouver/capilano-rd_north-vancouver/marine-dr",
       "timestamp": "2026-05-06T18:34:00Z",
       "address": "CAPILANO RD & MARINE DR",
@@ -46,6 +61,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-06T18:34:00Z",
-  "count": 3
+  "lastIncident": "2026-05-11T17:37:00Z",
+  "count": 4
 }

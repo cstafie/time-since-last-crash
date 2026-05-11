@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-11T17:37:00Z_north-vancouver/capilano-rd_north-vancouver/marine-dr",
+    "timestamp": "2026-05-11T17:37:00Z",
+    "scrapedAt": "2026-05-11T18:31:39Z",
+    "address": "CAPILANO RD & MARINE DR",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/capilano-rd",
+      "north-vancouver/marine-dr"
+    ],
+    "streetNames": [
+      "Capilano Rd",
+      "Marine Dr"
+    ],
+    "pulsePointId": "2472112613"
+  },
+  {
     "id": "2026-05-11T17:28:00Z_surrey/king-george-blvd_surrey/40th-ave",
     "timestamp": "2026-05-11T17:28:00Z",
     "scrapedAt": "2026-05-11T17:36:48Z",

@@ -395,8 +395,8 @@
     "name": "Capilano Rd",
     "slug": "north-vancouver/capilano-rd",
     "city": "North Vancouver",
-    "lastIncident": "2026-05-06T18:34:00Z",
-    "count": 3
+    "lastIncident": "2026-05-11T17:37:00Z",
+    "count": 4
   },
   "north-vancouver/e-2nd-st": {
     "name": "E 2nd St",
@@ -1641,8 +1641,8 @@
     "name": "Marine Dr",
     "slug": "north-vancouver/marine-dr",
     "city": "North Vancouver",
-    "lastIncident": "2026-05-09T22:25:00Z",
-    "count": 6
+    "lastIncident": "2026-05-11T17:37:00Z",
+    "count": 7
   },
   "coquitlam/shaughnessy-st": {
     "name": "Shaughnessy St",
