@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-11T05:24:00Z_surrey/176th-st_surrey/80th-ave",
+    "timestamp": "2026-05-11T05:24:00Z",
+    "scrapedAt": "2026-05-11T06:43:13Z",
+    "address": "176TH ST & 80TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/176th-st",
+      "surrey/80th-ave"
+    ],
+    "streetNames": [
+      "176th St",
+      "80th Ave"
+    ],
+    "pulsePointId": "2471809641"
+  },
+  {
     "id": "2026-05-11T04:40:00Z_surrey/72nd-ave_surrey/121st-st",
     "timestamp": "2026-05-11T04:40:00Z",
     "scrapedAt": "2026-05-11T05:15:01Z",
