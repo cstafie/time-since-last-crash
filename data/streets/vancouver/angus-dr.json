@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-11T22:08:00Z_vancouver/angus-dr_vancouver/w-29th-ave",
+      "timestamp": "2026-05-11T22:08:00Z",
+      "address": "ANGUS DR & W 29TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/angus-dr",
+        "vancouver/w-29th-ave"
+      ],
+      "streetNames": [
+        "Angus Dr",
+        "W 29th Ave"
+      ],
+      "pulsePointId": "2472304707"
+    },
+    {
       "id": "2026-03-29T09:55:00Z_vancouver/angus-dr_vancouver/granville-st",
       "timestamp": "2026-03-29T09:55:00Z",
       "address": "ANGUS DR & GRANVILLE ST",
@@ -19,6 +34,6 @@
       "pulsePointId": "2443702051"
     }
   ],
-  "lastIncident": "2026-03-29T09:55:00Z",
-  "count": 1
+  "lastIncident": "2026-05-11T22:08:00Z",
+  "count": 2
 }

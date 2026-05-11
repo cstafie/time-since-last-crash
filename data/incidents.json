@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-05-11T22:08:00Z_vancouver/angus-dr_vancouver/w-29th-ave",
+    "timestamp": "2026-05-11T22:08:00Z",
+    "scrapedAt": "2026-05-11T22:20:02Z",
+    "address": "ANGUS DR & W 29TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/angus-dr",
+      "vancouver/w-29th-ave"
+    ],
+    "streetNames": [
+      "Angus Dr",
+      "W 29th Ave"
+    ],
+    "pulsePointId": "2472304707"
+  },
+  {
+    "id": "2026-05-11T22:00:00Z_surrey/king-george-blvd_surrey/79th-ave",
+    "timestamp": "2026-05-11T22:00:00Z",
+    "scrapedAt": "2026-05-11T22:20:02Z",
+    "address": "KING GEORGE BLVD & 79TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/79th-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "79th Ave"
+    ],
+    "pulsePointId": "2472298108"
+  },
+  {
+    "id": "2026-05-11T21:42:00Z_surrey/98th-ave_surrey/130th-st",
+    "timestamp": "2026-05-11T21:42:00Z",
+    "scrapedAt": "2026-05-11T22:20:02Z",
+    "address": "98TH AVE & 130TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/98th-ave",
+      "surrey/130th-st"
+    ],
+    "streetNames": [
+      "98th Ave",
+      "130th St"
+    ],
+    "pulsePointId": "2472285119"
+  },
+  {
     "id": "2026-05-11T21:25:00Z_north-vancouver/mountain-hwy_north-vancouver/kirkstone-rd",
     "timestamp": "2026-05-11T21:25:00Z",
     "scrapedAt": "2026-05-11T21:36:20Z",

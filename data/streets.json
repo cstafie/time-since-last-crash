@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-05-11T17:28:00Z",
-    "count": 35
+    "lastIncident": "2026-05-11T22:00:00Z",
+    "count": 36
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -2901,8 +2901,8 @@
     "name": "79th Ave",
     "slug": "surrey/79th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-18T23:09:00Z",
-    "count": 1
+    "lastIncident": "2026-05-11T22:00:00Z",
+    "count": 2
   },
   "surrey/harvie-rd": {
     "name": "Harvie Rd",
@@ -4385,8 +4385,8 @@
     "name": "Angus Dr",
     "slug": "vancouver/angus-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-03-29T09:55:00Z",
-    "count": 1
+    "lastIncident": "2026-05-11T22:08:00Z",
+    "count": 2
   },
   "surrey/138th-st": {
     "name": "138th St",
@@ -4539,8 +4539,8 @@
     "name": "W 29th Ave",
     "slug": "vancouver/w-29th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-07T20:02:00Z",
-    "count": 2
+    "lastIncident": "2026-05-11T22:08:00Z",
+    "count": 3
   },
   "langley/208th-st": {
     "name": "208th St",
@@ -5547,8 +5547,8 @@
     "name": "130th St",
     "slug": "surrey/130th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-22T03:38:00Z",
-    "count": 4
+    "lastIncident": "2026-05-11T21:42:00Z",
+    "count": 5
   },
   "vancouver/windermere-st": {
     "name": "Windermere St",
@@ -9328,6 +9328,13 @@
     "slug": "north-vancouver/kirkstone-rd",
     "city": "North Vancouver",
     "lastIncident": "2026-05-11T21:25:00Z",
+    "count": 1
+  },
+  "surrey/98th-ave": {
+    "name": "98th Ave",
+    "slug": "surrey/98th-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-05-11T21:42:00Z",
     "count": 1
   }
 }

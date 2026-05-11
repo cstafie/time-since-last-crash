@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-05-11T22:00:00Z_surrey/king-george-blvd_surrey/79th-ave",
+      "timestamp": "2026-05-11T22:00:00Z",
+      "address": "KING GEORGE BLVD & 79TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/king-george-blvd",
+        "surrey/79th-ave"
+      ],
+      "streetNames": [
+        "King George Blvd",
+        "79th Ave"
+      ],
+      "pulsePointId": "2472298108"
+    },
+    {
       "id": "2026-05-11T17:28:00Z_surrey/king-george-blvd_surrey/40th-ave",
       "timestamp": "2026-05-11T17:28:00Z",
       "address": "KING GEORGE BLVD & 40TH AVE",
@@ -513,6 +528,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-11T17:28:00Z",
-  "count": 35
+  "lastIncident": "2026-05-11T22:00:00Z",
+  "count": 36
 }
