@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-11T01:55:00Z_burnaby/trans-canada-hwy_burnaby/kensington-avenue-ofrp",
+    "timestamp": "2026-05-11T01:55:00Z",
+    "scrapedAt": "2026-05-11T02:16:13Z",
+    "address": "TRANS CANADA HWY & KENSINGTON AVENUE OFRP",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy",
+      "burnaby/kensington-avenue-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "Kensington Avenue Ofrp"
+    ],
+    "pulsePointId": "2471710568"
+  },
+  {
+    "id": "2026-05-11T01:50:00Z_surrey/24th-ave_surrey/140th-st",
+    "timestamp": "2026-05-11T01:50:00Z",
+    "scrapedAt": "2026-05-11T02:16:13Z",
+    "address": "24TH AVE & 140TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/24th-ave",
+      "surrey/140th-st"
+    ],
+    "streetNames": [
+      "24th Ave",
+      "140th St"
+    ],
+    "pulsePointId": "2471706646"
+  },
+  {
     "id": "2026-05-11T01:02:00Z_abbotsford/townline-rd_abbotsford/edgehill-ave",
     "timestamp": "2026-05-11T01:02:00Z",
     "scrapedAt": "2026-05-11T01:18:34Z",

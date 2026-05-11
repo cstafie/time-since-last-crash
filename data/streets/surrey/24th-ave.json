@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-05-11T01:50:00Z_surrey/24th-ave_surrey/140th-st",
+      "timestamp": "2026-05-11T01:50:00Z",
+      "address": "24TH AVE & 140TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/24th-ave",
+        "surrey/140th-st"
+      ],
+      "streetNames": [
+        "24th Ave",
+        "140th St"
+      ],
+      "pulsePointId": "2471706646"
+    },
+    {
       "id": "2026-05-10T16:10:00Z_surrey/24th-ave_surrey/mall-accs",
       "timestamp": "2026-05-10T16:10:00Z",
       "address": "24TH AVE & MALL ACCS",
@@ -107,6 +122,6 @@
       "pulsePointId": "2437349820"
     }
   ],
-  "lastIncident": "2026-05-10T16:10:00Z",
-  "count": 7
+  "lastIncident": "2026-05-11T01:50:00Z",
+  "count": 8
 }

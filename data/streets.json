@@ -556,8 +556,8 @@
     "name": "140th St",
     "slug": "surrey/140th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-07T22:29:00Z",
-    "count": 19
+    "lastIncident": "2026-05-11T01:50:00Z",
+    "count": 20
   },
   "surrey/141a-st": {
     "name": "141a St",
@@ -1249,8 +1249,8 @@
     "name": "Trans Canada Hwy",
     "slug": "burnaby/trans-canada-hwy",
     "city": "Burnaby",
-    "lastIncident": "2026-05-07T21:30:00Z",
-    "count": 17
+    "lastIncident": "2026-05-11T01:55:00Z",
+    "count": 18
   },
   "vancouver/e-1st-ave": {
     "name": "E 1st Ave",
@@ -3062,8 +3062,8 @@
     "name": "24th Ave",
     "slug": "surrey/24th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-10T16:10:00Z",
-    "count": 7
+    "lastIncident": "2026-05-11T01:50:00Z",
+    "count": 8
   },
   "vancouver/e-49th-ave": {
     "name": "E 49th Ave",
@@ -3146,8 +3146,8 @@
     "name": "Kensington Avenue Ofrp",
     "slug": "burnaby/kensington-avenue-ofrp",
     "city": "Burnaby",
-    "lastIncident": "2026-03-20T06:38:00Z",
-    "count": 1
+    "lastIncident": "2026-05-11T01:55:00Z",
+    "count": 2
   },
   "surrey/12th-ave": {
     "name": "12th Ave",
