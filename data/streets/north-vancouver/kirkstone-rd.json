@@ -1,6 +1,6 @@
 {
-  "slug": "north-vancouver/mountain-hwy",
-  "name": "Mountain Hwy",
+  "slug": "north-vancouver/kirkstone-rd",
+  "name": "Kirkstone Rd",
   "city": "North Vancouver",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Kirkstone Rd"
       ],
       "pulsePointId": "2472272407"
-    },
-    {
-      "id": "2026-05-09T00:17:00Z_north-vancouver/dempsey-rd_north-vancouver/mountain-hwy",
-      "timestamp": "2026-05-09T00:17:00Z",
-      "address": "DEMPSEY RD & MOUNTAIN HWY",
-      "city": "North Vancouver",
-      "streets": [
-        "north-vancouver/dempsey-rd",
-        "north-vancouver/mountain-hwy"
-      ],
-      "streetNames": [
-        "Dempsey Rd",
-        "Mountain Hwy"
-      ],
-      "pulsePointId": "2470272645"
     }
   ],
   "lastIncident": "2026-05-11T21:25:00Z",
-  "count": 2
+  "count": 1
 }

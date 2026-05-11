@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-11T21:25:00Z_north-vancouver/mountain-hwy_north-vancouver/kirkstone-rd",
+    "timestamp": "2026-05-11T21:25:00Z",
+    "scrapedAt": "2026-05-11T21:36:20Z",
+    "address": "MOUNTAIN HWY & KIRKSTONE RD",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/mountain-hwy",
+      "north-vancouver/kirkstone-rd"
+    ],
+    "streetNames": [
+      "Mountain Hwy",
+      "Kirkstone Rd"
+    ],
+    "pulsePointId": "2472272407"
+  },
+  {
     "id": "2026-05-11T20:14:00Z_surrey/116th-st_surrey/96th-ave",
     "timestamp": "2026-05-11T20:14:00Z",
     "scrapedAt": "2026-05-11T20:59:41Z",
