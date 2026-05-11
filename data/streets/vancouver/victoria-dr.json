@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-11T22:22:00Z_vancouver/victoria-dr_vancouver/e-54th-ave",
+      "timestamp": "2026-05-11T22:22:00Z",
+      "address": "VICTORIA DR & E 54TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/victoria-dr",
+        "vancouver/e-54th-ave"
+      ],
+      "streetNames": [
+        "Victoria Dr",
+        "E 54th Ave"
+      ],
+      "pulsePointId": "2472314465"
+    },
+    {
       "id": "2026-05-09T08:40:00Z_vancouver/victoria-dr_vancouver/e-49th-ave",
       "timestamp": "2026-05-09T08:40:00Z",
       "address": "VICTORIA DR & E 49TH AVE",
@@ -165,6 +180,6 @@
       "pulsePointId": "2437375979"
     }
   ],
-  "lastIncident": "2026-05-09T08:40:00Z",
-  "count": 11
+  "lastIncident": "2026-05-11T22:22:00Z",
+  "count": 12
 }
