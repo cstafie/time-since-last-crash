@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-05-11T08:54:00Z_surrey/98a-ave_surrey/150th-st",
+      "timestamp": "2026-05-11T08:54:00Z",
+      "address": "98A AVE & 150TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/98a-ave",
+        "surrey/150th-st"
+      ],
+      "streetNames": [
+        "98a Ave",
+        "150th St"
+      ],
+      "pulsePointId": "2471878945"
+    },
+    {
       "id": "2026-05-06T23:41:00Z_surrey/108th-ave_surrey/150th-st",
       "timestamp": "2026-05-06T23:41:00Z",
       "address": "108TH AVE & 150TH ST",
@@ -90,6 +105,6 @@
       "pulsePointId": "2437751695"
     }
   ],
-  "lastIncident": "2026-05-06T23:41:00Z",
-  "count": 6
+  "lastIncident": "2026-05-11T08:54:00Z",
+  "count": 7
 }
