@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-05-12T14:50:00Z_surrey/143rd-st_surrey/84th-ave",
+    "timestamp": "2026-05-12T14:50:00Z",
+    "scrapedAt": "2026-05-12T15:27:21Z",
+    "address": "143RD ST & 84TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/143rd-st",
+      "surrey/84th-ave"
+    ],
+    "streetNames": [
+      "143rd St",
+      "84th Ave"
+    ],
+    "pulsePointId": "2472708340"
+  },
+  {
+    "id": "2026-05-12T14:48:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-05-12T14:48:00Z",
+    "scrapedAt": "2026-05-12T15:27:21Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2472707689"
+  },
+  {
+    "id": "2026-05-12T13:27:00Z_chilliwack/yale-rd",
+    "timestamp": "2026-05-12T13:27:00Z",
+    "scrapedAt": "2026-05-12T15:27:21Z",
+    "address": "YALE RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/yale-rd"
+    ],
+    "streetNames": [
+      "Yale Rd"
+    ],
+    "pulsePointId": "2472670944"
+  },
+  {
     "id": "2026-05-12T05:08:00Z_abbotsford/harris-rd_abbotsford/glenmore-rd",
     "timestamp": "2026-05-12T05:08:00Z",
     "scrapedAt": "2026-05-12T06:26:33Z",
