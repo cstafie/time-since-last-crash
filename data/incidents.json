@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-12T20:45:00Z_surrey/96th-ave",
+    "timestamp": "2026-05-12T20:45:00Z",
+    "scrapedAt": "2026-05-12T21:01:39Z",
+    "address": "96TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/96th-ave"
+    ],
+    "streetNames": [
+      "96th Ave"
+    ],
+    "pulsePointId": "2472941516"
+  },
+  {
+    "id": "2026-05-12T20:26:00Z_burnaby/kingsway_burnaby/station-st",
+    "timestamp": "2026-05-12T20:26:00Z",
+    "scrapedAt": "2026-05-12T21:01:39Z",
+    "address": "KINGSWAY & STATION ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/kingsway",
+      "burnaby/station-st"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "Station St"
+    ],
+    "pulsePointId": "2472928707"
+  },
+  {
     "id": "2026-05-12T20:01:00Z_west-vancouver/welch-st",
     "timestamp": "2026-05-12T20:01:00Z",
     "scrapedAt": "2026-05-12T20:07:35Z",

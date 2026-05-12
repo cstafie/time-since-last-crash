@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-12T20:26:00Z_burnaby/kingsway_burnaby/station-st",
+      "timestamp": "2026-05-12T20:26:00Z",
+      "address": "KINGSWAY & STATION ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/kingsway",
+        "burnaby/station-st"
+      ],
+      "streetNames": [
+        "Kingsway",
+        "Station St"
+      ],
+      "pulsePointId": "2472928707"
+    },
+    {
       "id": "2026-05-01T22:39:00Z_burnaby/kingsway",
       "timestamp": "2026-05-01T22:39:00Z",
       "address": "KINGSWAY",
@@ -145,6 +160,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-01T22:39:00Z",
-  "count": 10
+  "lastIncident": "2026-05-12T20:26:00Z",
+  "count": 11
 }
