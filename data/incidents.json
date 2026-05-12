@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-12T05:08:00Z_abbotsford/harris-rd_abbotsford/glenmore-rd",
+    "timestamp": "2026-05-12T05:08:00Z",
+    "scrapedAt": "2026-05-12T06:26:33Z",
+    "address": "HARRIS RD & GLENMORE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/harris-rd",
+      "abbotsford/glenmore-rd"
+    ],
+    "streetNames": [
+      "Harris Rd",
+      "Glenmore Rd"
+    ],
+    "pulsePointId": "2472541616"
+  },
+  {
     "id": "2026-05-12T04:34:00Z_maple-ridge/203rd-st_maple-ridge/thorne-ave",
     "timestamp": "2026-05-12T04:34:00Z",
     "scrapedAt": "2026-05-12T05:09:11Z",
