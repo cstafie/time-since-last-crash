@@ -3314,8 +3314,8 @@
     "name": "Alderbridge Way",
     "slug": "richmond/alderbridge-way",
     "city": "Richmond",
-    "lastIncident": "2026-04-29T17:23:00Z",
-    "count": 3
+    "lastIncident": "2026-05-12T17:19:00Z",
+    "count": 4
   },
   "abbotsford/bateman-rd": {
     "name": "Bateman Rd",
@@ -3720,8 +3720,8 @@
     "name": "Lansdowne Rd",
     "slug": "richmond/lansdowne-rd",
     "city": "Richmond",
-    "lastIncident": "2026-04-15T22:32:00Z",
-    "count": 3
+    "lastIncident": "2026-05-12T17:19:00Z",
+    "count": 4
   },
   "chilliwack/lutz-rd": {
     "name": "Lutz Rd",
