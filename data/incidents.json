@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-12T01:27:00Z_abbotsford/morey-ave_abbotsford/mccallum-rd",
+    "timestamp": "2026-05-12T01:27:00Z",
+    "scrapedAt": "2026-05-12T02:16:04Z",
+    "address": "MOREY AVE & MCCALLUM RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/morey-ave",
+      "abbotsford/mccallum-rd"
+    ],
+    "streetNames": [
+      "Morey Ave",
+      "Mccallum Rd"
+    ],
+    "pulsePointId": "2472437018"
+  },
+  {
     "id": "2026-05-12T00:00:00Z_new-westminster/vancouver-st_new-westminster/granville-st",
     "timestamp": "2026-05-12T00:00:00Z",
     "scrapedAt": "2026-05-12T00:17:48Z",

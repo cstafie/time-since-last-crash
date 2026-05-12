@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-05-12T01:27:00Z_abbotsford/morey-ave_abbotsford/mccallum-rd",
+      "timestamp": "2026-05-12T01:27:00Z",
+      "address": "MOREY AVE & MCCALLUM RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/morey-ave",
+        "abbotsford/mccallum-rd"
+      ],
+      "streetNames": [
+        "Morey Ave",
+        "Mccallum Rd"
+      ],
+      "pulsePointId": "2472437018"
+    },
+    {
       "id": "2026-04-30T03:40:00Z_abbotsford/mccallum-rd_abbotsford/hawthorne-ave",
       "timestamp": "2026-04-30T03:40:00Z",
       "address": "MCCALLUM RD & HAWTHORNE AVE",
@@ -105,6 +120,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-30T03:40:00Z",
-  "count": 7
+  "lastIncident": "2026-05-12T01:27:00Z",
+  "count": 8
 }
