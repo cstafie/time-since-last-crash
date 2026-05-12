@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-05-12T17:09:00Z_coquitlam/king-edward-st_coquitlam/lougheed-hwy",
+      "timestamp": "2026-05-12T17:09:00Z",
+      "address": "KING EDWARD ST & LOUGHEED HWY",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/king-edward-st",
+        "coquitlam/lougheed-hwy"
+      ],
+      "streetNames": [
+        "King Edward St",
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2472795946"
+    },
+    {
       "id": "2026-05-05T19:23:00Z_coquitlam/lougheed-hwy_coquitlam/pinetree-way",
       "timestamp": "2026-05-05T19:23:00Z",
       "address": "LOUGHEED HWY & PINETREE WAY",
@@ -146,6 +161,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-05T19:23:00Z",
-  "count": 10
+  "lastIncident": "2026-05-12T17:09:00Z",
+  "count": 11
 }
