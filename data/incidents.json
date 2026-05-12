@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-12T03:21:00Z_vancouver/main-st_vancouver/keefer-st",
+    "timestamp": "2026-05-12T03:21:00Z",
+    "scrapedAt": "2026-05-12T03:43:09Z",
+    "address": "MAIN ST & KEEFER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st",
+      "vancouver/keefer-st"
+    ],
+    "streetNames": [
+      "Main St",
+      "Keefer St"
+    ],
+    "pulsePointId": "2472495789"
+  },
+  {
+    "id": "2026-05-12T02:14:00Z_surrey/168th-st_surrey/40th-ave",
+    "timestamp": "2026-05-12T02:14:00Z",
+    "scrapedAt": "2026-05-12T03:43:09Z",
+    "address": "168TH ST & 40TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/168th-st",
+      "surrey/40th-ave"
+    ],
+    "streetNames": [
+      "168th St",
+      "40th Ave"
+    ],
+    "pulsePointId": "2472463918"
+  },
+  {
     "id": "2026-05-12T01:27:00Z_abbotsford/morey-ave_abbotsford/mccallum-rd",
     "timestamp": "2026-05-12T01:27:00Z",
     "scrapedAt": "2026-05-12T02:16:04Z",

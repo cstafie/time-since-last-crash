@@ -577,8 +577,8 @@
     "name": "168th St",
     "slug": "surrey/168th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-30T00:12:00Z",
-    "count": 9
+    "lastIncident": "2026-05-12T02:14:00Z",
+    "count": 10
   },
   "surrey/16th-ave": {
     "name": "16th Ave",
@@ -1494,8 +1494,8 @@
     "name": "Keefer St",
     "slug": "vancouver/keefer-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-09T05:59:00Z",
-    "count": 2
+    "lastIncident": "2026-05-12T03:21:00Z",
+    "count": 3
   },
   "surrey/144th-st": {
     "name": "144th St",
@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-08T00:48:00Z",
-    "count": 28
+    "lastIncident": "2026-05-12T03:21:00Z",
+    "count": 29
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",
@@ -1830,8 +1830,8 @@
     "name": "40th Ave",
     "slug": "surrey/40th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-11T17:28:00Z",
-    "count": 3
+    "lastIncident": "2026-05-12T02:14:00Z",
+    "count": 4
   },
   "chilliwack/vedder-rd": {
     "name": "Vedder Rd",
