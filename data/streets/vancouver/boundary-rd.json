@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-12T18:34:00Z_vancouver/boundary-rd_vancouver/normandy-dr",
+      "timestamp": "2026-05-12T18:34:00Z",
+      "address": "BOUNDARY RD & NORMANDY DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/boundary-rd",
+        "vancouver/normandy-dr"
+      ],
+      "streetNames": [
+        "Boundary Rd",
+        "Normandy Dr"
+      ],
+      "pulsePointId": "2472851429"
+    },
+    {
       "id": "2026-05-10T23:14:00Z_vancouver/boundary-rd_vancouver/e-49th-ave",
       "timestamp": "2026-05-10T23:14:00Z",
       "address": "BOUNDARY RD & E 49TH AVE",
@@ -194,6 +209,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-10T23:14:00Z",
-  "count": 13
+  "lastIncident": "2026-05-12T18:34:00Z",
+  "count": 14
 }

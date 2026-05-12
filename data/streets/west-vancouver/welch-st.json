@@ -1,0 +1,22 @@
+{
+  "slug": "west-vancouver/welch-st",
+  "name": "Welch St",
+  "city": "West Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-12T20:01:00Z_west-vancouver/welch-st",
+      "timestamp": "2026-05-12T20:01:00Z",
+      "address": "WELCH ST",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/welch-st"
+      ],
+      "streetNames": [
+        "Welch St"
+      ],
+      "pulsePointId": "2472912434"
+    }
+  ],
+  "lastIncident": "2026-05-12T20:01:00Z",
+  "count": 1
+}

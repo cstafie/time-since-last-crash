@@ -1,5 +1,97 @@
 [
   {
+    "id": "2026-05-12T20:01:00Z_west-vancouver/welch-st",
+    "timestamp": "2026-05-12T20:01:00Z",
+    "scrapedAt": "2026-05-12T20:07:35Z",
+    "address": "WELCH ST",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/welch-st"
+    ],
+    "streetNames": [
+      "Welch St"
+    ],
+    "pulsePointId": "2472912434"
+  },
+  {
+    "id": "2026-05-12T19:57:00Z_vancouver/slocan-st_vancouver/e-hastings-st",
+    "timestamp": "2026-05-12T19:57:00Z",
+    "scrapedAt": "2026-05-12T20:07:35Z",
+    "address": "SLOCAN ST & E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/slocan-st",
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "Slocan St",
+      "E Hastings St"
+    ],
+    "pulsePointId": "2472909773"
+  },
+  {
+    "id": "2026-05-12T18:39:00Z_abbotsford/marshall-rd_abbotsford/clearbrook-rd",
+    "timestamp": "2026-05-12T18:39:00Z",
+    "scrapedAt": "2026-05-12T20:07:35Z",
+    "address": "MARSHALL RD & CLEARBROOK RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/marshall-rd",
+      "abbotsford/clearbrook-rd"
+    ],
+    "streetNames": [
+      "Marshall Rd",
+      "Clearbrook Rd"
+    ],
+    "pulsePointId": "2472855251"
+  },
+  {
+    "id": "2026-05-12T18:34:00Z_vancouver/boundary-rd_vancouver/normandy-dr",
+    "timestamp": "2026-05-12T18:34:00Z",
+    "scrapedAt": "2026-05-12T20:07:35Z",
+    "address": "BOUNDARY RD & NORMANDY DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/boundary-rd",
+      "vancouver/normandy-dr"
+    ],
+    "streetNames": [
+      "Boundary Rd",
+      "Normandy Dr"
+    ],
+    "pulsePointId": "2472851429"
+  },
+  {
+    "id": "2026-05-12T18:33:00Z_langley/langley-bps",
+    "timestamp": "2026-05-12T18:33:00Z",
+    "scrapedAt": "2026-05-12T20:07:35Z",
+    "address": "LANGLEY BPS",
+    "city": "Langley",
+    "streets": [
+      "langley/langley-bps"
+    ],
+    "streetNames": [
+      "Langley Bps"
+    ],
+    "pulsePointId": "2472851690"
+  },
+  {
+    "id": "2026-05-12T18:26:00Z_langley/fraser-hwy_langley/langley-bps",
+    "timestamp": "2026-05-12T18:26:00Z",
+    "scrapedAt": "2026-05-12T20:07:35Z",
+    "address": "FRASER HWY & LANGLEY BPS",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy",
+      "langley/langley-bps"
+    ],
+    "streetNames": [
+      "Fraser Hwy",
+      "Langley Bps"
+    ],
+    "pulsePointId": "2472849791"
+  },
+  {
     "id": "2026-05-12T17:19:00Z_richmond/alderbridge-way_richmond/lansdowne-rd",
     "timestamp": "2026-05-12T17:19:00Z",
     "scrapedAt": "2026-05-12T18:11:01Z",

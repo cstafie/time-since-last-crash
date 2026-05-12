@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/normandy-dr",
+  "name": "Normandy Dr",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-12T18:34:00Z_vancouver/boundary-rd_vancouver/normandy-dr",
+      "timestamp": "2026-05-12T18:34:00Z",
+      "address": "BOUNDARY RD & NORMANDY DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/boundary-rd",
+        "vancouver/normandy-dr"
+      ],
+      "streetNames": [
+        "Boundary Rd",
+        "Normandy Dr"
+      ],
+      "pulsePointId": "2472851429"
+    }
+  ],
+  "lastIncident": "2026-05-12T18:34:00Z",
+  "count": 1
+}

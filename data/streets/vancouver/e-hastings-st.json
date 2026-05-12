@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-12T19:57:00Z_vancouver/slocan-st_vancouver/e-hastings-st",
+      "timestamp": "2026-05-12T19:57:00Z",
+      "address": "SLOCAN ST & E HASTINGS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/slocan-st",
+        "vancouver/e-hastings-st"
+      ],
+      "streetNames": [
+        "Slocan St",
+        "E Hastings St"
+      ],
+      "pulsePointId": "2472909773"
+    },
+    {
       "id": "2026-05-07T06:18:00Z_vancouver/main-st_vancouver/e-hastings-st",
       "timestamp": "2026-05-07T06:18:00Z",
       "address": "MAIN ST & E HASTINGS ST",
@@ -309,6 +324,6 @@
       "pulsePointId": "2433305056"
     }
   ],
-  "lastIncident": "2026-05-07T06:18:00Z",
-  "count": 21
+  "lastIncident": "2026-05-12T19:57:00Z",
+  "count": 22
 }

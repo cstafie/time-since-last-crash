@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-05-12T18:39:00Z_abbotsford/marshall-rd_abbotsford/clearbrook-rd",
+      "timestamp": "2026-05-12T18:39:00Z",
+      "address": "MARSHALL RD & CLEARBROOK RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/marshall-rd",
+        "abbotsford/clearbrook-rd"
+      ],
+      "streetNames": [
+        "Marshall Rd",
+        "Clearbrook Rd"
+      ],
+      "pulsePointId": "2472855251"
+    },
+    {
       "id": "2026-05-07T22:41:00Z_abbotsford/charlotte-ave_abbotsford/clearbrook-rd",
       "timestamp": "2026-05-07T22:41:00Z",
       "address": "CHARLOTTE AVE & CLEARBROOK RD",
@@ -180,6 +195,6 @@
       "pulsePointId": "2433749907"
     }
   ],
-  "lastIncident": "2026-05-07T22:41:00Z",
-  "count": 12
+  "lastIncident": "2026-05-12T18:39:00Z",
+  "count": 13
 }
