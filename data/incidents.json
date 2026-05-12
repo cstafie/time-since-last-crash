@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-12T22:32:00Z_vancouver/w-31st-ave_vancouver/cambie-st",
+    "timestamp": "2026-05-12T22:32:00Z",
+    "scrapedAt": "2026-05-12T22:48:52Z",
+    "address": "W 31ST AVE & CAMBIE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-31st-ave",
+      "vancouver/cambie-st"
+    ],
+    "streetNames": [
+      "W 31st Ave",
+      "Cambie St"
+    ],
+    "pulsePointId": "2473017965"
+  },
+  {
     "id": "2026-05-12T20:45:00Z_surrey/96th-ave",
     "timestamp": "2026-05-12T20:45:00Z",
     "scrapedAt": "2026-05-12T21:01:39Z",

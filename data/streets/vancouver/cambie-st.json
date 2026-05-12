@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-12T22:32:00Z_vancouver/w-31st-ave_vancouver/cambie-st",
+      "timestamp": "2026-05-12T22:32:00Z",
+      "address": "W 31ST AVE & CAMBIE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-31st-ave",
+        "vancouver/cambie-st"
+      ],
+      "streetNames": [
+        "W 31st Ave",
+        "Cambie St"
+      ],
+      "pulsePointId": "2473017965"
+    },
+    {
       "id": "2026-05-10T01:23:00Z_vancouver/cambie-st_vancouver/w-hastings-st",
       "timestamp": "2026-05-10T01:23:00Z",
       "address": "CAMBIE ST & W HASTINGS ST",
@@ -137,6 +152,6 @@
       "pulsePointId": "2435569506"
     }
   ],
-  "lastIncident": "2026-05-10T01:23:00Z",
-  "count": 9
+  "lastIncident": "2026-05-12T22:32:00Z",
+  "count": 10
 }

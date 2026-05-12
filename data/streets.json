@@ -2460,8 +2460,8 @@
     "name": "Cambie St",
     "slug": "vancouver/cambie-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-10T01:23:00Z",
-    "count": 9
+    "lastIncident": "2026-05-12T22:32:00Z",
+    "count": 10
   },
   "vancouver/e-broadway": {
     "name": "E Broadway",
@@ -9412,6 +9412,13 @@
     "slug": "burnaby/station-st",
     "city": "Burnaby",
     "lastIncident": "2026-05-12T20:26:00Z",
+    "count": 1
+  },
+  "vancouver/w-31st-ave": {
+    "name": "W 31st Ave",
+    "slug": "vancouver/w-31st-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-12T22:32:00Z",
     "count": 1
   }
 }
