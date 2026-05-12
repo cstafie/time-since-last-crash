@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-05-12T23:39:00Z_abbotsford/2000-abbotsford-way",
+    "timestamp": "2026-05-12T23:39:00Z",
+    "scrapedAt": "2026-05-12T23:47:18Z",
+    "address": "2000 ABBOTSFORD WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/2000-abbotsford-way"
+    ],
+    "streetNames": [
+      "2000 Abbotsford Way"
+    ],
+    "pulsePointId": "2473059422"
+  },
+  {
+    "id": "2026-05-12T23:24:00Z_surrey/104th-ave",
+    "timestamp": "2026-05-12T23:24:00Z",
+    "scrapedAt": "2026-05-12T23:47:18Z",
+    "address": "104TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/104th-ave"
+    ],
+    "streetNames": [
+      "104th Ave"
+    ],
+    "pulsePointId": "2473049328"
+  },
+  {
     "id": "2026-05-12T22:41:00Z_langley/244th-st_langley/fraser-hwy",
     "timestamp": "2026-05-12T22:41:00Z",
     "scrapedAt": "2026-05-12T23:21:06Z",

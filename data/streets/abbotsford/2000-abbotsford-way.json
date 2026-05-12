@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/2000-abbotsford-way",
+  "name": "2000 Abbotsford Way",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-05-12T23:39:00Z_abbotsford/2000-abbotsford-way",
+      "timestamp": "2026-05-12T23:39:00Z",
+      "address": "2000 ABBOTSFORD WAY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/2000-abbotsford-way"
+      ],
+      "streetNames": [
+        "2000 Abbotsford Way"
+      ],
+      "pulsePointId": "2473059422"
+    }
+  ],
+  "lastIncident": "2026-05-12T23:39:00Z",
+  "count": 1
+}
