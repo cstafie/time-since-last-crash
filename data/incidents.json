@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-12T04:34:00Z_maple-ridge/203rd-st_maple-ridge/thorne-ave",
+    "timestamp": "2026-05-12T04:34:00Z",
+    "scrapedAt": "2026-05-12T05:09:11Z",
+    "address": "203RD ST & THORNE AVE",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/203rd-st",
+      "maple-ridge/thorne-ave"
+    ],
+    "streetNames": [
+      "203rd St",
+      "Thorne Ave"
+    ],
+    "pulsePointId": "2472529693"
+  },
+  {
     "id": "2026-05-12T03:21:00Z_vancouver/main-st_vancouver/keefer-st",
     "timestamp": "2026-05-12T03:21:00Z",
     "scrapedAt": "2026-05-12T03:43:09Z",

@@ -1,0 +1,24 @@
+{
+  "slug": "maple-ridge/thorne-ave",
+  "name": "Thorne Ave",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-05-12T04:34:00Z_maple-ridge/203rd-st_maple-ridge/thorne-ave",
+      "timestamp": "2026-05-12T04:34:00Z",
+      "address": "203RD ST & THORNE AVE",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/203rd-st",
+        "maple-ridge/thorne-ave"
+      ],
+      "streetNames": [
+        "203rd St",
+        "Thorne Ave"
+      ],
+      "pulsePointId": "2472529693"
+    }
+  ],
+  "lastIncident": "2026-05-12T04:34:00Z",
+  "count": 1
+}

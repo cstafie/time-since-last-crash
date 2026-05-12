@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-05-12T04:34:00Z_maple-ridge/203rd-st_maple-ridge/thorne-ave",
+      "timestamp": "2026-05-12T04:34:00Z",
+      "address": "203RD ST & THORNE AVE",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/203rd-st",
+        "maple-ridge/thorne-ave"
+      ],
+      "streetNames": [
+        "203rd St",
+        "Thorne Ave"
+      ],
+      "pulsePointId": "2472529693"
+    },
+    {
       "id": "2026-05-08T07:58:00Z_maple-ridge/203rd-st_maple-ridge/dewdney-trunk-rd",
       "timestamp": "2026-05-08T07:58:00Z",
       "address": "203RD ST & DEWDNEY TRUNK RD",
@@ -48,6 +63,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-08T07:58:00Z",
-  "count": 3
+  "lastIncident": "2026-05-12T04:34:00Z",
+  "count": 4
 }
