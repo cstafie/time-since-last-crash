@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-12T22:41:00Z_langley/244th-st_langley/fraser-hwy",
+    "timestamp": "2026-05-12T22:41:00Z",
+    "scrapedAt": "2026-05-12T23:21:06Z",
+    "address": "244TH ST & FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/244th-st",
+      "langley/fraser-hwy"
+    ],
+    "streetNames": [
+      "244th St",
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2473023277"
+  },
+  {
     "id": "2026-05-12T22:32:00Z_vancouver/w-31st-ave_vancouver/cambie-st",
     "timestamp": "2026-05-12T22:32:00Z",
     "scrapedAt": "2026-05-12T22:48:52Z",

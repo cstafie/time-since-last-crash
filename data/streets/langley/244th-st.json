@@ -1,0 +1,24 @@
+{
+  "slug": "langley/244th-st",
+  "name": "244th St",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-05-12T22:41:00Z_langley/244th-st_langley/fraser-hwy",
+      "timestamp": "2026-05-12T22:41:00Z",
+      "address": "244TH ST & FRASER HWY",
+      "city": "Langley",
+      "streets": [
+        "langley/244th-st",
+        "langley/fraser-hwy"
+      ],
+      "streetNames": [
+        "244th St",
+        "Fraser Hwy"
+      ],
+      "pulsePointId": "2473023277"
+    }
+  ],
+  "lastIncident": "2026-05-12T22:41:00Z",
+  "count": 1
+}
