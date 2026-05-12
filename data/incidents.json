@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-12T15:57:00Z_coquitlam/schoolhouse-st_coquitlam/eden-ave",
+    "timestamp": "2026-05-12T15:57:00Z",
+    "scrapedAt": "2026-05-12T16:17:22Z",
+    "address": "SCHOOLHOUSE ST & EDEN AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/schoolhouse-st",
+      "coquitlam/eden-ave"
+    ],
+    "streetNames": [
+      "Schoolhouse St",
+      "Eden Ave"
+    ],
+    "pulsePointId": "2472745238"
+  },
+  {
+    "id": "2026-05-12T15:50:00Z_coquitlam/schoolhouse-st_coquitlam/cambridge-dr",
+    "timestamp": "2026-05-12T15:50:00Z",
+    "scrapedAt": "2026-05-12T16:17:22Z",
+    "address": "SCHOOLHOUSE ST & CAMBRIDGE DR",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/schoolhouse-st",
+      "coquitlam/cambridge-dr"
+    ],
+    "streetNames": [
+      "Schoolhouse St",
+      "Cambridge Dr"
+    ],
+    "pulsePointId": "2472740701"
+  },
+  {
     "id": "2026-05-12T14:50:00Z_surrey/143rd-st_surrey/84th-ave",
     "timestamp": "2026-05-12T14:50:00Z",
     "scrapedAt": "2026-05-12T15:27:21Z",

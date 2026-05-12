@@ -1,0 +1,24 @@
+{
+  "slug": "coquitlam/cambridge-dr",
+  "name": "Cambridge Dr",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-05-12T15:50:00Z_coquitlam/schoolhouse-st_coquitlam/cambridge-dr",
+      "timestamp": "2026-05-12T15:50:00Z",
+      "address": "SCHOOLHOUSE ST & CAMBRIDGE DR",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/schoolhouse-st",
+        "coquitlam/cambridge-dr"
+      ],
+      "streetNames": [
+        "Schoolhouse St",
+        "Cambridge Dr"
+      ],
+      "pulsePointId": "2472740701"
+    }
+  ],
+  "lastIncident": "2026-05-12T15:50:00Z",
+  "count": 1
+}

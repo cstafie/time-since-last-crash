@@ -4924,8 +4924,8 @@
     "name": "Schoolhouse St",
     "slug": "coquitlam/schoolhouse-st",
     "city": "Coquitlam",
-    "lastIncident": "2026-04-12T16:50:00Z",
-    "count": 2
+    "lastIncident": "2026-05-12T15:57:00Z",
+    "count": 4
   },
   "maple-ridge/maple-cres": {
     "name": "Maple Cres",
@@ -9370,6 +9370,20 @@
     "slug": "abbotsford/glenmore-rd",
     "city": "Abbotsford",
     "lastIncident": "2026-05-12T05:08:00Z",
+    "count": 1
+  },
+  "coquitlam/eden-ave": {
+    "name": "Eden Ave",
+    "slug": "coquitlam/eden-ave",
+    "city": "Coquitlam",
+    "lastIncident": "2026-05-12T15:57:00Z",
+    "count": 1
+  },
+  "coquitlam/cambridge-dr": {
+    "name": "Cambridge Dr",
+    "slug": "coquitlam/cambridge-dr",
+    "city": "Coquitlam",
+    "lastIncident": "2026-05-12T15:50:00Z",
     "count": 1
   }
 }
