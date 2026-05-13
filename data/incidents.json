@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-05-13T19:39:00Z_port-coquitlam/2370-ottawa-st",
+    "timestamp": "2026-05-13T19:39:00Z",
+    "scrapedAt": "2026-05-13T20:07:45Z",
+    "address": "2370 OTTAWA ST",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/2370-ottawa-st"
+    ],
+    "streetNames": [
+      "2370 Ottawa St"
+    ],
+    "pulsePointId": "2473593489"
+  },
+  {
+    "id": "2026-05-13T19:05:00Z_vancouver/quebec-st_vancouver/e-16th-ave",
+    "timestamp": "2026-05-13T19:05:00Z",
+    "scrapedAt": "2026-05-13T20:07:45Z",
+    "address": "QUEBEC ST & E 16TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/quebec-st",
+      "vancouver/e-16th-ave"
+    ],
+    "streetNames": [
+      "Quebec St",
+      "E 16th Ave"
+    ],
+    "pulsePointId": "2473569623"
+  },
+  {
+    "id": "2026-05-13T19:04:00Z_vancouver/boundary-rd_vancouver/normandy-dr",
+    "timestamp": "2026-05-13T19:04:00Z",
+    "scrapedAt": "2026-05-13T20:07:45Z",
+    "address": "BOUNDARY RD & NORMANDY DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/boundary-rd",
+      "vancouver/normandy-dr"
+    ],
+    "streetNames": [
+      "Boundary Rd",
+      "Normandy Dr"
+    ],
+    "pulsePointId": "2473570108"
+  },
+  {
     "id": "2026-05-13T19:01:00Z_vancouver/8257-oak-st",
     "timestamp": "2026-05-13T19:01:00Z",
     "scrapedAt": "2026-05-13T19:06:39Z",

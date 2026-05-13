@@ -1263,8 +1263,8 @@
     "name": "Boundary Rd",
     "slug": "vancouver/boundary-rd",
     "city": "Vancouver",
-    "lastIncident": "2026-05-12T18:34:00Z",
-    "count": 14
+    "lastIncident": "2026-05-13T19:04:00Z",
+    "count": 15
   },
   "surrey/langley-bps": {
     "name": "Langley Bps",
@@ -7976,8 +7976,8 @@
     "name": "E 16th Ave",
     "slug": "vancouver/e-16th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-30T00:16:00Z",
-    "count": 2
+    "lastIncident": "2026-05-13T19:05:00Z",
+    "count": 3
   },
   "chilliwack/hope-river-rd": {
     "name": "Hope River Rd",
@@ -9404,8 +9404,8 @@
     "name": "Normandy Dr",
     "slug": "vancouver/normandy-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-05-12T18:34:00Z",
-    "count": 1
+    "lastIncident": "2026-05-13T19:04:00Z",
+    "count": 2
   },
   "burnaby/station-st": {
     "name": "Station St",
@@ -9489,6 +9489,20 @@
     "slug": "vancouver/8257-oak-st",
     "city": "Vancouver",
     "lastIncident": "2026-05-13T19:01:00Z",
+    "count": 1
+  },
+  "port-coquitlam/2370-ottawa-st": {
+    "name": "2370 Ottawa St",
+    "slug": "port-coquitlam/2370-ottawa-st",
+    "city": "Port Coquitlam",
+    "lastIncident": "2026-05-13T19:39:00Z",
+    "count": 1
+  },
+  "vancouver/quebec-st": {
+    "name": "Quebec St",
+    "slug": "vancouver/quebec-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-13T19:05:00Z",
     "count": 1
   }
 }
