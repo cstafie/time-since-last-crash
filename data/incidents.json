@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-13T00:10:00Z_richmond/no-3-rd_richmond/granville-ave",
+    "timestamp": "2026-05-13T00:10:00Z",
+    "scrapedAt": "2026-05-13T00:18:35Z",
+    "address": "NO 3 RD & GRANVILLE AVE",
+    "city": "Richmond",
+    "streets": [
+      "richmond/no-3-rd",
+      "richmond/granville-ave"
+    ],
+    "streetNames": [
+      "No 3 Rd",
+      "Granville Ave"
+    ],
+    "pulsePointId": "2473079815"
+  },
+  {
+    "id": "2026-05-12T23:42:00Z_langley/200th-st_langley/80th-ave",
+    "timestamp": "2026-05-12T23:42:00Z",
+    "scrapedAt": "2026-05-13T00:18:35Z",
+    "address": "200TH ST & 80TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/200th-st",
+      "langley/80th-ave"
+    ],
+    "streetNames": [
+      "200th St",
+      "80th Ave"
+    ],
+    "pulsePointId": "2473061858"
+  },
+  {
     "id": "2026-05-12T23:39:00Z_abbotsford/2000-abbotsford-way",
     "timestamp": "2026-05-12T23:39:00Z",
     "scrapedAt": "2026-05-12T23:47:18Z",
