@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-05-13T03:17:00Z_surrey/cloverdale-bps_surrey/57th-ave",
+      "timestamp": "2026-05-13T03:17:00Z",
+      "address": "CLOVERDALE BPS & 57TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/cloverdale-bps",
+        "surrey/57th-ave"
+      ],
+      "streetNames": [
+        "Cloverdale Bps",
+        "57th Ave"
+      ],
+      "pulsePointId": "2473184656"
+    },
+    {
       "id": "2026-05-02T05:05:00Z_surrey/cloverdale-bps_surrey/56th-ave",
       "timestamp": "2026-05-02T05:05:00Z",
       "address": "CLOVERDALE BPS & 56TH AVE",
@@ -45,6 +60,6 @@
       "pulsePointId": "2437141725"
     }
   ],
-  "lastIncident": "2026-05-02T05:05:00Z",
-  "count": 3
+  "lastIncident": "2026-05-13T03:17:00Z",
+  "count": 4
 }

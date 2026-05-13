@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-05-13T03:17:00Z_surrey/cloverdale-bps_surrey/57th-ave",
+    "timestamp": "2026-05-13T03:17:00Z",
+    "scrapedAt": "2026-05-13T03:43:39Z",
+    "address": "CLOVERDALE BPS & 57TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/cloverdale-bps",
+      "surrey/57th-ave"
+    ],
+    "streetNames": [
+      "Cloverdale Bps",
+      "57th Ave"
+    ],
+    "pulsePointId": "2473184656"
+  },
+  {
+    "id": "2026-05-13T03:11:00Z_vancouver/e-51st-ave_vancouver/lanark-st",
+    "timestamp": "2026-05-13T03:11:00Z",
+    "scrapedAt": "2026-05-13T03:43:39Z",
+    "address": "E 51ST AVE & LANARK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-51st-ave",
+      "vancouver/lanark-st"
+    ],
+    "streetNames": [
+      "E 51st Ave",
+      "Lanark St"
+    ],
+    "pulsePointId": "2473181681"
+  },
+  {
+    "id": "2026-05-13T03:01:00Z_surrey/96a-ave_surrey/126th-st",
+    "timestamp": "2026-05-13T03:01:00Z",
+    "scrapedAt": "2026-05-13T03:43:39Z",
+    "address": "96A AVE & 126TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/96a-ave",
+      "surrey/126th-st"
+    ],
+    "streetNames": [
+      "96a Ave",
+      "126th St"
+    ],
+    "pulsePointId": "2473177850"
+  },
+  {
     "id": "2026-05-13T01:04:00Z_vancouver/alder-st_vancouver/w-12th-ave",
     "timestamp": "2026-05-13T01:04:00Z",
     "scrapedAt": "2026-05-13T01:17:56Z",

@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/lanark-st",
+  "name": "Lanark St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-13T03:11:00Z_vancouver/e-51st-ave_vancouver/lanark-st",
+      "timestamp": "2026-05-13T03:11:00Z",
+      "address": "E 51ST AVE & LANARK ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-51st-ave",
+        "vancouver/lanark-st"
+      ],
+      "streetNames": [
+        "E 51st Ave",
+        "Lanark St"
+      ],
+      "pulsePointId": "2473181681"
+    }
+  ],
+  "lastIncident": "2026-05-13T03:11:00Z",
+  "count": 1
+}

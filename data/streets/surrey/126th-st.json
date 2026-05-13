@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-05-13T03:01:00Z_surrey/96a-ave_surrey/126th-st",
+      "timestamp": "2026-05-13T03:01:00Z",
+      "address": "96A AVE & 126TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/96a-ave",
+        "surrey/126th-st"
+      ],
+      "streetNames": [
+        "96a Ave",
+        "126th St"
+      ],
+      "pulsePointId": "2473177850"
+    },
+    {
       "id": "2026-04-09T21:07:00Z_surrey/68th-ave_surrey/126th-st",
       "timestamp": "2026-04-09T21:07:00Z",
       "address": "68TH AVE & 126TH ST",
@@ -77,6 +92,6 @@
       "pulsePointId": "2434307841"
     }
   ],
-  "lastIncident": "2026-04-09T21:07:00Z",
-  "count": 5
+  "lastIncident": "2026-05-13T03:01:00Z",
+  "count": 6
 }

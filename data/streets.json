@@ -1158,8 +1158,8 @@
     "name": "57th Ave",
     "slug": "surrey/57th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-11T04:22:00Z",
-    "count": 1
+    "lastIncident": "2026-05-13T03:17:00Z",
+    "count": 2
   },
   "abbotsford/tolmie-rd": {
     "name": "Tolmie Rd",
@@ -1872,8 +1872,8 @@
     "name": "E 51st Ave",
     "slug": "vancouver/e-51st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-27T23:27:00Z",
-    "count": 2
+    "lastIncident": "2026-05-13T03:11:00Z",
+    "count": 3
   },
   "chilliwack/bellevue-dr": {
     "name": "Bellevue Dr",
@@ -2096,8 +2096,8 @@
     "name": "126th St",
     "slug": "surrey/126th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-09T21:07:00Z",
-    "count": 5
+    "lastIncident": "2026-05-13T03:01:00Z",
+    "count": 6
   },
   "surrey/huntley-ave": {
     "name": "Huntley Ave",
@@ -2971,8 +2971,8 @@
     "name": "Cloverdale Bps",
     "slug": "surrey/cloverdale-bps",
     "city": "Surrey",
-    "lastIncident": "2026-05-02T05:05:00Z",
-    "count": 3
+    "lastIncident": "2026-05-13T03:17:00Z",
+    "count": 4
   },
   "surrey/60th-ave": {
     "name": "60th Ave",
@@ -9433,6 +9433,20 @@
     "slug": "abbotsford/2000-abbotsford-way",
     "city": "Abbotsford",
     "lastIncident": "2026-05-12T23:39:00Z",
+    "count": 1
+  },
+  "vancouver/lanark-st": {
+    "name": "Lanark St",
+    "slug": "vancouver/lanark-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-13T03:11:00Z",
+    "count": 1
+  },
+  "surrey/96a-ave": {
+    "name": "96a Ave",
+    "slug": "surrey/96a-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-05-13T03:01:00Z",
     "count": 1
   }
 }
