@@ -4,6 +4,36 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-13T15:36:00Z_vancouver/knight-st_vancouver/e-59th-ave",
+      "timestamp": "2026-05-13T15:36:00Z",
+      "address": "KNIGHT ST & E 59TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/knight-st",
+        "vancouver/e-59th-ave"
+      ],
+      "streetNames": [
+        "Knight St",
+        "E 59th Ave"
+      ],
+      "pulsePointId": "2473438139"
+    },
+    {
+      "id": "2026-05-13T15:35:00Z_vancouver/knight-st_vancouver/e-59th-ave",
+      "timestamp": "2026-05-13T15:35:00Z",
+      "address": "KNIGHT ST & E 59TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/knight-st",
+        "vancouver/e-59th-ave"
+      ],
+      "streetNames": [
+        "Knight St",
+        "E 59th Ave"
+      ],
+      "pulsePointId": "2473439203"
+    },
+    {
       "id": "2026-05-11T13:45:00Z_vancouver/e-41st-ave_vancouver/knight-st",
       "timestamp": "2026-05-11T13:45:00Z",
       "address": "E 41ST AVE & KNIGHT ST",
@@ -357,6 +387,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-11T13:45:00Z",
-  "count": 24
+  "lastIncident": "2026-05-13T15:36:00Z",
+  "count": 26
 }

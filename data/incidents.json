@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-13T15:36:00Z_vancouver/knight-st_vancouver/e-59th-ave",
+    "timestamp": "2026-05-13T15:36:00Z",
+    "scrapedAt": "2026-05-13T16:19:04Z",
+    "address": "KNIGHT ST & E 59TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/knight-st",
+      "vancouver/e-59th-ave"
+    ],
+    "streetNames": [
+      "Knight St",
+      "E 59th Ave"
+    ],
+    "pulsePointId": "2473438139"
+  },
+  {
+    "id": "2026-05-13T15:35:00Z_vancouver/knight-st_vancouver/e-59th-ave",
+    "timestamp": "2026-05-13T15:35:00Z",
+    "scrapedAt": "2026-05-13T16:19:04Z",
+    "address": "KNIGHT ST & E 59TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/knight-st",
+      "vancouver/e-59th-ave"
+    ],
+    "streetNames": [
+      "Knight St",
+      "E 59th Ave"
+    ],
+    "pulsePointId": "2473439203"
+  },
+  {
     "id": "2026-05-13T14:54:00Z_burnaby/sprott-st_burnaby/norland-ave",
     "timestamp": "2026-05-13T14:54:00Z",
     "scrapedAt": "2026-05-13T15:27:16Z",
