@@ -4,6 +4,19 @@
   "city": "New Westminster",
   "incidents": [
     {
+      "id": "2026-05-13T18:46:00Z_new-westminster/royal-ave",
+      "timestamp": "2026-05-13T18:46:00Z",
+      "address": "ROYAL AVE",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/royal-ave"
+      ],
+      "streetNames": [
+        "Royal Ave"
+      ],
+      "pulsePointId": "2473558175"
+    },
+    {
       "id": "2026-03-31T04:46:00Z_new-westminster/royal-ave_new-westminster/6th-st",
       "timestamp": "2026-03-31T04:46:00Z",
       "address": "ROYAL AVE & 6TH ST",
@@ -91,6 +104,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-31T04:46:00Z",
-  "count": 6
+  "lastIncident": "2026-05-13T18:46:00Z",
+  "count": 7
 }

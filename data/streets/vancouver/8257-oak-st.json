@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/8257-oak-st",
+  "name": "8257 Oak St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-13T19:01:00Z_vancouver/8257-oak-st",
+      "timestamp": "2026-05-13T19:01:00Z",
+      "address": "8257 OAK ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/8257-oak-st"
+      ],
+      "streetNames": [
+        "8257 Oak St"
+      ],
+      "pulsePointId": "2473569622"
+    }
+  ],
+  "lastIncident": "2026-05-13T19:01:00Z",
+  "count": 1
+}

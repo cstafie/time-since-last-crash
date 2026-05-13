@@ -388,8 +388,8 @@
     "name": "Royal Ave",
     "slug": "new-westminster/royal-ave",
     "city": "New Westminster",
-    "lastIncident": "2026-03-31T04:46:00Z",
-    "count": 6
+    "lastIncident": "2026-05-13T18:46:00Z",
+    "count": 7
   },
   "north-vancouver/capilano-rd": {
     "name": "Capilano Rd",
@@ -2838,8 +2838,8 @@
     "name": "7th Ave",
     "slug": "mission/7th-ave",
     "city": "Mission",
-    "lastIncident": "2026-05-09T22:47:00Z",
-    "count": 6
+    "lastIncident": "2026-05-13T18:38:00Z",
+    "count": 7
   },
   "richmond/sexsmith-rd": {
     "name": "Sexsmith Rd",
@@ -5358,8 +5358,8 @@
     "name": "Cedar St",
     "slug": "mission/cedar-st",
     "city": "Mission",
-    "lastIncident": "2026-05-03T20:57:00Z",
-    "count": 4
+    "lastIncident": "2026-05-13T18:38:00Z",
+    "count": 5
   },
   "mission/best-ave": {
     "name": "Best Ave",
@@ -9482,6 +9482,13 @@
     "slug": "surrey/32nd-avenue-dvrs",
     "city": "Surrey",
     "lastIncident": "2026-05-13T16:38:00Z",
+    "count": 1
+  },
+  "vancouver/8257-oak-st": {
+    "name": "8257 Oak St",
+    "slug": "vancouver/8257-oak-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-13T19:01:00Z",
     "count": 1
   }
 }
