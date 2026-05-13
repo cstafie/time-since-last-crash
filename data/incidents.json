@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-05-13T16:53:00Z_burnaby/parker-st",
+    "timestamp": "2026-05-13T16:53:00Z",
+    "scrapedAt": "2026-05-13T17:15:14Z",
+    "address": "PARKER ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/parker-st"
+    ],
+    "streetNames": [
+      "Parker St"
+    ],
+    "pulsePointId": "2473486845"
+  },
+  {
+    "id": "2026-05-13T16:44:00Z_surrey/148th-st_surrey/king-george-blvd",
+    "timestamp": "2026-05-13T16:44:00Z",
+    "scrapedAt": "2026-05-13T17:15:14Z",
+    "address": "148TH ST & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/148th-st",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "148th St",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2473478818"
+  },
+  {
+    "id": "2026-05-13T16:38:00Z_surrey/32nd-avenue-dvrs",
+    "timestamp": "2026-05-13T16:38:00Z",
+    "scrapedAt": "2026-05-13T17:15:14Z",
+    "address": "32ND AVENUE DVRS",
+    "city": "Surrey",
+    "streets": [
+      "surrey/32nd-avenue-dvrs"
+    ],
+    "streetNames": [
+      "32nd Avenue Dvrs"
+    ],
+    "pulsePointId": "2473475954"
+  },
+  {
     "id": "2026-05-13T15:36:00Z_vancouver/knight-st_vancouver/e-59th-ave",
     "timestamp": "2026-05-13T15:36:00Z",
     "scrapedAt": "2026-05-13T16:19:04Z",

@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-05-11T22:00:00Z",
-    "count": 36
+    "lastIncident": "2026-05-13T16:44:00Z",
+    "count": 37
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -1893,8 +1893,8 @@
     "name": "148th St",
     "slug": "surrey/148th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-10T15:17:00Z",
-    "count": 17
+    "lastIncident": "2026-05-13T16:44:00Z",
+    "count": 18
   },
   "vancouver/earles-st": {
     "name": "Earles St",
@@ -9468,6 +9468,20 @@
     "slug": "abbotsford/no-4-rd",
     "city": "Abbotsford",
     "lastIncident": "2026-05-13T13:30:00Z",
+    "count": 1
+  },
+  "burnaby/parker-st": {
+    "name": "Parker St",
+    "slug": "burnaby/parker-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-05-13T16:53:00Z",
+    "count": 1
+  },
+  "surrey/32nd-avenue-dvrs": {
+    "name": "32nd Avenue Dvrs",
+    "slug": "surrey/32nd-avenue-dvrs",
+    "city": "Surrey",
+    "lastIncident": "2026-05-13T16:38:00Z",
     "count": 1
   }
 }
