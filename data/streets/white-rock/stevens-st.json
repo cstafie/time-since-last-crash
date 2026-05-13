@@ -1,6 +1,6 @@
 {
-  "slug": "white-rock/russell-ave",
-  "name": "Russell Ave",
+  "slug": "white-rock/stevens-st",
+  "name": "Stevens St",
   "city": "White Rock",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Russell Ave"
       ],
       "pulsePointId": "2473656978"
-    },
-    {
-      "id": "2026-04-30T19:28:00Z_white-rock/russell-ave_white-rock/best-st",
-      "timestamp": "2026-04-30T19:28:00Z",
-      "address": "RUSSELL AVE & BEST ST",
-      "city": "White Rock",
-      "streets": [
-        "white-rock/russell-ave",
-        "white-rock/best-st"
-      ],
-      "streetNames": [
-        "Russell Ave",
-        "Best St"
-      ],
-      "pulsePointId": "2464646077"
     }
   ],
   "lastIncident": "2026-05-13T21:17:00Z",
-  "count": 2
+  "count": 1
 }

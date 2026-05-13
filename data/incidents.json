@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-05-13T21:43:00Z_richmond/woodwards-rd_richmond/no-2-rd",
+    "timestamp": "2026-05-13T21:43:00Z",
+    "scrapedAt": "2026-05-13T21:56:13Z",
+    "address": "WOODWARDS RD & NO 2 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/woodwards-rd",
+      "richmond/no-2-rd"
+    ],
+    "streetNames": [
+      "Woodwards Rd",
+      "No 2 Rd"
+    ],
+    "pulsePointId": "2473675084"
+  },
+  {
+    "id": "2026-05-13T21:17:00Z_white-rock/stevens-st_white-rock/russell-ave",
+    "timestamp": "2026-05-13T21:17:00Z",
+    "scrapedAt": "2026-05-13T21:56:13Z",
+    "address": "STEVENS ST & RUSSELL AVE",
+    "city": "White Rock",
+    "streets": [
+      "white-rock/stevens-st",
+      "white-rock/russell-ave"
+    ],
+    "streetNames": [
+      "Stevens St",
+      "Russell Ave"
+    ],
+    "pulsePointId": "2473656978"
+  },
+  {
+    "id": "2026-05-13T21:16:00Z_burnaby/deer-lake-ave_burnaby/gilpin-st",
+    "timestamp": "2026-05-13T21:16:00Z",
+    "scrapedAt": "2026-05-13T21:56:13Z",
+    "address": "DEER LAKE AVE & GILPIN ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/deer-lake-ave",
+      "burnaby/gilpin-st"
+    ],
+    "streetNames": [
+      "Deer Lake Ave",
+      "Gilpin St"
+    ],
+    "pulsePointId": "2473658163"
+  },
+  {
+    "id": "2026-05-13T21:14:00Z_burnaby/deer-lake-pkwy",
+    "timestamp": "2026-05-13T21:14:00Z",
+    "scrapedAt": "2026-05-13T21:56:13Z",
+    "address": "DEER LAKE PKWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/deer-lake-pkwy"
+    ],
+    "streetNames": [
+      "Deer Lake Pkwy"
+    ],
+    "pulsePointId": "2473656855"
+  },
+  {
     "id": "2026-05-13T19:39:00Z_port-coquitlam/2370-ottawa-st",
     "timestamp": "2026-05-13T19:39:00Z",
     "scrapedAt": "2026-05-13T20:07:45Z",

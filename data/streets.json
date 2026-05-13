@@ -52,8 +52,8 @@
     "name": "Deer Lake Pkwy",
     "slug": "burnaby/deer-lake-pkwy",
     "city": "Burnaby",
-    "lastIncident": "2026-03-08T06:58:00Z",
-    "count": 2
+    "lastIncident": "2026-05-13T21:14:00Z",
+    "count": 3
   },
   "burnaby/garden-grove-dr": {
     "name": "Garden Grove Dr",
@@ -479,8 +479,8 @@
     "name": "No 2 Rd",
     "slug": "richmond/no-2-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-07T20:21:00Z",
-    "count": 7
+    "lastIncident": "2026-05-13T21:43:00Z",
+    "count": 8
   },
   "richmond/no-3-rd": {
     "name": "No 3 Rd",
@@ -8242,8 +8242,8 @@
     "name": "Russell Ave",
     "slug": "white-rock/russell-ave",
     "city": "White Rock",
-    "lastIncident": "2026-04-30T19:28:00Z",
-    "count": 1
+    "lastIncident": "2026-05-13T21:17:00Z",
+    "count": 2
   },
   "white-rock/best-st": {
     "name": "Best St",
@@ -9503,6 +9503,34 @@
     "slug": "vancouver/quebec-st",
     "city": "Vancouver",
     "lastIncident": "2026-05-13T19:05:00Z",
+    "count": 1
+  },
+  "richmond/woodwards-rd": {
+    "name": "Woodwards Rd",
+    "slug": "richmond/woodwards-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-05-13T21:43:00Z",
+    "count": 1
+  },
+  "white-rock/stevens-st": {
+    "name": "Stevens St",
+    "slug": "white-rock/stevens-st",
+    "city": "White Rock",
+    "lastIncident": "2026-05-13T21:17:00Z",
+    "count": 1
+  },
+  "burnaby/deer-lake-ave": {
+    "name": "Deer Lake Ave",
+    "slug": "burnaby/deer-lake-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-05-13T21:16:00Z",
+    "count": 1
+  },
+  "burnaby/gilpin-st": {
+    "name": "Gilpin St",
+    "slug": "burnaby/gilpin-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-05-13T21:16:00Z",
     "count": 1
   }
 }

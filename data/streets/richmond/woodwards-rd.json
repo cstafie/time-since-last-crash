@@ -1,0 +1,24 @@
+{
+  "slug": "richmond/woodwards-rd",
+  "name": "Woodwards Rd",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-05-13T21:43:00Z_richmond/woodwards-rd_richmond/no-2-rd",
+      "timestamp": "2026-05-13T21:43:00Z",
+      "address": "WOODWARDS RD & NO 2 RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/woodwards-rd",
+        "richmond/no-2-rd"
+      ],
+      "streetNames": [
+        "Woodwards Rd",
+        "No 2 Rd"
+      ],
+      "pulsePointId": "2473675084"
+    }
+  ],
+  "lastIncident": "2026-05-13T21:43:00Z",
+  "count": 1
+}
