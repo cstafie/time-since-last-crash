@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-13T01:04:00Z_vancouver/alder-st_vancouver/w-12th-ave",
+      "timestamp": "2026-05-13T01:04:00Z",
+      "address": "ALDER ST & W 12TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/alder-st",
+        "vancouver/w-12th-ave"
+      ],
+      "streetNames": [
+        "Alder St",
+        "W 12th Ave"
+      ],
+      "pulsePointId": "2473113492"
+    },
+    {
       "id": "2026-05-08T00:25:00Z_vancouver/granville-st_vancouver/w-12th-ave",
       "timestamp": "2026-05-08T00:25:00Z",
       "address": "GRANVILLE ST & W 12TH AVE",
@@ -89,6 +104,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-08T00:25:00Z",
-  "count": 6
+  "lastIncident": "2026-05-13T01:04:00Z",
+  "count": 7
 }

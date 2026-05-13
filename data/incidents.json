@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-05-13T01:04:00Z_vancouver/alder-st_vancouver/w-12th-ave",
+    "timestamp": "2026-05-13T01:04:00Z",
+    "scrapedAt": "2026-05-13T01:17:56Z",
+    "address": "ALDER ST & W 12TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/alder-st",
+      "vancouver/w-12th-ave"
+    ],
+    "streetNames": [
+      "Alder St",
+      "W 12th Ave"
+    ],
+    "pulsePointId": "2473113492"
+  },
+  {
+    "id": "2026-05-13T01:00:00Z_new-westminster/e-columbia-st",
+    "timestamp": "2026-05-13T01:00:00Z",
+    "scrapedAt": "2026-05-13T01:17:56Z",
+    "address": "E COLUMBIA ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/e-columbia-st"
+    ],
+    "streetNames": [
+      "E Columbia St"
+    ],
+    "pulsePointId": "2473110272"
+  },
+  {
+    "id": "2026-05-13T00:52:00Z_maple-ridge/lougheed-hwy",
+    "timestamp": "2026-05-13T00:52:00Z",
+    "scrapedAt": "2026-05-13T01:17:56Z",
+    "address": "LOUGHEED HWY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2473107334"
+  },
+  {
     "id": "2026-05-13T00:10:00Z_richmond/no-3-rd_richmond/granville-ave",
     "timestamp": "2026-05-13T00:10:00Z",
     "scrapedAt": "2026-05-13T00:18:35Z",
