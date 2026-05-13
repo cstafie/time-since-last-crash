@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-05-13T07:52:00Z_delta/river-rd",
+    "timestamp": "2026-05-13T07:52:00Z",
+    "scrapedAt": "2026-05-13T07:57:47Z",
+    "address": "RIVER RD",
+    "city": "Delta",
+    "streets": [
+      "delta/river-rd"
+    ],
+    "streetNames": [
+      "River Rd"
+    ],
+    "pulsePointId": "2473286438"
+  },
+  {
+    "id": "2026-05-13T06:04:00Z_delta/hwy-17-onrp",
+    "timestamp": "2026-05-13T06:04:00Z",
+    "scrapedAt": "2026-05-13T07:57:47Z",
+    "address": "HWY 17 ONRP",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-17-onrp"
+    ],
+    "streetNames": [
+      "Hwy 17 Onrp"
+    ],
+    "pulsePointId": "2473254091"
+  },
+  {
     "id": "2026-05-13T03:43:00Z_pitt-meadows/rannie-rd",
     "timestamp": "2026-05-13T03:43:00Z",
     "scrapedAt": "2026-05-13T05:13:27Z",
