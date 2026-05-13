@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-05-13T23:06:00Z_port-moody/clarke-rd",
+    "timestamp": "2026-05-13T23:06:00Z",
+    "scrapedAt": "2026-05-13T23:21:32Z",
+    "address": "CLARKE RD",
+    "city": "Port Moody",
+    "streets": [
+      "port-moody/clarke-rd"
+    ],
+    "streetNames": [
+      "Clarke Rd"
+    ],
+    "pulsePointId": "2473733288"
+  },
+  {
+    "id": "2026-05-13T22:51:00Z_langley/208th-st",
+    "timestamp": "2026-05-13T22:51:00Z",
+    "scrapedAt": "2026-05-13T23:21:32Z",
+    "address": "208TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/208th-st"
+    ],
+    "streetNames": [
+      "208th St"
+    ],
+    "pulsePointId": "2473720375"
+  },
+  {
     "id": "2026-05-13T22:45:00Z_surrey/140th-st_surrey/78th-ave",
     "timestamp": "2026-05-13T22:45:00Z",
     "scrapedAt": "2026-05-13T22:49:57Z",
