@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-05-13T14:54:00Z_burnaby/sprott-st_burnaby/norland-ave",
+    "timestamp": "2026-05-13T14:54:00Z",
+    "scrapedAt": "2026-05-13T15:27:16Z",
+    "address": "SPROTT ST & NORLAND AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/sprott-st",
+      "burnaby/norland-ave"
+    ],
+    "streetNames": [
+      "Sprott St",
+      "Norland Ave"
+    ],
+    "pulsePointId": "2473416417"
+  },
+  {
+    "id": "2026-05-13T14:50:00Z_langley/trans-canada-hwy",
+    "timestamp": "2026-05-13T14:50:00Z",
+    "scrapedAt": "2026-05-13T15:27:16Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2473414101"
+  },
+  {
+    "id": "2026-05-13T14:34:00Z_vancouver/mcgill-st_vancouver/n-nanaimo-st",
+    "timestamp": "2026-05-13T14:34:00Z",
+    "scrapedAt": "2026-05-13T15:27:16Z",
+    "address": "MCGILL ST & N NANAIMO ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/mcgill-st",
+      "vancouver/n-nanaimo-st"
+    ],
+    "streetNames": [
+      "Mcgill St",
+      "N Nanaimo St"
+    ],
+    "pulsePointId": "2473406291"
+  },
+  {
     "id": "2026-05-13T13:30:00Z_abbotsford/marion-rd_abbotsford/no-4-rd",
     "timestamp": "2026-05-13T13:30:00Z",
     "scrapedAt": "2026-05-13T14:17:07Z",

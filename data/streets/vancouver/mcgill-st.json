@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-13T14:34:00Z_vancouver/mcgill-st_vancouver/n-nanaimo-st",
+      "timestamp": "2026-05-13T14:34:00Z",
+      "address": "MCGILL ST & N NANAIMO ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/mcgill-st",
+        "vancouver/n-nanaimo-st"
+      ],
+      "streetNames": [
+        "Mcgill St",
+        "N Nanaimo St"
+      ],
+      "pulsePointId": "2473406291"
+    },
+    {
       "id": "2026-04-24T01:00:00Z_vancouver/mcgill-st_vancouver/n-penticton-st",
       "timestamp": "2026-04-24T01:00:00Z",
       "address": "MCGILL ST & N PENTICTON ST",
@@ -64,6 +79,6 @@
       "pulsePointId": "2433609059"
     }
   ],
-  "lastIncident": "2026-04-24T01:00:00Z",
-  "count": 4
+  "lastIncident": "2026-05-13T14:34:00Z",
+  "count": 5
 }
