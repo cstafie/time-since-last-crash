@@ -1949,8 +1949,8 @@
     "name": "Trans Canada Hwy",
     "slug": "abbotsford/trans-canada-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-12T14:48:00Z",
-    "count": 32
+    "lastIncident": "2026-05-14T22:46:00Z",
+    "count": 33
   },
   "vancouver/w-16th-ave": {
     "name": "W 16th Ave",
@@ -9566,6 +9566,20 @@
     "slug": "chilliwack/spadina-ave",
     "city": "Chilliwack",
     "lastIncident": "2026-05-14T22:39:00Z",
+    "count": 1
+  },
+  "maple-ridge/223rd-st": {
+    "name": "223rd St",
+    "slug": "maple-ridge/223rd-st",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-05-14T22:52:00Z",
+    "count": 1
+  },
+  "maple-ridge/mcintosh-ave": {
+    "name": "Mcintosh Ave",
+    "slug": "maple-ridge/mcintosh-ave",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-05-14T22:52:00Z",
     "count": 1
   }
 }

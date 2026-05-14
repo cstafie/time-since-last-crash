@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-14T22:52:00Z_maple-ridge/223rd-st_maple-ridge/mcintosh-ave",
+    "timestamp": "2026-05-14T22:52:00Z",
+    "scrapedAt": "2026-05-14T23:15:39Z",
+    "address": "223RD ST & MCINTOSH AVE",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/223rd-st",
+      "maple-ridge/mcintosh-ave"
+    ],
+    "streetNames": [
+      "223rd St",
+      "Mcintosh Ave"
+    ],
+    "pulsePointId": "2474419349"
+  },
+  {
+    "id": "2026-05-14T22:46:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-05-14T22:46:00Z",
+    "scrapedAt": "2026-05-14T23:15:39Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2474415717"
+  },
+  {
     "id": "2026-05-14T22:39:00Z_chilliwack/spadina-ave_chilliwack/first-ave",
     "timestamp": "2026-05-14T22:39:00Z",
     "scrapedAt": "2026-05-14T22:46:12Z",

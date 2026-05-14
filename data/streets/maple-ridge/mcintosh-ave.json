@@ -1,0 +1,24 @@
+{
+  "slug": "maple-ridge/mcintosh-ave",
+  "name": "Mcintosh Ave",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-05-14T22:52:00Z_maple-ridge/223rd-st_maple-ridge/mcintosh-ave",
+      "timestamp": "2026-05-14T22:52:00Z",
+      "address": "223RD ST & MCINTOSH AVE",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/223rd-st",
+        "maple-ridge/mcintosh-ave"
+      ],
+      "streetNames": [
+        "223rd St",
+        "Mcintosh Ave"
+      ],
+      "pulsePointId": "2474419349"
+    }
+  ],
+  "lastIncident": "2026-05-14T22:52:00Z",
+  "count": 1
+}
