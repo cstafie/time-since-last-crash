@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-14T00:28:00Z_surrey/king-george-blvd_surrey/88th-ave",
+    "timestamp": "2026-05-14T00:28:00Z",
+    "scrapedAt": "2026-05-14T01:19:09Z",
+    "address": "KING GEORGE BLVD & 88TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/88th-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "88th Ave"
+    ],
+    "pulsePointId": "2473780871"
+  },
+  {
     "id": "2026-05-13T23:06:00Z_port-moody/clarke-rd",
     "timestamp": "2026-05-13T23:06:00Z",
     "scrapedAt": "2026-05-13T23:21:32Z",
