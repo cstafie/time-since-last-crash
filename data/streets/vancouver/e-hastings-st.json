@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-14T23:41:00Z_vancouver/vernon-dr_vancouver/e-hastings-st",
+      "timestamp": "2026-05-14T23:41:00Z",
+      "address": "VERNON DR & E HASTINGS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/vernon-dr",
+        "vancouver/e-hastings-st"
+      ],
+      "streetNames": [
+        "Vernon Dr",
+        "E Hastings St"
+      ],
+      "pulsePointId": "2474454769"
+    },
+    {
       "id": "2026-05-12T19:57:00Z_vancouver/slocan-st_vancouver/e-hastings-st",
       "timestamp": "2026-05-12T19:57:00Z",
       "address": "SLOCAN ST & E HASTINGS ST",
@@ -324,6 +339,6 @@
       "pulsePointId": "2433305056"
     }
   ],
-  "lastIncident": "2026-05-12T19:57:00Z",
-  "count": 22
+  "lastIncident": "2026-05-14T23:41:00Z",
+  "count": 23
 }

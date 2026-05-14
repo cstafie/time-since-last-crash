@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-14T23:41:00Z_vancouver/vernon-dr_vancouver/e-hastings-st",
+    "timestamp": "2026-05-14T23:41:00Z",
+    "scrapedAt": "2026-05-14T23:46:15Z",
+    "address": "VERNON DR & E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/vernon-dr",
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "Vernon Dr",
+      "E Hastings St"
+    ],
+    "pulsePointId": "2474454769"
+  },
+  {
     "id": "2026-05-14T22:52:00Z_maple-ridge/223rd-st_maple-ridge/mcintosh-ave",
     "timestamp": "2026-05-14T22:52:00Z",
     "scrapedAt": "2026-05-14T23:15:39Z",
