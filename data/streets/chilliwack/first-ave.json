@@ -4,6 +4,21 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-05-14T22:39:00Z_chilliwack/spadina-ave_chilliwack/first-ave",
+      "timestamp": "2026-05-14T22:39:00Z",
+      "address": "SPADINA AVE & FIRST AVE",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/spadina-ave",
+        "chilliwack/first-ave"
+      ],
+      "streetNames": [
+        "Spadina Ave",
+        "First Ave"
+      ],
+      "pulsePointId": "2474410975"
+    },
+    {
       "id": "2026-05-06T01:40:00Z_chilliwack/first-ave_chilliwack/prest-rd",
       "timestamp": "2026-05-06T01:40:00Z",
       "address": "FIRST AVE & PREST RD",
@@ -75,6 +90,6 @@
       "pulsePointId": "2435443522"
     }
   ],
-  "lastIncident": "2026-05-06T01:40:00Z",
-  "count": 5
+  "lastIncident": "2026-05-14T22:39:00Z",
+  "count": 6
 }

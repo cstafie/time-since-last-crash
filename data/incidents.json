@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-14T22:39:00Z_chilliwack/spadina-ave_chilliwack/first-ave",
+    "timestamp": "2026-05-14T22:39:00Z",
+    "scrapedAt": "2026-05-14T22:46:12Z",
+    "address": "SPADINA AVE & FIRST AVE",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/spadina-ave",
+      "chilliwack/first-ave"
+    ],
+    "streetNames": [
+      "Spadina Ave",
+      "First Ave"
+    ],
+    "pulsePointId": "2474410975"
+  },
+  {
+    "id": "2026-05-14T22:32:00Z_vancouver/park-dr_vancouver/hudson-st",
+    "timestamp": "2026-05-14T22:32:00Z",
+    "scrapedAt": "2026-05-14T22:46:12Z",
+    "address": "PARK DR & HUDSON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/park-dr",
+      "vancouver/hudson-st"
+    ],
+    "streetNames": [
+      "Park Dr",
+      "Hudson St"
+    ],
+    "pulsePointId": "2474405975"
+  },
+  {
     "id": "2026-05-14T22:11:00Z_lions-bay/oceanview-road-ofrp",
     "timestamp": "2026-05-14T22:11:00Z",
     "scrapedAt": "2026-05-14T22:20:26Z",
