@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-14T17:31:00Z_coquitlam/pinetree-way_coquitlam/david-ave",
+    "timestamp": "2026-05-14T17:31:00Z",
+    "scrapedAt": "2026-05-14T18:07:24Z",
+    "address": "PINETREE WAY & DAVID AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/pinetree-way",
+      "coquitlam/david-ave"
+    ],
+    "streetNames": [
+      "Pinetree Way",
+      "David Ave"
+    ],
+    "pulsePointId": "2474199829"
+  },
+  {
+    "id": "2026-05-14T17:10:00Z_vancouver/powell-st",
+    "timestamp": "2026-05-14T17:10:00Z",
+    "scrapedAt": "2026-05-14T18:07:24Z",
+    "address": "POWELL ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/powell-st"
+    ],
+    "streetNames": [
+      "Powell St"
+    ],
+    "pulsePointId": "2474186336"
+  },
+  {
     "id": "2026-05-14T16:07:00Z_surrey/20th-ave_surrey/128th-st",
     "timestamp": "2026-05-14T16:07:00Z",
     "scrapedAt": "2026-05-14T16:13:02Z",
