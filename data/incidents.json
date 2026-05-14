@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-14T19:48:00Z_surrey/king-george-blvd_surrey/92nd-ave",
+    "timestamp": "2026-05-14T19:48:00Z",
+    "scrapedAt": "2026-05-14T20:04:19Z",
+    "address": "KING GEORGE BLVD & 92ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/92nd-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "92nd Ave"
+    ],
+    "pulsePointId": "2474291139"
+  },
+  {
     "id": "2026-05-14T17:31:00Z_coquitlam/pinetree-way_coquitlam/david-ave",
     "timestamp": "2026-05-14T17:31:00Z",
     "scrapedAt": "2026-05-14T18:07:24Z",
