@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-14T05:39:00Z_vancouver/nelson-st_vancouver/burrard-st",
+      "timestamp": "2026-05-14T05:39:00Z",
+      "address": "NELSON ST & BURRARD ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/nelson-st",
+        "vancouver/burrard-st"
+      ],
+      "streetNames": [
+        "Nelson St",
+        "Burrard St"
+      ],
+      "pulsePointId": "2473933877"
+    },
+    {
       "id": "2026-05-10T04:15:00Z_vancouver/nelson-st_vancouver/howe-st",
       "timestamp": "2026-05-10T04:15:00Z",
       "address": "NELSON ST & HOWE ST",
@@ -79,6 +94,6 @@
       "pulsePointId": "2434363478"
     }
   ],
-  "lastIncident": "2026-05-10T04:15:00Z",
-  "count": 5
+  "lastIncident": "2026-05-14T05:39:00Z",
+  "count": 6
 }

@@ -703,8 +703,8 @@
     "name": "Burrard St",
     "slug": "vancouver/burrard-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-01T04:40:00Z",
-    "count": 11
+    "lastIncident": "2026-05-14T05:39:00Z",
+    "count": 12
   },
   "vancouver/e-12th-ave": {
     "name": "E 12th Ave",
@@ -2110,8 +2110,8 @@
     "name": "Nelson St",
     "slug": "vancouver/nelson-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-10T04:15:00Z",
-    "count": 5
+    "lastIncident": "2026-05-14T05:39:00Z",
+    "count": 6
   },
   "abbotsford/mt-lehman-rd": {
     "name": "Mt Lehman Rd",
