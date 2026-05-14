@@ -129,8 +129,8 @@
     "name": "Trans Canada Hwy",
     "slug": "chilliwack/trans-canada-hwy",
     "city": "Chilliwack",
-    "lastIncident": "2026-04-19T19:07:00Z",
-    "count": 8
+    "lastIncident": "2026-05-14T13:59:00Z",
+    "count": 9
   },
   "chilliwack/upper-prairie-rd": {
     "name": "Upper Prairie Rd",
@@ -885,8 +885,8 @@
     "name": "176th St",
     "slug": "surrey/176th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-11T05:24:00Z",
-    "count": 23
+    "lastIncident": "2026-05-14T13:34:00Z",
+    "count": 24
   },
   "surrey/100th-ave": {
     "name": "100th Ave",
@@ -927,8 +927,8 @@
     "name": "Fraser Hwy",
     "slug": "surrey/fraser-hwy",
     "city": "Surrey",
-    "lastIncident": "2026-05-09T05:57:00Z",
-    "count": 9
+    "lastIncident": "2026-05-14T13:34:00Z",
+    "count": 10
   },
   "surrey/159th-st": {
     "name": "159th St",

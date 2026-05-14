@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-14T13:59:00Z_chilliwack/trans-canada-hwy",
+    "timestamp": "2026-05-14T13:59:00Z",
+    "scrapedAt": "2026-05-14T14:14:22Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2474076638"
+  },
+  {
+    "id": "2026-05-14T13:34:00Z_surrey/176th-st_surrey/fraser-hwy",
+    "timestamp": "2026-05-14T13:34:00Z",
+    "scrapedAt": "2026-05-14T14:14:22Z",
+    "address": "176TH ST & FRASER HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/176th-st",
+      "surrey/fraser-hwy"
+    ],
+    "streetNames": [
+      "176th St",
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2474065937"
+  },
+  {
     "id": "2026-05-14T05:39:00Z_vancouver/nelson-st_vancouver/burrard-st",
     "timestamp": "2026-05-14T05:39:00Z",
     "scrapedAt": "2026-05-14T06:33:06Z",
