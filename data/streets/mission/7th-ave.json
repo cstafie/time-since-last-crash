@@ -4,6 +4,21 @@
   "city": "Mission",
   "incidents": [
     {
+      "id": "2026-05-14T04:15:00Z_mission/7th-ave_mission/hurd-st",
+      "timestamp": "2026-05-14T04:15:00Z",
+      "address": "7TH AVE & HURD ST",
+      "city": "Mission",
+      "streets": [
+        "mission/7th-ave",
+        "mission/hurd-st"
+      ],
+      "streetNames": [
+        "7th Ave",
+        "Hurd St"
+      ],
+      "pulsePointId": "2473900758"
+    },
+    {
       "id": "2026-05-13T18:38:00Z_mission/7th-ave_mission/cedar-st",
       "timestamp": "2026-05-13T18:38:00Z",
       "address": "7TH AVE & CEDAR ST",
@@ -107,6 +122,6 @@
       "pulsePointId": "2436661219"
     }
   ],
-  "lastIncident": "2026-05-13T18:38:00Z",
-  "count": 7
+  "lastIncident": "2026-05-14T04:15:00Z",
+  "count": 8
 }

@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-14T04:15:00Z_mission/7th-ave_mission/hurd-st",
+    "timestamp": "2026-05-14T04:15:00Z",
+    "scrapedAt": "2026-05-14T05:12:57Z",
+    "address": "7TH AVE & HURD ST",
+    "city": "Mission",
+    "streets": [
+      "mission/7th-ave",
+      "mission/hurd-st"
+    ],
+    "streetNames": [
+      "7th Ave",
+      "Hurd St"
+    ],
+    "pulsePointId": "2473900758"
+  },
+  {
     "id": "2026-05-14T00:28:00Z_surrey/king-george-blvd_surrey/88th-ave",
     "timestamp": "2026-05-14T00:28:00Z",
     "scrapedAt": "2026-05-14T01:19:09Z",
