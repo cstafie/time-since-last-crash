@@ -1,0 +1,22 @@
+{
+  "slug": "lions-bay/oceanview-road-ofrp",
+  "name": "Oceanview Road Ofrp",
+  "city": "Lions Bay",
+  "incidents": [
+    {
+      "id": "2026-05-14T22:11:00Z_lions-bay/oceanview-road-ofrp",
+      "timestamp": "2026-05-14T22:11:00Z",
+      "address": "OCEANVIEW ROAD OFRP",
+      "city": "Lions Bay",
+      "streets": [
+        "lions-bay/oceanview-road-ofrp"
+      ],
+      "streetNames": [
+        "Oceanview Road Ofrp"
+      ],
+      "pulsePointId": "2474393273"
+    }
+  ],
+  "lastIncident": "2026-05-14T22:11:00Z",
+  "count": 1
+}

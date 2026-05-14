@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-05-14T22:11:00Z_lions-bay/oceanview-road-ofrp",
+    "timestamp": "2026-05-14T22:11:00Z",
+    "scrapedAt": "2026-05-14T22:20:26Z",
+    "address": "OCEANVIEW ROAD OFRP",
+    "city": "Lions Bay",
+    "streets": [
+      "lions-bay/oceanview-road-ofrp"
+    ],
+    "streetNames": [
+      "Oceanview Road Ofrp"
+    ],
+    "pulsePointId": "2474393273"
+  },
+  {
+    "id": "2026-05-14T22:07:00Z_richmond/cambie-rd_richmond/garden-city-rd",
+    "timestamp": "2026-05-14T22:07:00Z",
+    "scrapedAt": "2026-05-14T22:20:26Z",
+    "address": "CAMBIE RD & GARDEN CITY RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/cambie-rd",
+      "richmond/garden-city-rd"
+    ],
+    "streetNames": [
+      "Cambie Rd",
+      "Garden City Rd"
+    ],
+    "pulsePointId": "2474388898"
+  },
+  {
+    "id": "2026-05-14T21:58:00Z_surrey/129th-st_surrey/102nd-ave",
+    "timestamp": "2026-05-14T21:58:00Z",
+    "scrapedAt": "2026-05-14T22:20:26Z",
+    "address": "129TH ST & 102ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/129th-st",
+      "surrey/102nd-ave"
+    ],
+    "streetNames": [
+      "129th St",
+      "102nd Ave"
+    ],
+    "pulsePointId": "2474383671"
+  },
+  {
+    "id": "2026-05-14T21:49:00Z_vancouver/clark-dr_vancouver/e-2nd-ave",
+    "timestamp": "2026-05-14T21:49:00Z",
+    "scrapedAt": "2026-05-14T22:20:26Z",
+    "address": "CLARK DR & E 2ND AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/clark-dr",
+      "vancouver/e-2nd-ave"
+    ],
+    "streetNames": [
+      "Clark Dr",
+      "E 2nd Ave"
+    ],
+    "pulsePointId": "2474377594"
+  },
+  {
     "id": "2026-05-14T21:44:00Z_surrey/85a-ave_surrey/144th-st",
     "timestamp": "2026-05-14T21:44:00Z",
     "scrapedAt": "2026-05-14T21:51:23Z",
