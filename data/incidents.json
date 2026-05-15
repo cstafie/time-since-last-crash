@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-15T06:34:00Z_maple-ridge/236th-st_maple-ridge/fern-cres",
+    "timestamp": "2026-05-15T06:34:00Z",
+    "scrapedAt": "2026-05-15T06:40:36Z",
+    "address": "236TH ST & FERN CRES",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/236th-st",
+      "maple-ridge/fern-cres"
+    ],
+    "streetNames": [
+      "236th St",
+      "Fern Cres"
+    ],
+    "pulsePointId": "2474658582"
+  },
+  {
+    "id": "2026-05-15T05:14:00Z_abbotsford/north-parallel-rd",
+    "timestamp": "2026-05-15T05:14:00Z",
+    "scrapedAt": "2026-05-15T06:40:36Z",
+    "address": "NORTH PARALLEL RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/north-parallel-rd"
+    ],
+    "streetNames": [
+      "North Parallel Rd"
+    ],
+    "pulsePointId": "2474629635"
+  },
+  {
     "id": "2026-05-15T04:53:00Z_abbotsford/trans-canada-hwy",
     "timestamp": "2026-05-15T04:53:00Z",
     "scrapedAt": "2026-05-15T05:14:27Z",

@@ -1,0 +1,24 @@
+{
+  "slug": "maple-ridge/236th-st",
+  "name": "236th St",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-05-15T06:34:00Z_maple-ridge/236th-st_maple-ridge/fern-cres",
+      "timestamp": "2026-05-15T06:34:00Z",
+      "address": "236TH ST & FERN CRES",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/236th-st",
+        "maple-ridge/fern-cres"
+      ],
+      "streetNames": [
+        "236th St",
+        "Fern Cres"
+      ],
+      "pulsePointId": "2474658582"
+    }
+  ],
+  "lastIncident": "2026-05-15T06:34:00Z",
+  "count": 1
+}

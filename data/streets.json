@@ -7017,8 +7017,8 @@
     "name": "North Parallel Rd",
     "slug": "abbotsford/north-parallel-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-25T02:20:00Z",
-    "count": 2
+    "lastIncident": "2026-05-15T05:14:00Z",
+    "count": 3
   },
   "north-vancouver/westview-drive-ofrp": {
     "name": "Westview Drive Ofrp",
@@ -9615,6 +9615,20 @@
     "slug": "north-vancouver/n-dollarton-hwy",
     "city": "North Vancouver",
     "lastIncident": "2026-05-15T03:48:00Z",
+    "count": 1
+  },
+  "maple-ridge/236th-st": {
+    "name": "236th St",
+    "slug": "maple-ridge/236th-st",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-05-15T06:34:00Z",
+    "count": 1
+  },
+  "maple-ridge/fern-cres": {
+    "name": "Fern Cres",
+    "slug": "maple-ridge/fern-cres",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-05-15T06:34:00Z",
     "count": 1
   }
 }

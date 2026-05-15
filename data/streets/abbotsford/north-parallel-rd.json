@@ -4,6 +4,19 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-05-15T05:14:00Z_abbotsford/north-parallel-rd",
+      "timestamp": "2026-05-15T05:14:00Z",
+      "address": "NORTH PARALLEL RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/north-parallel-rd"
+      ],
+      "streetNames": [
+        "North Parallel Rd"
+      ],
+      "pulsePointId": "2474629635"
+    },
+    {
       "id": "2026-04-25T02:20:00Z_abbotsford/old-yale-rd_abbotsford/north-parallel-rd",
       "timestamp": "2026-04-25T02:20:00Z",
       "address": "OLD YALE RD & NORTH PARALLEL RD",
@@ -32,6 +45,6 @@
       "pulsePointId": "2456254691"
     }
   ],
-  "lastIncident": "2026-04-25T02:20:00Z",
-  "count": 2
+  "lastIncident": "2026-05-15T05:14:00Z",
+  "count": 3
 }
