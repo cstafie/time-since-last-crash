@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-15T15:53:00Z_burnaby/royal-oak-ave_burnaby/eglinton-st",
+    "timestamp": "2026-05-15T15:53:00Z",
+    "scrapedAt": "2026-05-15T16:10:39Z",
+    "address": "ROYAL OAK AVE & EGLINTON ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/royal-oak-ave",
+      "burnaby/eglinton-st"
+    ],
+    "streetNames": [
+      "Royal Oak Ave",
+      "Eglinton St"
+    ],
+    "pulsePointId": "2474849523"
+  },
+  {
+    "id": "2026-05-15T15:29:00Z_vancouver/w-67th-ave_vancouver/cartier-st",
+    "timestamp": "2026-05-15T15:29:00Z",
+    "scrapedAt": "2026-05-15T16:10:39Z",
+    "address": "W 67TH AVE & CARTIER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-67th-ave",
+      "vancouver/cartier-st"
+    ],
+    "streetNames": [
+      "W 67th Ave",
+      "Cartier St"
+    ],
+    "pulsePointId": "2474836011"
+  },
+  {
     "id": "2026-05-15T14:52:00Z_richmond/cooney-rd_richmond/westminster-hwy",
     "timestamp": "2026-05-15T14:52:00Z",
     "scrapedAt": "2026-05-15T15:14:44Z",

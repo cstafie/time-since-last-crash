@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-15T15:53:00Z_burnaby/royal-oak-ave_burnaby/eglinton-st",
+      "timestamp": "2026-05-15T15:53:00Z",
+      "address": "ROYAL OAK AVE & EGLINTON ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/royal-oak-ave",
+        "burnaby/eglinton-st"
+      ],
+      "streetNames": [
+        "Royal Oak Ave",
+        "Eglinton St"
+      ],
+      "pulsePointId": "2474849523"
+    },
+    {
       "id": "2026-05-03T02:41:00Z_burnaby/sanders-st_burnaby/royal-oak-ave",
       "timestamp": "2026-05-03T02:41:00Z",
       "address": "SANDERS ST & ROYAL OAK AVE",
@@ -49,6 +64,6 @@
       "pulsePointId": "2439944324"
     }
   ],
-  "lastIncident": "2026-05-03T02:41:00Z",
-  "count": 3
+  "lastIncident": "2026-05-15T15:53:00Z",
+  "count": 4
 }

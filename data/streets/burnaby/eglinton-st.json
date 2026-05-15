@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/eglinton-st",
+  "name": "Eglinton St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-05-15T15:53:00Z_burnaby/royal-oak-ave_burnaby/eglinton-st",
+      "timestamp": "2026-05-15T15:53:00Z",
+      "address": "ROYAL OAK AVE & EGLINTON ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/royal-oak-ave",
+        "burnaby/eglinton-st"
+      ],
+      "streetNames": [
+        "Royal Oak Ave",
+        "Eglinton St"
+      ],
+      "pulsePointId": "2474849523"
+    }
+  ],
+  "lastIncident": "2026-05-15T15:53:00Z",
+  "count": 1
+}
