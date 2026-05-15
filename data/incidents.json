@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-15T18:46:00Z_surrey/king-george-blvd",
+    "timestamp": "2026-05-15T18:46:00Z",
+    "scrapedAt": "2026-05-15T19:29:23Z",
+    "address": "KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "King George Blvd"
+    ],
+    "pulsePointId": "2474962525"
+  },
+  {
+    "id": "2026-05-15T18:44:00Z_vancouver/w-43rd-ave_vancouver/vine-st",
+    "timestamp": "2026-05-15T18:44:00Z",
+    "scrapedAt": "2026-05-15T19:29:23Z",
+    "address": "W 43RD AVE & VINE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-43rd-ave",
+      "vancouver/vine-st"
+    ],
+    "streetNames": [
+      "W 43rd Ave",
+      "Vine St"
+    ],
+    "pulsePointId": "2474961483"
+  },
+  {
     "id": "2026-05-15T18:39:00Z_langley/56th-ave",
     "timestamp": "2026-05-15T18:39:00Z",
     "scrapedAt": "2026-05-15T18:44:28Z",
