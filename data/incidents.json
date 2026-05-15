@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-15T16:55:00Z_delta/116th-st_delta/88th-ave",
+    "timestamp": "2026-05-15T16:55:00Z",
+    "scrapedAt": "2026-05-15T17:03:10Z",
+    "address": "116TH ST & 88TH AVE",
+    "city": "Delta",
+    "streets": [
+      "delta/116th-st",
+      "delta/88th-ave"
+    ],
+    "streetNames": [
+      "116th St",
+      "88th Ave"
+    ],
+    "pulsePointId": "2474888426"
+  },
+  {
     "id": "2026-05-15T15:53:00Z_burnaby/royal-oak-ave_burnaby/eglinton-st",
     "timestamp": "2026-05-15T15:53:00Z",
     "scrapedAt": "2026-05-15T16:10:39Z",
