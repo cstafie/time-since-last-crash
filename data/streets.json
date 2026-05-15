@@ -269,8 +269,8 @@
     "name": "Trans Canada Hwy",
     "slug": "langley/trans-canada-hwy",
     "city": "Langley",
-    "lastIncident": "2026-05-13T14:50:00Z",
-    "count": 16
+    "lastIncident": "2026-05-15T13:36:00Z",
+    "count": 17
   },
   "maple-ridge/119th-ave": {
     "name": "119th Ave",
@@ -1543,8 +1543,8 @@
     "name": "Port Mann Brdg",
     "slug": "surrey/port-mann-brdg",
     "city": "Surrey",
-    "lastIncident": "2026-05-15T03:57:00Z",
-    "count": 4
+    "lastIncident": "2026-05-15T13:36:00Z",
+    "count": 5
   },
   "vancouver/tyne-st": {
     "name": "Tyne St",

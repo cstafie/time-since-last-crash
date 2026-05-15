@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-05-15T13:36:00Z_langley/trans-canada-hwy",
+    "timestamp": "2026-05-15T13:36:00Z",
+    "scrapedAt": "2026-05-15T14:13:44Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2474781015"
+  },
+  {
+    "id": "2026-05-15T13:36:00Z_surrey/port-mann-brdg",
+    "timestamp": "2026-05-15T13:36:00Z",
+    "scrapedAt": "2026-05-15T14:13:44Z",
+    "address": "PORT MANN BRDG",
+    "city": "Surrey",
+    "streets": [
+      "surrey/port-mann-brdg"
+    ],
+    "streetNames": [
+      "Port Mann Brdg"
+    ],
+    "pulsePointId": "2474780999"
+  },
+  {
     "id": "2026-05-15T12:55:00Z_vancouver/comox-st_vancouver/bute-st",
     "timestamp": "2026-05-15T12:55:00Z",
     "scrapedAt": "2026-05-15T13:05:45Z",
