@@ -549,8 +549,8 @@
     "name": "132nd St",
     "slug": "surrey/132nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-04T02:16:00Z",
-    "count": 11
+    "lastIncident": "2026-05-15T20:59:00Z",
+    "count": 12
   },
   "surrey/140th-st": {
     "name": "140th St",
@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-14T00:28:00Z",
-    "count": 23
+    "lastIncident": "2026-05-15T20:59:00Z",
+    "count": 24
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",
@@ -5078,8 +5078,8 @@
     "name": "Dominion St",
     "slug": "burnaby/dominion-st",
     "city": "Burnaby",
-    "lastIncident": "2026-05-07T23:33:00Z",
-    "count": 2
+    "lastIncident": "2026-05-15T20:47:00Z",
+    "count": 3
   },
   "burnaby/sumner-ave": {
     "name": "Sumner Ave",
@@ -9678,6 +9678,13 @@
     "slug": "surrey/196th-st",
     "city": "Surrey",
     "lastIncident": "2026-05-15T19:57:00Z",
+    "count": 1
+  },
+  "burnaby/4567-lougheed-hwy": {
+    "name": "4567 Lougheed Hwy",
+    "slug": "burnaby/4567-lougheed-hwy",
+    "city": "Burnaby",
+    "lastIncident": "2026-05-15T20:54:00Z",
     "count": 1
   }
 }

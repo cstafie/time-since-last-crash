@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-15T20:47:00Z_burnaby/dominion-st",
+      "timestamp": "2026-05-15T20:47:00Z",
+      "address": "DOMINION ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/dominion-st"
+      ],
+      "streetNames": [
+        "Dominion St"
+      ],
+      "pulsePointId": "2475048751"
+    },
+    {
       "id": "2026-05-07T23:33:00Z_burnaby/boundary-rd_burnaby/dominion-st",
       "timestamp": "2026-05-07T23:33:00Z",
       "address": "BOUNDARY RD & DOMINION ST",
@@ -34,6 +47,6 @@
       "pulsePointId": "2446546539"
     }
   ],
-  "lastIncident": "2026-05-07T23:33:00Z",
-  "count": 2
+  "lastIncident": "2026-05-15T20:47:00Z",
+  "count": 3
 }

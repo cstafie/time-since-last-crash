@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-05-15T20:59:00Z_surrey/88th-ave_surrey/132nd-st",
+    "timestamp": "2026-05-15T20:59:00Z",
+    "scrapedAt": "2026-05-15T21:20:32Z",
+    "address": "88TH AVE & 132ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/88th-ave",
+      "surrey/132nd-st"
+    ],
+    "streetNames": [
+      "88th Ave",
+      "132nd St"
+    ],
+    "pulsePointId": "2475057029"
+  },
+  {
+    "id": "2026-05-15T20:54:00Z_burnaby/4567-lougheed-hwy",
+    "timestamp": "2026-05-15T20:54:00Z",
+    "scrapedAt": "2026-05-15T21:20:32Z",
+    "address": "4567 LOUGHEED HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/4567-lougheed-hwy"
+    ],
+    "streetNames": [
+      "4567 Lougheed Hwy"
+    ],
+    "pulsePointId": "2475053227"
+  },
+  {
+    "id": "2026-05-15T20:47:00Z_burnaby/dominion-st",
+    "timestamp": "2026-05-15T20:47:00Z",
+    "scrapedAt": "2026-05-15T21:20:32Z",
+    "address": "DOMINION ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/dominion-st"
+    ],
+    "streetNames": [
+      "Dominion St"
+    ],
+    "pulsePointId": "2475048751"
+  },
+  {
     "id": "2026-05-15T20:03:00Z_richmond/hwy-91",
     "timestamp": "2026-05-15T20:03:00Z",
     "scrapedAt": "2026-05-15T20:46:39Z",
