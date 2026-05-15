@@ -990,8 +990,8 @@
     "name": "Westminster Hwy",
     "slug": "richmond/westminster-hwy",
     "city": "Richmond",
-    "lastIncident": "2026-05-04T19:51:00Z",
-    "count": 7
+    "lastIncident": "2026-05-15T14:52:00Z",
+    "count": 8
   },
   "vancouver/e-37th-ave": {
     "name": "E 37th Ave",
@@ -1725,8 +1725,8 @@
     "name": "Knight St",
     "slug": "richmond/knight-st",
     "city": "Richmond",
-    "lastIncident": "2026-03-13T13:58:00Z",
-    "count": 1
+    "lastIncident": "2026-05-15T14:20:00Z",
+    "count": 2
   },
   "delta/alex-fraser-brdg": {
     "name": "Alex Fraser Brdg",
@@ -3958,8 +3958,8 @@
     "name": "Cooney Rd",
     "slug": "richmond/cooney-rd",
     "city": "Richmond",
-    "lastIncident": "2026-04-15T22:32:00Z",
-    "count": 3
+    "lastIncident": "2026-05-15T14:52:00Z",
+    "count": 4
   },
   "richmond/ackroyd-rd": {
     "name": "Ackroyd Rd",
