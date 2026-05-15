@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-05-15T04:53:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-05-15T04:53:00Z",
+    "scrapedAt": "2026-05-15T05:14:27Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2474621808"
+  },
+  {
+    "id": "2026-05-15T03:57:00Z_surrey/port-mann-brdg",
+    "timestamp": "2026-05-15T03:57:00Z",
+    "scrapedAt": "2026-05-15T05:14:27Z",
+    "address": "PORT MANN BRDG",
+    "city": "Surrey",
+    "streets": [
+      "surrey/port-mann-brdg"
+    ],
+    "streetNames": [
+      "Port Mann Brdg"
+    ],
+    "pulsePointId": "2474600095"
+  },
+  {
+    "id": "2026-05-15T03:48:00Z_north-vancouver/n-dollarton-hwy",
+    "timestamp": "2026-05-15T03:48:00Z",
+    "scrapedAt": "2026-05-15T05:14:27Z",
+    "address": "N DOLLARTON HWY",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/n-dollarton-hwy"
+    ],
+    "streetNames": [
+      "N Dollarton Hwy"
+    ],
+    "pulsePointId": "2474597069"
+  },
+  {
     "id": "2026-05-15T03:40:00Z_surrey/144th-st_surrey/68a-ave",
     "timestamp": "2026-05-15T03:40:00Z",
     "scrapedAt": "2026-05-15T03:43:30Z",

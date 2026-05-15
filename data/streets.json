@@ -1543,8 +1543,8 @@
     "name": "Port Mann Brdg",
     "slug": "surrey/port-mann-brdg",
     "city": "Surrey",
-    "lastIncident": "2026-05-02T06:47:00Z",
-    "count": 3
+    "lastIncident": "2026-05-15T03:57:00Z",
+    "count": 4
   },
   "vancouver/tyne-st": {
     "name": "Tyne St",
@@ -1949,8 +1949,8 @@
     "name": "Trans Canada Hwy",
     "slug": "abbotsford/trans-canada-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-14T22:46:00Z",
-    "count": 33
+    "lastIncident": "2026-05-15T04:53:00Z",
+    "count": 34
   },
   "vancouver/w-16th-ave": {
     "name": "W 16th Ave",
@@ -9608,6 +9608,13 @@
     "slug": "surrey/68a-ave",
     "city": "Surrey",
     "lastIncident": "2026-05-15T03:40:00Z",
+    "count": 1
+  },
+  "north-vancouver/n-dollarton-hwy": {
+    "name": "N Dollarton Hwy",
+    "slug": "north-vancouver/n-dollarton-hwy",
+    "city": "North Vancouver",
+    "lastIncident": "2026-05-15T03:48:00Z",
     "count": 1
   }
 }
