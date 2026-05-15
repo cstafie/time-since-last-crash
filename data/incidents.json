@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-05-15T01:01:00Z_surrey/190th-st_surrey/32nd-ave",
+    "timestamp": "2026-05-15T01:01:00Z",
+    "scrapedAt": "2026-05-15T01:16:24Z",
+    "address": "190TH ST & 32ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/190th-st",
+      "surrey/32nd-ave"
+    ],
+    "streetNames": [
+      "190th St",
+      "32nd Ave"
+    ],
+    "pulsePointId": "2474506727"
+  },
+  {
+    "id": "2026-05-15T00:47:00Z_vancouver/slocan-st_vancouver/e-hastings-st",
+    "timestamp": "2026-05-15T00:47:00Z",
+    "scrapedAt": "2026-05-15T01:16:24Z",
+    "address": "SLOCAN ST & E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/slocan-st",
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "Slocan St",
+      "E Hastings St"
+    ],
+    "pulsePointId": "2474496350"
+  },
+  {
+    "id": "2026-05-15T00:32:00Z_surrey/60th-ave_surrey/128th-st",
+    "timestamp": "2026-05-15T00:32:00Z",
+    "scrapedAt": "2026-05-15T01:16:24Z",
+    "address": "60TH AVE & 128TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/60th-ave",
+      "surrey/128th-st"
+    ],
+    "streetNames": [
+      "60th Ave",
+      "128th St"
+    ],
+    "pulsePointId": "2474485580"
+  },
+  {
     "id": "2026-05-15T00:03:00Z_surrey/fleetwood-way_surrey/91st-ave",
     "timestamp": "2026-05-15T00:03:00Z",
     "scrapedAt": "2026-05-15T00:17:42Z",
