@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-05-15T22:05:00Z_maple-ridge/216th-st_maple-ridge/donovan-ave",
+    "timestamp": "2026-05-15T22:05:00Z",
+    "scrapedAt": "2026-05-15T22:16:27Z",
+    "address": "216TH ST & DONOVAN AVE",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/216th-st",
+      "maple-ridge/donovan-ave"
+    ],
+    "streetNames": [
+      "216th St",
+      "Donovan Ave"
+    ],
+    "pulsePointId": "2475099251"
+  },
+  {
+    "id": "2026-05-15T22:01:00Z_surrey/134th-st",
+    "timestamp": "2026-05-15T22:01:00Z",
+    "scrapedAt": "2026-05-15T22:16:27Z",
+    "address": "134TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/134th-st"
+    ],
+    "streetNames": [
+      "134th St"
+    ],
+    "pulsePointId": "2475097095"
+  },
+  {
+    "id": "2026-05-15T22:00:00Z_burnaby/parker-st",
+    "timestamp": "2026-05-15T22:00:00Z",
+    "scrapedAt": "2026-05-15T22:16:27Z",
+    "address": "PARKER ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/parker-st"
+    ],
+    "streetNames": [
+      "Parker St"
+    ],
+    "pulsePointId": "2475095920"
+  },
+  {
+    "id": "2026-05-15T21:56:00Z_burnaby/sperling-ave_burnaby/lougheed-hwy",
+    "timestamp": "2026-05-15T21:56:00Z",
+    "scrapedAt": "2026-05-15T22:16:27Z",
+    "address": "SPERLING AVE & LOUGHEED HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/sperling-ave",
+      "burnaby/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Sperling Ave",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2475094826"
+  },
+  {
     "id": "2026-05-15T21:40:00Z_burnaby/kingsway",
     "timestamp": "2026-05-15T21:40:00Z",
     "scrapedAt": "2026-05-15T21:46:23Z",

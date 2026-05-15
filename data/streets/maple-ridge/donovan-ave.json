@@ -1,0 +1,24 @@
+{
+  "slug": "maple-ridge/donovan-ave",
+  "name": "Donovan Ave",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-05-15T22:05:00Z_maple-ridge/216th-st_maple-ridge/donovan-ave",
+      "timestamp": "2026-05-15T22:05:00Z",
+      "address": "216TH ST & DONOVAN AVE",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/216th-st",
+        "maple-ridge/donovan-ave"
+      ],
+      "streetNames": [
+        "216th St",
+        "Donovan Ave"
+      ],
+      "pulsePointId": "2475099251"
+    }
+  ],
+  "lastIncident": "2026-05-15T22:05:00Z",
+  "count": 1
+}
