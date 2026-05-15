@@ -766,8 +766,8 @@
     "name": "Oak St",
     "slug": "vancouver/oak-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-15T18:20:00Z",
-    "count": 23
+    "lastIncident": "2026-05-15T19:55:00Z",
+    "count": 24
   },
   "vancouver/w-12th-ave": {
     "name": "W 12th Ave",
@@ -808,8 +808,8 @@
     "name": "W Broadway",
     "slug": "vancouver/w-broadway",
     "city": "Vancouver",
-    "lastIncident": "2026-05-10T05:14:00Z",
-    "count": 11
+    "lastIncident": "2026-05-15T19:27:00Z",
+    "count": 12
   },
   "west-vancouver/eagleridge-drive-ofrp": {
     "name": "Eagleridge Drive Ofrp",
@@ -3748,8 +3748,8 @@
     "name": "142a St",
     "slug": "surrey/142a-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-10T22:02:00Z",
-    "count": 2
+    "lastIncident": "2026-05-15T19:38:00Z",
+    "count": 3
   },
   "coquitlam/pipeline-rd": {
     "name": "Pipeline Rd",
@@ -4427,8 +4427,8 @@
     "name": "W 64th Ave",
     "slug": "vancouver/w-64th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-15T18:20:00Z",
-    "count": 4
+    "lastIncident": "2026-05-15T19:55:00Z",
+    "count": 5
   },
   "langley/210th-st": {
     "name": "210th St",
@@ -7857,8 +7857,8 @@
     "name": "Knight Rd",
     "slug": "chilliwack/knight-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-04-27T09:25:00Z",
-    "count": 1
+    "lastIncident": "2026-05-15T19:30:00Z",
+    "count": 2
   },
   "abbotsford/ward-rd": {
     "name": "Ward Rd",
@@ -9664,6 +9664,20 @@
     "slug": "vancouver/w-43rd-ave",
     "city": "Vancouver",
     "lastIncident": "2026-05-15T18:44:00Z",
+    "count": 1
+  },
+  "vancouver/pine-st": {
+    "name": "Pine St",
+    "slug": "vancouver/pine-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-15T19:27:00Z",
+    "count": 1
+  },
+  "surrey/196th-st": {
+    "name": "196th St",
+    "slug": "surrey/196th-st",
+    "city": "Surrey",
+    "lastIncident": "2026-05-15T19:57:00Z",
     "count": 1
   }
 }

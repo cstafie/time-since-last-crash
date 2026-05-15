@@ -4,6 +4,19 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-05-15T19:30:00Z_chilliwack/knight-rd",
+      "timestamp": "2026-05-15T19:30:00Z",
+      "address": "KNIGHT RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/knight-rd"
+      ],
+      "streetNames": [
+        "Knight Rd"
+      ],
+      "pulsePointId": "2474994470"
+    },
+    {
       "id": "2026-04-27T09:25:00Z_chilliwack/vedder-rd_chilliwack/knight-rd",
       "timestamp": "2026-04-27T09:25:00Z",
       "address": "VEDDER RD & KNIGHT RD",
@@ -19,6 +32,6 @@
       "pulsePointId": "2462392718"
     }
   ],
-  "lastIncident": "2026-04-27T09:25:00Z",
-  "count": 1
+  "lastIncident": "2026-05-15T19:30:00Z",
+  "count": 2
 }

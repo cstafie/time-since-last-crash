@@ -1,5 +1,79 @@
 [
   {
+    "id": "2026-05-15T19:57:00Z_surrey/196th-st",
+    "timestamp": "2026-05-15T19:57:00Z",
+    "scrapedAt": "2026-05-15T20:03:48Z",
+    "address": "196TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/196th-st"
+    ],
+    "streetNames": [
+      "196th St"
+    ],
+    "pulsePointId": "2475013151"
+  },
+  {
+    "id": "2026-05-15T19:55:00Z_vancouver/w-64th-ave_vancouver/oak-st",
+    "timestamp": "2026-05-15T19:55:00Z",
+    "scrapedAt": "2026-05-15T20:03:48Z",
+    "address": "W 64TH AVE & OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-64th-ave",
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "W 64th Ave",
+      "Oak St"
+    ],
+    "pulsePointId": "2475013034"
+  },
+  {
+    "id": "2026-05-15T19:38:00Z_surrey/142a-st",
+    "timestamp": "2026-05-15T19:38:00Z",
+    "scrapedAt": "2026-05-15T20:03:48Z",
+    "address": "142A ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/142a-st"
+    ],
+    "streetNames": [
+      "142a St"
+    ],
+    "pulsePointId": "2475001166"
+  },
+  {
+    "id": "2026-05-15T19:30:00Z_chilliwack/knight-rd",
+    "timestamp": "2026-05-15T19:30:00Z",
+    "scrapedAt": "2026-05-15T20:03:48Z",
+    "address": "KNIGHT RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/knight-rd"
+    ],
+    "streetNames": [
+      "Knight Rd"
+    ],
+    "pulsePointId": "2474994470"
+  },
+  {
+    "id": "2026-05-15T19:27:00Z_vancouver/pine-st_vancouver/w-broadway",
+    "timestamp": "2026-05-15T19:27:00Z",
+    "scrapedAt": "2026-05-15T20:03:48Z",
+    "address": "PINE ST & W BROADWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/pine-st",
+      "vancouver/w-broadway"
+    ],
+    "streetNames": [
+      "Pine St",
+      "W Broadway"
+    ],
+    "pulsePointId": "2474992180"
+  },
+  {
     "id": "2026-05-15T18:46:00Z_surrey/king-george-blvd",
     "timestamp": "2026-05-15T18:46:00Z",
     "scrapedAt": "2026-05-15T19:29:23Z",
