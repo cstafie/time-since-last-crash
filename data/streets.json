@@ -990,8 +990,8 @@
     "name": "Westminster Hwy",
     "slug": "richmond/westminster-hwy",
     "city": "Richmond",
-    "lastIncident": "2026-05-15T14:52:00Z",
-    "count": 8
+    "lastIncident": "2026-05-15T21:29:00Z",
+    "count": 9
   },
   "vancouver/e-37th-ave": {
     "name": "E 37th Ave",
@@ -1249,8 +1249,8 @@
     "name": "Trans Canada Hwy",
     "slug": "burnaby/trans-canada-hwy",
     "city": "Burnaby",
-    "lastIncident": "2026-05-15T09:30:00Z",
-    "count": 20
+    "lastIncident": "2026-05-15T21:31:00Z",
+    "count": 21
   },
   "vancouver/e-1st-ave": {
     "name": "E 1st Ave",
@@ -1473,8 +1473,8 @@
     "name": "Kingsway",
     "slug": "burnaby/kingsway",
     "city": "Burnaby",
-    "lastIncident": "2026-05-12T20:26:00Z",
-    "count": 11
+    "lastIncident": "2026-05-15T21:40:00Z",
+    "count": 12
   },
   "burnaby/gilley-ave": {
     "name": "Gilley Ave",
@@ -4483,8 +4483,8 @@
     "name": "Jacombs Rd",
     "slug": "richmond/jacombs-rd",
     "city": "Richmond",
-    "lastIncident": "2026-03-30T10:09:00Z",
-    "count": 1
+    "lastIncident": "2026-05-15T21:29:00Z",
+    "count": 2
   },
   "richmond/delf-pl": {
     "name": "Delf Pl",
@@ -9033,8 +9033,8 @@
     "name": "Gaglardi Way Ofrp",
     "slug": "burnaby/gaglardi-way-ofrp",
     "city": "Burnaby",
-    "lastIncident": "2026-05-07T21:30:00Z",
-    "count": 1
+    "lastIncident": "2026-05-15T21:31:00Z",
+    "count": 2
   },
   "abbotsford/primrose-st": {
     "name": "Primrose St",

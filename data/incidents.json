@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-05-15T21:40:00Z_burnaby/kingsway",
+    "timestamp": "2026-05-15T21:40:00Z",
+    "scrapedAt": "2026-05-15T21:46:23Z",
+    "address": "KINGSWAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/kingsway"
+    ],
+    "streetNames": [
+      "Kingsway"
+    ],
+    "pulsePointId": "2475084189"
+  },
+  {
+    "id": "2026-05-15T21:31:00Z_burnaby/trans-canada-hwy_burnaby/gaglardi-way-ofrp",
+    "timestamp": "2026-05-15T21:31:00Z",
+    "scrapedAt": "2026-05-15T21:46:23Z",
+    "address": "TRANS CANADA HWY & GAGLARDI WAY OFRP",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy",
+      "burnaby/gaglardi-way-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "Gaglardi Way Ofrp"
+    ],
+    "pulsePointId": "2475077043"
+  },
+  {
+    "id": "2026-05-15T21:29:00Z_richmond/jacombs-rd_richmond/westminster-hwy",
+    "timestamp": "2026-05-15T21:29:00Z",
+    "scrapedAt": "2026-05-15T21:46:23Z",
+    "address": "JACOMBS RD & WESTMINSTER HWY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/jacombs-rd",
+      "richmond/westminster-hwy"
+    ],
+    "streetNames": [
+      "Jacombs Rd",
+      "Westminster Hwy"
+    ],
+    "pulsePointId": "2475075267"
+  },
+  {
     "id": "2026-05-15T20:59:00Z_surrey/88th-ave_surrey/132nd-st",
     "timestamp": "2026-05-15T20:59:00Z",
     "scrapedAt": "2026-05-15T21:20:32Z",
