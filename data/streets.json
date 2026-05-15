@@ -885,8 +885,8 @@
     "name": "176th St",
     "slug": "surrey/176th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-14T13:34:00Z",
-    "count": 24
+    "lastIncident": "2026-05-15T23:18:00Z",
+    "count": 25
   },
   "surrey/100th-ave": {
     "name": "100th Ave",
@@ -1382,8 +1382,8 @@
     "name": "192nd St",
     "slug": "surrey/192nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-28T14:31:00Z",
-    "count": 7
+    "lastIncident": "2026-05-15T23:41:00Z",
+    "count": 8
   },
   "surrey/66a-ave": {
     "name": "66a Ave",
@@ -9692,6 +9692,13 @@
     "slug": "maple-ridge/donovan-ave",
     "city": "Maple Ridge",
     "lastIncident": "2026-05-15T22:05:00Z",
+    "count": 1
+  },
+  "surrey/38th-ave": {
+    "name": "38th Ave",
+    "slug": "surrey/38th-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-05-15T23:41:00Z",
     "count": 1
   }
 }
