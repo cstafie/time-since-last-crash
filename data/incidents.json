@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-05-15T12:55:00Z_vancouver/comox-st_vancouver/bute-st",
+    "timestamp": "2026-05-15T12:55:00Z",
+    "scrapedAt": "2026-05-15T13:05:45Z",
+    "address": "COMOX ST & BUTE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/comox-st",
+      "vancouver/bute-st"
+    ],
+    "streetNames": [
+      "Comox St",
+      "Bute St"
+    ],
+    "pulsePointId": "2474764876"
+  },
+  {
+    "id": "2026-05-15T12:55:00Z_vancouver/bute-st_vancouver/comox-st",
+    "timestamp": "2026-05-15T12:55:00Z",
+    "scrapedAt": "2026-05-15T13:05:45Z",
+    "address": "BUTE ST & COMOX ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/bute-st",
+      "vancouver/comox-st"
+    ],
+    "streetNames": [
+      "Bute St",
+      "Comox St"
+    ],
+    "pulsePointId": "2474766752"
+  },
+  {
+    "id": "2026-05-15T12:54:00Z_vancouver/bute-st",
+    "timestamp": "2026-05-15T12:54:00Z",
+    "scrapedAt": "2026-05-15T13:05:45Z",
+    "address": "BUTE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/bute-st"
+    ],
+    "streetNames": [
+      "Bute St"
+    ],
+    "pulsePointId": "2474765290"
+  },
+  {
     "id": "2026-05-15T09:30:00Z_burnaby/trans-canada-hwy",
     "timestamp": "2026-05-15T09:30:00Z",
     "scrapedAt": "2026-05-15T10:15:14Z",

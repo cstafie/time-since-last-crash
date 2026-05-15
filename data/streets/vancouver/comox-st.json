@@ -1,6 +1,6 @@
 {
-  "slug": "vancouver/bute-st",
-  "name": "Bute St",
+  "slug": "vancouver/comox-st",
+  "name": "Comox St",
   "city": "Vancouver",
   "incidents": [
     {
@@ -32,34 +32,8 @@
         "Comox St"
       ],
       "pulsePointId": "2474766752"
-    },
-    {
-      "id": "2026-05-15T12:54:00Z_vancouver/bute-st",
-      "timestamp": "2026-05-15T12:54:00Z",
-      "address": "BUTE ST",
-      "city": "Vancouver",
-      "streets": [
-        "vancouver/bute-st"
-      ],
-      "streetNames": [
-        "Bute St"
-      ],
-      "pulsePointId": "2474765290"
-    },
-    {
-      "id": "2026-04-26T03:47:00Z_vancouver/bute-st",
-      "timestamp": "2026-04-26T03:47:00Z",
-      "address": "BUTE ST",
-      "city": "Vancouver",
-      "streets": [
-        "vancouver/bute-st"
-      ],
-      "streetNames": [
-        "Bute St"
-      ],
-      "pulsePointId": "2461663996"
     }
   ],
   "lastIncident": "2026-05-15T12:55:00Z",
-  "count": 4
+  "count": 2
 }
