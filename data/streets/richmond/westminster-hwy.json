@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-05-15T22:13:00Z_richmond/westminster-hwy_richmond/knight-st",
+      "timestamp": "2026-05-15T22:13:00Z",
+      "address": "WESTMINSTER HWY & KNIGHT ST",
+      "city": "Richmond",
+      "streets": [
+        "richmond/westminster-hwy",
+        "richmond/knight-st"
+      ],
+      "streetNames": [
+        "Westminster Hwy",
+        "Knight St"
+      ],
+      "pulsePointId": "2475106845"
+    },
+    {
       "id": "2026-05-15T21:29:00Z_richmond/jacombs-rd_richmond/westminster-hwy",
       "timestamp": "2026-05-15T21:29:00Z",
       "address": "JACOMBS RD & WESTMINSTER HWY",
@@ -132,6 +147,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-15T21:29:00Z",
-  "count": 9
+  "lastIncident": "2026-05-15T22:13:00Z",
+  "count": 10
 }
