@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-15T03:40:00Z_surrey/144th-st_surrey/68a-ave",
+    "timestamp": "2026-05-15T03:40:00Z",
+    "scrapedAt": "2026-05-15T03:43:30Z",
+    "address": "144TH ST & 68A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/144th-st",
+      "surrey/68a-ave"
+    ],
+    "streetNames": [
+      "144th St",
+      "68a Ave"
+    ],
+    "pulsePointId": "2474590992"
+  },
+  {
     "id": "2026-05-15T01:22:00Z_langley/200th-st_langley/28th-ave",
     "timestamp": "2026-05-15T01:22:00Z",
     "scrapedAt": "2026-05-15T02:16:37Z",
