@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-05-15T18:39:00Z_langley/56th-ave",
+    "timestamp": "2026-05-15T18:39:00Z",
+    "scrapedAt": "2026-05-15T18:44:28Z",
+    "address": "56TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/56th-ave"
+    ],
+    "streetNames": [
+      "56th Ave"
+    ],
+    "pulsePointId": "2474958620"
+  },
+  {
+    "id": "2026-05-15T18:20:00Z_vancouver/oak-st_vancouver/w-64th-ave",
+    "timestamp": "2026-05-15T18:20:00Z",
+    "scrapedAt": "2026-05-15T18:44:28Z",
+    "address": "OAK ST & W 64TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/oak-st",
+      "vancouver/w-64th-ave"
+    ],
+    "streetNames": [
+      "Oak St",
+      "W 64th Ave"
+    ],
+    "pulsePointId": "2474944560"
+  },
+  {
+    "id": "2026-05-15T18:11:00Z_surrey/126th-st_surrey/66th-ave",
+    "timestamp": "2026-05-15T18:11:00Z",
+    "scrapedAt": "2026-05-15T18:44:28Z",
+    "address": "126TH ST & 66TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/126th-st",
+      "surrey/66th-ave"
+    ],
+    "streetNames": [
+      "126th St",
+      "66th Ave"
+    ],
+    "pulsePointId": "2474938919"
+  },
+  {
+    "id": "2026-05-15T18:06:00Z_vancouver/e-34th-ave_vancouver/clarendon-st",
+    "timestamp": "2026-05-15T18:06:00Z",
+    "scrapedAt": "2026-05-15T18:44:28Z",
+    "address": "E 34TH AVE & CLARENDON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-34th-ave",
+      "vancouver/clarendon-st"
+    ],
+    "streetNames": [
+      "E 34th Ave",
+      "Clarendon St"
+    ],
+    "pulsePointId": "2474935663"
+  },
+  {
     "id": "2026-05-15T16:55:00Z_delta/116th-st_delta/88th-ave",
     "timestamp": "2026-05-15T16:55:00Z",
     "scrapedAt": "2026-05-15T17:03:10Z",

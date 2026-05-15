@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-15T18:20:00Z_vancouver/oak-st_vancouver/w-64th-ave",
+      "timestamp": "2026-05-15T18:20:00Z",
+      "address": "OAK ST & W 64TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/oak-st",
+        "vancouver/w-64th-ave"
+      ],
+      "streetNames": [
+        "Oak St",
+        "W 64th Ave"
+      ],
+      "pulsePointId": "2474944560"
+    },
+    {
       "id": "2026-05-10T05:14:00Z_vancouver/w-broadway_vancouver/oak-st",
       "timestamp": "2026-05-10T05:14:00Z",
       "address": "W BROADWAY & OAK ST",
@@ -325,6 +340,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-10T05:14:00Z",
-  "count": 22
+  "lastIncident": "2026-05-15T18:20:00Z",
+  "count": 23
 }

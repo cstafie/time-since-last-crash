@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-15T18:20:00Z_vancouver/oak-st_vancouver/w-64th-ave",
+      "timestamp": "2026-05-15T18:20:00Z",
+      "address": "OAK ST & W 64TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/oak-st",
+        "vancouver/w-64th-ave"
+      ],
+      "streetNames": [
+        "Oak St",
+        "W 64th Ave"
+      ],
+      "pulsePointId": "2474944560"
+    },
+    {
       "id": "2026-05-09T19:48:00Z_vancouver/w-64th-ave_vancouver/sw-marine-dr",
       "timestamp": "2026-05-09T19:48:00Z",
       "address": "W 64TH AVE & SW MARINE DR",
@@ -49,6 +64,6 @@
       "pulsePointId": "2443852464"
     }
   ],
-  "lastIncident": "2026-05-09T19:48:00Z",
-  "count": 3
+  "lastIncident": "2026-05-15T18:20:00Z",
+  "count": 4
 }

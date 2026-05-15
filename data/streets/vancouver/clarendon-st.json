@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-15T18:06:00Z_vancouver/e-34th-ave_vancouver/clarendon-st",
+      "timestamp": "2026-05-15T18:06:00Z",
+      "address": "E 34TH AVE & CLARENDON ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-34th-ave",
+        "vancouver/clarendon-st"
+      ],
+      "streetNames": [
+        "E 34th Ave",
+        "Clarendon St"
+      ],
+      "pulsePointId": "2474935663"
+    },
+    {
       "id": "2026-05-09T16:18:00Z_vancouver/e-41st-ave_vancouver/clarendon-st",
       "timestamp": "2026-05-09T16:18:00Z",
       "address": "E 41ST AVE & CLARENDON ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2463886387"
     }
   ],
-  "lastIncident": "2026-05-09T16:18:00Z",
-  "count": 2
+  "lastIncident": "2026-05-15T18:06:00Z",
+  "count": 3
 }

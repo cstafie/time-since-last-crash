@@ -248,8 +248,8 @@
     "name": "56th Ave",
     "slug": "langley/56th-ave",
     "city": "Langley",
-    "lastIncident": "2026-05-02T01:56:00Z",
-    "count": 12
+    "lastIncident": "2026-05-15T18:39:00Z",
+    "count": 13
   },
   "langley/58th-cres": {
     "name": "58th Cres",
@@ -766,8 +766,8 @@
     "name": "Oak St",
     "slug": "vancouver/oak-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-10T05:14:00Z",
-    "count": 22
+    "lastIncident": "2026-05-15T18:20:00Z",
+    "count": 23
   },
   "vancouver/w-12th-ave": {
     "name": "W 12th Ave",
@@ -2096,8 +2096,8 @@
     "name": "126th St",
     "slug": "surrey/126th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-13T03:01:00Z",
-    "count": 6
+    "lastIncident": "2026-05-15T18:11:00Z",
+    "count": 7
   },
   "surrey/huntley-ave": {
     "name": "Huntley Ave",
@@ -4427,8 +4427,8 @@
     "name": "W 64th Ave",
     "slug": "vancouver/w-64th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-09T19:48:00Z",
-    "count": 3
+    "lastIncident": "2026-05-15T18:20:00Z",
+    "count": 4
   },
   "langley/210th-st": {
     "name": "210th St",
@@ -8095,8 +8095,8 @@
     "name": "Clarendon St",
     "slug": "vancouver/clarendon-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-09T16:18:00Z",
-    "count": 2
+    "lastIncident": "2026-05-15T18:06:00Z",
+    "count": 3
   },
   "delta/lyon-rd": {
     "name": "Lyon Rd",
@@ -9643,6 +9643,20 @@
     "slug": "burnaby/eglinton-st",
     "city": "Burnaby",
     "lastIncident": "2026-05-15T15:53:00Z",
+    "count": 1
+  },
+  "surrey/66th-ave": {
+    "name": "66th Ave",
+    "slug": "surrey/66th-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-05-15T18:11:00Z",
+    "count": 1
+  },
+  "vancouver/e-34th-ave": {
+    "name": "E 34th Ave",
+    "slug": "vancouver/e-34th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-15T18:06:00Z",
     "count": 1
   }
 }
