@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/sperling-ave",
+  "name": "Sperling Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-05-14T23:52:00Z_burnaby/lougheed-hwy_burnaby/sperling-ave",
+      "timestamp": "2026-05-14T23:52:00Z",
+      "address": "LOUGHEED HWY & SPERLING AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/lougheed-hwy",
+        "burnaby/sperling-ave"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "Sperling Ave"
+      ],
+      "pulsePointId": "2474461597"
+    }
+  ],
+  "lastIncident": "2026-05-14T23:52:00Z",
+  "count": 1
+}

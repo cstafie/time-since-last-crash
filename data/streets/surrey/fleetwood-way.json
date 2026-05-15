@@ -1,6 +1,6 @@
 {
-  "slug": "surrey/91st-ave",
-  "name": "91st Ave",
+  "slug": "surrey/fleetwood-way",
+  "name": "Fleetwood Way",
   "city": "Surrey",
   "incidents": [
     {
@@ -17,21 +17,8 @@
         "91st Ave"
       ],
       "pulsePointId": "2474468444"
-    },
-    {
-      "id": "2026-03-23T01:20:00Z_surrey/91st-ave",
-      "timestamp": "2026-03-23T01:20:00Z",
-      "address": "91ST AVE",
-      "city": "Surrey",
-      "streets": [
-        "surrey/91st-ave"
-      ],
-      "streetNames": [
-        "91st Ave"
-      ],
-      "pulsePointId": "2439527923"
     }
   ],
   "lastIncident": "2026-05-15T00:03:00Z",
-  "count": 2
+  "count": 1
 }
