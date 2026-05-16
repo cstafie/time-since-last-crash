@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-05-16T01:55:00Z",
-    "count": 41
+    "lastIncident": "2026-05-16T22:02:00Z",
+    "count": 42
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -892,8 +892,8 @@
     "name": "100th Ave",
     "slug": "surrey/100th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-10T15:17:00Z",
-    "count": 8
+    "lastIncident": "2026-05-16T22:02:00Z",
+    "count": 9
   },
   "abbotsford/old-clayburn-rd": {
     "name": "Old Clayburn Rd",
