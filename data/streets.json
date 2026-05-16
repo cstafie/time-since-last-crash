@@ -493,8 +493,8 @@
     "name": "No 4 Rd",
     "slug": "richmond/no-4-rd",
     "city": "Richmond",
-    "lastIncident": "2026-04-28T15:30:00Z",
-    "count": 4
+    "lastIncident": "2026-05-16T16:47:00Z",
+    "count": 5
   },
   "richmond/st-albans-rd": {
     "name": "St Albans Rd",
@@ -640,8 +640,8 @@
     "name": "92nd Ave",
     "slug": "surrey/92nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-14T19:48:00Z",
-    "count": 11
+    "lastIncident": "2026-05-16T17:13:00Z",
+    "count": 12
   },
   "surrey/96th-ave": {
     "name": "96th Ave",
@@ -1032,8 +1032,8 @@
     "name": "160th St",
     "slug": "surrey/160th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-11T03:11:00Z",
-    "count": 9
+    "lastIncident": "2026-05-16T17:13:00Z",
+    "count": 10
   },
   "vancouver/e-28th-ave": {
     "name": "E 28th Ave",
@@ -3314,8 +3314,8 @@
     "name": "Alderbridge Way",
     "slug": "richmond/alderbridge-way",
     "city": "Richmond",
-    "lastIncident": "2026-05-12T17:19:00Z",
-    "count": 4
+    "lastIncident": "2026-05-16T16:47:00Z",
+    "count": 5
   },
   "abbotsford/bateman-rd": {
     "name": "Bateman Rd",
