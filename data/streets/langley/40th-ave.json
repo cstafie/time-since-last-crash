@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-05-16T13:11:00Z_langley/240th-st_langley/40th-ave",
+      "timestamp": "2026-05-16T13:11:00Z",
+      "address": "240TH ST & 40TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/240th-st",
+        "langley/40th-ave"
+      ],
+      "streetNames": [
+        "240th St",
+        "40th Ave"
+      ],
+      "pulsePointId": "2475499093"
+    },
+    {
       "id": "2026-05-10T17:01:00Z_langley/40th-ave",
       "timestamp": "2026-05-10T17:01:00Z",
       "address": "40TH AVE",
@@ -47,6 +62,6 @@
       "pulsePointId": "2464276107"
     }
   ],
-  "lastIncident": "2026-05-10T17:01:00Z",
-  "count": 3
+  "lastIncident": "2026-05-16T13:11:00Z",
+  "count": 4
 }
