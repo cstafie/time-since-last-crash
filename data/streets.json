@@ -241,8 +241,8 @@
     "name": "44th Ave",
     "slug": "langley/44th-ave",
     "city": "Langley",
-    "lastIncident": "2026-03-09T10:50:00Z",
-    "count": 1
+    "lastIncident": "2026-05-16T11:39:00Z",
+    "count": 2
   },
   "langley/56th-ave": {
     "name": "56th Ave",
@@ -262,8 +262,8 @@
     "name": "Fraser Hwy",
     "slug": "langley/fraser-hwy",
     "city": "Langley",
-    "lastIncident": "2026-05-12T22:41:00Z",
-    "count": 24
+    "lastIncident": "2026-05-16T11:39:00Z",
+    "count": 25
   },
   "langley/trans-canada-hwy": {
     "name": "Trans Canada Hwy",

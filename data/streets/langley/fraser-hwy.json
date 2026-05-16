@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-05-16T11:39:00Z_langley/fraser-hwy_langley/44th-ave",
+      "timestamp": "2026-05-16T11:39:00Z",
+      "address": "FRASER HWY & 44TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/fraser-hwy",
+        "langley/44th-ave"
+      ],
+      "streetNames": [
+        "Fraser Hwy",
+        "44th Ave"
+      ],
+      "pulsePointId": "2475473540"
+    },
+    {
       "id": "2026-05-12T22:41:00Z_langley/244th-st_langley/fraser-hwy",
       "timestamp": "2026-05-12T22:41:00Z",
       "address": "244TH ST & FRASER HWY",
@@ -353,6 +368,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-12T22:41:00Z",
-  "count": 24
+  "lastIncident": "2026-05-16T11:39:00Z",
+  "count": 25
 }

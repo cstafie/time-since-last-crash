@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-16T11:39:00Z_langley/fraser-hwy_langley/44th-ave",
+    "timestamp": "2026-05-16T11:39:00Z",
+    "scrapedAt": "2026-05-16T11:44:52Z",
+    "address": "FRASER HWY & 44TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy",
+      "langley/44th-ave"
+    ],
+    "streetNames": [
+      "Fraser Hwy",
+      "44th Ave"
+    ],
+    "pulsePointId": "2475473540"
+  },
+  {
     "id": "2026-05-16T09:51:00Z_vancouver/heather-st_vancouver/w-18th-ave",
     "timestamp": "2026-05-16T09:51:00Z",
     "scrapedAt": "2026-05-16T09:58:05Z",
