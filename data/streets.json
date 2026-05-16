@@ -584,8 +584,8 @@
     "name": "16th Ave",
     "slug": "surrey/16th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-23T23:15:00Z",
-    "count": 6
+    "lastIncident": "2026-05-16T19:51:00Z",
+    "count": 7
   },
   "surrey/63a-ave": {
     "name": "63a Ave",
@@ -885,8 +885,8 @@
     "name": "176th St",
     "slug": "surrey/176th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-15T23:18:00Z",
-    "count": 25
+    "lastIncident": "2026-05-16T19:51:00Z",
+    "count": 26
   },
   "surrey/100th-ave": {
     "name": "100th Ave",
@@ -2712,8 +2712,8 @@
     "name": "E 50th Ave",
     "slug": "vancouver/e-50th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-03-18T03:28:00Z",
-    "count": 1
+    "lastIncident": "2026-05-16T19:55:00Z",
+    "count": 2
   },
   "vancouver/slocan-st": {
     "name": "Slocan St",
@@ -3258,8 +3258,8 @@
     "name": "Fraser St",
     "slug": "vancouver/fraser-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-30T02:33:00Z",
-    "count": 6
+    "lastIncident": "2026-05-16T19:55:00Z",
+    "count": 7
   },
   "abbotsford/32470-simon-ave": {
     "name": "32470 Simon Ave",

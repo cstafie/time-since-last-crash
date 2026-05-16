@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-16T19:55:00Z_vancouver/fraser-st_vancouver/e-50th-ave",
+      "timestamp": "2026-05-16T19:55:00Z",
+      "address": "FRASER ST & E 50TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/fraser-st",
+        "vancouver/e-50th-ave"
+      ],
+      "streetNames": [
+        "Fraser St",
+        "E 50th Ave"
+      ],
+      "pulsePointId": "2475716256"
+    },
+    {
       "id": "2026-04-30T02:33:00Z_vancouver/fraser-st_vancouver/e-33rd-ave",
       "timestamp": "2026-04-30T02:33:00Z",
       "address": "FRASER ST & E 33RD AVE",
@@ -94,6 +109,6 @@
       "pulsePointId": "2438036867"
     }
   ],
-  "lastIncident": "2026-04-30T02:33:00Z",
-  "count": 6
+  "lastIncident": "2026-05-16T19:55:00Z",
+  "count": 7
 }
