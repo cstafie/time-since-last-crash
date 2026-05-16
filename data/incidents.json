@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-16T17:55:00Z_surrey/74th-ave_surrey/128th-st",
+    "timestamp": "2026-05-16T17:55:00Z",
+    "scrapedAt": "2026-05-16T18:13:49Z",
+    "address": "74TH AVE & 128TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/74th-ave",
+      "surrey/128th-st"
+    ],
+    "streetNames": [
+      "74th Ave",
+      "128th St"
+    ],
+    "pulsePointId": "2475640592"
+  },
+  {
+    "id": "2026-05-16T17:42:00Z_richmond/sexsmith-rd_richmond/sea-island-way",
+    "timestamp": "2026-05-16T17:42:00Z",
+    "scrapedAt": "2026-05-16T18:13:49Z",
+    "address": "SEXSMITH RD & SEA ISLAND WAY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/sexsmith-rd",
+      "richmond/sea-island-way"
+    ],
+    "streetNames": [
+      "Sexsmith Rd",
+      "Sea Island Way"
+    ],
+    "pulsePointId": "2475633658"
+  },
+  {
     "id": "2026-05-16T17:32:00Z_richmond/blundell-rd_richmond/sidaway-rd",
     "timestamp": "2026-05-16T17:32:00Z",
     "scrapedAt": "2026-05-16T17:45:39Z",
