@@ -4,6 +4,19 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-05-16T18:45:00Z_chilliwack/yale-rd",
+      "timestamp": "2026-05-16T18:45:00Z",
+      "address": "YALE RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/yale-rd"
+      ],
+      "streetNames": [
+        "Yale Rd"
+      ],
+      "pulsePointId": "2475671157"
+    },
+    {
       "id": "2026-05-12T13:27:00Z_chilliwack/yale-rd",
       "timestamp": "2026-05-12T13:27:00Z",
       "address": "YALE RD",
@@ -150,6 +163,6 @@
       "pulsePointId": "2436752247"
     }
   ],
-  "lastIncident": "2026-05-12T13:27:00Z",
-  "count": 10
+  "lastIncident": "2026-05-16T18:45:00Z",
+  "count": 11
 }

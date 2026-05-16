@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-16T18:45:00Z_chilliwack/yale-rd",
+    "timestamp": "2026-05-16T18:45:00Z",
+    "scrapedAt": "2026-05-16T19:22:51Z",
+    "address": "YALE RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/yale-rd"
+    ],
+    "streetNames": [
+      "Yale Rd"
+    ],
+    "pulsePointId": "2475671157"
+  },
+  {
     "id": "2026-05-16T18:11:00Z_langley/station-rd_langley/276th-st",
     "timestamp": "2026-05-16T18:11:00Z",
     "scrapedAt": "2026-05-16T18:46:31Z",
