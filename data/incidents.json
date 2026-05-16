@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-16T07:07:00Z_coquitlam/5-burbidge-st",
+    "timestamp": "2026-05-16T07:07:00Z",
+    "scrapedAt": "2026-05-16T07:13:43Z",
+    "address": "5 BURBIDGE ST",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/5-burbidge-st"
+    ],
+    "streetNames": [
+      "5 Burbidge St"
+    ],
+    "pulsePointId": "2475398378"
+  },
+  {
     "id": "2026-05-16T06:01:00Z_mission/haig-st_mission/lougheed-hwy",
     "timestamp": "2026-05-16T06:01:00Z",
     "scrapedAt": "2026-05-16T06:15:48Z",

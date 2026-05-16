@@ -9735,5 +9735,12 @@
     "city": "Mission",
     "lastIncident": "2026-05-16T06:01:00Z",
     "count": 1
+  },
+  "coquitlam/5-burbidge-st": {
+    "name": "5 Burbidge St",
+    "slug": "coquitlam/5-burbidge-st",
+    "city": "Coquitlam",
+    "lastIncident": "2026-05-16T07:07:00Z",
+    "count": 1
   }
 }
