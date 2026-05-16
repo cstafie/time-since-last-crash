@@ -199,8 +199,8 @@
     "name": "Ladner Trunk Rd",
     "slug": "delta/ladner-trunk-rd",
     "city": "Delta",
-    "lastIncident": "2026-05-08T20:27:00Z",
-    "count": 9
+    "lastIncident": "2026-05-16T13:53:00Z",
+    "count": 11
   },
   "langley/216th-street-ofrp": {
     "name": "216th Street Ofrp",
@@ -549,8 +549,8 @@
     "name": "132nd St",
     "slug": "surrey/132nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-15T20:59:00Z",
-    "count": 12
+    "lastIncident": "2026-05-16T13:33:00Z",
+    "count": 13
   },
   "surrey/140th-st": {
     "name": "140th St",
@@ -1179,8 +1179,8 @@
     "name": "264th St",
     "slug": "langley/264th-st",
     "city": "Langley",
-    "lastIncident": "2026-04-28T00:07:00Z",
-    "count": 7
+    "lastIncident": "2026-05-16T13:40:00Z",
+    "count": 8
   },
   "langley/64th-ave": {
     "name": "64th Ave",
@@ -1592,8 +1592,8 @@
     "name": "58th Ave",
     "slug": "surrey/58th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-04T15:08:00Z",
-    "count": 5
+    "lastIncident": "2026-05-16T13:33:00Z",
+    "count": 6
   },
   "vancouver/w-22nd-ave": {
     "name": "W 22nd Ave",
@@ -6863,8 +6863,8 @@
     "name": "104th St",
     "slug": "delta/104th-st",
     "city": "Delta",
-    "lastIncident": "2026-04-16T14:19:00Z",
-    "count": 1
+    "lastIncident": "2026-05-16T13:53:00Z",
+    "count": 2
   },
   "vancouver/stirling-st": {
     "name": "Stirling St",
@@ -9748,6 +9748,13 @@
     "slug": "vancouver/w-18th-ave",
     "city": "Vancouver",
     "lastIncident": "2026-05-16T09:51:00Z",
+    "count": 1
+  },
+  "langley/robertson-cres": {
+    "name": "Robertson Cres",
+    "slug": "langley/robertson-cres",
+    "city": "Langley",
+    "lastIncident": "2026-05-16T13:40:00Z",
     "count": 1
   }
 }

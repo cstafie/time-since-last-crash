@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-05-16T13:53:00Z_delta/104th-st_delta/ladner-trunk-rd",
+    "timestamp": "2026-05-16T13:53:00Z",
+    "scrapedAt": "2026-05-16T14:04:26Z",
+    "address": "104TH ST & LADNER TRUNK RD",
+    "city": "Delta",
+    "streets": [
+      "delta/104th-st",
+      "delta/ladner-trunk-rd"
+    ],
+    "streetNames": [
+      "104th St",
+      "Ladner Trunk Rd"
+    ],
+    "pulsePointId": "2475515725"
+  },
+  {
+    "id": "2026-05-16T13:49:00Z_delta/ladner-trunk-rd",
+    "timestamp": "2026-05-16T13:49:00Z",
+    "scrapedAt": "2026-05-16T14:04:26Z",
+    "address": "LADNER TRUNK RD",
+    "city": "Delta",
+    "streets": [
+      "delta/ladner-trunk-rd"
+    ],
+    "streetNames": [
+      "Ladner Trunk Rd"
+    ],
+    "pulsePointId": "2475513325"
+  },
+  {
+    "id": "2026-05-16T13:40:00Z_langley/264th-st_langley/robertson-cres",
+    "timestamp": "2026-05-16T13:40:00Z",
+    "scrapedAt": "2026-05-16T14:04:26Z",
+    "address": "264TH ST & ROBERTSON CRES",
+    "city": "Langley",
+    "streets": [
+      "langley/264th-st",
+      "langley/robertson-cres"
+    ],
+    "streetNames": [
+      "264th St",
+      "Robertson Cres"
+    ],
+    "pulsePointId": "2475509920"
+  },
+  {
+    "id": "2026-05-16T13:33:00Z_surrey/132nd-st_surrey/58th-ave",
+    "timestamp": "2026-05-16T13:33:00Z",
+    "scrapedAt": "2026-05-16T14:04:26Z",
+    "address": "132ND ST & 58TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/132nd-st",
+      "surrey/58th-ave"
+    ],
+    "streetNames": [
+      "132nd St",
+      "58th Ave"
+    ],
+    "pulsePointId": "2475507713"
+  },
+  {
     "id": "2026-05-16T13:14:00Z_vancouver/cambie-street-brdg",
     "timestamp": "2026-05-16T13:14:00Z",
     "scrapedAt": "2026-05-16T13:28:44Z",
