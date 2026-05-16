@@ -1,0 +1,24 @@
+{
+  "slug": "chilliwack/hopedale-rd-w",
+  "name": "Hopedale Rd W",
+  "city": "Chilliwack",
+  "incidents": [
+    {
+      "id": "2026-05-16T02:35:00Z_chilliwack/sinclair-rd_chilliwack/hopedale-rd-w",
+      "timestamp": "2026-05-16T02:35:00Z",
+      "address": "SINCLAIR RD & HOPEDALE RD W",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/sinclair-rd",
+        "chilliwack/hopedale-rd-w"
+      ],
+      "streetNames": [
+        "Sinclair Rd",
+        "Hopedale Rd W"
+      ],
+      "pulsePointId": "2475274942"
+    }
+  ],
+  "lastIncident": "2026-05-16T02:35:00Z",
+  "count": 1
+}

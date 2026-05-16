@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-05-16T02:51:00Z_coquitlam/robinson-st",
+    "timestamp": "2026-05-16T02:51:00Z",
+    "scrapedAt": "2026-05-16T03:42:49Z",
+    "address": "ROBINSON ST",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/robinson-st"
+    ],
+    "streetNames": [
+      "Robinson St"
+    ],
+    "pulsePointId": "2475283186"
+  },
+  {
+    "id": "2026-05-16T02:35:00Z_chilliwack/sinclair-rd_chilliwack/hopedale-rd-w",
+    "timestamp": "2026-05-16T02:35:00Z",
+    "scrapedAt": "2026-05-16T03:42:49Z",
+    "address": "SINCLAIR RD & HOPEDALE RD W",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/sinclair-rd",
+      "chilliwack/hopedale-rd-w"
+    ],
+    "streetNames": [
+      "Sinclair Rd",
+      "Hopedale Rd W"
+    ],
+    "pulsePointId": "2475274942"
+  },
+  {
+    "id": "2026-05-16T02:12:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-05-16T02:12:00Z",
+    "scrapedAt": "2026-05-16T03:42:49Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2475263363"
+  },
+  {
+    "id": "2026-05-16T01:55:00Z_surrey/king-george-blvd_surrey/72nd-ave",
+    "timestamp": "2026-05-16T01:55:00Z",
+    "scrapedAt": "2026-05-16T03:42:49Z",
+    "address": "KING GEORGE BLVD & 72ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/72nd-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "72nd Ave"
+    ],
+    "pulsePointId": "2475250996"
+  },
+  {
+    "id": "2026-05-16T01:21:00Z_vancouver/granville-st_vancouver/w-49th-ave",
+    "timestamp": "2026-05-16T01:21:00Z",
+    "scrapedAt": "2026-05-16T03:42:49Z",
+    "address": "GRANVILLE ST & W 49TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st",
+      "vancouver/w-49th-ave"
+    ],
+    "streetNames": [
+      "Granville St",
+      "W 49th Ave"
+    ],
+    "pulsePointId": "2475230938"
+  },
+  {
+    "id": "2026-05-16T01:08:00Z_mission/7th-ave",
+    "timestamp": "2026-05-16T01:08:00Z",
+    "scrapedAt": "2026-05-16T03:42:49Z",
+    "address": "7TH AVE",
+    "city": "Mission",
+    "streets": [
+      "mission/7th-ave"
+    ],
+    "streetNames": [
+      "7th Ave"
+    ],
+    "pulsePointId": "2475224697"
+  },
+  {
     "id": "2026-05-16T00:56:00Z_chilliwack/vedder-rd",
     "timestamp": "2026-05-16T00:56:00Z",
     "scrapedAt": "2026-05-16T01:11:40Z",

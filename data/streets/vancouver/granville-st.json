@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-16T01:21:00Z_vancouver/granville-st_vancouver/w-49th-ave",
+      "timestamp": "2026-05-16T01:21:00Z",
+      "address": "GRANVILLE ST & W 49TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st",
+        "vancouver/w-49th-ave"
+      ],
+      "streetNames": [
+        "Granville St",
+        "W 49th Ave"
+      ],
+      "pulsePointId": "2475230938"
+    },
+    {
       "id": "2026-05-08T23:10:00Z_vancouver/granville-st_vancouver/laurier-ave",
       "timestamp": "2026-05-08T23:10:00Z",
       "address": "GRANVILLE ST & LAURIER AVE",
@@ -383,6 +398,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-08T23:10:00Z",
-  "count": 26
+  "lastIncident": "2026-05-16T01:21:00Z",
+  "count": 27
 }
