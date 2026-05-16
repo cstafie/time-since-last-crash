@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-16T06:01:00Z_mission/haig-st_mission/lougheed-hwy",
+    "timestamp": "2026-05-16T06:01:00Z",
+    "scrapedAt": "2026-05-16T06:15:48Z",
+    "address": "HAIG ST & LOUGHEED HWY",
+    "city": "Mission",
+    "streets": [
+      "mission/haig-st",
+      "mission/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Haig St",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2475374307"
+  },
+  {
     "id": "2026-05-16T02:51:00Z_coquitlam/robinson-st",
     "timestamp": "2026-05-16T02:51:00Z",
     "scrapedAt": "2026-05-16T03:42:49Z",
