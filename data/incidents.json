@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-16T22:25:00Z_white-rock/marine-lane_white-rock/martin-st",
+    "timestamp": "2026-05-16T22:25:00Z",
+    "scrapedAt": "2026-05-16T22:43:49Z",
+    "address": "MARINE LANE & MARTIN ST",
+    "city": "White Rock",
+    "streets": [
+      "white-rock/marine-lane",
+      "white-rock/martin-st"
+    ],
+    "streetNames": [
+      "Marine Lane",
+      "Martin St"
+    ],
+    "pulsePointId": "2475808077"
+  },
+  {
     "id": "2026-05-16T22:02:00Z_surrey/100th-ave_surrey/king-george-blvd",
     "timestamp": "2026-05-16T22:02:00Z",
     "scrapedAt": "2026-05-16T22:13:53Z",
