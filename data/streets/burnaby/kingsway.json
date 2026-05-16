@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-16T12:41:00Z_burnaby/willingdon-ave_burnaby/kingsway",
+      "timestamp": "2026-05-16T12:41:00Z",
+      "address": "WILLINGDON AVE & KINGSWAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/willingdon-ave",
+        "burnaby/kingsway"
+      ],
+      "streetNames": [
+        "Willingdon Ave",
+        "Kingsway"
+      ],
+      "pulsePointId": "2475491018"
+    },
+    {
       "id": "2026-05-15T21:40:00Z_burnaby/kingsway",
       "timestamp": "2026-05-15T21:40:00Z",
       "address": "KINGSWAY",
@@ -173,6 +188,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-15T21:40:00Z",
-  "count": 12
+  "lastIncident": "2026-05-16T12:41:00Z",
+  "count": 13
 }

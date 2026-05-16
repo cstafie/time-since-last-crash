@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-16T12:41:00Z_burnaby/willingdon-ave_burnaby/kingsway",
+    "timestamp": "2026-05-16T12:41:00Z",
+    "scrapedAt": "2026-05-16T12:47:27Z",
+    "address": "WILLINGDON AVE & KINGSWAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/willingdon-ave",
+      "burnaby/kingsway"
+    ],
+    "streetNames": [
+      "Willingdon Ave",
+      "Kingsway"
+    ],
+    "pulsePointId": "2475491018"
+  },
+  {
     "id": "2026-05-16T11:39:00Z_langley/fraser-hwy_langley/44th-ave",
     "timestamp": "2026-05-16T11:39:00Z",
     "scrapedAt": "2026-05-16T11:44:52Z",

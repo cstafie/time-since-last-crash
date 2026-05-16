@@ -80,8 +80,8 @@
     "name": "Willingdon Ave",
     "slug": "burnaby/willingdon-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-04-29T13:30:00Z",
-    "count": 5
+    "lastIncident": "2026-05-16T12:41:00Z",
+    "count": 6
   },
   "chilliwack/chadsey-rd": {
     "name": "Chadsey Rd",
@@ -1473,8 +1473,8 @@
     "name": "Kingsway",
     "slug": "burnaby/kingsway",
     "city": "Burnaby",
-    "lastIncident": "2026-05-15T21:40:00Z",
-    "count": 12
+    "lastIncident": "2026-05-16T12:41:00Z",
+    "count": 13
   },
   "burnaby/gilley-ave": {
     "name": "Gilley Ave",
