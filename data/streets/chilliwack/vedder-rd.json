@@ -4,6 +4,19 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-05-16T00:56:00Z_chilliwack/vedder-rd",
+      "timestamp": "2026-05-16T00:56:00Z",
+      "address": "VEDDER RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/vedder-rd"
+      ],
+      "streetNames": [
+        "Vedder Rd"
+      ],
+      "pulsePointId": "2475214312"
+    },
+    {
       "id": "2026-05-01T01:15:00Z_chilliwack/vedder-rd_chilliwack/thomas-rd",
       "timestamp": "2026-05-01T01:15:00Z",
       "address": "VEDDER RD & THOMAS RD",
@@ -116,6 +129,6 @@
       "pulsePointId": "2433567443"
     }
   ],
-  "lastIncident": "2026-05-01T01:15:00Z",
-  "count": 8
+  "lastIncident": "2026-05-16T00:56:00Z",
+  "count": 9
 }
