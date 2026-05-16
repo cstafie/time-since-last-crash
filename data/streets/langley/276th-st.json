@@ -1,0 +1,24 @@
+{
+  "slug": "langley/276th-st",
+  "name": "276th St",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-05-16T18:11:00Z_langley/station-rd_langley/276th-st",
+      "timestamp": "2026-05-16T18:11:00Z",
+      "address": "STATION RD & 276TH ST",
+      "city": "Langley",
+      "streets": [
+        "langley/station-rd",
+        "langley/276th-st"
+      ],
+      "streetNames": [
+        "Station Rd",
+        "276th St"
+      ],
+      "pulsePointId": "2475651295"
+    }
+  ],
+  "lastIncident": "2026-05-16T18:11:00Z",
+  "count": 1
+}
