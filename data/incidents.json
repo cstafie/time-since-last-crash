@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-16T21:22:00Z_richmond/hazelbridge-way_richmond/sweet-ave",
+    "timestamp": "2026-05-16T21:22:00Z",
+    "scrapedAt": "2026-05-16T21:44:23Z",
+    "address": "HAZELBRIDGE WAY & SWEET AVE",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hazelbridge-way",
+      "richmond/sweet-ave"
+    ],
+    "streetNames": [
+      "Hazelbridge Way",
+      "Sweet Ave"
+    ],
+    "pulsePointId": "2475767125"
+  },
+  {
     "id": "2026-05-16T19:55:00Z_vancouver/fraser-st_vancouver/e-50th-ave",
     "timestamp": "2026-05-16T19:55:00Z",
     "scrapedAt": "2026-05-16T20:12:34Z",

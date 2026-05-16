@@ -7920,8 +7920,8 @@
     "name": "Hazelbridge Way",
     "slug": "richmond/hazelbridge-way",
     "city": "Richmond",
-    "lastIncident": "2026-04-29T17:23:00Z",
-    "count": 2
+    "lastIncident": "2026-05-16T21:22:00Z",
+    "count": 3
   },
   "pitt-meadows/hale-rd": {
     "name": "Hale Rd",
@@ -9776,6 +9776,13 @@
     "slug": "langley/276th-st",
     "city": "Langley",
     "lastIncident": "2026-05-16T18:11:00Z",
+    "count": 1
+  },
+  "richmond/sweet-ave": {
+    "name": "Sweet Ave",
+    "slug": "richmond/sweet-ave",
+    "city": "Richmond",
+    "lastIncident": "2026-05-16T21:22:00Z",
     "count": 1
   }
 }
