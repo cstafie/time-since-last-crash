@@ -738,8 +738,8 @@
     "name": "Heather St",
     "slug": "vancouver/heather-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-24T00:15:00Z",
-    "count": 4
+    "lastIncident": "2026-05-16T09:51:00Z",
+    "count": 5
   },
   "vancouver/kingsway": {
     "name": "Kingsway",
@@ -9741,6 +9741,13 @@
     "slug": "coquitlam/5-burbidge-st",
     "city": "Coquitlam",
     "lastIncident": "2026-05-16T07:07:00Z",
+    "count": 1
+  },
+  "vancouver/w-18th-ave": {
+    "name": "W 18th Ave",
+    "slug": "vancouver/w-18th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-16T09:51:00Z",
     "count": 1
   }
 }

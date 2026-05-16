@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/w-18th-ave",
+  "name": "W 18th Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-16T09:51:00Z_vancouver/heather-st_vancouver/w-18th-ave",
+      "timestamp": "2026-05-16T09:51:00Z",
+      "address": "HEATHER ST & W 18TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/heather-st",
+        "vancouver/w-18th-ave"
+      ],
+      "streetNames": [
+        "Heather St",
+        "W 18th Ave"
+      ],
+      "pulsePointId": "2475447661"
+    }
+  ],
+  "lastIncident": "2026-05-16T09:51:00Z",
+  "count": 1
+}
