@@ -1,0 +1,24 @@
+{
+  "slug": "delta/shepherd-way",
+  "name": "Shepherd Way",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-05-16T00:01:00Z_delta/shepherd-way_delta/nordel-way",
+      "timestamp": "2026-05-16T00:01:00Z",
+      "address": "SHEPHERD WAY & NORDEL WAY",
+      "city": "Delta",
+      "streets": [
+        "delta/shepherd-way",
+        "delta/nordel-way"
+      ],
+      "streetNames": [
+        "Shepherd Way",
+        "Nordel Way"
+      ],
+      "pulsePointId": "2475179171"
+    }
+  ],
+  "lastIncident": "2026-05-16T00:01:00Z",
+  "count": 1
+}

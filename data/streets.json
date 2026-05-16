@@ -2929,8 +2929,8 @@
     "name": "Nordel Way",
     "slug": "delta/nordel-way",
     "city": "Delta",
-    "lastIncident": "2026-05-05T12:31:00Z",
-    "count": 7
+    "lastIncident": "2026-05-16T00:01:00Z",
+    "count": 8
   },
   "coquitlam/whiting-way": {
     "name": "Whiting Way",
@@ -9699,6 +9699,13 @@
     "slug": "surrey/38th-ave",
     "city": "Surrey",
     "lastIncident": "2026-05-15T23:41:00Z",
+    "count": 1
+  },
+  "delta/shepherd-way": {
+    "name": "Shepherd Way",
+    "slug": "delta/shepherd-way",
+    "city": "Delta",
+    "lastIncident": "2026-05-16T00:01:00Z",
     "count": 1
   }
 }
