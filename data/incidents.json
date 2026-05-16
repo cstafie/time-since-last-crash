@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-16T16:03:00Z_richmond/blundell-rd_richmond/sidaway-rd",
+    "timestamp": "2026-05-16T16:03:00Z",
+    "scrapedAt": "2026-05-16T16:15:49Z",
+    "address": "BLUNDELL RD & SIDAWAY RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/blundell-rd",
+      "richmond/sidaway-rd"
+    ],
+    "streetNames": [
+      "Blundell Rd",
+      "Sidaway Rd"
+    ],
+    "pulsePointId": "2475575052"
+  },
+  {
+    "id": "2026-05-16T15:46:00Z_surrey/56th-ave_surrey/144th-st",
+    "timestamp": "2026-05-16T15:46:00Z",
+    "scrapedAt": "2026-05-16T16:15:49Z",
+    "address": "56TH AVE & 144TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/56th-ave",
+      "surrey/144th-st"
+    ],
+    "streetNames": [
+      "56th Ave",
+      "144th St"
+    ],
+    "pulsePointId": "2475566362"
+  },
+  {
     "id": "2026-05-16T15:05:00Z_surrey/130th-st_surrey/109th-ave",
     "timestamp": "2026-05-16T15:05:00Z",
     "scrapedAt": "2026-05-16T15:19:37Z",
