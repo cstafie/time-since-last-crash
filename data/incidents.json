@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-05-16T17:32:00Z_richmond/blundell-rd_richmond/sidaway-rd",
+    "timestamp": "2026-05-16T17:32:00Z",
+    "scrapedAt": "2026-05-16T17:45:39Z",
+    "address": "BLUNDELL RD & SIDAWAY RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/blundell-rd",
+      "richmond/sidaway-rd"
+    ],
+    "streetNames": [
+      "Blundell Rd",
+      "Sidaway Rd"
+    ],
+    "pulsePointId": "2475628095"
+  },
+  {
+    "id": "2026-05-16T17:26:00Z_vancouver/w-georgia-st_vancouver/broughton-st",
+    "timestamp": "2026-05-16T17:26:00Z",
+    "scrapedAt": "2026-05-16T17:45:39Z",
+    "address": "W GEORGIA ST & BROUGHTON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-georgia-st",
+      "vancouver/broughton-st"
+    ],
+    "streetNames": [
+      "W Georgia St",
+      "Broughton St"
+    ],
+    "pulsePointId": "2475623245"
+  },
+  {
+    "id": "2026-05-16T17:18:00Z_burnaby/16th-ave_burnaby/canada-way",
+    "timestamp": "2026-05-16T17:18:00Z",
+    "scrapedAt": "2026-05-16T17:45:39Z",
+    "address": "16TH AVE & CANADA WAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/16th-ave",
+      "burnaby/canada-way"
+    ],
+    "streetNames": [
+      "16th Ave",
+      "Canada Way"
+    ],
+    "pulsePointId": "2475618611"
+  },
+  {
     "id": "2026-05-16T17:13:00Z_surrey/160th-st_surrey/92nd-ave",
     "timestamp": "2026-05-16T17:13:00Z",
     "scrapedAt": "2026-05-16T17:19:07Z",

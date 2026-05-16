@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-16T17:18:00Z_burnaby/16th-ave_burnaby/canada-way",
+      "timestamp": "2026-05-16T17:18:00Z",
+      "address": "16TH AVE & CANADA WAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/16th-ave",
+        "burnaby/canada-way"
+      ],
+      "streetNames": [
+        "16th Ave",
+        "Canada Way"
+      ],
+      "pulsePointId": "2475618611"
+    },
+    {
       "id": "2026-05-06T08:07:00Z_burnaby/canada-way",
       "timestamp": "2026-05-06T08:07:00Z",
       "address": "CANADA WAY",
@@ -207,6 +222,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-06T08:07:00Z",
-  "count": 14
+  "lastIncident": "2026-05-16T17:18:00Z",
+  "count": 15
 }
