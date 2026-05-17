@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-17T09:04:00Z_burnaby/fell-ave_burnaby/hastings-st",
+      "timestamp": "2026-05-17T09:04:00Z",
+      "address": "FELL AVE & HASTINGS ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/fell-ave",
+        "burnaby/hastings-st"
+      ],
+      "streetNames": [
+        "Fell Ave",
+        "Hastings St"
+      ],
+      "pulsePointId": "2476150014"
+    },
+    {
       "id": "2026-04-10T21:09:00Z_burnaby/fell-ave_burnaby/broadway",
       "timestamp": "2026-04-10T21:09:00Z",
       "address": "FELL AVE & BROADWAY",
@@ -19,6 +34,6 @@
       "pulsePointId": "2451725954"
     }
   ],
-  "lastIncident": "2026-04-10T21:09:00Z",
-  "count": 1
+  "lastIncident": "2026-05-17T09:04:00Z",
+  "count": 2
 }

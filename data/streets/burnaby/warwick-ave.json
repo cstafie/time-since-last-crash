@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/warwick-ave",
+  "name": "Warwick Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-05-17T09:04:00Z_burnaby/hastings-st_burnaby/warwick-ave",
+      "timestamp": "2026-05-17T09:04:00Z",
+      "address": "HASTINGS ST & WARWICK AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/hastings-st",
+        "burnaby/warwick-ave"
+      ],
+      "streetNames": [
+        "Hastings St",
+        "Warwick Ave"
+      ],
+      "pulsePointId": "2476150575"
+    }
+  ],
+  "lastIncident": "2026-05-17T09:04:00Z",
+  "count": 1
+}
