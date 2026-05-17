@@ -4,6 +4,19 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-05-17T02:22:00Z_delta/116th-st",
+      "timestamp": "2026-05-17T02:22:00Z",
+      "address": "116TH ST",
+      "city": "Delta",
+      "streets": [
+        "delta/116th-st"
+      ],
+      "streetNames": [
+        "116th St"
+      ],
+      "pulsePointId": "2475969229"
+    },
+    {
       "id": "2026-05-15T16:55:00Z_delta/116th-st_delta/88th-ave",
       "timestamp": "2026-05-15T16:55:00Z",
       "address": "116TH ST & 88TH AVE",
@@ -92,6 +105,6 @@
       "pulsePointId": "2451883831"
     }
   ],
-  "lastIncident": "2026-05-15T16:55:00Z",
-  "count": 6
+  "lastIncident": "2026-05-17T02:22:00Z",
+  "count": 7
 }
