@@ -4,6 +4,19 @@
   "city": "Mission",
   "incidents": [
     {
+      "id": "2026-05-17T20:40:00Z_mission/dewdney-trunk-rd",
+      "timestamp": "2026-05-17T20:40:00Z",
+      "address": "DEWDNEY TRUNK RD",
+      "city": "Mission",
+      "streets": [
+        "mission/dewdney-trunk-rd"
+      ],
+      "streetNames": [
+        "Dewdney Trunk Rd"
+      ],
+      "pulsePointId": "2476452589"
+    },
+    {
       "id": "2026-04-08T16:59:00Z_mission/dewdney-trunk-rd_mission/creston-ave",
       "timestamp": "2026-04-08T16:59:00Z",
       "address": "DEWDNEY TRUNK RD & CRESTON AVE",
@@ -19,6 +32,6 @@
       "pulsePointId": "2450236340"
     }
   ],
-  "lastIncident": "2026-04-08T16:59:00Z",
-  "count": 1
+  "lastIncident": "2026-05-17T20:40:00Z",
+  "count": 2
 }

@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-17T20:41:00Z_burnaby/imperial-st_burnaby/canada-way",
+      "timestamp": "2026-05-17T20:41:00Z",
+      "address": "IMPERIAL ST & CANADA WAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/imperial-st",
+        "burnaby/canada-way"
+      ],
+      "streetNames": [
+        "Imperial St",
+        "Canada Way"
+      ],
+      "pulsePointId": "2476452587"
+    },
+    {
       "id": "2026-05-09T18:01:00Z_burnaby/waverley-ave_burnaby/imperial-st",
       "timestamp": "2026-05-09T18:01:00Z",
       "address": "WAVERLEY AVE & IMPERIAL ST",
@@ -135,6 +150,6 @@
       "pulsePointId": "2442839188"
     }
   ],
-  "lastIncident": "2026-05-09T18:01:00Z",
-  "count": 9
+  "lastIncident": "2026-05-17T20:41:00Z",
+  "count": 10
 }

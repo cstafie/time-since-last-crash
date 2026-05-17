@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-05-17T21:13:00Z_vancouver/w-10th-ave",
+    "timestamp": "2026-05-17T21:13:00Z",
+    "scrapedAt": "2026-05-17T21:15:10Z",
+    "address": "W 10TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-10th-ave"
+    ],
+    "streetNames": [
+      "W 10th Ave"
+    ],
+    "pulsePointId": "2476470913"
+  },
+  {
+    "id": "2026-05-17T21:06:00Z_vancouver/argyle-st_vancouver/e-41st-ave",
+    "timestamp": "2026-05-17T21:06:00Z",
+    "scrapedAt": "2026-05-17T21:15:10Z",
+    "address": "ARGYLE ST & E 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/argyle-st",
+      "vancouver/e-41st-ave"
+    ],
+    "streetNames": [
+      "Argyle St",
+      "E 41st Ave"
+    ],
+    "pulsePointId": "2476468406"
+  },
+  {
+    "id": "2026-05-17T20:41:00Z_burnaby/imperial-st_burnaby/canada-way",
+    "timestamp": "2026-05-17T20:41:00Z",
+    "scrapedAt": "2026-05-17T21:15:10Z",
+    "address": "IMPERIAL ST & CANADA WAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/imperial-st",
+      "burnaby/canada-way"
+    ],
+    "streetNames": [
+      "Imperial St",
+      "Canada Way"
+    ],
+    "pulsePointId": "2476452587"
+  },
+  {
+    "id": "2026-05-17T20:40:00Z_mission/dewdney-trunk-rd",
+    "timestamp": "2026-05-17T20:40:00Z",
+    "scrapedAt": "2026-05-17T21:15:10Z",
+    "address": "DEWDNEY TRUNK RD",
+    "city": "Mission",
+    "streets": [
+      "mission/dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2476452589"
+  },
+  {
     "id": "2026-05-17T19:36:00Z_surrey/160th-st_surrey/96th-ave",
     "timestamp": "2026-05-17T19:36:00Z",
     "scrapedAt": "2026-05-17T19:50:46Z",

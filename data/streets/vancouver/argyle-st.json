@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-17T21:06:00Z_vancouver/argyle-st_vancouver/e-41st-ave",
+      "timestamp": "2026-05-17T21:06:00Z",
+      "address": "ARGYLE ST & E 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/argyle-st",
+        "vancouver/e-41st-ave"
+      ],
+      "streetNames": [
+        "Argyle St",
+        "E 41st Ave"
+      ],
+      "pulsePointId": "2476468406"
+    },
+    {
       "id": "2026-05-02T18:58:00Z_vancouver/se-marine-dr_vancouver/argyle-st",
       "timestamp": "2026-05-02T18:58:00Z",
       "address": "SE MARINE DR & ARGYLE ST",
@@ -49,6 +64,6 @@
       "pulsePointId": "2456441701"
     }
   ],
-  "lastIncident": "2026-05-02T18:58:00Z",
-  "count": 3
+  "lastIncident": "2026-05-17T21:06:00Z",
+  "count": 4
 }
