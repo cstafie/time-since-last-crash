@@ -486,8 +486,8 @@
     "name": "No 3 Rd",
     "slug": "richmond/no-3-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-13T00:10:00Z",
-    "count": 12
+    "lastIncident": "2026-05-17T00:29:00Z",
+    "count": 13
   },
   "richmond/no-4-rd": {
     "name": "No 4 Rd",
@@ -5134,8 +5134,8 @@
     "name": "Sea Island Way",
     "slug": "richmond/sea-island-way",
     "city": "Richmond",
-    "lastIncident": "2026-05-16T17:42:00Z",
-    "count": 4
+    "lastIncident": "2026-05-17T00:29:00Z",
+    "count": 5
   },
   "richmond/azure-rd": {
     "name": "Azure Rd",
