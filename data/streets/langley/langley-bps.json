@@ -4,6 +4,19 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-05-17T05:53:00Z_langley/langley-bps",
+      "timestamp": "2026-05-17T05:53:00Z",
+      "address": "LANGLEY BPS",
+      "city": "Langley",
+      "streets": [
+        "langley/langley-bps"
+      ],
+      "streetNames": [
+        "Langley Bps"
+      ],
+      "pulsePointId": "2476081821"
+    },
+    {
       "id": "2026-05-12T18:33:00Z_langley/langley-bps",
       "timestamp": "2026-05-12T18:33:00Z",
       "address": "LANGLEY BPS",
@@ -292,6 +305,6 @@
       "pulsePointId": "2435348390"
     }
   ],
-  "lastIncident": "2026-05-12T18:33:00Z",
-  "count": 20
+  "lastIncident": "2026-05-17T05:53:00Z",
+  "count": 21
 }

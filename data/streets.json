@@ -1501,8 +1501,8 @@
     "name": "144th St",
     "slug": "surrey/144th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-16T15:46:00Z",
-    "count": 17
+    "lastIncident": "2026-05-17T05:41:00Z",
+    "count": 18
   },
   "north-vancouver/seymour-blvd": {
     "name": "Seymour Blvd",
@@ -2383,8 +2383,8 @@
     "name": "Langley Bps",
     "slug": "langley/langley-bps",
     "city": "Langley",
-    "lastIncident": "2026-05-12T18:33:00Z",
-    "count": 20
+    "lastIncident": "2026-05-17T05:53:00Z",
+    "count": 21
   },
   "surrey/56th-ave": {
     "name": "56th Ave",
@@ -3692,8 +3692,8 @@
     "name": "68th Ave",
     "slug": "surrey/68th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-19T22:37:00Z",
-    "count": 9
+    "lastIncident": "2026-05-17T05:41:00Z",
+    "count": 10
   },
   "burnaby/royal-oak-ave": {
     "name": "Royal Oak Ave",
