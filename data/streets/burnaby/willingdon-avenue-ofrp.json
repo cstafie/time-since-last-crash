@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-17T10:13:00Z_burnaby/willingdon-avenue-ofrp",
+      "timestamp": "2026-05-17T10:13:00Z",
+      "address": "WILLINGDON AVENUE OFRP",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/willingdon-avenue-ofrp"
+      ],
+      "streetNames": [
+        "Willingdon Avenue Ofrp"
+      ],
+      "pulsePointId": "2476170346"
+    },
+    {
       "id": "2026-05-17T09:58:00Z_burnaby/willingdon-avenue-ofrp",
       "timestamp": "2026-05-17T09:58:00Z",
       "address": "WILLINGDON AVENUE OFRP",
@@ -77,6 +90,6 @@
       "pulsePointId": "2442095486"
     }
   ],
-  "lastIncident": "2026-05-17T09:58:00Z",
-  "count": 5
+  "lastIncident": "2026-05-17T10:13:00Z",
+  "count": 6
 }

@@ -1270,8 +1270,8 @@
     "name": "Langley Bps",
     "slug": "surrey/langley-bps",
     "city": "Surrey",
-    "lastIncident": "2026-04-18T17:30:00Z",
-    "count": 2
+    "lastIncident": "2026-05-17T10:18:00Z",
+    "count": 3
   },
   "port-coquitlam/broadway-st": {
     "name": "Broadway St",
@@ -1382,8 +1382,8 @@
     "name": "192nd St",
     "slug": "surrey/192nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-16T00:28:00Z",
-    "count": 9
+    "lastIncident": "2026-05-17T10:18:00Z",
+    "count": 10
   },
   "surrey/66a-ave": {
     "name": "66a Ave",
@@ -3454,8 +3454,8 @@
     "name": "Clark Dr",
     "slug": "vancouver/clark-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-05-14T21:49:00Z",
-    "count": 6
+    "lastIncident": "2026-05-17T10:38:00Z",
+    "count": 7
   },
   "vancouver/e-17th-ave": {
     "name": "E 17th Ave",
@@ -4133,8 +4133,8 @@
     "name": "Willingdon Avenue Ofrp",
     "slug": "burnaby/willingdon-avenue-ofrp",
     "city": "Burnaby",
-    "lastIncident": "2026-05-17T09:58:00Z",
-    "count": 5
+    "lastIncident": "2026-05-17T10:13:00Z",
+    "count": 6
   },
   "surrey/194a-st": {
     "name": "194a St",
@@ -4630,8 +4630,8 @@
     "name": "Powell St",
     "slug": "vancouver/powell-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-14T17:10:00Z",
-    "count": 2
+    "lastIncident": "2026-05-17T10:38:00Z",
+    "count": 3
   },
   "maple-ridge/224th-st": {
     "name": "224th St",

@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-05-17T10:38:00Z_vancouver/clark-dr_vancouver/powell-st",
+    "timestamp": "2026-05-17T10:38:00Z",
+    "scrapedAt": "2026-05-17T10:53:40Z",
+    "address": "CLARK DR & POWELL ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/clark-dr",
+      "vancouver/powell-st"
+    ],
+    "streetNames": [
+      "Clark Dr",
+      "Powell St"
+    ],
+    "pulsePointId": "2476176906"
+  },
+  {
+    "id": "2026-05-17T10:18:00Z_surrey/192nd-st_surrey/langley-bps",
+    "timestamp": "2026-05-17T10:18:00Z",
+    "scrapedAt": "2026-05-17T10:53:40Z",
+    "address": "192ND ST & LANGLEY BPS",
+    "city": "Surrey",
+    "streets": [
+      "surrey/192nd-st",
+      "surrey/langley-bps"
+    ],
+    "streetNames": [
+      "192nd St",
+      "Langley Bps"
+    ],
+    "pulsePointId": "2476171466"
+  },
+  {
+    "id": "2026-05-17T10:13:00Z_burnaby/willingdon-avenue-ofrp",
+    "timestamp": "2026-05-17T10:13:00Z",
+    "scrapedAt": "2026-05-17T10:53:40Z",
+    "address": "WILLINGDON AVENUE OFRP",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/willingdon-avenue-ofrp"
+    ],
+    "streetNames": [
+      "Willingdon Avenue Ofrp"
+    ],
+    "pulsePointId": "2476170346"
+  },
+  {
     "id": "2026-05-17T09:58:00Z_burnaby/willingdon-avenue-ofrp",
     "timestamp": "2026-05-17T09:58:00Z",
     "scrapedAt": "2026-05-17T10:07:00Z",
