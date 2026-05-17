@@ -1,5 +1,61 @@
 [
   {
+    "id": "2026-05-17T22:35:00Z_coquitlam/trans-canada-hwy",
+    "timestamp": "2026-05-17T22:35:00Z",
+    "scrapedAt": "2026-05-17T22:45:08Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2476519579"
+  },
+  {
+    "id": "2026-05-17T22:24:00Z_coquitlam/trans-canada-hwy",
+    "timestamp": "2026-05-17T22:24:00Z",
+    "scrapedAt": "2026-05-17T22:45:08Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2476513352"
+  },
+  {
+    "id": "2026-05-17T22:23:00Z_coquitlam/port-mann-brdg",
+    "timestamp": "2026-05-17T22:23:00Z",
+    "scrapedAt": "2026-05-17T22:45:08Z",
+    "address": "PORT MANN BRDG",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/port-mann-brdg"
+    ],
+    "streetNames": [
+      "Port Mann Brdg"
+    ],
+    "pulsePointId": "2476512521"
+  },
+  {
+    "id": "2026-05-17T22:22:00Z_burnaby/macpherson-ave",
+    "timestamp": "2026-05-17T22:22:00Z",
+    "scrapedAt": "2026-05-17T22:45:08Z",
+    "address": "MACPHERSON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/macpherson-ave"
+    ],
+    "streetNames": [
+      "Macpherson Ave"
+    ],
+    "pulsePointId": "2476511087"
+  },
+  {
     "id": "2026-05-17T21:56:00Z_new-westminster/e-columbia-st",
     "timestamp": "2026-05-17T21:56:00Z",
     "scrapedAt": "2026-05-17T22:15:16Z",

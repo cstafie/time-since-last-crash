@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-17T22:22:00Z_burnaby/macpherson-ave",
+      "timestamp": "2026-05-17T22:22:00Z",
+      "address": "MACPHERSON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/macpherson-ave"
+      ],
+      "streetNames": [
+        "Macpherson Ave"
+      ],
+      "pulsePointId": "2476511087"
+    },
+    {
       "id": "2026-05-01T15:46:00Z_burnaby/imperial-st_burnaby/macpherson-ave",
       "timestamp": "2026-05-01T15:46:00Z",
       "address": "IMPERIAL ST & MACPHERSON AVE",
@@ -19,6 +32,6 @@
       "pulsePointId": "2465174304"
     }
   ],
-  "lastIncident": "2026-05-01T15:46:00Z",
-  "count": 1
+  "lastIncident": "2026-05-17T22:22:00Z",
+  "count": 2
 }
