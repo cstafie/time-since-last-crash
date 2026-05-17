@@ -1,6 +1,6 @@
 {
-  "slug": "surrey/scott-rd",
-  "name": "Scott Rd",
+  "slug": "surrey/pattullo-pl",
+  "name": "Pattullo Pl",
   "city": "Surrey",
   "incidents": [
     {
@@ -17,21 +17,8 @@
         "Pattullo Pl"
       ],
       "pulsePointId": "2476376265"
-    },
-    {
-      "id": "2026-04-21T03:22:00Z_surrey/scott-rd",
-      "timestamp": "2026-04-21T03:22:00Z",
-      "address": "SCOTT RD",
-      "city": "Surrey",
-      "streets": [
-        "surrey/scott-rd"
-      ],
-      "streetNames": [
-        "Scott Rd"
-      ],
-      "pulsePointId": "2458503348"
     }
   ],
   "lastIncident": "2026-05-17T18:35:00Z",
-  "count": 2
+  "count": 1
 }
