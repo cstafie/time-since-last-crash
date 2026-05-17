@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-05-17T15:47:00Z_coquitlam/brunette-avenue-ofrp",
+    "timestamp": "2026-05-17T15:47:00Z",
+    "scrapedAt": "2026-05-17T16:17:28Z",
+    "address": "BRUNETTE AVENUE OFRP",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/brunette-avenue-ofrp"
+    ],
+    "streetNames": [
+      "Brunette Avenue Ofrp"
+    ],
+    "pulsePointId": "2476279366"
+  },
+  {
+    "id": "2026-05-17T15:47:00Z_white-rock/160th-st_white-rock/north-bluff-rd",
+    "timestamp": "2026-05-17T15:47:00Z",
+    "scrapedAt": "2026-05-17T16:17:28Z",
+    "address": "160TH ST & NORTH BLUFF RD",
+    "city": "White Rock",
+    "streets": [
+      "white-rock/160th-st",
+      "white-rock/north-bluff-rd"
+    ],
+    "streetNames": [
+      "160th St",
+      "North Bluff Rd"
+    ],
+    "pulsePointId": "2476280064"
+  },
+  {
+    "id": "2026-05-17T15:44:00Z_white-rock/16th-ave_white-rock/160th-st",
+    "timestamp": "2026-05-17T15:44:00Z",
+    "scrapedAt": "2026-05-17T16:17:28Z",
+    "address": "16TH AVE & 160TH ST",
+    "city": "White Rock",
+    "streets": [
+      "white-rock/16th-ave",
+      "white-rock/160th-st"
+    ],
+    "streetNames": [
+      "16th Ave",
+      "160th St"
+    ],
+    "pulsePointId": "2476278169"
+  },
+  {
     "id": "2026-05-17T15:13:00Z_chilliwack/trans-canada-hwy",
     "timestamp": "2026-05-17T15:13:00Z",
     "scrapedAt": "2026-05-17T15:19:55Z",

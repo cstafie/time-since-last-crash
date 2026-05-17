@@ -1,0 +1,24 @@
+{
+  "slug": "white-rock/16th-ave",
+  "name": "16th Ave",
+  "city": "White Rock",
+  "incidents": [
+    {
+      "id": "2026-05-17T15:44:00Z_white-rock/16th-ave_white-rock/160th-st",
+      "timestamp": "2026-05-17T15:44:00Z",
+      "address": "16TH AVE & 160TH ST",
+      "city": "White Rock",
+      "streets": [
+        "white-rock/16th-ave",
+        "white-rock/160th-st"
+      ],
+      "streetNames": [
+        "16th Ave",
+        "160th St"
+      ],
+      "pulsePointId": "2476278169"
+    }
+  ],
+  "lastIncident": "2026-05-17T15:44:00Z",
+  "count": 1
+}
