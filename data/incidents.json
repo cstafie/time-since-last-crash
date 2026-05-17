@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-17T09:58:00Z_burnaby/willingdon-avenue-ofrp",
+    "timestamp": "2026-05-17T09:58:00Z",
+    "scrapedAt": "2026-05-17T10:07:00Z",
+    "address": "WILLINGDON AVENUE OFRP",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/willingdon-avenue-ofrp"
+    ],
+    "streetNames": [
+      "Willingdon Avenue Ofrp"
+    ],
+    "pulsePointId": "2476168104"
+  },
+  {
     "id": "2026-05-17T09:04:00Z_burnaby/hastings-st_burnaby/warwick-ave",
     "timestamp": "2026-05-17T09:04:00Z",
     "scrapedAt": "2026-05-17T09:30:10Z",
