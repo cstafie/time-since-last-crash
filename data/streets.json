@@ -703,8 +703,8 @@
     "name": "Burrard St",
     "slug": "vancouver/burrard-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-14T05:39:00Z",
-    "count": 12
+    "lastIncident": "2026-05-17T21:43:00Z",
+    "count": 13
   },
   "vancouver/e-12th-ave": {
     "name": "E 12th Ave",
@@ -773,8 +773,8 @@
     "name": "W 12th Ave",
     "slug": "vancouver/w-12th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-13T01:04:00Z",
-    "count": 7
+    "lastIncident": "2026-05-17T21:43:00Z",
+    "count": 8
   },
   "vancouver/w-33rd-ave": {
     "name": "W 33rd Ave",

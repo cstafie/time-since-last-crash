@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-17T21:43:00Z_vancouver/w-12th-ave_vancouver/burrard-st",
+    "timestamp": "2026-05-17T21:43:00Z",
+    "scrapedAt": "2026-05-17T21:45:25Z",
+    "address": "W 12TH AVE & BURRARD ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-12th-ave",
+      "vancouver/burrard-st"
+    ],
+    "streetNames": [
+      "W 12th Ave",
+      "Burrard St"
+    ],
+    "pulsePointId": "2476488596"
+  },
+  {
     "id": "2026-05-17T21:13:00Z_vancouver/w-10th-ave",
     "timestamp": "2026-05-17T21:13:00Z",
     "scrapedAt": "2026-05-17T21:15:10Z",

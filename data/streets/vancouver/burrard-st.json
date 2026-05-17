@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-17T21:43:00Z_vancouver/w-12th-ave_vancouver/burrard-st",
+      "timestamp": "2026-05-17T21:43:00Z",
+      "address": "W 12TH AVE & BURRARD ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-12th-ave",
+        "vancouver/burrard-st"
+      ],
+      "streetNames": [
+        "W 12th Ave",
+        "Burrard St"
+      ],
+      "pulsePointId": "2476488596"
+    },
+    {
       "id": "2026-05-14T05:39:00Z_vancouver/nelson-st_vancouver/burrard-st",
       "timestamp": "2026-05-14T05:39:00Z",
       "address": "NELSON ST & BURRARD ST",
@@ -181,6 +196,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-14T05:39:00Z",
-  "count": 12
+  "lastIncident": "2026-05-17T21:43:00Z",
+  "count": 13
 }
