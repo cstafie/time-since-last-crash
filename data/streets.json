@@ -990,8 +990,8 @@
     "name": "Westminster Hwy",
     "slug": "richmond/westminster-hwy",
     "city": "Richmond",
-    "lastIncident": "2026-05-15T22:13:00Z",
-    "count": 10
+    "lastIncident": "2026-05-17T16:14:00Z",
+    "count": 11
   },
   "vancouver/e-37th-ave": {
     "name": "E 37th Ave",
@@ -4483,8 +4483,8 @@
     "name": "Jacombs Rd",
     "slug": "richmond/jacombs-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-15T21:29:00Z",
-    "count": 2
+    "lastIncident": "2026-05-17T16:14:00Z",
+    "count": 3
   },
   "richmond/delf-pl": {
     "name": "Delf Pl",
