@@ -990,8 +990,8 @@
     "name": "Westminster Hwy",
     "slug": "richmond/westminster-hwy",
     "city": "Richmond",
-    "lastIncident": "2026-05-17T16:14:00Z",
-    "count": 11
+    "lastIncident": "2026-05-17T22:43:00Z",
+    "count": 12
   },
   "vancouver/e-37th-ave": {
     "name": "E 37th Ave",
@@ -2572,8 +2572,8 @@
     "name": "No 5 Rd",
     "slug": "richmond/no-5-rd",
     "city": "Richmond",
-    "lastIncident": "2026-04-22T03:41:00Z",
-    "count": 6
+    "lastIncident": "2026-05-17T22:43:00Z",
+    "count": 7
   },
   "port-moody/heritage-mountain-blvd": {
     "name": "Heritage Mountain Blvd",
@@ -9860,6 +9860,13 @@
     "slug": "surrey/pattullo-pl",
     "city": "Surrey",
     "lastIncident": "2026-05-17T18:35:00Z",
+    "count": 1
+  },
+  "vancouver/e-58th-ave": {
+    "name": "E 58th Ave",
+    "slug": "vancouver/e-58th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-17T22:48:00Z",
     "count": 1
   }
 }

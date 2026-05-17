@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/e-58th-ave",
+  "name": "E 58th Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-17T22:48:00Z_vancouver/e-58th-ave",
+      "timestamp": "2026-05-17T22:48:00Z",
+      "address": "E 58TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-58th-ave"
+      ],
+      "streetNames": [
+        "E 58th Ave"
+      ],
+      "pulsePointId": "2476527013"
+    }
+  ],
+  "lastIncident": "2026-05-17T22:48:00Z",
+  "count": 1
+}
