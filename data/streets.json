@@ -9812,5 +9812,12 @@
     "city": "Abbotsford",
     "lastIncident": "2026-05-17T02:10:00Z",
     "count": 1
+  },
+  "chilliwack/meadowbrook-dr": {
+    "name": "Meadowbrook Dr",
+    "slug": "chilliwack/meadowbrook-dr",
+    "city": "Chilliwack",
+    "lastIncident": "2026-05-17T03:48:00Z",
+    "count": 1
   }
 }
