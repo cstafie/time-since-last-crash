@@ -52,8 +52,8 @@
     "name": "Deer Lake Pkwy",
     "slug": "burnaby/deer-lake-pkwy",
     "city": "Burnaby",
-    "lastIncident": "2026-05-13T21:14:00Z",
-    "count": 3
+    "lastIncident": "2026-05-18T17:27:00Z",
+    "count": 4
   },
   "burnaby/garden-grove-dr": {
     "name": "Garden Grove Dr",
@@ -3699,8 +3699,8 @@
     "name": "Royal Oak Ave",
     "slug": "burnaby/royal-oak-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-05-15T15:53:00Z",
-    "count": 4
+    "lastIncident": "2026-05-18T17:27:00Z",
+    "count": 5
   },
   "burnaby/irving-st": {
     "name": "Irving St",

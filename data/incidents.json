@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-18T17:27:00Z_burnaby/royal-oak-ave_burnaby/deer-lake-pkwy",
+    "timestamp": "2026-05-18T17:27:00Z",
+    "scrapedAt": "2026-05-18T17:40:32Z",
+    "address": "ROYAL OAK AVE & DEER LAKE PKWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/royal-oak-ave",
+      "burnaby/deer-lake-pkwy"
+    ],
+    "streetNames": [
+      "Royal Oak Ave",
+      "Deer Lake Pkwy"
+    ],
+    "pulsePointId": "2477032475"
+  },
+  {
     "id": "2026-05-18T13:19:00Z_abbotsford/king-rd",
     "timestamp": "2026-05-18T13:19:00Z",
     "scrapedAt": "2026-05-18T14:08:37Z",

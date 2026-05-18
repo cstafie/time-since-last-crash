@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-18T17:27:00Z_burnaby/royal-oak-ave_burnaby/deer-lake-pkwy",
+      "timestamp": "2026-05-18T17:27:00Z",
+      "address": "ROYAL OAK AVE & DEER LAKE PKWY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/royal-oak-ave",
+        "burnaby/deer-lake-pkwy"
+      ],
+      "streetNames": [
+        "Royal Oak Ave",
+        "Deer Lake Pkwy"
+      ],
+      "pulsePointId": "2477032475"
+    },
+    {
       "id": "2026-05-15T15:53:00Z_burnaby/royal-oak-ave_burnaby/eglinton-st",
       "timestamp": "2026-05-15T15:53:00Z",
       "address": "ROYAL OAK AVE & EGLINTON ST",
@@ -64,6 +79,6 @@
       "pulsePointId": "2439944324"
     }
   ],
-  "lastIncident": "2026-05-15T15:53:00Z",
-  "count": 4
+  "lastIncident": "2026-05-18T17:27:00Z",
+  "count": 5
 }
