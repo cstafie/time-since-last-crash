@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-18T00:02:00Z_abbotsford/immel-st_abbotsford/old-clayburn-rd",
+    "timestamp": "2026-05-18T00:02:00Z",
+    "scrapedAt": "2026-05-18T00:17:15Z",
+    "address": "IMMEL ST & OLD CLAYBURN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/immel-st",
+      "abbotsford/old-clayburn-rd"
+    ],
+    "streetNames": [
+      "Immel St",
+      "Old Clayburn Rd"
+    ],
+    "pulsePointId": "2476570591"
+  },
+  {
     "id": "2026-05-17T22:48:00Z_vancouver/e-58th-ave",
     "timestamp": "2026-05-17T22:48:00Z",
     "scrapedAt": "2026-05-17T23:16:30Z",
