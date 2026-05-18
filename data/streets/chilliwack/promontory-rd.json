@@ -4,6 +4,21 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-05-18T03:16:00Z_chilliwack/vedder-rd_chilliwack/promontory-rd",
+      "timestamp": "2026-05-18T03:16:00Z",
+      "address": "VEDDER RD & PROMONTORY RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/vedder-rd",
+        "chilliwack/promontory-rd"
+      ],
+      "streetNames": [
+        "Vedder Rd",
+        "Promontory Rd"
+      ],
+      "pulsePointId": "2476686882"
+    },
+    {
       "id": "2026-04-30T22:29:00Z_chilliwack/promontory-rd_chilliwack/chester-dr",
       "timestamp": "2026-04-30T22:29:00Z",
       "address": "PROMONTORY RD & CHESTER DR",
@@ -34,6 +49,6 @@
       "pulsePointId": "2460725690"
     }
   ],
-  "lastIncident": "2026-04-30T22:29:00Z",
-  "count": 2
+  "lastIncident": "2026-05-18T03:16:00Z",
+  "count": 3
 }

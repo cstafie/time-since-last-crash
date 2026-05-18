@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-05-18T02:16:00Z_richmond/garden-city-rd_richmond/general-currie-rd",
+      "timestamp": "2026-05-18T02:16:00Z",
+      "address": "GARDEN CITY RD & GENERAL CURRIE RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/garden-city-rd",
+        "richmond/general-currie-rd"
+      ],
+      "streetNames": [
+        "Garden City Rd",
+        "General Currie Rd"
+      ],
+      "pulsePointId": "2476652378"
+    },
+    {
       "id": "2026-05-14T22:07:00Z_richmond/cambie-rd_richmond/garden-city-rd",
       "timestamp": "2026-05-14T22:07:00Z",
       "address": "CAMBIE RD & GARDEN CITY RD",
@@ -92,6 +107,6 @@
       "pulsePointId": "2433457530"
     }
   ],
-  "lastIncident": "2026-05-14T22:07:00Z",
-  "count": 6
+  "lastIncident": "2026-05-18T02:16:00Z",
+  "count": 7
 }

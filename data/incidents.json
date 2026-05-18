@@ -1,5 +1,69 @@
 [
   {
+    "id": "2026-05-18T03:21:00Z_abbotsford/bradner-rd_abbotsford/fraser-hwy",
+    "timestamp": "2026-05-18T03:21:00Z",
+    "scrapedAt": "2026-05-18T03:43:50Z",
+    "address": "BRADNER RD & FRASER HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/bradner-rd",
+      "abbotsford/fraser-hwy"
+    ],
+    "streetNames": [
+      "Bradner Rd",
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2476688791"
+  },
+  {
+    "id": "2026-05-18T03:16:00Z_chilliwack/vedder-rd_chilliwack/promontory-rd",
+    "timestamp": "2026-05-18T03:16:00Z",
+    "scrapedAt": "2026-05-18T03:43:50Z",
+    "address": "VEDDER RD & PROMONTORY RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/vedder-rd",
+      "chilliwack/promontory-rd"
+    ],
+    "streetNames": [
+      "Vedder Rd",
+      "Promontory Rd"
+    ],
+    "pulsePointId": "2476686882"
+  },
+  {
+    "id": "2026-05-18T02:54:00Z_vancouver/hornby-st_vancouver/smithe-st",
+    "timestamp": "2026-05-18T02:54:00Z",
+    "scrapedAt": "2026-05-18T03:43:50Z",
+    "address": "HORNBY ST & SMITHE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/hornby-st",
+      "vancouver/smithe-st"
+    ],
+    "streetNames": [
+      "Hornby St",
+      "Smithe St"
+    ],
+    "pulsePointId": "2476674889"
+  },
+  {
+    "id": "2026-05-18T02:16:00Z_richmond/garden-city-rd_richmond/general-currie-rd",
+    "timestamp": "2026-05-18T02:16:00Z",
+    "scrapedAt": "2026-05-18T03:43:50Z",
+    "address": "GARDEN CITY RD & GENERAL CURRIE RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/garden-city-rd",
+      "richmond/general-currie-rd"
+    ],
+    "streetNames": [
+      "Garden City Rd",
+      "General Currie Rd"
+    ],
+    "pulsePointId": "2476652378"
+  },
+  {
     "id": "2026-05-18T01:39:00Z_surrey/128th-st_surrey/67a-ave",
     "timestamp": "2026-05-18T01:39:00Z",
     "scrapedAt": "2026-05-18T02:16:09Z",
