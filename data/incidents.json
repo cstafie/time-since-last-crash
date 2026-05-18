@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-18T19:48:00Z_burnaby/royal-oak-ave",
+    "timestamp": "2026-05-18T19:48:00Z",
+    "scrapedAt": "2026-05-18T20:08:09Z",
+    "address": "ROYAL OAK AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/royal-oak-ave"
+    ],
+    "streetNames": [
+      "Royal Oak Ave"
+    ],
+    "pulsePointId": "2477136551"
+  },
+  {
+    "id": "2026-05-18T19:34:00Z_surrey/147a-st_surrey/78th-ave",
+    "timestamp": "2026-05-18T19:34:00Z",
+    "scrapedAt": "2026-05-18T20:08:09Z",
+    "address": "147A ST & 78TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/147a-st",
+      "surrey/78th-ave"
+    ],
+    "streetNames": [
+      "147a St",
+      "78th Ave"
+    ],
+    "pulsePointId": "2477126218"
+  },
+  {
     "id": "2026-05-18T19:05:00Z_chilliwack/hodgins-ave_chilliwack/yale-rd",
     "timestamp": "2026-05-18T19:05:00Z",
     "scrapedAt": "2026-05-18T19:30:19Z",
