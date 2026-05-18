@@ -1,0 +1,24 @@
+{
+  "slug": "richmond/maple-rd",
+  "name": "Maple Rd",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-05-18T22:35:00Z_richmond/maple-rd_richmond/no-2-rd",
+      "timestamp": "2026-05-18T22:35:00Z",
+      "address": "MAPLE RD & NO 2 RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/maple-rd",
+        "richmond/no-2-rd"
+      ],
+      "streetNames": [
+        "Maple Rd",
+        "No 2 Rd"
+      ],
+      "pulsePointId": "2477255845"
+    }
+  ],
+  "lastIncident": "2026-05-18T22:35:00Z",
+  "count": 1
+}
