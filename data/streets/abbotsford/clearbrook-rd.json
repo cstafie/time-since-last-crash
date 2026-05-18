@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-05-18T21:42:00Z_abbotsford/balfour-dr_abbotsford/clearbrook-rd",
+      "timestamp": "2026-05-18T21:42:00Z",
+      "address": "BALFOUR DR & CLEARBROOK RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/balfour-dr",
+        "abbotsford/clearbrook-rd"
+      ],
+      "streetNames": [
+        "Balfour Dr",
+        "Clearbrook Rd"
+      ],
+      "pulsePointId": "2477219050"
+    },
+    {
       "id": "2026-05-18T18:47:00Z_abbotsford/marshall-rd_abbotsford/clearbrook-rd",
       "timestamp": "2026-05-18T18:47:00Z",
       "address": "MARSHALL RD & CLEARBROOK RD",
@@ -210,6 +225,6 @@
       "pulsePointId": "2433749907"
     }
   ],
-  "lastIncident": "2026-05-18T18:47:00Z",
-  "count": 14
+  "lastIncident": "2026-05-18T21:42:00Z",
+  "count": 15
 }

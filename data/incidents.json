@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-18T21:42:00Z_abbotsford/balfour-dr_abbotsford/clearbrook-rd",
+    "timestamp": "2026-05-18T21:42:00Z",
+    "scrapedAt": "2026-05-18T21:51:25Z",
+    "address": "BALFOUR DR & CLEARBROOK RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/balfour-dr",
+      "abbotsford/clearbrook-rd"
+    ],
+    "streetNames": [
+      "Balfour Dr",
+      "Clearbrook Rd"
+    ],
+    "pulsePointId": "2477219050"
+  },
+  {
     "id": "2026-05-18T20:08:00Z_richmond/grant-mcconachie-way",
     "timestamp": "2026-05-18T20:08:00Z",
     "scrapedAt": "2026-05-18T20:54:33Z",
