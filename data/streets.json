@@ -38,8 +38,8 @@
     "name": "Ross Rd",
     "slug": "abbotsford/ross-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-02T21:07:00Z",
-    "count": 5
+    "lastIncident": "2026-05-18T07:09:00Z",
+    "count": 6
   },
   "abbotsford/trethewey-st": {
     "name": "Trethewey St",
@@ -1781,8 +1781,8 @@
     "name": "King Rd",
     "slug": "abbotsford/king-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-14T14:55:00Z",
-    "count": 2
+    "lastIncident": "2026-05-18T07:09:00Z",
+    "count": 3
   },
   "surrey/101st-ave": {
     "name": "101st Ave",
@@ -5666,8 +5666,8 @@
     "name": "Oxford St",
     "slug": "white-rock/oxford-st",
     "city": "White Rock",
-    "lastIncident": "2026-04-07T18:44:00Z",
-    "count": 1
+    "lastIncident": "2026-05-18T07:27:00Z",
+    "count": 2
   },
   "surrey/riverview-brdg": {
     "name": "Riverview Brdg",
@@ -9868,5 +9868,12 @@
     "city": "Vancouver",
     "lastIncident": "2026-05-17T22:48:00Z",
     "count": 1
+  },
+  "white-rock/marine-dr": {
+    "name": "Marine Dr",
+    "slug": "white-rock/marine-dr",
+    "city": "White Rock",
+    "lastIncident": "2026-05-18T07:32:00Z",
+    "count": 3
   }
 }

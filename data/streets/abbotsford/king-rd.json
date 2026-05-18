@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-05-18T07:09:00Z_abbotsford/king-rd_abbotsford/ross-rd",
+      "timestamp": "2026-05-18T07:09:00Z",
+      "address": "KING RD & ROSS RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/king-rd",
+        "abbotsford/ross-rd"
+      ],
+      "streetNames": [
+        "King Rd",
+        "Ross Rd"
+      ],
+      "pulsePointId": "2476782207"
+    },
+    {
       "id": "2026-04-14T14:55:00Z_abbotsford/clearbrook-rd_abbotsford/king-rd",
       "timestamp": "2026-04-14T14:55:00Z",
       "address": "CLEARBROOK RD & KING RD",
@@ -32,6 +47,6 @@
       "pulsePointId": "2433301036"
     }
   ],
-  "lastIncident": "2026-04-14T14:55:00Z",
-  "count": 2
+  "lastIncident": "2026-05-18T07:09:00Z",
+  "count": 3
 }

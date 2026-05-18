@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-05-18T07:32:00Z_white-rock/marine-dr",
+    "timestamp": "2026-05-18T07:32:00Z",
+    "scrapedAt": "2026-05-18T08:18:25Z",
+    "address": "MARINE DR",
+    "city": "White Rock",
+    "streets": [
+      "white-rock/marine-dr"
+    ],
+    "streetNames": [
+      "Marine Dr"
+    ],
+    "pulsePointId": "2476788805"
+  },
+  {
+    "id": "2026-05-18T07:27:00Z_white-rock/marine-dr_white-rock/oxford-st",
+    "timestamp": "2026-05-18T07:27:00Z",
+    "scrapedAt": "2026-05-18T08:18:25Z",
+    "address": "MARINE DR & OXFORD ST",
+    "city": "White Rock",
+    "streets": [
+      "white-rock/marine-dr",
+      "white-rock/oxford-st"
+    ],
+    "streetNames": [
+      "Marine Dr",
+      "Oxford St"
+    ],
+    "pulsePointId": "2476789238"
+  },
+  {
+    "id": "2026-05-18T07:27:00Z_white-rock/marine-dr",
+    "timestamp": "2026-05-18T07:27:00Z",
+    "scrapedAt": "2026-05-18T08:18:25Z",
+    "address": "MARINE DR",
+    "city": "White Rock",
+    "streets": [
+      "white-rock/marine-dr"
+    ],
+    "streetNames": [
+      "Marine Dr"
+    ],
+    "pulsePointId": "2476787901"
+  },
+  {
+    "id": "2026-05-18T07:09:00Z_abbotsford/king-rd_abbotsford/ross-rd",
+    "timestamp": "2026-05-18T07:09:00Z",
+    "scrapedAt": "2026-05-18T08:18:25Z",
+    "address": "KING RD & ROSS RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/king-rd",
+      "abbotsford/ross-rd"
+    ],
+    "streetNames": [
+      "King Rd",
+      "Ross Rd"
+    ],
+    "pulsePointId": "2476782207"
+  },
+  {
     "id": "2026-05-18T06:34:00Z_vancouver/granville-st_vancouver/helmcken-st",
     "timestamp": "2026-05-18T06:34:00Z",
     "scrapedAt": "2026-05-18T06:45:53Z",

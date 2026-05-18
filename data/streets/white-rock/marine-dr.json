@@ -1,0 +1,50 @@
+{
+  "slug": "white-rock/marine-dr",
+  "name": "Marine Dr",
+  "city": "White Rock",
+  "incidents": [
+    {
+      "id": "2026-05-18T07:32:00Z_white-rock/marine-dr",
+      "timestamp": "2026-05-18T07:32:00Z",
+      "address": "MARINE DR",
+      "city": "White Rock",
+      "streets": [
+        "white-rock/marine-dr"
+      ],
+      "streetNames": [
+        "Marine Dr"
+      ],
+      "pulsePointId": "2476788805"
+    },
+    {
+      "id": "2026-05-18T07:27:00Z_white-rock/marine-dr_white-rock/oxford-st",
+      "timestamp": "2026-05-18T07:27:00Z",
+      "address": "MARINE DR & OXFORD ST",
+      "city": "White Rock",
+      "streets": [
+        "white-rock/marine-dr",
+        "white-rock/oxford-st"
+      ],
+      "streetNames": [
+        "Marine Dr",
+        "Oxford St"
+      ],
+      "pulsePointId": "2476789238"
+    },
+    {
+      "id": "2026-05-18T07:27:00Z_white-rock/marine-dr",
+      "timestamp": "2026-05-18T07:27:00Z",
+      "address": "MARINE DR",
+      "city": "White Rock",
+      "streets": [
+        "white-rock/marine-dr"
+      ],
+      "streetNames": [
+        "Marine Dr"
+      ],
+      "pulsePointId": "2476787901"
+    }
+  ],
+  "lastIncident": "2026-05-18T07:32:00Z",
+  "count": 3
+}

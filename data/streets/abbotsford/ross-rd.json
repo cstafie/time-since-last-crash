@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-05-18T07:09:00Z_abbotsford/king-rd_abbotsford/ross-rd",
+      "timestamp": "2026-05-18T07:09:00Z",
+      "address": "KING RD & ROSS RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/king-rd",
+        "abbotsford/ross-rd"
+      ],
+      "streetNames": [
+        "King Rd",
+        "Ross Rd"
+      ],
+      "pulsePointId": "2476782207"
+    },
+    {
       "id": "2026-04-02T21:07:00Z_abbotsford/ross-rd_abbotsford/old-yale-rd",
       "timestamp": "2026-04-02T21:07:00Z",
       "address": "ROSS RD & OLD YALE RD",
@@ -76,6 +91,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-02T21:07:00Z",
-  "count": 5
+  "lastIncident": "2026-05-18T07:09:00Z",
+  "count": 6
 }
