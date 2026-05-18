@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-05-18T01:39:00Z_surrey/128th-st_surrey/67a-ave",
+      "timestamp": "2026-05-18T01:39:00Z",
+      "address": "128TH ST & 67A AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/128th-st",
+        "surrey/67a-ave"
+      ],
+      "streetNames": [
+        "128th St",
+        "67a Ave"
+      ],
+      "pulsePointId": "2476633036"
+    },
+    {
       "id": "2026-05-16T17:55:00Z_surrey/74th-ave_surrey/128th-st",
       "timestamp": "2026-05-16T17:55:00Z",
       "address": "74TH AVE & 128TH ST",
@@ -264,6 +279,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-16T17:55:00Z",
-  "count": 18
+  "lastIncident": "2026-05-18T01:39:00Z",
+  "count": 19
 }

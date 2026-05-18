@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-18T01:39:00Z_surrey/128th-st_surrey/67a-ave",
+    "timestamp": "2026-05-18T01:39:00Z",
+    "scrapedAt": "2026-05-18T02:16:09Z",
+    "address": "128TH ST & 67A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/128th-st",
+      "surrey/67a-ave"
+    ],
+    "streetNames": [
+      "128th St",
+      "67a Ave"
+    ],
+    "pulsePointId": "2476633036"
+  },
+  {
     "id": "2026-05-18T00:46:00Z_maple-ridge/113b-ave_maple-ridge/232nd-st",
     "timestamp": "2026-05-18T00:46:00Z",
     "scrapedAt": "2026-05-18T01:22:25Z",
