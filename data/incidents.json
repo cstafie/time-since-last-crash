@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-18T00:46:00Z_maple-ridge/113b-ave_maple-ridge/232nd-st",
+    "timestamp": "2026-05-18T00:46:00Z",
+    "scrapedAt": "2026-05-18T01:22:25Z",
+    "address": "113B AVE & 232ND ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/113b-ave",
+      "maple-ridge/232nd-st"
+    ],
+    "streetNames": [
+      "113b Ave",
+      "232nd St"
+    ],
+    "pulsePointId": "2476598897"
+  },
+  {
     "id": "2026-05-18T00:02:00Z_abbotsford/immel-st_abbotsford/old-clayburn-rd",
     "timestamp": "2026-05-18T00:02:00Z",
     "scrapedAt": "2026-05-18T00:17:15Z",
