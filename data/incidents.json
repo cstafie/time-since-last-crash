@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-18T12:16:00Z_delta/hwy-99",
+    "timestamp": "2026-05-18T12:16:00Z",
+    "scrapedAt": "2026-05-18T12:42:15Z",
+    "address": "HWY 99",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2476867139"
+  },
+  {
     "id": "2026-05-18T07:32:00Z_white-rock/marine-dr",
     "timestamp": "2026-05-18T07:32:00Z",
     "scrapedAt": "2026-05-18T08:18:25Z",
