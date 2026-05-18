@@ -1,6 +1,6 @@
 {
-  "slug": "coquitlam/johnson-st",
-  "name": "Johnson St",
+  "slug": "coquitlam/delahaye-dr",
+  "name": "Delahaye Dr",
   "city": "Coquitlam",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Johnson St"
       ],
       "pulsePointId": "2477273891"
-    },
-    {
-      "id": "2026-03-22T18:26:00Z_coquitlam/valleyvista-dr_coquitlam/johnson-st",
-      "timestamp": "2026-03-22T18:26:00Z",
-      "address": "VALLEYVISTA DR & JOHNSON ST",
-      "city": "Coquitlam",
-      "streets": [
-        "coquitlam/valleyvista-dr",
-        "coquitlam/johnson-st"
-      ],
-      "streetNames": [
-        "Valleyvista Dr",
-        "Johnson St"
-      ],
-      "pulsePointId": "2439295236"
     }
   ],
   "lastIncident": "2026-05-18T23:00:00Z",
-  "count": 2
+  "count": 1
 }
