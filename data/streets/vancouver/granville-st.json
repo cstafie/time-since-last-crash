@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-18T06:34:00Z_vancouver/granville-st_vancouver/helmcken-st",
+      "timestamp": "2026-05-18T06:34:00Z",
+      "address": "GRANVILLE ST & HELMCKEN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st",
+        "vancouver/helmcken-st"
+      ],
+      "streetNames": [
+        "Granville St",
+        "Helmcken St"
+      ],
+      "pulsePointId": "2476770370"
+    },
+    {
       "id": "2026-05-16T01:21:00Z_vancouver/granville-st_vancouver/w-49th-ave",
       "timestamp": "2026-05-16T01:21:00Z",
       "address": "GRANVILLE ST & W 49TH AVE",
@@ -398,6 +413,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-16T01:21:00Z",
-  "count": 27
+  "lastIncident": "2026-05-18T06:34:00Z",
+  "count": 28
 }

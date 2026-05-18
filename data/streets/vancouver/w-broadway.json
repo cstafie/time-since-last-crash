@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-18T05:34:00Z_vancouver/w-broadway_vancouver/oak-st",
+      "timestamp": "2026-05-18T05:34:00Z",
+      "address": "W BROADWAY & OAK ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-broadway",
+        "vancouver/oak-st"
+      ],
+      "streetNames": [
+        "W Broadway",
+        "Oak St"
+      ],
+      "pulsePointId": "2476749882"
+    },
+    {
       "id": "2026-05-15T19:27:00Z_vancouver/pine-st_vancouver/w-broadway",
       "timestamp": "2026-05-15T19:27:00Z",
       "address": "PINE ST & W BROADWAY",
@@ -178,6 +193,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-15T19:27:00Z",
-  "count": 12
+  "lastIncident": "2026-05-18T05:34:00Z",
+  "count": 13
 }

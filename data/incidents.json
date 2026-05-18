@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-05-18T06:34:00Z_vancouver/granville-st_vancouver/helmcken-st",
+    "timestamp": "2026-05-18T06:34:00Z",
+    "scrapedAt": "2026-05-18T06:45:53Z",
+    "address": "GRANVILLE ST & HELMCKEN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st",
+      "vancouver/helmcken-st"
+    ],
+    "streetNames": [
+      "Granville St",
+      "Helmcken St"
+    ],
+    "pulsePointId": "2476770370"
+  },
+  {
+    "id": "2026-05-18T05:51:00Z_langley/80th-ave_langley/272nd-st",
+    "timestamp": "2026-05-18T05:51:00Z",
+    "scrapedAt": "2026-05-18T06:45:53Z",
+    "address": "80TH AVE & 272ND ST",
+    "city": "Langley",
+    "streets": [
+      "langley/80th-ave",
+      "langley/272nd-st"
+    ],
+    "streetNames": [
+      "80th Ave",
+      "272nd St"
+    ],
+    "pulsePointId": "2476755724"
+  },
+  {
+    "id": "2026-05-18T05:34:00Z_vancouver/w-broadway_vancouver/oak-st",
+    "timestamp": "2026-05-18T05:34:00Z",
+    "scrapedAt": "2026-05-18T06:45:53Z",
+    "address": "W BROADWAY & OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-broadway",
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "W Broadway",
+      "Oak St"
+    ],
+    "pulsePointId": "2476749882"
+  },
+  {
     "id": "2026-05-18T04:20:00Z_surrey/156th-st",
     "timestamp": "2026-05-18T04:20:00Z",
     "scrapedAt": "2026-05-18T05:18:36Z",
