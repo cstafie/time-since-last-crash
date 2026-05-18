@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-05-18T19:05:00Z_chilliwack/hodgins-ave_chilliwack/yale-rd",
+    "timestamp": "2026-05-18T19:05:00Z",
+    "scrapedAt": "2026-05-18T19:30:19Z",
+    "address": "HODGINS AVE & YALE RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/hodgins-ave",
+      "chilliwack/yale-rd"
+    ],
+    "streetNames": [
+      "Hodgins Ave",
+      "Yale Rd"
+    ],
+    "pulsePointId": "2477106255"
+  },
+  {
+    "id": "2026-05-18T18:53:00Z_surrey/132nd-st_surrey/112b-ave",
+    "timestamp": "2026-05-18T18:53:00Z",
+    "scrapedAt": "2026-05-18T19:30:19Z",
+    "address": "132ND ST & 112B AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/132nd-st",
+      "surrey/112b-ave"
+    ],
+    "streetNames": [
+      "132nd St",
+      "112b Ave"
+    ],
+    "pulsePointId": "2477096054"
+  },
+  {
+    "id": "2026-05-18T18:47:00Z_abbotsford/marshall-rd_abbotsford/clearbrook-rd",
+    "timestamp": "2026-05-18T18:47:00Z",
+    "scrapedAt": "2026-05-18T19:30:19Z",
+    "address": "MARSHALL RD & CLEARBROOK RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/marshall-rd",
+      "abbotsford/clearbrook-rd"
+    ],
+    "streetNames": [
+      "Marshall Rd",
+      "Clearbrook Rd"
+    ],
+    "pulsePointId": "2477090440"
+  },
+  {
     "id": "2026-05-18T17:27:00Z_burnaby/royal-oak-ave_burnaby/deer-lake-pkwy",
     "timestamp": "2026-05-18T17:27:00Z",
     "scrapedAt": "2026-05-18T17:40:32Z",
