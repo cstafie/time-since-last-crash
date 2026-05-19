@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/tims-st",
+  "name": "Tims St",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-05-19T22:22:00Z_abbotsford/george-ferguson-way_abbotsford/tims-st",
+      "timestamp": "2026-05-19T22:22:00Z",
+      "address": "GEORGE FERGUSON WAY & TIMS ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/george-ferguson-way",
+        "abbotsford/tims-st"
+      ],
+      "streetNames": [
+        "George Ferguson Way",
+        "Tims St"
+      ],
+      "pulsePointId": "2477986650"
+    }
+  ],
+  "lastIncident": "2026-05-19T22:22:00Z",
+  "count": 1
+}

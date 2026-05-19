@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-19T22:22:00Z_abbotsford/george-ferguson-way_abbotsford/tims-st",
+    "timestamp": "2026-05-19T22:22:00Z",
+    "scrapedAt": "2026-05-19T22:50:01Z",
+    "address": "GEORGE FERGUSON WAY & TIMS ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/george-ferguson-way",
+      "abbotsford/tims-st"
+    ],
+    "streetNames": [
+      "George Ferguson Way",
+      "Tims St"
+    ],
+    "pulsePointId": "2477986650"
+  },
+  {
     "id": "2026-05-19T22:07:00Z_richmond/vickers-way_richmond/bridgeport-rd",
     "timestamp": "2026-05-19T22:07:00Z",
     "scrapedAt": "2026-05-19T22:23:52Z",

@@ -6492,8 +6492,8 @@
     "name": "George Ferguson Way",
     "slug": "abbotsford/george-ferguson-way",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-05T15:19:00Z",
-    "count": 2
+    "lastIncident": "2026-05-19T22:22:00Z",
+    "count": 3
   },
   "new-westminster/richmond-st": {
     "name": "Richmond St",
@@ -9972,6 +9972,13 @@
     "slug": "richmond/vickers-way",
     "city": "Richmond",
     "lastIncident": "2026-05-19T22:07:00Z",
+    "count": 1
+  },
+  "abbotsford/tims-st": {
+    "name": "Tims St",
+    "slug": "abbotsford/tims-st",
+    "city": "Abbotsford",
+    "lastIncident": "2026-05-19T22:22:00Z",
     "count": 1
   }
 }
