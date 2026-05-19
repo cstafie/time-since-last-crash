@@ -1,0 +1,24 @@
+{
+  "slug": "richmond/vickers-way",
+  "name": "Vickers Way",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-05-19T22:07:00Z_richmond/vickers-way_richmond/bridgeport-rd",
+      "timestamp": "2026-05-19T22:07:00Z",
+      "address": "VICKERS WAY & BRIDGEPORT RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/vickers-way",
+        "richmond/bridgeport-rd"
+      ],
+      "streetNames": [
+        "Vickers Way",
+        "Bridgeport Rd"
+      ],
+      "pulsePointId": "2477975345"
+    }
+  ],
+  "lastIncident": "2026-05-19T22:07:00Z",
+  "count": 1
+}

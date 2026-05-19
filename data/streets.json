@@ -318,8 +318,8 @@
     "name": "Dewdney Trunk Rd",
     "slug": "maple-ridge/dewdney-trunk-rd",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-09T23:02:00Z",
-    "count": 18
+    "lastIncident": "2026-05-19T21:41:00Z",
+    "count": 19
   },
   "maple-ridge/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -451,8 +451,8 @@
     "name": "Bridgeport Rd",
     "slug": "richmond/bridgeport-rd",
     "city": "Richmond",
-    "lastIncident": "2026-04-18T03:05:00Z",
-    "count": 9
+    "lastIncident": "2026-05-19T22:07:00Z",
+    "count": 10
   },
   "richmond/granville-ave": {
     "name": "Granville Ave",
@@ -913,8 +913,8 @@
     "name": "E Columbia St",
     "slug": "new-westminster/e-columbia-st",
     "city": "New Westminster",
-    "lastIncident": "2026-05-17T21:56:00Z",
-    "count": 10
+    "lastIncident": "2026-05-19T21:36:00Z",
+    "count": 11
   },
   "burnaby/market-crss": {
     "name": "Market Crss",
@@ -8543,8 +8543,8 @@
     "name": "Holmes St",
     "slug": "new-westminster/holmes-st",
     "city": "New Westminster",
-    "lastIncident": "2026-05-09T22:32:00Z",
-    "count": 2
+    "lastIncident": "2026-05-19T21:36:00Z",
+    "count": 3
   },
   "langley/70th-ave": {
     "name": "70th Ave",
@@ -9965,6 +9965,13 @@
     "slug": "delta/churchill-st",
     "city": "Delta",
     "lastIncident": "2026-05-19T17:17:00Z",
+    "count": 1
+  },
+  "richmond/vickers-way": {
+    "name": "Vickers Way",
+    "slug": "richmond/vickers-way",
+    "city": "Richmond",
+    "lastIncident": "2026-05-19T22:07:00Z",
     "count": 1
   }
 }

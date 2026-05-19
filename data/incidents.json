@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-05-19T22:07:00Z_richmond/vickers-way_richmond/bridgeport-rd",
+    "timestamp": "2026-05-19T22:07:00Z",
+    "scrapedAt": "2026-05-19T22:23:52Z",
+    "address": "VICKERS WAY & BRIDGEPORT RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/vickers-way",
+      "richmond/bridgeport-rd"
+    ],
+    "streetNames": [
+      "Vickers Way",
+      "Bridgeport Rd"
+    ],
+    "pulsePointId": "2477975345"
+  },
+  {
+    "id": "2026-05-19T21:41:00Z_maple-ridge/dewdney-trunk-rd",
+    "timestamp": "2026-05-19T21:41:00Z",
+    "scrapedAt": "2026-05-19T22:23:52Z",
+    "address": "DEWDNEY TRUNK RD",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2477956245"
+  },
+  {
+    "id": "2026-05-19T21:36:00Z_new-westminster/e-columbia-st_new-westminster/holmes-st",
+    "timestamp": "2026-05-19T21:36:00Z",
+    "scrapedAt": "2026-05-19T22:23:52Z",
+    "address": "E COLUMBIA ST & HOLMES ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/e-columbia-st",
+      "new-westminster/holmes-st"
+    ],
+    "streetNames": [
+      "E Columbia St",
+      "Holmes St"
+    ],
+    "pulsePointId": "2477952124"
+  },
+  {
     "id": "2026-05-19T21:35:00Z_new-westminster/8th-ave_new-westminster/20th-st",
     "timestamp": "2026-05-19T21:35:00Z",
     "scrapedAt": "2026-05-19T21:38:41Z",
