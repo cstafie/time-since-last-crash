@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-19T23:42:00Z_burnaby/cariboo-rd",
+      "timestamp": "2026-05-19T23:42:00Z",
+      "address": "CARIBOO RD",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/cariboo-rd"
+      ],
+      "streetNames": [
+        "Cariboo Rd"
+      ],
+      "pulsePointId": "2478042021"
+    },
+    {
       "id": "2026-04-18T18:41:00Z_burnaby/cariboo-rd_burnaby/holmes-st",
       "timestamp": "2026-04-18T18:41:00Z",
       "address": "CARIBOO RD & HOLMES ST",
@@ -49,6 +62,6 @@
       "pulsePointId": "2435284202"
     }
   ],
-  "lastIncident": "2026-04-18T18:41:00Z",
-  "count": 3
+  "lastIncident": "2026-05-19T23:42:00Z",
+  "count": 4
 }

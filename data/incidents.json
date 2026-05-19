@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-19T23:42:00Z_burnaby/cariboo-rd",
+    "timestamp": "2026-05-19T23:42:00Z",
+    "scrapedAt": "2026-05-19T23:47:51Z",
+    "address": "CARIBOO RD",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/cariboo-rd"
+    ],
+    "streetNames": [
+      "Cariboo Rd"
+    ],
+    "pulsePointId": "2478042021"
+  },
+  {
     "id": "2026-05-19T23:08:00Z_chilliwack/keith-wilson-rd_chilliwack/tyson-rd",
     "timestamp": "2026-05-19T23:08:00Z",
     "scrapedAt": "2026-05-19T23:21:58Z",
