@@ -871,8 +871,8 @@
     "name": "120th St",
     "slug": "delta/120th-st",
     "city": "Delta",
-    "lastIncident": "2026-05-11T13:03:00Z",
-    "count": 18
+    "lastIncident": "2026-05-19T19:02:00Z",
+    "count": 19
   },
   "delta/roberts-bank-rd": {
     "name": "Roberts Bank Rd",
@@ -6471,8 +6471,8 @@
     "name": "80th Ave",
     "slug": "delta/80th-ave",
     "city": "Delta",
-    "lastIncident": "2026-05-10T06:25:00Z",
-    "count": 3
+    "lastIncident": "2026-05-19T19:02:00Z",
+    "count": 4
   },
   "abbotsford/watson-rd": {
     "name": "Watson Rd",
