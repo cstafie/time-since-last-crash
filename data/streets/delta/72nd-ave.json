@@ -4,6 +4,21 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-05-19T03:13:00Z_delta/hwy-91-ofrp_delta/72nd-ave",
+      "timestamp": "2026-05-19T03:13:00Z",
+      "address": "HWY 91 OFRP & 72ND AVE",
+      "city": "Delta",
+      "streets": [
+        "delta/hwy-91-ofrp",
+        "delta/72nd-ave"
+      ],
+      "streetNames": [
+        "Hwy 91 Ofrp",
+        "72nd Ave"
+      ],
+      "pulsePointId": "2477425179"
+    },
+    {
       "id": "2026-05-11T12:45:00Z_delta/120th-st_delta/72nd-ave",
       "timestamp": "2026-05-11T12:45:00Z",
       "address": "120TH ST & 72ND AVE",
@@ -47,6 +62,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-11T12:45:00Z",
-  "count": 3
+  "lastIncident": "2026-05-19T03:13:00Z",
+  "count": 4
 }
