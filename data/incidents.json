@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-05-19T00:03:00Z_chilliwack/6640-vedder-rd",
+    "timestamp": "2026-05-19T00:03:00Z",
+    "scrapedAt": "2026-05-19T00:21:07Z",
+    "address": "6640 VEDDER RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/6640-vedder-rd"
+    ],
+    "streetNames": [
+      "6640 Vedder Rd"
+    ],
+    "pulsePointId": "2477318553"
+  },
+  {
+    "id": "2026-05-18T23:54:00Z_surrey/king-george-blvd_surrey/58th-ave",
+    "timestamp": "2026-05-18T23:54:00Z",
+    "scrapedAt": "2026-05-19T00:21:07Z",
+    "address": "KING GEORGE BLVD & 58TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/58th-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "58th Ave"
+    ],
+    "pulsePointId": "2477314019"
+  },
+  {
+    "id": "2026-05-18T23:52:00Z_surrey/king-george-blvd_surrey/colebrook-rd",
+    "timestamp": "2026-05-18T23:52:00Z",
+    "scrapedAt": "2026-05-19T00:21:07Z",
+    "address": "KING GEORGE BLVD & COLEBROOK RD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/colebrook-rd"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "Colebrook Rd"
+    ],
+    "pulsePointId": "2477310074"
+  },
+  {
+    "id": "2026-05-18T23:51:00Z_surrey/king-george-blvd",
+    "timestamp": "2026-05-18T23:51:00Z",
+    "scrapedAt": "2026-05-19T00:21:07Z",
+    "address": "KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "King George Blvd"
+    ],
+    "pulsePointId": "2477311590"
+  },
+  {
     "id": "2026-05-18T23:00:00Z_coquitlam/delahaye-dr_coquitlam/johnson-st",
     "timestamp": "2026-05-18T23:00:00Z",
     "scrapedAt": "2026-05-18T23:20:39Z",

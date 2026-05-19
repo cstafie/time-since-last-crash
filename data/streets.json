@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-05-18T22:01:00Z",
-    "count": 43
+    "lastIncident": "2026-05-18T23:54:00Z",
+    "count": 46
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -1592,8 +1592,8 @@
     "name": "58th Ave",
     "slug": "surrey/58th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-16T13:33:00Z",
-    "count": 6
+    "lastIncident": "2026-05-18T23:54:00Z",
+    "count": 7
   },
   "vancouver/w-22nd-ave": {
     "name": "W 22nd Ave",
@@ -8585,8 +8585,8 @@
     "name": "Colebrook Rd",
     "slug": "surrey/colebrook-rd",
     "city": "Surrey",
-    "lastIncident": "2026-05-03T11:48:00Z",
-    "count": 1
+    "lastIncident": "2026-05-18T23:52:00Z",
+    "count": 2
   },
   "abbotsford/sumas-river-brdg": {
     "name": "Sumas River Brdg",
@@ -9902,6 +9902,13 @@
     "slug": "coquitlam/delahaye-dr",
     "city": "Coquitlam",
     "lastIncident": "2026-05-18T23:00:00Z",
+    "count": 1
+  },
+  "chilliwack/6640-vedder-rd": {
+    "name": "6640 Vedder Rd",
+    "slug": "chilliwack/6640-vedder-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-05-19T00:03:00Z",
     "count": 1
   }
 }
