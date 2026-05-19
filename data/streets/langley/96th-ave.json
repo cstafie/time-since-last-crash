@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-05-19T06:26:00Z_langley/96th-ave_langley/billy-brown-rd",
+      "timestamp": "2026-05-19T06:26:00Z",
+      "address": "96TH AVE & BILLY BROWN RD",
+      "city": "Langley",
+      "streets": [
+        "langley/96th-ave",
+        "langley/billy-brown-rd"
+      ],
+      "streetNames": [
+        "96th Ave",
+        "Billy Brown Rd"
+      ],
+      "pulsePointId": "2477510041"
+    },
+    {
       "id": "2026-05-19T04:29:00Z_langley/96th-ave",
       "timestamp": "2026-05-19T04:29:00Z",
       "address": "96TH AVE",
@@ -77,6 +92,6 @@
       "pulsePointId": "2441560235"
     }
   ],
-  "lastIncident": "2026-05-19T04:29:00Z",
-  "count": 5
+  "lastIncident": "2026-05-19T06:26:00Z",
+  "count": 6
 }

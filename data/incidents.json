@@ -1,5 +1,69 @@
 [
   {
+    "id": "2026-05-19T06:41:00Z_langley/232nd-st_langley/hwy-10",
+    "timestamp": "2026-05-19T06:41:00Z",
+    "scrapedAt": "2026-05-19T06:44:53Z",
+    "address": "232ND ST & HWY 10",
+    "city": "Langley",
+    "streets": [
+      "langley/232nd-st",
+      "langley/hwy-10"
+    ],
+    "streetNames": [
+      "232nd St",
+      "Hwy 10"
+    ],
+    "pulsePointId": "2477514914"
+  },
+  {
+    "id": "2026-05-19T06:26:00Z_langley/96th-ave_langley/billy-brown-rd",
+    "timestamp": "2026-05-19T06:26:00Z",
+    "scrapedAt": "2026-05-19T06:44:53Z",
+    "address": "96TH AVE & BILLY BROWN RD",
+    "city": "Langley",
+    "streets": [
+      "langley/96th-ave",
+      "langley/billy-brown-rd"
+    ],
+    "streetNames": [
+      "96th Ave",
+      "Billy Brown Rd"
+    ],
+    "pulsePointId": "2477510041"
+  },
+  {
+    "id": "2026-05-19T05:55:00Z_burnaby/boundary-rd_burnaby/myrtle-st",
+    "timestamp": "2026-05-19T05:55:00Z",
+    "scrapedAt": "2026-05-19T06:44:53Z",
+    "address": "BOUNDARY RD & MYRTLE ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/boundary-rd",
+      "burnaby/myrtle-st"
+    ],
+    "streetNames": [
+      "Boundary Rd",
+      "Myrtle St"
+    ],
+    "pulsePointId": "2477499810"
+  },
+  {
+    "id": "2026-05-19T05:40:00Z_delta/116th-st_delta/90th-ave",
+    "timestamp": "2026-05-19T05:40:00Z",
+    "scrapedAt": "2026-05-19T06:44:53Z",
+    "address": "116TH ST & 90TH AVE",
+    "city": "Delta",
+    "streets": [
+      "delta/116th-st",
+      "delta/90th-ave"
+    ],
+    "streetNames": [
+      "116th St",
+      "90th Ave"
+    ],
+    "pulsePointId": "2477492953"
+  },
+  {
     "id": "2026-05-19T04:46:00Z_coquitlam/david-ave_coquitlam/hollybrook-st",
     "timestamp": "2026-05-19T04:46:00Z",
     "scrapedAt": "2026-05-19T05:16:30Z",

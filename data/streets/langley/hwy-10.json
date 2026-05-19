@@ -1,0 +1,24 @@
+{
+  "slug": "langley/hwy-10",
+  "name": "Hwy 10",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-05-19T06:41:00Z_langley/232nd-st_langley/hwy-10",
+      "timestamp": "2026-05-19T06:41:00Z",
+      "address": "232ND ST & HWY 10",
+      "city": "Langley",
+      "streets": [
+        "langley/232nd-st",
+        "langley/hwy-10"
+      ],
+      "streetNames": [
+        "232nd St",
+        "Hwy 10"
+      ],
+      "pulsePointId": "2477514914"
+    }
+  ],
+  "lastIncident": "2026-05-19T06:41:00Z",
+  "count": 1
+}

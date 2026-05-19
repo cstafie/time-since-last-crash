@@ -2782,8 +2782,8 @@
     "name": "Boundary Rd",
     "slug": "burnaby/boundary-rd",
     "city": "Burnaby",
-    "lastIncident": "2026-05-09T21:08:00Z",
-    "count": 7
+    "lastIncident": "2026-05-19T05:55:00Z",
+    "count": 8
   },
   "coquitlam/westview-st": {
     "name": "Westview St",
@@ -4063,8 +4063,8 @@
     "name": "96th Ave",
     "slug": "langley/96th-ave",
     "city": "Langley",
-    "lastIncident": "2026-05-19T04:29:00Z",
-    "count": 5
+    "lastIncident": "2026-05-19T06:26:00Z",
+    "count": 6
   },
   "coquitlam/honeysuckle-lane": {
     "name": "Honeysuckle Lane",
@@ -6254,8 +6254,8 @@
     "name": "116th St",
     "slug": "delta/116th-st",
     "city": "Delta",
-    "lastIncident": "2026-05-17T02:22:00Z",
-    "count": 7
+    "lastIncident": "2026-05-19T05:40:00Z",
+    "count": 8
   },
   "burnaby/north-rd": {
     "name": "North Rd",
@@ -7717,8 +7717,8 @@
     "name": "232nd St",
     "slug": "langley/232nd-st",
     "city": "Langley",
-    "lastIncident": "2026-05-01T12:09:00Z",
-    "count": 2
+    "lastIncident": "2026-05-19T06:41:00Z",
+    "count": 3
   },
   "mission/rocky-point-fsr": {
     "name": "Rocky Point Fsr",
@@ -9923,6 +9923,34 @@
     "slug": "vancouver/w-15th-ave",
     "city": "Vancouver",
     "lastIncident": "2026-05-19T04:22:00Z",
+    "count": 1
+  },
+  "langley/hwy-10": {
+    "name": "Hwy 10",
+    "slug": "langley/hwy-10",
+    "city": "Langley",
+    "lastIncident": "2026-05-19T06:41:00Z",
+    "count": 1
+  },
+  "langley/billy-brown-rd": {
+    "name": "Billy Brown Rd",
+    "slug": "langley/billy-brown-rd",
+    "city": "Langley",
+    "lastIncident": "2026-05-19T06:26:00Z",
+    "count": 1
+  },
+  "delta/90th-ave": {
+    "name": "90th Ave",
+    "slug": "delta/90th-ave",
+    "city": "Delta",
+    "lastIncident": "2026-05-19T05:40:00Z",
+    "count": 1
+  },
+  "burnaby/myrtle-st": {
+    "name": "Myrtle St",
+    "slug": "burnaby/myrtle-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-05-19T05:55:00Z",
     "count": 1
   }
 }
