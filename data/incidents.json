@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-19T15:21:00Z_chilliwack/river-rock-rd",
+    "timestamp": "2026-05-19T15:21:00Z",
+    "scrapedAt": "2026-05-19T16:11:02Z",
+    "address": "RIVER ROCK RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/river-rock-rd"
+    ],
+    "streetNames": [
+      "River Rock Rd"
+    ],
+    "pulsePointId": "2477680383"
+  },
+  {
     "id": "2026-05-19T14:28:00Z_surrey/old-yale-rd_surrey/128th-st",
     "timestamp": "2026-05-19T14:28:00Z",
     "scrapedAt": "2026-05-19T15:00:12Z",
