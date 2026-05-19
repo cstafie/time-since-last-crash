@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-05-19T03:41:00Z_surrey/68th-ave_surrey/fraser-hwy",
+      "timestamp": "2026-05-19T03:41:00Z",
+      "address": "68TH AVE & FRASER HWY",
+      "city": "Surrey",
+      "streets": [
+        "surrey/68th-ave",
+        "surrey/fraser-hwy"
+      ],
+      "streetNames": [
+        "68th Ave",
+        "Fraser Hwy"
+      ],
+      "pulsePointId": "2477440189"
+    },
+    {
       "id": "2026-05-14T13:34:00Z_surrey/176th-st_surrey/fraser-hwy",
       "timestamp": "2026-05-14T13:34:00Z",
       "address": "176TH ST & FRASER HWY",
@@ -151,6 +166,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-14T13:34:00Z",
-  "count": 10
+  "lastIncident": "2026-05-19T03:41:00Z",
+  "count": 11
 }

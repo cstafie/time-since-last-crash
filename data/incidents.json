@@ -1,5 +1,83 @@
 [
   {
+    "id": "2026-05-19T04:46:00Z_coquitlam/david-ave_coquitlam/hollybrook-st",
+    "timestamp": "2026-05-19T04:46:00Z",
+    "scrapedAt": "2026-05-19T05:16:30Z",
+    "address": "DAVID AVE & HOLLYBROOK ST",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/david-ave",
+      "coquitlam/hollybrook-st"
+    ],
+    "streetNames": [
+      "David Ave",
+      "Hollybrook St"
+    ],
+    "pulsePointId": "2477468516"
+  },
+  {
+    "id": "2026-05-19T04:33:00Z_vancouver/e-2nd-ave_vancouver/quebec-st",
+    "timestamp": "2026-05-19T04:33:00Z",
+    "scrapedAt": "2026-05-19T05:16:30Z",
+    "address": "E 2ND AVE & QUEBEC ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-2nd-ave",
+      "vancouver/quebec-st"
+    ],
+    "streetNames": [
+      "E 2nd Ave",
+      "Quebec St"
+    ],
+    "pulsePointId": "2477463937"
+  },
+  {
+    "id": "2026-05-19T04:29:00Z_langley/96th-ave",
+    "timestamp": "2026-05-19T04:29:00Z",
+    "scrapedAt": "2026-05-19T05:16:30Z",
+    "address": "96TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/96th-ave"
+    ],
+    "streetNames": [
+      "96th Ave"
+    ],
+    "pulsePointId": "2477461937"
+  },
+  {
+    "id": "2026-05-19T04:22:00Z_vancouver/oak-st_vancouver/w-15th-ave",
+    "timestamp": "2026-05-19T04:22:00Z",
+    "scrapedAt": "2026-05-19T05:16:30Z",
+    "address": "OAK ST & W 15TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/oak-st",
+      "vancouver/w-15th-ave"
+    ],
+    "streetNames": [
+      "Oak St",
+      "W 15th Ave"
+    ],
+    "pulsePointId": "2477458488"
+  },
+  {
+    "id": "2026-05-19T03:41:00Z_surrey/68th-ave_surrey/fraser-hwy",
+    "timestamp": "2026-05-19T03:41:00Z",
+    "scrapedAt": "2026-05-19T05:16:30Z",
+    "address": "68TH AVE & FRASER HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/68th-ave",
+      "surrey/fraser-hwy"
+    ],
+    "streetNames": [
+      "68th Ave",
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2477440189"
+  },
+  {
     "id": "2026-05-19T03:13:00Z_delta/hwy-91-ofrp_delta/72nd-ave",
     "timestamp": "2026-05-19T03:13:00Z",
     "scrapedAt": "2026-05-19T03:43:47Z",
