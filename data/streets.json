@@ -1305,8 +1305,8 @@
     "name": "72nd St",
     "slug": "delta/72nd-st",
     "city": "Delta",
-    "lastIncident": "2026-04-08T21:24:00Z",
-    "count": 2
+    "lastIncident": "2026-05-19T17:17:00Z",
+    "count": 3
   },
   "surrey/104th-ave": {
     "name": "104th Ave",
@@ -9958,6 +9958,13 @@
     "slug": "chilliwack/river-rock-rd",
     "city": "Chilliwack",
     "lastIncident": "2026-05-19T15:21:00Z",
+    "count": 1
+  },
+  "delta/churchill-st": {
+    "name": "Churchill St",
+    "slug": "delta/churchill-st",
+    "city": "Delta",
+    "lastIncident": "2026-05-19T17:17:00Z",
     "count": 1
   }
 }

@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-19T17:17:00Z_delta/72nd-st_delta/churchill-st",
+    "timestamp": "2026-05-19T17:17:00Z",
+    "scrapedAt": "2026-05-19T17:26:48Z",
+    "address": "72ND ST & CHURCHILL ST",
+    "city": "Delta",
+    "streets": [
+      "delta/72nd-st",
+      "delta/churchill-st"
+    ],
+    "streetNames": [
+      "72nd St",
+      "Churchill St"
+    ],
+    "pulsePointId": "2477761314"
+  },
+  {
     "id": "2026-05-19T15:21:00Z_chilliwack/river-rock-rd",
     "timestamp": "2026-05-19T15:21:00Z",
     "scrapedAt": "2026-05-19T16:11:02Z",
