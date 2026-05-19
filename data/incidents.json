@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-19T12:45:00Z_surrey/102nd-ave_surrey/140th-st",
+    "timestamp": "2026-05-19T12:45:00Z",
+    "scrapedAt": "2026-05-19T13:33:31Z",
+    "address": "102ND AVE & 140TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/102nd-ave",
+      "surrey/140th-st"
+    ],
+    "streetNames": [
+      "102nd Ave",
+      "140th St"
+    ],
+    "pulsePointId": "2477610244"
+  },
+  {
+    "id": "2026-05-19T12:17:00Z_langley/240th-st_langley/fraser-hwy",
+    "timestamp": "2026-05-19T12:17:00Z",
+    "scrapedAt": "2026-05-19T13:33:31Z",
+    "address": "240TH ST & FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/240th-st",
+      "langley/fraser-hwy"
+    ],
+    "streetNames": [
+      "240th St",
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2477603118"
+  },
+  {
     "id": "2026-05-19T06:41:00Z_langley/232nd-st_langley/hwy-10",
     "timestamp": "2026-05-19T06:41:00Z",
     "scrapedAt": "2026-05-19T06:44:53Z",
