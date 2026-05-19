@@ -4,6 +4,21 @@
   "city": "New Westminster",
   "incidents": [
     {
+      "id": "2026-05-19T21:35:00Z_new-westminster/8th-ave_new-westminster/20th-st",
+      "timestamp": "2026-05-19T21:35:00Z",
+      "address": "8TH AVE & 20TH ST",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/8th-ave",
+        "new-westminster/20th-st"
+      ],
+      "streetNames": [
+        "8th Ave",
+        "20th St"
+      ],
+      "pulsePointId": "2477951173"
+    },
+    {
       "id": "2026-04-04T23:55:00Z_new-westminster/20th-st",
       "timestamp": "2026-04-04T23:55:00Z",
       "address": "20TH ST",
@@ -31,6 +46,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-04T23:55:00Z",
-  "count": 2
+  "lastIncident": "2026-05-19T21:35:00Z",
+  "count": 3
 }
