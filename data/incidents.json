@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-19T20:27:00Z_abbotsford/south-fraser-way_abbotsford/gladwin-rd",
+    "timestamp": "2026-05-19T20:27:00Z",
+    "scrapedAt": "2026-05-19T20:59:32Z",
+    "address": "SOUTH FRASER WAY & GLADWIN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/south-fraser-way",
+      "abbotsford/gladwin-rd"
+    ],
+    "streetNames": [
+      "South Fraser Way",
+      "Gladwin Rd"
+    ],
+    "pulsePointId": "2477901397"
+  },
+  {
+    "id": "2026-05-19T20:05:00Z_abbotsford/peardonville-rd",
+    "timestamp": "2026-05-19T20:05:00Z",
+    "scrapedAt": "2026-05-19T20:59:32Z",
+    "address": "PEARDONVILLE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/peardonville-rd"
+    ],
+    "streetNames": [
+      "Peardonville Rd"
+    ],
+    "pulsePointId": "2477886306"
+  },
+  {
     "id": "2026-05-19T19:02:00Z_delta/80th-ave_delta/120th-st",
     "timestamp": "2026-05-19T19:02:00Z",
     "scrapedAt": "2026-05-19T20:05:30Z",
