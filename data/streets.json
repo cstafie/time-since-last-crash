@@ -108,8 +108,8 @@
     "name": "Keith Wilson Rd",
     "slug": "chilliwack/keith-wilson-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-04-24T14:09:00Z",
-    "count": 3
+    "lastIncident": "2026-05-19T23:08:00Z",
+    "count": 4
   },
   "chilliwack/prairie-central-rd": {
     "name": "Prairie Central Rd",
@@ -6541,8 +6541,8 @@
     "name": "Tyson Rd",
     "slug": "chilliwack/tyson-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-04-13T21:35:00Z",
-    "count": 1
+    "lastIncident": "2026-05-19T23:08:00Z",
+    "count": 2
   },
   "burnaby/oxford-st": {
     "name": "Oxford St",

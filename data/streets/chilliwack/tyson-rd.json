@@ -4,6 +4,21 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-05-19T23:08:00Z_chilliwack/keith-wilson-rd_chilliwack/tyson-rd",
+      "timestamp": "2026-05-19T23:08:00Z",
+      "address": "KEITH WILSON RD & TYSON RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/keith-wilson-rd",
+        "chilliwack/tyson-rd"
+      ],
+      "streetNames": [
+        "Keith Wilson Rd",
+        "Tyson Rd"
+      ],
+      "pulsePointId": "2478017406"
+    },
+    {
       "id": "2026-04-13T21:35:00Z_chilliwack/tyson-rd_chilliwack/keith-wilson-rd",
       "timestamp": "2026-04-13T21:35:00Z",
       "address": "TYSON RD & KEITH WILSON RD",
@@ -19,6 +34,6 @@
       "pulsePointId": "2453670230"
     }
   ],
-  "lastIncident": "2026-04-13T21:35:00Z",
-  "count": 1
+  "lastIncident": "2026-05-19T23:08:00Z",
+  "count": 2
 }

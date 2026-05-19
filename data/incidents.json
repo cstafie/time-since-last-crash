@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-19T23:08:00Z_chilliwack/keith-wilson-rd_chilliwack/tyson-rd",
+    "timestamp": "2026-05-19T23:08:00Z",
+    "scrapedAt": "2026-05-19T23:21:58Z",
+    "address": "KEITH WILSON RD & TYSON RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/keith-wilson-rd",
+      "chilliwack/tyson-rd"
+    ],
+    "streetNames": [
+      "Keith Wilson Rd",
+      "Tyson Rd"
+    ],
+    "pulsePointId": "2478017406"
+  },
+  {
     "id": "2026-05-19T22:22:00Z_abbotsford/george-ferguson-way_abbotsford/tims-st",
     "timestamp": "2026-05-19T22:22:00Z",
     "scrapedAt": "2026-05-19T22:50:01Z",
