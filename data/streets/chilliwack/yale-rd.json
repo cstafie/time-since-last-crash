@@ -4,6 +4,21 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-05-20T01:39:00Z_chilliwack/upper-prairie-rd_chilliwack/yale-rd",
+      "timestamp": "2026-05-20T01:39:00Z",
+      "address": "UPPER PRAIRIE RD & YALE RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/upper-prairie-rd",
+        "chilliwack/yale-rd"
+      ],
+      "streetNames": [
+        "Upper Prairie Rd",
+        "Yale Rd"
+      ],
+      "pulsePointId": "2478121883"
+    },
+    {
       "id": "2026-05-18T19:05:00Z_chilliwack/hodgins-ave_chilliwack/yale-rd",
       "timestamp": "2026-05-18T19:05:00Z",
       "address": "HODGINS AVE & YALE RD",
@@ -178,6 +193,6 @@
       "pulsePointId": "2436752247"
     }
   ],
-  "lastIncident": "2026-05-18T19:05:00Z",
-  "count": 12
+  "lastIncident": "2026-05-20T01:39:00Z",
+  "count": 13
 }
