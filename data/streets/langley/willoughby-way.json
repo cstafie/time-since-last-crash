@@ -1,0 +1,22 @@
+{
+  "slug": "langley/willoughby-way",
+  "name": "Willoughby Way",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-05-20T09:50:00Z_langley/willoughby-way",
+      "timestamp": "2026-05-20T09:50:00Z",
+      "address": "WILLOUGHBY WAY",
+      "city": "Langley",
+      "streets": [
+        "langley/willoughby-way"
+      ],
+      "streetNames": [
+        "Willoughby Way"
+      ],
+      "pulsePointId": "2478321226"
+    }
+  ],
+  "lastIncident": "2026-05-20T09:50:00Z",
+  "count": 1
+}

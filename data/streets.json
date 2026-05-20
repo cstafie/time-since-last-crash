@@ -9994,5 +9994,12 @@
     "city": "Langley",
     "lastIncident": "2026-05-20T00:06:00Z",
     "count": 1
+  },
+  "langley/willoughby-way": {
+    "name": "Willoughby Way",
+    "slug": "langley/willoughby-way",
+    "city": "Langley",
+    "lastIncident": "2026-05-20T09:50:00Z",
+    "count": 1
   }
 }
