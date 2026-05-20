@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-05-20T23:45:00Z_vancouver/w-4th-ave",
+    "timestamp": "2026-05-20T23:45:00Z",
+    "scrapedAt": "2026-05-20T23:55:39Z",
+    "address": "W 4TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-4th-ave"
+    ],
+    "streetNames": [
+      "W 4th Ave"
+    ],
+    "pulsePointId": "2478804630"
+  },
+  {
+    "id": "2026-05-20T23:37:00Z_burnaby/kingsway",
+    "timestamp": "2026-05-20T23:37:00Z",
+    "scrapedAt": "2026-05-20T23:55:39Z",
+    "address": "KINGSWAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/kingsway"
+    ],
+    "streetNames": [
+      "Kingsway"
+    ],
+    "pulsePointId": "2478800095"
+  },
+  {
+    "id": "2026-05-20T23:35:00Z_surrey/150th-st_surrey/68th-ave",
+    "timestamp": "2026-05-20T23:35:00Z",
+    "scrapedAt": "2026-05-20T23:55:39Z",
+    "address": "150TH ST & 68TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/150th-st",
+      "surrey/68th-ave"
+    ],
+    "streetNames": [
+      "150th St",
+      "68th Ave"
+    ],
+    "pulsePointId": "2478797468"
+  },
+  {
     "id": "2026-05-20T23:07:00Z_surrey/king-george-blvd_surrey/98th-ave",
     "timestamp": "2026-05-20T23:07:00Z",
     "scrapedAt": "2026-05-20T23:29:06Z",

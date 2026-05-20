@@ -794,8 +794,8 @@
     "name": "W 4th Ave",
     "slug": "vancouver/w-4th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-06T23:17:00Z",
-    "count": 5
+    "lastIncident": "2026-05-20T23:45:00Z",
+    "count": 6
   },
   "vancouver/w-70th-ave": {
     "name": "W 70th Ave",
@@ -1473,8 +1473,8 @@
     "name": "Kingsway",
     "slug": "burnaby/kingsway",
     "city": "Burnaby",
-    "lastIncident": "2026-05-16T12:41:00Z",
-    "count": 13
+    "lastIncident": "2026-05-20T23:37:00Z",
+    "count": 14
   },
   "burnaby/gilley-ave": {
     "name": "Gilley Ave",
@@ -3160,8 +3160,8 @@
     "name": "150th St",
     "slug": "surrey/150th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-20T14:18:00Z",
-    "count": 8
+    "lastIncident": "2026-05-20T23:35:00Z",
+    "count": 9
   },
   "mission/knight-ave": {
     "name": "Knight Ave",
@@ -3692,8 +3692,8 @@
     "name": "68th Ave",
     "slug": "surrey/68th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-19T03:41:00Z",
-    "count": 11
+    "lastIncident": "2026-05-20T23:35:00Z",
+    "count": 12
   },
   "burnaby/royal-oak-ave": {
     "name": "Royal Oak Ave",
