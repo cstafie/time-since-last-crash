@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-05-20T16:48:00Z_vancouver/w-43rd-ave",
+    "timestamp": "2026-05-20T16:48:00Z",
+    "scrapedAt": "2026-05-20T17:00:06Z",
+    "address": "W 43RD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-43rd-ave"
+    ],
+    "streetNames": [
+      "W 43rd Ave"
+    ],
+    "pulsePointId": "2478501734"
+  },
+  {
+    "id": "2026-05-20T15:38:00Z_delta/hwy-10",
+    "timestamp": "2026-05-20T15:38:00Z",
+    "scrapedAt": "2026-05-20T17:00:06Z",
+    "address": "HWY 10",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-10"
+    ],
+    "streetNames": [
+      "Hwy 10"
+    ],
+    "pulsePointId": "2478455649"
+  },
+  {
     "id": "2026-05-20T15:28:00Z_surrey/56th-ave_surrey/160th-st",
     "timestamp": "2026-05-20T15:28:00Z",
     "scrapedAt": "2026-05-20T15:44:37Z",

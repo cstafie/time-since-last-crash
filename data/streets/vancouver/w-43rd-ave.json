@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-20T16:48:00Z_vancouver/w-43rd-ave",
+      "timestamp": "2026-05-20T16:48:00Z",
+      "address": "W 43RD AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-43rd-ave"
+      ],
+      "streetNames": [
+        "W 43rd Ave"
+      ],
+      "pulsePointId": "2478501734"
+    },
+    {
       "id": "2026-05-15T18:44:00Z_vancouver/w-43rd-ave_vancouver/vine-st",
       "timestamp": "2026-05-15T18:44:00Z",
       "address": "W 43RD AVE & VINE ST",
@@ -19,6 +32,6 @@
       "pulsePointId": "2474961483"
     }
   ],
-  "lastIncident": "2026-05-15T18:44:00Z",
-  "count": 1
+  "lastIncident": "2026-05-20T16:48:00Z",
+  "count": 2
 }
