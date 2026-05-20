@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-20T04:01:00Z_delta/alex-fraser-brdg",
+    "timestamp": "2026-05-20T04:01:00Z",
+    "scrapedAt": "2026-05-20T05:17:03Z",
+    "address": "ALEX FRASER BRDG",
+    "city": "Delta",
+    "streets": [
+      "delta/alex-fraser-brdg"
+    ],
+    "streetNames": [
+      "Alex Fraser Brdg"
+    ],
+    "pulsePointId": "2478203215"
+  },
+  {
     "id": "2026-05-20T01:39:00Z_chilliwack/upper-prairie-rd_chilliwack/yale-rd",
     "timestamp": "2026-05-20T01:39:00Z",
     "scrapedAt": "2026-05-20T02:16:27Z",
