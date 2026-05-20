@@ -535,8 +535,8 @@
     "name": "128th St",
     "slug": "surrey/128th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-19T14:28:00Z",
-    "count": 20
+    "lastIncident": "2026-05-20T22:16:00Z",
+    "count": 21
   },
   "surrey/130b-st": {
     "name": "130b St",
@@ -640,8 +640,8 @@
     "name": "92nd Ave",
     "slug": "surrey/92nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-16T17:13:00Z",
-    "count": 12
+    "lastIncident": "2026-05-20T22:16:00Z",
+    "count": 13
   },
   "surrey/96th-ave": {
     "name": "96th Ave",
@@ -766,8 +766,8 @@
     "name": "Oak St",
     "slug": "vancouver/oak-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-19T04:22:00Z",
-    "count": 26
+    "lastIncident": "2026-05-20T21:39:00Z",
+    "count": 27
   },
   "vancouver/w-12th-ave": {
     "name": "W 12th Ave",
@@ -1221,8 +1221,8 @@
     "name": "E 8th Ave",
     "slug": "new-westminster/e-8th-ave",
     "city": "New Westminster",
-    "lastIncident": "2026-04-11T18:12:00Z",
-    "count": 2
+    "lastIncident": "2026-05-20T21:47:00Z",
+    "count": 3
   },
   "north-vancouver/old-lillooet-rd": {
     "name": "Old Lillooet Rd",
@@ -1893,8 +1893,8 @@
     "name": "148th St",
     "slug": "surrey/148th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-13T16:44:00Z",
-    "count": 18
+    "lastIncident": "2026-05-20T21:54:00Z",
+    "count": 19
   },
   "vancouver/earles-st": {
     "name": "Earles St",
@@ -2551,8 +2551,8 @@
     "name": "Lougheed Hwy",
     "slug": "vancouver/lougheed-hwy",
     "city": "Vancouver",
-    "lastIncident": "2026-04-02T23:32:00Z",
-    "count": 3
+    "lastIncident": "2026-05-20T21:53:00Z",
+    "count": 4
   },
   "vancouver/raymur-ave": {
     "name": "Raymur Ave",
@@ -4427,8 +4427,8 @@
     "name": "W 64th Ave",
     "slug": "vancouver/w-64th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-15T19:55:00Z",
-    "count": 5
+    "lastIncident": "2026-05-20T21:39:00Z",
+    "count": 6
   },
   "langley/210th-st": {
     "name": "210th St",
@@ -5043,8 +5043,8 @@
     "name": "Straiton Rd",
     "slug": "abbotsford/straiton-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-02T19:33:00Z",
-    "count": 1
+    "lastIncident": "2026-05-20T21:28:00Z",
+    "count": 2
   },
   "abbotsford/livingstone-ave": {
     "name": "Livingstone Ave",
@@ -5113,8 +5113,8 @@
     "name": "Trans Canada Hwy",
     "slug": "north-vancouver/trans-canada-hwy",
     "city": "North Vancouver",
-    "lastIncident": "2026-05-20T14:52:00Z",
-    "count": 10
+    "lastIncident": "2026-05-20T22:22:00Z",
+    "count": 11
   },
   "chilliwack/topaz-dr": {
     "name": "Topaz Dr",
@@ -8956,8 +8956,8 @@
     "name": "Bedwell Bay Rd",
     "slug": "belcarra/bedwell-bay-rd",
     "city": "Belcarra",
-    "lastIncident": "2026-05-06T01:20:00Z",
-    "count": 1
+    "lastIncident": "2026-05-20T21:52:00Z",
+    "count": 2
   },
   "vancouver/w-52nd-ave": {
     "name": "W 52nd Ave",
@@ -10021,6 +10021,20 @@
     "slug": "new-westminster/blackford-st",
     "city": "New Westminster",
     "lastIncident": "2026-05-20T20:49:00Z",
+    "count": 1
+  },
+  "surrey/63rd-ave": {
+    "name": "63rd Ave",
+    "slug": "surrey/63rd-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-05-20T21:54:00Z",
+    "count": 1
+  },
+  "new-westminster/sangster-pl": {
+    "name": "Sangster Pl",
+    "slug": "new-westminster/sangster-pl",
+    "city": "New Westminster",
+    "lastIncident": "2026-05-20T21:47:00Z",
     "count": 1
   }
 }

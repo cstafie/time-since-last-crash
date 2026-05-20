@@ -1,5 +1,125 @@
 [
   {
+    "id": "2026-05-20T22:22:00Z_north-vancouver/trans-canada-hwy",
+    "timestamp": "2026-05-20T22:22:00Z",
+    "scrapedAt": "2026-05-20T22:27:37Z",
+    "address": "TRANS CANADA HWY",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2478745772"
+  },
+  {
+    "id": "2026-05-20T22:16:00Z_surrey/128th-st_surrey/92nd-ave",
+    "timestamp": "2026-05-20T22:16:00Z",
+    "scrapedAt": "2026-05-20T22:27:37Z",
+    "address": "128TH ST & 92ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/128th-st",
+      "surrey/92nd-ave"
+    ],
+    "streetNames": [
+      "128th St",
+      "92nd Ave"
+    ],
+    "pulsePointId": "2478742238"
+  },
+  {
+    "id": "2026-05-20T21:54:00Z_surrey/63rd-ave_surrey/148th-st",
+    "timestamp": "2026-05-20T21:54:00Z",
+    "scrapedAt": "2026-05-20T22:27:37Z",
+    "address": "63RD AVE & 148TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/63rd-ave",
+      "surrey/148th-st"
+    ],
+    "streetNames": [
+      "63rd Ave",
+      "148th St"
+    ],
+    "pulsePointId": "2478724112"
+  },
+  {
+    "id": "2026-05-20T21:53:00Z_vancouver/lougheed-hwy",
+    "timestamp": "2026-05-20T21:53:00Z",
+    "scrapedAt": "2026-05-20T22:27:37Z",
+    "address": "LOUGHEED HWY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2478725358"
+  },
+  {
+    "id": "2026-05-20T21:52:00Z_belcarra/bedwell-bay-rd",
+    "timestamp": "2026-05-20T21:52:00Z",
+    "scrapedAt": "2026-05-20T22:27:37Z",
+    "address": "BEDWELL BAY RD",
+    "city": "Belcarra",
+    "streets": [
+      "belcarra/bedwell-bay-rd"
+    ],
+    "streetNames": [
+      "Bedwell Bay Rd"
+    ],
+    "pulsePointId": "2478723734"
+  },
+  {
+    "id": "2026-05-20T21:47:00Z_new-westminster/e-8th-ave_new-westminster/sangster-pl",
+    "timestamp": "2026-05-20T21:47:00Z",
+    "scrapedAt": "2026-05-20T22:27:37Z",
+    "address": "E 8TH AVE & SANGSTER PL",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/e-8th-ave",
+      "new-westminster/sangster-pl"
+    ],
+    "streetNames": [
+      "E 8th Ave",
+      "Sangster Pl"
+    ],
+    "pulsePointId": "2478719630"
+  },
+  {
+    "id": "2026-05-20T21:39:00Z_vancouver/w-64th-ave_vancouver/oak-st",
+    "timestamp": "2026-05-20T21:39:00Z",
+    "scrapedAt": "2026-05-20T22:27:37Z",
+    "address": "W 64TH AVE & OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-64th-ave",
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "W 64th Ave",
+      "Oak St"
+    ],
+    "pulsePointId": "2478712025"
+  },
+  {
+    "id": "2026-05-20T21:28:00Z_abbotsford/straiton-rd",
+    "timestamp": "2026-05-20T21:28:00Z",
+    "scrapedAt": "2026-05-20T22:27:37Z",
+    "address": "STRAITON RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/straiton-rd"
+    ],
+    "streetNames": [
+      "Straiton Rd"
+    ],
+    "pulsePointId": "2478705078"
+  },
+  {
     "id": "2026-05-20T21:10:00Z_maple-ridge/272nd-st_maple-ridge/lougheed-hwy",
     "timestamp": "2026-05-20T21:10:00Z",
     "scrapedAt": "2026-05-20T21:31:18Z",

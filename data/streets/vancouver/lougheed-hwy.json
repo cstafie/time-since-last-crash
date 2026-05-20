@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-20T21:53:00Z_vancouver/lougheed-hwy",
+      "timestamp": "2026-05-20T21:53:00Z",
+      "address": "LOUGHEED HWY",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/lougheed-hwy"
+      ],
+      "streetNames": [
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2478725358"
+    },
+    {
       "id": "2026-04-02T23:32:00Z_vancouver/lougheed-hwy_vancouver/skeena-st",
       "timestamp": "2026-04-02T23:32:00Z",
       "address": "LOUGHEED HWY & SKEENA ST",
@@ -49,6 +62,6 @@
       "pulsePointId": "2435810816"
     }
   ],
-  "lastIncident": "2026-04-02T23:32:00Z",
-  "count": 3
+  "lastIncident": "2026-05-20T21:53:00Z",
+  "count": 4
 }
