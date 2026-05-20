@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-05-20T22:53:00Z_maple-ridge/lougheed-hwy_maple-ridge/jim-robson-way",
+      "timestamp": "2026-05-20T22:53:00Z",
+      "address": "LOUGHEED HWY & JIM ROBSON WAY",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/lougheed-hwy",
+        "maple-ridge/jim-robson-way"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "Jim Robson Way"
+      ],
+      "pulsePointId": "2478768285"
+    },
+    {
       "id": "2026-05-20T21:10:00Z_maple-ridge/272nd-st_maple-ridge/lougheed-hwy",
       "timestamp": "2026-05-20T21:10:00Z",
       "address": "272ND ST & LOUGHEED HWY",
@@ -309,6 +324,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-20T21:10:00Z",
-  "count": 21
+  "lastIncident": "2026-05-20T22:53:00Z",
+  "count": 22
 }

@@ -1,6 +1,6 @@
 {
-  "slug": "north-vancouver/e-keith-rd",
-  "name": "E Keith Rd",
+  "slug": "north-vancouver/calverhall-st",
+  "name": "Calverhall St",
   "city": "North Vancouver",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "E Keith Rd"
       ],
       "pulsePointId": "2478763138"
-    },
-    {
-      "id": "2026-04-13T15:55:00Z_north-vancouver/ridgeway-ave_north-vancouver/e-keith-rd",
-      "timestamp": "2026-04-13T15:55:00Z",
-      "address": "RIDGEWAY AVE & E KEITH RD",
-      "city": "North Vancouver",
-      "streets": [
-        "north-vancouver/ridgeway-ave",
-        "north-vancouver/e-keith-rd"
-      ],
-      "streetNames": [
-        "Ridgeway Ave",
-        "E Keith Rd"
-      ],
-      "pulsePointId": "2453454811"
     }
   ],
   "lastIncident": "2026-05-20T22:46:00Z",
-  "count": 2
+  "count": 1
 }

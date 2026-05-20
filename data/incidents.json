@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-05-20T22:53:00Z_maple-ridge/lougheed-hwy_maple-ridge/jim-robson-way",
+    "timestamp": "2026-05-20T22:53:00Z",
+    "scrapedAt": "2026-05-20T22:57:12Z",
+    "address": "LOUGHEED HWY & JIM ROBSON WAY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/lougheed-hwy",
+      "maple-ridge/jim-robson-way"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "Jim Robson Way"
+    ],
+    "pulsePointId": "2478768285"
+  },
+  {
+    "id": "2026-05-20T22:46:00Z_north-vancouver/calverhall-st_north-vancouver/e-keith-rd",
+    "timestamp": "2026-05-20T22:46:00Z",
+    "scrapedAt": "2026-05-20T22:57:12Z",
+    "address": "CALVERHALL ST & E KEITH RD",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/calverhall-st",
+      "north-vancouver/e-keith-rd"
+    ],
+    "streetNames": [
+      "Calverhall St",
+      "E Keith Rd"
+    ],
+    "pulsePointId": "2478763138"
+  },
+  {
+    "id": "2026-05-20T22:37:00Z_delta/ladner-trunk-rd",
+    "timestamp": "2026-05-20T22:37:00Z",
+    "scrapedAt": "2026-05-20T22:57:12Z",
+    "address": "LADNER TRUNK RD",
+    "city": "Delta",
+    "streets": [
+      "delta/ladner-trunk-rd"
+    ],
+    "streetNames": [
+      "Ladner Trunk Rd"
+    ],
+    "pulsePointId": "2478757037"
+  },
+  {
+    "id": "2026-05-20T22:31:00Z_north-vancouver/ironworkers-memorial-brdg",
+    "timestamp": "2026-05-20T22:31:00Z",
+    "scrapedAt": "2026-05-20T22:57:12Z",
+    "address": "IRONWORKERS MEMORIAL BRDG",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/ironworkers-memorial-brdg"
+    ],
+    "streetNames": [
+      "Ironworkers Memorial Brdg"
+    ],
+    "pulsePointId": "2478753075"
+  },
+  {
     "id": "2026-05-20T22:22:00Z_north-vancouver/trans-canada-hwy",
     "timestamp": "2026-05-20T22:22:00Z",
     "scrapedAt": "2026-05-20T22:27:37Z",
