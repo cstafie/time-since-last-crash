@@ -1,5 +1,129 @@
 [
   {
+    "id": "2026-05-20T15:28:00Z_surrey/56th-ave_surrey/160th-st",
+    "timestamp": "2026-05-20T15:28:00Z",
+    "scrapedAt": "2026-05-20T15:44:37Z",
+    "address": "56TH AVE & 160TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/56th-ave",
+      "surrey/160th-st"
+    ],
+    "streetNames": [
+      "56th Ave",
+      "160th St"
+    ],
+    "pulsePointId": "2478444181"
+  },
+  {
+    "id": "2026-05-20T14:52:00Z_north-vancouver/trans-canada-hwy",
+    "timestamp": "2026-05-20T14:52:00Z",
+    "scrapedAt": "2026-05-20T15:44:37Z",
+    "address": "TRANS CANADA HWY",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2478425692"
+  },
+  {
+    "id": "2026-05-20T14:51:00Z_surrey/144th-st_surrey/108th-ave",
+    "timestamp": "2026-05-20T14:51:00Z",
+    "scrapedAt": "2026-05-20T15:44:37Z",
+    "address": "144TH ST & 108TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/144th-st",
+      "surrey/108th-ave"
+    ],
+    "streetNames": [
+      "144th St",
+      "108th Ave"
+    ],
+    "pulsePointId": "2478425374"
+  },
+  {
+    "id": "2026-05-20T14:48:00Z_surrey/96th-ave_surrey/168th-st",
+    "timestamp": "2026-05-20T14:48:00Z",
+    "scrapedAt": "2026-05-20T15:44:37Z",
+    "address": "96TH AVE & 168TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/96th-ave",
+      "surrey/168th-st"
+    ],
+    "streetNames": [
+      "96th Ave",
+      "168th St"
+    ],
+    "pulsePointId": "2478422616"
+  },
+  {
+    "id": "2026-05-20T14:38:00Z_delta/hwy-17",
+    "timestamp": "2026-05-20T14:38:00Z",
+    "scrapedAt": "2026-05-20T15:44:37Z",
+    "address": "HWY 17",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-17"
+    ],
+    "streetNames": [
+      "Hwy 17"
+    ],
+    "pulsePointId": "2478419153"
+  },
+  {
+    "id": "2026-05-20T14:36:00Z_delta/hwy-17a-ofrp_delta/deltaport-way-ofrp",
+    "timestamp": "2026-05-20T14:36:00Z",
+    "scrapedAt": "2026-05-20T15:44:37Z",
+    "address": "HWY 17A OFRP & DELTAPORT WAY OFRP",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-17a-ofrp",
+      "delta/deltaport-way-ofrp"
+    ],
+    "streetNames": [
+      "Hwy 17a Ofrp",
+      "Deltaport Way Ofrp"
+    ],
+    "pulsePointId": "2478419492"
+  },
+  {
+    "id": "2026-05-20T14:18:00Z_surrey/150th-st_surrey/84th-ave",
+    "timestamp": "2026-05-20T14:18:00Z",
+    "scrapedAt": "2026-05-20T15:44:37Z",
+    "address": "150TH ST & 84TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/150th-st",
+      "surrey/84th-ave"
+    ],
+    "streetNames": [
+      "150th St",
+      "84th Ave"
+    ],
+    "pulsePointId": "2478409169"
+  },
+  {
+    "id": "2026-05-20T13:34:00Z_surrey/84th-ave_surrey/140th-st",
+    "timestamp": "2026-05-20T13:34:00Z",
+    "scrapedAt": "2026-05-20T15:44:37Z",
+    "address": "84TH AVE & 140TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/84th-ave",
+      "surrey/140th-st"
+    ],
+    "streetNames": [
+      "84th Ave",
+      "140th St"
+    ],
+    "pulsePointId": "2478388576"
+  },
+  {
     "id": "2026-05-20T12:17:00Z_surrey/116th-ave",
     "timestamp": "2026-05-20T12:17:00Z",
     "scrapedAt": "2026-05-20T13:10:54Z",

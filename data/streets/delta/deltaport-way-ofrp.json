@@ -1,6 +1,6 @@
 {
-  "slug": "delta/hwy-17a-ofrp",
-  "name": "Hwy 17a Ofrp",
+  "slug": "delta/deltaport-way-ofrp",
+  "name": "Deltaport Way Ofrp",
   "city": "Delta",
   "incidents": [
     {
@@ -17,21 +17,8 @@
         "Deltaport Way Ofrp"
       ],
       "pulsePointId": "2478419492"
-    },
-    {
-      "id": "2026-03-16T14:56:00Z_delta/hwy-17a-ofrp",
-      "timestamp": "2026-03-16T14:56:00Z",
-      "address": "HWY 17A OFRP",
-      "city": "Delta",
-      "streets": [
-        "delta/hwy-17a-ofrp"
-      ],
-      "streetNames": [
-        "Hwy 17a Ofrp"
-      ],
-      "pulsePointId": "2435160792"
     }
   ],
   "lastIncident": "2026-05-20T14:36:00Z",
-  "count": 2
+  "count": 1
 }

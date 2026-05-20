@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-05-20T15:28:00Z_surrey/56th-ave_surrey/160th-st",
+      "timestamp": "2026-05-20T15:28:00Z",
+      "address": "56TH AVE & 160TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/56th-ave",
+        "surrey/160th-st"
+      ],
+      "streetNames": [
+        "56th Ave",
+        "160th St"
+      ],
+      "pulsePointId": "2478444181"
+    },
+    {
       "id": "2026-05-20T01:11:00Z_surrey/56th-ave",
       "timestamp": "2026-05-20T01:11:00Z",
       "address": "56TH AVE",
@@ -226,6 +241,6 @@
       "pulsePointId": "2435409934"
     }
   ],
-  "lastIncident": "2026-05-20T01:11:00Z",
-  "count": 16
+  "lastIncident": "2026-05-20T15:28:00Z",
+  "count": 17
 }

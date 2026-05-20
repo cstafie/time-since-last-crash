@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-05-20T13:34:00Z_surrey/84th-ave_surrey/140th-st",
+      "timestamp": "2026-05-20T13:34:00Z",
+      "address": "84TH AVE & 140TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/84th-ave",
+        "surrey/140th-st"
+      ],
+      "streetNames": [
+        "84th Ave",
+        "140th St"
+      ],
+      "pulsePointId": "2478388576"
+    },
+    {
       "id": "2026-05-19T12:45:00Z_surrey/102nd-ave_surrey/140th-st",
       "timestamp": "2026-05-19T12:45:00Z",
       "address": "102ND AVE & 140TH ST",
@@ -360,6 +375,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-19T12:45:00Z",
-  "count": 24
+  "lastIncident": "2026-05-20T13:34:00Z",
+  "count": 25
 }
