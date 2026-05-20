@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-05-20T21:10:00Z_maple-ridge/272nd-st_maple-ridge/lougheed-hwy",
+    "timestamp": "2026-05-20T21:10:00Z",
+    "scrapedAt": "2026-05-20T21:31:18Z",
+    "address": "272ND ST & LOUGHEED HWY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/272nd-st",
+      "maple-ridge/lougheed-hwy"
+    ],
+    "streetNames": [
+      "272nd St",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2478690865"
+  },
+  {
+    "id": "2026-05-20T20:49:00Z_new-westminster/6th-st_new-westminster/blackford-st",
+    "timestamp": "2026-05-20T20:49:00Z",
+    "scrapedAt": "2026-05-20T21:31:18Z",
+    "address": "6TH ST & BLACKFORD ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/6th-st",
+      "new-westminster/blackford-st"
+    ],
+    "streetNames": [
+      "6th St",
+      "Blackford St"
+    ],
+    "pulsePointId": "2478674423"
+  },
+  {
+    "id": "2026-05-20T20:45:00Z_port-coquitlam/kingsway-ave_port-coquitlam/mclean-ave",
+    "timestamp": "2026-05-20T20:45:00Z",
+    "scrapedAt": "2026-05-20T21:31:18Z",
+    "address": "KINGSWAY AVE & MCLEAN AVE",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/kingsway-ave",
+      "port-coquitlam/mclean-ave"
+    ],
+    "streetNames": [
+      "Kingsway Ave",
+      "Mclean Ave"
+    ],
+    "pulsePointId": "2478673511"
+  },
+  {
     "id": "2026-05-20T20:22:00Z_abbotsford/32073-south-fraser-way",
     "timestamp": "2026-05-20T20:22:00Z",
     "scrapedAt": "2026-05-20T20:38:59Z",

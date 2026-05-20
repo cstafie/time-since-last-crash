@@ -4,6 +4,21 @@
   "city": "Port Coquitlam",
   "incidents": [
     {
+      "id": "2026-05-20T20:45:00Z_port-coquitlam/kingsway-ave_port-coquitlam/mclean-ave",
+      "timestamp": "2026-05-20T20:45:00Z",
+      "address": "KINGSWAY AVE & MCLEAN AVE",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/kingsway-ave",
+        "port-coquitlam/mclean-ave"
+      ],
+      "streetNames": [
+        "Kingsway Ave",
+        "Mclean Ave"
+      ],
+      "pulsePointId": "2478673511"
+    },
+    {
       "id": "2026-04-29T16:51:00Z_port-coquitlam/kingsway-ave_port-coquitlam/wilson-ave",
       "timestamp": "2026-04-29T16:51:00Z",
       "address": "KINGSWAY AVE & WILSON AVE",
@@ -34,6 +49,6 @@
       "pulsePointId": "2441451190"
     }
   ],
-  "lastIncident": "2026-04-29T16:51:00Z",
-  "count": 2
+  "lastIncident": "2026-05-20T20:45:00Z",
+  "count": 3
 }

@@ -325,8 +325,8 @@
     "name": "Lougheed Hwy",
     "slug": "maple-ridge/lougheed-hwy",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-13T00:52:00Z",
-    "count": 20
+    "lastIncident": "2026-05-20T21:10:00Z",
+    "count": 21
   },
   "mission/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -1417,8 +1417,8 @@
     "name": "6th St",
     "slug": "new-westminster/6th-st",
     "city": "New Westminster",
-    "lastIncident": "2026-04-15T19:52:00Z",
-    "count": 4
+    "lastIncident": "2026-05-20T20:49:00Z",
+    "count": 5
   },
   "abbotsford/32900-south-fraser-way": {
     "name": "32900 South Fraser Way",
@@ -4042,15 +4042,15 @@
     "name": "Mclean Ave",
     "slug": "port-coquitlam/mclean-ave",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-03-25T23:05:00Z",
-    "count": 1
+    "lastIncident": "2026-05-20T20:45:00Z",
+    "count": 2
   },
   "port-coquitlam/kingsway-ave": {
     "name": "Kingsway Ave",
     "slug": "port-coquitlam/kingsway-ave",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-04-29T16:51:00Z",
-    "count": 2
+    "lastIncident": "2026-05-20T20:45:00Z",
+    "count": 3
   },
   "surrey/192nd-street-ofrp": {
     "name": "192nd Street Ofrp",
@@ -6737,8 +6737,8 @@
     "name": "272nd St",
     "slug": "maple-ridge/272nd-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-04-23T12:38:00Z",
-    "count": 2
+    "lastIncident": "2026-05-20T21:10:00Z",
+    "count": 3
   },
   "surrey/queen-mary-blvd": {
     "name": "Queen Mary Blvd",
@@ -10014,6 +10014,13 @@
     "slug": "abbotsford/32073-south-fraser-way",
     "city": "Abbotsford",
     "lastIncident": "2026-05-20T20:22:00Z",
+    "count": 1
+  },
+  "new-westminster/blackford-st": {
+    "name": "Blackford St",
+    "slug": "new-westminster/blackford-st",
+    "city": "New Westminster",
+    "lastIncident": "2026-05-20T20:49:00Z",
     "count": 1
   }
 }
