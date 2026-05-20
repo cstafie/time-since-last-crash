@@ -773,8 +773,8 @@
     "name": "W 12th Ave",
     "slug": "vancouver/w-12th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-17T21:43:00Z",
-    "count": 8
+    "lastIncident": "2026-05-20T00:49:00Z",
+    "count": 9
   },
   "vancouver/w-33rd-ave": {
     "name": "W 33rd Ave",
@@ -2166,8 +2166,8 @@
     "name": "Alder St",
     "slug": "vancouver/alder-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-13T01:04:00Z",
-    "count": 2
+    "lastIncident": "2026-05-20T00:49:00Z",
+    "count": 3
   },
   "north-vancouver/1133-mt-seymour-rd": {
     "name": "1133 Mt Seymour Rd",
@@ -2390,8 +2390,8 @@
     "name": "56th Ave",
     "slug": "surrey/56th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-16T15:46:00Z",
-    "count": 15
+    "lastIncident": "2026-05-20T01:11:00Z",
+    "count": 16
   },
   "port-moody/grant-st": {
     "name": "Grant St",

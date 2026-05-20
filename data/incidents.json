@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-20T01:11:00Z_surrey/56th-ave",
+    "timestamp": "2026-05-20T01:11:00Z",
+    "scrapedAt": "2026-05-20T01:23:38Z",
+    "address": "56TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/56th-ave"
+    ],
+    "streetNames": [
+      "56th Ave"
+    ],
+    "pulsePointId": "2478103031"
+  },
+  {
+    "id": "2026-05-20T00:49:00Z_vancouver/alder-st_vancouver/w-12th-ave",
+    "timestamp": "2026-05-20T00:49:00Z",
+    "scrapedAt": "2026-05-20T01:23:38Z",
+    "address": "ALDER ST & W 12TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/alder-st",
+      "vancouver/w-12th-ave"
+    ],
+    "streetNames": [
+      "Alder St",
+      "W 12th Ave"
+    ],
+    "pulsePointId": "2478088568"
+  },
+  {
     "id": "2026-05-20T00:07:00Z_surrey/74a-ave_surrey/144th-st",
     "timestamp": "2026-05-20T00:07:00Z",
     "scrapedAt": "2026-05-20T00:21:46Z",
