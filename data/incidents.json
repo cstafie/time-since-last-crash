@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-20T00:07:00Z_surrey/74a-ave_surrey/144th-st",
+    "timestamp": "2026-05-20T00:07:00Z",
+    "scrapedAt": "2026-05-20T00:21:46Z",
+    "address": "74A AVE & 144TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/74a-ave",
+      "surrey/144th-st"
+    ],
+    "streetNames": [
+      "74a Ave",
+      "144th St"
+    ],
+    "pulsePointId": "2478061328"
+  },
+  {
+    "id": "2026-05-20T00:06:00Z_langley/238th-st_langley/56th-ave",
+    "timestamp": "2026-05-20T00:06:00Z",
+    "scrapedAt": "2026-05-20T00:21:46Z",
+    "address": "238TH ST & 56TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/238th-st",
+      "langley/56th-ave"
+    ],
+    "streetNames": [
+      "238th St",
+      "56th Ave"
+    ],
+    "pulsePointId": "2478058792"
+  },
+  {
     "id": "2026-05-19T23:42:00Z_burnaby/cariboo-rd",
     "timestamp": "2026-05-19T23:42:00Z",
     "scrapedAt": "2026-05-19T23:47:51Z",

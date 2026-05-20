@@ -248,8 +248,8 @@
     "name": "56th Ave",
     "slug": "langley/56th-ave",
     "city": "Langley",
-    "lastIncident": "2026-05-15T18:39:00Z",
-    "count": 13
+    "lastIncident": "2026-05-20T00:06:00Z",
+    "count": 14
   },
   "langley/58th-cres": {
     "name": "58th Cres",
@@ -1501,8 +1501,8 @@
     "name": "144th St",
     "slug": "surrey/144th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-17T05:41:00Z",
-    "count": 18
+    "lastIncident": "2026-05-20T00:07:00Z",
+    "count": 19
   },
   "north-vancouver/seymour-blvd": {
     "name": "Seymour Blvd",
@@ -9979,6 +9979,20 @@
     "slug": "abbotsford/tims-st",
     "city": "Abbotsford",
     "lastIncident": "2026-05-19T22:22:00Z",
+    "count": 1
+  },
+  "surrey/74a-ave": {
+    "name": "74a Ave",
+    "slug": "surrey/74a-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-05-20T00:07:00Z",
+    "count": 1
+  },
+  "langley/238th-st": {
+    "name": "238th St",
+    "slug": "langley/238th-st",
+    "city": "Langley",
+    "lastIncident": "2026-05-20T00:06:00Z",
     "count": 1
   }
 }
