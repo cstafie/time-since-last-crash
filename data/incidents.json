@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-20T23:07:00Z_surrey/king-george-blvd_surrey/98th-ave",
+    "timestamp": "2026-05-20T23:07:00Z",
+    "scrapedAt": "2026-05-20T23:29:06Z",
+    "address": "KING GEORGE BLVD & 98TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/98th-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "98th Ave"
+    ],
+    "pulsePointId": "2478776569"
+  },
+  {
     "id": "2026-05-20T22:53:00Z_maple-ridge/lougheed-hwy_maple-ridge/jim-robson-way",
     "timestamp": "2026-05-20T22:53:00Z",
     "scrapedAt": "2026-05-20T22:57:12Z",
