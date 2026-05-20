@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-20T20:01:00Z_burnaby/boundary-rd_burnaby/myrtle-st",
+      "timestamp": "2026-05-20T20:01:00Z",
+      "address": "BOUNDARY RD & MYRTLE ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/boundary-rd",
+        "burnaby/myrtle-st"
+      ],
+      "streetNames": [
+        "Boundary Rd",
+        "Myrtle St"
+      ],
+      "pulsePointId": "2478638053"
+    },
+    {
       "id": "2026-05-19T05:55:00Z_burnaby/boundary-rd_burnaby/myrtle-st",
       "timestamp": "2026-05-19T05:55:00Z",
       "address": "BOUNDARY RD & MYRTLE ST",
@@ -122,6 +137,6 @@
       "pulsePointId": "2436452941"
     }
   ],
-  "lastIncident": "2026-05-19T05:55:00Z",
-  "count": 8
+  "lastIncident": "2026-05-20T20:01:00Z",
+  "count": 9
 }

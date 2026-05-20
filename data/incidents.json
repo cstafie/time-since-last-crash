@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-20T20:22:00Z_abbotsford/32073-south-fraser-way",
+    "timestamp": "2026-05-20T20:22:00Z",
+    "scrapedAt": "2026-05-20T20:38:59Z",
+    "address": "32073 SOUTH FRASER WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/32073-south-fraser-way"
+    ],
+    "streetNames": [
+      "32073 South Fraser Way"
+    ],
+    "pulsePointId": "2478654432"
+  },
+  {
+    "id": "2026-05-20T20:01:00Z_burnaby/boundary-rd_burnaby/myrtle-st",
+    "timestamp": "2026-05-20T20:01:00Z",
+    "scrapedAt": "2026-05-20T20:38:59Z",
+    "address": "BOUNDARY RD & MYRTLE ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/boundary-rd",
+      "burnaby/myrtle-st"
+    ],
+    "streetNames": [
+      "Boundary Rd",
+      "Myrtle St"
+    ],
+    "pulsePointId": "2478638053"
+  },
+  {
     "id": "2026-05-20T19:33:00Z_surrey/hwy-17",
     "timestamp": "2026-05-20T19:33:00Z",
     "scrapedAt": "2026-05-20T19:49:04Z",
