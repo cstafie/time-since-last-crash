@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-05-20T19:33:00Z_surrey/hwy-17",
+    "timestamp": "2026-05-20T19:33:00Z",
+    "scrapedAt": "2026-05-20T19:49:04Z",
+    "address": "HWY 17",
+    "city": "Surrey",
+    "streets": [
+      "surrey/hwy-17"
+    ],
+    "streetNames": [
+      "Hwy 17"
+    ],
+    "pulsePointId": "2478616827"
+  },
+  {
+    "id": "2026-05-20T19:24:00Z_abbotsford/south-fraser-way",
+    "timestamp": "2026-05-20T19:24:00Z",
+    "scrapedAt": "2026-05-20T19:49:04Z",
+    "address": "SOUTH FRASER WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/south-fraser-way"
+    ],
+    "streetNames": [
+      "South Fraser Way"
+    ],
+    "pulsePointId": "2478610537"
+  },
+  {
     "id": "2026-05-20T16:48:00Z_vancouver/w-43rd-ave",
     "timestamp": "2026-05-20T16:48:00Z",
     "scrapedAt": "2026-05-20T17:00:06Z",

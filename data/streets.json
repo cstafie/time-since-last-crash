@@ -661,8 +661,8 @@
     "name": "Hwy 17",
     "slug": "surrey/hwy-17",
     "city": "Surrey",
-    "lastIncident": "2026-04-11T15:20:00Z",
-    "count": 6
+    "lastIncident": "2026-05-20T19:33:00Z",
+    "count": 7
   },
   "surrey/king-george-blvd": {
     "name": "King George Blvd",
@@ -1767,8 +1767,8 @@
     "name": "South Fraser Way",
     "slug": "abbotsford/south-fraser-way",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-19T20:27:00Z",
-    "count": 19
+    "lastIncident": "2026-05-20T19:24:00Z",
+    "count": 20
   },
   "vancouver/e-hastings-st": {
     "name": "E Hastings St",
