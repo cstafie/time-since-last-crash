@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-05-21T03:48:00Z_surrey/24th-ave_surrey/176th-st",
+    "timestamp": "2026-05-21T03:48:00Z",
+    "scrapedAt": "2026-05-21T05:20:43Z",
+    "address": "24TH AVE & 176TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/24th-ave",
+      "surrey/176th-st"
+    ],
+    "streetNames": [
+      "24th Ave",
+      "176th St"
+    ],
+    "pulsePointId": "2478955494"
+  },
+  {
+    "id": "2026-05-21T03:45:00Z_vancouver/yukon-st_vancouver/sw-marine-dr",
+    "timestamp": "2026-05-21T03:45:00Z",
+    "scrapedAt": "2026-05-21T05:20:43Z",
+    "address": "YUKON ST & SW MARINE DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/yukon-st",
+      "vancouver/sw-marine-dr"
+    ],
+    "streetNames": [
+      "Yukon St",
+      "Sw Marine Dr"
+    ],
+    "pulsePointId": "2478952996"
+  },
+  {
+    "id": "2026-05-21T03:40:00Z_langley/trans-canada-hwy_langley/56th-avenue-onrp",
+    "timestamp": "2026-05-21T03:40:00Z",
+    "scrapedAt": "2026-05-21T05:20:43Z",
+    "address": "TRANS CANADA HWY & 56TH AVENUE ONRP",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy",
+      "langley/56th-avenue-onrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "56th Avenue Onrp"
+    ],
+    "pulsePointId": "2478952488"
+  },
+  {
     "id": "2026-05-21T03:38:00Z_langley/trans-canada-hwy",
     "timestamp": "2026-05-21T03:38:00Z",
     "scrapedAt": "2026-05-21T03:44:29Z",

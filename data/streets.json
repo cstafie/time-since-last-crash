@@ -269,8 +269,8 @@
     "name": "Trans Canada Hwy",
     "slug": "langley/trans-canada-hwy",
     "city": "Langley",
-    "lastIncident": "2026-05-21T03:38:00Z",
-    "count": 18
+    "lastIncident": "2026-05-21T03:40:00Z",
+    "count": 19
   },
   "maple-ridge/119th-ave": {
     "name": "119th Ave",
@@ -885,8 +885,8 @@
     "name": "176th St",
     "slug": "surrey/176th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-16T19:51:00Z",
-    "count": 26
+    "lastIncident": "2026-05-21T03:48:00Z",
+    "count": 27
   },
   "surrey/100th-ave": {
     "name": "100th Ave",
@@ -3062,8 +3062,8 @@
     "name": "24th Ave",
     "slug": "surrey/24th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-11T01:50:00Z",
-    "count": 8
+    "lastIncident": "2026-05-21T03:48:00Z",
+    "count": 9
   },
   "vancouver/e-49th-ave": {
     "name": "E 49th Ave",
@@ -6597,8 +6597,8 @@
     "name": "Sw Marine Dr",
     "slug": "vancouver/sw-marine-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-05-09T23:17:00Z",
-    "count": 10
+    "lastIncident": "2026-05-21T03:45:00Z",
+    "count": 11
   },
   "surrey/54th-ave": {
     "name": "54th Ave",
@@ -7220,8 +7220,8 @@
     "name": "Yukon St",
     "slug": "vancouver/yukon-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-19T02:35:00Z",
-    "count": 4
+    "lastIncident": "2026-05-21T03:45:00Z",
+    "count": 5
   },
   "surrey/tannery-rd": {
     "name": "Tannery Rd",
@@ -10050,5 +10050,12 @@
     "city": "Chilliwack",
     "lastIncident": "2026-05-21T02:21:00Z",
     "count": 2
+  },
+  "langley/56th-avenue-onrp": {
+    "name": "56th Avenue Onrp",
+    "slug": "langley/56th-avenue-onrp",
+    "city": "Langley",
+    "lastIncident": "2026-05-21T03:40:00Z",
+    "count": 1
   }
 }
