@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-21T21:45:00Z_vancouver/hamilton-st_vancouver/dunsmuir-st",
+      "timestamp": "2026-05-21T21:45:00Z",
+      "address": "HAMILTON ST & DUNSMUIR ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/hamilton-st",
+        "vancouver/dunsmuir-st"
+      ],
+      "streetNames": [
+        "Hamilton St",
+        "Dunsmuir St"
+      ],
+      "pulsePointId": "2479471789"
+    },
+    {
       "id": "2026-04-09T16:53:00Z_vancouver/dunsmuir-st_vancouver/burrard-st",
       "timestamp": "2026-04-09T16:53:00Z",
       "address": "DUNSMUIR ST & BURRARD ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2449984202"
     }
   ],
-  "lastIncident": "2026-04-09T16:53:00Z",
-  "count": 2
+  "lastIncident": "2026-05-21T21:45:00Z",
+  "count": 3
 }
