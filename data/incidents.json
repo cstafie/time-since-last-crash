@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-05-21T01:08:00Z_langley/fraser-hwy",
+    "timestamp": "2026-05-21T01:08:00Z",
+    "scrapedAt": "2026-05-21T01:24:52Z",
+    "address": "FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy"
+    ],
+    "streetNames": [
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2478859780"
+  },
+  {
+    "id": "2026-05-21T00:35:00Z_coquitlam/trans-canada-hwy",
+    "timestamp": "2026-05-21T00:35:00Z",
+    "scrapedAt": "2026-05-21T01:24:52Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2478839680"
+  },
+  {
     "id": "2026-05-20T23:45:00Z_vancouver/w-4th-ave",
     "timestamp": "2026-05-20T23:45:00Z",
     "scrapedAt": "2026-05-20T23:55:39Z",

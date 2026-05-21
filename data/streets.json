@@ -262,8 +262,8 @@
     "name": "Fraser Hwy",
     "slug": "langley/fraser-hwy",
     "city": "Langley",
-    "lastIncident": "2026-05-19T12:17:00Z",
-    "count": 27
+    "lastIncident": "2026-05-21T01:08:00Z",
+    "count": 28
   },
   "langley/trans-canada-hwy": {
     "name": "Trans Canada Hwy",
@@ -2040,8 +2040,8 @@
     "name": "Trans Canada Hwy",
     "slug": "coquitlam/trans-canada-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-05-17T22:35:00Z",
-    "count": 14
+    "lastIncident": "2026-05-21T00:35:00Z",
+    "count": 15
   },
   "langley/202a-st": {
     "name": "202a St",

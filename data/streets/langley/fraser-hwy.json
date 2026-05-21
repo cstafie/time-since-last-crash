@@ -4,6 +4,19 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-05-21T01:08:00Z_langley/fraser-hwy",
+      "timestamp": "2026-05-21T01:08:00Z",
+      "address": "FRASER HWY",
+      "city": "Langley",
+      "streets": [
+        "langley/fraser-hwy"
+      ],
+      "streetNames": [
+        "Fraser Hwy"
+      ],
+      "pulsePointId": "2478859780"
+    },
+    {
       "id": "2026-05-19T12:17:00Z_langley/240th-st_langley/fraser-hwy",
       "timestamp": "2026-05-19T12:17:00Z",
       "address": "240TH ST & FRASER HWY",
@@ -398,6 +411,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-19T12:17:00Z",
-  "count": 27
+  "lastIncident": "2026-05-21T01:08:00Z",
+  "count": 28
 }
