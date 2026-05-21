@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-05-21T16:24:00Z_coquitlam/austin-ave_coquitlam/whiting-way",
+      "timestamp": "2026-05-21T16:24:00Z",
+      "address": "AUSTIN AVE & WHITING WAY",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/austin-ave",
+        "coquitlam/whiting-way"
+      ],
+      "streetNames": [
+        "Austin Ave",
+        "Whiting Way"
+      ],
+      "pulsePointId": "2479236917"
+    },
+    {
       "id": "2026-04-24T22:18:00Z_coquitlam/austin-ave_coquitlam/laurentian-cres",
       "timestamp": "2026-04-24T22:18:00Z",
       "address": "AUSTIN AVE & LAURENTIAN CRES",
@@ -64,6 +79,6 @@
       "pulsePointId": "2436486390"
     }
   ],
-  "lastIncident": "2026-04-24T22:18:00Z",
-  "count": 4
+  "lastIncident": "2026-05-21T16:24:00Z",
+  "count": 5
 }

@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-21T16:57:00Z_vancouver/w-33rd-ave_vancouver/granville-st",
+    "timestamp": "2026-05-21T16:57:00Z",
+    "scrapedAt": "2026-05-21T17:21:32Z",
+    "address": "W 33RD AVE & GRANVILLE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-33rd-ave",
+      "vancouver/granville-st"
+    ],
+    "streetNames": [
+      "W 33rd Ave",
+      "Granville St"
+    ],
+    "pulsePointId": "2479258691"
+  },
+  {
+    "id": "2026-05-21T16:24:00Z_coquitlam/austin-ave_coquitlam/whiting-way",
+    "timestamp": "2026-05-21T16:24:00Z",
+    "scrapedAt": "2026-05-21T17:21:32Z",
+    "address": "AUSTIN AVE & WHITING WAY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/austin-ave",
+      "coquitlam/whiting-way"
+    ],
+    "streetNames": [
+      "Austin Ave",
+      "Whiting Way"
+    ],
+    "pulsePointId": "2479236917"
+  },
+  {
     "id": "2026-05-21T14:49:00Z_abbotsford/southern-dr_abbotsford/townline-rd",
     "timestamp": "2026-05-21T14:49:00Z",
     "scrapedAt": "2026-05-21T15:00:35Z",
