@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-05-21T14:49:00Z_abbotsford/southern-dr_abbotsford/townline-rd",
+      "timestamp": "2026-05-21T14:49:00Z",
+      "address": "SOUTHERN DR & TOWNLINE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/southern-dr",
+        "abbotsford/townline-rd"
+      ],
+      "streetNames": [
+        "Southern Dr",
+        "Townline Rd"
+      ],
+      "pulsePointId": "2479177675"
+    },
+    {
       "id": "2026-05-11T01:02:00Z_abbotsford/townline-rd_abbotsford/edgehill-ave",
       "timestamp": "2026-05-11T01:02:00Z",
       "address": "TOWNLINE RD & EDGEHILL AVE",
@@ -78,6 +93,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-11T01:02:00Z",
-  "count": 5
+  "lastIncident": "2026-05-21T14:49:00Z",
+  "count": 6
 }

@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-21T14:49:00Z_abbotsford/southern-dr_abbotsford/townline-rd",
+    "timestamp": "2026-05-21T14:49:00Z",
+    "scrapedAt": "2026-05-21T15:00:35Z",
+    "address": "SOUTHERN DR & TOWNLINE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/southern-dr",
+      "abbotsford/townline-rd"
+    ],
+    "streetNames": [
+      "Southern Dr",
+      "Townline Rd"
+    ],
+    "pulsePointId": "2479177675"
+  },
+  {
+    "id": "2026-05-21T14:10:00Z_surrey/56th-ave",
+    "timestamp": "2026-05-21T14:10:00Z",
+    "scrapedAt": "2026-05-21T15:00:35Z",
+    "address": "56TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/56th-ave"
+    ],
+    "streetNames": [
+      "56th Ave"
+    ],
+    "pulsePointId": "2479157811"
+  },
+  {
     "id": "2026-05-21T10:20:00Z_maple-ridge/256th-st",
     "timestamp": "2026-05-21T10:20:00Z",
     "scrapedAt": "2026-05-21T11:00:47Z",
