@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/w-68th-ave",
+  "name": "W 68th Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-21T22:30:00Z_vancouver/w-68th-ave_vancouver/granville-st",
+      "timestamp": "2026-05-21T22:30:00Z",
+      "address": "W 68TH AVE & GRANVILLE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-68th-ave",
+        "vancouver/granville-st"
+      ],
+      "streetNames": [
+        "W 68th Ave",
+        "Granville St"
+      ],
+      "pulsePointId": "2479508081"
+    }
+  ],
+  "lastIncident": "2026-05-21T22:30:00Z",
+  "count": 1
+}
