@@ -2341,8 +2341,8 @@
     "name": "W Georgia St",
     "slug": "vancouver/w-georgia-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-16T17:26:00Z",
-    "count": 7
+    "lastIncident": "2026-05-21T22:09:00Z",
+    "count": 8
   },
   "vancouver/w-41st-ave": {
     "name": "W 41st Ave",
@@ -4294,8 +4294,8 @@
     "name": "Broughton St",
     "slug": "vancouver/broughton-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-16T17:26:00Z",
-    "count": 5
+    "lastIncident": "2026-05-21T22:09:00Z",
+    "count": 6
   },
   "chilliwack/fletcher-st": {
     "name": "Fletcher St",
@@ -5043,8 +5043,8 @@
     "name": "Straiton Rd",
     "slug": "abbotsford/straiton-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-20T21:28:00Z",
-    "count": 2
+    "lastIncident": "2026-05-21T22:26:00Z",
+    "count": 3
   },
   "abbotsford/livingstone-ave": {
     "name": "Livingstone Ave",

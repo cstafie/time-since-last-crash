@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-21T22:09:00Z_vancouver/w-georgia-st_vancouver/broughton-st",
+      "timestamp": "2026-05-21T22:09:00Z",
+      "address": "W GEORGIA ST & BROUGHTON ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-georgia-st",
+        "vancouver/broughton-st"
+      ],
+      "streetNames": [
+        "W Georgia St",
+        "Broughton St"
+      ],
+      "pulsePointId": "2479493740"
+    },
+    {
       "id": "2026-05-16T17:26:00Z_vancouver/w-georgia-st_vancouver/broughton-st",
       "timestamp": "2026-05-16T17:26:00Z",
       "address": "W GEORGIA ST & BROUGHTON ST",
@@ -79,6 +94,6 @@
       "pulsePointId": "2443285327"
     }
   ],
-  "lastIncident": "2026-05-16T17:26:00Z",
-  "count": 5
+  "lastIncident": "2026-05-21T22:09:00Z",
+  "count": 6
 }

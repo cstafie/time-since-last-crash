@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-21T22:26:00Z_abbotsford/straiton-rd",
+    "timestamp": "2026-05-21T22:26:00Z",
+    "scrapedAt": "2026-05-21T22:32:37Z",
+    "address": "STRAITON RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/straiton-rd"
+    ],
+    "streetNames": [
+      "Straiton Rd"
+    ],
+    "pulsePointId": "2479505047"
+  },
+  {
+    "id": "2026-05-21T22:09:00Z_vancouver/w-georgia-st_vancouver/broughton-st",
+    "timestamp": "2026-05-21T22:09:00Z",
+    "scrapedAt": "2026-05-21T22:32:37Z",
+    "address": "W GEORGIA ST & BROUGHTON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-georgia-st",
+      "vancouver/broughton-st"
+    ],
+    "streetNames": [
+      "W Georgia St",
+      "Broughton St"
+    ],
+    "pulsePointId": "2479493740"
+  },
+  {
     "id": "2026-05-21T21:45:00Z_vancouver/hamilton-st_vancouver/dunsmuir-st",
     "timestamp": "2026-05-21T21:45:00Z",
     "scrapedAt": "2026-05-21T21:58:01Z",
