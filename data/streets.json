@@ -129,8 +129,8 @@
     "name": "Trans Canada Hwy",
     "slug": "chilliwack/trans-canada-hwy",
     "city": "Chilliwack",
-    "lastIncident": "2026-05-17T15:13:00Z",
-    "count": 10
+    "lastIncident": "2026-05-21T02:21:00Z",
+    "count": 12
   },
   "chilliwack/upper-prairie-rd": {
     "name": "Upper Prairie Rd",
@@ -269,8 +269,8 @@
     "name": "Trans Canada Hwy",
     "slug": "langley/trans-canada-hwy",
     "city": "Langley",
-    "lastIncident": "2026-05-15T13:36:00Z",
-    "count": 17
+    "lastIncident": "2026-05-21T03:38:00Z",
+    "count": 18
   },
   "maple-ridge/119th-ave": {
     "name": "119th Ave",
@@ -10043,5 +10043,12 @@
     "city": "North Vancouver",
     "lastIncident": "2026-05-20T22:46:00Z",
     "count": 1
+  },
+  "chilliwack/vedder-road-onrp": {
+    "name": "Vedder Road Onrp",
+    "slug": "chilliwack/vedder-road-onrp",
+    "city": "Chilliwack",
+    "lastIncident": "2026-05-21T02:21:00Z",
+    "count": 2
   }
 }
