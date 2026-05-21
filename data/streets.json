@@ -2418,8 +2418,8 @@
     "name": "First Ave",
     "slug": "chilliwack/first-ave",
     "city": "Chilliwack",
-    "lastIncident": "2026-05-14T22:39:00Z",
-    "count": 6
+    "lastIncident": "2026-05-21T20:11:00Z",
+    "count": 7
   },
   "coquitlam/trans-canada-hwy-onrp": {
     "name": "Trans Canada Hwy Onrp",
@@ -10077,6 +10077,13 @@
     "slug": "new-westminster/london-st",
     "city": "New Westminster",
     "lastIncident": "2026-05-21T18:31:00Z",
+    "count": 1
+  },
+  "langley/198b-st": {
+    "name": "198b St",
+    "slug": "langley/198b-st",
+    "city": "Langley",
+    "lastIncident": "2026-05-21T20:16:00Z",
     "count": 1
   }
 }

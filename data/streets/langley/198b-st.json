@@ -1,0 +1,22 @@
+{
+  "slug": "langley/198b-st",
+  "name": "198b St",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-05-21T20:16:00Z_langley/198b-st",
+      "timestamp": "2026-05-21T20:16:00Z",
+      "address": "198B ST",
+      "city": "Langley",
+      "streets": [
+        "langley/198b-st"
+      ],
+      "streetNames": [
+        "198b St"
+      ],
+      "pulsePointId": "2479405606"
+    }
+  ],
+  "lastIncident": "2026-05-21T20:16:00Z",
+  "count": 1
+}
