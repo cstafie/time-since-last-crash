@@ -1,5 +1,75 @@
 [
   {
+    "id": "2026-05-21T23:37:00Z_langley/216th-st",
+    "timestamp": "2026-05-21T23:37:00Z",
+    "scrapedAt": "2026-05-21T23:46:36Z",
+    "address": "216TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/216th-st"
+    ],
+    "streetNames": [
+      "216th St"
+    ],
+    "pulsePointId": "2479555581"
+  },
+  {
+    "id": "2026-05-21T23:35:00Z_langley/216th-street-ofrp",
+    "timestamp": "2026-05-21T23:35:00Z",
+    "scrapedAt": "2026-05-21T23:46:36Z",
+    "address": "216TH STREET OFRP",
+    "city": "Langley",
+    "streets": [
+      "langley/216th-street-ofrp"
+    ],
+    "streetNames": [
+      "216th Street Ofrp"
+    ],
+    "pulsePointId": "2479556463"
+  },
+  {
+    "id": "2026-05-21T23:35:00Z_west-vancouver/lions-gate-brdg",
+    "timestamp": "2026-05-21T23:35:00Z",
+    "scrapedAt": "2026-05-21T23:46:36Z",
+    "address": "LIONS GATE BRDG",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/lions-gate-brdg"
+    ],
+    "streetNames": [
+      "Lions Gate Brdg"
+    ],
+    "pulsePointId": "2479554530"
+  },
+  {
+    "id": "2026-05-21T23:33:00Z_abbotsford/marshall-rd",
+    "timestamp": "2026-05-21T23:33:00Z",
+    "scrapedAt": "2026-05-21T23:46:36Z",
+    "address": "MARSHALL RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/marshall-rd"
+    ],
+    "streetNames": [
+      "Marshall Rd"
+    ],
+    "pulsePointId": "2479553937"
+  },
+  {
+    "id": "2026-05-21T23:32:00Z_delta/nordel-way",
+    "timestamp": "2026-05-21T23:32:00Z",
+    "scrapedAt": "2026-05-21T23:46:36Z",
+    "address": "NORDEL WAY",
+    "city": "Delta",
+    "streets": [
+      "delta/nordel-way"
+    ],
+    "streetNames": [
+      "Nordel Way"
+    ],
+    "pulsePointId": "2479553652"
+  },
+  {
     "id": "2026-05-21T22:30:00Z_vancouver/w-37th-ave_vancouver/marguerite-st",
     "timestamp": "2026-05-21T22:30:00Z",
     "scrapedAt": "2026-05-21T23:19:16Z",
