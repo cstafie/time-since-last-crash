@@ -10197,5 +10197,19 @@
     "city": "Abbotsford",
     "lastIncident": "2026-05-22T20:44:00Z",
     "count": 1
+  },
+  "burnaby/winston-st": {
+    "name": "Winston St",
+    "slug": "burnaby/winston-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-05-22T21:01:00Z",
+    "count": 1
+  },
+  "vancouver/franklin-st": {
+    "name": "Franklin St",
+    "slug": "vancouver/franklin-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-22T20:57:00Z",
+    "count": 1
   }
 }

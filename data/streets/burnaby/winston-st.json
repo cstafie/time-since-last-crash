@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/winston-st",
+  "name": "Winston St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-05-22T21:01:00Z_burnaby/winston-st",
+      "timestamp": "2026-05-22T21:01:00Z",
+      "address": "WINSTON ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/winston-st"
+      ],
+      "streetNames": [
+        "Winston St"
+      ],
+      "pulsePointId": "2480180468"
+    }
+  ],
+  "lastIncident": "2026-05-22T21:01:00Z",
+  "count": 1
+}

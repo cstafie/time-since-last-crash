@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-05-22T21:01:00Z_burnaby/winston-st",
+    "timestamp": "2026-05-22T21:01:00Z",
+    "scrapedAt": "2026-05-22T21:23:13Z",
+    "address": "WINSTON ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/winston-st"
+    ],
+    "streetNames": [
+      "Winston St"
+    ],
+    "pulsePointId": "2480180468"
+  },
+  {
+    "id": "2026-05-22T20:57:00Z_vancouver/franklin-st",
+    "timestamp": "2026-05-22T20:57:00Z",
+    "scrapedAt": "2026-05-22T21:23:13Z",
+    "address": "FRANKLIN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/franklin-st"
+    ],
+    "streetNames": [
+      "Franklin St"
+    ],
+    "pulsePointId": "2480176063"
+  },
+  {
     "id": "2026-05-22T20:44:00Z_abbotsford/sumas-way_abbotsford/lonzo-rd",
     "timestamp": "2026-05-22T20:44:00Z",
     "scrapedAt": "2026-05-22T20:55:20Z",

@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/franklin-st",
+  "name": "Franklin St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-22T20:57:00Z_vancouver/franklin-st",
+      "timestamp": "2026-05-22T20:57:00Z",
+      "address": "FRANKLIN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/franklin-st"
+      ],
+      "streetNames": [
+        "Franklin St"
+      ],
+      "pulsePointId": "2480176063"
+    }
+  ],
+  "lastIncident": "2026-05-22T20:57:00Z",
+  "count": 1
+}
