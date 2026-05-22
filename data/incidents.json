@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-05-22T01:56:00Z_langley/40th-ave",
+    "timestamp": "2026-05-22T01:56:00Z",
+    "scrapedAt": "2026-05-22T02:16:37Z",
+    "address": "40TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/40th-ave"
+    ],
+    "streetNames": [
+      "40th Ave"
+    ],
+    "pulsePointId": "2479643584"
+  },
+  {
+    "id": "2026-05-22T01:26:00Z_surrey/hwy-99",
+    "timestamp": "2026-05-22T01:26:00Z",
+    "scrapedAt": "2026-05-22T02:16:37Z",
+    "address": "HWY 99",
+    "city": "Surrey",
+    "streets": [
+      "surrey/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2479625423"
+  },
+  {
+    "id": "2026-05-22T01:24:00Z_surrey/hwy-99",
+    "timestamp": "2026-05-22T01:24:00Z",
+    "scrapedAt": "2026-05-22T02:16:37Z",
+    "address": "HWY 99",
+    "city": "Surrey",
+    "streets": [
+      "surrey/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2479625052"
+  },
+  {
     "id": "2026-05-22T00:57:00Z_vancouver/granville-st_vancouver/laurier-ave",
     "timestamp": "2026-05-22T00:57:00Z",
     "scrapedAt": "2026-05-22T01:22:16Z",

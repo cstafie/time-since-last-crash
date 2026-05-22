@@ -4238,8 +4238,8 @@
     "name": "Hwy 99",
     "slug": "surrey/hwy-99",
     "city": "Surrey",
-    "lastIncident": "2026-04-21T15:24:00Z",
-    "count": 2
+    "lastIncident": "2026-05-22T01:26:00Z",
+    "count": 4
   },
   "surrey/golden-ears-conn": {
     "name": "Golden Ears Conn",
@@ -8193,8 +8193,8 @@
     "name": "40th Ave",
     "slug": "langley/40th-ave",
     "city": "Langley",
-    "lastIncident": "2026-05-16T13:11:00Z",
-    "count": 4
+    "lastIncident": "2026-05-22T01:56:00Z",
+    "count": 5
   },
   "port-moody/spring-st": {
     "name": "Spring St",
