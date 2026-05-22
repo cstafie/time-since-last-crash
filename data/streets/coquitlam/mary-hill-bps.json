@@ -1,0 +1,24 @@
+{
+  "slug": "coquitlam/mary-hill-bps",
+  "name": "Mary Hill Bps",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-05-22T05:45:00Z_coquitlam/mary-hill-bps_coquitlam/hwy-7b-ofrp",
+      "timestamp": "2026-05-22T05:45:00Z",
+      "address": "MARY HILL BPS & HWY 7B OFRP",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/mary-hill-bps",
+        "coquitlam/hwy-7b-ofrp"
+      ],
+      "streetNames": [
+        "Mary Hill Bps",
+        "Hwy 7b Ofrp"
+      ],
+      "pulsePointId": "2479756353"
+    }
+  ],
+  "lastIncident": "2026-05-22T05:45:00Z",
+  "count": 1
+}

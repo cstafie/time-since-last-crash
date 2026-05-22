@@ -10127,5 +10127,19 @@
     "city": "Burnaby",
     "lastIncident": "2026-05-22T00:33:00Z",
     "count": 1
+  },
+  "coquitlam/mary-hill-bps": {
+    "name": "Mary Hill Bps",
+    "slug": "coquitlam/mary-hill-bps",
+    "city": "Coquitlam",
+    "lastIncident": "2026-05-22T05:45:00Z",
+    "count": 1
+  },
+  "coquitlam/hwy-7b-ofrp": {
+    "name": "Hwy 7b Ofrp",
+    "slug": "coquitlam/hwy-7b-ofrp",
+    "city": "Coquitlam",
+    "lastIncident": "2026-05-22T05:45:00Z",
+    "count": 1
   }
 }
