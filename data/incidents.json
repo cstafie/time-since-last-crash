@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-22T21:55:00Z_langley/204th-st",
+    "timestamp": "2026-05-22T21:55:00Z",
+    "scrapedAt": "2026-05-22T22:18:13Z",
+    "address": "204TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/204th-st"
+    ],
+    "streetNames": [
+      "204th St"
+    ],
+    "pulsePointId": "2480217121"
+  },
+  {
+    "id": "2026-05-22T21:52:00Z_langley/197th-st_langley/76th-ave",
+    "timestamp": "2026-05-22T21:52:00Z",
+    "scrapedAt": "2026-05-22T22:18:13Z",
+    "address": "197TH ST & 76TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/197th-st",
+      "langley/76th-ave"
+    ],
+    "streetNames": [
+      "197th St",
+      "76th Ave"
+    ],
+    "pulsePointId": "2480213923"
+  },
+  {
     "id": "2026-05-22T21:01:00Z_burnaby/winston-st",
     "timestamp": "2026-05-22T21:01:00Z",
     "scrapedAt": "2026-05-22T21:23:13Z",

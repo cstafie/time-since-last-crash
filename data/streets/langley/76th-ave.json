@@ -1,0 +1,24 @@
+{
+  "slug": "langley/76th-ave",
+  "name": "76th Ave",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-05-22T21:52:00Z_langley/197th-st_langley/76th-ave",
+      "timestamp": "2026-05-22T21:52:00Z",
+      "address": "197TH ST & 76TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/197th-st",
+        "langley/76th-ave"
+      ],
+      "streetNames": [
+        "197th St",
+        "76th Ave"
+      ],
+      "pulsePointId": "2480213923"
+    }
+  ],
+  "lastIncident": "2026-05-22T21:52:00Z",
+  "count": 1
+}

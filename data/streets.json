@@ -2754,8 +2754,8 @@
     "name": "204th St",
     "slug": "langley/204th-st",
     "city": "Langley",
-    "lastIncident": "2026-05-09T22:39:00Z",
-    "count": 3
+    "lastIncident": "2026-05-22T21:55:00Z",
+    "count": 4
   },
   "burnaby/lake-city-way": {
     "name": "Lake City Way",
@@ -10210,6 +10210,20 @@
     "slug": "vancouver/franklin-st",
     "city": "Vancouver",
     "lastIncident": "2026-05-22T20:57:00Z",
+    "count": 1
+  },
+  "langley/197th-st": {
+    "name": "197th St",
+    "slug": "langley/197th-st",
+    "city": "Langley",
+    "lastIncident": "2026-05-22T21:52:00Z",
+    "count": 1
+  },
+  "langley/76th-ave": {
+    "name": "76th Ave",
+    "slug": "langley/76th-ave",
+    "city": "Langley",
+    "lastIncident": "2026-05-22T21:52:00Z",
     "count": 1
   }
 }
