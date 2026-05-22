@@ -1032,8 +1032,8 @@
     "name": "160th St",
     "slug": "surrey/160th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-20T15:28:00Z",
-    "count": 12
+    "lastIncident": "2026-05-22T15:28:00Z",
+    "count": 13
   },
   "vancouver/e-28th-ave": {
     "name": "E 28th Ave",
@@ -3062,8 +3062,8 @@
     "name": "24th Ave",
     "slug": "surrey/24th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-21T03:48:00Z",
-    "count": 9
+    "lastIncident": "2026-05-22T15:28:00Z",
+    "count": 10
   },
   "vancouver/e-49th-ave": {
     "name": "E 49th Ave",
@@ -3300,8 +3300,8 @@
     "name": "E 29th St",
     "slug": "north-vancouver/e-29th-st",
     "city": "North Vancouver",
-    "lastIncident": "2026-03-20T21:18:00Z",
-    "count": 1
+    "lastIncident": "2026-05-22T15:46:00Z",
+    "count": 2
   },
   "maple-ridge/116th-ave": {
     "name": "116th Ave",
@@ -4518,8 +4518,8 @@
     "name": "72nd Ave",
     "slug": "surrey/72nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-16T01:55:00Z",
-    "count": 12
+    "lastIncident": "2026-05-22T15:30:00Z",
+    "count": 13
   },
   "abbotsford/laurel-st": {
     "name": "Laurel St",
@@ -10140,6 +10140,13 @@
     "slug": "coquitlam/hwy-7b-ofrp",
     "city": "Coquitlam",
     "lastIncident": "2026-05-22T05:45:00Z",
+    "count": 1
+  },
+  "north-vancouver/william-ave": {
+    "name": "William Ave",
+    "slug": "north-vancouver/william-ave",
+    "city": "North Vancouver",
+    "lastIncident": "2026-05-22T15:46:00Z",
     "count": 1
   }
 }

@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-05-22T15:46:00Z_north-vancouver/e-29th-st_north-vancouver/william-ave",
+    "timestamp": "2026-05-22T15:46:00Z",
+    "scrapedAt": "2026-05-22T15:55:20Z",
+    "address": "E 29TH ST & WILLIAM AVE",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/e-29th-st",
+      "north-vancouver/william-ave"
+    ],
+    "streetNames": [
+      "E 29th St",
+      "William Ave"
+    ],
+    "pulsePointId": "2479957447"
+  },
+  {
+    "id": "2026-05-22T15:30:00Z_surrey/72nd-ave",
+    "timestamp": "2026-05-22T15:30:00Z",
+    "scrapedAt": "2026-05-22T15:55:20Z",
+    "address": "72ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/72nd-ave"
+    ],
+    "streetNames": [
+      "72nd Ave"
+    ],
+    "pulsePointId": "2479947653"
+  },
+  {
+    "id": "2026-05-22T15:28:00Z_surrey/160th-st_surrey/24th-ave",
+    "timestamp": "2026-05-22T15:28:00Z",
+    "scrapedAt": "2026-05-22T15:55:20Z",
+    "address": "160TH ST & 24TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/160th-st",
+      "surrey/24th-ave"
+    ],
+    "streetNames": [
+      "160th St",
+      "24th Ave"
+    ],
+    "pulsePointId": "2479948162"
+  },
+  {
     "id": "2026-05-22T07:44:00Z_surrey/willowbrook-dr_surrey/fraser-hwy",
     "timestamp": "2026-05-22T07:44:00Z",
     "scrapedAt": "2026-05-22T08:05:13Z",

@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-05-22T15:28:00Z_surrey/160th-st_surrey/24th-ave",
+      "timestamp": "2026-05-22T15:28:00Z",
+      "address": "160TH ST & 24TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/160th-st",
+        "surrey/24th-ave"
+      ],
+      "streetNames": [
+        "160th St",
+        "24th Ave"
+      ],
+      "pulsePointId": "2479948162"
+    },
+    {
       "id": "2026-05-21T03:48:00Z_surrey/24th-ave_surrey/176th-st",
       "timestamp": "2026-05-21T03:48:00Z",
       "address": "24TH AVE & 176TH ST",
@@ -137,6 +152,6 @@
       "pulsePointId": "2437349820"
     }
   ],
-  "lastIncident": "2026-05-21T03:48:00Z",
-  "count": 9
+  "lastIncident": "2026-05-22T15:28:00Z",
+  "count": 10
 }
