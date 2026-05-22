@@ -10169,5 +10169,19 @@
     "city": "Langley",
     "lastIncident": "2026-05-22T17:07:00Z",
     "count": 1
+  },
+  "white-rock/roper-ave": {
+    "name": "Roper Ave",
+    "slug": "white-rock/roper-ave",
+    "city": "White Rock",
+    "lastIncident": "2026-05-22T18:37:00Z",
+    "count": 1
+  },
+  "white-rock/johnston-rd": {
+    "name": "Johnston Rd",
+    "slug": "white-rock/johnston-rd",
+    "city": "White Rock",
+    "lastIncident": "2026-05-22T18:37:00Z",
+    "count": 1
   }
 }

@@ -1,0 +1,24 @@
+{
+  "slug": "white-rock/roper-ave",
+  "name": "Roper Ave",
+  "city": "White Rock",
+  "incidents": [
+    {
+      "id": "2026-05-22T18:37:00Z_white-rock/roper-ave_white-rock/johnston-rd",
+      "timestamp": "2026-05-22T18:37:00Z",
+      "address": "ROPER AVE & JOHNSTON RD",
+      "city": "White Rock",
+      "streets": [
+        "white-rock/roper-ave",
+        "white-rock/johnston-rd"
+      ],
+      "streetNames": [
+        "Roper Ave",
+        "Johnston Rd"
+      ],
+      "pulsePointId": "2480075418"
+    }
+  ],
+  "lastIncident": "2026-05-22T18:37:00Z",
+  "count": 1
+}
