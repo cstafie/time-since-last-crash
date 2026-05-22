@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-22T22:29:00Z_abbotsford/downes-rd_abbotsford/gladwin-rd",
+    "timestamp": "2026-05-22T22:29:00Z",
+    "scrapedAt": "2026-05-22T22:46:03Z",
+    "address": "DOWNES RD & GLADWIN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/downes-rd",
+      "abbotsford/gladwin-rd"
+    ],
+    "streetNames": [
+      "Downes Rd",
+      "Gladwin Rd"
+    ],
+    "pulsePointId": "2480244092"
+  },
+  {
     "id": "2026-05-22T21:55:00Z_langley/204th-st",
     "timestamp": "2026-05-22T21:55:00Z",
     "scrapedAt": "2026-05-22T22:18:13Z",
