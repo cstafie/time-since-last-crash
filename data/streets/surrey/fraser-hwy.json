@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-05-22T07:44:00Z_surrey/willowbrook-dr_surrey/fraser-hwy",
+      "timestamp": "2026-05-22T07:44:00Z",
+      "address": "WILLOWBROOK DR & FRASER HWY",
+      "city": "Surrey",
+      "streets": [
+        "surrey/willowbrook-dr",
+        "surrey/fraser-hwy"
+      ],
+      "streetNames": [
+        "Willowbrook Dr",
+        "Fraser Hwy"
+      ],
+      "pulsePointId": "2479794206"
+    },
+    {
       "id": "2026-05-22T02:47:00Z_surrey/fraser-hwy_surrey/188th-st",
       "timestamp": "2026-05-22T02:47:00Z",
       "address": "FRASER HWY & 188TH ST",
@@ -181,6 +196,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-22T02:47:00Z",
-  "count": 12
+  "lastIncident": "2026-05-22T07:44:00Z",
+  "count": 13
 }

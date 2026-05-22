@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-22T07:44:00Z_surrey/willowbrook-dr_surrey/fraser-hwy",
+    "timestamp": "2026-05-22T07:44:00Z",
+    "scrapedAt": "2026-05-22T08:05:13Z",
+    "address": "WILLOWBROOK DR & FRASER HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/willowbrook-dr",
+      "surrey/fraser-hwy"
+    ],
+    "streetNames": [
+      "Willowbrook Dr",
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2479794206"
+  },
+  {
     "id": "2026-05-22T05:45:00Z_coquitlam/mary-hill-bps_coquitlam/hwy-7b-ofrp",
     "timestamp": "2026-05-22T05:45:00Z",
     "scrapedAt": "2026-05-22T06:45:11Z",
