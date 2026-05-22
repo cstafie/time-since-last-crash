@@ -626,8 +626,8 @@
     "name": "84th Ave",
     "slug": "surrey/84th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-20T14:18:00Z",
-    "count": 15
+    "lastIncident": "2026-05-22T20:22:00Z",
+    "count": 16
   },
   "surrey/88th-ave": {
     "name": "88th Ave",
@@ -1032,8 +1032,8 @@
     "name": "160th St",
     "slug": "surrey/160th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-22T15:28:00Z",
-    "count": 13
+    "lastIncident": "2026-05-22T20:22:00Z",
+    "count": 14
   },
   "vancouver/e-28th-ave": {
     "name": "E 28th Ave",
@@ -3608,8 +3608,8 @@
     "name": "Sumas Way",
     "slug": "abbotsford/sumas-way",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-09T13:57:00Z",
-    "count": 7
+    "lastIncident": "2026-05-22T20:44:00Z",
+    "count": 8
   },
   "burnaby/marlborough-ave": {
     "name": "Marlborough Ave",
@@ -10189,6 +10189,13 @@
     "slug": "chilliwack/jinkerson-rd",
     "city": "Chilliwack",
     "lastIncident": "2026-05-22T19:33:00Z",
+    "count": 1
+  },
+  "abbotsford/lonzo-rd": {
+    "name": "Lonzo Rd",
+    "slug": "abbotsford/lonzo-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-05-22T20:44:00Z",
     "count": 1
   }
 }

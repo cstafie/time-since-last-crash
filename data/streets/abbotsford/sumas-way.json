@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-05-22T20:44:00Z_abbotsford/sumas-way_abbotsford/lonzo-rd",
+      "timestamp": "2026-05-22T20:44:00Z",
+      "address": "SUMAS WAY & LONZO RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/sumas-way",
+        "abbotsford/lonzo-rd"
+      ],
+      "streetNames": [
+        "Sumas Way",
+        "Lonzo Rd"
+      ],
+      "pulsePointId": "2480167026"
+    },
+    {
       "id": "2026-05-09T13:57:00Z_abbotsford/sumas-way",
       "timestamp": "2026-05-09T13:57:00Z",
       "address": "SUMAS WAY",
@@ -101,6 +116,6 @@
       "pulsePointId": "2439464523"
     }
   ],
-  "lastIncident": "2026-05-09T13:57:00Z",
-  "count": 7
+  "lastIncident": "2026-05-22T20:44:00Z",
+  "count": 8
 }

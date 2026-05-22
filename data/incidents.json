@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-22T20:44:00Z_abbotsford/sumas-way_abbotsford/lonzo-rd",
+    "timestamp": "2026-05-22T20:44:00Z",
+    "scrapedAt": "2026-05-22T20:55:20Z",
+    "address": "SUMAS WAY & LONZO RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/sumas-way",
+      "abbotsford/lonzo-rd"
+    ],
+    "streetNames": [
+      "Sumas Way",
+      "Lonzo Rd"
+    ],
+    "pulsePointId": "2480167026"
+  },
+  {
+    "id": "2026-05-22T20:22:00Z_surrey/160th-st_surrey/84th-ave",
+    "timestamp": "2026-05-22T20:22:00Z",
+    "scrapedAt": "2026-05-22T20:55:20Z",
+    "address": "160TH ST & 84TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/160th-st",
+      "surrey/84th-ave"
+    ],
+    "streetNames": [
+      "160th St",
+      "84th Ave"
+    ],
+    "pulsePointId": "2480150270"
+  },
+  {
     "id": "2026-05-22T19:42:00Z_burnaby/marine-dr",
     "timestamp": "2026-05-22T19:42:00Z",
     "scrapedAt": "2026-05-22T20:11:49Z",
