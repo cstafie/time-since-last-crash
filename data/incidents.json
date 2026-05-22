@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-22T19:42:00Z_burnaby/marine-dr",
+    "timestamp": "2026-05-22T19:42:00Z",
+    "scrapedAt": "2026-05-22T20:11:49Z",
+    "address": "MARINE DR",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/marine-dr"
+    ],
+    "streetNames": [
+      "Marine Dr"
+    ],
+    "pulsePointId": "2480120385"
+  },
+  {
+    "id": "2026-05-22T19:33:00Z_chilliwack/teskey-way_chilliwack/jinkerson-rd",
+    "timestamp": "2026-05-22T19:33:00Z",
+    "scrapedAt": "2026-05-22T20:11:49Z",
+    "address": "TESKEY WAY & JINKERSON RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/teskey-way",
+      "chilliwack/jinkerson-rd"
+    ],
+    "streetNames": [
+      "Teskey Way",
+      "Jinkerson Rd"
+    ],
+    "pulsePointId": "2480115009"
+  },
+  {
     "id": "2026-05-22T18:37:00Z_white-rock/roper-ave_white-rock/johnston-rd",
     "timestamp": "2026-05-22T18:37:00Z",
     "scrapedAt": "2026-05-22T19:30:01Z",
