@@ -1,6 +1,6 @@
 {
-  "slug": "surrey/121st-st",
-  "name": "121st St",
+  "slug": "surrey/100a-ave",
+  "name": "100a Ave",
   "city": "Surrey",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "121st St"
       ],
       "pulsePointId": "2480264359"
-    },
-    {
-      "id": "2026-05-11T04:40:00Z_surrey/72nd-ave_surrey/121st-st",
-      "timestamp": "2026-05-11T04:40:00Z",
-      "address": "72ND AVE & 121ST ST",
-      "city": "Surrey",
-      "streets": [
-        "surrey/72nd-ave",
-        "surrey/121st-st"
-      ],
-      "streetNames": [
-        "72nd Ave",
-        "121st St"
-      ],
-      "pulsePointId": "2471791640"
     }
   ],
   "lastIncident": "2026-05-22T23:01:00Z",
-  "count": 2
+  "count": 1
 }

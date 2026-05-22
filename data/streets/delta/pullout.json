@@ -1,0 +1,24 @@
+{
+  "slug": "delta/pullout",
+  "name": "Pullout",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-05-22T22:56:00Z_delta/pullout_delta/hwy-91",
+      "timestamp": "2026-05-22T22:56:00Z",
+      "address": "PULLOUT & HWY 91",
+      "city": "Delta",
+      "streets": [
+        "delta/pullout",
+        "delta/hwy-91"
+      ],
+      "streetNames": [
+        "Pullout",
+        "Hwy 91"
+      ],
+      "pulsePointId": "2480260917"
+    }
+  ],
+  "lastIncident": "2026-05-22T22:56:00Z",
+  "count": 1
+}
