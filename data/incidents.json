@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-05-22T16:15:00Z_langley/trans-canada-hwy",
+    "timestamp": "2026-05-22T16:15:00Z",
+    "scrapedAt": "2026-05-22T16:41:46Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2479976418"
+  },
+  {
+    "id": "2026-05-22T15:55:00Z_chilliwack/hakweles-rd",
+    "timestamp": "2026-05-22T15:55:00Z",
+    "scrapedAt": "2026-05-22T16:41:46Z",
+    "address": "HAKWELES RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/hakweles-rd"
+    ],
+    "streetNames": [
+      "Hakweles Rd"
+    ],
+    "pulsePointId": "2479962742"
+  },
+  {
     "id": "2026-05-22T15:46:00Z_north-vancouver/e-29th-st_north-vancouver/william-ave",
     "timestamp": "2026-05-22T15:46:00Z",
     "scrapedAt": "2026-05-22T15:55:20Z",

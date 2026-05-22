@@ -1,0 +1,22 @@
+{
+  "slug": "chilliwack/hakweles-rd",
+  "name": "Hakweles Rd",
+  "city": "Chilliwack",
+  "incidents": [
+    {
+      "id": "2026-05-22T15:55:00Z_chilliwack/hakweles-rd",
+      "timestamp": "2026-05-22T15:55:00Z",
+      "address": "HAKWELES RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/hakweles-rd"
+      ],
+      "streetNames": [
+        "Hakweles Rd"
+      ],
+      "pulsePointId": "2479962742"
+    }
+  ],
+  "lastIncident": "2026-05-22T15:55:00Z",
+  "count": 1
+}
