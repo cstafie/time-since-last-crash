@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-22T02:47:00Z_surrey/fraser-hwy_surrey/188th-st",
+    "timestamp": "2026-05-22T02:47:00Z",
+    "scrapedAt": "2026-05-22T03:43:48Z",
+    "address": "FRASER HWY & 188TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/fraser-hwy",
+      "surrey/188th-st"
+    ],
+    "streetNames": [
+      "Fraser Hwy",
+      "188th St"
+    ],
+    "pulsePointId": "2479673174"
+  },
+  {
+    "id": "2026-05-22T02:30:00Z_delta/hwy-91-ofrp_delta/hwy-99",
+    "timestamp": "2026-05-22T02:30:00Z",
+    "scrapedAt": "2026-05-22T03:43:48Z",
+    "address": "HWY 91 OFRP & HWY 99",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-91-ofrp",
+      "delta/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 91 Ofrp",
+      "Hwy 99"
+    ],
+    "pulsePointId": "2479663620"
+  },
+  {
     "id": "2026-05-22T01:56:00Z_langley/40th-ave",
     "timestamp": "2026-05-22T01:56:00Z",
     "scrapedAt": "2026-05-22T02:16:37Z",
