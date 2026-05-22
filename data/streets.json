@@ -10155,5 +10155,19 @@
     "city": "Chilliwack",
     "lastIncident": "2026-05-22T15:55:00Z",
     "count": 1
+  },
+  "delta/brodie-rd": {
+    "name": "Brodie Rd",
+    "slug": "delta/brodie-rd",
+    "city": "Delta",
+    "lastIncident": "2026-05-22T16:47:00Z",
+    "count": 1
+  },
+  "langley/mall-accs": {
+    "name": "Mall Accs",
+    "slug": "langley/mall-accs",
+    "city": "Langley",
+    "lastIncident": "2026-05-22T17:07:00Z",
+    "count": 1
   }
 }

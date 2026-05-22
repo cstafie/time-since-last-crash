@@ -1,0 +1,22 @@
+{
+  "slug": "langley/mall-accs",
+  "name": "Mall Accs",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-05-22T17:07:00Z_langley/mall-accs",
+      "timestamp": "2026-05-22T17:07:00Z",
+      "address": "MALL ACCS",
+      "city": "Langley",
+      "streets": [
+        "langley/mall-accs"
+      ],
+      "streetNames": [
+        "Mall Accs"
+      ],
+      "pulsePointId": "2480011164"
+    }
+  ],
+  "lastIncident": "2026-05-22T17:07:00Z",
+  "count": 1
+}
