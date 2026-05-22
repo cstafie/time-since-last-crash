@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-22T00:57:00Z_vancouver/granville-st_vancouver/laurier-ave",
+      "timestamp": "2026-05-22T00:57:00Z",
+      "address": "GRANVILLE ST & LAURIER AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st",
+        "vancouver/laurier-ave"
+      ],
+      "streetNames": [
+        "Granville St",
+        "Laurier Ave"
+      ],
+      "pulsePointId": "2479608533"
+    },
+    {
       "id": "2026-05-21T22:30:00Z_vancouver/w-68th-ave_vancouver/granville-st",
       "timestamp": "2026-05-21T22:30:00Z",
       "address": "W 68TH AVE & GRANVILLE ST",
@@ -443,6 +458,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-21T22:30:00Z",
-  "count": 30
+  "lastIncident": "2026-05-22T00:57:00Z",
+  "count": 31
 }

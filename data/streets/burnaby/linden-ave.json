@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/linden-ave",
+  "name": "Linden Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-05-22T00:33:00Z_burnaby/vista-cres_burnaby/linden-ave",
+      "timestamp": "2026-05-22T00:33:00Z",
+      "address": "VISTA CRES & LINDEN AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/vista-cres",
+        "burnaby/linden-ave"
+      ],
+      "streetNames": [
+        "Vista Cres",
+        "Linden Ave"
+      ],
+      "pulsePointId": "2479594104"
+    }
+  ],
+  "lastIncident": "2026-05-22T00:33:00Z",
+  "count": 1
+}

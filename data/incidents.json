@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-22T00:57:00Z_vancouver/granville-st_vancouver/laurier-ave",
+    "timestamp": "2026-05-22T00:57:00Z",
+    "scrapedAt": "2026-05-22T01:22:16Z",
+    "address": "GRANVILLE ST & LAURIER AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st",
+      "vancouver/laurier-ave"
+    ],
+    "streetNames": [
+      "Granville St",
+      "Laurier Ave"
+    ],
+    "pulsePointId": "2479608533"
+  },
+  {
+    "id": "2026-05-22T00:33:00Z_burnaby/vista-cres_burnaby/linden-ave",
+    "timestamp": "2026-05-22T00:33:00Z",
+    "scrapedAt": "2026-05-22T01:22:16Z",
+    "address": "VISTA CRES & LINDEN AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/vista-cres",
+      "burnaby/linden-ave"
+    ],
+    "streetNames": [
+      "Vista Cres",
+      "Linden Ave"
+    ],
+    "pulsePointId": "2479594104"
+  },
+  {
     "id": "2026-05-21T23:40:00Z_richmond/odlin-rd_richmond/dubbert-st",
     "timestamp": "2026-05-21T23:40:00Z",
     "scrapedAt": "2026-05-22T00:19:54Z",
