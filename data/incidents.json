@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-22T23:43:00Z_vancouver/ash-st_vancouver/w-6th-ave",
+    "timestamp": "2026-05-22T23:43:00Z",
+    "scrapedAt": "2026-05-22T23:49:32Z",
+    "address": "ASH ST & W 6TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/ash-st",
+      "vancouver/w-6th-ave"
+    ],
+    "streetNames": [
+      "Ash St",
+      "W 6th Ave"
+    ],
+    "pulsePointId": "2480290860"
+  },
+  {
+    "id": "2026-05-22T23:20:00Z_port-coquitlam/pitt-river-brdg",
+    "timestamp": "2026-05-22T23:20:00Z",
+    "scrapedAt": "2026-05-22T23:49:32Z",
+    "address": "PITT RIVER BRDG",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/pitt-river-brdg"
+    ],
+    "streetNames": [
+      "Pitt River Brdg"
+    ],
+    "pulsePointId": "2480275776"
+  },
+  {
     "id": "2026-05-22T23:01:00Z_surrey/100a-ave_surrey/121st-st",
     "timestamp": "2026-05-22T23:01:00Z",
     "scrapedAt": "2026-05-22T23:20:51Z",
