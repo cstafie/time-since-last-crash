@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-23T16:45:00Z_burnaby/marine-dr",
+      "timestamp": "2026-05-23T16:45:00Z",
+      "address": "MARINE DR",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/marine-dr"
+      ],
+      "streetNames": [
+        "Marine Dr"
+      ],
+      "pulsePointId": "2480729688"
+    },
+    {
       "id": "2026-05-23T16:27:00Z_burnaby/banting-pl_burnaby/marine-dr",
       "timestamp": "2026-05-23T16:27:00Z",
       "address": "BANTING PL & MARINE DR",
@@ -77,6 +90,6 @@
       "pulsePointId": "2448106817"
     }
   ],
-  "lastIncident": "2026-05-23T16:27:00Z",
-  "count": 5
+  "lastIncident": "2026-05-23T16:45:00Z",
+  "count": 6
 }

@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-23T16:45:00Z_burnaby/marine-dr",
+    "timestamp": "2026-05-23T16:45:00Z",
+    "scrapedAt": "2026-05-23T17:19:47Z",
+    "address": "MARINE DR",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/marine-dr"
+    ],
+    "streetNames": [
+      "Marine Dr"
+    ],
+    "pulsePointId": "2480729688"
+  },
+  {
     "id": "2026-05-23T16:27:00Z_vancouver/victoria-dr_vancouver/e-33rd-ave",
     "timestamp": "2026-05-23T16:27:00Z",
     "scrapedAt": "2026-05-23T16:46:03Z",
