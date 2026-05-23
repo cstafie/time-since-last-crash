@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-23T21:01:00Z_richmond/savage-rd",
+    "timestamp": "2026-05-23T21:01:00Z",
+    "scrapedAt": "2026-05-23T21:15:03Z",
+    "address": "SAVAGE RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/savage-rd"
+    ],
+    "streetNames": [
+      "Savage Rd"
+    ],
+    "pulsePointId": "2480881902"
+  },
+  {
     "id": "2026-05-23T20:26:00Z_vancouver/renfrew-st_vancouver/e-1st-ave",
     "timestamp": "2026-05-23T20:26:00Z",
     "scrapedAt": "2026-05-23T20:44:32Z",

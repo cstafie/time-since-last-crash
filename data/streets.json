@@ -10309,5 +10309,12 @@
     "city": "Delta",
     "lastIncident": "2026-05-23T20:24:00Z",
     "count": 1
+  },
+  "richmond/savage-rd": {
+    "name": "Savage Rd",
+    "slug": "richmond/savage-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-05-23T21:01:00Z",
+    "count": 1
   }
 }
