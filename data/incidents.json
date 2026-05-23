@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-23T20:04:00Z_lions-bay/hwy-99",
+    "timestamp": "2026-05-23T20:04:00Z",
+    "scrapedAt": "2026-05-23T20:14:45Z",
+    "address": "HWY 99",
+    "city": "Lions Bay",
+    "streets": [
+      "lions-bay/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2480847668"
+  },
+  {
     "id": "2026-05-23T19:24:00Z_vancouver/mclean-dr_vancouver/e-hastings-st",
     "timestamp": "2026-05-23T19:24:00Z",
     "scrapedAt": "2026-05-23T19:50:51Z",
