@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-23T01:05:00Z_vancouver/nanaimo-st_vancouver/e-41st-ave",
+    "timestamp": "2026-05-23T01:05:00Z",
+    "scrapedAt": "2026-05-23T01:17:26Z",
+    "address": "NANAIMO ST & E 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/nanaimo-st",
+      "vancouver/e-41st-ave"
+    ],
+    "streetNames": [
+      "Nanaimo St",
+      "E 41st Ave"
+    ],
+    "pulsePointId": "2480341661"
+  },
+  {
+    "id": "2026-05-23T00:13:00Z_vancouver/mclean-dr_vancouver/e-hastings-st",
+    "timestamp": "2026-05-23T00:13:00Z",
+    "scrapedAt": "2026-05-23T01:17:26Z",
+    "address": "MCLEAN DR & E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/mclean-dr",
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "Mclean Dr",
+      "E Hastings St"
+    ],
+    "pulsePointId": "2480309969"
+  },
+  {
     "id": "2026-05-22T23:43:00Z_vancouver/ash-st_vancouver/w-6th-ave",
     "timestamp": "2026-05-22T23:43:00Z",
     "scrapedAt": "2026-05-22T23:49:32Z",

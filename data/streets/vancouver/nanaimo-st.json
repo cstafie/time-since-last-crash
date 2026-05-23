@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-23T01:05:00Z_vancouver/nanaimo-st_vancouver/e-41st-ave",
+      "timestamp": "2026-05-23T01:05:00Z",
+      "address": "NANAIMO ST & E 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/nanaimo-st",
+        "vancouver/e-41st-ave"
+      ],
+      "streetNames": [
+        "Nanaimo St",
+        "E 41st Ave"
+      ],
+      "pulsePointId": "2480341661"
+    },
+    {
       "id": "2026-04-17T08:04:00Z_vancouver/e-6th-ave_vancouver/nanaimo-st",
       "timestamp": "2026-04-17T08:04:00Z",
       "address": "E 6TH AVE & NANAIMO ST",
@@ -163,6 +178,6 @@
       "pulsePointId": "2435582679"
     }
   ],
-  "lastIncident": "2026-04-17T08:04:00Z",
-  "count": 11
+  "lastIncident": "2026-05-23T01:05:00Z",
+  "count": 12
 }
