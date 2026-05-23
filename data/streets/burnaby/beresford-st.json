@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/beresford-st",
+  "name": "Beresford St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-05-23T18:55:00Z_burnaby/beresford-st",
+      "timestamp": "2026-05-23T18:55:00Z",
+      "address": "BERESFORD ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/beresford-st"
+      ],
+      "streetNames": [
+        "Beresford St"
+      ],
+      "pulsePointId": "2480806032"
+    }
+  ],
+  "lastIncident": "2026-05-23T18:55:00Z",
+  "count": 1
+}

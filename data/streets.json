@@ -2698,8 +2698,8 @@
     "name": "Central Blvd",
     "slug": "burnaby/central-blvd",
     "city": "Burnaby",
-    "lastIncident": "2026-04-02T04:44:00Z",
-    "count": 3
+    "lastIncident": "2026-05-23T18:54:00Z",
+    "count": 4
   },
   "burnaby/bonsor-ave": {
     "name": "Bonsor Ave",
@@ -4693,15 +4693,15 @@
     "name": "Barnet Hwy",
     "slug": "coquitlam/barnet-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-04-01T00:02:00Z",
-    "count": 1
+    "lastIncident": "2026-05-23T18:54:00Z",
+    "count": 2
   },
   "coquitlam/falcon-dr": {
     "name": "Falcon Dr",
     "slug": "coquitlam/falcon-dr",
     "city": "Coquitlam",
-    "lastIncident": "2026-04-01T00:02:00Z",
-    "count": 1
+    "lastIncident": "2026-05-23T18:54:00Z",
+    "count": 2
   },
   "vancouver/n-skeena-st": {
     "name": "N Skeena St",
@@ -10294,6 +10294,13 @@
     "slug": "north-vancouver/westview-cres",
     "city": "North Vancouver",
     "lastIncident": "2026-05-23T18:19:00Z",
+    "count": 1
+  },
+  "burnaby/beresford-st": {
+    "name": "Beresford St",
+    "slug": "burnaby/beresford-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-05-23T18:55:00Z",
     "count": 1
   }
 }

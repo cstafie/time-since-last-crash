@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-05-23T18:54:00Z_coquitlam/barnet-hwy_coquitlam/falcon-dr",
+      "timestamp": "2026-05-23T18:54:00Z",
+      "address": "BARNET HWY & FALCON DR",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/barnet-hwy",
+        "coquitlam/falcon-dr"
+      ],
+      "streetNames": [
+        "Barnet Hwy",
+        "Falcon Dr"
+      ],
+      "pulsePointId": "2480805776"
+    },
+    {
       "id": "2026-04-01T00:02:00Z_coquitlam/barnet-hwy_coquitlam/falcon-dr",
       "timestamp": "2026-04-01T00:02:00Z",
       "address": "BARNET HWY & FALCON DR",
@@ -19,6 +34,6 @@
       "pulsePointId": "2445366422"
     }
   ],
-  "lastIncident": "2026-04-01T00:02:00Z",
-  "count": 1
+  "lastIncident": "2026-05-23T18:54:00Z",
+  "count": 2
 }
