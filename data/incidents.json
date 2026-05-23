@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-23T22:58:00Z_coquitlam/trans-canada-hwy",
+    "timestamp": "2026-05-23T22:58:00Z",
+    "scrapedAt": "2026-05-23T23:15:49Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2480954981"
+  },
+  {
     "id": "2026-05-23T22:43:00Z_chilliwack/mcsween-rd",
     "timestamp": "2026-05-23T22:43:00Z",
     "scrapedAt": "2026-05-23T22:45:04Z",
