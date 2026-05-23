@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-05-23T22:00:00Z_vancouver/se-marine-dr_vancouver/victoria-dr",
+    "timestamp": "2026-05-23T22:00:00Z",
+    "scrapedAt": "2026-05-23T22:15:03Z",
+    "address": "SE MARINE DR & VICTORIA DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/se-marine-dr",
+      "vancouver/victoria-dr"
+    ],
+    "streetNames": [
+      "Se Marine Dr",
+      "Victoria Dr"
+    ],
+    "pulsePointId": "2480917589"
+  },
+  {
+    "id": "2026-05-23T21:58:00Z_vancouver/knight-st_vancouver/e-59th-ave",
+    "timestamp": "2026-05-23T21:58:00Z",
+    "scrapedAt": "2026-05-23T22:15:03Z",
+    "address": "KNIGHT ST & E 59TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/knight-st",
+      "vancouver/e-59th-ave"
+    ],
+    "streetNames": [
+      "Knight St",
+      "E 59th Ave"
+    ],
+    "pulsePointId": "2480916643"
+  },
+  {
+    "id": "2026-05-23T21:53:00Z_new-westminster/e-8th-ave",
+    "timestamp": "2026-05-23T21:53:00Z",
+    "scrapedAt": "2026-05-23T22:15:03Z",
+    "address": "E 8TH AVE",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/e-8th-ave"
+    ],
+    "streetNames": [
+      "E 8th Ave"
+    ],
+    "pulsePointId": "2480913493"
+  },
+  {
     "id": "2026-05-23T21:31:00Z_burnaby/curtis-st",
     "timestamp": "2026-05-23T21:31:00Z",
     "scrapedAt": "2026-05-23T21:45:44Z",

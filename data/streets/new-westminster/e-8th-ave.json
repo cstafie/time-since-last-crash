@@ -4,6 +4,19 @@
   "city": "New Westminster",
   "incidents": [
     {
+      "id": "2026-05-23T21:53:00Z_new-westminster/e-8th-ave",
+      "timestamp": "2026-05-23T21:53:00Z",
+      "address": "E 8TH AVE",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/e-8th-ave"
+      ],
+      "streetNames": [
+        "E 8th Ave"
+      ],
+      "pulsePointId": "2480913493"
+    },
+    {
       "id": "2026-05-20T21:47:00Z_new-westminster/e-8th-ave_new-westminster/sangster-pl",
       "timestamp": "2026-05-20T21:47:00Z",
       "address": "E 8TH AVE & SANGSTER PL",
@@ -48,6 +61,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-20T21:47:00Z",
-  "count": 3
+  "lastIncident": "2026-05-23T21:53:00Z",
+  "count": 4
 }

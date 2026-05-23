@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-23T22:00:00Z_vancouver/se-marine-dr_vancouver/victoria-dr",
+      "timestamp": "2026-05-23T22:00:00Z",
+      "address": "SE MARINE DR & VICTORIA DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/se-marine-dr",
+        "vancouver/victoria-dr"
+      ],
+      "streetNames": [
+        "Se Marine Dr",
+        "Victoria Dr"
+      ],
+      "pulsePointId": "2480917589"
+    },
+    {
       "id": "2026-05-23T21:22:00Z_vancouver/argyle-st_vancouver/se-marine-dr",
       "timestamp": "2026-05-23T21:22:00Z",
       "address": "ARGYLE ST & SE MARINE DR",
@@ -136,6 +151,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-23T21:22:00Z",
-  "count": 9
+  "lastIncident": "2026-05-23T22:00:00Z",
+  "count": 10
 }
