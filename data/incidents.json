@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-23T19:24:00Z_vancouver/mclean-dr_vancouver/e-hastings-st",
+    "timestamp": "2026-05-23T19:24:00Z",
+    "scrapedAt": "2026-05-23T19:50:51Z",
+    "address": "MCLEAN DR & E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/mclean-dr",
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "Mclean Dr",
+      "E Hastings St"
+    ],
+    "pulsePointId": "2480824343"
+  },
+  {
     "id": "2026-05-23T18:55:00Z_burnaby/beresford-st",
     "timestamp": "2026-05-23T18:55:00Z",
     "scrapedAt": "2026-05-23T19:25:18Z",
