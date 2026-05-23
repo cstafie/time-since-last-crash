@@ -528,8 +528,8 @@
     "name": "124th St",
     "slug": "surrey/124th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-05T20:26:00Z",
-    "count": 7
+    "lastIncident": "2026-05-23T07:08:00Z",
+    "count": 8
   },
   "surrey/128th-st": {
     "name": "128th St",
@@ -5813,15 +5813,15 @@
     "name": "230th St",
     "slug": "maple-ridge/230th-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-04-08T16:57:00Z",
-    "count": 1
+    "lastIncident": "2026-05-23T06:55:00Z",
+    "count": 2
   },
   "maple-ridge/abernethy-way": {
     "name": "Abernethy Way",
     "slug": "maple-ridge/abernethy-way",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-02T00:12:00Z",
-    "count": 2
+    "lastIncident": "2026-05-23T06:57:00Z",
+    "count": 4
   },
   "vancouver/w-26th-ave": {
     "name": "W 26th Ave",
@@ -7325,8 +7325,8 @@
     "name": "Scott Rd",
     "slug": "surrey/scott-rd",
     "city": "Surrey",
-    "lastIncident": "2026-05-17T18:35:00Z",
-    "count": 2
+    "lastIncident": "2026-05-23T07:08:00Z",
+    "count": 3
   },
   "vancouver/beatty-st": {
     "name": "Beatty St",
@@ -8438,8 +8438,8 @@
     "name": "232nd St",
     "slug": "maple-ridge/232nd-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-18T00:46:00Z",
-    "count": 3
+    "lastIncident": "2026-05-23T06:57:00Z",
+    "count": 4
   },
   "delta/82nd-ave": {
     "name": "82nd Ave",
