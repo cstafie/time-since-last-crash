@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-05-23T02:56:00Z_delta/120th-st",
+    "timestamp": "2026-05-23T02:56:00Z",
+    "scrapedAt": "2026-05-23T03:42:52Z",
+    "address": "120TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/120th-st"
+    ],
+    "streetNames": [
+      "120th St"
+    ],
+    "pulsePointId": "2480405775"
+  },
+  {
+    "id": "2026-05-23T02:25:00Z_chilliwack/sylvan-dr",
+    "timestamp": "2026-05-23T02:25:00Z",
+    "scrapedAt": "2026-05-23T03:42:52Z",
+    "address": "SYLVAN DR",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/sylvan-dr"
+    ],
+    "streetNames": [
+      "Sylvan Dr"
+    ],
+    "pulsePointId": "2480389083"
+  },
+  {
+    "id": "2026-05-23T02:17:00Z_vancouver/thurlow-st_vancouver/pacific-st",
+    "timestamp": "2026-05-23T02:17:00Z",
+    "scrapedAt": "2026-05-23T03:42:52Z",
+    "address": "THURLOW ST & PACIFIC ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/thurlow-st",
+      "vancouver/pacific-st"
+    ],
+    "streetNames": [
+      "Thurlow St",
+      "Pacific St"
+    ],
+    "pulsePointId": "2480384702"
+  },
+  {
     "id": "2026-05-23T02:13:00Z_burnaby/canada-way",
     "timestamp": "2026-05-23T02:13:00Z",
     "scrapedAt": "2026-05-23T02:15:40Z",

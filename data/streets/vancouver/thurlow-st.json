@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-23T02:17:00Z_vancouver/thurlow-st_vancouver/pacific-st",
+      "timestamp": "2026-05-23T02:17:00Z",
+      "address": "THURLOW ST & PACIFIC ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/thurlow-st",
+        "vancouver/pacific-st"
+      ],
+      "streetNames": [
+        "Thurlow St",
+        "Pacific St"
+      ],
+      "pulsePointId": "2480384702"
+    },
+    {
       "id": "2026-05-09T12:44:00Z_vancouver/thurlow-st_vancouver/robson-st",
       "timestamp": "2026-05-09T12:44:00Z",
       "address": "THURLOW ST & ROBSON ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2445720348"
     }
   ],
-  "lastIncident": "2026-05-09T12:44:00Z",
-  "count": 2
+  "lastIncident": "2026-05-23T02:17:00Z",
+  "count": 3
 }

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-23T02:17:00Z_vancouver/thurlow-st_vancouver/pacific-st",
+      "timestamp": "2026-05-23T02:17:00Z",
+      "address": "THURLOW ST & PACIFIC ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/thurlow-st",
+        "vancouver/pacific-st"
+      ],
+      "streetNames": [
+        "Thurlow St",
+        "Pacific St"
+      ],
+      "pulsePointId": "2480384702"
+    },
+    {
       "id": "2026-04-03T04:38:00Z_vancouver/pacific-st_vancouver/seymour-st",
       "timestamp": "2026-04-03T04:38:00Z",
       "address": "PACIFIC ST & SEYMOUR ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2437639493"
     }
   ],
-  "lastIncident": "2026-04-03T04:38:00Z",
-  "count": 2
+  "lastIncident": "2026-05-23T02:17:00Z",
+  "count": 3
 }
