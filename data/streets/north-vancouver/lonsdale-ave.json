@@ -4,6 +4,21 @@
   "city": "North Vancouver",
   "incidents": [
     {
+      "id": "2026-05-23T02:13:00Z_north-vancouver/e-13th-st_north-vancouver/lonsdale-ave",
+      "timestamp": "2026-05-23T02:13:00Z",
+      "address": "E 13TH ST & LONSDALE AVE",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/e-13th-st",
+        "north-vancouver/lonsdale-ave"
+      ],
+      "streetNames": [
+        "E 13th St",
+        "Lonsdale Ave"
+      ],
+      "pulsePointId": "2480382112"
+    },
+    {
       "id": "2026-05-05T02:36:00Z_north-vancouver/e-18th-st_north-vancouver/lonsdale-ave",
       "timestamp": "2026-05-05T02:36:00Z",
       "address": "E 18TH ST & LONSDALE AVE",
@@ -34,6 +49,6 @@
       "pulsePointId": "2438092163"
     }
   ],
-  "lastIncident": "2026-05-05T02:36:00Z",
-  "count": 2
+  "lastIncident": "2026-05-23T02:13:00Z",
+  "count": 3
 }

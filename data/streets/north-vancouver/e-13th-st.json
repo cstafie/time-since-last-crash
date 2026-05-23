@@ -1,0 +1,24 @@
+{
+  "slug": "north-vancouver/e-13th-st",
+  "name": "E 13th St",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-23T02:13:00Z_north-vancouver/e-13th-st_north-vancouver/lonsdale-ave",
+      "timestamp": "2026-05-23T02:13:00Z",
+      "address": "E 13TH ST & LONSDALE AVE",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/e-13th-st",
+        "north-vancouver/lonsdale-ave"
+      ],
+      "streetNames": [
+        "E 13th St",
+        "Lonsdale Ave"
+      ],
+      "pulsePointId": "2480382112"
+    }
+  ],
+  "lastIncident": "2026-05-23T02:13:00Z",
+  "count": 1
+}

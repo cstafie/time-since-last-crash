@@ -1130,8 +1130,8 @@
     "name": "Canada Way",
     "slug": "burnaby/canada-way",
     "city": "Burnaby",
-    "lastIncident": "2026-05-17T20:41:00Z",
-    "count": 16
+    "lastIncident": "2026-05-23T02:13:00Z",
+    "count": 17
   },
   "burnaby/norland-ave": {
     "name": "Norland Ave",
@@ -1704,8 +1704,8 @@
     "name": "Francis Rd",
     "slug": "richmond/francis-rd",
     "city": "Richmond",
-    "lastIncident": "2026-04-28T15:30:00Z",
-    "count": 5
+    "lastIncident": "2026-05-23T01:51:00Z",
+    "count": 6
   },
   "maple-ridge/216th-st": {
     "name": "216th St",
@@ -3293,8 +3293,8 @@
     "name": "Lonsdale Ave",
     "slug": "north-vancouver/lonsdale-ave",
     "city": "North Vancouver",
-    "lastIncident": "2026-05-05T02:36:00Z",
-    "count": 2
+    "lastIncident": "2026-05-23T02:13:00Z",
+    "count": 3
   },
   "north-vancouver/e-29th-st": {
     "name": "E 29th St",
@@ -8298,8 +8298,8 @@
     "name": "Gilbert Rd",
     "slug": "richmond/gilbert-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-01T01:36:00Z",
-    "count": 1
+    "lastIncident": "2026-05-23T01:51:00Z",
+    "count": 2
   },
   "maple-ridge/camwood-ave": {
     "name": "Camwood Ave",
@@ -10238,6 +10238,13 @@
     "slug": "delta/pullout",
     "city": "Delta",
     "lastIncident": "2026-05-22T22:56:00Z",
+    "count": 1
+  },
+  "north-vancouver/e-13th-st": {
+    "name": "E 13th St",
+    "slug": "north-vancouver/e-13th-st",
+    "city": "North Vancouver",
+    "lastIncident": "2026-05-23T02:13:00Z",
     "count": 1
   }
 }

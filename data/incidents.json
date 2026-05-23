@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-05-23T02:13:00Z_burnaby/canada-way",
+    "timestamp": "2026-05-23T02:13:00Z",
+    "scrapedAt": "2026-05-23T02:15:40Z",
+    "address": "CANADA WAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/canada-way"
+    ],
+    "streetNames": [
+      "Canada Way"
+    ],
+    "pulsePointId": "2480382224"
+  },
+  {
+    "id": "2026-05-23T02:13:00Z_north-vancouver/e-13th-st_north-vancouver/lonsdale-ave",
+    "timestamp": "2026-05-23T02:13:00Z",
+    "scrapedAt": "2026-05-23T02:15:40Z",
+    "address": "E 13TH ST & LONSDALE AVE",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/e-13th-st",
+      "north-vancouver/lonsdale-ave"
+    ],
+    "streetNames": [
+      "E 13th St",
+      "Lonsdale Ave"
+    ],
+    "pulsePointId": "2480382112"
+  },
+  {
+    "id": "2026-05-23T01:51:00Z_richmond/gilbert-rd_richmond/francis-rd",
+    "timestamp": "2026-05-23T01:51:00Z",
+    "scrapedAt": "2026-05-23T02:15:40Z",
+    "address": "GILBERT RD & FRANCIS RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/gilbert-rd",
+      "richmond/francis-rd"
+    ],
+    "streetNames": [
+      "Gilbert Rd",
+      "Francis Rd"
+    ],
+    "pulsePointId": "2480369889"
+  },
+  {
     "id": "2026-05-23T01:05:00Z_vancouver/nanaimo-st_vancouver/e-41st-ave",
     "timestamp": "2026-05-23T01:05:00Z",
     "scrapedAt": "2026-05-23T01:17:26Z",
