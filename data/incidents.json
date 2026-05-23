@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-23T08:06:00Z_pitt-meadows/lougheed-hwy",
+    "timestamp": "2026-05-23T08:06:00Z",
+    "scrapedAt": "2026-05-23T08:14:26Z",
+    "address": "LOUGHEED HWY",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2480544672"
+  },
+  {
     "id": "2026-05-23T07:08:00Z_surrey/124th-st_surrey/scott-rd",
     "timestamp": "2026-05-23T07:08:00Z",
     "scrapedAt": "2026-05-23T07:19:55Z",
