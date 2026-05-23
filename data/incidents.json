@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-23T18:41:00Z_vancouver/commercial-st_vancouver/e-41st-ave",
+    "timestamp": "2026-05-23T18:41:00Z",
+    "scrapedAt": "2026-05-23T18:46:54Z",
+    "address": "COMMERCIAL ST & E 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/commercial-st",
+      "vancouver/e-41st-ave"
+    ],
+    "streetNames": [
+      "Commercial St",
+      "E 41st Ave"
+    ],
+    "pulsePointId": "2480799586"
+  },
+  {
+    "id": "2026-05-23T18:19:00Z_north-vancouver/westview-cres",
+    "timestamp": "2026-05-23T18:19:00Z",
+    "scrapedAt": "2026-05-23T18:46:54Z",
+    "address": "WESTVIEW CRES",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/westview-cres"
+    ],
+    "streetNames": [
+      "Westview Cres"
+    ],
+    "pulsePointId": "2480785691"
+  },
+  {
     "id": "2026-05-23T16:45:00Z_burnaby/marine-dr",
     "timestamp": "2026-05-23T16:45:00Z",
     "scrapedAt": "2026-05-23T17:19:47Z",

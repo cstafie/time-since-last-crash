@@ -717,8 +717,8 @@
     "name": "E 41st Ave",
     "slug": "vancouver/e-41st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-23T01:05:00Z",
-    "count": 25
+    "lastIncident": "2026-05-23T18:41:00Z",
+    "count": 26
   },
   "vancouver/granville-st": {
     "name": "Granville St",
@@ -1816,8 +1816,8 @@
     "name": "Commercial St",
     "slug": "vancouver/commercial-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-09T04:53:00Z",
-    "count": 2
+    "lastIncident": "2026-05-23T18:41:00Z",
+    "count": 3
   },
   "abbotsford/bourquin-cres-w": {
     "name": "Bourquin Cres W",
@@ -10287,6 +10287,13 @@
     "slug": "burnaby/banting-pl",
     "city": "Burnaby",
     "lastIncident": "2026-05-23T16:27:00Z",
+    "count": 1
+  },
+  "north-vancouver/westview-cres": {
+    "name": "Westview Cres",
+    "slug": "north-vancouver/westview-cres",
+    "city": "North Vancouver",
+    "lastIncident": "2026-05-23T18:19:00Z",
     "count": 1
   }
 }
