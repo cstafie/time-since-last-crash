@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-12T03:21:00Z",
-    "count": 29
+    "lastIncident": "2026-05-23T16:13:00Z",
+    "count": 30
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",
@@ -6835,8 +6835,8 @@
     "name": "Union St",
     "slug": "vancouver/union-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-29T18:40:00Z",
-    "count": 3
+    "lastIncident": "2026-05-23T16:13:00Z",
+    "count": 4
   },
   "west-vancouver/chairlift-rd": {
     "name": "Chairlift Rd",
