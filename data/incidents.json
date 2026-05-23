@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-23T16:27:00Z_vancouver/victoria-dr_vancouver/e-33rd-ave",
+    "timestamp": "2026-05-23T16:27:00Z",
+    "scrapedAt": "2026-05-23T16:46:03Z",
+    "address": "VICTORIA DR & E 33RD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/victoria-dr",
+      "vancouver/e-33rd-ave"
+    ],
+    "streetNames": [
+      "Victoria Dr",
+      "E 33rd Ave"
+    ],
+    "pulsePointId": "2480719342"
+  },
+  {
+    "id": "2026-05-23T16:27:00Z_burnaby/banting-pl_burnaby/marine-dr",
+    "timestamp": "2026-05-23T16:27:00Z",
+    "scrapedAt": "2026-05-23T16:46:03Z",
+    "address": "BANTING PL & MARINE DR",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/banting-pl",
+      "burnaby/marine-dr"
+    ],
+    "streetNames": [
+      "Banting Pl",
+      "Marine Dr"
+    ],
+    "pulsePointId": "2480718898"
+  },
+  {
     "id": "2026-05-23T16:13:00Z_vancouver/union-st_vancouver/main-st",
     "timestamp": "2026-05-23T16:13:00Z",
     "scrapedAt": "2026-05-23T16:17:23Z",
