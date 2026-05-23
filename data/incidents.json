@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-23T15:02:00Z_delta/hwy-17",
+    "timestamp": "2026-05-23T15:02:00Z",
+    "scrapedAt": "2026-05-23T15:21:14Z",
+    "address": "HWY 17",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-17"
+    ],
+    "streetNames": [
+      "Hwy 17"
+    ],
+    "pulsePointId": "2480679300"
+  },
+  {
     "id": "2026-05-23T12:21:00Z_surrey/104th-ave_surrey/140th-st",
     "timestamp": "2026-05-23T12:21:00Z",
     "scrapedAt": "2026-05-23T12:47:32Z",
