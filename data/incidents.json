@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-23T12:05:00Z_langley/202nd-street-ofrp_langley/trans-canada-hwy",
+    "timestamp": "2026-05-23T12:05:00Z",
+    "scrapedAt": "2026-05-23T12:13:38Z",
+    "address": "202ND STREET OFRP & TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/202nd-street-ofrp",
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "202nd Street Ofrp",
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2480613415"
+  },
+  {
     "id": "2026-05-23T09:44:00Z_vancouver/granville-st",
     "timestamp": "2026-05-23T09:44:00Z",
     "scrapedAt": "2026-05-23T10:05:27Z",
