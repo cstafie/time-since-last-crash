@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-23T23:34:00Z_surrey/166th-st_surrey/24th-ave",
+    "timestamp": "2026-05-23T23:34:00Z",
+    "scrapedAt": "2026-05-23T23:45:49Z",
+    "address": "166TH ST & 24TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/166th-st",
+      "surrey/24th-ave"
+    ],
+    "streetNames": [
+      "166th St",
+      "24th Ave"
+    ],
+    "pulsePointId": "2480977493"
+  },
+  {
+    "id": "2026-05-23T23:18:00Z_langley/fraser-hwy",
+    "timestamp": "2026-05-23T23:18:00Z",
+    "scrapedAt": "2026-05-23T23:45:49Z",
+    "address": "FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy"
+    ],
+    "streetNames": [
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2480968108"
+  },
+  {
     "id": "2026-05-23T22:58:00Z_coquitlam/trans-canada-hwy",
     "timestamp": "2026-05-23T22:58:00Z",
     "scrapedAt": "2026-05-23T23:15:49Z",
