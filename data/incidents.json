@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-23T20:26:00Z_vancouver/renfrew-st_vancouver/e-1st-ave",
+    "timestamp": "2026-05-23T20:26:00Z",
+    "scrapedAt": "2026-05-23T20:44:32Z",
+    "address": "RENFREW ST & E 1ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/renfrew-st",
+      "vancouver/e-1st-ave"
+    ],
+    "streetNames": [
+      "Renfrew St",
+      "E 1st Ave"
+    ],
+    "pulsePointId": "2480862486"
+  },
+  {
+    "id": "2026-05-23T20:24:00Z_delta/linden-dr_delta/ladner-trunk-rd",
+    "timestamp": "2026-05-23T20:24:00Z",
+    "scrapedAt": "2026-05-23T20:44:32Z",
+    "address": "LINDEN DR & LADNER TRUNK RD",
+    "city": "Delta",
+    "streets": [
+      "delta/linden-dr",
+      "delta/ladner-trunk-rd"
+    ],
+    "streetNames": [
+      "Linden Dr",
+      "Ladner Trunk Rd"
+    ],
+    "pulsePointId": "2480861142"
+  },
+  {
     "id": "2026-05-23T20:04:00Z_lions-bay/hwy-99",
     "timestamp": "2026-05-23T20:04:00Z",
     "scrapedAt": "2026-05-23T20:14:45Z",
