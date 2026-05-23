@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-05-23T05:39:00Z_richmond/no-2-rd_richmond/blundell-rd",
+      "timestamp": "2026-05-23T05:39:00Z",
+      "address": "NO 2 RD & BLUNDELL RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/no-2-rd",
+        "richmond/blundell-rd"
+      ],
+      "streetNames": [
+        "No 2 Rd",
+        "Blundell Rd"
+      ],
+      "pulsePointId": "2480489455"
+    },
+    {
       "id": "2026-05-18T22:35:00Z_richmond/maple-rd_richmond/no-2-rd",
       "timestamp": "2026-05-18T22:35:00Z",
       "address": "MAPLE RD & NO 2 RD",
@@ -136,6 +151,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-18T22:35:00Z",
-  "count": 9
+  "lastIncident": "2026-05-23T05:39:00Z",
+  "count": 10
 }

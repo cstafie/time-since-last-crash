@@ -1,0 +1,22 @@
+{
+  "slug": "mission/mandale-rd",
+  "name": "Mandale Rd",
+  "city": "Mission",
+  "incidents": [
+    {
+      "id": "2026-05-23T05:40:00Z_mission/mandale-rd",
+      "timestamp": "2026-05-23T05:40:00Z",
+      "address": "MANDALE RD",
+      "city": "Mission",
+      "streets": [
+        "mission/mandale-rd"
+      ],
+      "streetNames": [
+        "Mandale Rd"
+      ],
+      "pulsePointId": "2480490301"
+    }
+  ],
+  "lastIncident": "2026-05-23T05:40:00Z",
+  "count": 1
+}

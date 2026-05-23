@@ -1,0 +1,22 @@
+{
+  "slug": "mission/dyke-rd",
+  "name": "Dyke Rd",
+  "city": "Mission",
+  "incidents": [
+    {
+      "id": "2026-05-23T05:39:00Z_mission/dyke-rd",
+      "timestamp": "2026-05-23T05:39:00Z",
+      "address": "DYKE RD",
+      "city": "Mission",
+      "streets": [
+        "mission/dyke-rd"
+      ],
+      "streetNames": [
+        "Dyke Rd"
+      ],
+      "pulsePointId": "2480489680"
+    }
+  ],
+  "lastIncident": "2026-05-23T05:39:00Z",
+  "count": 1
+}

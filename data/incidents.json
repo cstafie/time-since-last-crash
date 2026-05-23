@@ -1,5 +1,81 @@
 [
   {
+    "id": "2026-05-23T06:04:00Z_burnaby/burnaby-mountain-pkwy_burnaby/centennial-way",
+    "timestamp": "2026-05-23T06:04:00Z",
+    "scrapedAt": "2026-05-23T06:23:52Z",
+    "address": "BURNABY MOUNTAIN PKWY & CENTENNIAL WAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/burnaby-mountain-pkwy",
+      "burnaby/centennial-way"
+    ],
+    "streetNames": [
+      "Burnaby Mountain Pkwy",
+      "Centennial Way"
+    ],
+    "pulsePointId": "2480499031"
+  },
+  {
+    "id": "2026-05-23T05:40:00Z_mission/mandale-rd",
+    "timestamp": "2026-05-23T05:40:00Z",
+    "scrapedAt": "2026-05-23T06:23:52Z",
+    "address": "MANDALE RD",
+    "city": "Mission",
+    "streets": [
+      "mission/mandale-rd"
+    ],
+    "streetNames": [
+      "Mandale Rd"
+    ],
+    "pulsePointId": "2480490301"
+  },
+  {
+    "id": "2026-05-23T05:39:00Z_mission/dyke-rd",
+    "timestamp": "2026-05-23T05:39:00Z",
+    "scrapedAt": "2026-05-23T06:23:52Z",
+    "address": "DYKE RD",
+    "city": "Mission",
+    "streets": [
+      "mission/dyke-rd"
+    ],
+    "streetNames": [
+      "Dyke Rd"
+    ],
+    "pulsePointId": "2480489680"
+  },
+  {
+    "id": "2026-05-23T05:39:00Z_richmond/no-2-rd_richmond/blundell-rd",
+    "timestamp": "2026-05-23T05:39:00Z",
+    "scrapedAt": "2026-05-23T06:23:52Z",
+    "address": "NO 2 RD & BLUNDELL RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/no-2-rd",
+      "richmond/blundell-rd"
+    ],
+    "streetNames": [
+      "No 2 Rd",
+      "Blundell Rd"
+    ],
+    "pulsePointId": "2480489455"
+  },
+  {
+    "id": "2026-05-23T05:35:00Z_surrey/hansen-rd_surrey/kalmar-rd",
+    "timestamp": "2026-05-23T05:35:00Z",
+    "scrapedAt": "2026-05-23T06:23:52Z",
+    "address": "HANSEN RD & KALMAR RD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/hansen-rd",
+      "surrey/kalmar-rd"
+    ],
+    "streetNames": [
+      "Hansen Rd",
+      "Kalmar Rd"
+    ],
+    "pulsePointId": "2480487368"
+  },
+  {
     "id": "2026-05-23T04:53:00Z_port-coquitlam/mary-hill-bps_port-coquitlam/shaughnessy-st",
     "timestamp": "2026-05-23T04:53:00Z",
     "scrapedAt": "2026-05-23T05:11:17Z",
