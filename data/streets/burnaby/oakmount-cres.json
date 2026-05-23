@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/oakmount-cres",
+  "name": "Oakmount Cres",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-05-23T21:14:00Z_burnaby/royal-oak-ave_burnaby/oakmount-cres",
+      "timestamp": "2026-05-23T21:14:00Z",
+      "address": "ROYAL OAK AVE & OAKMOUNT CRES",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/royal-oak-ave",
+        "burnaby/oakmount-cres"
+      ],
+      "streetNames": [
+        "Royal Oak Ave",
+        "Oakmount Cres"
+      ],
+      "pulsePointId": "2480890885"
+    }
+  ],
+  "lastIncident": "2026-05-23T21:14:00Z",
+  "count": 1
+}

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-23T21:22:00Z_vancouver/argyle-st_vancouver/se-marine-dr",
+      "timestamp": "2026-05-23T21:22:00Z",
+      "address": "ARGYLE ST & SE MARINE DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/argyle-st",
+        "vancouver/se-marine-dr"
+      ],
+      "streetNames": [
+        "Argyle St",
+        "Se Marine Dr"
+      ],
+      "pulsePointId": "2480895152"
+    },
+    {
       "id": "2026-05-05T00:38:00Z_vancouver/se-marine-dr_vancouver/elliott-st",
       "timestamp": "2026-05-05T00:38:00Z",
       "address": "SE MARINE DR & ELLIOTT ST",
@@ -121,6 +136,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-05T00:38:00Z",
-  "count": 8
+  "lastIncident": "2026-05-23T21:22:00Z",
+  "count": 9
 }

@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-05-23T21:31:00Z_burnaby/curtis-st",
+    "timestamp": "2026-05-23T21:31:00Z",
+    "scrapedAt": "2026-05-23T21:45:44Z",
+    "address": "CURTIS ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/curtis-st"
+    ],
+    "streetNames": [
+      "Curtis St"
+    ],
+    "pulsePointId": "2480899160"
+  },
+  {
+    "id": "2026-05-23T21:25:00Z_richmond/no-4-rd_richmond/blundell-rd",
+    "timestamp": "2026-05-23T21:25:00Z",
+    "scrapedAt": "2026-05-23T21:45:44Z",
+    "address": "NO 4 RD & BLUNDELL RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/no-4-rd",
+      "richmond/blundell-rd"
+    ],
+    "streetNames": [
+      "No 4 Rd",
+      "Blundell Rd"
+    ],
+    "pulsePointId": "2480895666"
+  },
+  {
+    "id": "2026-05-23T21:22:00Z_vancouver/argyle-st_vancouver/se-marine-dr",
+    "timestamp": "2026-05-23T21:22:00Z",
+    "scrapedAt": "2026-05-23T21:45:44Z",
+    "address": "ARGYLE ST & SE MARINE DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/argyle-st",
+      "vancouver/se-marine-dr"
+    ],
+    "streetNames": [
+      "Argyle St",
+      "Se Marine Dr"
+    ],
+    "pulsePointId": "2480895152"
+  },
+  {
+    "id": "2026-05-23T21:14:00Z_burnaby/royal-oak-ave_burnaby/oakmount-cres",
+    "timestamp": "2026-05-23T21:14:00Z",
+    "scrapedAt": "2026-05-23T21:45:44Z",
+    "address": "ROYAL OAK AVE & OAKMOUNT CRES",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/royal-oak-ave",
+      "burnaby/oakmount-cres"
+    ],
+    "streetNames": [
+      "Royal Oak Ave",
+      "Oakmount Cres"
+    ],
+    "pulsePointId": "2480890885"
+  },
+  {
     "id": "2026-05-23T21:01:00Z_richmond/savage-rd",
     "timestamp": "2026-05-23T21:01:00Z",
     "scrapedAt": "2026-05-23T21:15:03Z",
