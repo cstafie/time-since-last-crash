@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-23T12:21:00Z_surrey/104th-ave_surrey/140th-st",
+    "timestamp": "2026-05-23T12:21:00Z",
+    "scrapedAt": "2026-05-23T12:47:32Z",
+    "address": "104TH AVE & 140TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/104th-ave",
+      "surrey/140th-st"
+    ],
+    "streetNames": [
+      "104th Ave",
+      "140th St"
+    ],
+    "pulsePointId": "2480618162"
+  },
+  {
     "id": "2026-05-23T12:05:00Z_langley/202nd-street-ofrp_langley/trans-canada-hwy",
     "timestamp": "2026-05-23T12:05:00Z",
     "scrapedAt": "2026-05-23T12:13:38Z",
