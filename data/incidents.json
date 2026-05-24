@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-05-24T03:09:00Z_langley/56th-ave_langley/198th-st",
+    "timestamp": "2026-05-24T03:09:00Z",
+    "scrapedAt": "2026-05-24T03:43:40Z",
+    "address": "56TH AVE & 198TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/56th-ave",
+      "langley/198th-st"
+    ],
+    "streetNames": [
+      "56th Ave",
+      "198th St"
+    ],
+    "pulsePointId": "2481102849"
+  },
+  {
+    "id": "2026-05-24T02:48:00Z_surrey/port-mann-brdg",
+    "timestamp": "2026-05-24T02:48:00Z",
+    "scrapedAt": "2026-05-24T03:43:40Z",
+    "address": "PORT MANN BRDG",
+    "city": "Surrey",
+    "streets": [
+      "surrey/port-mann-brdg"
+    ],
+    "streetNames": [
+      "Port Mann Brdg"
+    ],
+    "pulsePointId": "2481092622"
+  },
+  {
+    "id": "2026-05-24T02:20:00Z_maple-ridge/112b-ave",
+    "timestamp": "2026-05-24T02:20:00Z",
+    "scrapedAt": "2026-05-24T03:43:40Z",
+    "address": "112B AVE",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/112b-ave"
+    ],
+    "streetNames": [
+      "112b Ave"
+    ],
+    "pulsePointId": "2481075890"
+  },
+  {
     "id": "2026-05-24T01:29:00Z_richmond/westminster-hwy",
     "timestamp": "2026-05-24T01:29:00Z",
     "scrapedAt": "2026-05-24T02:15:52Z",

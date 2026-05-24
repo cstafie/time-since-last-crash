@@ -1,0 +1,22 @@
+{
+  "slug": "maple-ridge/112b-ave",
+  "name": "112b Ave",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-05-24T02:20:00Z_maple-ridge/112b-ave",
+      "timestamp": "2026-05-24T02:20:00Z",
+      "address": "112B AVE",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/112b-ave"
+      ],
+      "streetNames": [
+        "112b Ave"
+      ],
+      "pulsePointId": "2481075890"
+    }
+  ],
+  "lastIncident": "2026-05-24T02:20:00Z",
+  "count": 1
+}
