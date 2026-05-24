@@ -4,6 +4,19 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-05-24T01:05:00Z_coquitlam/trans-canada-hwy",
+      "timestamp": "2026-05-24T01:05:00Z",
+      "address": "TRANS CANADA HWY",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2481033526"
+    },
+    {
       "id": "2026-05-23T22:58:00Z_coquitlam/trans-canada-hwy",
       "timestamp": "2026-05-23T22:58:00Z",
       "address": "TRANS CANADA HWY",
@@ -220,6 +233,6 @@
       "pulsePointId": "2434158498"
     }
   ],
-  "lastIncident": "2026-05-23T22:58:00Z",
-  "count": 16
+  "lastIncident": "2026-05-24T01:05:00Z",
+  "count": 17
 }

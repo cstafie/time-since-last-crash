@@ -395,8 +395,8 @@
     "name": "Capilano Rd",
     "slug": "north-vancouver/capilano-rd",
     "city": "North Vancouver",
-    "lastIncident": "2026-05-11T17:37:00Z",
-    "count": 4
+    "lastIncident": "2026-05-24T00:53:00Z",
+    "count": 5
   },
   "north-vancouver/e-2nd-st": {
     "name": "E 2nd St",
@@ -1249,8 +1249,8 @@
     "name": "Trans Canada Hwy",
     "slug": "burnaby/trans-canada-hwy",
     "city": "Burnaby",
-    "lastIncident": "2026-05-15T21:31:00Z",
-    "count": 21
+    "lastIncident": "2026-05-24T00:28:00Z",
+    "count": 22
   },
   "vancouver/e-1st-ave": {
     "name": "E 1st Ave",
@@ -2040,8 +2040,8 @@
     "name": "Trans Canada Hwy",
     "slug": "coquitlam/trans-canada-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-05-23T22:58:00Z",
-    "count": 16
+    "lastIncident": "2026-05-24T01:05:00Z",
+    "count": 17
   },
   "langley/202a-st": {
     "name": "202a St",
@@ -10336,6 +10336,13 @@
     "slug": "surrey/115th-ave",
     "city": "Surrey",
     "lastIncident": "2026-05-24T00:03:00Z",
+    "count": 1
+  },
+  "surrey/149th-st": {
+    "name": "149th St",
+    "slug": "surrey/149th-st",
+    "city": "Surrey",
+    "lastIncident": "2026-05-24T00:26:00Z",
     "count": 1
   }
 }

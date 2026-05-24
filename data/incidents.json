@@ -1,5 +1,61 @@
 [
   {
+    "id": "2026-05-24T01:05:00Z_coquitlam/trans-canada-hwy",
+    "timestamp": "2026-05-24T01:05:00Z",
+    "scrapedAt": "2026-05-24T01:23:04Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2481033526"
+  },
+  {
+    "id": "2026-05-24T00:53:00Z_north-vancouver/capilano-rd",
+    "timestamp": "2026-05-24T00:53:00Z",
+    "scrapedAt": "2026-05-24T01:23:04Z",
+    "address": "CAPILANO RD",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/capilano-rd"
+    ],
+    "streetNames": [
+      "Capilano Rd"
+    ],
+    "pulsePointId": "2481025660"
+  },
+  {
+    "id": "2026-05-24T00:28:00Z_burnaby/trans-canada-hwy",
+    "timestamp": "2026-05-24T00:28:00Z",
+    "scrapedAt": "2026-05-24T01:23:04Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2481010345"
+  },
+  {
+    "id": "2026-05-24T00:26:00Z_surrey/149th-st",
+    "timestamp": "2026-05-24T00:26:00Z",
+    "scrapedAt": "2026-05-24T01:23:04Z",
+    "address": "149TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/149th-st"
+    ],
+    "streetNames": [
+      "149th St"
+    ],
+    "pulsePointId": "2481008993"
+  },
+  {
     "id": "2026-05-24T00:03:00Z_surrey/132nd-st_surrey/115th-ave",
     "timestamp": "2026-05-24T00:03:00Z",
     "scrapedAt": "2026-05-24T00:18:19Z",
