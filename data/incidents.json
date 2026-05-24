@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-24T08:52:00Z_langley/48th-ave",
+    "timestamp": "2026-05-24T08:52:00Z",
+    "scrapedAt": "2026-05-24T09:34:02Z",
+    "address": "48TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/48th-ave"
+    ],
+    "streetNames": [
+      "48th Ave"
+    ],
+    "pulsePointId": "2481252020"
+  },
+  {
     "id": "2026-05-24T05:31:00Z_burnaby/canada-way_burnaby/wayburne-dr",
     "timestamp": "2026-05-24T05:31:00Z",
     "scrapedAt": "2026-05-24T06:42:25Z",
