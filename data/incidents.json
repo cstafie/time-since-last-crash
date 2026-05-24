@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-05-24T00:03:00Z_surrey/132nd-st_surrey/115th-ave",
+    "timestamp": "2026-05-24T00:03:00Z",
+    "scrapedAt": "2026-05-24T00:18:19Z",
+    "address": "132ND ST & 115TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/132nd-st",
+      "surrey/115th-ave"
+    ],
+    "streetNames": [
+      "132nd St",
+      "115th Ave"
+    ],
+    "pulsePointId": "2480996040"
+  },
+  {
+    "id": "2026-05-23T23:49:00Z_vancouver/oak-st",
+    "timestamp": "2026-05-23T23:49:00Z",
+    "scrapedAt": "2026-05-24T00:18:19Z",
+    "address": "OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "Oak St"
+    ],
+    "pulsePointId": "2480986181"
+  },
+  {
+    "id": "2026-05-23T23:47:00Z_vancouver/e-cordova-st",
+    "timestamp": "2026-05-23T23:47:00Z",
+    "scrapedAt": "2026-05-24T00:18:19Z",
+    "address": "E CORDOVA ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-cordova-st"
+    ],
+    "streetNames": [
+      "E Cordova St"
+    ],
+    "pulsePointId": "2480985820"
+  },
+  {
+    "id": "2026-05-23T23:46:00Z_langley/fraser-hwy_langley/48th-ave",
+    "timestamp": "2026-05-23T23:46:00Z",
+    "scrapedAt": "2026-05-24T00:18:19Z",
+    "address": "FRASER HWY & 48TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy",
+      "langley/48th-ave"
+    ],
+    "streetNames": [
+      "Fraser Hwy",
+      "48th Ave"
+    ],
+    "pulsePointId": "2480985181"
+  },
+  {
     "id": "2026-05-23T23:34:00Z_surrey/166th-st_surrey/24th-ave",
     "timestamp": "2026-05-23T23:34:00Z",
     "scrapedAt": "2026-05-23T23:45:49Z",
