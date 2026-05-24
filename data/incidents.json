@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-24T17:07:00Z_mission/dyke-rd",
+    "timestamp": "2026-05-24T17:07:00Z",
+    "scrapedAt": "2026-05-24T17:19:44Z",
+    "address": "DYKE RD",
+    "city": "Mission",
+    "streets": [
+      "mission/dyke-rd"
+    ],
+    "streetNames": [
+      "Dyke Rd"
+    ],
+    "pulsePointId": "2481431473"
+  },
+  {
+    "id": "2026-05-24T17:01:00Z_surrey/108th-ave_surrey/whalley-blvd",
+    "timestamp": "2026-05-24T17:01:00Z",
+    "scrapedAt": "2026-05-24T17:19:44Z",
+    "address": "108TH AVE & WHALLEY BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/108th-ave",
+      "surrey/whalley-blvd"
+    ],
+    "streetNames": [
+      "108th Ave",
+      "Whalley Blvd"
+    ],
+    "pulsePointId": "2481427498"
+  },
+  {
     "id": "2026-05-24T16:20:00Z_vancouver/griffiths-way_vancouver/expo-blvd",
     "timestamp": "2026-05-24T16:20:00Z",
     "scrapedAt": "2026-05-24T16:46:14Z",
