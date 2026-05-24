@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-24T22:53:00Z_vancouver/howe-st_vancouver/dunsmuir-st",
+      "timestamp": "2026-05-24T22:53:00Z",
+      "address": "HOWE ST & DUNSMUIR ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/howe-st",
+        "vancouver/dunsmuir-st"
+      ],
+      "streetNames": [
+        "Howe St",
+        "Dunsmuir St"
+      ],
+      "pulsePointId": "2481629920"
+    },
+    {
       "id": "2026-05-10T04:15:00Z_vancouver/nelson-st_vancouver/howe-st",
       "timestamp": "2026-05-10T04:15:00Z",
       "address": "NELSON ST & HOWE ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2450716796"
     }
   ],
-  "lastIncident": "2026-05-10T04:15:00Z",
-  "count": 2
+  "lastIncident": "2026-05-24T22:53:00Z",
+  "count": 3
 }

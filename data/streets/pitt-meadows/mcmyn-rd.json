@@ -1,0 +1,24 @@
+{
+  "slug": "pitt-meadows/mcmyn-rd",
+  "name": "Mcmyn Rd",
+  "city": "Pitt Meadows",
+  "incidents": [
+    {
+      "id": "2026-05-24T23:12:00Z_pitt-meadows/harris-rd_pitt-meadows/mcmyn-rd",
+      "timestamp": "2026-05-24T23:12:00Z",
+      "address": "HARRIS RD & MCMYN RD",
+      "city": "Pitt Meadows",
+      "streets": [
+        "pitt-meadows/harris-rd",
+        "pitt-meadows/mcmyn-rd"
+      ],
+      "streetNames": [
+        "Harris Rd",
+        "Mcmyn Rd"
+      ],
+      "pulsePointId": "2481640897"
+    }
+  ],
+  "lastIncident": "2026-05-24T23:12:00Z",
+  "count": 1
+}

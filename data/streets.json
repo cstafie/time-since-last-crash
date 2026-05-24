@@ -3524,8 +3524,8 @@
     "name": "Harris Rd",
     "slug": "pitt-meadows/harris-rd",
     "city": "Pitt Meadows",
-    "lastIncident": "2026-03-31T17:59:00Z",
-    "count": 2
+    "lastIncident": "2026-05-24T23:12:00Z",
+    "count": 3
   },
   "burnaby/gaglardi-way": {
     "name": "Gaglardi Way",
@@ -5743,8 +5743,8 @@
     "name": "Dunsmuir St",
     "slug": "vancouver/dunsmuir-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-21T21:45:00Z",
-    "count": 3
+    "lastIncident": "2026-05-24T22:53:00Z",
+    "count": 4
   },
   "west-vancouver/cypress-pl": {
     "name": "Cypress Pl",
@@ -5890,8 +5890,8 @@
     "name": "Howe St",
     "slug": "vancouver/howe-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-10T04:15:00Z",
-    "count": 2
+    "lastIncident": "2026-05-24T22:53:00Z",
+    "count": 3
   },
   "delta/kittson-pkwy": {
     "name": "Kittson Pkwy",
@@ -10392,6 +10392,13 @@
     "slug": "coquitlam/banting-st",
     "city": "Coquitlam",
     "lastIncident": "2026-05-24T20:02:00Z",
+    "count": 1
+  },
+  "pitt-meadows/mcmyn-rd": {
+    "name": "Mcmyn Rd",
+    "slug": "pitt-meadows/mcmyn-rd",
+    "city": "Pitt Meadows",
+    "lastIncident": "2026-05-24T23:12:00Z",
     "count": 1
   }
 }

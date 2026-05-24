@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-24T23:12:00Z_pitt-meadows/harris-rd_pitt-meadows/mcmyn-rd",
+    "timestamp": "2026-05-24T23:12:00Z",
+    "scrapedAt": "2026-05-24T23:18:59Z",
+    "address": "HARRIS RD & MCMYN RD",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/harris-rd",
+      "pitt-meadows/mcmyn-rd"
+    ],
+    "streetNames": [
+      "Harris Rd",
+      "Mcmyn Rd"
+    ],
+    "pulsePointId": "2481640897"
+  },
+  {
+    "id": "2026-05-24T22:53:00Z_vancouver/howe-st_vancouver/dunsmuir-st",
+    "timestamp": "2026-05-24T22:53:00Z",
+    "scrapedAt": "2026-05-24T23:18:59Z",
+    "address": "HOWE ST & DUNSMUIR ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/howe-st",
+      "vancouver/dunsmuir-st"
+    ],
+    "streetNames": [
+      "Howe St",
+      "Dunsmuir St"
+    ],
+    "pulsePointId": "2481629920"
+  },
+  {
     "id": "2026-05-24T22:42:00Z_abbotsford/ward-rd_abbotsford/sumas-mountain-rd",
     "timestamp": "2026-05-24T22:42:00Z",
     "scrapedAt": "2026-05-24T22:45:39Z",
