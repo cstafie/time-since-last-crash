@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-24T01:29:00Z_richmond/westminster-hwy",
+    "timestamp": "2026-05-24T01:29:00Z",
+    "scrapedAt": "2026-05-24T02:15:52Z",
+    "address": "WESTMINSTER HWY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/westminster-hwy"
+    ],
+    "streetNames": [
+      "Westminster Hwy"
+    ],
+    "pulsePointId": "2481046812"
+  },
+  {
     "id": "2026-05-24T01:05:00Z_coquitlam/trans-canada-hwy",
     "timestamp": "2026-05-24T01:05:00Z",
     "scrapedAt": "2026-05-24T01:23:04Z",
