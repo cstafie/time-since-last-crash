@@ -1732,8 +1732,8 @@
     "name": "Alex Fraser Brdg",
     "slug": "delta/alex-fraser-brdg",
     "city": "Delta",
-    "lastIncident": "2026-05-20T04:01:00Z",
-    "count": 13
+    "lastIncident": "2026-05-24T18:19:00Z",
+    "count": 14
   },
   "abbotsford/riverside-st": {
     "name": "Riverside St",
@@ -2383,8 +2383,8 @@
     "name": "Langley Bps",
     "slug": "langley/langley-bps",
     "city": "Langley",
-    "lastIncident": "2026-05-17T05:53:00Z",
-    "count": 21
+    "lastIncident": "2026-05-24T18:16:00Z",
+    "count": 22
   },
   "surrey/56th-ave": {
     "name": "56th Ave",

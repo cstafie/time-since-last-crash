@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-05-24T18:19:00Z_delta/alex-fraser-brdg",
+    "timestamp": "2026-05-24T18:19:00Z",
+    "scrapedAt": "2026-05-24T18:49:58Z",
+    "address": "ALEX FRASER BRDG",
+    "city": "Delta",
+    "streets": [
+      "delta/alex-fraser-brdg"
+    ],
+    "streetNames": [
+      "Alex Fraser Brdg"
+    ],
+    "pulsePointId": "2481471001"
+  },
+  {
+    "id": "2026-05-24T18:16:00Z_langley/langley-bps",
+    "timestamp": "2026-05-24T18:16:00Z",
+    "scrapedAt": "2026-05-24T18:49:58Z",
+    "address": "LANGLEY BPS",
+    "city": "Langley",
+    "streets": [
+      "langley/langley-bps"
+    ],
+    "streetNames": [
+      "Langley Bps"
+    ],
+    "pulsePointId": "2481468318"
+  },
+  {
     "id": "2026-05-24T17:36:00Z_surrey/24th-ave_surrey/190th-st",
     "timestamp": "2026-05-24T17:36:00Z",
     "scrapedAt": "2026-05-24T17:46:25Z",
