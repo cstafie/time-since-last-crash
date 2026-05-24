@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-24T20:26:00Z_surrey/fraser-hwy",
+    "timestamp": "2026-05-24T20:26:00Z",
+    "scrapedAt": "2026-05-24T20:45:04Z",
+    "address": "FRASER HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/fraser-hwy"
+    ],
+    "streetNames": [
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2481542242"
+  },
+  {
     "id": "2026-05-24T20:02:00Z_coquitlam/banting-st_coquitlam/como-lake-ave",
     "timestamp": "2026-05-24T20:02:00Z",
     "scrapedAt": "2026-05-24T20:17:28Z",
