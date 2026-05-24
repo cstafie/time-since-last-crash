@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-24T20:02:00Z_coquitlam/banting-st_coquitlam/como-lake-ave",
+    "timestamp": "2026-05-24T20:02:00Z",
+    "scrapedAt": "2026-05-24T20:17:28Z",
+    "address": "BANTING ST & COMO LAKE AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/banting-st",
+      "coquitlam/como-lake-ave"
+    ],
+    "streetNames": [
+      "Banting St",
+      "Como Lake Ave"
+    ],
+    "pulsePointId": "2481529029"
+  },
+  {
     "id": "2026-05-24T19:27:00Z_coquitlam/lougheed-hwy_coquitlam/bernatchey-st",
     "timestamp": "2026-05-24T19:27:00Z",
     "scrapedAt": "2026-05-24T19:52:30Z",

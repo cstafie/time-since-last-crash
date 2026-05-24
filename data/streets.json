@@ -5659,8 +5659,8 @@
     "name": "Como Lake Ave",
     "slug": "coquitlam/como-lake-ave",
     "city": "Coquitlam",
-    "lastIncident": "2026-04-11T00:04:00Z",
-    "count": 2
+    "lastIncident": "2026-05-24T20:02:00Z",
+    "count": 3
   },
   "white-rock/oxford-st": {
     "name": "Oxford St",
@@ -10385,6 +10385,13 @@
     "slug": "coquitlam/bernatchey-st",
     "city": "Coquitlam",
     "lastIncident": "2026-05-24T19:27:00Z",
+    "count": 1
+  },
+  "coquitlam/banting-st": {
+    "name": "Banting St",
+    "slug": "coquitlam/banting-st",
+    "city": "Coquitlam",
+    "lastIncident": "2026-05-24T20:02:00Z",
     "count": 1
   }
 }
