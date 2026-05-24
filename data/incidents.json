@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-24T05:31:00Z_burnaby/canada-way_burnaby/wayburne-dr",
+    "timestamp": "2026-05-24T05:31:00Z",
+    "scrapedAt": "2026-05-24T06:42:25Z",
+    "address": "CANADA WAY & WAYBURNE DR",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/canada-way",
+      "burnaby/wayburne-dr"
+    ],
+    "streetNames": [
+      "Canada Way",
+      "Wayburne Dr"
+    ],
+    "pulsePointId": "2481175974"
+  },
+  {
     "id": "2026-05-24T05:02:00Z_vancouver/e-63rd-ave_vancouver/main-st",
     "timestamp": "2026-05-24T05:02:00Z",
     "scrapedAt": "2026-05-24T05:15:50Z",

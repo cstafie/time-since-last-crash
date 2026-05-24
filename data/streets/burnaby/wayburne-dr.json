@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/wayburne-dr",
+  "name": "Wayburne Dr",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-05-24T05:31:00Z_burnaby/canada-way_burnaby/wayburne-dr",
+      "timestamp": "2026-05-24T05:31:00Z",
+      "address": "CANADA WAY & WAYBURNE DR",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/canada-way",
+        "burnaby/wayburne-dr"
+      ],
+      "streetNames": [
+        "Canada Way",
+        "Wayburne Dr"
+      ],
+      "pulsePointId": "2481175974"
+    }
+  ],
+  "lastIncident": "2026-05-24T05:31:00Z",
+  "count": 1
+}
