@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-24T05:02:00Z_vancouver/e-63rd-ave_vancouver/main-st",
+    "timestamp": "2026-05-24T05:02:00Z",
+    "scrapedAt": "2026-05-24T05:15:50Z",
+    "address": "E 63RD AVE & MAIN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-63rd-ave",
+      "vancouver/main-st"
+    ],
+    "streetNames": [
+      "E 63rd Ave",
+      "Main St"
+    ],
+    "pulsePointId": "2481162557"
+  },
+  {
     "id": "2026-05-24T03:09:00Z_langley/56th-ave_langley/198th-st",
     "timestamp": "2026-05-24T03:09:00Z",
     "scrapedAt": "2026-05-24T03:43:40Z",

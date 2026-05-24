@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-23T16:13:00Z",
-    "count": 30
+    "lastIncident": "2026-05-24T05:02:00Z",
+    "count": 31
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",
@@ -2236,8 +2236,8 @@
     "name": "E 63rd Ave",
     "slug": "vancouver/e-63rd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-03-20T03:23:00Z",
-    "count": 2
+    "lastIncident": "2026-05-24T05:02:00Z",
+    "count": 3
   },
   "port-coquitlam/lougheed-hwy": {
     "name": "Lougheed Hwy",

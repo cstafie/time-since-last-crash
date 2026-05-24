@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-24T05:02:00Z_vancouver/e-63rd-ave_vancouver/main-st",
+      "timestamp": "2026-05-24T05:02:00Z",
+      "address": "E 63RD AVE & MAIN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-63rd-ave",
+        "vancouver/main-st"
+      ],
+      "streetNames": [
+        "E 63rd Ave",
+        "Main St"
+      ],
+      "pulsePointId": "2481162557"
+    },
+    {
       "id": "2026-03-20T03:23:00Z_vancouver/knight-st_vancouver/e-63rd-ave",
       "timestamp": "2026-03-20T03:23:00Z",
       "address": "KNIGHT ST & E 63RD AVE",
@@ -34,6 +49,6 @@
       "pulsePointId": "2434929621"
     }
   ],
-  "lastIncident": "2026-03-20T03:23:00Z",
-  "count": 2
+  "lastIncident": "2026-05-24T05:02:00Z",
+  "count": 3
 }
