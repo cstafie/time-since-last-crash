@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-05-24T17:36:00Z_surrey/24th-ave_surrey/190th-st",
+      "timestamp": "2026-05-24T17:36:00Z",
+      "address": "24TH AVE & 190TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/24th-ave",
+        "surrey/190th-st"
+      ],
+      "streetNames": [
+        "24th Ave",
+        "190th St"
+      ],
+      "pulsePointId": "2481446431"
+    },
+    {
       "id": "2026-05-15T01:01:00Z_surrey/190th-st_surrey/32nd-ave",
       "timestamp": "2026-05-15T01:01:00Z",
       "address": "190TH ST & 32ND AVE",
@@ -34,6 +49,6 @@
       "pulsePointId": "2469877026"
     }
   ],
-  "lastIncident": "2026-05-15T01:01:00Z",
-  "count": 2
+  "lastIncident": "2026-05-24T17:36:00Z",
+  "count": 3
 }

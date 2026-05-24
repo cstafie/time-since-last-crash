@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-05-24T17:36:00Z_surrey/24th-ave_surrey/190th-st",
+    "timestamp": "2026-05-24T17:36:00Z",
+    "scrapedAt": "2026-05-24T17:46:25Z",
+    "address": "24TH AVE & 190TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/24th-ave",
+      "surrey/190th-st"
+    ],
+    "streetNames": [
+      "24th Ave",
+      "190th St"
+    ],
+    "pulsePointId": "2481446431"
+  },
+  {
+    "id": "2026-05-24T17:27:00Z_surrey/70b-ave_surrey/132nd-st",
+    "timestamp": "2026-05-24T17:27:00Z",
+    "scrapedAt": "2026-05-24T17:46:25Z",
+    "address": "70B AVE & 132ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/70b-ave",
+      "surrey/132nd-st"
+    ],
+    "streetNames": [
+      "70b Ave",
+      "132nd St"
+    ],
+    "pulsePointId": "2481440869"
+  },
+  {
+    "id": "2026-05-24T17:24:00Z_surrey/70b-ave_surrey/132nd-st",
+    "timestamp": "2026-05-24T17:24:00Z",
+    "scrapedAt": "2026-05-24T17:46:25Z",
+    "address": "70B AVE & 132ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/70b-ave",
+      "surrey/132nd-st"
+    ],
+    "streetNames": [
+      "70b Ave",
+      "132nd St"
+    ],
+    "pulsePointId": "2481441237"
+  },
+  {
     "id": "2026-05-24T17:07:00Z_mission/dyke-rd",
     "timestamp": "2026-05-24T17:07:00Z",
     "scrapedAt": "2026-05-24T17:19:44Z",
