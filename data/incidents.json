@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-24T19:05:00Z_abbotsford/emerson-st_abbotsford/bevan-ave",
+    "timestamp": "2026-05-24T19:05:00Z",
+    "scrapedAt": "2026-05-24T19:27:13Z",
+    "address": "EMERSON ST & BEVAN AVE",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/emerson-st",
+      "abbotsford/bevan-ave"
+    ],
+    "streetNames": [
+      "Emerson St",
+      "Bevan Ave"
+    ],
+    "pulsePointId": "2481496320"
+  },
+  {
     "id": "2026-05-24T18:19:00Z_delta/alex-fraser-brdg",
     "timestamp": "2026-05-24T18:19:00Z",
     "scrapedAt": "2026-05-24T18:49:58Z",
