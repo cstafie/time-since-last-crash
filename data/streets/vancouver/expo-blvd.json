@@ -1,6 +1,6 @@
 {
-  "slug": "vancouver/griffiths-way",
-  "name": "Griffiths Way",
+  "slug": "vancouver/expo-blvd",
+  "name": "Expo Blvd",
   "city": "Vancouver",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Expo Blvd"
       ],
       "pulsePointId": "2481406877"
-    },
-    {
-      "id": "2026-03-25T16:34:00Z_vancouver/griffiths-way_vancouver/pacific-blvd",
-      "timestamp": "2026-03-25T16:34:00Z",
-      "address": "GRIFFITHS WAY & PACIFIC BLVD",
-      "city": "Vancouver",
-      "streets": [
-        "vancouver/griffiths-way",
-        "vancouver/pacific-blvd"
-      ],
-      "streetNames": [
-        "Griffiths Way",
-        "Pacific Blvd"
-      ],
-      "pulsePointId": "2441189949"
     }
   ],
   "lastIncident": "2026-05-24T16:20:00Z",
-  "count": 2
+  "count": 1
 }

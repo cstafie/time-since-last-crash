@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-24T16:20:00Z_vancouver/griffiths-way_vancouver/expo-blvd",
+    "timestamp": "2026-05-24T16:20:00Z",
+    "scrapedAt": "2026-05-24T16:46:14Z",
+    "address": "GRIFFITHS WAY & EXPO BLVD",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/griffiths-way",
+      "vancouver/expo-blvd"
+    ],
+    "streetNames": [
+      "Griffiths Way",
+      "Expo Blvd"
+    ],
+    "pulsePointId": "2481406877"
+  },
+  {
     "id": "2026-05-24T10:22:00Z_langley/19780-fraser-hwy",
     "timestamp": "2026-05-24T10:22:00Z",
     "scrapedAt": "2026-05-24T10:29:20Z",
