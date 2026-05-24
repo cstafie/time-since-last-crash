@@ -1,0 +1,24 @@
+{
+  "slug": "coquitlam/bernatchey-st",
+  "name": "Bernatchey St",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-05-24T19:27:00Z_coquitlam/lougheed-hwy_coquitlam/bernatchey-st",
+      "timestamp": "2026-05-24T19:27:00Z",
+      "address": "LOUGHEED HWY & BERNATCHEY ST",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/lougheed-hwy",
+        "coquitlam/bernatchey-st"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "Bernatchey St"
+      ],
+      "pulsePointId": "2481509710"
+    }
+  ],
+  "lastIncident": "2026-05-24T19:27:00Z",
+  "count": 1
+}

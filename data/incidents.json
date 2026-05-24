@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-24T19:27:00Z_coquitlam/lougheed-hwy_coquitlam/bernatchey-st",
+    "timestamp": "2026-05-24T19:27:00Z",
+    "scrapedAt": "2026-05-24T19:52:30Z",
+    "address": "LOUGHEED HWY & BERNATCHEY ST",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/lougheed-hwy",
+      "coquitlam/bernatchey-st"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "Bernatchey St"
+    ],
+    "pulsePointId": "2481509710"
+  },
+  {
     "id": "2026-05-24T19:05:00Z_abbotsford/emerson-st_abbotsford/bevan-ave",
     "timestamp": "2026-05-24T19:05:00Z",
     "scrapedAt": "2026-05-24T19:27:13Z",

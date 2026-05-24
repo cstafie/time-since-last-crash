@@ -1116,8 +1116,8 @@
     "name": "Lougheed Hwy",
     "slug": "coquitlam/lougheed-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-05-12T17:09:00Z",
-    "count": 11
+    "lastIncident": "2026-05-24T19:27:00Z",
+    "count": 12
   },
   "coquitlam/orchid-dr": {
     "name": "Orchid Dr",
@@ -10379,5 +10379,12 @@
     "city": "Surrey",
     "lastIncident": "2026-05-24T17:27:00Z",
     "count": 2
+  },
+  "coquitlam/bernatchey-st": {
+    "name": "Bernatchey St",
+    "slug": "coquitlam/bernatchey-st",
+    "city": "Coquitlam",
+    "lastIncident": "2026-05-24T19:27:00Z",
+    "count": 1
   }
 }
