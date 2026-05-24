@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-24T22:42:00Z_abbotsford/ward-rd_abbotsford/sumas-mountain-rd",
+    "timestamp": "2026-05-24T22:42:00Z",
+    "scrapedAt": "2026-05-24T22:45:39Z",
+    "address": "WARD RD & SUMAS MOUNTAIN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/ward-rd",
+      "abbotsford/sumas-mountain-rd"
+    ],
+    "streetNames": [
+      "Ward Rd",
+      "Sumas Mountain Rd"
+    ],
+    "pulsePointId": "2481623303"
+  },
+  {
     "id": "2026-05-24T21:09:00Z_surrey/trans-canada-hwy_surrey/152nd-street-ofrp",
     "timestamp": "2026-05-24T21:09:00Z",
     "scrapedAt": "2026-05-24T21:15:59Z",

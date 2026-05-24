@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-05-24T22:42:00Z_abbotsford/ward-rd_abbotsford/sumas-mountain-rd",
+      "timestamp": "2026-05-24T22:42:00Z",
+      "address": "WARD RD & SUMAS MOUNTAIN RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/ward-rd",
+        "abbotsford/sumas-mountain-rd"
+      ],
+      "streetNames": [
+        "Ward Rd",
+        "Sumas Mountain Rd"
+      ],
+      "pulsePointId": "2481623303"
+    },
+    {
       "id": "2026-05-11T03:10:00Z_abbotsford/whelan-rd_abbotsford/sumas-mountain-rd",
       "timestamp": "2026-05-11T03:10:00Z",
       "address": "WHELAN RD & SUMAS MOUNTAIN RD",
@@ -49,6 +64,6 @@
       "pulsePointId": "2434891884"
     }
   ],
-  "lastIncident": "2026-05-11T03:10:00Z",
-  "count": 3
+  "lastIncident": "2026-05-24T22:42:00Z",
+  "count": 4
 }
