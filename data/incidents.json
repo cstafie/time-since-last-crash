@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-05-25T00:05:00Z_abbotsford/riverside-st",
+    "timestamp": "2026-05-25T00:05:00Z",
+    "scrapedAt": "2026-05-25T00:19:31Z",
+    "address": "RIVERSIDE ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/riverside-st"
+    ],
+    "streetNames": [
+      "Riverside St"
+    ],
+    "pulsePointId": "2481672308"
+  },
+  {
+    "id": "2026-05-24T23:58:00Z_richmond/westminster-hwy",
+    "timestamp": "2026-05-24T23:58:00Z",
+    "scrapedAt": "2026-05-25T00:19:31Z",
+    "address": "WESTMINSTER HWY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/westminster-hwy"
+    ],
+    "streetNames": [
+      "Westminster Hwy"
+    ],
+    "pulsePointId": "2481668237"
+  },
+  {
+    "id": "2026-05-24T23:56:00Z_vancouver/knight-st_vancouver/e-33rd-ave",
+    "timestamp": "2026-05-24T23:56:00Z",
+    "scrapedAt": "2026-05-25T00:19:31Z",
+    "address": "KNIGHT ST & E 33RD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/knight-st",
+      "vancouver/e-33rd-ave"
+    ],
+    "streetNames": [
+      "Knight St",
+      "E 33rd Ave"
+    ],
+    "pulsePointId": "2481667064"
+  },
+  {
     "id": "2026-05-24T23:12:00Z_pitt-meadows/harris-rd_pitt-meadows/mcmyn-rd",
     "timestamp": "2026-05-24T23:12:00Z",
     "scrapedAt": "2026-05-24T23:18:59Z",

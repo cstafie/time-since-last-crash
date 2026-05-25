@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-24T23:56:00Z_vancouver/knight-st_vancouver/e-33rd-ave",
+      "timestamp": "2026-05-24T23:56:00Z",
+      "address": "KNIGHT ST & E 33RD AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/knight-st",
+        "vancouver/e-33rd-ave"
+      ],
+      "streetNames": [
+        "Knight St",
+        "E 33rd Ave"
+      ],
+      "pulsePointId": "2481667064"
+    },
+    {
       "id": "2026-05-23T16:27:00Z_vancouver/victoria-dr_vancouver/e-33rd-ave",
       "timestamp": "2026-05-23T16:27:00Z",
       "address": "VICTORIA DR & E 33RD AVE",
@@ -79,6 +94,6 @@
       "pulsePointId": "2440963529"
     }
   ],
-  "lastIncident": "2026-05-23T16:27:00Z",
-  "count": 5
+  "lastIncident": "2026-05-24T23:56:00Z",
+  "count": 6
 }

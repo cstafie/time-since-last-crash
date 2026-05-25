@@ -752,8 +752,8 @@
     "name": "Knight St",
     "slug": "vancouver/knight-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-23T21:58:00Z",
-    "count": 27
+    "lastIncident": "2026-05-24T23:56:00Z",
+    "count": 28
   },
   "vancouver/lower-mall": {
     "name": "Lower Mall",
@@ -990,8 +990,8 @@
     "name": "Westminster Hwy",
     "slug": "richmond/westminster-hwy",
     "city": "Richmond",
-    "lastIncident": "2026-05-24T01:29:00Z",
-    "count": 13
+    "lastIncident": "2026-05-24T23:58:00Z",
+    "count": 14
   },
   "vancouver/e-37th-ave": {
     "name": "E 37th Ave",
@@ -1739,8 +1739,8 @@
     "name": "Riverside St",
     "slug": "abbotsford/riverside-st",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-03T15:57:00Z",
-    "count": 2
+    "lastIncident": "2026-05-25T00:05:00Z",
+    "count": 3
   },
   "abbotsford/ware-st": {
     "name": "Ware St",
@@ -3937,8 +3937,8 @@
     "name": "E 33rd Ave",
     "slug": "vancouver/e-33rd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-23T16:27:00Z",
-    "count": 5
+    "lastIncident": "2026-05-24T23:56:00Z",
+    "count": 6
   },
   "surrey/university-dr": {
     "name": "University Dr",

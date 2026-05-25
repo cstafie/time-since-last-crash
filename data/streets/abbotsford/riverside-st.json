@@ -4,6 +4,19 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-05-25T00:05:00Z_abbotsford/riverside-st",
+      "timestamp": "2026-05-25T00:05:00Z",
+      "address": "RIVERSIDE ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/riverside-st"
+      ],
+      "streetNames": [
+        "Riverside St"
+      ],
+      "pulsePointId": "2481672308"
+    },
+    {
       "id": "2026-05-03T15:57:00Z_abbotsford/riverside-st",
       "timestamp": "2026-05-03T15:57:00Z",
       "address": "RIVERSIDE ST",
@@ -30,6 +43,6 @@
       "pulsePointId": "2433206429"
     }
   ],
-  "lastIncident": "2026-05-03T15:57:00Z",
-  "count": 2
+  "lastIncident": "2026-05-25T00:05:00Z",
+  "count": 3
 }
