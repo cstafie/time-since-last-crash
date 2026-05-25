@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-25T07:12:00Z_maple-ridge/284th-st",
+    "timestamp": "2026-05-25T07:12:00Z",
+    "scrapedAt": "2026-05-25T08:28:18Z",
+    "address": "284TH ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/284th-st"
+    ],
+    "streetNames": [
+      "284th St"
+    ],
+    "pulsePointId": "2481883575"
+  },
+  {
     "id": "2026-05-25T06:37:00Z_chilliwack/margaret-ave",
     "timestamp": "2026-05-25T06:37:00Z",
     "scrapedAt": "2026-05-25T06:55:42Z",
