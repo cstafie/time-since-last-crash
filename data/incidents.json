@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-25T04:38:00Z_surrey/station-rd_surrey/125a-st",
+    "timestamp": "2026-05-25T04:38:00Z",
+    "scrapedAt": "2026-05-25T05:27:42Z",
+    "address": "STATION RD & 125A ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/station-rd",
+      "surrey/125a-st"
+    ],
+    "streetNames": [
+      "Station Rd",
+      "125a St"
+    ],
+    "pulsePointId": "2481821909"
+  },
+  {
     "id": "2026-05-25T02:26:00Z_surrey/68th-ave",
     "timestamp": "2026-05-25T02:26:00Z",
     "scrapedAt": "2026-05-25T03:44:02Z",
