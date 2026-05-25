@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-25T06:37:00Z_chilliwack/margaret-ave",
+    "timestamp": "2026-05-25T06:37:00Z",
+    "scrapedAt": "2026-05-25T06:55:42Z",
+    "address": "MARGARET AVE",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/margaret-ave"
+    ],
+    "streetNames": [
+      "Margaret Ave"
+    ],
+    "pulsePointId": "2481871708"
+  },
+  {
     "id": "2026-05-25T04:38:00Z_surrey/station-rd_surrey/125a-st",
     "timestamp": "2026-05-25T04:38:00Z",
     "scrapedAt": "2026-05-25T05:27:42Z",
