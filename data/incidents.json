@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-25T19:39:00Z_surrey/68th-ave",
+    "timestamp": "2026-05-25T19:39:00Z",
+    "scrapedAt": "2026-05-25T20:26:43Z",
+    "address": "68TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/68th-ave"
+    ],
+    "streetNames": [
+      "68th Ave"
+    ],
+    "pulsePointId": "2482185680"
+  },
+  {
     "id": "2026-05-25T19:06:00Z_surrey/128th-st_surrey/prince-charles-blvd",
     "timestamp": "2026-05-25T19:06:00Z",
     "scrapedAt": "2026-05-25T19:37:10Z",
