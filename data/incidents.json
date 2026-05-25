@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-25T02:26:00Z_surrey/68th-ave",
+    "timestamp": "2026-05-25T02:26:00Z",
+    "scrapedAt": "2026-05-25T03:44:02Z",
+    "address": "68TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/68th-ave"
+    ],
+    "streetNames": [
+      "68th Ave"
+    ],
+    "pulsePointId": "2481751547"
+  },
+  {
     "id": "2026-05-25T00:32:00Z_abbotsford/sumas-way",
     "timestamp": "2026-05-25T00:32:00Z",
     "scrapedAt": "2026-05-25T01:25:05Z",
