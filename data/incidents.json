@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-25T19:06:00Z_surrey/128th-st_surrey/prince-charles-blvd",
+    "timestamp": "2026-05-25T19:06:00Z",
+    "scrapedAt": "2026-05-25T19:37:10Z",
+    "address": "128TH ST & PRINCE CHARLES BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/128th-st",
+      "surrey/prince-charles-blvd"
+    ],
+    "streetNames": [
+      "128th St",
+      "Prince Charles Blvd"
+    ],
+    "pulsePointId": "2482163923"
+  },
+  {
+    "id": "2026-05-25T19:01:00Z_vancouver/knight-st_vancouver/e-63rd-ave",
+    "timestamp": "2026-05-25T19:01:00Z",
+    "scrapedAt": "2026-05-25T19:37:10Z",
+    "address": "KNIGHT ST & E 63RD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/knight-st",
+      "vancouver/e-63rd-ave"
+    ],
+    "streetNames": [
+      "Knight St",
+      "E 63rd Ave"
+    ],
+    "pulsePointId": "2482161348"
+  },
+  {
     "id": "2026-05-25T17:39:00Z_vancouver/w-59th-ave_vancouver/oak-st",
     "timestamp": "2026-05-25T17:39:00Z",
     "scrapedAt": "2026-05-25T18:02:32Z",

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-25T19:01:00Z_vancouver/knight-st_vancouver/e-63rd-ave",
+      "timestamp": "2026-05-25T19:01:00Z",
+      "address": "KNIGHT ST & E 63RD AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/knight-st",
+        "vancouver/e-63rd-ave"
+      ],
+      "streetNames": [
+        "Knight St",
+        "E 63rd Ave"
+      ],
+      "pulsePointId": "2482161348"
+    },
+    {
       "id": "2026-05-24T23:56:00Z_vancouver/knight-st_vancouver/e-33rd-ave",
       "timestamp": "2026-05-24T23:56:00Z",
       "address": "KNIGHT ST & E 33RD AVE",
@@ -417,6 +432,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-24T23:56:00Z",
-  "count": 28
+  "lastIncident": "2026-05-25T19:01:00Z",
+  "count": 29
 }

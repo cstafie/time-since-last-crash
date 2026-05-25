@@ -535,8 +535,8 @@
     "name": "128th St",
     "slug": "surrey/128th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-20T22:16:00Z",
-    "count": 21
+    "lastIncident": "2026-05-25T19:06:00Z",
+    "count": 22
   },
   "surrey/130b-st": {
     "name": "130b St",
@@ -675,8 +675,8 @@
     "name": "Prince Charles Blvd",
     "slug": "surrey/prince-charles-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-03-08T09:47:00Z",
-    "count": 1
+    "lastIncident": "2026-05-25T19:06:00Z",
+    "count": 2
   },
   "surrey/trans-canada-hwy": {
     "name": "Trans Canada Hwy",
@@ -752,8 +752,8 @@
     "name": "Knight St",
     "slug": "vancouver/knight-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-24T23:56:00Z",
-    "count": 28
+    "lastIncident": "2026-05-25T19:01:00Z",
+    "count": 29
   },
   "vancouver/lower-mall": {
     "name": "Lower Mall",
@@ -2236,8 +2236,8 @@
     "name": "E 63rd Ave",
     "slug": "vancouver/e-63rd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-24T05:02:00Z",
-    "count": 3
+    "lastIncident": "2026-05-25T19:01:00Z",
+    "count": 4
   },
   "port-coquitlam/lougheed-hwy": {
     "name": "Lougheed Hwy",
