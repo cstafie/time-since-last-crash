@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/birch-st",
+  "name": "Birch St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-25T17:07:00Z_vancouver/birch-st_vancouver/w-12th-ave",
+      "timestamp": "2026-05-25T17:07:00Z",
+      "address": "BIRCH ST & W 12TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/birch-st",
+        "vancouver/w-12th-ave"
+      ],
+      "streetNames": [
+        "Birch St",
+        "W 12th Ave"
+      ],
+      "pulsePointId": "2482092301"
+    }
+  ],
+  "lastIncident": "2026-05-25T17:07:00Z",
+  "count": 1
+}

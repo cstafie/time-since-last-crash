@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-05-25T17:07:00Z_vancouver/birch-st_vancouver/w-12th-ave",
+    "timestamp": "2026-05-25T17:07:00Z",
+    "scrapedAt": "2026-05-25T17:11:53Z",
+    "address": "BIRCH ST & W 12TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/birch-st",
+      "vancouver/w-12th-ave"
+    ],
+    "streetNames": [
+      "Birch St",
+      "W 12th Ave"
+    ],
+    "pulsePointId": "2482092301"
+  },
+  {
+    "id": "2026-05-25T16:32:00Z_burnaby/3701-lougheed-hwy",
+    "timestamp": "2026-05-25T16:32:00Z",
+    "scrapedAt": "2026-05-25T17:11:53Z",
+    "address": "3701 LOUGHEED HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/3701-lougheed-hwy"
+    ],
+    "streetNames": [
+      "3701 Lougheed Hwy"
+    ],
+    "pulsePointId": "2482074715"
+  },
+  {
+    "id": "2026-05-25T16:29:00Z_langley/62nd-ave_langley/200th-st",
+    "timestamp": "2026-05-25T16:29:00Z",
+    "scrapedAt": "2026-05-25T17:11:53Z",
+    "address": "62ND AVE & 200TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/62nd-ave",
+      "langley/200th-st"
+    ],
+    "streetNames": [
+      "62nd Ave",
+      "200th St"
+    ],
+    "pulsePointId": "2482073183"
+  },
+  {
     "id": "2026-05-25T15:12:00Z_coquitlam/trans-canada-hwy_coquitlam/brunette-avenue-onrp",
     "timestamp": "2026-05-25T15:12:00Z",
     "scrapedAt": "2026-05-25T16:15:27Z",
