@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-05-25T23:11:00Z_langley/82nd-ave_langley/200th-st",
+    "timestamp": "2026-05-25T23:11:00Z",
+    "scrapedAt": "2026-05-25T23:21:35Z",
+    "address": "82ND AVE & 200TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/82nd-ave",
+      "langley/200th-st"
+    ],
+    "streetNames": [
+      "82nd Ave",
+      "200th St"
+    ],
+    "pulsePointId": "2482312982"
+  },
+  {
+    "id": "2026-05-25T23:03:00Z_abbotsford/harris-rd",
+    "timestamp": "2026-05-25T23:03:00Z",
+    "scrapedAt": "2026-05-25T23:21:35Z",
+    "address": "HARRIS RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/harris-rd"
+    ],
+    "streetNames": [
+      "Harris Rd"
+    ],
+    "pulsePointId": "2482308456"
+  },
+  {
+    "id": "2026-05-25T23:02:00Z_abbotsford/harris-rd",
+    "timestamp": "2026-05-25T23:02:00Z",
+    "scrapedAt": "2026-05-25T23:21:35Z",
+    "address": "HARRIS RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/harris-rd"
+    ],
+    "streetNames": [
+      "Harris Rd"
+    ],
+    "pulsePointId": "2482308165"
+  },
+  {
     "id": "2026-05-25T22:41:00Z_surrey/144th-st_surrey/105a-ave",
     "timestamp": "2026-05-25T22:41:00Z",
     "scrapedAt": "2026-05-25T22:46:58Z",
