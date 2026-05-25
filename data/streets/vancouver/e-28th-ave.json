@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-25T17:20:00Z_vancouver/fraser-st_vancouver/e-28th-ave",
+      "timestamp": "2026-05-25T17:20:00Z",
+      "address": "FRASER ST & E 28TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/fraser-st",
+        "vancouver/e-28th-ave"
+      ],
+      "streetNames": [
+        "Fraser St",
+        "E 28th Ave"
+      ],
+      "pulsePointId": "2482100628"
+    },
+    {
       "id": "2026-03-22T19:01:00Z_vancouver/e-28th-ave_vancouver/fraser-st",
       "timestamp": "2026-03-22T19:01:00Z",
       "address": "E 28TH AVE & FRASER ST",
@@ -31,6 +46,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-22T19:01:00Z",
-  "count": 2
+  "lastIncident": "2026-05-25T17:20:00Z",
+  "count": 3
 }

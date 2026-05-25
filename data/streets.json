@@ -766,8 +766,8 @@
     "name": "Oak St",
     "slug": "vancouver/oak-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-23T23:49:00Z",
-    "count": 28
+    "lastIncident": "2026-05-25T17:39:00Z",
+    "count": 29
   },
   "vancouver/w-12th-ave": {
     "name": "W 12th Ave",
@@ -1039,8 +1039,8 @@
     "name": "E 28th Ave",
     "slug": "vancouver/e-28th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-03-22T19:01:00Z",
-    "count": 2
+    "lastIncident": "2026-05-25T17:20:00Z",
+    "count": 3
   },
   "langley/88th-ave": {
     "name": "88th Ave",
@@ -2775,8 +2775,8 @@
     "name": "North Fraser Way",
     "slug": "burnaby/north-fraser-way",
     "city": "Burnaby",
-    "lastIncident": "2026-04-04T07:19:00Z",
-    "count": 3
+    "lastIncident": "2026-05-25T17:29:00Z",
+    "count": 4
   },
   "burnaby/boundary-rd": {
     "name": "Boundary Rd",
@@ -3258,8 +3258,8 @@
     "name": "Fraser St",
     "slug": "vancouver/fraser-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-16T19:55:00Z",
-    "count": 7
+    "lastIncident": "2026-05-25T17:20:00Z",
+    "count": 8
   },
   "abbotsford/32470-simon-ave": {
     "name": "32470 Simon Ave",
@@ -10427,6 +10427,13 @@
     "slug": "burnaby/3701-lougheed-hwy",
     "city": "Burnaby",
     "lastIncident": "2026-05-25T16:32:00Z",
+    "count": 1
+  },
+  "vancouver/w-59th-ave": {
+    "name": "W 59th Ave",
+    "slug": "vancouver/w-59th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-25T17:39:00Z",
     "count": 1
   }
 }

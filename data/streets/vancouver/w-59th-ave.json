@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/w-59th-ave",
+  "name": "W 59th Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-25T17:39:00Z_vancouver/w-59th-ave_vancouver/oak-st",
+      "timestamp": "2026-05-25T17:39:00Z",
+      "address": "W 59TH AVE & OAK ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-59th-ave",
+        "vancouver/oak-st"
+      ],
+      "streetNames": [
+        "W 59th Ave",
+        "Oak St"
+      ],
+      "pulsePointId": "2482110341"
+    }
+  ],
+  "lastIncident": "2026-05-25T17:39:00Z",
+  "count": 1
+}
