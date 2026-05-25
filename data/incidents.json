@@ -1,5 +1,85 @@
 [
   {
+    "id": "2026-05-25T22:41:00Z_surrey/144th-st_surrey/105a-ave",
+    "timestamp": "2026-05-25T22:41:00Z",
+    "scrapedAt": "2026-05-25T22:46:58Z",
+    "address": "144TH ST & 105A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/144th-st",
+      "surrey/105a-ave"
+    ],
+    "streetNames": [
+      "144th St",
+      "105a Ave"
+    ],
+    "pulsePointId": "2482294328"
+  },
+  {
+    "id": "2026-05-25T22:41:00Z_vancouver/e-cordova-st_vancouver/dunlevy-ave",
+    "timestamp": "2026-05-25T22:41:00Z",
+    "scrapedAt": "2026-05-25T22:46:58Z",
+    "address": "E CORDOVA ST & DUNLEVY AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-cordova-st",
+      "vancouver/dunlevy-ave"
+    ],
+    "streetNames": [
+      "E Cordova St",
+      "Dunlevy Ave"
+    ],
+    "pulsePointId": "2482294014"
+  },
+  {
+    "id": "2026-05-25T22:30:00Z_delta/120th-st_delta/96th-ave",
+    "timestamp": "2026-05-25T22:30:00Z",
+    "scrapedAt": "2026-05-25T22:46:58Z",
+    "address": "120TH ST & 96TH AVE",
+    "city": "Delta",
+    "streets": [
+      "delta/120th-st",
+      "delta/96th-ave"
+    ],
+    "streetNames": [
+      "120th St",
+      "96th Ave"
+    ],
+    "pulsePointId": "2482287561"
+  },
+  {
+    "id": "2026-05-25T22:30:00Z_surrey/96th-ave_surrey/120th-st",
+    "timestamp": "2026-05-25T22:30:00Z",
+    "scrapedAt": "2026-05-25T22:46:58Z",
+    "address": "96TH AVE & 120TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/96th-ave",
+      "surrey/120th-st"
+    ],
+    "streetNames": [
+      "96th Ave",
+      "120th St"
+    ],
+    "pulsePointId": "2482289300"
+  },
+  {
+    "id": "2026-05-25T22:28:00Z_delta/sunwood-dr_delta/64th-ave",
+    "timestamp": "2026-05-25T22:28:00Z",
+    "scrapedAt": "2026-05-25T22:46:58Z",
+    "address": "SUNWOOD DR & 64TH AVE",
+    "city": "Delta",
+    "streets": [
+      "delta/sunwood-dr",
+      "delta/64th-ave"
+    ],
+    "streetNames": [
+      "Sunwood Dr",
+      "64th Ave"
+    ],
+    "pulsePointId": "2482287671"
+  },
+  {
     "id": "2026-05-25T22:12:00Z_abbotsford/south-fraser-way_abbotsford/bourquin-cres-e",
     "timestamp": "2026-05-25T22:12:00Z",
     "scrapedAt": "2026-05-25T22:19:36Z",

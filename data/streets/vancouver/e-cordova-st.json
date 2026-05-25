@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-25T22:41:00Z_vancouver/e-cordova-st_vancouver/dunlevy-ave",
+      "timestamp": "2026-05-25T22:41:00Z",
+      "address": "E CORDOVA ST & DUNLEVY AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-cordova-st",
+        "vancouver/dunlevy-ave"
+      ],
+      "streetNames": [
+        "E Cordova St",
+        "Dunlevy Ave"
+      ],
+      "pulsePointId": "2482294014"
+    },
+    {
       "id": "2026-05-23T23:47:00Z_vancouver/e-cordova-st",
       "timestamp": "2026-05-23T23:47:00Z",
       "address": "E CORDOVA ST",
@@ -75,6 +90,6 @@
       "pulsePointId": "2441206189"
     }
   ],
-  "lastIncident": "2026-05-23T23:47:00Z",
-  "count": 5
+  "lastIncident": "2026-05-25T22:41:00Z",
+  "count": 6
 }

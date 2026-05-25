@@ -647,8 +647,8 @@
     "name": "96th Ave",
     "slug": "surrey/96th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-21T01:30:00Z",
-    "count": 24
+    "lastIncident": "2026-05-25T22:30:00Z",
+    "count": 25
   },
   "surrey/bolivar-rd": {
     "name": "Bolivar Rd",
@@ -871,8 +871,8 @@
     "name": "120th St",
     "slug": "delta/120th-st",
     "city": "Delta",
-    "lastIncident": "2026-05-23T02:56:00Z",
-    "count": 20
+    "lastIncident": "2026-05-25T22:30:00Z",
+    "count": 21
   },
   "delta/roberts-bank-rd": {
     "name": "Roberts Bank Rd",
@@ -1298,8 +1298,8 @@
     "name": "120th St",
     "slug": "surrey/120th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-22T09:57:00Z",
-    "count": 6
+    "lastIncident": "2026-05-25T22:30:00Z",
+    "count": 7
   },
   "delta/72nd-st": {
     "name": "72nd St",
@@ -1410,8 +1410,8 @@
     "name": "64th Ave",
     "slug": "delta/64th-ave",
     "city": "Delta",
-    "lastIncident": "2026-04-14T20:08:00Z",
-    "count": 5
+    "lastIncident": "2026-05-25T22:28:00Z",
+    "count": 6
   },
   "new-westminster/6th-st": {
     "name": "6th St",
@@ -1501,8 +1501,8 @@
     "name": "144th St",
     "slug": "surrey/144th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-20T14:51:00Z",
-    "count": 20
+    "lastIncident": "2026-05-25T22:41:00Z",
+    "count": 21
   },
   "north-vancouver/seymour-blvd": {
     "name": "Seymour Blvd",
@@ -3972,8 +3972,8 @@
     "name": "E Cordova St",
     "slug": "vancouver/e-cordova-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-23T23:47:00Z",
-    "count": 5
+    "lastIncident": "2026-05-25T22:41:00Z",
+    "count": 6
   },
   "vancouver/gore-ave": {
     "name": "Gore Ave",
@@ -4756,8 +4756,8 @@
     "name": "Dunlevy Ave",
     "slug": "vancouver/dunlevy-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-13T06:00:00Z",
-    "count": 3
+    "lastIncident": "2026-05-25T22:41:00Z",
+    "count": 4
   },
   "abbotsford/seldon-rd": {
     "name": "Seldon Rd",
@@ -6632,8 +6632,8 @@
     "name": "105a Ave",
     "slug": "surrey/105a-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-23T02:23:00Z",
-    "count": 2
+    "lastIncident": "2026-05-25T22:41:00Z",
+    "count": 3
   },
   "abbotsford/station-rd": {
     "name": "Station Rd",
@@ -10462,6 +10462,20 @@
     "slug": "port-coquitlam/thames-cres",
     "city": "Port Coquitlam",
     "lastIncident": "2026-05-25T21:34:00Z",
+    "count": 1
+  },
+  "delta/96th-ave": {
+    "name": "96th Ave",
+    "slug": "delta/96th-ave",
+    "city": "Delta",
+    "lastIncident": "2026-05-25T22:30:00Z",
+    "count": 1
+  },
+  "delta/sunwood-dr": {
+    "name": "Sunwood Dr",
+    "slug": "delta/sunwood-dr",
+    "city": "Delta",
+    "lastIncident": "2026-05-25T22:28:00Z",
     "count": 1
   }
 }
