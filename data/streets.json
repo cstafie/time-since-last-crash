@@ -829,8 +829,8 @@
     "name": "Lougheed Hwy",
     "slug": "pitt-meadows/lougheed-hwy",
     "city": "Pitt Meadows",
-    "lastIncident": "2026-05-23T08:06:00Z",
-    "count": 6
+    "lastIncident": "2026-05-25T21:23:00Z",
+    "count": 7
   },
   "langley/240th-st": {
     "name": "240th St",
@@ -1074,8 +1074,8 @@
     "name": "Mariner Way",
     "slug": "coquitlam/mariner-way",
     "city": "Coquitlam",
-    "lastIncident": "2026-04-22T04:33:00Z",
-    "count": 3
+    "lastIncident": "2026-05-25T21:37:00Z",
+    "count": 4
   },
   "richmond/no-1-rd": {
     "name": "No 1 Rd",
@@ -2796,8 +2796,8 @@
     "name": "Austin Ave",
     "slug": "coquitlam/austin-ave",
     "city": "Coquitlam",
-    "lastIncident": "2026-05-21T16:24:00Z",
-    "count": 5
+    "lastIncident": "2026-05-25T21:37:00Z",
+    "count": 6
   },
   "vancouver/larch-st": {
     "name": "Larch St",
@@ -10441,6 +10441,27 @@
     "slug": "abbotsford/mason-st",
     "city": "Abbotsford",
     "lastIncident": "2026-05-25T20:36:00Z",
+    "count": 1
+  },
+  "coquitlam/2662-austin-ave": {
+    "name": "2662 Austin Ave",
+    "slug": "coquitlam/2662-austin-ave",
+    "city": "Coquitlam",
+    "lastIncident": "2026-05-25T21:34:00Z",
+    "count": 1
+  },
+  "port-coquitlam/riverwood-gt": {
+    "name": "Riverwood Gt",
+    "slug": "port-coquitlam/riverwood-gt",
+    "city": "Port Coquitlam",
+    "lastIncident": "2026-05-25T21:34:00Z",
+    "count": 1
+  },
+  "port-coquitlam/thames-cres": {
+    "name": "Thames Cres",
+    "slug": "port-coquitlam/thames-cres",
+    "city": "Port Coquitlam",
+    "lastIncident": "2026-05-25T21:34:00Z",
     "count": 1
   }
 }

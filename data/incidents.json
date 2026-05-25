@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-05-25T21:37:00Z_coquitlam/austin-ave_coquitlam/mariner-way",
+    "timestamp": "2026-05-25T21:37:00Z",
+    "scrapedAt": "2026-05-25T21:51:39Z",
+    "address": "AUSTIN AVE & MARINER WAY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/austin-ave",
+      "coquitlam/mariner-way"
+    ],
+    "streetNames": [
+      "Austin Ave",
+      "Mariner Way"
+    ],
+    "pulsePointId": "2482256197"
+  },
+  {
+    "id": "2026-05-25T21:34:00Z_coquitlam/2662-austin-ave",
+    "timestamp": "2026-05-25T21:34:00Z",
+    "scrapedAt": "2026-05-25T21:51:39Z",
+    "address": "2662 AUSTIN AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/2662-austin-ave"
+    ],
+    "streetNames": [
+      "2662 Austin Ave"
+    ],
+    "pulsePointId": "2482255092"
+  },
+  {
+    "id": "2026-05-25T21:34:00Z_port-coquitlam/riverwood-gt_port-coquitlam/thames-cres",
+    "timestamp": "2026-05-25T21:34:00Z",
+    "scrapedAt": "2026-05-25T21:51:39Z",
+    "address": "RIVERWOOD GT & THAMES CRES",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/riverwood-gt",
+      "port-coquitlam/thames-cres"
+    ],
+    "streetNames": [
+      "Riverwood Gt",
+      "Thames Cres"
+    ],
+    "pulsePointId": "2482255345"
+  },
+  {
+    "id": "2026-05-25T21:23:00Z_pitt-meadows/lougheed-hwy",
+    "timestamp": "2026-05-25T21:23:00Z",
+    "scrapedAt": "2026-05-25T21:51:39Z",
+    "address": "LOUGHEED HWY",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2482249085"
+  },
+  {
     "id": "2026-05-25T20:50:00Z_richmond/hazelbridge-way_richmond/sweet-ave",
     "timestamp": "2026-05-25T20:50:00Z",
     "scrapedAt": "2026-05-25T21:22:45Z",

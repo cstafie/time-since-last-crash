@@ -1,0 +1,22 @@
+{
+  "slug": "coquitlam/2662-austin-ave",
+  "name": "2662 Austin Ave",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-05-25T21:34:00Z_coquitlam/2662-austin-ave",
+      "timestamp": "2026-05-25T21:34:00Z",
+      "address": "2662 AUSTIN AVE",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/2662-austin-ave"
+      ],
+      "streetNames": [
+        "2662 Austin Ave"
+      ],
+      "pulsePointId": "2482255092"
+    }
+  ],
+  "lastIncident": "2026-05-25T21:34:00Z",
+  "count": 1
+}
