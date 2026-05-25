@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-05-25T00:32:00Z_abbotsford/sumas-way",
+    "timestamp": "2026-05-25T00:32:00Z",
+    "scrapedAt": "2026-05-25T01:25:05Z",
+    "address": "SUMAS WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/sumas-way"
+    ],
+    "streetNames": [
+      "Sumas Way"
+    ],
+    "pulsePointId": "2481687429"
+  },
+  {
+    "id": "2026-05-25T00:24:00Z_surrey/hwy-99",
+    "timestamp": "2026-05-25T00:24:00Z",
+    "scrapedAt": "2026-05-25T01:25:05Z",
+    "address": "HWY 99",
+    "city": "Surrey",
+    "streets": [
+      "surrey/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2481682860"
+  },
+  {
     "id": "2026-05-25T00:05:00Z_abbotsford/riverside-st",
     "timestamp": "2026-05-25T00:05:00Z",
     "scrapedAt": "2026-05-25T00:19:31Z",

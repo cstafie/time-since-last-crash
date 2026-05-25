@@ -3608,8 +3608,8 @@
     "name": "Sumas Way",
     "slug": "abbotsford/sumas-way",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-22T20:44:00Z",
-    "count": 8
+    "lastIncident": "2026-05-25T00:32:00Z",
+    "count": 9
   },
   "burnaby/marlborough-ave": {
     "name": "Marlborough Ave",
@@ -4238,8 +4238,8 @@
     "name": "Hwy 99",
     "slug": "surrey/hwy-99",
     "city": "Surrey",
-    "lastIncident": "2026-05-22T01:26:00Z",
-    "count": 4
+    "lastIncident": "2026-05-25T00:24:00Z",
+    "count": 5
   },
   "surrey/golden-ears-conn": {
     "name": "Golden Ears Conn",
