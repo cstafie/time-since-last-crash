@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-25T23:24:00Z_vancouver/parker-st_vancouver/boundary-rd",
+      "timestamp": "2026-05-25T23:24:00Z",
+      "address": "PARKER ST & BOUNDARY RD",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/parker-st",
+        "vancouver/boundary-rd"
+      ],
+      "streetNames": [
+        "Parker St",
+        "Boundary Rd"
+      ],
+      "pulsePointId": "2482320844"
+    },
+    {
       "id": "2026-05-13T19:04:00Z_vancouver/boundary-rd_vancouver/normandy-dr",
       "timestamp": "2026-05-13T19:04:00Z",
       "address": "BOUNDARY RD & NORMANDY DR",
@@ -224,6 +239,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-13T19:04:00Z",
-  "count": 15
+  "lastIncident": "2026-05-25T23:24:00Z",
+  "count": 16
 }

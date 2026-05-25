@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/w-kent-ave-n",
+  "name": "W Kent Ave N",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-25T23:43:00Z_vancouver/w-kent-ave-n_vancouver/cambie-st",
+      "timestamp": "2026-05-25T23:43:00Z",
+      "address": "W KENT AVE N & CAMBIE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-kent-ave-n",
+        "vancouver/cambie-st"
+      ],
+      "streetNames": [
+        "W Kent Ave N",
+        "Cambie St"
+      ],
+      "pulsePointId": "2482333408"
+    }
+  ],
+  "lastIncident": "2026-05-25T23:43:00Z",
+  "count": 1
+}

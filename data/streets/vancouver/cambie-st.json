@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-25T23:43:00Z_vancouver/w-kent-ave-n_vancouver/cambie-st",
+      "timestamp": "2026-05-25T23:43:00Z",
+      "address": "W KENT AVE N & CAMBIE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-kent-ave-n",
+        "vancouver/cambie-st"
+      ],
+      "streetNames": [
+        "W Kent Ave N",
+        "Cambie St"
+      ],
+      "pulsePointId": "2482333408"
+    },
+    {
       "id": "2026-05-12T22:32:00Z_vancouver/w-31st-ave_vancouver/cambie-st",
       "timestamp": "2026-05-12T22:32:00Z",
       "address": "W 31ST AVE & CAMBIE ST",
@@ -152,6 +167,6 @@
       "pulsePointId": "2435569506"
     }
   ],
-  "lastIncident": "2026-05-12T22:32:00Z",
-  "count": 10
+  "lastIncident": "2026-05-25T23:43:00Z",
+  "count": 11
 }

@@ -1,5 +1,99 @@
 [
   {
+    "id": "2026-05-25T23:43:00Z_vancouver/w-kent-ave-n_vancouver/cambie-st",
+    "timestamp": "2026-05-25T23:43:00Z",
+    "scrapedAt": "2026-05-25T23:49:08Z",
+    "address": "W KENT AVE N & CAMBIE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-kent-ave-n",
+      "vancouver/cambie-st"
+    ],
+    "streetNames": [
+      "W Kent Ave N",
+      "Cambie St"
+    ],
+    "pulsePointId": "2482333408"
+  },
+  {
+    "id": "2026-05-25T23:39:00Z_abbotsford/riverside-rd",
+    "timestamp": "2026-05-25T23:39:00Z",
+    "scrapedAt": "2026-05-25T23:49:08Z",
+    "address": "RIVERSIDE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/riverside-rd"
+    ],
+    "streetNames": [
+      "Riverside Rd"
+    ],
+    "pulsePointId": "2482330711"
+  },
+  {
+    "id": "2026-05-25T23:33:00Z_abbotsford/charlotte-ave_abbotsford/clearbrook-rd",
+    "timestamp": "2026-05-25T23:33:00Z",
+    "scrapedAt": "2026-05-25T23:49:08Z",
+    "address": "CHARLOTTE AVE & CLEARBROOK RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/charlotte-ave",
+      "abbotsford/clearbrook-rd"
+    ],
+    "streetNames": [
+      "Charlotte Ave",
+      "Clearbrook Rd"
+    ],
+    "pulsePointId": "2482326635"
+  },
+  {
+    "id": "2026-05-25T23:28:00Z_vancouver/e-broadway_vancouver/clark-dr",
+    "timestamp": "2026-05-25T23:28:00Z",
+    "scrapedAt": "2026-05-25T23:49:08Z",
+    "address": "E BROADWAY & CLARK DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-broadway",
+      "vancouver/clark-dr"
+    ],
+    "streetNames": [
+      "E Broadway",
+      "Clark Dr"
+    ],
+    "pulsePointId": "2482323088"
+  },
+  {
+    "id": "2026-05-25T23:27:00Z_surrey/164th-st_surrey/24th-ave",
+    "timestamp": "2026-05-25T23:27:00Z",
+    "scrapedAt": "2026-05-25T23:49:08Z",
+    "address": "164TH ST & 24TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/164th-st",
+      "surrey/24th-ave"
+    ],
+    "streetNames": [
+      "164th St",
+      "24th Ave"
+    ],
+    "pulsePointId": "2482322163"
+  },
+  {
+    "id": "2026-05-25T23:24:00Z_vancouver/parker-st_vancouver/boundary-rd",
+    "timestamp": "2026-05-25T23:24:00Z",
+    "scrapedAt": "2026-05-25T23:49:08Z",
+    "address": "PARKER ST & BOUNDARY RD",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/parker-st",
+      "vancouver/boundary-rd"
+    ],
+    "streetNames": [
+      "Parker St",
+      "Boundary Rd"
+    ],
+    "pulsePointId": "2482320844"
+  },
+  {
     "id": "2026-05-25T23:11:00Z_langley/82nd-ave_langley/200th-st",
     "timestamp": "2026-05-25T23:11:00Z",
     "scrapedAt": "2026-05-25T23:21:35Z",
