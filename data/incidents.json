@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-25T13:15:00Z_langley/80th-ave_langley/202a-st",
+    "timestamp": "2026-05-25T13:15:00Z",
+    "scrapedAt": "2026-05-25T13:59:44Z",
+    "address": "80TH AVE & 202A ST",
+    "city": "Langley",
+    "streets": [
+      "langley/80th-ave",
+      "langley/202a-st"
+    ],
+    "streetNames": [
+      "80th Ave",
+      "202a St"
+    ],
+    "pulsePointId": "2481989587"
+  },
+  {
     "id": "2026-05-25T07:12:00Z_maple-ridge/284th-st",
     "timestamp": "2026-05-25T07:12:00Z",
     "scrapedAt": "2026-05-25T08:28:18Z",
