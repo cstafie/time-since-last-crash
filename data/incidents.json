@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-25T20:36:00Z_abbotsford/marshall-rd_abbotsford/mason-st",
+    "timestamp": "2026-05-25T20:36:00Z",
+    "scrapedAt": "2026-05-25T20:52:38Z",
+    "address": "MARSHALL RD & MASON ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/marshall-rd",
+      "abbotsford/mason-st"
+    ],
+    "streetNames": [
+      "Marshall Rd",
+      "Mason St"
+    ],
+    "pulsePointId": "2482220580"
+  },
+  {
+    "id": "2026-05-25T20:30:00Z_vancouver/nanaimo-st_vancouver/e-12th-ave",
+    "timestamp": "2026-05-25T20:30:00Z",
+    "scrapedAt": "2026-05-25T20:52:38Z",
+    "address": "NANAIMO ST & E 12TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/nanaimo-st",
+      "vancouver/e-12th-ave"
+    ],
+    "streetNames": [
+      "Nanaimo St",
+      "E 12th Ave"
+    ],
+    "pulsePointId": "2482215998"
+  },
+  {
     "id": "2026-05-25T19:39:00Z_surrey/68th-ave",
     "timestamp": "2026-05-25T19:39:00Z",
     "scrapedAt": "2026-05-25T20:26:43Z",
