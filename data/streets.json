@@ -1256,8 +1256,8 @@
     "name": "E 1st Ave",
     "slug": "vancouver/e-1st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-23T20:26:00Z",
-    "count": 8
+    "lastIncident": "2026-05-26T02:25:00Z",
+    "count": 9
   },
   "vancouver/boundary-rd": {
     "name": "Boundary Rd",
@@ -3076,8 +3076,8 @@
     "name": "Victoria Dr",
     "slug": "vancouver/victoria-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-05-23T22:00:00Z",
-    "count": 14
+    "lastIncident": "2026-05-26T02:25:00Z",
+    "count": 15
   },
   "vancouver/e-60th-ave": {
     "name": "E 60th Ave",
@@ -5113,8 +5113,8 @@
     "name": "Trans Canada Hwy",
     "slug": "north-vancouver/trans-canada-hwy",
     "city": "North Vancouver",
-    "lastIncident": "2026-05-20T22:22:00Z",
-    "count": 11
+    "lastIncident": "2026-05-26T03:26:00Z",
+    "count": 12
   },
   "chilliwack/topaz-dr": {
     "name": "Topaz Dr",

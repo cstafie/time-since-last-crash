@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-26T02:25:00Z_vancouver/victoria-dr_vancouver/e-1st-ave",
+      "timestamp": "2026-05-26T02:25:00Z",
+      "address": "VICTORIA DR & E 1ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/victoria-dr",
+        "vancouver/e-1st-ave"
+      ],
+      "streetNames": [
+        "Victoria Dr",
+        "E 1st Ave"
+      ],
+      "pulsePointId": "2482425789"
+    },
+    {
       "id": "2026-05-23T20:26:00Z_vancouver/renfrew-st_vancouver/e-1st-ave",
       "timestamp": "2026-05-23T20:26:00Z",
       "address": "RENFREW ST & E 1ST AVE",
@@ -121,6 +136,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-23T20:26:00Z",
-  "count": 8
+  "lastIncident": "2026-05-26T02:25:00Z",
+  "count": 9
 }

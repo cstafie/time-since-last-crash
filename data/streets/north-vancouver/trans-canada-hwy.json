@@ -4,6 +4,19 @@
   "city": "North Vancouver",
   "incidents": [
     {
+      "id": "2026-05-26T03:26:00Z_north-vancouver/trans-canada-hwy",
+      "timestamp": "2026-05-26T03:26:00Z",
+      "address": "TRANS CANADA HWY",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2482458691"
+    },
+    {
       "id": "2026-05-20T22:22:00Z_north-vancouver/trans-canada-hwy",
       "timestamp": "2026-05-20T22:22:00Z",
       "address": "TRANS CANADA HWY",
@@ -149,6 +162,6 @@
       "pulsePointId": "2446681723"
     }
   ],
-  "lastIncident": "2026-05-20T22:22:00Z",
-  "count": 11
+  "lastIncident": "2026-05-26T03:26:00Z",
+  "count": 12
 }
