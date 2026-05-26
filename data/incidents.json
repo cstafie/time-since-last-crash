@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-26T13:52:00Z_surrey/105th-ave_surrey/king-george-blvd",
+    "timestamp": "2026-05-26T13:52:00Z",
+    "scrapedAt": "2026-05-26T14:25:44Z",
+    "address": "105TH AVE & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/105th-ave",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "105th Ave",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2482662196"
+  },
+  {
     "id": "2026-05-26T06:23:00Z_delta/hwy-17",
     "timestamp": "2026-05-26T06:23:00Z",
     "scrapedAt": "2026-05-26T08:09:30Z",
