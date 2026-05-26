@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-05-26T23:27:00Z_maple-ridge/maple-cres_maple-ridge/113b-ave",
+      "timestamp": "2026-05-26T23:27:00Z",
+      "address": "MAPLE CRES & 113B AVE",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/maple-cres",
+        "maple-ridge/113b-ave"
+      ],
+      "streetNames": [
+        "Maple Cres",
+        "113b Ave"
+      ],
+      "pulsePointId": "2483039612"
+    },
+    {
       "id": "2026-05-18T00:46:00Z_maple-ridge/113b-ave_maple-ridge/232nd-st",
       "timestamp": "2026-05-18T00:46:00Z",
       "address": "113B AVE & 232ND ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2450481538"
     }
   ],
-  "lastIncident": "2026-05-18T00:46:00Z",
-  "count": 2
+  "lastIncident": "2026-05-26T23:27:00Z",
+  "count": 3
 }

@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-26T23:27:00Z_maple-ridge/maple-cres_maple-ridge/113b-ave",
+    "timestamp": "2026-05-26T23:27:00Z",
+    "scrapedAt": "2026-05-26T23:49:49Z",
+    "address": "MAPLE CRES & 113B AVE",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/maple-cres",
+      "maple-ridge/113b-ave"
+    ],
+    "streetNames": [
+      "Maple Cres",
+      "113b Ave"
+    ],
+    "pulsePointId": "2483039612"
+  },
+  {
     "id": "2026-05-26T23:11:00Z_burnaby/510-duncan-ave",
     "timestamp": "2026-05-26T23:11:00Z",
     "scrapedAt": "2026-05-26T23:22:45Z",
