@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-26T23:11:00Z_burnaby/510-duncan-ave",
+    "timestamp": "2026-05-26T23:11:00Z",
+    "scrapedAt": "2026-05-26T23:22:45Z",
+    "address": "510 DUNCAN AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/510-duncan-ave"
+    ],
+    "streetNames": [
+      "510 Duncan Ave"
+    ],
+    "pulsePointId": "2483028690"
+  },
+  {
+    "id": "2026-05-26T23:05:00Z_surrey/151b-st_surrey/86th-ave",
+    "timestamp": "2026-05-26T23:05:00Z",
+    "scrapedAt": "2026-05-26T23:22:45Z",
+    "address": "151B ST & 86TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/151b-st",
+      "surrey/86th-ave"
+    ],
+    "streetNames": [
+      "151b St",
+      "86th Ave"
+    ],
+    "pulsePointId": "2483025449"
+  },
+  {
     "id": "2026-05-26T22:26:00Z_surrey/king-george-blvd",
     "timestamp": "2026-05-26T22:26:00Z",
     "scrapedAt": "2026-05-26T22:52:59Z",

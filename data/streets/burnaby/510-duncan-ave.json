@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/510-duncan-ave",
+  "name": "510 Duncan Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-05-26T23:11:00Z_burnaby/510-duncan-ave",
+      "timestamp": "2026-05-26T23:11:00Z",
+      "address": "510 DUNCAN AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/510-duncan-ave"
+      ],
+      "streetNames": [
+        "510 Duncan Ave"
+      ],
+      "pulsePointId": "2483028690"
+    }
+  ],
+  "lastIncident": "2026-05-26T23:11:00Z",
+  "count": 1
+}

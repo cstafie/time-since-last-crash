@@ -10596,5 +10596,26 @@
     "city": "Abbotsford",
     "lastIncident": "2026-05-26T21:33:00Z",
     "count": 1
+  },
+  "burnaby/510-duncan-ave": {
+    "name": "510 Duncan Ave",
+    "slug": "burnaby/510-duncan-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-05-26T23:11:00Z",
+    "count": 1
+  },
+  "surrey/151b-st": {
+    "name": "151b St",
+    "slug": "surrey/151b-st",
+    "city": "Surrey",
+    "lastIncident": "2026-05-26T23:05:00Z",
+    "count": 1
+  },
+  "surrey/86th-ave": {
+    "name": "86th Ave",
+    "slug": "surrey/86th-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-05-26T23:05:00Z",
+    "count": 1
   }
 }
