@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-05-26T16:30:00Z_vancouver/ironworkers-memorial-brdg",
+    "timestamp": "2026-05-26T16:30:00Z",
+    "scrapedAt": "2026-05-26T17:03:14Z",
+    "address": "IRONWORKERS MEMORIAL BRDG",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/ironworkers-memorial-brdg"
+    ],
+    "streetNames": [
+      "Ironworkers Memorial Brdg"
+    ],
+    "pulsePointId": "2482754319"
+  },
+  {
+    "id": "2026-05-26T16:26:00Z_vancouver/trans-canada-hwy",
+    "timestamp": "2026-05-26T16:26:00Z",
+    "scrapedAt": "2026-05-26T17:03:14Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2482753087"
+  },
+  {
+    "id": "2026-05-26T15:57:00Z_vancouver/e-12th-ave",
+    "timestamp": "2026-05-26T15:57:00Z",
+    "scrapedAt": "2026-05-26T17:03:14Z",
+    "address": "E 12TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-12th-ave"
+    ],
+    "streetNames": [
+      "E 12th Ave"
+    ],
+    "pulsePointId": "2482735044"
+  },
+  {
     "id": "2026-05-26T15:37:00Z_burnaby/hastings-st_burnaby/beta-ave",
     "timestamp": "2026-05-26T15:37:00Z",
     "scrapedAt": "2026-05-26T15:44:24Z",

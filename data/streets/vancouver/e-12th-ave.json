@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-26T15:57:00Z_vancouver/e-12th-ave",
+      "timestamp": "2026-05-26T15:57:00Z",
+      "address": "E 12TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-12th-ave"
+      ],
+      "streetNames": [
+        "E 12th Ave"
+      ],
+      "pulsePointId": "2482735044"
+    },
+    {
       "id": "2026-05-25T20:30:00Z_vancouver/nanaimo-st_vancouver/e-12th-ave",
       "timestamp": "2026-05-25T20:30:00Z",
       "address": "NANAIMO ST & E 12TH AVE",
@@ -138,6 +151,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-25T20:30:00Z",
-  "count": 9
+  "lastIncident": "2026-05-26T15:57:00Z",
+  "count": 10
 }
