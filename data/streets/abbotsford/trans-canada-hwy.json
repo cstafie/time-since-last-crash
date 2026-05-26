@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-05-26T04:47:00Z_abbotsford/trans-canada-hwy_abbotsford/no-3-road-ofrp",
+      "timestamp": "2026-05-26T04:47:00Z",
+      "address": "TRANS CANADA HWY & NO 3 ROAD OFRP",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/trans-canada-hwy",
+        "abbotsford/no-3-road-ofrp"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy",
+        "No 3 Road Ofrp"
+      ],
+      "pulsePointId": "2482493419"
+    },
+    {
       "id": "2026-05-16T02:12:00Z_abbotsford/trans-canada-hwy",
       "timestamp": "2026-05-16T02:12:00Z",
       "address": "TRANS CANADA HWY",
@@ -475,6 +490,6 @@
       "pulsePointId": "2433793691"
     }
   ],
-  "lastIncident": "2026-05-16T02:12:00Z",
-  "count": 35
+  "lastIncident": "2026-05-26T04:47:00Z",
+  "count": 36
 }

@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-05-26T04:48:00Z_richmond/shell-rd_richmond/westminster-hwy",
+    "timestamp": "2026-05-26T04:48:00Z",
+    "scrapedAt": "2026-05-26T05:16:40Z",
+    "address": "SHELL RD & WESTMINSTER HWY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/shell-rd",
+      "richmond/westminster-hwy"
+    ],
+    "streetNames": [
+      "Shell Rd",
+      "Westminster Hwy"
+    ],
+    "pulsePointId": "2482493795"
+  },
+  {
+    "id": "2026-05-26T04:47:00Z_abbotsford/trans-canada-hwy_abbotsford/no-3-road-ofrp",
+    "timestamp": "2026-05-26T04:47:00Z",
+    "scrapedAt": "2026-05-26T05:16:40Z",
+    "address": "TRANS CANADA HWY & NO 3 ROAD OFRP",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy",
+      "abbotsford/no-3-road-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "No 3 Road Ofrp"
+    ],
+    "pulsePointId": "2482493419"
+  },
+  {
+    "id": "2026-05-26T04:06:00Z_richmond/no-4-rd_richmond/williams-rd",
+    "timestamp": "2026-05-26T04:06:00Z",
+    "scrapedAt": "2026-05-26T05:16:40Z",
+    "address": "NO 4 RD & WILLIAMS RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/no-4-rd",
+      "richmond/williams-rd"
+    ],
+    "streetNames": [
+      "No 4 Rd",
+      "Williams Rd"
+    ],
+    "pulsePointId": "2482476114"
+  },
+  {
     "id": "2026-05-26T03:26:00Z_north-vancouver/trans-canada-hwy",
     "timestamp": "2026-05-26T03:26:00Z",
     "scrapedAt": "2026-05-26T03:43:50Z",
