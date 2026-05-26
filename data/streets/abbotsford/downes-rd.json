@@ -4,6 +4,19 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-05-26T17:30:00Z_abbotsford/downes-rd",
+      "timestamp": "2026-05-26T17:30:00Z",
+      "address": "DOWNES RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/downes-rd"
+      ],
+      "streetNames": [
+        "Downes Rd"
+      ],
+      "pulsePointId": "2482793185"
+    },
+    {
       "id": "2026-05-22T22:29:00Z_abbotsford/downes-rd_abbotsford/gladwin-rd",
       "timestamp": "2026-05-22T22:29:00Z",
       "address": "DOWNES RD & GLADWIN RD",
@@ -76,6 +89,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-22T22:29:00Z",
-  "count": 5
+  "lastIncident": "2026-05-26T17:30:00Z",
+  "count": 6
 }
