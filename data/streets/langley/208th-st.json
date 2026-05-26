@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-05-26T15:31:00Z_langley/208th-st_langley/87th-ave",
+      "timestamp": "2026-05-26T15:31:00Z",
+      "address": "208TH ST & 87TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/208th-st",
+        "langley/87th-ave"
+      ],
+      "streetNames": [
+        "208th St",
+        "87th Ave"
+      ],
+      "pulsePointId": "2482716271"
+    },
+    {
       "id": "2026-05-13T22:51:00Z_langley/208th-st",
       "timestamp": "2026-05-13T22:51:00Z",
       "address": "208TH ST",
@@ -122,6 +137,6 @@
       "pulsePointId": "2444669082"
     }
   ],
-  "lastIncident": "2026-05-13T22:51:00Z",
-  "count": 8
+  "lastIncident": "2026-05-26T15:31:00Z",
+  "count": 9
 }

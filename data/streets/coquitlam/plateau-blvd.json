@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-05-26T14:37:00Z_coquitlam/plateau-blvd_coquitlam/parkway-blvd",
+      "timestamp": "2026-05-26T14:37:00Z",
+      "address": "PLATEAU BLVD & PARKWAY BLVD",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/plateau-blvd",
+        "coquitlam/parkway-blvd"
+      ],
+      "streetNames": [
+        "Plateau Blvd",
+        "Parkway Blvd"
+      ],
+      "pulsePointId": "2482683882"
+    },
+    {
       "id": "2026-03-20T01:18:00Z_coquitlam/plateau-blvd",
       "timestamp": "2026-03-20T01:18:00Z",
       "address": "PLATEAU BLVD",
@@ -17,6 +32,6 @@
       "pulsePointId": "2437564111"
     }
   ],
-  "lastIncident": "2026-03-20T01:18:00Z",
-  "count": 1
+  "lastIncident": "2026-05-26T14:37:00Z",
+  "count": 2
 }

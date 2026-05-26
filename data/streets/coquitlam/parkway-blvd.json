@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-05-26T14:37:00Z_coquitlam/plateau-blvd_coquitlam/parkway-blvd",
+      "timestamp": "2026-05-26T14:37:00Z",
+      "address": "PLATEAU BLVD & PARKWAY BLVD",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/plateau-blvd",
+        "coquitlam/parkway-blvd"
+      ],
+      "streetNames": [
+        "Plateau Blvd",
+        "Parkway Blvd"
+      ],
+      "pulsePointId": "2482683882"
+    },
+    {
       "id": "2026-03-29T16:43:00Z_coquitlam/parkway-blvd_coquitlam/eagle-mtn-accs",
       "timestamp": "2026-03-29T16:43:00Z",
       "address": "PARKWAY BLVD & EAGLE MTN ACCS",
@@ -19,6 +34,6 @@
       "pulsePointId": "2443833444"
     }
   ],
-  "lastIncident": "2026-03-29T16:43:00Z",
-  "count": 1
+  "lastIncident": "2026-05-26T14:37:00Z",
+  "count": 2
 }

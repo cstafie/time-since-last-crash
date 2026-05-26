@@ -1,5 +1,85 @@
 [
   {
+    "id": "2026-05-26T15:37:00Z_burnaby/hastings-st_burnaby/beta-ave",
+    "timestamp": "2026-05-26T15:37:00Z",
+    "scrapedAt": "2026-05-26T15:44:24Z",
+    "address": "HASTINGS ST & BETA AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/hastings-st",
+      "burnaby/beta-ave"
+    ],
+    "streetNames": [
+      "Hastings St",
+      "Beta Ave"
+    ],
+    "pulsePointId": "2482719686"
+  },
+  {
+    "id": "2026-05-26T15:31:00Z_langley/208th-st_langley/87th-ave",
+    "timestamp": "2026-05-26T15:31:00Z",
+    "scrapedAt": "2026-05-26T15:44:24Z",
+    "address": "208TH ST & 87TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/208th-st",
+      "langley/87th-ave"
+    ],
+    "streetNames": [
+      "208th St",
+      "87th Ave"
+    ],
+    "pulsePointId": "2482716271"
+  },
+  {
+    "id": "2026-05-26T15:21:00Z_vancouver/carolina-st_vancouver/great-northern-way",
+    "timestamp": "2026-05-26T15:21:00Z",
+    "scrapedAt": "2026-05-26T15:44:24Z",
+    "address": "CAROLINA ST & GREAT NORTHERN WAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/carolina-st",
+      "vancouver/great-northern-way"
+    ],
+    "streetNames": [
+      "Carolina St",
+      "Great Northern Way"
+    ],
+    "pulsePointId": "2482710189"
+  },
+  {
+    "id": "2026-05-26T14:44:00Z_mission/aherne-pl_mission/keystone-ave",
+    "timestamp": "2026-05-26T14:44:00Z",
+    "scrapedAt": "2026-05-26T15:44:24Z",
+    "address": "AHERNE PL & KEYSTONE AVE",
+    "city": "Mission",
+    "streets": [
+      "mission/aherne-pl",
+      "mission/keystone-ave"
+    ],
+    "streetNames": [
+      "Aherne Pl",
+      "Keystone Ave"
+    ],
+    "pulsePointId": "2482687775"
+  },
+  {
+    "id": "2026-05-26T14:37:00Z_coquitlam/plateau-blvd_coquitlam/parkway-blvd",
+    "timestamp": "2026-05-26T14:37:00Z",
+    "scrapedAt": "2026-05-26T15:44:24Z",
+    "address": "PLATEAU BLVD & PARKWAY BLVD",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/plateau-blvd",
+      "coquitlam/parkway-blvd"
+    ],
+    "streetNames": [
+      "Plateau Blvd",
+      "Parkway Blvd"
+    ],
+    "pulsePointId": "2482683882"
+  },
+  {
     "id": "2026-05-26T13:52:00Z_surrey/105th-ave_surrey/king-george-blvd",
     "timestamp": "2026-05-26T13:52:00Z",
     "scrapedAt": "2026-05-26T14:25:44Z",

@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-26T15:37:00Z_burnaby/hastings-st_burnaby/beta-ave",
+      "timestamp": "2026-05-26T15:37:00Z",
+      "address": "HASTINGS ST & BETA AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/hastings-st",
+        "burnaby/beta-ave"
+      ],
+      "streetNames": [
+        "Hastings St",
+        "Beta Ave"
+      ],
+      "pulsePointId": "2482719686"
+    },
+    {
       "id": "2026-05-17T09:04:00Z_burnaby/hastings-st_burnaby/warwick-ave",
       "timestamp": "2026-05-17T09:04:00Z",
       "address": "HASTINGS ST & WARWICK AVE",
@@ -94,6 +109,6 @@
       "pulsePointId": "2435141614"
     }
   ],
-  "lastIncident": "2026-05-17T09:04:00Z",
-  "count": 6
+  "lastIncident": "2026-05-26T15:37:00Z",
+  "count": 7
 }

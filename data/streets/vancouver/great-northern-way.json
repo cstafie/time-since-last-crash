@@ -1,6 +1,6 @@
 {
-  "slug": "vancouver/carolina-st",
-  "name": "Carolina St",
+  "slug": "vancouver/great-northern-way",
+  "name": "Great Northern Way",
   "city": "Vancouver",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Great Northern Way"
       ],
       "pulsePointId": "2482710189"
-    },
-    {
-      "id": "2026-05-05T22:03:00Z_vancouver/e-12th-ave_vancouver/carolina-st",
-      "timestamp": "2026-05-05T22:03:00Z",
-      "address": "E 12TH AVE & CAROLINA ST",
-      "city": "Vancouver",
-      "streets": [
-        "vancouver/e-12th-ave",
-        "vancouver/carolina-st"
-      ],
-      "streetNames": [
-        "E 12th Ave",
-        "Carolina St"
-      ],
-      "pulsePointId": "2468109723"
     }
   ],
   "lastIncident": "2026-05-26T15:21:00Z",
-  "count": 2
+  "count": 1
 }
