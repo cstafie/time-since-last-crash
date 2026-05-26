@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-26T00:12:00Z_vancouver/e-41st-ave",
+      "timestamp": "2026-05-26T00:12:00Z",
+      "address": "E 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-41st-ave"
+      ],
+      "streetNames": [
+        "E 41st Ave"
+      ],
+      "pulsePointId": "2482348778"
+    },
+    {
       "id": "2026-05-23T18:41:00Z_vancouver/commercial-st_vancouver/e-41st-ave",
       "timestamp": "2026-05-23T18:41:00Z",
       "address": "COMMERCIAL ST & E 41ST AVE",
@@ -393,6 +406,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-23T18:41:00Z",
-  "count": 26
+  "lastIncident": "2026-05-26T00:12:00Z",
+  "count": 27
 }

@@ -1,0 +1,24 @@
+{
+  "slug": "pitt-meadows/blakely-rd",
+  "name": "Blakely Rd",
+  "city": "Pitt Meadows",
+  "incidents": [
+    {
+      "id": "2026-05-25T23:59:00Z_pitt-meadows/hammond-rd_pitt-meadows/blakely-rd",
+      "timestamp": "2026-05-25T23:59:00Z",
+      "address": "HAMMOND RD & BLAKELY RD",
+      "city": "Pitt Meadows",
+      "streets": [
+        "pitt-meadows/hammond-rd",
+        "pitt-meadows/blakely-rd"
+      ],
+      "streetNames": [
+        "Hammond Rd",
+        "Blakely Rd"
+      ],
+      "pulsePointId": "2482343476"
+    }
+  ],
+  "lastIncident": "2026-05-25T23:59:00Z",
+  "count": 1
+}

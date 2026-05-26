@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-26T00:12:00Z_vancouver/e-41st-ave",
+    "timestamp": "2026-05-26T00:12:00Z",
+    "scrapedAt": "2026-05-26T00:19:23Z",
+    "address": "E 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-41st-ave"
+    ],
+    "streetNames": [
+      "E 41st Ave"
+    ],
+    "pulsePointId": "2482348778"
+  },
+  {
+    "id": "2026-05-25T23:59:00Z_pitt-meadows/hammond-rd_pitt-meadows/blakely-rd",
+    "timestamp": "2026-05-25T23:59:00Z",
+    "scrapedAt": "2026-05-26T00:19:23Z",
+    "address": "HAMMOND RD & BLAKELY RD",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/hammond-rd",
+      "pitt-meadows/blakely-rd"
+    ],
+    "streetNames": [
+      "Hammond Rd",
+      "Blakely Rd"
+    ],
+    "pulsePointId": "2482343476"
+  },
+  {
     "id": "2026-05-25T23:43:00Z_vancouver/w-kent-ave-n_vancouver/cambie-st",
     "timestamp": "2026-05-25T23:43:00Z",
     "scrapedAt": "2026-05-25T23:49:08Z",

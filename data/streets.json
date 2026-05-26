@@ -717,8 +717,8 @@
     "name": "E 41st Ave",
     "slug": "vancouver/e-41st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-23T18:41:00Z",
-    "count": 26
+    "lastIncident": "2026-05-26T00:12:00Z",
+    "count": 27
   },
   "vancouver/granville-st": {
     "name": "Granville St",
@@ -10490,6 +10490,20 @@
     "slug": "abbotsford/riverside-rd",
     "city": "Abbotsford",
     "lastIncident": "2026-05-25T23:39:00Z",
+    "count": 1
+  },
+  "pitt-meadows/hammond-rd": {
+    "name": "Hammond Rd",
+    "slug": "pitt-meadows/hammond-rd",
+    "city": "Pitt Meadows",
+    "lastIncident": "2026-05-25T23:59:00Z",
+    "count": 1
+  },
+  "pitt-meadows/blakely-rd": {
+    "name": "Blakely Rd",
+    "slug": "pitt-meadows/blakely-rd",
+    "city": "Pitt Meadows",
+    "lastIncident": "2026-05-25T23:59:00Z",
     "count": 1
   }
 }
