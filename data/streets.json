@@ -5547,8 +5547,8 @@
     "name": "130th St",
     "slug": "surrey/130th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-16T15:05:00Z",
-    "count": 6
+    "lastIncident": "2026-05-26T20:22:00Z",
+    "count": 7
   },
   "vancouver/windermere-st": {
     "name": "Windermere St",
@@ -10581,6 +10581,13 @@
     "slug": "langley/33a-ave",
     "city": "Langley",
     "lastIncident": "2026-05-26T18:19:00Z",
+    "count": 1
+  },
+  "surrey/linton-way": {
+    "name": "Linton Way",
+    "slug": "surrey/linton-way",
+    "city": "Surrey",
+    "lastIncident": "2026-05-26T20:22:00Z",
     "count": 1
   }
 }
