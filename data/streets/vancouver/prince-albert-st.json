@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-26T21:56:00Z_vancouver/se-marine-dr_vancouver/prince-albert-st",
+      "timestamp": "2026-05-26T21:56:00Z",
+      "address": "SE MARINE DR & PRINCE ALBERT ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/se-marine-dr",
+        "vancouver/prince-albert-st"
+      ],
+      "streetNames": [
+        "Se Marine Dr",
+        "Prince Albert St"
+      ],
+      "pulsePointId": "2482980851"
+    },
+    {
       "id": "2026-04-26T18:46:00Z_vancouver/e-49th-ave_vancouver/prince-albert-st",
       "timestamp": "2026-04-26T18:46:00Z",
       "address": "E 49TH AVE & PRINCE ALBERT ST",
@@ -33,6 +48,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-26T18:46:00Z",
-  "count": 2
+  "lastIncident": "2026-05-26T21:56:00Z",
+  "count": 3
 }

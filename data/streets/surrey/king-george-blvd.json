@@ -4,6 +4,19 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-05-26T22:26:00Z_surrey/king-george-blvd",
+      "timestamp": "2026-05-26T22:26:00Z",
+      "address": "KING GEORGE BLVD",
+      "city": "Surrey",
+      "streets": [
+        "surrey/king-george-blvd"
+      ],
+      "streetNames": [
+        "King George Blvd"
+      ],
+      "pulsePointId": "2483001573"
+    },
+    {
       "id": "2026-05-26T13:52:00Z_surrey/105th-ave_surrey/king-george-blvd",
       "timestamp": "2026-05-26T13:52:00Z",
       "address": "105TH AVE & KING GEORGE BLVD",
@@ -717,6 +730,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-26T13:52:00Z",
-  "count": 49
+  "lastIncident": "2026-05-26T22:26:00Z",
+  "count": 50
 }

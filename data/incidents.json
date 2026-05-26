@@ -1,5 +1,81 @@
 [
   {
+    "id": "2026-05-26T22:26:00Z_surrey/king-george-blvd",
+    "timestamp": "2026-05-26T22:26:00Z",
+    "scrapedAt": "2026-05-26T22:52:59Z",
+    "address": "KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "King George Blvd"
+    ],
+    "pulsePointId": "2483001573"
+  },
+  {
+    "id": "2026-05-26T22:23:00Z_delta/116th-st_delta/nordel-way",
+    "timestamp": "2026-05-26T22:23:00Z",
+    "scrapedAt": "2026-05-26T22:52:59Z",
+    "address": "116TH ST & NORDEL WAY",
+    "city": "Delta",
+    "streets": [
+      "delta/116th-st",
+      "delta/nordel-way"
+    ],
+    "streetNames": [
+      "116th St",
+      "Nordel Way"
+    ],
+    "pulsePointId": "2482998230"
+  },
+  {
+    "id": "2026-05-26T22:22:00Z_langley/224th-st_langley/0th-ave",
+    "timestamp": "2026-05-26T22:22:00Z",
+    "scrapedAt": "2026-05-26T22:52:59Z",
+    "address": "224TH ST & 0TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/224th-st",
+      "langley/0th-ave"
+    ],
+    "streetNames": [
+      "224th St",
+      "0th Ave"
+    ],
+    "pulsePointId": "2482996157"
+  },
+  {
+    "id": "2026-05-26T22:22:00Z_surrey/76th-ave",
+    "timestamp": "2026-05-26T22:22:00Z",
+    "scrapedAt": "2026-05-26T22:52:59Z",
+    "address": "76TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/76th-ave"
+    ],
+    "streetNames": [
+      "76th Ave"
+    ],
+    "pulsePointId": "2482996636"
+  },
+  {
+    "id": "2026-05-26T21:56:00Z_vancouver/se-marine-dr_vancouver/prince-albert-st",
+    "timestamp": "2026-05-26T21:56:00Z",
+    "scrapedAt": "2026-05-26T22:52:59Z",
+    "address": "SE MARINE DR & PRINCE ALBERT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/se-marine-dr",
+      "vancouver/prince-albert-st"
+    ],
+    "streetNames": [
+      "Se Marine Dr",
+      "Prince Albert St"
+    ],
+    "pulsePointId": "2482980851"
+  },
+  {
     "id": "2026-05-26T21:33:00Z_abbotsford/2313-west-railway-st",
     "timestamp": "2026-05-26T21:33:00Z",
     "scrapedAt": "2026-05-26T22:00:43Z",

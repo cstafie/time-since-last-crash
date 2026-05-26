@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-05-26T22:22:00Z_langley/224th-st_langley/0th-ave",
+      "timestamp": "2026-05-26T22:22:00Z",
+      "address": "224TH ST & 0TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/224th-st",
+        "langley/0th-ave"
+      ],
+      "streetNames": [
+        "224th St",
+        "0th Ave"
+      ],
+      "pulsePointId": "2482996157"
+    },
+    {
       "id": "2026-05-02T01:56:00Z_langley/224th-st_langley/56th-ave",
       "timestamp": "2026-05-02T01:56:00Z",
       "address": "224TH ST & 56TH AVE",
@@ -34,6 +49,6 @@
       "pulsePointId": "2453018100"
     }
   ],
-  "lastIncident": "2026-05-02T01:56:00Z",
-  "count": 2
+  "lastIncident": "2026-05-26T22:22:00Z",
+  "count": 3
 }
