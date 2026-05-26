@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-05-26T00:59:00Z_surrey/104th-ave_surrey/125th-st",
+    "timestamp": "2026-05-26T00:59:00Z",
+    "scrapedAt": "2026-05-26T01:20:17Z",
+    "address": "104TH AVE & 125TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/104th-ave",
+      "surrey/125th-st"
+    ],
+    "streetNames": [
+      "104th Ave",
+      "125th St"
+    ],
+    "pulsePointId": "2482378630"
+  },
+  {
+    "id": "2026-05-26T00:45:00Z_west-vancouver/taylor-way_west-vancouver/marine-dr",
+    "timestamp": "2026-05-26T00:45:00Z",
+    "scrapedAt": "2026-05-26T01:20:17Z",
+    "address": "TAYLOR WAY & MARINE DR",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/taylor-way",
+      "west-vancouver/marine-dr"
+    ],
+    "streetNames": [
+      "Taylor Way",
+      "Marine Dr"
+    ],
+    "pulsePointId": "2482370119"
+  },
+  {
+    "id": "2026-05-26T00:17:00Z_new-westminster/e-8th-ave_new-westminster/cumberland-st",
+    "timestamp": "2026-05-26T00:17:00Z",
+    "scrapedAt": "2026-05-26T01:20:17Z",
+    "address": "E 8TH AVE & CUMBERLAND ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/e-8th-ave",
+      "new-westminster/cumberland-st"
+    ],
+    "streetNames": [
+      "E 8th Ave",
+      "Cumberland St"
+    ],
+    "pulsePointId": "2482353849"
+  },
+  {
+    "id": "2026-05-26T00:14:00Z_new-westminster/715-mcbride-blvd",
+    "timestamp": "2026-05-26T00:14:00Z",
+    "scrapedAt": "2026-05-26T01:20:17Z",
+    "address": "715 MCBRIDE BLVD",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/715-mcbride-blvd"
+    ],
+    "streetNames": [
+      "715 Mcbride Blvd"
+    ],
+    "pulsePointId": "2482355132"
+  },
+  {
     "id": "2026-05-26T00:12:00Z_vancouver/e-41st-ave",
     "timestamp": "2026-05-26T00:12:00Z",
     "scrapedAt": "2026-05-26T00:19:23Z",

@@ -1,0 +1,22 @@
+{
+  "slug": "new-westminster/715-mcbride-blvd",
+  "name": "715 Mcbride Blvd",
+  "city": "New Westminster",
+  "incidents": [
+    {
+      "id": "2026-05-26T00:14:00Z_new-westminster/715-mcbride-blvd",
+      "timestamp": "2026-05-26T00:14:00Z",
+      "address": "715 MCBRIDE BLVD",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/715-mcbride-blvd"
+      ],
+      "streetNames": [
+        "715 Mcbride Blvd"
+      ],
+      "pulsePointId": "2482355132"
+    }
+  ],
+  "lastIncident": "2026-05-26T00:14:00Z",
+  "count": 1
+}

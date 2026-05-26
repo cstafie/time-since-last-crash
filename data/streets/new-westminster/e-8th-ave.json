@@ -4,6 +4,21 @@
   "city": "New Westminster",
   "incidents": [
     {
+      "id": "2026-05-26T00:17:00Z_new-westminster/e-8th-ave_new-westminster/cumberland-st",
+      "timestamp": "2026-05-26T00:17:00Z",
+      "address": "E 8TH AVE & CUMBERLAND ST",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/e-8th-ave",
+        "new-westminster/cumberland-st"
+      ],
+      "streetNames": [
+        "E 8th Ave",
+        "Cumberland St"
+      ],
+      "pulsePointId": "2482353849"
+    },
+    {
       "id": "2026-05-23T21:53:00Z_new-westminster/e-8th-ave",
       "timestamp": "2026-05-23T21:53:00Z",
       "address": "E 8TH AVE",
@@ -61,6 +76,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-23T21:53:00Z",
-  "count": 4
+  "lastIncident": "2026-05-26T00:17:00Z",
+  "count": 5
 }
