@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/7578-edmonds-st",
+  "name": "7578 Edmonds St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-05-26T05:22:00Z_burnaby/7578-edmonds-st",
+      "timestamp": "2026-05-26T05:22:00Z",
+      "address": "7578 EDMONDS ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/7578-edmonds-st"
+      ],
+      "streetNames": [
+        "7578 Edmonds St"
+      ],
+      "pulsePointId": "2482505585"
+    }
+  ],
+  "lastIncident": "2026-05-26T05:22:00Z",
+  "count": 1
+}

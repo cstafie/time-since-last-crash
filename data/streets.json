@@ -640,8 +640,8 @@
     "name": "92nd Ave",
     "slug": "surrey/92nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-20T22:16:00Z",
-    "count": 13
+    "lastIncident": "2026-05-26T06:15:00Z",
+    "count": 14
   },
   "surrey/96th-ave": {
     "name": "96th Ave",
@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-05-20T23:07:00Z",
-    "count": 47
+    "lastIncident": "2026-05-26T06:15:00Z",
+    "count": 48
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -10525,6 +10525,13 @@
     "slug": "abbotsford/no-3-road-ofrp",
     "city": "Abbotsford",
     "lastIncident": "2026-05-26T04:47:00Z",
+    "count": 1
+  },
+  "burnaby/7578-edmonds-st": {
+    "name": "7578 Edmonds St",
+    "slug": "burnaby/7578-edmonds-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-05-26T05:22:00Z",
     "count": 1
   }
 }

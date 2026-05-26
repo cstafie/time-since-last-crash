@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-26T06:15:00Z_surrey/king-george-blvd_surrey/92nd-ave",
+    "timestamp": "2026-05-26T06:15:00Z",
+    "scrapedAt": "2026-05-26T06:44:31Z",
+    "address": "KING GEORGE BLVD & 92ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/92nd-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "92nd Ave"
+    ],
+    "pulsePointId": "2482525115"
+  },
+  {
+    "id": "2026-05-26T05:22:00Z_burnaby/7578-edmonds-st",
+    "timestamp": "2026-05-26T05:22:00Z",
+    "scrapedAt": "2026-05-26T06:44:31Z",
+    "address": "7578 EDMONDS ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/7578-edmonds-st"
+    ],
+    "streetNames": [
+      "7578 Edmonds St"
+    ],
+    "pulsePointId": "2482505585"
+  },
+  {
     "id": "2026-05-26T04:48:00Z_richmond/shell-rd_richmond/westminster-hwy",
     "timestamp": "2026-05-26T04:48:00Z",
     "scrapedAt": "2026-05-26T05:16:40Z",
