@@ -1732,8 +1732,8 @@
     "name": "Alex Fraser Brdg",
     "slug": "delta/alex-fraser-brdg",
     "city": "Delta",
-    "lastIncident": "2026-05-24T18:19:00Z",
-    "count": 14
+    "lastIncident": "2026-05-26T21:32:00Z",
+    "count": 15
   },
   "abbotsford/riverside-st": {
     "name": "Riverside St",
@@ -10588,6 +10588,13 @@
     "slug": "surrey/linton-way",
     "city": "Surrey",
     "lastIncident": "2026-05-26T20:22:00Z",
+    "count": 1
+  },
+  "abbotsford/2313-west-railway-st": {
+    "name": "2313 West Railway St",
+    "slug": "abbotsford/2313-west-railway-st",
+    "city": "Abbotsford",
+    "lastIncident": "2026-05-26T21:33:00Z",
     "count": 1
   }
 }
