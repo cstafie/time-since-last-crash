@@ -1,5 +1,81 @@
 [
   {
+    "id": "2026-05-26T18:58:00Z_delta/hwy-91-conn",
+    "timestamp": "2026-05-26T18:58:00Z",
+    "scrapedAt": "2026-05-26T19:15:10Z",
+    "address": "HWY 91 CONN",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-91-conn"
+    ],
+    "streetNames": [
+      "Hwy 91 Conn"
+    ],
+    "pulsePointId": "2482852475"
+  },
+  {
+    "id": "2026-05-26T18:56:00Z_richmond/no-3-rd_richmond/alderbridge-way",
+    "timestamp": "2026-05-26T18:56:00Z",
+    "scrapedAt": "2026-05-26T19:15:10Z",
+    "address": "NO 3 RD & ALDERBRIDGE WAY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/no-3-rd",
+      "richmond/alderbridge-way"
+    ],
+    "streetNames": [
+      "No 3 Rd",
+      "Alderbridge Way"
+    ],
+    "pulsePointId": "2482850233"
+  },
+  {
+    "id": "2026-05-26T18:47:00Z_coquitlam/woolridge-st_coquitlam/lougheed-hwy",
+    "timestamp": "2026-05-26T18:47:00Z",
+    "scrapedAt": "2026-05-26T19:15:10Z",
+    "address": "WOOLRIDGE ST & LOUGHEED HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/woolridge-st",
+      "coquitlam/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Woolridge St",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2482844371"
+  },
+  {
+    "id": "2026-05-26T18:24:00Z_vancouver/trans-canada-hwy",
+    "timestamp": "2026-05-26T18:24:00Z",
+    "scrapedAt": "2026-05-26T19:15:10Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2482829894"
+  },
+  {
+    "id": "2026-05-26T18:19:00Z_langley/33a-ave_langley/200th-st",
+    "timestamp": "2026-05-26T18:19:00Z",
+    "scrapedAt": "2026-05-26T19:15:10Z",
+    "address": "33A AVE & 200TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/33a-ave",
+      "langley/200th-st"
+    ],
+    "streetNames": [
+      "33a Ave",
+      "200th St"
+    ],
+    "pulsePointId": "2482826586"
+  },
+  {
     "id": "2026-05-26T17:30:00Z_abbotsford/downes-rd",
     "timestamp": "2026-05-26T17:30:00Z",
     "scrapedAt": "2026-05-26T18:16:09Z",

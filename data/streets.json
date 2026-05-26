@@ -486,8 +486,8 @@
     "name": "No 3 Rd",
     "slug": "richmond/no-3-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-17T00:29:00Z",
-    "count": 13
+    "lastIncident": "2026-05-26T18:56:00Z",
+    "count": 14
   },
   "richmond/no-4-rd": {
     "name": "No 4 Rd",
@@ -1102,8 +1102,8 @@
     "name": "200th St",
     "slug": "langley/200th-st",
     "city": "Langley",
-    "lastIncident": "2026-05-25T23:11:00Z",
-    "count": 27
+    "lastIncident": "2026-05-26T18:19:00Z",
+    "count": 28
   },
   "abbotsford/downes-rd": {
     "name": "Downes Rd",
@@ -1116,8 +1116,8 @@
     "name": "Lougheed Hwy",
     "slug": "coquitlam/lougheed-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-05-24T19:27:00Z",
-    "count": 12
+    "lastIncident": "2026-05-26T18:47:00Z",
+    "count": 13
   },
   "coquitlam/orchid-dr": {
     "name": "Orchid Dr",
@@ -1333,8 +1333,8 @@
     "name": "Trans Canada Hwy",
     "slug": "vancouver/trans-canada-hwy",
     "city": "Vancouver",
-    "lastIncident": "2026-05-26T16:26:00Z",
-    "count": 5
+    "lastIncident": "2026-05-26T18:24:00Z",
+    "count": 6
   },
   "burnaby/kensington-ave": {
     "name": "Kensington Ave",
@@ -3314,8 +3314,8 @@
     "name": "Alderbridge Way",
     "slug": "richmond/alderbridge-way",
     "city": "Richmond",
-    "lastIncident": "2026-05-16T16:47:00Z",
-    "count": 5
+    "lastIncident": "2026-05-26T18:56:00Z",
+    "count": 6
   },
   "abbotsford/bateman-rd": {
     "name": "Bateman Rd",
@@ -10560,6 +10560,27 @@
     "slug": "mission/aherne-pl",
     "city": "Mission",
     "lastIncident": "2026-05-26T14:44:00Z",
+    "count": 1
+  },
+  "delta/hwy-91-conn": {
+    "name": "Hwy 91 Conn",
+    "slug": "delta/hwy-91-conn",
+    "city": "Delta",
+    "lastIncident": "2026-05-26T18:58:00Z",
+    "count": 1
+  },
+  "coquitlam/woolridge-st": {
+    "name": "Woolridge St",
+    "slug": "coquitlam/woolridge-st",
+    "city": "Coquitlam",
+    "lastIncident": "2026-05-26T18:47:00Z",
+    "count": 1
+  },
+  "langley/33a-ave": {
+    "name": "33a Ave",
+    "slug": "langley/33a-ave",
+    "city": "Langley",
+    "lastIncident": "2026-05-26T18:19:00Z",
     "count": 1
   }
 }

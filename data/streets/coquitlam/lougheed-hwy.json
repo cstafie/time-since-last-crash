@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-05-26T18:47:00Z_coquitlam/woolridge-st_coquitlam/lougheed-hwy",
+      "timestamp": "2026-05-26T18:47:00Z",
+      "address": "WOOLRIDGE ST & LOUGHEED HWY",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/woolridge-st",
+        "coquitlam/lougheed-hwy"
+      ],
+      "streetNames": [
+        "Woolridge St",
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2482844371"
+    },
+    {
       "id": "2026-05-24T19:27:00Z_coquitlam/lougheed-hwy_coquitlam/bernatchey-st",
       "timestamp": "2026-05-24T19:27:00Z",
       "address": "LOUGHEED HWY & BERNATCHEY ST",
@@ -176,6 +191,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-24T19:27:00Z",
-  "count": 12
+  "lastIncident": "2026-05-26T18:47:00Z",
+  "count": 13
 }
