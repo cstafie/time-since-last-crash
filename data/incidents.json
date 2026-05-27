@@ -1,5 +1,79 @@
 [
   {
+    "id": "2026-05-27T22:53:00Z_vancouver/e-49th-ave",
+    "timestamp": "2026-05-27T22:53:00Z",
+    "scrapedAt": "2026-05-27T22:57:59Z",
+    "address": "E 49TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-49th-ave"
+    ],
+    "streetNames": [
+      "E 49th Ave"
+    ],
+    "pulsePointId": "2483729155"
+  },
+  {
+    "id": "2026-05-27T22:53:00Z_mission/abbotsford-mission-brdg",
+    "timestamp": "2026-05-27T22:53:00Z",
+    "scrapedAt": "2026-05-27T22:57:59Z",
+    "address": "ABBOTSFORD MISSION BRDG",
+    "city": "Mission",
+    "streets": [
+      "mission/abbotsford-mission-brdg"
+    ],
+    "streetNames": [
+      "Abbotsford Mission Brdg"
+    ],
+    "pulsePointId": "2483729477"
+  },
+  {
+    "id": "2026-05-27T22:46:00Z_surrey/192nd-st_surrey/0th-ave",
+    "timestamp": "2026-05-27T22:46:00Z",
+    "scrapedAt": "2026-05-27T22:57:59Z",
+    "address": "192ND ST & 0TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/192nd-st",
+      "surrey/0th-ave"
+    ],
+    "streetNames": [
+      "192nd St",
+      "0th Ave"
+    ],
+    "pulsePointId": "2483722478"
+  },
+  {
+    "id": "2026-05-27T22:23:00Z_vancouver/w-47th-ave_vancouver/cartier-st",
+    "timestamp": "2026-05-27T22:23:00Z",
+    "scrapedAt": "2026-05-27T22:57:59Z",
+    "address": "W 47TH AVE & CARTIER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-47th-ave",
+      "vancouver/cartier-st"
+    ],
+    "streetNames": [
+      "W 47th Ave",
+      "Cartier St"
+    ],
+    "pulsePointId": "2483708116"
+  },
+  {
+    "id": "2026-05-27T22:19:00Z_port-coquitlam/shaughnessy-st",
+    "timestamp": "2026-05-27T22:19:00Z",
+    "scrapedAt": "2026-05-27T22:57:59Z",
+    "address": "SHAUGHNESSY ST",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/shaughnessy-st"
+    ],
+    "streetNames": [
+      "Shaughnessy St"
+    ],
+    "pulsePointId": "2483704271"
+  },
+  {
     "id": "2026-05-27T22:02:00Z_langley/272nd-st_langley/58th-cres",
     "timestamp": "2026-05-27T22:02:00Z",
     "scrapedAt": "2026-05-27T22:07:49Z",

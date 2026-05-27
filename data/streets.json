@@ -1382,8 +1382,8 @@
     "name": "192nd St",
     "slug": "surrey/192nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-17T10:18:00Z",
-    "count": 10
+    "lastIncident": "2026-05-27T22:46:00Z",
+    "count": 11
   },
   "surrey/66a-ave": {
     "name": "66a Ave",
@@ -3069,8 +3069,8 @@
     "name": "E 49th Ave",
     "slug": "vancouver/e-49th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-27T06:28:00Z",
-    "count": 11
+    "lastIncident": "2026-05-27T22:53:00Z",
+    "count": 12
   },
   "vancouver/victoria-dr": {
     "name": "Victoria Dr",
@@ -5323,8 +5323,8 @@
     "name": "Shaughnessy St",
     "slug": "port-coquitlam/shaughnessy-st",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-05-23T04:53:00Z",
-    "count": 4
+    "lastIncident": "2026-05-27T22:19:00Z",
+    "count": 5
   },
   "vancouver/e-59th-ave": {
     "name": "E 59th Ave",
@@ -5792,8 +5792,8 @@
     "name": "Cartier St",
     "slug": "vancouver/cartier-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-15T15:29:00Z",
-    "count": 2
+    "lastIncident": "2026-05-27T22:23:00Z",
+    "count": 3
   },
   "mission/dewdney-trunk-rd": {
     "name": "Dewdney Trunk Rd",
@@ -10700,6 +10700,27 @@
     "slug": "vancouver/w-cordova-st",
     "city": "Vancouver",
     "lastIncident": "2026-05-27T19:40:00Z",
+    "count": 1
+  },
+  "mission/abbotsford-mission-brdg": {
+    "name": "Abbotsford Mission Brdg",
+    "slug": "mission/abbotsford-mission-brdg",
+    "city": "Mission",
+    "lastIncident": "2026-05-27T22:53:00Z",
+    "count": 1
+  },
+  "surrey/0th-ave": {
+    "name": "0th Ave",
+    "slug": "surrey/0th-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-05-27T22:46:00Z",
+    "count": 1
+  },
+  "vancouver/w-47th-ave": {
+    "name": "W 47th Ave",
+    "slug": "vancouver/w-47th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-27T22:23:00Z",
     "count": 1
   }
 }

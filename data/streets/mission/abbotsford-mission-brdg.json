@@ -1,0 +1,22 @@
+{
+  "slug": "mission/abbotsford-mission-brdg",
+  "name": "Abbotsford Mission Brdg",
+  "city": "Mission",
+  "incidents": [
+    {
+      "id": "2026-05-27T22:53:00Z_mission/abbotsford-mission-brdg",
+      "timestamp": "2026-05-27T22:53:00Z",
+      "address": "ABBOTSFORD MISSION BRDG",
+      "city": "Mission",
+      "streets": [
+        "mission/abbotsford-mission-brdg"
+      ],
+      "streetNames": [
+        "Abbotsford Mission Brdg"
+      ],
+      "pulsePointId": "2483729477"
+    }
+  ],
+  "lastIncident": "2026-05-27T22:53:00Z",
+  "count": 1
+}

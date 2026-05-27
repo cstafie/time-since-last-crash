@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-27T22:23:00Z_vancouver/w-47th-ave_vancouver/cartier-st",
+      "timestamp": "2026-05-27T22:23:00Z",
+      "address": "W 47TH AVE & CARTIER ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-47th-ave",
+        "vancouver/cartier-st"
+      ],
+      "streetNames": [
+        "W 47th Ave",
+        "Cartier St"
+      ],
+      "pulsePointId": "2483708116"
+    },
+    {
       "id": "2026-05-15T15:29:00Z_vancouver/w-67th-ave_vancouver/cartier-st",
       "timestamp": "2026-05-15T15:29:00Z",
       "address": "W 67TH AVE & CARTIER ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2450237075"
     }
   ],
-  "lastIncident": "2026-05-15T15:29:00Z",
-  "count": 2
+  "lastIncident": "2026-05-27T22:23:00Z",
+  "count": 3
 }
