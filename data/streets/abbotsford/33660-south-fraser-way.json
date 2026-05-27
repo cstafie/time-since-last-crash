@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/33660-south-fraser-way",
+  "name": "33660 South Fraser Way",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-05-27T13:19:00Z_abbotsford/33660-south-fraser-way",
+      "timestamp": "2026-05-27T13:19:00Z",
+      "address": "33660 SOUTH FRASER WAY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/33660-south-fraser-way"
+      ],
+      "streetNames": [
+        "33660 South Fraser Way"
+      ],
+      "pulsePointId": "2483356028"
+    }
+  ],
+  "lastIncident": "2026-05-27T13:19:00Z",
+  "count": 1
+}

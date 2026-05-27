@@ -1,5 +1,93 @@
 [
   {
+    "id": "2026-05-27T13:57:00Z_vancouver/main-st_vancouver/e-33rd-ave",
+    "timestamp": "2026-05-27T13:57:00Z",
+    "scrapedAt": "2026-05-27T14:05:23Z",
+    "address": "MAIN ST & E 33RD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st",
+      "vancouver/e-33rd-ave"
+    ],
+    "streetNames": [
+      "Main St",
+      "E 33rd Ave"
+    ],
+    "pulsePointId": "2483372995"
+  },
+  {
+    "id": "2026-05-27T13:54:00Z_vancouver/main-st_vancouver/e-33rd-ave",
+    "timestamp": "2026-05-27T13:54:00Z",
+    "scrapedAt": "2026-05-27T14:05:23Z",
+    "address": "MAIN ST & E 33RD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st",
+      "vancouver/e-33rd-ave"
+    ],
+    "streetNames": [
+      "Main St",
+      "E 33rd Ave"
+    ],
+    "pulsePointId": "2483371345"
+  },
+  {
+    "id": "2026-05-27T13:45:00Z_langley/16th-ave",
+    "timestamp": "2026-05-27T13:45:00Z",
+    "scrapedAt": "2026-05-27T14:05:23Z",
+    "address": "16TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/16th-ave"
+    ],
+    "streetNames": [
+      "16th Ave"
+    ],
+    "pulsePointId": "2483367282"
+  },
+  {
+    "id": "2026-05-27T13:34:00Z_surrey/serpentine-river-brdg",
+    "timestamp": "2026-05-27T13:34:00Z",
+    "scrapedAt": "2026-05-27T14:05:23Z",
+    "address": "SERPENTINE RIVER BRDG",
+    "city": "Surrey",
+    "streets": [
+      "surrey/serpentine-river-brdg"
+    ],
+    "streetNames": [
+      "Serpentine River Brdg"
+    ],
+    "pulsePointId": "2483361681"
+  },
+  {
+    "id": "2026-05-27T13:33:00Z_surrey/hwy-99",
+    "timestamp": "2026-05-27T13:33:00Z",
+    "scrapedAt": "2026-05-27T14:05:23Z",
+    "address": "HWY 99",
+    "city": "Surrey",
+    "streets": [
+      "surrey/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2483361680"
+  },
+  {
+    "id": "2026-05-27T13:19:00Z_abbotsford/33660-south-fraser-way",
+    "timestamp": "2026-05-27T13:19:00Z",
+    "scrapedAt": "2026-05-27T14:05:23Z",
+    "address": "33660 SOUTH FRASER WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/33660-south-fraser-way"
+    ],
+    "streetNames": [
+      "33660 South Fraser Way"
+    ],
+    "pulsePointId": "2483356028"
+  },
+  {
     "id": "2026-05-27T11:03:00Z_richmond/no-1-rd_richmond/blundell-rd",
     "timestamp": "2026-05-27T11:03:00Z",
     "scrapedAt": "2026-05-27T11:06:47Z",
