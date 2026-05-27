@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-27T03:36:00Z_surrey/72nd-ave_surrey/130th-st",
+    "timestamp": "2026-05-27T03:36:00Z",
+    "scrapedAt": "2026-05-27T03:44:01Z",
+    "address": "72ND AVE & 130TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/72nd-ave",
+      "surrey/130th-st"
+    ],
+    "streetNames": [
+      "72nd Ave",
+      "130th St"
+    ],
+    "pulsePointId": "2483179983"
+  },
+  {
+    "id": "2026-05-27T02:56:00Z_surrey/104th-ave_surrey/152nd-st",
+    "timestamp": "2026-05-27T02:56:00Z",
+    "scrapedAt": "2026-05-27T03:44:01Z",
+    "address": "104TH AVE & 152ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/104th-ave",
+      "surrey/152nd-st"
+    ],
+    "streetNames": [
+      "104th Ave",
+      "152nd St"
+    ],
+    "pulsePointId": "2483160704"
+  },
+  {
     "id": "2026-05-27T02:03:00Z_richmond/no-6-rd_richmond/westminster-hwy",
     "timestamp": "2026-05-27T02:03:00Z",
     "scrapedAt": "2026-05-27T02:16:54Z",
