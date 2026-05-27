@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-05-27T22:02:00Z_langley/272nd-st_langley/58th-cres",
+      "timestamp": "2026-05-27T22:02:00Z",
+      "address": "272ND ST & 58TH CRES",
+      "city": "Langley",
+      "streets": [
+        "langley/272nd-st",
+        "langley/58th-cres"
+      ],
+      "streetNames": [
+        "272nd St",
+        "58th Cres"
+      ],
+      "pulsePointId": "2483693054"
+    },
+    {
       "id": "2026-05-18T05:51:00Z_langley/80th-ave_langley/272nd-st",
       "timestamp": "2026-05-18T05:51:00Z",
       "address": "80TH AVE & 272ND ST",
@@ -134,6 +149,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-18T05:51:00Z",
-  "count": 9
+  "lastIncident": "2026-05-27T22:02:00Z",
+  "count": 10
 }

@@ -220,8 +220,8 @@
     "name": "272nd St",
     "slug": "langley/272nd-st",
     "city": "Langley",
-    "lastIncident": "2026-05-18T05:51:00Z",
-    "count": 9
+    "lastIncident": "2026-05-27T22:02:00Z",
+    "count": 10
   },
   "langley/273rd-st": {
     "name": "273rd St",
@@ -255,8 +255,8 @@
     "name": "58th Cres",
     "slug": "langley/58th-cres",
     "city": "Langley",
-    "lastIncident": "2026-03-09T22:51:00Z",
-    "count": 1
+    "lastIncident": "2026-05-27T22:02:00Z",
+    "count": 2
   },
   "langley/fraser-hwy": {
     "name": "Fraser Hwy",
@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-27T20:02:00Z",
-    "count": 33
+    "lastIncident": "2026-05-27T21:34:00Z",
+    "count": 34
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -983,8 +983,8 @@
     "name": "No 6 Rd",
     "slug": "richmond/no-6-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-27T02:03:00Z",
-    "count": 4
+    "lastIncident": "2026-05-27T21:14:00Z",
+    "count": 5
   },
   "richmond/westminster-hwy": {
     "name": "Westminster Hwy",
@@ -2348,8 +2348,8 @@
     "name": "W 41st Ave",
     "slug": "vancouver/w-41st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-05T19:57:00Z",
-    "count": 12
+    "lastIncident": "2026-05-27T21:34:00Z",
+    "count": 13
   },
   "burnaby/cariboo-rd": {
     "name": "Cariboo Rd",
@@ -3986,8 +3986,8 @@
     "name": "Burrows Rd",
     "slug": "richmond/burrows-rd",
     "city": "Richmond",
-    "lastIncident": "2026-03-25T18:00:00Z",
-    "count": 1
+    "lastIncident": "2026-05-27T21:14:00Z",
+    "count": 2
   },
   "langley/19820-fraser-hwy": {
     "name": "19820 Fraser Hwy",
