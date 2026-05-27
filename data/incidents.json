@@ -1,5 +1,97 @@
 [
   {
+    "id": "2026-05-27T00:54:00Z_abbotsford/sandpiper-dr_abbotsford/blue-jay-st",
+    "timestamp": "2026-05-27T00:54:00Z",
+    "scrapedAt": "2026-05-27T01:24:48Z",
+    "address": "SANDPIPER DR & BLUE JAY ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/sandpiper-dr",
+      "abbotsford/blue-jay-st"
+    ],
+    "streetNames": [
+      "Sandpiper Dr",
+      "Blue Jay St"
+    ],
+    "pulsePointId": "2483094323"
+  },
+  {
+    "id": "2026-05-27T00:52:00Z_surrey/trans-canada-hwy",
+    "timestamp": "2026-05-27T00:52:00Z",
+    "scrapedAt": "2026-05-27T01:24:48Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2483093682"
+  },
+  {
+    "id": "2026-05-27T00:50:00Z_surrey/84th-ave_surrey/king-george-blvd",
+    "timestamp": "2026-05-27T00:50:00Z",
+    "scrapedAt": "2026-05-27T01:24:48Z",
+    "address": "84TH AVE & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/84th-ave",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "84th Ave",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2483090144"
+  },
+  {
+    "id": "2026-05-27T00:46:00Z_surrey/80th-ave_surrey/176th-st",
+    "timestamp": "2026-05-27T00:46:00Z",
+    "scrapedAt": "2026-05-27T01:24:48Z",
+    "address": "80TH AVE & 176TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/80th-ave",
+      "surrey/176th-st"
+    ],
+    "streetNames": [
+      "80th Ave",
+      "176th St"
+    ],
+    "pulsePointId": "2483089286"
+  },
+  {
+    "id": "2026-05-27T00:37:00Z_vancouver/victoria-dr_vancouver/hull-st",
+    "timestamp": "2026-05-27T00:37:00Z",
+    "scrapedAt": "2026-05-27T01:24:48Z",
+    "address": "VICTORIA DR & HULL ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/victoria-dr",
+      "vancouver/hull-st"
+    ],
+    "streetNames": [
+      "Victoria Dr",
+      "Hull St"
+    ],
+    "pulsePointId": "2483083406"
+  },
+  {
+    "id": "2026-05-27T00:21:00Z_richmond/hwy-91",
+    "timestamp": "2026-05-27T00:21:00Z",
+    "scrapedAt": "2026-05-27T01:24:48Z",
+    "address": "HWY 91",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hwy-91"
+    ],
+    "streetNames": [
+      "Hwy 91"
+    ],
+    "pulsePointId": "2483074918"
+  },
+  {
     "id": "2026-05-26T23:27:00Z_maple-ridge/maple-cres_maple-ridge/113b-ave",
     "timestamp": "2026-05-26T23:27:00Z",
     "scrapedAt": "2026-05-26T23:49:49Z",

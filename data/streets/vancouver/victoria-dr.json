@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-27T00:37:00Z_vancouver/victoria-dr_vancouver/hull-st",
+      "timestamp": "2026-05-27T00:37:00Z",
+      "address": "VICTORIA DR & HULL ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/victoria-dr",
+        "vancouver/hull-st"
+      ],
+      "streetNames": [
+        "Victoria Dr",
+        "Hull St"
+      ],
+      "pulsePointId": "2483083406"
+    },
+    {
       "id": "2026-05-26T02:25:00Z_vancouver/victoria-dr_vancouver/e-1st-ave",
       "timestamp": "2026-05-26T02:25:00Z",
       "address": "VICTORIA DR & E 1ST AVE",
@@ -225,6 +240,6 @@
       "pulsePointId": "2437375979"
     }
   ],
-  "lastIncident": "2026-05-26T02:25:00Z",
-  "count": 15
+  "lastIncident": "2026-05-27T00:37:00Z",
+  "count": 16
 }

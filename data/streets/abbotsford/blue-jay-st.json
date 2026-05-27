@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/blue-jay-st",
+  "name": "Blue Jay St",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-05-27T00:54:00Z_abbotsford/sandpiper-dr_abbotsford/blue-jay-st",
+      "timestamp": "2026-05-27T00:54:00Z",
+      "address": "SANDPIPER DR & BLUE JAY ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/sandpiper-dr",
+        "abbotsford/blue-jay-st"
+      ],
+      "streetNames": [
+        "Sandpiper Dr",
+        "Blue Jay St"
+      ],
+      "pulsePointId": "2483094323"
+    }
+  ],
+  "lastIncident": "2026-05-27T00:54:00Z",
+  "count": 1
+}
