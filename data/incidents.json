@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-05-27T20:49:00Z_coquitlam/lougheed-hwy",
+    "timestamp": "2026-05-27T20:49:00Z",
+    "scrapedAt": "2026-05-27T21:09:18Z",
+    "address": "LOUGHEED HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2483641996"
+  },
+  {
+    "id": "2026-05-27T20:49:00Z_surrey/104th-ave_surrey/160th-st",
+    "timestamp": "2026-05-27T20:49:00Z",
+    "scrapedAt": "2026-05-27T21:09:18Z",
+    "address": "104TH AVE & 160TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/104th-ave",
+      "surrey/160th-st"
+    ],
+    "streetNames": [
+      "104th Ave",
+      "160th St"
+    ],
+    "pulsePointId": "2483639964"
+  },
+  {
+    "id": "2026-05-27T20:15:00Z_richmond/hwy-99",
+    "timestamp": "2026-05-27T20:15:00Z",
+    "scrapedAt": "2026-05-27T21:09:18Z",
+    "address": "HWY 99",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2483615857"
+  },
+  {
     "id": "2026-05-27T20:02:00Z_vancouver/granville-st_vancouver/w-70th-ave",
     "timestamp": "2026-05-27T20:02:00Z",
     "scrapedAt": "2026-05-27T20:14:23Z",
