@@ -1298,8 +1298,8 @@
     "name": "120th St",
     "slug": "surrey/120th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-25T22:30:00Z",
-    "count": 7
+    "lastIncident": "2026-05-27T17:48:00Z",
+    "count": 8
   },
   "delta/72nd-st": {
     "name": "72nd St",
@@ -10679,6 +10679,13 @@
     "slug": "delta/80th-st-conn-ofrp",
     "city": "Delta",
     "lastIncident": "2026-05-27T16:44:00Z",
+    "count": 1
+  },
+  "abbotsford/1127-sumas-way": {
+    "name": "1127 Sumas Way",
+    "slug": "abbotsford/1127-sumas-way",
+    "city": "Abbotsford",
+    "lastIncident": "2026-05-27T17:45:00Z",
     "count": 1
   }
 }
