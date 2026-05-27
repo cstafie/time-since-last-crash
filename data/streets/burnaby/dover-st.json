@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-27T19:09:00Z_burnaby/dover-st_burnaby/royal-oak-ave",
+      "timestamp": "2026-05-27T19:09:00Z",
+      "address": "DOVER ST & ROYAL OAK AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/dover-st",
+        "burnaby/royal-oak-ave"
+      ],
+      "streetNames": [
+        "Dover St",
+        "Royal Oak Ave"
+      ],
+      "pulsePointId": "2483569864"
+    },
+    {
       "id": "2026-04-29T14:44:00Z_burnaby/nelson-ave_burnaby/dover-st",
       "timestamp": "2026-04-29T14:44:00Z",
       "address": "NELSON AVE & DOVER ST",
@@ -19,6 +34,6 @@
       "pulsePointId": "2463822509"
     }
   ],
-  "lastIncident": "2026-04-29T14:44:00Z",
-  "count": 1
+  "lastIncident": "2026-05-27T19:09:00Z",
+  "count": 2
 }

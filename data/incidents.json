@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-27T19:09:00Z_burnaby/dover-st_burnaby/royal-oak-ave",
+    "timestamp": "2026-05-27T19:09:00Z",
+    "scrapedAt": "2026-05-27T19:15:21Z",
+    "address": "DOVER ST & ROYAL OAK AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/dover-st",
+      "burnaby/royal-oak-ave"
+    ],
+    "streetNames": [
+      "Dover St",
+      "Royal Oak Ave"
+    ],
+    "pulsePointId": "2483569864"
+  },
+  {
+    "id": "2026-05-27T18:51:00Z_langley/trans-canada-hwy",
+    "timestamp": "2026-05-27T18:51:00Z",
+    "scrapedAt": "2026-05-27T19:15:21Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2483556588"
+  },
+  {
     "id": "2026-05-27T17:48:00Z_surrey/120th-st",
     "timestamp": "2026-05-27T17:48:00Z",
     "scrapedAt": "2026-05-27T18:05:42Z",

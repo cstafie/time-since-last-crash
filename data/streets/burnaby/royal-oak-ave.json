@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-27T19:09:00Z_burnaby/dover-st_burnaby/royal-oak-ave",
+      "timestamp": "2026-05-27T19:09:00Z",
+      "address": "DOVER ST & ROYAL OAK AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/dover-st",
+        "burnaby/royal-oak-ave"
+      ],
+      "streetNames": [
+        "Dover St",
+        "Royal Oak Ave"
+      ],
+      "pulsePointId": "2483569864"
+    },
+    {
       "id": "2026-05-23T21:14:00Z_burnaby/royal-oak-ave_burnaby/oakmount-cres",
       "timestamp": "2026-05-23T21:14:00Z",
       "address": "ROYAL OAK AVE & OAKMOUNT CRES",
@@ -107,6 +122,6 @@
       "pulsePointId": "2439944324"
     }
   ],
-  "lastIncident": "2026-05-23T21:14:00Z",
-  "count": 7
+  "lastIncident": "2026-05-27T19:09:00Z",
+  "count": 8
 }
