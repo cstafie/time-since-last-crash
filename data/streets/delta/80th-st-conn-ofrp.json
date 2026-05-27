@@ -1,0 +1,24 @@
+{
+  "slug": "delta/80th-st-conn-ofrp",
+  "name": "80th St Conn Ofrp",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-05-27T16:44:00Z_delta/80th-st-conn-ofrp_delta/hwy-17",
+      "timestamp": "2026-05-27T16:44:00Z",
+      "address": "80TH ST CONN OFRP & HWY 17",
+      "city": "Delta",
+      "streets": [
+        "delta/80th-st-conn-ofrp",
+        "delta/hwy-17"
+      ],
+      "streetNames": [
+        "80th St Conn Ofrp",
+        "Hwy 17"
+      ],
+      "pulsePointId": "2483468382"
+    }
+  ],
+  "lastIncident": "2026-05-27T16:44:00Z",
+  "count": 1
+}

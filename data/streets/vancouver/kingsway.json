@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-27T16:43:00Z_vancouver/kingsway_vancouver/rupert-st",
+      "timestamp": "2026-05-27T16:43:00Z",
+      "address": "KINGSWAY & RUPERT ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/kingsway",
+        "vancouver/rupert-st"
+      ],
+      "streetNames": [
+        "Kingsway",
+        "Rupert St"
+      ],
+      "pulsePointId": "2483467086"
+    },
+    {
       "id": "2026-05-21T01:45:00Z_vancouver/kingsway",
       "timestamp": "2026-05-21T01:45:00Z",
       "address": "KINGSWAY",
@@ -284,6 +299,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-21T01:45:00Z",
-  "count": 19
+  "lastIncident": "2026-05-27T16:43:00Z",
+  "count": 20
 }

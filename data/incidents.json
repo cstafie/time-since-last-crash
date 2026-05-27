@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-05-27T16:55:00Z_vancouver/beatty-st",
+    "timestamp": "2026-05-27T16:55:00Z",
+    "scrapedAt": "2026-05-27T17:00:09Z",
+    "address": "BEATTY ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/beatty-st"
+    ],
+    "streetNames": [
+      "Beatty St"
+    ],
+    "pulsePointId": "2483474435"
+  },
+  {
+    "id": "2026-05-27T16:44:00Z_delta/80th-st-conn-ofrp_delta/hwy-17",
+    "timestamp": "2026-05-27T16:44:00Z",
+    "scrapedAt": "2026-05-27T17:00:09Z",
+    "address": "80TH ST CONN OFRP & HWY 17",
+    "city": "Delta",
+    "streets": [
+      "delta/80th-st-conn-ofrp",
+      "delta/hwy-17"
+    ],
+    "streetNames": [
+      "80th St Conn Ofrp",
+      "Hwy 17"
+    ],
+    "pulsePointId": "2483468382"
+  },
+  {
+    "id": "2026-05-27T16:43:00Z_vancouver/kingsway_vancouver/rupert-st",
+    "timestamp": "2026-05-27T16:43:00Z",
+    "scrapedAt": "2026-05-27T17:00:09Z",
+    "address": "KINGSWAY & RUPERT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kingsway",
+      "vancouver/rupert-st"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "Rupert St"
+    ],
+    "pulsePointId": "2483467086"
+  },
+  {
     "id": "2026-05-27T15:14:00Z_surrey/64th-ave_surrey/130th-st",
     "timestamp": "2026-05-27T15:14:00Z",
     "scrapedAt": "2026-05-27T15:44:38Z",

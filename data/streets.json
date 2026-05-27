@@ -745,8 +745,8 @@
     "name": "Kingsway",
     "slug": "vancouver/kingsway",
     "city": "Vancouver",
-    "lastIncident": "2026-05-21T01:45:00Z",
-    "count": 19
+    "lastIncident": "2026-05-27T16:43:00Z",
+    "count": 20
   },
   "vancouver/knight-st": {
     "name": "Knight St",
@@ -2187,8 +2187,8 @@
     "name": "Rupert St",
     "slug": "vancouver/rupert-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-10T00:49:00Z",
-    "count": 9
+    "lastIncident": "2026-05-27T16:43:00Z",
+    "count": 10
   },
   "vancouver/fir-st": {
     "name": "Fir St",
@@ -4910,8 +4910,8 @@
     "name": "Hwy 17",
     "slug": "delta/hwy-17",
     "city": "Delta",
-    "lastIncident": "2026-05-26T06:23:00Z",
-    "count": 10
+    "lastIncident": "2026-05-27T16:44:00Z",
+    "count": 11
   },
   "coquitlam/winslow-ave": {
     "name": "Winslow Ave",
@@ -7332,8 +7332,8 @@
     "name": "Beatty St",
     "slug": "vancouver/beatty-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-21T05:49:00Z",
-    "count": 1
+    "lastIncident": "2026-05-27T16:55:00Z",
+    "count": 2
   },
   "port-coquitlam/lougheed-meridian-conn": {
     "name": "Lougheed Meridian Conn",
@@ -10672,6 +10672,13 @@
     "slug": "coquitlam/golden-dr",
     "city": "Coquitlam",
     "lastIncident": "2026-05-27T14:45:00Z",
+    "count": 1
+  },
+  "delta/80th-st-conn-ofrp": {
+    "name": "80th St Conn Ofrp",
+    "slug": "delta/80th-st-conn-ofrp",
+    "city": "Delta",
+    "lastIncident": "2026-05-27T16:44:00Z",
     "count": 1
   }
 }
