@@ -4,6 +4,36 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-27T20:02:00Z_vancouver/granville-st_vancouver/w-70th-ave",
+      "timestamp": "2026-05-27T20:02:00Z",
+      "address": "GRANVILLE ST & W 70TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st",
+        "vancouver/w-70th-ave"
+      ],
+      "streetNames": [
+        "Granville St",
+        "W 70th Ave"
+      ],
+      "pulsePointId": "2483609345"
+    },
+    {
+      "id": "2026-05-27T19:56:00Z_vancouver/french-st_vancouver/w-70th-ave",
+      "timestamp": "2026-05-27T19:56:00Z",
+      "address": "FRENCH ST & W 70TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/french-st",
+        "vancouver/w-70th-ave"
+      ],
+      "streetNames": [
+        "French St",
+        "W 70th Ave"
+      ],
+      "pulsePointId": "2483603868"
+    },
+    {
       "id": "2026-04-08T17:01:00Z_vancouver/w-70th-ave_vancouver/cartier-st",
       "timestamp": "2026-04-08T17:01:00Z",
       "address": "W 70TH AVE & CARTIER ST",
@@ -33,6 +63,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-08T17:01:00Z",
-  "count": 2
+  "lastIncident": "2026-05-27T20:02:00Z",
+  "count": 4
 }

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-27T19:40:00Z_vancouver/burrard-st_vancouver/w-cordova-st",
+      "timestamp": "2026-05-27T19:40:00Z",
+      "address": "BURRARD ST & W CORDOVA ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/burrard-st",
+        "vancouver/w-cordova-st"
+      ],
+      "streetNames": [
+        "Burrard St",
+        "W Cordova St"
+      ],
+      "pulsePointId": "2483591983"
+    },
+    {
       "id": "2026-05-17T21:43:00Z_vancouver/w-12th-ave_vancouver/burrard-st",
       "timestamp": "2026-05-17T21:43:00Z",
       "address": "W 12TH AVE & BURRARD ST",
@@ -196,6 +211,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-17T21:43:00Z",
-  "count": 13
+  "lastIncident": "2026-05-27T19:40:00Z",
+  "count": 14
 }

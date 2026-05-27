@@ -703,8 +703,8 @@
     "name": "Burrard St",
     "slug": "vancouver/burrard-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-17T21:43:00Z",
-    "count": 13
+    "lastIncident": "2026-05-27T19:40:00Z",
+    "count": 14
   },
   "vancouver/e-12th-ave": {
     "name": "E 12th Ave",
@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-23T09:44:00Z",
-    "count": 32
+    "lastIncident": "2026-05-27T20:02:00Z",
+    "count": 33
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -801,8 +801,8 @@
     "name": "W 70th Ave",
     "slug": "vancouver/w-70th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-08T17:01:00Z",
-    "count": 2
+    "lastIncident": "2026-05-27T20:02:00Z",
+    "count": 4
   },
   "vancouver/w-broadway": {
     "name": "W Broadway",
@@ -1046,8 +1046,8 @@
     "name": "88th Ave",
     "slug": "langley/88th-ave",
     "city": "Langley",
-    "lastIncident": "2026-05-27T05:25:00Z",
-    "count": 7
+    "lastIncident": "2026-05-27T20:02:00Z",
+    "count": 8
   },
   "chilliwack/ryder-lake-rd": {
     "name": "Ryder Lake Rd",
@@ -2754,8 +2754,8 @@
     "name": "204th St",
     "slug": "langley/204th-st",
     "city": "Langley",
-    "lastIncident": "2026-05-22T21:55:00Z",
-    "count": 4
+    "lastIncident": "2026-05-27T20:02:00Z",
+    "count": 5
   },
   "burnaby/lake-city-way": {
     "name": "Lake City Way",
@@ -10686,6 +10686,20 @@
     "slug": "abbotsford/1127-sumas-way",
     "city": "Abbotsford",
     "lastIncident": "2026-05-27T17:45:00Z",
+    "count": 1
+  },
+  "vancouver/french-st": {
+    "name": "French St",
+    "slug": "vancouver/french-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-27T19:56:00Z",
+    "count": 1
+  },
+  "vancouver/w-cordova-st": {
+    "name": "W Cordova St",
+    "slug": "vancouver/w-cordova-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-27T19:40:00Z",
     "count": 1
   }
 }

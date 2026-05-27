@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-27T20:02:00Z_vancouver/granville-st_vancouver/w-70th-ave",
+      "timestamp": "2026-05-27T20:02:00Z",
+      "address": "GRANVILLE ST & W 70TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st",
+        "vancouver/w-70th-ave"
+      ],
+      "streetNames": [
+        "Granville St",
+        "W 70th Ave"
+      ],
+      "pulsePointId": "2483609345"
+    },
+    {
       "id": "2026-05-23T09:44:00Z_vancouver/granville-st",
       "timestamp": "2026-05-23T09:44:00Z",
       "address": "GRANVILLE ST",
@@ -471,6 +486,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-23T09:44:00Z",
-  "count": 32
+  "lastIncident": "2026-05-27T20:02:00Z",
+  "count": 33
 }

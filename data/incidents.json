@@ -1,5 +1,69 @@
 [
   {
+    "id": "2026-05-27T20:02:00Z_vancouver/granville-st_vancouver/w-70th-ave",
+    "timestamp": "2026-05-27T20:02:00Z",
+    "scrapedAt": "2026-05-27T20:14:23Z",
+    "address": "GRANVILLE ST & W 70TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st",
+      "vancouver/w-70th-ave"
+    ],
+    "streetNames": [
+      "Granville St",
+      "W 70th Ave"
+    ],
+    "pulsePointId": "2483609345"
+  },
+  {
+    "id": "2026-05-27T20:02:00Z_langley/88th-ave_langley/204th-st",
+    "timestamp": "2026-05-27T20:02:00Z",
+    "scrapedAt": "2026-05-27T20:14:23Z",
+    "address": "88TH AVE & 204TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/88th-ave",
+      "langley/204th-st"
+    ],
+    "streetNames": [
+      "88th Ave",
+      "204th St"
+    ],
+    "pulsePointId": "2483609349"
+  },
+  {
+    "id": "2026-05-27T19:56:00Z_vancouver/french-st_vancouver/w-70th-ave",
+    "timestamp": "2026-05-27T19:56:00Z",
+    "scrapedAt": "2026-05-27T20:14:23Z",
+    "address": "FRENCH ST & W 70TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/french-st",
+      "vancouver/w-70th-ave"
+    ],
+    "streetNames": [
+      "French St",
+      "W 70th Ave"
+    ],
+    "pulsePointId": "2483603868"
+  },
+  {
+    "id": "2026-05-27T19:40:00Z_vancouver/burrard-st_vancouver/w-cordova-st",
+    "timestamp": "2026-05-27T19:40:00Z",
+    "scrapedAt": "2026-05-27T20:14:23Z",
+    "address": "BURRARD ST & W CORDOVA ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/burrard-st",
+      "vancouver/w-cordova-st"
+    ],
+    "streetNames": [
+      "Burrard St",
+      "W Cordova St"
+    ],
+    "pulsePointId": "2483591983"
+  },
+  {
     "id": "2026-05-27T19:09:00Z_burnaby/dover-st_burnaby/royal-oak-ave",
     "timestamp": "2026-05-27T19:09:00Z",
     "scrapedAt": "2026-05-27T19:15:21Z",
