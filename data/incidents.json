@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-05-27T06:28:00Z_vancouver/arlington-st_vancouver/e-49th-ave",
+    "timestamp": "2026-05-27T06:28:00Z",
+    "scrapedAt": "2026-05-27T06:49:07Z",
+    "address": "ARLINGTON ST & E 49TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/arlington-st",
+      "vancouver/e-49th-ave"
+    ],
+    "streetNames": [
+      "Arlington St",
+      "E 49th Ave"
+    ],
+    "pulsePointId": "2483248677"
+  },
+  {
+    "id": "2026-05-27T05:48:00Z_vancouver/main-st_vancouver/e-hastings-st",
+    "timestamp": "2026-05-27T05:48:00Z",
+    "scrapedAt": "2026-05-27T06:49:07Z",
+    "address": "MAIN ST & E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st",
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "Main St",
+      "E Hastings St"
+    ],
+    "pulsePointId": "2483236185"
+  },
+  {
+    "id": "2026-05-27T05:25:00Z_langley/88th-ave_langley/200th-st",
+    "timestamp": "2026-05-27T05:25:00Z",
+    "scrapedAt": "2026-05-27T06:49:07Z",
+    "address": "88TH AVE & 200TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/88th-ave",
+      "langley/200th-st"
+    ],
+    "streetNames": [
+      "88th Ave",
+      "200th St"
+    ],
+    "pulsePointId": "2483226685"
+  },
+  {
     "id": "2026-05-27T05:19:00Z_coquitlam/david-ave",
     "timestamp": "2026-05-27T05:19:00Z",
     "scrapedAt": "2026-05-27T05:25:35Z",

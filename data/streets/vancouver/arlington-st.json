@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/arlington-st",
+  "name": "Arlington St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-27T06:28:00Z_vancouver/arlington-st_vancouver/e-49th-ave",
+      "timestamp": "2026-05-27T06:28:00Z",
+      "address": "ARLINGTON ST & E 49TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/arlington-st",
+        "vancouver/e-49th-ave"
+      ],
+      "streetNames": [
+        "Arlington St",
+        "E 49th Ave"
+      ],
+      "pulsePointId": "2483248677"
+    }
+  ],
+  "lastIncident": "2026-05-27T06:28:00Z",
+  "count": 1
+}
