@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-27T02:03:00Z_richmond/no-6-rd_richmond/westminster-hwy",
+    "timestamp": "2026-05-27T02:03:00Z",
+    "scrapedAt": "2026-05-27T02:16:54Z",
+    "address": "NO 6 RD & WESTMINSTER HWY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/no-6-rd",
+      "richmond/westminster-hwy"
+    ],
+    "streetNames": [
+      "No 6 Rd",
+      "Westminster Hwy"
+    ],
+    "pulsePointId": "2483132430"
+  },
+  {
+    "id": "2026-05-27T01:54:00Z_surrey/79th-ave_surrey/128th-st",
+    "timestamp": "2026-05-27T01:54:00Z",
+    "scrapedAt": "2026-05-27T02:16:54Z",
+    "address": "79TH AVE & 128TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/79th-ave",
+      "surrey/128th-st"
+    ],
+    "streetNames": [
+      "79th Ave",
+      "128th St"
+    ],
+    "pulsePointId": "2483126641"
+  },
+  {
     "id": "2026-05-27T00:54:00Z_abbotsford/sandpiper-dr_abbotsford/blue-jay-st",
     "timestamp": "2026-05-27T00:54:00Z",
     "scrapedAt": "2026-05-27T01:24:48Z",
