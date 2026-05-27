@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-27T05:19:00Z_coquitlam/david-ave",
+    "timestamp": "2026-05-27T05:19:00Z",
+    "scrapedAt": "2026-05-27T05:25:35Z",
+    "address": "DAVID AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/david-ave"
+    ],
+    "streetNames": [
+      "David Ave"
+    ],
+    "pulsePointId": "2483224225"
+  },
+  {
     "id": "2026-05-27T03:36:00Z_surrey/72nd-ave_surrey/130th-st",
     "timestamp": "2026-05-27T03:36:00Z",
     "scrapedAt": "2026-05-27T03:44:01Z",

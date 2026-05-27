@@ -4,6 +4,19 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-05-27T05:19:00Z_coquitlam/david-ave",
+      "timestamp": "2026-05-27T05:19:00Z",
+      "address": "DAVID AVE",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/david-ave"
+      ],
+      "streetNames": [
+        "David Ave"
+      ],
+      "pulsePointId": "2483224225"
+    },
+    {
       "id": "2026-05-19T04:46:00Z_coquitlam/david-ave_coquitlam/hollybrook-st",
       "timestamp": "2026-05-19T04:46:00Z",
       "address": "DAVID AVE & HOLLYBROOK ST",
@@ -64,6 +77,6 @@
       "pulsePointId": "2432944071"
     }
   ],
-  "lastIncident": "2026-05-19T04:46:00Z",
-  "count": 4
+  "lastIncident": "2026-05-27T05:19:00Z",
+  "count": 5
 }
