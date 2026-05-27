@@ -1,0 +1,24 @@
+{
+  "slug": "chilliwack/clover-dr",
+  "name": "Clover Dr",
+  "city": "Chilliwack",
+  "incidents": [
+    {
+      "id": "2026-05-27T15:10:00Z_chilliwack/thomas-rd_chilliwack/clover-dr",
+      "timestamp": "2026-05-27T15:10:00Z",
+      "address": "THOMAS RD & CLOVER DR",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/thomas-rd",
+        "chilliwack/clover-dr"
+      ],
+      "streetNames": [
+        "Thomas Rd",
+        "Clover Dr"
+      ],
+      "pulsePointId": "2483410991"
+    }
+  ],
+  "lastIncident": "2026-05-27T15:10:00Z",
+  "count": 1
+}

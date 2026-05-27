@@ -4,6 +4,19 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-05-27T14:50:00Z_delta/hwy-17a",
+      "timestamp": "2026-05-27T14:50:00Z",
+      "address": "HWY 17A",
+      "city": "Delta",
+      "streets": [
+        "delta/hwy-17a"
+      ],
+      "streetNames": [
+        "Hwy 17a"
+      ],
+      "pulsePointId": "2483399499"
+    },
+    {
       "id": "2026-05-08T20:27:00Z_delta/hwy-17a_delta/ladner-trunk-rd",
       "timestamp": "2026-05-08T20:27:00Z",
       "address": "HWY 17A & LADNER TRUNK RD",
@@ -45,6 +58,6 @@
       "pulsePointId": "2442926935"
     }
   ],
-  "lastIncident": "2026-05-08T20:27:00Z",
-  "count": 3
+  "lastIncident": "2026-05-27T14:50:00Z",
+  "count": 4
 }

@@ -1,6 +1,6 @@
 {
-  "slug": "coquitlam/united-blvd",
-  "name": "United Blvd",
+  "slug": "coquitlam/golden-dr",
+  "name": "Golden Dr",
   "city": "Coquitlam",
   "incidents": [
     {
@@ -17,20 +17,8 @@
         "United Blvd"
       ],
       "pulsePointId": "2483396322"
-    },
-    {
-      "id": "2026-03-07T17:45:00Z_united-blvd",
-      "timestamp": "2026-03-07T17:45:00Z",
-      "address": "UNITED BLVD",
-      "city": "Coquitlam",
-      "streets": [
-        "coquitlam/united-blvd"
-      ],
-      "streetNames": [
-        "United Blvd"
-      ]
     }
   ],
   "lastIncident": "2026-05-27T14:45:00Z",
-  "count": 2
+  "count": 1
 }
