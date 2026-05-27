@@ -437,8 +437,8 @@
     "name": "Blundell Rd",
     "slug": "richmond/blundell-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-23T21:25:00Z",
-    "count": 15
+    "lastIncident": "2026-05-27T11:03:00Z",
+    "count": 16
   },
   "richmond/bowcock-rd": {
     "name": "Bowcock Rd",
@@ -1081,8 +1081,8 @@
     "name": "No 1 Rd",
     "slug": "richmond/no-1-rd",
     "city": "Richmond",
-    "lastIncident": "2026-04-17T22:57:00Z",
-    "count": 3
+    "lastIncident": "2026-05-27T11:03:00Z",
+    "count": 4
   },
   "richmond/steveston-hwy": {
     "name": "Steveston Hwy",
