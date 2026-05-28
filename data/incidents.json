@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-28T20:59:00Z_burnaby/willingdon-ave_burnaby/price-st",
+    "timestamp": "2026-05-28T20:59:00Z",
+    "scrapedAt": "2026-05-28T21:12:52Z",
+    "address": "WILLINGDON AVE & PRICE ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/willingdon-ave",
+      "burnaby/price-st"
+    ],
+    "streetNames": [
+      "Willingdon Ave",
+      "Price St"
+    ],
+    "pulsePointId": "2484347990"
+  },
+  {
     "id": "2026-05-28T20:06:00Z_burnaby/beta-ave_burnaby/hastings-st",
     "timestamp": "2026-05-28T20:06:00Z",
     "scrapedAt": "2026-05-28T20:15:06Z",

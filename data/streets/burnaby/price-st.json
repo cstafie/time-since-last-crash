@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/price-st",
+  "name": "Price St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-05-28T20:59:00Z_burnaby/willingdon-ave_burnaby/price-st",
+      "timestamp": "2026-05-28T20:59:00Z",
+      "address": "WILLINGDON AVE & PRICE ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/willingdon-ave",
+        "burnaby/price-st"
+      ],
+      "streetNames": [
+        "Willingdon Ave",
+        "Price St"
+      ],
+      "pulsePointId": "2484347990"
+    }
+  ],
+  "lastIncident": "2026-05-28T20:59:00Z",
+  "count": 1
+}

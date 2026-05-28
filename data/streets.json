@@ -80,8 +80,8 @@
     "name": "Willingdon Ave",
     "slug": "burnaby/willingdon-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-05-16T12:41:00Z",
-    "count": 6
+    "lastIncident": "2026-05-28T20:59:00Z",
+    "count": 7
   },
   "chilliwack/chadsey-rd": {
     "name": "Chadsey Rd",
@@ -10763,6 +10763,13 @@
     "slug": "delta/hwy-10-onrp",
     "city": "Delta",
     "lastIncident": "2026-05-28T19:49:00Z",
+    "count": 1
+  },
+  "burnaby/price-st": {
+    "name": "Price St",
+    "slug": "burnaby/price-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-05-28T20:59:00Z",
     "count": 1
   }
 }
