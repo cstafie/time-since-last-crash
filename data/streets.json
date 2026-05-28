@@ -1130,8 +1130,8 @@
     "name": "Canada Way",
     "slug": "burnaby/canada-way",
     "city": "Burnaby",
-    "lastIncident": "2026-05-24T05:31:00Z",
-    "count": 18
+    "lastIncident": "2026-05-28T16:20:00Z",
+    "count": 19
   },
   "burnaby/norland-ave": {
     "name": "Norland Ave",
@@ -1928,8 +1928,8 @@
     "name": "Renfrew St",
     "slug": "vancouver/renfrew-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-23T20:26:00Z",
-    "count": 14
+    "lastIncident": "2026-05-28T15:49:00Z",
+    "count": 15
   },
   "vancouver/e-22nd-ave": {
     "name": "E 22nd Ave",
@@ -2061,15 +2061,15 @@
     "name": "Cambie Rd",
     "slug": "richmond/cambie-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-28T02:25:00Z",
-    "count": 3
+    "lastIncident": "2026-05-28T15:53:00Z",
+    "count": 4
   },
   "richmond/viking-way": {
     "name": "Viking Way",
     "slug": "richmond/viking-way",
     "city": "Richmond",
-    "lastIncident": "2026-03-15T00:23:00Z",
-    "count": 1
+    "lastIncident": "2026-05-28T15:53:00Z",
+    "count": 2
   },
   "vancouver/ironworkers-memorial-brdg": {
     "name": "Ironworkers Memorial Brdg",
@@ -5456,8 +5456,8 @@
     "name": "Burris St",
     "slug": "burnaby/burris-st",
     "city": "Burnaby",
-    "lastIncident": "2026-04-05T06:16:00Z",
-    "count": 1
+    "lastIncident": "2026-05-28T16:20:00Z",
+    "count": 2
   },
   "burnaby/marine-dr": {
     "name": "Marine Dr",

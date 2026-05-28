@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-05-28T16:20:00Z_burnaby/canada-way_burnaby/burris-st",
+    "timestamp": "2026-05-28T16:20:00Z",
+    "scrapedAt": "2026-05-28T17:09:53Z",
+    "address": "CANADA WAY & BURRIS ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/canada-way",
+      "burnaby/burris-st"
+    ],
+    "streetNames": [
+      "Canada Way",
+      "Burris St"
+    ],
+    "pulsePointId": "2484160585"
+  },
+  {
+    "id": "2026-05-28T15:53:00Z_richmond/cambie-rd_richmond/viking-way",
+    "timestamp": "2026-05-28T15:53:00Z",
+    "scrapedAt": "2026-05-28T17:09:53Z",
+    "address": "CAMBIE RD & VIKING WAY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/cambie-rd",
+      "richmond/viking-way"
+    ],
+    "streetNames": [
+      "Cambie Rd",
+      "Viking Way"
+    ],
+    "pulsePointId": "2484145815"
+  },
+  {
+    "id": "2026-05-28T15:49:00Z_vancouver/renfrew-st",
+    "timestamp": "2026-05-28T15:49:00Z",
+    "scrapedAt": "2026-05-28T17:09:53Z",
+    "address": "RENFREW ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/renfrew-st"
+    ],
+    "streetNames": [
+      "Renfrew St"
+    ],
+    "pulsePointId": "2484144321"
+  },
+  {
     "id": "2026-05-28T14:59:00Z_surrey/88th-ave_surrey/126th-st",
     "timestamp": "2026-05-28T14:59:00Z",
     "scrapedAt": "2026-05-28T15:44:59Z",

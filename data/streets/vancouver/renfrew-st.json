@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-28T15:49:00Z_vancouver/renfrew-st",
+      "timestamp": "2026-05-28T15:49:00Z",
+      "address": "RENFREW ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/renfrew-st"
+      ],
+      "streetNames": [
+        "Renfrew St"
+      ],
+      "pulsePointId": "2484144321"
+    },
+    {
       "id": "2026-05-23T20:26:00Z_vancouver/renfrew-st_vancouver/e-1st-ave",
       "timestamp": "2026-05-23T20:26:00Z",
       "address": "RENFREW ST & E 1ST AVE",
@@ -214,6 +227,6 @@
       "pulsePointId": "2433781130"
     }
   ],
-  "lastIncident": "2026-05-23T20:26:00Z",
-  "count": 14
+  "lastIncident": "2026-05-28T15:49:00Z",
+  "count": 15
 }

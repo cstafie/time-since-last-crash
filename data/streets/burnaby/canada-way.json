@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-28T16:20:00Z_burnaby/canada-way_burnaby/burris-st",
+      "timestamp": "2026-05-28T16:20:00Z",
+      "address": "CANADA WAY & BURRIS ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/canada-way",
+        "burnaby/burris-st"
+      ],
+      "streetNames": [
+        "Canada Way",
+        "Burris St"
+      ],
+      "pulsePointId": "2484160585"
+    },
+    {
       "id": "2026-05-24T05:31:00Z_burnaby/canada-way_burnaby/wayburne-dr",
       "timestamp": "2026-05-24T05:31:00Z",
       "address": "CANADA WAY & WAYBURNE DR",
@@ -265,6 +280,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-24T05:31:00Z",
-  "count": 18
+  "lastIncident": "2026-05-28T16:20:00Z",
+  "count": 19
 }

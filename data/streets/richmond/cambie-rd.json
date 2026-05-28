@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-05-28T15:53:00Z_richmond/cambie-rd_richmond/viking-way",
+      "timestamp": "2026-05-28T15:53:00Z",
+      "address": "CAMBIE RD & VIKING WAY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/cambie-rd",
+        "richmond/viking-way"
+      ],
+      "streetNames": [
+        "Cambie Rd",
+        "Viking Way"
+      ],
+      "pulsePointId": "2484145815"
+    },
+    {
       "id": "2026-05-28T02:25:00Z_richmond/shell-rd_richmond/cambie-rd",
       "timestamp": "2026-05-28T02:25:00Z",
       "address": "SHELL RD & CAMBIE RD",
@@ -49,6 +64,6 @@
       "pulsePointId": "2434197215"
     }
   ],
-  "lastIncident": "2026-05-28T02:25:00Z",
-  "count": 3
+  "lastIncident": "2026-05-28T15:53:00Z",
+  "count": 4
 }
