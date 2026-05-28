@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-28T14:28:00Z_vancouver/w-12th-ave_vancouver/manitoba-st",
+      "timestamp": "2026-05-28T14:28:00Z",
+      "address": "W 12TH AVE & MANITOBA ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-12th-ave",
+        "vancouver/manitoba-st"
+      ],
+      "streetNames": [
+        "W 12th Ave",
+        "Manitoba St"
+      ],
+      "pulsePointId": "2484101479"
+    },
+    {
       "id": "2026-05-25T17:07:00Z_vancouver/birch-st_vancouver/w-12th-ave",
       "timestamp": "2026-05-25T17:07:00Z",
       "address": "BIRCH ST & W 12TH AVE",
@@ -149,6 +164,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-25T17:07:00Z",
-  "count": 10
+  "lastIncident": "2026-05-28T14:28:00Z",
+  "count": 11
 }

@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-27T23:52:00Z",
-    "count": 25
+    "lastIncident": "2026-05-28T14:59:00Z",
+    "count": 26
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",
@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-27T21:34:00Z",
-    "count": 34
+    "lastIncident": "2026-05-28T14:40:00Z",
+    "count": 35
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -773,8 +773,8 @@
     "name": "W 12th Ave",
     "slug": "vancouver/w-12th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-25T17:07:00Z",
-    "count": 10
+    "lastIncident": "2026-05-28T14:28:00Z",
+    "count": 11
   },
   "vancouver/w-33rd-ave": {
     "name": "W 33rd Ave",
@@ -1515,8 +1515,8 @@
     "name": "W 6th Ave",
     "slug": "vancouver/w-6th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-22T23:43:00Z",
-    "count": 5
+    "lastIncident": "2026-05-28T14:40:00Z",
+    "count": 6
   },
   "vancouver/columbia-st": {
     "name": "Columbia St",
@@ -2096,8 +2096,8 @@
     "name": "126th St",
     "slug": "surrey/126th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-21T01:30:00Z",
-    "count": 8
+    "lastIncident": "2026-05-28T14:59:00Z",
+    "count": 9
   },
   "surrey/huntley-ave": {
     "name": "Huntley Ave",
@@ -6219,8 +6219,8 @@
     "name": "Manitoba St",
     "slug": "vancouver/manitoba-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-09T18:01:00Z",
-    "count": 4
+    "lastIncident": "2026-05-28T14:28:00Z",
+    "count": 5
   },
   "surrey/coventry-rd": {
     "name": "Coventry Rd",

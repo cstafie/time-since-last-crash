@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-28T14:40:00Z_vancouver/w-6th-ave_vancouver/granville-st",
+      "timestamp": "2026-05-28T14:40:00Z",
+      "address": "W 6TH AVE & GRANVILLE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-6th-ave",
+        "vancouver/granville-st"
+      ],
+      "streetNames": [
+        "W 6th Ave",
+        "Granville St"
+      ],
+      "pulsePointId": "2484107759"
+    },
+    {
       "id": "2026-05-22T23:43:00Z_vancouver/ash-st_vancouver/w-6th-ave",
       "timestamp": "2026-05-22T23:43:00Z",
       "address": "ASH ST & W 6TH AVE",
@@ -77,6 +92,6 @@
       "pulsePointId": "2432704249"
     }
   ],
-  "lastIncident": "2026-05-22T23:43:00Z",
-  "count": 5
+  "lastIncident": "2026-05-28T14:40:00Z",
+  "count": 6
 }

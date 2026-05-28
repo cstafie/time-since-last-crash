@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-28T14:28:00Z_vancouver/w-12th-ave_vancouver/manitoba-st",
+      "timestamp": "2026-05-28T14:28:00Z",
+      "address": "W 12TH AVE & MANITOBA ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-12th-ave",
+        "vancouver/manitoba-st"
+      ],
+      "streetNames": [
+        "W 12th Ave",
+        "Manitoba St"
+      ],
+      "pulsePointId": "2484101479"
+    },
+    {
       "id": "2026-05-09T18:01:00Z_vancouver/sw-marine-dr_vancouver/manitoba-st",
       "timestamp": "2026-05-09T18:01:00Z",
       "address": "SW MARINE DR & MANITOBA ST",
@@ -64,6 +79,6 @@
       "pulsePointId": "2451848619"
     }
   ],
-  "lastIncident": "2026-05-09T18:01:00Z",
-  "count": 4
+  "lastIncident": "2026-05-28T14:28:00Z",
+  "count": 5
 }

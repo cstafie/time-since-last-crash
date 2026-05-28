@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-05-28T14:59:00Z_surrey/88th-ave_surrey/126th-st",
+    "timestamp": "2026-05-28T14:59:00Z",
+    "scrapedAt": "2026-05-28T15:44:59Z",
+    "address": "88TH AVE & 126TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/88th-ave",
+      "surrey/126th-st"
+    ],
+    "streetNames": [
+      "88th Ave",
+      "126th St"
+    ],
+    "pulsePointId": "2484117368"
+  },
+  {
+    "id": "2026-05-28T14:40:00Z_vancouver/w-6th-ave_vancouver/granville-st",
+    "timestamp": "2026-05-28T14:40:00Z",
+    "scrapedAt": "2026-05-28T15:44:59Z",
+    "address": "W 6TH AVE & GRANVILLE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-6th-ave",
+      "vancouver/granville-st"
+    ],
+    "streetNames": [
+      "W 6th Ave",
+      "Granville St"
+    ],
+    "pulsePointId": "2484107759"
+  },
+  {
+    "id": "2026-05-28T14:28:00Z_vancouver/w-12th-ave_vancouver/manitoba-st",
+    "timestamp": "2026-05-28T14:28:00Z",
+    "scrapedAt": "2026-05-28T15:44:59Z",
+    "address": "W 12TH AVE & MANITOBA ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-12th-ave",
+      "vancouver/manitoba-st"
+    ],
+    "streetNames": [
+      "W 12th Ave",
+      "Manitoba St"
+    ],
+    "pulsePointId": "2484101479"
+  },
+  {
     "id": "2026-05-28T13:30:00Z_surrey/60th-ave_surrey/144th-st",
     "timestamp": "2026-05-28T13:30:00Z",
     "scrapedAt": "2026-05-28T14:11:28Z",
