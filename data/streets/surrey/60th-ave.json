@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-05-28T13:30:00Z_surrey/60th-ave_surrey/144th-st",
+      "timestamp": "2026-05-28T13:30:00Z",
+      "address": "60TH AVE & 144TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/60th-ave",
+        "surrey/144th-st"
+      ],
+      "streetNames": [
+        "60th Ave",
+        "144th St"
+      ],
+      "pulsePointId": "2484076380"
+    },
+    {
       "id": "2026-05-15T00:32:00Z_surrey/60th-ave_surrey/128th-st",
       "timestamp": "2026-05-15T00:32:00Z",
       "address": "60TH AVE & 128TH ST",
@@ -118,6 +133,6 @@
       "pulsePointId": "2437144167"
     }
   ],
-  "lastIncident": "2026-05-15T00:32:00Z",
-  "count": 8
+  "lastIncident": "2026-05-28T13:30:00Z",
+  "count": 9
 }
