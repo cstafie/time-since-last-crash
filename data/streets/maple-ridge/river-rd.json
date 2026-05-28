@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-05-28T23:26:00Z_maple-ridge/river-rd_maple-ridge/212th-st",
+      "timestamp": "2026-05-28T23:26:00Z",
+      "address": "RIVER RD & 212TH ST",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/river-rd",
+        "maple-ridge/212th-st"
+      ],
+      "streetNames": [
+        "River Rd",
+        "212th St"
+      ],
+      "pulsePointId": "2484450347"
+    },
+    {
       "id": "2026-05-28T02:29:00Z_maple-ridge/river-rd",
       "timestamp": "2026-05-28T02:29:00Z",
       "address": "RIVER RD",
@@ -60,6 +75,6 @@
       "pulsePointId": "2440732169"
     }
   ],
-  "lastIncident": "2026-05-28T02:29:00Z",
-  "count": 4
+  "lastIncident": "2026-05-28T23:26:00Z",
+  "count": 5
 }

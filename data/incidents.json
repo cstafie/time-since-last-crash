@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-05-28T23:49:00Z_vancouver/e-49th-ave_vancouver/inverness-st",
+    "timestamp": "2026-05-28T23:49:00Z",
+    "scrapedAt": "2026-05-28T23:53:47Z",
+    "address": "E 49TH AVE & INVERNESS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-49th-ave",
+      "vancouver/inverness-st"
+    ],
+    "streetNames": [
+      "E 49th Ave",
+      "Inverness St"
+    ],
+    "pulsePointId": "2484465239"
+  },
+  {
+    "id": "2026-05-28T23:26:00Z_maple-ridge/river-rd_maple-ridge/212th-st",
+    "timestamp": "2026-05-28T23:26:00Z",
+    "scrapedAt": "2026-05-28T23:53:47Z",
+    "address": "RIVER RD & 212TH ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/river-rd",
+      "maple-ridge/212th-st"
+    ],
+    "streetNames": [
+      "River Rd",
+      "212th St"
+    ],
+    "pulsePointId": "2484450347"
+  },
+  {
     "id": "2026-05-28T22:48:00Z_vancouver/matapan-cres_vancouver/falaise-ave",
     "timestamp": "2026-05-28T22:48:00Z",
     "scrapedAt": "2026-05-28T22:55:44Z",

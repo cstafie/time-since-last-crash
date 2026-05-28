@@ -1697,8 +1697,8 @@
     "name": "Inverness St",
     "slug": "vancouver/inverness-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-17T23:40:00Z",
-    "count": 6
+    "lastIncident": "2026-05-28T23:49:00Z",
+    "count": 7
   },
   "richmond/francis-rd": {
     "name": "Francis Rd",
@@ -3069,8 +3069,8 @@
     "name": "E 49th Ave",
     "slug": "vancouver/e-49th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-27T22:53:00Z",
-    "count": 12
+    "lastIncident": "2026-05-28T23:49:00Z",
+    "count": 13
   },
   "vancouver/victoria-dr": {
     "name": "Victoria Dr",
@@ -3874,8 +3874,8 @@
     "name": "River Rd",
     "slug": "maple-ridge/river-rd",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-28T02:29:00Z",
-    "count": 4
+    "lastIncident": "2026-05-28T23:26:00Z",
+    "count": 5
   },
   "langley/86th-ave": {
     "name": "86th Ave",
@@ -10791,6 +10791,13 @@
     "slug": "port-coquitlam/davies-ave",
     "city": "Port Coquitlam",
     "lastIncident": "2026-05-28T22:46:00Z",
+    "count": 1
+  },
+  "maple-ridge/212th-st": {
+    "name": "212th St",
+    "slug": "maple-ridge/212th-st",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-05-28T23:26:00Z",
     "count": 1
   }
 }
