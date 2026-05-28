@@ -262,8 +262,8 @@
     "name": "Fraser Hwy",
     "slug": "langley/fraser-hwy",
     "city": "Langley",
-    "lastIncident": "2026-05-23T23:46:00Z",
-    "count": 30
+    "lastIncident": "2026-05-28T21:43:00Z",
+    "count": 31
   },
   "langley/trans-canada-hwy": {
     "name": "Trans Canada Hwy",
@@ -682,8 +682,8 @@
     "name": "Trans Canada Hwy",
     "slug": "surrey/trans-canada-hwy",
     "city": "Surrey",
-    "lastIncident": "2026-05-27T00:52:00Z",
-    "count": 20
+    "lastIncident": "2026-05-28T21:11:00Z",
+    "count": 21
   },
   "vancouver/balaclava-st": {
     "name": "Balaclava St",

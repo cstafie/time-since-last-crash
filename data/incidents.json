@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-05-28T21:43:00Z_langley/fraser-hwy",
+    "timestamp": "2026-05-28T21:43:00Z",
+    "scrapedAt": "2026-05-28T22:06:49Z",
+    "address": "FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy"
+    ],
+    "streetNames": [
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2484381257"
+  },
+  {
+    "id": "2026-05-28T21:11:00Z_surrey/trans-canada-hwy",
+    "timestamp": "2026-05-28T21:11:00Z",
+    "scrapedAt": "2026-05-28T22:06:49Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2484359386"
+  },
+  {
     "id": "2026-05-28T20:59:00Z_burnaby/willingdon-ave_burnaby/price-st",
     "timestamp": "2026-05-28T20:59:00Z",
     "scrapedAt": "2026-05-28T21:12:52Z",
