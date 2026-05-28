@@ -465,8 +465,8 @@
     "name": "Hwy 91",
     "slug": "richmond/hwy-91",
     "city": "Richmond",
-    "lastIncident": "2026-05-27T00:21:00Z",
-    "count": 10
+    "lastIncident": "2026-05-28T00:55:00Z",
+    "count": 11
   },
   "richmond/nelson-rd": {
     "name": "Nelson Rd",
@@ -1067,8 +1067,8 @@
     "name": "Townline Rd",
     "slug": "abbotsford/townline-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-21T14:49:00Z",
-    "count": 6
+    "lastIncident": "2026-05-28T00:35:00Z",
+    "count": 7
   },
   "coquitlam/mariner-way": {
     "name": "Mariner Way",
@@ -5547,8 +5547,8 @@
     "name": "130th St",
     "slug": "surrey/130th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-27T15:14:00Z",
-    "count": 9
+    "lastIncident": "2026-05-28T01:11:00Z",
+    "count": 10
   },
   "vancouver/windermere-st": {
     "name": "Windermere St",
@@ -10721,6 +10721,20 @@
     "slug": "vancouver/w-47th-ave",
     "city": "Vancouver",
     "lastIncident": "2026-05-27T22:23:00Z",
+    "count": 1
+  },
+  "abbotsford/upper-maclure-rd": {
+    "name": "Upper Maclure Rd",
+    "slug": "abbotsford/upper-maclure-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-05-28T00:35:00Z",
+    "count": 1
+  },
+  "maple-ridge/22921-dewdney-trunk-rd": {
+    "name": "22921 Dewdney Trunk Rd",
+    "slug": "maple-ridge/22921-dewdney-trunk-rd",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-05-28T00:26:00Z",
     "count": 1
   }
 }

@@ -1,5 +1,63 @@
 [
   {
+    "id": "2026-05-28T01:11:00Z_surrey/130th-st",
+    "timestamp": "2026-05-28T01:11:00Z",
+    "scrapedAt": "2026-05-28T01:17:00Z",
+    "address": "130TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/130th-st"
+    ],
+    "streetNames": [
+      "130th St"
+    ],
+    "pulsePointId": "2483818064"
+  },
+  {
+    "id": "2026-05-28T00:55:00Z_richmond/hwy-91",
+    "timestamp": "2026-05-28T00:55:00Z",
+    "scrapedAt": "2026-05-28T01:17:00Z",
+    "address": "HWY 91",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hwy-91"
+    ],
+    "streetNames": [
+      "Hwy 91"
+    ],
+    "pulsePointId": "2483809711"
+  },
+  {
+    "id": "2026-05-28T00:35:00Z_abbotsford/upper-maclure-rd_abbotsford/townline-rd",
+    "timestamp": "2026-05-28T00:35:00Z",
+    "scrapedAt": "2026-05-28T01:17:00Z",
+    "address": "UPPER MACLURE RD & TOWNLINE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/upper-maclure-rd",
+      "abbotsford/townline-rd"
+    ],
+    "streetNames": [
+      "Upper Maclure Rd",
+      "Townline Rd"
+    ],
+    "pulsePointId": "2483797843"
+  },
+  {
+    "id": "2026-05-28T00:26:00Z_maple-ridge/22921-dewdney-trunk-rd",
+    "timestamp": "2026-05-28T00:26:00Z",
+    "scrapedAt": "2026-05-28T01:17:00Z",
+    "address": "22921 DEWDNEY TRUNK RD",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/22921-dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "22921 Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2483792143"
+  },
+  {
     "id": "2026-05-27T23:52:00Z_surrey/184th-st_surrey/88th-ave",
     "timestamp": "2026-05-27T23:52:00Z",
     "scrapedAt": "2026-05-28T00:18:53Z",

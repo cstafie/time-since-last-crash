@@ -1,0 +1,22 @@
+{
+  "slug": "maple-ridge/22921-dewdney-trunk-rd",
+  "name": "22921 Dewdney Trunk Rd",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-05-28T00:26:00Z_maple-ridge/22921-dewdney-trunk-rd",
+      "timestamp": "2026-05-28T00:26:00Z",
+      "address": "22921 DEWDNEY TRUNK RD",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/22921-dewdney-trunk-rd"
+      ],
+      "streetNames": [
+        "22921 Dewdney Trunk Rd"
+      ],
+      "pulsePointId": "2483792143"
+    }
+  ],
+  "lastIncident": "2026-05-28T00:26:00Z",
+  "count": 1
+}
