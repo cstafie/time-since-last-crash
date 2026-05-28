@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/matapan-cres",
+  "name": "Matapan Cres",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-28T22:48:00Z_vancouver/matapan-cres_vancouver/falaise-ave",
+      "timestamp": "2026-05-28T22:48:00Z",
+      "address": "MATAPAN CRES & FALAISE AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/matapan-cres",
+        "vancouver/falaise-ave"
+      ],
+      "streetNames": [
+        "Matapan Cres",
+        "Falaise Ave"
+      ],
+      "pulsePointId": "2484425605"
+    }
+  ],
+  "lastIncident": "2026-05-28T22:48:00Z",
+  "count": 1
+}

@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-05-28T22:48:00Z_vancouver/matapan-cres_vancouver/falaise-ave",
+    "timestamp": "2026-05-28T22:48:00Z",
+    "scrapedAt": "2026-05-28T22:55:44Z",
+    "address": "MATAPAN CRES & FALAISE AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/matapan-cres",
+      "vancouver/falaise-ave"
+    ],
+    "streetNames": [
+      "Matapan Cres",
+      "Falaise Ave"
+    ],
+    "pulsePointId": "2484425605"
+  },
+  {
+    "id": "2026-05-28T22:46:00Z_vancouver/w-3rd-ave",
+    "timestamp": "2026-05-28T22:46:00Z",
+    "scrapedAt": "2026-05-28T22:55:44Z",
+    "address": "W 3RD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-3rd-ave"
+    ],
+    "streetNames": [
+      "W 3rd Ave"
+    ],
+    "pulsePointId": "2484423805"
+  },
+  {
+    "id": "2026-05-28T22:46:00Z_port-coquitlam/westwood-st_port-coquitlam/davies-ave",
+    "timestamp": "2026-05-28T22:46:00Z",
+    "scrapedAt": "2026-05-28T22:55:44Z",
+    "address": "WESTWOOD ST & DAVIES AVE",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/westwood-st",
+      "port-coquitlam/davies-ave"
+    ],
+    "streetNames": [
+      "Westwood St",
+      "Davies Ave"
+    ],
+    "pulsePointId": "2484423692"
+  },
+  {
+    "id": "2026-05-28T22:11:00Z_langley/197th-st",
+    "timestamp": "2026-05-28T22:11:00Z",
+    "scrapedAt": "2026-05-28T22:55:44Z",
+    "address": "197TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/197th-st"
+    ],
+    "streetNames": [
+      "197th St"
+    ],
+    "pulsePointId": "2484399669"
+  },
+  {
     "id": "2026-05-28T21:43:00Z_langley/fraser-hwy",
     "timestamp": "2026-05-28T21:43:00Z",
     "scrapedAt": "2026-05-28T22:06:49Z",

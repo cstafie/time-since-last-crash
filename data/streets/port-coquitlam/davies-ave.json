@@ -1,6 +1,6 @@
 {
-  "slug": "port-coquitlam/westwood-st",
-  "name": "Westwood St",
+  "slug": "port-coquitlam/davies-ave",
+  "name": "Davies Ave",
   "city": "Port Coquitlam",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Davies Ave"
       ],
       "pulsePointId": "2484423692"
-    },
-    {
-      "id": "2026-04-23T01:28:00Z_port-coquitlam/westwood-st_port-coquitlam/kitchener-ave",
-      "timestamp": "2026-04-23T01:28:00Z",
-      "address": "WESTWOOD ST & KITCHENER AVE",
-      "city": "Port Coquitlam",
-      "streets": [
-        "port-coquitlam/westwood-st",
-        "port-coquitlam/kitchener-ave"
-      ],
-      "streetNames": [
-        "Westwood St",
-        "Kitchener Ave"
-      ],
-      "pulsePointId": "2459684615"
     }
   ],
   "lastIncident": "2026-05-28T22:46:00Z",
-  "count": 2
+  "count": 1
 }

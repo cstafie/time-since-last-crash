@@ -1991,8 +1991,8 @@
     "name": "W 3rd Ave",
     "slug": "vancouver/w-3rd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-03-14T18:51:00Z",
-    "count": 1
+    "lastIncident": "2026-05-28T22:46:00Z",
+    "count": 2
   },
   "coquitlam/port-mann-brdg": {
     "name": "Port Mann Brdg",
@@ -7465,8 +7465,8 @@
     "name": "Westwood St",
     "slug": "port-coquitlam/westwood-st",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-04-23T01:28:00Z",
-    "count": 1
+    "lastIncident": "2026-05-28T22:46:00Z",
+    "count": 2
   },
   "port-coquitlam/kitchener-ave": {
     "name": "Kitchener Ave",
@@ -10216,8 +10216,8 @@
     "name": "197th St",
     "slug": "langley/197th-st",
     "city": "Langley",
-    "lastIncident": "2026-05-22T21:52:00Z",
-    "count": 1
+    "lastIncident": "2026-05-28T22:11:00Z",
+    "count": 2
   },
   "langley/76th-ave": {
     "name": "76th Ave",
@@ -10770,6 +10770,27 @@
     "slug": "burnaby/price-st",
     "city": "Burnaby",
     "lastIncident": "2026-05-28T20:59:00Z",
+    "count": 1
+  },
+  "vancouver/matapan-cres": {
+    "name": "Matapan Cres",
+    "slug": "vancouver/matapan-cres",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-28T22:48:00Z",
+    "count": 1
+  },
+  "vancouver/falaise-ave": {
+    "name": "Falaise Ave",
+    "slug": "vancouver/falaise-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-28T22:48:00Z",
+    "count": 1
+  },
+  "port-coquitlam/davies-ave": {
+    "name": "Davies Ave",
+    "slug": "port-coquitlam/davies-ave",
+    "city": "Port Coquitlam",
+    "lastIncident": "2026-05-28T22:46:00Z",
     "count": 1
   }
 }
