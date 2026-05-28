@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-05-28T20:06:00Z_burnaby/beta-ave_burnaby/hastings-st",
+    "timestamp": "2026-05-28T20:06:00Z",
+    "scrapedAt": "2026-05-28T20:15:06Z",
+    "address": "BETA AVE & HASTINGS ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/beta-ave",
+      "burnaby/hastings-st"
+    ],
+    "streetNames": [
+      "Beta Ave",
+      "Hastings St"
+    ],
+    "pulsePointId": "2484312588"
+  },
+  {
+    "id": "2026-05-28T19:49:00Z_delta/hwy-10-onrp_delta/hwy-10-ofrp",
+    "timestamp": "2026-05-28T19:49:00Z",
+    "scrapedAt": "2026-05-28T20:15:06Z",
+    "address": "HWY 10 ONRP & HWY 10 OFRP",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-10-onrp",
+      "delta/hwy-10-ofrp"
+    ],
+    "streetNames": [
+      "Hwy 10 Onrp",
+      "Hwy 10 Ofrp"
+    ],
+    "pulsePointId": "2484301601"
+  },
+  {
+    "id": "2026-05-28T19:44:00Z_langley/256th-st_langley/16th-ave",
+    "timestamp": "2026-05-28T19:44:00Z",
+    "scrapedAt": "2026-05-28T20:15:06Z",
+    "address": "256TH ST & 16TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/256th-st",
+      "langley/16th-ave"
+    ],
+    "streetNames": [
+      "256th St",
+      "16th Ave"
+    ],
+    "pulsePointId": "2484296567"
+  },
+  {
     "id": "2026-05-28T18:25:00Z_abbotsford/mcdougall-ave_abbotsford/south-fraser-way",
     "timestamp": "2026-05-28T18:25:00Z",
     "scrapedAt": "2026-05-28T19:22:15Z",

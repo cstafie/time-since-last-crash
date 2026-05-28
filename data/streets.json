@@ -843,8 +843,8 @@
     "name": "16th Ave",
     "slug": "langley/16th-ave",
     "city": "Langley",
-    "lastIncident": "2026-05-27T13:45:00Z",
-    "count": 4
+    "lastIncident": "2026-05-28T19:44:00Z",
+    "count": 5
   },
   "surrey/32nd-ave": {
     "name": "32nd Ave",
@@ -2299,8 +2299,8 @@
     "name": "Hastings St",
     "slug": "burnaby/hastings-st",
     "city": "Burnaby",
-    "lastIncident": "2026-05-28T02:45:00Z",
-    "count": 8
+    "lastIncident": "2026-05-28T20:06:00Z",
+    "count": 9
   },
   "delta/hwy-17a-ofrp": {
     "name": "Hwy 17a Ofrp",
@@ -3496,8 +3496,8 @@
     "name": "256th St",
     "slug": "langley/256th-st",
     "city": "Langley",
-    "lastIncident": "2026-04-05T19:22:00Z",
-    "count": 2
+    "lastIncident": "2026-05-28T19:44:00Z",
+    "count": 3
   },
   "vancouver/helmcken-st": {
     "name": "Helmcken St",
@@ -3545,8 +3545,8 @@
     "name": "Hwy 10 Ofrp",
     "slug": "delta/hwy-10-ofrp",
     "city": "Delta",
-    "lastIncident": "2026-03-22T11:29:00Z",
-    "count": 1
+    "lastIncident": "2026-05-28T19:49:00Z",
+    "count": 2
   },
   "burnaby/beaverbrook-dr": {
     "name": "Beaverbrook Dr",
@@ -10538,8 +10538,8 @@
     "name": "Beta Ave",
     "slug": "burnaby/beta-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-05-26T15:37:00Z",
-    "count": 1
+    "lastIncident": "2026-05-28T20:06:00Z",
+    "count": 2
   },
   "langley/87th-ave": {
     "name": "87th Ave",
@@ -10756,6 +10756,13 @@
     "slug": "west-vancouver/westhaven-rd",
     "city": "West Vancouver",
     "lastIncident": "2026-05-28T09:57:00Z",
+    "count": 1
+  },
+  "delta/hwy-10-onrp": {
+    "name": "Hwy 10 Onrp",
+    "slug": "delta/hwy-10-onrp",
+    "city": "Delta",
+    "lastIncident": "2026-05-28T19:49:00Z",
     "count": 1
   }
 }
