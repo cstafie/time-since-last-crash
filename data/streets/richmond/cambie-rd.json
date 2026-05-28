@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-05-28T02:25:00Z_richmond/shell-rd_richmond/cambie-rd",
+      "timestamp": "2026-05-28T02:25:00Z",
+      "address": "SHELL RD & CAMBIE RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/shell-rd",
+        "richmond/cambie-rd"
+      ],
+      "streetNames": [
+        "Shell Rd",
+        "Cambie Rd"
+      ],
+      "pulsePointId": "2483859088"
+    },
+    {
       "id": "2026-05-14T22:07:00Z_richmond/cambie-rd_richmond/garden-city-rd",
       "timestamp": "2026-05-14T22:07:00Z",
       "address": "CAMBIE RD & GARDEN CITY RD",
@@ -34,6 +49,6 @@
       "pulsePointId": "2434197215"
     }
   ],
-  "lastIncident": "2026-05-14T22:07:00Z",
-  "count": 2
+  "lastIncident": "2026-05-28T02:25:00Z",
+  "count": 3
 }

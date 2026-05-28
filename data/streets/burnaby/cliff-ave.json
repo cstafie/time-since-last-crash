@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/cliff-ave",
+  "name": "Cliff Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-05-28T02:45:00Z_burnaby/cliff-ave_burnaby/hastings-st",
+      "timestamp": "2026-05-28T02:45:00Z",
+      "address": "CLIFF AVE & HASTINGS ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/cliff-ave",
+        "burnaby/hastings-st"
+      ],
+      "streetNames": [
+        "Cliff Ave",
+        "Hastings St"
+      ],
+      "pulsePointId": "2483870791"
+    }
+  ],
+  "lastIncident": "2026-05-28T02:45:00Z",
+  "count": 1
+}

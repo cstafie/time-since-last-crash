@@ -955,8 +955,8 @@
     "name": "Shell Rd",
     "slug": "richmond/shell-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-26T04:48:00Z",
-    "count": 4
+    "lastIncident": "2026-05-28T02:25:00Z",
+    "count": 5
   },
   "surrey/152nd-street-ofrp": {
     "name": "152nd Street Ofrp",
@@ -2061,8 +2061,8 @@
     "name": "Cambie Rd",
     "slug": "richmond/cambie-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-14T22:07:00Z",
-    "count": 2
+    "lastIncident": "2026-05-28T02:25:00Z",
+    "count": 3
   },
   "richmond/viking-way": {
     "name": "Viking Way",
@@ -2299,8 +2299,8 @@
     "name": "Hastings St",
     "slug": "burnaby/hastings-st",
     "city": "Burnaby",
-    "lastIncident": "2026-05-26T15:37:00Z",
-    "count": 7
+    "lastIncident": "2026-05-28T02:45:00Z",
+    "count": 8
   },
   "delta/hwy-17a-ofrp": {
     "name": "Hwy 17a Ofrp",
@@ -2593,8 +2593,8 @@
     "name": "Taunton St",
     "slug": "vancouver/taunton-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-17T17:03:00Z",
-    "count": 1
+    "lastIncident": "2026-05-28T02:45:00Z",
+    "count": 2
   },
   "vancouver/euclid-ave": {
     "name": "Euclid Ave",
@@ -3874,8 +3874,8 @@
     "name": "River Rd",
     "slug": "maple-ridge/river-rd",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-04T03:49:00Z",
-    "count": 3
+    "lastIncident": "2026-05-28T02:29:00Z",
+    "count": 4
   },
   "langley/86th-ave": {
     "name": "86th Ave",
@@ -10735,6 +10735,20 @@
     "slug": "maple-ridge/22921-dewdney-trunk-rd",
     "city": "Maple Ridge",
     "lastIncident": "2026-05-28T00:26:00Z",
+    "count": 1
+  },
+  "mission/cleven-dr": {
+    "name": "Cleven Dr",
+    "slug": "mission/cleven-dr",
+    "city": "Mission",
+    "lastIncident": "2026-05-28T02:16:00Z",
+    "count": 1
+  },
+  "burnaby/cliff-ave": {
+    "name": "Cliff Ave",
+    "slug": "burnaby/cliff-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-05-28T02:45:00Z",
     "count": 1
   }
 }

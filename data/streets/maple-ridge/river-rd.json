@@ -4,6 +4,19 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-05-28T02:29:00Z_maple-ridge/river-rd",
+      "timestamp": "2026-05-28T02:29:00Z",
+      "address": "RIVER RD",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/river-rd"
+      ],
+      "streetNames": [
+        "River Rd"
+      ],
+      "pulsePointId": "2483861794"
+    },
+    {
       "id": "2026-05-04T03:49:00Z_maple-ridge/river-rd_maple-ridge/lougheed-hwy",
       "timestamp": "2026-05-04T03:49:00Z",
       "address": "RIVER RD & LOUGHEED HWY",
@@ -47,6 +60,6 @@
       "pulsePointId": "2440732169"
     }
   ],
-  "lastIncident": "2026-05-04T03:49:00Z",
-  "count": 3
+  "lastIncident": "2026-05-28T02:29:00Z",
+  "count": 4
 }

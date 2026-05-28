@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-28T02:45:00Z_burnaby/cliff-ave_burnaby/hastings-st",
+      "timestamp": "2026-05-28T02:45:00Z",
+      "address": "CLIFF AVE & HASTINGS ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/cliff-ave",
+        "burnaby/hastings-st"
+      ],
+      "streetNames": [
+        "Cliff Ave",
+        "Hastings St"
+      ],
+      "pulsePointId": "2483870791"
+    },
+    {
       "id": "2026-05-26T15:37:00Z_burnaby/hastings-st_burnaby/beta-ave",
       "timestamp": "2026-05-26T15:37:00Z",
       "address": "HASTINGS ST & BETA AVE",
@@ -109,6 +124,6 @@
       "pulsePointId": "2435141614"
     }
   ],
-  "lastIncident": "2026-05-26T15:37:00Z",
-  "count": 7
+  "lastIncident": "2026-05-28T02:45:00Z",
+  "count": 8
 }

@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-05-28T02:25:00Z_richmond/shell-rd_richmond/cambie-rd",
+      "timestamp": "2026-05-28T02:25:00Z",
+      "address": "SHELL RD & CAMBIE RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/shell-rd",
+        "richmond/cambie-rd"
+      ],
+      "streetNames": [
+        "Shell Rd",
+        "Cambie Rd"
+      ],
+      "pulsePointId": "2483859088"
+    },
+    {
       "id": "2026-05-26T04:48:00Z_richmond/shell-rd_richmond/westminster-hwy",
       "timestamp": "2026-05-26T04:48:00Z",
       "address": "SHELL RD & WESTMINSTER HWY",
@@ -61,6 +76,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-26T04:48:00Z",
-  "count": 4
+  "lastIncident": "2026-05-28T02:25:00Z",
+  "count": 5
 }

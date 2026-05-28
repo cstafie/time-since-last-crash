@@ -1,5 +1,79 @@
 [
   {
+    "id": "2026-05-28T02:45:00Z_vancouver/taunton-st",
+    "timestamp": "2026-05-28T02:45:00Z",
+    "scrapedAt": "2026-05-28T03:43:49Z",
+    "address": "TAUNTON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/taunton-st"
+    ],
+    "streetNames": [
+      "Taunton St"
+    ],
+    "pulsePointId": "2483869795"
+  },
+  {
+    "id": "2026-05-28T02:45:00Z_burnaby/cliff-ave_burnaby/hastings-st",
+    "timestamp": "2026-05-28T02:45:00Z",
+    "scrapedAt": "2026-05-28T03:43:49Z",
+    "address": "CLIFF AVE & HASTINGS ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/cliff-ave",
+      "burnaby/hastings-st"
+    ],
+    "streetNames": [
+      "Cliff Ave",
+      "Hastings St"
+    ],
+    "pulsePointId": "2483870791"
+  },
+  {
+    "id": "2026-05-28T02:29:00Z_maple-ridge/river-rd",
+    "timestamp": "2026-05-28T02:29:00Z",
+    "scrapedAt": "2026-05-28T03:43:49Z",
+    "address": "RIVER RD",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/river-rd"
+    ],
+    "streetNames": [
+      "River Rd"
+    ],
+    "pulsePointId": "2483861794"
+  },
+  {
+    "id": "2026-05-28T02:25:00Z_richmond/shell-rd_richmond/cambie-rd",
+    "timestamp": "2026-05-28T02:25:00Z",
+    "scrapedAt": "2026-05-28T03:43:49Z",
+    "address": "SHELL RD & CAMBIE RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/shell-rd",
+      "richmond/cambie-rd"
+    ],
+    "streetNames": [
+      "Shell Rd",
+      "Cambie Rd"
+    ],
+    "pulsePointId": "2483859088"
+  },
+  {
+    "id": "2026-05-28T02:16:00Z_mission/cleven-dr",
+    "timestamp": "2026-05-28T02:16:00Z",
+    "scrapedAt": "2026-05-28T03:43:49Z",
+    "address": "CLEVEN DR",
+    "city": "Mission",
+    "streets": [
+      "mission/cleven-dr"
+    ],
+    "streetNames": [
+      "Cleven Dr"
+    ],
+    "pulsePointId": "2483855177"
+  },
+  {
     "id": "2026-05-28T01:11:00Z_surrey/130th-st",
     "timestamp": "2026-05-28T01:11:00Z",
     "scrapedAt": "2026-05-28T01:17:00Z",
