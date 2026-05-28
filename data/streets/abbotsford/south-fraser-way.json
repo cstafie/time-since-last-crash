@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-05-28T18:25:00Z_abbotsford/mcdougall-ave_abbotsford/south-fraser-way",
+      "timestamp": "2026-05-28T18:25:00Z",
+      "address": "MCDOUGALL AVE & SOUTH FRASER WAY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/mcdougall-ave",
+        "abbotsford/south-fraser-way"
+      ],
+      "streetNames": [
+        "Mcdougall Ave",
+        "South Fraser Way"
+      ],
+      "pulsePointId": "2484242760"
+    },
+    {
       "id": "2026-05-25T22:12:00Z_abbotsford/south-fraser-way_abbotsford/bourquin-cres-e",
       "timestamp": "2026-05-25T22:12:00Z",
       "address": "SOUTH FRASER WAY & BOURQUIN CRES E",
@@ -330,6 +345,6 @@
       "pulsePointId": "2433235919"
     }
   ],
-  "lastIncident": "2026-05-25T22:12:00Z",
-  "count": 22
+  "lastIncident": "2026-05-28T18:25:00Z",
+  "count": 23
 }

@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-28T18:25:00Z_abbotsford/mcdougall-ave_abbotsford/south-fraser-way",
+    "timestamp": "2026-05-28T18:25:00Z",
+    "scrapedAt": "2026-05-28T19:22:15Z",
+    "address": "MCDOUGALL AVE & SOUTH FRASER WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/mcdougall-ave",
+      "abbotsford/south-fraser-way"
+    ],
+    "streetNames": [
+      "Mcdougall Ave",
+      "South Fraser Way"
+    ],
+    "pulsePointId": "2484242760"
+  },
+  {
     "id": "2026-05-28T16:20:00Z_burnaby/canada-way_burnaby/burris-st",
     "timestamp": "2026-05-28T16:20:00Z",
     "scrapedAt": "2026-05-28T17:09:53Z",

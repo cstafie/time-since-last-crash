@@ -31,8 +31,8 @@
     "name": "Mcdougall Ave",
     "slug": "abbotsford/mcdougall-ave",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-28T19:55:00Z",
-    "count": 2
+    "lastIncident": "2026-05-28T18:25:00Z",
+    "count": 3
   },
   "abbotsford/ross-rd": {
     "name": "Ross Rd",
@@ -1767,8 +1767,8 @@
     "name": "South Fraser Way",
     "slug": "abbotsford/south-fraser-way",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-25T22:12:00Z",
-    "count": 22
+    "lastIncident": "2026-05-28T18:25:00Z",
+    "count": 23
   },
   "vancouver/e-hastings-st": {
     "name": "E Hastings St",
