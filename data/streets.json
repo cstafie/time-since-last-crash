@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-15T20:59:00Z",
-    "count": 24
+    "lastIncident": "2026-05-27T23:52:00Z",
+    "count": 25
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",
@@ -4196,8 +4196,8 @@
     "name": "184th St",
     "slug": "surrey/184th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-09T05:57:00Z",
-    "count": 7
+    "lastIncident": "2026-05-27T23:52:00Z",
+    "count": 8
   },
   "burnaby/rosser-ave": {
     "name": "Rosser Ave",
