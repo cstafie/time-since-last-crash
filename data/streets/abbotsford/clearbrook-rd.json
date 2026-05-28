@@ -4,6 +4,34 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-05-28T07:57:00Z_abbotsford/clearbrook-rd",
+      "timestamp": "2026-05-28T07:57:00Z",
+      "address": "CLEARBROOK RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/clearbrook-rd"
+      ],
+      "streetNames": [
+        "Clearbrook Rd"
+      ],
+      "pulsePointId": "2483987116"
+    },
+    {
+      "id": "2026-05-28T07:56:00Z_abbotsford/clearbrook-rd_abbotsford/king-rd",
+      "timestamp": "2026-05-28T07:56:00Z",
+      "address": "CLEARBROOK RD & KING RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/clearbrook-rd",
+        "abbotsford/king-rd"
+      ],
+      "streetNames": [
+        "Clearbrook Rd",
+        "King Rd"
+      ],
+      "pulsePointId": "2483986976"
+    },
+    {
       "id": "2026-05-25T23:33:00Z_abbotsford/charlotte-ave_abbotsford/clearbrook-rd",
       "timestamp": "2026-05-25T23:33:00Z",
       "address": "CHARLOTTE AVE & CLEARBROOK RD",
@@ -240,6 +268,6 @@
       "pulsePointId": "2433749907"
     }
   ],
-  "lastIncident": "2026-05-25T23:33:00Z",
-  "count": 16
+  "lastIncident": "2026-05-28T07:57:00Z",
+  "count": 18
 }

@@ -1333,8 +1333,8 @@
     "name": "Trans Canada Hwy",
     "slug": "vancouver/trans-canada-hwy",
     "city": "Vancouver",
-    "lastIncident": "2026-05-26T18:24:00Z",
-    "count": 6
+    "lastIncident": "2026-05-28T07:24:00Z",
+    "count": 8
   },
   "burnaby/kensington-ave": {
     "name": "Kensington Ave",
@@ -1781,8 +1781,8 @@
     "name": "King Rd",
     "slug": "abbotsford/king-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-18T13:19:00Z",
-    "count": 4
+    "lastIncident": "2026-05-28T07:56:00Z",
+    "count": 5
   },
   "surrey/101st-ave": {
     "name": "101st Ave",
@@ -1914,8 +1914,8 @@
     "name": "Clearbrook Rd",
     "slug": "abbotsford/clearbrook-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-25T23:33:00Z",
-    "count": 16
+    "lastIncident": "2026-05-28T07:57:00Z",
+    "count": 18
   },
   "abbotsford/maclure-rd": {
     "name": "Maclure Rd",
