@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-28T09:57:00Z_west-vancouver/westhaven-rd",
+    "timestamp": "2026-05-28T09:57:00Z",
+    "scrapedAt": "2026-05-28T11:08:18Z",
+    "address": "WESTHAVEN RD",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/westhaven-rd"
+    ],
+    "streetNames": [
+      "Westhaven Rd"
+    ],
+    "pulsePointId": "2484013876"
+  },
+  {
     "id": "2026-05-28T07:57:00Z_abbotsford/clearbrook-rd",
     "timestamp": "2026-05-28T07:57:00Z",
     "scrapedAt": "2026-05-28T08:16:24Z",

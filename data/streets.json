@@ -10750,5 +10750,12 @@
     "city": "Burnaby",
     "lastIncident": "2026-05-28T02:45:00Z",
     "count": 1
+  },
+  "west-vancouver/westhaven-rd": {
+    "name": "Westhaven Rd",
+    "slug": "west-vancouver/westhaven-rd",
+    "city": "West Vancouver",
+    "lastIncident": "2026-05-28T09:57:00Z",
+    "count": 1
   }
 }

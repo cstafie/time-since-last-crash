@@ -1,0 +1,22 @@
+{
+  "slug": "west-vancouver/westhaven-rd",
+  "name": "Westhaven Rd",
+  "city": "West Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-28T09:57:00Z_west-vancouver/westhaven-rd",
+      "timestamp": "2026-05-28T09:57:00Z",
+      "address": "WESTHAVEN RD",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/westhaven-rd"
+      ],
+      "streetNames": [
+        "Westhaven Rd"
+      ],
+      "pulsePointId": "2484013876"
+    }
+  ],
+  "lastIncident": "2026-05-28T09:57:00Z",
+  "count": 1
+}
