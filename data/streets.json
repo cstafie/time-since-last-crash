@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-05-29T16:54:00Z",
-    "count": 52
+    "lastIncident": "2026-05-29T17:39:00Z",
+    "count": 53
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -1592,8 +1592,8 @@
     "name": "58th Ave",
     "slug": "surrey/58th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-18T23:54:00Z",
-    "count": 7
+    "lastIncident": "2026-05-29T17:39:00Z",
+    "count": 8
   },
   "vancouver/w-22nd-ave": {
     "name": "W 22nd Ave",
@@ -3328,8 +3328,8 @@
     "name": "Hwy 11",
     "slug": "abbotsford/hwy-11",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-22T20:11:00Z",
-    "count": 3
+    "lastIncident": "2026-05-29T18:08:00Z",
+    "count": 4
   },
   "surrey/67th-ave": {
     "name": "67th Ave",
@@ -10854,6 +10854,13 @@
     "slug": "vancouver/e-13th-ave",
     "city": "Vancouver",
     "lastIncident": "2026-05-29T13:43:00Z",
+    "count": 1
+  },
+  "abbotsford/abbotsford-mission-brdg": {
+    "name": "Abbotsford Mission Brdg",
+    "slug": "abbotsford/abbotsford-mission-brdg",
+    "city": "Abbotsford",
+    "lastIncident": "2026-05-29T18:05:00Z",
     "count": 1
   }
 }

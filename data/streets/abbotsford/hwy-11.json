@@ -4,6 +4,19 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-05-29T18:08:00Z_abbotsford/hwy-11",
+      "timestamp": "2026-05-29T18:08:00Z",
+      "address": "HWY 11",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/hwy-11"
+      ],
+      "streetNames": [
+        "Hwy 11"
+      ],
+      "pulsePointId": "2484934877"
+    },
+    {
       "id": "2026-04-22T20:11:00Z_abbotsford/clayburn-rd_abbotsford/hwy-11",
       "timestamp": "2026-04-22T20:11:00Z",
       "address": "CLAYBURN RD & HWY 11",
@@ -49,6 +62,6 @@
       "pulsePointId": "2438158784"
     }
   ],
-  "lastIncident": "2026-04-22T20:11:00Z",
-  "count": 3
+  "lastIncident": "2026-05-29T18:08:00Z",
+  "count": 4
 }
