@@ -4,6 +4,21 @@
   "city": "New Westminster",
   "incidents": [
     {
+      "id": "2026-05-29T04:46:00Z_new-westminster/4th-ave_new-westminster/10th-st",
+      "timestamp": "2026-05-29T04:46:00Z",
+      "address": "4TH AVE & 10TH ST",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/4th-ave",
+        "new-westminster/10th-st"
+      ],
+      "streetNames": [
+        "4th Ave",
+        "10th St"
+      ],
+      "pulsePointId": "2484631561"
+    },
+    {
       "id": "2026-04-19T18:16:00Z_new-westminster/4th-ave_new-westminster/8th-st",
       "timestamp": "2026-04-19T18:16:00Z",
       "address": "4TH AVE & 8TH ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2443588405"
     }
   ],
-  "lastIncident": "2026-04-19T18:16:00Z",
-  "count": 2
+  "lastIncident": "2026-05-29T04:46:00Z",
+  "count": 3
 }

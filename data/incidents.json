@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-29T04:46:00Z_new-westminster/4th-ave_new-westminster/10th-st",
+    "timestamp": "2026-05-29T04:46:00Z",
+    "scrapedAt": "2026-05-29T05:22:35Z",
+    "address": "4TH AVE & 10TH ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/4th-ave",
+      "new-westminster/10th-st"
+    ],
+    "streetNames": [
+      "4th Ave",
+      "10th St"
+    ],
+    "pulsePointId": "2484631561"
+  },
+  {
     "id": "2026-05-29T03:28:00Z_surrey/144th-st_surrey/70a-ave",
     "timestamp": "2026-05-29T03:28:00Z",
     "scrapedAt": "2026-05-29T03:43:52Z",
