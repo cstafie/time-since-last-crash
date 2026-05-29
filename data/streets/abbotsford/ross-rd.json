@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-05-29T07:18:00Z_abbotsford/taylor-rd_abbotsford/ross-rd",
+      "timestamp": "2026-05-29T07:18:00Z",
+      "address": "TAYLOR RD & ROSS RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/taylor-rd",
+        "abbotsford/ross-rd"
+      ],
+      "streetNames": [
+        "Taylor Rd",
+        "Ross Rd"
+      ],
+      "pulsePointId": "2484685917"
+    },
+    {
       "id": "2026-05-18T07:09:00Z_abbotsford/king-rd_abbotsford/ross-rd",
       "timestamp": "2026-05-18T07:09:00Z",
       "address": "KING RD & ROSS RD",
@@ -91,6 +106,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-18T07:09:00Z",
-  "count": 6
+  "lastIncident": "2026-05-29T07:18:00Z",
+  "count": 7
 }
