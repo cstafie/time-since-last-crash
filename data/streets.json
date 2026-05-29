@@ -843,8 +843,8 @@
     "name": "16th Ave",
     "slug": "langley/16th-ave",
     "city": "Langley",
-    "lastIncident": "2026-05-28T19:44:00Z",
-    "count": 5
+    "lastIncident": "2026-05-29T23:17:00Z",
+    "count": 6
   },
   "surrey/32nd-ave": {
     "name": "32nd Ave",
@@ -3132,15 +3132,15 @@
     "name": "Huntingdon Rd",
     "slug": "abbotsford/huntingdon-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-06T15:19:00Z",
-    "count": 3
+    "lastIncident": "2026-05-29T23:31:00Z",
+    "count": 4
   },
   "surrey/164th-st": {
     "name": "164th St",
     "slug": "surrey/164th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-25T23:27:00Z",
-    "count": 4
+    "lastIncident": "2026-05-29T23:02:00Z",
+    "count": 5
   },
   "burnaby/kensington-avenue-ofrp": {
     "name": "Kensington Avenue Ofrp",
@@ -7717,8 +7717,8 @@
     "name": "232nd St",
     "slug": "langley/232nd-st",
     "city": "Langley",
-    "lastIncident": "2026-05-19T06:41:00Z",
-    "count": 3
+    "lastIncident": "2026-05-29T23:17:00Z",
+    "count": 4
   },
   "mission/rocky-point-fsr": {
     "name": "Rocky Point Fsr",

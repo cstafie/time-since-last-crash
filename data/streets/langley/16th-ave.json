@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-05-29T23:17:00Z_langley/232nd-st_langley/16th-ave",
+      "timestamp": "2026-05-29T23:17:00Z",
+      "address": "232ND ST & 16TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/232nd-st",
+        "langley/16th-ave"
+      ],
+      "streetNames": [
+        "232nd St",
+        "16th Ave"
+      ],
+      "pulsePointId": "2485149977"
+    },
+    {
       "id": "2026-05-28T19:44:00Z_langley/256th-st_langley/16th-ave",
       "timestamp": "2026-05-28T19:44:00Z",
       "address": "256TH ST & 16TH AVE",
@@ -71,6 +86,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-28T19:44:00Z",
-  "count": 5
+  "lastIncident": "2026-05-29T23:17:00Z",
+  "count": 6
 }
