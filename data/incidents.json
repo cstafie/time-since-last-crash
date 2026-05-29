@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-05-29T19:42:00Z_richmond/no-5-rd",
+    "timestamp": "2026-05-29T19:42:00Z",
+    "scrapedAt": "2026-05-29T19:45:36Z",
+    "address": "NO 5 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/no-5-rd"
+    ],
+    "streetNames": [
+      "No 5 Rd"
+    ],
+    "pulsePointId": "2485000207"
+  },
+  {
+    "id": "2026-05-29T19:15:00Z_chilliwack/knight-rd_chilliwack/topaz-dr",
+    "timestamp": "2026-05-29T19:15:00Z",
+    "scrapedAt": "2026-05-29T19:45:36Z",
+    "address": "KNIGHT RD & TOPAZ DR",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/knight-rd",
+      "chilliwack/topaz-dr"
+    ],
+    "streetNames": [
+      "Knight Rd",
+      "Topaz Dr"
+    ],
+    "pulsePointId": "2484981944"
+  },
+  {
+    "id": "2026-05-29T19:14:00Z_abbotsford/south-fraser-way_abbotsford/minter-st",
+    "timestamp": "2026-05-29T19:14:00Z",
+    "scrapedAt": "2026-05-29T19:45:36Z",
+    "address": "SOUTH FRASER WAY & MINTER ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/south-fraser-way",
+      "abbotsford/minter-st"
+    ],
+    "streetNames": [
+      "South Fraser Way",
+      "Minter St"
+    ],
+    "pulsePointId": "2484979946"
+  },
+  {
+    "id": "2026-05-29T19:14:00Z_chilliwack/topaz-dr_chilliwack/knight-rd",
+    "timestamp": "2026-05-29T19:14:00Z",
+    "scrapedAt": "2026-05-29T19:45:36Z",
+    "address": "TOPAZ DR & KNIGHT RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/topaz-dr",
+      "chilliwack/knight-rd"
+    ],
+    "streetNames": [
+      "Topaz Dr",
+      "Knight Rd"
+    ],
+    "pulsePointId": "2484981401"
+  },
+  {
     "id": "2026-05-29T18:08:00Z_abbotsford/hwy-11",
     "timestamp": "2026-05-29T18:08:00Z",
     "scrapedAt": "2026-05-29T18:46:35Z",

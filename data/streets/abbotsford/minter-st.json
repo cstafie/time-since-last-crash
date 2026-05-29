@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/minter-st",
+  "name": "Minter St",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-05-29T19:14:00Z_abbotsford/south-fraser-way_abbotsford/minter-st",
+      "timestamp": "2026-05-29T19:14:00Z",
+      "address": "SOUTH FRASER WAY & MINTER ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/south-fraser-way",
+        "abbotsford/minter-st"
+      ],
+      "streetNames": [
+        "South Fraser Way",
+        "Minter St"
+      ],
+      "pulsePointId": "2484979946"
+    }
+  ],
+  "lastIncident": "2026-05-29T19:14:00Z",
+  "count": 1
+}

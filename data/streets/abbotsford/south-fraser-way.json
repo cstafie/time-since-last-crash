@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-05-29T19:14:00Z_abbotsford/south-fraser-way_abbotsford/minter-st",
+      "timestamp": "2026-05-29T19:14:00Z",
+      "address": "SOUTH FRASER WAY & MINTER ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/south-fraser-way",
+        "abbotsford/minter-st"
+      ],
+      "streetNames": [
+        "South Fraser Way",
+        "Minter St"
+      ],
+      "pulsePointId": "2484979946"
+    },
+    {
       "id": "2026-05-28T18:25:00Z_abbotsford/mcdougall-ave_abbotsford/south-fraser-way",
       "timestamp": "2026-05-28T18:25:00Z",
       "address": "MCDOUGALL AVE & SOUTH FRASER WAY",
@@ -345,6 +360,6 @@
       "pulsePointId": "2433235919"
     }
   ],
-  "lastIncident": "2026-05-28T18:25:00Z",
-  "count": 23
+  "lastIncident": "2026-05-29T19:14:00Z",
+  "count": 24
 }
