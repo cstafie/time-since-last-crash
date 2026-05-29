@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-05-27T00:50:00Z",
-    "count": 51
+    "lastIncident": "2026-05-29T16:54:00Z",
+    "count": 52
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -9334,8 +9334,8 @@
     "name": "98th Ave",
     "slug": "surrey/98th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-20T23:07:00Z",
-    "count": 2
+    "lastIncident": "2026-05-29T16:54:00Z",
+    "count": 3
   },
   "mission/florence-lake-rd": {
     "name": "Florence Lake Rd",

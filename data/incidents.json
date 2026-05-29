@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-29T16:54:00Z_surrey/king-george-blvd_surrey/98th-ave",
+    "timestamp": "2026-05-29T16:54:00Z",
+    "scrapedAt": "2026-05-29T17:40:55Z",
+    "address": "KING GEORGE BLVD & 98TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/98th-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "98th Ave"
+    ],
+    "pulsePointId": "2484888490"
+  },
+  {
     "id": "2026-05-29T14:03:00Z_delta/hwy-17",
     "timestamp": "2026-05-29T14:03:00Z",
     "scrapedAt": "2026-05-29T15:00:06Z",
