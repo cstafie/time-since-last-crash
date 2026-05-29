@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/e-13th-ave",
+  "name": "E 13th Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-29T13:43:00Z_vancouver/e-13th-ave_vancouver/fraser-st",
+      "timestamp": "2026-05-29T13:43:00Z",
+      "address": "E 13TH AVE & FRASER ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-13th-ave",
+        "vancouver/fraser-st"
+      ],
+      "streetNames": [
+        "E 13th Ave",
+        "Fraser St"
+      ],
+      "pulsePointId": "2484787693"
+    }
+  ],
+  "lastIncident": "2026-05-29T13:43:00Z",
+  "count": 1
+}

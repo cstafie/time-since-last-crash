@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-29T14:03:00Z_delta/hwy-17",
+    "timestamp": "2026-05-29T14:03:00Z",
+    "scrapedAt": "2026-05-29T15:00:06Z",
+    "address": "HWY 17",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-17"
+    ],
+    "streetNames": [
+      "Hwy 17"
+    ],
+    "pulsePointId": "2484796745"
+  },
+  {
+    "id": "2026-05-29T13:43:00Z_vancouver/e-13th-ave_vancouver/fraser-st",
+    "timestamp": "2026-05-29T13:43:00Z",
+    "scrapedAt": "2026-05-29T15:00:06Z",
+    "address": "E 13TH AVE & FRASER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-13th-ave",
+      "vancouver/fraser-st"
+    ],
+    "streetNames": [
+      "E 13th Ave",
+      "Fraser St"
+    ],
+    "pulsePointId": "2484787693"
+  },
+  {
     "id": "2026-05-29T10:22:00Z_burnaby/4th-st_burnaby/18th-ave",
     "timestamp": "2026-05-29T10:22:00Z",
     "scrapedAt": "2026-05-29T11:01:37Z",

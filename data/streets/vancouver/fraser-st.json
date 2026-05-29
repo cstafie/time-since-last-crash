@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-29T13:43:00Z_vancouver/e-13th-ave_vancouver/fraser-st",
+      "timestamp": "2026-05-29T13:43:00Z",
+      "address": "E 13TH AVE & FRASER ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-13th-ave",
+        "vancouver/fraser-st"
+      ],
+      "streetNames": [
+        "E 13th Ave",
+        "Fraser St"
+      ],
+      "pulsePointId": "2484787693"
+    },
+    {
       "id": "2026-05-25T17:20:00Z_vancouver/fraser-st_vancouver/e-28th-ave",
       "timestamp": "2026-05-25T17:20:00Z",
       "address": "FRASER ST & E 28TH AVE",
@@ -124,6 +139,6 @@
       "pulsePointId": "2438036867"
     }
   ],
-  "lastIncident": "2026-05-25T17:20:00Z",
-  "count": 8
+  "lastIncident": "2026-05-29T13:43:00Z",
+  "count": 9
 }

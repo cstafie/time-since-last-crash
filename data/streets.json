@@ -3258,8 +3258,8 @@
     "name": "Fraser St",
     "slug": "vancouver/fraser-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-25T17:20:00Z",
-    "count": 8
+    "lastIncident": "2026-05-29T13:43:00Z",
+    "count": 9
   },
   "abbotsford/32470-simon-ave": {
     "name": "32470 Simon Ave",
@@ -4910,8 +4910,8 @@
     "name": "Hwy 17",
     "slug": "delta/hwy-17",
     "city": "Delta",
-    "lastIncident": "2026-05-27T16:44:00Z",
-    "count": 11
+    "lastIncident": "2026-05-29T14:03:00Z",
+    "count": 12
   },
   "coquitlam/winslow-ave": {
     "name": "Winslow Ave",
@@ -10847,6 +10847,13 @@
     "slug": "burnaby/4th-st",
     "city": "Burnaby",
     "lastIncident": "2026-05-29T10:22:00Z",
+    "count": 1
+  },
+  "vancouver/e-13th-ave": {
+    "name": "E 13th Ave",
+    "slug": "vancouver/e-13th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-29T13:43:00Z",
     "count": 1
   }
 }
