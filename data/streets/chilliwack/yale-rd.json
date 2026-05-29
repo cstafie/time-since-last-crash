@@ -4,6 +4,21 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-05-29T22:44:00Z_chilliwack/yale-rd_chilliwack/airport-rd",
+      "timestamp": "2026-05-29T22:44:00Z",
+      "address": "YALE RD & AIRPORT RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/yale-rd",
+        "chilliwack/airport-rd"
+      ],
+      "streetNames": [
+        "Yale Rd",
+        "Airport Rd"
+      ],
+      "pulsePointId": "2485127745"
+    },
+    {
       "id": "2026-05-20T01:39:00Z_chilliwack/upper-prairie-rd_chilliwack/yale-rd",
       "timestamp": "2026-05-20T01:39:00Z",
       "address": "UPPER PRAIRIE RD & YALE RD",
@@ -193,6 +208,6 @@
       "pulsePointId": "2436752247"
     }
   ],
-  "lastIncident": "2026-05-20T01:39:00Z",
-  "count": 13
+  "lastIncident": "2026-05-29T22:44:00Z",
+  "count": 14
 }

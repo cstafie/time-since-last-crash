@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-29T22:27:00Z_vancouver/granville-st_vancouver/w-35th-ave",
+      "timestamp": "2026-05-29T22:27:00Z",
+      "address": "GRANVILLE ST & W 35TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st",
+        "vancouver/w-35th-ave"
+      ],
+      "streetNames": [
+        "Granville St",
+        "W 35th Ave"
+      ],
+      "pulsePointId": "2485116911"
+    },
+    {
       "id": "2026-05-28T14:40:00Z_vancouver/w-6th-ave_vancouver/granville-st",
       "timestamp": "2026-05-28T14:40:00Z",
       "address": "W 6TH AVE & GRANVILLE ST",
@@ -516,6 +531,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-28T14:40:00Z",
-  "count": 35
+  "lastIncident": "2026-05-29T22:27:00Z",
+  "count": 36
 }

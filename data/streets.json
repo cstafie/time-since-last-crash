@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-28T14:40:00Z",
-    "count": 35
+    "lastIncident": "2026-05-29T22:27:00Z",
+    "count": 36
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -1529,8 +1529,8 @@
     "name": "Airport Rd",
     "slug": "chilliwack/airport-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-04-30T16:23:00Z",
-    "count": 4
+    "lastIncident": "2026-05-29T22:44:00Z",
+    "count": 5
   },
   "chilliwack/young-rd": {
     "name": "Young Rd",
@@ -1690,8 +1690,8 @@
     "name": "Old Yale Rd",
     "slug": "abbotsford/old-yale-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-25T02:20:00Z",
-    "count": 6
+    "lastIncident": "2026-05-29T22:49:00Z",
+    "count": 7
   },
   "vancouver/inverness-st": {
     "name": "Inverness St",
@@ -2880,8 +2880,8 @@
     "name": "Yale Rd",
     "slug": "chilliwack/yale-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-05-20T01:39:00Z",
-    "count": 13
+    "lastIncident": "2026-05-29T22:44:00Z",
+    "count": 14
   },
   "vancouver/e-61st-ave": {
     "name": "E 61st Ave",
@@ -4959,8 +4959,8 @@
     "name": "Blueridge Dr",
     "slug": "abbotsford/blueridge-dr",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-02T11:27:00Z",
-    "count": 3
+    "lastIncident": "2026-05-29T22:38:00Z",
+    "count": 4
   },
   "surrey/188th-st": {
     "name": "188th St",
@@ -8375,8 +8375,8 @@
     "name": "W 35th Ave",
     "slug": "vancouver/w-35th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-01T20:18:00Z",
-    "count": 1
+    "lastIncident": "2026-05-29T22:27:00Z",
+    "count": 2
   },
   "abbotsford/emerson-st": {
     "name": "Emerson St",
@@ -10903,6 +10903,20 @@
     "slug": "abbotsford/heritage-dr",
     "city": "Abbotsford",
     "lastIncident": "2026-05-29T21:36:00Z",
+    "count": 1
+  },
+  "abbotsford/guilford-dr": {
+    "name": "Guilford Dr",
+    "slug": "abbotsford/guilford-dr",
+    "city": "Abbotsford",
+    "lastIncident": "2026-05-29T22:49:00Z",
+    "count": 1
+  },
+  "abbotsford/ridgeview-dr": {
+    "name": "Ridgeview Dr",
+    "slug": "abbotsford/ridgeview-dr",
+    "city": "Abbotsford",
+    "lastIncident": "2026-05-29T22:38:00Z",
     "count": 1
   }
 }

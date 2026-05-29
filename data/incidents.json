@@ -1,5 +1,69 @@
 [
   {
+    "id": "2026-05-29T22:49:00Z_abbotsford/guilford-dr_abbotsford/old-yale-rd",
+    "timestamp": "2026-05-29T22:49:00Z",
+    "scrapedAt": "2026-05-29T22:58:49Z",
+    "address": "GUILFORD DR & OLD YALE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/guilford-dr",
+      "abbotsford/old-yale-rd"
+    ],
+    "streetNames": [
+      "Guilford Dr",
+      "Old Yale Rd"
+    ],
+    "pulsePointId": "2485131259"
+  },
+  {
+    "id": "2026-05-29T22:44:00Z_chilliwack/yale-rd_chilliwack/airport-rd",
+    "timestamp": "2026-05-29T22:44:00Z",
+    "scrapedAt": "2026-05-29T22:58:49Z",
+    "address": "YALE RD & AIRPORT RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/yale-rd",
+      "chilliwack/airport-rd"
+    ],
+    "streetNames": [
+      "Yale Rd",
+      "Airport Rd"
+    ],
+    "pulsePointId": "2485127745"
+  },
+  {
+    "id": "2026-05-29T22:38:00Z_abbotsford/ridgeview-dr_abbotsford/blueridge-dr",
+    "timestamp": "2026-05-29T22:38:00Z",
+    "scrapedAt": "2026-05-29T22:58:49Z",
+    "address": "RIDGEVIEW DR & BLUERIDGE DR",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/ridgeview-dr",
+      "abbotsford/blueridge-dr"
+    ],
+    "streetNames": [
+      "Ridgeview Dr",
+      "Blueridge Dr"
+    ],
+    "pulsePointId": "2485124131"
+  },
+  {
+    "id": "2026-05-29T22:27:00Z_vancouver/granville-st_vancouver/w-35th-ave",
+    "timestamp": "2026-05-29T22:27:00Z",
+    "scrapedAt": "2026-05-29T22:58:49Z",
+    "address": "GRANVILLE ST & W 35TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st",
+      "vancouver/w-35th-ave"
+    ],
+    "streetNames": [
+      "Granville St",
+      "W 35th Ave"
+    ],
+    "pulsePointId": "2485116911"
+  },
+  {
     "id": "2026-05-29T22:19:00Z_north-vancouver/bowser-ave_north-vancouver/marine-dr",
     "timestamp": "2026-05-29T22:19:00Z",
     "scrapedAt": "2026-05-29T22:29:08Z",

@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/guilford-dr",
+  "name": "Guilford Dr",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-05-29T22:49:00Z_abbotsford/guilford-dr_abbotsford/old-yale-rd",
+      "timestamp": "2026-05-29T22:49:00Z",
+      "address": "GUILFORD DR & OLD YALE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/guilford-dr",
+        "abbotsford/old-yale-rd"
+      ],
+      "streetNames": [
+        "Guilford Dr",
+        "Old Yale Rd"
+      ],
+      "pulsePointId": "2485131259"
+    }
+  ],
+  "lastIncident": "2026-05-29T22:49:00Z",
+  "count": 1
+}
