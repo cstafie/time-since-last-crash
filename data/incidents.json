@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-05-29T02:13:00Z_chilliwack/prest-rd_chilliwack/first-ave",
+    "timestamp": "2026-05-29T02:13:00Z",
+    "scrapedAt": "2026-05-29T02:16:31Z",
+    "address": "PREST RD & FIRST AVE",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/prest-rd",
+      "chilliwack/first-ave"
+    ],
+    "streetNames": [
+      "Prest Rd",
+      "First Ave"
+    ],
+    "pulsePointId": "2484552738"
+  },
+  {
+    "id": "2026-05-29T01:54:00Z_north-vancouver/w-16th-st",
+    "timestamp": "2026-05-29T01:54:00Z",
+    "scrapedAt": "2026-05-29T02:16:31Z",
+    "address": "W 16TH ST",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/w-16th-st"
+    ],
+    "streetNames": [
+      "W 16th St"
+    ],
+    "pulsePointId": "2484542329"
+  },
+  {
+    "id": "2026-05-29T01:28:00Z_surrey/122nd-st_surrey/96th-ave",
+    "timestamp": "2026-05-29T01:28:00Z",
+    "scrapedAt": "2026-05-29T02:16:31Z",
+    "address": "122ND ST & 96TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/122nd-st",
+      "surrey/96th-ave"
+    ],
+    "streetNames": [
+      "122nd St",
+      "96th Ave"
+    ],
+    "pulsePointId": "2484527027"
+  },
+  {
     "id": "2026-05-29T01:08:00Z_north-vancouver/trans-canada-hwy_north-vancouver/mountain-hwy-onrp",
     "timestamp": "2026-05-29T01:08:00Z",
     "scrapedAt": "2026-05-29T01:24:54Z",

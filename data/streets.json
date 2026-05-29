@@ -647,8 +647,8 @@
     "name": "96th Ave",
     "slug": "surrey/96th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-25T22:30:00Z",
-    "count": 25
+    "lastIncident": "2026-05-29T01:28:00Z",
+    "count": 26
   },
   "surrey/bolivar-rd": {
     "name": "Bolivar Rd",
@@ -1319,8 +1319,8 @@
     "name": "122nd St",
     "slug": "surrey/122nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-03-17T06:24:00Z",
-    "count": 3
+    "lastIncident": "2026-05-29T01:28:00Z",
+    "count": 4
   },
   "surrey/137th-st": {
     "name": "137th St",
@@ -2418,8 +2418,8 @@
     "name": "First Ave",
     "slug": "chilliwack/first-ave",
     "city": "Chilliwack",
-    "lastIncident": "2026-05-21T20:11:00Z",
-    "count": 7
+    "lastIncident": "2026-05-29T02:13:00Z",
+    "count": 8
   },
   "coquitlam/trans-canada-hwy-onrp": {
     "name": "Trans Canada Hwy Onrp",
@@ -2663,8 +2663,8 @@
     "name": "Prest Rd",
     "slug": "chilliwack/prest-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-05-06T01:40:00Z",
-    "count": 5
+    "lastIncident": "2026-05-29T02:13:00Z",
+    "count": 6
   },
   "chilliwack/mcguire-rd": {
     "name": "Mcguire Rd",
@@ -10805,6 +10805,13 @@
     "slug": "north-vancouver/mountain-hwy-onrp",
     "city": "North Vancouver",
     "lastIncident": "2026-05-29T01:08:00Z",
+    "count": 1
+  },
+  "north-vancouver/w-16th-st": {
+    "name": "W 16th St",
+    "slug": "north-vancouver/w-16th-st",
+    "city": "North Vancouver",
+    "lastIncident": "2026-05-29T01:54:00Z",
     "count": 1
   }
 }
