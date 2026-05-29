@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-05-29T01:08:00Z_north-vancouver/trans-canada-hwy_north-vancouver/mountain-hwy-onrp",
+    "timestamp": "2026-05-29T01:08:00Z",
+    "scrapedAt": "2026-05-29T01:24:54Z",
+    "address": "TRANS CANADA HWY & MOUNTAIN HWY ONRP",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/trans-canada-hwy",
+      "north-vancouver/mountain-hwy-onrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "Mountain Hwy Onrp"
+    ],
+    "pulsePointId": "2484514795"
+  },
+  {
+    "id": "2026-05-29T01:00:00Z_chilliwack/lickman-rd",
+    "timestamp": "2026-05-29T01:00:00Z",
+    "scrapedAt": "2026-05-29T01:24:54Z",
+    "address": "LICKMAN RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/lickman-rd"
+    ],
+    "streetNames": [
+      "Lickman Rd"
+    ],
+    "pulsePointId": "2484509649"
+  },
+  {
+    "id": "2026-05-29T01:00:00Z_vancouver/terminal-ave",
+    "timestamp": "2026-05-29T01:00:00Z",
+    "scrapedAt": "2026-05-29T01:24:54Z",
+    "address": "TERMINAL AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/terminal-ave"
+    ],
+    "streetNames": [
+      "Terminal Ave"
+    ],
+    "pulsePointId": "2484509358"
+  },
+  {
     "id": "2026-05-28T23:49:00Z_vancouver/e-49th-ave_vancouver/inverness-st",
     "timestamp": "2026-05-28T23:49:00Z",
     "scrapedAt": "2026-05-28T23:53:47Z",
