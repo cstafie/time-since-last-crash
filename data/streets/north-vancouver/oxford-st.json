@@ -1,0 +1,22 @@
+{
+  "slug": "north-vancouver/oxford-st",
+  "name": "Oxford St",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-05-29T20:20:00Z_north-vancouver/oxford-st",
+      "timestamp": "2026-05-29T20:20:00Z",
+      "address": "OXFORD ST",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/oxford-st"
+      ],
+      "streetNames": [
+        "Oxford St"
+      ],
+      "pulsePointId": "2485028460"
+    }
+  ],
+  "lastIncident": "2026-05-29T20:20:00Z",
+  "count": 1
+}

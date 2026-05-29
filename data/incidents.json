@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-05-29T21:27:00Z_langley/64th-ave",
+    "timestamp": "2026-05-29T21:27:00Z",
+    "scrapedAt": "2026-05-29T21:32:03Z",
+    "address": "64TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/64th-ave"
+    ],
+    "streetNames": [
+      "64th Ave"
+    ],
+    "pulsePointId": "2485078201"
+  },
+  {
+    "id": "2026-05-29T21:15:00Z_langley/michaud-cres_langley/203rd-st",
+    "timestamp": "2026-05-29T21:15:00Z",
+    "scrapedAt": "2026-05-29T21:32:03Z",
+    "address": "MICHAUD CRES & 203RD ST",
+    "city": "Langley",
+    "streets": [
+      "langley/michaud-cres",
+      "langley/203rd-st"
+    ],
+    "streetNames": [
+      "Michaud Cres",
+      "203rd St"
+    ],
+    "pulsePointId": "2485069058"
+  },
+  {
+    "id": "2026-05-29T20:20:00Z_north-vancouver/oxford-st",
+    "timestamp": "2026-05-29T20:20:00Z",
+    "scrapedAt": "2026-05-29T21:32:03Z",
+    "address": "OXFORD ST",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/oxford-st"
+    ],
+    "streetNames": [
+      "Oxford St"
+    ],
+    "pulsePointId": "2485028460"
+  },
+  {
     "id": "2026-05-29T20:15:00Z_surrey/76th-ave_surrey/king-george-blvd",
     "timestamp": "2026-05-29T20:15:00Z",
     "scrapedAt": "2026-05-29T20:43:52Z",
