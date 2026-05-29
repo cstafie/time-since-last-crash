@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-29T10:22:00Z_burnaby/4th-st_burnaby/18th-ave",
+    "timestamp": "2026-05-29T10:22:00Z",
+    "scrapedAt": "2026-05-29T11:01:37Z",
+    "address": "4TH ST & 18TH AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/4th-st",
+      "burnaby/18th-ave"
+    ],
+    "streetNames": [
+      "4th St",
+      "18th Ave"
+    ],
+    "pulsePointId": "2484728688"
+  },
+  {
     "id": "2026-05-29T07:18:00Z_abbotsford/taylor-rd_abbotsford/ross-rd",
     "timestamp": "2026-05-29T07:18:00Z",
     "scrapedAt": "2026-05-29T08:14:46Z",

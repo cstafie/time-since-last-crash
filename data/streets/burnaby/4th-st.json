@@ -1,6 +1,6 @@
 {
-  "slug": "burnaby/18th-ave",
-  "name": "18th Ave",
+  "slug": "burnaby/4th-st",
+  "name": "4th St",
   "city": "Burnaby",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "18th Ave"
       ],
       "pulsePointId": "2484728688"
-    },
-    {
-      "id": "2026-04-30T03:44:00Z_burnaby/18th-ave_burnaby/canada-way",
-      "timestamp": "2026-04-30T03:44:00Z",
-      "address": "18TH AVE & CANADA WAY",
-      "city": "Burnaby",
-      "streets": [
-        "burnaby/18th-ave",
-        "burnaby/canada-way"
-      ],
-      "streetNames": [
-        "18th Ave",
-        "Canada Way"
-      ],
-      "pulsePointId": "2464276453"
     }
   ],
   "lastIncident": "2026-05-29T10:22:00Z",
-  "count": 2
+  "count": 1
 }
