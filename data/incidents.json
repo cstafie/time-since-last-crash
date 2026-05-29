@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-29T20:15:00Z_surrey/76th-ave_surrey/king-george-blvd",
+    "timestamp": "2026-05-29T20:15:00Z",
+    "scrapedAt": "2026-05-29T20:43:52Z",
+    "address": "76TH AVE & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/76th-ave",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "76th Ave",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2485023577"
+  },
+  {
+    "id": "2026-05-29T20:14:00Z_maple-ridge/224th-st",
+    "timestamp": "2026-05-29T20:14:00Z",
+    "scrapedAt": "2026-05-29T20:43:52Z",
+    "address": "224TH ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/224th-st"
+    ],
+    "streetNames": [
+      "224th St"
+    ],
+    "pulsePointId": "2485023953"
+  },
+  {
     "id": "2026-05-29T19:42:00Z_richmond/no-5-rd",
     "timestamp": "2026-05-29T19:42:00Z",
     "scrapedAt": "2026-05-29T19:45:36Z",

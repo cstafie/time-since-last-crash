@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-05-29T17:39:00Z",
-    "count": 53
+    "lastIncident": "2026-05-29T20:15:00Z",
+    "count": 54
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -4637,8 +4637,8 @@
     "name": "224th St",
     "slug": "maple-ridge/224th-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-08T18:00:00Z",
-    "count": 2
+    "lastIncident": "2026-05-29T20:14:00Z",
+    "count": 3
   },
   "maple-ridge/124th-ave": {
     "name": "124th Ave",
@@ -6450,8 +6450,8 @@
     "name": "76th Ave",
     "slug": "surrey/76th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-26T22:22:00Z",
-    "count": 6
+    "lastIncident": "2026-05-29T20:15:00Z",
+    "count": 7
   },
   "surrey/67b-ave": {
     "name": "67b Ave",
