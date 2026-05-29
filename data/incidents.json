@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-05-29T03:28:00Z_surrey/144th-st_surrey/70a-ave",
+    "timestamp": "2026-05-29T03:28:00Z",
+    "scrapedAt": "2026-05-29T03:43:52Z",
+    "address": "144TH ST & 70A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/144th-st",
+      "surrey/70a-ave"
+    ],
+    "streetNames": [
+      "144th St",
+      "70a Ave"
+    ],
+    "pulsePointId": "2484593572"
+  },
+  {
+    "id": "2026-05-29T02:36:00Z_mission/shook-st_mission/lougheed-hwy",
+    "timestamp": "2026-05-29T02:36:00Z",
+    "scrapedAt": "2026-05-29T03:43:52Z",
+    "address": "SHOOK ST & LOUGHEED HWY",
+    "city": "Mission",
+    "streets": [
+      "mission/shook-st",
+      "mission/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Shook St",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2484566329"
+  },
+  {
+    "id": "2026-05-29T02:36:00Z_delta/river-rd-w",
+    "timestamp": "2026-05-29T02:36:00Z",
+    "scrapedAt": "2026-05-29T03:43:52Z",
+    "address": "RIVER RD W",
+    "city": "Delta",
+    "streets": [
+      "delta/river-rd-w"
+    ],
+    "streetNames": [
+      "River Rd W"
+    ],
+    "pulsePointId": "2484566126"
+  },
+  {
     "id": "2026-05-29T02:13:00Z_chilliwack/prest-rd_chilliwack/first-ave",
     "timestamp": "2026-05-29T02:13:00Z",
     "scrapedAt": "2026-05-29T02:16:31Z",
