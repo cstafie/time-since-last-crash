@@ -290,8 +290,8 @@
     "name": "207th St",
     "slug": "maple-ridge/207th-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-04-30T22:59:00Z",
-    "count": 3
+    "lastIncident": "2026-05-29T22:04:00Z",
+    "count": 4
   },
   "maple-ridge/227th-st": {
     "name": "227th St",
@@ -325,8 +325,8 @@
     "name": "Lougheed Hwy",
     "slug": "maple-ridge/lougheed-hwy",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-20T22:53:00Z",
-    "count": 22
+    "lastIncident": "2026-05-29T22:04:00Z",
+    "count": 23
   },
   "mission/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -479,8 +479,8 @@
     "name": "No 2 Rd",
     "slug": "richmond/no-2-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-23T05:39:00Z",
-    "count": 10
+    "lastIncident": "2026-05-29T22:13:00Z",
+    "count": 11
   },
   "richmond/no-3-rd": {
     "name": "No 3 Rd",
@@ -549,8 +549,8 @@
     "name": "132nd St",
     "slug": "surrey/132nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-24T17:27:00Z",
-    "count": 17
+    "lastIncident": "2026-05-29T21:55:00Z",
+    "count": 18
   },
   "surrey/140th-st": {
     "name": "140th St",
@@ -1641,8 +1641,8 @@
     "name": "Marine Dr",
     "slug": "north-vancouver/marine-dr",
     "city": "North Vancouver",
-    "lastIncident": "2026-05-11T17:37:00Z",
-    "count": 7
+    "lastIncident": "2026-05-29T22:19:00Z",
+    "count": 8
   },
   "coquitlam/shaughnessy-st": {
     "name": "Shaughnessy St",
@@ -2117,8 +2117,8 @@
     "name": "Mt Lehman Rd",
     "slug": "abbotsford/mt-lehman-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-19T02:52:00Z",
-    "count": 6
+    "lastIncident": "2026-05-29T21:36:00Z",
+    "count": 7
   },
   "vancouver/napier-st": {
     "name": "Napier St",
@@ -8095,8 +8095,8 @@
     "name": "Clarendon St",
     "slug": "vancouver/clarendon-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-15T18:06:00Z",
-    "count": 3
+    "lastIncident": "2026-05-29T21:45:00Z",
+    "count": 4
   },
   "delta/lyon-rd": {
     "name": "Lyon Rd",
@@ -9656,8 +9656,8 @@
     "name": "E 34th Ave",
     "slug": "vancouver/e-34th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-15T18:06:00Z",
-    "count": 1
+    "lastIncident": "2026-05-29T21:45:00Z",
+    "count": 2
   },
   "vancouver/w-43rd-ave": {
     "name": "W 43rd Ave",
@@ -9894,8 +9894,8 @@
     "name": "Maple Rd",
     "slug": "richmond/maple-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-18T22:35:00Z",
-    "count": 1
+    "lastIncident": "2026-05-29T22:13:00Z",
+    "count": 2
   },
   "coquitlam/delahaye-dr": {
     "name": "Delahaye Dr",
@@ -10377,8 +10377,8 @@
     "name": "70b Ave",
     "slug": "surrey/70b-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-24T17:27:00Z",
-    "count": 2
+    "lastIncident": "2026-05-29T21:55:00Z",
+    "count": 3
   },
   "coquitlam/bernatchey-st": {
     "name": "Bernatchey St",
@@ -10882,6 +10882,27 @@
     "slug": "north-vancouver/oxford-st",
     "city": "North Vancouver",
     "lastIncident": "2026-05-29T20:20:00Z",
+    "count": 1
+  },
+  "north-vancouver/bowser-ave": {
+    "name": "Bowser Ave",
+    "slug": "north-vancouver/bowser-ave",
+    "city": "North Vancouver",
+    "lastIncident": "2026-05-29T22:19:00Z",
+    "count": 1
+  },
+  "richmond/9251-alderbridge-way": {
+    "name": "9251 Alderbridge Way",
+    "slug": "richmond/9251-alderbridge-way",
+    "city": "Richmond",
+    "lastIncident": "2026-05-29T21:44:00Z",
+    "count": 1
+  },
+  "abbotsford/heritage-dr": {
+    "name": "Heritage Dr",
+    "slug": "abbotsford/heritage-dr",
+    "city": "Abbotsford",
+    "lastIncident": "2026-05-29T21:36:00Z",
     "count": 1
   }
 }

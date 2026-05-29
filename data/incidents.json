@@ -1,5 +1,115 @@
 [
   {
+    "id": "2026-05-29T22:19:00Z_north-vancouver/bowser-ave_north-vancouver/marine-dr",
+    "timestamp": "2026-05-29T22:19:00Z",
+    "scrapedAt": "2026-05-29T22:29:08Z",
+    "address": "BOWSER AVE & MARINE DR",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/bowser-ave",
+      "north-vancouver/marine-dr"
+    ],
+    "streetNames": [
+      "Bowser Ave",
+      "Marine Dr"
+    ],
+    "pulsePointId": "2485111043"
+  },
+  {
+    "id": "2026-05-29T22:13:00Z_richmond/no-2-rd_richmond/maple-rd",
+    "timestamp": "2026-05-29T22:13:00Z",
+    "scrapedAt": "2026-05-29T22:29:08Z",
+    "address": "NO 2 RD & MAPLE RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/no-2-rd",
+      "richmond/maple-rd"
+    ],
+    "streetNames": [
+      "No 2 Rd",
+      "Maple Rd"
+    ],
+    "pulsePointId": "2485107369"
+  },
+  {
+    "id": "2026-05-29T22:04:00Z_maple-ridge/lougheed-hwy_maple-ridge/207th-st",
+    "timestamp": "2026-05-29T22:04:00Z",
+    "scrapedAt": "2026-05-29T22:29:08Z",
+    "address": "LOUGHEED HWY & 207TH ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/lougheed-hwy",
+      "maple-ridge/207th-st"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "207th St"
+    ],
+    "pulsePointId": "2485100102"
+  },
+  {
+    "id": "2026-05-29T21:55:00Z_surrey/70b-ave_surrey/132nd-st",
+    "timestamp": "2026-05-29T21:55:00Z",
+    "scrapedAt": "2026-05-29T22:29:08Z",
+    "address": "70B AVE & 132ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/70b-ave",
+      "surrey/132nd-st"
+    ],
+    "streetNames": [
+      "70b Ave",
+      "132nd St"
+    ],
+    "pulsePointId": "2485096308"
+  },
+  {
+    "id": "2026-05-29T21:45:00Z_vancouver/clarendon-st_vancouver/e-34th-ave",
+    "timestamp": "2026-05-29T21:45:00Z",
+    "scrapedAt": "2026-05-29T22:29:08Z",
+    "address": "CLARENDON ST & E 34TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/clarendon-st",
+      "vancouver/e-34th-ave"
+    ],
+    "streetNames": [
+      "Clarendon St",
+      "E 34th Ave"
+    ],
+    "pulsePointId": "2485088590"
+  },
+  {
+    "id": "2026-05-29T21:44:00Z_richmond/9251-alderbridge-way",
+    "timestamp": "2026-05-29T21:44:00Z",
+    "scrapedAt": "2026-05-29T22:29:08Z",
+    "address": "9251 ALDERBRIDGE WAY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/9251-alderbridge-way"
+    ],
+    "streetNames": [
+      "9251 Alderbridge Way"
+    ],
+    "pulsePointId": "2485088174"
+  },
+  {
+    "id": "2026-05-29T21:36:00Z_abbotsford/heritage-dr_abbotsford/mt-lehman-rd",
+    "timestamp": "2026-05-29T21:36:00Z",
+    "scrapedAt": "2026-05-29T22:29:08Z",
+    "address": "HERITAGE DR & MT LEHMAN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/heritage-dr",
+      "abbotsford/mt-lehman-rd"
+    ],
+    "streetNames": [
+      "Heritage Dr",
+      "Mt Lehman Rd"
+    ],
+    "pulsePointId": "2485083299"
+  },
+  {
     "id": "2026-05-29T21:27:00Z_langley/64th-ave",
     "timestamp": "2026-05-29T21:27:00Z",
     "scrapedAt": "2026-05-29T21:32:03Z",

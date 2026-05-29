@@ -4,6 +4,21 @@
   "city": "North Vancouver",
   "incidents": [
     {
+      "id": "2026-05-29T22:19:00Z_north-vancouver/bowser-ave_north-vancouver/marine-dr",
+      "timestamp": "2026-05-29T22:19:00Z",
+      "address": "BOWSER AVE & MARINE DR",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/bowser-ave",
+        "north-vancouver/marine-dr"
+      ],
+      "streetNames": [
+        "Bowser Ave",
+        "Marine Dr"
+      ],
+      "pulsePointId": "2485111043"
+    },
+    {
       "id": "2026-05-11T17:37:00Z_north-vancouver/capilano-rd_north-vancouver/marine-dr",
       "timestamp": "2026-05-11T17:37:00Z",
       "address": "CAPILANO RD & MARINE DR",
@@ -109,6 +124,6 @@
       "pulsePointId": "2432954898"
     }
   ],
-  "lastIncident": "2026-05-11T17:37:00Z",
-  "count": 7
+  "lastIncident": "2026-05-29T22:19:00Z",
+  "count": 8
 }

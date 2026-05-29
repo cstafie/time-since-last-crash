@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-05-29T21:36:00Z_abbotsford/heritage-dr_abbotsford/mt-lehman-rd",
+      "timestamp": "2026-05-29T21:36:00Z",
+      "address": "HERITAGE DR & MT LEHMAN RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/heritage-dr",
+        "abbotsford/mt-lehman-rd"
+      ],
+      "streetNames": [
+        "Heritage Dr",
+        "Mt Lehman Rd"
+      ],
+      "pulsePointId": "2485083299"
+    },
+    {
       "id": "2026-04-19T02:52:00Z_abbotsford/huntingdon-rd_abbotsford/mt-lehman-rd",
       "timestamp": "2026-04-19T02:52:00Z",
       "address": "HUNTINGDON RD & MT LEHMAN RD",
@@ -92,6 +107,6 @@
       "pulsePointId": "2434362355"
     }
   ],
-  "lastIncident": "2026-04-19T02:52:00Z",
-  "count": 6
+  "lastIncident": "2026-05-29T21:36:00Z",
+  "count": 7
 }

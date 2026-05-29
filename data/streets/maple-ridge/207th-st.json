@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-05-29T22:04:00Z_maple-ridge/lougheed-hwy_maple-ridge/207th-st",
+      "timestamp": "2026-05-29T22:04:00Z",
+      "address": "LOUGHEED HWY & 207TH ST",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/lougheed-hwy",
+        "maple-ridge/207th-st"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "207th St"
+      ],
+      "pulsePointId": "2485100102"
+    },
+    {
       "id": "2026-04-30T22:59:00Z_maple-ridge/207th-st_maple-ridge/dewdney-trunk-rd",
       "timestamp": "2026-04-30T22:59:00Z",
       "address": "207TH ST & DEWDNEY TRUNK RD",
@@ -48,6 +63,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-30T22:59:00Z",
-  "count": 3
+  "lastIncident": "2026-05-29T22:04:00Z",
+  "count": 4
 }
