@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-30T20:29:00Z_vancouver/granville-st_vancouver/w-57th-ave",
+      "timestamp": "2026-05-30T20:29:00Z",
+      "address": "GRANVILLE ST & W 57TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st",
+        "vancouver/w-57th-ave"
+      ],
+      "streetNames": [
+        "Granville St",
+        "W 57th Ave"
+      ],
+      "pulsePointId": "2485710958"
+    },
+    {
       "id": "2026-04-24T00:15:00Z_vancouver/w-57th-ave_vancouver/heather-st",
       "timestamp": "2026-04-24T00:15:00Z",
       "address": "W 57TH AVE & HEATHER ST",
@@ -107,6 +122,6 @@
       "pulsePointId": "2440090548"
     }
   ],
-  "lastIncident": "2026-04-24T00:15:00Z",
-  "count": 7
+  "lastIncident": "2026-05-30T20:29:00Z",
+  "count": 8
 }

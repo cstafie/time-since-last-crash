@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-30T20:29:00Z_vancouver/granville-st_vancouver/w-57th-ave",
+      "timestamp": "2026-05-30T20:29:00Z",
+      "address": "GRANVILLE ST & W 57TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st",
+        "vancouver/w-57th-ave"
+      ],
+      "streetNames": [
+        "Granville St",
+        "W 57th Ave"
+      ],
+      "pulsePointId": "2485710958"
+    },
+    {
       "id": "2026-05-29T22:27:00Z_vancouver/granville-st_vancouver/w-35th-ave",
       "timestamp": "2026-05-29T22:27:00Z",
       "address": "GRANVILLE ST & W 35TH AVE",
@@ -531,6 +546,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-29T22:27:00Z",
-  "count": 36
+  "lastIncident": "2026-05-30T20:29:00Z",
+  "count": 37
 }

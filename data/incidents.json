@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-05-30T20:38:00Z_surrey/184th-st_surrey/32nd-ave",
+    "timestamp": "2026-05-30T20:38:00Z",
+    "scrapedAt": "2026-05-30T20:45:25Z",
+    "address": "184TH ST & 32ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/184th-st",
+      "surrey/32nd-ave"
+    ],
+    "streetNames": [
+      "184th St",
+      "32nd Ave"
+    ],
+    "pulsePointId": "2485717462"
+  },
+  {
+    "id": "2026-05-30T20:29:00Z_vancouver/granville-st_vancouver/w-57th-ave",
+    "timestamp": "2026-05-30T20:29:00Z",
+    "scrapedAt": "2026-05-30T20:45:25Z",
+    "address": "GRANVILLE ST & W 57TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st",
+      "vancouver/w-57th-ave"
+    ],
+    "streetNames": [
+      "Granville St",
+      "W 57th Ave"
+    ],
+    "pulsePointId": "2485710958"
+  },
+  {
+    "id": "2026-05-30T20:18:00Z_surrey/152nd-st",
+    "timestamp": "2026-05-30T20:18:00Z",
+    "scrapedAt": "2026-05-30T20:45:25Z",
+    "address": "152ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/152nd-st"
+    ],
+    "streetNames": [
+      "152nd St"
+    ],
+    "pulsePointId": "2485703936"
+  },
+  {
     "id": "2026-05-30T19:46:00Z_burnaby/willingdon-ave_burnaby/canada-way",
     "timestamp": "2026-05-30T19:46:00Z",
     "scrapedAt": "2026-05-30T19:54:55Z",

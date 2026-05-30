@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-29T22:27:00Z",
-    "count": 36
+    "lastIncident": "2026-05-30T20:29:00Z",
+    "count": 37
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -850,8 +850,8 @@
     "name": "32nd Ave",
     "slug": "surrey/32nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-15T01:01:00Z",
-    "count": 8
+    "lastIncident": "2026-05-30T20:38:00Z",
+    "count": 9
   },
   "langley/30th-ave": {
     "name": "30th Ave",
@@ -1795,8 +1795,8 @@
     "name": "152nd St",
     "slug": "surrey/152nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-27T02:56:00Z",
-    "count": 27
+    "lastIncident": "2026-05-30T20:18:00Z",
+    "count": 28
   },
   "langley/20611-fraser-hwyste-111": {
     "name": "20611 Fraser Hwy,ste 111",
@@ -3713,8 +3713,8 @@
     "name": "W 57th Ave",
     "slug": "vancouver/w-57th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-24T00:15:00Z",
-    "count": 7
+    "lastIncident": "2026-05-30T20:29:00Z",
+    "count": 8
   },
   "richmond/lansdowne-rd": {
     "name": "Lansdowne Rd",
@@ -4196,8 +4196,8 @@
     "name": "184th St",
     "slug": "surrey/184th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-27T23:52:00Z",
-    "count": 8
+    "lastIncident": "2026-05-30T20:38:00Z",
+    "count": 9
   },
   "burnaby/rosser-ave": {
     "name": "Rosser Ave",
