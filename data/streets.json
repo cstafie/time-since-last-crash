@@ -1655,15 +1655,15 @@
     "name": "David Ave",
     "slug": "coquitlam/david-ave",
     "city": "Coquitlam",
-    "lastIncident": "2026-05-27T05:19:00Z",
-    "count": 5
+    "lastIncident": "2026-05-30T01:28:00Z",
+    "count": 6
   },
   "coquitlam/oxford-st": {
     "name": "Oxford St",
     "slug": "coquitlam/oxford-st",
     "city": "Coquitlam",
-    "lastIncident": "2026-03-13T03:07:00Z",
-    "count": 1
+    "lastIncident": "2026-05-30T01:28:00Z",
+    "count": 2
   },
   "vancouver/earles-lane": {
     "name": "Earles Lane",
@@ -5911,8 +5911,8 @@
     "name": "Nootka St",
     "slug": "vancouver/nootka-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-09T13:06:00Z",
-    "count": 1
+    "lastIncident": "2026-05-30T01:49:00Z",
+    "count": 2
   },
   "richmond/rosehill-dr": {
     "name": "Rosehill Dr",
@@ -9369,8 +9369,8 @@
     "name": "Glenmore Rd",
     "slug": "abbotsford/glenmore-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-12T05:08:00Z",
-    "count": 1
+    "lastIncident": "2026-05-30T01:31:00Z",
+    "count": 2
   },
   "coquitlam/eden-ave": {
     "name": "Eden Ave",
@@ -10966,6 +10966,13 @@
     "slug": "chilliwack/williams-st",
     "city": "Chilliwack",
     "lastIncident": "2026-05-30T00:22:00Z",
+    "count": 1
+  },
+  "vancouver/e-pender-st": {
+    "name": "E Pender St",
+    "slug": "vancouver/e-pender-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-05-30T01:49:00Z",
     "count": 1
   }
 }

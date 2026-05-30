@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-05-30T01:28:00Z_coquitlam/oxford-st_coquitlam/david-ave",
+      "timestamp": "2026-05-30T01:28:00Z",
+      "address": "OXFORD ST & DAVID AVE",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/oxford-st",
+        "coquitlam/david-ave"
+      ],
+      "streetNames": [
+        "Oxford St",
+        "David Ave"
+      ],
+      "pulsePointId": "2485232666"
+    },
+    {
       "id": "2026-05-27T05:19:00Z_coquitlam/david-ave",
       "timestamp": "2026-05-27T05:19:00Z",
       "address": "DAVID AVE",
@@ -77,6 +92,6 @@
       "pulsePointId": "2432944071"
     }
   ],
-  "lastIncident": "2026-05-27T05:19:00Z",
-  "count": 5
+  "lastIncident": "2026-05-30T01:28:00Z",
+  "count": 6
 }
