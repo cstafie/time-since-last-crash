@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-30T16:04:00Z_vancouver/w-4th-ave_vancouver/burrard-st",
+    "timestamp": "2026-05-30T16:04:00Z",
+    "scrapedAt": "2026-05-30T16:18:59Z",
+    "address": "W 4TH AVE & BURRARD ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-4th-ave",
+      "vancouver/burrard-st"
+    ],
+    "streetNames": [
+      "W 4th Ave",
+      "Burrard St"
+    ],
+    "pulsePointId": "2485561529"
+  },
+  {
     "id": "2026-05-30T12:53:00Z_richmond/westminster-hwy",
     "timestamp": "2026-05-30T12:53:00Z",
     "scrapedAt": "2026-05-30T13:29:19Z",

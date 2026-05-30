@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-30T16:04:00Z_vancouver/w-4th-ave_vancouver/burrard-st",
+      "timestamp": "2026-05-30T16:04:00Z",
+      "address": "W 4TH AVE & BURRARD ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-4th-ave",
+        "vancouver/burrard-st"
+      ],
+      "streetNames": [
+        "W 4th Ave",
+        "Burrard St"
+      ],
+      "pulsePointId": "2485561529"
+    },
+    {
       "id": "2026-05-30T10:12:00Z_vancouver/w-4th-ave",
       "timestamp": "2026-05-30T10:12:00Z",
       "address": "W 4TH AVE",
@@ -102,6 +117,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-30T10:12:00Z",
-  "count": 7
+  "lastIncident": "2026-05-30T16:04:00Z",
+  "count": 8
 }
