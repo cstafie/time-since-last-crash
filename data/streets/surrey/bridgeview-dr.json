@@ -1,0 +1,24 @@
+{
+  "slug": "surrey/bridgeview-dr",
+  "name": "Bridgeview Dr",
+  "city": "Surrey",
+  "incidents": [
+    {
+      "id": "2026-05-30T02:13:00Z_surrey/hwy-17_surrey/bridgeview-dr",
+      "timestamp": "2026-05-30T02:13:00Z",
+      "address": "HWY 17 & BRIDGEVIEW DR",
+      "city": "Surrey",
+      "streets": [
+        "surrey/hwy-17",
+        "surrey/bridgeview-dr"
+      ],
+      "streetNames": [
+        "Hwy 17",
+        "Bridgeview Dr"
+      ],
+      "pulsePointId": "2485261350"
+    }
+  ],
+  "lastIncident": "2026-05-30T02:13:00Z",
+  "count": 1
+}

@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-05-30T03:30:00Z_burnaby/thorne-ave",
+    "timestamp": "2026-05-30T03:30:00Z",
+    "scrapedAt": "2026-05-30T03:43:23Z",
+    "address": "THORNE AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/thorne-ave"
+    ],
+    "streetNames": [
+      "Thorne Ave"
+    ],
+    "pulsePointId": "2485301014"
+  },
+  {
+    "id": "2026-05-30T02:53:00Z_langley/204th-st_langley/88th-ave",
+    "timestamp": "2026-05-30T02:53:00Z",
+    "scrapedAt": "2026-05-30T03:43:23Z",
+    "address": "204TH ST & 88TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/204th-st",
+      "langley/88th-ave"
+    ],
+    "streetNames": [
+      "204th St",
+      "88th Ave"
+    ],
+    "pulsePointId": "2485282526"
+  },
+  {
+    "id": "2026-05-30T02:13:00Z_surrey/hwy-17_surrey/bridgeview-dr",
+    "timestamp": "2026-05-30T02:13:00Z",
+    "scrapedAt": "2026-05-30T03:43:23Z",
+    "address": "HWY 17 & BRIDGEVIEW DR",
+    "city": "Surrey",
+    "streets": [
+      "surrey/hwy-17",
+      "surrey/bridgeview-dr"
+    ],
+    "streetNames": [
+      "Hwy 17",
+      "Bridgeview Dr"
+    ],
+    "pulsePointId": "2485261350"
+  },
+  {
     "id": "2026-05-30T01:49:00Z_vancouver/e-pender-st_vancouver/nootka-st",
     "timestamp": "2026-05-30T01:49:00Z",
     "scrapedAt": "2026-05-30T02:15:48Z",
