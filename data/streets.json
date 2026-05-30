@@ -45,8 +45,8 @@
     "name": "Trethewey St",
     "slug": "abbotsford/trethewey-st",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-21T05:56:00Z",
-    "count": 6
+    "lastIncident": "2026-05-30T22:58:00Z",
+    "count": 7
   },
   "burnaby/deer-lake-pkwy": {
     "name": "Deer Lake Pkwy",
@@ -6492,8 +6492,8 @@
     "name": "George Ferguson Way",
     "slug": "abbotsford/george-ferguson-way",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-19T22:22:00Z",
-    "count": 3
+    "lastIncident": "2026-05-30T22:58:00Z",
+    "count": 4
   },
   "new-westminster/richmond-st": {
     "name": "Richmond St",

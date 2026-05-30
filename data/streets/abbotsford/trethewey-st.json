@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-05-30T22:58:00Z_abbotsford/trethewey-st_abbotsford/george-ferguson-way",
+      "timestamp": "2026-05-30T22:58:00Z",
+      "address": "TRETHEWEY ST & GEORGE FERGUSON WAY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/trethewey-st",
+        "abbotsford/george-ferguson-way"
+      ],
+      "streetNames": [
+        "Trethewey St",
+        "George Ferguson Way"
+      ],
+      "pulsePointId": "2485805599"
+    },
+    {
       "id": "2026-05-21T05:56:00Z_abbotsford/south-fraser-way_abbotsford/trethewey-st",
       "timestamp": "2026-05-21T05:56:00Z",
       "address": "SOUTH FRASER WAY & TRETHEWEY ST",
@@ -91,6 +106,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-21T05:56:00Z",
-  "count": 6
+  "lastIncident": "2026-05-30T22:58:00Z",
+  "count": 7
 }
