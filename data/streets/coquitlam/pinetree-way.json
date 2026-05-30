@@ -4,6 +4,19 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-05-30T18:39:00Z_coquitlam/pinetree-way",
+      "timestamp": "2026-05-30T18:39:00Z",
+      "address": "PINETREE WAY",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/pinetree-way"
+      ],
+      "streetNames": [
+        "Pinetree Way"
+      ],
+      "pulsePointId": "2485646228"
+    },
+    {
       "id": "2026-05-14T17:31:00Z_coquitlam/pinetree-way_coquitlam/david-ave",
       "timestamp": "2026-05-14T17:31:00Z",
       "address": "PINETREE WAY & DAVID AVE",
@@ -34,6 +47,6 @@
       "pulsePointId": "2468007459"
     }
   ],
-  "lastIncident": "2026-05-14T17:31:00Z",
-  "count": 2
+  "lastIncident": "2026-05-30T18:39:00Z",
+  "count": 3
 }
