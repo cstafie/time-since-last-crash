@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-05-30T00:36:00Z_surrey/88th-ave_surrey/144th-st",
+      "timestamp": "2026-05-30T00:36:00Z",
+      "address": "88TH AVE & 144TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/88th-ave",
+        "surrey/144th-st"
+      ],
+      "streetNames": [
+        "88th Ave",
+        "144th St"
+      ],
+      "pulsePointId": "2485200852"
+    },
+    {
       "id": "2026-05-28T14:59:00Z_surrey/88th-ave_surrey/126th-st",
       "timestamp": "2026-05-28T14:59:00Z",
       "address": "88TH AVE & 126TH ST",
@@ -384,6 +399,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-28T14:59:00Z",
-  "count": 26
+  "lastIncident": "2026-05-30T00:36:00Z",
+  "count": 27
 }

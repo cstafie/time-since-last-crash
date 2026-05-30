@@ -1,5 +1,115 @@
 [
   {
+    "id": "2026-05-30T01:17:00Z_north-vancouver/w-keith-rd",
+    "timestamp": "2026-05-30T01:17:00Z",
+    "scrapedAt": "2026-05-30T01:19:58Z",
+    "address": "W KEITH RD",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/w-keith-rd"
+    ],
+    "streetNames": [
+      "W Keith Rd"
+    ],
+    "pulsePointId": "2485224888"
+  },
+  {
+    "id": "2026-05-30T01:09:00Z_north-vancouver/mountain-hwy-ofrp_north-vancouver/trans-canada-hwy",
+    "timestamp": "2026-05-30T01:09:00Z",
+    "scrapedAt": "2026-05-30T01:19:58Z",
+    "address": "MOUNTAIN HWY OFRP & TRANS CANADA HWY",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/mountain-hwy-ofrp",
+      "north-vancouver/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Mountain Hwy Ofrp",
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2485221943"
+  },
+  {
+    "id": "2026-05-30T01:09:00Z_north-vancouver/mountain-hwy_north-vancouver/e-keith-rd",
+    "timestamp": "2026-05-30T01:09:00Z",
+    "scrapedAt": "2026-05-30T01:19:58Z",
+    "address": "MOUNTAIN HWY & E KEITH RD",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/mountain-hwy",
+      "north-vancouver/e-keith-rd"
+    ],
+    "streetNames": [
+      "Mountain Hwy",
+      "E Keith Rd"
+    ],
+    "pulsePointId": "2485221845"
+  },
+  {
+    "id": "2026-05-30T01:02:00Z_west-vancouver/taylor-way_west-vancouver/evelyn-dr",
+    "timestamp": "2026-05-30T01:02:00Z",
+    "scrapedAt": "2026-05-30T01:19:58Z",
+    "address": "TAYLOR WAY & EVELYN DR",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/taylor-way",
+      "west-vancouver/evelyn-dr"
+    ],
+    "streetNames": [
+      "Taylor Way",
+      "Evelyn Dr"
+    ],
+    "pulsePointId": "2485215697"
+  },
+  {
+    "id": "2026-05-30T00:50:00Z_burnaby/inman-ave_burnaby/burke-st",
+    "timestamp": "2026-05-30T00:50:00Z",
+    "scrapedAt": "2026-05-30T01:19:58Z",
+    "address": "INMAN AVE & BURKE ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/inman-ave",
+      "burnaby/burke-st"
+    ],
+    "streetNames": [
+      "Inman Ave",
+      "Burke St"
+    ],
+    "pulsePointId": "2485210661"
+  },
+  {
+    "id": "2026-05-30T00:36:00Z_surrey/88th-ave_surrey/144th-st",
+    "timestamp": "2026-05-30T00:36:00Z",
+    "scrapedAt": "2026-05-30T01:19:58Z",
+    "address": "88TH AVE & 144TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/88th-ave",
+      "surrey/144th-st"
+    ],
+    "streetNames": [
+      "88th Ave",
+      "144th St"
+    ],
+    "pulsePointId": "2485200852"
+  },
+  {
+    "id": "2026-05-30T00:22:00Z_chilliwack/bonny-ave_chilliwack/williams-st",
+    "timestamp": "2026-05-30T00:22:00Z",
+    "scrapedAt": "2026-05-30T01:19:58Z",
+    "address": "BONNY AVE & WILLIAMS ST",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/bonny-ave",
+      "chilliwack/williams-st"
+    ],
+    "streetNames": [
+      "Bonny Ave",
+      "Williams St"
+    ],
+    "pulsePointId": "2485191763"
+  },
+  {
     "id": "2026-05-30T00:13:00Z_delta/112th-st",
     "timestamp": "2026-05-30T00:13:00Z",
     "scrapedAt": "2026-05-30T00:20:37Z",

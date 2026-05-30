@@ -1,6 +1,6 @@
 {
-  "slug": "west-vancouver/taylor-way",
-  "name": "Taylor Way",
+  "slug": "west-vancouver/evelyn-dr",
+  "name": "Evelyn Dr",
   "city": "West Vancouver",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Evelyn Dr"
       ],
       "pulsePointId": "2485215697"
-    },
-    {
-      "id": "2026-05-26T00:45:00Z_west-vancouver/taylor-way_west-vancouver/marine-dr",
-      "timestamp": "2026-05-26T00:45:00Z",
-      "address": "TAYLOR WAY & MARINE DR",
-      "city": "West Vancouver",
-      "streets": [
-        "west-vancouver/taylor-way",
-        "west-vancouver/marine-dr"
-      ],
-      "streetNames": [
-        "Taylor Way",
-        "Marine Dr"
-      ],
-      "pulsePointId": "2482370119"
     }
   ],
   "lastIncident": "2026-05-30T01:02:00Z",
-  "count": 2
+  "count": 1
 }

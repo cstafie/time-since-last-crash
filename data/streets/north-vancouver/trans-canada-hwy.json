@@ -4,6 +4,21 @@
   "city": "North Vancouver",
   "incidents": [
     {
+      "id": "2026-05-30T01:09:00Z_north-vancouver/mountain-hwy-ofrp_north-vancouver/trans-canada-hwy",
+      "timestamp": "2026-05-30T01:09:00Z",
+      "address": "MOUNTAIN HWY OFRP & TRANS CANADA HWY",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/mountain-hwy-ofrp",
+        "north-vancouver/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Mountain Hwy Ofrp",
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2485221943"
+    },
+    {
       "id": "2026-05-29T01:08:00Z_north-vancouver/trans-canada-hwy_north-vancouver/mountain-hwy-onrp",
       "timestamp": "2026-05-29T01:08:00Z",
       "address": "TRANS CANADA HWY & MOUNTAIN HWY ONRP",
@@ -177,6 +192,6 @@
       "pulsePointId": "2446681723"
     }
   ],
-  "lastIncident": "2026-05-29T01:08:00Z",
-  "count": 13
+  "lastIncident": "2026-05-30T01:09:00Z",
+  "count": 14
 }

@@ -1,6 +1,6 @@
 {
-  "slug": "burnaby/burke-st",
-  "name": "Burke St",
+  "slug": "burnaby/inman-ave",
+  "name": "Inman Ave",
   "city": "Burnaby",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Burke St"
       ],
       "pulsePointId": "2485210661"
-    },
-    {
-      "id": "2026-04-01T13:43:00Z_burnaby/boundary-rd_burnaby/burke-st",
-      "timestamp": "2026-04-01T13:43:00Z",
-      "address": "BOUNDARY RD & BURKE ST",
-      "city": "Burnaby",
-      "streets": [
-        "burnaby/boundary-rd",
-        "burnaby/burke-st"
-      ],
-      "streetNames": [
-        "Boundary Rd",
-        "Burke St"
-      ],
-      "pulsePointId": "2445648366"
     }
   ],
   "lastIncident": "2026-05-30T00:50:00Z",
-  "count": 2
+  "count": 1
 }

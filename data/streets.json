@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-28T14:59:00Z",
-    "count": 26
+    "lastIncident": "2026-05-30T00:36:00Z",
+    "count": 27
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",
@@ -1501,8 +1501,8 @@
     "name": "144th St",
     "slug": "surrey/144th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-29T03:28:00Z",
-    "count": 23
+    "lastIncident": "2026-05-30T00:36:00Z",
+    "count": 24
   },
   "north-vancouver/seymour-blvd": {
     "name": "Seymour Blvd",
@@ -4770,8 +4770,8 @@
     "name": "Burke St",
     "slug": "burnaby/burke-st",
     "city": "Burnaby",
-    "lastIncident": "2026-04-01T13:43:00Z",
-    "count": 1
+    "lastIncident": "2026-05-30T00:50:00Z",
+    "count": 2
   },
   "burnaby/burlington-ave": {
     "name": "Burlington Ave",
@@ -5113,8 +5113,8 @@
     "name": "Trans Canada Hwy",
     "slug": "north-vancouver/trans-canada-hwy",
     "city": "North Vancouver",
-    "lastIncident": "2026-05-29T01:08:00Z",
-    "count": 13
+    "lastIncident": "2026-05-30T01:09:00Z",
+    "count": 14
   },
   "chilliwack/topaz-dr": {
     "name": "Topaz Dr",
@@ -6520,8 +6520,8 @@
     "name": "E Keith Rd",
     "slug": "north-vancouver/e-keith-rd",
     "city": "North Vancouver",
-    "lastIncident": "2026-05-20T22:46:00Z",
-    "count": 2
+    "lastIncident": "2026-05-30T01:09:00Z",
+    "count": 3
   },
   "north-vancouver/w-21st-st": {
     "name": "W 21st St",
@@ -9138,8 +9138,8 @@
     "name": "Mountain Hwy",
     "slug": "north-vancouver/mountain-hwy",
     "city": "North Vancouver",
-    "lastIncident": "2026-05-11T21:25:00Z",
-    "count": 2
+    "lastIncident": "2026-05-30T01:09:00Z",
+    "count": 3
   },
   "burnaby/waverley-ave": {
     "name": "Waverley Ave",
@@ -10510,8 +10510,8 @@
     "name": "Taylor Way",
     "slug": "west-vancouver/taylor-way",
     "city": "West Vancouver",
-    "lastIncident": "2026-05-26T00:45:00Z",
-    "count": 1
+    "lastIncident": "2026-05-30T01:02:00Z",
+    "count": 2
   },
   "new-westminster/715-mcbride-blvd": {
     "name": "715 Mcbride Blvd",
@@ -10924,6 +10924,48 @@
     "slug": "surrey/71a-ave",
     "city": "Surrey",
     "lastIncident": "2026-05-30T00:12:00Z",
+    "count": 1
+  },
+  "north-vancouver/w-keith-rd": {
+    "name": "W Keith Rd",
+    "slug": "north-vancouver/w-keith-rd",
+    "city": "North Vancouver",
+    "lastIncident": "2026-05-30T01:17:00Z",
+    "count": 1
+  },
+  "north-vancouver/mountain-hwy-ofrp": {
+    "name": "Mountain Hwy Ofrp",
+    "slug": "north-vancouver/mountain-hwy-ofrp",
+    "city": "North Vancouver",
+    "lastIncident": "2026-05-30T01:09:00Z",
+    "count": 1
+  },
+  "west-vancouver/evelyn-dr": {
+    "name": "Evelyn Dr",
+    "slug": "west-vancouver/evelyn-dr",
+    "city": "West Vancouver",
+    "lastIncident": "2026-05-30T01:02:00Z",
+    "count": 1
+  },
+  "burnaby/inman-ave": {
+    "name": "Inman Ave",
+    "slug": "burnaby/inman-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-05-30T00:50:00Z",
+    "count": 1
+  },
+  "chilliwack/bonny-ave": {
+    "name": "Bonny Ave",
+    "slug": "chilliwack/bonny-ave",
+    "city": "Chilliwack",
+    "lastIncident": "2026-05-30T00:22:00Z",
+    "count": 1
+  },
+  "chilliwack/williams-st": {
+    "name": "Williams St",
+    "slug": "chilliwack/williams-st",
+    "city": "Chilliwack",
+    "lastIncident": "2026-05-30T00:22:00Z",
     "count": 1
   }
 }
