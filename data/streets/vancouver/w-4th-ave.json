@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-30T10:12:00Z_vancouver/w-4th-ave",
+      "timestamp": "2026-05-30T10:12:00Z",
+      "address": "W 4TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-4th-ave"
+      ],
+      "streetNames": [
+        "W 4th Ave"
+      ],
+      "pulsePointId": "2485445516"
+    },
+    {
       "id": "2026-05-20T23:45:00Z_vancouver/w-4th-ave",
       "timestamp": "2026-05-20T23:45:00Z",
       "address": "W 4TH AVE",
@@ -89,6 +102,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-20T23:45:00Z",
-  "count": 6
+  "lastIncident": "2026-05-30T10:12:00Z",
+  "count": 7
 }
