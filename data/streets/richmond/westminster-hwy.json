@@ -4,6 +4,19 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-05-30T12:53:00Z_richmond/westminster-hwy",
+      "timestamp": "2026-05-30T12:53:00Z",
+      "address": "WESTMINSTER HWY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/westminster-hwy"
+      ],
+      "streetNames": [
+        "Westminster Hwy"
+      ],
+      "pulsePointId": "2485486820"
+    },
+    {
       "id": "2026-05-27T02:03:00Z_richmond/no-6-rd_richmond/westminster-hwy",
       "timestamp": "2026-05-27T02:03:00Z",
       "address": "NO 6 RD & WESTMINSTER HWY",
@@ -233,6 +246,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-27T02:03:00Z",
-  "count": 16
+  "lastIncident": "2026-05-30T12:53:00Z",
+  "count": 17
 }
