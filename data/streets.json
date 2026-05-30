@@ -535,8 +535,8 @@
     "name": "128th St",
     "slug": "surrey/128th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-27T01:54:00Z",
-    "count": 23
+    "lastIncident": "2026-05-30T04:16:00Z",
+    "count": 24
   },
   "surrey/130b-st": {
     "name": "130b St",
@@ -626,8 +626,8 @@
     "name": "84th Ave",
     "slug": "surrey/84th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-27T00:50:00Z",
-    "count": 17
+    "lastIncident": "2026-05-30T04:16:00Z",
+    "count": 18
   },
   "surrey/88th-ave": {
     "name": "88th Ave",
@@ -3699,8 +3699,8 @@
     "name": "Royal Oak Ave",
     "slug": "burnaby/royal-oak-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-05-27T19:09:00Z",
-    "count": 8
+    "lastIncident": "2026-05-30T04:16:00Z",
+    "count": 9
   },
   "burnaby/irving-st": {
     "name": "Irving St",
