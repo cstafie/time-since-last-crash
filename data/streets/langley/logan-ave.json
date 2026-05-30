@@ -1,0 +1,22 @@
+{
+  "slug": "langley/logan-ave",
+  "name": "Logan Ave",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-05-30T19:45:00Z_langley/logan-ave",
+      "timestamp": "2026-05-30T19:45:00Z",
+      "address": "LOGAN AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/logan-ave"
+      ],
+      "streetNames": [
+        "Logan Ave"
+      ],
+      "pulsePointId": "2485684917"
+    }
+  ],
+  "lastIncident": "2026-05-30T19:45:00Z",
+  "count": 1
+}

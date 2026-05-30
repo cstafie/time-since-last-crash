@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-30T19:46:00Z_burnaby/willingdon-ave_burnaby/canada-way",
+      "timestamp": "2026-05-30T19:46:00Z",
+      "address": "WILLINGDON AVE & CANADA WAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/willingdon-ave",
+        "burnaby/canada-way"
+      ],
+      "streetNames": [
+        "Willingdon Ave",
+        "Canada Way"
+      ],
+      "pulsePointId": "2485686923"
+    },
+    {
       "id": "2026-05-28T16:20:00Z_burnaby/canada-way_burnaby/burris-st",
       "timestamp": "2026-05-28T16:20:00Z",
       "address": "CANADA WAY & BURRIS ST",
@@ -280,6 +295,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-28T16:20:00Z",
-  "count": 19
+  "lastIncident": "2026-05-30T19:46:00Z",
+  "count": 20
 }

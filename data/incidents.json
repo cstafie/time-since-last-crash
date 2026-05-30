@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-30T19:46:00Z_burnaby/willingdon-ave_burnaby/canada-way",
+    "timestamp": "2026-05-30T19:46:00Z",
+    "scrapedAt": "2026-05-30T19:54:55Z",
+    "address": "WILLINGDON AVE & CANADA WAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/willingdon-ave",
+      "burnaby/canada-way"
+    ],
+    "streetNames": [
+      "Willingdon Ave",
+      "Canada Way"
+    ],
+    "pulsePointId": "2485686923"
+  },
+  {
+    "id": "2026-05-30T19:45:00Z_langley/logan-ave",
+    "timestamp": "2026-05-30T19:45:00Z",
+    "scrapedAt": "2026-05-30T19:54:55Z",
+    "address": "LOGAN AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/logan-ave"
+    ],
+    "streetNames": [
+      "Logan Ave"
+    ],
+    "pulsePointId": "2485684917"
+  },
+  {
     "id": "2026-05-30T19:21:00Z_vancouver/crooked-branch-rd",
     "timestamp": "2026-05-30T19:21:00Z",
     "scrapedAt": "2026-05-30T19:27:58Z",
