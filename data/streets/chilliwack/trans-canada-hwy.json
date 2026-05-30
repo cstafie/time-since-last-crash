@@ -4,6 +4,19 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-05-29T23:33:00Z_chilliwack/trans-canada-hwy",
+      "timestamp": "2026-05-29T23:33:00Z",
+      "address": "TRANS CANADA HWY",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2485160648"
+    },
+    {
       "id": "2026-05-21T02:21:00Z_chilliwack/vedder-road-onrp_chilliwack/trans-canada-hwy",
       "timestamp": "2026-05-21T02:21:00Z",
       "address": "VEDDER ROAD ONRP & TRANS CANADA HWY",
@@ -165,6 +178,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-21T02:21:00Z",
-  "count": 12
+  "lastIncident": "2026-05-29T23:33:00Z",
+  "count": 13
 }

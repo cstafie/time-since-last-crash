@@ -129,8 +129,8 @@
     "name": "Trans Canada Hwy",
     "slug": "chilliwack/trans-canada-hwy",
     "city": "Chilliwack",
-    "lastIncident": "2026-05-21T02:21:00Z",
-    "count": 12
+    "lastIncident": "2026-05-29T23:33:00Z",
+    "count": 13
   },
   "chilliwack/upper-prairie-rd": {
     "name": "Upper Prairie Rd",
@@ -171,8 +171,8 @@
     "name": "112th St",
     "slug": "delta/112th-st",
     "city": "Delta",
-    "lastIncident": "2026-04-14T00:18:00Z",
-    "count": 4
+    "lastIncident": "2026-05-30T00:13:00Z",
+    "count": 5
   },
   "delta/72nd-ave": {
     "name": "72nd Ave",
@@ -528,8 +528,8 @@
     "name": "124th St",
     "slug": "surrey/124th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-23T07:08:00Z",
-    "count": 8
+    "lastIncident": "2026-05-30T00:12:00Z",
+    "count": 9
   },
   "surrey/128th-st": {
     "name": "128th St",
@@ -710,8 +710,8 @@
     "name": "E 12th Ave",
     "slug": "vancouver/e-12th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-26T15:57:00Z",
-    "count": 10
+    "lastIncident": "2026-05-30T00:04:00Z",
+    "count": 11
   },
   "vancouver/e-41st-ave": {
     "name": "E 41st Ave",
@@ -10917,6 +10917,13 @@
     "slug": "abbotsford/ridgeview-dr",
     "city": "Abbotsford",
     "lastIncident": "2026-05-29T22:38:00Z",
+    "count": 1
+  },
+  "surrey/71a-ave": {
+    "name": "71a Ave",
+    "slug": "surrey/71a-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-05-30T00:12:00Z",
     "count": 1
   }
 }

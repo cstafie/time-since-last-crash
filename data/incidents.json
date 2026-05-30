@@ -1,5 +1,63 @@
 [
   {
+    "id": "2026-05-30T00:13:00Z_delta/112th-st",
+    "timestamp": "2026-05-30T00:13:00Z",
+    "scrapedAt": "2026-05-30T00:20:37Z",
+    "address": "112TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/112th-st"
+    ],
+    "streetNames": [
+      "112th St"
+    ],
+    "pulsePointId": "2485188049"
+  },
+  {
+    "id": "2026-05-30T00:12:00Z_surrey/124th-st_surrey/71a-ave",
+    "timestamp": "2026-05-30T00:12:00Z",
+    "scrapedAt": "2026-05-30T00:20:37Z",
+    "address": "124TH ST & 71A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/124th-st",
+      "surrey/71a-ave"
+    ],
+    "streetNames": [
+      "124th St",
+      "71a Ave"
+    ],
+    "pulsePointId": "2485186233"
+  },
+  {
+    "id": "2026-05-30T00:04:00Z_vancouver/e-12th-ave",
+    "timestamp": "2026-05-30T00:04:00Z",
+    "scrapedAt": "2026-05-30T00:20:37Z",
+    "address": "E 12TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-12th-ave"
+    ],
+    "streetNames": [
+      "E 12th Ave"
+    ],
+    "pulsePointId": "2485180924"
+  },
+  {
+    "id": "2026-05-29T23:33:00Z_chilliwack/trans-canada-hwy",
+    "timestamp": "2026-05-29T23:33:00Z",
+    "scrapedAt": "2026-05-30T00:20:37Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2485160648"
+  },
+  {
     "id": "2026-05-29T23:31:00Z_abbotsford/huntingdon-rd",
     "timestamp": "2026-05-29T23:31:00Z",
     "scrapedAt": "2026-05-29T23:34:44Z",
