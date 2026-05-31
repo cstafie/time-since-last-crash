@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-05-31T09:14:00Z_surrey/133a-st_surrey/102a-ave",
+    "timestamp": "2026-05-31T09:14:00Z",
+    "scrapedAt": "2026-05-31T09:29:10Z",
+    "address": "133A ST & 102A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/133a-st",
+      "surrey/102a-ave"
+    ],
+    "streetNames": [
+      "133a St",
+      "102a Ave"
+    ],
+    "pulsePointId": "2486103012"
+  },
+  {
+    "id": "2026-05-31T09:09:00Z_delta/hwy-10-ofrp",
+    "timestamp": "2026-05-31T09:09:00Z",
+    "scrapedAt": "2026-05-31T09:29:10Z",
+    "address": "HWY 10 OFRP",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-10-ofrp"
+    ],
+    "streetNames": [
+      "Hwy 10 Ofrp"
+    ],
+    "pulsePointId": "2486102019"
+  },
+  {
+    "id": "2026-05-31T08:20:00Z_delta/120th-st",
+    "timestamp": "2026-05-31T08:20:00Z",
+    "scrapedAt": "2026-05-31T09:29:10Z",
+    "address": "120TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/120th-st"
+    ],
+    "streetNames": [
+      "120th St"
+    ],
+    "pulsePointId": "2486087121"
+  },
+  {
     "id": "2026-05-31T07:47:00Z_surrey/176th-st_surrey/16th-ave",
     "timestamp": "2026-05-31T07:47:00Z",
     "scrapedAt": "2026-05-31T08:01:38Z",

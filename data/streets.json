@@ -871,8 +871,8 @@
     "name": "120th St",
     "slug": "delta/120th-st",
     "city": "Delta",
-    "lastIncident": "2026-05-25T22:30:00Z",
-    "count": 21
+    "lastIncident": "2026-05-31T08:20:00Z",
+    "count": 22
   },
   "delta/roberts-bank-rd": {
     "name": "Roberts Bank Rd",
@@ -3545,8 +3545,8 @@
     "name": "Hwy 10 Ofrp",
     "slug": "delta/hwy-10-ofrp",
     "city": "Delta",
-    "lastIncident": "2026-05-28T19:49:00Z",
-    "count": 2
+    "lastIncident": "2026-05-31T09:09:00Z",
+    "count": 3
   },
   "burnaby/beaverbrook-dr": {
     "name": "Beaverbrook Dr",
@@ -4728,8 +4728,8 @@
     "name": "102a Ave",
     "slug": "surrey/102a-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-01T05:10:00Z",
-    "count": 1
+    "lastIncident": "2026-05-31T09:14:00Z",
+    "count": 2
   },
   "new-westminster/10th-st": {
     "name": "10th St",
@@ -11036,6 +11036,13 @@
     "slug": "mission/horne-st",
     "city": "Mission",
     "lastIncident": "2026-05-31T07:37:00Z",
+    "count": 1
+  },
+  "surrey/133a-st": {
+    "name": "133a St",
+    "slug": "surrey/133a-st",
+    "city": "Surrey",
+    "lastIncident": "2026-05-31T09:14:00Z",
     "count": 1
   }
 }
