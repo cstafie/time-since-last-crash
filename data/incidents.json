@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-31T17:22:00Z_vancouver/prior-st_vancouver/princess-ave",
+    "timestamp": "2026-05-31T17:22:00Z",
+    "scrapedAt": "2026-05-31T17:48:03Z",
+    "address": "PRIOR ST & PRINCESS AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/prior-st",
+      "vancouver/princess-ave"
+    ],
+    "streetNames": [
+      "Prior St",
+      "Princess Ave"
+    ],
+    "pulsePointId": "2486281862"
+  },
+  {
     "id": "2026-05-31T17:08:00Z_maple-ridge/224th-st_maple-ridge/selkirk-ave",
     "timestamp": "2026-05-31T17:08:00Z",
     "scrapedAt": "2026-05-31T17:21:58Z",

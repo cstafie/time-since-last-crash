@@ -4126,8 +4126,8 @@
     "name": "Prior St",
     "slug": "vancouver/prior-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-14T17:39:00Z",
-    "count": 2
+    "lastIncident": "2026-05-31T17:22:00Z",
+    "count": 3
   },
   "burnaby/willingdon-avenue-ofrp": {
     "name": "Willingdon Avenue Ofrp",
@@ -8991,8 +8991,8 @@
     "name": "Princess Ave",
     "slug": "vancouver/princess-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-06T21:33:00Z",
-    "count": 1
+    "lastIncident": "2026-05-31T17:22:00Z",
+    "count": 2
   },
   "abbotsford/joyce-ave": {
     "name": "Joyce Ave",
