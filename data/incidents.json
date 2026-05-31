@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-31T15:27:00Z_surrey/184th-st_surrey/53rd-ave",
+    "timestamp": "2026-05-31T15:27:00Z",
+    "scrapedAt": "2026-05-31T15:35:58Z",
+    "address": "184TH ST & 53RD AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/184th-st",
+      "surrey/53rd-ave"
+    ],
+    "streetNames": [
+      "184th St",
+      "53rd Ave"
+    ],
+    "pulsePointId": "2486221475"
+  },
+  {
     "id": "2026-05-31T13:15:00Z_burnaby/kingsway_burnaby/griffiths-ave",
     "timestamp": "2026-05-31T13:15:00Z",
     "scrapedAt": "2026-05-31T13:29:30Z",
