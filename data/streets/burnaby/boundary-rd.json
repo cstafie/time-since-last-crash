@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-05-31T19:55:00Z_burnaby/boundary-rd_burnaby/linwood-st",
+      "timestamp": "2026-05-31T19:55:00Z",
+      "address": "BOUNDARY RD & LINWOOD ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/boundary-rd",
+        "burnaby/linwood-st"
+      ],
+      "streetNames": [
+        "Boundary Rd",
+        "Linwood St"
+      ],
+      "pulsePointId": "2486368344"
+    },
+    {
       "id": "2026-05-20T20:01:00Z_burnaby/boundary-rd_burnaby/myrtle-st",
       "timestamp": "2026-05-20T20:01:00Z",
       "address": "BOUNDARY RD & MYRTLE ST",
@@ -137,6 +152,6 @@
       "pulsePointId": "2436452941"
     }
   ],
-  "lastIncident": "2026-05-20T20:01:00Z",
-  "count": 9
+  "lastIncident": "2026-05-31T19:55:00Z",
+  "count": 10
 }

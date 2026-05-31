@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-31T19:55:00Z_burnaby/boundary-rd_burnaby/linwood-st",
+    "timestamp": "2026-05-31T19:55:00Z",
+    "scrapedAt": "2026-05-31T20:21:13Z",
+    "address": "BOUNDARY RD & LINWOOD ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/boundary-rd",
+      "burnaby/linwood-st"
+    ],
+    "streetNames": [
+      "Boundary Rd",
+      "Linwood St"
+    ],
+    "pulsePointId": "2486368344"
+  },
+  {
     "id": "2026-05-31T19:35:00Z_maple-ridge/tamarack-lane_maple-ridge/lougheed-hwy",
     "timestamp": "2026-05-31T19:35:00Z",
     "scrapedAt": "2026-05-31T19:54:19Z",

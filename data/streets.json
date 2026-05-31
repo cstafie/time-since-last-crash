@@ -2782,8 +2782,8 @@
     "name": "Boundary Rd",
     "slug": "burnaby/boundary-rd",
     "city": "Burnaby",
-    "lastIncident": "2026-05-20T20:01:00Z",
-    "count": 9
+    "lastIncident": "2026-05-31T19:55:00Z",
+    "count": 10
   },
   "coquitlam/westview-st": {
     "name": "Westview St",
@@ -11078,6 +11078,13 @@
     "slug": "maple-ridge/selkirk-ave",
     "city": "Maple Ridge",
     "lastIncident": "2026-05-31T17:08:00Z",
+    "count": 1
+  },
+  "burnaby/linwood-st": {
+    "name": "Linwood St",
+    "slug": "burnaby/linwood-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-05-31T19:55:00Z",
     "count": 1
   }
 }

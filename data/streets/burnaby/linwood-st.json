@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/linwood-st",
+  "name": "Linwood St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-05-31T19:55:00Z_burnaby/boundary-rd_burnaby/linwood-st",
+      "timestamp": "2026-05-31T19:55:00Z",
+      "address": "BOUNDARY RD & LINWOOD ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/boundary-rd",
+        "burnaby/linwood-st"
+      ],
+      "streetNames": [
+        "Boundary Rd",
+        "Linwood St"
+      ],
+      "pulsePointId": "2486368344"
+    }
+  ],
+  "lastIncident": "2026-05-31T19:55:00Z",
+  "count": 1
+}
