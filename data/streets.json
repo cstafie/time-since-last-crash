@@ -11044,5 +11044,12 @@
     "city": "Surrey",
     "lastIncident": "2026-05-31T09:14:00Z",
     "count": 1
+  },
+  "chilliwack/jackson-st": {
+    "name": "Jackson St",
+    "slug": "chilliwack/jackson-st",
+    "city": "Chilliwack",
+    "lastIncident": "2026-05-31T10:41:00Z",
+    "count": 1
   }
 }

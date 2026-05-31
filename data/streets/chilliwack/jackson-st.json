@@ -1,0 +1,22 @@
+{
+  "slug": "chilliwack/jackson-st",
+  "name": "Jackson St",
+  "city": "Chilliwack",
+  "incidents": [
+    {
+      "id": "2026-05-31T10:41:00Z_chilliwack/jackson-st",
+      "timestamp": "2026-05-31T10:41:00Z",
+      "address": "JACKSON ST",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/jackson-st"
+      ],
+      "streetNames": [
+        "Jackson St"
+      ],
+      "pulsePointId": "2486128620"
+    }
+  ],
+  "lastIncident": "2026-05-31T10:41:00Z",
+  "count": 1
+}
