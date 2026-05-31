@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-31T00:10:00Z_vancouver/w-king-edward-ave_vancouver/manitoba-st",
+    "timestamp": "2026-05-31T00:10:00Z",
+    "scrapedAt": "2026-05-31T00:20:37Z",
+    "address": "W KING EDWARD AVE & MANITOBA ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-king-edward-ave",
+      "vancouver/manitoba-st"
+    ],
+    "streetNames": [
+      "W King Edward Ave",
+      "Manitoba St"
+    ],
+    "pulsePointId": "2485845908"
+  },
+  {
     "id": "2026-05-30T22:58:00Z_abbotsford/trethewey-st_abbotsford/george-ferguson-way",
     "timestamp": "2026-05-30T22:58:00Z",
     "scrapedAt": "2026-05-30T23:18:47Z",

@@ -2523,8 +2523,8 @@
     "name": "W King Edward Ave",
     "slug": "vancouver/w-king-edward-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-24T14:13:00Z",
-    "count": 3
+    "lastIncident": "2026-05-31T00:10:00Z",
+    "count": 4
   },
   "vancouver/puget-dr": {
     "name": "Puget Dr",
@@ -6219,8 +6219,8 @@
     "name": "Manitoba St",
     "slug": "vancouver/manitoba-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-28T14:28:00Z",
-    "count": 5
+    "lastIncident": "2026-05-31T00:10:00Z",
+    "count": 6
   },
   "surrey/coventry-rd": {
     "name": "Coventry Rd",

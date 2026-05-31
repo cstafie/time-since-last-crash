@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-31T00:10:00Z_vancouver/w-king-edward-ave_vancouver/manitoba-st",
+      "timestamp": "2026-05-31T00:10:00Z",
+      "address": "W KING EDWARD AVE & MANITOBA ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-king-edward-ave",
+        "vancouver/manitoba-st"
+      ],
+      "streetNames": [
+        "W King Edward Ave",
+        "Manitoba St"
+      ],
+      "pulsePointId": "2485845908"
+    },
+    {
       "id": "2026-04-24T14:13:00Z_vancouver/w-king-edward-ave_vancouver/oak-st",
       "timestamp": "2026-04-24T14:13:00Z",
       "address": "W KING EDWARD AVE & OAK ST",
@@ -49,6 +64,6 @@
       "pulsePointId": "2435790624"
     }
   ],
-  "lastIncident": "2026-04-24T14:13:00Z",
-  "count": 3
+  "lastIncident": "2026-05-31T00:10:00Z",
+  "count": 4
 }
