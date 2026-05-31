@@ -1,5 +1,77 @@
 [
   {
+    "id": "2026-05-31T07:47:00Z_surrey/176th-st_surrey/16th-ave",
+    "timestamp": "2026-05-31T07:47:00Z",
+    "scrapedAt": "2026-05-31T08:01:38Z",
+    "address": "176TH ST & 16TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/176th-st",
+      "surrey/16th-ave"
+    ],
+    "streetNames": [
+      "176th St",
+      "16th Ave"
+    ],
+    "pulsePointId": "2486075582"
+  },
+  {
+    "id": "2026-05-31T07:37:00Z_mission/horne-st",
+    "timestamp": "2026-05-31T07:37:00Z",
+    "scrapedAt": "2026-05-31T08:01:38Z",
+    "address": "HORNE ST",
+    "city": "Mission",
+    "streets": [
+      "mission/horne-st"
+    ],
+    "streetNames": [
+      "Horne St"
+    ],
+    "pulsePointId": "2486073661"
+  },
+  {
+    "id": "2026-05-31T07:25:00Z_new-westminster/e-columbia-st",
+    "timestamp": "2026-05-31T07:25:00Z",
+    "scrapedAt": "2026-05-31T08:01:38Z",
+    "address": "E COLUMBIA ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/e-columbia-st"
+    ],
+    "streetNames": [
+      "E Columbia St"
+    ],
+    "pulsePointId": "2486067656"
+  },
+  {
+    "id": "2026-05-31T07:16:00Z_chilliwack/trans-canada-hwy",
+    "timestamp": "2026-05-31T07:16:00Z",
+    "scrapedAt": "2026-05-31T08:01:38Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2486065101"
+  },
+  {
+    "id": "2026-05-31T07:11:00Z_chilliwack/vedder-road-onrp",
+    "timestamp": "2026-05-31T07:11:00Z",
+    "scrapedAt": "2026-05-31T08:01:38Z",
+    "address": "VEDDER ROAD ONRP",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/vedder-road-onrp"
+    ],
+    "streetNames": [
+      "Vedder Road Onrp"
+    ],
+    "pulsePointId": "2486063130"
+  },
+  {
     "id": "2026-05-31T05:00:00Z_surrey/140th-st_surrey/105th-blvd",
     "timestamp": "2026-05-31T05:00:00Z",
     "scrapedAt": "2026-05-31T05:26:25Z",

@@ -129,8 +129,8 @@
     "name": "Trans Canada Hwy",
     "slug": "chilliwack/trans-canada-hwy",
     "city": "Chilliwack",
-    "lastIncident": "2026-05-29T23:33:00Z",
-    "count": 13
+    "lastIncident": "2026-05-31T07:16:00Z",
+    "count": 14
   },
   "chilliwack/upper-prairie-rd": {
     "name": "Upper Prairie Rd",
@@ -584,8 +584,8 @@
     "name": "16th Ave",
     "slug": "surrey/16th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-16T19:51:00Z",
-    "count": 7
+    "lastIncident": "2026-05-31T07:47:00Z",
+    "count": 8
   },
   "surrey/63a-ave": {
     "name": "63a Ave",
@@ -885,8 +885,8 @@
     "name": "176th St",
     "slug": "surrey/176th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-27T00:46:00Z",
-    "count": 28
+    "lastIncident": "2026-05-31T07:47:00Z",
+    "count": 29
   },
   "surrey/100th-ave": {
     "name": "100th Ave",
@@ -913,8 +913,8 @@
     "name": "E Columbia St",
     "slug": "new-westminster/e-columbia-st",
     "city": "New Westminster",
-    "lastIncident": "2026-05-19T21:36:00Z",
-    "count": 11
+    "lastIncident": "2026-05-31T07:25:00Z",
+    "count": 12
   },
   "burnaby/market-crss": {
     "name": "Market Crss",
@@ -10048,8 +10048,8 @@
     "name": "Vedder Road Onrp",
     "slug": "chilliwack/vedder-road-onrp",
     "city": "Chilliwack",
-    "lastIncident": "2026-05-21T02:21:00Z",
-    "count": 2
+    "lastIncident": "2026-05-31T07:11:00Z",
+    "count": 3
   },
   "langley/56th-avenue-onrp": {
     "name": "56th Avenue Onrp",
@@ -11029,6 +11029,13 @@
     "slug": "surrey/105th-blvd",
     "city": "Surrey",
     "lastIncident": "2026-05-31T05:00:00Z",
+    "count": 1
+  },
+  "mission/horne-st": {
+    "name": "Horne St",
+    "slug": "mission/horne-st",
+    "city": "Mission",
+    "lastIncident": "2026-05-31T07:37:00Z",
     "count": 1
   }
 }
