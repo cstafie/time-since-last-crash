@@ -4637,8 +4637,8 @@
     "name": "224th St",
     "slug": "maple-ridge/224th-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-29T20:14:00Z",
-    "count": 3
+    "lastIncident": "2026-05-31T17:08:00Z",
+    "count": 4
   },
   "maple-ridge/124th-ave": {
     "name": "124th Ave",
@@ -11071,6 +11071,13 @@
     "slug": "richmond/no-6-road-ofrp",
     "city": "Richmond",
     "lastIncident": "2026-05-31T16:43:00Z",
+    "count": 1
+  },
+  "maple-ridge/selkirk-ave": {
+    "name": "Selkirk Ave",
+    "slug": "maple-ridge/selkirk-ave",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-05-31T17:08:00Z",
     "count": 1
   }
 }
