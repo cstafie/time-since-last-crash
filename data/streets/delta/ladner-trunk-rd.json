@@ -4,6 +4,19 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-05-31T21:32:00Z_delta/ladner-trunk-rd",
+      "timestamp": "2026-05-31T21:32:00Z",
+      "address": "LADNER TRUNK RD",
+      "city": "Delta",
+      "streets": [
+        "delta/ladner-trunk-rd"
+      ],
+      "streetNames": [
+        "Ladner Trunk Rd"
+      ],
+      "pulsePointId": "2486429564"
+    },
+    {
       "id": "2026-05-23T20:24:00Z_delta/linden-dr_delta/ladner-trunk-rd",
       "timestamp": "2026-05-23T20:24:00Z",
       "address": "LINDEN DR & LADNER TRUNK RD",
@@ -188,6 +201,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-23T20:24:00Z",
-  "count": 13
+  "lastIncident": "2026-05-31T21:32:00Z",
+  "count": 14
 }

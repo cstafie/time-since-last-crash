@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-05-31T21:44:00Z_north-vancouver/e-15th-st_north-vancouver/st-andrews-ave",
+    "timestamp": "2026-05-31T21:44:00Z",
+    "scrapedAt": "2026-05-31T21:46:00Z",
+    "address": "E 15TH ST & ST ANDREWS AVE",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/e-15th-st",
+      "north-vancouver/st-andrews-ave"
+    ],
+    "streetNames": [
+      "E 15th St",
+      "St Andrews Ave"
+    ],
+    "pulsePointId": "2486434369"
+  },
+  {
+    "id": "2026-05-31T21:32:00Z_delta/ladner-trunk-rd",
+    "timestamp": "2026-05-31T21:32:00Z",
+    "scrapedAt": "2026-05-31T21:46:00Z",
+    "address": "LADNER TRUNK RD",
+    "city": "Delta",
+    "streets": [
+      "delta/ladner-trunk-rd"
+    ],
+    "streetNames": [
+      "Ladner Trunk Rd"
+    ],
+    "pulsePointId": "2486429564"
+  },
+  {
     "id": "2026-05-31T19:55:00Z_burnaby/boundary-rd_burnaby/linwood-st",
     "timestamp": "2026-05-31T19:55:00Z",
     "scrapedAt": "2026-05-31T20:21:13Z",
