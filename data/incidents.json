@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-05-31T15:40:00Z_vancouver/e-hastings-st",
+    "timestamp": "2026-05-31T15:40:00Z",
+    "scrapedAt": "2026-05-31T16:22:57Z",
+    "address": "E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "E Hastings St"
+    ],
+    "pulsePointId": "2486228128"
+  },
+  {
     "id": "2026-05-31T15:27:00Z_surrey/184th-st_surrey/53rd-ave",
     "timestamp": "2026-05-31T15:27:00Z",
     "scrapedAt": "2026-05-31T15:35:58Z",

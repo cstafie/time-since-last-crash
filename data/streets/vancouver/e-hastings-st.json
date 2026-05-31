@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-31T15:40:00Z_vancouver/e-hastings-st",
+      "timestamp": "2026-05-31T15:40:00Z",
+      "address": "E HASTINGS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-hastings-st"
+      ],
+      "streetNames": [
+        "E Hastings St"
+      ],
+      "pulsePointId": "2486228128"
+    },
+    {
       "id": "2026-05-27T05:48:00Z_vancouver/main-st_vancouver/e-hastings-st",
       "timestamp": "2026-05-27T05:48:00Z",
       "address": "MAIN ST & E HASTINGS ST",
@@ -412,6 +425,6 @@
       "pulsePointId": "2433305056"
     }
   ],
-  "lastIncident": "2026-05-27T05:48:00Z",
-  "count": 28
+  "lastIncident": "2026-05-31T15:40:00Z",
+  "count": 29
 }
