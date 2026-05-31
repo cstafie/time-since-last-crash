@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-05-31T00:48:00Z_surrey/177b-st_surrey/58th-ave",
+    "timestamp": "2026-05-31T00:48:00Z",
+    "scrapedAt": "2026-05-31T01:28:25Z",
+    "address": "177B ST & 58TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/177b-st",
+      "surrey/58th-ave"
+    ],
+    "streetNames": [
+      "177b St",
+      "58th Ave"
+    ],
+    "pulsePointId": "2485868534"
+  },
+  {
+    "id": "2026-05-31T00:39:00Z_vancouver/nw-marine-dr_vancouver/east-mall",
+    "timestamp": "2026-05-31T00:39:00Z",
+    "scrapedAt": "2026-05-31T01:28:25Z",
+    "address": "NW MARINE DR & EAST MALL",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/nw-marine-dr",
+      "vancouver/east-mall"
+    ],
+    "streetNames": [
+      "Nw Marine Dr",
+      "East Mall"
+    ],
+    "pulsePointId": "2485863783"
+  },
+  {
+    "id": "2026-05-31T00:29:00Z_surrey/80th-ave_surrey/124th-st",
+    "timestamp": "2026-05-31T00:29:00Z",
+    "scrapedAt": "2026-05-31T01:28:25Z",
+    "address": "80TH AVE & 124TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/80th-ave",
+      "surrey/124th-st"
+    ],
+    "streetNames": [
+      "80th Ave",
+      "124th St"
+    ],
+    "pulsePointId": "2485857957"
+  },
+  {
     "id": "2026-05-31T00:10:00Z_vancouver/w-king-edward-ave_vancouver/manitoba-st",
     "timestamp": "2026-05-31T00:10:00Z",
     "scrapedAt": "2026-05-31T00:20:37Z",

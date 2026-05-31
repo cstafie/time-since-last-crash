@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-05-31T00:48:00Z_surrey/177b-st_surrey/58th-ave",
+      "timestamp": "2026-05-31T00:48:00Z",
+      "address": "177B ST & 58TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/177b-st",
+        "surrey/58th-ave"
+      ],
+      "streetNames": [
+        "177b St",
+        "58th Ave"
+      ],
+      "pulsePointId": "2485868534"
+    },
+    {
       "id": "2026-05-29T17:39:00Z_surrey/58th-ave_surrey/king-george-blvd",
       "timestamp": "2026-05-29T17:39:00Z",
       "address": "58TH AVE & KING GEORGE BLVD",
@@ -122,6 +137,6 @@
       "pulsePointId": "2432854804"
     }
   ],
-  "lastIncident": "2026-05-29T17:39:00Z",
-  "count": 8
+  "lastIncident": "2026-05-31T00:48:00Z",
+  "count": 9
 }

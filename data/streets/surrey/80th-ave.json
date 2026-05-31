@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-05-31T00:29:00Z_surrey/80th-ave_surrey/124th-st",
+      "timestamp": "2026-05-31T00:29:00Z",
+      "address": "80TH AVE & 124TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/80th-ave",
+        "surrey/124th-st"
+      ],
+      "streetNames": [
+        "80th Ave",
+        "124th St"
+      ],
+      "pulsePointId": "2485857957"
+    },
+    {
       "id": "2026-05-27T00:46:00Z_surrey/80th-ave_surrey/176th-st",
       "timestamp": "2026-05-27T00:46:00Z",
       "address": "80TH AVE & 176TH ST",
@@ -238,6 +253,6 @@
       "pulsePointId": "2432896824"
     }
   ],
-  "lastIncident": "2026-05-27T00:46:00Z",
-  "count": 16
+  "lastIncident": "2026-05-31T00:29:00Z",
+  "count": 17
 }
