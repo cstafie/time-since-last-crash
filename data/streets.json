@@ -3629,8 +3629,8 @@
     "name": "Williams Rd",
     "slug": "richmond/williams-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-26T04:06:00Z",
-    "count": 5
+    "lastIncident": "2026-05-31T22:15:00Z",
+    "count": 6
   },
   "surrey/91st-ave": {
     "name": "91st Ave",
@@ -7353,8 +7353,8 @@
     "name": "Railway Ave",
     "slug": "richmond/railway-ave",
     "city": "Richmond",
-    "lastIncident": "2026-04-21T14:34:00Z",
-    "count": 1
+    "lastIncident": "2026-05-31T22:15:00Z",
+    "count": 2
   },
   "langley/48th-ave": {
     "name": "48th Ave",
