@@ -521,8 +521,8 @@
     "name": "108th Ave",
     "slug": "surrey/108th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-24T17:01:00Z",
-    "count": 20
+    "lastIncident": "2026-05-31T09:54:00Z",
+    "count": 21
   },
   "surrey/124th-st": {
     "name": "124th St",
@@ -1501,8 +1501,8 @@
     "name": "144th St",
     "slug": "surrey/144th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-30T00:36:00Z",
-    "count": 24
+    "lastIncident": "2026-05-31T09:54:00Z",
+    "count": 25
   },
   "north-vancouver/seymour-blvd": {
     "name": "Seymour Blvd",
