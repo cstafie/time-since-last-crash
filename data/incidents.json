@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-31T19:35:00Z_maple-ridge/tamarack-lane_maple-ridge/lougheed-hwy",
+    "timestamp": "2026-05-31T19:35:00Z",
+    "scrapedAt": "2026-05-31T19:54:19Z",
+    "address": "TAMARACK LANE & LOUGHEED HWY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/tamarack-lane",
+      "maple-ridge/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Tamarack Lane",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2486357186"
+  },
+  {
     "id": "2026-05-31T19:03:00Z_langley/268th-st_langley/fraser-hwy",
     "timestamp": "2026-05-31T19:03:00Z",
     "scrapedAt": "2026-05-31T19:27:56Z",

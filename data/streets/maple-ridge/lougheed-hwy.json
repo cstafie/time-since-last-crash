@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-05-31T19:35:00Z_maple-ridge/tamarack-lane_maple-ridge/lougheed-hwy",
+      "timestamp": "2026-05-31T19:35:00Z",
+      "address": "TAMARACK LANE & LOUGHEED HWY",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/tamarack-lane",
+        "maple-ridge/lougheed-hwy"
+      ],
+      "streetNames": [
+        "Tamarack Lane",
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2486357186"
+    },
+    {
       "id": "2026-05-29T22:04:00Z_maple-ridge/lougheed-hwy_maple-ridge/207th-st",
       "timestamp": "2026-05-29T22:04:00Z",
       "address": "LOUGHEED HWY & 207TH ST",
@@ -339,6 +354,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-29T22:04:00Z",
-  "count": 23
+  "lastIncident": "2026-05-31T19:35:00Z",
+  "count": 24
 }
