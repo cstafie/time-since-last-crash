@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-31T19:03:00Z_langley/268th-st_langley/fraser-hwy",
+    "timestamp": "2026-05-31T19:03:00Z",
+    "scrapedAt": "2026-05-31T19:27:56Z",
+    "address": "268TH ST & FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/268th-st",
+      "langley/fraser-hwy"
+    ],
+    "streetNames": [
+      "268th St",
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2486340801"
+  },
+  {
     "id": "2026-05-31T17:22:00Z_vancouver/prior-st_vancouver/princess-ave",
     "timestamp": "2026-05-31T17:22:00Z",
     "scrapedAt": "2026-05-31T17:48:03Z",
