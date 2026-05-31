@@ -1473,8 +1473,8 @@
     "name": "Kingsway",
     "slug": "burnaby/kingsway",
     "city": "Burnaby",
-    "lastIncident": "2026-05-20T23:37:00Z",
-    "count": 14
+    "lastIncident": "2026-05-31T13:15:00Z",
+    "count": 15
   },
   "burnaby/gilley-ave": {
     "name": "Gilley Ave",
@@ -11050,6 +11050,13 @@
     "slug": "chilliwack/jackson-st",
     "city": "Chilliwack",
     "lastIncident": "2026-05-31T10:41:00Z",
+    "count": 1
+  },
+  "burnaby/griffiths-ave": {
+    "name": "Griffiths Ave",
+    "slug": "burnaby/griffiths-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-05-31T13:15:00Z",
     "count": 1
   }
 }

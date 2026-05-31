@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-05-31T13:15:00Z_burnaby/kingsway_burnaby/griffiths-ave",
+    "timestamp": "2026-05-31T13:15:00Z",
+    "scrapedAt": "2026-05-31T13:29:30Z",
+    "address": "KINGSWAY & GRIFFITHS AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/kingsway",
+      "burnaby/griffiths-ave"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "Griffiths Ave"
+    ],
+    "pulsePointId": "2486170012"
+  },
+  {
     "id": "2026-05-31T10:41:00Z_chilliwack/jackson-st",
     "timestamp": "2026-05-31T10:41:00Z",
     "scrapedAt": "2026-05-31T11:06:36Z",
