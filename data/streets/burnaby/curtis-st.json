@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-01T12:46:00Z_burnaby/curtis-st_burnaby/holdom-ave",
+      "timestamp": "2026-06-01T12:46:00Z",
+      "address": "CURTIS ST & HOLDOM AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/curtis-st",
+        "burnaby/holdom-ave"
+      ],
+      "streetNames": [
+        "Curtis St",
+        "Holdom Ave"
+      ],
+      "pulsePointId": "2486834242"
+    },
+    {
       "id": "2026-05-23T21:31:00Z_burnaby/curtis-st",
       "timestamp": "2026-05-23T21:31:00Z",
       "address": "CURTIS ST",
@@ -32,6 +47,6 @@
       "pulsePointId": "2458432843"
     }
   ],
-  "lastIncident": "2026-05-23T21:31:00Z",
-  "count": 2
+  "lastIncident": "2026-06-01T12:46:00Z",
+  "count": 3
 }

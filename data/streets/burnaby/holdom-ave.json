@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/holdom-ave",
+  "name": "Holdom Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-06-01T12:46:00Z_burnaby/curtis-st_burnaby/holdom-ave",
+      "timestamp": "2026-06-01T12:46:00Z",
+      "address": "CURTIS ST & HOLDOM AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/curtis-st",
+        "burnaby/holdom-ave"
+      ],
+      "streetNames": [
+        "Curtis St",
+        "Holdom Ave"
+      ],
+      "pulsePointId": "2486834242"
+    }
+  ],
+  "lastIncident": "2026-06-01T12:46:00Z",
+  "count": 1
+}

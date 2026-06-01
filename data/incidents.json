@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-01T12:46:00Z_burnaby/curtis-st_burnaby/holdom-ave",
+    "timestamp": "2026-06-01T12:46:00Z",
+    "scrapedAt": "2026-06-01T12:51:16Z",
+    "address": "CURTIS ST & HOLDOM AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/curtis-st",
+      "burnaby/holdom-ave"
+    ],
+    "streetNames": [
+      "Curtis St",
+      "Holdom Ave"
+    ],
+    "pulsePointId": "2486834242"
+  },
+  {
     "id": "2026-06-01T08:41:00Z_vancouver/2570-commercial-dr",
     "timestamp": "2026-06-01T08:41:00Z",
     "scrapedAt": "2026-06-01T08:48:05Z",

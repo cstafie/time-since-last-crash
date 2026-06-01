@@ -7318,8 +7318,8 @@
     "name": "Curtis St",
     "slug": "burnaby/curtis-st",
     "city": "Burnaby",
-    "lastIncident": "2026-05-23T21:31:00Z",
-    "count": 2
+    "lastIncident": "2026-06-01T12:46:00Z",
+    "count": 3
   },
   "surrey/scott-rd": {
     "name": "Scott Rd",
@@ -11134,6 +11134,13 @@
     "slug": "surrey/35th-ave",
     "city": "Surrey",
     "lastIncident": "2026-06-01T07:36:00Z",
+    "count": 1
+  },
+  "burnaby/holdom-ave": {
+    "name": "Holdom Ave",
+    "slug": "burnaby/holdom-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-06-01T12:46:00Z",
     "count": 1
   }
 }
