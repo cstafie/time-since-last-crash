@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-06-01T17:10:00Z_langley/203rd-st_langley/fraser-hwy",
+      "timestamp": "2026-06-01T17:10:00Z",
+      "address": "203RD ST & FRASER HWY",
+      "city": "Langley",
+      "streets": [
+        "langley/203rd-st",
+        "langley/fraser-hwy"
+      ],
+      "streetNames": [
+        "203rd St",
+        "Fraser Hwy"
+      ],
+      "pulsePointId": "2486973220"
+    },
+    {
       "id": "2026-06-01T03:29:00Z_langley/68th-ave_langley/203rd-st",
       "timestamp": "2026-06-01T03:29:00Z",
       "address": "68TH AVE & 203RD ST",
@@ -49,6 +64,6 @@
       "pulsePointId": "2470897109"
     }
   ],
-  "lastIncident": "2026-06-01T03:29:00Z",
-  "count": 3
+  "lastIncident": "2026-06-01T17:10:00Z",
+  "count": 4
 }

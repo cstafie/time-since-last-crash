@@ -1,5 +1,125 @@
 [
   {
+    "id": "2026-06-01T17:10:00Z_langley/203rd-st_langley/fraser-hwy",
+    "timestamp": "2026-06-01T17:10:00Z",
+    "scrapedAt": "2026-06-01T17:16:04Z",
+    "address": "203RD ST & FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/203rd-st",
+      "langley/fraser-hwy"
+    ],
+    "streetNames": [
+      "203rd St",
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2486973220"
+  },
+  {
+    "id": "2026-06-01T16:24:00Z_maple-ridge/lougheed-hwy_maple-ridge/laity-st",
+    "timestamp": "2026-06-01T16:24:00Z",
+    "scrapedAt": "2026-06-01T17:16:04Z",
+    "address": "LOUGHEED HWY & LAITY ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/lougheed-hwy",
+      "maple-ridge/laity-st"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "Laity St"
+    ],
+    "pulsePointId": "2486939232"
+  },
+  {
+    "id": "2026-06-01T16:19:00Z_richmond/cessna-dr",
+    "timestamp": "2026-06-01T16:19:00Z",
+    "scrapedAt": "2026-06-01T17:16:04Z",
+    "address": "CESSNA DR",
+    "city": "Richmond",
+    "streets": [
+      "richmond/cessna-dr"
+    ],
+    "streetNames": [
+      "Cessna Dr"
+    ],
+    "pulsePointId": "2486936997"
+  },
+  {
+    "id": "2026-06-01T15:51:00Z_surrey/152nd-st_surrey/16th-ave",
+    "timestamp": "2026-06-01T15:51:00Z",
+    "scrapedAt": "2026-06-01T17:16:04Z",
+    "address": "152ND ST & 16TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/152nd-st",
+      "surrey/16th-ave"
+    ],
+    "streetNames": [
+      "152nd St",
+      "16th Ave"
+    ],
+    "pulsePointId": "2486922095"
+  },
+  {
+    "id": "2026-06-01T15:16:00Z_richmond/westminster-hwy_richmond/sidaway-rd",
+    "timestamp": "2026-06-01T15:16:00Z",
+    "scrapedAt": "2026-06-01T17:16:04Z",
+    "address": "WESTMINSTER HWY & SIDAWAY RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/westminster-hwy",
+      "richmond/sidaway-rd"
+    ],
+    "streetNames": [
+      "Westminster Hwy",
+      "Sidaway Rd"
+    ],
+    "pulsePointId": "2486900400"
+  },
+  {
+    "id": "2026-06-01T15:14:00Z_burnaby/trans-canada-hwy",
+    "timestamp": "2026-06-01T15:14:00Z",
+    "scrapedAt": "2026-06-01T17:16:04Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2486899069"
+  },
+  {
+    "id": "2026-06-01T15:12:00Z_langley/trans-canada-hwy",
+    "timestamp": "2026-06-01T15:12:00Z",
+    "scrapedAt": "2026-06-01T17:16:04Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2486897949"
+  },
+  {
+    "id": "2026-06-01T15:03:00Z_burnaby/trans-canada-hwy",
+    "timestamp": "2026-06-01T15:03:00Z",
+    "scrapedAt": "2026-06-01T17:16:04Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2486892118"
+  },
+  {
     "id": "2026-06-01T13:46:00Z_surrey/whalley-blvd_surrey/104th-ave",
     "timestamp": "2026-06-01T13:46:00Z",
     "scrapedAt": "2026-06-01T15:03:37Z",

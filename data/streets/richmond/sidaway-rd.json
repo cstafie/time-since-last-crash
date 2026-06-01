@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-06-01T15:16:00Z_richmond/westminster-hwy_richmond/sidaway-rd",
+      "timestamp": "2026-06-01T15:16:00Z",
+      "address": "WESTMINSTER HWY & SIDAWAY RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/westminster-hwy",
+        "richmond/sidaway-rd"
+      ],
+      "streetNames": [
+        "Westminster Hwy",
+        "Sidaway Rd"
+      ],
+      "pulsePointId": "2486900400"
+    },
+    {
       "id": "2026-05-16T17:32:00Z_richmond/blundell-rd_richmond/sidaway-rd",
       "timestamp": "2026-05-16T17:32:00Z",
       "address": "BLUNDELL RD & SIDAWAY RD",
@@ -49,6 +64,6 @@
       "pulsePointId": "2461838958"
     }
   ],
-  "lastIncident": "2026-05-16T17:32:00Z",
-  "count": 3
+  "lastIncident": "2026-06-01T15:16:00Z",
+  "count": 4
 }

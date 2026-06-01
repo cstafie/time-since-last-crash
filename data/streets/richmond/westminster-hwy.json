@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-06-01T15:16:00Z_richmond/westminster-hwy_richmond/sidaway-rd",
+      "timestamp": "2026-06-01T15:16:00Z",
+      "address": "WESTMINSTER HWY & SIDAWAY RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/westminster-hwy",
+        "richmond/sidaway-rd"
+      ],
+      "streetNames": [
+        "Westminster Hwy",
+        "Sidaway Rd"
+      ],
+      "pulsePointId": "2486900400"
+    },
+    {
       "id": "2026-05-30T12:53:00Z_richmond/westminster-hwy",
       "timestamp": "2026-05-30T12:53:00Z",
       "address": "WESTMINSTER HWY",
@@ -246,6 +261,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-30T12:53:00Z",
-  "count": 17
+  "lastIncident": "2026-06-01T15:16:00Z",
+  "count": 18
 }
