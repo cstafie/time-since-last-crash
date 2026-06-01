@@ -1312,8 +1312,8 @@
     "name": "104th Ave",
     "slug": "surrey/104th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-27T20:49:00Z",
-    "count": 28
+    "lastIncident": "2026-06-01T13:46:00Z",
+    "count": 29
   },
   "surrey/122nd-st": {
     "name": "122nd St",
@@ -2320,8 +2320,8 @@
     "name": "Whalley Blvd",
     "slug": "surrey/whalley-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-05-24T17:01:00Z",
-    "count": 6
+    "lastIncident": "2026-06-01T13:46:00Z",
+    "count": 7
   },
   "richmond/russ-baker-way": {
     "name": "Russ Baker Way",
@@ -2453,8 +2453,8 @@
     "name": "Nanaimo St",
     "slug": "vancouver/nanaimo-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-25T20:30:00Z",
-    "count": 13
+    "lastIncident": "2026-06-01T13:41:00Z",
+    "count": 14
   },
   "vancouver/cambie-st": {
     "name": "Cambie St",
@@ -3937,8 +3937,8 @@
     "name": "E 33rd Ave",
     "slug": "vancouver/e-33rd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-27T13:57:00Z",
-    "count": 8
+    "lastIncident": "2026-06-01T13:41:00Z",
+    "count": 9
   },
   "surrey/university-dr": {
     "name": "University Dr",

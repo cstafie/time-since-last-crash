@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-01T13:41:00Z_vancouver/e-33rd-ave_vancouver/nanaimo-st",
+      "timestamp": "2026-06-01T13:41:00Z",
+      "address": "E 33RD AVE & NANAIMO ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-33rd-ave",
+        "vancouver/nanaimo-st"
+      ],
+      "streetNames": [
+        "E 33rd Ave",
+        "Nanaimo St"
+      ],
+      "pulsePointId": "2486854359"
+    },
+    {
       "id": "2026-05-25T20:30:00Z_vancouver/nanaimo-st_vancouver/e-12th-ave",
       "timestamp": "2026-05-25T20:30:00Z",
       "address": "NANAIMO ST & E 12TH AVE",
@@ -193,6 +208,6 @@
       "pulsePointId": "2435582679"
     }
   ],
-  "lastIncident": "2026-05-25T20:30:00Z",
-  "count": 13
+  "lastIncident": "2026-06-01T13:41:00Z",
+  "count": 14
 }

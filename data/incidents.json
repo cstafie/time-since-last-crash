@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-01T13:46:00Z_surrey/whalley-blvd_surrey/104th-ave",
+    "timestamp": "2026-06-01T13:46:00Z",
+    "scrapedAt": "2026-06-01T15:03:37Z",
+    "address": "WHALLEY BLVD & 104TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/whalley-blvd",
+      "surrey/104th-ave"
+    ],
+    "streetNames": [
+      "Whalley Blvd",
+      "104th Ave"
+    ],
+    "pulsePointId": "2486856025"
+  },
+  {
+    "id": "2026-06-01T13:41:00Z_vancouver/e-33rd-ave_vancouver/nanaimo-st",
+    "timestamp": "2026-06-01T13:41:00Z",
+    "scrapedAt": "2026-06-01T15:03:37Z",
+    "address": "E 33RD AVE & NANAIMO ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-33rd-ave",
+      "vancouver/nanaimo-st"
+    ],
+    "streetNames": [
+      "E 33rd Ave",
+      "Nanaimo St"
+    ],
+    "pulsePointId": "2486854359"
+  },
+  {
     "id": "2026-06-01T12:46:00Z_burnaby/curtis-st_burnaby/holdom-ave",
     "timestamp": "2026-06-01T12:46:00Z",
     "scrapedAt": "2026-06-01T12:51:16Z",
