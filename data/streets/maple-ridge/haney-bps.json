@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-06-01T03:05:00Z_maple-ridge/callaghan-ave_maple-ridge/haney-bps",
+      "timestamp": "2026-06-01T03:05:00Z",
+      "address": "CALLAGHAN AVE & HANEY BPS",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/callaghan-ave",
+        "maple-ridge/haney-bps"
+      ],
+      "streetNames": [
+        "Callaghan Ave",
+        "Haney Bps"
+      ],
+      "pulsePointId": "2486626495"
+    },
+    {
       "id": "2026-05-02T00:24:00Z_maple-ridge/haney-bps",
       "timestamp": "2026-05-02T00:24:00Z",
       "address": "HANEY BPS",
@@ -32,6 +47,6 @@
       "pulsePointId": "2438093609"
     }
   ],
-  "lastIncident": "2026-05-02T00:24:00Z",
-  "count": 2
+  "lastIncident": "2026-06-01T03:05:00Z",
+  "count": 3
 }

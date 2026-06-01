@@ -1,5 +1,81 @@
 [
   {
+    "id": "2026-06-01T03:47:00Z_surrey/176th-st_surrey/88th-ave",
+    "timestamp": "2026-06-01T03:47:00Z",
+    "scrapedAt": "2026-06-01T04:41:31Z",
+    "address": "176TH ST & 88TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/176th-st",
+      "surrey/88th-ave"
+    ],
+    "streetNames": [
+      "176th St",
+      "88th Ave"
+    ],
+    "pulsePointId": "2486647359"
+  },
+  {
+    "id": "2026-06-01T03:29:00Z_langley/68th-ave_langley/203rd-st",
+    "timestamp": "2026-06-01T03:29:00Z",
+    "scrapedAt": "2026-06-01T04:41:31Z",
+    "address": "68TH AVE & 203RD ST",
+    "city": "Langley",
+    "streets": [
+      "langley/68th-ave",
+      "langley/203rd-st"
+    ],
+    "streetNames": [
+      "68th Ave",
+      "203rd St"
+    ],
+    "pulsePointId": "2486639212"
+  },
+  {
+    "id": "2026-06-01T03:25:00Z_vancouver/oak-st",
+    "timestamp": "2026-06-01T03:25:00Z",
+    "scrapedAt": "2026-06-01T04:41:31Z",
+    "address": "OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "Oak St"
+    ],
+    "pulsePointId": "2486635882"
+  },
+  {
+    "id": "2026-06-01T03:10:00Z_surrey/129a-st",
+    "timestamp": "2026-06-01T03:10:00Z",
+    "scrapedAt": "2026-06-01T04:41:31Z",
+    "address": "129A ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/129a-st"
+    ],
+    "streetNames": [
+      "129a St"
+    ],
+    "pulsePointId": "2486628910"
+  },
+  {
+    "id": "2026-06-01T03:05:00Z_maple-ridge/callaghan-ave_maple-ridge/haney-bps",
+    "timestamp": "2026-06-01T03:05:00Z",
+    "scrapedAt": "2026-06-01T04:41:31Z",
+    "address": "CALLAGHAN AVE & HANEY BPS",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/callaghan-ave",
+      "maple-ridge/haney-bps"
+    ],
+    "streetNames": [
+      "Callaghan Ave",
+      "Haney Bps"
+    ],
+    "pulsePointId": "2486626495"
+  },
+  {
     "id": "2026-06-01T02:33:00Z_langley/trans-canada-hwy",
     "timestamp": "2026-06-01T02:33:00Z",
     "scrapedAt": "2026-06-01T03:00:27Z",

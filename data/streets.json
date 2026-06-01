@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-30T00:36:00Z",
-    "count": 27
+    "lastIncident": "2026-06-01T03:47:00Z",
+    "count": 28
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",
@@ -766,8 +766,8 @@
     "name": "Oak St",
     "slug": "vancouver/oak-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-01T01:16:00Z",
-    "count": 31
+    "lastIncident": "2026-06-01T03:25:00Z",
+    "count": 32
   },
   "vancouver/w-12th-ave": {
     "name": "W 12th Ave",
@@ -885,8 +885,8 @@
     "name": "176th St",
     "slug": "surrey/176th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-31T07:47:00Z",
-    "count": 29
+    "lastIncident": "2026-06-01T03:47:00Z",
+    "count": 30
   },
   "surrey/100th-ave": {
     "name": "100th Ave",
@@ -3279,15 +3279,15 @@
     "name": "Callaghan Ave",
     "slug": "maple-ridge/callaghan-ave",
     "city": "Maple Ridge",
-    "lastIncident": "2026-03-20T21:21:00Z",
-    "count": 1
+    "lastIncident": "2026-06-01T03:05:00Z",
+    "count": 2
   },
   "maple-ridge/haney-bps": {
     "name": "Haney Bps",
     "slug": "maple-ridge/haney-bps",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-02T00:24:00Z",
-    "count": 2
+    "lastIncident": "2026-06-01T03:05:00Z",
+    "count": 3
   },
   "north-vancouver/lonsdale-ave": {
     "name": "Lonsdale Ave",
@@ -8739,8 +8739,8 @@
     "name": "129a St",
     "slug": "surrey/129a-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-04T21:54:00Z",
-    "count": 1
+    "lastIncident": "2026-06-01T03:10:00Z",
+    "count": 2
   },
   "vancouver/spruce-st": {
     "name": "Spruce St",
@@ -9180,8 +9180,8 @@
     "name": "203rd St",
     "slug": "langley/203rd-st",
     "city": "Langley",
-    "lastIncident": "2026-05-29T21:15:00Z",
-    "count": 2
+    "lastIncident": "2026-06-01T03:29:00Z",
+    "count": 3
   },
   "north-vancouver/fell-ave": {
     "name": "Fell Ave",
@@ -11113,6 +11113,13 @@
     "slug": "vancouver/adera-st",
     "city": "Vancouver",
     "lastIncident": "2026-06-01T00:35:00Z",
+    "count": 1
+  },
+  "langley/68th-ave": {
+    "name": "68th Ave",
+    "slug": "langley/68th-ave",
+    "city": "Langley",
+    "lastIncident": "2026-06-01T03:29:00Z",
     "count": 1
   }
 }
