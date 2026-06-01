@@ -1,6 +1,6 @@
 {
-  "slug": "surrey/crescent-rd",
-  "name": "Crescent Rd",
+  "slug": "surrey/35th-ave",
+  "name": "35th Ave",
   "city": "Surrey",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "35th Ave"
       ],
       "pulsePointId": "2486733655"
-    },
-    {
-      "id": "2026-03-24T03:25:00Z_surrey/crescent-rd_surrey/142a-st",
-      "timestamp": "2026-03-24T03:25:00Z",
-      "address": "CRESCENT RD & 142A ST",
-      "city": "Surrey",
-      "streets": [
-        "surrey/crescent-rd",
-        "surrey/142a-st"
-      ],
-      "streetNames": [
-        "Crescent Rd",
-        "142a St"
-      ],
-      "pulsePointId": "2440271027"
     }
   ],
   "lastIncident": "2026-06-01T07:36:00Z",
-  "count": 2
+  "count": 1
 }

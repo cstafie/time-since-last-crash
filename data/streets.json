@@ -913,8 +913,8 @@
     "name": "E Columbia St",
     "slug": "new-westminster/e-columbia-st",
     "city": "New Westminster",
-    "lastIncident": "2026-05-31T07:25:00Z",
-    "count": 12
+    "lastIncident": "2026-06-01T08:40:00Z",
+    "count": 13
   },
   "burnaby/market-crss": {
     "name": "Market Crss",
@@ -3741,8 +3741,8 @@
     "name": "Crescent Rd",
     "slug": "surrey/crescent-rd",
     "city": "Surrey",
-    "lastIncident": "2026-03-24T03:25:00Z",
-    "count": 1
+    "lastIncident": "2026-06-01T07:36:00Z",
+    "count": 2
   },
   "surrey/142a-st": {
     "name": "142a St",
@@ -11120,6 +11120,20 @@
     "slug": "langley/68th-ave",
     "city": "Langley",
     "lastIncident": "2026-06-01T03:29:00Z",
+    "count": 1
+  },
+  "vancouver/2570-commercial-dr": {
+    "name": "2570 Commercial Dr",
+    "slug": "vancouver/2570-commercial-dr",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-01T08:41:00Z",
+    "count": 1
+  },
+  "surrey/35th-ave": {
+    "name": "35th Ave",
+    "slug": "surrey/35th-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-06-01T07:36:00Z",
     "count": 1
   }
 }

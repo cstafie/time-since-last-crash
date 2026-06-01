@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/2570-commercial-dr",
+  "name": "2570 Commercial Dr",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-01T08:41:00Z_vancouver/2570-commercial-dr",
+      "timestamp": "2026-06-01T08:41:00Z",
+      "address": "2570 COMMERCIAL DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/2570-commercial-dr"
+      ],
+      "streetNames": [
+        "2570 Commercial Dr"
+      ],
+      "pulsePointId": "2486752195"
+    }
+  ],
+  "lastIncident": "2026-06-01T08:41:00Z",
+  "count": 1
+}

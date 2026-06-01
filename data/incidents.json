@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-06-01T08:41:00Z_vancouver/2570-commercial-dr",
+    "timestamp": "2026-06-01T08:41:00Z",
+    "scrapedAt": "2026-06-01T08:48:05Z",
+    "address": "2570 COMMERCIAL DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/2570-commercial-dr"
+    ],
+    "streetNames": [
+      "2570 Commercial Dr"
+    ],
+    "pulsePointId": "2486752195"
+  },
+  {
+    "id": "2026-06-01T08:40:00Z_new-westminster/e-columbia-st",
+    "timestamp": "2026-06-01T08:40:00Z",
+    "scrapedAt": "2026-06-01T08:48:05Z",
+    "address": "E COLUMBIA ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/e-columbia-st"
+    ],
+    "streetNames": [
+      "E Columbia St"
+    ],
+    "pulsePointId": "2486751128"
+  },
+  {
+    "id": "2026-06-01T07:36:00Z_surrey/crescent-rd_surrey/35th-ave",
+    "timestamp": "2026-06-01T07:36:00Z",
+    "scrapedAt": "2026-06-01T08:48:05Z",
+    "address": "CRESCENT RD & 35TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/crescent-rd",
+      "surrey/35th-ave"
+    ],
+    "streetNames": [
+      "Crescent Rd",
+      "35th Ave"
+    ],
+    "pulsePointId": "2486733655"
+  },
+  {
     "id": "2026-06-01T03:47:00Z_surrey/176th-st_surrey/88th-ave",
     "timestamp": "2026-06-01T03:47:00Z",
     "scrapedAt": "2026-06-01T04:41:31Z",
