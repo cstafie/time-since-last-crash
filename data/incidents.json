@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-06-01T00:17:00Z_vancouver/kingsway",
+    "timestamp": "2026-06-01T00:17:00Z",
+    "scrapedAt": "2026-06-01T00:20:26Z",
+    "address": "KINGSWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kingsway"
+    ],
+    "streetNames": [
+      "Kingsway"
+    ],
+    "pulsePointId": "2486529259"
+  },
+  {
+    "id": "2026-05-31T23:52:00Z_vancouver/powell-st",
+    "timestamp": "2026-05-31T23:52:00Z",
+    "scrapedAt": "2026-06-01T00:20:26Z",
+    "address": "POWELL ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/powell-st"
+    ],
+    "streetNames": [
+      "Powell St"
+    ],
+    "pulsePointId": "2486514113"
+  },
+  {
     "id": "2026-05-31T23:42:00Z_richmond/palmberg-rd",
     "timestamp": "2026-05-31T23:42:00Z",
     "scrapedAt": "2026-05-31T23:48:51Z",

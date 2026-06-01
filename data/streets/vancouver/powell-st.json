@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-05-31T23:52:00Z_vancouver/powell-st",
+      "timestamp": "2026-05-31T23:52:00Z",
+      "address": "POWELL ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/powell-st"
+      ],
+      "streetNames": [
+        "Powell St"
+      ],
+      "pulsePointId": "2486514113"
+    },
+    {
       "id": "2026-05-17T10:38:00Z_vancouver/clark-dr_vancouver/powell-st",
       "timestamp": "2026-05-17T10:38:00Z",
       "address": "CLARK DR & POWELL ST",
@@ -47,6 +60,6 @@
       "pulsePointId": "2445054657"
     }
   ],
-  "lastIncident": "2026-05-17T10:38:00Z",
-  "count": 3
+  "lastIncident": "2026-05-31T23:52:00Z",
+  "count": 4
 }

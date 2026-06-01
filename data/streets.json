@@ -745,8 +745,8 @@
     "name": "Kingsway",
     "slug": "vancouver/kingsway",
     "city": "Vancouver",
-    "lastIncident": "2026-05-27T16:43:00Z",
-    "count": 20
+    "lastIncident": "2026-06-01T00:17:00Z",
+    "count": 21
   },
   "vancouver/knight-st": {
     "name": "Knight St",
@@ -4630,8 +4630,8 @@
     "name": "Powell St",
     "slug": "vancouver/powell-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-17T10:38:00Z",
-    "count": 3
+    "lastIncident": "2026-05-31T23:52:00Z",
+    "count": 4
   },
   "maple-ridge/224th-st": {
     "name": "224th St",
