@@ -1,0 +1,24 @@
+{
+  "slug": "coquitlam/mall-accs",
+  "name": "Mall Accs",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-06-01T20:45:00Z_coquitlam/johnson-st_coquitlam/mall-accs",
+      "timestamp": "2026-06-01T20:45:00Z",
+      "address": "JOHNSON ST & MALL ACCS",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/johnson-st",
+        "coquitlam/mall-accs"
+      ],
+      "streetNames": [
+        "Johnson St",
+        "Mall Accs"
+      ],
+      "pulsePointId": "2487125350"
+    }
+  ],
+  "lastIncident": "2026-06-01T20:45:00Z",
+  "count": 1
+}

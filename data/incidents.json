@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-01T20:45:00Z_coquitlam/johnson-st_coquitlam/mall-accs",
+    "timestamp": "2026-06-01T20:45:00Z",
+    "scrapedAt": "2026-06-01T20:48:16Z",
+    "address": "JOHNSON ST & MALL ACCS",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/johnson-st",
+      "coquitlam/mall-accs"
+    ],
+    "streetNames": [
+      "Johnson St",
+      "Mall Accs"
+    ],
+    "pulsePointId": "2487125350"
+  },
+  {
     "id": "2026-06-01T19:06:00Z_port-coquitlam/pitt-river-rd_port-coquitlam/mary-hill-bps",
     "timestamp": "2026-06-01T19:06:00Z",
     "scrapedAt": "2026-06-01T19:16:03Z",

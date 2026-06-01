@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-06-01T20:45:00Z_coquitlam/johnson-st_coquitlam/mall-accs",
+      "timestamp": "2026-06-01T20:45:00Z",
+      "address": "JOHNSON ST & MALL ACCS",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/johnson-st",
+        "coquitlam/mall-accs"
+      ],
+      "streetNames": [
+        "Johnson St",
+        "Mall Accs"
+      ],
+      "pulsePointId": "2487125350"
+    },
+    {
       "id": "2026-05-18T23:00:00Z_coquitlam/delahaye-dr_coquitlam/johnson-st",
       "timestamp": "2026-05-18T23:00:00Z",
       "address": "DELAHAYE DR & JOHNSON ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2439295236"
     }
   ],
-  "lastIncident": "2026-05-18T23:00:00Z",
-  "count": 2
+  "lastIncident": "2026-06-01T20:45:00Z",
+  "count": 3
 }
