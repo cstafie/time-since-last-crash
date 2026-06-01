@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-06-01T02:33:00Z_langley/trans-canada-hwy",
+    "timestamp": "2026-06-01T02:33:00Z",
+    "scrapedAt": "2026-06-01T03:00:27Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2486607931"
+  },
+  {
+    "id": "2026-06-01T02:08:00Z_maple-ridge/lougheed-hwy_maple-ridge/224th-st",
+    "timestamp": "2026-06-01T02:08:00Z",
+    "scrapedAt": "2026-06-01T03:00:27Z",
+    "address": "LOUGHEED HWY & 224TH ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/lougheed-hwy",
+      "maple-ridge/224th-st"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "224th St"
+    ],
+    "pulsePointId": "2486596610"
+  },
+  {
+    "id": "2026-06-01T01:47:00Z_surrey/142nd-st_surrey/108th-ave",
+    "timestamp": "2026-06-01T01:47:00Z",
+    "scrapedAt": "2026-06-01T03:00:27Z",
+    "address": "142ND ST & 108TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/142nd-st",
+      "surrey/108th-ave"
+    ],
+    "streetNames": [
+      "142nd St",
+      "108th Ave"
+    ],
+    "pulsePointId": "2486582986"
+  },
+  {
     "id": "2026-06-01T01:16:00Z_vancouver/w-67th-ave_vancouver/oak-st",
     "timestamp": "2026-06-01T01:16:00Z",
     "scrapedAt": "2026-06-01T01:31:49Z",

@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-01T01:47:00Z_surrey/142nd-st_surrey/108th-ave",
+      "timestamp": "2026-06-01T01:47:00Z",
+      "address": "142ND ST & 108TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/142nd-st",
+        "surrey/108th-ave"
+      ],
+      "streetNames": [
+        "142nd St",
+        "108th Ave"
+      ],
+      "pulsePointId": "2486582986"
+    },
+    {
       "id": "2026-05-31T09:54:00Z_surrey/108th-ave_surrey/144th-st",
       "timestamp": "2026-05-31T09:54:00Z",
       "address": "108TH AVE & 144TH ST",
@@ -314,6 +329,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-31T09:54:00Z",
-  "count": 21
+  "lastIncident": "2026-06-01T01:47:00Z",
+  "count": 22
 }
