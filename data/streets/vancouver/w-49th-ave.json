@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-01T00:35:00Z_vancouver/adera-st_vancouver/w-49th-ave",
+      "timestamp": "2026-06-01T00:35:00Z",
+      "address": "ADERA ST & W 49TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/adera-st",
+        "vancouver/w-49th-ave"
+      ],
+      "streetNames": [
+        "Adera St",
+        "W 49th Ave"
+      ],
+      "pulsePointId": "2486539546"
+    },
+    {
       "id": "2026-05-16T01:21:00Z_vancouver/granville-st_vancouver/w-49th-ave",
       "timestamp": "2026-05-16T01:21:00Z",
       "address": "GRANVILLE ST & W 49TH AVE",
@@ -47,6 +62,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-16T01:21:00Z",
-  "count": 3
+  "lastIncident": "2026-06-01T00:35:00Z",
+  "count": 4
 }

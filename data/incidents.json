@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-06-01T01:16:00Z_vancouver/w-67th-ave_vancouver/oak-st",
+    "timestamp": "2026-06-01T01:16:00Z",
+    "scrapedAt": "2026-06-01T01:31:49Z",
+    "address": "W 67TH AVE & OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-67th-ave",
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "W 67th Ave",
+      "Oak St"
+    ],
+    "pulsePointId": "2486564246"
+  },
+  {
+    "id": "2026-06-01T01:14:00Z_vancouver/oak-st_vancouver/w-67th-ave",
+    "timestamp": "2026-06-01T01:14:00Z",
+    "scrapedAt": "2026-06-01T01:31:49Z",
+    "address": "OAK ST & W 67TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/oak-st",
+      "vancouver/w-67th-ave"
+    ],
+    "streetNames": [
+      "Oak St",
+      "W 67th Ave"
+    ],
+    "pulsePointId": "2486562951"
+  },
+  {
+    "id": "2026-06-01T01:08:00Z_mission/mcrae-ave",
+    "timestamp": "2026-06-01T01:08:00Z",
+    "scrapedAt": "2026-06-01T01:31:49Z",
+    "address": "MCRAE AVE",
+    "city": "Mission",
+    "streets": [
+      "mission/mcrae-ave"
+    ],
+    "streetNames": [
+      "Mcrae Ave"
+    ],
+    "pulsePointId": "2486559700"
+  },
+  {
+    "id": "2026-06-01T00:35:00Z_vancouver/adera-st_vancouver/w-49th-ave",
+    "timestamp": "2026-06-01T00:35:00Z",
+    "scrapedAt": "2026-06-01T01:31:49Z",
+    "address": "ADERA ST & W 49TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/adera-st",
+      "vancouver/w-49th-ave"
+    ],
+    "streetNames": [
+      "Adera St",
+      "W 49th Ave"
+    ],
+    "pulsePointId": "2486539546"
+  },
+  {
     "id": "2026-06-01T00:17:00Z_vancouver/kingsway",
     "timestamp": "2026-06-01T00:17:00Z",
     "scrapedAt": "2026-06-01T00:20:26Z",

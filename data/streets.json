@@ -766,8 +766,8 @@
     "name": "Oak St",
     "slug": "vancouver/oak-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-25T17:39:00Z",
-    "count": 29
+    "lastIncident": "2026-06-01T01:16:00Z",
+    "count": 31
   },
   "vancouver/w-12th-ave": {
     "name": "W 12th Ave",
@@ -787,8 +787,8 @@
     "name": "W 49th Ave",
     "slug": "vancouver/w-49th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-16T01:21:00Z",
-    "count": 3
+    "lastIncident": "2026-06-01T00:35:00Z",
+    "count": 4
   },
   "vancouver/w-4th-ave": {
     "name": "W 4th Ave",
@@ -9229,8 +9229,8 @@
     "name": "W 67th Ave",
     "slug": "vancouver/w-67th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-15T15:29:00Z",
-    "count": 2
+    "lastIncident": "2026-06-01T01:16:00Z",
+    "count": 4
   },
   "chilliwack/mayfair-ave": {
     "name": "Mayfair Ave",
@@ -11099,6 +11099,20 @@
     "slug": "richmond/palmberg-rd",
     "city": "Richmond",
     "lastIncident": "2026-05-31T23:42:00Z",
+    "count": 1
+  },
+  "mission/mcrae-ave": {
+    "name": "Mcrae Ave",
+    "slug": "mission/mcrae-ave",
+    "city": "Mission",
+    "lastIncident": "2026-06-01T01:08:00Z",
+    "count": 1
+  },
+  "vancouver/adera-st": {
+    "name": "Adera St",
+    "slug": "vancouver/adera-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-01T00:35:00Z",
     "count": 1
   }
 }
