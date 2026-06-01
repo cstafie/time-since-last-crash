@@ -1,5 +1,99 @@
 [
   {
+    "id": "2026-06-01T19:06:00Z_port-coquitlam/pitt-river-rd_port-coquitlam/mary-hill-bps",
+    "timestamp": "2026-06-01T19:06:00Z",
+    "scrapedAt": "2026-06-01T19:16:03Z",
+    "address": "PITT RIVER RD & MARY HILL BPS",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/pitt-river-rd",
+      "port-coquitlam/mary-hill-bps"
+    ],
+    "streetNames": [
+      "Pitt River Rd",
+      "Mary Hill Bps"
+    ],
+    "pulsePointId": "2487054071"
+  },
+  {
+    "id": "2026-06-01T19:00:00Z_chilliwack/vedder-rd_chilliwack/south-sumas-rd",
+    "timestamp": "2026-06-01T19:00:00Z",
+    "scrapedAt": "2026-06-01T19:16:03Z",
+    "address": "VEDDER RD & SOUTH SUMAS RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/vedder-rd",
+      "chilliwack/south-sumas-rd"
+    ],
+    "streetNames": [
+      "Vedder Rd",
+      "South Sumas Rd"
+    ],
+    "pulsePointId": "2487049624"
+  },
+  {
+    "id": "2026-06-01T19:00:00Z_burnaby/canada-way_burnaby/wayburne-dr",
+    "timestamp": "2026-06-01T19:00:00Z",
+    "scrapedAt": "2026-06-01T19:16:03Z",
+    "address": "CANADA WAY & WAYBURNE DR",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/canada-way",
+      "burnaby/wayburne-dr"
+    ],
+    "streetNames": [
+      "Canada Way",
+      "Wayburne Dr"
+    ],
+    "pulsePointId": "2487050952"
+  },
+  {
+    "id": "2026-06-01T18:13:00Z_vancouver/e-cordova-st_vancouver/dunlevy-ave",
+    "timestamp": "2026-06-01T18:13:00Z",
+    "scrapedAt": "2026-06-01T19:16:03Z",
+    "address": "E CORDOVA ST & DUNLEVY AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-cordova-st",
+      "vancouver/dunlevy-ave"
+    ],
+    "streetNames": [
+      "E Cordova St",
+      "Dunlevy Ave"
+    ],
+    "pulsePointId": "2487017735"
+  },
+  {
+    "id": "2026-06-01T18:04:00Z_vancouver/main-st",
+    "timestamp": "2026-06-01T18:04:00Z",
+    "scrapedAt": "2026-06-01T19:16:03Z",
+    "address": "MAIN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st"
+    ],
+    "streetNames": [
+      "Main St"
+    ],
+    "pulsePointId": "2487011005"
+  },
+  {
+    "id": "2026-06-01T17:55:00Z_port-coquitlam/grant-ave_port-coquitlam/coast-meridian-rd",
+    "timestamp": "2026-06-01T17:55:00Z",
+    "scrapedAt": "2026-06-01T19:16:03Z",
+    "address": "GRANT AVE & COAST MERIDIAN RD",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/grant-ave",
+      "port-coquitlam/coast-meridian-rd"
+    ],
+    "streetNames": [
+      "Grant Ave",
+      "Coast Meridian Rd"
+    ],
+    "pulsePointId": "2487003976"
+  },
+  {
     "id": "2026-06-01T17:10:00Z_langley/203rd-st_langley/fraser-hwy",
     "timestamp": "2026-06-01T17:10:00Z",
     "scrapedAt": "2026-06-01T17:16:04Z",

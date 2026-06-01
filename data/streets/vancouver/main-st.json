@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-01T18:04:00Z_vancouver/main-st",
+      "timestamp": "2026-06-01T18:04:00Z",
+      "address": "MAIN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/main-st"
+      ],
+      "streetNames": [
+        "Main St"
+      ],
+      "pulsePointId": "2487011005"
+    },
+    {
       "id": "2026-05-27T13:57:00Z_vancouver/main-st_vancouver/e-33rd-ave",
       "timestamp": "2026-05-27T13:57:00Z",
       "address": "MAIN ST & E 33RD AVE",
@@ -500,6 +513,6 @@
       "pulsePointId": "2432937969"
     }
   ],
-  "lastIncident": "2026-05-27T13:57:00Z",
-  "count": 34
+  "lastIncident": "2026-06-01T18:04:00Z",
+  "count": 35
 }

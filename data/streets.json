@@ -423,8 +423,8 @@
     "name": "Mary Hill Bps",
     "slug": "port-coquitlam/mary-hill-bps",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-05-23T04:53:00Z",
-    "count": 8
+    "lastIncident": "2026-06-01T19:06:00Z",
+    "count": 9
   },
   "richmond/8111-ackroyd-rd": {
     "name": "8111 Ackroyd Rd",
@@ -1130,8 +1130,8 @@
     "name": "Canada Way",
     "slug": "burnaby/canada-way",
     "city": "Burnaby",
-    "lastIncident": "2026-05-30T19:46:00Z",
-    "count": 20
+    "lastIncident": "2026-06-01T19:00:00Z",
+    "count": 21
   },
   "burnaby/norland-ave": {
     "name": "Norland Ave",
@@ -1452,8 +1452,8 @@
     "name": "Pitt River Rd",
     "slug": "port-coquitlam/pitt-river-rd",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-05-04T04:44:00Z",
-    "count": 4
+    "lastIncident": "2026-06-01T19:06:00Z",
+    "count": 5
   },
   "richmond/jow-st": {
     "name": "Jow St",
@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-27T13:57:00Z",
-    "count": 34
+    "lastIncident": "2026-06-01T18:04:00Z",
+    "count": 35
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",
@@ -1837,8 +1837,8 @@
     "name": "Vedder Rd",
     "slug": "chilliwack/vedder-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-05-18T03:16:00Z",
-    "count": 10
+    "lastIncident": "2026-06-01T19:00:00Z",
+    "count": 11
   },
   "chilliwack/spruce-dr": {
     "name": "Spruce Dr",
@@ -3972,8 +3972,8 @@
     "name": "E Cordova St",
     "slug": "vancouver/e-cordova-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-25T22:41:00Z",
-    "count": 6
+    "lastIncident": "2026-06-01T18:13:00Z",
+    "count": 7
   },
   "vancouver/gore-ave": {
     "name": "Gore Ave",
@@ -4756,8 +4756,8 @@
     "name": "Dunlevy Ave",
     "slug": "vancouver/dunlevy-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-25T22:41:00Z",
-    "count": 4
+    "lastIncident": "2026-06-01T18:13:00Z",
+    "count": 5
   },
   "abbotsford/seldon-rd": {
     "name": "Seldon Rd",
@@ -6982,8 +6982,8 @@
     "name": "Coast Meridian Rd",
     "slug": "port-coquitlam/coast-meridian-rd",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-04-21T10:47:00Z",
-    "count": 2
+    "lastIncident": "2026-06-01T17:55:00Z",
+    "count": 3
   },
   "vancouver/e-6th-ave": {
     "name": "E 6th Ave",
@@ -10356,8 +10356,8 @@
     "name": "Wayburne Dr",
     "slug": "burnaby/wayburne-dr",
     "city": "Burnaby",
-    "lastIncident": "2026-05-24T05:31:00Z",
-    "count": 1
+    "lastIncident": "2026-06-01T19:00:00Z",
+    "count": 2
   },
   "langley/19780-fraser-hwy": {
     "name": "19780 Fraser Hwy",
@@ -11148,6 +11148,20 @@
     "slug": "richmond/cessna-dr",
     "city": "Richmond",
     "lastIncident": "2026-06-01T16:19:00Z",
+    "count": 1
+  },
+  "chilliwack/south-sumas-rd": {
+    "name": "South Sumas Rd",
+    "slug": "chilliwack/south-sumas-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-06-01T19:00:00Z",
+    "count": 1
+  },
+  "port-coquitlam/grant-ave": {
+    "name": "Grant Ave",
+    "slug": "port-coquitlam/grant-ave",
+    "city": "Port Coquitlam",
+    "lastIncident": "2026-06-01T17:55:00Z",
     "count": 1
   }
 }

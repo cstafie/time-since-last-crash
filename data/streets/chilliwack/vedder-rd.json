@@ -4,6 +4,21 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-06-01T19:00:00Z_chilliwack/vedder-rd_chilliwack/south-sumas-rd",
+      "timestamp": "2026-06-01T19:00:00Z",
+      "address": "VEDDER RD & SOUTH SUMAS RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/vedder-rd",
+        "chilliwack/south-sumas-rd"
+      ],
+      "streetNames": [
+        "Vedder Rd",
+        "South Sumas Rd"
+      ],
+      "pulsePointId": "2487049624"
+    },
+    {
       "id": "2026-05-18T03:16:00Z_chilliwack/vedder-rd_chilliwack/promontory-rd",
       "timestamp": "2026-05-18T03:16:00Z",
       "address": "VEDDER RD & PROMONTORY RD",
@@ -144,6 +159,6 @@
       "pulsePointId": "2433567443"
     }
   ],
-  "lastIncident": "2026-05-18T03:16:00Z",
-  "count": 10
+  "lastIncident": "2026-06-01T19:00:00Z",
+  "count": 11
 }
