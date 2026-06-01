@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-06-01T21:52:00Z_surrey/80th-ave_surrey/176th-st",
+    "timestamp": "2026-06-01T21:52:00Z",
+    "scrapedAt": "2026-06-01T21:59:31Z",
+    "address": "80TH AVE & 176TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/80th-ave",
+      "surrey/176th-st"
+    ],
+    "streetNames": [
+      "80th Ave",
+      "176th St"
+    ],
+    "pulsePointId": "2487176935"
+  },
+  {
+    "id": "2026-06-01T21:46:00Z_maple-ridge/113b-avenue-ofrp",
+    "timestamp": "2026-06-01T21:46:00Z",
+    "scrapedAt": "2026-06-01T21:59:31Z",
+    "address": "113B AVENUE OFRP",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/113b-avenue-ofrp"
+    ],
+    "streetNames": [
+      "113b Avenue Ofrp"
+    ],
+    "pulsePointId": "2487174105"
+  },
+  {
+    "id": "2026-06-01T21:26:00Z_surrey/64th-ave",
+    "timestamp": "2026-06-01T21:26:00Z",
+    "scrapedAt": "2026-06-01T21:59:31Z",
+    "address": "64TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/64th-ave"
+    ],
+    "streetNames": [
+      "64th Ave"
+    ],
+    "pulsePointId": "2487156361"
+  },
+  {
     "id": "2026-06-01T20:45:00Z_coquitlam/johnson-st_coquitlam/mall-accs",
     "timestamp": "2026-06-01T20:45:00Z",
     "scrapedAt": "2026-06-01T20:48:16Z",

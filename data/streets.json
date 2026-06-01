@@ -598,8 +598,8 @@
     "name": "64th Ave",
     "slug": "surrey/64th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-27T15:14:00Z",
-    "count": 20
+    "lastIncident": "2026-06-01T21:26:00Z",
+    "count": 21
   },
   "surrey/72a-ave": {
     "name": "72a Ave",
@@ -885,8 +885,8 @@
     "name": "176th St",
     "slug": "surrey/176th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-01T03:47:00Z",
-    "count": 30
+    "lastIncident": "2026-06-01T21:52:00Z",
+    "count": 31
   },
   "surrey/100th-ave": {
     "name": "100th Ave",
@@ -1620,8 +1620,8 @@
     "name": "80th Ave",
     "slug": "surrey/80th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-31T00:29:00Z",
-    "count": 17
+    "lastIncident": "2026-06-01T21:52:00Z",
+    "count": 18
   },
   "surrey/156th-st": {
     "name": "156th St",
@@ -11169,6 +11169,13 @@
     "slug": "coquitlam/mall-accs",
     "city": "Coquitlam",
     "lastIncident": "2026-06-01T20:45:00Z",
+    "count": 1
+  },
+  "maple-ridge/113b-avenue-ofrp": {
+    "name": "113b Avenue Ofrp",
+    "slug": "maple-ridge/113b-avenue-ofrp",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-06-01T21:46:00Z",
     "count": 1
   }
 }
