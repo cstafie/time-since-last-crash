@@ -640,8 +640,8 @@
     "name": "92nd Ave",
     "slug": "surrey/92nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-26T06:15:00Z",
-    "count": 14
+    "lastIncident": "2026-06-02T22:09:00Z",
+    "count": 15
   },
   "surrey/96th-ave": {
     "name": "96th Ave",
@@ -801,8 +801,8 @@
     "name": "W 70th Ave",
     "slug": "vancouver/w-70th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-27T20:02:00Z",
-    "count": 4
+    "lastIncident": "2026-06-02T22:01:00Z",
+    "count": 5
   },
   "vancouver/w-broadway": {
     "name": "W Broadway",
@@ -2096,8 +2096,8 @@
     "name": "126th St",
     "slug": "surrey/126th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-28T14:59:00Z",
-    "count": 9
+    "lastIncident": "2026-06-02T22:09:00Z",
+    "count": 10
   },
   "surrey/huntley-ave": {
     "name": "Huntley Ave",
@@ -6814,8 +6814,8 @@
     "name": "Hudson St",
     "slug": "vancouver/hudson-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-14T22:32:00Z",
-    "count": 2
+    "lastIncident": "2026-06-02T22:01:00Z",
+    "count": 3
   },
   "mission/birch-st": {
     "name": "Birch St",

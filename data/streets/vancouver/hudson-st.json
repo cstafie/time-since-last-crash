@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-02T22:01:00Z_vancouver/w-70th-ave_vancouver/hudson-st",
+      "timestamp": "2026-06-02T22:01:00Z",
+      "address": "W 70TH AVE & HUDSON ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-70th-ave",
+        "vancouver/hudson-st"
+      ],
+      "streetNames": [
+        "W 70th Ave",
+        "Hudson St"
+      ],
+      "pulsePointId": "2487881745"
+    },
+    {
       "id": "2026-05-14T22:32:00Z_vancouver/park-dr_vancouver/hudson-st",
       "timestamp": "2026-05-14T22:32:00Z",
       "address": "PARK DR & HUDSON ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2455028056"
     }
   ],
-  "lastIncident": "2026-05-14T22:32:00Z",
-  "count": 2
+  "lastIncident": "2026-06-02T22:01:00Z",
+  "count": 3
 }
