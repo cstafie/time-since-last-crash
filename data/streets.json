@@ -535,8 +535,8 @@
     "name": "128th St",
     "slug": "surrey/128th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-30T04:16:00Z",
-    "count": 24
+    "lastIncident": "2026-06-02T20:50:00Z",
+    "count": 25
   },
   "surrey/130b-st": {
     "name": "130b St",
@@ -1620,8 +1620,8 @@
     "name": "80th Ave",
     "slug": "surrey/80th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-02T13:43:00Z",
-    "count": 19
+    "lastIncident": "2026-06-02T20:11:00Z",
+    "count": 20
   },
   "surrey/156th-st": {
     "name": "156th St",
@@ -2978,8 +2978,8 @@
     "name": "60th Ave",
     "slug": "surrey/60th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-28T13:30:00Z",
-    "count": 9
+    "lastIncident": "2026-06-02T20:50:00Z",
+    "count": 10
   },
   "pitt-meadows/airport-way": {
     "name": "Airport Way",

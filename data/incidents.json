@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-02T20:50:00Z_surrey/60th-ave_surrey/128th-st",
+    "timestamp": "2026-06-02T20:50:00Z",
+    "scrapedAt": "2026-06-02T21:29:45Z",
+    "address": "60TH AVE & 128TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/60th-ave",
+      "surrey/128th-st"
+    ],
+    "streetNames": [
+      "60th Ave",
+      "128th St"
+    ],
+    "pulsePointId": "2487836097"
+  },
+  {
+    "id": "2026-06-02T20:11:00Z_surrey/80th-ave",
+    "timestamp": "2026-06-02T20:11:00Z",
+    "scrapedAt": "2026-06-02T21:29:45Z",
+    "address": "80TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/80th-ave"
+    ],
+    "streetNames": [
+      "80th Ave"
+    ],
+    "pulsePointId": "2487808331"
+  },
+  {
     "id": "2026-06-02T18:03:00Z_abbotsford/trethewey-st_abbotsford/george-ferguson-way",
     "timestamp": "2026-06-02T18:03:00Z",
     "scrapedAt": "2026-06-02T18:47:11Z",
