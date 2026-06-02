@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-02T16:42:00Z_vancouver/davie-st_vancouver/bidwell-st",
+      "timestamp": "2026-06-02T16:42:00Z",
+      "address": "DAVIE ST & BIDWELL ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/davie-st",
+        "vancouver/bidwell-st"
+      ],
+      "streetNames": [
+        "Davie St",
+        "Bidwell St"
+      ],
+      "pulsePointId": "2487666082"
+    },
+    {
       "id": "2026-05-02T23:42:00Z_vancouver/broughton-st_vancouver/davie-st",
       "timestamp": "2026-05-02T23:42:00Z",
       "address": "BROUGHTON ST & DAVIE ST",
@@ -107,6 +122,6 @@
       "pulsePointId": "2435623611"
     }
   ],
-  "lastIncident": "2026-05-02T23:42:00Z",
-  "count": 7
+  "lastIncident": "2026-06-02T16:42:00Z",
+  "count": 8
 }

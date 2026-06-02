@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-01T03:47:00Z",
-    "count": 28
+    "lastIncident": "2026-06-02T16:04:00Z",
+    "count": 29
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",
@@ -885,8 +885,8 @@
     "name": "176th St",
     "slug": "surrey/176th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-01T21:52:00Z",
-    "count": 31
+    "lastIncident": "2026-06-02T16:04:00Z",
+    "count": 32
   },
   "surrey/100th-ave": {
     "name": "100th Ave",
@@ -2488,8 +2488,8 @@
     "name": "Davie St",
     "slug": "vancouver/davie-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-02T23:42:00Z",
-    "count": 7
+    "lastIncident": "2026-06-02T16:42:00Z",
+    "count": 8
   },
   "coquitlam/brunette-avenue-onrp": {
     "name": "Brunette Avenue Onrp",
@@ -9369,8 +9369,8 @@
     "name": "Glenmore Rd",
     "slug": "abbotsford/glenmore-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-30T01:31:00Z",
-    "count": 2
+    "lastIncident": "2026-06-02T17:09:00Z",
+    "count": 3
   },
   "coquitlam/eden-ave": {
     "name": "Eden Ave",
@@ -11246,6 +11246,13 @@
     "slug": "mission/11th-ave",
     "city": "Mission",
     "lastIncident": "2026-06-02T15:15:00Z",
+    "count": 1
+  },
+  "vancouver/bidwell-st": {
+    "name": "Bidwell St",
+    "slug": "vancouver/bidwell-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-02T16:42:00Z",
     "count": 1
   }
 }
