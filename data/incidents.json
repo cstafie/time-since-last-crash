@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-02T06:54:00Z_surrey/173rd-st",
+    "timestamp": "2026-06-02T06:54:00Z",
+    "scrapedAt": "2026-06-02T08:29:44Z",
+    "address": "173RD ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/173rd-st"
+    ],
+    "streetNames": [
+      "173rd St"
+    ],
+    "pulsePointId": "2487467899"
+  },
+  {
     "id": "2026-06-02T06:01:00Z_vancouver/main-st_vancouver/e-57th-ave",
     "timestamp": "2026-06-02T06:01:00Z",
     "scrapedAt": "2026-06-02T06:30:36Z",
