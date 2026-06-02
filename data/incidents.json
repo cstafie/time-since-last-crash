@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-02T13:43:00Z_surrey/80th-ave",
+    "timestamp": "2026-06-02T13:43:00Z",
+    "scrapedAt": "2026-06-02T14:22:45Z",
+    "address": "80TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/80th-ave"
+    ],
+    "streetNames": [
+      "80th Ave"
+    ],
+    "pulsePointId": "2487574970"
+  },
+  {
+    "id": "2026-06-02T13:33:00Z_new-westminster/cumberland-st_new-westminster/e-8th-ave",
+    "timestamp": "2026-06-02T13:33:00Z",
+    "scrapedAt": "2026-06-02T14:22:45Z",
+    "address": "CUMBERLAND ST & E 8TH AVE",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/cumberland-st",
+      "new-westminster/e-8th-ave"
+    ],
+    "streetNames": [
+      "Cumberland St",
+      "E 8th Ave"
+    ],
+    "pulsePointId": "2487570567"
+  },
+  {
     "id": "2026-06-02T12:00:00Z_langley/24th-ave",
     "timestamp": "2026-06-02T12:00:00Z",
     "scrapedAt": "2026-06-02T12:44:21Z",

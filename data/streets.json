@@ -906,8 +906,8 @@
     "name": "Cumberland St",
     "slug": "new-westminster/cumberland-st",
     "city": "New Westminster",
-    "lastIncident": "2026-05-26T00:17:00Z",
-    "count": 4
+    "lastIncident": "2026-06-02T13:33:00Z",
+    "count": 5
   },
   "new-westminster/e-columbia-st": {
     "name": "E Columbia St",
@@ -1221,8 +1221,8 @@
     "name": "E 8th Ave",
     "slug": "new-westminster/e-8th-ave",
     "city": "New Westminster",
-    "lastIncident": "2026-05-26T00:17:00Z",
-    "count": 5
+    "lastIncident": "2026-06-02T13:33:00Z",
+    "count": 6
   },
   "north-vancouver/old-lillooet-rd": {
     "name": "Old Lillooet Rd",
@@ -1620,8 +1620,8 @@
     "name": "80th Ave",
     "slug": "surrey/80th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-01T21:52:00Z",
-    "count": 18
+    "lastIncident": "2026-06-02T13:43:00Z",
+    "count": 19
   },
   "surrey/156th-st": {
     "name": "156th St",
