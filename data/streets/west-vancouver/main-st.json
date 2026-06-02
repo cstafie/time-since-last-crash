@@ -1,0 +1,22 @@
+{
+  "slug": "west-vancouver/main-st",
+  "name": "Main St",
+  "city": "West Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-02T02:50:00Z_west-vancouver/main-st",
+      "timestamp": "2026-06-02T02:50:00Z",
+      "address": "MAIN ST",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/main-st"
+      ],
+      "streetNames": [
+        "Main St"
+      ],
+      "pulsePointId": "2487368345"
+    }
+  ],
+  "lastIncident": "2026-06-02T02:50:00Z",
+  "count": 1
+}

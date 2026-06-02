@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-02T02:50:00Z_surrey/81st-ave_surrey/king-george-blvd",
+    "timestamp": "2026-06-02T02:50:00Z",
+    "scrapedAt": "2026-06-02T03:00:32Z",
+    "address": "81ST AVE & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/81st-ave",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "81st Ave",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2487366692"
+  },
+  {
+    "id": "2026-06-02T02:50:00Z_west-vancouver/main-st",
+    "timestamp": "2026-06-02T02:50:00Z",
+    "scrapedAt": "2026-06-02T03:00:32Z",
+    "address": "MAIN ST",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/main-st"
+    ],
+    "streetNames": [
+      "Main St"
+    ],
+    "pulsePointId": "2487368345"
+  },
+  {
     "id": "2026-06-02T01:33:00Z_surrey/156th-st_surrey/84th-ave",
     "timestamp": "2026-06-02T01:33:00Z",
     "scrapedAt": "2026-06-02T01:45:36Z",

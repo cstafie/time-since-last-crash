@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-06-01T23:10:00Z",
-    "count": 55
+    "lastIncident": "2026-06-02T02:50:00Z",
+    "count": 56
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -11211,6 +11211,20 @@
     "slug": "surrey/61a-ave",
     "city": "Surrey",
     "lastIncident": "2026-06-02T00:49:00Z",
+    "count": 1
+  },
+  "surrey/81st-ave": {
+    "name": "81st Ave",
+    "slug": "surrey/81st-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-06-02T02:50:00Z",
+    "count": 1
+  },
+  "west-vancouver/main-st": {
+    "name": "Main St",
+    "slug": "west-vancouver/main-st",
+    "city": "West Vancouver",
+    "lastIncident": "2026-06-02T02:50:00Z",
     "count": 1
   }
 }
