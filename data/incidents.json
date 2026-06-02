@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-02T06:01:00Z_vancouver/main-st_vancouver/e-57th-ave",
+    "timestamp": "2026-06-02T06:01:00Z",
+    "scrapedAt": "2026-06-02T06:30:36Z",
+    "address": "MAIN ST & E 57TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st",
+      "vancouver/e-57th-ave"
+    ],
+    "streetNames": [
+      "Main St",
+      "E 57th Ave"
+    ],
+    "pulsePointId": "2487451338"
+  },
+  {
+    "id": "2026-06-02T05:43:00Z_surrey/8th-ave",
+    "timestamp": "2026-06-02T05:43:00Z",
+    "scrapedAt": "2026-06-02T06:30:36Z",
+    "address": "8TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/8th-ave"
+    ],
+    "streetNames": [
+      "8th Ave"
+    ],
+    "pulsePointId": "2487445075"
+  },
+  {
     "id": "2026-06-02T03:39:00Z_new-westminster/e-columbia-st",
     "timestamp": "2026-06-02T03:39:00Z",
     "scrapedAt": "2026-06-02T04:37:41Z",

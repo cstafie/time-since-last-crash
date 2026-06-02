@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-02T06:01:00Z_vancouver/main-st_vancouver/e-57th-ave",
+      "timestamp": "2026-06-02T06:01:00Z",
+      "address": "MAIN ST & E 57TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/main-st",
+        "vancouver/e-57th-ave"
+      ],
+      "streetNames": [
+        "Main St",
+        "E 57th Ave"
+      ],
+      "pulsePointId": "2487451338"
+    },
+    {
       "id": "2026-06-01T18:04:00Z_vancouver/main-st",
       "timestamp": "2026-06-01T18:04:00Z",
       "address": "MAIN ST",
@@ -513,6 +528,6 @@
       "pulsePointId": "2432937969"
     }
   ],
-  "lastIncident": "2026-06-01T18:04:00Z",
-  "count": 35
+  "lastIncident": "2026-06-02T06:01:00Z",
+  "count": 36
 }
