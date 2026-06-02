@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-02T00:28:00Z_west-vancouver/fulton-ave_west-vancouver/15th-st",
+    "timestamp": "2026-06-02T00:28:00Z",
+    "scrapedAt": "2026-06-02T00:48:11Z",
+    "address": "FULTON AVE & 15TH ST",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/fulton-ave",
+      "west-vancouver/15th-st"
+    ],
+    "streetNames": [
+      "Fulton Ave",
+      "15th St"
+    ],
+    "pulsePointId": "2487283368"
+  },
+  {
     "id": "2026-06-01T23:35:00Z_surrey/124th-st_surrey/75th-ave",
     "timestamp": "2026-06-01T23:35:00Z",
     "scrapedAt": "2026-06-01T23:57:05Z",
