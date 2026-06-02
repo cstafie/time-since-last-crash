@@ -1,5 +1,99 @@
 [
   {
+    "id": "2026-06-02T15:30:00Z_vancouver/e-57th-ave_vancouver/fraser-st",
+    "timestamp": "2026-06-02T15:30:00Z",
+    "scrapedAt": "2026-06-02T15:47:45Z",
+    "address": "E 57TH AVE & FRASER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-57th-ave",
+      "vancouver/fraser-st"
+    ],
+    "streetNames": [
+      "E 57th Ave",
+      "Fraser St"
+    ],
+    "pulsePointId": "2487625333"
+  },
+  {
+    "id": "2026-06-02T15:29:00Z_vancouver/e-57th-ave_vancouver/fraser-st",
+    "timestamp": "2026-06-02T15:29:00Z",
+    "scrapedAt": "2026-06-02T15:47:45Z",
+    "address": "E 57TH AVE & FRASER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-57th-ave",
+      "vancouver/fraser-st"
+    ],
+    "streetNames": [
+      "E 57th Ave",
+      "Fraser St"
+    ],
+    "pulsePointId": "2487625316"
+  },
+  {
+    "id": "2026-06-02T15:25:00Z_vancouver/hornby-st_vancouver/smithe-st",
+    "timestamp": "2026-06-02T15:25:00Z",
+    "scrapedAt": "2026-06-02T15:47:45Z",
+    "address": "HORNBY ST & SMITHE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/hornby-st",
+      "vancouver/smithe-st"
+    ],
+    "streetNames": [
+      "Hornby St",
+      "Smithe St"
+    ],
+    "pulsePointId": "2487622882"
+  },
+  {
+    "id": "2026-06-02T15:15:00Z_mission/11th-ave",
+    "timestamp": "2026-06-02T15:15:00Z",
+    "scrapedAt": "2026-06-02T15:47:45Z",
+    "address": "11TH AVE",
+    "city": "Mission",
+    "streets": [
+      "mission/11th-ave"
+    ],
+    "streetNames": [
+      "11th Ave"
+    ],
+    "pulsePointId": "2487618424"
+  },
+  {
+    "id": "2026-06-02T14:59:00Z_vancouver/se-marine-dr_vancouver/prince-albert-st",
+    "timestamp": "2026-06-02T14:59:00Z",
+    "scrapedAt": "2026-06-02T15:47:45Z",
+    "address": "SE MARINE DR & PRINCE ALBERT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/se-marine-dr",
+      "vancouver/prince-albert-st"
+    ],
+    "streetNames": [
+      "Se Marine Dr",
+      "Prince Albert St"
+    ],
+    "pulsePointId": "2487609446"
+  },
+  {
+    "id": "2026-06-02T14:34:00Z_vancouver/e-49th-ave_vancouver/elliott-st",
+    "timestamp": "2026-06-02T14:34:00Z",
+    "scrapedAt": "2026-06-02T15:47:45Z",
+    "address": "E 49TH AVE & ELLIOTT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-49th-ave",
+      "vancouver/elliott-st"
+    ],
+    "streetNames": [
+      "E 49th Ave",
+      "Elliott St"
+    ],
+    "pulsePointId": "2487597122"
+  },
+  {
     "id": "2026-06-02T13:43:00Z_surrey/80th-ave",
     "timestamp": "2026-06-02T13:43:00Z",
     "scrapedAt": "2026-06-02T14:22:45Z",

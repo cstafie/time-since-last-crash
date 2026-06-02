@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-02T15:25:00Z_vancouver/hornby-st_vancouver/smithe-st",
+      "timestamp": "2026-06-02T15:25:00Z",
+      "address": "HORNBY ST & SMITHE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/hornby-st",
+        "vancouver/smithe-st"
+      ],
+      "streetNames": [
+        "Hornby St",
+        "Smithe St"
+      ],
+      "pulsePointId": "2487622882"
+    },
+    {
       "id": "2026-05-18T02:54:00Z_vancouver/hornby-st_vancouver/smithe-st",
       "timestamp": "2026-05-18T02:54:00Z",
       "address": "HORNBY ST & SMITHE ST",
@@ -49,6 +64,6 @@
       "pulsePointId": "2437915968"
     }
   ],
-  "lastIncident": "2026-05-18T02:54:00Z",
-  "count": 3
+  "lastIncident": "2026-06-02T15:25:00Z",
+  "count": 4
 }

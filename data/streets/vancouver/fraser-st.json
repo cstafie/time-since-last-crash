@@ -4,6 +4,36 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-02T15:30:00Z_vancouver/e-57th-ave_vancouver/fraser-st",
+      "timestamp": "2026-06-02T15:30:00Z",
+      "address": "E 57TH AVE & FRASER ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-57th-ave",
+        "vancouver/fraser-st"
+      ],
+      "streetNames": [
+        "E 57th Ave",
+        "Fraser St"
+      ],
+      "pulsePointId": "2487625333"
+    },
+    {
+      "id": "2026-06-02T15:29:00Z_vancouver/e-57th-ave_vancouver/fraser-st",
+      "timestamp": "2026-06-02T15:29:00Z",
+      "address": "E 57TH AVE & FRASER ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-57th-ave",
+        "vancouver/fraser-st"
+      ],
+      "streetNames": [
+        "E 57th Ave",
+        "Fraser St"
+      ],
+      "pulsePointId": "2487625316"
+    },
+    {
       "id": "2026-05-29T13:43:00Z_vancouver/e-13th-ave_vancouver/fraser-st",
       "timestamp": "2026-05-29T13:43:00Z",
       "address": "E 13TH AVE & FRASER ST",
@@ -139,6 +169,6 @@
       "pulsePointId": "2438036867"
     }
   ],
-  "lastIncident": "2026-05-29T13:43:00Z",
-  "count": 9
+  "lastIncident": "2026-06-02T15:30:00Z",
+  "count": 11
 }

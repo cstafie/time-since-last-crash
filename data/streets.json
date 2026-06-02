@@ -1004,8 +1004,8 @@
     "name": "Prince Albert St",
     "slug": "vancouver/prince-albert-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-26T21:56:00Z",
-    "count": 3
+    "lastIncident": "2026-06-02T14:59:00Z",
+    "count": 4
   },
   "maple-ridge/22826-dewdney-trunk-rd": {
     "name": "22826 Dewdney Trunk Rd",
@@ -1200,8 +1200,8 @@
     "name": "Se Marine Dr",
     "slug": "vancouver/se-marine-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-05-26T21:56:00Z",
-    "count": 11
+    "lastIncident": "2026-06-02T14:59:00Z",
+    "count": 12
   },
   "vancouver/kerr-st": {
     "name": "Kerr St",
@@ -3069,8 +3069,8 @@
     "name": "E 49th Ave",
     "slug": "vancouver/e-49th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-28T23:49:00Z",
-    "count": 13
+    "lastIncident": "2026-06-02T14:34:00Z",
+    "count": 14
   },
   "vancouver/victoria-dr": {
     "name": "Victoria Dr",
@@ -3209,8 +3209,8 @@
     "name": "Hornby St",
     "slug": "vancouver/hornby-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-18T02:54:00Z",
-    "count": 3
+    "lastIncident": "2026-06-02T15:25:00Z",
+    "count": 4
   },
   "surrey/nordel-way": {
     "name": "Nordel Way",
@@ -3258,8 +3258,8 @@
     "name": "Fraser St",
     "slug": "vancouver/fraser-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-29T13:43:00Z",
-    "count": 9
+    "lastIncident": "2026-06-02T15:30:00Z",
+    "count": 11
   },
   "abbotsford/32470-simon-ave": {
     "name": "32470 Simon Ave",
@@ -3790,8 +3790,8 @@
     "name": "Elliott St",
     "slug": "vancouver/elliott-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-05T00:38:00Z",
-    "count": 3
+    "lastIncident": "2026-06-02T14:34:00Z",
+    "count": 4
   },
   "vancouver/melbourne-st": {
     "name": "Melbourne St",
@@ -3867,8 +3867,8 @@
     "name": "Smithe St",
     "slug": "vancouver/smithe-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-18T02:54:00Z",
-    "count": 6
+    "lastIncident": "2026-06-02T15:25:00Z",
+    "count": 7
   },
   "maple-ridge/river-rd": {
     "name": "River Rd",
@@ -5295,8 +5295,8 @@
     "name": "E 57th Ave",
     "slug": "vancouver/e-57th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-02T06:01:00Z",
-    "count": 2
+    "lastIncident": "2026-06-02T15:30:00Z",
+    "count": 4
   },
   "coquitlam/tatla-pl": {
     "name": "Tatla Pl",
@@ -11239,6 +11239,13 @@
     "slug": "surrey/173rd-st",
     "city": "Surrey",
     "lastIncident": "2026-06-02T06:54:00Z",
+    "count": 1
+  },
+  "mission/11th-ave": {
+    "name": "11th Ave",
+    "slug": "mission/11th-ave",
+    "city": "Mission",
+    "lastIncident": "2026-06-02T15:15:00Z",
     "count": 1
   }
 }
