@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-02T12:00:00Z_langley/24th-ave",
+    "timestamp": "2026-06-02T12:00:00Z",
+    "scrapedAt": "2026-06-02T12:44:21Z",
+    "address": "24TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/24th-ave"
+    ],
+    "streetNames": [
+      "24th Ave"
+    ],
+    "pulsePointId": "2487540295"
+  },
+  {
     "id": "2026-06-02T06:54:00Z_surrey/173rd-st",
     "timestamp": "2026-06-02T06:54:00Z",
     "scrapedAt": "2026-06-02T08:29:44Z",
