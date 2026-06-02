@@ -913,8 +913,8 @@
     "name": "E Columbia St",
     "slug": "new-westminster/e-columbia-st",
     "city": "New Westminster",
-    "lastIncident": "2026-06-01T08:40:00Z",
-    "count": 13
+    "lastIncident": "2026-06-02T03:39:00Z",
+    "count": 14
   },
   "burnaby/market-crss": {
     "name": "Market Crss",
@@ -11225,6 +11225,13 @@
     "slug": "west-vancouver/main-st",
     "city": "West Vancouver",
     "lastIncident": "2026-06-02T02:50:00Z",
+    "count": 1
+  },
+  "richmond/jack-bell-dr": {
+    "name": "Jack Bell Dr",
+    "slug": "richmond/jack-bell-dr",
+    "city": "Richmond",
+    "lastIncident": "2026-06-02T03:22:00Z",
     "count": 1
   }
 }
