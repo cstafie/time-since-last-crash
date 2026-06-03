@@ -1,6 +1,6 @@
 {
-  "slug": "north-vancouver/w-2nd-st",
-  "name": "W 2nd St",
+  "slug": "north-vancouver/mahon-ave",
+  "name": "Mahon Ave",
   "city": "North Vancouver",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Mahon Ave"
       ],
       "pulsePointId": "2488623220"
-    },
-    {
-      "id": "2026-04-11T05:33:00Z_north-vancouver/forbes-ave_north-vancouver/w-2nd-st",
-      "timestamp": "2026-04-11T05:33:00Z",
-      "address": "FORBES AVE & W 2ND ST",
-      "city": "North Vancouver",
-      "streets": [
-        "north-vancouver/forbes-ave",
-        "north-vancouver/w-2nd-st"
-      ],
-      "streetNames": [
-        "Forbes Ave",
-        "W 2nd St"
-      ],
-      "pulsePointId": "2452006249"
     }
   ],
   "lastIncident": "2026-06-03T22:26:00Z",
-  "count": 2
+  "count": 1
 }

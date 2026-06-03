@@ -1,0 +1,22 @@
+{
+  "slug": "richmond/2700-sweden-way",
+  "name": "2700 Sweden Way",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-06-03T22:40:00Z_richmond/2700-sweden-way",
+      "timestamp": "2026-06-03T22:40:00Z",
+      "address": "2700 SWEDEN WAY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/2700-sweden-way"
+      ],
+      "streetNames": [
+        "2700 Sweden Way"
+      ],
+      "pulsePointId": "2488633097"
+    }
+  ],
+  "lastIncident": "2026-06-03T22:40:00Z",
+  "count": 1
+}

@@ -1,5 +1,123 @@
 [
   {
+    "id": "2026-06-03T22:48:00Z_vancouver/hornby-st_vancouver/nelson-st",
+    "timestamp": "2026-06-03T22:48:00Z",
+    "scrapedAt": "2026-06-03T23:09:34Z",
+    "address": "HORNBY ST & NELSON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/hornby-st",
+      "vancouver/nelson-st"
+    ],
+    "streetNames": [
+      "Hornby St",
+      "Nelson St"
+    ],
+    "pulsePointId": "2488637080"
+  },
+  {
+    "id": "2026-06-03T22:42:00Z_coquitlam/trans-canada-hwy",
+    "timestamp": "2026-06-03T22:42:00Z",
+    "scrapedAt": "2026-06-03T23:09:34Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2488635820"
+  },
+  {
+    "id": "2026-06-03T22:40:00Z_richmond/2700-sweden-way",
+    "timestamp": "2026-06-03T22:40:00Z",
+    "scrapedAt": "2026-06-03T23:09:34Z",
+    "address": "2700 SWEDEN WAY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/2700-sweden-way"
+    ],
+    "streetNames": [
+      "2700 Sweden Way"
+    ],
+    "pulsePointId": "2488633097"
+  },
+  {
+    "id": "2026-06-03T22:34:00Z_surrey/king-george-blvd_surrey/16th-ave",
+    "timestamp": "2026-06-03T22:34:00Z",
+    "scrapedAt": "2026-06-03T23:09:34Z",
+    "address": "KING GEORGE BLVD & 16TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/16th-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "16th Ave"
+    ],
+    "pulsePointId": "2488628630"
+  },
+  {
+    "id": "2026-06-03T22:26:00Z_north-vancouver/w-2nd-st_north-vancouver/mahon-ave",
+    "timestamp": "2026-06-03T22:26:00Z",
+    "scrapedAt": "2026-06-03T23:09:34Z",
+    "address": "W 2ND ST & MAHON AVE",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/w-2nd-st",
+      "north-vancouver/mahon-ave"
+    ],
+    "streetNames": [
+      "W 2nd St",
+      "Mahon Ave"
+    ],
+    "pulsePointId": "2488623220"
+  },
+  {
+    "id": "2026-06-03T22:23:00Z_burnaby/kensington-ave",
+    "timestamp": "2026-06-03T22:23:00Z",
+    "scrapedAt": "2026-06-03T23:09:34Z",
+    "address": "KENSINGTON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/kensington-ave"
+    ],
+    "streetNames": [
+      "Kensington Ave"
+    ],
+    "pulsePointId": "2488621242"
+  },
+  {
+    "id": "2026-06-03T22:17:00Z_chilliwack/hinkley-rd",
+    "timestamp": "2026-06-03T22:17:00Z",
+    "scrapedAt": "2026-06-03T23:09:34Z",
+    "address": "HINKLEY RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/hinkley-rd"
+    ],
+    "streetNames": [
+      "Hinkley Rd"
+    ],
+    "pulsePointId": "2488616838"
+  },
+  {
+    "id": "2026-06-03T22:08:00Z_richmond/hwy-91",
+    "timestamp": "2026-06-03T22:08:00Z",
+    "scrapedAt": "2026-06-03T23:09:34Z",
+    "address": "HWY 91",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hwy-91"
+    ],
+    "streetNames": [
+      "Hwy 91"
+    ],
+    "pulsePointId": "2488611758"
+  },
+  {
     "id": "2026-06-03T21:33:00Z_langley/golden-ears-brdg",
     "timestamp": "2026-06-03T21:33:00Z",
     "scrapedAt": "2026-06-03T22:01:56Z",

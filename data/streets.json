@@ -101,8 +101,8 @@
     "name": "Hinkley Rd",
     "slug": "chilliwack/hinkley-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-03-08T20:40:00Z",
-    "count": 1
+    "lastIncident": "2026-06-03T22:17:00Z",
+    "count": 2
   },
   "chilliwack/keith-wilson-rd": {
     "name": "Keith Wilson Rd",
@@ -465,8 +465,8 @@
     "name": "Hwy 91",
     "slug": "richmond/hwy-91",
     "city": "Richmond",
-    "lastIncident": "2026-05-31T16:43:00Z",
-    "count": 12
+    "lastIncident": "2026-06-03T22:08:00Z",
+    "count": 13
   },
   "richmond/nelson-rd": {
     "name": "Nelson Rd",
@@ -584,8 +584,8 @@
     "name": "16th Ave",
     "slug": "surrey/16th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-01T15:51:00Z",
-    "count": 9
+    "lastIncident": "2026-06-03T22:34:00Z",
+    "count": 10
   },
   "surrey/63a-ave": {
     "name": "63a Ave",
@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-06-03T17:33:00Z",
-    "count": 59
+    "lastIncident": "2026-06-03T22:34:00Z",
+    "count": 60
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -1340,8 +1340,8 @@
     "name": "Kensington Ave",
     "slug": "burnaby/kensington-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-03-11T21:50:00Z",
-    "count": 2
+    "lastIncident": "2026-06-03T22:23:00Z",
+    "count": 3
   },
   "maple-ridge/222nd-st": {
     "name": "222nd St",
@@ -2040,8 +2040,8 @@
     "name": "Trans Canada Hwy",
     "slug": "coquitlam/trans-canada-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-05-25T15:12:00Z",
-    "count": 18
+    "lastIncident": "2026-06-03T22:42:00Z",
+    "count": 19
   },
   "langley/202a-st": {
     "name": "202a St",
@@ -2110,8 +2110,8 @@
     "name": "Nelson St",
     "slug": "vancouver/nelson-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-14T05:39:00Z",
-    "count": 6
+    "lastIncident": "2026-06-03T22:48:00Z",
+    "count": 7
   },
   "abbotsford/mt-lehman-rd": {
     "name": "Mt Lehman Rd",
@@ -3209,8 +3209,8 @@
     "name": "Hornby St",
     "slug": "vancouver/hornby-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-02T15:25:00Z",
-    "count": 4
+    "lastIncident": "2026-06-03T22:48:00Z",
+    "count": 5
   },
   "surrey/nordel-way": {
     "name": "Nordel Way",
@@ -6331,8 +6331,8 @@
     "name": "W 2nd St",
     "slug": "north-vancouver/w-2nd-st",
     "city": "North Vancouver",
-    "lastIncident": "2026-04-11T05:33:00Z",
-    "count": 1
+    "lastIncident": "2026-06-03T22:26:00Z",
+    "count": 2
   },
   "vancouver/homer-st": {
     "name": "Homer St",
@@ -11372,6 +11372,20 @@
     "slug": "langley/golden-ears-brdg",
     "city": "Langley",
     "lastIncident": "2026-06-03T21:33:00Z",
+    "count": 1
+  },
+  "richmond/2700-sweden-way": {
+    "name": "2700 Sweden Way",
+    "slug": "richmond/2700-sweden-way",
+    "city": "Richmond",
+    "lastIncident": "2026-06-03T22:40:00Z",
+    "count": 1
+  },
+  "north-vancouver/mahon-ave": {
+    "name": "Mahon Ave",
+    "slug": "north-vancouver/mahon-ave",
+    "city": "North Vancouver",
+    "lastIncident": "2026-06-03T22:26:00Z",
     "count": 1
   }
 }
