@@ -1,0 +1,24 @@
+{
+  "slug": "delta/arthur-dr",
+  "name": "Arthur Dr",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-06-03T04:22:00Z_delta/47th-ave_delta/arthur-dr",
+      "timestamp": "2026-06-03T04:22:00Z",
+      "address": "47TH AVE & ARTHUR DR",
+      "city": "Delta",
+      "streets": [
+        "delta/47th-ave",
+        "delta/arthur-dr"
+      ],
+      "streetNames": [
+        "47th Ave",
+        "Arthur Dr"
+      ],
+      "pulsePointId": "2488108654"
+    }
+  ],
+  "lastIncident": "2026-06-03T04:22:00Z",
+  "count": 1
+}

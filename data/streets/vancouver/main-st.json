@@ -4,6 +4,36 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-03T04:28:00Z_vancouver/main-st_vancouver/union-st",
+      "timestamp": "2026-06-03T04:28:00Z",
+      "address": "MAIN ST & UNION ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/main-st",
+        "vancouver/union-st"
+      ],
+      "streetNames": [
+        "Main St",
+        "Union St"
+      ],
+      "pulsePointId": "2488111616"
+    },
+    {
+      "id": "2026-06-03T04:27:00Z_vancouver/union-st_vancouver/main-st",
+      "timestamp": "2026-06-03T04:27:00Z",
+      "address": "UNION ST & MAIN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/union-st",
+        "vancouver/main-st"
+      ],
+      "streetNames": [
+        "Union St",
+        "Main St"
+      ],
+      "pulsePointId": "2488111547"
+    },
+    {
       "id": "2026-06-02T06:01:00Z_vancouver/main-st_vancouver/e-57th-ave",
       "timestamp": "2026-06-02T06:01:00Z",
       "address": "MAIN ST & E 57TH AVE",
@@ -528,6 +558,6 @@
       "pulsePointId": "2432937969"
     }
   ],
-  "lastIncident": "2026-06-02T06:01:00Z",
-  "count": 36
+  "lastIncident": "2026-06-03T04:28:00Z",
+  "count": 38
 }

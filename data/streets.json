@@ -850,8 +850,8 @@
     "name": "32nd Ave",
     "slug": "surrey/32nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-30T20:38:00Z",
-    "count": 9
+    "lastIncident": "2026-06-03T04:55:00Z",
+    "count": 10
   },
   "langley/30th-ave": {
     "name": "30th Ave",
@@ -885,8 +885,8 @@
     "name": "176th St",
     "slug": "surrey/176th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-02T16:04:00Z",
-    "count": 32
+    "lastIncident": "2026-06-03T04:55:00Z",
+    "count": 33
   },
   "surrey/100th-ave": {
     "name": "100th Ave",
@@ -1501,8 +1501,8 @@
     "name": "144th St",
     "slug": "surrey/144th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-31T09:54:00Z",
-    "count": 25
+    "lastIncident": "2026-06-03T04:09:00Z",
+    "count": 26
   },
   "north-vancouver/seymour-blvd": {
     "name": "Seymour Blvd",
@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-02T06:01:00Z",
-    "count": 36
+    "lastIncident": "2026-06-03T04:28:00Z",
+    "count": 38
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",
@@ -6835,8 +6835,8 @@
     "name": "Union St",
     "slug": "vancouver/union-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-23T16:13:00Z",
-    "count": 4
+    "lastIncident": "2026-06-03T04:28:00Z",
+    "count": 6
   },
   "west-vancouver/chairlift-rd": {
     "name": "Chairlift Rd",
@@ -8655,8 +8655,8 @@
     "name": "67a Ave",
     "slug": "surrey/67a-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-18T01:39:00Z",
-    "count": 2
+    "lastIncident": "2026-06-03T04:09:00Z",
+    "count": 3
   },
   "maple-ridge/266th-st": {
     "name": "266th St",
@@ -11274,6 +11274,20 @@
     "slug": "maple-ridge/golden-ears-park-rd",
     "city": "Maple Ridge",
     "lastIncident": "2026-06-03T00:08:00Z",
+    "count": 1
+  },
+  "delta/47th-ave": {
+    "name": "47th Ave",
+    "slug": "delta/47th-ave",
+    "city": "Delta",
+    "lastIncident": "2026-06-03T04:22:00Z",
+    "count": 1
+  },
+  "delta/arthur-dr": {
+    "name": "Arthur Dr",
+    "slug": "delta/arthur-dr",
+    "city": "Delta",
+    "lastIncident": "2026-06-03T04:22:00Z",
     "count": 1
   }
 }

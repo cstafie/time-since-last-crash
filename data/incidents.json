@@ -1,5 +1,85 @@
 [
   {
+    "id": "2026-06-03T04:55:00Z_surrey/32nd-ave_surrey/176th-st",
+    "timestamp": "2026-06-03T04:55:00Z",
+    "scrapedAt": "2026-06-03T05:08:49Z",
+    "address": "32ND AVE & 176TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/32nd-ave",
+      "surrey/176th-st"
+    ],
+    "streetNames": [
+      "32nd Ave",
+      "176th St"
+    ],
+    "pulsePointId": "2488122189"
+  },
+  {
+    "id": "2026-06-03T04:28:00Z_vancouver/main-st_vancouver/union-st",
+    "timestamp": "2026-06-03T04:28:00Z",
+    "scrapedAt": "2026-06-03T05:08:49Z",
+    "address": "MAIN ST & UNION ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st",
+      "vancouver/union-st"
+    ],
+    "streetNames": [
+      "Main St",
+      "Union St"
+    ],
+    "pulsePointId": "2488111616"
+  },
+  {
+    "id": "2026-06-03T04:27:00Z_vancouver/union-st_vancouver/main-st",
+    "timestamp": "2026-06-03T04:27:00Z",
+    "scrapedAt": "2026-06-03T05:08:49Z",
+    "address": "UNION ST & MAIN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/union-st",
+      "vancouver/main-st"
+    ],
+    "streetNames": [
+      "Union St",
+      "Main St"
+    ],
+    "pulsePointId": "2488111547"
+  },
+  {
+    "id": "2026-06-03T04:22:00Z_delta/47th-ave_delta/arthur-dr",
+    "timestamp": "2026-06-03T04:22:00Z",
+    "scrapedAt": "2026-06-03T05:08:49Z",
+    "address": "47TH AVE & ARTHUR DR",
+    "city": "Delta",
+    "streets": [
+      "delta/47th-ave",
+      "delta/arthur-dr"
+    ],
+    "streetNames": [
+      "47th Ave",
+      "Arthur Dr"
+    ],
+    "pulsePointId": "2488108654"
+  },
+  {
+    "id": "2026-06-03T04:09:00Z_surrey/144th-st_surrey/67a-ave",
+    "timestamp": "2026-06-03T04:09:00Z",
+    "scrapedAt": "2026-06-03T05:08:49Z",
+    "address": "144TH ST & 67A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/144th-st",
+      "surrey/67a-ave"
+    ],
+    "streetNames": [
+      "144th St",
+      "67a Ave"
+    ],
+    "pulsePointId": "2488101514"
+  },
+  {
     "id": "2026-06-03T02:28:00Z_vancouver/e-1st-ave_vancouver/boundary-rd",
     "timestamp": "2026-06-03T02:28:00Z",
     "scrapedAt": "2026-06-03T03:01:04Z",

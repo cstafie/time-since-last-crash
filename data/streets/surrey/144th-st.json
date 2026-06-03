@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-03T04:09:00Z_surrey/144th-st_surrey/67a-ave",
+      "timestamp": "2026-06-03T04:09:00Z",
+      "address": "144TH ST & 67A AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/144th-st",
+        "surrey/67a-ave"
+      ],
+      "streetNames": [
+        "144th St",
+        "67a Ave"
+      ],
+      "pulsePointId": "2488101514"
+    },
+    {
       "id": "2026-05-31T09:54:00Z_surrey/108th-ave_surrey/144th-st",
       "timestamp": "2026-05-31T09:54:00Z",
       "address": "108TH AVE & 144TH ST",
@@ -376,6 +391,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-31T09:54:00Z",
-  "count": 25
+  "lastIncident": "2026-06-03T04:09:00Z",
+  "count": 26
 }
