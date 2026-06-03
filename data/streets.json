@@ -1256,15 +1256,15 @@
     "name": "E 1st Ave",
     "slug": "vancouver/e-1st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-26T02:25:00Z",
-    "count": 9
+    "lastIncident": "2026-06-03T02:28:00Z",
+    "count": 10
   },
   "vancouver/boundary-rd": {
     "name": "Boundary Rd",
     "slug": "vancouver/boundary-rd",
     "city": "Vancouver",
-    "lastIncident": "2026-05-25T23:24:00Z",
-    "count": 16
+    "lastIncident": "2026-06-03T02:28:00Z",
+    "count": 17
   },
   "surrey/langley-bps": {
     "name": "Langley Bps",
@@ -9628,8 +9628,8 @@
     "name": "Fern Cres",
     "slug": "maple-ridge/fern-cres",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-15T06:34:00Z",
-    "count": 1
+    "lastIncident": "2026-06-03T02:16:00Z",
+    "count": 2
   },
   "vancouver/comox-st": {
     "name": "Comox St",
