@@ -11338,5 +11338,33 @@
     "city": "Surrey",
     "lastIncident": "2026-06-03T14:58:00Z",
     "count": 1
+  },
+  "surrey/grosvenor-rd": {
+    "name": "Grosvenor Rd",
+    "slug": "surrey/grosvenor-rd",
+    "city": "Surrey",
+    "lastIncident": "2026-06-03T18:32:00Z",
+    "count": 1
+  },
+  "surrey/currie-dr": {
+    "name": "Currie Dr",
+    "slug": "surrey/currie-dr",
+    "city": "Surrey",
+    "lastIncident": "2026-06-03T18:32:00Z",
+    "count": 1
+  },
+  "vancouver/balsam-st": {
+    "name": "Balsam St",
+    "slug": "vancouver/balsam-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-03T18:24:00Z",
+    "count": 1
+  },
+  "vancouver/w-5th-ave": {
+    "name": "W 5th Ave",
+    "slug": "vancouver/w-5th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-03T18:24:00Z",
+    "count": 1
   }
 }

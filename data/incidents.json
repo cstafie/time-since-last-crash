@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-03T18:32:00Z_surrey/grosvenor-rd_surrey/currie-dr",
+    "timestamp": "2026-06-03T18:32:00Z",
+    "scrapedAt": "2026-06-03T19:45:30Z",
+    "address": "GROSVENOR RD & CURRIE DR",
+    "city": "Surrey",
+    "streets": [
+      "surrey/grosvenor-rd",
+      "surrey/currie-dr"
+    ],
+    "streetNames": [
+      "Grosvenor Rd",
+      "Currie Dr"
+    ],
+    "pulsePointId": "2488449841"
+  },
+  {
+    "id": "2026-06-03T18:24:00Z_vancouver/balsam-st_vancouver/w-5th-ave",
+    "timestamp": "2026-06-03T18:24:00Z",
+    "scrapedAt": "2026-06-03T19:45:30Z",
+    "address": "BALSAM ST & W 5TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/balsam-st",
+      "vancouver/w-5th-ave"
+    ],
+    "streetNames": [
+      "Balsam St",
+      "W 5th Ave"
+    ],
+    "pulsePointId": "2488443237"
+  },
+  {
     "id": "2026-06-03T18:08:00Z_chilliwack/yale-rd",
     "timestamp": "2026-06-03T18:08:00Z",
     "scrapedAt": "2026-06-03T18:25:53Z",
