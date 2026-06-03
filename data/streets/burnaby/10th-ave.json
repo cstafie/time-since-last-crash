@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-03T00:24:00Z_burnaby/10th-ave_burnaby/kingsway",
+      "timestamp": "2026-06-03T00:24:00Z",
+      "address": "10TH AVE & KINGSWAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/10th-ave",
+        "burnaby/kingsway"
+      ],
+      "streetNames": [
+        "10th Ave",
+        "Kingsway"
+      ],
+      "pulsePointId": "2487977062"
+    },
+    {
       "id": "2026-04-22T04:09:00Z_burnaby/10th-ave_burnaby/8th-st",
       "timestamp": "2026-04-22T04:09:00Z",
       "address": "10TH AVE & 8TH ST",
@@ -63,6 +78,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-22T04:09:00Z",
-  "count": 4
+  "lastIncident": "2026-06-03T00:24:00Z",
+  "count": 5
 }

@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-03T00:24:00Z_burnaby/10th-ave_burnaby/kingsway",
+    "timestamp": "2026-06-03T00:24:00Z",
+    "scrapedAt": "2026-06-03T01:34:35Z",
+    "address": "10TH AVE & KINGSWAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/10th-ave",
+      "burnaby/kingsway"
+    ],
+    "streetNames": [
+      "10th Ave",
+      "Kingsway"
+    ],
+    "pulsePointId": "2487977062"
+  },
+  {
+    "id": "2026-06-03T00:08:00Z_maple-ridge/golden-ears-park-rd",
+    "timestamp": "2026-06-03T00:08:00Z",
+    "scrapedAt": "2026-06-03T01:34:35Z",
+    "address": "GOLDEN EARS PARK RD",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/golden-ears-park-rd"
+    ],
+    "streetNames": [
+      "Golden Ears Park Rd"
+    ],
+    "pulsePointId": "2487967318"
+  },
+  {
     "id": "2026-06-02T23:59:00Z_delta/hoskins-st",
     "timestamp": "2026-06-02T23:59:00Z",
     "scrapedAt": "2026-06-03T00:03:59Z",

@@ -1466,15 +1466,15 @@
     "name": "10th Ave",
     "slug": "burnaby/10th-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-04-22T04:09:00Z",
-    "count": 4
+    "lastIncident": "2026-06-03T00:24:00Z",
+    "count": 5
   },
   "burnaby/kingsway": {
     "name": "Kingsway",
     "slug": "burnaby/kingsway",
     "city": "Burnaby",
-    "lastIncident": "2026-05-31T13:15:00Z",
-    "count": 15
+    "lastIncident": "2026-06-03T00:24:00Z",
+    "count": 16
   },
   "burnaby/gilley-ave": {
     "name": "Gilley Ave",
@@ -11267,6 +11267,13 @@
     "slug": "vancouver/e-5th-ave",
     "city": "Vancouver",
     "lastIncident": "2026-06-02T23:31:00Z",
+    "count": 1
+  },
+  "maple-ridge/golden-ears-park-rd": {
+    "name": "Golden Ears Park Rd",
+    "slug": "maple-ridge/golden-ears-park-rd",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-06-03T00:08:00Z",
     "count": 1
   }
 }
