@@ -1,0 +1,22 @@
+{
+  "slug": "langley/golden-ears-brdg",
+  "name": "Golden Ears Brdg",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-06-03T21:33:00Z_langley/golden-ears-brdg",
+      "timestamp": "2026-06-03T21:33:00Z",
+      "address": "GOLDEN EARS BRDG",
+      "city": "Langley",
+      "streets": [
+        "langley/golden-ears-brdg"
+      ],
+      "streetNames": [
+        "Golden Ears Brdg"
+      ],
+      "pulsePointId": "2488582799"
+    }
+  ],
+  "lastIncident": "2026-06-03T21:33:00Z",
+  "count": 1
+}

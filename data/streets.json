@@ -1102,8 +1102,8 @@
     "name": "200th St",
     "slug": "langley/200th-st",
     "city": "Langley",
-    "lastIncident": "2026-05-27T05:25:00Z",
-    "count": 29
+    "lastIncident": "2026-06-03T21:19:00Z",
+    "count": 30
   },
   "abbotsford/downes-rd": {
     "name": "Downes Rd",
@@ -11365,6 +11365,13 @@
     "slug": "vancouver/w-5th-ave",
     "city": "Vancouver",
     "lastIncident": "2026-06-03T18:24:00Z",
+    "count": 1
+  },
+  "langley/golden-ears-brdg": {
+    "name": "Golden Ears Brdg",
+    "slug": "langley/golden-ears-brdg",
+    "city": "Langley",
+    "lastIncident": "2026-06-03T21:33:00Z",
     "count": 1
   }
 }
