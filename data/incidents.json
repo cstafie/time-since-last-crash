@@ -1,5 +1,79 @@
 [
   {
+    "id": "2026-06-02T23:59:00Z_delta/hoskins-st",
+    "timestamp": "2026-06-02T23:59:00Z",
+    "scrapedAt": "2026-06-03T00:03:59Z",
+    "address": "HOSKINS ST",
+    "city": "Delta",
+    "streets": [
+      "delta/hoskins-st"
+    ],
+    "streetNames": [
+      "Hoskins St"
+    ],
+    "pulsePointId": "2487961435"
+  },
+  {
+    "id": "2026-06-02T23:48:00Z_surrey/58th-ave",
+    "timestamp": "2026-06-02T23:48:00Z",
+    "scrapedAt": "2026-06-03T00:03:59Z",
+    "address": "58TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/58th-ave"
+    ],
+    "streetNames": [
+      "58th Ave"
+    ],
+    "pulsePointId": "2487953653"
+  },
+  {
+    "id": "2026-06-02T23:37:00Z_abbotsford/townline-rd_abbotsford/wheel-ave",
+    "timestamp": "2026-06-02T23:37:00Z",
+    "scrapedAt": "2026-06-03T00:03:59Z",
+    "address": "TOWNLINE RD & WHEEL AVE",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/townline-rd",
+      "abbotsford/wheel-ave"
+    ],
+    "streetNames": [
+      "Townline Rd",
+      "Wheel Ave"
+    ],
+    "pulsePointId": "2487945555"
+  },
+  {
+    "id": "2026-06-02T23:31:00Z_vancouver/e-5th-ave_vancouver/rupert-st",
+    "timestamp": "2026-06-02T23:31:00Z",
+    "scrapedAt": "2026-06-03T00:03:59Z",
+    "address": "E 5TH AVE & RUPERT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-5th-ave",
+      "vancouver/rupert-st"
+    ],
+    "streetNames": [
+      "E 5th Ave",
+      "Rupert St"
+    ],
+    "pulsePointId": "2487941133"
+  },
+  {
+    "id": "2026-06-02T23:22:00Z_maple-ridge/lougheed-hwy",
+    "timestamp": "2026-06-02T23:22:00Z",
+    "scrapedAt": "2026-06-03T00:03:59Z",
+    "address": "LOUGHEED HWY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2487935875"
+  },
+  {
     "id": "2026-06-02T22:51:00Z_surrey/king-george-blvd",
     "timestamp": "2026-06-02T22:51:00Z",
     "scrapedAt": "2026-06-02T23:07:48Z",

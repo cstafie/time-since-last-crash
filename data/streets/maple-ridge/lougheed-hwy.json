@@ -4,6 +4,19 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-06-02T23:22:00Z_maple-ridge/lougheed-hwy",
+      "timestamp": "2026-06-02T23:22:00Z",
+      "address": "LOUGHEED HWY",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/lougheed-hwy"
+      ],
+      "streetNames": [
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2487935875"
+    },
+    {
       "id": "2026-06-01T16:24:00Z_maple-ridge/lougheed-hwy_maple-ridge/laity-st",
       "timestamp": "2026-06-01T16:24:00Z",
       "address": "LOUGHEED HWY & LAITY ST",
@@ -384,6 +397,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-01T16:24:00Z",
-  "count": 26
+  "lastIncident": "2026-06-02T23:22:00Z",
+  "count": 27
 }

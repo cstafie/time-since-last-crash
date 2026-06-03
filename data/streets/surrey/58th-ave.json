@@ -4,6 +4,19 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-02T23:48:00Z_surrey/58th-ave",
+      "timestamp": "2026-06-02T23:48:00Z",
+      "address": "58TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/58th-ave"
+      ],
+      "streetNames": [
+        "58th Ave"
+      ],
+      "pulsePointId": "2487953653"
+    },
+    {
       "id": "2026-05-31T00:48:00Z_surrey/177b-st_surrey/58th-ave",
       "timestamp": "2026-05-31T00:48:00Z",
       "address": "177B ST & 58TH AVE",
@@ -137,6 +150,6 @@
       "pulsePointId": "2432854804"
     }
   ],
-  "lastIncident": "2026-05-31T00:48:00Z",
-  "count": 9
+  "lastIncident": "2026-06-02T23:48:00Z",
+  "count": 10
 }

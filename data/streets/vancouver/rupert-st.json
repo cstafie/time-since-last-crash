@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-02T23:31:00Z_vancouver/e-5th-ave_vancouver/rupert-st",
+      "timestamp": "2026-06-02T23:31:00Z",
+      "address": "E 5TH AVE & RUPERT ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-5th-ave",
+        "vancouver/rupert-st"
+      ],
+      "streetNames": [
+        "E 5th Ave",
+        "Rupert St"
+      ],
+      "pulsePointId": "2487941133"
+    },
+    {
       "id": "2026-05-27T16:43:00Z_vancouver/kingsway_vancouver/rupert-st",
       "timestamp": "2026-05-27T16:43:00Z",
       "address": "KINGSWAY & RUPERT ST",
@@ -150,6 +165,6 @@
       "pulsePointId": "2434824658"
     }
   ],
-  "lastIncident": "2026-05-27T16:43:00Z",
-  "count": 10
+  "lastIncident": "2026-06-02T23:31:00Z",
+  "count": 11
 }

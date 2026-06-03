@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-02T23:37:00Z_abbotsford/townline-rd_abbotsford/wheel-ave",
+      "timestamp": "2026-06-02T23:37:00Z",
+      "address": "TOWNLINE RD & WHEEL AVE",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/townline-rd",
+        "abbotsford/wheel-ave"
+      ],
+      "streetNames": [
+        "Townline Rd",
+        "Wheel Ave"
+      ],
+      "pulsePointId": "2487945555"
+    },
+    {
       "id": "2026-05-28T00:35:00Z_abbotsford/upper-maclure-rd_abbotsford/townline-rd",
       "timestamp": "2026-05-28T00:35:00Z",
       "address": "UPPER MACLURE RD & TOWNLINE RD",
@@ -108,6 +123,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-28T00:35:00Z",
-  "count": 7
+  "lastIncident": "2026-06-02T23:37:00Z",
+  "count": 8
 }
