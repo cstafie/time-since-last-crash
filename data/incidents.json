@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-03T14:28:00Z_surrey/64th-ave_surrey/128th-st",
+    "timestamp": "2026-06-03T14:28:00Z",
+    "scrapedAt": "2026-06-03T14:31:13Z",
+    "address": "64TH AVE & 128TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/64th-ave",
+      "surrey/128th-st"
+    ],
+    "streetNames": [
+      "64th Ave",
+      "128th St"
+    ],
+    "pulsePointId": "2488297028"
+  },
+  {
     "id": "2026-06-03T05:58:00Z_burnaby/arden-ave_burnaby/woodhurst-dr",
     "timestamp": "2026-06-03T05:58:00Z",
     "scrapedAt": "2026-06-03T07:07:37Z",
