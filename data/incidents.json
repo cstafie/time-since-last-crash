@@ -1,5 +1,81 @@
 [
   {
+    "id": "2026-06-03T18:08:00Z_chilliwack/yale-rd",
+    "timestamp": "2026-06-03T18:08:00Z",
+    "scrapedAt": "2026-06-03T18:25:53Z",
+    "address": "YALE RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/yale-rd"
+    ],
+    "streetNames": [
+      "Yale Rd"
+    ],
+    "pulsePointId": "2488433356"
+  },
+  {
+    "id": "2026-06-03T18:02:00Z_vancouver/e-broadway_vancouver/commercial-dr",
+    "timestamp": "2026-06-03T18:02:00Z",
+    "scrapedAt": "2026-06-03T18:25:53Z",
+    "address": "E BROADWAY & COMMERCIAL DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-broadway",
+      "vancouver/commercial-dr"
+    ],
+    "streetNames": [
+      "E Broadway",
+      "Commercial Dr"
+    ],
+    "pulsePointId": "2488427759"
+  },
+  {
+    "id": "2026-06-03T17:33:00Z_langley/langley-bps",
+    "timestamp": "2026-06-03T17:33:00Z",
+    "scrapedAt": "2026-06-03T18:25:53Z",
+    "address": "LANGLEY BPS",
+    "city": "Langley",
+    "streets": [
+      "langley/langley-bps"
+    ],
+    "streetNames": [
+      "Langley Bps"
+    ],
+    "pulsePointId": "2488406653"
+  },
+  {
+    "id": "2026-06-03T17:33:00Z_surrey/king-george-blvd_surrey/94a-ave",
+    "timestamp": "2026-06-03T17:33:00Z",
+    "scrapedAt": "2026-06-03T18:25:53Z",
+    "address": "KING GEORGE BLVD & 94A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/94a-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "94a Ave"
+    ],
+    "pulsePointId": "2488406644"
+  },
+  {
+    "id": "2026-06-03T17:08:00Z_vancouver/e-41st-ave_vancouver/gladstone-st",
+    "timestamp": "2026-06-03T17:08:00Z",
+    "scrapedAt": "2026-06-03T18:25:53Z",
+    "address": "E 41ST AVE & GLADSTONE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-41st-ave",
+      "vancouver/gladstone-st"
+    ],
+    "streetNames": [
+      "E 41st Ave",
+      "Gladstone St"
+    ],
+    "pulsePointId": "2488391936"
+  },
+  {
     "id": "2026-06-03T16:21:00Z_vancouver/e-41st-ave_vancouver/victoria-dr",
     "timestamp": "2026-06-03T16:21:00Z",
     "scrapedAt": "2026-06-03T16:30:59Z",

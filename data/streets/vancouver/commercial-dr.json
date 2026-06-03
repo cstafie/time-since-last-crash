@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-03T18:02:00Z_vancouver/e-broadway_vancouver/commercial-dr",
+      "timestamp": "2026-06-03T18:02:00Z",
+      "address": "E BROADWAY & COMMERCIAL DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-broadway",
+        "vancouver/commercial-dr"
+      ],
+      "streetNames": [
+        "E Broadway",
+        "Commercial Dr"
+      ],
+      "pulsePointId": "2488427759"
+    },
+    {
       "id": "2026-04-19T17:39:00Z_vancouver/commercial-dr_vancouver/e-12th-ave",
       "timestamp": "2026-04-19T17:39:00Z",
       "address": "COMMERCIAL DR & E 12TH AVE",
@@ -79,6 +94,6 @@
       "pulsePointId": "2434378699"
     }
   ],
-  "lastIncident": "2026-04-19T17:39:00Z",
-  "count": 5
+  "lastIncident": "2026-06-03T18:02:00Z",
+  "count": 6
 }

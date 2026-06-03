@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-03T17:08:00Z_vancouver/e-41st-ave_vancouver/gladstone-st",
+      "timestamp": "2026-06-03T17:08:00Z",
+      "address": "E 41ST AVE & GLADSTONE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-41st-ave",
+        "vancouver/gladstone-st"
+      ],
+      "streetNames": [
+        "E 41st Ave",
+        "Gladstone St"
+      ],
+      "pulsePointId": "2488391936"
+    },
+    {
       "id": "2026-06-03T16:21:00Z_vancouver/e-41st-ave_vancouver/victoria-dr",
       "timestamp": "2026-06-03T16:21:00Z",
       "address": "E 41ST AVE & VICTORIA DR",
@@ -421,6 +436,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-03T16:21:00Z",
-  "count": 28
+  "lastIncident": "2026-06-03T17:08:00Z",
+  "count": 29
 }

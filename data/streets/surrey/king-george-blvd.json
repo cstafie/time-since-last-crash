@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-03T17:33:00Z_surrey/king-george-blvd_surrey/94a-ave",
+      "timestamp": "2026-06-03T17:33:00Z",
+      "address": "KING GEORGE BLVD & 94A AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/king-george-blvd",
+        "surrey/94a-ave"
+      ],
+      "streetNames": [
+        "King George Blvd",
+        "94a Ave"
+      ],
+      "pulsePointId": "2488406644"
+    },
+    {
       "id": "2026-06-02T22:51:00Z_surrey/king-george-blvd",
       "timestamp": "2026-06-02T22:51:00Z",
       "address": "KING GEORGE BLVD",
@@ -846,6 +861,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-02T22:51:00Z",
-  "count": 58
+  "lastIncident": "2026-06-03T17:33:00Z",
+  "count": 59
 }
