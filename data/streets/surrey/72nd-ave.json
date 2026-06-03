@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-03T15:57:00Z_surrey/130th-st_surrey/72nd-ave",
+      "timestamp": "2026-06-03T15:57:00Z",
+      "address": "130TH ST & 72ND AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/130th-st",
+        "surrey/72nd-ave"
+      ],
+      "streetNames": [
+        "130th St",
+        "72nd Ave"
+      ],
+      "pulsePointId": "2488349228"
+    },
+    {
       "id": "2026-05-27T03:36:00Z_surrey/72nd-ave_surrey/130th-st",
       "timestamp": "2026-05-27T03:36:00Z",
       "address": "72ND AVE & 130TH ST",
@@ -212,6 +227,6 @@
       "pulsePointId": "2444536491"
     }
   ],
-  "lastIncident": "2026-05-27T03:36:00Z",
-  "count": 14
+  "lastIncident": "2026-06-03T15:57:00Z",
+  "count": 15
 }

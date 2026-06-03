@@ -1,5 +1,69 @@
 [
   {
+    "id": "2026-06-03T16:21:00Z_vancouver/e-41st-ave_vancouver/victoria-dr",
+    "timestamp": "2026-06-03T16:21:00Z",
+    "scrapedAt": "2026-06-03T16:30:59Z",
+    "address": "E 41ST AVE & VICTORIA DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-41st-ave",
+      "vancouver/victoria-dr"
+    ],
+    "streetNames": [
+      "E 41st Ave",
+      "Victoria Dr"
+    ],
+    "pulsePointId": "2488362541"
+  },
+  {
+    "id": "2026-06-03T16:13:00Z_vancouver/see-em-ia-lane_vancouver/thurlow-st",
+    "timestamp": "2026-06-03T16:13:00Z",
+    "scrapedAt": "2026-06-03T16:30:59Z",
+    "address": "SEE EM IA LANE & THURLOW ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/see-em-ia-lane",
+      "vancouver/thurlow-st"
+    ],
+    "streetNames": [
+      "See Em Ia Lane",
+      "Thurlow St"
+    ],
+    "pulsePointId": "2488358250"
+  },
+  {
+    "id": "2026-06-03T15:57:00Z_surrey/130th-st_surrey/72nd-ave",
+    "timestamp": "2026-06-03T15:57:00Z",
+    "scrapedAt": "2026-06-03T16:30:59Z",
+    "address": "130TH ST & 72ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/130th-st",
+      "surrey/72nd-ave"
+    ],
+    "streetNames": [
+      "130th St",
+      "72nd Ave"
+    ],
+    "pulsePointId": "2488349228"
+  },
+  {
+    "id": "2026-06-03T14:58:00Z_surrey/164th-st_surrey/29a-ave",
+    "timestamp": "2026-06-03T14:58:00Z",
+    "scrapedAt": "2026-06-03T16:30:59Z",
+    "address": "164TH ST & 29A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/164th-st",
+      "surrey/29a-ave"
+    ],
+    "streetNames": [
+      "164th St",
+      "29a Ave"
+    ],
+    "pulsePointId": "2488314287"
+  },
+  {
     "id": "2026-06-03T14:28:00Z_surrey/64th-ave_surrey/128th-st",
     "timestamp": "2026-06-03T14:28:00Z",
     "scrapedAt": "2026-06-03T14:31:13Z",

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-03T16:13:00Z_vancouver/see-em-ia-lane_vancouver/thurlow-st",
+      "timestamp": "2026-06-03T16:13:00Z",
+      "address": "SEE EM IA LANE & THURLOW ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/see-em-ia-lane",
+        "vancouver/thurlow-st"
+      ],
+      "streetNames": [
+        "See Em Ia Lane",
+        "Thurlow St"
+      ],
+      "pulsePointId": "2488358250"
+    },
+    {
       "id": "2026-05-23T02:17:00Z_vancouver/thurlow-st_vancouver/pacific-st",
       "timestamp": "2026-05-23T02:17:00Z",
       "address": "THURLOW ST & PACIFIC ST",
@@ -49,6 +64,6 @@
       "pulsePointId": "2445720348"
     }
   ],
-  "lastIncident": "2026-05-23T02:17:00Z",
-  "count": 3
+  "lastIncident": "2026-06-03T16:13:00Z",
+  "count": 4
 }

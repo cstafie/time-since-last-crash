@@ -717,8 +717,8 @@
     "name": "E 41st Ave",
     "slug": "vancouver/e-41st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-26T00:12:00Z",
-    "count": 27
+    "lastIncident": "2026-06-03T16:21:00Z",
+    "count": 28
   },
   "vancouver/granville-st": {
     "name": "Granville St",
@@ -3076,8 +3076,8 @@
     "name": "Victoria Dr",
     "slug": "vancouver/victoria-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-05-27T00:37:00Z",
-    "count": 16
+    "lastIncident": "2026-06-03T16:21:00Z",
+    "count": 17
   },
   "vancouver/e-60th-ave": {
     "name": "E 60th Ave",
@@ -3139,8 +3139,8 @@
     "name": "164th St",
     "slug": "surrey/164th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-29T23:02:00Z",
-    "count": 5
+    "lastIncident": "2026-06-03T14:58:00Z",
+    "count": 6
   },
   "burnaby/kensington-avenue-ofrp": {
     "name": "Kensington Avenue Ofrp",
@@ -4518,8 +4518,8 @@
     "name": "72nd Ave",
     "slug": "surrey/72nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-27T03:36:00Z",
-    "count": 14
+    "lastIncident": "2026-06-03T15:57:00Z",
+    "count": 15
   },
   "abbotsford/laurel-st": {
     "name": "Laurel St",
@@ -4798,8 +4798,8 @@
     "name": "Thurlow St",
     "slug": "vancouver/thurlow-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-23T02:17:00Z",
-    "count": 3
+    "lastIncident": "2026-06-03T16:13:00Z",
+    "count": 4
   },
   "vancouver/maxine-lane": {
     "name": "Maxine Lane",
@@ -5547,8 +5547,8 @@
     "name": "130th St",
     "slug": "surrey/130th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-28T01:11:00Z",
-    "count": 10
+    "lastIncident": "2026-06-03T15:57:00Z",
+    "count": 11
   },
   "vancouver/windermere-st": {
     "name": "Windermere St",
@@ -11324,5 +11324,19 @@
     "city": "Richmond",
     "lastIncident": "2026-06-03T05:35:00Z",
     "count": 2
+  },
+  "vancouver/see-em-ia-lane": {
+    "name": "See Em Ia Lane",
+    "slug": "vancouver/see-em-ia-lane",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-03T16:13:00Z",
+    "count": 1
+  },
+  "surrey/29a-ave": {
+    "name": "29a Ave",
+    "slug": "surrey/29a-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-06-03T14:58:00Z",
+    "count": 1
   }
 }

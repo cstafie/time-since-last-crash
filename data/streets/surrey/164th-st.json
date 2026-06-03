@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-03T14:58:00Z_surrey/164th-st_surrey/29a-ave",
+      "timestamp": "2026-06-03T14:58:00Z",
+      "address": "164TH ST & 29A AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/164th-st",
+        "surrey/29a-ave"
+      ],
+      "streetNames": [
+        "164th St",
+        "29a Ave"
+      ],
+      "pulsePointId": "2488314287"
+    },
+    {
       "id": "2026-05-29T23:02:00Z_surrey/164th-st",
       "timestamp": "2026-05-29T23:02:00Z",
       "address": "164TH ST",
@@ -77,6 +92,6 @@
       "pulsePointId": "2437646387"
     }
   ],
-  "lastIncident": "2026-05-29T23:02:00Z",
-  "count": 5
+  "lastIncident": "2026-06-03T14:58:00Z",
+  "count": 6
 }
