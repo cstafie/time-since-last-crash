@@ -1,5 +1,99 @@
 [
   {
+    "id": "2026-06-03T05:58:00Z_burnaby/arden-ave_burnaby/woodhurst-dr",
+    "timestamp": "2026-06-03T05:58:00Z",
+    "scrapedAt": "2026-06-03T07:07:37Z",
+    "address": "ARDEN AVE & WOODHURST DR",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/arden-ave",
+      "burnaby/woodhurst-dr"
+    ],
+    "streetNames": [
+      "Arden Ave",
+      "Woodhurst Dr"
+    ],
+    "pulsePointId": "2488146877"
+  },
+  {
+    "id": "2026-06-03T05:40:00Z_vancouver/penticton-st_vancouver/grant-st",
+    "timestamp": "2026-06-03T05:40:00Z",
+    "scrapedAt": "2026-06-03T07:07:37Z",
+    "address": "PENTICTON ST & GRANT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/penticton-st",
+      "vancouver/grant-st"
+    ],
+    "streetNames": [
+      "Penticton St",
+      "Grant St"
+    ],
+    "pulsePointId": "2488139360"
+  },
+  {
+    "id": "2026-06-03T05:35:00Z_richmond/aviation-ave_richmond/miller-rd",
+    "timestamp": "2026-06-03T05:35:00Z",
+    "scrapedAt": "2026-06-03T07:07:37Z",
+    "address": "AVIATION AVE & MILLER RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/aviation-ave",
+      "richmond/miller-rd"
+    ],
+    "streetNames": [
+      "Aviation Ave",
+      "Miller Rd"
+    ],
+    "pulsePointId": "2488137740"
+  },
+  {
+    "id": "2026-06-03T05:30:00Z_richmond/grant-mcconachie-way_richmond/aviation-ave",
+    "timestamp": "2026-06-03T05:30:00Z",
+    "scrapedAt": "2026-06-03T07:07:37Z",
+    "address": "GRANT MCCONACHIE WAY & AVIATION AVE",
+    "city": "Richmond",
+    "streets": [
+      "richmond/grant-mcconachie-way",
+      "richmond/aviation-ave"
+    ],
+    "streetNames": [
+      "Grant Mcconachie Way",
+      "Aviation Ave"
+    ],
+    "pulsePointId": "2488136117"
+  },
+  {
+    "id": "2026-06-03T05:20:00Z_vancouver/grandview-hwy_vancouver/rupert-st",
+    "timestamp": "2026-06-03T05:20:00Z",
+    "scrapedAt": "2026-06-03T07:07:37Z",
+    "address": "GRANDVIEW HWY & RUPERT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/grandview-hwy",
+      "vancouver/rupert-st"
+    ],
+    "streetNames": [
+      "Grandview Hwy",
+      "Rupert St"
+    ],
+    "pulsePointId": "2488132475"
+  },
+  {
+    "id": "2026-06-03T05:09:00Z_delta/hwy-17a",
+    "timestamp": "2026-06-03T05:09:00Z",
+    "scrapedAt": "2026-06-03T07:07:37Z",
+    "address": "HWY 17A",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-17a"
+    ],
+    "streetNames": [
+      "Hwy 17a"
+    ],
+    "pulsePointId": "2488128501"
+  },
+  {
     "id": "2026-06-03T04:55:00Z_surrey/32nd-ave_surrey/176th-st",
     "timestamp": "2026-06-03T04:55:00Z",
     "scrapedAt": "2026-06-03T05:08:49Z",

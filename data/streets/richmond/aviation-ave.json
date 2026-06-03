@@ -1,6 +1,6 @@
 {
-  "slug": "richmond/miller-rd",
-  "name": "Miller Rd",
+  "slug": "richmond/aviation-ave",
+  "name": "Aviation Ave",
   "city": "Richmond",
   "incidents": [
     {
@@ -19,17 +19,19 @@
       "pulsePointId": "2488137740"
     },
     {
-      "id": "2026-04-29T22:43:00Z_richmond/miller-rd",
-      "timestamp": "2026-04-29T22:43:00Z",
-      "address": "MILLER RD",
+      "id": "2026-06-03T05:30:00Z_richmond/grant-mcconachie-way_richmond/aviation-ave",
+      "timestamp": "2026-06-03T05:30:00Z",
+      "address": "GRANT MCCONACHIE WAY & AVIATION AVE",
       "city": "Richmond",
       "streets": [
-        "richmond/miller-rd"
+        "richmond/grant-mcconachie-way",
+        "richmond/aviation-ave"
       ],
       "streetNames": [
-        "Miller Rd"
+        "Grant Mcconachie Way",
+        "Aviation Ave"
       ],
-      "pulsePointId": "2464115969"
+      "pulsePointId": "2488136117"
     }
   ],
   "lastIncident": "2026-06-03T05:35:00Z",

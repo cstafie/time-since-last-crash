@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-06-03T05:30:00Z_richmond/grant-mcconachie-way_richmond/aviation-ave",
+      "timestamp": "2026-06-03T05:30:00Z",
+      "address": "GRANT MCCONACHIE WAY & AVIATION AVE",
+      "city": "Richmond",
+      "streets": [
+        "richmond/grant-mcconachie-way",
+        "richmond/aviation-ave"
+      ],
+      "streetNames": [
+        "Grant Mcconachie Way",
+        "Aviation Ave"
+      ],
+      "pulsePointId": "2488136117"
+    },
+    {
       "id": "2026-05-18T20:08:00Z_richmond/grant-mcconachie-way",
       "timestamp": "2026-05-18T20:08:00Z",
       "address": "GRANT MCCONACHIE WAY",
@@ -30,6 +45,6 @@
       "pulsePointId": "2448937172"
     }
   ],
-  "lastIncident": "2026-05-18T20:08:00Z",
-  "count": 2
+  "lastIncident": "2026-06-03T05:30:00Z",
+  "count": 3
 }

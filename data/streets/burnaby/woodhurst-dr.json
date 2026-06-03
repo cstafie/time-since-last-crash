@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/woodhurst-dr",
+  "name": "Woodhurst Dr",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-06-03T05:58:00Z_burnaby/arden-ave_burnaby/woodhurst-dr",
+      "timestamp": "2026-06-03T05:58:00Z",
+      "address": "ARDEN AVE & WOODHURST DR",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/arden-ave",
+        "burnaby/woodhurst-dr"
+      ],
+      "streetNames": [
+        "Arden Ave",
+        "Woodhurst Dr"
+      ],
+      "pulsePointId": "2488146877"
+    }
+  ],
+  "lastIncident": "2026-06-03T05:58:00Z",
+  "count": 1
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/grant-st",
+  "name": "Grant St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-03T05:40:00Z_vancouver/penticton-st_vancouver/grant-st",
+      "timestamp": "2026-06-03T05:40:00Z",
+      "address": "PENTICTON ST & GRANT ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/penticton-st",
+        "vancouver/grant-st"
+      ],
+      "streetNames": [
+        "Penticton St",
+        "Grant St"
+      ],
+      "pulsePointId": "2488139360"
+    }
+  ],
+  "lastIncident": "2026-06-03T05:40:00Z",
+  "count": 1
+}
