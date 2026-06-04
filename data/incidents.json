@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-04T10:04:00Z_maple-ridge/280th-st",
+    "timestamp": "2026-06-04T10:04:00Z",
+    "scrapedAt": "2026-06-04T10:15:39Z",
+    "address": "280TH ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/280th-st"
+    ],
+    "streetNames": [
+      "280th St"
+    ],
+    "pulsePointId": "2488948512"
+  },
+  {
     "id": "2026-06-04T07:33:00Z_vancouver/e-kent-ave-n_vancouver/crompton-st",
     "timestamp": "2026-06-04T07:33:00Z",
     "scrapedAt": "2026-06-04T08:32:52Z",
