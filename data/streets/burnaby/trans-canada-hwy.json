@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-03T23:31:00Z_burnaby/trans-canada-hwy",
+      "timestamp": "2026-06-03T23:31:00Z",
+      "address": "TRANS CANADA HWY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2488668010"
+    },
+    {
       "id": "2026-06-01T15:14:00Z_burnaby/trans-canada-hwy",
       "timestamp": "2026-06-01T15:14:00Z",
       "address": "TRANS CANADA HWY",
@@ -333,6 +346,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-01T15:14:00Z",
-  "count": 24
+  "lastIncident": "2026-06-03T23:31:00Z",
+  "count": 25
 }

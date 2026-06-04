@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-06-03T23:55:00Z_richmond/westminster-hwy",
+    "timestamp": "2026-06-03T23:55:00Z",
+    "scrapedAt": "2026-06-04T00:04:09Z",
+    "address": "WESTMINSTER HWY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/westminster-hwy"
+    ],
+    "streetNames": [
+      "Westminster Hwy"
+    ],
+    "pulsePointId": "2488686023"
+  },
+  {
+    "id": "2026-06-03T23:42:00Z_richmond/bridgeport-rd_richmond/no-5-rd",
+    "timestamp": "2026-06-03T23:42:00Z",
+    "scrapedAt": "2026-06-04T00:04:09Z",
+    "address": "BRIDGEPORT RD & NO 5 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/bridgeport-rd",
+      "richmond/no-5-rd"
+    ],
+    "streetNames": [
+      "Bridgeport Rd",
+      "No 5 Rd"
+    ],
+    "pulsePointId": "2488678240"
+  },
+  {
+    "id": "2026-06-03T23:31:00Z_burnaby/trans-canada-hwy",
+    "timestamp": "2026-06-03T23:31:00Z",
+    "scrapedAt": "2026-06-04T00:04:09Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2488668010"
+  },
+  {
+    "id": "2026-06-03T23:27:00Z_surrey/188th-st_surrey/80th-ave",
+    "timestamp": "2026-06-03T23:27:00Z",
+    "scrapedAt": "2026-06-04T00:04:09Z",
+    "address": "188TH ST & 80TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/188th-st",
+      "surrey/80th-ave"
+    ],
+    "streetNames": [
+      "188th St",
+      "80th Ave"
+    ],
+    "pulsePointId": "2488667180"
+  },
+  {
     "id": "2026-06-03T22:48:00Z_vancouver/hornby-st_vancouver/nelson-st",
     "timestamp": "2026-06-03T22:48:00Z",
     "scrapedAt": "2026-06-03T23:09:34Z",

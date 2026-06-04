@@ -451,8 +451,8 @@
     "name": "Bridgeport Rd",
     "slug": "richmond/bridgeport-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-19T22:07:00Z",
-    "count": 10
+    "lastIncident": "2026-06-03T23:42:00Z",
+    "count": 11
   },
   "richmond/granville-ave": {
     "name": "Granville Ave",
@@ -990,8 +990,8 @@
     "name": "Westminster Hwy",
     "slug": "richmond/westminster-hwy",
     "city": "Richmond",
-    "lastIncident": "2026-06-01T15:16:00Z",
-    "count": 18
+    "lastIncident": "2026-06-03T23:55:00Z",
+    "count": 19
   },
   "vancouver/e-37th-ave": {
     "name": "E 37th Ave",
@@ -1249,8 +1249,8 @@
     "name": "Trans Canada Hwy",
     "slug": "burnaby/trans-canada-hwy",
     "city": "Burnaby",
-    "lastIncident": "2026-06-01T15:14:00Z",
-    "count": 24
+    "lastIncident": "2026-06-03T23:31:00Z",
+    "count": 25
   },
   "vancouver/e-1st-ave": {
     "name": "E 1st Ave",
@@ -1620,8 +1620,8 @@
     "name": "80th Ave",
     "slug": "surrey/80th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-02T20:11:00Z",
-    "count": 20
+    "lastIncident": "2026-06-03T23:27:00Z",
+    "count": 21
   },
   "surrey/156th-st": {
     "name": "156th St",
@@ -2572,8 +2572,8 @@
     "name": "No 5 Rd",
     "slug": "richmond/no-5-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-29T19:42:00Z",
-    "count": 8
+    "lastIncident": "2026-06-03T23:42:00Z",
+    "count": 9
   },
   "port-moody/heritage-mountain-blvd": {
     "name": "Heritage Mountain Blvd",
@@ -4966,8 +4966,8 @@
     "name": "188th St",
     "slug": "surrey/188th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-02T00:49:00Z",
-    "count": 3
+    "lastIncident": "2026-06-03T23:27:00Z",
+    "count": 4
   },
   "abbotsford/valdes-dr": {
     "name": "Valdes Dr",
