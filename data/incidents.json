@@ -1,5 +1,97 @@
 [
   {
+    "id": "2026-06-04T01:07:00Z_vancouver/w-georgia-st_vancouver/broughton-st",
+    "timestamp": "2026-06-04T01:07:00Z",
+    "scrapedAt": "2026-06-04T01:35:39Z",
+    "address": "W GEORGIA ST & BROUGHTON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-georgia-st",
+      "vancouver/broughton-st"
+    ],
+    "streetNames": [
+      "W Georgia St",
+      "Broughton St"
+    ],
+    "pulsePointId": "2488735042"
+  },
+  {
+    "id": "2026-06-04T00:54:00Z_surrey/122nd-st_surrey/93a-ave",
+    "timestamp": "2026-06-04T00:54:00Z",
+    "scrapedAt": "2026-06-04T01:35:39Z",
+    "address": "122ND ST & 93A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/122nd-st",
+      "surrey/93a-ave"
+    ],
+    "streetNames": [
+      "122nd St",
+      "93a Ave"
+    ],
+    "pulsePointId": "2488725458"
+  },
+  {
+    "id": "2026-06-04T00:35:00Z_delta/hwy-99_delta/hwy-17a-onrp",
+    "timestamp": "2026-06-04T00:35:00Z",
+    "scrapedAt": "2026-06-04T01:35:39Z",
+    "address": "HWY 99 & HWY 17A ONRP",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-99",
+      "delta/hwy-17a-onrp"
+    ],
+    "streetNames": [
+      "Hwy 99",
+      "Hwy 17a Onrp"
+    ],
+    "pulsePointId": "2488712800"
+  },
+  {
+    "id": "2026-06-04T00:35:00Z_north-vancouver/trans-canada-hwy",
+    "timestamp": "2026-06-04T00:35:00Z",
+    "scrapedAt": "2026-06-04T01:35:39Z",
+    "address": "TRANS CANADA HWY",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2488714739"
+  },
+  {
+    "id": "2026-06-04T00:19:00Z_port-moody/moray-st_port-moody/st-johns-st",
+    "timestamp": "2026-06-04T00:19:00Z",
+    "scrapedAt": "2026-06-04T01:35:39Z",
+    "address": "MORAY ST & ST JOHNS ST",
+    "city": "Port Moody",
+    "streets": [
+      "port-moody/moray-st",
+      "port-moody/st-johns-st"
+    ],
+    "streetNames": [
+      "Moray St",
+      "St Johns St"
+    ],
+    "pulsePointId": "2488701486"
+  },
+  {
+    "id": "2026-06-04T00:02:00Z_abbotsford/creekstone-dr",
+    "timestamp": "2026-06-04T00:02:00Z",
+    "scrapedAt": "2026-06-04T01:35:39Z",
+    "address": "CREEKSTONE DR",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/creekstone-dr"
+    ],
+    "streetNames": [
+      "Creekstone Dr"
+    ],
+    "pulsePointId": "2488691930"
+  },
+  {
     "id": "2026-06-03T23:55:00Z_richmond/westminster-hwy",
     "timestamp": "2026-06-03T23:55:00Z",
     "scrapedAt": "2026-06-04T00:04:09Z",
