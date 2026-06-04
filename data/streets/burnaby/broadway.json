@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-04T21:08:00Z_burnaby/broadway",
+      "timestamp": "2026-06-04T21:08:00Z",
+      "address": "BROADWAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/broadway"
+      ],
+      "streetNames": [
+        "Broadway"
+      ],
+      "pulsePointId": "2489300293"
+    },
+    {
       "id": "2026-04-10T21:09:00Z_burnaby/fell-ave_burnaby/broadway",
       "timestamp": "2026-04-10T21:09:00Z",
       "address": "FELL AVE & BROADWAY",
@@ -47,6 +60,6 @@
       "pulsePointId": "2439652648"
     }
   ],
-  "lastIncident": "2026-04-10T21:09:00Z",
-  "count": 3
+  "lastIncident": "2026-06-04T21:08:00Z",
+  "count": 4
 }

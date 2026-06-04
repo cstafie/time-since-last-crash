@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-06-04T21:08:00Z_burnaby/broadway",
+    "timestamp": "2026-06-04T21:08:00Z",
+    "scrapedAt": "2026-06-04T21:29:43Z",
+    "address": "BROADWAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/broadway"
+    ],
+    "streetNames": [
+      "Broadway"
+    ],
+    "pulsePointId": "2489300293"
+  },
+  {
+    "id": "2026-06-04T20:47:00Z_abbotsford/south-fraser-way",
+    "timestamp": "2026-06-04T20:47:00Z",
+    "scrapedAt": "2026-06-04T21:29:43Z",
+    "address": "SOUTH FRASER WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/south-fraser-way"
+    ],
+    "streetNames": [
+      "South Fraser Way"
+    ],
+    "pulsePointId": "2489282460"
+  },
+  {
+    "id": "2026-06-04T20:42:00Z_burnaby/marine-way_burnaby/byrne-rd",
+    "timestamp": "2026-06-04T20:42:00Z",
+    "scrapedAt": "2026-06-04T21:29:43Z",
+    "address": "MARINE WAY & BYRNE RD",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/marine-way",
+      "burnaby/byrne-rd"
+    ],
+    "streetNames": [
+      "Marine Way",
+      "Byrne Rd"
+    ],
+    "pulsePointId": "2489276872"
+  },
+  {
     "id": "2026-06-04T20:34:00Z_surrey/96th-ave_surrey/152nd-st",
     "timestamp": "2026-06-04T20:34:00Z",
     "scrapedAt": "2026-06-04T20:38:31Z",

@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/byrne-rd",
+  "name": "Byrne Rd",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-06-04T20:42:00Z_burnaby/marine-way_burnaby/byrne-rd",
+      "timestamp": "2026-06-04T20:42:00Z",
+      "address": "MARINE WAY & BYRNE RD",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/marine-way",
+        "burnaby/byrne-rd"
+      ],
+      "streetNames": [
+        "Marine Way",
+        "Byrne Rd"
+      ],
+      "pulsePointId": "2489276872"
+    }
+  ],
+  "lastIncident": "2026-06-04T20:42:00Z",
+  "count": 1
+}
