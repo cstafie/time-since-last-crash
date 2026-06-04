@@ -2642,8 +2642,8 @@
     "name": "216th St",
     "slug": "langley/216th-st",
     "city": "Langley",
-    "lastIncident": "2026-06-04T21:31:00Z",
-    "count": 10
+    "lastIncident": "2026-06-04T22:11:00Z",
+    "count": 11
   },
   "surrey/87th-ave": {
     "name": "87th Ave",
@@ -4980,8 +4980,8 @@
     "name": "Glover Rd",
     "slug": "langley/glover-rd",
     "city": "Langley",
-    "lastIncident": "2026-05-01T02:05:00Z",
-    "count": 3
+    "lastIncident": "2026-06-04T22:12:00Z",
+    "count": 5
   },
   "richmond/knight-street-ofrp": {
     "name": "Knight Street Ofrp",
@@ -5141,8 +5141,8 @@
     "name": "Azure Rd",
     "slug": "richmond/azure-rd",
     "city": "Richmond",
-    "lastIncident": "2026-04-03T03:53:00Z",
-    "count": 2
+    "lastIncident": "2026-06-04T22:35:00Z",
+    "count": 3
   },
   "richmond/camsell-cres": {
     "name": "Camsell Cres",
@@ -11449,6 +11449,13 @@
     "slug": "burnaby/byrne-rd",
     "city": "Burnaby",
     "lastIncident": "2026-06-04T20:42:00Z",
+    "count": 1
+  },
+  "richmond/azure-blvd": {
+    "name": "Azure Blvd",
+    "slug": "richmond/azure-blvd",
+    "city": "Richmond",
+    "lastIncident": "2026-06-04T22:35:00Z",
     "count": 1
   }
 }

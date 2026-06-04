@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-06-04T22:11:00Z_langley/glover-rd_langley/216th-st",
+      "timestamp": "2026-06-04T22:11:00Z",
+      "address": "GLOVER RD & 216TH ST",
+      "city": "Langley",
+      "streets": [
+        "langley/glover-rd",
+        "langley/216th-st"
+      ],
+      "streetNames": [
+        "Glover Rd",
+        "216th St"
+      ],
+      "pulsePointId": "2489347458"
+    },
+    {
       "id": "2026-06-04T21:31:00Z_langley/216th-st_langley/56th-ave",
       "timestamp": "2026-06-04T21:31:00Z",
       "address": "216TH ST & 56TH AVE",
@@ -148,6 +163,6 @@
       "pulsePointId": "2436047549"
     }
   ],
-  "lastIncident": "2026-06-04T21:31:00Z",
-  "count": 10
+  "lastIncident": "2026-06-04T22:11:00Z",
+  "count": 11
 }
