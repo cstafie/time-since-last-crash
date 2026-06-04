@@ -11415,5 +11415,19 @@
     "city": "North Vancouver",
     "lastIncident": "2026-06-04T06:19:00Z",
     "count": 1
+  },
+  "vancouver/e-kent-ave-n": {
+    "name": "E Kent Ave N",
+    "slug": "vancouver/e-kent-ave-n",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-04T07:33:00Z",
+    "count": 1
+  },
+  "vancouver/crompton-st": {
+    "name": "Crompton St",
+    "slug": "vancouver/crompton-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-04T07:33:00Z",
+    "count": 1
   }
 }

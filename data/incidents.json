@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-04T07:33:00Z_vancouver/e-kent-ave-n_vancouver/crompton-st",
+    "timestamp": "2026-06-04T07:33:00Z",
+    "scrapedAt": "2026-06-04T08:32:52Z",
+    "address": "E KENT AVE N & CROMPTON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-kent-ave-n",
+      "vancouver/crompton-st"
+    ],
+    "streetNames": [
+      "E Kent Ave N",
+      "Crompton St"
+    ],
+    "pulsePointId": "2488912414"
+  },
+  {
     "id": "2026-06-04T06:31:00Z_west-vancouver/marine-dr",
     "timestamp": "2026-06-04T06:31:00Z",
     "scrapedAt": "2026-06-04T06:59:48Z",

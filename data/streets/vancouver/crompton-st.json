@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/crompton-st",
+  "name": "Crompton St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-04T07:33:00Z_vancouver/e-kent-ave-n_vancouver/crompton-st",
+      "timestamp": "2026-06-04T07:33:00Z",
+      "address": "E KENT AVE N & CROMPTON ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-kent-ave-n",
+        "vancouver/crompton-st"
+      ],
+      "streetNames": [
+        "E Kent Ave N",
+        "Crompton St"
+      ],
+      "pulsePointId": "2488912414"
+    }
+  ],
+  "lastIncident": "2026-06-04T07:33:00Z",
+  "count": 1
+}
