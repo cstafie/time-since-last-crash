@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-06-04T06:31:00Z_west-vancouver/marine-dr",
+    "timestamp": "2026-06-04T06:31:00Z",
+    "scrapedAt": "2026-06-04T06:59:48Z",
+    "address": "MARINE DR",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/marine-dr"
+    ],
+    "streetNames": [
+      "Marine Dr"
+    ],
+    "pulsePointId": "2488889875"
+  },
+  {
+    "id": "2026-06-04T06:19:00Z_north-vancouver/w-8th-st",
+    "timestamp": "2026-06-04T06:19:00Z",
+    "scrapedAt": "2026-06-04T06:59:48Z",
+    "address": "W 8TH ST",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/w-8th-st"
+    ],
+    "streetNames": [
+      "W 8th St"
+    ],
+    "pulsePointId": "2488884687"
+  },
+  {
     "id": "2026-06-04T01:07:00Z_vancouver/w-georgia-st_vancouver/broughton-st",
     "timestamp": "2026-06-04T01:07:00Z",
     "scrapedAt": "2026-06-04T01:35:39Z",

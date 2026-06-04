@@ -7836,8 +7836,8 @@
     "name": "Marine Dr",
     "slug": "west-vancouver/marine-dr",
     "city": "West Vancouver",
-    "lastIncident": "2026-05-26T00:45:00Z",
-    "count": 2
+    "lastIncident": "2026-06-04T06:31:00Z",
+    "count": 3
   },
   "west-vancouver/18th-st": {
     "name": "18th St",
@@ -11407,6 +11407,13 @@
     "slug": "abbotsford/creekstone-dr",
     "city": "Abbotsford",
     "lastIncident": "2026-06-04T00:02:00Z",
+    "count": 1
+  },
+  "north-vancouver/w-8th-st": {
+    "name": "W 8th St",
+    "slug": "north-vancouver/w-8th-st",
+    "city": "North Vancouver",
+    "lastIncident": "2026-06-04T06:19:00Z",
     "count": 1
   }
 }
