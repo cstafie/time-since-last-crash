@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-04T20:34:00Z_surrey/96th-ave_surrey/152nd-st",
+    "timestamp": "2026-06-04T20:34:00Z",
+    "scrapedAt": "2026-06-04T20:38:31Z",
+    "address": "96TH AVE & 152ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/96th-ave",
+      "surrey/152nd-st"
+    ],
+    "streetNames": [
+      "96th Ave",
+      "152nd St"
+    ],
+    "pulsePointId": "2489271660"
+  },
+  {
+    "id": "2026-06-04T20:18:00Z_abbotsford/maclure-rd_abbotsford/livingstone-ave",
+    "timestamp": "2026-06-04T20:18:00Z",
+    "scrapedAt": "2026-06-04T20:38:31Z",
+    "address": "MACLURE RD & LIVINGSTONE AVE",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/maclure-rd",
+      "abbotsford/livingstone-ave"
+    ],
+    "streetNames": [
+      "Maclure Rd",
+      "Livingstone Ave"
+    ],
+    "pulsePointId": "2489260912"
+  },
+  {
     "id": "2026-06-04T19:07:00Z_vancouver/w-7th-ave",
     "timestamp": "2026-06-04T19:07:00Z",
     "scrapedAt": "2026-06-04T19:39:51Z",

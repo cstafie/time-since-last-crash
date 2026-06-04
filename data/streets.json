@@ -647,8 +647,8 @@
     "name": "96th Ave",
     "slug": "surrey/96th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-29T01:28:00Z",
-    "count": 26
+    "lastIncident": "2026-06-04T20:34:00Z",
+    "count": 27
   },
   "surrey/bolivar-rd": {
     "name": "Bolivar Rd",
@@ -1795,8 +1795,8 @@
     "name": "152nd St",
     "slug": "surrey/152nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-01T15:51:00Z",
-    "count": 29
+    "lastIncident": "2026-06-04T20:34:00Z",
+    "count": 30
   },
   "langley/20611-fraser-hwyste-111": {
     "name": "20611 Fraser Hwy,ste 111",
@@ -1921,8 +1921,8 @@
     "name": "Maclure Rd",
     "slug": "abbotsford/maclure-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-07T23:08:00Z",
-    "count": 8
+    "lastIncident": "2026-06-04T20:18:00Z",
+    "count": 9
   },
   "vancouver/renfrew-st": {
     "name": "Renfrew St",
@@ -5050,8 +5050,8 @@
     "name": "Livingstone Ave",
     "slug": "abbotsford/livingstone-ave",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-07T18:14:00Z",
-    "count": 2
+    "lastIncident": "2026-06-04T20:18:00Z",
+    "count": 3
   },
   "abbotsford/1812-vedder-way": {
     "name": "1812 Vedder Way",
