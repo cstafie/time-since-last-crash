@@ -1249,8 +1249,8 @@
     "name": "Trans Canada Hwy",
     "slug": "burnaby/trans-canada-hwy",
     "city": "Burnaby",
-    "lastIncident": "2026-06-03T23:31:00Z",
-    "count": 25
+    "lastIncident": "2026-06-04T12:54:00Z",
+    "count": 26
   },
   "vancouver/e-1st-ave": {
     "name": "E 1st Ave",
@@ -11428,6 +11428,13 @@
     "slug": "vancouver/crompton-st",
     "city": "Vancouver",
     "lastIncident": "2026-06-04T07:33:00Z",
+    "count": 1
+  },
+  "burnaby/gaglardi-way-onrp": {
+    "name": "Gaglardi Way Onrp",
+    "slug": "burnaby/gaglardi-way-onrp",
+    "city": "Burnaby",
+    "lastIncident": "2026-06-04T12:54:00Z",
     "count": 1
   }
 }

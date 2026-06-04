@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/gaglardi-way-onrp",
+  "name": "Gaglardi Way Onrp",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-06-04T12:54:00Z_burnaby/trans-canada-hwy_burnaby/gaglardi-way-onrp",
+      "timestamp": "2026-06-04T12:54:00Z",
+      "address": "TRANS CANADA HWY & GAGLARDI WAY ONRP",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/trans-canada-hwy",
+        "burnaby/gaglardi-way-onrp"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy",
+        "Gaglardi Way Onrp"
+      ],
+      "pulsePointId": "2488993291"
+    }
+  ],
+  "lastIncident": "2026-06-04T12:54:00Z",
+  "count": 1
+}
