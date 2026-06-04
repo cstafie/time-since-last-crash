@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-06-04T21:31:00Z_langley/216th-st_langley/56th-ave",
+      "timestamp": "2026-06-04T21:31:00Z",
+      "address": "216TH ST & 56TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/216th-st",
+        "langley/56th-ave"
+      ],
+      "streetNames": [
+        "216th St",
+        "56th Ave"
+      ],
+      "pulsePointId": "2489318625"
+    },
+    {
       "id": "2026-05-24T03:09:00Z_langley/56th-ave_langley/198th-st",
       "timestamp": "2026-05-24T03:09:00Z",
       "address": "56TH AVE & 198TH ST",
@@ -218,6 +233,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-24T03:09:00Z",
-  "count": 15
+  "lastIncident": "2026-06-04T21:31:00Z",
+  "count": 16
 }

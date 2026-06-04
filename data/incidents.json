@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-04T21:31:00Z_langley/216th-st_langley/56th-ave",
+    "timestamp": "2026-06-04T21:31:00Z",
+    "scrapedAt": "2026-06-04T22:04:55Z",
+    "address": "216TH ST & 56TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/216th-st",
+      "langley/56th-ave"
+    ],
+    "streetNames": [
+      "216th St",
+      "56th Ave"
+    ],
+    "pulsePointId": "2489318625"
+  },
+  {
     "id": "2026-06-04T21:08:00Z_burnaby/broadway",
     "timestamp": "2026-06-04T21:08:00Z",
     "scrapedAt": "2026-06-04T21:29:43Z",
