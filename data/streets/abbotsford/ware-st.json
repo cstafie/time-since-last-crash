@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-04T14:48:00Z_abbotsford/bevan-ave_abbotsford/ware-st",
+      "timestamp": "2026-06-04T14:48:00Z",
+      "address": "BEVAN AVE & WARE ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/bevan-ave",
+        "abbotsford/ware-st"
+      ],
+      "streetNames": [
+        "Bevan Ave",
+        "Ware St"
+      ],
+      "pulsePointId": "2489040794"
+    },
+    {
       "id": "2026-05-03T18:52:00Z_abbotsford/south-fraser-way_abbotsford/ware-st",
       "timestamp": "2026-05-03T18:52:00Z",
       "address": "SOUTH FRASER WAY & WARE ST",
@@ -124,6 +139,6 @@
       "pulsePointId": "2433198543"
     }
   ],
-  "lastIncident": "2026-05-03T18:52:00Z",
-  "count": 8
+  "lastIncident": "2026-06-04T14:48:00Z",
+  "count": 9
 }

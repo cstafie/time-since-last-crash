@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-04T14:48:00Z_abbotsford/bevan-ave_abbotsford/ware-st",
+    "timestamp": "2026-06-04T14:48:00Z",
+    "scrapedAt": "2026-06-04T15:09:41Z",
+    "address": "BEVAN AVE & WARE ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/bevan-ave",
+      "abbotsford/ware-st"
+    ],
+    "streetNames": [
+      "Bevan Ave",
+      "Ware St"
+    ],
+    "pulsePointId": "2489040794"
+  },
+  {
     "id": "2026-06-04T12:54:00Z_burnaby/trans-canada-hwy_burnaby/gaglardi-way-onrp",
     "timestamp": "2026-06-04T12:54:00Z",
     "scrapedAt": "2026-06-04T13:58:48Z",
