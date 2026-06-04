@@ -1,0 +1,24 @@
+{
+  "slug": "surrey/mcbride-dr",
+  "name": "Mcbride Dr",
+  "city": "Surrey",
+  "incidents": [
+    {
+      "id": "2026-06-04T23:01:00Z_surrey/king-rd_surrey/mcbride-dr",
+      "timestamp": "2026-06-04T23:01:00Z",
+      "address": "KING RD & MCBRIDE DR",
+      "city": "Surrey",
+      "streets": [
+        "surrey/king-rd",
+        "surrey/mcbride-dr"
+      ],
+      "streetNames": [
+        "King Rd",
+        "Mcbride Dr"
+      ],
+      "pulsePointId": "2489381124"
+    }
+  ],
+  "lastIncident": "2026-06-04T23:01:00Z",
+  "count": 1
+}

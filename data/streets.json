@@ -6359,8 +6359,8 @@
     "name": "No 8 Rd",
     "slug": "richmond/no-8-rd",
     "city": "Richmond",
-    "lastIncident": "2026-04-15T13:17:00Z",
-    "count": 2
+    "lastIncident": "2026-06-04T22:58:00Z",
+    "count": 3
   },
   "vancouver/cornett-rd": {
     "name": "Cornett Rd",
@@ -7262,8 +7262,8 @@
     "name": "King Rd",
     "slug": "surrey/king-rd",
     "city": "Surrey",
-    "lastIncident": "2026-05-10T18:23:00Z",
-    "count": 2
+    "lastIncident": "2026-06-04T23:01:00Z",
+    "count": 3
   },
   "surrey/103rd-ave": {
     "name": "103rd Ave",
@@ -11456,6 +11456,13 @@
     "slug": "richmond/azure-blvd",
     "city": "Richmond",
     "lastIncident": "2026-06-04T22:35:00Z",
+    "count": 1
+  },
+  "surrey/mcbride-dr": {
+    "name": "Mcbride Dr",
+    "slug": "surrey/mcbride-dr",
+    "city": "Surrey",
+    "lastIncident": "2026-06-04T23:01:00Z",
     "count": 1
   }
 }
