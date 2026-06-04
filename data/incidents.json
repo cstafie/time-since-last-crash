@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-04T19:07:00Z_vancouver/w-7th-ave",
+    "timestamp": "2026-06-04T19:07:00Z",
+    "scrapedAt": "2026-06-04T19:39:51Z",
+    "address": "W 7TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-7th-ave"
+    ],
+    "streetNames": [
+      "W 7th Ave"
+    ],
+    "pulsePointId": "2489207941"
+  },
+  {
+    "id": "2026-06-04T18:39:00Z_coquitlam/northern-ave_coquitlam/pinetree-way",
+    "timestamp": "2026-06-04T18:39:00Z",
+    "scrapedAt": "2026-06-04T19:39:51Z",
+    "address": "NORTHERN AVE & PINETREE WAY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/northern-ave",
+      "coquitlam/pinetree-way"
+    ],
+    "streetNames": [
+      "Northern Ave",
+      "Pinetree Way"
+    ],
+    "pulsePointId": "2489188896"
+  },
+  {
     "id": "2026-06-04T16:31:00Z_vancouver/ironworkers-memorial-brdg",
     "timestamp": "2026-06-04T16:31:00Z",
     "scrapedAt": "2026-06-04T17:51:01Z",

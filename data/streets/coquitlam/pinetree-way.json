@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-06-04T18:39:00Z_coquitlam/northern-ave_coquitlam/pinetree-way",
+      "timestamp": "2026-06-04T18:39:00Z",
+      "address": "NORTHERN AVE & PINETREE WAY",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/northern-ave",
+        "coquitlam/pinetree-way"
+      ],
+      "streetNames": [
+        "Northern Ave",
+        "Pinetree Way"
+      ],
+      "pulsePointId": "2489188896"
+    },
+    {
       "id": "2026-05-30T18:39:00Z_coquitlam/pinetree-way",
       "timestamp": "2026-05-30T18:39:00Z",
       "address": "PINETREE WAY",
@@ -47,6 +62,6 @@
       "pulsePointId": "2468007459"
     }
   ],
-  "lastIncident": "2026-05-30T18:39:00Z",
-  "count": 3
+  "lastIncident": "2026-06-04T18:39:00Z",
+  "count": 4
 }

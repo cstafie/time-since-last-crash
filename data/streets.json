@@ -6002,8 +6002,8 @@
     "name": "W 7th Ave",
     "slug": "vancouver/w-7th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-29T04:23:00Z",
-    "count": 4
+    "lastIncident": "2026-06-04T19:07:00Z",
+    "count": 5
   },
   "maple-ridge/laity-st": {
     "name": "Laity St",
@@ -8893,8 +8893,8 @@
     "name": "Pinetree Way",
     "slug": "coquitlam/pinetree-way",
     "city": "Coquitlam",
-    "lastIncident": "2026-05-30T18:39:00Z",
-    "count": 3
+    "lastIncident": "2026-06-04T18:39:00Z",
+    "count": 4
   },
   "richmond/birch-st": {
     "name": "Birch St",
@@ -11435,6 +11435,13 @@
     "slug": "burnaby/gaglardi-way-onrp",
     "city": "Burnaby",
     "lastIncident": "2026-06-04T12:54:00Z",
+    "count": 1
+  },
+  "coquitlam/northern-ave": {
+    "name": "Northern Ave",
+    "slug": "coquitlam/northern-ave",
+    "city": "Coquitlam",
+    "lastIncident": "2026-06-04T18:39:00Z",
     "count": 1
   }
 }
