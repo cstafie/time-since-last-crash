@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-05T17:59:00Z_chilliwack/keith-wilson-rd_chilliwack/garrison-blvd",
+    "timestamp": "2026-06-05T17:59:00Z",
+    "scrapedAt": "2026-06-05T18:33:47Z",
+    "address": "KEITH WILSON RD & GARRISON BLVD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/keith-wilson-rd",
+      "chilliwack/garrison-blvd"
+    ],
+    "streetNames": [
+      "Keith Wilson Rd",
+      "Garrison Blvd"
+    ],
+    "pulsePointId": "2489888683"
+  },
+  {
     "id": "2026-06-05T16:53:00Z_richmond/smallwood-pl",
     "timestamp": "2026-06-05T16:53:00Z",
     "scrapedAt": "2026-06-05T17:33:47Z",

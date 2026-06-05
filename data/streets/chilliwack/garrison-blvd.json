@@ -1,0 +1,24 @@
+{
+  "slug": "chilliwack/garrison-blvd",
+  "name": "Garrison Blvd",
+  "city": "Chilliwack",
+  "incidents": [
+    {
+      "id": "2026-06-05T17:59:00Z_chilliwack/keith-wilson-rd_chilliwack/garrison-blvd",
+      "timestamp": "2026-06-05T17:59:00Z",
+      "address": "KEITH WILSON RD & GARRISON BLVD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/keith-wilson-rd",
+        "chilliwack/garrison-blvd"
+      ],
+      "streetNames": [
+        "Keith Wilson Rd",
+        "Garrison Blvd"
+      ],
+      "pulsePointId": "2489888683"
+    }
+  ],
+  "lastIncident": "2026-06-05T17:59:00Z",
+  "count": 1
+}

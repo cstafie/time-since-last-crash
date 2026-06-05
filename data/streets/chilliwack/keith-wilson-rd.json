@@ -4,6 +4,21 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-06-05T17:59:00Z_chilliwack/keith-wilson-rd_chilliwack/garrison-blvd",
+      "timestamp": "2026-06-05T17:59:00Z",
+      "address": "KEITH WILSON RD & GARRISON BLVD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/keith-wilson-rd",
+        "chilliwack/garrison-blvd"
+      ],
+      "streetNames": [
+        "Keith Wilson Rd",
+        "Garrison Blvd"
+      ],
+      "pulsePointId": "2489888683"
+    },
+    {
       "id": "2026-05-19T23:08:00Z_chilliwack/keith-wilson-rd_chilliwack/tyson-rd",
       "timestamp": "2026-05-19T23:08:00Z",
       "address": "KEITH WILSON RD & TYSON RD",
@@ -61,6 +76,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-19T23:08:00Z",
-  "count": 4
+  "lastIncident": "2026-06-05T17:59:00Z",
+  "count": 5
 }

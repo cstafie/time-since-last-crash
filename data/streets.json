@@ -108,8 +108,8 @@
     "name": "Keith Wilson Rd",
     "slug": "chilliwack/keith-wilson-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-05-19T23:08:00Z",
-    "count": 4
+    "lastIncident": "2026-06-05T17:59:00Z",
+    "count": 5
   },
   "chilliwack/prairie-central-rd": {
     "name": "Prairie Central Rd",
@@ -11477,6 +11477,13 @@
     "slug": "richmond/smallwood-pl",
     "city": "Richmond",
     "lastIncident": "2026-06-05T16:53:00Z",
+    "count": 1
+  },
+  "chilliwack/garrison-blvd": {
+    "name": "Garrison Blvd",
+    "slug": "chilliwack/garrison-blvd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-06-05T17:59:00Z",
     "count": 1
   }
 }
