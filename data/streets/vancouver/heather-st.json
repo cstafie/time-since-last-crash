@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-05T00:52:00Z_vancouver/w-70th-ave_vancouver/heather-st",
+      "timestamp": "2026-06-05T00:52:00Z",
+      "address": "W 70TH AVE & HEATHER ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-70th-ave",
+        "vancouver/heather-st"
+      ],
+      "streetNames": [
+        "W 70th Ave",
+        "Heather St"
+      ],
+      "pulsePointId": "2489451348"
+    },
+    {
       "id": "2026-05-16T09:51:00Z_vancouver/heather-st_vancouver/w-18th-ave",
       "timestamp": "2026-05-16T09:51:00Z",
       "address": "HEATHER ST & W 18TH AVE",
@@ -78,6 +93,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-16T09:51:00Z",
-  "count": 5
+  "lastIncident": "2026-06-05T00:52:00Z",
+  "count": 6
 }
