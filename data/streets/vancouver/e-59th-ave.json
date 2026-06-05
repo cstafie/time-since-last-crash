@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-05T21:43:00Z_vancouver/e-59th-ave",
+      "timestamp": "2026-06-05T21:43:00Z",
+      "address": "E 59TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-59th-ave"
+      ],
+      "streetNames": [
+        "E 59th Ave"
+      ],
+      "pulsePointId": "2490056371"
+    },
+    {
       "id": "2026-06-04T23:52:00Z_vancouver/e-59th-ave_vancouver/main-st",
       "timestamp": "2026-06-04T23:52:00Z",
       "address": "E 59TH AVE & MAIN ST",
@@ -109,6 +122,6 @@
       "pulsePointId": "2447704384"
     }
   ],
-  "lastIncident": "2026-06-04T23:52:00Z",
-  "count": 7
+  "lastIncident": "2026-06-05T21:43:00Z",
+  "count": 8
 }

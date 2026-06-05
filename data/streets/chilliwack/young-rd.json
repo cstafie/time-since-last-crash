@@ -4,6 +4,21 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-06-05T21:40:00Z_chilliwack/young-rd_chilliwack/reece-ave",
+      "timestamp": "2026-06-05T21:40:00Z",
+      "address": "YOUNG RD & REECE AVE",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/young-rd",
+        "chilliwack/reece-ave"
+      ],
+      "streetNames": [
+        "Young Rd",
+        "Reece Ave"
+      ],
+      "pulsePointId": "2490052686"
+    },
+    {
       "id": "2026-04-28T01:07:00Z_chilliwack/first-ave_chilliwack/young-rd",
       "timestamp": "2026-04-28T01:07:00Z",
       "address": "FIRST AVE & YOUNG RD",
@@ -62,6 +77,6 @@
       "pulsePointId": "2432750193"
     }
   ],
-  "lastIncident": "2026-04-28T01:07:00Z",
-  "count": 4
+  "lastIncident": "2026-06-05T21:40:00Z",
+  "count": 5
 }

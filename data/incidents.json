@@ -1,5 +1,93 @@
 [
   {
+    "id": "2026-06-05T21:52:00Z_new-westminster/20th-st_new-westminster/8th-ave",
+    "timestamp": "2026-06-05T21:52:00Z",
+    "scrapedAt": "2026-06-05T22:01:14Z",
+    "address": "20TH ST & 8TH AVE",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/20th-st",
+      "new-westminster/8th-ave"
+    ],
+    "streetNames": [
+      "20th St",
+      "8th Ave"
+    ],
+    "pulsePointId": "2490061544"
+  },
+  {
+    "id": "2026-06-05T21:46:00Z_abbotsford/george-ferguson-way",
+    "timestamp": "2026-06-05T21:46:00Z",
+    "scrapedAt": "2026-06-05T22:01:14Z",
+    "address": "GEORGE FERGUSON WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/george-ferguson-way"
+    ],
+    "streetNames": [
+      "George Ferguson Way"
+    ],
+    "pulsePointId": "2490059613"
+  },
+  {
+    "id": "2026-06-05T21:43:00Z_vancouver/e-59th-ave",
+    "timestamp": "2026-06-05T21:43:00Z",
+    "scrapedAt": "2026-06-05T22:01:14Z",
+    "address": "E 59TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-59th-ave"
+    ],
+    "streetNames": [
+      "E 59th Ave"
+    ],
+    "pulsePointId": "2490056371"
+  },
+  {
+    "id": "2026-06-05T21:40:00Z_chilliwack/young-rd_chilliwack/reece-ave",
+    "timestamp": "2026-06-05T21:40:00Z",
+    "scrapedAt": "2026-06-05T22:01:14Z",
+    "address": "YOUNG RD & REECE AVE",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/young-rd",
+      "chilliwack/reece-ave"
+    ],
+    "streetNames": [
+      "Young Rd",
+      "Reece Ave"
+    ],
+    "pulsePointId": "2490052686"
+  },
+  {
+    "id": "2026-06-05T21:35:00Z_abbotsford/trethewey-st",
+    "timestamp": "2026-06-05T21:35:00Z",
+    "scrapedAt": "2026-06-05T22:01:14Z",
+    "address": "TRETHEWEY ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trethewey-st"
+    ],
+    "streetNames": [
+      "Trethewey St"
+    ],
+    "pulsePointId": "2490050541"
+  },
+  {
+    "id": "2026-06-05T21:34:00Z_abbotsford/trethewey-st",
+    "timestamp": "2026-06-05T21:34:00Z",
+    "scrapedAt": "2026-06-05T22:01:14Z",
+    "address": "TRETHEWEY ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trethewey-st"
+    ],
+    "streetNames": [
+      "Trethewey St"
+    ],
+    "pulsePointId": "2490052397"
+  },
+  {
     "id": "2026-06-05T20:38:00Z_north-vancouver/trans-canada-hwy",
     "timestamp": "2026-06-05T20:38:00Z",
     "scrapedAt": "2026-06-05T21:28:32Z",

@@ -45,8 +45,8 @@
     "name": "Trethewey St",
     "slug": "abbotsford/trethewey-st",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-02T18:03:00Z",
-    "count": 8
+    "lastIncident": "2026-06-05T21:35:00Z",
+    "count": 10
   },
   "burnaby/deer-lake-pkwy": {
     "name": "Deer Lake Pkwy",
@@ -353,8 +353,8 @@
     "name": "20th St",
     "slug": "new-westminster/20th-st",
     "city": "New Westminster",
-    "lastIncident": "2026-05-19T21:35:00Z",
-    "count": 3
+    "lastIncident": "2026-06-05T21:52:00Z",
+    "count": 4
   },
   "new-westminster/6th-ave": {
     "name": "6th Ave",
@@ -1536,8 +1536,8 @@
     "name": "Young Rd",
     "slug": "chilliwack/young-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-04-28T01:07:00Z",
-    "count": 4
+    "lastIncident": "2026-06-05T21:40:00Z",
+    "count": 5
   },
   "surrey/port-mann-brdg": {
     "name": "Port Mann Brdg",
@@ -5330,8 +5330,8 @@
     "name": "E 59th Ave",
     "slug": "vancouver/e-59th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-04T23:52:00Z",
-    "count": 7
+    "lastIncident": "2026-06-05T21:43:00Z",
+    "count": 8
   },
   "vancouver/ross-st": {
     "name": "Ross St",
@@ -6492,8 +6492,8 @@
     "name": "George Ferguson Way",
     "slug": "abbotsford/george-ferguson-way",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-02T18:03:00Z",
-    "count": 5
+    "lastIncident": "2026-06-05T21:46:00Z",
+    "count": 6
   },
   "new-westminster/richmond-st": {
     "name": "Richmond St",
@@ -6779,8 +6779,8 @@
     "name": "8th Ave",
     "slug": "new-westminster/8th-ave",
     "city": "New Westminster",
-    "lastIncident": "2026-05-19T21:35:00Z",
-    "count": 4
+    "lastIncident": "2026-06-05T21:52:00Z",
+    "count": 5
   },
   "vancouver/burrard-street-brdg": {
     "name": "Burrard Street Brdg",
@@ -11491,6 +11491,13 @@
     "slug": "white-rock/fir-st",
     "city": "White Rock",
     "lastIncident": "2026-06-05T19:19:00Z",
+    "count": 1
+  },
+  "chilliwack/reece-ave": {
+    "name": "Reece Ave",
+    "slug": "chilliwack/reece-ave",
+    "city": "Chilliwack",
+    "lastIncident": "2026-06-05T21:40:00Z",
     "count": 1
   }
 }

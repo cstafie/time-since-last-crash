@@ -4,6 +4,32 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-05T21:35:00Z_abbotsford/trethewey-st",
+      "timestamp": "2026-06-05T21:35:00Z",
+      "address": "TRETHEWEY ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/trethewey-st"
+      ],
+      "streetNames": [
+        "Trethewey St"
+      ],
+      "pulsePointId": "2490050541"
+    },
+    {
+      "id": "2026-06-05T21:34:00Z_abbotsford/trethewey-st",
+      "timestamp": "2026-06-05T21:34:00Z",
+      "address": "TRETHEWEY ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/trethewey-st"
+      ],
+      "streetNames": [
+        "Trethewey St"
+      ],
+      "pulsePointId": "2490052397"
+    },
+    {
       "id": "2026-06-02T18:03:00Z_abbotsford/trethewey-st_abbotsford/george-ferguson-way",
       "timestamp": "2026-06-02T18:03:00Z",
       "address": "TRETHEWEY ST & GEORGE FERGUSON WAY",
@@ -121,6 +147,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-02T18:03:00Z",
-  "count": 8
+  "lastIncident": "2026-06-05T21:35:00Z",
+  "count": 10
 }
