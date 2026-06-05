@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-05T20:38:00Z_north-vancouver/trans-canada-hwy",
+    "timestamp": "2026-06-05T20:38:00Z",
+    "scrapedAt": "2026-06-05T21:28:32Z",
+    "address": "TRANS CANADA HWY",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2490008665"
+  },
+  {
     "id": "2026-06-05T20:18:00Z_vancouver/e-hastings-st",
     "timestamp": "2026-06-05T20:18:00Z",
     "scrapedAt": "2026-06-05T20:33:21Z",
