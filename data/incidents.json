@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-05T07:30:00Z_surrey/140th-st_surrey/crescent-rd",
+    "timestamp": "2026-06-05T07:30:00Z",
+    "scrapedAt": "2026-06-05T08:19:00Z",
+    "address": "140TH ST & CRESCENT RD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/140th-st",
+      "surrey/crescent-rd"
+    ],
+    "streetNames": [
+      "140th St",
+      "Crescent Rd"
+    ],
+    "pulsePointId": "2489633363"
+  },
+  {
     "id": "2026-06-05T06:15:00Z_burnaby/lougheed-hwy_burnaby/willingdon-ave",
     "timestamp": "2026-06-05T06:15:00Z",
     "scrapedAt": "2026-06-05T06:53:03Z",

@@ -556,8 +556,8 @@
     "name": "140th St",
     "slug": "surrey/140th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-31T05:00:00Z",
-    "count": 27
+    "lastIncident": "2026-06-05T07:30:00Z",
+    "count": 28
   },
   "surrey/141a-st": {
     "name": "141a St",
@@ -3741,8 +3741,8 @@
     "name": "Crescent Rd",
     "slug": "surrey/crescent-rd",
     "city": "Surrey",
-    "lastIncident": "2026-06-01T07:36:00Z",
-    "count": 2
+    "lastIncident": "2026-06-05T07:30:00Z",
+    "count": 3
   },
   "surrey/142a-st": {
     "name": "142a St",
