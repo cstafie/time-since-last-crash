@@ -2341,8 +2341,8 @@
     "name": "W Georgia St",
     "slug": "vancouver/w-georgia-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-04T01:07:00Z",
-    "count": 9
+    "lastIncident": "2026-06-05T16:17:00Z",
+    "count": 10
   },
   "vancouver/w-41st-ave": {
     "name": "W 41st Ave",
@@ -5925,8 +5925,8 @@
     "name": "Jervis St",
     "slug": "vancouver/jervis-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-09T16:34:00Z",
-    "count": 1
+    "lastIncident": "2026-06-05T16:17:00Z",
+    "count": 2
   },
   "burnaby/1st-ave": {
     "name": "1st Ave",
