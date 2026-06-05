@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-05T22:18:00Z_surrey/76th-ave_surrey/122nd-st",
+      "timestamp": "2026-06-05T22:18:00Z",
+      "address": "76TH AVE & 122ND ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/76th-ave",
+        "surrey/122nd-st"
+      ],
+      "streetNames": [
+        "76th Ave",
+        "122nd St"
+      ],
+      "pulsePointId": "2490085422"
+    },
+    {
       "id": "2026-05-29T20:15:00Z_surrey/76th-ave_surrey/king-george-blvd",
       "timestamp": "2026-05-29T20:15:00Z",
       "address": "76TH AVE & KING GEORGE BLVD",
@@ -105,6 +120,6 @@
       "pulsePointId": "2453141772"
     }
   ],
-  "lastIncident": "2026-05-29T20:15:00Z",
-  "count": 7
+  "lastIncident": "2026-06-05T22:18:00Z",
+  "count": 8
 }
