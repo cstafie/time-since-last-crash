@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-05T13:34:00Z_burnaby/kensington-ave_burnaby/canada-way",
+    "timestamp": "2026-06-05T13:34:00Z",
+    "scrapedAt": "2026-06-05T14:23:37Z",
+    "address": "KENSINGTON AVE & CANADA WAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/kensington-ave",
+      "burnaby/canada-way"
+    ],
+    "streetNames": [
+      "Kensington Ave",
+      "Canada Way"
+    ],
+    "pulsePointId": "2489736915"
+  },
+  {
     "id": "2026-06-05T10:07:00Z_richmond/no-4-rd",
     "timestamp": "2026-06-05T10:07:00Z",
     "scrapedAt": "2026-06-05T11:01:51Z",

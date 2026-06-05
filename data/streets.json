@@ -1130,8 +1130,8 @@
     "name": "Canada Way",
     "slug": "burnaby/canada-way",
     "city": "Burnaby",
-    "lastIncident": "2026-06-01T19:00:00Z",
-    "count": 21
+    "lastIncident": "2026-06-05T13:34:00Z",
+    "count": 22
   },
   "burnaby/norland-ave": {
     "name": "Norland Ave",
@@ -1340,8 +1340,8 @@
     "name": "Kensington Ave",
     "slug": "burnaby/kensington-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-06-03T22:23:00Z",
-    "count": 3
+    "lastIncident": "2026-06-05T13:34:00Z",
+    "count": 4
   },
   "maple-ridge/222nd-st": {
     "name": "222nd St",
