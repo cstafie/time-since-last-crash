@@ -11464,5 +11464,19 @@
     "city": "Surrey",
     "lastIncident": "2026-06-04T23:01:00Z",
     "count": 1
+  },
+  "richmond/5491-parkwood-way": {
+    "name": "5491 Parkwood Way",
+    "slug": "richmond/5491-parkwood-way",
+    "city": "Richmond",
+    "lastIncident": "2026-06-05T16:47:00Z",
+    "count": 1
+  },
+  "richmond/smallwood-pl": {
+    "name": "Smallwood Pl",
+    "slug": "richmond/smallwood-pl",
+    "city": "Richmond",
+    "lastIncident": "2026-06-05T16:53:00Z",
+    "count": 1
   }
 }

@@ -1,0 +1,22 @@
+{
+  "slug": "richmond/5491-parkwood-way",
+  "name": "5491 Parkwood Way",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-06-05T16:47:00Z_richmond/5491-parkwood-way",
+      "timestamp": "2026-06-05T16:47:00Z",
+      "address": "5491 PARKWOOD WAY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/5491-parkwood-way"
+      ],
+      "streetNames": [
+        "5491 Parkwood Way"
+      ],
+      "pulsePointId": "2489842862"
+    }
+  ],
+  "lastIncident": "2026-06-05T16:47:00Z",
+  "count": 1
+}

@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-06-05T16:53:00Z_richmond/smallwood-pl",
+    "timestamp": "2026-06-05T16:53:00Z",
+    "scrapedAt": "2026-06-05T17:33:47Z",
+    "address": "SMALLWOOD PL",
+    "city": "Richmond",
+    "streets": [
+      "richmond/smallwood-pl"
+    ],
+    "streetNames": [
+      "Smallwood Pl"
+    ],
+    "pulsePointId": "2489845347"
+  },
+  {
+    "id": "2026-06-05T16:47:00Z_richmond/5491-parkwood-way",
+    "timestamp": "2026-06-05T16:47:00Z",
+    "scrapedAt": "2026-06-05T17:33:47Z",
+    "address": "5491 PARKWOOD WAY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/5491-parkwood-way"
+    ],
+    "streetNames": [
+      "5491 Parkwood Way"
+    ],
+    "pulsePointId": "2489842862"
+  },
+  {
     "id": "2026-06-05T16:17:00Z_vancouver/w-georgia-st_vancouver/jervis-st",
     "timestamp": "2026-06-05T16:17:00Z",
     "scrapedAt": "2026-06-05T16:45:35Z",

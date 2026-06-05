@@ -1,0 +1,22 @@
+{
+  "slug": "richmond/smallwood-pl",
+  "name": "Smallwood Pl",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-06-05T16:53:00Z_richmond/smallwood-pl",
+      "timestamp": "2026-06-05T16:53:00Z",
+      "address": "SMALLWOOD PL",
+      "city": "Richmond",
+      "streets": [
+        "richmond/smallwood-pl"
+      ],
+      "streetNames": [
+        "Smallwood Pl"
+      ],
+      "pulsePointId": "2489845347"
+    }
+  ],
+  "lastIncident": "2026-06-05T16:53:00Z",
+  "count": 1
+}
