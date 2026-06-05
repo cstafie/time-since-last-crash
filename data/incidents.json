@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-06-05T20:18:00Z_vancouver/e-hastings-st",
+    "timestamp": "2026-06-05T20:18:00Z",
+    "scrapedAt": "2026-06-05T20:33:21Z",
+    "address": "E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "E Hastings St"
+    ],
+    "pulsePointId": "2489994098"
+  },
+  {
+    "id": "2026-06-05T20:15:00Z_langley/fraser-hwy",
+    "timestamp": "2026-06-05T20:15:00Z",
+    "scrapedAt": "2026-06-05T20:33:21Z",
+    "address": "FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy"
+    ],
+    "streetNames": [
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2489991360"
+  },
+  {
+    "id": "2026-06-05T19:39:00Z_pitt-meadows/lougheed-hwy_pitt-meadows/old-dewdney-trunk-rd",
+    "timestamp": "2026-06-05T19:39:00Z",
+    "scrapedAt": "2026-06-05T20:33:21Z",
+    "address": "LOUGHEED HWY & OLD DEWDNEY TRUNK RD",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/lougheed-hwy",
+      "pitt-meadows/old-dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "Old Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2489964237"
+  },
+  {
     "id": "2026-06-05T19:19:00Z_white-rock/thrift-ave_white-rock/fir-st",
     "timestamp": "2026-06-05T19:19:00Z",
     "scrapedAt": "2026-06-05T19:31:06Z",

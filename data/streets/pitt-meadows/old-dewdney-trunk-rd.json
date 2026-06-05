@@ -4,6 +4,21 @@
   "city": "Pitt Meadows",
   "incidents": [
     {
+      "id": "2026-06-05T19:39:00Z_pitt-meadows/lougheed-hwy_pitt-meadows/old-dewdney-trunk-rd",
+      "timestamp": "2026-06-05T19:39:00Z",
+      "address": "LOUGHEED HWY & OLD DEWDNEY TRUNK RD",
+      "city": "Pitt Meadows",
+      "streets": [
+        "pitt-meadows/lougheed-hwy",
+        "pitt-meadows/old-dewdney-trunk-rd"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "Old Dewdney Trunk Rd"
+      ],
+      "pulsePointId": "2489964237"
+    },
+    {
       "id": "2026-04-28T09:17:00Z_pitt-meadows/hale-rd_pitt-meadows/old-dewdney-trunk-rd",
       "timestamp": "2026-04-28T09:17:00Z",
       "address": "HALE RD & OLD DEWDNEY TRUNK RD",
@@ -60,6 +75,6 @@
       "pulsePointId": "2446090998"
     }
   ],
-  "lastIncident": "2026-04-28T09:17:00Z",
-  "count": 4
+  "lastIncident": "2026-06-05T19:39:00Z",
+  "count": 5
 }
