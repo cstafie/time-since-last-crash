@@ -1,6 +1,6 @@
 {
-  "slug": "white-rock/thrift-ave",
-  "name": "Thrift Ave",
+  "slug": "white-rock/fir-st",
+  "name": "Fir St",
   "city": "White Rock",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Fir St"
       ],
       "pulsePointId": "2489947261"
-    },
-    {
-      "id": "2026-04-26T19:04:00Z_white-rock/thrift-ave_white-rock/finlay-st",
-      "timestamp": "2026-04-26T19:04:00Z",
-      "address": "THRIFT AVE & FINLAY ST",
-      "city": "White Rock",
-      "streets": [
-        "white-rock/thrift-ave",
-        "white-rock/finlay-st"
-      ],
-      "streetNames": [
-        "Thrift Ave",
-        "Finlay St"
-      ],
-      "pulsePointId": "2462006251"
     }
   ],
   "lastIncident": "2026-06-05T19:19:00Z",
-  "count": 2
+  "count": 1
 }
