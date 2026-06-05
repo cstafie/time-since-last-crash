@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-05T23:07:00Z_surrey/68th-ave_surrey/138th-st",
+      "timestamp": "2026-06-05T23:07:00Z",
+      "address": "68TH AVE & 138TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/68th-ave",
+        "surrey/138th-st"
+      ],
+      "streetNames": [
+        "68th Ave",
+        "138th St"
+      ],
+      "pulsePointId": "2490121381"
+    },
+    {
       "id": "2026-05-25T19:39:00Z_surrey/68th-ave",
       "timestamp": "2026-05-25T19:39:00Z",
       "address": "68TH AVE",
@@ -208,6 +223,6 @@
       "pulsePointId": "2439764591"
     }
   ],
-  "lastIncident": "2026-05-25T19:39:00Z",
-  "count": 14
+  "lastIncident": "2026-06-05T23:07:00Z",
+  "count": 15
 }

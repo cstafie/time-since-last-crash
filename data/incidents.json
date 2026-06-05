@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-05T23:07:00Z_surrey/68th-ave_surrey/138th-st",
+    "timestamp": "2026-06-05T23:07:00Z",
+    "scrapedAt": "2026-06-05T23:24:09Z",
+    "address": "68TH AVE & 138TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/68th-ave",
+      "surrey/138th-st"
+    ],
+    "streetNames": [
+      "68th Ave",
+      "138th St"
+    ],
+    "pulsePointId": "2490121381"
+  },
+  {
     "id": "2026-06-05T22:43:00Z_langley/42nd-ave",
     "timestamp": "2026-06-05T22:43:00Z",
     "scrapedAt": "2026-06-05T22:49:12Z",
