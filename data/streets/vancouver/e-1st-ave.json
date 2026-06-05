@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-05T02:20:00Z_vancouver/e-1st-ave_vancouver/main-st",
+      "timestamp": "2026-06-05T02:20:00Z",
+      "address": "E 1ST AVE & MAIN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-1st-ave",
+        "vancouver/main-st"
+      ],
+      "streetNames": [
+        "E 1st Ave",
+        "Main St"
+      ],
+      "pulsePointId": "2489504809"
+    },
+    {
       "id": "2026-06-03T02:28:00Z_vancouver/e-1st-ave_vancouver/boundary-rd",
       "timestamp": "2026-06-03T02:28:00Z",
       "address": "E 1ST AVE & BOUNDARY RD",
@@ -151,6 +166,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-03T02:28:00Z",
-  "count": 10
+  "lastIncident": "2026-06-05T02:20:00Z",
+  "count": 11
 }

@@ -1256,8 +1256,8 @@
     "name": "E 1st Ave",
     "slug": "vancouver/e-1st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-03T02:28:00Z",
-    "count": 10
+    "lastIncident": "2026-06-05T02:20:00Z",
+    "count": 11
   },
   "vancouver/boundary-rd": {
     "name": "Boundary Rd",
@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-04T23:52:00Z",
-    "count": 39
+    "lastIncident": "2026-06-05T02:20:00Z",
+    "count": 40
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",

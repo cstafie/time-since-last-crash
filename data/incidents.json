@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-05T02:20:00Z_vancouver/e-1st-ave_vancouver/main-st",
+    "timestamp": "2026-06-05T02:20:00Z",
+    "scrapedAt": "2026-06-05T03:44:00Z",
+    "address": "E 1ST AVE & MAIN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-1st-ave",
+      "vancouver/main-st"
+    ],
+    "streetNames": [
+      "E 1st Ave",
+      "Main St"
+    ],
+    "pulsePointId": "2489504809"
+  },
+  {
     "id": "2026-06-05T00:52:00Z_vancouver/w-70th-ave_vancouver/heather-st",
     "timestamp": "2026-06-05T00:52:00Z",
     "scrapedAt": "2026-06-05T01:26:14Z",
