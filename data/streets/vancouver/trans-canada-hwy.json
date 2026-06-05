@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-04T23:44:00Z_vancouver/trans-canada-hwy",
+      "timestamp": "2026-06-04T23:44:00Z",
+      "address": "TRANS CANADA HWY",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2489413681"
+    },
+    {
       "id": "2026-05-28T07:24:00Z_vancouver/trans-canada-hwy",
       "timestamp": "2026-05-28T07:24:00Z",
       "address": "TRANS CANADA HWY",
@@ -107,6 +120,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-28T07:24:00Z",
-  "count": 8
+  "lastIncident": "2026-06-04T23:44:00Z",
+  "count": 9
 }

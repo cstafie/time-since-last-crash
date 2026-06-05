@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-04T23:52:00Z_vancouver/e-59th-ave_vancouver/main-st",
+    "timestamp": "2026-06-04T23:52:00Z",
+    "scrapedAt": "2026-06-05T00:23:14Z",
+    "address": "E 59TH AVE & MAIN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-59th-ave",
+      "vancouver/main-st"
+    ],
+    "streetNames": [
+      "E 59th Ave",
+      "Main St"
+    ],
+    "pulsePointId": "2489414164"
+  },
+  {
+    "id": "2026-06-04T23:44:00Z_vancouver/trans-canada-hwy",
+    "timestamp": "2026-06-04T23:44:00Z",
+    "scrapedAt": "2026-06-05T00:23:14Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2489413681"
+  },
+  {
     "id": "2026-06-04T23:01:00Z_surrey/king-rd_surrey/mcbride-dr",
     "timestamp": "2026-06-04T23:01:00Z",
     "scrapedAt": "2026-06-04T23:23:23Z",

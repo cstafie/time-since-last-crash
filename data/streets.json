@@ -1333,8 +1333,8 @@
     "name": "Trans Canada Hwy",
     "slug": "vancouver/trans-canada-hwy",
     "city": "Vancouver",
-    "lastIncident": "2026-05-28T07:24:00Z",
-    "count": 8
+    "lastIncident": "2026-06-04T23:44:00Z",
+    "count": 9
   },
   "burnaby/kensington-ave": {
     "name": "Kensington Ave",
@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-03T04:28:00Z",
-    "count": 38
+    "lastIncident": "2026-06-04T23:52:00Z",
+    "count": 39
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",
@@ -5330,8 +5330,8 @@
     "name": "E 59th Ave",
     "slug": "vancouver/e-59th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-23T21:58:00Z",
-    "count": 6
+    "lastIncident": "2026-06-04T23:52:00Z",
+    "count": 7
   },
   "vancouver/ross-st": {
     "name": "Ross St",
