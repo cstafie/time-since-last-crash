@@ -1396,8 +1396,8 @@
     "name": "Hwy 99",
     "slug": "richmond/hwy-99",
     "city": "Richmond",
-    "lastIncident": "2026-05-27T20:15:00Z",
-    "count": 4
+    "lastIncident": "2026-06-06T00:12:00Z",
+    "count": 5
   },
   "port-moody/barnet-hwy": {
     "name": "Barnet Hwy",
@@ -11505,6 +11505,13 @@
     "slug": "langley/42nd-ave",
     "city": "Langley",
     "lastIncident": "2026-06-05T22:43:00Z",
+    "count": 1
+  },
+  "west-vancouver/keith-rd": {
+    "name": "Keith Rd",
+    "slug": "west-vancouver/keith-rd",
+    "city": "West Vancouver",
+    "lastIncident": "2026-06-06T00:05:00Z",
     "count": 1
   }
 }

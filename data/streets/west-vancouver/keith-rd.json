@@ -1,0 +1,22 @@
+{
+  "slug": "west-vancouver/keith-rd",
+  "name": "Keith Rd",
+  "city": "West Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-06T00:05:00Z_west-vancouver/keith-rd",
+      "timestamp": "2026-06-06T00:05:00Z",
+      "address": "KEITH RD",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/keith-rd"
+      ],
+      "streetNames": [
+        "Keith Rd"
+      ],
+      "pulsePointId": "2490164763"
+    }
+  ],
+  "lastIncident": "2026-06-06T00:05:00Z",
+  "count": 1
+}
