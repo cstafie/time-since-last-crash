@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-06-06T23:05:00Z_langley/264th-st",
+    "timestamp": "2026-06-06T23:05:00Z",
+    "scrapedAt": "2026-06-06T23:19:36Z",
+    "address": "264TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/264th-st"
+    ],
+    "streetNames": [
+      "264th St"
+    ],
+    "pulsePointId": "2490811172"
+  },
+  {
+    "id": "2026-06-06T23:05:00Z_langley/28th-ave_langley/276th-st",
+    "timestamp": "2026-06-06T23:05:00Z",
+    "scrapedAt": "2026-06-06T23:19:36Z",
+    "address": "28TH AVE & 276TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/28th-ave",
+      "langley/276th-st"
+    ],
+    "streetNames": [
+      "28th Ave",
+      "276th St"
+    ],
+    "pulsePointId": "2490811400"
+  },
+  {
+    "id": "2026-06-06T23:04:00Z_langley/264th-st",
+    "timestamp": "2026-06-06T23:04:00Z",
+    "scrapedAt": "2026-06-06T23:19:36Z",
+    "address": "264TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/264th-st"
+    ],
+    "streetNames": [
+      "264th St"
+    ],
+    "pulsePointId": "2490811279"
+  },
+  {
+    "id": "2026-06-06T22:58:00Z_vancouver/e-29th-ave_vancouver/walden-st",
+    "timestamp": "2026-06-06T22:58:00Z",
+    "scrapedAt": "2026-06-06T23:19:36Z",
+    "address": "E 29TH AVE & WALDEN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-29th-ave",
+      "vancouver/walden-st"
+    ],
+    "streetNames": [
+      "E 29th Ave",
+      "Walden St"
+    ],
+    "pulsePointId": "2490807683"
+  },
+  {
     "id": "2026-06-06T21:50:00Z_chilliwack/promontory-rd",
     "timestamp": "2026-06-06T21:50:00Z",
     "scrapedAt": "2026-06-06T22:19:49Z",

@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/walden-st",
+  "name": "Walden St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-06T22:58:00Z_vancouver/e-29th-ave_vancouver/walden-st",
+      "timestamp": "2026-06-06T22:58:00Z",
+      "address": "E 29TH AVE & WALDEN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-29th-ave",
+        "vancouver/walden-st"
+      ],
+      "streetNames": [
+        "E 29th Ave",
+        "Walden St"
+      ],
+      "pulsePointId": "2490807683"
+    }
+  ],
+  "lastIncident": "2026-06-06T22:58:00Z",
+  "count": 1
+}

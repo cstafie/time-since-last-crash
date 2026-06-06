@@ -4,6 +4,32 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-06-06T23:05:00Z_langley/264th-st",
+      "timestamp": "2026-06-06T23:05:00Z",
+      "address": "264TH ST",
+      "city": "Langley",
+      "streets": [
+        "langley/264th-st"
+      ],
+      "streetNames": [
+        "264th St"
+      ],
+      "pulsePointId": "2490811172"
+    },
+    {
+      "id": "2026-06-06T23:04:00Z_langley/264th-st",
+      "timestamp": "2026-06-06T23:04:00Z",
+      "address": "264TH ST",
+      "city": "Langley",
+      "streets": [
+        "langley/264th-st"
+      ],
+      "streetNames": [
+        "264th St"
+      ],
+      "pulsePointId": "2490811279"
+    },
+    {
       "id": "2026-05-16T13:40:00Z_langley/264th-st_langley/robertson-cres",
       "timestamp": "2026-05-16T13:40:00Z",
       "address": "264TH ST & ROBERTSON CRES",
@@ -121,6 +147,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-16T13:40:00Z",
-  "count": 8
+  "lastIncident": "2026-06-06T23:05:00Z",
+  "count": 10
 }

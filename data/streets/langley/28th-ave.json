@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-06-06T23:05:00Z_langley/28th-ave_langley/276th-st",
+      "timestamp": "2026-06-06T23:05:00Z",
+      "address": "28TH AVE & 276TH ST",
+      "city": "Langley",
+      "streets": [
+        "langley/28th-ave",
+        "langley/276th-st"
+      ],
+      "streetNames": [
+        "28th Ave",
+        "276th St"
+      ],
+      "pulsePointId": "2490811400"
+    },
+    {
       "id": "2026-05-15T01:22:00Z_langley/200th-st_langley/28th-ave",
       "timestamp": "2026-05-15T01:22:00Z",
       "address": "200TH ST & 28TH AVE",
@@ -34,6 +49,6 @@
       "pulsePointId": "2464523835"
     }
   ],
-  "lastIncident": "2026-05-15T01:22:00Z",
-  "count": 2
+  "lastIncident": "2026-06-06T23:05:00Z",
+  "count": 3
 }
