@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-06T00:58:00Z",
-    "count": 38
+    "lastIncident": "2026-06-06T17:45:00Z",
+    "count": 39
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -11561,6 +11561,13 @@
     "slug": "vancouver/woodland-dr",
     "city": "Vancouver",
     "lastIncident": "2026-06-06T16:39:00Z",
+    "count": 1
+  },
+  "vancouver/minto-cres": {
+    "name": "Minto Cres",
+    "slug": "vancouver/minto-cres",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-06T17:45:00Z",
     "count": 1
   }
 }

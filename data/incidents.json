@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-06T17:45:00Z_vancouver/granville-st_vancouver/minto-cres",
+    "timestamp": "2026-06-06T17:45:00Z",
+    "scrapedAt": "2026-06-06T17:50:37Z",
+    "address": "GRANVILLE ST & MINTO CRES",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st",
+      "vancouver/minto-cres"
+    ],
+    "streetNames": [
+      "Granville St",
+      "Minto Cres"
+    ],
+    "pulsePointId": "2490623804"
+  },
+  {
     "id": "2026-06-06T16:56:00Z_richmond/westminster-hwy",
     "timestamp": "2026-06-06T16:56:00Z",
     "scrapedAt": "2026-06-06T17:24:14Z",

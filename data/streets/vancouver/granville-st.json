@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-06T17:45:00Z_vancouver/granville-st_vancouver/minto-cres",
+      "timestamp": "2026-06-06T17:45:00Z",
+      "address": "GRANVILLE ST & MINTO CRES",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st",
+        "vancouver/minto-cres"
+      ],
+      "streetNames": [
+        "Granville St",
+        "Minto Cres"
+      ],
+      "pulsePointId": "2490623804"
+    },
+    {
       "id": "2026-06-06T00:58:00Z_vancouver/w-71st-ave_vancouver/granville-st",
       "timestamp": "2026-06-06T00:58:00Z",
       "address": "W 71ST AVE & GRANVILLE ST",
@@ -561,6 +576,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-06T00:58:00Z",
-  "count": 38
+  "lastIncident": "2026-06-06T17:45:00Z",
+  "count": 39
 }
