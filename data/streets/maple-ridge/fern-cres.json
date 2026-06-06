@@ -4,6 +4,19 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-06-06T05:19:00Z_maple-ridge/fern-cres",
+      "timestamp": "2026-06-06T05:19:00Z",
+      "address": "FERN CRES",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/fern-cres"
+      ],
+      "streetNames": [
+        "Fern Cres"
+      ],
+      "pulsePointId": "2490343170"
+    },
+    {
       "id": "2026-06-06T05:04:00Z_maple-ridge/fern-cres",
       "timestamp": "2026-06-06T05:04:00Z",
       "address": "FERN CRES",
@@ -45,6 +58,6 @@
       "pulsePointId": "2474658582"
     }
   ],
-  "lastIncident": "2026-06-06T05:04:00Z",
-  "count": 3
+  "lastIncident": "2026-06-06T05:19:00Z",
+  "count": 4
 }

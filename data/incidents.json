@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-06-06T05:47:00Z_surrey/160th-st",
+    "timestamp": "2026-06-06T05:47:00Z",
+    "scrapedAt": "2026-06-06T06:37:06Z",
+    "address": "160TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/160th-st"
+    ],
+    "streetNames": [
+      "160th St"
+    ],
+    "pulsePointId": "2490353906"
+  },
+  {
+    "id": "2026-06-06T05:19:00Z_maple-ridge/fern-cres",
+    "timestamp": "2026-06-06T05:19:00Z",
+    "scrapedAt": "2026-06-06T06:37:06Z",
+    "address": "FERN CRES",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/fern-cres"
+    ],
+    "streetNames": [
+      "Fern Cres"
+    ],
+    "pulsePointId": "2490343170"
+  },
+  {
     "id": "2026-06-06T05:04:00Z_maple-ridge/fern-cres",
     "timestamp": "2026-06-06T05:04:00Z",
     "scrapedAt": "2026-06-06T05:14:08Z",

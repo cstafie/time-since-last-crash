@@ -1032,8 +1032,8 @@
     "name": "160th St",
     "slug": "surrey/160th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-27T20:49:00Z",
-    "count": 15
+    "lastIncident": "2026-06-06T05:47:00Z",
+    "count": 16
   },
   "vancouver/e-28th-ave": {
     "name": "E 28th Ave",
@@ -9628,8 +9628,8 @@
     "name": "Fern Cres",
     "slug": "maple-ridge/fern-cres",
     "city": "Maple Ridge",
-    "lastIncident": "2026-06-06T05:04:00Z",
-    "count": 3
+    "lastIncident": "2026-06-06T05:19:00Z",
+    "count": 4
   },
   "vancouver/comox-st": {
     "name": "Comox St",
