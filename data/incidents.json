@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-06T12:55:00Z_delta/hwy-17",
+    "timestamp": "2026-06-06T12:55:00Z",
+    "scrapedAt": "2026-06-06T13:29:24Z",
+    "address": "HWY 17",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-17"
+    ],
+    "streetNames": [
+      "Hwy 17"
+    ],
+    "pulsePointId": "2490486797"
+  },
+  {
     "id": "2026-06-06T09:00:00Z_delta/kittson-pkwy_delta/lyon-rd",
     "timestamp": "2026-06-06T09:00:00Z",
     "scrapedAt": "2026-06-06T09:38:16Z",

@@ -4,6 +4,19 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-06-06T12:55:00Z_delta/hwy-17",
+      "timestamp": "2026-06-06T12:55:00Z",
+      "address": "HWY 17",
+      "city": "Delta",
+      "streets": [
+        "delta/hwy-17"
+      ],
+      "streetNames": [
+        "Hwy 17"
+      ],
+      "pulsePointId": "2490486797"
+    },
+    {
       "id": "2026-05-29T14:03:00Z_delta/hwy-17",
       "timestamp": "2026-05-29T14:03:00Z",
       "address": "HWY 17",
@@ -164,6 +177,6 @@
       "pulsePointId": "2446023750"
     }
   ],
-  "lastIncident": "2026-05-29T14:03:00Z",
-  "count": 12
+  "lastIncident": "2026-06-06T12:55:00Z",
+  "count": 13
 }
