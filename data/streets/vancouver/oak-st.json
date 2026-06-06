@@ -4,6 +4,36 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-06T00:59:00Z_vancouver/w-45th-ave_vancouver/oak-st",
+      "timestamp": "2026-06-06T00:59:00Z",
+      "address": "W 45TH AVE & OAK ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-45th-ave",
+        "vancouver/oak-st"
+      ],
+      "streetNames": [
+        "W 45th Ave",
+        "Oak St"
+      ],
+      "pulsePointId": "2490199708"
+    },
+    {
+      "id": "2026-06-06T00:56:00Z_vancouver/oak-st_vancouver/w-41st-ave",
+      "timestamp": "2026-06-06T00:56:00Z",
+      "address": "OAK ST & W 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/oak-st",
+        "vancouver/w-41st-ave"
+      ],
+      "streetNames": [
+        "Oak St",
+        "W 41st Ave"
+      ],
+      "pulsePointId": "2490197181"
+    },
+    {
       "id": "2026-06-04T15:17:00Z_vancouver/oak-st",
       "timestamp": "2026-06-04T15:17:00Z",
       "address": "OAK ST",
@@ -484,6 +514,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-04T15:17:00Z",
-  "count": 33
+  "lastIncident": "2026-06-06T00:59:00Z",
+  "count": 35
 }

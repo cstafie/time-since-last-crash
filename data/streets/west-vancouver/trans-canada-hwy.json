@@ -4,6 +4,21 @@
   "city": "West Vancouver",
   "incidents": [
     {
+      "id": "2026-06-06T01:10:00Z_west-vancouver/cypress-bowl-road-onrp_west-vancouver/trans-canada-hwy",
+      "timestamp": "2026-06-06T01:10:00Z",
+      "address": "CYPRESS BOWL ROAD ONRP & TRANS CANADA HWY",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/cypress-bowl-road-onrp",
+        "west-vancouver/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Cypress Bowl Road Onrp",
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2490209044"
+    },
+    {
       "id": "2026-04-07T07:14:00Z_west-vancouver/trans-canada-hwy",
       "timestamp": "2026-04-07T07:14:00Z",
       "address": "TRANS CANADA HWY",
@@ -43,6 +58,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-07T07:14:00Z",
-  "count": 3
+  "lastIncident": "2026-06-06T01:10:00Z",
+  "count": 4
 }

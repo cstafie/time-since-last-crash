@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-06T00:59:00Z_vancouver/w-45th-ave_vancouver/oak-st",
+      "timestamp": "2026-06-06T00:59:00Z",
+      "address": "W 45TH AVE & OAK ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-45th-ave",
+        "vancouver/oak-st"
+      ],
+      "streetNames": [
+        "W 45th Ave",
+        "Oak St"
+      ],
+      "pulsePointId": "2490199708"
+    },
+    {
       "id": "2026-03-18T20:30:00Z_vancouver/w-45th-ave_vancouver/west-boulevard",
       "timestamp": "2026-03-18T20:30:00Z",
       "address": "W 45TH AVE & WEST BOULEVARD",
@@ -34,6 +49,6 @@
       "pulsePointId": "2436714441"
     }
   ],
-  "lastIncident": "2026-03-18T20:30:00Z",
-  "count": 2
+  "lastIncident": "2026-06-06T00:59:00Z",
+  "count": 3
 }

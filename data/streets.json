@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-30T20:29:00Z",
-    "count": 37
+    "lastIncident": "2026-06-06T00:58:00Z",
+    "count": 38
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -766,8 +766,8 @@
     "name": "Oak St",
     "slug": "vancouver/oak-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-04T15:17:00Z",
-    "count": 33
+    "lastIncident": "2026-06-06T00:59:00Z",
+    "count": 35
   },
   "vancouver/w-12th-ave": {
     "name": "W 12th Ave",
@@ -822,8 +822,8 @@
     "name": "Trans Canada Hwy",
     "slug": "west-vancouver/trans-canada-hwy",
     "city": "West Vancouver",
-    "lastIncident": "2026-04-07T07:14:00Z",
-    "count": 3
+    "lastIncident": "2026-06-06T01:10:00Z",
+    "count": 4
   },
   "pitt-meadows/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -2348,8 +2348,8 @@
     "name": "W 41st Ave",
     "slug": "vancouver/w-41st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-27T21:34:00Z",
-    "count": 13
+    "lastIncident": "2026-06-06T00:56:00Z",
+    "count": 14
   },
   "burnaby/cariboo-rd": {
     "name": "Cariboo Rd",
@@ -2859,8 +2859,8 @@
     "name": "W 45th Ave",
     "slug": "vancouver/w-45th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-03-18T20:30:00Z",
-    "count": 2
+    "lastIncident": "2026-06-06T00:59:00Z",
+    "count": 3
   },
   "vancouver/west-boulevard": {
     "name": "West Boulevard",
@@ -6261,8 +6261,8 @@
     "name": "North Rd",
     "slug": "burnaby/north-rd",
     "city": "Burnaby",
-    "lastIncident": "2026-05-01T23:26:00Z",
-    "count": 4
+    "lastIncident": "2026-06-06T01:02:00Z",
+    "count": 5
   },
   "burnaby/cameron-st": {
     "name": "Cameron St",
@@ -11512,6 +11512,20 @@
     "slug": "west-vancouver/keith-rd",
     "city": "West Vancouver",
     "lastIncident": "2026-06-06T00:05:00Z",
+    "count": 1
+  },
+  "west-vancouver/cypress-bowl-road-onrp": {
+    "name": "Cypress Bowl Road Onrp",
+    "slug": "west-vancouver/cypress-bowl-road-onrp",
+    "city": "West Vancouver",
+    "lastIncident": "2026-06-06T01:10:00Z",
+    "count": 1
+  },
+  "vancouver/w-71st-ave": {
+    "name": "W 71st Ave",
+    "slug": "vancouver/w-71st-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-06T00:58:00Z",
     "count": 1
   }
 }

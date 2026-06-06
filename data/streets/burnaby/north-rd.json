@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-06T01:02:00Z_burnaby/north-rd",
+      "timestamp": "2026-06-06T01:02:00Z",
+      "address": "NORTH RD",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/north-rd"
+      ],
+      "streetNames": [
+        "North Rd"
+      ],
+      "pulsePointId": "2490200778"
+    },
+    {
       "id": "2026-05-01T23:26:00Z_burnaby/north-rd_burnaby/como-lake-ave",
       "timestamp": "2026-05-01T23:26:00Z",
       "address": "NORTH RD & COMO LAKE AVE",
@@ -64,6 +77,6 @@
       "pulsePointId": "2451881945"
     }
   ],
-  "lastIncident": "2026-05-01T23:26:00Z",
-  "count": 4
+  "lastIncident": "2026-06-06T01:02:00Z",
+  "count": 5
 }
