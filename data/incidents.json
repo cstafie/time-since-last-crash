@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-06T19:33:00Z_surrey/marine-dr_surrey/130th-st",
+    "timestamp": "2026-06-06T19:33:00Z",
+    "scrapedAt": "2026-06-06T19:57:33Z",
+    "address": "MARINE DR & 130TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/marine-dr",
+      "surrey/130th-st"
+    ],
+    "streetNames": [
+      "Marine Dr",
+      "130th St"
+    ],
+    "pulsePointId": "2490684665"
+  },
+  {
+    "id": "2026-06-06T19:32:00Z_surrey/160th-st_surrey/king-george-blvd",
+    "timestamp": "2026-06-06T19:32:00Z",
+    "scrapedAt": "2026-06-06T19:57:33Z",
+    "address": "160TH ST & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/160th-st",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "160th St",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2490683176"
+  },
+  {
     "id": "2026-06-06T19:16:00Z_abbotsford/gladwin-rd_abbotsford/george-ferguson-way",
     "timestamp": "2026-06-06T19:16:00Z",
     "scrapedAt": "2026-06-06T19:28:30Z",

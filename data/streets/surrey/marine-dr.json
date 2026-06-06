@@ -1,0 +1,24 @@
+{
+  "slug": "surrey/marine-dr",
+  "name": "Marine Dr",
+  "city": "Surrey",
+  "incidents": [
+    {
+      "id": "2026-06-06T19:33:00Z_surrey/marine-dr_surrey/130th-st",
+      "timestamp": "2026-06-06T19:33:00Z",
+      "address": "MARINE DR & 130TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/marine-dr",
+        "surrey/130th-st"
+      ],
+      "streetNames": [
+        "Marine Dr",
+        "130th St"
+      ],
+      "pulsePointId": "2490684665"
+    }
+  ],
+  "lastIncident": "2026-06-06T19:33:00Z",
+  "count": 1
+}

@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-06-06T08:29:00Z",
-    "count": 61
+    "lastIncident": "2026-06-06T19:32:00Z",
+    "count": 62
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -1032,8 +1032,8 @@
     "name": "160th St",
     "slug": "surrey/160th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-06T05:47:00Z",
-    "count": 16
+    "lastIncident": "2026-06-06T19:32:00Z",
+    "count": 17
   },
   "vancouver/e-28th-ave": {
     "name": "E 28th Ave",
@@ -5547,8 +5547,8 @@
     "name": "130th St",
     "slug": "surrey/130th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-03T15:57:00Z",
-    "count": 11
+    "lastIncident": "2026-06-06T19:33:00Z",
+    "count": 12
   },
   "vancouver/windermere-st": {
     "name": "Windermere St",
@@ -11582,6 +11582,13 @@
     "slug": "burnaby/kincaid-st",
     "city": "Burnaby",
     "lastIncident": "2026-06-06T19:01:00Z",
+    "count": 1
+  },
+  "surrey/marine-dr": {
+    "name": "Marine Dr",
+    "slug": "surrey/marine-dr",
+    "city": "Surrey",
+    "lastIncident": "2026-06-06T19:33:00Z",
     "count": 1
   }
 }

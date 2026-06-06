@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-06T19:32:00Z_surrey/160th-st_surrey/king-george-blvd",
+      "timestamp": "2026-06-06T19:32:00Z",
+      "address": "160TH ST & KING GEORGE BLVD",
+      "city": "Surrey",
+      "streets": [
+        "surrey/160th-st",
+        "surrey/king-george-blvd"
+      ],
+      "streetNames": [
+        "160th St",
+        "King George Blvd"
+      ],
+      "pulsePointId": "2490683176"
+    },
+    {
       "id": "2026-06-06T08:29:00Z_surrey/88th-ave_surrey/king-george-blvd",
       "timestamp": "2026-06-06T08:29:00Z",
       "address": "88TH AVE & KING GEORGE BLVD",
@@ -891,6 +906,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-06T08:29:00Z",
-  "count": 61
+  "lastIncident": "2026-06-06T19:32:00Z",
+  "count": 62
 }
