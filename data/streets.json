@@ -5232,8 +5232,8 @@
     "name": "Gladwin Rd",
     "slug": "abbotsford/gladwin-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-22T22:29:00Z",
-    "count": 7
+    "lastIncident": "2026-06-06T19:16:00Z",
+    "count": 8
   },
   "surrey/old-yale-rd": {
     "name": "Old Yale Rd",
@@ -6492,8 +6492,8 @@
     "name": "George Ferguson Way",
     "slug": "abbotsford/george-ferguson-way",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-05T21:46:00Z",
-    "count": 6
+    "lastIncident": "2026-06-06T19:16:00Z",
+    "count": 7
   },
   "new-westminster/richmond-st": {
     "name": "Richmond St",
@@ -11568,6 +11568,20 @@
     "slug": "vancouver/minto-cres",
     "city": "Vancouver",
     "lastIncident": "2026-06-06T17:45:00Z",
+    "count": 1
+  },
+  "burnaby/smith-ave": {
+    "name": "Smith Ave",
+    "slug": "burnaby/smith-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-06-06T19:01:00Z",
+    "count": 1
+  },
+  "burnaby/kincaid-st": {
+    "name": "Kincaid St",
+    "slug": "burnaby/kincaid-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-06-06T19:01:00Z",
     "count": 1
   }
 }

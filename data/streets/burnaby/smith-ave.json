@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/smith-ave",
+  "name": "Smith Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-06-06T19:01:00Z_burnaby/smith-ave_burnaby/kincaid-st",
+      "timestamp": "2026-06-06T19:01:00Z",
+      "address": "SMITH AVE & KINCAID ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/smith-ave",
+        "burnaby/kincaid-st"
+      ],
+      "streetNames": [
+        "Smith Ave",
+        "Kincaid St"
+      ],
+      "pulsePointId": "2490666869"
+    }
+  ],
+  "lastIncident": "2026-06-06T19:01:00Z",
+  "count": 1
+}

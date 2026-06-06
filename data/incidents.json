@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-06T19:16:00Z_abbotsford/gladwin-rd_abbotsford/george-ferguson-way",
+    "timestamp": "2026-06-06T19:16:00Z",
+    "scrapedAt": "2026-06-06T19:28:30Z",
+    "address": "GLADWIN RD & GEORGE FERGUSON WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/gladwin-rd",
+      "abbotsford/george-ferguson-way"
+    ],
+    "streetNames": [
+      "Gladwin Rd",
+      "George Ferguson Way"
+    ],
+    "pulsePointId": "2490675641"
+  },
+  {
+    "id": "2026-06-06T19:01:00Z_burnaby/smith-ave_burnaby/kincaid-st",
+    "timestamp": "2026-06-06T19:01:00Z",
+    "scrapedAt": "2026-06-06T19:28:30Z",
+    "address": "SMITH AVE & KINCAID ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/smith-ave",
+      "burnaby/kincaid-st"
+    ],
+    "streetNames": [
+      "Smith Ave",
+      "Kincaid St"
+    ],
+    "pulsePointId": "2490666869"
+  },
+  {
     "id": "2026-06-06T18:01:00Z_surrey/128th-st_surrey/80th-ave",
     "timestamp": "2026-06-06T18:01:00Z",
     "scrapedAt": "2026-06-06T18:21:49Z",
