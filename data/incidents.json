@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-06-06T16:56:00Z_richmond/westminster-hwy",
+    "timestamp": "2026-06-06T16:56:00Z",
+    "scrapedAt": "2026-06-06T17:24:14Z",
+    "address": "WESTMINSTER HWY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/westminster-hwy"
+    ],
+    "streetNames": [
+      "Westminster Hwy"
+    ],
+    "pulsePointId": "2490594521"
+  },
+  {
+    "id": "2026-06-06T16:55:00Z_richmond/hwy-91",
+    "timestamp": "2026-06-06T16:55:00Z",
+    "scrapedAt": "2026-06-06T17:24:14Z",
+    "address": "HWY 91",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hwy-91"
+    ],
+    "streetNames": [
+      "Hwy 91"
+    ],
+    "pulsePointId": "2490594514"
+  },
+  {
     "id": "2026-06-06T16:39:00Z_vancouver/e-12th-ave_vancouver/woodland-dr",
     "timestamp": "2026-06-06T16:39:00Z",
     "scrapedAt": "2026-06-06T16:49:36Z",
