@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-06T21:50:00Z_chilliwack/promontory-rd",
+    "timestamp": "2026-06-06T21:50:00Z",
+    "scrapedAt": "2026-06-06T22:19:49Z",
+    "address": "PROMONTORY RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/promontory-rd"
+    ],
+    "streetNames": [
+      "Promontory Rd"
+    ],
+    "pulsePointId": "2490764736"
+  },
+  {
     "id": "2026-06-06T21:28:00Z_burnaby/woolwich-ave_burnaby/broadway",
     "timestamp": "2026-06-06T21:28:00Z",
     "scrapedAt": "2026-06-06T21:47:56Z",
