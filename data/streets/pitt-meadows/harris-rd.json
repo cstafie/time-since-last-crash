@@ -4,6 +4,21 @@
   "city": "Pitt Meadows",
   "incidents": [
     {
+      "id": "2026-06-06T17:53:00Z_pitt-meadows/lougheed-hwy_pitt-meadows/harris-rd",
+      "timestamp": "2026-06-06T17:53:00Z",
+      "address": "LOUGHEED HWY & HARRIS RD",
+      "city": "Pitt Meadows",
+      "streets": [
+        "pitt-meadows/lougheed-hwy",
+        "pitt-meadows/harris-rd"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "Harris Rd"
+      ],
+      "pulsePointId": "2490626365"
+    },
+    {
       "id": "2026-05-24T23:12:00Z_pitt-meadows/harris-rd_pitt-meadows/mcmyn-rd",
       "timestamp": "2026-05-24T23:12:00Z",
       "address": "HARRIS RD & MCMYN RD",
@@ -47,6 +62,6 @@
       "pulsePointId": "2439010835"
     }
   ],
-  "lastIncident": "2026-05-24T23:12:00Z",
-  "count": 3
+  "lastIncident": "2026-06-06T17:53:00Z",
+  "count": 4
 }

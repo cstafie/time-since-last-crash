@@ -535,8 +535,8 @@
     "name": "128th St",
     "slug": "surrey/128th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-03T14:28:00Z",
-    "count": 26
+    "lastIncident": "2026-06-06T18:01:00Z",
+    "count": 27
   },
   "surrey/130b-st": {
     "name": "130b St",
@@ -829,8 +829,8 @@
     "name": "Lougheed Hwy",
     "slug": "pitt-meadows/lougheed-hwy",
     "city": "Pitt Meadows",
-    "lastIncident": "2026-06-05T19:39:00Z",
-    "count": 8
+    "lastIncident": "2026-06-06T17:53:00Z",
+    "count": 9
   },
   "langley/240th-st": {
     "name": "240th St",
@@ -1620,8 +1620,8 @@
     "name": "80th Ave",
     "slug": "surrey/80th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-03T23:27:00Z",
-    "count": 21
+    "lastIncident": "2026-06-06T18:01:00Z",
+    "count": 22
   },
   "surrey/156th-st": {
     "name": "156th St",
@@ -3524,8 +3524,8 @@
     "name": "Harris Rd",
     "slug": "pitt-meadows/harris-rd",
     "city": "Pitt Meadows",
-    "lastIncident": "2026-05-24T23:12:00Z",
-    "count": 3
+    "lastIncident": "2026-06-06T17:53:00Z",
+    "count": 4
   },
   "burnaby/gaglardi-way": {
     "name": "Gaglardi Way",

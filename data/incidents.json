@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-06T18:01:00Z_surrey/128th-st_surrey/80th-ave",
+    "timestamp": "2026-06-06T18:01:00Z",
+    "scrapedAt": "2026-06-06T18:21:49Z",
+    "address": "128TH ST & 80TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/128th-st",
+      "surrey/80th-ave"
+    ],
+    "streetNames": [
+      "128th St",
+      "80th Ave"
+    ],
+    "pulsePointId": "2490632448"
+  },
+  {
+    "id": "2026-06-06T17:53:00Z_pitt-meadows/lougheed-hwy_pitt-meadows/harris-rd",
+    "timestamp": "2026-06-06T17:53:00Z",
+    "scrapedAt": "2026-06-06T18:21:49Z",
+    "address": "LOUGHEED HWY & HARRIS RD",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/lougheed-hwy",
+      "pitt-meadows/harris-rd"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "Harris Rd"
+    ],
+    "pulsePointId": "2490626365"
+  },
+  {
     "id": "2026-06-06T17:45:00Z_vancouver/granville-st_vancouver/minto-cres",
     "timestamp": "2026-06-06T17:45:00Z",
     "scrapedAt": "2026-06-06T17:50:37Z",
