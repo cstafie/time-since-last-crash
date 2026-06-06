@@ -1074,8 +1074,8 @@
     "name": "Mariner Way",
     "slug": "coquitlam/mariner-way",
     "city": "Coquitlam",
-    "lastIncident": "2026-05-25T21:37:00Z",
-    "count": 4
+    "lastIncident": "2026-06-06T02:28:00Z",
+    "count": 5
   },
   "richmond/no-1-rd": {
     "name": "No 1 Rd",
@@ -2229,8 +2229,8 @@
     "name": "56th St",
     "slug": "delta/56th-st",
     "city": "Delta",
-    "lastIncident": "2026-05-02T04:44:00Z",
-    "count": 2
+    "lastIncident": "2026-06-06T02:20:00Z",
+    "count": 3
   },
   "vancouver/e-63rd-ave": {
     "name": "E 63rd Ave",
@@ -2684,8 +2684,8 @@
     "name": "Dewdney Trunk Rd",
     "slug": "coquitlam/dewdney-trunk-rd",
     "city": "Coquitlam",
-    "lastIncident": "2026-04-04T21:45:00Z",
-    "count": 2
+    "lastIncident": "2026-06-06T02:28:00Z",
+    "count": 3
   },
   "coquitlam/norman-ave": {
     "name": "Norman Ave",
@@ -11533,6 +11533,13 @@
     "slug": "vancouver/hoy-st",
     "city": "Vancouver",
     "lastIncident": "2026-06-06T01:50:00Z",
+    "count": 1
+  },
+  "delta/19th-ave": {
+    "name": "19th Ave",
+    "slug": "delta/19th-ave",
+    "city": "Delta",
+    "lastIncident": "2026-06-06T02:20:00Z",
     "count": 1
   }
 }

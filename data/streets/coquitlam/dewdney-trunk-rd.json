@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-06-06T02:28:00Z_coquitlam/dewdney-trunk-rd_coquitlam/mariner-way",
+      "timestamp": "2026-06-06T02:28:00Z",
+      "address": "DEWDNEY TRUNK RD & MARINER WAY",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/dewdney-trunk-rd",
+        "coquitlam/mariner-way"
+      ],
+      "streetNames": [
+        "Dewdney Trunk Rd",
+        "Mariner Way"
+      ],
+      "pulsePointId": "2490252792"
+    },
+    {
       "id": "2026-04-04T21:45:00Z_coquitlam/norman-ave_coquitlam/dewdney-trunk-rd",
       "timestamp": "2026-04-04T21:45:00Z",
       "address": "NORMAN AVE & DEWDNEY TRUNK RD",
@@ -34,6 +49,6 @@
       "pulsePointId": "2436163261"
     }
   ],
-  "lastIncident": "2026-04-04T21:45:00Z",
-  "count": 2
+  "lastIncident": "2026-06-06T02:28:00Z",
+  "count": 3
 }

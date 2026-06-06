@@ -4,6 +4,21 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-06-06T02:20:00Z_delta/19th-ave_delta/56th-st",
+      "timestamp": "2026-06-06T02:20:00Z",
+      "address": "19TH AVE & 56TH ST",
+      "city": "Delta",
+      "streets": [
+        "delta/19th-ave",
+        "delta/56th-st"
+      ],
+      "streetNames": [
+        "19th Ave",
+        "56th St"
+      ],
+      "pulsePointId": "2490246995"
+    },
+    {
       "id": "2026-05-02T04:44:00Z_delta/56th-st_delta/hwy-17",
       "timestamp": "2026-05-02T04:44:00Z",
       "address": "56TH ST & HWY 17",
@@ -34,6 +49,6 @@
       "pulsePointId": "2434934368"
     }
   ],
-  "lastIncident": "2026-05-02T04:44:00Z",
-  "count": 2
+  "lastIncident": "2026-06-06T02:20:00Z",
+  "count": 3
 }

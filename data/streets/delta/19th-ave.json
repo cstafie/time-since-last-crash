@@ -1,0 +1,24 @@
+{
+  "slug": "delta/19th-ave",
+  "name": "19th Ave",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-06-06T02:20:00Z_delta/19th-ave_delta/56th-st",
+      "timestamp": "2026-06-06T02:20:00Z",
+      "address": "19TH AVE & 56TH ST",
+      "city": "Delta",
+      "streets": [
+        "delta/19th-ave",
+        "delta/56th-st"
+      ],
+      "streetNames": [
+        "19th Ave",
+        "56th St"
+      ],
+      "pulsePointId": "2490246995"
+    }
+  ],
+  "lastIncident": "2026-06-06T02:20:00Z",
+  "count": 1
+}

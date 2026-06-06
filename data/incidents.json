@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-06T02:28:00Z_coquitlam/dewdney-trunk-rd_coquitlam/mariner-way",
+    "timestamp": "2026-06-06T02:28:00Z",
+    "scrapedAt": "2026-06-06T03:43:30Z",
+    "address": "DEWDNEY TRUNK RD & MARINER WAY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/dewdney-trunk-rd",
+      "coquitlam/mariner-way"
+    ],
+    "streetNames": [
+      "Dewdney Trunk Rd",
+      "Mariner Way"
+    ],
+    "pulsePointId": "2490252792"
+  },
+  {
+    "id": "2026-06-06T02:20:00Z_delta/19th-ave_delta/56th-st",
+    "timestamp": "2026-06-06T02:20:00Z",
+    "scrapedAt": "2026-06-06T03:43:30Z",
+    "address": "19TH AVE & 56TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/19th-ave",
+      "delta/56th-st"
+    ],
+    "streetNames": [
+      "19th Ave",
+      "56th St"
+    ],
+    "pulsePointId": "2490246995"
+  },
+  {
     "id": "2026-06-06T01:50:00Z_vancouver/e-29th-ave_vancouver/hoy-st",
     "timestamp": "2026-06-06T01:50:00Z",
     "scrapedAt": "2026-06-06T02:16:02Z",
