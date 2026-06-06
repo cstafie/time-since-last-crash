@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-06T08:29:00Z_surrey/88th-ave_surrey/king-george-blvd",
+    "timestamp": "2026-06-06T08:29:00Z",
+    "scrapedAt": "2026-06-06T08:48:50Z",
+    "address": "88TH AVE & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/88th-ave",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "88th Ave",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2490412530"
+  },
+  {
+    "id": "2026-06-06T07:59:00Z_langley/fraser-hwy",
+    "timestamp": "2026-06-06T07:59:00Z",
+    "scrapedAt": "2026-06-06T08:48:50Z",
+    "address": "FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy"
+    ],
+    "streetNames": [
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2490403729"
+  },
+  {
     "id": "2026-06-06T07:27:00Z_langley/208th-st",
     "timestamp": "2026-06-06T07:27:00Z",
     "scrapedAt": "2026-06-06T07:55:00Z",
