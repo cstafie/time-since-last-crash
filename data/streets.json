@@ -4546,8 +4546,8 @@
     "name": "208th St",
     "slug": "langley/208th-st",
     "city": "Langley",
-    "lastIncident": "2026-05-26T15:31:00Z",
-    "count": 9
+    "lastIncident": "2026-06-06T07:27:00Z",
+    "count": 10
   },
   "langley/46a-ave": {
     "name": "46a Ave",
@@ -11540,6 +11540,20 @@
     "slug": "delta/19th-ave",
     "city": "Delta",
     "lastIncident": "2026-06-06T02:20:00Z",
+    "count": 1
+  },
+  "abbotsford/mckee-rd": {
+    "name": "Mckee Rd",
+    "slug": "abbotsford/mckee-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-06-06T06:59:00Z",
+    "count": 1
+  },
+  "abbotsford/purcell-ave": {
+    "name": "Purcell Ave",
+    "slug": "abbotsford/purcell-ave",
+    "city": "Abbotsford",
+    "lastIncident": "2026-06-06T06:59:00Z",
     "count": 1
   }
 }
