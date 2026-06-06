@@ -4,6 +4,19 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-06-06T04:21:00Z_langley/88th-ave",
+      "timestamp": "2026-06-06T04:21:00Z",
+      "address": "88TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/88th-ave"
+      ],
+      "streetNames": [
+        "88th Ave"
+      ],
+      "pulsePointId": "2490316349"
+    },
+    {
       "id": "2026-05-30T02:53:00Z_langley/204th-st_langley/88th-ave",
       "timestamp": "2026-05-30T02:53:00Z",
       "address": "204TH ST & 88TH AVE",
@@ -128,6 +141,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-30T02:53:00Z",
-  "count": 9
+  "lastIncident": "2026-06-06T04:21:00Z",
+  "count": 10
 }

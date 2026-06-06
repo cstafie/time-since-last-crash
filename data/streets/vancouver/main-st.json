@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-06T04:59:00Z_vancouver/e-41st-ave_vancouver/main-st",
+      "timestamp": "2026-06-06T04:59:00Z",
+      "address": "E 41ST AVE & MAIN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-41st-ave",
+        "vancouver/main-st"
+      ],
+      "streetNames": [
+        "E 41st Ave",
+        "Main St"
+      ],
+      "pulsePointId": "2490333345"
+    },
+    {
       "id": "2026-06-05T02:20:00Z_vancouver/e-1st-ave_vancouver/main-st",
       "timestamp": "2026-06-05T02:20:00Z",
       "address": "E 1ST AVE & MAIN ST",
@@ -588,6 +603,6 @@
       "pulsePointId": "2432937969"
     }
   ],
-  "lastIncident": "2026-06-05T02:20:00Z",
-  "count": 40
+  "lastIncident": "2026-06-06T04:59:00Z",
+  "count": 41
 }

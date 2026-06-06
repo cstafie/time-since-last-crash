@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-06-06T05:04:00Z_maple-ridge/fern-cres",
+    "timestamp": "2026-06-06T05:04:00Z",
+    "scrapedAt": "2026-06-06T05:14:08Z",
+    "address": "FERN CRES",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/fern-cres"
+    ],
+    "streetNames": [
+      "Fern Cres"
+    ],
+    "pulsePointId": "2490337546"
+  },
+  {
+    "id": "2026-06-06T04:59:00Z_vancouver/e-41st-ave_vancouver/main-st",
+    "timestamp": "2026-06-06T04:59:00Z",
+    "scrapedAt": "2026-06-06T05:14:08Z",
+    "address": "E 41ST AVE & MAIN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-41st-ave",
+      "vancouver/main-st"
+    ],
+    "streetNames": [
+      "E 41st Ave",
+      "Main St"
+    ],
+    "pulsePointId": "2490333345"
+  },
+  {
+    "id": "2026-06-06T04:21:00Z_langley/88th-ave",
+    "timestamp": "2026-06-06T04:21:00Z",
+    "scrapedAt": "2026-06-06T05:14:08Z",
+    "address": "88TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/88th-ave"
+    ],
+    "streetNames": [
+      "88th Ave"
+    ],
+    "pulsePointId": "2490316349"
+  },
+  {
     "id": "2026-06-06T02:28:00Z_coquitlam/dewdney-trunk-rd_coquitlam/mariner-way",
     "timestamp": "2026-06-06T02:28:00Z",
     "scrapedAt": "2026-06-06T03:43:30Z",

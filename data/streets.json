@@ -717,8 +717,8 @@
     "name": "E 41st Ave",
     "slug": "vancouver/e-41st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-03T17:08:00Z",
-    "count": 29
+    "lastIncident": "2026-06-06T04:59:00Z",
+    "count": 30
   },
   "vancouver/granville-st": {
     "name": "Granville St",
@@ -1046,8 +1046,8 @@
     "name": "88th Ave",
     "slug": "langley/88th-ave",
     "city": "Langley",
-    "lastIncident": "2026-05-30T02:53:00Z",
-    "count": 9
+    "lastIncident": "2026-06-06T04:21:00Z",
+    "count": 10
   },
   "chilliwack/ryder-lake-rd": {
     "name": "Ryder Lake Rd",
@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-05T02:20:00Z",
-    "count": 40
+    "lastIncident": "2026-06-06T04:59:00Z",
+    "count": 41
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",
@@ -9628,8 +9628,8 @@
     "name": "Fern Cres",
     "slug": "maple-ridge/fern-cres",
     "city": "Maple Ridge",
-    "lastIncident": "2026-06-03T02:16:00Z",
-    "count": 2
+    "lastIncident": "2026-06-06T05:04:00Z",
+    "count": 3
   },
   "vancouver/comox-st": {
     "name": "Comox St",
