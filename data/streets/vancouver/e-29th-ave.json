@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-06T01:50:00Z_vancouver/e-29th-ave_vancouver/hoy-st",
+      "timestamp": "2026-06-06T01:50:00Z",
+      "address": "E 29TH AVE & HOY ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-29th-ave",
+        "vancouver/hoy-st"
+      ],
+      "streetNames": [
+        "E 29th Ave",
+        "Hoy St"
+      ],
+      "pulsePointId": "2490230123"
+    },
+    {
       "id": "2026-05-02T20:11:00Z_vancouver/e-29th-ave_vancouver/knight-st",
       "timestamp": "2026-05-02T20:11:00Z",
       "address": "E 29TH AVE & KNIGHT ST",
@@ -94,6 +109,6 @@
       "pulsePointId": "2434824658"
     }
   ],
-  "lastIncident": "2026-05-02T20:11:00Z",
-  "count": 6
+  "lastIncident": "2026-06-06T01:50:00Z",
+  "count": 7
 }
