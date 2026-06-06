@@ -1116,8 +1116,8 @@
     "name": "Lougheed Hwy",
     "slug": "coquitlam/lougheed-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-05-27T20:49:00Z",
-    "count": 14
+    "lastIncident": "2026-06-06T20:26:00Z",
+    "count": 16
   },
   "coquitlam/orchid-dr": {
     "name": "Orchid Dr",
@@ -11589,6 +11589,13 @@
     "slug": "surrey/marine-dr",
     "city": "Surrey",
     "lastIncident": "2026-06-06T19:33:00Z",
+    "count": 1
+  },
+  "coquitlam/westwood-st": {
+    "name": "Westwood St",
+    "slug": "coquitlam/westwood-st",
+    "city": "Coquitlam",
+    "lastIncident": "2026-06-06T20:26:00Z",
     "count": 1
   }
 }
