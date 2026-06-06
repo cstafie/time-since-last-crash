@@ -3671,8 +3671,8 @@
     "name": "Broadway",
     "slug": "burnaby/broadway",
     "city": "Burnaby",
-    "lastIncident": "2026-06-04T21:08:00Z",
-    "count": 4
+    "lastIncident": "2026-06-06T21:28:00Z",
+    "count": 5
   },
   "abbotsford/cottonwood-st": {
     "name": "Cottonwood St",
@@ -11596,6 +11596,13 @@
     "slug": "coquitlam/westwood-st",
     "city": "Coquitlam",
     "lastIncident": "2026-06-06T20:26:00Z",
+    "count": 1
+  },
+  "burnaby/woolwich-ave": {
+    "name": "Woolwich Ave",
+    "slug": "burnaby/woolwich-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-06-06T21:28:00Z",
     "count": 1
   }
 }

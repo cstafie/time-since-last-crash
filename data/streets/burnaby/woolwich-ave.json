@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/woolwich-ave",
+  "name": "Woolwich Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-06-06T21:28:00Z_burnaby/woolwich-ave_burnaby/broadway",
+      "timestamp": "2026-06-06T21:28:00Z",
+      "address": "WOOLWICH AVE & BROADWAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/woolwich-ave",
+        "burnaby/broadway"
+      ],
+      "streetNames": [
+        "Woolwich Ave",
+        "Broadway"
+      ],
+      "pulsePointId": "2490751088"
+    }
+  ],
+  "lastIncident": "2026-06-06T21:28:00Z",
+  "count": 1
+}
