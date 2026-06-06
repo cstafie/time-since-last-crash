@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-06T16:39:00Z_vancouver/e-12th-ave_vancouver/woodland-dr",
+    "timestamp": "2026-06-06T16:39:00Z",
+    "scrapedAt": "2026-06-06T16:49:36Z",
+    "address": "E 12TH AVE & WOODLAND DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-12th-ave",
+      "vancouver/woodland-dr"
+    ],
+    "streetNames": [
+      "E 12th Ave",
+      "Woodland Dr"
+    ],
+    "pulsePointId": "2490585238"
+  },
+  {
     "id": "2026-06-06T12:55:00Z_delta/hwy-17",
     "timestamp": "2026-06-06T12:55:00Z",
     "scrapedAt": "2026-06-06T13:29:24Z",

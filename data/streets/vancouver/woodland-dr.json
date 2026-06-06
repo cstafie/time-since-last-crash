@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/woodland-dr",
+  "name": "Woodland Dr",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-06T16:39:00Z_vancouver/e-12th-ave_vancouver/woodland-dr",
+      "timestamp": "2026-06-06T16:39:00Z",
+      "address": "E 12TH AVE & WOODLAND DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-12th-ave",
+        "vancouver/woodland-dr"
+      ],
+      "streetNames": [
+        "E 12th Ave",
+        "Woodland Dr"
+      ],
+      "pulsePointId": "2490585238"
+    }
+  ],
+  "lastIncident": "2026-06-06T16:39:00Z",
+  "count": 1
+}

@@ -710,8 +710,8 @@
     "name": "E 12th Ave",
     "slug": "vancouver/e-12th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-30T00:04:00Z",
-    "count": 11
+    "lastIncident": "2026-06-06T16:39:00Z",
+    "count": 12
   },
   "vancouver/e-41st-ave": {
     "name": "E 41st Ave",
@@ -11554,6 +11554,13 @@
     "slug": "abbotsford/purcell-ave",
     "city": "Abbotsford",
     "lastIncident": "2026-06-06T06:59:00Z",
+    "count": 1
+  },
+  "vancouver/woodland-dr": {
+    "name": "Woodland Dr",
+    "slug": "vancouver/woodland-dr",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-06T16:39:00Z",
     "count": 1
   }
 }
