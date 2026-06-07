@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-06-07T20:38:00Z_coquitlam/austin-ave_coquitlam/whiting-way",
+    "timestamp": "2026-06-07T20:38:00Z",
+    "scrapedAt": "2026-06-07T21:23:56Z",
+    "address": "AUSTIN AVE & WHITING WAY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/austin-ave",
+      "coquitlam/whiting-way"
+    ],
+    "streetNames": [
+      "Austin Ave",
+      "Whiting Way"
+    ],
+    "pulsePointId": "2491404047"
+  },
+  {
+    "id": "2026-06-07T20:36:00Z_vancouver/oak-st_vancouver/w-64th-ave",
+    "timestamp": "2026-06-07T20:36:00Z",
+    "scrapedAt": "2026-06-07T21:23:56Z",
+    "address": "OAK ST & W 64TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/oak-st",
+      "vancouver/w-64th-ave"
+    ],
+    "streetNames": [
+      "Oak St",
+      "W 64th Ave"
+    ],
+    "pulsePointId": "2491403342"
+  },
+  {
+    "id": "2026-06-07T20:35:00Z_vancouver/e-39th-ave_vancouver/clarendon-st",
+    "timestamp": "2026-06-07T20:35:00Z",
+    "scrapedAt": "2026-06-07T21:23:56Z",
+    "address": "E 39TH AVE & CLARENDON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-39th-ave",
+      "vancouver/clarendon-st"
+    ],
+    "streetNames": [
+      "E 39th Ave",
+      "Clarendon St"
+    ],
+    "pulsePointId": "2491403607"
+  },
+  {
     "id": "2026-06-07T19:45:00Z_abbotsford/vye-rd_abbotsford/riverside-rd",
     "timestamp": "2026-06-07T19:45:00Z",
     "scrapedAt": "2026-06-07T19:58:35Z",

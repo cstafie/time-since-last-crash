@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-07T20:35:00Z_vancouver/e-39th-ave_vancouver/clarendon-st",
+      "timestamp": "2026-06-07T20:35:00Z",
+      "address": "E 39TH AVE & CLARENDON ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-39th-ave",
+        "vancouver/clarendon-st"
+      ],
+      "streetNames": [
+        "E 39th Ave",
+        "Clarendon St"
+      ],
+      "pulsePointId": "2491403607"
+    },
+    {
       "id": "2026-05-29T21:45:00Z_vancouver/clarendon-st_vancouver/e-34th-ave",
       "timestamp": "2026-05-29T21:45:00Z",
       "address": "CLARENDON ST & E 34TH AVE",
@@ -64,6 +79,6 @@
       "pulsePointId": "2463886387"
     }
   ],
-  "lastIncident": "2026-05-29T21:45:00Z",
-  "count": 4
+  "lastIncident": "2026-06-07T20:35:00Z",
+  "count": 5
 }

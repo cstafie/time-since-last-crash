@@ -766,8 +766,8 @@
     "name": "Oak St",
     "slug": "vancouver/oak-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-06T00:59:00Z",
-    "count": 35
+    "lastIncident": "2026-06-07T20:36:00Z",
+    "count": 36
   },
   "vancouver/w-12th-ave": {
     "name": "W 12th Ave",
@@ -2796,8 +2796,8 @@
     "name": "Austin Ave",
     "slug": "coquitlam/austin-ave",
     "city": "Coquitlam",
-    "lastIncident": "2026-05-25T21:37:00Z",
-    "count": 6
+    "lastIncident": "2026-06-07T20:38:00Z",
+    "count": 7
   },
   "vancouver/larch-st": {
     "name": "Larch St",
@@ -2936,8 +2936,8 @@
     "name": "Whiting Way",
     "slug": "coquitlam/whiting-way",
     "city": "Coquitlam",
-    "lastIncident": "2026-05-21T16:24:00Z",
-    "count": 2
+    "lastIncident": "2026-06-07T20:38:00Z",
+    "count": 3
   },
   "burnaby/gilmore-ave": {
     "name": "Gilmore Ave",
@@ -4427,8 +4427,8 @@
     "name": "W 64th Ave",
     "slug": "vancouver/w-64th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-20T21:39:00Z",
-    "count": 6
+    "lastIncident": "2026-06-07T20:36:00Z",
+    "count": 7
   },
   "langley/210th-st": {
     "name": "210th St",
@@ -8095,8 +8095,8 @@
     "name": "Clarendon St",
     "slug": "vancouver/clarendon-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-29T21:45:00Z",
-    "count": 4
+    "lastIncident": "2026-06-07T20:35:00Z",
+    "count": 5
   },
   "delta/lyon-rd": {
     "name": "Lyon Rd",
@@ -11694,6 +11694,13 @@
     "slug": "surrey/7423-king-george-blvd",
     "city": "Surrey",
     "lastIncident": "2026-06-07T19:11:00Z",
+    "count": 1
+  },
+  "vancouver/e-39th-ave": {
+    "name": "E 39th Ave",
+    "slug": "vancouver/e-39th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-07T20:35:00Z",
     "count": 1
   }
 }
