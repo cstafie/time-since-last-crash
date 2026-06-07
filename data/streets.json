@@ -129,8 +129,8 @@
     "name": "Trans Canada Hwy",
     "slug": "chilliwack/trans-canada-hwy",
     "city": "Chilliwack",
-    "lastIncident": "2026-05-31T07:16:00Z",
-    "count": 14
+    "lastIncident": "2026-06-07T19:34:00Z",
+    "count": 15
   },
   "chilliwack/upper-prairie-rd": {
     "name": "Upper Prairie Rd",
@@ -7521,8 +7521,8 @@
     "name": "Vye Rd",
     "slug": "abbotsford/vye-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-23T17:14:00Z",
-    "count": 1
+    "lastIncident": "2026-06-07T19:45:00Z",
+    "count": 2
   },
   "port-moody/newport-dr": {
     "name": "Newport Dr",
@@ -10489,8 +10489,8 @@
     "name": "Riverside Rd",
     "slug": "abbotsford/riverside-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-25T23:39:00Z",
-    "count": 1
+    "lastIncident": "2026-06-07T19:45:00Z",
+    "count": 2
   },
   "pitt-meadows/hammond-rd": {
     "name": "Hammond Rd",
