@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-07T05:39:00Z_surrey/156th-st_surrey/77th-ave",
+      "timestamp": "2026-06-07T05:39:00Z",
+      "address": "156TH ST & 77TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/156th-st",
+        "surrey/77th-ave"
+      ],
+      "streetNames": [
+        "156th St",
+        "77th Ave"
+      ],
+      "pulsePointId": "2491036086"
+    },
+    {
       "id": "2026-06-02T01:33:00Z_surrey/156th-st_surrey/84th-ave",
       "timestamp": "2026-06-02T01:33:00Z",
       "address": "156TH ST & 84TH AVE",
@@ -180,6 +195,6 @@
       "pulsePointId": "2432889415"
     }
   ],
-  "lastIncident": "2026-06-02T01:33:00Z",
-  "count": 12
+  "lastIncident": "2026-06-07T05:39:00Z",
+  "count": 13
 }

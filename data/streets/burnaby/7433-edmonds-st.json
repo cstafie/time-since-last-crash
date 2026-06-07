@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/7433-edmonds-st",
+  "name": "7433 Edmonds St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-06-07T06:12:00Z_burnaby/7433-edmonds-st",
+      "timestamp": "2026-06-07T06:12:00Z",
+      "address": "7433 EDMONDS ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/7433-edmonds-st"
+      ],
+      "streetNames": [
+        "7433 Edmonds St"
+      ],
+      "pulsePointId": "2491048983"
+    }
+  ],
+  "lastIncident": "2026-06-07T06:12:00Z",
+  "count": 1
+}

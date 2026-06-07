@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-06-07T06:12:00Z_burnaby/7433-edmonds-st",
+    "timestamp": "2026-06-07T06:12:00Z",
+    "scrapedAt": "2026-06-07T06:52:45Z",
+    "address": "7433 EDMONDS ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/7433-edmonds-st"
+    ],
+    "streetNames": [
+      "7433 Edmonds St"
+    ],
+    "pulsePointId": "2491048983"
+  },
+  {
+    "id": "2026-06-07T05:55:00Z_port-moody/elgin-st_port-moody/hope-st",
+    "timestamp": "2026-06-07T05:55:00Z",
+    "scrapedAt": "2026-06-07T06:52:45Z",
+    "address": "ELGIN ST & HOPE ST",
+    "city": "Port Moody",
+    "streets": [
+      "port-moody/elgin-st",
+      "port-moody/hope-st"
+    ],
+    "streetNames": [
+      "Elgin St",
+      "Hope St"
+    ],
+    "pulsePointId": "2491041990"
+  },
+  {
+    "id": "2026-06-07T05:39:00Z_surrey/156th-st_surrey/77th-ave",
+    "timestamp": "2026-06-07T05:39:00Z",
+    "scrapedAt": "2026-06-07T06:52:45Z",
+    "address": "156TH ST & 77TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/156th-st",
+      "surrey/77th-ave"
+    ],
+    "streetNames": [
+      "156th St",
+      "77th Ave"
+    ],
+    "pulsePointId": "2491036086"
+  },
+  {
+    "id": "2026-06-07T05:29:00Z_maple-ridge/lougheed-hwy",
+    "timestamp": "2026-06-07T05:29:00Z",
+    "scrapedAt": "2026-06-07T06:52:45Z",
+    "address": "LOUGHEED HWY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2491031451"
+  },
+  {
     "id": "2026-06-07T04:22:00Z_langley/19811-fraser-hwy",
     "timestamp": "2026-06-07T04:22:00Z",
     "scrapedAt": "2026-06-07T05:27:44Z",

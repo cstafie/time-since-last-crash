@@ -1,6 +1,6 @@
 {
-  "slug": "port-moody/elgin-st",
-  "name": "Elgin St",
+  "slug": "port-moody/hope-st",
+  "name": "Hope St",
   "city": "Port Moody",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Hope St"
       ],
       "pulsePointId": "2491041990"
-    },
-    {
-      "id": "2026-04-11T04:17:00Z_port-moody/st-johns-st_port-moody/elgin-st",
-      "timestamp": "2026-04-11T04:17:00Z",
-      "address": "ST JOHNS ST & ELGIN ST",
-      "city": "Port Moody",
-      "streets": [
-        "port-moody/st-johns-st",
-        "port-moody/elgin-st"
-      ],
-      "streetNames": [
-        "St Johns St",
-        "Elgin St"
-      ],
-      "pulsePointId": "2451972585"
     }
   ],
   "lastIncident": "2026-06-07T05:55:00Z",
-  "count": 2
+  "count": 1
 }
