@@ -745,8 +745,8 @@
     "name": "Kingsway",
     "slug": "vancouver/kingsway",
     "city": "Vancouver",
-    "lastIncident": "2026-06-01T00:17:00Z",
-    "count": 21
+    "lastIncident": "2026-06-07T17:28:00Z",
+    "count": 22
   },
   "vancouver/knight-st": {
     "name": "Knight St",
@@ -1032,8 +1032,8 @@
     "name": "160th St",
     "slug": "surrey/160th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-06T19:32:00Z",
-    "count": 17
+    "lastIncident": "2026-06-07T17:11:00Z",
+    "count": 18
   },
   "vancouver/e-28th-ave": {
     "name": "E 28th Ave",
@@ -11666,6 +11666,13 @@
     "slug": "abbotsford/junction-ave",
     "city": "Abbotsford",
     "lastIncident": "2026-06-07T16:08:00Z",
+    "count": 1
+  },
+  "surrey/86a-ave": {
+    "name": "86a Ave",
+    "slug": "surrey/86a-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-06-07T17:11:00Z",
     "count": 1
   }
 }

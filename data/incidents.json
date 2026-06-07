@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-07T17:28:00Z_vancouver/kingsway",
+    "timestamp": "2026-06-07T17:28:00Z",
+    "scrapedAt": "2026-06-07T17:32:57Z",
+    "address": "KINGSWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kingsway"
+    ],
+    "streetNames": [
+      "Kingsway"
+    ],
+    "pulsePointId": "2491291110"
+  },
+  {
+    "id": "2026-06-07T17:11:00Z_surrey/86a-ave_surrey/160th-st",
+    "timestamp": "2026-06-07T17:11:00Z",
+    "scrapedAt": "2026-06-07T17:32:57Z",
+    "address": "86A AVE & 160TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/86a-ave",
+      "surrey/160th-st"
+    ],
+    "streetNames": [
+      "86a Ave",
+      "160th St"
+    ],
+    "pulsePointId": "2491279115"
+  },
+  {
     "id": "2026-06-07T16:24:00Z_maple-ridge/blue-mountain-cres",
     "timestamp": "2026-06-07T16:24:00Z",
     "scrapedAt": "2026-06-07T16:30:29Z",

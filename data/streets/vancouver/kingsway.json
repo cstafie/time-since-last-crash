@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-07T17:28:00Z_vancouver/kingsway",
+      "timestamp": "2026-06-07T17:28:00Z",
+      "address": "KINGSWAY",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/kingsway"
+      ],
+      "streetNames": [
+        "Kingsway"
+      ],
+      "pulsePointId": "2491291110"
+    },
+    {
       "id": "2026-06-01T00:17:00Z_vancouver/kingsway",
       "timestamp": "2026-06-01T00:17:00Z",
       "address": "KINGSWAY",
@@ -312,6 +325,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-01T00:17:00Z",
-  "count": 21
+  "lastIncident": "2026-06-07T17:28:00Z",
+  "count": 22
 }
