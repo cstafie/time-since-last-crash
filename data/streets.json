@@ -7584,8 +7584,8 @@
     "name": "1st Ave",
     "slug": "mission/1st-ave",
     "city": "Mission",
-    "lastIncident": "2026-04-25T00:28:00Z",
-    "count": 2
+    "lastIncident": "2026-06-07T15:24:00Z",
+    "count": 3
   },
   "chilliwack/thomas-rd": {
     "name": "Thomas Rd",
@@ -11035,8 +11035,8 @@
     "name": "Horne St",
     "slug": "mission/horne-st",
     "city": "Mission",
-    "lastIncident": "2026-05-31T07:37:00Z",
-    "count": 1
+    "lastIncident": "2026-06-07T15:24:00Z",
+    "count": 2
   },
   "surrey/133a-st": {
     "name": "133a St",
