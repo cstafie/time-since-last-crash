@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-07T00:36:00Z_vancouver/main-st_vancouver/union-st",
+      "timestamp": "2026-06-07T00:36:00Z",
+      "address": "MAIN ST & UNION ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/main-st",
+        "vancouver/union-st"
+      ],
+      "streetNames": [
+        "Main St",
+        "Union St"
+      ],
+      "pulsePointId": "2490873110"
+    },
+    {
       "id": "2026-06-03T04:28:00Z_vancouver/main-st_vancouver/union-st",
       "timestamp": "2026-06-03T04:28:00Z",
       "address": "MAIN ST & UNION ST",
@@ -94,6 +109,6 @@
       "pulsePointId": "2455179110"
     }
   ],
-  "lastIncident": "2026-06-03T04:28:00Z",
-  "count": 6
+  "lastIncident": "2026-06-07T00:36:00Z",
+  "count": 7
 }
