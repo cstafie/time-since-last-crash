@@ -4,6 +4,36 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-06-07T08:24:00Z_coquitlam/blue-mountain-st_coquitlam/lougheed-hwy",
+      "timestamp": "2026-06-07T08:24:00Z",
+      "address": "BLUE MOUNTAIN ST & LOUGHEED HWY",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/blue-mountain-st",
+        "coquitlam/lougheed-hwy"
+      ],
+      "streetNames": [
+        "Blue Mountain St",
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2491094043"
+    },
+    {
+      "id": "2026-06-07T08:23:00Z_coquitlam/woolridge-st_coquitlam/lougheed-hwy",
+      "timestamp": "2026-06-07T08:23:00Z",
+      "address": "WOOLRIDGE ST & LOUGHEED HWY",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/woolridge-st",
+        "coquitlam/lougheed-hwy"
+      ],
+      "streetNames": [
+        "Woolridge St",
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2491093989"
+    },
+    {
       "id": "2026-06-06T20:26:00Z_coquitlam/lougheed-hwy_coquitlam/westwood-st",
       "timestamp": "2026-06-06T20:26:00Z",
       "address": "LOUGHEED HWY & WESTWOOD ST",
@@ -232,6 +262,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-06T20:26:00Z",
-  "count": 16
+  "lastIncident": "2026-06-07T08:24:00Z",
+  "count": 18
 }

@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-06-07T08:24:00Z_coquitlam/blue-mountain-st_coquitlam/lougheed-hwy",
+      "timestamp": "2026-06-07T08:24:00Z",
+      "address": "BLUE MOUNTAIN ST & LOUGHEED HWY",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/blue-mountain-st",
+        "coquitlam/lougheed-hwy"
+      ],
+      "streetNames": [
+        "Blue Mountain St",
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2491094043"
+    },
+    {
       "id": "2026-04-27T02:54:00Z_coquitlam/lougheed-hwy_coquitlam/blue-mountain-st",
       "timestamp": "2026-04-27T02:54:00Z",
       "address": "LOUGHEED HWY & BLUE MOUNTAIN ST",
@@ -48,6 +63,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-04-27T02:54:00Z",
-  "count": 3
+  "lastIncident": "2026-06-07T08:24:00Z",
+  "count": 4
 }

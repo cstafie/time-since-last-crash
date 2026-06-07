@@ -1,5 +1,83 @@
 [
   {
+    "id": "2026-06-07T09:23:00Z_port-moody/bignall-bay",
+    "timestamp": "2026-06-07T09:23:00Z",
+    "scrapedAt": "2026-06-07T09:36:32Z",
+    "address": "BIGNALL BAY",
+    "city": "Port Moody",
+    "streets": [
+      "port-moody/bignall-bay"
+    ],
+    "streetNames": [
+      "Bignall Bay"
+    ],
+    "pulsePointId": "2491110216"
+  },
+  {
+    "id": "2026-06-07T09:16:00Z_vancouver/gore-ave_vancouver/e-pender-st",
+    "timestamp": "2026-06-07T09:16:00Z",
+    "scrapedAt": "2026-06-07T09:36:32Z",
+    "address": "GORE AVE & E PENDER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/gore-ave",
+      "vancouver/e-pender-st"
+    ],
+    "streetNames": [
+      "Gore Ave",
+      "E Pender St"
+    ],
+    "pulsePointId": "2491107544"
+  },
+  {
+    "id": "2026-06-07T08:24:00Z_coquitlam/blue-mountain-st_coquitlam/lougheed-hwy",
+    "timestamp": "2026-06-07T08:24:00Z",
+    "scrapedAt": "2026-06-07T09:36:32Z",
+    "address": "BLUE MOUNTAIN ST & LOUGHEED HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/blue-mountain-st",
+      "coquitlam/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Blue Mountain St",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2491094043"
+  },
+  {
+    "id": "2026-06-07T08:23:00Z_coquitlam/woolridge-st_coquitlam/lougheed-hwy",
+    "timestamp": "2026-06-07T08:23:00Z",
+    "scrapedAt": "2026-06-07T09:36:32Z",
+    "address": "WOOLRIDGE ST & LOUGHEED HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/woolridge-st",
+      "coquitlam/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Woolridge St",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2491093989"
+  },
+  {
+    "id": "2026-06-07T08:10:00Z_surrey/12th-ave_surrey/184th-st",
+    "timestamp": "2026-06-07T08:10:00Z",
+    "scrapedAt": "2026-06-07T09:36:32Z",
+    "address": "12TH AVE & 184TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/12th-ave",
+      "surrey/184th-st"
+    ],
+    "streetNames": [
+      "12th Ave",
+      "184th St"
+    ],
+    "pulsePointId": "2491090113"
+  },
+  {
     "id": "2026-06-07T07:49:00Z_vancouver/nelson-st_vancouver/granville-st",
     "timestamp": "2026-06-07T07:49:00Z",
     "scrapedAt": "2026-06-07T08:09:22Z",
