@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-07T19:11:00Z_surrey/7423-king-george-blvd",
+    "timestamp": "2026-06-07T19:11:00Z",
+    "scrapedAt": "2026-06-07T19:28:54Z",
+    "address": "7423 KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/7423-king-george-blvd"
+    ],
+    "streetNames": [
+      "7423 King George Blvd"
+    ],
+    "pulsePointId": "2491352299"
+  },
+  {
     "id": "2026-06-07T18:46:00Z_burnaby/kingsway",
     "timestamp": "2026-06-07T18:46:00Z",
     "scrapedAt": "2026-06-07T18:53:14Z",
