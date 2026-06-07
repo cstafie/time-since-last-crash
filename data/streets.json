@@ -1473,8 +1473,8 @@
     "name": "Kingsway",
     "slug": "burnaby/kingsway",
     "city": "Burnaby",
-    "lastIncident": "2026-06-03T00:24:00Z",
-    "count": 16
+    "lastIncident": "2026-06-07T18:46:00Z",
+    "count": 17
   },
   "burnaby/gilley-ave": {
     "name": "Gilley Ave",
@@ -5855,8 +5855,8 @@
     "name": "113b Ave",
     "slug": "maple-ridge/113b-ave",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-26T23:27:00Z",
-    "count": 3
+    "lastIncident": "2026-06-07T18:45:00Z",
+    "count": 4
   },
   "maple-ridge/stewart-cres": {
     "name": "Stewart Cres",
@@ -8683,8 +8683,8 @@
     "name": "Vedder Mountain Rd",
     "slug": "chilliwack/vedder-mountain-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-05-04T15:12:00Z",
-    "count": 1
+    "lastIncident": "2026-06-07T18:42:00Z",
+    "count": 2
   },
   "burnaby/esmond-ave": {
     "name": "Esmond Ave",
@@ -11673,6 +11673,20 @@
     "slug": "surrey/86a-ave",
     "city": "Surrey",
     "lastIncident": "2026-06-07T17:11:00Z",
+    "count": 1
+  },
+  "chilliwack/giesbrecht-rd": {
+    "name": "Giesbrecht Rd",
+    "slug": "chilliwack/giesbrecht-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-06-07T18:42:00Z",
+    "count": 1
+  },
+  "new-westminster/800-mcbride-blvd": {
+    "name": "800 Mcbride Blvd",
+    "slug": "new-westminster/800-mcbride-blvd",
+    "city": "New Westminster",
+    "lastIncident": "2026-06-07T18:37:00Z",
     "count": 1
   }
 }

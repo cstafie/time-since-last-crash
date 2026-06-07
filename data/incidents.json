@@ -1,5 +1,63 @@
 [
   {
+    "id": "2026-06-07T18:46:00Z_burnaby/kingsway",
+    "timestamp": "2026-06-07T18:46:00Z",
+    "scrapedAt": "2026-06-07T18:53:14Z",
+    "address": "KINGSWAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/kingsway"
+    ],
+    "streetNames": [
+      "Kingsway"
+    ],
+    "pulsePointId": "2491338544"
+  },
+  {
+    "id": "2026-06-07T18:45:00Z_maple-ridge/113b-ave",
+    "timestamp": "2026-06-07T18:45:00Z",
+    "scrapedAt": "2026-06-07T18:53:14Z",
+    "address": "113B AVE",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/113b-ave"
+    ],
+    "streetNames": [
+      "113b Ave"
+    ],
+    "pulsePointId": "2491339568"
+  },
+  {
+    "id": "2026-06-07T18:42:00Z_chilliwack/vedder-mountain-rd_chilliwack/giesbrecht-rd",
+    "timestamp": "2026-06-07T18:42:00Z",
+    "scrapedAt": "2026-06-07T18:53:14Z",
+    "address": "VEDDER MOUNTAIN RD & GIESBRECHT RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/vedder-mountain-rd",
+      "chilliwack/giesbrecht-rd"
+    ],
+    "streetNames": [
+      "Vedder Mountain Rd",
+      "Giesbrecht Rd"
+    ],
+    "pulsePointId": "2491335171"
+  },
+  {
+    "id": "2026-06-07T18:37:00Z_new-westminster/800-mcbride-blvd",
+    "timestamp": "2026-06-07T18:37:00Z",
+    "scrapedAt": "2026-06-07T18:53:14Z",
+    "address": "800 MCBRIDE BLVD",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/800-mcbride-blvd"
+    ],
+    "streetNames": [
+      "800 Mcbride Blvd"
+    ],
+    "pulsePointId": "2491332654"
+  },
+  {
     "id": "2026-06-07T17:28:00Z_vancouver/kingsway",
     "timestamp": "2026-06-07T17:28:00Z",
     "scrapedAt": "2026-06-07T17:32:57Z",

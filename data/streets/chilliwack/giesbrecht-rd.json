@@ -1,6 +1,6 @@
 {
-  "slug": "chilliwack/vedder-mountain-rd",
-  "name": "Vedder Mountain Rd",
+  "slug": "chilliwack/giesbrecht-rd",
+  "name": "Giesbrecht Rd",
   "city": "Chilliwack",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Giesbrecht Rd"
       ],
       "pulsePointId": "2491335171"
-    },
-    {
-      "id": "2026-05-04T15:12:00Z_chilliwack/simmons-rd_chilliwack/vedder-mountain-rd",
-      "timestamp": "2026-05-04T15:12:00Z",
-      "address": "SIMMONS RD & VEDDER MOUNTAIN RD",
-      "city": "Chilliwack",
-      "streets": [
-        "chilliwack/simmons-rd",
-        "chilliwack/vedder-mountain-rd"
-      ],
-      "streetNames": [
-        "Simmons Rd",
-        "Vedder Mountain Rd"
-      ],
-      "pulsePointId": "2467155150"
     }
   ],
   "lastIncident": "2026-06-07T18:42:00Z",
-  "count": 2
+  "count": 1
 }

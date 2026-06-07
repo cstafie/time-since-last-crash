@@ -1,0 +1,22 @@
+{
+  "slug": "new-westminster/800-mcbride-blvd",
+  "name": "800 Mcbride Blvd",
+  "city": "New Westminster",
+  "incidents": [
+    {
+      "id": "2026-06-07T18:37:00Z_new-westminster/800-mcbride-blvd",
+      "timestamp": "2026-06-07T18:37:00Z",
+      "address": "800 MCBRIDE BLVD",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/800-mcbride-blvd"
+      ],
+      "streetNames": [
+        "800 Mcbride Blvd"
+      ],
+      "pulsePointId": "2491332654"
+    }
+  ],
+  "lastIncident": "2026-06-07T18:37:00Z",
+  "count": 1
+}
