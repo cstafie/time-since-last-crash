@@ -4,6 +4,21 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-06-07T15:54:00Z_delta/90th-ave_delta/116th-st",
+      "timestamp": "2026-06-07T15:54:00Z",
+      "address": "90TH AVE & 116TH ST",
+      "city": "Delta",
+      "streets": [
+        "delta/90th-ave",
+        "delta/116th-st"
+      ],
+      "streetNames": [
+        "90th Ave",
+        "116th St"
+      ],
+      "pulsePointId": "2491237836"
+    },
+    {
       "id": "2026-05-26T22:23:00Z_delta/116th-st_delta/nordel-way",
       "timestamp": "2026-05-26T22:23:00Z",
       "address": "116TH ST & NORDEL WAY",
@@ -135,6 +150,6 @@
       "pulsePointId": "2451883831"
     }
   ],
-  "lastIncident": "2026-05-26T22:23:00Z",
-  "count": 9
+  "lastIncident": "2026-06-07T15:54:00Z",
+  "count": 10
 }
