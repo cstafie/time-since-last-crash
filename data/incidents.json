@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-07T21:55:00Z_surrey/cranley-dr_surrey/157th-st",
+    "timestamp": "2026-06-07T21:55:00Z",
+    "scrapedAt": "2026-06-07T22:19:52Z",
+    "address": "CRANLEY DR & 157TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/cranley-dr",
+      "surrey/157th-st"
+    ],
+    "streetNames": [
+      "Cranley Dr",
+      "157th St"
+    ],
+    "pulsePointId": "2491448443"
+  },
+  {
     "id": "2026-06-07T20:38:00Z_coquitlam/austin-ave_coquitlam/whiting-way",
     "timestamp": "2026-06-07T20:38:00Z",
     "scrapedAt": "2026-06-07T21:23:56Z",

@@ -8473,8 +8473,8 @@
     "name": "157th St",
     "slug": "surrey/157th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-03T11:48:00Z",
-    "count": 2
+    "lastIncident": "2026-06-07T21:55:00Z",
+    "count": 3
   },
   "north-vancouver/frederick-rd": {
     "name": "Frederick Rd",
@@ -11701,6 +11701,13 @@
     "slug": "vancouver/e-39th-ave",
     "city": "Vancouver",
     "lastIncident": "2026-06-07T20:35:00Z",
+    "count": 1
+  },
+  "surrey/cranley-dr": {
+    "name": "Cranley Dr",
+    "slug": "surrey/cranley-dr",
+    "city": "Surrey",
+    "lastIncident": "2026-06-07T21:55:00Z",
     "count": 1
   }
 }
