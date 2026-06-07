@@ -605,8 +605,8 @@
     "name": "72a Ave",
     "slug": "surrey/72a-ave",
     "city": "Surrey",
-    "lastIncident": "2026-03-08T07:19:00Z",
-    "count": 1
+    "lastIncident": "2026-06-07T23:45:00Z",
+    "count": 2
   },
   "surrey/78th-ave": {
     "name": "78th Ave",
@@ -3503,8 +3503,8 @@
     "name": "Helmcken St",
     "slug": "vancouver/helmcken-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-18T06:34:00Z",
-    "count": 3
+    "lastIncident": "2026-06-07T23:22:00Z",
+    "count": 4
   },
   "surrey/golden-ears-way": {
     "name": "Golden Ears Way",
@@ -11708,6 +11708,13 @@
     "slug": "surrey/cranley-dr",
     "city": "Surrey",
     "lastIncident": "2026-06-07T21:55:00Z",
+    "count": 1
+  },
+  "surrey/122a-st": {
+    "name": "122a St",
+    "slug": "surrey/122a-st",
+    "city": "Surrey",
+    "lastIncident": "2026-06-07T23:45:00Z",
     "count": 1
   }
 }

@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-07T23:45:00Z_surrey/122a-st_surrey/72a-ave",
+    "timestamp": "2026-06-07T23:45:00Z",
+    "scrapedAt": "2026-06-07T23:49:14Z",
+    "address": "122A ST & 72A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/122a-st",
+      "surrey/72a-ave"
+    ],
+    "streetNames": [
+      "122a St",
+      "72a Ave"
+    ],
+    "pulsePointId": "2491516652"
+  },
+  {
+    "id": "2026-06-07T23:22:00Z_vancouver/helmcken-st",
+    "timestamp": "2026-06-07T23:22:00Z",
+    "scrapedAt": "2026-06-07T23:49:14Z",
+    "address": "HELMCKEN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/helmcken-st"
+    ],
+    "streetNames": [
+      "Helmcken St"
+    ],
+    "pulsePointId": "2491503029"
+  },
+  {
     "id": "2026-06-07T21:55:00Z_surrey/cranley-dr_surrey/157th-st",
     "timestamp": "2026-06-07T21:55:00Z",
     "scrapedAt": "2026-06-07T22:19:52Z",
