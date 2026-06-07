@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-07T16:08:00Z_abbotsford/lefeuvre-rd_abbotsford/junction-ave",
+      "timestamp": "2026-06-07T16:08:00Z",
+      "address": "LEFEUVRE RD & JUNCTION AVE",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/lefeuvre-rd",
+        "abbotsford/junction-ave"
+      ],
+      "streetNames": [
+        "Lefeuvre Rd",
+        "Junction Ave"
+      ],
+      "pulsePointId": "2491246219"
+    },
+    {
       "id": "2026-04-29T10:18:00Z_abbotsford/lefeuvre-rd_abbotsford/marsh-mccormick-rd",
       "timestamp": "2026-04-29T10:18:00Z",
       "address": "LEFEUVRE RD & MARSH MCCORMICK RD",
@@ -49,6 +64,6 @@
       "pulsePointId": "2437634536"
     }
   ],
-  "lastIncident": "2026-04-29T10:18:00Z",
-  "count": 3
+  "lastIncident": "2026-06-07T16:08:00Z",
+  "count": 4
 }

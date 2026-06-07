@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-07T16:24:00Z_maple-ridge/blue-mountain-cres",
+    "timestamp": "2026-06-07T16:24:00Z",
+    "scrapedAt": "2026-06-07T16:30:29Z",
+    "address": "BLUE MOUNTAIN CRES",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/blue-mountain-cres"
+    ],
+    "streetNames": [
+      "Blue Mountain Cres"
+    ],
+    "pulsePointId": "2491253687"
+  },
+  {
+    "id": "2026-06-07T16:08:00Z_abbotsford/lefeuvre-rd_abbotsford/junction-ave",
+    "timestamp": "2026-06-07T16:08:00Z",
+    "scrapedAt": "2026-06-07T16:30:29Z",
+    "address": "LEFEUVRE RD & JUNCTION AVE",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/lefeuvre-rd",
+      "abbotsford/junction-ave"
+    ],
+    "streetNames": [
+      "Lefeuvre Rd",
+      "Junction Ave"
+    ],
+    "pulsePointId": "2491246219"
+  },
+  {
     "id": "2026-06-07T15:54:00Z_delta/90th-ave_delta/116th-st",
     "timestamp": "2026-06-07T15:54:00Z",
     "scrapedAt": "2026-06-07T15:56:57Z",
