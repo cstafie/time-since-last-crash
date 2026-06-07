@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/hardwick-st",
+  "name": "Hardwick St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-06-07T07:02:00Z_burnaby/hardwick-st_burnaby/canada-way",
+      "timestamp": "2026-06-07T07:02:00Z",
+      "address": "HARDWICK ST & CANADA WAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/hardwick-st",
+        "burnaby/canada-way"
+      ],
+      "streetNames": [
+        "Hardwick St",
+        "Canada Way"
+      ],
+      "pulsePointId": "2491067332"
+    }
+  ],
+  "lastIncident": "2026-06-07T07:02:00Z",
+  "count": 1
+}

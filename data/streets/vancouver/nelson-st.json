@@ -4,6 +4,36 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-07T07:49:00Z_vancouver/nelson-st_vancouver/granville-st",
+      "timestamp": "2026-06-07T07:49:00Z",
+      "address": "NELSON ST & GRANVILLE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/nelson-st",
+        "vancouver/granville-st"
+      ],
+      "streetNames": [
+        "Nelson St",
+        "Granville St"
+      ],
+      "pulsePointId": "2491083223"
+    },
+    {
+      "id": "2026-06-07T07:36:00Z_vancouver/nelson-st_vancouver/cambie-st",
+      "timestamp": "2026-06-07T07:36:00Z",
+      "address": "NELSON ST & CAMBIE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/nelson-st",
+        "vancouver/cambie-st"
+      ],
+      "streetNames": [
+        "Nelson St",
+        "Cambie St"
+      ],
+      "pulsePointId": "2491079690"
+    },
+    {
       "id": "2026-06-03T22:48:00Z_vancouver/hornby-st_vancouver/nelson-st",
       "timestamp": "2026-06-03T22:48:00Z",
       "address": "HORNBY ST & NELSON ST",
@@ -109,6 +139,6 @@
       "pulsePointId": "2434363478"
     }
   ],
-  "lastIncident": "2026-06-03T22:48:00Z",
-  "count": 7
+  "lastIncident": "2026-06-07T07:49:00Z",
+  "count": 9
 }

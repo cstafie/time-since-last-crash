@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-07T07:49:00Z_vancouver/nelson-st_vancouver/granville-st",
+      "timestamp": "2026-06-07T07:49:00Z",
+      "address": "NELSON ST & GRANVILLE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/nelson-st",
+        "vancouver/granville-st"
+      ],
+      "streetNames": [
+        "Nelson St",
+        "Granville St"
+      ],
+      "pulsePointId": "2491083223"
+    },
+    {
       "id": "2026-06-06T17:45:00Z_vancouver/granville-st_vancouver/minto-cres",
       "timestamp": "2026-06-06T17:45:00Z",
       "address": "GRANVILLE ST & MINTO CRES",
@@ -576,6 +591,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-06T17:45:00Z",
-  "count": 39
+  "lastIncident": "2026-06-07T07:49:00Z",
+  "count": 40
 }

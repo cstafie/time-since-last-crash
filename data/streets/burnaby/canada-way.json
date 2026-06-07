@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-07T07:02:00Z_burnaby/hardwick-st_burnaby/canada-way",
+      "timestamp": "2026-06-07T07:02:00Z",
+      "address": "HARDWICK ST & CANADA WAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/hardwick-st",
+        "burnaby/canada-way"
+      ],
+      "streetNames": [
+        "Hardwick St",
+        "Canada Way"
+      ],
+      "pulsePointId": "2491067332"
+    },
+    {
       "id": "2026-06-05T13:34:00Z_burnaby/kensington-ave_burnaby/canada-way",
       "timestamp": "2026-06-05T13:34:00Z",
       "address": "KENSINGTON AVE & CANADA WAY",
@@ -325,6 +340,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-05T13:34:00Z",
-  "count": 22
+  "lastIncident": "2026-06-07T07:02:00Z",
+  "count": 23
 }

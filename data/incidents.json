@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-06-07T07:49:00Z_vancouver/nelson-st_vancouver/granville-st",
+    "timestamp": "2026-06-07T07:49:00Z",
+    "scrapedAt": "2026-06-07T08:09:22Z",
+    "address": "NELSON ST & GRANVILLE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/nelson-st",
+      "vancouver/granville-st"
+    ],
+    "streetNames": [
+      "Nelson St",
+      "Granville St"
+    ],
+    "pulsePointId": "2491083223"
+  },
+  {
+    "id": "2026-06-07T07:36:00Z_vancouver/nelson-st_vancouver/cambie-st",
+    "timestamp": "2026-06-07T07:36:00Z",
+    "scrapedAt": "2026-06-07T08:09:22Z",
+    "address": "NELSON ST & CAMBIE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/nelson-st",
+      "vancouver/cambie-st"
+    ],
+    "streetNames": [
+      "Nelson St",
+      "Cambie St"
+    ],
+    "pulsePointId": "2491079690"
+  },
+  {
+    "id": "2026-06-07T07:02:00Z_burnaby/hardwick-st_burnaby/canada-way",
+    "timestamp": "2026-06-07T07:02:00Z",
+    "scrapedAt": "2026-06-07T08:09:22Z",
+    "address": "HARDWICK ST & CANADA WAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/hardwick-st",
+      "burnaby/canada-way"
+    ],
+    "streetNames": [
+      "Hardwick St",
+      "Canada Way"
+    ],
+    "pulsePointId": "2491067332"
+  },
+  {
     "id": "2026-06-07T06:12:00Z_burnaby/7433-edmonds-st",
     "timestamp": "2026-06-07T06:12:00Z",
     "scrapedAt": "2026-06-07T06:52:45Z",
