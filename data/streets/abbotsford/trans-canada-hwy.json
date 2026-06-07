@@ -4,6 +4,32 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-07T01:34:00Z_abbotsford/trans-canada-hwy",
+      "timestamp": "2026-06-07T01:34:00Z",
+      "address": "TRANS CANADA HWY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2490908204"
+    },
+    {
+      "id": "2026-06-07T01:33:00Z_abbotsford/trans-canada-hwy",
+      "timestamp": "2026-06-07T01:33:00Z",
+      "address": "TRANS CANADA HWY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2490905613"
+    },
+    {
       "id": "2026-05-26T04:47:00Z_abbotsford/trans-canada-hwy_abbotsford/no-3-road-ofrp",
       "timestamp": "2026-05-26T04:47:00Z",
       "address": "TRANS CANADA HWY & NO 3 ROAD OFRP",
@@ -490,6 +516,6 @@
       "pulsePointId": "2433793691"
     }
   ],
-  "lastIncident": "2026-05-26T04:47:00Z",
-  "count": 36
+  "lastIncident": "2026-06-07T01:34:00Z",
+  "count": 38
 }

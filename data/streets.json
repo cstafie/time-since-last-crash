@@ -549,8 +549,8 @@
     "name": "132nd St",
     "slug": "surrey/132nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-01T22:43:00Z",
-    "count": 19
+    "lastIncident": "2026-06-07T02:16:00Z",
+    "count": 20
   },
   "surrey/140th-st": {
     "name": "140th St",
@@ -1949,8 +1949,8 @@
     "name": "Trans Canada Hwy",
     "slug": "abbotsford/trans-canada-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-26T04:47:00Z",
-    "count": 36
+    "lastIncident": "2026-06-07T01:34:00Z",
+    "count": 38
   },
   "vancouver/w-16th-ave": {
     "name": "W 16th Ave",
@@ -3531,8 +3531,8 @@
     "name": "Gaglardi Way",
     "slug": "burnaby/gaglardi-way",
     "city": "Burnaby",
-    "lastIncident": "2026-04-10T00:32:00Z",
-    "count": 3
+    "lastIncident": "2026-06-07T02:11:00Z",
+    "count": 4
   },
   "north-vancouver/w-3rd-st": {
     "name": "W 3rd St",
@@ -4518,8 +4518,8 @@
     "name": "72nd Ave",
     "slug": "surrey/72nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-03T15:57:00Z",
-    "count": 15
+    "lastIncident": "2026-06-07T02:16:00Z",
+    "count": 16
   },
   "abbotsford/laurel-st": {
     "name": "Laurel St",
@@ -6296,8 +6296,8 @@
     "name": "St Johns St",
     "slug": "port-moody/st-johns-st",
     "city": "Port Moody",
-    "lastIncident": "2026-06-04T00:19:00Z",
-    "count": 4
+    "lastIncident": "2026-06-07T01:42:00Z",
+    "count": 5
   },
   "port-moody/elgin-st": {
     "name": "Elgin St",
@@ -11399,8 +11399,8 @@
     "name": "Moray St",
     "slug": "port-moody/moray-st",
     "city": "Port Moody",
-    "lastIncident": "2026-06-04T00:19:00Z",
-    "count": 1
+    "lastIncident": "2026-06-07T01:42:00Z",
+    "count": 2
   },
   "abbotsford/creekstone-dr": {
     "name": "Creekstone Dr",
