@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-08T01:30:00Z_vancouver/heather-st_vancouver/sw-marine-dr",
+      "timestamp": "2026-06-08T01:30:00Z",
+      "address": "HEATHER ST & SW MARINE DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/heather-st",
+        "vancouver/sw-marine-dr"
+      ],
+      "streetNames": [
+        "Heather St",
+        "Sw Marine Dr"
+      ],
+      "pulsePointId": "2491580050"
+    },
+    {
       "id": "2026-06-05T00:52:00Z_vancouver/w-70th-ave_vancouver/heather-st",
       "timestamp": "2026-06-05T00:52:00Z",
       "address": "W 70TH AVE & HEATHER ST",
@@ -93,6 +108,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-05T00:52:00Z",
-  "count": 6
+  "lastIncident": "2026-06-08T01:30:00Z",
+  "count": 7
 }

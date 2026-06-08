@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-06-08T02:22:00Z_vancouver/w-broadway_vancouver/granville-st",
+    "timestamp": "2026-06-08T02:22:00Z",
+    "scrapedAt": "2026-06-08T02:26:49Z",
+    "address": "W BROADWAY & GRANVILLE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-broadway",
+      "vancouver/granville-st"
+    ],
+    "streetNames": [
+      "W Broadway",
+      "Granville St"
+    ],
+    "pulsePointId": "2491609287"
+  },
+  {
+    "id": "2026-06-08T02:06:00Z_surrey/132nd-st_surrey/88th-ave",
+    "timestamp": "2026-06-08T02:06:00Z",
+    "scrapedAt": "2026-06-08T02:26:49Z",
+    "address": "132ND ST & 88TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/132nd-st",
+      "surrey/88th-ave"
+    ],
+    "streetNames": [
+      "132nd St",
+      "88th Ave"
+    ],
+    "pulsePointId": "2491601764"
+  },
+  {
+    "id": "2026-06-08T01:30:00Z_vancouver/heather-st_vancouver/sw-marine-dr",
+    "timestamp": "2026-06-08T01:30:00Z",
+    "scrapedAt": "2026-06-08T02:26:49Z",
+    "address": "HEATHER ST & SW MARINE DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/heather-st",
+      "vancouver/sw-marine-dr"
+    ],
+    "streetNames": [
+      "Heather St",
+      "Sw Marine Dr"
+    ],
+    "pulsePointId": "2491580050"
+  },
+  {
     "id": "2026-06-08T01:16:00Z_north-vancouver/turning-lane",
     "timestamp": "2026-06-08T01:16:00Z",
     "scrapedAt": "2026-06-08T01:30:04Z",

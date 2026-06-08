@@ -549,8 +549,8 @@
     "name": "132nd St",
     "slug": "surrey/132nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-07T02:16:00Z",
-    "count": 20
+    "lastIncident": "2026-06-08T02:06:00Z",
+    "count": 21
   },
   "surrey/140th-st": {
     "name": "140th St",
@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-06T08:29:00Z",
-    "count": 30
+    "lastIncident": "2026-06-08T02:06:00Z",
+    "count": 31
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",
@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-07T07:49:00Z",
-    "count": 40
+    "lastIncident": "2026-06-08T02:22:00Z",
+    "count": 41
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -738,8 +738,8 @@
     "name": "Heather St",
     "slug": "vancouver/heather-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-05T00:52:00Z",
-    "count": 6
+    "lastIncident": "2026-06-08T01:30:00Z",
+    "count": 7
   },
   "vancouver/kingsway": {
     "name": "Kingsway",
@@ -808,8 +808,8 @@
     "name": "W Broadway",
     "slug": "vancouver/w-broadway",
     "city": "Vancouver",
-    "lastIncident": "2026-05-18T05:34:00Z",
-    "count": 13
+    "lastIncident": "2026-06-08T02:22:00Z",
+    "count": 14
   },
   "west-vancouver/eagleridge-drive-ofrp": {
     "name": "Eagleridge Drive Ofrp",
@@ -6597,8 +6597,8 @@
     "name": "Sw Marine Dr",
     "slug": "vancouver/sw-marine-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-05-21T03:45:00Z",
-    "count": 11
+    "lastIncident": "2026-06-08T01:30:00Z",
+    "count": 12
   },
   "surrey/54th-ave": {
     "name": "54th Ave",
