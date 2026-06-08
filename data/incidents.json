@@ -1,5 +1,77 @@
 [
   {
+    "id": "2026-06-08T20:03:00Z_surrey/137th-st",
+    "timestamp": "2026-06-08T20:03:00Z",
+    "scrapedAt": "2026-06-08T21:12:33Z",
+    "address": "137TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/137th-st"
+    ],
+    "streetNames": [
+      "137th St"
+    ],
+    "pulsePointId": "2492095959"
+  },
+  {
+    "id": "2026-06-08T19:37:00Z_vancouver/e-1st-ave_vancouver/slocan-st",
+    "timestamp": "2026-06-08T19:37:00Z",
+    "scrapedAt": "2026-06-08T21:12:33Z",
+    "address": "E 1ST AVE & SLOCAN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-1st-ave",
+      "vancouver/slocan-st"
+    ],
+    "streetNames": [
+      "E 1st Ave",
+      "Slocan St"
+    ],
+    "pulsePointId": "2492074869"
+  },
+  {
+    "id": "2026-06-08T19:29:00Z_burnaby/grand-prom",
+    "timestamp": "2026-06-08T19:29:00Z",
+    "scrapedAt": "2026-06-08T21:12:33Z",
+    "address": "GRAND PROM",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/grand-prom"
+    ],
+    "streetNames": [
+      "Grand Prom"
+    ],
+    "pulsePointId": "2492068740"
+  },
+  {
+    "id": "2026-06-08T19:21:00Z_delta/river-rd",
+    "timestamp": "2026-06-08T19:21:00Z",
+    "scrapedAt": "2026-06-08T21:12:33Z",
+    "address": "RIVER RD",
+    "city": "Delta",
+    "streets": [
+      "delta/river-rd"
+    ],
+    "streetNames": [
+      "River Rd"
+    ],
+    "pulsePointId": "2492062579"
+  },
+  {
+    "id": "2026-06-08T19:15:00Z_port-moody/st-johns-st",
+    "timestamp": "2026-06-08T19:15:00Z",
+    "scrapedAt": "2026-06-08T21:12:33Z",
+    "address": "ST JOHNS ST",
+    "city": "Port Moody",
+    "streets": [
+      "port-moody/st-johns-st"
+    ],
+    "streetNames": [
+      "St Johns St"
+    ],
+    "pulsePointId": "2492059008"
+  },
+  {
     "id": "2026-06-08T18:52:00Z_abbotsford/south-fraser-way",
     "timestamp": "2026-06-08T18:52:00Z",
     "scrapedAt": "2026-06-08T19:15:42Z",

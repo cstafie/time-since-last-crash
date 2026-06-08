@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-08T19:37:00Z_vancouver/e-1st-ave_vancouver/slocan-st",
+      "timestamp": "2026-06-08T19:37:00Z",
+      "address": "E 1ST AVE & SLOCAN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-1st-ave",
+        "vancouver/slocan-st"
+      ],
+      "streetNames": [
+        "E 1st Ave",
+        "Slocan St"
+      ],
+      "pulsePointId": "2492074869"
+    },
+    {
       "id": "2026-06-05T02:20:00Z_vancouver/e-1st-ave_vancouver/main-st",
       "timestamp": "2026-06-05T02:20:00Z",
       "address": "E 1ST AVE & MAIN ST",
@@ -166,6 +181,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-05T02:20:00Z",
-  "count": 11
+  "lastIncident": "2026-06-08T19:37:00Z",
+  "count": 12
 }

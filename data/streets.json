@@ -1256,8 +1256,8 @@
     "name": "E 1st Ave",
     "slug": "vancouver/e-1st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-05T02:20:00Z",
-    "count": 11
+    "lastIncident": "2026-06-08T19:37:00Z",
+    "count": 12
   },
   "vancouver/boundary-rd": {
     "name": "Boundary Rd",
@@ -1326,8 +1326,8 @@
     "name": "137th St",
     "slug": "surrey/137th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-25T18:18:00Z",
-    "count": 3
+    "lastIncident": "2026-06-08T20:03:00Z",
+    "count": 4
   },
   "vancouver/trans-canada-hwy": {
     "name": "Trans Canada Hwy",
@@ -2719,8 +2719,8 @@
     "name": "Slocan St",
     "slug": "vancouver/slocan-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-15T00:47:00Z",
-    "count": 7
+    "lastIncident": "2026-06-08T19:37:00Z",
+    "count": 8
   },
   "surrey/lauder-dr": {
     "name": "Lauder Dr",
@@ -5904,8 +5904,8 @@
     "name": "River Rd",
     "slug": "delta/river-rd",
     "city": "Delta",
-    "lastIncident": "2026-05-13T07:52:00Z",
-    "count": 3
+    "lastIncident": "2026-06-08T19:21:00Z",
+    "count": 4
   },
   "vancouver/nootka-st": {
     "name": "Nootka St",
@@ -6296,8 +6296,8 @@
     "name": "St Johns St",
     "slug": "port-moody/st-johns-st",
     "city": "Port Moody",
-    "lastIncident": "2026-06-07T01:42:00Z",
-    "count": 5
+    "lastIncident": "2026-06-08T19:15:00Z",
+    "count": 6
   },
   "port-moody/elgin-st": {
     "name": "Elgin St",
@@ -11757,6 +11757,13 @@
     "slug": "burnaby/madison-ave",
     "city": "Burnaby",
     "lastIncident": "2026-06-08T18:33:00Z",
+    "count": 1
+  },
+  "burnaby/grand-prom": {
+    "name": "Grand Prom",
+    "slug": "burnaby/grand-prom",
+    "city": "Burnaby",
+    "lastIncident": "2026-06-08T19:29:00Z",
     "count": 1
   }
 }

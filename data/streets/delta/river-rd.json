@@ -4,6 +4,19 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-06-08T19:21:00Z_delta/river-rd",
+      "timestamp": "2026-06-08T19:21:00Z",
+      "address": "RIVER RD",
+      "city": "Delta",
+      "streets": [
+        "delta/river-rd"
+      ],
+      "streetNames": [
+        "River Rd"
+      ],
+      "pulsePointId": "2492062579"
+    },
+    {
       "id": "2026-05-13T07:52:00Z_delta/river-rd",
       "timestamp": "2026-05-13T07:52:00Z",
       "address": "RIVER RD",
@@ -43,6 +56,6 @@
       "pulsePointId": "2450743486"
     }
   ],
-  "lastIncident": "2026-05-13T07:52:00Z",
-  "count": 3
+  "lastIncident": "2026-06-08T19:21:00Z",
+  "count": 4
 }

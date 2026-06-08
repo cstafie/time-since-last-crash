@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/grand-prom",
+  "name": "Grand Prom",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-06-08T19:29:00Z_burnaby/grand-prom",
+      "timestamp": "2026-06-08T19:29:00Z",
+      "address": "GRAND PROM",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/grand-prom"
+      ],
+      "streetNames": [
+        "Grand Prom"
+      ],
+      "pulsePointId": "2492068740"
+    }
+  ],
+  "lastIncident": "2026-06-08T19:29:00Z",
+  "count": 1
+}
