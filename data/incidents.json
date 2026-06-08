@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-08T13:42:00Z_mission/2nd-ave",
+    "timestamp": "2026-06-08T13:42:00Z",
+    "scrapedAt": "2026-06-08T14:22:46Z",
+    "address": "2ND AVE",
+    "city": "Mission",
+    "streets": [
+      "mission/2nd-ave"
+    ],
+    "streetNames": [
+      "2nd Ave"
+    ],
+    "pulsePointId": "2491853699"
+  },
+  {
     "id": "2026-06-08T06:13:00Z_abbotsford/trans-canada-hwy",
     "timestamp": "2026-06-08T06:13:00Z",
     "scrapedAt": "2026-06-08T07:09:44Z",
