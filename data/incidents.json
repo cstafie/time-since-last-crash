@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-08T06:13:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-06-08T06:13:00Z",
+    "scrapedAt": "2026-06-08T07:09:44Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2491713941"
+  },
+  {
     "id": "2026-06-08T03:39:00Z_maple-ridge/acadia-st",
     "timestamp": "2026-06-08T03:39:00Z",
     "scrapedAt": "2026-06-08T03:46:17Z",
