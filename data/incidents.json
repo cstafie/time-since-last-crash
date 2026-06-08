@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-08T16:31:00Z_port-moody/newport-dr_port-moody/ioco-rd",
+    "timestamp": "2026-06-08T16:31:00Z",
+    "scrapedAt": "2026-06-08T17:01:32Z",
+    "address": "NEWPORT DR & IOCO RD",
+    "city": "Port Moody",
+    "streets": [
+      "port-moody/newport-dr",
+      "port-moody/ioco-rd"
+    ],
+    "streetNames": [
+      "Newport Dr",
+      "Ioco Rd"
+    ],
+    "pulsePointId": "2491945595"
+  },
+  {
     "id": "2026-06-08T14:55:00Z_maple-ridge/26285-dewdney-trunk-rd",
     "timestamp": "2026-06-08T14:55:00Z",
     "scrapedAt": "2026-06-08T15:44:31Z",

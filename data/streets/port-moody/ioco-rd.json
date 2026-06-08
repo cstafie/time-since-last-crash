@@ -4,6 +4,21 @@
   "city": "Port Moody",
   "incidents": [
     {
+      "id": "2026-06-08T16:31:00Z_port-moody/newport-dr_port-moody/ioco-rd",
+      "timestamp": "2026-06-08T16:31:00Z",
+      "address": "NEWPORT DR & IOCO RD",
+      "city": "Port Moody",
+      "streets": [
+        "port-moody/newport-dr",
+        "port-moody/ioco-rd"
+      ],
+      "streetNames": [
+        "Newport Dr",
+        "Ioco Rd"
+      ],
+      "pulsePointId": "2491945595"
+    },
+    {
       "id": "2026-05-05T15:48:00Z_port-moody/ioco-rd_port-moody/guildford-way",
       "timestamp": "2026-05-05T15:48:00Z",
       "address": "IOCO RD & GUILDFORD WAY",
@@ -32,6 +47,6 @@
       "pulsePointId": "2438015861"
     }
   ],
-  "lastIncident": "2026-05-05T15:48:00Z",
-  "count": 2
+  "lastIncident": "2026-06-08T16:31:00Z",
+  "count": 3
 }
