@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-06-08T02:56:00Z_maple-ridge/abernethy-way_maple-ridge/232nd-st",
+      "timestamp": "2026-06-08T02:56:00Z",
+      "address": "ABERNETHY WAY & 232ND ST",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/abernethy-way",
+        "maple-ridge/232nd-st"
+      ],
+      "streetNames": [
+        "Abernethy Way",
+        "232nd St"
+      ],
+      "pulsePointId": "2491629200"
+    },
+    {
       "id": "2026-05-23T06:57:00Z_maple-ridge/232nd-st_maple-ridge/abernethy-way",
       "timestamp": "2026-05-23T06:57:00Z",
       "address": "232ND ST & ABERNETHY WAY",
@@ -64,6 +79,6 @@
       "pulsePointId": "2450234426"
     }
   ],
-  "lastIncident": "2026-05-23T06:57:00Z",
-  "count": 4
+  "lastIncident": "2026-06-08T02:56:00Z",
+  "count": 5
 }

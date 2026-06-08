@@ -5820,8 +5820,8 @@
     "name": "Abernethy Way",
     "slug": "maple-ridge/abernethy-way",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-23T06:57:00Z",
-    "count": 4
+    "lastIncident": "2026-06-08T02:56:00Z",
+    "count": 5
   },
   "vancouver/w-26th-ave": {
     "name": "W 26th Ave",
@@ -8438,8 +8438,8 @@
     "name": "232nd St",
     "slug": "maple-ridge/232nd-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-23T06:57:00Z",
-    "count": 4
+    "lastIncident": "2026-06-08T02:56:00Z",
+    "count": 5
   },
   "delta/82nd-ave": {
     "name": "82nd Ave",
@@ -11722,6 +11722,13 @@
     "slug": "north-vancouver/turning-lane",
     "city": "North Vancouver",
     "lastIncident": "2026-06-08T01:16:00Z",
+    "count": 1
+  },
+  "maple-ridge/acadia-st": {
+    "name": "Acadia St",
+    "slug": "maple-ridge/acadia-st",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-06-08T03:39:00Z",
     "count": 1
   }
 }

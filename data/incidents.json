@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-08T03:39:00Z_maple-ridge/acadia-st",
+    "timestamp": "2026-06-08T03:39:00Z",
+    "scrapedAt": "2026-06-08T03:46:17Z",
+    "address": "ACADIA ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/acadia-st"
+    ],
+    "streetNames": [
+      "Acadia St"
+    ],
+    "pulsePointId": "2491651787"
+  },
+  {
+    "id": "2026-06-08T02:56:00Z_maple-ridge/abernethy-way_maple-ridge/232nd-st",
+    "timestamp": "2026-06-08T02:56:00Z",
+    "scrapedAt": "2026-06-08T03:46:17Z",
+    "address": "ABERNETHY WAY & 232ND ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/abernethy-way",
+      "maple-ridge/232nd-st"
+    ],
+    "streetNames": [
+      "Abernethy Way",
+      "232nd St"
+    ],
+    "pulsePointId": "2491629200"
+  },
+  {
     "id": "2026-06-08T02:22:00Z_vancouver/w-broadway_vancouver/granville-st",
     "timestamp": "2026-06-08T02:22:00Z",
     "scrapedAt": "2026-06-08T02:26:49Z",

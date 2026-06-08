@@ -1,0 +1,22 @@
+{
+  "slug": "maple-ridge/acadia-st",
+  "name": "Acadia St",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-06-08T03:39:00Z_maple-ridge/acadia-st",
+      "timestamp": "2026-06-08T03:39:00Z",
+      "address": "ACADIA ST",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/acadia-st"
+      ],
+      "streetNames": [
+        "Acadia St"
+      ],
+      "pulsePointId": "2491651787"
+    }
+  ],
+  "lastIncident": "2026-06-08T03:39:00Z",
+  "count": 1
+}
