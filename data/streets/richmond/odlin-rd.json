@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-06-08T22:30:00Z_richmond/odlin-rd_richmond/no-4-rd",
+      "timestamp": "2026-06-08T22:30:00Z",
+      "address": "ODLIN RD & NO 4 RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/odlin-rd",
+        "richmond/no-4-rd"
+      ],
+      "streetNames": [
+        "Odlin Rd",
+        "No 4 Rd"
+      ],
+      "pulsePointId": "2492197674"
+    },
+    {
       "id": "2026-05-21T23:40:00Z_richmond/odlin-rd_richmond/dubbert-st",
       "timestamp": "2026-05-21T23:40:00Z",
       "address": "ODLIN RD & DUBBERT ST",
@@ -19,6 +34,6 @@
       "pulsePointId": "2479566254"
     }
   ],
-  "lastIncident": "2026-05-21T23:40:00Z",
-  "count": 1
+  "lastIncident": "2026-06-08T22:30:00Z",
+  "count": 2
 }

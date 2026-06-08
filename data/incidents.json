@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-06-08T22:47:00Z_burnaby/smith-ave_burnaby/burke-st",
+    "timestamp": "2026-06-08T22:47:00Z",
+    "scrapedAt": "2026-06-08T22:58:10Z",
+    "address": "SMITH AVE & BURKE ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/smith-ave",
+      "burnaby/burke-st"
+    ],
+    "streetNames": [
+      "Smith Ave",
+      "Burke St"
+    ],
+    "pulsePointId": "2492211198"
+  },
+  {
+    "id": "2026-06-08T22:30:00Z_richmond/odlin-rd_richmond/no-4-rd",
+    "timestamp": "2026-06-08T22:30:00Z",
+    "scrapedAt": "2026-06-08T22:58:10Z",
+    "address": "ODLIN RD & NO 4 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/odlin-rd",
+      "richmond/no-4-rd"
+    ],
+    "streetNames": [
+      "Odlin Rd",
+      "No 4 Rd"
+    ],
+    "pulsePointId": "2492197674"
+  },
+  {
+    "id": "2026-06-08T22:29:00Z_surrey/72nd-ave_surrey/126th-st",
+    "timestamp": "2026-06-08T22:29:00Z",
+    "scrapedAt": "2026-06-08T22:58:10Z",
+    "address": "72ND AVE & 126TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/72nd-ave",
+      "surrey/126th-st"
+    ],
+    "streetNames": [
+      "72nd Ave",
+      "126th St"
+    ],
+    "pulsePointId": "2492197815"
+  },
+  {
     "id": "2026-06-08T20:03:00Z_surrey/137th-st",
     "timestamp": "2026-06-08T20:03:00Z",
     "scrapedAt": "2026-06-08T21:12:33Z",
