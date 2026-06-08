@@ -73,8 +73,8 @@
     "name": "Marine Way",
     "slug": "burnaby/marine-way",
     "city": "Burnaby",
-    "lastIncident": "2026-06-04T20:42:00Z",
-    "count": 6
+    "lastIncident": "2026-06-07T23:47:00Z",
+    "count": 7
   },
   "burnaby/willingdon-ave": {
     "name": "Willingdon Ave",
@@ -11448,8 +11448,8 @@
     "name": "Byrne Rd",
     "slug": "burnaby/byrne-rd",
     "city": "Burnaby",
-    "lastIncident": "2026-06-04T20:42:00Z",
-    "count": 1
+    "lastIncident": "2026-06-07T23:47:00Z",
+    "count": 2
   },
   "richmond/azure-blvd": {
     "name": "Azure Blvd",
