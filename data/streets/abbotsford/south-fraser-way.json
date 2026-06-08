@@ -4,6 +4,19 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-08T18:52:00Z_abbotsford/south-fraser-way",
+      "timestamp": "2026-06-08T18:52:00Z",
+      "address": "SOUTH FRASER WAY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/south-fraser-way"
+      ],
+      "streetNames": [
+        "South Fraser Way"
+      ],
+      "pulsePointId": "2492044325"
+    },
+    {
       "id": "2026-06-04T20:47:00Z_abbotsford/south-fraser-way",
       "timestamp": "2026-06-04T20:47:00Z",
       "address": "SOUTH FRASER WAY",
@@ -373,6 +386,6 @@
       "pulsePointId": "2433235919"
     }
   ],
-  "lastIncident": "2026-06-04T20:47:00Z",
-  "count": 25
+  "lastIncident": "2026-06-08T18:52:00Z",
+  "count": 26
 }

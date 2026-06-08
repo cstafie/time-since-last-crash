@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-06-08T18:52:00Z_abbotsford/south-fraser-way",
+    "timestamp": "2026-06-08T18:52:00Z",
+    "scrapedAt": "2026-06-08T19:15:42Z",
+    "address": "SOUTH FRASER WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/south-fraser-way"
+    ],
+    "streetNames": [
+      "South Fraser Way"
+    ],
+    "pulsePointId": "2492044325"
+  },
+  {
+    "id": "2026-06-08T18:47:00Z_langley/203rd-st_langley/98th-ave",
+    "timestamp": "2026-06-08T18:47:00Z",
+    "scrapedAt": "2026-06-08T19:15:42Z",
+    "address": "203RD ST & 98TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/203rd-st",
+      "langley/98th-ave"
+    ],
+    "streetNames": [
+      "203rd St",
+      "98th Ave"
+    ],
+    "pulsePointId": "2492038986"
+  },
+  {
+    "id": "2026-06-08T18:33:00Z_burnaby/madison-ave_burnaby/hastings-st",
+    "timestamp": "2026-06-08T18:33:00Z",
+    "scrapedAt": "2026-06-08T19:15:42Z",
+    "address": "MADISON AVE & HASTINGS ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/madison-ave",
+      "burnaby/hastings-st"
+    ],
+    "streetNames": [
+      "Madison Ave",
+      "Hastings St"
+    ],
+    "pulsePointId": "2492028354"
+  },
+  {
     "id": "2026-06-08T16:31:00Z_port-moody/newport-dr_port-moody/ioco-rd",
     "timestamp": "2026-06-08T16:31:00Z",
     "scrapedAt": "2026-06-08T17:01:32Z",

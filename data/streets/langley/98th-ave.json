@@ -1,0 +1,24 @@
+{
+  "slug": "langley/98th-ave",
+  "name": "98th Ave",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-06-08T18:47:00Z_langley/203rd-st_langley/98th-ave",
+      "timestamp": "2026-06-08T18:47:00Z",
+      "address": "203RD ST & 98TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/203rd-st",
+        "langley/98th-ave"
+      ],
+      "streetNames": [
+        "203rd St",
+        "98th Ave"
+      ],
+      "pulsePointId": "2492038986"
+    }
+  ],
+  "lastIncident": "2026-06-08T18:47:00Z",
+  "count": 1
+}

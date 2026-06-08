@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/madison-ave",
+  "name": "Madison Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-06-08T18:33:00Z_burnaby/madison-ave_burnaby/hastings-st",
+      "timestamp": "2026-06-08T18:33:00Z",
+      "address": "MADISON AVE & HASTINGS ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/madison-ave",
+        "burnaby/hastings-st"
+      ],
+      "streetNames": [
+        "Madison Ave",
+        "Hastings St"
+      ],
+      "pulsePointId": "2492028354"
+    }
+  ],
+  "lastIncident": "2026-06-08T18:33:00Z",
+  "count": 1
+}
