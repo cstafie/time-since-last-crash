@@ -1,0 +1,22 @@
+{
+  "slug": "maple-ridge/26285-dewdney-trunk-rd",
+  "name": "26285 Dewdney Trunk Rd",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-06-08T14:55:00Z_maple-ridge/26285-dewdney-trunk-rd",
+      "timestamp": "2026-06-08T14:55:00Z",
+      "address": "26285 DEWDNEY TRUNK RD",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/26285-dewdney-trunk-rd"
+      ],
+      "streetNames": [
+        "26285 Dewdney Trunk Rd"
+      ],
+      "pulsePointId": "2491889568"
+    }
+  ],
+  "lastIncident": "2026-06-08T14:55:00Z",
+  "count": 1
+}

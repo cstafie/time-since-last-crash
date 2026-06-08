@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-08T14:55:00Z_maple-ridge/26285-dewdney-trunk-rd",
+    "timestamp": "2026-06-08T14:55:00Z",
+    "scrapedAt": "2026-06-08T15:44:31Z",
+    "address": "26285 DEWDNEY TRUNK RD",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/26285-dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "26285 Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2491889568"
+  },
+  {
     "id": "2026-06-08T13:42:00Z_mission/2nd-ave",
     "timestamp": "2026-06-08T13:42:00Z",
     "scrapedAt": "2026-06-08T14:22:46Z",

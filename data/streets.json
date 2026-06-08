@@ -11737,5 +11737,12 @@
     "city": "Mission",
     "lastIncident": "2026-06-08T13:42:00Z",
     "count": 1
+  },
+  "maple-ridge/26285-dewdney-trunk-rd": {
+    "name": "26285 Dewdney Trunk Rd",
+    "slug": "maple-ridge/26285-dewdney-trunk-rd",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-06-08T14:55:00Z",
+    "count": 1
   }
 }
