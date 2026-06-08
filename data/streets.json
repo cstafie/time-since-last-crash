@@ -458,8 +458,8 @@
     "name": "Granville Ave",
     "slug": "richmond/granville-ave",
     "city": "Richmond",
-    "lastIncident": "2026-05-13T00:10:00Z",
-    "count": 5
+    "lastIncident": "2026-06-08T23:29:00Z",
+    "count": 6
   },
   "richmond/hwy-91": {
     "name": "Hwy 91",
@@ -2453,8 +2453,8 @@
     "name": "Nanaimo St",
     "slug": "vancouver/nanaimo-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-01T13:41:00Z",
-    "count": 14
+    "lastIncident": "2026-06-08T23:39:00Z",
+    "count": 15
   },
   "vancouver/cambie-st": {
     "name": "Cambie St",
@@ -2572,8 +2572,8 @@
     "name": "No 5 Rd",
     "slug": "richmond/no-5-rd",
     "city": "Richmond",
-    "lastIncident": "2026-06-03T23:42:00Z",
-    "count": 9
+    "lastIncident": "2026-06-08T23:29:00Z",
+    "count": 10
   },
   "port-moody/heritage-mountain-blvd": {
     "name": "Heritage Mountain Blvd",
@@ -11764,6 +11764,27 @@
     "slug": "burnaby/grand-prom",
     "city": "Burnaby",
     "lastIncident": "2026-06-08T19:29:00Z",
+    "count": 1
+  },
+  "vancouver/adanac-st": {
+    "name": "Adanac St",
+    "slug": "vancouver/adanac-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-08T23:39:00Z",
+    "count": 1
+  },
+  "langley/queen-st": {
+    "name": "Queen St",
+    "slug": "langley/queen-st",
+    "city": "Langley",
+    "lastIncident": "2026-06-08T23:38:00Z",
+    "count": 1
+  },
+  "langley/mary-ave": {
+    "name": "Mary Ave",
+    "slug": "langley/mary-ave",
+    "city": "Langley",
+    "lastIncident": "2026-06-08T23:38:00Z",
     "count": 1
   }
 }

@@ -1,0 +1,24 @@
+{
+  "slug": "langley/queen-st",
+  "name": "Queen St",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-06-08T23:38:00Z_langley/queen-st_langley/mary-ave",
+      "timestamp": "2026-06-08T23:38:00Z",
+      "address": "QUEEN ST & MARY AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/queen-st",
+        "langley/mary-ave"
+      ],
+      "streetNames": [
+        "Queen St",
+        "Mary Ave"
+      ],
+      "pulsePointId": "2492244295"
+    }
+  ],
+  "lastIncident": "2026-06-08T23:38:00Z",
+  "count": 1
+}

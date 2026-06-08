@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/adanac-st",
+  "name": "Adanac St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-08T23:39:00Z_vancouver/adanac-st_vancouver/nanaimo-st",
+      "timestamp": "2026-06-08T23:39:00Z",
+      "address": "ADANAC ST & NANAIMO ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/adanac-st",
+        "vancouver/nanaimo-st"
+      ],
+      "streetNames": [
+        "Adanac St",
+        "Nanaimo St"
+      ],
+      "pulsePointId": "2492244158"
+    }
+  ],
+  "lastIncident": "2026-06-08T23:39:00Z",
+  "count": 1
+}

@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-06-08T23:29:00Z_richmond/no-5-rd_richmond/granville-ave",
+      "timestamp": "2026-06-08T23:29:00Z",
+      "address": "NO 5 RD & GRANVILLE AVE",
+      "city": "Richmond",
+      "streets": [
+        "richmond/no-5-rd",
+        "richmond/granville-ave"
+      ],
+      "streetNames": [
+        "No 5 Rd",
+        "Granville Ave"
+      ],
+      "pulsePointId": "2492239989"
+    },
+    {
       "id": "2026-06-03T23:42:00Z_richmond/bridgeport-rd_richmond/no-5-rd",
       "timestamp": "2026-06-03T23:42:00Z",
       "address": "BRIDGEPORT RD & NO 5 RD",
@@ -135,6 +150,6 @@
       "pulsePointId": "2435827761"
     }
   ],
-  "lastIncident": "2026-06-03T23:42:00Z",
-  "count": 9
+  "lastIncident": "2026-06-08T23:29:00Z",
+  "count": 10
 }
