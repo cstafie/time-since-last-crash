@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-06-08T01:16:00Z_north-vancouver/turning-lane",
+    "timestamp": "2026-06-08T01:16:00Z",
+    "scrapedAt": "2026-06-08T01:30:04Z",
+    "address": "TURNING LANE",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/turning-lane"
+    ],
+    "streetNames": [
+      "Turning Lane"
+    ],
+    "pulsePointId": "2491571282"
+  },
+  {
+    "id": "2026-06-08T00:59:00Z_langley/glover-rd_langley/langley-bps",
+    "timestamp": "2026-06-08T00:59:00Z",
+    "scrapedAt": "2026-06-08T01:30:04Z",
+    "address": "GLOVER RD & LANGLEY BPS",
+    "city": "Langley",
+    "streets": [
+      "langley/glover-rd",
+      "langley/langley-bps"
+    ],
+    "streetNames": [
+      "Glover Rd",
+      "Langley Bps"
+    ],
+    "pulsePointId": "2491560844"
+  },
+  {
+    "id": "2026-06-08T00:43:00Z_abbotsford/gladwin-rd_abbotsford/king-rd",
+    "timestamp": "2026-06-08T00:43:00Z",
+    "scrapedAt": "2026-06-08T01:30:04Z",
+    "address": "GLADWIN RD & KING RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/gladwin-rd",
+      "abbotsford/king-rd"
+    ],
+    "streetNames": [
+      "Gladwin Rd",
+      "King Rd"
+    ],
+    "pulsePointId": "2491551310"
+  },
+  {
     "id": "2026-06-07T23:47:00Z_burnaby/byrne-rd_burnaby/marine-way",
     "timestamp": "2026-06-07T23:47:00Z",
     "scrapedAt": "2026-06-08T00:23:46Z",

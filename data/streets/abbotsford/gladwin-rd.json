@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-08T00:43:00Z_abbotsford/gladwin-rd_abbotsford/king-rd",
+      "timestamp": "2026-06-08T00:43:00Z",
+      "address": "GLADWIN RD & KING RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/gladwin-rd",
+        "abbotsford/king-rd"
+      ],
+      "streetNames": [
+        "Gladwin Rd",
+        "King Rd"
+      ],
+      "pulsePointId": "2491551310"
+    },
+    {
       "id": "2026-06-06T19:16:00Z_abbotsford/gladwin-rd_abbotsford/george-ferguson-way",
       "timestamp": "2026-06-06T19:16:00Z",
       "address": "GLADWIN RD & GEORGE FERGUSON WAY",
@@ -122,6 +137,6 @@
       "pulsePointId": "2447162234"
     }
   ],
-  "lastIncident": "2026-06-06T19:16:00Z",
-  "count": 8
+  "lastIncident": "2026-06-08T00:43:00Z",
+  "count": 9
 }

@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-06-08T00:59:00Z_langley/glover-rd_langley/langley-bps",
+      "timestamp": "2026-06-08T00:59:00Z",
+      "address": "GLOVER RD & LANGLEY BPS",
+      "city": "Langley",
+      "streets": [
+        "langley/glover-rd",
+        "langley/langley-bps"
+      ],
+      "streetNames": [
+        "Glover Rd",
+        "Langley Bps"
+      ],
+      "pulsePointId": "2491560844"
+    },
+    {
       "id": "2026-06-04T22:12:00Z_langley/glover-rd",
       "timestamp": "2026-06-04T22:12:00Z",
       "address": "GLOVER RD",
@@ -77,6 +92,6 @@
       "pulsePointId": "2446246891"
     }
   ],
-  "lastIncident": "2026-06-04T22:12:00Z",
-  "count": 5
+  "lastIncident": "2026-06-08T00:59:00Z",
+  "count": 6
 }
