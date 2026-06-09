@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-09T11:47:00Z_surrey/92nd-ave_surrey/king-george-blvd",
+    "timestamp": "2026-06-09T11:47:00Z",
+    "scrapedAt": "2026-06-09T12:05:12Z",
+    "address": "92ND AVE & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/92nd-ave",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "92nd Ave",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2492527605"
+  },
+  {
     "id": "2026-06-09T08:36:00Z_surrey/port-mann-brdg",
     "timestamp": "2026-06-09T08:36:00Z",
     "scrapedAt": "2026-06-09T09:43:55Z",
