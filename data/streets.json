@@ -129,8 +129,8 @@
     "name": "Trans Canada Hwy",
     "slug": "chilliwack/trans-canada-hwy",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-07T19:34:00Z",
-    "count": 15
+    "lastIncident": "2026-06-09T12:31:00Z",
+    "count": 16
   },
   "chilliwack/upper-prairie-rd": {
     "name": "Upper Prairie Rd",
@@ -1039,8 +1039,8 @@
     "name": "E 28th Ave",
     "slug": "vancouver/e-28th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-25T17:20:00Z",
-    "count": 3
+    "lastIncident": "2026-06-09T12:48:00Z",
+    "count": 4
   },
   "langley/88th-ave": {
     "name": "88th Ave",
@@ -1263,8 +1263,8 @@
     "name": "Boundary Rd",
     "slug": "vancouver/boundary-rd",
     "city": "Vancouver",
-    "lastIncident": "2026-06-03T02:28:00Z",
-    "count": 17
+    "lastIncident": "2026-06-09T12:48:00Z",
+    "count": 18
   },
   "surrey/langley-bps": {
     "name": "Langley Bps",
@@ -11799,6 +11799,13 @@
     "slug": "maple-ridge/golden-ears-brdg",
     "city": "Maple Ridge",
     "lastIncident": "2026-06-09T06:59:00Z",
+    "count": 1
+  },
+  "chilliwack/annis-road-ofrp": {
+    "name": "Annis Road Ofrp",
+    "slug": "chilliwack/annis-road-ofrp",
+    "city": "Chilliwack",
+    "lastIncident": "2026-06-09T12:31:00Z",
     "count": 1
   }
 }

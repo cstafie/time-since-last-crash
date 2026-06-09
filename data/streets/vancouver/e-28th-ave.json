@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-09T12:48:00Z_vancouver/e-28th-ave_vancouver/boundary-rd",
+      "timestamp": "2026-06-09T12:48:00Z",
+      "address": "E 28TH AVE & BOUNDARY RD",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-28th-ave",
+        "vancouver/boundary-rd"
+      ],
+      "streetNames": [
+        "E 28th Ave",
+        "Boundary Rd"
+      ],
+      "pulsePointId": "2492544676"
+    },
+    {
       "id": "2026-05-25T17:20:00Z_vancouver/fraser-st_vancouver/e-28th-ave",
       "timestamp": "2026-05-25T17:20:00Z",
       "address": "FRASER ST & E 28TH AVE",
@@ -46,6 +61,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-25T17:20:00Z",
-  "count": 3
+  "lastIncident": "2026-06-09T12:48:00Z",
+  "count": 4
 }

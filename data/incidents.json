@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-09T12:48:00Z_vancouver/e-28th-ave_vancouver/boundary-rd",
+    "timestamp": "2026-06-09T12:48:00Z",
+    "scrapedAt": "2026-06-09T13:26:15Z",
+    "address": "E 28TH AVE & BOUNDARY RD",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-28th-ave",
+      "vancouver/boundary-rd"
+    ],
+    "streetNames": [
+      "E 28th Ave",
+      "Boundary Rd"
+    ],
+    "pulsePointId": "2492544676"
+  },
+  {
+    "id": "2026-06-09T12:31:00Z_chilliwack/trans-canada-hwy_chilliwack/annis-road-ofrp",
+    "timestamp": "2026-06-09T12:31:00Z",
+    "scrapedAt": "2026-06-09T13:26:15Z",
+    "address": "TRANS CANADA HWY & ANNIS ROAD OFRP",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/trans-canada-hwy",
+      "chilliwack/annis-road-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "Annis Road Ofrp"
+    ],
+    "pulsePointId": "2492540328"
+  },
+  {
     "id": "2026-06-09T11:47:00Z_surrey/92nd-ave_surrey/king-george-blvd",
     "timestamp": "2026-06-09T11:47:00Z",
     "scrapedAt": "2026-06-09T12:05:12Z",

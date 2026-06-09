@@ -4,6 +4,21 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-06-09T12:31:00Z_chilliwack/trans-canada-hwy_chilliwack/annis-road-ofrp",
+      "timestamp": "2026-06-09T12:31:00Z",
+      "address": "TRANS CANADA HWY & ANNIS ROAD OFRP",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/trans-canada-hwy",
+        "chilliwack/annis-road-ofrp"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy",
+        "Annis Road Ofrp"
+      ],
+      "pulsePointId": "2492540328"
+    },
+    {
       "id": "2026-06-07T19:34:00Z_chilliwack/trans-canada-hwy",
       "timestamp": "2026-06-07T19:34:00Z",
       "address": "TRANS CANADA HWY",
@@ -204,6 +219,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-07T19:34:00Z",
-  "count": 15
+  "lastIncident": "2026-06-09T12:31:00Z",
+  "count": 16
 }
