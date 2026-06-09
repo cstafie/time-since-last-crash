@@ -1,0 +1,24 @@
+{
+  "slug": "surrey/golf-course-accs",
+  "name": "Golf Course Accs",
+  "city": "Surrey",
+  "incidents": [
+    {
+      "id": "2026-06-09T03:14:00Z_surrey/golf-course-accs_surrey/152nd-st",
+      "timestamp": "2026-06-09T03:14:00Z",
+      "address": "GOLF COURSE ACCS & 152ND ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/golf-course-accs",
+        "surrey/152nd-st"
+      ],
+      "streetNames": [
+        "Golf Course Accs",
+        "152nd St"
+      ],
+      "pulsePointId": "2492368262"
+    }
+  ],
+  "lastIncident": "2026-06-09T03:14:00Z",
+  "count": 1
+}

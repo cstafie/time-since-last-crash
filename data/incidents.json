@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-09T03:14:00Z_surrey/golf-course-accs_surrey/152nd-st",
+    "timestamp": "2026-06-09T03:14:00Z",
+    "scrapedAt": "2026-06-09T03:43:28Z",
+    "address": "GOLF COURSE ACCS & 152ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/golf-course-accs",
+      "surrey/152nd-st"
+    ],
+    "streetNames": [
+      "Golf Course Accs",
+      "152nd St"
+    ],
+    "pulsePointId": "2492368262"
+  },
+  {
+    "id": "2026-06-09T02:59:00Z_surrey/88th-ave_surrey/144th-st",
+    "timestamp": "2026-06-09T02:59:00Z",
+    "scrapedAt": "2026-06-09T03:43:28Z",
+    "address": "88TH AVE & 144TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/88th-ave",
+      "surrey/144th-st"
+    ],
+    "streetNames": [
+      "88th Ave",
+      "144th St"
+    ],
+    "pulsePointId": "2492361404"
+  },
+  {
     "id": "2026-06-09T01:36:00Z_coquitlam/westwood-st_coquitlam/dewdney-trunk-rd",
     "timestamp": "2026-06-09T01:36:00Z",
     "scrapedAt": "2026-06-09T02:15:52Z",
