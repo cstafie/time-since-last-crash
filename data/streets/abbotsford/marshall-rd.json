@@ -4,6 +4,19 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-09T22:17:00Z_abbotsford/marshall-rd",
+      "timestamp": "2026-06-09T22:17:00Z",
+      "address": "MARSHALL RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/marshall-rd"
+      ],
+      "streetNames": [
+        "Marshall Rd"
+      ],
+      "pulsePointId": "2492895659"
+    },
+    {
       "id": "2026-05-25T20:36:00Z_abbotsford/marshall-rd_abbotsford/mason-st",
       "timestamp": "2026-05-25T20:36:00Z",
       "address": "MARSHALL RD & MASON ST",
@@ -132,6 +145,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-25T20:36:00Z",
-  "count": 9
+  "lastIncident": "2026-06-09T22:17:00Z",
+  "count": 10
 }

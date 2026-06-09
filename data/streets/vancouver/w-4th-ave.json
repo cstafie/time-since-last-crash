@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-09T21:53:00Z_vancouver/fir-st_vancouver/w-4th-ave",
+      "timestamp": "2026-06-09T21:53:00Z",
+      "address": "FIR ST & W 4TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/fir-st",
+        "vancouver/w-4th-ave"
+      ],
+      "streetNames": [
+        "Fir St",
+        "W 4th Ave"
+      ],
+      "pulsePointId": "2492879381"
+    },
+    {
       "id": "2026-06-09T13:42:00Z_vancouver/w-4th-ave_vancouver/trafalgar-st",
       "timestamp": "2026-06-09T13:42:00Z",
       "address": "W 4TH AVE & TRAFALGAR ST",
@@ -132,6 +147,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-09T13:42:00Z",
-  "count": 9
+  "lastIncident": "2026-06-09T21:53:00Z",
+  "count": 10
 }

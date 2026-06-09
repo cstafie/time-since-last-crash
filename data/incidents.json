@@ -1,5 +1,141 @@
 [
   {
+    "id": "2026-06-09T22:17:00Z_pitt-meadows/hammond-rd",
+    "timestamp": "2026-06-09T22:17:00Z",
+    "scrapedAt": "2026-06-09T22:27:49Z",
+    "address": "HAMMOND RD",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/hammond-rd"
+    ],
+    "streetNames": [
+      "Hammond Rd"
+    ],
+    "pulsePointId": "2492894959"
+  },
+  {
+    "id": "2026-06-09T22:17:00Z_abbotsford/marshall-rd",
+    "timestamp": "2026-06-09T22:17:00Z",
+    "scrapedAt": "2026-06-09T22:27:49Z",
+    "address": "MARSHALL RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/marshall-rd"
+    ],
+    "streetNames": [
+      "Marshall Rd"
+    ],
+    "pulsePointId": "2492895659"
+  },
+  {
+    "id": "2026-06-09T22:13:00Z_surrey/92nd-ave_surrey/138th-st",
+    "timestamp": "2026-06-09T22:13:00Z",
+    "scrapedAt": "2026-06-09T22:27:49Z",
+    "address": "92ND AVE & 138TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/92nd-ave",
+      "surrey/138th-st"
+    ],
+    "streetNames": [
+      "92nd Ave",
+      "138th St"
+    ],
+    "pulsePointId": "2492891911"
+  },
+  {
+    "id": "2026-06-09T22:11:00Z_surrey/138th-st_surrey/92nd-ave",
+    "timestamp": "2026-06-09T22:11:00Z",
+    "scrapedAt": "2026-06-09T22:27:49Z",
+    "address": "138TH ST & 92ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/138th-st",
+      "surrey/92nd-ave"
+    ],
+    "streetNames": [
+      "138th St",
+      "92nd Ave"
+    ],
+    "pulsePointId": "2492891159"
+  },
+  {
+    "id": "2026-06-09T22:09:00Z_vancouver/e-17th-ave",
+    "timestamp": "2026-06-09T22:09:00Z",
+    "scrapedAt": "2026-06-09T22:27:49Z",
+    "address": "E 17TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-17th-ave"
+    ],
+    "streetNames": [
+      "E 17th Ave"
+    ],
+    "pulsePointId": "2492891519"
+  },
+  {
+    "id": "2026-06-09T22:00:00Z_vancouver/dunsmuir-st_vancouver/beatty-st",
+    "timestamp": "2026-06-09T22:00:00Z",
+    "scrapedAt": "2026-06-09T22:27:49Z",
+    "address": "DUNSMUIR ST & BEATTY ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/dunsmuir-st",
+      "vancouver/beatty-st"
+    ],
+    "streetNames": [
+      "Dunsmuir St",
+      "Beatty St"
+    ],
+    "pulsePointId": "2492883248"
+  },
+  {
+    "id": "2026-06-09T21:53:00Z_vancouver/fir-st_vancouver/w-4th-ave",
+    "timestamp": "2026-06-09T21:53:00Z",
+    "scrapedAt": "2026-06-09T22:27:49Z",
+    "address": "FIR ST & W 4TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/fir-st",
+      "vancouver/w-4th-ave"
+    ],
+    "streetNames": [
+      "Fir St",
+      "W 4th Ave"
+    ],
+    "pulsePointId": "2492879381"
+  },
+  {
+    "id": "2026-06-09T21:49:00Z_surrey/venture-way",
+    "timestamp": "2026-06-09T21:49:00Z",
+    "scrapedAt": "2026-06-09T22:27:49Z",
+    "address": "VENTURE WAY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/venture-way"
+    ],
+    "streetNames": [
+      "Venture Way"
+    ],
+    "pulsePointId": "2492876695"
+  },
+  {
+    "id": "2026-06-09T21:33:00Z_langley/200th-st_langley/80th-ave",
+    "timestamp": "2026-06-09T21:33:00Z",
+    "scrapedAt": "2026-06-09T22:27:49Z",
+    "address": "200TH ST & 80TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/200th-st",
+      "langley/80th-ave"
+    ],
+    "streetNames": [
+      "200th St",
+      "80th Ave"
+    ],
+    "pulsePointId": "2492866168"
+  },
+  {
     "id": "2026-06-09T21:13:00Z_surrey/60th-ave_surrey/172nd-st",
     "timestamp": "2026-06-09T21:13:00Z",
     "scrapedAt": "2026-06-09T21:31:08Z",

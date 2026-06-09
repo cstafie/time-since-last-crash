@@ -4,6 +4,36 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-09T22:13:00Z_surrey/92nd-ave_surrey/138th-st",
+      "timestamp": "2026-06-09T22:13:00Z",
+      "address": "92ND AVE & 138TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/92nd-ave",
+        "surrey/138th-st"
+      ],
+      "streetNames": [
+        "92nd Ave",
+        "138th St"
+      ],
+      "pulsePointId": "2492891911"
+    },
+    {
+      "id": "2026-06-09T22:11:00Z_surrey/138th-st_surrey/92nd-ave",
+      "timestamp": "2026-06-09T22:11:00Z",
+      "address": "138TH ST & 92ND AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/138th-st",
+        "surrey/92nd-ave"
+      ],
+      "streetNames": [
+        "138th St",
+        "92nd Ave"
+      ],
+      "pulsePointId": "2492891159"
+    },
+    {
       "id": "2026-06-09T11:47:00Z_surrey/92nd-ave_surrey/king-george-blvd",
       "timestamp": "2026-06-09T11:47:00Z",
       "address": "92ND AVE & KING GEORGE BLVD",
@@ -241,6 +271,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-09T11:47:00Z",
-  "count": 16
+  "lastIncident": "2026-06-09T22:13:00Z",
+  "count": 18
 }

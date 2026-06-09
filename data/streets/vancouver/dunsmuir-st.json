@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-09T22:00:00Z_vancouver/dunsmuir-st_vancouver/beatty-st",
+      "timestamp": "2026-06-09T22:00:00Z",
+      "address": "DUNSMUIR ST & BEATTY ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/dunsmuir-st",
+        "vancouver/beatty-st"
+      ],
+      "streetNames": [
+        "Dunsmuir St",
+        "Beatty St"
+      ],
+      "pulsePointId": "2492883248"
+    },
+    {
       "id": "2026-05-24T22:53:00Z_vancouver/howe-st_vancouver/dunsmuir-st",
       "timestamp": "2026-05-24T22:53:00Z",
       "address": "HOWE ST & DUNSMUIR ST",
@@ -64,6 +79,6 @@
       "pulsePointId": "2449984202"
     }
   ],
-  "lastIncident": "2026-05-24T22:53:00Z",
-  "count": 4
+  "lastIncident": "2026-06-09T22:00:00Z",
+  "count": 5
 }
