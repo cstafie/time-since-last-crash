@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-09T21:13:00Z_surrey/60th-ave_surrey/172nd-st",
+    "timestamp": "2026-06-09T21:13:00Z",
+    "scrapedAt": "2026-06-09T21:31:08Z",
+    "address": "60TH AVE & 172ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/60th-ave",
+      "surrey/172nd-st"
+    ],
+    "streetNames": [
+      "60th Ave",
+      "172nd St"
+    ],
+    "pulsePointId": "2492853113"
+  },
+  {
     "id": "2026-06-09T19:09:00Z_chilliwack/yale-rd",
     "timestamp": "2026-06-09T19:09:00Z",
     "scrapedAt": "2026-06-09T19:37:57Z",
