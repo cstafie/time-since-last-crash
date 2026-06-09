@@ -1,0 +1,22 @@
+{
+  "slug": "maple-ridge/golden-ears-brdg",
+  "name": "Golden Ears Brdg",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-06-09T06:59:00Z_maple-ridge/golden-ears-brdg",
+      "timestamp": "2026-06-09T06:59:00Z",
+      "address": "GOLDEN EARS BRDG",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/golden-ears-brdg"
+      ],
+      "streetNames": [
+        "Golden Ears Brdg"
+      ],
+      "pulsePointId": "2492459236"
+    }
+  ],
+  "lastIncident": "2026-06-09T06:59:00Z",
+  "count": 1
+}

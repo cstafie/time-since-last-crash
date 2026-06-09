@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-09T07:17:00Z_surrey/144th-st_surrey/108th-ave",
+    "timestamp": "2026-06-09T07:17:00Z",
+    "scrapedAt": "2026-06-09T08:10:17Z",
+    "address": "144TH ST & 108TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/144th-st",
+      "surrey/108th-ave"
+    ],
+    "streetNames": [
+      "144th St",
+      "108th Ave"
+    ],
+    "pulsePointId": "2492462339"
+  },
+  {
+    "id": "2026-06-09T06:59:00Z_maple-ridge/golden-ears-brdg",
+    "timestamp": "2026-06-09T06:59:00Z",
+    "scrapedAt": "2026-06-09T08:10:17Z",
+    "address": "GOLDEN EARS BRDG",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/golden-ears-brdg"
+    ],
+    "streetNames": [
+      "Golden Ears Brdg"
+    ],
+    "pulsePointId": "2492459236"
+  },
+  {
     "id": "2026-06-09T06:25:00Z_surrey/128th-st",
     "timestamp": "2026-06-09T06:25:00Z",
     "scrapedAt": "2026-06-09T06:44:44Z",
