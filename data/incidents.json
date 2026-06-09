@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-09T19:09:00Z_chilliwack/yale-rd",
+    "timestamp": "2026-06-09T19:09:00Z",
+    "scrapedAt": "2026-06-09T19:37:57Z",
+    "address": "YALE RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/yale-rd"
+    ],
+    "streetNames": [
+      "Yale Rd"
+    ],
+    "pulsePointId": "2492764503"
+  },
+  {
     "id": "2026-06-09T16:41:00Z_coquitlam/brunette-avenue-ofrp",
     "timestamp": "2026-06-09T16:41:00Z",
     "scrapedAt": "2026-06-09T16:50:32Z",
