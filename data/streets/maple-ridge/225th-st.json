@@ -1,0 +1,24 @@
+{
+  "slug": "maple-ridge/225th-st",
+  "name": "225th St",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-06-09T16:31:00Z_maple-ridge/haney-bps_maple-ridge/225th-st",
+      "timestamp": "2026-06-09T16:31:00Z",
+      "address": "HANEY BPS & 225TH ST",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/haney-bps",
+        "maple-ridge/225th-st"
+      ],
+      "streetNames": [
+        "Haney Bps",
+        "225th St"
+      ],
+      "pulsePointId": "2492652105"
+    }
+  ],
+  "lastIncident": "2026-06-09T16:31:00Z",
+  "count": 1
+}

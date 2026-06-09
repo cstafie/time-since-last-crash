@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-06-09T16:41:00Z_coquitlam/brunette-avenue-ofrp",
+    "timestamp": "2026-06-09T16:41:00Z",
+    "scrapedAt": "2026-06-09T16:50:32Z",
+    "address": "BRUNETTE AVENUE OFRP",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/brunette-avenue-ofrp"
+    ],
+    "streetNames": [
+      "Brunette Avenue Ofrp"
+    ],
+    "pulsePointId": "2492658860"
+  },
+  {
+    "id": "2026-06-09T16:31:00Z_maple-ridge/haney-bps_maple-ridge/225th-st",
+    "timestamp": "2026-06-09T16:31:00Z",
+    "scrapedAt": "2026-06-09T16:50:32Z",
+    "address": "HANEY BPS & 225TH ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/haney-bps",
+      "maple-ridge/225th-st"
+    ],
+    "streetNames": [
+      "Haney Bps",
+      "225th St"
+    ],
+    "pulsePointId": "2492652105"
+  },
+  {
+    "id": "2026-06-09T16:06:00Z_vancouver/boundary-rd_vancouver/e-2nd-ave",
+    "timestamp": "2026-06-09T16:06:00Z",
+    "scrapedAt": "2026-06-09T16:50:32Z",
+    "address": "BOUNDARY RD & E 2ND AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/boundary-rd",
+      "vancouver/e-2nd-ave"
+    ],
+    "streetNames": [
+      "Boundary Rd",
+      "E 2nd Ave"
+    ],
+    "pulsePointId": "2492636085"
+  },
+  {
+    "id": "2026-06-09T15:46:00Z_richmond/francis-rd_richmond/no-3-rd",
+    "timestamp": "2026-06-09T15:46:00Z",
+    "scrapedAt": "2026-06-09T16:50:32Z",
+    "address": "FRANCIS RD & NO 3 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/francis-rd",
+      "richmond/no-3-rd"
+    ],
+    "streetNames": [
+      "Francis Rd",
+      "No 3 Rd"
+    ],
+    "pulsePointId": "2492623508"
+  },
+  {
     "id": "2026-06-09T15:10:00Z_coquitlam/lougheed-hwy",
     "timestamp": "2026-06-09T15:10:00Z",
     "scrapedAt": "2026-06-09T15:31:28Z",

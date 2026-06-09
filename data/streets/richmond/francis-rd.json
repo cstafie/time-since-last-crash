@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-06-09T15:46:00Z_richmond/francis-rd_richmond/no-3-rd",
+      "timestamp": "2026-06-09T15:46:00Z",
+      "address": "FRANCIS RD & NO 3 RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/francis-rd",
+        "richmond/no-3-rd"
+      ],
+      "streetNames": [
+        "Francis Rd",
+        "No 3 Rd"
+      ],
+      "pulsePointId": "2492623508"
+    },
+    {
       "id": "2026-05-23T01:51:00Z_richmond/gilbert-rd_richmond/francis-rd",
       "timestamp": "2026-05-23T01:51:00Z",
       "address": "GILBERT RD & FRANCIS RD",
@@ -92,6 +107,6 @@
       "pulsePointId": "2433067582"
     }
   ],
-  "lastIncident": "2026-05-23T01:51:00Z",
-  "count": 6
+  "lastIncident": "2026-06-09T15:46:00Z",
+  "count": 7
 }

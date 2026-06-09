@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-06-09T16:31:00Z_maple-ridge/haney-bps_maple-ridge/225th-st",
+      "timestamp": "2026-06-09T16:31:00Z",
+      "address": "HANEY BPS & 225TH ST",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/haney-bps",
+        "maple-ridge/225th-st"
+      ],
+      "streetNames": [
+        "Haney Bps",
+        "225th St"
+      ],
+      "pulsePointId": "2492652105"
+    },
+    {
       "id": "2026-06-01T03:05:00Z_maple-ridge/callaghan-ave_maple-ridge/haney-bps",
       "timestamp": "2026-06-01T03:05:00Z",
       "address": "CALLAGHAN AVE & HANEY BPS",
@@ -47,6 +62,6 @@
       "pulsePointId": "2438093609"
     }
   ],
-  "lastIncident": "2026-06-01T03:05:00Z",
-  "count": 3
+  "lastIncident": "2026-06-09T16:31:00Z",
+  "count": 4
 }

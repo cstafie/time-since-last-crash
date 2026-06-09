@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-09T16:06:00Z_vancouver/boundary-rd_vancouver/e-2nd-ave",
+      "timestamp": "2026-06-09T16:06:00Z",
+      "address": "BOUNDARY RD & E 2ND AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/boundary-rd",
+        "vancouver/e-2nd-ave"
+      ],
+      "streetNames": [
+        "Boundary Rd",
+        "E 2nd Ave"
+      ],
+      "pulsePointId": "2492636085"
+    },
+    {
       "id": "2026-06-09T12:48:00Z_vancouver/e-28th-ave_vancouver/boundary-rd",
       "timestamp": "2026-06-09T12:48:00Z",
       "address": "E 28TH AVE & BOUNDARY RD",
@@ -269,6 +284,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-09T12:48:00Z",
-  "count": 18
+  "lastIncident": "2026-06-09T16:06:00Z",
+  "count": 19
 }

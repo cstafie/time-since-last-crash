@@ -486,8 +486,8 @@
     "name": "No 3 Rd",
     "slug": "richmond/no-3-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-27T23:26:00Z",
-    "count": 15
+    "lastIncident": "2026-06-09T15:46:00Z",
+    "count": 16
   },
   "richmond/no-4-rd": {
     "name": "No 4 Rd",
@@ -1263,8 +1263,8 @@
     "name": "Boundary Rd",
     "slug": "vancouver/boundary-rd",
     "city": "Vancouver",
-    "lastIncident": "2026-06-09T12:48:00Z",
-    "count": 18
+    "lastIncident": "2026-06-09T16:06:00Z",
+    "count": 19
   },
   "surrey/langley-bps": {
     "name": "Langley Bps",
@@ -1704,8 +1704,8 @@
     "name": "Francis Rd",
     "slug": "richmond/francis-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-23T01:51:00Z",
-    "count": 6
+    "lastIncident": "2026-06-09T15:46:00Z",
+    "count": 7
   },
   "maple-ridge/216th-st": {
     "name": "216th St",
@@ -3286,8 +3286,8 @@
     "name": "Haney Bps",
     "slug": "maple-ridge/haney-bps",
     "city": "Maple Ridge",
-    "lastIncident": "2026-06-01T03:05:00Z",
-    "count": 3
+    "lastIncident": "2026-06-09T16:31:00Z",
+    "count": 4
   },
   "north-vancouver/lonsdale-ave": {
     "name": "Lonsdale Ave",
@@ -3370,8 +3370,8 @@
     "name": "Brunette Avenue Ofrp",
     "slug": "coquitlam/brunette-avenue-ofrp",
     "city": "Coquitlam",
-    "lastIncident": "2026-05-17T15:47:00Z",
-    "count": 4
+    "lastIncident": "2026-06-09T16:41:00Z",
+    "count": 5
   },
   "delta/80th-street-ofrp": {
     "name": "80th Street Ofrp",
@@ -7122,8 +7122,8 @@
     "name": "E 2nd Ave",
     "slug": "vancouver/e-2nd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-19T04:33:00Z",
-    "count": 3
+    "lastIncident": "2026-06-09T16:06:00Z",
+    "count": 4
   },
   "abbotsford/3033-immel-stste-600": {
     "name": "3033 Immel St,ste 600",
@@ -11834,6 +11834,13 @@
     "slug": "abbotsford/whatcom-road-ofrp",
     "city": "Abbotsford",
     "lastIncident": "2026-06-09T14:27:00Z",
+    "count": 1
+  },
+  "maple-ridge/225th-st": {
+    "name": "225th St",
+    "slug": "maple-ridge/225th-st",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-06-09T16:31:00Z",
     "count": 1
   }
 }
