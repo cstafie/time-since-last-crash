@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-09T23:46:00Z_vancouver/quebec-st_vancouver/e-16th-ave",
+      "timestamp": "2026-06-09T23:46:00Z",
+      "address": "QUEBEC ST & E 16TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/quebec-st",
+        "vancouver/e-16th-ave"
+      ],
+      "streetNames": [
+        "Quebec St",
+        "E 16th Ave"
+      ],
+      "pulsePointId": "2492954265"
+    },
+    {
       "id": "2026-05-13T19:05:00Z_vancouver/quebec-st_vancouver/e-16th-ave",
       "timestamp": "2026-05-13T19:05:00Z",
       "address": "QUEBEC ST & E 16TH AVE",
@@ -49,6 +64,6 @@
       "pulsePointId": "2463276949"
     }
   ],
-  "lastIncident": "2026-05-13T19:05:00Z",
-  "count": 3
+  "lastIncident": "2026-06-09T23:46:00Z",
+  "count": 4
 }

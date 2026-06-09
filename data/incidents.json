@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-06-09T23:46:00Z_vancouver/quebec-st_vancouver/e-16th-ave",
+    "timestamp": "2026-06-09T23:46:00Z",
+    "scrapedAt": "2026-06-09T23:55:03Z",
+    "address": "QUEBEC ST & E 16TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/quebec-st",
+      "vancouver/e-16th-ave"
+    ],
+    "streetNames": [
+      "Quebec St",
+      "E 16th Ave"
+    ],
+    "pulsePointId": "2492954265"
+  },
+  {
+    "id": "2026-06-09T23:42:00Z_richmond/hwy-91_richmond/no-6-road-onrp",
+    "timestamp": "2026-06-09T23:42:00Z",
+    "scrapedAt": "2026-06-09T23:55:03Z",
+    "address": "HWY 91 & NO 6 ROAD ONRP",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hwy-91",
+      "richmond/no-6-road-onrp"
+    ],
+    "streetNames": [
+      "Hwy 91",
+      "No 6 Road Onrp"
+    ],
+    "pulsePointId": "2492952380"
+  },
+  {
+    "id": "2026-06-09T23:04:00Z_delta/hwy-99",
+    "timestamp": "2026-06-09T23:04:00Z",
+    "scrapedAt": "2026-06-09T23:55:03Z",
+    "address": "HWY 99",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2492927881"
+  },
+  {
     "id": "2026-06-09T22:41:00Z_new-westminster/e-columbia-st",
     "timestamp": "2026-06-09T22:41:00Z",
     "scrapedAt": "2026-06-09T23:01:00Z",
