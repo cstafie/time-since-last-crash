@@ -549,8 +549,8 @@
     "name": "132nd St",
     "slug": "surrey/132nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-08T02:06:00Z",
-    "count": 21
+    "lastIncident": "2026-06-09T22:36:00Z",
+    "count": 22
   },
   "surrey/140th-st": {
     "name": "140th St",
@@ -717,15 +717,15 @@
     "name": "E 41st Ave",
     "slug": "vancouver/e-41st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-06T04:59:00Z",
-    "count": 30
+    "lastIncident": "2026-06-09T22:35:00Z",
+    "count": 31
   },
   "vancouver/granville-st": {
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-08T02:22:00Z",
-    "count": 41
+    "lastIncident": "2026-06-09T22:35:00Z",
+    "count": 42
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -913,8 +913,8 @@
     "name": "E Columbia St",
     "slug": "new-westminster/e-columbia-st",
     "city": "New Westminster",
-    "lastIncident": "2026-06-02T03:39:00Z",
-    "count": 14
+    "lastIncident": "2026-06-09T22:41:00Z",
+    "count": 15
   },
   "burnaby/market-crss": {
     "name": "Market Crss",
@@ -1620,8 +1620,8 @@
     "name": "80th Ave",
     "slug": "surrey/80th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-06T18:01:00Z",
-    "count": 22
+    "lastIncident": "2026-06-09T22:36:00Z",
+    "count": 23
   },
   "surrey/156th-st": {
     "name": "156th St",
@@ -5337,8 +5337,8 @@
     "name": "Ross St",
     "slug": "vancouver/ross-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-01T03:15:00Z",
-    "count": 4
+    "lastIncident": "2026-06-09T22:35:00Z",
+    "count": 5
   },
   "delta/barmston-pl": {
     "name": "Barmston Pl",
@@ -8963,8 +8963,8 @@
     "name": "W 52nd Ave",
     "slug": "vancouver/w-52nd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-06T07:57:00Z",
-    "count": 1
+    "lastIncident": "2026-06-09T22:35:00Z",
+    "count": 2
   },
   "delta/hwy-17a-onrp": {
     "name": "Hwy 17a Onrp",

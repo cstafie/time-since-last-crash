@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-09T22:36:00Z_surrey/80th-ave_surrey/132nd-st",
+      "timestamp": "2026-06-09T22:36:00Z",
+      "address": "80TH AVE & 132ND ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/80th-ave",
+        "surrey/132nd-st"
+      ],
+      "streetNames": [
+        "80th Ave",
+        "132nd St"
+      ],
+      "pulsePointId": "2492907747"
+    },
+    {
       "id": "2026-06-06T18:01:00Z_surrey/128th-st_surrey/80th-ave",
       "timestamp": "2026-06-06T18:01:00Z",
       "address": "128TH ST & 80TH AVE",
@@ -324,6 +339,6 @@
       "pulsePointId": "2432896824"
     }
   ],
-  "lastIncident": "2026-06-06T18:01:00Z",
-  "count": 22
+  "lastIncident": "2026-06-09T22:36:00Z",
+  "count": 23
 }

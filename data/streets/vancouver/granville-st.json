@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-09T22:35:00Z_vancouver/w-52nd-ave_vancouver/granville-st",
+      "timestamp": "2026-06-09T22:35:00Z",
+      "address": "W 52ND AVE & GRANVILLE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-52nd-ave",
+        "vancouver/granville-st"
+      ],
+      "streetNames": [
+        "W 52nd Ave",
+        "Granville St"
+      ],
+      "pulsePointId": "2492907570"
+    },
+    {
       "id": "2026-06-08T02:22:00Z_vancouver/w-broadway_vancouver/granville-st",
       "timestamp": "2026-06-08T02:22:00Z",
       "address": "W BROADWAY & GRANVILLE ST",
@@ -606,6 +621,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-08T02:22:00Z",
-  "count": 41
+  "lastIncident": "2026-06-09T22:35:00Z",
+  "count": 42
 }
