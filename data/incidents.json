@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-09T01:00:00Z_abbotsford/fraser-hwy_abbotsford/mt-lehman-rd",
+    "timestamp": "2026-06-09T01:00:00Z",
+    "scrapedAt": "2026-06-09T01:20:54Z",
+    "address": "FRASER HWY & MT LEHMAN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/fraser-hwy",
+      "abbotsford/mt-lehman-rd"
+    ],
+    "streetNames": [
+      "Fraser Hwy",
+      "Mt Lehman Rd"
+    ],
+    "pulsePointId": "2492295794"
+  },
+  {
     "id": "2026-06-08T23:54:00Z_langley/trans-canada-hwy",
     "timestamp": "2026-06-08T23:54:00Z",
     "scrapedAt": "2026-06-09T00:19:24Z",

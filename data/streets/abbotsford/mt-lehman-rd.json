@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-09T01:00:00Z_abbotsford/fraser-hwy_abbotsford/mt-lehman-rd",
+      "timestamp": "2026-06-09T01:00:00Z",
+      "address": "FRASER HWY & MT LEHMAN RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/fraser-hwy",
+        "abbotsford/mt-lehman-rd"
+      ],
+      "streetNames": [
+        "Fraser Hwy",
+        "Mt Lehman Rd"
+      ],
+      "pulsePointId": "2492295794"
+    },
+    {
       "id": "2026-05-29T21:36:00Z_abbotsford/heritage-dr_abbotsford/mt-lehman-rd",
       "timestamp": "2026-05-29T21:36:00Z",
       "address": "HERITAGE DR & MT LEHMAN RD",
@@ -107,6 +122,6 @@
       "pulsePointId": "2434362355"
     }
   ],
-  "lastIncident": "2026-05-29T21:36:00Z",
-  "count": 7
+  "lastIncident": "2026-06-09T01:00:00Z",
+  "count": 8
 }

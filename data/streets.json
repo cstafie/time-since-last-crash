@@ -2117,8 +2117,8 @@
     "name": "Mt Lehman Rd",
     "slug": "abbotsford/mt-lehman-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-29T21:36:00Z",
-    "count": 7
+    "lastIncident": "2026-06-09T01:00:00Z",
+    "count": 8
   },
   "vancouver/napier-st": {
     "name": "Napier St",
@@ -2768,8 +2768,8 @@
     "name": "Fraser Hwy",
     "slug": "abbotsford/fraser-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-06T01:29:00Z",
-    "count": 11
+    "lastIncident": "2026-06-09T01:00:00Z",
+    "count": 12
   },
   "burnaby/north-fraser-way": {
     "name": "North Fraser Way",
