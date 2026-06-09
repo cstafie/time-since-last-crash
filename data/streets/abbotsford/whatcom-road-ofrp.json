@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/whatcom-road-ofrp",
+  "name": "Whatcom Road Ofrp",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-06-09T14:27:00Z_abbotsford/trans-canada-hwy_abbotsford/whatcom-road-ofrp",
+      "timestamp": "2026-06-09T14:27:00Z",
+      "address": "TRANS CANADA HWY & WHATCOM ROAD OFRP",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/trans-canada-hwy",
+        "abbotsford/whatcom-road-ofrp"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy",
+        "Whatcom Road Ofrp"
+      ],
+      "pulsePointId": "2492579226"
+    }
+  ],
+  "lastIncident": "2026-06-09T14:27:00Z",
+  "count": 1
+}

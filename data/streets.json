@@ -465,8 +465,8 @@
     "name": "Hwy 91",
     "slug": "richmond/hwy-91",
     "city": "Richmond",
-    "lastIncident": "2026-06-06T16:55:00Z",
-    "count": 14
+    "lastIncident": "2026-06-09T14:42:00Z",
+    "count": 15
   },
   "richmond/nelson-rd": {
     "name": "Nelson Rd",
@@ -1116,8 +1116,8 @@
     "name": "Lougheed Hwy",
     "slug": "coquitlam/lougheed-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-06-07T08:24:00Z",
-    "count": 18
+    "lastIncident": "2026-06-09T15:10:00Z",
+    "count": 19
   },
   "coquitlam/orchid-dr": {
     "name": "Orchid Dr",
@@ -1473,8 +1473,8 @@
     "name": "Kingsway",
     "slug": "burnaby/kingsway",
     "city": "Burnaby",
-    "lastIncident": "2026-06-07T18:46:00Z",
-    "count": 17
+    "lastIncident": "2026-06-09T14:31:00Z",
+    "count": 18
   },
   "burnaby/gilley-ave": {
     "name": "Gilley Ave",
@@ -1949,8 +1949,8 @@
     "name": "Trans Canada Hwy",
     "slug": "abbotsford/trans-canada-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-08T06:13:00Z",
-    "count": 39
+    "lastIncident": "2026-06-09T14:27:00Z",
+    "count": 40
   },
   "vancouver/w-16th-ave": {
     "name": "W 16th Ave",
@@ -2782,8 +2782,8 @@
     "name": "Boundary Rd",
     "slug": "burnaby/boundary-rd",
     "city": "Burnaby",
-    "lastIncident": "2026-05-31T19:55:00Z",
-    "count": 10
+    "lastIncident": "2026-06-09T14:31:00Z",
+    "count": 11
   },
   "coquitlam/westview-st": {
     "name": "Westview St",
@@ -11813,6 +11813,27 @@
     "slug": "north-vancouver/w-28th-st",
     "city": "North Vancouver",
     "lastIncident": "2026-06-09T14:06:00Z",
+    "count": 1
+  },
+  "new-westminster/brunette-ave": {
+    "name": "Brunette Ave",
+    "slug": "new-westminster/brunette-ave",
+    "city": "New Westminster",
+    "lastIncident": "2026-06-09T15:05:00Z",
+    "count": 1
+  },
+  "richmond/knight-street-onrp": {
+    "name": "Knight Street Onrp",
+    "slug": "richmond/knight-street-onrp",
+    "city": "Richmond",
+    "lastIncident": "2026-06-09T14:42:00Z",
+    "count": 1
+  },
+  "abbotsford/whatcom-road-ofrp": {
+    "name": "Whatcom Road Ofrp",
+    "slug": "abbotsford/whatcom-road-ofrp",
+    "city": "Abbotsford",
+    "lastIncident": "2026-06-09T14:27:00Z",
     "count": 1
   }
 }

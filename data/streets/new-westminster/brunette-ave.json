@@ -1,0 +1,22 @@
+{
+  "slug": "new-westminster/brunette-ave",
+  "name": "Brunette Ave",
+  "city": "New Westminster",
+  "incidents": [
+    {
+      "id": "2026-06-09T15:05:00Z_new-westminster/brunette-ave",
+      "timestamp": "2026-06-09T15:05:00Z",
+      "address": "BRUNETTE AVE",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/brunette-ave"
+      ],
+      "streetNames": [
+        "Brunette Ave"
+      ],
+      "pulsePointId": "2492600609"
+    }
+  ],
+  "lastIncident": "2026-06-09T15:05:00Z",
+  "count": 1
+}

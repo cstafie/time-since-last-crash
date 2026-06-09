@@ -1,5 +1,81 @@
 [
   {
+    "id": "2026-06-09T15:10:00Z_coquitlam/lougheed-hwy",
+    "timestamp": "2026-06-09T15:10:00Z",
+    "scrapedAt": "2026-06-09T15:31:28Z",
+    "address": "LOUGHEED HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2492602065"
+  },
+  {
+    "id": "2026-06-09T15:05:00Z_new-westminster/brunette-ave",
+    "timestamp": "2026-06-09T15:05:00Z",
+    "scrapedAt": "2026-06-09T15:31:28Z",
+    "address": "BRUNETTE AVE",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/brunette-ave"
+    ],
+    "streetNames": [
+      "Brunette Ave"
+    ],
+    "pulsePointId": "2492600609"
+  },
+  {
+    "id": "2026-06-09T14:42:00Z_richmond/hwy-91_richmond/knight-street-onrp",
+    "timestamp": "2026-06-09T14:42:00Z",
+    "scrapedAt": "2026-06-09T15:31:28Z",
+    "address": "HWY 91 & KNIGHT STREET ONRP",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hwy-91",
+      "richmond/knight-street-onrp"
+    ],
+    "streetNames": [
+      "Hwy 91",
+      "Knight Street Onrp"
+    ],
+    "pulsePointId": "2492587187"
+  },
+  {
+    "id": "2026-06-09T14:31:00Z_burnaby/kingsway_burnaby/boundary-rd",
+    "timestamp": "2026-06-09T14:31:00Z",
+    "scrapedAt": "2026-06-09T15:31:28Z",
+    "address": "KINGSWAY & BOUNDARY RD",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/kingsway",
+      "burnaby/boundary-rd"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "Boundary Rd"
+    ],
+    "pulsePointId": "2492580833"
+  },
+  {
+    "id": "2026-06-09T14:27:00Z_abbotsford/trans-canada-hwy_abbotsford/whatcom-road-ofrp",
+    "timestamp": "2026-06-09T14:27:00Z",
+    "scrapedAt": "2026-06-09T15:31:28Z",
+    "address": "TRANS CANADA HWY & WHATCOM ROAD OFRP",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy",
+      "abbotsford/whatcom-road-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "Whatcom Road Ofrp"
+    ],
+    "pulsePointId": "2492579226"
+  },
+  {
     "id": "2026-06-09T14:06:00Z_north-vancouver/westview-dr_north-vancouver/w-28th-st",
     "timestamp": "2026-06-09T14:06:00Z",
     "scrapedAt": "2026-06-09T14:17:22Z",
