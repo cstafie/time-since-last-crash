@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-09T01:36:00Z_coquitlam/westwood-st_coquitlam/dewdney-trunk-rd",
+    "timestamp": "2026-06-09T01:36:00Z",
+    "scrapedAt": "2026-06-09T02:15:52Z",
+    "address": "WESTWOOD ST & DEWDNEY TRUNK RD",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/westwood-st",
+      "coquitlam/dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "Westwood St",
+      "Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2492316656"
+  },
+  {
     "id": "2026-06-09T01:00:00Z_abbotsford/fraser-hwy_abbotsford/mt-lehman-rd",
     "timestamp": "2026-06-09T01:00:00Z",
     "scrapedAt": "2026-06-09T01:20:54Z",

@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-06-09T01:36:00Z_coquitlam/westwood-st_coquitlam/dewdney-trunk-rd",
+      "timestamp": "2026-06-09T01:36:00Z",
+      "address": "WESTWOOD ST & DEWDNEY TRUNK RD",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/westwood-st",
+        "coquitlam/dewdney-trunk-rd"
+      ],
+      "streetNames": [
+        "Westwood St",
+        "Dewdney Trunk Rd"
+      ],
+      "pulsePointId": "2492316656"
+    },
+    {
       "id": "2026-06-06T02:28:00Z_coquitlam/dewdney-trunk-rd_coquitlam/mariner-way",
       "timestamp": "2026-06-06T02:28:00Z",
       "address": "DEWDNEY TRUNK RD & MARINER WAY",
@@ -49,6 +64,6 @@
       "pulsePointId": "2436163261"
     }
   ],
-  "lastIncident": "2026-06-06T02:28:00Z",
-  "count": 3
+  "lastIncident": "2026-06-09T01:36:00Z",
+  "count": 4
 }

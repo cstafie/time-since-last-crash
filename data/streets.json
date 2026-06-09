@@ -2684,8 +2684,8 @@
     "name": "Dewdney Trunk Rd",
     "slug": "coquitlam/dewdney-trunk-rd",
     "city": "Coquitlam",
-    "lastIncident": "2026-06-06T02:28:00Z",
-    "count": 3
+    "lastIncident": "2026-06-09T01:36:00Z",
+    "count": 4
   },
   "coquitlam/norman-ave": {
     "name": "Norman Ave",
@@ -11595,8 +11595,8 @@
     "name": "Westwood St",
     "slug": "coquitlam/westwood-st",
     "city": "Coquitlam",
-    "lastIncident": "2026-06-06T20:26:00Z",
-    "count": 1
+    "lastIncident": "2026-06-09T01:36:00Z",
+    "count": 2
   },
   "burnaby/woolwich-ave": {
     "name": "Woolwich Ave",
