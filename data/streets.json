@@ -794,8 +794,8 @@
     "name": "W 4th Ave",
     "slug": "vancouver/w-4th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-30T16:04:00Z",
-    "count": 8
+    "lastIncident": "2026-06-09T13:42:00Z",
+    "count": 9
   },
   "vancouver/w-70th-ave": {
     "name": "W 70th Ave",
@@ -2747,8 +2747,8 @@
     "name": "Trafalgar St",
     "slug": "vancouver/trafalgar-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-18T05:35:00Z",
-    "count": 1
+    "lastIncident": "2026-06-09T13:42:00Z",
+    "count": 2
   },
   "langley/204th-st": {
     "name": "204th St",
@@ -4336,8 +4336,8 @@
     "name": "Westview Dr",
     "slug": "north-vancouver/westview-dr",
     "city": "North Vancouver",
-    "lastIncident": "2026-03-28T22:02:00Z",
-    "count": 1
+    "lastIncident": "2026-06-09T14:06:00Z",
+    "count": 2
   },
   "vancouver/campbell-ave": {
     "name": "Campbell Ave",
@@ -11806,6 +11806,13 @@
     "slug": "chilliwack/annis-road-ofrp",
     "city": "Chilliwack",
     "lastIncident": "2026-06-09T12:31:00Z",
+    "count": 1
+  },
+  "north-vancouver/w-28th-st": {
+    "name": "W 28th St",
+    "slug": "north-vancouver/w-28th-st",
+    "city": "North Vancouver",
+    "lastIncident": "2026-06-09T14:06:00Z",
     "count": 1
   }
 }

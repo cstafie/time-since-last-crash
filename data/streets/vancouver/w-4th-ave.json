@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-09T13:42:00Z_vancouver/w-4th-ave_vancouver/trafalgar-st",
+      "timestamp": "2026-06-09T13:42:00Z",
+      "address": "W 4TH AVE & TRAFALGAR ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-4th-ave",
+        "vancouver/trafalgar-st"
+      ],
+      "streetNames": [
+        "W 4th Ave",
+        "Trafalgar St"
+      ],
+      "pulsePointId": "2492562131"
+    },
+    {
       "id": "2026-05-30T16:04:00Z_vancouver/w-4th-ave_vancouver/burrard-st",
       "timestamp": "2026-05-30T16:04:00Z",
       "address": "W 4TH AVE & BURRARD ST",
@@ -117,6 +132,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-30T16:04:00Z",
-  "count": 8
+  "lastIncident": "2026-06-09T13:42:00Z",
+  "count": 9
 }

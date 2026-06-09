@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-09T14:06:00Z_north-vancouver/westview-dr_north-vancouver/w-28th-st",
+    "timestamp": "2026-06-09T14:06:00Z",
+    "scrapedAt": "2026-06-09T14:17:22Z",
+    "address": "WESTVIEW DR & W 28TH ST",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/westview-dr",
+      "north-vancouver/w-28th-st"
+    ],
+    "streetNames": [
+      "Westview Dr",
+      "W 28th St"
+    ],
+    "pulsePointId": "2492570358"
+  },
+  {
+    "id": "2026-06-09T13:42:00Z_vancouver/w-4th-ave_vancouver/trafalgar-st",
+    "timestamp": "2026-06-09T13:42:00Z",
+    "scrapedAt": "2026-06-09T14:17:22Z",
+    "address": "W 4TH AVE & TRAFALGAR ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-4th-ave",
+      "vancouver/trafalgar-st"
+    ],
+    "streetNames": [
+      "W 4th Ave",
+      "Trafalgar St"
+    ],
+    "pulsePointId": "2492562131"
+  },
+  {
     "id": "2026-06-09T12:48:00Z_vancouver/e-28th-ave_vancouver/boundary-rd",
     "timestamp": "2026-06-09T12:48:00Z",
     "scrapedAt": "2026-06-09T13:26:15Z",
