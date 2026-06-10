@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-06-09T23:57:00Z_richmond/minoru-blvd_richmond/granville-ave",
+      "timestamp": "2026-06-09T23:57:00Z",
+      "address": "MINORU BLVD & GRANVILLE AVE",
+      "city": "Richmond",
+      "streets": [
+        "richmond/minoru-blvd",
+        "richmond/granville-ave"
+      ],
+      "streetNames": [
+        "Minoru Blvd",
+        "Granville Ave"
+      ],
+      "pulsePointId": "2492960385"
+    },
+    {
       "id": "2026-06-08T23:29:00Z_richmond/no-5-rd_richmond/granville-ave",
       "timestamp": "2026-06-08T23:29:00Z",
       "address": "NO 5 RD & GRANVILLE AVE",
@@ -93,6 +108,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-08T23:29:00Z",
-  "count": 6
+  "lastIncident": "2026-06-09T23:57:00Z",
+  "count": 7
 }

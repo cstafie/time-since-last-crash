@@ -4,6 +4,19 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-10T00:15:00Z_abbotsford/trans-canada-hwy",
+      "timestamp": "2026-06-10T00:15:00Z",
+      "address": "TRANS CANADA HWY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2492972540"
+    },
+    {
       "id": "2026-06-09T14:27:00Z_abbotsford/trans-canada-hwy_abbotsford/whatcom-road-ofrp",
       "timestamp": "2026-06-09T14:27:00Z",
       "address": "TRANS CANADA HWY & WHATCOM ROAD OFRP",
@@ -544,6 +557,6 @@
       "pulsePointId": "2433793691"
     }
   ],
-  "lastIncident": "2026-06-09T14:27:00Z",
-  "count": 40
+  "lastIncident": "2026-06-10T00:15:00Z",
+  "count": 41
 }
