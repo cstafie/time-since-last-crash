@@ -1,5 +1,77 @@
 [
   {
+    "id": "2026-06-10T15:17:00Z_vancouver/w-49th-ave_vancouver/mccleery-st",
+    "timestamp": "2026-06-10T15:17:00Z",
+    "scrapedAt": "2026-06-10T15:43:36Z",
+    "address": "W 49TH AVE & MCCLEERY ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-49th-ave",
+      "vancouver/mccleery-st"
+    ],
+    "streetNames": [
+      "W 49th Ave",
+      "Mccleery St"
+    ],
+    "pulsePointId": "2493315954"
+  },
+  {
+    "id": "2026-06-10T15:00:00Z_chilliwack/promontory-rd",
+    "timestamp": "2026-06-10T15:00:00Z",
+    "scrapedAt": "2026-06-10T15:43:36Z",
+    "address": "PROMONTORY RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/promontory-rd"
+    ],
+    "streetNames": [
+      "Promontory Rd"
+    ],
+    "pulsePointId": "2493305727"
+  },
+  {
+    "id": "2026-06-10T14:31:00Z_maple-ridge/22780-lougheed-hwy",
+    "timestamp": "2026-06-10T14:31:00Z",
+    "scrapedAt": "2026-06-10T15:43:36Z",
+    "address": "22780 LOUGHEED HWY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/22780-lougheed-hwy"
+    ],
+    "streetNames": [
+      "22780 Lougheed Hwy"
+    ],
+    "pulsePointId": "2493291277"
+  },
+  {
+    "id": "2026-06-10T14:31:00Z_burnaby/goring-st",
+    "timestamp": "2026-06-10T14:31:00Z",
+    "scrapedAt": "2026-06-10T15:43:36Z",
+    "address": "GORING ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/goring-st"
+    ],
+    "streetNames": [
+      "Goring St"
+    ],
+    "pulsePointId": "2493293070"
+  },
+  {
+    "id": "2026-06-10T14:07:00Z_burnaby/gaglardi-way",
+    "timestamp": "2026-06-10T14:07:00Z",
+    "scrapedAt": "2026-06-10T15:43:36Z",
+    "address": "GAGLARDI WAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/gaglardi-way"
+    ],
+    "streetNames": [
+      "Gaglardi Way"
+    ],
+    "pulsePointId": "2493281656"
+  },
+  {
     "id": "2026-06-10T14:01:00Z_vancouver/w-16th-ave",
     "timestamp": "2026-06-10T14:01:00Z",
     "scrapedAt": "2026-06-10T14:05:10Z",

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-10T15:17:00Z_vancouver/w-49th-ave_vancouver/mccleery-st",
+      "timestamp": "2026-06-10T15:17:00Z",
+      "address": "W 49TH AVE & MCCLEERY ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-49th-ave",
+        "vancouver/mccleery-st"
+      ],
+      "streetNames": [
+        "W 49th Ave",
+        "Mccleery St"
+      ],
+      "pulsePointId": "2493315954"
+    },
+    {
       "id": "2026-06-01T00:35:00Z_vancouver/adera-st_vancouver/w-49th-ave",
       "timestamp": "2026-06-01T00:35:00Z",
       "address": "ADERA ST & W 49TH AVE",
@@ -62,6 +77,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-01T00:35:00Z",
-  "count": 4
+  "lastIncident": "2026-06-10T15:17:00Z",
+  "count": 5
 }

@@ -787,8 +787,8 @@
     "name": "W 49th Ave",
     "slug": "vancouver/w-49th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-01T00:35:00Z",
-    "count": 4
+    "lastIncident": "2026-06-10T15:17:00Z",
+    "count": 5
   },
   "vancouver/w-4th-ave": {
     "name": "W 4th Ave",
@@ -3531,8 +3531,8 @@
     "name": "Gaglardi Way",
     "slug": "burnaby/gaglardi-way",
     "city": "Burnaby",
-    "lastIncident": "2026-06-07T02:11:00Z",
-    "count": 4
+    "lastIncident": "2026-06-10T14:07:00Z",
+    "count": 5
   },
   "north-vancouver/w-3rd-st": {
     "name": "W 3rd St",
@@ -7598,8 +7598,8 @@
     "name": "Promontory Rd",
     "slug": "chilliwack/promontory-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-06T21:50:00Z",
-    "count": 4
+    "lastIncident": "2026-06-10T15:00:00Z",
+    "count": 5
   },
   "west-vancouver/headland-dr": {
     "name": "Headland Dr",
@@ -11876,6 +11876,27 @@
     "slug": "abbotsford/blauson-blvd",
     "city": "Abbotsford",
     "lastIncident": "2026-06-10T13:36:00Z",
+    "count": 1
+  },
+  "vancouver/mccleery-st": {
+    "name": "Mccleery St",
+    "slug": "vancouver/mccleery-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-10T15:17:00Z",
+    "count": 1
+  },
+  "maple-ridge/22780-lougheed-hwy": {
+    "name": "22780 Lougheed Hwy",
+    "slug": "maple-ridge/22780-lougheed-hwy",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-06-10T14:31:00Z",
+    "count": 1
+  },
+  "burnaby/goring-st": {
+    "name": "Goring St",
+    "slug": "burnaby/goring-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-06-10T14:31:00Z",
     "count": 1
   }
 }

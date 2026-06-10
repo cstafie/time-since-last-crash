@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-10T14:07:00Z_burnaby/gaglardi-way",
+      "timestamp": "2026-06-10T14:07:00Z",
+      "address": "GAGLARDI WAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/gaglardi-way"
+      ],
+      "streetNames": [
+        "Gaglardi Way"
+      ],
+      "pulsePointId": "2493281656"
+    },
+    {
       "id": "2026-06-07T02:11:00Z_burnaby/gaglardi-way",
       "timestamp": "2026-06-07T02:11:00Z",
       "address": "GAGLARDI WAY",
@@ -60,6 +73,6 @@
       "pulsePointId": "2439039502"
     }
   ],
-  "lastIncident": "2026-06-07T02:11:00Z",
-  "count": 4
+  "lastIncident": "2026-06-10T14:07:00Z",
+  "count": 5
 }
