@@ -4,6 +4,21 @@
   "city": "New Westminster",
   "incidents": [
     {
+      "id": "2026-06-10T02:24:00Z_new-westminster/marine-way_new-westminster/20th-st",
+      "timestamp": "2026-06-10T02:24:00Z",
+      "address": "MARINE WAY & 20TH ST",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/marine-way",
+        "new-westminster/20th-st"
+      ],
+      "streetNames": [
+        "Marine Way",
+        "20th St"
+      ],
+      "pulsePointId": "2493044821"
+    },
+    {
       "id": "2026-06-05T21:52:00Z_new-westminster/20th-st_new-westminster/8th-ave",
       "timestamp": "2026-06-05T21:52:00Z",
       "address": "20TH ST & 8TH AVE",
@@ -61,6 +76,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-05T21:52:00Z",
-  "count": 4
+  "lastIncident": "2026-06-10T02:24:00Z",
+  "count": 5
 }
