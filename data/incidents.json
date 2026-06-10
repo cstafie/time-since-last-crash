@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-10T00:47:00Z_new-westminster/2nd-st_new-westminster/elgin-st",
+    "timestamp": "2026-06-10T00:47:00Z",
+    "scrapedAt": "2026-06-10T01:26:21Z",
+    "address": "2ND ST & ELGIN ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/2nd-st",
+      "new-westminster/elgin-st"
+    ],
+    "streetNames": [
+      "2nd St",
+      "Elgin St"
+    ],
+    "pulsePointId": "2492990131"
+  },
+  {
     "id": "2026-06-10T00:15:00Z_abbotsford/trans-canada-hwy",
     "timestamp": "2026-06-10T00:15:00Z",
     "scrapedAt": "2026-06-10T00:24:53Z",

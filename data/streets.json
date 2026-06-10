@@ -1760,8 +1760,8 @@
     "name": "2nd St",
     "slug": "new-westminster/2nd-st",
     "city": "New Westminster",
-    "lastIncident": "2026-04-25T01:31:00Z",
-    "count": 2
+    "lastIncident": "2026-06-10T00:47:00Z",
+    "count": 3
   },
   "abbotsford/south-fraser-way": {
     "name": "South Fraser Way",
@@ -11848,6 +11848,13 @@
     "slug": "surrey/venture-way",
     "city": "Surrey",
     "lastIncident": "2026-06-09T21:49:00Z",
+    "count": 1
+  },
+  "new-westminster/elgin-st": {
+    "name": "Elgin St",
+    "slug": "new-westminster/elgin-st",
+    "city": "New Westminster",
+    "lastIncident": "2026-06-10T00:47:00Z",
     "count": 1
   }
 }
