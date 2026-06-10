@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-06-10T07:52:00Z_langley/208th-st_langley/40th-ave",
+      "timestamp": "2026-06-10T07:52:00Z",
+      "address": "208TH ST & 40TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/208th-st",
+        "langley/40th-ave"
+      ],
+      "streetNames": [
+        "208th St",
+        "40th Ave"
+      ],
+      "pulsePointId": "2493175298"
+    },
+    {
       "id": "2026-06-06T07:27:00Z_langley/208th-st",
       "timestamp": "2026-06-06T07:27:00Z",
       "address": "208TH ST",
@@ -150,6 +165,6 @@
       "pulsePointId": "2444669082"
     }
   ],
-  "lastIncident": "2026-06-06T07:27:00Z",
-  "count": 10
+  "lastIncident": "2026-06-10T07:52:00Z",
+  "count": 11
 }
