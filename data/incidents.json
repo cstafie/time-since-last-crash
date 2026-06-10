@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-06-10T20:27:00Z_richmond/vulcan-way",
+    "timestamp": "2026-06-10T20:27:00Z",
+    "scrapedAt": "2026-06-10T21:17:57Z",
+    "address": "VULCAN WAY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/vulcan-way"
+    ],
+    "streetNames": [
+      "Vulcan Way"
+    ],
+    "pulsePointId": "2493531356"
+  },
+  {
+    "id": "2026-06-10T20:24:00Z_north-vancouver/w-28th-st",
+    "timestamp": "2026-06-10T20:24:00Z",
+    "scrapedAt": "2026-06-10T21:17:57Z",
+    "address": "W 28TH ST",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/w-28th-st"
+    ],
+    "streetNames": [
+      "W 28th St"
+    ],
+    "pulsePointId": "2493527846"
+  },
+  {
+    "id": "2026-06-10T20:13:00Z_vancouver/w-28th-ave",
+    "timestamp": "2026-06-10T20:13:00Z",
+    "scrapedAt": "2026-06-10T21:17:57Z",
+    "address": "W 28TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-28th-ave"
+    ],
+    "streetNames": [
+      "W 28th Ave"
+    ],
+    "pulsePointId": "2493519856"
+  },
+  {
     "id": "2026-06-10T19:56:00Z_abbotsford/garden-st_abbotsford/south-fraser-way",
     "timestamp": "2026-06-10T19:56:00Z",
     "scrapedAt": "2026-06-10T20:15:21Z",

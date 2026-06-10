@@ -4,6 +4,19 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-06-10T20:27:00Z_richmond/vulcan-way",
+      "timestamp": "2026-06-10T20:27:00Z",
+      "address": "VULCAN WAY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/vulcan-way"
+      ],
+      "streetNames": [
+        "Vulcan Way"
+      ],
+      "pulsePointId": "2493531356"
+    },
+    {
       "id": "2026-04-17T20:32:00Z_richmond/vulcan-way",
       "timestamp": "2026-04-17T20:32:00Z",
       "address": "VULCAN WAY",
@@ -17,6 +30,6 @@
       "pulsePointId": "2456287629"
     }
   ],
-  "lastIncident": "2026-04-17T20:32:00Z",
-  "count": 1
+  "lastIncident": "2026-06-10T20:27:00Z",
+  "count": 2
 }
