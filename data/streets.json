@@ -6982,8 +6982,8 @@
     "name": "Coast Meridian Rd",
     "slug": "port-coquitlam/coast-meridian-rd",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-06-01T17:55:00Z",
-    "count": 3
+    "lastIncident": "2026-06-10T23:05:00Z",
+    "count": 4
   },
   "vancouver/e-6th-ave": {
     "name": "E 6th Ave",
@@ -10454,8 +10454,8 @@
     "name": "Riverwood Gt",
     "slug": "port-coquitlam/riverwood-gt",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-05-25T21:34:00Z",
-    "count": 1
+    "lastIncident": "2026-06-10T23:05:00Z",
+    "count": 2
   },
   "port-coquitlam/thames-cres": {
     "name": "Thames Cres",
@@ -10972,8 +10972,8 @@
     "name": "E Pender St",
     "slug": "vancouver/e-pender-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-07T09:16:00Z",
-    "count": 2
+    "lastIncident": "2026-06-10T23:05:00Z",
+    "count": 3
   },
   "burnaby/thorne-ave": {
     "name": "Thorne Ave",

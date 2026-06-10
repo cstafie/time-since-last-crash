@@ -4,6 +4,21 @@
   "city": "Port Coquitlam",
   "incidents": [
     {
+      "id": "2026-06-10T23:05:00Z_port-coquitlam/riverwood-gt_port-coquitlam/coast-meridian-rd",
+      "timestamp": "2026-06-10T23:05:00Z",
+      "address": "RIVERWOOD GT & COAST MERIDIAN RD",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/riverwood-gt",
+        "port-coquitlam/coast-meridian-rd"
+      ],
+      "streetNames": [
+        "Riverwood Gt",
+        "Coast Meridian Rd"
+      ],
+      "pulsePointId": "2493647685"
+    },
+    {
       "id": "2026-05-25T21:34:00Z_port-coquitlam/riverwood-gt_port-coquitlam/thames-cres",
       "timestamp": "2026-05-25T21:34:00Z",
       "address": "RIVERWOOD GT & THAMES CRES",
@@ -19,6 +34,6 @@
       "pulsePointId": "2482255345"
     }
   ],
-  "lastIncident": "2026-05-25T21:34:00Z",
-  "count": 1
+  "lastIncident": "2026-06-10T23:05:00Z",
+  "count": 2
 }
