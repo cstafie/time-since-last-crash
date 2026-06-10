@@ -4,6 +4,19 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-10T11:01:00Z_surrey/hwy-17",
+      "timestamp": "2026-06-10T11:01:00Z",
+      "address": "HWY 17",
+      "city": "Surrey",
+      "streets": [
+        "surrey/hwy-17"
+      ],
+      "streetNames": [
+        "Hwy 17"
+      ],
+      "pulsePointId": "2493219350"
+    },
+    {
       "id": "2026-05-30T02:13:00Z_surrey/hwy-17_surrey/bridgeview-dr",
       "timestamp": "2026-05-30T02:13:00Z",
       "address": "HWY 17 & BRIDGEVIEW DR",
@@ -112,6 +125,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-30T02:13:00Z",
-  "count": 8
+  "lastIncident": "2026-06-10T11:01:00Z",
+  "count": 9
 }

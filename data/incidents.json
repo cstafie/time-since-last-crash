@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-10T11:01:00Z_surrey/hwy-17",
+    "timestamp": "2026-06-10T11:01:00Z",
+    "scrapedAt": "2026-06-10T11:10:45Z",
+    "address": "HWY 17",
+    "city": "Surrey",
+    "streets": [
+      "surrey/hwy-17"
+    ],
+    "streetNames": [
+      "Hwy 17"
+    ],
+    "pulsePointId": "2493219350"
+  },
+  {
     "id": "2026-06-10T07:52:00Z_langley/208th-st_langley/40th-ave",
     "timestamp": "2026-06-10T07:52:00Z",
     "scrapedAt": "2026-06-10T08:19:44Z",
