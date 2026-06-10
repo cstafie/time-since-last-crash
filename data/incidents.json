@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-10T06:24:00Z_burnaby/sperling-ave_burnaby/lougheed-hwy",
+    "timestamp": "2026-06-10T06:24:00Z",
+    "scrapedAt": "2026-06-10T06:52:00Z",
+    "address": "SPERLING AVE & LOUGHEED HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/sperling-ave",
+      "burnaby/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Sperling Ave",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2493149256"
+  },
+  {
+    "id": "2026-06-10T05:51:00Z_surrey/king-george-blvd_surrey/80th-ave",
+    "timestamp": "2026-06-10T05:51:00Z",
+    "scrapedAt": "2026-06-10T06:52:00Z",
+    "address": "KING GEORGE BLVD & 80TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/80th-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "80th Ave"
+    ],
+    "pulsePointId": "2493137750"
+  },
+  {
     "id": "2026-06-10T02:24:00Z_new-westminster/marine-way_new-westminster/20th-st",
     "timestamp": "2026-06-10T02:24:00Z",
     "scrapedAt": "2026-06-10T03:44:15Z",

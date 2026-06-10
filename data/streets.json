@@ -66,8 +66,8 @@
     "name": "Lougheed Hwy",
     "slug": "burnaby/lougheed-hwy",
     "city": "Burnaby",
-    "lastIncident": "2026-06-05T06:15:00Z",
-    "count": 10
+    "lastIncident": "2026-06-10T06:24:00Z",
+    "count": 11
   },
   "burnaby/marine-way": {
     "name": "Marine Way",
@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-06-09T11:47:00Z",
-    "count": 63
+    "lastIncident": "2026-06-10T05:51:00Z",
+    "count": 64
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -1620,8 +1620,8 @@
     "name": "80th Ave",
     "slug": "surrey/80th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-09T22:36:00Z",
-    "count": 23
+    "lastIncident": "2026-06-10T05:51:00Z",
+    "count": 24
   },
   "surrey/156th-st": {
     "name": "156th St",
@@ -9600,8 +9600,8 @@
     "name": "Sperling Ave",
     "slug": "burnaby/sperling-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-05-15T21:56:00Z",
-    "count": 2
+    "lastIncident": "2026-06-10T06:24:00Z",
+    "count": 3
   },
   "surrey/68a-ave": {
     "name": "68a Ave",
