@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-06-10T02:01:00Z_surrey/104th-ave",
+    "timestamp": "2026-06-10T02:01:00Z",
+    "scrapedAt": "2026-06-10T02:18:36Z",
+    "address": "104TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/104th-ave"
+    ],
+    "streetNames": [
+      "104th Ave"
+    ],
+    "pulsePointId": "2493037084"
+  },
+  {
+    "id": "2026-06-10T02:00:00Z_surrey/104th-ave_surrey/144th-st",
+    "timestamp": "2026-06-10T02:00:00Z",
+    "scrapedAt": "2026-06-10T02:18:36Z",
+    "address": "104TH AVE & 144TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/104th-ave",
+      "surrey/144th-st"
+    ],
+    "streetNames": [
+      "104th Ave",
+      "144th St"
+    ],
+    "pulsePointId": "2493032832"
+  },
+  {
+    "id": "2026-06-10T01:56:00Z_burnaby/imperial-st",
+    "timestamp": "2026-06-10T01:56:00Z",
+    "scrapedAt": "2026-06-10T02:18:36Z",
+    "address": "IMPERIAL ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/imperial-st"
+    ],
+    "streetNames": [
+      "Imperial St"
+    ],
+    "pulsePointId": "2493031163"
+  },
+  {
     "id": "2026-06-10T00:47:00Z_new-westminster/2nd-st_new-westminster/elgin-st",
     "timestamp": "2026-06-10T00:47:00Z",
     "scrapedAt": "2026-06-10T01:26:21Z",

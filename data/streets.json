@@ -1312,8 +1312,8 @@
     "name": "104th Ave",
     "slug": "surrey/104th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-01T13:46:00Z",
-    "count": 29
+    "lastIncident": "2026-06-10T02:01:00Z",
+    "count": 31
   },
   "surrey/122nd-st": {
     "name": "122nd St",
@@ -1501,8 +1501,8 @@
     "name": "144th St",
     "slug": "surrey/144th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-09T07:17:00Z",
-    "count": 28
+    "lastIncident": "2026-06-10T02:00:00Z",
+    "count": 29
   },
   "north-vancouver/seymour-blvd": {
     "name": "Seymour Blvd",
@@ -4259,8 +4259,8 @@
     "name": "Imperial St",
     "slug": "burnaby/imperial-st",
     "city": "Burnaby",
-    "lastIncident": "2026-05-17T20:41:00Z",
-    "count": 10
+    "lastIncident": "2026-06-10T01:56:00Z",
+    "count": 11
   },
   "burnaby/kitchener-st": {
     "name": "Kitchener St",

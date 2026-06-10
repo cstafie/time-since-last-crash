@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-10T02:00:00Z_surrey/104th-ave_surrey/144th-st",
+      "timestamp": "2026-06-10T02:00:00Z",
+      "address": "104TH AVE & 144TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/104th-ave",
+        "surrey/144th-st"
+      ],
+      "streetNames": [
+        "104th Ave",
+        "144th St"
+      ],
+      "pulsePointId": "2493032832"
+    },
+    {
       "id": "2026-06-09T07:17:00Z_surrey/144th-st_surrey/108th-ave",
       "timestamp": "2026-06-09T07:17:00Z",
       "address": "144TH ST & 108TH AVE",
@@ -421,6 +436,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-09T07:17:00Z",
-  "count": 28
+  "lastIncident": "2026-06-10T02:00:00Z",
+  "count": 29
 }
