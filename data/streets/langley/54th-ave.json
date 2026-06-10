@@ -1,0 +1,22 @@
+{
+  "slug": "langley/54th-ave",
+  "name": "54th Ave",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-06-10T11:21:00Z_langley/54th-ave",
+      "timestamp": "2026-06-10T11:21:00Z",
+      "address": "54TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/54th-ave"
+      ],
+      "streetNames": [
+        "54th Ave"
+      ],
+      "pulsePointId": "2493223640"
+    }
+  ],
+  "lastIncident": "2026-06-10T11:21:00Z",
+  "count": 1
+}

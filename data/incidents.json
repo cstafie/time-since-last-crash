@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-10T11:21:00Z_langley/54th-ave",
+    "timestamp": "2026-06-10T11:21:00Z",
+    "scrapedAt": "2026-06-10T12:36:13Z",
+    "address": "54TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/54th-ave"
+    ],
+    "streetNames": [
+      "54th Ave"
+    ],
+    "pulsePointId": "2493223640"
+  },
+  {
     "id": "2026-06-10T11:01:00Z_surrey/hwy-17",
     "timestamp": "2026-06-10T11:01:00Z",
     "scrapedAt": "2026-06-10T11:10:45Z",

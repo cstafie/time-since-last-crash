@@ -11863,5 +11863,12 @@
     "city": "New Westminster",
     "lastIncident": "2026-06-10T02:24:00Z",
     "count": 1
+  },
+  "langley/54th-ave": {
+    "name": "54th Ave",
+    "slug": "langley/54th-ave",
+    "city": "Langley",
+    "lastIncident": "2026-06-10T11:21:00Z",
+    "count": 1
   }
 }
