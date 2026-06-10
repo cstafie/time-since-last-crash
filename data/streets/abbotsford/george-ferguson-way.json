@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-10T13:42:00Z_abbotsford/george-ferguson-way_abbotsford/gladys-ave",
+      "timestamp": "2026-06-10T13:42:00Z",
+      "address": "GEORGE FERGUSON WAY & GLADYS AVE",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/george-ferguson-way",
+        "abbotsford/gladys-ave"
+      ],
+      "streetNames": [
+        "George Ferguson Way",
+        "Gladys Ave"
+      ],
+      "pulsePointId": "2493270109"
+    },
+    {
       "id": "2026-06-06T19:16:00Z_abbotsford/gladwin-rd_abbotsford/george-ferguson-way",
       "timestamp": "2026-06-06T19:16:00Z",
       "address": "GLADWIN RD & GEORGE FERGUSON WAY",
@@ -107,6 +122,6 @@
       "pulsePointId": "2453400546"
     }
   ],
-  "lastIncident": "2026-06-06T19:16:00Z",
-  "count": 7
+  "lastIncident": "2026-06-10T13:42:00Z",
+  "count": 8
 }

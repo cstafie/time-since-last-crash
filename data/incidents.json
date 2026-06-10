@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-06-10T14:01:00Z_vancouver/w-16th-ave",
+    "timestamp": "2026-06-10T14:01:00Z",
+    "scrapedAt": "2026-06-10T14:05:10Z",
+    "address": "W 16TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-16th-ave"
+    ],
+    "streetNames": [
+      "W 16th Ave"
+    ],
+    "pulsePointId": "2493277478"
+  },
+  {
+    "id": "2026-06-10T13:42:00Z_abbotsford/george-ferguson-way_abbotsford/gladys-ave",
+    "timestamp": "2026-06-10T13:42:00Z",
+    "scrapedAt": "2026-06-10T14:05:10Z",
+    "address": "GEORGE FERGUSON WAY & GLADYS AVE",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/george-ferguson-way",
+      "abbotsford/gladys-ave"
+    ],
+    "streetNames": [
+      "George Ferguson Way",
+      "Gladys Ave"
+    ],
+    "pulsePointId": "2493270109"
+  },
+  {
+    "id": "2026-06-10T13:36:00Z_abbotsford/blauson-blvd_abbotsford/mckee-rd",
+    "timestamp": "2026-06-10T13:36:00Z",
+    "scrapedAt": "2026-06-10T14:05:10Z",
+    "address": "BLAUSON BLVD & MCKEE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/blauson-blvd",
+      "abbotsford/mckee-rd"
+    ],
+    "streetNames": [
+      "Blauson Blvd",
+      "Mckee Rd"
+    ],
+    "pulsePointId": "2493266830"
+  },
+  {
+    "id": "2026-06-10T13:09:00Z_surrey/104th-ave_surrey/hwy-17",
+    "timestamp": "2026-06-10T13:09:00Z",
+    "scrapedAt": "2026-06-10T14:05:10Z",
+    "address": "104TH AVE & HWY 17",
+    "city": "Surrey",
+    "streets": [
+      "surrey/104th-ave",
+      "surrey/hwy-17"
+    ],
+    "streetNames": [
+      "104th Ave",
+      "Hwy 17"
+    ],
+    "pulsePointId": "2493256259"
+  },
+  {
     "id": "2026-06-10T11:21:00Z_langley/54th-ave",
     "timestamp": "2026-06-10T11:21:00Z",
     "scrapedAt": "2026-06-10T12:36:13Z",

@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-10T14:01:00Z_vancouver/w-16th-ave",
+      "timestamp": "2026-06-10T14:01:00Z",
+      "address": "W 16TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-16th-ave"
+      ],
+      "streetNames": [
+        "W 16th Ave"
+      ],
+      "pulsePointId": "2493277478"
+    },
+    {
       "id": "2026-05-04T21:59:00Z_vancouver/w-16th-ave_vancouver/sw-marine-dr",
       "timestamp": "2026-05-04T21:59:00Z",
       "address": "W 16TH AVE & SW MARINE DR",
@@ -148,6 +161,6 @@
       "pulsePointId": "2433803079"
     }
   ],
-  "lastIncident": "2026-05-04T21:59:00Z",
-  "count": 10
+  "lastIncident": "2026-06-10T14:01:00Z",
+  "count": 11
 }
