@@ -4,6 +4,21 @@
   "city": "Port Moody",
   "incidents": [
     {
+      "id": "2026-06-10T22:25:00Z_port-moody/ioco-rd_port-moody/murray-st",
+      "timestamp": "2026-06-10T22:25:00Z",
+      "address": "IOCO RD & MURRAY ST",
+      "city": "Port Moody",
+      "streets": [
+        "port-moody/ioco-rd",
+        "port-moody/murray-st"
+      ],
+      "streetNames": [
+        "Ioco Rd",
+        "Murray St"
+      ],
+      "pulsePointId": "2493620337"
+    },
+    {
       "id": "2026-06-08T16:31:00Z_port-moody/newport-dr_port-moody/ioco-rd",
       "timestamp": "2026-06-08T16:31:00Z",
       "address": "NEWPORT DR & IOCO RD",
@@ -47,6 +62,6 @@
       "pulsePointId": "2438015861"
     }
   ],
-  "lastIncident": "2026-06-08T16:31:00Z",
-  "count": 3
+  "lastIncident": "2026-06-10T22:25:00Z",
+  "count": 4
 }
