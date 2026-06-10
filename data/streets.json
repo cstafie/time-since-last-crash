@@ -1200,8 +1200,8 @@
     "name": "Se Marine Dr",
     "slug": "vancouver/se-marine-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-06-02T14:59:00Z",
-    "count": 12
+    "lastIncident": "2026-06-10T18:26:00Z",
+    "count": 13
   },
   "vancouver/kerr-st": {
     "name": "Kerr St",
@@ -1767,8 +1767,8 @@
     "name": "South Fraser Way",
     "slug": "abbotsford/south-fraser-way",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-08T18:52:00Z",
-    "count": 26
+    "lastIncident": "2026-06-10T19:56:00Z",
+    "count": 27
   },
   "vancouver/e-hastings-st": {
     "name": "E Hastings St",
@@ -7059,8 +7059,8 @@
     "name": "Argyle St",
     "slug": "vancouver/argyle-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-23T21:22:00Z",
-    "count": 5
+    "lastIncident": "2026-06-10T18:26:00Z",
+    "count": 6
   },
   "vancouver/parker-st": {
     "name": "Parker St",
@@ -11897,6 +11897,13 @@
     "slug": "burnaby/goring-st",
     "city": "Burnaby",
     "lastIncident": "2026-06-10T14:31:00Z",
+    "count": 1
+  },
+  "abbotsford/garden-st": {
+    "name": "Garden St",
+    "slug": "abbotsford/garden-st",
+    "city": "Abbotsford",
+    "lastIncident": "2026-06-10T19:56:00Z",
     "count": 1
   }
 }

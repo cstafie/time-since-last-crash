@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-10T19:56:00Z_abbotsford/garden-st_abbotsford/south-fraser-way",
+    "timestamp": "2026-06-10T19:56:00Z",
+    "scrapedAt": "2026-06-10T20:15:21Z",
+    "address": "GARDEN ST & SOUTH FRASER WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/garden-st",
+      "abbotsford/south-fraser-way"
+    ],
+    "streetNames": [
+      "Garden St",
+      "South Fraser Way"
+    ],
+    "pulsePointId": "2493505892"
+  },
+  {
+    "id": "2026-06-10T18:26:00Z_vancouver/argyle-st_vancouver/se-marine-dr",
+    "timestamp": "2026-06-10T18:26:00Z",
+    "scrapedAt": "2026-06-10T20:15:21Z",
+    "address": "ARGYLE ST & SE MARINE DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/argyle-st",
+      "vancouver/se-marine-dr"
+    ],
+    "streetNames": [
+      "Argyle St",
+      "Se Marine Dr"
+    ],
+    "pulsePointId": "2493440360"
+  },
+  {
     "id": "2026-06-10T15:46:00Z_richmond/blundell-rd",
     "timestamp": "2026-06-10T15:46:00Z",
     "scrapedAt": "2026-06-10T17:02:28Z",
