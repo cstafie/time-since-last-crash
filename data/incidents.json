@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-11T05:05:00Z_surrey/84th-ave",
+    "timestamp": "2026-06-11T05:05:00Z",
+    "scrapedAt": "2026-06-11T07:05:37Z",
+    "address": "84TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/84th-ave"
+    ],
+    "streetNames": [
+      "84th Ave"
+    ],
+    "pulsePointId": "2493852639"
+  },
+  {
     "id": "2026-06-11T02:06:00Z_surrey/king-george-blvd_surrey/24th-ave",
     "timestamp": "2026-06-11T02:06:00Z",
     "scrapedAt": "2026-06-11T03:00:53Z",
