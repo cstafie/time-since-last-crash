@@ -297,8 +297,8 @@
     "name": "227th St",
     "slug": "maple-ridge/227th-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-08T21:05:00Z",
-    "count": 3
+    "lastIncident": "2026-06-11T16:09:00Z",
+    "count": 4
   },
   "maple-ridge/228th-st": {
     "name": "228th St",
@@ -5820,8 +5820,8 @@
     "name": "Abernethy Way",
     "slug": "maple-ridge/abernethy-way",
     "city": "Maple Ridge",
-    "lastIncident": "2026-06-08T02:56:00Z",
-    "count": 5
+    "lastIncident": "2026-06-11T16:09:00Z",
+    "count": 6
   },
   "vancouver/w-26th-ave": {
     "name": "W 26th Ave",

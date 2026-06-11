@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-11T16:09:00Z_maple-ridge/abernethy-way_maple-ridge/227th-st",
+    "timestamp": "2026-06-11T16:09:00Z",
+    "scrapedAt": "2026-06-11T16:45:11Z",
+    "address": "ABERNETHY WAY & 227TH ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/abernethy-way",
+      "maple-ridge/227th-st"
+    ],
+    "streetNames": [
+      "Abernethy Way",
+      "227th St"
+    ],
+    "pulsePointId": "2494096850"
+  },
+  {
     "id": "2026-06-11T14:41:00Z_surrey/king-george-blvd_surrey/58th-ave",
     "timestamp": "2026-06-11T14:41:00Z",
     "scrapedAt": "2026-06-11T15:05:43Z",

@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-06-11T16:09:00Z_maple-ridge/abernethy-way_maple-ridge/227th-st",
+      "timestamp": "2026-06-11T16:09:00Z",
+      "address": "ABERNETHY WAY & 227TH ST",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/abernethy-way",
+        "maple-ridge/227th-st"
+      ],
+      "streetNames": [
+        "Abernethy Way",
+        "227th St"
+      ],
+      "pulsePointId": "2494096850"
+    },
+    {
       "id": "2026-06-08T02:56:00Z_maple-ridge/abernethy-way_maple-ridge/232nd-st",
       "timestamp": "2026-06-08T02:56:00Z",
       "address": "ABERNETHY WAY & 232ND ST",
@@ -79,6 +94,6 @@
       "pulsePointId": "2450234426"
     }
   ],
-  "lastIncident": "2026-06-08T02:56:00Z",
-  "count": 5
+  "lastIncident": "2026-06-11T16:09:00Z",
+  "count": 6
 }
