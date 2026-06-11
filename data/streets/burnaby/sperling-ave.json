@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-11T01:02:00Z_burnaby/sperling-ave_burnaby/arcola-st",
+      "timestamp": "2026-06-11T01:02:00Z",
+      "address": "SPERLING AVE & ARCOLA ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/sperling-ave",
+        "burnaby/arcola-st"
+      ],
+      "streetNames": [
+        "Sperling Ave",
+        "Arcola St"
+      ],
+      "pulsePointId": "2493720671"
+    },
+    {
       "id": "2026-06-10T06:24:00Z_burnaby/sperling-ave_burnaby/lougheed-hwy",
       "timestamp": "2026-06-10T06:24:00Z",
       "address": "SPERLING AVE & LOUGHEED HWY",
@@ -49,6 +64,6 @@
       "pulsePointId": "2474461597"
     }
   ],
-  "lastIncident": "2026-06-10T06:24:00Z",
-  "count": 3
+  "lastIncident": "2026-06-11T01:02:00Z",
+  "count": 4
 }

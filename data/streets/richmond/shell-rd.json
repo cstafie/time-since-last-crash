@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-06-11T00:58:00Z_richmond/shell-rd_richmond/alderbridge-way",
+      "timestamp": "2026-06-11T00:58:00Z",
+      "address": "SHELL RD & ALDERBRIDGE WAY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/shell-rd",
+        "richmond/alderbridge-way"
+      ],
+      "streetNames": [
+        "Shell Rd",
+        "Alderbridge Way"
+      ],
+      "pulsePointId": "2493716833"
+    },
+    {
       "id": "2026-05-28T02:25:00Z_richmond/shell-rd_richmond/cambie-rd",
       "timestamp": "2026-05-28T02:25:00Z",
       "address": "SHELL RD & CAMBIE RD",
@@ -76,6 +91,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-28T02:25:00Z",
-  "count": 5
+  "lastIncident": "2026-06-11T00:58:00Z",
+  "count": 6
 }

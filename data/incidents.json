@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-06-11T01:17:00Z_delta/george-massey-tunl",
+    "timestamp": "2026-06-11T01:17:00Z",
+    "scrapedAt": "2026-06-11T01:46:16Z",
+    "address": "GEORGE MASSEY TUNL",
+    "city": "Delta",
+    "streets": [
+      "delta/george-massey-tunl"
+    ],
+    "streetNames": [
+      "George Massey Tunl"
+    ],
+    "pulsePointId": "2493728148"
+  },
+  {
+    "id": "2026-06-11T01:02:00Z_burnaby/sperling-ave_burnaby/arcola-st",
+    "timestamp": "2026-06-11T01:02:00Z",
+    "scrapedAt": "2026-06-11T01:46:16Z",
+    "address": "SPERLING AVE & ARCOLA ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/sperling-ave",
+      "burnaby/arcola-st"
+    ],
+    "streetNames": [
+      "Sperling Ave",
+      "Arcola St"
+    ],
+    "pulsePointId": "2493720671"
+  },
+  {
+    "id": "2026-06-11T00:58:00Z_richmond/shell-rd_richmond/alderbridge-way",
+    "timestamp": "2026-06-11T00:58:00Z",
+    "scrapedAt": "2026-06-11T01:46:16Z",
+    "address": "SHELL RD & ALDERBRIDGE WAY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/shell-rd",
+      "richmond/alderbridge-way"
+    ],
+    "streetNames": [
+      "Shell Rd",
+      "Alderbridge Way"
+    ],
+    "pulsePointId": "2493716833"
+  },
+  {
     "id": "2026-06-11T00:30:00Z_burnaby/1st-ave_burnaby/esmond-ave",
     "timestamp": "2026-06-11T00:30:00Z",
     "scrapedAt": "2026-06-11T00:50:28Z",
