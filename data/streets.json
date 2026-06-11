@@ -696,8 +696,8 @@
     "name": "Beatrice St",
     "slug": "vancouver/beatrice-st",
     "city": "Vancouver",
-    "lastIncident": "2026-03-07T22:14:00Z",
-    "count": 1
+    "lastIncident": "2026-06-11T00:11:00Z",
+    "count": 2
   },
   "vancouver/burrard-st": {
     "name": "Burrard St",
@@ -717,8 +717,8 @@
     "name": "E 41st Ave",
     "slug": "vancouver/e-41st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-09T22:35:00Z",
-    "count": 31
+    "lastIncident": "2026-06-11T00:11:00Z",
+    "count": 32
   },
   "vancouver/granville-st": {
     "name": "Granville St",
@@ -4161,8 +4161,8 @@
     "name": "W 2nd Ave",
     "slug": "vancouver/w-2nd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-19T02:35:00Z",
-    "count": 6
+    "lastIncident": "2026-06-11T00:17:00Z",
+    "count": 7
   },
   "vancouver/e-21st-ave": {
     "name": "E 21st Ave",
@@ -4238,8 +4238,8 @@
     "name": "Hwy 99",
     "slug": "surrey/hwy-99",
     "city": "Surrey",
-    "lastIncident": "2026-05-27T13:33:00Z",
-    "count": 6
+    "lastIncident": "2026-06-11T00:30:00Z",
+    "count": 7
   },
   "surrey/golden-ears-conn": {
     "name": "Golden Ears Conn",
@@ -5932,8 +5932,8 @@
     "name": "1st Ave",
     "slug": "burnaby/1st-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-04-13T16:34:00Z",
-    "count": 2
+    "lastIncident": "2026-06-11T00:30:00Z",
+    "count": 3
   },
   "abbotsford/babich-st": {
     "name": "Babich St",
@@ -8403,8 +8403,8 @@
     "name": "Alberta St",
     "slug": "vancouver/alberta-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-10T22:49:00Z",
-    "count": 2
+    "lastIncident": "2026-06-11T00:17:00Z",
+    "count": 3
   },
   "vancouver/braeburn-st": {
     "name": "Braeburn St",
@@ -8690,8 +8690,8 @@
     "name": "Esmond Ave",
     "slug": "burnaby/esmond-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-05-04T14:27:00Z",
-    "count": 1
+    "lastIncident": "2026-06-11T00:30:00Z",
+    "count": 2
   },
   "richmond/dover-rd": {
     "name": "Dover Rd",
@@ -11918,6 +11918,13 @@
     "slug": "port-moody/murray-st",
     "city": "Port Moody",
     "lastIncident": "2026-06-10T22:25:00Z",
+    "count": 1
+  },
+  "north-vancouver/colwood-dr": {
+    "name": "Colwood Dr",
+    "slug": "north-vancouver/colwood-dr",
+    "city": "North Vancouver",
+    "lastIncident": "2026-06-10T23:58:00Z",
     "count": 1
   }
 }

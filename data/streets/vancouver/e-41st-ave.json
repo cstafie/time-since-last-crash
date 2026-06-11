@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-11T00:11:00Z_vancouver/beatrice-st_vancouver/e-41st-ave",
+      "timestamp": "2026-06-11T00:11:00Z",
+      "address": "BEATRICE ST & E 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/beatrice-st",
+        "vancouver/e-41st-ave"
+      ],
+      "streetNames": [
+        "Beatrice St",
+        "E 41st Ave"
+      ],
+      "pulsePointId": "2493687098"
+    },
+    {
       "id": "2026-06-09T22:35:00Z_vancouver/ross-st_vancouver/e-41st-ave",
       "timestamp": "2026-06-09T22:35:00Z",
       "address": "ROSS ST & E 41ST AVE",
@@ -466,6 +481,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-09T22:35:00Z",
-  "count": 31
+  "lastIncident": "2026-06-11T00:11:00Z",
+  "count": 32
 }

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-11T00:17:00Z_vancouver/alberta-st_vancouver/w-2nd-ave",
+      "timestamp": "2026-06-11T00:17:00Z",
+      "address": "ALBERTA ST & W 2ND AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/alberta-st",
+        "vancouver/w-2nd-ave"
+      ],
+      "streetNames": [
+        "Alberta St",
+        "W 2nd Ave"
+      ],
+      "pulsePointId": "2493692477"
+    },
+    {
       "id": "2026-05-19T02:35:00Z_vancouver/yukon-st_vancouver/w-2nd-ave",
       "timestamp": "2026-05-19T02:35:00Z",
       "address": "YUKON ST & W 2ND AVE",
@@ -94,6 +109,6 @@
       "pulsePointId": "2442265889"
     }
   ],
-  "lastIncident": "2026-05-19T02:35:00Z",
-  "count": 6
+  "lastIncident": "2026-06-11T00:17:00Z",
+  "count": 7
 }

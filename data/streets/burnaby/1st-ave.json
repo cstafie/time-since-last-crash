@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-11T00:30:00Z_burnaby/1st-ave_burnaby/esmond-ave",
+      "timestamp": "2026-06-11T00:30:00Z",
+      "address": "1ST AVE & ESMOND AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/1st-ave",
+        "burnaby/esmond-ave"
+      ],
+      "streetNames": [
+        "1st Ave",
+        "Esmond Ave"
+      ],
+      "pulsePointId": "2493703660"
+    },
+    {
       "id": "2026-04-13T16:34:00Z_burnaby/1st-ave",
       "timestamp": "2026-04-13T16:34:00Z",
       "address": "1ST AVE",
@@ -32,6 +47,6 @@
       "pulsePointId": "2450913455"
     }
   ],
-  "lastIncident": "2026-04-13T16:34:00Z",
-  "count": 2
+  "lastIncident": "2026-06-11T00:30:00Z",
+  "count": 3
 }

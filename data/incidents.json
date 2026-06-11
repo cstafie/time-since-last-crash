@@ -1,5 +1,81 @@
 [
   {
+    "id": "2026-06-11T00:30:00Z_burnaby/1st-ave_burnaby/esmond-ave",
+    "timestamp": "2026-06-11T00:30:00Z",
+    "scrapedAt": "2026-06-11T00:50:28Z",
+    "address": "1ST AVE & ESMOND AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/1st-ave",
+      "burnaby/esmond-ave"
+    ],
+    "streetNames": [
+      "1st Ave",
+      "Esmond Ave"
+    ],
+    "pulsePointId": "2493703660"
+  },
+  {
+    "id": "2026-06-11T00:30:00Z_surrey/hwy-99",
+    "timestamp": "2026-06-11T00:30:00Z",
+    "scrapedAt": "2026-06-11T00:50:28Z",
+    "address": "HWY 99",
+    "city": "Surrey",
+    "streets": [
+      "surrey/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2493700424"
+  },
+  {
+    "id": "2026-06-11T00:17:00Z_vancouver/alberta-st_vancouver/w-2nd-ave",
+    "timestamp": "2026-06-11T00:17:00Z",
+    "scrapedAt": "2026-06-11T00:50:28Z",
+    "address": "ALBERTA ST & W 2ND AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/alberta-st",
+      "vancouver/w-2nd-ave"
+    ],
+    "streetNames": [
+      "Alberta St",
+      "W 2nd Ave"
+    ],
+    "pulsePointId": "2493692477"
+  },
+  {
+    "id": "2026-06-11T00:11:00Z_vancouver/beatrice-st_vancouver/e-41st-ave",
+    "timestamp": "2026-06-11T00:11:00Z",
+    "scrapedAt": "2026-06-11T00:50:28Z",
+    "address": "BEATRICE ST & E 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/beatrice-st",
+      "vancouver/e-41st-ave"
+    ],
+    "streetNames": [
+      "Beatrice St",
+      "E 41st Ave"
+    ],
+    "pulsePointId": "2493687098"
+  },
+  {
+    "id": "2026-06-10T23:58:00Z_north-vancouver/colwood-dr",
+    "timestamp": "2026-06-10T23:58:00Z",
+    "scrapedAt": "2026-06-11T00:50:28Z",
+    "address": "COLWOOD DR",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/colwood-dr"
+    ],
+    "streetNames": [
+      "Colwood Dr"
+    ],
+    "pulsePointId": "2493679655"
+  },
+  {
     "id": "2026-06-10T23:05:00Z_port-coquitlam/riverwood-gt_port-coquitlam/coast-meridian-rd",
     "timestamp": "2026-06-10T23:05:00Z",
     "scrapedAt": "2026-06-10T23:57:29Z",
