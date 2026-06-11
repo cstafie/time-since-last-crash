@@ -269,8 +269,8 @@
     "name": "Trans Canada Hwy",
     "slug": "langley/trans-canada-hwy",
     "city": "Langley",
-    "lastIncident": "2026-06-11T01:56:00Z",
-    "count": 26
+    "lastIncident": "2026-06-11T18:37:00Z",
+    "count": 27
   },
   "maple-ridge/119th-ave": {
     "name": "119th Ave",
@@ -318,8 +318,8 @@
     "name": "Dewdney Trunk Rd",
     "slug": "maple-ridge/dewdney-trunk-rd",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-19T21:41:00Z",
-    "count": 19
+    "lastIncident": "2026-06-11T18:07:00Z",
+    "count": 20
   },
   "maple-ridge/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -4637,8 +4637,8 @@
     "name": "224th St",
     "slug": "maple-ridge/224th-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-06-01T02:08:00Z",
-    "count": 5
+    "lastIncident": "2026-06-11T18:07:00Z",
+    "count": 6
   },
   "maple-ridge/124th-ave": {
     "name": "124th Ave",

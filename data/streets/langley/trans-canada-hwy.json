@@ -4,6 +4,19 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-06-11T18:37:00Z_langley/trans-canada-hwy",
+      "timestamp": "2026-06-11T18:37:00Z",
+      "address": "TRANS CANADA HWY",
+      "city": "Langley",
+      "streets": [
+        "langley/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2494207170"
+    },
+    {
       "id": "2026-06-11T01:56:00Z_langley/trans-canada-hwy",
       "timestamp": "2026-06-11T01:56:00Z",
       "address": "TRANS CANADA HWY",
@@ -353,6 +366,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-11T01:56:00Z",
-  "count": 26
+  "lastIncident": "2026-06-11T18:37:00Z",
+  "count": 27
 }
