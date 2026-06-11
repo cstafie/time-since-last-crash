@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-11T14:41:00Z_surrey/king-george-blvd_surrey/58th-ave",
+    "timestamp": "2026-06-11T14:41:00Z",
+    "scrapedAt": "2026-06-11T15:05:43Z",
+    "address": "KING GEORGE BLVD & 58TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/58th-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "58th Ave"
+    ],
+    "pulsePointId": "2494046956"
+  },
+  {
+    "id": "2026-06-11T13:57:00Z_richmond/cambie-rd",
+    "timestamp": "2026-06-11T13:57:00Z",
+    "scrapedAt": "2026-06-11T15:05:43Z",
+    "address": "CAMBIE RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/cambie-rd"
+    ],
+    "streetNames": [
+      "Cambie Rd"
+    ],
+    "pulsePointId": "2494026237"
+  },
+  {
     "id": "2026-06-11T13:02:00Z_surrey/fraser-hwy",
     "timestamp": "2026-06-11T13:02:00Z",
     "scrapedAt": "2026-06-11T13:46:19Z",

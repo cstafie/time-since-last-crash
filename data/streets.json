@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-06-11T02:06:00Z",
-    "count": 65
+    "lastIncident": "2026-06-11T14:41:00Z",
+    "count": 66
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -1592,8 +1592,8 @@
     "name": "58th Ave",
     "slug": "surrey/58th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-02T23:48:00Z",
-    "count": 10
+    "lastIncident": "2026-06-11T14:41:00Z",
+    "count": 11
   },
   "vancouver/w-22nd-ave": {
     "name": "W 22nd Ave",
@@ -2061,8 +2061,8 @@
     "name": "Cambie Rd",
     "slug": "richmond/cambie-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-28T15:53:00Z",
-    "count": 4
+    "lastIncident": "2026-06-11T13:57:00Z",
+    "count": 5
   },
   "richmond/viking-way": {
     "name": "Viking Way",
