@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-11T20:00:00Z_vancouver/grant-st_vancouver/clark-dr",
+      "timestamp": "2026-06-11T20:00:00Z",
+      "address": "GRANT ST & CLARK DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/grant-st",
+        "vancouver/clark-dr"
+      ],
+      "streetNames": [
+        "Grant St",
+        "Clark Dr"
+      ],
+      "pulsePointId": "2494270361"
+    },
+    {
       "id": "2026-05-25T23:28:00Z_vancouver/e-broadway_vancouver/clark-dr",
       "timestamp": "2026-05-25T23:28:00Z",
       "address": "E BROADWAY & CLARK DR",
@@ -124,6 +139,6 @@
       "pulsePointId": "2438733768"
     }
   ],
-  "lastIncident": "2026-05-25T23:28:00Z",
-  "count": 8
+  "lastIncident": "2026-06-11T20:00:00Z",
+  "count": 9
 }
