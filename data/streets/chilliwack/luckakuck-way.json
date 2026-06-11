@@ -4,6 +4,32 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-06-11T23:02:00Z_chilliwack/luckakuck-way",
+      "timestamp": "2026-06-11T23:02:00Z",
+      "address": "LUCKAKUCK WAY",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/luckakuck-way"
+      ],
+      "streetNames": [
+        "Luckakuck Way"
+      ],
+      "pulsePointId": "2494413642"
+    },
+    {
+      "id": "2026-06-11T23:01:00Z_chilliwack/luckakuck-way",
+      "timestamp": "2026-06-11T23:01:00Z",
+      "address": "LUCKAKUCK WAY",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/luckakuck-way"
+      ],
+      "streetNames": [
+        "Luckakuck Way"
+      ],
+      "pulsePointId": "2494413472"
+    },
+    {
       "id": "2026-04-09T22:25:00Z_chilliwack/luckakuck-way_chilliwack/orr-rd",
       "timestamp": "2026-04-09T22:25:00Z",
       "address": "LUCKAKUCK WAY & ORR RD",
@@ -34,6 +60,6 @@
       "pulsePointId": "2446676179"
     }
   ],
-  "lastIncident": "2026-04-09T22:25:00Z",
-  "count": 2
+  "lastIncident": "2026-06-11T23:02:00Z",
+  "count": 4
 }

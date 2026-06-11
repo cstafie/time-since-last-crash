@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-11T23:39:00Z_surrey/144th-st_surrey/32nd-ave",
+      "timestamp": "2026-06-11T23:39:00Z",
+      "address": "144TH ST & 32ND AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/144th-st",
+        "surrey/32nd-ave"
+      ],
+      "streetNames": [
+        "144th St",
+        "32nd Ave"
+      ],
+      "pulsePointId": "2494441560"
+    },
+    {
       "id": "2026-06-10T02:00:00Z_surrey/104th-ave_surrey/144th-st",
       "timestamp": "2026-06-10T02:00:00Z",
       "address": "104TH AVE & 144TH ST",
@@ -436,6 +451,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-10T02:00:00Z",
-  "count": 29
+  "lastIncident": "2026-06-11T23:39:00Z",
+  "count": 30
 }

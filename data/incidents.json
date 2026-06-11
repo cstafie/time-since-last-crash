@@ -1,5 +1,127 @@
 [
   {
+    "id": "2026-06-11T23:49:00Z_chilliwack/young-rd_chilliwack/first-ave",
+    "timestamp": "2026-06-11T23:49:00Z",
+    "scrapedAt": "2026-06-11T23:59:26Z",
+    "address": "YOUNG RD & FIRST AVE",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/young-rd",
+      "chilliwack/first-ave"
+    ],
+    "streetNames": [
+      "Young Rd",
+      "First Ave"
+    ],
+    "pulsePointId": "2494449260"
+  },
+  {
+    "id": "2026-06-11T23:48:00Z_vancouver/main-st_vancouver/e-pender-st",
+    "timestamp": "2026-06-11T23:48:00Z",
+    "scrapedAt": "2026-06-11T23:59:26Z",
+    "address": "MAIN ST & E PENDER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st",
+      "vancouver/e-pender-st"
+    ],
+    "streetNames": [
+      "Main St",
+      "E Pender St"
+    ],
+    "pulsePointId": "2494450697"
+  },
+  {
+    "id": "2026-06-11T23:39:00Z_surrey/144th-st_surrey/32nd-ave",
+    "timestamp": "2026-06-11T23:39:00Z",
+    "scrapedAt": "2026-06-11T23:59:26Z",
+    "address": "144TH ST & 32ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/144th-st",
+      "surrey/32nd-ave"
+    ],
+    "streetNames": [
+      "144th St",
+      "32nd Ave"
+    ],
+    "pulsePointId": "2494441560"
+  },
+  {
+    "id": "2026-06-11T23:36:00Z_north-vancouver/montroyal-blvd",
+    "timestamp": "2026-06-11T23:36:00Z",
+    "scrapedAt": "2026-06-11T23:59:26Z",
+    "address": "MONTROYAL BLVD",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/montroyal-blvd"
+    ],
+    "streetNames": [
+      "Montroyal Blvd"
+    ],
+    "pulsePointId": "2494442562"
+  },
+  {
+    "id": "2026-06-11T23:29:00Z_maple-ridge/203rd-st_maple-ridge/lougheed-hwy",
+    "timestamp": "2026-06-11T23:29:00Z",
+    "scrapedAt": "2026-06-11T23:59:26Z",
+    "address": "203RD ST & LOUGHEED HWY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/203rd-st",
+      "maple-ridge/lougheed-hwy"
+    ],
+    "streetNames": [
+      "203rd St",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2494434314"
+  },
+  {
+    "id": "2026-06-11T23:17:00Z_new-westminster/5th-st_new-westminster/8th-ave",
+    "timestamp": "2026-06-11T23:17:00Z",
+    "scrapedAt": "2026-06-11T23:59:26Z",
+    "address": "5TH ST & 8TH AVE",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/5th-st",
+      "new-westminster/8th-ave"
+    ],
+    "streetNames": [
+      "5th St",
+      "8th Ave"
+    ],
+    "pulsePointId": "2494425637"
+  },
+  {
+    "id": "2026-06-11T23:02:00Z_chilliwack/luckakuck-way",
+    "timestamp": "2026-06-11T23:02:00Z",
+    "scrapedAt": "2026-06-11T23:59:26Z",
+    "address": "LUCKAKUCK WAY",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/luckakuck-way"
+    ],
+    "streetNames": [
+      "Luckakuck Way"
+    ],
+    "pulsePointId": "2494413642"
+  },
+  {
+    "id": "2026-06-11T23:01:00Z_chilliwack/luckakuck-way",
+    "timestamp": "2026-06-11T23:01:00Z",
+    "scrapedAt": "2026-06-11T23:59:26Z",
+    "address": "LUCKAKUCK WAY",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/luckakuck-way"
+    ],
+    "streetNames": [
+      "Luckakuck Way"
+    ],
+    "pulsePointId": "2494413472"
+  },
+  {
     "id": "2026-06-11T21:51:00Z_maple-ridge/dewdney-trunk-rd",
     "timestamp": "2026-06-11T21:51:00Z",
     "scrapedAt": "2026-06-11T22:10:24Z",

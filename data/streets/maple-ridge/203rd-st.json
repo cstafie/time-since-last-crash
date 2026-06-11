@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-06-11T23:29:00Z_maple-ridge/203rd-st_maple-ridge/lougheed-hwy",
+      "timestamp": "2026-06-11T23:29:00Z",
+      "address": "203RD ST & LOUGHEED HWY",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/203rd-st",
+        "maple-ridge/lougheed-hwy"
+      ],
+      "streetNames": [
+        "203rd St",
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2494434314"
+    },
+    {
       "id": "2026-05-12T04:34:00Z_maple-ridge/203rd-st_maple-ridge/thorne-ave",
       "timestamp": "2026-05-12T04:34:00Z",
       "address": "203RD ST & THORNE AVE",
@@ -63,6 +78,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-12T04:34:00Z",
-  "count": 4
+  "lastIncident": "2026-06-11T23:29:00Z",
+  "count": 5
 }

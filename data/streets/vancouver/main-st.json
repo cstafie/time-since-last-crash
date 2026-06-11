@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-11T23:48:00Z_vancouver/main-st_vancouver/e-pender-st",
+      "timestamp": "2026-06-11T23:48:00Z",
+      "address": "MAIN ST & E PENDER ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/main-st",
+        "vancouver/e-pender-st"
+      ],
+      "streetNames": [
+        "Main St",
+        "E Pender St"
+      ],
+      "pulsePointId": "2494450697"
+    },
+    {
       "id": "2026-06-07T00:36:00Z_vancouver/main-st_vancouver/union-st",
       "timestamp": "2026-06-07T00:36:00Z",
       "address": "MAIN ST & UNION ST",
@@ -618,6 +633,6 @@
       "pulsePointId": "2432937969"
     }
   ],
-  "lastIncident": "2026-06-07T00:36:00Z",
-  "count": 42
+  "lastIncident": "2026-06-11T23:48:00Z",
+  "count": 43
 }
