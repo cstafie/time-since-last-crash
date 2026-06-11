@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-11T13:02:00Z_abbotsford/lefeuvre-rd_abbotsford/gray-ave",
+      "timestamp": "2026-06-11T13:02:00Z",
+      "address": "LEFEUVRE RD & GRAY AVE",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/lefeuvre-rd",
+        "abbotsford/gray-ave"
+      ],
+      "streetNames": [
+        "Lefeuvre Rd",
+        "Gray Ave"
+      ],
+      "pulsePointId": "2494003157"
+    },
+    {
       "id": "2026-06-07T16:08:00Z_abbotsford/lefeuvre-rd_abbotsford/junction-ave",
       "timestamp": "2026-06-07T16:08:00Z",
       "address": "LEFEUVRE RD & JUNCTION AVE",
@@ -64,6 +79,6 @@
       "pulsePointId": "2437634536"
     }
   ],
-  "lastIncident": "2026-06-07T16:08:00Z",
-  "count": 4
+  "lastIncident": "2026-06-11T13:02:00Z",
+  "count": 5
 }

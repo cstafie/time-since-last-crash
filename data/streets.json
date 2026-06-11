@@ -927,8 +927,8 @@
     "name": "Fraser Hwy",
     "slug": "surrey/fraser-hwy",
     "city": "Surrey",
-    "lastIncident": "2026-05-24T20:26:00Z",
-    "count": 14
+    "lastIncident": "2026-06-11T13:02:00Z",
+    "count": 15
   },
   "surrey/159th-st": {
     "name": "159th St",
@@ -3125,8 +3125,8 @@
     "name": "Lefeuvre Rd",
     "slug": "abbotsford/lefeuvre-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-07T16:08:00Z",
-    "count": 4
+    "lastIncident": "2026-06-11T13:02:00Z",
+    "count": 5
   },
   "abbotsford/huntingdon-rd": {
     "name": "Huntingdon Rd",
@@ -11925,6 +11925,13 @@
     "slug": "north-vancouver/colwood-dr",
     "city": "North Vancouver",
     "lastIncident": "2026-06-10T23:58:00Z",
+    "count": 1
+  },
+  "abbotsford/gray-ave": {
+    "name": "Gray Ave",
+    "slug": "abbotsford/gray-ave",
+    "city": "Abbotsford",
+    "lastIncident": "2026-06-11T13:02:00Z",
     "count": 1
   }
 }

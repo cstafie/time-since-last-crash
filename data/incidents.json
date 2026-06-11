@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-11T13:02:00Z_surrey/fraser-hwy",
+    "timestamp": "2026-06-11T13:02:00Z",
+    "scrapedAt": "2026-06-11T13:46:19Z",
+    "address": "FRASER HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/fraser-hwy"
+    ],
+    "streetNames": [
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2494003361"
+  },
+  {
+    "id": "2026-06-11T13:02:00Z_abbotsford/lefeuvre-rd_abbotsford/gray-ave",
+    "timestamp": "2026-06-11T13:02:00Z",
+    "scrapedAt": "2026-06-11T13:46:19Z",
+    "address": "LEFEUVRE RD & GRAY AVE",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/lefeuvre-rd",
+      "abbotsford/gray-ave"
+    ],
+    "streetNames": [
+      "Lefeuvre Rd",
+      "Gray Ave"
+    ],
+    "pulsePointId": "2494003157"
+  },
+  {
     "id": "2026-06-11T12:03:00Z_abbotsford/trans-canada-hwy",
     "timestamp": "2026-06-11T12:03:00Z",
     "scrapedAt": "2026-06-11T12:19:44Z",

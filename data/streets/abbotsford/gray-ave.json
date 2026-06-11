@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/gray-ave",
+  "name": "Gray Ave",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-06-11T13:02:00Z_abbotsford/lefeuvre-rd_abbotsford/gray-ave",
+      "timestamp": "2026-06-11T13:02:00Z",
+      "address": "LEFEUVRE RD & GRAY AVE",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/lefeuvre-rd",
+        "abbotsford/gray-ave"
+      ],
+      "streetNames": [
+        "Lefeuvre Rd",
+        "Gray Ave"
+      ],
+      "pulsePointId": "2494003157"
+    }
+  ],
+  "lastIncident": "2026-06-11T13:02:00Z",
+  "count": 1
+}
