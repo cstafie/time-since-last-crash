@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-11T02:06:00Z_surrey/king-george-blvd_surrey/24th-ave",
+    "timestamp": "2026-06-11T02:06:00Z",
+    "scrapedAt": "2026-06-11T03:00:53Z",
+    "address": "KING GEORGE BLVD & 24TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/24th-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "24th Ave"
+    ],
+    "pulsePointId": "2493760103"
+  },
+  {
+    "id": "2026-06-11T01:56:00Z_langley/trans-canada-hwy",
+    "timestamp": "2026-06-11T01:56:00Z",
+    "scrapedAt": "2026-06-11T03:00:53Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2493756427"
+  },
+  {
     "id": "2026-06-11T01:17:00Z_delta/george-massey-tunl",
     "timestamp": "2026-06-11T01:17:00Z",
     "scrapedAt": "2026-06-11T01:46:16Z",

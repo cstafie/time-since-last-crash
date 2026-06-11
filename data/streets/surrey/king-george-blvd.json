@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-11T02:06:00Z_surrey/king-george-blvd_surrey/24th-ave",
+      "timestamp": "2026-06-11T02:06:00Z",
+      "address": "KING GEORGE BLVD & 24TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/king-george-blvd",
+        "surrey/24th-ave"
+      ],
+      "streetNames": [
+        "King George Blvd",
+        "24th Ave"
+      ],
+      "pulsePointId": "2493760103"
+    },
+    {
       "id": "2026-06-10T05:51:00Z_surrey/king-george-blvd_surrey/80th-ave",
       "timestamp": "2026-06-10T05:51:00Z",
       "address": "KING GEORGE BLVD & 80TH AVE",
@@ -936,6 +951,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-10T05:51:00Z",
-  "count": 64
+  "lastIncident": "2026-06-11T02:06:00Z",
+  "count": 65
 }

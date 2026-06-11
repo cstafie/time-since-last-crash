@@ -269,8 +269,8 @@
     "name": "Trans Canada Hwy",
     "slug": "langley/trans-canada-hwy",
     "city": "Langley",
-    "lastIncident": "2026-06-08T23:54:00Z",
-    "count": 25
+    "lastIncident": "2026-06-11T01:56:00Z",
+    "count": 26
   },
   "maple-ridge/119th-ave": {
     "name": "119th Ave",
@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-06-10T05:51:00Z",
-    "count": 64
+    "lastIncident": "2026-06-11T02:06:00Z",
+    "count": 65
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -3062,8 +3062,8 @@
     "name": "24th Ave",
     "slug": "surrey/24th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-25T23:27:00Z",
-    "count": 13
+    "lastIncident": "2026-06-11T02:06:00Z",
+    "count": 14
   },
   "vancouver/e-49th-ave": {
     "name": "E 49th Ave",
