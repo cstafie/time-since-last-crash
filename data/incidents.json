@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-11T21:51:00Z_maple-ridge/dewdney-trunk-rd",
+    "timestamp": "2026-06-11T21:51:00Z",
+    "scrapedAt": "2026-06-11T22:10:24Z",
+    "address": "DEWDNEY TRUNK RD",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2494358746"
+  },
+  {
+    "id": "2026-06-11T21:36:00Z_delta/mckenzie-dr_delta/kittson-pkwy",
+    "timestamp": "2026-06-11T21:36:00Z",
+    "scrapedAt": "2026-06-11T22:10:24Z",
+    "address": "MCKENZIE DR & KITTSON PKWY",
+    "city": "Delta",
+    "streets": [
+      "delta/mckenzie-dr",
+      "delta/kittson-pkwy"
+    ],
+    "streetNames": [
+      "Mckenzie Dr",
+      "Kittson Pkwy"
+    ],
+    "pulsePointId": "2494346668"
+  },
+  {
     "id": "2026-06-11T20:46:00Z_vancouver/se-marine-dr",
     "timestamp": "2026-06-11T20:46:00Z",
     "scrapedAt": "2026-06-11T21:15:16Z",

@@ -1,0 +1,24 @@
+{
+  "slug": "delta/mckenzie-dr",
+  "name": "Mckenzie Dr",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-06-11T21:36:00Z_delta/mckenzie-dr_delta/kittson-pkwy",
+      "timestamp": "2026-06-11T21:36:00Z",
+      "address": "MCKENZIE DR & KITTSON PKWY",
+      "city": "Delta",
+      "streets": [
+        "delta/mckenzie-dr",
+        "delta/kittson-pkwy"
+      ],
+      "streetNames": [
+        "Mckenzie Dr",
+        "Kittson Pkwy"
+      ],
+      "pulsePointId": "2494346668"
+    }
+  ],
+  "lastIncident": "2026-06-11T21:36:00Z",
+  "count": 1
+}
