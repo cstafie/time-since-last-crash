@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-12T20:55:00Z_vancouver/kingsway_vancouver/earles-st",
+      "timestamp": "2026-06-12T20:55:00Z",
+      "address": "KINGSWAY & EARLES ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/kingsway",
+        "vancouver/earles-st"
+      ],
+      "streetNames": [
+        "Kingsway",
+        "Earles St"
+      ],
+      "pulsePointId": "2495117911"
+    },
+    {
       "id": "2026-06-07T17:28:00Z_vancouver/kingsway",
       "timestamp": "2026-06-07T17:28:00Z",
       "address": "KINGSWAY",
@@ -325,6 +340,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-07T17:28:00Z",
-  "count": 22
+  "lastIncident": "2026-06-12T20:55:00Z",
+  "count": 23
 }

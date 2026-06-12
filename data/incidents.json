@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-12T20:55:00Z_vancouver/kingsway_vancouver/earles-st",
+    "timestamp": "2026-06-12T20:55:00Z",
+    "scrapedAt": "2026-06-12T21:30:15Z",
+    "address": "KINGSWAY & EARLES ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kingsway",
+      "vancouver/earles-st"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "Earles St"
+    ],
+    "pulsePointId": "2495117911"
+  },
+  {
+    "id": "2026-06-12T20:53:00Z_vancouver/seymour-st",
+    "timestamp": "2026-06-12T20:53:00Z",
+    "scrapedAt": "2026-06-12T21:30:15Z",
+    "address": "SEYMOUR ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/seymour-st"
+    ],
+    "streetNames": [
+      "Seymour St"
+    ],
+    "pulsePointId": "2495116792"
+  },
+  {
     "id": "2026-06-12T20:01:00Z_vancouver/pacific-st_vancouver/howe-st",
     "timestamp": "2026-06-12T20:01:00Z",
     "scrapedAt": "2026-06-12T20:40:13Z",

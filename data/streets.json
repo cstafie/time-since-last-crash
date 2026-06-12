@@ -745,8 +745,8 @@
     "name": "Kingsway",
     "slug": "vancouver/kingsway",
     "city": "Vancouver",
-    "lastIncident": "2026-06-07T17:28:00Z",
-    "count": 22
+    "lastIncident": "2026-06-12T20:55:00Z",
+    "count": 23
   },
   "vancouver/knight-st": {
     "name": "Knight St",
@@ -1900,8 +1900,8 @@
     "name": "Earles St",
     "slug": "vancouver/earles-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-17T08:27:00Z",
-    "count": 2
+    "lastIncident": "2026-06-12T20:55:00Z",
+    "count": 3
   },
   "richmond/elmbridge-way": {
     "name": "Elmbridge Way",
@@ -4511,8 +4511,8 @@
     "name": "Seymour St",
     "slug": "vancouver/seymour-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-04T19:42:00Z",
-    "count": 5
+    "lastIncident": "2026-06-12T20:53:00Z",
+    "count": 6
   },
   "surrey/72nd-ave": {
     "name": "72nd Ave",

@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-12T20:53:00Z_vancouver/seymour-st",
+      "timestamp": "2026-06-12T20:53:00Z",
+      "address": "SEYMOUR ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/seymour-st"
+      ],
+      "streetNames": [
+        "Seymour St"
+      ],
+      "pulsePointId": "2495116792"
+    },
+    {
       "id": "2026-05-04T19:42:00Z_vancouver/drake-st_vancouver/seymour-st",
       "timestamp": "2026-05-04T19:42:00Z",
       "address": "DRAKE ST & SEYMOUR ST",
@@ -79,6 +92,6 @@
       "pulsePointId": "2444548216"
     }
   ],
-  "lastIncident": "2026-05-04T19:42:00Z",
-  "count": 5
+  "lastIncident": "2026-06-12T20:53:00Z",
+  "count": 6
 }
