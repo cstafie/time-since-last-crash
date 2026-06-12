@@ -1,0 +1,22 @@
+{
+  "slug": "delta/88th-st",
+  "name": "88th St",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-06-12T11:59:00Z_delta/88th-st",
+      "timestamp": "2026-06-12T11:59:00Z",
+      "address": "88TH ST",
+      "city": "Delta",
+      "streets": [
+        "delta/88th-st"
+      ],
+      "streetNames": [
+        "88th St"
+      ],
+      "pulsePointId": "2494769529"
+    }
+  ],
+  "lastIncident": "2026-06-12T11:59:00Z",
+  "count": 1
+}

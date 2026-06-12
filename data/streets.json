@@ -11982,5 +11982,12 @@
     "city": "Chilliwack",
     "lastIncident": "2026-06-12T05:22:00Z",
     "count": 1
+  },
+  "delta/88th-st": {
+    "name": "88th St",
+    "slug": "delta/88th-st",
+    "city": "Delta",
+    "lastIncident": "2026-06-12T11:59:00Z",
+    "count": 1
   }
 }

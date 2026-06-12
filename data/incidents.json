@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-12T11:59:00Z_delta/88th-st",
+    "timestamp": "2026-06-12T11:59:00Z",
+    "scrapedAt": "2026-06-12T12:58:46Z",
+    "address": "88TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/88th-st"
+    ],
+    "streetNames": [
+      "88th St"
+    ],
+    "pulsePointId": "2494769529"
+  },
+  {
     "id": "2026-06-12T07:34:00Z_vancouver/e-hastings-st",
     "timestamp": "2026-06-12T07:34:00Z",
     "scrapedAt": "2026-06-12T08:48:46Z",
