@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-06-12T14:56:00Z_langley/206th-st_langley/douglas-cres",
+      "timestamp": "2026-06-12T14:56:00Z",
+      "address": "206TH ST & DOUGLAS CRES",
+      "city": "Langley",
+      "streets": [
+        "langley/206th-st",
+        "langley/douglas-cres"
+      ],
+      "streetNames": [
+        "206th St",
+        "Douglas Cres"
+      ],
+      "pulsePointId": "2494843469"
+    },
+    {
       "id": "2026-04-05T15:42:00Z_langley/douglas-cres",
       "timestamp": "2026-04-05T15:42:00Z",
       "address": "DOUGLAS CRES",
@@ -32,6 +47,6 @@
       "pulsePointId": "2448253308"
     }
   ],
-  "lastIncident": "2026-04-05T15:42:00Z",
-  "count": 2
+  "lastIncident": "2026-06-12T14:56:00Z",
+  "count": 3
 }

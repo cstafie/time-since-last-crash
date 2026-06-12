@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-06-12T14:59:00Z_maple-ridge/dewdney-trunk-rd_maple-ridge/lougheed-hwy",
+      "timestamp": "2026-06-12T14:59:00Z",
+      "address": "DEWDNEY TRUNK RD & LOUGHEED HWY",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/dewdney-trunk-rd",
+        "maple-ridge/lougheed-hwy"
+      ],
+      "streetNames": [
+        "Dewdney Trunk Rd",
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2494846919"
+    },
+    {
       "id": "2026-06-11T21:51:00Z_maple-ridge/dewdney-trunk-rd",
       "timestamp": "2026-06-11T21:51:00Z",
       "address": "DEWDNEY TRUNK RD",
@@ -308,6 +323,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-11T21:51:00Z",
-  "count": 21
+  "lastIncident": "2026-06-12T14:59:00Z",
+  "count": 22
 }
