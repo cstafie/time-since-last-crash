@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-06-12T06:58:00Z_surrey/188th-st",
+    "timestamp": "2026-06-12T06:58:00Z",
+    "scrapedAt": "2026-06-12T07:04:37Z",
+    "address": "188TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/188th-st"
+    ],
+    "streetNames": [
+      "188th St"
+    ],
+    "pulsePointId": "2494687932"
+  },
+  {
+    "id": "2026-06-12T06:22:00Z_abbotsford/gladwin-rd_abbotsford/clayburn-rd",
+    "timestamp": "2026-06-12T06:22:00Z",
+    "scrapedAt": "2026-06-12T07:04:37Z",
+    "address": "GLADWIN RD & CLAYBURN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/gladwin-rd",
+      "abbotsford/clayburn-rd"
+    ],
+    "streetNames": [
+      "Gladwin Rd",
+      "Clayburn Rd"
+    ],
+    "pulsePointId": "2494674313"
+  },
+  {
+    "id": "2026-06-12T06:03:00Z_surrey/64th-ave_surrey/144th-st",
+    "timestamp": "2026-06-12T06:03:00Z",
+    "scrapedAt": "2026-06-12T07:04:37Z",
+    "address": "64TH AVE & 144TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/64th-ave",
+      "surrey/144th-st"
+    ],
+    "streetNames": [
+      "64th Ave",
+      "144th St"
+    ],
+    "pulsePointId": "2494666953"
+  },
+  {
     "id": "2026-06-12T05:22:00Z_chilliwack/patten-ave_chilliwack/main-st",
     "timestamp": "2026-06-12T05:22:00Z",
     "scrapedAt": "2026-06-12T05:29:34Z",

@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-12T06:22:00Z_abbotsford/gladwin-rd_abbotsford/clayburn-rd",
+      "timestamp": "2026-06-12T06:22:00Z",
+      "address": "GLADWIN RD & CLAYBURN RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/gladwin-rd",
+        "abbotsford/clayburn-rd"
+      ],
+      "streetNames": [
+        "Gladwin Rd",
+        "Clayburn Rd"
+      ],
+      "pulsePointId": "2494674313"
+    },
+    {
       "id": "2026-04-22T20:11:00Z_abbotsford/clayburn-rd_abbotsford/hwy-11",
       "timestamp": "2026-04-22T20:11:00Z",
       "address": "CLAYBURN RD & HWY 11",
@@ -49,6 +64,6 @@
       "pulsePointId": "2446468661"
     }
   ],
-  "lastIncident": "2026-04-22T20:11:00Z",
-  "count": 3
+  "lastIncident": "2026-06-12T06:22:00Z",
+  "count": 4
 }

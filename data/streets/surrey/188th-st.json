@@ -4,6 +4,19 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-12T06:58:00Z_surrey/188th-st",
+      "timestamp": "2026-06-12T06:58:00Z",
+      "address": "188TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/188th-st"
+      ],
+      "streetNames": [
+        "188th St"
+      ],
+      "pulsePointId": "2494687932"
+    },
+    {
       "id": "2026-06-03T23:27:00Z_surrey/188th-st_surrey/80th-ave",
       "timestamp": "2026-06-03T23:27:00Z",
       "address": "188TH ST & 80TH AVE",
@@ -64,6 +77,6 @@
       "pulsePointId": "2446190739"
     }
   ],
-  "lastIncident": "2026-06-03T23:27:00Z",
-  "count": 4
+  "lastIncident": "2026-06-12T06:58:00Z",
+  "count": 5
 }
