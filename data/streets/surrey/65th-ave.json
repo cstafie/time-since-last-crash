@@ -1,6 +1,6 @@
 {
-  "slug": "surrey/194th-st",
-  "name": "194th St",
+  "slug": "surrey/65th-ave",
+  "name": "65th Ave",
   "city": "Surrey",
   "incidents": [
     {
@@ -17,21 +17,8 @@
         "194th St"
       ],
       "pulsePointId": "2494879813"
-    },
-    {
-      "id": "2026-04-20T21:31:00Z_surrey/194th-st",
-      "timestamp": "2026-04-20T21:31:00Z",
-      "address": "194TH ST",
-      "city": "Surrey",
-      "streets": [
-        "surrey/194th-st"
-      ],
-      "streetNames": [
-        "194th St"
-      ],
-      "pulsePointId": "2458296678"
     }
   ],
   "lastIncident": "2026-06-12T15:59:00Z",
-  "count": 2
+  "count": 1
 }

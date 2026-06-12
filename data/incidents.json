@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-12T15:59:00Z_surrey/65th-ave_surrey/194th-st",
+    "timestamp": "2026-06-12T15:59:00Z",
+    "scrapedAt": "2026-06-12T16:55:33Z",
+    "address": "65TH AVE & 194TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/65th-ave",
+      "surrey/194th-st"
+    ],
+    "streetNames": [
+      "65th Ave",
+      "194th St"
+    ],
+    "pulsePointId": "2494879813"
+  },
+  {
+    "id": "2026-06-12T15:48:00Z_coquitlam/westwood-st_coquitlam/anson-ave",
+    "timestamp": "2026-06-12T15:48:00Z",
+    "scrapedAt": "2026-06-12T16:55:33Z",
+    "address": "WESTWOOD ST & ANSON AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/westwood-st",
+      "coquitlam/anson-ave"
+    ],
+    "streetNames": [
+      "Westwood St",
+      "Anson Ave"
+    ],
+    "pulsePointId": "2494872843"
+  },
+  {
     "id": "2026-06-12T14:59:00Z_maple-ridge/dewdney-trunk-rd_maple-ridge/lougheed-hwy",
     "timestamp": "2026-06-12T14:59:00Z",
     "scrapedAt": "2026-06-12T15:37:17Z",

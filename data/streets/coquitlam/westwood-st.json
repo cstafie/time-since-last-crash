@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-06-12T15:48:00Z_coquitlam/westwood-st_coquitlam/anson-ave",
+      "timestamp": "2026-06-12T15:48:00Z",
+      "address": "WESTWOOD ST & ANSON AVE",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/westwood-st",
+        "coquitlam/anson-ave"
+      ],
+      "streetNames": [
+        "Westwood St",
+        "Anson Ave"
+      ],
+      "pulsePointId": "2494872843"
+    },
+    {
       "id": "2026-06-09T01:36:00Z_coquitlam/westwood-st_coquitlam/dewdney-trunk-rd",
       "timestamp": "2026-06-09T01:36:00Z",
       "address": "WESTWOOD ST & DEWDNEY TRUNK RD",
@@ -34,6 +49,6 @@
       "pulsePointId": "2490715498"
     }
   ],
-  "lastIncident": "2026-06-09T01:36:00Z",
-  "count": 2
+  "lastIncident": "2026-06-12T15:48:00Z",
+  "count": 3
 }
