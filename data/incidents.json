@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-06-12T23:26:00Z_surrey/69a-ave_surrey/128th-st",
+    "timestamp": "2026-06-12T23:26:00Z",
+    "scrapedAt": "2026-06-12T23:34:10Z",
+    "address": "69A AVE & 128TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/69a-ave",
+      "surrey/128th-st"
+    ],
+    "streetNames": [
+      "69a Ave",
+      "128th St"
+    ],
+    "pulsePointId": "2495268741"
+  },
+  {
+    "id": "2026-06-12T23:18:00Z_pitt-meadows/golden-ears-way",
+    "timestamp": "2026-06-12T23:18:00Z",
+    "scrapedAt": "2026-06-12T23:34:10Z",
+    "address": "GOLDEN EARS WAY",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/golden-ears-way"
+    ],
+    "streetNames": [
+      "Golden Ears Way"
+    ],
+    "pulsePointId": "2495260531"
+  },
+  {
+    "id": "2026-06-12T23:15:00Z_abbotsford/ware-st_abbotsford/bevan-ave",
+    "timestamp": "2026-06-12T23:15:00Z",
+    "scrapedAt": "2026-06-12T23:34:10Z",
+    "address": "WARE ST & BEVAN AVE",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/ware-st",
+      "abbotsford/bevan-ave"
+    ],
+    "streetNames": [
+      "Ware St",
+      "Bevan Ave"
+    ],
+    "pulsePointId": "2495255683"
+  },
+  {
+    "id": "2026-06-12T23:03:00Z_langley/langley-bps_langley/glover-rd",
+    "timestamp": "2026-06-12T23:03:00Z",
+    "scrapedAt": "2026-06-12T23:34:10Z",
+    "address": "LANGLEY BPS & GLOVER RD",
+    "city": "Langley",
+    "streets": [
+      "langley/langley-bps",
+      "langley/glover-rd"
+    ],
+    "streetNames": [
+      "Langley Bps",
+      "Glover Rd"
+    ],
+    "pulsePointId": "2495247804"
+  },
+  {
     "id": "2026-06-12T22:39:00Z_new-westminster/front-st",
     "timestamp": "2026-06-12T22:39:00Z",
     "scrapedAt": "2026-06-12T22:58:26Z",
