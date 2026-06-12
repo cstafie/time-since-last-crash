@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-12T17:46:00Z_surrey/70a-ave_surrey/152nd-st",
+      "timestamp": "2026-06-12T17:46:00Z",
+      "address": "70A AVE & 152ND ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/70a-ave",
+        "surrey/152nd-st"
+      ],
+      "streetNames": [
+        "70a Ave",
+        "152nd St"
+      ],
+      "pulsePointId": "2494956121"
+    },
+    {
       "id": "2026-06-09T03:14:00Z_surrey/golf-course-accs_surrey/152nd-st",
       "timestamp": "2026-06-09T03:14:00Z",
       "address": "GOLF COURSE ACCS & 152ND ST",
@@ -459,6 +474,6 @@
       "pulsePointId": "2433332497"
     }
   ],
-  "lastIncident": "2026-06-09T03:14:00Z",
-  "count": 31
+  "lastIncident": "2026-06-12T17:46:00Z",
+  "count": 32
 }
