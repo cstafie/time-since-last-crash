@@ -1,0 +1,22 @@
+{
+  "slug": "new-westminster/front-st",
+  "name": "Front St",
+  "city": "New Westminster",
+  "incidents": [
+    {
+      "id": "2026-06-12T22:39:00Z_new-westminster/front-st",
+      "timestamp": "2026-06-12T22:39:00Z",
+      "address": "FRONT ST",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/front-st"
+      ],
+      "streetNames": [
+        "Front St"
+      ],
+      "pulsePointId": "2495219781"
+    }
+  ],
+  "lastIncident": "2026-06-12T22:39:00Z",
+  "count": 1
+}

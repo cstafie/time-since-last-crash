@@ -1,5 +1,63 @@
 [
   {
+    "id": "2026-06-12T22:39:00Z_new-westminster/front-st",
+    "timestamp": "2026-06-12T22:39:00Z",
+    "scrapedAt": "2026-06-12T22:58:26Z",
+    "address": "FRONT ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/front-st"
+    ],
+    "streetNames": [
+      "Front St"
+    ],
+    "pulsePointId": "2495219781"
+  },
+  {
+    "id": "2026-06-12T22:39:00Z_langley/271st-st_langley/fraser-hwy",
+    "timestamp": "2026-06-12T22:39:00Z",
+    "scrapedAt": "2026-06-12T22:58:26Z",
+    "address": "271ST ST & FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/271st-st",
+      "langley/fraser-hwy"
+    ],
+    "streetNames": [
+      "271st St",
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2495219527"
+  },
+  {
+    "id": "2026-06-12T22:38:00Z_vancouver/w-54th-ave",
+    "timestamp": "2026-06-12T22:38:00Z",
+    "scrapedAt": "2026-06-12T22:58:26Z",
+    "address": "W 54TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-54th-ave"
+    ],
+    "streetNames": [
+      "W 54th Ave"
+    ],
+    "pulsePointId": "2495220668"
+  },
+  {
+    "id": "2026-06-12T22:34:00Z_chilliwack/commercial-crt",
+    "timestamp": "2026-06-12T22:34:00Z",
+    "scrapedAt": "2026-06-12T22:58:26Z",
+    "address": "COMMERCIAL CRT",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/commercial-crt"
+    ],
+    "streetNames": [
+      "Commercial Crt"
+    ],
+    "pulsePointId": "2495213786"
+  },
+  {
     "id": "2026-06-12T21:52:00Z_richmond/ackroyd-rd_richmond/no-3-rd",
     "timestamp": "2026-06-12T21:52:00Z",
     "scrapedAt": "2026-06-12T22:06:14Z",

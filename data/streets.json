@@ -262,8 +262,8 @@
     "name": "Fraser Hwy",
     "slug": "langley/fraser-hwy",
     "city": "Langley",
-    "lastIncident": "2026-06-06T07:59:00Z",
-    "count": 35
+    "lastIncident": "2026-06-12T22:39:00Z",
+    "count": 36
   },
   "langley/trans-canada-hwy": {
     "name": "Trans Canada Hwy",
@@ -8284,8 +8284,8 @@
     "name": "W 54th Ave",
     "slug": "vancouver/w-54th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-01T00:19:00Z",
-    "count": 1
+    "lastIncident": "2026-06-12T22:38:00Z",
+    "count": 2
   },
   "langley/worrell-cres": {
     "name": "Worrell Cres",
@@ -12023,6 +12023,27 @@
     "slug": "burnaby/grandview-hwy",
     "city": "Burnaby",
     "lastIncident": "2026-06-12T18:41:00Z",
+    "count": 1
+  },
+  "new-westminster/front-st": {
+    "name": "Front St",
+    "slug": "new-westminster/front-st",
+    "city": "New Westminster",
+    "lastIncident": "2026-06-12T22:39:00Z",
+    "count": 1
+  },
+  "langley/271st-st": {
+    "name": "271st St",
+    "slug": "langley/271st-st",
+    "city": "Langley",
+    "lastIncident": "2026-06-12T22:39:00Z",
+    "count": 1
+  },
+  "chilliwack/commercial-crt": {
+    "name": "Commercial Crt",
+    "slug": "chilliwack/commercial-crt",
+    "city": "Chilliwack",
+    "lastIncident": "2026-06-12T22:34:00Z",
     "count": 1
   }
 }

@@ -1,0 +1,24 @@
+{
+  "slug": "langley/271st-st",
+  "name": "271st St",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-06-12T22:39:00Z_langley/271st-st_langley/fraser-hwy",
+      "timestamp": "2026-06-12T22:39:00Z",
+      "address": "271ST ST & FRASER HWY",
+      "city": "Langley",
+      "streets": [
+        "langley/271st-st",
+        "langley/fraser-hwy"
+      ],
+      "streetNames": [
+        "271st St",
+        "Fraser Hwy"
+      ],
+      "pulsePointId": "2495219527"
+    }
+  ],
+  "lastIncident": "2026-06-12T22:39:00Z",
+  "count": 1
+}
