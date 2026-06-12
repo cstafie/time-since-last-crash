@@ -4,6 +4,19 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-12T02:06:00Z_surrey/76th-ave",
+      "timestamp": "2026-06-12T02:06:00Z",
+      "address": "76TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/76th-ave"
+      ],
+      "streetNames": [
+        "76th Ave"
+      ],
+      "pulsePointId": "2494550310"
+    },
+    {
       "id": "2026-06-05T22:18:00Z_surrey/76th-ave_surrey/122nd-st",
       "timestamp": "2026-06-05T22:18:00Z",
       "address": "76TH AVE & 122ND ST",
@@ -120,6 +133,6 @@
       "pulsePointId": "2453141772"
     }
   ],
-  "lastIncident": "2026-06-05T22:18:00Z",
-  "count": 8
+  "lastIncident": "2026-06-12T02:06:00Z",
+  "count": 9
 }

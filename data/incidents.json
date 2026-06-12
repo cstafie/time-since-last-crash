@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-06-12T02:12:00Z_north-vancouver/lonsdale-ave_north-vancouver/e-esplanade",
+    "timestamp": "2026-06-12T02:12:00Z",
+    "scrapedAt": "2026-06-12T02:16:42Z",
+    "address": "LONSDALE AVE & E ESPLANADE",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/lonsdale-ave",
+      "north-vancouver/e-esplanade"
+    ],
+    "streetNames": [
+      "Lonsdale Ave",
+      "E Esplanade"
+    ],
+    "pulsePointId": "2494553008"
+  },
+  {
+    "id": "2026-06-12T02:06:00Z_surrey/76th-ave",
+    "timestamp": "2026-06-12T02:06:00Z",
+    "scrapedAt": "2026-06-12T02:16:42Z",
+    "address": "76TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/76th-ave"
+    ],
+    "streetNames": [
+      "76th Ave"
+    ],
+    "pulsePointId": "2494550310"
+  },
+  {
+    "id": "2026-06-12T01:35:00Z_vancouver/e-41st-ave",
+    "timestamp": "2026-06-12T01:35:00Z",
+    "scrapedAt": "2026-06-12T02:16:42Z",
+    "address": "E 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-41st-ave"
+    ],
+    "streetNames": [
+      "E 41st Ave"
+    ],
+    "pulsePointId": "2494528724"
+  },
+  {
     "id": "2026-06-12T01:03:00Z_new-westminster/e-columbia-st",
     "timestamp": "2026-06-12T01:03:00Z",
     "scrapedAt": "2026-06-12T01:22:57Z",

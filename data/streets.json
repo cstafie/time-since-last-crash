@@ -717,8 +717,8 @@
     "name": "E 41st Ave",
     "slug": "vancouver/e-41st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-11T00:11:00Z",
-    "count": 32
+    "lastIncident": "2026-06-12T01:35:00Z",
+    "count": 33
   },
   "vancouver/granville-st": {
     "name": "Granville St",
@@ -3293,8 +3293,8 @@
     "name": "Lonsdale Ave",
     "slug": "north-vancouver/lonsdale-ave",
     "city": "North Vancouver",
-    "lastIncident": "2026-05-23T02:13:00Z",
-    "count": 3
+    "lastIncident": "2026-06-12T02:12:00Z",
+    "count": 4
   },
   "north-vancouver/e-29th-st": {
     "name": "E 29th St",
@@ -6450,8 +6450,8 @@
     "name": "76th Ave",
     "slug": "surrey/76th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-05T22:18:00Z",
-    "count": 8
+    "lastIncident": "2026-06-12T02:06:00Z",
+    "count": 9
   },
   "surrey/67b-ave": {
     "name": "67b Ave",
@@ -11953,6 +11953,13 @@
     "slug": "vancouver/e-15th-ave",
     "city": "Vancouver",
     "lastIncident": "2026-06-12T00:09:00Z",
+    "count": 1
+  },
+  "north-vancouver/e-esplanade": {
+    "name": "E Esplanade",
+    "slug": "north-vancouver/e-esplanade",
+    "city": "North Vancouver",
+    "lastIncident": "2026-06-12T02:12:00Z",
     "count": 1
   }
 }

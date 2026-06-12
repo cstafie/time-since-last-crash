@@ -4,6 +4,21 @@
   "city": "North Vancouver",
   "incidents": [
     {
+      "id": "2026-06-12T02:12:00Z_north-vancouver/lonsdale-ave_north-vancouver/e-esplanade",
+      "timestamp": "2026-06-12T02:12:00Z",
+      "address": "LONSDALE AVE & E ESPLANADE",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/lonsdale-ave",
+        "north-vancouver/e-esplanade"
+      ],
+      "streetNames": [
+        "Lonsdale Ave",
+        "E Esplanade"
+      ],
+      "pulsePointId": "2494553008"
+    },
+    {
       "id": "2026-05-23T02:13:00Z_north-vancouver/e-13th-st_north-vancouver/lonsdale-ave",
       "timestamp": "2026-05-23T02:13:00Z",
       "address": "E 13TH ST & LONSDALE AVE",
@@ -49,6 +64,6 @@
       "pulsePointId": "2438092163"
     }
   ],
-  "lastIncident": "2026-05-23T02:13:00Z",
-  "count": 3
+  "lastIncident": "2026-06-12T02:12:00Z",
+  "count": 4
 }
