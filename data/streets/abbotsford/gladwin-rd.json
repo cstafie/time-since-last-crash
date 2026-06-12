@@ -4,6 +4,19 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-12T00:43:00Z_abbotsford/gladwin-rd",
+      "timestamp": "2026-06-12T00:43:00Z",
+      "address": "GLADWIN RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/gladwin-rd"
+      ],
+      "streetNames": [
+        "Gladwin Rd"
+      ],
+      "pulsePointId": "2494490693"
+    },
+    {
       "id": "2026-06-08T00:43:00Z_abbotsford/gladwin-rd_abbotsford/king-rd",
       "timestamp": "2026-06-08T00:43:00Z",
       "address": "GLADWIN RD & KING RD",
@@ -137,6 +150,6 @@
       "pulsePointId": "2447162234"
     }
   ],
-  "lastIncident": "2026-06-08T00:43:00Z",
-  "count": 9
+  "lastIncident": "2026-06-12T00:43:00Z",
+  "count": 10
 }

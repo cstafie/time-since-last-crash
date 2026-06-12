@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-06-12T01:03:00Z_new-westminster/e-columbia-st",
+    "timestamp": "2026-06-12T01:03:00Z",
+    "scrapedAt": "2026-06-12T01:22:57Z",
+    "address": "E COLUMBIA ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/e-columbia-st"
+    ],
+    "streetNames": [
+      "E Columbia St"
+    ],
+    "pulsePointId": "2494504125"
+  },
+  {
+    "id": "2026-06-12T00:43:00Z_abbotsford/gladwin-rd",
+    "timestamp": "2026-06-12T00:43:00Z",
+    "scrapedAt": "2026-06-12T01:22:57Z",
+    "address": "GLADWIN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/gladwin-rd"
+    ],
+    "streetNames": [
+      "Gladwin Rd"
+    ],
+    "pulsePointId": "2494490693"
+  },
+  {
+    "id": "2026-06-12T00:20:00Z_abbotsford/trethewey-st_abbotsford/maclure-rd",
+    "timestamp": "2026-06-12T00:20:00Z",
+    "scrapedAt": "2026-06-12T01:22:57Z",
+    "address": "TRETHEWEY ST & MACLURE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trethewey-st",
+      "abbotsford/maclure-rd"
+    ],
+    "streetNames": [
+      "Trethewey St",
+      "Maclure Rd"
+    ],
+    "pulsePointId": "2494474168"
+  },
+  {
+    "id": "2026-06-12T00:09:00Z_vancouver/e-15th-ave_vancouver/garden-dr",
+    "timestamp": "2026-06-12T00:09:00Z",
+    "scrapedAt": "2026-06-12T01:22:57Z",
+    "address": "E 15TH AVE & GARDEN DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-15th-ave",
+      "vancouver/garden-dr"
+    ],
+    "streetNames": [
+      "E 15th Ave",
+      "Garden Dr"
+    ],
+    "pulsePointId": "2494467274"
+  },
+  {
     "id": "2026-06-11T23:49:00Z_chilliwack/young-rd_chilliwack/first-ave",
     "timestamp": "2026-06-11T23:49:00Z",
     "scrapedAt": "2026-06-11T23:59:26Z",

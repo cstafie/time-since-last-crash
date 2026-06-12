@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-12T00:09:00Z_vancouver/e-15th-ave_vancouver/garden-dr",
+      "timestamp": "2026-06-12T00:09:00Z",
+      "address": "E 15TH AVE & GARDEN DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-15th-ave",
+        "vancouver/garden-dr"
+      ],
+      "streetNames": [
+        "E 15th Ave",
+        "Garden Dr"
+      ],
+      "pulsePointId": "2494467274"
+    },
+    {
       "id": "2026-05-08T21:12:00Z_vancouver/e-broadway_vancouver/garden-dr",
       "timestamp": "2026-05-08T21:12:00Z",
       "address": "E BROADWAY & GARDEN DR",
@@ -49,6 +64,6 @@
       "pulsePointId": "2438160406"
     }
   ],
-  "lastIncident": "2026-05-08T21:12:00Z",
-  "count": 3
+  "lastIncident": "2026-06-12T00:09:00Z",
+  "count": 4
 }
