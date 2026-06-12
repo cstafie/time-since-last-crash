@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-11T19:40:00Z",
-    "count": 43
+    "lastIncident": "2026-06-12T04:45:00Z",
+    "count": 44
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -3713,8 +3713,8 @@
     "name": "W 57th Ave",
     "slug": "vancouver/w-57th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-30T20:29:00Z",
-    "count": 8
+    "lastIncident": "2026-06-12T04:45:00Z",
+    "count": 9
   },
   "richmond/lansdowne-rd": {
     "name": "Lansdowne Rd",
@@ -11967,6 +11967,20 @@
     "slug": "langley/201a-st",
     "city": "Langley",
     "lastIncident": "2026-06-12T02:46:00Z",
+    "count": 1
+  },
+  "chilliwack/patten-ave": {
+    "name": "Patten Ave",
+    "slug": "chilliwack/patten-ave",
+    "city": "Chilliwack",
+    "lastIncident": "2026-06-12T05:22:00Z",
+    "count": 1
+  },
+  "chilliwack/main-st": {
+    "name": "Main St",
+    "slug": "chilliwack/main-st",
+    "city": "Chilliwack",
+    "lastIncident": "2026-06-12T05:22:00Z",
     "count": 1
   }
 }

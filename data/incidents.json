@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-12T05:22:00Z_chilliwack/patten-ave_chilliwack/main-st",
+    "timestamp": "2026-06-12T05:22:00Z",
+    "scrapedAt": "2026-06-12T05:29:34Z",
+    "address": "PATTEN AVE & MAIN ST",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/patten-ave",
+      "chilliwack/main-st"
+    ],
+    "streetNames": [
+      "Patten Ave",
+      "Main St"
+    ],
+    "pulsePointId": "2494651319"
+  },
+  {
+    "id": "2026-06-12T04:45:00Z_vancouver/w-57th-ave_vancouver/granville-st",
+    "timestamp": "2026-06-12T04:45:00Z",
+    "scrapedAt": "2026-06-12T05:29:34Z",
+    "address": "W 57TH AVE & GRANVILLE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-57th-ave",
+      "vancouver/granville-st"
+    ],
+    "streetNames": [
+      "W 57th Ave",
+      "Granville St"
+    ],
+    "pulsePointId": "2494634676"
+  },
+  {
     "id": "2026-06-12T02:46:00Z_langley/201a-st_langley/56th-ave",
     "timestamp": "2026-06-12T02:46:00Z",
     "scrapedAt": "2026-06-12T03:44:33Z",
