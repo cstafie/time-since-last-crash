@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-12T02:46:00Z_langley/201a-st_langley/56th-ave",
+    "timestamp": "2026-06-12T02:46:00Z",
+    "scrapedAt": "2026-06-12T03:44:33Z",
+    "address": "201A ST & 56TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/201a-st",
+      "langley/56th-ave"
+    ],
+    "streetNames": [
+      "201a St",
+      "56th Ave"
+    ],
+    "pulsePointId": "2494573993"
+  },
+  {
+    "id": "2026-06-12T02:32:00Z_surrey/160th-st_surrey/88th-ave",
+    "timestamp": "2026-06-12T02:32:00Z",
+    "scrapedAt": "2026-06-12T03:44:33Z",
+    "address": "160TH ST & 88TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/160th-st",
+      "surrey/88th-ave"
+    ],
+    "streetNames": [
+      "160th St",
+      "88th Ave"
+    ],
+    "pulsePointId": "2494564713"
+  },
+  {
     "id": "2026-06-12T02:12:00Z_north-vancouver/lonsdale-ave_north-vancouver/e-esplanade",
     "timestamp": "2026-06-12T02:12:00Z",
     "scrapedAt": "2026-06-12T02:16:42Z",

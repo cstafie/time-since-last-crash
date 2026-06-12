@@ -1,0 +1,24 @@
+{
+  "slug": "langley/201a-st",
+  "name": "201a St",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-06-12T02:46:00Z_langley/201a-st_langley/56th-ave",
+      "timestamp": "2026-06-12T02:46:00Z",
+      "address": "201A ST & 56TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/201a-st",
+        "langley/56th-ave"
+      ],
+      "streetNames": [
+        "201a St",
+        "56th Ave"
+      ],
+      "pulsePointId": "2494573993"
+    }
+  ],
+  "lastIncident": "2026-06-12T02:46:00Z",
+  "count": 1
+}
