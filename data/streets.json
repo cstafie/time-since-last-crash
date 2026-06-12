@@ -423,8 +423,8 @@
     "name": "Mary Hill Bps",
     "slug": "port-coquitlam/mary-hill-bps",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-06-01T19:06:00Z",
-    "count": 9
+    "lastIncident": "2026-06-12T13:52:00Z",
+    "count": 10
   },
   "richmond/8111-ackroyd-rd": {
     "name": "8111 Ackroyd Rd",
@@ -2768,8 +2768,8 @@
     "name": "Fraser Hwy",
     "slug": "abbotsford/fraser-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-09T01:00:00Z",
-    "count": 12
+    "lastIncident": "2026-06-12T13:21:00Z",
+    "count": 13
   },
   "burnaby/north-fraser-way": {
     "name": "North Fraser Way",
@@ -4049,8 +4049,8 @@
     "name": "Kingsway Ave",
     "slug": "port-coquitlam/kingsway-ave",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-05-20T20:45:00Z",
-    "count": 3
+    "lastIncident": "2026-06-12T13:52:00Z",
+    "count": 4
   },
   "surrey/192nd-street-ofrp": {
     "name": "192nd Street Ofrp",
@@ -11988,6 +11988,13 @@
     "slug": "delta/88th-st",
     "city": "Delta",
     "lastIncident": "2026-06-12T11:59:00Z",
+    "count": 1
+  },
+  "abbotsford/maclure-road-ofrp": {
+    "name": "Maclure Road Ofrp",
+    "slug": "abbotsford/maclure-road-ofrp",
+    "city": "Abbotsford",
+    "lastIncident": "2026-06-12T13:21:00Z",
     "count": 1
   }
 }

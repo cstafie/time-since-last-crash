@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/maclure-road-ofrp",
+  "name": "Maclure Road Ofrp",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-06-12T13:21:00Z_abbotsford/maclure-road-ofrp_abbotsford/fraser-hwy",
+      "timestamp": "2026-06-12T13:21:00Z",
+      "address": "MACLURE ROAD OFRP & FRASER HWY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/maclure-road-ofrp",
+        "abbotsford/fraser-hwy"
+      ],
+      "streetNames": [
+        "Maclure Road Ofrp",
+        "Fraser Hwy"
+      ],
+      "pulsePointId": "2494799862"
+    }
+  ],
+  "lastIncident": "2026-06-12T13:21:00Z",
+  "count": 1
+}

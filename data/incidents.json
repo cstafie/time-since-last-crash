@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-12T13:52:00Z_port-coquitlam/kingsway-ave_port-coquitlam/mary-hill-bps",
+    "timestamp": "2026-06-12T13:52:00Z",
+    "scrapedAt": "2026-06-12T14:05:28Z",
+    "address": "KINGSWAY AVE & MARY HILL BPS",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/kingsway-ave",
+      "port-coquitlam/mary-hill-bps"
+    ],
+    "streetNames": [
+      "Kingsway Ave",
+      "Mary Hill Bps"
+    ],
+    "pulsePointId": "2494813676"
+  },
+  {
+    "id": "2026-06-12T13:21:00Z_abbotsford/maclure-road-ofrp_abbotsford/fraser-hwy",
+    "timestamp": "2026-06-12T13:21:00Z",
+    "scrapedAt": "2026-06-12T14:05:28Z",
+    "address": "MACLURE ROAD OFRP & FRASER HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/maclure-road-ofrp",
+      "abbotsford/fraser-hwy"
+    ],
+    "streetNames": [
+      "Maclure Road Ofrp",
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2494799862"
+  },
+  {
     "id": "2026-06-12T11:59:00Z_delta/88th-st",
     "timestamp": "2026-06-12T11:59:00Z",
     "scrapedAt": "2026-06-12T12:58:46Z",

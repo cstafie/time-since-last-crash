@@ -4,6 +4,21 @@
   "city": "Port Coquitlam",
   "incidents": [
     {
+      "id": "2026-06-12T13:52:00Z_port-coquitlam/kingsway-ave_port-coquitlam/mary-hill-bps",
+      "timestamp": "2026-06-12T13:52:00Z",
+      "address": "KINGSWAY AVE & MARY HILL BPS",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/kingsway-ave",
+        "port-coquitlam/mary-hill-bps"
+      ],
+      "streetNames": [
+        "Kingsway Ave",
+        "Mary Hill Bps"
+      ],
+      "pulsePointId": "2494813676"
+    },
+    {
       "id": "2026-05-20T20:45:00Z_port-coquitlam/kingsway-ave_port-coquitlam/mclean-ave",
       "timestamp": "2026-05-20T20:45:00Z",
       "address": "KINGSWAY AVE & MCLEAN AVE",
@@ -49,6 +64,6 @@
       "pulsePointId": "2441451190"
     }
   ],
-  "lastIncident": "2026-05-20T20:45:00Z",
-  "count": 3
+  "lastIncident": "2026-06-12T13:52:00Z",
+  "count": 4
 }
