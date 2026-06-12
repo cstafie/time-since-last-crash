@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-12T21:52:00Z_richmond/ackroyd-rd_richmond/no-3-rd",
+    "timestamp": "2026-06-12T21:52:00Z",
+    "scrapedAt": "2026-06-12T22:06:14Z",
+    "address": "ACKROYD RD & NO 3 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/ackroyd-rd",
+      "richmond/no-3-rd"
+    ],
+    "streetNames": [
+      "Ackroyd Rd",
+      "No 3 Rd"
+    ],
+    "pulsePointId": "2495171894"
+  },
+  {
     "id": "2026-06-12T20:55:00Z_vancouver/kingsway_vancouver/earles-st",
     "timestamp": "2026-06-12T20:55:00Z",
     "scrapedAt": "2026-06-12T21:30:15Z",

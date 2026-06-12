@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-06-12T21:52:00Z_richmond/ackroyd-rd_richmond/no-3-rd",
+      "timestamp": "2026-06-12T21:52:00Z",
+      "address": "ACKROYD RD & NO 3 RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/ackroyd-rd",
+        "richmond/no-3-rd"
+      ],
+      "streetNames": [
+        "Ackroyd Rd",
+        "No 3 Rd"
+      ],
+      "pulsePointId": "2495171894"
+    },
+    {
       "id": "2026-06-09T15:46:00Z_richmond/francis-rd_richmond/no-3-rd",
       "timestamp": "2026-06-09T15:46:00Z",
       "address": "FRANCIS RD & NO 3 RD",
@@ -236,6 +251,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-09T15:46:00Z",
-  "count": 16
+  "lastIncident": "2026-06-12T21:52:00Z",
+  "count": 17
 }
