@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-12T20:01:00Z_vancouver/pacific-st_vancouver/howe-st",
+      "timestamp": "2026-06-12T20:01:00Z",
+      "address": "PACIFIC ST & HOWE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/pacific-st",
+        "vancouver/howe-st"
+      ],
+      "streetNames": [
+        "Pacific St",
+        "Howe St"
+      ],
+      "pulsePointId": "2495070961"
+    },
+    {
       "id": "2026-05-24T22:53:00Z_vancouver/howe-st_vancouver/dunsmuir-st",
       "timestamp": "2026-05-24T22:53:00Z",
       "address": "HOWE ST & DUNSMUIR ST",
@@ -49,6 +64,6 @@
       "pulsePointId": "2450716796"
     }
   ],
-  "lastIncident": "2026-05-24T22:53:00Z",
-  "count": 3
+  "lastIncident": "2026-06-12T20:01:00Z",
+  "count": 4
 }

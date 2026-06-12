@@ -4,6 +4,21 @@
   "city": "White Rock",
   "incidents": [
     {
+      "id": "2026-06-12T19:43:00Z_white-rock/goggs-ave_white-rock/oxford-st",
+      "timestamp": "2026-06-12T19:43:00Z",
+      "address": "GOGGS AVE & OXFORD ST",
+      "city": "White Rock",
+      "streets": [
+        "white-rock/goggs-ave",
+        "white-rock/oxford-st"
+      ],
+      "streetNames": [
+        "Goggs Ave",
+        "Oxford St"
+      ],
+      "pulsePointId": "2495052688"
+    },
+    {
       "id": "2026-05-18T07:27:00Z_white-rock/marine-dr_white-rock/oxford-st",
       "timestamp": "2026-05-18T07:27:00Z",
       "address": "MARINE DR & OXFORD ST",
@@ -32,6 +47,6 @@
       "pulsePointId": "2449630424"
     }
   ],
-  "lastIncident": "2026-05-18T07:27:00Z",
-  "count": 2
+  "lastIncident": "2026-06-12T19:43:00Z",
+  "count": 3
 }

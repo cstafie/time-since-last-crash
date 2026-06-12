@@ -1,5 +1,97 @@
 [
   {
+    "id": "2026-06-12T20:01:00Z_vancouver/pacific-st_vancouver/howe-st",
+    "timestamp": "2026-06-12T20:01:00Z",
+    "scrapedAt": "2026-06-12T20:40:13Z",
+    "address": "PACIFIC ST & HOWE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/pacific-st",
+      "vancouver/howe-st"
+    ],
+    "streetNames": [
+      "Pacific St",
+      "Howe St"
+    ],
+    "pulsePointId": "2495070961"
+  },
+  {
+    "id": "2026-06-12T19:58:00Z_chilliwack/stevenson-rd_chilliwack/vedder-rd",
+    "timestamp": "2026-06-12T19:58:00Z",
+    "scrapedAt": "2026-06-12T20:40:13Z",
+    "address": "STEVENSON RD & VEDDER RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/stevenson-rd",
+      "chilliwack/vedder-rd"
+    ],
+    "streetNames": [
+      "Stevenson Rd",
+      "Vedder Rd"
+    ],
+    "pulsePointId": "2495065390"
+  },
+  {
+    "id": "2026-06-12T19:43:00Z_white-rock/goggs-ave_white-rock/oxford-st",
+    "timestamp": "2026-06-12T19:43:00Z",
+    "scrapedAt": "2026-06-12T20:40:13Z",
+    "address": "GOGGS AVE & OXFORD ST",
+    "city": "White Rock",
+    "streets": [
+      "white-rock/goggs-ave",
+      "white-rock/oxford-st"
+    ],
+    "streetNames": [
+      "Goggs Ave",
+      "Oxford St"
+    ],
+    "pulsePointId": "2495052688"
+  },
+  {
+    "id": "2026-06-12T18:55:00Z_vancouver/w-2nd-ave_vancouver/blanca-st",
+    "timestamp": "2026-06-12T18:55:00Z",
+    "scrapedAt": "2026-06-12T20:40:13Z",
+    "address": "W 2ND AVE & BLANCA ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-2nd-ave",
+      "vancouver/blanca-st"
+    ],
+    "streetNames": [
+      "W 2nd Ave",
+      "Blanca St"
+    ],
+    "pulsePointId": "2495010738"
+  },
+  {
+    "id": "2026-06-12T18:46:00Z_vancouver/fraser-st",
+    "timestamp": "2026-06-12T18:46:00Z",
+    "scrapedAt": "2026-06-12T20:40:13Z",
+    "address": "FRASER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/fraser-st"
+    ],
+    "streetNames": [
+      "Fraser St"
+    ],
+    "pulsePointId": "2495000785"
+  },
+  {
+    "id": "2026-06-12T18:41:00Z_burnaby/grandview-hwy",
+    "timestamp": "2026-06-12T18:41:00Z",
+    "scrapedAt": "2026-06-12T20:40:13Z",
+    "address": "GRANDVIEW HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/grandview-hwy"
+    ],
+    "streetNames": [
+      "Grandview Hwy"
+    ],
+    "pulsePointId": "2494997411"
+  },
+  {
     "id": "2026-06-12T17:46:00Z_surrey/70a-ave_surrey/152nd-st",
     "timestamp": "2026-06-12T17:46:00Z",
     "scrapedAt": "2026-06-12T18:33:53Z",

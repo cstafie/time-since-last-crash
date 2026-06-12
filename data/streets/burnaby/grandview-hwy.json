@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/grandview-hwy",
+  "name": "Grandview Hwy",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-06-12T18:41:00Z_burnaby/grandview-hwy",
+      "timestamp": "2026-06-12T18:41:00Z",
+      "address": "GRANDVIEW HWY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/grandview-hwy"
+      ],
+      "streetNames": [
+        "Grandview Hwy"
+      ],
+      "pulsePointId": "2494997411"
+    }
+  ],
+  "lastIncident": "2026-06-12T18:41:00Z",
+  "count": 1
+}

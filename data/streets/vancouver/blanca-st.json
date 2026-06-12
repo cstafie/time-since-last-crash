@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-12T18:55:00Z_vancouver/w-2nd-ave_vancouver/blanca-st",
+      "timestamp": "2026-06-12T18:55:00Z",
+      "address": "W 2ND AVE & BLANCA ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-2nd-ave",
+        "vancouver/blanca-st"
+      ],
+      "streetNames": [
+        "W 2nd Ave",
+        "Blanca St"
+      ],
+      "pulsePointId": "2495010738"
+    },
+    {
       "id": "2026-05-31T22:44:00Z_vancouver/blanca-st",
       "timestamp": "2026-05-31T22:44:00Z",
       "address": "BLANCA ST",
@@ -31,6 +46,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-31T22:44:00Z",
-  "count": 2
+  "lastIncident": "2026-06-12T18:55:00Z",
+  "count": 3
 }

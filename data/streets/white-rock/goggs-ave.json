@@ -1,0 +1,24 @@
+{
+  "slug": "white-rock/goggs-ave",
+  "name": "Goggs Ave",
+  "city": "White Rock",
+  "incidents": [
+    {
+      "id": "2026-06-12T19:43:00Z_white-rock/goggs-ave_white-rock/oxford-st",
+      "timestamp": "2026-06-12T19:43:00Z",
+      "address": "GOGGS AVE & OXFORD ST",
+      "city": "White Rock",
+      "streets": [
+        "white-rock/goggs-ave",
+        "white-rock/oxford-st"
+      ],
+      "streetNames": [
+        "Goggs Ave",
+        "Oxford St"
+      ],
+      "pulsePointId": "2495052688"
+    }
+  ],
+  "lastIncident": "2026-06-12T19:43:00Z",
+  "count": 1
+}

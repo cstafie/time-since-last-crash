@@ -1144,8 +1144,8 @@
     "name": "Blanca St",
     "slug": "vancouver/blanca-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-31T22:44:00Z",
-    "count": 2
+    "lastIncident": "2026-06-12T18:55:00Z",
+    "count": 3
   },
   "vancouver/w-10th-ave": {
     "name": "W 10th Ave",
@@ -1837,8 +1837,8 @@
     "name": "Vedder Rd",
     "slug": "chilliwack/vedder-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-01T19:00:00Z",
-    "count": 11
+    "lastIncident": "2026-06-12T19:58:00Z",
+    "count": 12
   },
   "chilliwack/spruce-dr": {
     "name": "Spruce Dr",
@@ -3118,8 +3118,8 @@
     "name": "Pacific St",
     "slug": "vancouver/pacific-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-23T02:17:00Z",
-    "count": 3
+    "lastIncident": "2026-06-12T20:01:00Z",
+    "count": 4
   },
   "abbotsford/lefeuvre-rd": {
     "name": "Lefeuvre Rd",
@@ -3258,8 +3258,8 @@
     "name": "Fraser St",
     "slug": "vancouver/fraser-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-06T01:46:00Z",
-    "count": 12
+    "lastIncident": "2026-06-12T18:46:00Z",
+    "count": 13
   },
   "abbotsford/32470-simon-ave": {
     "name": "32470 Simon Ave",
@@ -4161,8 +4161,8 @@
     "name": "W 2nd Ave",
     "slug": "vancouver/w-2nd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-11T00:17:00Z",
-    "count": 7
+    "lastIncident": "2026-06-12T18:55:00Z",
+    "count": 8
   },
   "vancouver/e-21st-ave": {
     "name": "E 21st Ave",
@@ -5393,8 +5393,8 @@
     "name": "Stevenson Rd",
     "slug": "chilliwack/stevenson-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-04-05T01:40:00Z",
-    "count": 1
+    "lastIncident": "2026-06-12T19:58:00Z",
+    "count": 2
   },
   "coquitlam/harper-rd": {
     "name": "Harper Rd",
@@ -5666,8 +5666,8 @@
     "name": "Oxford St",
     "slug": "white-rock/oxford-st",
     "city": "White Rock",
-    "lastIncident": "2026-05-18T07:27:00Z",
-    "count": 2
+    "lastIncident": "2026-06-12T19:43:00Z",
+    "count": 3
   },
   "surrey/riverview-brdg": {
     "name": "Riverview Brdg",
@@ -5890,8 +5890,8 @@
     "name": "Howe St",
     "slug": "vancouver/howe-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-24T22:53:00Z",
-    "count": 3
+    "lastIncident": "2026-06-12T20:01:00Z",
+    "count": 4
   },
   "delta/kittson-pkwy": {
     "name": "Kittson Pkwy",
@@ -12009,6 +12009,20 @@
     "slug": "surrey/65th-ave",
     "city": "Surrey",
     "lastIncident": "2026-06-12T15:59:00Z",
+    "count": 1
+  },
+  "white-rock/goggs-ave": {
+    "name": "Goggs Ave",
+    "slug": "white-rock/goggs-ave",
+    "city": "White Rock",
+    "lastIncident": "2026-06-12T19:43:00Z",
+    "count": 1
+  },
+  "burnaby/grandview-hwy": {
+    "name": "Grandview Hwy",
+    "slug": "burnaby/grandview-hwy",
+    "city": "Burnaby",
+    "lastIncident": "2026-06-12T18:41:00Z",
     "count": 1
   }
 }

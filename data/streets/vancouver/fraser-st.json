@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-12T18:46:00Z_vancouver/fraser-st",
+      "timestamp": "2026-06-12T18:46:00Z",
+      "address": "FRASER ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/fraser-st"
+      ],
+      "streetNames": [
+        "Fraser St"
+      ],
+      "pulsePointId": "2495000785"
+    },
+    {
       "id": "2026-06-06T01:46:00Z_vancouver/e-22nd-ave_vancouver/fraser-st",
       "timestamp": "2026-06-06T01:46:00Z",
       "address": "E 22ND AVE & FRASER ST",
@@ -184,6 +197,6 @@
       "pulsePointId": "2438036867"
     }
   ],
-  "lastIncident": "2026-06-06T01:46:00Z",
-  "count": 12
+  "lastIncident": "2026-06-12T18:46:00Z",
+  "count": 13
 }
