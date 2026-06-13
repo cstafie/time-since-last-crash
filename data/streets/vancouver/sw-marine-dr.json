@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-13T02:56:00Z_vancouver/sw-marine-dr_vancouver/milton-st",
+      "timestamp": "2026-06-13T02:56:00Z",
+      "address": "SW MARINE DR & MILTON ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/sw-marine-dr",
+        "vancouver/milton-st"
+      ],
+      "streetNames": [
+        "Sw Marine Dr",
+        "Milton St"
+      ],
+      "pulsePointId": "2495479927"
+    },
+    {
       "id": "2026-06-08T01:30:00Z_vancouver/heather-st_vancouver/sw-marine-dr",
       "timestamp": "2026-06-08T01:30:00Z",
       "address": "HEATHER ST & SW MARINE DR",
@@ -180,6 +195,6 @@
       "pulsePointId": "2453784324"
     }
   ],
-  "lastIncident": "2026-06-08T01:30:00Z",
-  "count": 12
+  "lastIncident": "2026-06-13T02:56:00Z",
+  "count": 13
 }

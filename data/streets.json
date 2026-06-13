@@ -262,8 +262,8 @@
     "name": "Fraser Hwy",
     "slug": "langley/fraser-hwy",
     "city": "Langley",
-    "lastIncident": "2026-06-12T22:39:00Z",
-    "count": 36
+    "lastIncident": "2026-06-13T03:06:00Z",
+    "count": 37
   },
   "langley/trans-canada-hwy": {
     "name": "Trans Canada Hwy",
@@ -6597,8 +6597,8 @@
     "name": "Sw Marine Dr",
     "slug": "vancouver/sw-marine-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-06-08T01:30:00Z",
-    "count": 12
+    "lastIncident": "2026-06-13T02:56:00Z",
+    "count": 13
   },
   "surrey/54th-ave": {
     "name": "54th Ave",
@@ -12086,6 +12086,13 @@
     "slug": "port-coquitlam/ottawa-st",
     "city": "Port Coquitlam",
     "lastIncident": "2026-06-13T01:28:00Z",
+    "count": 1
+  },
+  "vancouver/milton-st": {
+    "name": "Milton St",
+    "slug": "vancouver/milton-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-13T02:56:00Z",
     "count": 1
   }
 }

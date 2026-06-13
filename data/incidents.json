@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-13T03:06:00Z_langley/fraser-hwy",
+    "timestamp": "2026-06-13T03:06:00Z",
+    "scrapedAt": "2026-06-13T03:44:43Z",
+    "address": "FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy"
+    ],
+    "streetNames": [
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2495492641"
+  },
+  {
+    "id": "2026-06-13T02:56:00Z_vancouver/sw-marine-dr_vancouver/milton-st",
+    "timestamp": "2026-06-13T02:56:00Z",
+    "scrapedAt": "2026-06-13T03:44:43Z",
+    "address": "SW MARINE DR & MILTON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/sw-marine-dr",
+      "vancouver/milton-st"
+    ],
+    "streetNames": [
+      "Sw Marine Dr",
+      "Milton St"
+    ],
+    "pulsePointId": "2495479927"
+  },
+  {
     "id": "2026-06-13T02:24:00Z_vancouver/elliott-st",
     "timestamp": "2026-06-13T02:24:00Z",
     "scrapedAt": "2026-06-13T02:26:14Z",
