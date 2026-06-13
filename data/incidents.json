@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-13T22:57:00Z_port-moody/st-johns-st_port-moody/hugh-st",
+    "timestamp": "2026-06-13T22:57:00Z",
+    "scrapedAt": "2026-06-13T23:21:37Z",
+    "address": "ST JOHNS ST & HUGH ST",
+    "city": "Port Moody",
+    "streets": [
+      "port-moody/st-johns-st",
+      "port-moody/hugh-st"
+    ],
+    "streetNames": [
+      "St Johns St",
+      "Hugh St"
+    ],
+    "pulsePointId": "2496120054"
+  },
+  {
+    "id": "2026-06-13T22:46:00Z_abbotsford/ware-st_abbotsford/bevan-ave",
+    "timestamp": "2026-06-13T22:46:00Z",
+    "scrapedAt": "2026-06-13T23:21:37Z",
+    "address": "WARE ST & BEVAN AVE",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/ware-st",
+      "abbotsford/bevan-ave"
+    ],
+    "streetNames": [
+      "Ware St",
+      "Bevan Ave"
+    ],
+    "pulsePointId": "2496112159"
+  },
+  {
     "id": "2026-06-13T22:42:00Z_new-westminster/e-columbia-st",
     "timestamp": "2026-06-13T22:42:00Z",
     "scrapedAt": "2026-06-13T22:48:22Z",
