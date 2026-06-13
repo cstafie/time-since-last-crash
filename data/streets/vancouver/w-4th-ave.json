@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-13T14:46:00Z_vancouver/alma-st_vancouver/w-4th-ave",
+      "timestamp": "2026-06-13T14:46:00Z",
+      "address": "ALMA ST & W 4TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/alma-st",
+        "vancouver/w-4th-ave"
+      ],
+      "streetNames": [
+        "Alma St",
+        "W 4th Ave"
+      ],
+      "pulsePointId": "2495811281"
+    },
+    {
       "id": "2026-06-09T21:53:00Z_vancouver/fir-st_vancouver/w-4th-ave",
       "timestamp": "2026-06-09T21:53:00Z",
       "address": "FIR ST & W 4TH AVE",
@@ -147,6 +162,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-09T21:53:00Z",
-  "count": 10
+  "lastIncident": "2026-06-13T14:46:00Z",
+  "count": 11
 }
