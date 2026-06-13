@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-13T21:04:00Z_abbotsford/south-parallel-rd_abbotsford/whatcom-rd",
+      "timestamp": "2026-06-13T21:04:00Z",
+      "address": "SOUTH PARALLEL RD & WHATCOM RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/south-parallel-rd",
+        "abbotsford/whatcom-rd"
+      ],
+      "streetNames": [
+        "South Parallel Rd",
+        "Whatcom Rd"
+      ],
+      "pulsePointId": "2496043974"
+    },
+    {
       "id": "2026-03-18T18:23:00Z_abbotsford/south-parallel-rd",
       "timestamp": "2026-03-18T18:23:00Z",
       "address": "SOUTH PARALLEL RD",
@@ -30,6 +45,6 @@
       "pulsePointId": "2436632647"
     }
   ],
-  "lastIncident": "2026-03-18T18:23:00Z",
-  "count": 2
+  "lastIncident": "2026-06-13T21:04:00Z",
+  "count": 3
 }

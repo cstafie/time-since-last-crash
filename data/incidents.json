@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-13T21:04:00Z_abbotsford/south-parallel-rd_abbotsford/whatcom-rd",
+    "timestamp": "2026-06-13T21:04:00Z",
+    "scrapedAt": "2026-06-13T21:24:58Z",
+    "address": "SOUTH PARALLEL RD & WHATCOM RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/south-parallel-rd",
+      "abbotsford/whatcom-rd"
+    ],
+    "streetNames": [
+      "South Parallel Rd",
+      "Whatcom Rd"
+    ],
+    "pulsePointId": "2496043974"
+  },
+  {
     "id": "2026-06-13T20:29:00Z_surrey/124th-st_surrey/88th-ave",
     "timestamp": "2026-06-13T20:29:00Z",
     "scrapedAt": "2026-06-13T20:52:02Z",
