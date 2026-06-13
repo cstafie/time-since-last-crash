@@ -1249,8 +1249,8 @@
     "name": "Trans Canada Hwy",
     "slug": "burnaby/trans-canada-hwy",
     "city": "Burnaby",
-    "lastIncident": "2026-06-13T06:38:00Z",
-    "count": 27
+    "lastIncident": "2026-06-13T07:01:00Z",
+    "count": 28
   },
   "vancouver/e-1st-ave": {
     "name": "E 1st Ave",
@@ -1704,8 +1704,8 @@
     "name": "Francis Rd",
     "slug": "richmond/francis-rd",
     "city": "Richmond",
-    "lastIncident": "2026-06-09T15:46:00Z",
-    "count": 7
+    "lastIncident": "2026-06-13T07:06:00Z",
+    "count": 8
   },
   "maple-ridge/216th-st": {
     "name": "216th St",
@@ -4133,8 +4133,8 @@
     "name": "Willingdon Avenue Ofrp",
     "slug": "burnaby/willingdon-avenue-ofrp",
     "city": "Burnaby",
-    "lastIncident": "2026-05-17T10:13:00Z",
-    "count": 6
+    "lastIncident": "2026-06-13T07:01:00Z",
+    "count": 7
   },
   "surrey/194a-st": {
     "name": "194a St",
@@ -7353,8 +7353,8 @@
     "name": "Railway Ave",
     "slug": "richmond/railway-ave",
     "city": "Richmond",
-    "lastIncident": "2026-05-31T22:15:00Z",
-    "count": 2
+    "lastIncident": "2026-06-13T07:06:00Z",
+    "count": 3
   },
   "langley/48th-ave": {
     "name": "48th Ave",

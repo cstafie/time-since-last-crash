@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-06-13T07:06:00Z_richmond/railway-ave_richmond/francis-rd",
+      "timestamp": "2026-06-13T07:06:00Z",
+      "address": "RAILWAY AVE & FRANCIS RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/railway-ave",
+        "richmond/francis-rd"
+      ],
+      "streetNames": [
+        "Railway Ave",
+        "Francis Rd"
+      ],
+      "pulsePointId": "2495645203"
+    },
+    {
       "id": "2026-06-09T15:46:00Z_richmond/francis-rd_richmond/no-3-rd",
       "timestamp": "2026-06-09T15:46:00Z",
       "address": "FRANCIS RD & NO 3 RD",
@@ -107,6 +122,6 @@
       "pulsePointId": "2433067582"
     }
   ],
-  "lastIncident": "2026-06-09T15:46:00Z",
-  "count": 7
+  "lastIncident": "2026-06-13T07:06:00Z",
+  "count": 8
 }
