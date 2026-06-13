@@ -1,0 +1,24 @@
+{
+  "slug": "west-vancouver/southborough-dr",
+  "name": "Southborough Dr",
+  "city": "West Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-13T21:43:00Z_west-vancouver/southborough-dr_west-vancouver/fairmile-rd",
+      "timestamp": "2026-06-13T21:43:00Z",
+      "address": "SOUTHBOROUGH DR & FAIRMILE RD",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/southborough-dr",
+        "west-vancouver/fairmile-rd"
+      ],
+      "streetNames": [
+        "Southborough Dr",
+        "Fairmile Rd"
+      ],
+      "pulsePointId": "2496070542"
+    }
+  ],
+  "lastIncident": "2026-06-13T21:43:00Z",
+  "count": 1
+}

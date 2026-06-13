@@ -12143,5 +12143,19 @@
     "city": "Chilliwack",
     "lastIncident": "2026-06-13T18:40:00Z",
     "count": 1
+  },
+  "west-vancouver/southborough-dr": {
+    "name": "Southborough Dr",
+    "slug": "west-vancouver/southborough-dr",
+    "city": "West Vancouver",
+    "lastIncident": "2026-06-13T21:43:00Z",
+    "count": 1
+  },
+  "west-vancouver/fairmile-rd": {
+    "name": "Fairmile Rd",
+    "slug": "west-vancouver/fairmile-rd",
+    "city": "West Vancouver",
+    "lastIncident": "2026-06-13T21:43:00Z",
+    "count": 1
   }
 }

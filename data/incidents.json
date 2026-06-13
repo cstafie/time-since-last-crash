@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-13T21:43:00Z_west-vancouver/southborough-dr_west-vancouver/fairmile-rd",
+    "timestamp": "2026-06-13T21:43:00Z",
+    "scrapedAt": "2026-06-13T21:51:15Z",
+    "address": "SOUTHBOROUGH DR & FAIRMILE RD",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/southborough-dr",
+      "west-vancouver/fairmile-rd"
+    ],
+    "streetNames": [
+      "Southborough Dr",
+      "Fairmile Rd"
+    ],
+    "pulsePointId": "2496070542"
+  },
+  {
     "id": "2026-06-13T21:04:00Z_abbotsford/south-parallel-rd_abbotsford/whatcom-rd",
     "timestamp": "2026-06-13T21:04:00Z",
     "scrapedAt": "2026-06-13T21:24:58Z",
