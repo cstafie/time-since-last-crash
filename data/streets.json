@@ -437,8 +437,8 @@
     "name": "Blundell Rd",
     "slug": "richmond/blundell-rd",
     "city": "Richmond",
-    "lastIncident": "2026-06-10T15:46:00Z",
-    "count": 17
+    "lastIncident": "2026-06-13T19:44:00Z",
+    "count": 18
   },
   "richmond/bowcock-rd": {
     "name": "Bowcock Rd",
@@ -486,8 +486,8 @@
     "name": "No 3 Rd",
     "slug": "richmond/no-3-rd",
     "city": "Richmond",
-    "lastIncident": "2026-06-12T21:52:00Z",
-    "count": 17
+    "lastIncident": "2026-06-13T19:44:00Z",
+    "count": 18
   },
   "richmond/no-4-rd": {
     "name": "No 4 Rd",
@@ -528,8 +528,8 @@
     "name": "124th St",
     "slug": "surrey/124th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-01T23:35:00Z",
-    "count": 11
+    "lastIncident": "2026-06-13T20:29:00Z",
+    "count": 12
   },
   "surrey/128th-st": {
     "name": "128th St",
@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-13T14:14:00Z",
-    "count": 34
+    "lastIncident": "2026-06-13T20:29:00Z",
+    "count": 36
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",

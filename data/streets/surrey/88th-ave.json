@@ -4,6 +4,34 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-13T20:29:00Z_surrey/124th-st_surrey/88th-ave",
+      "timestamp": "2026-06-13T20:29:00Z",
+      "address": "124TH ST & 88TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/124th-st",
+        "surrey/88th-ave"
+      ],
+      "streetNames": [
+        "124th St",
+        "88th Ave"
+      ],
+      "pulsePointId": "2496020015"
+    },
+    {
+      "id": "2026-06-13T20:24:00Z_surrey/88th-ave",
+      "timestamp": "2026-06-13T20:24:00Z",
+      "address": "88TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/88th-ave"
+      ],
+      "streetNames": [
+        "88th Ave"
+      ],
+      "pulsePointId": "2496018625"
+    },
+    {
       "id": "2026-06-13T14:14:00Z_surrey/132nd-st_surrey/88th-ave",
       "timestamp": "2026-06-13T14:14:00Z",
       "address": "132ND ST & 88TH AVE",
@@ -504,6 +532,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-13T14:14:00Z",
-  "count": 34
+  "lastIncident": "2026-06-13T20:29:00Z",
+  "count": 36
 }
