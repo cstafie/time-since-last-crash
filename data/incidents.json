@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-13T08:07:00Z_coquitlam/lougheed-hwy",
+    "timestamp": "2026-06-13T08:07:00Z",
+    "scrapedAt": "2026-06-13T09:35:26Z",
+    "address": "LOUGHEED HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2495673935"
+  },
+  {
     "id": "2026-06-13T07:06:00Z_richmond/railway-ave_richmond/francis-rd",
     "timestamp": "2026-06-13T07:06:00Z",
     "scrapedAt": "2026-06-13T08:05:40Z",
