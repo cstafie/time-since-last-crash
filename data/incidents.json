@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-06-13T21:59:00Z_vancouver/e-49th-ave",
+    "timestamp": "2026-06-13T21:59:00Z",
+    "scrapedAt": "2026-06-13T22:20:40Z",
+    "address": "E 49TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-49th-ave"
+    ],
+    "streetNames": [
+      "E 49th Ave"
+    ],
+    "pulsePointId": "2496080985"
+  },
+  {
+    "id": "2026-06-13T21:52:00Z_abbotsford/downes-rd",
+    "timestamp": "2026-06-13T21:52:00Z",
+    "scrapedAt": "2026-06-13T22:20:40Z",
+    "address": "DOWNES RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/downes-rd"
+    ],
+    "streetNames": [
+      "Downes Rd"
+    ],
+    "pulsePointId": "2496076068"
+  },
+  {
     "id": "2026-06-13T21:43:00Z_west-vancouver/southborough-dr_west-vancouver/fairmile-rd",
     "timestamp": "2026-06-13T21:43:00Z",
     "scrapedAt": "2026-06-13T21:51:15Z",

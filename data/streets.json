@@ -1109,8 +1109,8 @@
     "name": "Downes Rd",
     "slug": "abbotsford/downes-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-13T16:17:00Z",
-    "count": 7
+    "lastIncident": "2026-06-13T21:52:00Z",
+    "count": 8
   },
   "coquitlam/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -3069,8 +3069,8 @@
     "name": "E 49th Ave",
     "slug": "vancouver/e-49th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-02T14:34:00Z",
-    "count": 14
+    "lastIncident": "2026-06-13T21:59:00Z",
+    "count": 15
   },
   "vancouver/victoria-dr": {
     "name": "Victoria Dr",

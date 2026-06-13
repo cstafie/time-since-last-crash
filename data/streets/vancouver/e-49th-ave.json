@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-13T21:59:00Z_vancouver/e-49th-ave",
+      "timestamp": "2026-06-13T21:59:00Z",
+      "address": "E 49TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-49th-ave"
+      ],
+      "streetNames": [
+        "E 49th Ave"
+      ],
+      "pulsePointId": "2496080985"
+    },
+    {
       "id": "2026-06-02T14:34:00Z_vancouver/e-49th-ave_vancouver/elliott-st",
       "timestamp": "2026-06-02T14:34:00Z",
       "address": "E 49TH AVE & ELLIOTT ST",
@@ -208,6 +221,6 @@
       "pulsePointId": "2437375979"
     }
   ],
-  "lastIncident": "2026-06-02T14:34:00Z",
-  "count": 14
+  "lastIncident": "2026-06-13T21:59:00Z",
+  "count": 15
 }
