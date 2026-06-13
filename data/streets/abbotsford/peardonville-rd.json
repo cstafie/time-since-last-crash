@@ -4,6 +4,19 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-13T09:45:00Z_abbotsford/peardonville-rd",
+      "timestamp": "2026-06-13T09:45:00Z",
+      "address": "PEARDONVILLE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/peardonville-rd"
+      ],
+      "streetNames": [
+        "Peardonville Rd"
+      ],
+      "pulsePointId": "2495705070"
+    },
+    {
       "id": "2026-05-19T20:05:00Z_abbotsford/peardonville-rd",
       "timestamp": "2026-05-19T20:05:00Z",
       "address": "PEARDONVILLE RD",
@@ -121,6 +134,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-19T20:05:00Z",
-  "count": 8
+  "lastIncident": "2026-06-13T09:45:00Z",
+  "count": 9
 }

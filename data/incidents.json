@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-06-13T09:45:00Z_abbotsford/peardonville-rd",
+    "timestamp": "2026-06-13T09:45:00Z",
+    "scrapedAt": "2026-06-13T10:44:53Z",
+    "address": "PEARDONVILLE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/peardonville-rd"
+    ],
+    "streetNames": [
+      "Peardonville Rd"
+    ],
+    "pulsePointId": "2495705070"
+  },
+  {
+    "id": "2026-06-13T08:50:00Z_vancouver/e-54th-ave",
+    "timestamp": "2026-06-13T08:50:00Z",
+    "scrapedAt": "2026-06-13T10:44:53Z",
+    "address": "E 54TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-54th-ave"
+    ],
+    "streetNames": [
+      "E 54th Ave"
+    ],
+    "pulsePointId": "2495688435"
+  },
+  {
     "id": "2026-06-13T08:07:00Z_coquitlam/lougheed-hwy",
     "timestamp": "2026-06-13T08:07:00Z",
     "scrapedAt": "2026-06-13T09:35:26Z",
