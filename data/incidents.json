@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-13T11:43:00Z_burnaby/boundary-rd_burnaby/moscrop-st",
+    "timestamp": "2026-06-13T11:43:00Z",
+    "scrapedAt": "2026-06-13T12:28:33Z",
+    "address": "BOUNDARY RD & MOSCROP ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/boundary-rd",
+      "burnaby/moscrop-st"
+    ],
+    "streetNames": [
+      "Boundary Rd",
+      "Moscrop St"
+    ],
+    "pulsePointId": "2495739216"
+  },
+  {
     "id": "2026-06-13T09:45:00Z_abbotsford/peardonville-rd",
     "timestamp": "2026-06-13T09:45:00Z",
     "scrapedAt": "2026-06-13T10:44:53Z",
