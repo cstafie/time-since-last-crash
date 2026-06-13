@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-13T06:38:00Z_burnaby/trans-canada-hwy",
+    "timestamp": "2026-06-13T06:38:00Z",
+    "scrapedAt": "2026-06-13T06:47:23Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2495630708"
+  },
+  {
     "id": "2026-06-13T04:34:00Z_surrey/108th-ave_surrey/university-dr",
     "timestamp": "2026-06-13T04:34:00Z",
     "scrapedAt": "2026-06-13T05:26:33Z",
