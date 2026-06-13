@@ -843,8 +843,8 @@
     "name": "16th Ave",
     "slug": "langley/16th-ave",
     "city": "Langley",
-    "lastIncident": "2026-05-29T23:17:00Z",
-    "count": 6
+    "lastIncident": "2026-06-13T00:01:00Z",
+    "count": 7
   },
   "surrey/32nd-ave": {
     "name": "32nd Ave",
@@ -913,8 +913,8 @@
     "name": "E Columbia St",
     "slug": "new-westminster/e-columbia-st",
     "city": "New Westminster",
-    "lastIncident": "2026-06-12T01:03:00Z",
-    "count": 16
+    "lastIncident": "2026-06-13T00:00:00Z",
+    "count": 17
   },
   "burnaby/market-crss": {
     "name": "Market Crss",

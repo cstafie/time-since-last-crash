@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-06-13T00:01:00Z_langley/16th-ave",
+    "timestamp": "2026-06-13T00:01:00Z",
+    "scrapedAt": "2026-06-13T00:27:12Z",
+    "address": "16TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/16th-ave"
+    ],
+    "streetNames": [
+      "16th Ave"
+    ],
+    "pulsePointId": "2495299376"
+  },
+  {
+    "id": "2026-06-13T00:00:00Z_new-westminster/e-columbia-st",
+    "timestamp": "2026-06-13T00:00:00Z",
+    "scrapedAt": "2026-06-13T00:27:12Z",
+    "address": "E COLUMBIA ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/e-columbia-st"
+    ],
+    "streetNames": [
+      "E Columbia St"
+    ],
+    "pulsePointId": "2495296750"
+  },
+  {
     "id": "2026-06-12T23:26:00Z_surrey/69a-ave_surrey/128th-st",
     "timestamp": "2026-06-12T23:26:00Z",
     "scrapedAt": "2026-06-12T23:34:10Z",
