@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-13T22:42:00Z_new-westminster/e-columbia-st",
+    "timestamp": "2026-06-13T22:42:00Z",
+    "scrapedAt": "2026-06-13T22:48:22Z",
+    "address": "E COLUMBIA ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/e-columbia-st"
+    ],
+    "streetNames": [
+      "E Columbia St"
+    ],
+    "pulsePointId": "2496107657"
+  },
+  {
     "id": "2026-06-13T21:59:00Z_vancouver/e-49th-ave",
     "timestamp": "2026-06-13T21:59:00Z",
     "scrapedAt": "2026-06-13T22:20:40Z",
