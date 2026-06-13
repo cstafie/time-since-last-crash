@@ -990,8 +990,8 @@
     "name": "Westminster Hwy",
     "slug": "richmond/westminster-hwy",
     "city": "Richmond",
-    "lastIncident": "2026-06-06T16:56:00Z",
-    "count": 20
+    "lastIncident": "2026-06-13T18:22:00Z",
+    "count": 21
   },
   "vancouver/e-37th-ave": {
     "name": "E 37th Ave",
@@ -2061,8 +2061,8 @@
     "name": "Cambie Rd",
     "slug": "richmond/cambie-rd",
     "city": "Richmond",
-    "lastIncident": "2026-06-11T13:57:00Z",
-    "count": 5
+    "lastIncident": "2026-06-13T17:58:00Z",
+    "count": 6
   },
   "richmond/viking-way": {
     "name": "Viking Way",
@@ -4273,8 +4273,8 @@
     "name": "River Rd",
     "slug": "richmond/river-rd",
     "city": "Richmond",
-    "lastIncident": "2026-04-14T14:29:00Z",
-    "count": 2
+    "lastIncident": "2026-06-13T17:58:00Z",
+    "count": 3
   },
   "delta/hwy-17a": {
     "name": "Hwy 17a",
@@ -6793,8 +6793,8 @@
     "name": "Bennett St",
     "slug": "burnaby/bennett-st",
     "city": "Burnaby",
-    "lastIncident": "2026-04-15T21:20:00Z",
-    "count": 1
+    "lastIncident": "2026-06-13T18:16:00Z",
+    "count": 2
   },
   "chilliwack/castleman-rd": {
     "name": "Castleman Rd",
@@ -12114,6 +12114,20 @@
     "slug": "surrey/hyland-rd",
     "city": "Surrey",
     "lastIncident": "2026-06-13T17:08:00Z",
+    "count": 1
+  },
+  "richmond/lynas-lane": {
+    "name": "Lynas Lane",
+    "slug": "richmond/lynas-lane",
+    "city": "Richmond",
+    "lastIncident": "2026-06-13T18:22:00Z",
+    "count": 1
+  },
+  "burnaby/4700-kingsway": {
+    "name": "4700 Kingsway",
+    "slug": "burnaby/4700-kingsway",
+    "city": "Burnaby",
+    "lastIncident": "2026-06-13T18:17:00Z",
     "count": 1
   }
 }

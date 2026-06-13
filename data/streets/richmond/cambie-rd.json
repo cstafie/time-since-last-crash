@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-06-13T17:58:00Z_richmond/river-rd_richmond/cambie-rd",
+      "timestamp": "2026-06-13T17:58:00Z",
+      "address": "RIVER RD & CAMBIE RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/river-rd",
+        "richmond/cambie-rd"
+      ],
+      "streetNames": [
+        "River Rd",
+        "Cambie Rd"
+      ],
+      "pulsePointId": "2495917115"
+    },
+    {
       "id": "2026-06-11T13:57:00Z_richmond/cambie-rd",
       "timestamp": "2026-06-11T13:57:00Z",
       "address": "CAMBIE RD",
@@ -77,6 +92,6 @@
       "pulsePointId": "2434197215"
     }
   ],
-  "lastIncident": "2026-06-11T13:57:00Z",
-  "count": 5
+  "lastIncident": "2026-06-13T17:58:00Z",
+  "count": 6
 }

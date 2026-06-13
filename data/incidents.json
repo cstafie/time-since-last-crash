@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-06-13T18:22:00Z_richmond/lynas-lane_richmond/westminster-hwy",
+    "timestamp": "2026-06-13T18:22:00Z",
+    "scrapedAt": "2026-06-13T18:27:02Z",
+    "address": "LYNAS LANE & WESTMINSTER HWY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/lynas-lane",
+      "richmond/westminster-hwy"
+    ],
+    "streetNames": [
+      "Lynas Lane",
+      "Westminster Hwy"
+    ],
+    "pulsePointId": "2495934095"
+  },
+  {
+    "id": "2026-06-13T18:17:00Z_burnaby/4700-kingsway",
+    "timestamp": "2026-06-13T18:17:00Z",
+    "scrapedAt": "2026-06-13T18:27:02Z",
+    "address": "4700 KINGSWAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/4700-kingsway"
+    ],
+    "streetNames": [
+      "4700 Kingsway"
+    ],
+    "pulsePointId": "2495930241"
+  },
+  {
+    "id": "2026-06-13T18:16:00Z_burnaby/bennett-st",
+    "timestamp": "2026-06-13T18:16:00Z",
+    "scrapedAt": "2026-06-13T18:27:02Z",
+    "address": "BENNETT ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/bennett-st"
+    ],
+    "streetNames": [
+      "Bennett St"
+    ],
+    "pulsePointId": "2495930246"
+  },
+  {
+    "id": "2026-06-13T17:58:00Z_richmond/river-rd_richmond/cambie-rd",
+    "timestamp": "2026-06-13T17:58:00Z",
+    "scrapedAt": "2026-06-13T18:27:02Z",
+    "address": "RIVER RD & CAMBIE RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/river-rd",
+      "richmond/cambie-rd"
+    ],
+    "streetNames": [
+      "River Rd",
+      "Cambie Rd"
+    ],
+    "pulsePointId": "2495917115"
+  },
+  {
     "id": "2026-06-13T17:08:00Z_surrey/hyland-rd_surrey/142nd-st",
     "timestamp": "2026-06-13T17:08:00Z",
     "scrapedAt": "2026-06-13T17:27:58Z",

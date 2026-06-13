@@ -1,0 +1,24 @@
+{
+  "slug": "richmond/lynas-lane",
+  "name": "Lynas Lane",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-06-13T18:22:00Z_richmond/lynas-lane_richmond/westminster-hwy",
+      "timestamp": "2026-06-13T18:22:00Z",
+      "address": "LYNAS LANE & WESTMINSTER HWY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/lynas-lane",
+        "richmond/westminster-hwy"
+      ],
+      "streetNames": [
+        "Lynas Lane",
+        "Westminster Hwy"
+      ],
+      "pulsePointId": "2495934095"
+    }
+  ],
+  "lastIncident": "2026-06-13T18:22:00Z",
+  "count": 1
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/4700-kingsway",
+  "name": "4700 Kingsway",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-06-13T18:17:00Z_burnaby/4700-kingsway",
+      "timestamp": "2026-06-13T18:17:00Z",
+      "address": "4700 KINGSWAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/4700-kingsway"
+      ],
+      "streetNames": [
+        "4700 Kingsway"
+      ],
+      "pulsePointId": "2495930241"
+    }
+  ],
+  "lastIncident": "2026-06-13T18:17:00Z",
+  "count": 1
+}
