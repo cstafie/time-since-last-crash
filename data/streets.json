@@ -556,8 +556,8 @@
     "name": "140th St",
     "slug": "surrey/140th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-05T07:30:00Z",
-    "count": 28
+    "lastIncident": "2026-06-13T17:06:00Z",
+    "count": 29
   },
   "surrey/141a-st": {
     "name": "141a St",
@@ -850,8 +850,8 @@
     "name": "32nd Ave",
     "slug": "surrey/32nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-11T23:39:00Z",
-    "count": 11
+    "lastIncident": "2026-06-13T17:06:00Z",
+    "count": 12
   },
   "langley/30th-ave": {
     "name": "30th Ave",
@@ -2943,8 +2943,8 @@
     "name": "Gilmore Ave",
     "slug": "burnaby/gilmore-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-04-09T17:24:00Z",
-    "count": 2
+    "lastIncident": "2026-06-13T16:39:00Z",
+    "count": 3
   },
   "new-westminster/11th-st": {
     "name": "11th St",
@@ -7633,8 +7633,8 @@
     "name": "142nd St",
     "slug": "surrey/142nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-01T01:47:00Z",
-    "count": 2
+    "lastIncident": "2026-06-13T17:08:00Z",
+    "count": 3
   },
   "burnaby/sprott-st": {
     "name": "Sprott St",
@@ -12107,6 +12107,13 @@
     "slug": "surrey/greenway-dr",
     "city": "Surrey",
     "lastIncident": "2026-06-13T16:31:00Z",
+    "count": 1
+  },
+  "surrey/hyland-rd": {
+    "name": "Hyland Rd",
+    "slug": "surrey/hyland-rd",
+    "city": "Surrey",
+    "lastIncident": "2026-06-13T17:08:00Z",
     "count": 1
   }
 }

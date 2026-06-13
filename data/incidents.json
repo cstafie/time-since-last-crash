@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-06-13T17:08:00Z_surrey/hyland-rd_surrey/142nd-st",
+    "timestamp": "2026-06-13T17:08:00Z",
+    "scrapedAt": "2026-06-13T17:27:58Z",
+    "address": "HYLAND RD & 142ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/hyland-rd",
+      "surrey/142nd-st"
+    ],
+    "streetNames": [
+      "Hyland Rd",
+      "142nd St"
+    ],
+    "pulsePointId": "2495885782"
+  },
+  {
+    "id": "2026-06-13T17:06:00Z_surrey/32nd-ave_surrey/140th-st",
+    "timestamp": "2026-06-13T17:06:00Z",
+    "scrapedAt": "2026-06-13T17:27:58Z",
+    "address": "32ND AVE & 140TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/32nd-ave",
+      "surrey/140th-st"
+    ],
+    "streetNames": [
+      "32nd Ave",
+      "140th St"
+    ],
+    "pulsePointId": "2495885999"
+  },
+  {
+    "id": "2026-06-13T16:39:00Z_burnaby/gilmore-ave",
+    "timestamp": "2026-06-13T16:39:00Z",
+    "scrapedAt": "2026-06-13T17:27:58Z",
+    "address": "GILMORE AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/gilmore-ave"
+    ],
+    "streetNames": [
+      "Gilmore Ave"
+    ],
+    "pulsePointId": "2495869345"
+  },
+  {
     "id": "2026-06-13T16:31:00Z_surrey/168th-st_surrey/greenway-dr",
     "timestamp": "2026-06-13T16:31:00Z",
     "scrapedAt": "2026-06-13T16:35:28Z",
