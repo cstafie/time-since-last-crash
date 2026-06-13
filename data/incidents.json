@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-13T16:31:00Z_surrey/168th-st_surrey/greenway-dr",
+    "timestamp": "2026-06-13T16:31:00Z",
+    "scrapedAt": "2026-06-13T16:35:28Z",
+    "address": "168TH ST & GREENWAY DR",
+    "city": "Surrey",
+    "streets": [
+      "surrey/168th-st",
+      "surrey/greenway-dr"
+    ],
+    "streetNames": [
+      "168th St",
+      "Greenway Dr"
+    ],
+    "pulsePointId": "2495864027"
+  },
+  {
+    "id": "2026-06-13T16:17:00Z_abbotsford/downes-rd_abbotsford/ross-rd",
+    "timestamp": "2026-06-13T16:17:00Z",
+    "scrapedAt": "2026-06-13T16:35:28Z",
+    "address": "DOWNES RD & ROSS RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/downes-rd",
+      "abbotsford/ross-rd"
+    ],
+    "streetNames": [
+      "Downes Rd",
+      "Ross Rd"
+    ],
+    "pulsePointId": "2495857229"
+  },
+  {
     "id": "2026-06-13T15:30:00Z_surrey/32nd-avenue-dvrs",
     "timestamp": "2026-06-13T15:30:00Z",
     "scrapedAt": "2026-06-13T15:58:15Z",
