@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-06-13T02:24:00Z_vancouver/elliott-st",
+    "timestamp": "2026-06-13T02:24:00Z",
+    "scrapedAt": "2026-06-13T02:26:14Z",
+    "address": "ELLIOTT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/elliott-st"
+    ],
+    "streetNames": [
+      "Elliott St"
+    ],
+    "pulsePointId": "2495448920"
+  },
+  {
+    "id": "2026-06-13T02:24:00Z_coquitlam/foster-ave_coquitlam/schoolhouse-st",
+    "timestamp": "2026-06-13T02:24:00Z",
+    "scrapedAt": "2026-06-13T02:26:14Z",
+    "address": "FOSTER AVE & SCHOOLHOUSE ST",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/foster-ave",
+      "coquitlam/schoolhouse-st"
+    ],
+    "streetNames": [
+      "Foster Ave",
+      "Schoolhouse St"
+    ],
+    "pulsePointId": "2495448694"
+  },
+  {
+    "id": "2026-06-13T02:04:00Z_delta/3900-arthur-dr",
+    "timestamp": "2026-06-13T02:04:00Z",
+    "scrapedAt": "2026-06-13T02:26:14Z",
+    "address": "3900 ARTHUR DR",
+    "city": "Delta",
+    "streets": [
+      "delta/3900-arthur-dr"
+    ],
+    "streetNames": [
+      "3900 Arthur Dr"
+    ],
+    "pulsePointId": "2495428840"
+  },
+  {
+    "id": "2026-06-13T02:02:00Z_burnaby/3850-lougheed-hwy",
+    "timestamp": "2026-06-13T02:02:00Z",
+    "scrapedAt": "2026-06-13T02:26:14Z",
+    "address": "3850 LOUGHEED HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/3850-lougheed-hwy"
+    ],
+    "streetNames": [
+      "3850 Lougheed Hwy"
+    ],
+    "pulsePointId": "2495427280"
+  },
+  {
+    "id": "2026-06-13T01:39:00Z_abbotsford/essendene-ave_abbotsford/montrose-ave",
+    "timestamp": "2026-06-13T01:39:00Z",
+    "scrapedAt": "2026-06-13T02:26:14Z",
+    "address": "ESSENDENE AVE & MONTROSE AVE",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/essendene-ave",
+      "abbotsford/montrose-ave"
+    ],
+    "streetNames": [
+      "Essendene Ave",
+      "Montrose Ave"
+    ],
+    "pulsePointId": "2495403467"
+  },
+  {
+    "id": "2026-06-13T01:28:00Z_port-coquitlam/ottawa-st_port-coquitlam/lougheed-hwy",
+    "timestamp": "2026-06-13T01:28:00Z",
+    "scrapedAt": "2026-06-13T02:26:14Z",
+    "address": "OTTAWA ST & LOUGHEED HWY",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/ottawa-st",
+      "port-coquitlam/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Ottawa St",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2495392562"
+  },
+  {
     "id": "2026-06-13T00:01:00Z_langley/16th-ave",
     "timestamp": "2026-06-13T00:01:00Z",
     "scrapedAt": "2026-06-13T00:27:12Z",

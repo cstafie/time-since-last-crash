@@ -157,8 +157,8 @@
     "name": "Foster Ave",
     "slug": "coquitlam/foster-ave",
     "city": "Coquitlam",
-    "lastIncident": "2026-03-30T16:00:00Z",
-    "count": 4
+    "lastIncident": "2026-06-13T02:24:00Z",
+    "count": 5
   },
   "coquitlam/united-blvd": {
     "name": "United Blvd",
@@ -2243,8 +2243,8 @@
     "name": "Lougheed Hwy",
     "slug": "port-coquitlam/lougheed-hwy",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-03-29T04:51:00Z",
-    "count": 2
+    "lastIncident": "2026-06-13T01:28:00Z",
+    "count": 3
   },
   "port-coquitlam/hastings-st": {
     "name": "Hastings St",
@@ -3790,8 +3790,8 @@
     "name": "Elliott St",
     "slug": "vancouver/elliott-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-02T14:34:00Z",
-    "count": 4
+    "lastIncident": "2026-06-13T02:24:00Z",
+    "count": 5
   },
   "vancouver/melbourne-st": {
     "name": "Melbourne St",
@@ -4924,8 +4924,8 @@
     "name": "Schoolhouse St",
     "slug": "coquitlam/schoolhouse-st",
     "city": "Coquitlam",
-    "lastIncident": "2026-05-12T15:57:00Z",
-    "count": 4
+    "lastIncident": "2026-06-13T02:24:00Z",
+    "count": 5
   },
   "maple-ridge/maple-cres": {
     "name": "Maple Cres",
@@ -12051,6 +12051,41 @@
     "slug": "surrey/69a-ave",
     "city": "Surrey",
     "lastIncident": "2026-06-12T23:26:00Z",
+    "count": 1
+  },
+  "delta/3900-arthur-dr": {
+    "name": "3900 Arthur Dr",
+    "slug": "delta/3900-arthur-dr",
+    "city": "Delta",
+    "lastIncident": "2026-06-13T02:04:00Z",
+    "count": 1
+  },
+  "burnaby/3850-lougheed-hwy": {
+    "name": "3850 Lougheed Hwy",
+    "slug": "burnaby/3850-lougheed-hwy",
+    "city": "Burnaby",
+    "lastIncident": "2026-06-13T02:02:00Z",
+    "count": 1
+  },
+  "abbotsford/essendene-ave": {
+    "name": "Essendene Ave",
+    "slug": "abbotsford/essendene-ave",
+    "city": "Abbotsford",
+    "lastIncident": "2026-06-13T01:39:00Z",
+    "count": 1
+  },
+  "abbotsford/montrose-ave": {
+    "name": "Montrose Ave",
+    "slug": "abbotsford/montrose-ave",
+    "city": "Abbotsford",
+    "lastIncident": "2026-06-13T01:39:00Z",
+    "count": 1
+  },
+  "port-coquitlam/ottawa-st": {
+    "name": "Ottawa St",
+    "slug": "port-coquitlam/ottawa-st",
+    "city": "Port Coquitlam",
+    "lastIncident": "2026-06-13T01:28:00Z",
     "count": 1
   }
 }

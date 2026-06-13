@@ -4,6 +4,21 @@
   "city": "Port Coquitlam",
   "incidents": [
     {
+      "id": "2026-06-13T01:28:00Z_port-coquitlam/ottawa-st_port-coquitlam/lougheed-hwy",
+      "timestamp": "2026-06-13T01:28:00Z",
+      "address": "OTTAWA ST & LOUGHEED HWY",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/ottawa-st",
+        "port-coquitlam/lougheed-hwy"
+      ],
+      "streetNames": [
+        "Ottawa St",
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2495392562"
+    },
+    {
       "id": "2026-03-29T04:51:00Z_port-coquitlam/lougheed-hwy_port-coquitlam/hastings-st",
       "timestamp": "2026-03-29T04:51:00Z",
       "address": "LOUGHEED HWY & HASTINGS ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2434921067"
     }
   ],
-  "lastIncident": "2026-03-29T04:51:00Z",
-  "count": 2
+  "lastIncident": "2026-06-13T01:28:00Z",
+  "count": 3
 }

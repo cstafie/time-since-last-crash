@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/montrose-ave",
+  "name": "Montrose Ave",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-06-13T01:39:00Z_abbotsford/essendene-ave_abbotsford/montrose-ave",
+      "timestamp": "2026-06-13T01:39:00Z",
+      "address": "ESSENDENE AVE & MONTROSE AVE",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/essendene-ave",
+        "abbotsford/montrose-ave"
+      ],
+      "streetNames": [
+        "Essendene Ave",
+        "Montrose Ave"
+      ],
+      "pulsePointId": "2495403467"
+    }
+  ],
+  "lastIncident": "2026-06-13T01:39:00Z",
+  "count": 1
+}

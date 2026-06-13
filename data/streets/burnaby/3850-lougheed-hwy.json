@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/3850-lougheed-hwy",
+  "name": "3850 Lougheed Hwy",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-06-13T02:02:00Z_burnaby/3850-lougheed-hwy",
+      "timestamp": "2026-06-13T02:02:00Z",
+      "address": "3850 LOUGHEED HWY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/3850-lougheed-hwy"
+      ],
+      "streetNames": [
+        "3850 Lougheed Hwy"
+      ],
+      "pulsePointId": "2495427280"
+    }
+  ],
+  "lastIncident": "2026-06-13T02:02:00Z",
+  "count": 1
+}

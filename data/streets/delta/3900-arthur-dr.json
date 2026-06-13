@@ -1,0 +1,22 @@
+{
+  "slug": "delta/3900-arthur-dr",
+  "name": "3900 Arthur Dr",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-06-13T02:04:00Z_delta/3900-arthur-dr",
+      "timestamp": "2026-06-13T02:04:00Z",
+      "address": "3900 ARTHUR DR",
+      "city": "Delta",
+      "streets": [
+        "delta/3900-arthur-dr"
+      ],
+      "streetNames": [
+        "3900 Arthur Dr"
+      ],
+      "pulsePointId": "2495428840"
+    }
+  ],
+  "lastIncident": "2026-06-13T02:04:00Z",
+  "count": 1
+}
