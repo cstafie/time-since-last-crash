@@ -521,8 +521,8 @@
     "name": "108th Ave",
     "slug": "surrey/108th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-09T07:17:00Z",
-    "count": 23
+    "lastIncident": "2026-06-13T04:34:00Z",
+    "count": 24
   },
   "surrey/124th-st": {
     "name": "124th St",
@@ -2299,8 +2299,8 @@
     "name": "Hastings St",
     "slug": "burnaby/hastings-st",
     "city": "Burnaby",
-    "lastIncident": "2026-06-08T18:33:00Z",
-    "count": 10
+    "lastIncident": "2026-06-13T04:31:00Z",
+    "count": 11
   },
   "delta/hwy-17a-ofrp": {
     "name": "Hwy 17a Ofrp",
@@ -3944,8 +3944,8 @@
     "name": "University Dr",
     "slug": "surrey/university-dr",
     "city": "Surrey",
-    "lastIncident": "2026-05-02T17:25:00Z",
-    "count": 3
+    "lastIncident": "2026-06-13T04:34:00Z",
+    "count": 4
   },
   "vancouver/griffiths-way": {
     "name": "Griffiths Way",
@@ -4077,8 +4077,8 @@
     "name": "Noons Creek Dr",
     "slug": "coquitlam/noons-creek-dr",
     "city": "Coquitlam",
-    "lastIncident": "2026-03-26T03:02:00Z",
-    "count": 1
+    "lastIncident": "2026-06-13T04:18:00Z",
+    "count": 2
   },
   "delta/84th-ave": {
     "name": "84th Ave",
@@ -12093,6 +12093,13 @@
     "slug": "vancouver/milton-st",
     "city": "Vancouver",
     "lastIncident": "2026-06-13T02:56:00Z",
+    "count": 1
+  },
+  "coquitlam/panorama-dr": {
+    "name": "Panorama Dr",
+    "slug": "coquitlam/panorama-dr",
+    "city": "Coquitlam",
+    "lastIncident": "2026-06-13T04:18:00Z",
     "count": 1
   }
 }

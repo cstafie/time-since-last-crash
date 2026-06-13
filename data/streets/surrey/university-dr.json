@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-13T04:34:00Z_surrey/108th-ave_surrey/university-dr",
+      "timestamp": "2026-06-13T04:34:00Z",
+      "address": "108TH AVE & UNIVERSITY DR",
+      "city": "Surrey",
+      "streets": [
+        "surrey/108th-ave",
+        "surrey/university-dr"
+      ],
+      "streetNames": [
+        "108th Ave",
+        "University Dr"
+      ],
+      "pulsePointId": "2495562131"
+    },
+    {
       "id": "2026-05-02T17:25:00Z_surrey/104th-ave_surrey/university-dr",
       "timestamp": "2026-05-02T17:25:00Z",
       "address": "104TH AVE & UNIVERSITY DR",
@@ -45,6 +60,6 @@
       "pulsePointId": "2440986769"
     }
   ],
-  "lastIncident": "2026-05-02T17:25:00Z",
-  "count": 3
+  "lastIncident": "2026-06-13T04:34:00Z",
+  "count": 4
 }

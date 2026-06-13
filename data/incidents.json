@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-06-13T04:34:00Z_surrey/108th-ave_surrey/university-dr",
+    "timestamp": "2026-06-13T04:34:00Z",
+    "scrapedAt": "2026-06-13T05:26:33Z",
+    "address": "108TH AVE & UNIVERSITY DR",
+    "city": "Surrey",
+    "streets": [
+      "surrey/108th-ave",
+      "surrey/university-dr"
+    ],
+    "streetNames": [
+      "108th Ave",
+      "University Dr"
+    ],
+    "pulsePointId": "2495562131"
+  },
+  {
+    "id": "2026-06-13T04:31:00Z_burnaby/hastings-st",
+    "timestamp": "2026-06-13T04:31:00Z",
+    "scrapedAt": "2026-06-13T05:26:33Z",
+    "address": "HASTINGS ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/hastings-st"
+    ],
+    "streetNames": [
+      "Hastings St"
+    ],
+    "pulsePointId": "2495560743"
+  },
+  {
+    "id": "2026-06-13T04:18:00Z_coquitlam/noons-creek-dr_coquitlam/panorama-dr",
+    "timestamp": "2026-06-13T04:18:00Z",
+    "scrapedAt": "2026-06-13T05:26:33Z",
+    "address": "NOONS CREEK DR & PANORAMA DR",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/noons-creek-dr",
+      "coquitlam/panorama-dr"
+    ],
+    "streetNames": [
+      "Noons Creek Dr",
+      "Panorama Dr"
+    ],
+    "pulsePointId": "2495554124"
+  },
+  {
     "id": "2026-06-13T03:06:00Z_langley/fraser-hwy",
     "timestamp": "2026-06-13T03:06:00Z",
     "scrapedAt": "2026-06-13T03:44:43Z",
