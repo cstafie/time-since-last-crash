@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-13T14:06:00Z_vancouver/e-24th-ave",
+    "timestamp": "2026-06-13T14:06:00Z",
+    "scrapedAt": "2026-06-13T14:12:43Z",
+    "address": "E 24TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-24th-ave"
+    ],
+    "streetNames": [
+      "E 24th Ave"
+    ],
+    "pulsePointId": "2495792984"
+  },
+  {
+    "id": "2026-06-13T13:57:00Z_port-coquitlam/mary-hill-bps_port-coquitlam/broadway-st",
+    "timestamp": "2026-06-13T13:57:00Z",
+    "scrapedAt": "2026-06-13T14:12:43Z",
+    "address": "MARY HILL BPS & BROADWAY ST",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/mary-hill-bps",
+      "port-coquitlam/broadway-st"
+    ],
+    "streetNames": [
+      "Mary Hill Bps",
+      "Broadway St"
+    ],
+    "pulsePointId": "2495789031"
+  },
+  {
     "id": "2026-06-13T11:43:00Z_burnaby/boundary-rd_burnaby/moscrop-st",
     "timestamp": "2026-06-13T11:43:00Z",
     "scrapedAt": "2026-06-13T12:28:33Z",
