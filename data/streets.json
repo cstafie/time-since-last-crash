@@ -2663,8 +2663,8 @@
     "name": "Prest Rd",
     "slug": "chilliwack/prest-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-05-29T02:13:00Z",
-    "count": 6
+    "lastIncident": "2026-06-13T18:40:00Z",
+    "count": 7
   },
   "chilliwack/mcguire-rd": {
     "name": "Mcguire Rd",
@@ -12128,6 +12128,20 @@
     "slug": "burnaby/4700-kingsway",
     "city": "Burnaby",
     "lastIncident": "2026-06-13T18:17:00Z",
+    "count": 1
+  },
+  "pitt-meadows/wildwood-cres-n": {
+    "name": "Wildwood Cres N",
+    "slug": "pitt-meadows/wildwood-cres-n",
+    "city": "Pitt Meadows",
+    "lastIncident": "2026-06-13T19:22:00Z",
+    "count": 1
+  },
+  "chilliwack/bailey-rd": {
+    "name": "Bailey Rd",
+    "slug": "chilliwack/bailey-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-06-13T18:40:00Z",
     "count": 1
   }
 }

@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-13T19:22:00Z_pitt-meadows/wildwood-cres-n",
+    "timestamp": "2026-06-13T19:22:00Z",
+    "scrapedAt": "2026-06-13T19:28:48Z",
+    "address": "WILDWOOD CRES N",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/wildwood-cres-n"
+    ],
+    "streetNames": [
+      "Wildwood Cres N"
+    ],
+    "pulsePointId": "2495975541"
+  },
+  {
+    "id": "2026-06-13T18:40:00Z_chilliwack/prest-rd_chilliwack/bailey-rd",
+    "timestamp": "2026-06-13T18:40:00Z",
+    "scrapedAt": "2026-06-13T19:28:48Z",
+    "address": "PREST RD & BAILEY RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/prest-rd",
+      "chilliwack/bailey-rd"
+    ],
+    "streetNames": [
+      "Prest Rd",
+      "Bailey Rd"
+    ],
+    "pulsePointId": "2495945820"
+  },
+  {
     "id": "2026-06-13T18:22:00Z_richmond/lynas-lane_richmond/westminster-hwy",
     "timestamp": "2026-06-13T18:22:00Z",
     "scrapedAt": "2026-06-13T18:27:02Z",

@@ -1,0 +1,22 @@
+{
+  "slug": "pitt-meadows/wildwood-cres-n",
+  "name": "Wildwood Cres N",
+  "city": "Pitt Meadows",
+  "incidents": [
+    {
+      "id": "2026-06-13T19:22:00Z_pitt-meadows/wildwood-cres-n",
+      "timestamp": "2026-06-13T19:22:00Z",
+      "address": "WILDWOOD CRES N",
+      "city": "Pitt Meadows",
+      "streets": [
+        "pitt-meadows/wildwood-cres-n"
+      ],
+      "streetNames": [
+        "Wildwood Cres N"
+      ],
+      "pulsePointId": "2495975541"
+    }
+  ],
+  "lastIncident": "2026-06-13T19:22:00Z",
+  "count": 1
+}
