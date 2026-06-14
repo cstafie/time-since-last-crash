@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-06-14T22:03:00Z_langley/206th-st_langley/80th-ave",
+      "timestamp": "2026-06-14T22:03:00Z",
+      "address": "206TH ST & 80TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/206th-st",
+        "langley/80th-ave"
+      ],
+      "streetNames": [
+        "206th St",
+        "80th Ave"
+      ],
+      "pulsePointId": "2496835359"
+    },
+    {
       "id": "2026-06-09T21:33:00Z_langley/200th-st_langley/80th-ave",
       "timestamp": "2026-06-09T21:33:00Z",
       "address": "200TH ST & 80TH AVE",
@@ -109,6 +124,6 @@
       "pulsePointId": "2434196018"
     }
   ],
-  "lastIncident": "2026-06-09T21:33:00Z",
-  "count": 7
+  "lastIncident": "2026-06-14T22:03:00Z",
+  "count": 8
 }

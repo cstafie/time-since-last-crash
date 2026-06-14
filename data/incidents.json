@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-14T22:15:00Z_surrey/74th-ave_surrey/king-george-blvd",
+    "timestamp": "2026-06-14T22:15:00Z",
+    "scrapedAt": "2026-06-14T22:22:27Z",
+    "address": "74TH AVE & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/74th-ave",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "74th Ave",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2496843220"
+  },
+  {
+    "id": "2026-06-14T22:03:00Z_langley/206th-st_langley/80th-ave",
+    "timestamp": "2026-06-14T22:03:00Z",
+    "scrapedAt": "2026-06-14T22:22:27Z",
+    "address": "206TH ST & 80TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/206th-st",
+      "langley/80th-ave"
+    ],
+    "streetNames": [
+      "206th St",
+      "80th Ave"
+    ],
+    "pulsePointId": "2496835359"
+  },
+  {
     "id": "2026-06-14T20:56:00Z_langley/langley-bps_langley/fraser-hwy",
     "timestamp": "2026-06-14T20:56:00Z",
     "scrapedAt": "2026-06-14T21:25:30Z",

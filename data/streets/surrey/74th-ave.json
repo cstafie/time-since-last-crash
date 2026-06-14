@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-14T22:15:00Z_surrey/74th-ave_surrey/king-george-blvd",
+      "timestamp": "2026-06-14T22:15:00Z",
+      "address": "74TH AVE & KING GEORGE BLVD",
+      "city": "Surrey",
+      "streets": [
+        "surrey/74th-ave",
+        "surrey/king-george-blvd"
+      ],
+      "streetNames": [
+        "74th Ave",
+        "King George Blvd"
+      ],
+      "pulsePointId": "2496843220"
+    },
+    {
       "id": "2026-05-16T17:55:00Z_surrey/74th-ave_surrey/128th-st",
       "timestamp": "2026-05-16T17:55:00Z",
       "address": "74TH AVE & 128TH ST",
@@ -62,6 +77,6 @@
       "pulsePointId": "2443734962"
     }
   ],
-  "lastIncident": "2026-05-16T17:55:00Z",
-  "count": 4
+  "lastIncident": "2026-06-14T22:15:00Z",
+  "count": 5
 }

@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-06-13T14:14:00Z",
-    "count": 67
+    "lastIncident": "2026-06-14T22:15:00Z",
+    "count": 68
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -2054,8 +2054,8 @@
     "name": "80th Ave",
     "slug": "langley/80th-ave",
     "city": "Langley",
-    "lastIncident": "2026-06-09T21:33:00Z",
-    "count": 7
+    "lastIncident": "2026-06-14T22:03:00Z",
+    "count": 8
   },
   "richmond/cambie-rd": {
     "name": "Cambie Rd",
@@ -4399,8 +4399,8 @@
     "name": "74th Ave",
     "slug": "surrey/74th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-16T17:55:00Z",
-    "count": 4
+    "lastIncident": "2026-06-14T22:15:00Z",
+    "count": 5
   },
   "maple-ridge/208th-st": {
     "name": "208th St",
@@ -5505,8 +5505,8 @@
     "name": "206th St",
     "slug": "langley/206th-st",
     "city": "Langley",
-    "lastIncident": "2026-06-12T14:56:00Z",
-    "count": 2
+    "lastIncident": "2026-06-14T22:03:00Z",
+    "count": 3
   },
   "burnaby/ulster-st": {
     "name": "Ulster St",
