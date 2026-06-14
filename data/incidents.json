@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-14T18:02:00Z_port-coquitlam/shaughnessy-st_port-coquitlam/mary-hill-bps",
+    "timestamp": "2026-06-14T18:02:00Z",
+    "scrapedAt": "2026-06-14T18:23:29Z",
+    "address": "SHAUGHNESSY ST & MARY HILL BPS",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/shaughnessy-st",
+      "port-coquitlam/mary-hill-bps"
+    ],
+    "streetNames": [
+      "Shaughnessy St",
+      "Mary Hill Bps"
+    ],
+    "pulsePointId": "2496678111"
+  },
+  {
     "id": "2026-06-14T15:25:00Z_surrey/144th-st_surrey/84th-ave",
     "timestamp": "2026-06-14T15:25:00Z",
     "scrapedAt": "2026-06-14T16:00:31Z",

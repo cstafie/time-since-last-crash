@@ -423,8 +423,8 @@
     "name": "Mary Hill Bps",
     "slug": "port-coquitlam/mary-hill-bps",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-06-13T13:57:00Z",
-    "count": 11
+    "lastIncident": "2026-06-14T18:02:00Z",
+    "count": 12
   },
   "richmond/8111-ackroyd-rd": {
     "name": "8111 Ackroyd Rd",
@@ -5323,8 +5323,8 @@
     "name": "Shaughnessy St",
     "slug": "port-coquitlam/shaughnessy-st",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-05-27T22:19:00Z",
-    "count": 5
+    "lastIncident": "2026-06-14T18:02:00Z",
+    "count": 6
   },
   "vancouver/e-59th-ave": {
     "name": "E 59th Ave",
