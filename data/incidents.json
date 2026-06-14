@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-14T18:50:00Z_surrey/carluke-cres",
+    "timestamp": "2026-06-14T18:50:00Z",
+    "scrapedAt": "2026-06-14T18:53:40Z",
+    "address": "CARLUKE CRES",
+    "city": "Surrey",
+    "streets": [
+      "surrey/carluke-cres"
+    ],
+    "streetNames": [
+      "Carluke Cres"
+    ],
+    "pulsePointId": "2496706753"
+  },
+  {
     "id": "2026-06-14T18:02:00Z_port-coquitlam/shaughnessy-st_port-coquitlam/mary-hill-bps",
     "timestamp": "2026-06-14T18:02:00Z",
     "scrapedAt": "2026-06-14T18:23:29Z",

@@ -1,0 +1,22 @@
+{
+  "slug": "surrey/carluke-cres",
+  "name": "Carluke Cres",
+  "city": "Surrey",
+  "incidents": [
+    {
+      "id": "2026-06-14T18:50:00Z_surrey/carluke-cres",
+      "timestamp": "2026-06-14T18:50:00Z",
+      "address": "CARLUKE CRES",
+      "city": "Surrey",
+      "streets": [
+        "surrey/carluke-cres"
+      ],
+      "streetNames": [
+        "Carluke Cres"
+      ],
+      "pulsePointId": "2496706753"
+    }
+  ],
+  "lastIncident": "2026-06-14T18:50:00Z",
+  "count": 1
+}
