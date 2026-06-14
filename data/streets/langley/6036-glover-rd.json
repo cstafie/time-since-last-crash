@@ -1,0 +1,22 @@
+{
+  "slug": "langley/6036-glover-rd",
+  "name": "6036 Glover Rd",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-06-14T20:50:00Z_langley/6036-glover-rd",
+      "timestamp": "2026-06-14T20:50:00Z",
+      "address": "6036 GLOVER RD",
+      "city": "Langley",
+      "streets": [
+        "langley/6036-glover-rd"
+      ],
+      "streetNames": [
+        "6036 Glover Rd"
+      ],
+      "pulsePointId": "2496786979"
+    }
+  ],
+  "lastIncident": "2026-06-14T20:50:00Z",
+  "count": 1
+}

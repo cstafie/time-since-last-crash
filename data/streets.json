@@ -262,8 +262,8 @@
     "name": "Fraser Hwy",
     "slug": "langley/fraser-hwy",
     "city": "Langley",
-    "lastIncident": "2026-06-13T03:06:00Z",
-    "count": 37
+    "lastIncident": "2026-06-14T20:56:00Z",
+    "count": 38
   },
   "langley/trans-canada-hwy": {
     "name": "Trans Canada Hwy",
@@ -2383,8 +2383,8 @@
     "name": "Langley Bps",
     "slug": "langley/langley-bps",
     "city": "Langley",
-    "lastIncident": "2026-06-12T23:03:00Z",
-    "count": 25
+    "lastIncident": "2026-06-14T20:56:00Z",
+    "count": 26
   },
   "surrey/56th-ave": {
     "name": "56th Ave",
@@ -12233,6 +12233,13 @@
     "slug": "mission/dunsmuir-st",
     "city": "Mission",
     "lastIncident": "2026-06-14T20:43:00Z",
+    "count": 1
+  },
+  "langley/6036-glover-rd": {
+    "name": "6036 Glover Rd",
+    "slug": "langley/6036-glover-rd",
+    "city": "Langley",
+    "lastIncident": "2026-06-14T20:50:00Z",
     "count": 1
   }
 }
