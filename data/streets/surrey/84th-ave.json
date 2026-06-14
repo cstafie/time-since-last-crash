@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-14T15:25:00Z_surrey/144th-st_surrey/84th-ave",
+      "timestamp": "2026-06-14T15:25:00Z",
+      "address": "144TH ST & 84TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/144th-st",
+        "surrey/84th-ave"
+      ],
+      "streetNames": [
+        "144th St",
+        "84th Ave"
+      ],
+      "pulsePointId": "2496585545"
+    },
+    {
       "id": "2026-06-11T05:05:00Z_surrey/84th-ave",
       "timestamp": "2026-06-11T05:05:00Z",
       "address": "84TH AVE",
@@ -297,6 +312,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-11T05:05:00Z",
-  "count": 20
+  "lastIncident": "2026-06-14T15:25:00Z",
+  "count": 21
 }

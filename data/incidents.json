@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-14T15:25:00Z_surrey/144th-st_surrey/84th-ave",
+    "timestamp": "2026-06-14T15:25:00Z",
+    "scrapedAt": "2026-06-14T16:00:31Z",
+    "address": "144TH ST & 84TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/144th-st",
+      "surrey/84th-ave"
+    ],
+    "streetNames": [
+      "144th St",
+      "84th Ave"
+    ],
+    "pulsePointId": "2496585545"
+  },
+  {
     "id": "2026-06-14T10:32:00Z_vancouver/main-street-ofrp_vancouver/georgia-via",
     "timestamp": "2026-06-14T10:32:00Z",
     "scrapedAt": "2026-06-14T11:18:09Z",
