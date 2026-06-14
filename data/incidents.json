@@ -1,5 +1,83 @@
 [
   {
+    "id": "2026-06-14T01:12:00Z_vancouver/hemlock-st_vancouver/w-12th-ave",
+    "timestamp": "2026-06-14T01:12:00Z",
+    "scrapedAt": "2026-06-14T01:33:08Z",
+    "address": "HEMLOCK ST & W 12TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/hemlock-st",
+      "vancouver/w-12th-ave"
+    ],
+    "streetNames": [
+      "Hemlock St",
+      "W 12th Ave"
+    ],
+    "pulsePointId": "2496206393"
+  },
+  {
+    "id": "2026-06-14T00:50:00Z_chilliwack/mary-st_chilliwack/spadina-ave",
+    "timestamp": "2026-06-14T00:50:00Z",
+    "scrapedAt": "2026-06-14T01:33:08Z",
+    "address": "MARY ST & SPADINA AVE",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/mary-st",
+      "chilliwack/spadina-ave"
+    ],
+    "streetNames": [
+      "Mary St",
+      "Spadina Ave"
+    ],
+    "pulsePointId": "2496191497"
+  },
+  {
+    "id": "2026-06-14T00:43:00Z_vancouver/trans-canada-hwy",
+    "timestamp": "2026-06-14T00:43:00Z",
+    "scrapedAt": "2026-06-14T01:33:08Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2496188123"
+  },
+  {
+    "id": "2026-06-14T00:34:00Z_vancouver/granville-st_vancouver/balfour-ave",
+    "timestamp": "2026-06-14T00:34:00Z",
+    "scrapedAt": "2026-06-14T01:33:08Z",
+    "address": "GRANVILLE ST & BALFOUR AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st",
+      "vancouver/balfour-ave"
+    ],
+    "streetNames": [
+      "Granville St",
+      "Balfour Ave"
+    ],
+    "pulsePointId": "2496182808"
+  },
+  {
+    "id": "2026-06-14T00:25:00Z_vancouver/e-29th-ave_vancouver/nanaimo-st",
+    "timestamp": "2026-06-14T00:25:00Z",
+    "scrapedAt": "2026-06-14T01:33:08Z",
+    "address": "E 29TH AVE & NANAIMO ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-29th-ave",
+      "vancouver/nanaimo-st"
+    ],
+    "streetNames": [
+      "E 29th Ave",
+      "Nanaimo St"
+    ],
+    "pulsePointId": "2496177375"
+  },
+  {
     "id": "2026-06-14T00:12:00Z_vancouver/trans-canada-hwy",
     "timestamp": "2026-06-14T00:12:00Z",
     "scrapedAt": "2026-06-14T00:23:28Z",

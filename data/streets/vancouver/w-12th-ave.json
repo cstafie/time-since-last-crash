@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-14T01:12:00Z_vancouver/hemlock-st_vancouver/w-12th-ave",
+      "timestamp": "2026-06-14T01:12:00Z",
+      "address": "HEMLOCK ST & W 12TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/hemlock-st",
+        "vancouver/w-12th-ave"
+      ],
+      "streetNames": [
+        "Hemlock St",
+        "W 12th Ave"
+      ],
+      "pulsePointId": "2496206393"
+    },
+    {
       "id": "2026-05-28T14:28:00Z_vancouver/w-12th-ave_vancouver/manitoba-st",
       "timestamp": "2026-05-28T14:28:00Z",
       "address": "W 12TH AVE & MANITOBA ST",
@@ -164,6 +179,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-28T14:28:00Z",
-  "count": 11
+  "lastIncident": "2026-06-14T01:12:00Z",
+  "count": 12
 }

@@ -1,6 +1,6 @@
 {
-  "slug": "chilliwack/spadina-ave",
-  "name": "Spadina Ave",
+  "slug": "chilliwack/mary-st",
+  "name": "Mary St",
   "city": "Chilliwack",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Spadina Ave"
       ],
       "pulsePointId": "2496191497"
-    },
-    {
-      "id": "2026-05-14T22:39:00Z_chilliwack/spadina-ave_chilliwack/first-ave",
-      "timestamp": "2026-05-14T22:39:00Z",
-      "address": "SPADINA AVE & FIRST AVE",
-      "city": "Chilliwack",
-      "streets": [
-        "chilliwack/spadina-ave",
-        "chilliwack/first-ave"
-      ],
-      "streetNames": [
-        "Spadina Ave",
-        "First Ave"
-      ],
-      "pulsePointId": "2474410975"
     }
   ],
   "lastIncident": "2026-06-14T00:50:00Z",
-  "count": 2
+  "count": 1
 }

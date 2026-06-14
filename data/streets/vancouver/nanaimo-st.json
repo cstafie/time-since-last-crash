@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-14T00:25:00Z_vancouver/e-29th-ave_vancouver/nanaimo-st",
+      "timestamp": "2026-06-14T00:25:00Z",
+      "address": "E 29TH AVE & NANAIMO ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-29th-ave",
+        "vancouver/nanaimo-st"
+      ],
+      "streetNames": [
+        "E 29th Ave",
+        "Nanaimo St"
+      ],
+      "pulsePointId": "2496177375"
+    },
+    {
       "id": "2026-06-08T23:39:00Z_vancouver/adanac-st_vancouver/nanaimo-st",
       "timestamp": "2026-06-08T23:39:00Z",
       "address": "ADANAC ST & NANAIMO ST",
@@ -223,6 +238,6 @@
       "pulsePointId": "2435582679"
     }
   ],
-  "lastIncident": "2026-06-08T23:39:00Z",
-  "count": 15
+  "lastIncident": "2026-06-14T00:25:00Z",
+  "count": 16
 }
