@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-14T10:31:00Z",
-    "count": 44
+    "lastIncident": "2026-06-14T19:27:00Z",
+    "count": 45
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",
@@ -1732,8 +1732,8 @@
     "name": "Alex Fraser Brdg",
     "slug": "delta/alex-fraser-brdg",
     "city": "Delta",
-    "lastIncident": "2026-05-26T21:32:00Z",
-    "count": 15
+    "lastIncident": "2026-06-14T19:38:00Z",
+    "count": 17
   },
   "abbotsford/riverside-st": {
     "name": "Riverside St",
@@ -3069,8 +3069,8 @@
     "name": "E 49th Ave",
     "slug": "vancouver/e-49th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-13T21:59:00Z",
-    "count": 15
+    "lastIncident": "2026-06-14T19:27:00Z",
+    "count": 16
   },
   "vancouver/victoria-dr": {
     "name": "Victoria Dr",
@@ -4910,8 +4910,8 @@
     "name": "Hwy 17",
     "slug": "delta/hwy-17",
     "city": "Delta",
-    "lastIncident": "2026-06-06T12:55:00Z",
-    "count": 13
+    "lastIncident": "2026-06-14T19:33:00Z",
+    "count": 14
   },
   "coquitlam/winslow-ave": {
     "name": "Winslow Ave",
@@ -12219,6 +12219,13 @@
     "slug": "surrey/carluke-cres",
     "city": "Surrey",
     "lastIncident": "2026-06-14T18:50:00Z",
+    "count": 1
+  },
+  "delta/tsawwassen-dr": {
+    "name": "Tsawwassen Dr",
+    "slug": "delta/tsawwassen-dr",
+    "city": "Delta",
+    "lastIncident": "2026-06-14T19:33:00Z",
     "count": 1
   }
 }

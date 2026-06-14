@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-06-14T19:38:00Z_delta/alex-fraser-brdg",
+    "timestamp": "2026-06-14T19:38:00Z",
+    "scrapedAt": "2026-06-14T20:04:53Z",
+    "address": "ALEX FRASER BRDG",
+    "city": "Delta",
+    "streets": [
+      "delta/alex-fraser-brdg"
+    ],
+    "streetNames": [
+      "Alex Fraser Brdg"
+    ],
+    "pulsePointId": "2496738602"
+  },
+  {
+    "id": "2026-06-14T19:33:00Z_delta/hwy-17_delta/tsawwassen-dr",
+    "timestamp": "2026-06-14T19:33:00Z",
+    "scrapedAt": "2026-06-14T20:04:53Z",
+    "address": "HWY 17 & TSAWWASSEN DR",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-17",
+      "delta/tsawwassen-dr"
+    ],
+    "streetNames": [
+      "Hwy 17",
+      "Tsawwassen Dr"
+    ],
+    "pulsePointId": "2496734771"
+  },
+  {
+    "id": "2026-06-14T19:30:00Z_delta/alex-fraser-brdg",
+    "timestamp": "2026-06-14T19:30:00Z",
+    "scrapedAt": "2026-06-14T20:04:53Z",
+    "address": "ALEX FRASER BRDG",
+    "city": "Delta",
+    "streets": [
+      "delta/alex-fraser-brdg"
+    ],
+    "streetNames": [
+      "Alex Fraser Brdg"
+    ],
+    "pulsePointId": "2496732784"
+  },
+  {
+    "id": "2026-06-14T19:27:00Z_vancouver/e-49th-ave_vancouver/main-st",
+    "timestamp": "2026-06-14T19:27:00Z",
+    "scrapedAt": "2026-06-14T20:04:53Z",
+    "address": "E 49TH AVE & MAIN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-49th-ave",
+      "vancouver/main-st"
+    ],
+    "streetNames": [
+      "E 49th Ave",
+      "Main St"
+    ],
+    "pulsePointId": "2496730878"
+  },
+  {
     "id": "2026-06-14T18:50:00Z_surrey/carluke-cres",
     "timestamp": "2026-06-14T18:50:00Z",
     "scrapedAt": "2026-06-14T18:53:40Z",

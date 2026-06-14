@@ -1,0 +1,24 @@
+{
+  "slug": "delta/tsawwassen-dr",
+  "name": "Tsawwassen Dr",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-06-14T19:33:00Z_delta/hwy-17_delta/tsawwassen-dr",
+      "timestamp": "2026-06-14T19:33:00Z",
+      "address": "HWY 17 & TSAWWASSEN DR",
+      "city": "Delta",
+      "streets": [
+        "delta/hwy-17",
+        "delta/tsawwassen-dr"
+      ],
+      "streetNames": [
+        "Hwy 17",
+        "Tsawwassen Dr"
+      ],
+      "pulsePointId": "2496734771"
+    }
+  ],
+  "lastIncident": "2026-06-14T19:33:00Z",
+  "count": 1
+}
