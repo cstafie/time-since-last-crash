@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-14T22:22:00Z_vancouver/e-29th-ave_vancouver/slocan-st",
+      "timestamp": "2026-06-14T22:22:00Z",
+      "address": "E 29TH AVE & SLOCAN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-29th-ave",
+        "vancouver/slocan-st"
+      ],
+      "streetNames": [
+        "E 29th Ave",
+        "Slocan St"
+      ],
+      "pulsePointId": "2496848814"
+    },
+    {
       "id": "2026-06-08T19:37:00Z_vancouver/e-1st-ave_vancouver/slocan-st",
       "timestamp": "2026-06-08T19:37:00Z",
       "address": "E 1ST AVE & SLOCAN ST",
@@ -124,6 +139,6 @@
       "pulsePointId": "2436249042"
     }
   ],
-  "lastIncident": "2026-06-08T19:37:00Z",
-  "count": 8
+  "lastIncident": "2026-06-14T22:22:00Z",
+  "count": 9
 }

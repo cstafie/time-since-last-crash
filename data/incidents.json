@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-14T22:22:00Z_vancouver/e-29th-ave_vancouver/slocan-st",
+    "timestamp": "2026-06-14T22:22:00Z",
+    "scrapedAt": "2026-06-14T22:50:51Z",
+    "address": "E 29TH AVE & SLOCAN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-29th-ave",
+      "vancouver/slocan-st"
+    ],
+    "streetNames": [
+      "E 29th Ave",
+      "Slocan St"
+    ],
+    "pulsePointId": "2496848814"
+  },
+  {
     "id": "2026-06-14T22:15:00Z_surrey/74th-ave_surrey/king-george-blvd",
     "timestamp": "2026-06-14T22:15:00Z",
     "scrapedAt": "2026-06-14T22:22:27Z",

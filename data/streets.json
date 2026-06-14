@@ -2180,8 +2180,8 @@
     "name": "E 29th Ave",
     "slug": "vancouver/e-29th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-14T00:25:00Z",
-    "count": 9
+    "lastIncident": "2026-06-14T22:22:00Z",
+    "count": 10
   },
   "vancouver/rupert-st": {
     "name": "Rupert St",
@@ -2719,8 +2719,8 @@
     "name": "Slocan St",
     "slug": "vancouver/slocan-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-08T19:37:00Z",
-    "count": 8
+    "lastIncident": "2026-06-14T22:22:00Z",
+    "count": 9
   },
   "surrey/lauder-dr": {
     "name": "Lauder Dr",
