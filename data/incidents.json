@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-14T23:45:00Z_vancouver/se-marine-dr_vancouver/chester-st",
+    "timestamp": "2026-06-14T23:45:00Z",
+    "scrapedAt": "2026-06-14T23:51:05Z",
+    "address": "SE MARINE DR & CHESTER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/se-marine-dr",
+      "vancouver/chester-st"
+    ],
+    "streetNames": [
+      "Se Marine Dr",
+      "Chester St"
+    ],
+    "pulsePointId": "2496905518"
+  },
+  {
+    "id": "2026-06-14T23:29:00Z_west-vancouver/marine-dr",
+    "timestamp": "2026-06-14T23:29:00Z",
+    "scrapedAt": "2026-06-14T23:51:05Z",
+    "address": "MARINE DR",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/marine-dr"
+    ],
+    "streetNames": [
+      "Marine Dr"
+    ],
+    "pulsePointId": "2496893735"
+  },
+  {
     "id": "2026-06-14T22:22:00Z_vancouver/e-29th-ave_vancouver/slocan-st",
     "timestamp": "2026-06-14T22:22:00Z",
     "scrapedAt": "2026-06-14T22:50:51Z",

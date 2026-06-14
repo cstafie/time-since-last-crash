@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/chester-st",
+  "name": "Chester St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-14T23:45:00Z_vancouver/se-marine-dr_vancouver/chester-st",
+      "timestamp": "2026-06-14T23:45:00Z",
+      "address": "SE MARINE DR & CHESTER ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/se-marine-dr",
+        "vancouver/chester-st"
+      ],
+      "streetNames": [
+        "Se Marine Dr",
+        "Chester St"
+      ],
+      "pulsePointId": "2496905518"
+    }
+  ],
+  "lastIncident": "2026-06-14T23:45:00Z",
+  "count": 1
+}

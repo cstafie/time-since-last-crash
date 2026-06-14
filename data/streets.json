@@ -1200,8 +1200,8 @@
     "name": "Se Marine Dr",
     "slug": "vancouver/se-marine-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-06-11T20:46:00Z",
-    "count": 14
+    "lastIncident": "2026-06-14T23:45:00Z",
+    "count": 15
   },
   "vancouver/kerr-st": {
     "name": "Kerr St",
@@ -7836,8 +7836,8 @@
     "name": "Marine Dr",
     "slug": "west-vancouver/marine-dr",
     "city": "West Vancouver",
-    "lastIncident": "2026-06-04T06:31:00Z",
-    "count": 3
+    "lastIncident": "2026-06-14T23:29:00Z",
+    "count": 4
   },
   "west-vancouver/18th-st": {
     "name": "18th St",
@@ -12240,6 +12240,13 @@
     "slug": "langley/6036-glover-rd",
     "city": "Langley",
     "lastIncident": "2026-06-14T20:50:00Z",
+    "count": 1
+  },
+  "vancouver/chester-st": {
+    "name": "Chester St",
+    "slug": "vancouver/chester-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-14T23:45:00Z",
     "count": 1
   }
 }

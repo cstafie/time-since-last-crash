@@ -4,6 +4,19 @@
   "city": "West Vancouver",
   "incidents": [
     {
+      "id": "2026-06-14T23:29:00Z_west-vancouver/marine-dr",
+      "timestamp": "2026-06-14T23:29:00Z",
+      "address": "MARINE DR",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/marine-dr"
+      ],
+      "streetNames": [
+        "Marine Dr"
+      ],
+      "pulsePointId": "2496893735"
+    },
+    {
       "id": "2026-06-04T06:31:00Z_west-vancouver/marine-dr",
       "timestamp": "2026-06-04T06:31:00Z",
       "address": "MARINE DR",
@@ -47,6 +60,6 @@
       "pulsePointId": "2462161326"
     }
   ],
-  "lastIncident": "2026-06-04T06:31:00Z",
-  "count": 3
+  "lastIncident": "2026-06-14T23:29:00Z",
+  "count": 4
 }
