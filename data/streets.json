@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-11T23:48:00Z",
-    "count": 43
+    "lastIncident": "2026-06-14T10:31:00Z",
+    "count": 44
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",
@@ -4126,8 +4126,8 @@
     "name": "Prior St",
     "slug": "vancouver/prior-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-31T17:22:00Z",
-    "count": 3
+    "lastIncident": "2026-06-14T10:31:00Z",
+    "count": 4
   },
   "burnaby/willingdon-avenue-ofrp": {
     "name": "Willingdon Avenue Ofrp",
@@ -12198,6 +12198,20 @@
     "slug": "abbotsford/horn-st",
     "city": "Abbotsford",
     "lastIncident": "2026-06-14T05:44:00Z",
+    "count": 1
+  },
+  "vancouver/main-street-ofrp": {
+    "name": "Main Street Ofrp",
+    "slug": "vancouver/main-street-ofrp",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-14T10:32:00Z",
+    "count": 1
+  },
+  "vancouver/georgia-via": {
+    "name": "Georgia Via",
+    "slug": "vancouver/georgia-via",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-14T10:32:00Z",
     "count": 1
   }
 }

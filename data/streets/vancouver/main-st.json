@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-14T10:31:00Z_vancouver/prior-st_vancouver/main-st",
+      "timestamp": "2026-06-14T10:31:00Z",
+      "address": "PRIOR ST & MAIN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/prior-st",
+        "vancouver/main-st"
+      ],
+      "streetNames": [
+        "Prior St",
+        "Main St"
+      ],
+      "pulsePointId": "2496470636"
+    },
+    {
       "id": "2026-06-11T23:48:00Z_vancouver/main-st_vancouver/e-pender-st",
       "timestamp": "2026-06-11T23:48:00Z",
       "address": "MAIN ST & E PENDER ST",
@@ -633,6 +648,6 @@
       "pulsePointId": "2432937969"
     }
   ],
-  "lastIncident": "2026-06-11T23:48:00Z",
-  "count": 43
+  "lastIncident": "2026-06-14T10:31:00Z",
+  "count": 44
 }

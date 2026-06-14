@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/georgia-via",
+  "name": "Georgia Via",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-14T10:32:00Z_vancouver/main-street-ofrp_vancouver/georgia-via",
+      "timestamp": "2026-06-14T10:32:00Z",
+      "address": "MAIN STREET OFRP & GEORGIA VIA",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/main-street-ofrp",
+        "vancouver/georgia-via"
+      ],
+      "streetNames": [
+        "Main Street Ofrp",
+        "Georgia Via"
+      ],
+      "pulsePointId": "2496470342"
+    }
+  ],
+  "lastIncident": "2026-06-14T10:32:00Z",
+  "count": 1
+}

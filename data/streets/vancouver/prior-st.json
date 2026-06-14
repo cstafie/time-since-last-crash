@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-14T10:31:00Z_vancouver/prior-st_vancouver/main-st",
+      "timestamp": "2026-06-14T10:31:00Z",
+      "address": "PRIOR ST & MAIN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/prior-st",
+        "vancouver/main-st"
+      ],
+      "streetNames": [
+        "Prior St",
+        "Main St"
+      ],
+      "pulsePointId": "2496470636"
+    },
+    {
       "id": "2026-05-31T17:22:00Z_vancouver/prior-st_vancouver/princess-ave",
       "timestamp": "2026-05-31T17:22:00Z",
       "address": "PRIOR ST & PRINCESS AVE",
@@ -49,6 +64,6 @@
       "pulsePointId": "2442085622"
     }
   ],
-  "lastIncident": "2026-05-31T17:22:00Z",
-  "count": 3
+  "lastIncident": "2026-06-14T10:31:00Z",
+  "count": 4
 }
