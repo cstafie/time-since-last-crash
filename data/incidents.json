@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-06-14T02:28:00Z_surrey/tannery-rd_surrey/tannery-road-ofrp",
+    "timestamp": "2026-06-14T02:28:00Z",
+    "scrapedAt": "2026-06-14T03:00:56Z",
+    "address": "TANNERY RD & TANNERY ROAD OFRP",
+    "city": "Surrey",
+    "streets": [
+      "surrey/tannery-rd",
+      "surrey/tannery-road-ofrp"
+    ],
+    "streetNames": [
+      "Tannery Rd",
+      "Tannery Road Ofrp"
+    ],
+    "pulsePointId": "2496256434"
+  },
+  {
+    "id": "2026-06-14T01:48:00Z_abbotsford/hwy-11_abbotsford/harris-rd",
+    "timestamp": "2026-06-14T01:48:00Z",
+    "scrapedAt": "2026-06-14T03:00:56Z",
+    "address": "HWY 11 & HARRIS RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/hwy-11",
+      "abbotsford/harris-rd"
+    ],
+    "streetNames": [
+      "Hwy 11",
+      "Harris Rd"
+    ],
+    "pulsePointId": "2496230059"
+  },
+  {
+    "id": "2026-06-14T01:39:00Z_chilliwack/vedder-rd_chilliwack/keith-wilson-rd",
+    "timestamp": "2026-06-14T01:39:00Z",
+    "scrapedAt": "2026-06-14T03:00:56Z",
+    "address": "VEDDER RD & KEITH WILSON RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/vedder-rd",
+      "chilliwack/keith-wilson-rd"
+    ],
+    "streetNames": [
+      "Vedder Rd",
+      "Keith Wilson Rd"
+    ],
+    "pulsePointId": "2496225578"
+  },
+  {
     "id": "2026-06-14T01:12:00Z_vancouver/hemlock-st_vancouver/w-12th-ave",
     "timestamp": "2026-06-14T01:12:00Z",
     "scrapedAt": "2026-06-14T01:33:08Z",

@@ -1,6 +1,6 @@
 {
-  "slug": "surrey/tannery-rd",
-  "name": "Tannery Rd",
+  "slug": "surrey/tannery-road-ofrp",
+  "name": "Tannery Road Ofrp",
   "city": "Surrey",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Tannery Road Ofrp"
       ],
       "pulsePointId": "2496256434"
-    },
-    {
-      "id": "2026-04-19T23:17:00Z_surrey/tannery-rd_surrey/hwy-17-onrp",
-      "timestamp": "2026-04-19T23:17:00Z",
-      "address": "TANNERY RD & HWY 17 ONRP",
-      "city": "Surrey",
-      "streets": [
-        "surrey/tannery-rd",
-        "surrey/hwy-17-onrp"
-      ],
-      "streetNames": [
-        "Tannery Rd",
-        "Hwy 17 Onrp"
-      ],
-      "pulsePointId": "2457692917"
     }
   ],
   "lastIncident": "2026-06-14T02:28:00Z",
-  "count": 2
+  "count": 1
 }

@@ -108,8 +108,8 @@
     "name": "Keith Wilson Rd",
     "slug": "chilliwack/keith-wilson-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-05T17:59:00Z",
-    "count": 5
+    "lastIncident": "2026-06-14T01:39:00Z",
+    "count": 6
   },
   "chilliwack/prairie-central-rd": {
     "name": "Prairie Central Rd",
@@ -1837,8 +1837,8 @@
     "name": "Vedder Rd",
     "slug": "chilliwack/vedder-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-12T19:58:00Z",
-    "count": 12
+    "lastIncident": "2026-06-14T01:39:00Z",
+    "count": 13
   },
   "chilliwack/spruce-dr": {
     "name": "Spruce Dr",
@@ -3328,8 +3328,8 @@
     "name": "Hwy 11",
     "slug": "abbotsford/hwy-11",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-29T18:08:00Z",
-    "count": 4
+    "lastIncident": "2026-06-14T01:48:00Z",
+    "count": 5
   },
   "surrey/67th-ave": {
     "name": "67th Ave",
@@ -6205,8 +6205,8 @@
     "name": "Harris Rd",
     "slug": "abbotsford/harris-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-25T23:03:00Z",
-    "count": 7
+    "lastIncident": "2026-06-14T01:48:00Z",
+    "count": 8
   },
   "north-vancouver/capilano-road-onrp": {
     "name": "Capilano Road Onrp",
@@ -7227,8 +7227,8 @@
     "name": "Tannery Rd",
     "slug": "surrey/tannery-rd",
     "city": "Surrey",
-    "lastIncident": "2026-04-19T23:17:00Z",
-    "count": 1
+    "lastIncident": "2026-06-14T02:28:00Z",
+    "count": 2
   },
   "surrey/hwy-17-onrp": {
     "name": "Hwy 17 Onrp",
@@ -12177,6 +12177,13 @@
     "slug": "vancouver/balfour-ave",
     "city": "Vancouver",
     "lastIncident": "2026-06-14T00:34:00Z",
+    "count": 1
+  },
+  "surrey/tannery-road-ofrp": {
+    "name": "Tannery Road Ofrp",
+    "slug": "surrey/tannery-road-ofrp",
+    "city": "Surrey",
+    "lastIncident": "2026-06-14T02:28:00Z",
     "count": 1
   }
 }
