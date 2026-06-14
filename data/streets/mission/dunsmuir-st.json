@@ -1,0 +1,24 @@
+{
+  "slug": "mission/dunsmuir-st",
+  "name": "Dunsmuir St",
+  "city": "Mission",
+  "incidents": [
+    {
+      "id": "2026-06-14T20:43:00Z_mission/7th-ave_mission/dunsmuir-st",
+      "timestamp": "2026-06-14T20:43:00Z",
+      "address": "7TH AVE & DUNSMUIR ST",
+      "city": "Mission",
+      "streets": [
+        "mission/7th-ave",
+        "mission/dunsmuir-st"
+      ],
+      "streetNames": [
+        "7th Ave",
+        "Dunsmuir St"
+      ],
+      "pulsePointId": "2496782085"
+    }
+  ],
+  "lastIncident": "2026-06-14T20:43:00Z",
+  "count": 1
+}

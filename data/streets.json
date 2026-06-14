@@ -1837,8 +1837,8 @@
     "name": "Vedder Rd",
     "slug": "chilliwack/vedder-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-14T01:39:00Z",
-    "count": 13
+    "lastIncident": "2026-06-14T20:09:00Z",
+    "count": 14
   },
   "chilliwack/spruce-dr": {
     "name": "Spruce Dr",
@@ -2838,8 +2838,8 @@
     "name": "7th Ave",
     "slug": "mission/7th-ave",
     "city": "Mission",
-    "lastIncident": "2026-05-16T01:08:00Z",
-    "count": 9
+    "lastIncident": "2026-06-14T20:43:00Z",
+    "count": 10
   },
   "richmond/sexsmith-rd": {
     "name": "Sexsmith Rd",
@@ -12226,6 +12226,13 @@
     "slug": "delta/tsawwassen-dr",
     "city": "Delta",
     "lastIncident": "2026-06-14T19:33:00Z",
+    "count": 1
+  },
+  "mission/dunsmuir-st": {
+    "name": "Dunsmuir St",
+    "slug": "mission/dunsmuir-st",
+    "city": "Mission",
+    "lastIncident": "2026-06-14T20:43:00Z",
     "count": 1
   }
 }

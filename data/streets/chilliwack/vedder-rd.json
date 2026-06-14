@@ -4,6 +4,19 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-06-14T20:09:00Z_chilliwack/vedder-rd",
+      "timestamp": "2026-06-14T20:09:00Z",
+      "address": "VEDDER RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/vedder-rd"
+      ],
+      "streetNames": [
+        "Vedder Rd"
+      ],
+      "pulsePointId": "2496759153"
+    },
+    {
       "id": "2026-06-14T01:39:00Z_chilliwack/vedder-rd_chilliwack/keith-wilson-rd",
       "timestamp": "2026-06-14T01:39:00Z",
       "address": "VEDDER RD & KEITH WILSON RD",
@@ -189,6 +202,6 @@
       "pulsePointId": "2433567443"
     }
   ],
-  "lastIncident": "2026-06-14T01:39:00Z",
-  "count": 13
+  "lastIncident": "2026-06-14T20:09:00Z",
+  "count": 14
 }

@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-14T20:43:00Z_mission/7th-ave_mission/dunsmuir-st",
+    "timestamp": "2026-06-14T20:43:00Z",
+    "scrapedAt": "2026-06-14T20:51:45Z",
+    "address": "7TH AVE & DUNSMUIR ST",
+    "city": "Mission",
+    "streets": [
+      "mission/7th-ave",
+      "mission/dunsmuir-st"
+    ],
+    "streetNames": [
+      "7th Ave",
+      "Dunsmuir St"
+    ],
+    "pulsePointId": "2496782085"
+  },
+  {
+    "id": "2026-06-14T20:09:00Z_chilliwack/vedder-rd",
+    "timestamp": "2026-06-14T20:09:00Z",
+    "scrapedAt": "2026-06-14T20:51:45Z",
+    "address": "VEDDER RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/vedder-rd"
+    ],
+    "streetNames": [
+      "Vedder Rd"
+    ],
+    "pulsePointId": "2496759153"
+  },
+  {
     "id": "2026-06-14T19:38:00Z_delta/alex-fraser-brdg",
     "timestamp": "2026-06-14T19:38:00Z",
     "scrapedAt": "2026-06-14T20:04:53Z",
