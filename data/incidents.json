@@ -1,5 +1,79 @@
 [
   {
+    "id": "2026-06-14T06:34:00Z_richmond/knight-street-onrp",
+    "timestamp": "2026-06-14T06:34:00Z",
+    "scrapedAt": "2026-06-14T07:00:59Z",
+    "address": "KNIGHT STREET ONRP",
+    "city": "Richmond",
+    "streets": [
+      "richmond/knight-street-onrp"
+    ],
+    "streetNames": [
+      "Knight Street Onrp"
+    ],
+    "pulsePointId": "2496392161"
+  },
+  {
+    "id": "2026-06-14T06:24:00Z_burnaby/6th-st",
+    "timestamp": "2026-06-14T06:24:00Z",
+    "scrapedAt": "2026-06-14T07:00:59Z",
+    "address": "6TH ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/6th-st"
+    ],
+    "streetNames": [
+      "6th St"
+    ],
+    "pulsePointId": "2496387133"
+  },
+  {
+    "id": "2026-06-14T06:14:00Z_vancouver/e-hastings-st",
+    "timestamp": "2026-06-14T06:14:00Z",
+    "scrapedAt": "2026-06-14T07:00:59Z",
+    "address": "E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "E Hastings St"
+    ],
+    "pulsePointId": "2496383923"
+  },
+  {
+    "id": "2026-06-14T05:46:00Z_abbotsford/gladwin-rd_abbotsford/maclure-rd",
+    "timestamp": "2026-06-14T05:46:00Z",
+    "scrapedAt": "2026-06-14T07:00:59Z",
+    "address": "GLADWIN RD & MACLURE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/gladwin-rd",
+      "abbotsford/maclure-rd"
+    ],
+    "streetNames": [
+      "Gladwin Rd",
+      "Maclure Rd"
+    ],
+    "pulsePointId": "2496368105"
+  },
+  {
+    "id": "2026-06-14T05:44:00Z_abbotsford/horn-st_abbotsford/maclure-rd",
+    "timestamp": "2026-06-14T05:44:00Z",
+    "scrapedAt": "2026-06-14T07:00:59Z",
+    "address": "HORN ST & MACLURE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/horn-st",
+      "abbotsford/maclure-rd"
+    ],
+    "streetNames": [
+      "Horn St",
+      "Maclure Rd"
+    ],
+    "pulsePointId": "2496367269"
+  },
+  {
     "id": "2026-06-14T04:35:00Z_abbotsford/old-yale-rd_abbotsford/mcmillan-rd",
     "timestamp": "2026-06-14T04:35:00Z",
     "scrapedAt": "2026-06-14T05:06:30Z",

@@ -1774,8 +1774,8 @@
     "name": "E Hastings St",
     "slug": "vancouver/e-hastings-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-12T07:34:00Z",
-    "count": 31
+    "lastIncident": "2026-06-14T06:14:00Z",
+    "count": 32
   },
   "abbotsford/king-rd": {
     "name": "King Rd",
@@ -1921,8 +1921,8 @@
     "name": "Maclure Rd",
     "slug": "abbotsford/maclure-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-12T00:20:00Z",
-    "count": 10
+    "lastIncident": "2026-06-14T05:46:00Z",
+    "count": 12
   },
   "vancouver/renfrew-st": {
     "name": "Renfrew St",
@@ -5183,8 +5183,8 @@
     "name": "6th St",
     "slug": "burnaby/6th-st",
     "city": "Burnaby",
-    "lastIncident": "2026-04-03T09:22:00Z",
-    "count": 1
+    "lastIncident": "2026-06-14T06:24:00Z",
+    "count": 2
   },
   "vancouver/n-nanaimo-st": {
     "name": "N Nanaimo St",
@@ -5232,8 +5232,8 @@
     "name": "Gladwin Rd",
     "slug": "abbotsford/gladwin-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-12T06:22:00Z",
-    "count": 11
+    "lastIncident": "2026-06-14T05:46:00Z",
+    "count": 12
   },
   "surrey/old-yale-rd": {
     "name": "Old Yale Rd",
@@ -11826,8 +11826,8 @@
     "name": "Knight Street Onrp",
     "slug": "richmond/knight-street-onrp",
     "city": "Richmond",
-    "lastIncident": "2026-06-09T14:42:00Z",
-    "count": 1
+    "lastIncident": "2026-06-14T06:34:00Z",
+    "count": 2
   },
   "abbotsford/whatcom-road-ofrp": {
     "name": "Whatcom Road Ofrp",
@@ -12191,6 +12191,13 @@
     "slug": "maple-ridge/287th-st",
     "city": "Maple Ridge",
     "lastIncident": "2026-06-14T03:39:00Z",
+    "count": 1
+  },
+  "abbotsford/horn-st": {
+    "name": "Horn St",
+    "slug": "abbotsford/horn-st",
+    "city": "Abbotsford",
+    "lastIncident": "2026-06-14T05:44:00Z",
     "count": 1
   }
 }

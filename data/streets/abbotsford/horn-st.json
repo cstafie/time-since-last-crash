@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/horn-st",
+  "name": "Horn St",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-06-14T05:44:00Z_abbotsford/horn-st_abbotsford/maclure-rd",
+      "timestamp": "2026-06-14T05:44:00Z",
+      "address": "HORN ST & MACLURE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/horn-st",
+        "abbotsford/maclure-rd"
+      ],
+      "streetNames": [
+        "Horn St",
+        "Maclure Rd"
+      ],
+      "pulsePointId": "2496367269"
+    }
+  ],
+  "lastIncident": "2026-06-14T05:44:00Z",
+  "count": 1
+}
