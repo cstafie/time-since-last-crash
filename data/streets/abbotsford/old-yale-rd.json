@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-14T04:35:00Z_abbotsford/old-yale-rd_abbotsford/mcmillan-rd",
+      "timestamp": "2026-06-14T04:35:00Z",
+      "address": "OLD YALE RD & MCMILLAN RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/old-yale-rd",
+        "abbotsford/mcmillan-rd"
+      ],
+      "streetNames": [
+        "Old Yale Rd",
+        "Mcmillan Rd"
+      ],
+      "pulsePointId": "2496332978"
+    },
+    {
       "id": "2026-05-29T22:49:00Z_abbotsford/guilford-dr_abbotsford/old-yale-rd",
       "timestamp": "2026-05-29T22:49:00Z",
       "address": "GUILFORD DR & OLD YALE RD",
@@ -109,6 +124,6 @@
       "pulsePointId": "2432971315"
     }
   ],
-  "lastIncident": "2026-05-29T22:49:00Z",
-  "count": 7
+  "lastIncident": "2026-06-14T04:35:00Z",
+  "count": 8
 }

@@ -1,0 +1,24 @@
+{
+  "slug": "maple-ridge/287th-st",
+  "name": "287th St",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-06-14T03:39:00Z_maple-ridge/287th-st_maple-ridge/lougheed-hwy",
+      "timestamp": "2026-06-14T03:39:00Z",
+      "address": "287TH ST & LOUGHEED HWY",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/287th-st",
+        "maple-ridge/lougheed-hwy"
+      ],
+      "streetNames": [
+        "287th St",
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2496300130"
+    }
+  ],
+  "lastIncident": "2026-06-14T03:39:00Z",
+  "count": 1
+}

@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-14T04:35:00Z_abbotsford/old-yale-rd_abbotsford/mcmillan-rd",
+    "timestamp": "2026-06-14T04:35:00Z",
+    "scrapedAt": "2026-06-14T05:06:30Z",
+    "address": "OLD YALE RD & MCMILLAN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/old-yale-rd",
+      "abbotsford/mcmillan-rd"
+    ],
+    "streetNames": [
+      "Old Yale Rd",
+      "Mcmillan Rd"
+    ],
+    "pulsePointId": "2496332978"
+  },
+  {
+    "id": "2026-06-14T03:39:00Z_maple-ridge/287th-st_maple-ridge/lougheed-hwy",
+    "timestamp": "2026-06-14T03:39:00Z",
+    "scrapedAt": "2026-06-14T05:06:30Z",
+    "address": "287TH ST & LOUGHEED HWY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/287th-st",
+      "maple-ridge/lougheed-hwy"
+    ],
+    "streetNames": [
+      "287th St",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2496300130"
+  },
+  {
     "id": "2026-06-14T02:28:00Z_surrey/tannery-rd_surrey/tannery-road-ofrp",
     "timestamp": "2026-06-14T02:28:00Z",
     "scrapedAt": "2026-06-14T03:00:56Z",
