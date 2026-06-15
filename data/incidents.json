@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-15T07:40:00Z_langley/trans-canada-hwy",
+    "timestamp": "2026-06-15T07:40:00Z",
+    "scrapedAt": "2026-06-15T09:35:29Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2497156834"
+  },
+  {
     "id": "2026-06-15T06:57:00Z_vancouver/boundary-rd",
     "timestamp": "2026-06-15T06:57:00Z",
     "scrapedAt": "2026-06-15T07:14:37Z",
