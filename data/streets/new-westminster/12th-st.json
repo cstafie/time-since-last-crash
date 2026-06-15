@@ -4,6 +4,36 @@
   "city": "New Westminster",
   "incidents": [
     {
+      "id": "2026-06-15T03:02:00Z_new-westminster/12th-st_new-westminster/5th-ave",
+      "timestamp": "2026-06-15T03:02:00Z",
+      "address": "12TH ST & 5TH AVE",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/12th-st",
+        "new-westminster/5th-ave"
+      ],
+      "streetNames": [
+        "12th St",
+        "5th Ave"
+      ],
+      "pulsePointId": "2497033013"
+    },
+    {
+      "id": "2026-06-15T03:00:00Z_new-westminster/12th-st_new-westminster/5th-ave",
+      "timestamp": "2026-06-15T03:00:00Z",
+      "address": "12TH ST & 5TH AVE",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/12th-st",
+        "new-westminster/5th-ave"
+      ],
+      "streetNames": [
+        "12th St",
+        "5th Ave"
+      ],
+      "pulsePointId": "2497030431"
+    },
+    {
       "id": "2026-04-06T23:20:00Z_new-westminster/12th-st_new-westminster/stewardson-way",
       "timestamp": "2026-04-06T23:20:00Z",
       "address": "12TH ST & STEWARDSON WAY",
@@ -47,6 +77,6 @@
       "pulsePointId": "2440863478"
     }
   ],
-  "lastIncident": "2026-04-06T23:20:00Z",
-  "count": 3
+  "lastIncident": "2026-06-15T03:02:00Z",
+  "count": 5
 }

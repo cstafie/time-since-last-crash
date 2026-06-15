@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-06-15T03:38:00Z_chilliwack/tyson-rd_chilliwack/watson-rd",
+    "timestamp": "2026-06-15T03:38:00Z",
+    "scrapedAt": "2026-06-15T05:12:33Z",
+    "address": "TYSON RD & WATSON RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/tyson-rd",
+      "chilliwack/watson-rd"
+    ],
+    "streetNames": [
+      "Tyson Rd",
+      "Watson Rd"
+    ],
+    "pulsePointId": "2497051763"
+  },
+  {
+    "id": "2026-06-15T03:02:00Z_new-westminster/12th-st_new-westminster/5th-ave",
+    "timestamp": "2026-06-15T03:02:00Z",
+    "scrapedAt": "2026-06-15T05:12:33Z",
+    "address": "12TH ST & 5TH AVE",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/12th-st",
+      "new-westminster/5th-ave"
+    ],
+    "streetNames": [
+      "12th St",
+      "5th Ave"
+    ],
+    "pulsePointId": "2497033013"
+  },
+  {
+    "id": "2026-06-15T03:00:00Z_new-westminster/12th-st_new-westminster/5th-ave",
+    "timestamp": "2026-06-15T03:00:00Z",
+    "scrapedAt": "2026-06-15T05:12:33Z",
+    "address": "12TH ST & 5TH AVE",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/12th-st",
+      "new-westminster/5th-ave"
+    ],
+    "streetNames": [
+      "12th St",
+      "5th Ave"
+    ],
+    "pulsePointId": "2497030431"
+  },
+  {
     "id": "2026-06-15T02:55:00Z_surrey/trans-canada-hwy_surrey/192nd-street-onrp",
     "timestamp": "2026-06-15T02:55:00Z",
     "scrapedAt": "2026-06-15T03:00:55Z",
