@@ -1,0 +1,22 @@
+{
+  "slug": "north-vancouver/malsum-dr",
+  "name": "Malsum Dr",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-15T16:14:00Z_north-vancouver/malsum-dr",
+      "timestamp": "2026-06-15T16:14:00Z",
+      "address": "MALSUM DR",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/malsum-dr"
+      ],
+      "streetNames": [
+        "Malsum Dr"
+      ],
+      "pulsePointId": "2497355469"
+    }
+  ],
+  "lastIncident": "2026-06-15T16:14:00Z",
+  "count": 1
+}

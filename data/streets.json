@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-15T15:51:00Z",
-    "count": 48
+    "lastIncident": "2026-06-15T18:01:00Z",
+    "count": 49
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",
@@ -2131,8 +2131,8 @@
     "name": "Commercial Dr",
     "slug": "vancouver/commercial-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-06-03T18:02:00Z",
-    "count": 6
+    "lastIncident": "2026-06-15T16:14:00Z",
+    "count": 7
   },
   "mission/keystone-ave": {
     "name": "Keystone Ave",
@@ -4630,8 +4630,8 @@
     "name": "Powell St",
     "slug": "vancouver/powell-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-31T23:52:00Z",
-    "count": 4
+    "lastIncident": "2026-06-15T18:01:00Z",
+    "count": 5
   },
   "maple-ridge/224th-st": {
     "name": "224th St",
@@ -7122,8 +7122,8 @@
     "name": "E 2nd Ave",
     "slug": "vancouver/e-2nd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-15T15:51:00Z",
-    "count": 6
+    "lastIncident": "2026-06-15T16:14:00Z",
+    "count": 7
   },
   "abbotsford/3033-immel-stste-600": {
     "name": "3033 Immel St,ste 600",
@@ -12310,6 +12310,13 @@
     "slug": "maple-ridge/isaac-cres",
     "city": "Maple Ridge",
     "lastIncident": "2026-06-15T15:34:00Z",
+    "count": 1
+  },
+  "north-vancouver/malsum-dr": {
+    "name": "Malsum Dr",
+    "slug": "north-vancouver/malsum-dr",
+    "city": "North Vancouver",
+    "lastIncident": "2026-06-15T16:14:00Z",
     "count": 1
   }
 }
