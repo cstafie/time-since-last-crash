@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-06-15T21:47:00Z_delta/nicholson-rd_delta/wade-rd",
+    "timestamp": "2026-06-15T21:47:00Z",
+    "scrapedAt": "2026-06-15T21:55:04Z",
+    "address": "NICHOLSON RD & WADE RD",
+    "city": "Delta",
+    "streets": [
+      "delta/nicholson-rd",
+      "delta/wade-rd"
+    ],
+    "streetNames": [
+      "Nicholson Rd",
+      "Wade Rd"
+    ],
+    "pulsePointId": "2497590890"
+  },
+  {
+    "id": "2026-06-15T21:42:00Z_vancouver/oak-st_vancouver/w-broadway",
+    "timestamp": "2026-06-15T21:42:00Z",
+    "scrapedAt": "2026-06-15T21:55:04Z",
+    "address": "OAK ST & W BROADWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/oak-st",
+      "vancouver/w-broadway"
+    ],
+    "streetNames": [
+      "Oak St",
+      "W Broadway"
+    ],
+    "pulsePointId": "2497588214"
+  },
+  {
+    "id": "2026-06-15T21:01:00Z_abbotsford/campbell-rd_abbotsford/mcdermott-rd",
+    "timestamp": "2026-06-15T21:01:00Z",
+    "scrapedAt": "2026-06-15T21:55:04Z",
+    "address": "CAMPBELL RD & MCDERMOTT RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/campbell-rd",
+      "abbotsford/mcdermott-rd"
+    ],
+    "streetNames": [
+      "Campbell Rd",
+      "Mcdermott Rd"
+    ],
+    "pulsePointId": "2497560716"
+  },
+  {
     "id": "2026-06-15T20:12:00Z_north-vancouver/plymouth-dr",
     "timestamp": "2026-06-15T20:12:00Z",
     "scrapedAt": "2026-06-15T20:58:34Z",

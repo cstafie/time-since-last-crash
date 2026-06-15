@@ -766,8 +766,8 @@
     "name": "Oak St",
     "slug": "vancouver/oak-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-07T20:36:00Z",
-    "count": 36
+    "lastIncident": "2026-06-15T21:42:00Z",
+    "count": 37
   },
   "vancouver/w-12th-ave": {
     "name": "W 12th Ave",
@@ -808,8 +808,8 @@
     "name": "W Broadway",
     "slug": "vancouver/w-broadway",
     "city": "Vancouver",
-    "lastIncident": "2026-06-08T02:22:00Z",
-    "count": 14
+    "lastIncident": "2026-06-15T21:42:00Z",
+    "count": 15
   },
   "west-vancouver/eagleridge-drive-ofrp": {
     "name": "Eagleridge Drive Ofrp",
@@ -7815,8 +7815,8 @@
     "name": "Nicholson Rd",
     "slug": "delta/nicholson-rd",
     "city": "Delta",
-    "lastIncident": "2026-04-26T19:55:00Z",
-    "count": 1
+    "lastIncident": "2026-06-15T21:47:00Z",
+    "count": 2
   },
   "vancouver/cook-st": {
     "name": "Cook St",
@@ -7899,8 +7899,8 @@
     "name": "Campbell Rd",
     "slug": "abbotsford/campbell-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-27T23:25:00Z",
-    "count": 1
+    "lastIncident": "2026-06-15T21:01:00Z",
+    "count": 2
   },
   "abbotsford/marion-rd": {
     "name": "Marion Rd",
@@ -12331,6 +12331,20 @@
     "slug": "north-vancouver/plymouth-dr",
     "city": "North Vancouver",
     "lastIncident": "2026-06-15T20:12:00Z",
+    "count": 1
+  },
+  "delta/wade-rd": {
+    "name": "Wade Rd",
+    "slug": "delta/wade-rd",
+    "city": "Delta",
+    "lastIncident": "2026-06-15T21:47:00Z",
+    "count": 1
+  },
+  "abbotsford/mcdermott-rd": {
+    "name": "Mcdermott Rd",
+    "slug": "abbotsford/mcdermott-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-06-15T21:01:00Z",
     "count": 1
   }
 }

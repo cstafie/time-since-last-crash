@@ -1,6 +1,6 @@
 {
-  "slug": "abbotsford/campbell-rd",
-  "name": "Campbell Rd",
+  "slug": "abbotsford/mcdermott-rd",
+  "name": "Mcdermott Rd",
   "city": "Abbotsford",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Mcdermott Rd"
       ],
       "pulsePointId": "2497560716"
-    },
-    {
-      "id": "2026-04-27T23:25:00Z_abbotsford/campbell-rd_abbotsford/marion-rd",
-      "timestamp": "2026-04-27T23:25:00Z",
-      "address": "CAMPBELL RD & MARION RD",
-      "city": "Abbotsford",
-      "streets": [
-        "abbotsford/campbell-rd",
-        "abbotsford/marion-rd"
-      ],
-      "streetNames": [
-        "Campbell Rd",
-        "Marion Rd"
-      ],
-      "pulsePointId": "2462823751"
     }
   ],
   "lastIncident": "2026-06-15T21:01:00Z",
-  "count": 2
+  "count": 1
 }

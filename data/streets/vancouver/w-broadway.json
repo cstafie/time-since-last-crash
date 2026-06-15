@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-15T21:42:00Z_vancouver/oak-st_vancouver/w-broadway",
+      "timestamp": "2026-06-15T21:42:00Z",
+      "address": "OAK ST & W BROADWAY",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/oak-st",
+        "vancouver/w-broadway"
+      ],
+      "streetNames": [
+        "Oak St",
+        "W Broadway"
+      ],
+      "pulsePointId": "2497588214"
+    },
+    {
       "id": "2026-06-08T02:22:00Z_vancouver/w-broadway_vancouver/granville-st",
       "timestamp": "2026-06-08T02:22:00Z",
       "address": "W BROADWAY & GRANVILLE ST",
@@ -208,6 +223,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-08T02:22:00Z",
-  "count": 14
+  "lastIncident": "2026-06-15T21:42:00Z",
+  "count": 15
 }

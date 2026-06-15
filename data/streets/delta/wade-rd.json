@@ -1,6 +1,6 @@
 {
-  "slug": "delta/nicholson-rd",
-  "name": "Nicholson Rd",
+  "slug": "delta/wade-rd",
+  "name": "Wade Rd",
   "city": "Delta",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Wade Rd"
       ],
       "pulsePointId": "2497590890"
-    },
-    {
-      "id": "2026-04-26T19:55:00Z_delta/70th-ave_delta/nicholson-rd",
-      "timestamp": "2026-04-26T19:55:00Z",
-      "address": "70TH AVE & NICHOLSON RD",
-      "city": "Delta",
-      "streets": [
-        "delta/70th-ave",
-        "delta/nicholson-rd"
-      ],
-      "streetNames": [
-        "70th Ave",
-        "Nicholson Rd"
-      ],
-      "pulsePointId": "2462040119"
     }
   ],
   "lastIncident": "2026-06-15T21:47:00Z",
-  "count": 2
+  "count": 1
 }
