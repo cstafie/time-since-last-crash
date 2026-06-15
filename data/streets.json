@@ -1263,8 +1263,8 @@
     "name": "Boundary Rd",
     "slug": "vancouver/boundary-rd",
     "city": "Vancouver",
-    "lastIncident": "2026-06-09T16:06:00Z",
-    "count": 19
+    "lastIncident": "2026-06-15T06:57:00Z",
+    "count": 21
   },
   "surrey/langley-bps": {
     "name": "Langley Bps",
@@ -3902,8 +3902,8 @@
     "name": "12th St",
     "slug": "new-westminster/12th-st",
     "city": "New Westminster",
-    "lastIncident": "2026-06-15T03:02:00Z",
-    "count": 5
+    "lastIncident": "2026-06-15T06:48:00Z",
+    "count": 6
   },
   "vancouver/w-17th-ave": {
     "name": "W 17th Ave",
@@ -4350,8 +4350,8 @@
     "name": "10th Ave",
     "slug": "new-westminster/10th-ave",
     "city": "New Westminster",
-    "lastIncident": "2026-04-28T16:14:00Z",
-    "count": 2
+    "lastIncident": "2026-06-15T06:48:00Z",
+    "count": 3
   },
   "burnaby/4469-kingsway": {
     "name": "4469 Kingsway",
@@ -7934,8 +7934,8 @@
     "name": "Grandview Hwy",
     "slug": "vancouver/grandview-hwy",
     "city": "Vancouver",
-    "lastIncident": "2026-06-03T05:20:00Z",
-    "count": 2
+    "lastIncident": "2026-06-15T06:54:00Z",
+    "count": 3
   },
   "surrey/9595-king-george-blvd": {
     "name": "9595 King George Blvd",

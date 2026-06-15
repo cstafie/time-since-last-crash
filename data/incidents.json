@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-06-15T06:57:00Z_vancouver/boundary-rd",
+    "timestamp": "2026-06-15T06:57:00Z",
+    "scrapedAt": "2026-06-15T07:14:37Z",
+    "address": "BOUNDARY RD",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/boundary-rd"
+    ],
+    "streetNames": [
+      "Boundary Rd"
+    ],
+    "pulsePointId": "2497143260"
+  },
+  {
+    "id": "2026-06-15T06:54:00Z_vancouver/grandview-hwy_vancouver/boundary-rd",
+    "timestamp": "2026-06-15T06:54:00Z",
+    "scrapedAt": "2026-06-15T07:14:37Z",
+    "address": "GRANDVIEW HWY & BOUNDARY RD",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/grandview-hwy",
+      "vancouver/boundary-rd"
+    ],
+    "streetNames": [
+      "Grandview Hwy",
+      "Boundary Rd"
+    ],
+    "pulsePointId": "2497141712"
+  },
+  {
+    "id": "2026-06-15T06:48:00Z_new-westminster/10th-ave_new-westminster/12th-st",
+    "timestamp": "2026-06-15T06:48:00Z",
+    "scrapedAt": "2026-06-15T07:14:37Z",
+    "address": "10TH AVE & 12TH ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/10th-ave",
+      "new-westminster/12th-st"
+    ],
+    "streetNames": [
+      "10th Ave",
+      "12th St"
+    ],
+    "pulsePointId": "2497139285"
+  },
+  {
     "id": "2026-06-15T03:38:00Z_chilliwack/tyson-rd_chilliwack/watson-rd",
     "timestamp": "2026-06-15T03:38:00Z",
     "scrapedAt": "2026-06-15T05:12:33Z",

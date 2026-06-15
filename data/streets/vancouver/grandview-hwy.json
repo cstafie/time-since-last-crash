@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-15T06:54:00Z_vancouver/grandview-hwy_vancouver/boundary-rd",
+      "timestamp": "2026-06-15T06:54:00Z",
+      "address": "GRANDVIEW HWY & BOUNDARY RD",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/grandview-hwy",
+        "vancouver/boundary-rd"
+      ],
+      "streetNames": [
+        "Grandview Hwy",
+        "Boundary Rd"
+      ],
+      "pulsePointId": "2497141712"
+    },
+    {
       "id": "2026-06-03T05:20:00Z_vancouver/grandview-hwy_vancouver/rupert-st",
       "timestamp": "2026-06-03T05:20:00Z",
       "address": "GRANDVIEW HWY & RUPERT ST",
@@ -32,6 +47,6 @@
       "pulsePointId": "2463096921"
     }
   ],
-  "lastIncident": "2026-06-03T05:20:00Z",
-  "count": 2
+  "lastIncident": "2026-06-15T06:54:00Z",
+  "count": 3
 }

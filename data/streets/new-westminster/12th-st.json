@@ -4,6 +4,21 @@
   "city": "New Westminster",
   "incidents": [
     {
+      "id": "2026-06-15T06:48:00Z_new-westminster/10th-ave_new-westminster/12th-st",
+      "timestamp": "2026-06-15T06:48:00Z",
+      "address": "10TH AVE & 12TH ST",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/10th-ave",
+        "new-westminster/12th-st"
+      ],
+      "streetNames": [
+        "10th Ave",
+        "12th St"
+      ],
+      "pulsePointId": "2497139285"
+    },
+    {
       "id": "2026-06-15T03:02:00Z_new-westminster/12th-st_new-westminster/5th-ave",
       "timestamp": "2026-06-15T03:02:00Z",
       "address": "12TH ST & 5TH AVE",
@@ -77,6 +92,6 @@
       "pulsePointId": "2440863478"
     }
   ],
-  "lastIncident": "2026-06-15T03:02:00Z",
-  "count": 5
+  "lastIncident": "2026-06-15T06:48:00Z",
+  "count": 6
 }
