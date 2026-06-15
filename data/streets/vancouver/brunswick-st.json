@@ -1,6 +1,6 @@
 {
-  "slug": "vancouver/great-northern-way",
-  "name": "Great Northern Way",
+  "slug": "vancouver/brunswick-st",
+  "name": "Brunswick St",
   "city": "Vancouver",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Brunswick St"
       ],
       "pulsePointId": "2496960750"
-    },
-    {
-      "id": "2026-05-26T15:21:00Z_vancouver/carolina-st_vancouver/great-northern-way",
-      "timestamp": "2026-05-26T15:21:00Z",
-      "address": "CAROLINA ST & GREAT NORTHERN WAY",
-      "city": "Vancouver",
-      "streets": [
-        "vancouver/carolina-st",
-        "vancouver/great-northern-way"
-      ],
-      "streetNames": [
-        "Carolina St",
-        "Great Northern Way"
-      ],
-      "pulsePointId": "2482710189"
     }
   ],
   "lastIncident": "2026-06-15T01:06:00Z",
-  "count": 2
+  "count": 1
 }

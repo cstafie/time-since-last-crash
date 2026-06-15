@@ -1,5 +1,115 @@
 [
   {
+    "id": "2026-06-15T01:23:00Z_vancouver/thurlow-st_vancouver/melville-st",
+    "timestamp": "2026-06-15T01:23:00Z",
+    "scrapedAt": "2026-06-15T01:35:10Z",
+    "address": "THURLOW ST & MELVILLE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/thurlow-st",
+      "vancouver/melville-st"
+    ],
+    "streetNames": [
+      "Thurlow St",
+      "Melville St"
+    ],
+    "pulsePointId": "2496973836"
+  },
+  {
+    "id": "2026-06-15T01:19:00Z_vancouver/w-70th-ave_vancouver/montcalm-st",
+    "timestamp": "2026-06-15T01:19:00Z",
+    "scrapedAt": "2026-06-15T01:35:10Z",
+    "address": "W 70TH AVE & MONTCALM ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-70th-ave",
+      "vancouver/montcalm-st"
+    ],
+    "streetNames": [
+      "W 70th Ave",
+      "Montcalm St"
+    ],
+    "pulsePointId": "2496974731"
+  },
+  {
+    "id": "2026-06-15T01:06:00Z_vancouver/great-northern-way_vancouver/brunswick-st",
+    "timestamp": "2026-06-15T01:06:00Z",
+    "scrapedAt": "2026-06-15T01:35:10Z",
+    "address": "GREAT NORTHERN WAY & BRUNSWICK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/great-northern-way",
+      "vancouver/brunswick-st"
+    ],
+    "streetNames": [
+      "Great Northern Way",
+      "Brunswick St"
+    ],
+    "pulsePointId": "2496960750"
+  },
+  {
+    "id": "2026-06-15T01:05:00Z_chilliwack/trans-canada-hwy",
+    "timestamp": "2026-06-15T01:05:00Z",
+    "scrapedAt": "2026-06-15T01:35:10Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2496960087"
+  },
+  {
+    "id": "2026-06-15T01:05:00Z_vancouver/main-st_vancouver/e-king-edward-ave",
+    "timestamp": "2026-06-15T01:05:00Z",
+    "scrapedAt": "2026-06-15T01:35:10Z",
+    "address": "MAIN ST & E KING EDWARD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st",
+      "vancouver/e-king-edward-ave"
+    ],
+    "streetNames": [
+      "Main St",
+      "E King Edward Ave"
+    ],
+    "pulsePointId": "2496959953"
+  },
+  {
+    "id": "2026-06-15T00:59:00Z_vancouver/e-49th-ave_vancouver/tyne-st",
+    "timestamp": "2026-06-15T00:59:00Z",
+    "scrapedAt": "2026-06-15T01:35:10Z",
+    "address": "E 49TH AVE & TYNE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-49th-ave",
+      "vancouver/tyne-st"
+    ],
+    "streetNames": [
+      "E 49th Ave",
+      "Tyne St"
+    ],
+    "pulsePointId": "2496955456"
+  },
+  {
+    "id": "2026-06-15T00:46:00Z_vancouver/blenheim-st_vancouver/w-king-edward-ave",
+    "timestamp": "2026-06-15T00:46:00Z",
+    "scrapedAt": "2026-06-15T01:35:10Z",
+    "address": "BLENHEIM ST & W KING EDWARD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/blenheim-st",
+      "vancouver/w-king-edward-ave"
+    ],
+    "streetNames": [
+      "Blenheim St",
+      "W King Edward Ave"
+    ],
+    "pulsePointId": "2496946656"
+  },
+  {
     "id": "2026-06-15T00:08:00Z_langley/8th-ave_langley/204th-st",
     "timestamp": "2026-06-15T00:08:00Z",
     "scrapedAt": "2026-06-15T00:24:53Z",

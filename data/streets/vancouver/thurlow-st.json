@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-15T01:23:00Z_vancouver/thurlow-st_vancouver/melville-st",
+      "timestamp": "2026-06-15T01:23:00Z",
+      "address": "THURLOW ST & MELVILLE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/thurlow-st",
+        "vancouver/melville-st"
+      ],
+      "streetNames": [
+        "Thurlow St",
+        "Melville St"
+      ],
+      "pulsePointId": "2496973836"
+    },
+    {
       "id": "2026-06-03T16:13:00Z_vancouver/see-em-ia-lane_vancouver/thurlow-st",
       "timestamp": "2026-06-03T16:13:00Z",
       "address": "SEE EM IA LANE & THURLOW ST",
@@ -64,6 +79,6 @@
       "pulsePointId": "2445720348"
     }
   ],
-  "lastIncident": "2026-06-03T16:13:00Z",
-  "count": 4
+  "lastIncident": "2026-06-15T01:23:00Z",
+  "count": 5
 }

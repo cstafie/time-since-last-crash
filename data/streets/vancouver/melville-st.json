@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/melville-st",
+  "name": "Melville St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-15T01:23:00Z_vancouver/thurlow-st_vancouver/melville-st",
+      "timestamp": "2026-06-15T01:23:00Z",
+      "address": "THURLOW ST & MELVILLE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/thurlow-st",
+        "vancouver/melville-st"
+      ],
+      "streetNames": [
+        "Thurlow St",
+        "Melville St"
+      ],
+      "pulsePointId": "2496973836"
+    }
+  ],
+  "lastIncident": "2026-06-15T01:23:00Z",
+  "count": 1
+}

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-15T01:05:00Z_vancouver/main-st_vancouver/e-king-edward-ave",
+      "timestamp": "2026-06-15T01:05:00Z",
+      "address": "MAIN ST & E KING EDWARD AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/main-st",
+        "vancouver/e-king-edward-ave"
+      ],
+      "streetNames": [
+        "Main St",
+        "E King Edward Ave"
+      ],
+      "pulsePointId": "2496959953"
+    },
+    {
       "id": "2026-06-14T19:27:00Z_vancouver/e-49th-ave_vancouver/main-st",
       "timestamp": "2026-06-14T19:27:00Z",
       "address": "E 49TH AVE & MAIN ST",
@@ -663,6 +678,6 @@
       "pulsePointId": "2432937969"
     }
   ],
-  "lastIncident": "2026-06-14T19:27:00Z",
-  "count": 45
+  "lastIncident": "2026-06-15T01:05:00Z",
+  "count": 46
 }

@@ -129,8 +129,8 @@
     "name": "Trans Canada Hwy",
     "slug": "chilliwack/trans-canada-hwy",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-09T12:31:00Z",
-    "count": 16
+    "lastIncident": "2026-06-15T01:05:00Z",
+    "count": 17
   },
   "chilliwack/upper-prairie-rd": {
     "name": "Upper Prairie Rd",
@@ -801,8 +801,8 @@
     "name": "W 70th Ave",
     "slug": "vancouver/w-70th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-05T00:52:00Z",
-    "count": 6
+    "lastIncident": "2026-06-15T01:19:00Z",
+    "count": 7
   },
   "vancouver/w-broadway": {
     "name": "W Broadway",
@@ -1550,8 +1550,8 @@
     "name": "Tyne St",
     "slug": "vancouver/tyne-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-11T16:49:00Z",
-    "count": 4
+    "lastIncident": "2026-06-15T00:59:00Z",
+    "count": 5
   },
   "delta/95th-ave": {
     "name": "95th Ave",
@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-14T19:27:00Z",
-    "count": 45
+    "lastIncident": "2026-06-15T01:05:00Z",
+    "count": 46
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",
@@ -2523,8 +2523,8 @@
     "name": "W King Edward Ave",
     "slug": "vancouver/w-king-edward-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-31T00:10:00Z",
-    "count": 4
+    "lastIncident": "2026-06-15T00:46:00Z",
+    "count": 5
   },
   "vancouver/puget-dr": {
     "name": "Puget Dr",
@@ -3069,8 +3069,8 @@
     "name": "E 49th Ave",
     "slug": "vancouver/e-49th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-14T19:27:00Z",
-    "count": 16
+    "lastIncident": "2026-06-15T00:59:00Z",
+    "count": 17
   },
   "vancouver/victoria-dr": {
     "name": "Victoria Dr",
@@ -4798,8 +4798,8 @@
     "name": "Thurlow St",
     "slug": "vancouver/thurlow-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-03T16:13:00Z",
-    "count": 4
+    "lastIncident": "2026-06-15T01:23:00Z",
+    "count": 5
   },
   "vancouver/maxine-lane": {
     "name": "Maxine Lane",
@@ -7241,8 +7241,8 @@
     "name": "Blenheim St",
     "slug": "vancouver/blenheim-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-01T03:25:00Z",
-    "count": 3
+    "lastIncident": "2026-06-15T00:46:00Z",
+    "count": 4
   },
   "pitt-meadows/golden-ears-way": {
     "name": "Golden Ears Way",
@@ -7437,8 +7437,8 @@
     "name": "E King Edward Ave",
     "slug": "vancouver/e-king-edward-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-22T22:40:00Z",
-    "count": 1
+    "lastIncident": "2026-06-15T01:05:00Z",
+    "count": 2
   },
   "vancouver/elgin-st": {
     "name": "Elgin St",
@@ -10552,8 +10552,8 @@
     "name": "Great Northern Way",
     "slug": "vancouver/great-northern-way",
     "city": "Vancouver",
-    "lastIncident": "2026-05-26T15:21:00Z",
-    "count": 1
+    "lastIncident": "2026-06-15T01:06:00Z",
+    "count": 2
   },
   "mission/aherne-pl": {
     "name": "Aherne Pl",
@@ -12254,6 +12254,27 @@
     "slug": "langley/8th-ave",
     "city": "Langley",
     "lastIncident": "2026-06-15T00:08:00Z",
+    "count": 1
+  },
+  "vancouver/melville-st": {
+    "name": "Melville St",
+    "slug": "vancouver/melville-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-15T01:23:00Z",
+    "count": 1
+  },
+  "vancouver/montcalm-st": {
+    "name": "Montcalm St",
+    "slug": "vancouver/montcalm-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-15T01:19:00Z",
+    "count": 1
+  },
+  "vancouver/brunswick-st": {
+    "name": "Brunswick St",
+    "slug": "vancouver/brunswick-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-15T01:06:00Z",
     "count": 1
   }
 }
