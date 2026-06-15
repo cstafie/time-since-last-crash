@@ -1,0 +1,24 @@
+{
+  "slug": "langley/8th-ave",
+  "name": "8th Ave",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-06-15T00:08:00Z_langley/8th-ave_langley/204th-st",
+      "timestamp": "2026-06-15T00:08:00Z",
+      "address": "8TH AVE & 204TH ST",
+      "city": "Langley",
+      "streets": [
+        "langley/8th-ave",
+        "langley/204th-st"
+      ],
+      "streetNames": [
+        "8th Ave",
+        "204th St"
+      ],
+      "pulsePointId": "2496921850"
+    }
+  ],
+  "lastIncident": "2026-06-15T00:08:00Z",
+  "count": 1
+}

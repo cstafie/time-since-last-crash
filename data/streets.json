@@ -2754,8 +2754,8 @@
     "name": "204th St",
     "slug": "langley/204th-st",
     "city": "Langley",
-    "lastIncident": "2026-06-10T22:02:00Z",
-    "count": 7
+    "lastIncident": "2026-06-15T00:08:00Z",
+    "count": 8
   },
   "burnaby/lake-city-way": {
     "name": "Lake City Way",
@@ -12247,6 +12247,13 @@
     "slug": "vancouver/chester-st",
     "city": "Vancouver",
     "lastIncident": "2026-06-14T23:45:00Z",
+    "count": 1
+  },
+  "langley/8th-ave": {
+    "name": "8th Ave",
+    "slug": "langley/8th-ave",
+    "city": "Langley",
+    "lastIncident": "2026-06-15T00:08:00Z",
     "count": 1
   }
 }
