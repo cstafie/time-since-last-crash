@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-15T13:43:00Z_port-coquitlam/mclean-ave_port-coquitlam/kingsway-ave",
+    "timestamp": "2026-06-15T13:43:00Z",
+    "scrapedAt": "2026-06-15T14:22:54Z",
+    "address": "MCLEAN AVE & KINGSWAY AVE",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/mclean-ave",
+      "port-coquitlam/kingsway-ave"
+    ],
+    "streetNames": [
+      "Mclean Ave",
+      "Kingsway Ave"
+    ],
+    "pulsePointId": "2497265394"
+  },
+  {
     "id": "2026-06-15T07:40:00Z_langley/trans-canada-hwy",
     "timestamp": "2026-06-15T07:40:00Z",
     "scrapedAt": "2026-06-15T09:35:29Z",
