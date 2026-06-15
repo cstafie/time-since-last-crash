@@ -1,0 +1,22 @@
+{
+  "slug": "mission/nelson-st",
+  "name": "Nelson St",
+  "city": "Mission",
+  "incidents": [
+    {
+      "id": "2026-06-15T20:01:00Z_mission/nelson-st",
+      "timestamp": "2026-06-15T20:01:00Z",
+      "address": "NELSON ST",
+      "city": "Mission",
+      "streets": [
+        "mission/nelson-st"
+      ],
+      "streetNames": [
+        "Nelson St"
+      ],
+      "pulsePointId": "2497519648"
+    }
+  ],
+  "lastIncident": "2026-06-15T20:01:00Z",
+  "count": 1
+}

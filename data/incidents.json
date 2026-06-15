@@ -1,5 +1,93 @@
 [
   {
+    "id": "2026-06-15T20:12:00Z_north-vancouver/plymouth-dr",
+    "timestamp": "2026-06-15T20:12:00Z",
+    "scrapedAt": "2026-06-15T20:58:34Z",
+    "address": "PLYMOUTH DR",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/plymouth-dr"
+    ],
+    "streetNames": [
+      "Plymouth Dr"
+    ],
+    "pulsePointId": "2497527648"
+  },
+  {
+    "id": "2026-06-15T20:01:00Z_mission/nelson-st",
+    "timestamp": "2026-06-15T20:01:00Z",
+    "scrapedAt": "2026-06-15T20:58:34Z",
+    "address": "NELSON ST",
+    "city": "Mission",
+    "streets": [
+      "mission/nelson-st"
+    ],
+    "streetNames": [
+      "Nelson St"
+    ],
+    "pulsePointId": "2497519648"
+  },
+  {
+    "id": "2026-06-15T18:57:00Z_burnaby/north-fraser-way",
+    "timestamp": "2026-06-15T18:57:00Z",
+    "scrapedAt": "2026-06-15T20:58:34Z",
+    "address": "NORTH FRASER WAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/north-fraser-way"
+    ],
+    "streetNames": [
+      "North Fraser Way"
+    ],
+    "pulsePointId": "2497469696"
+  },
+  {
+    "id": "2026-06-15T18:47:00Z_surrey/156th-st_surrey/100th-ave",
+    "timestamp": "2026-06-15T18:47:00Z",
+    "scrapedAt": "2026-06-15T20:58:34Z",
+    "address": "156TH ST & 100TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/156th-st",
+      "surrey/100th-ave"
+    ],
+    "streetNames": [
+      "156th St",
+      "100th Ave"
+    ],
+    "pulsePointId": "2497462125"
+  },
+  {
+    "id": "2026-06-15T18:46:00Z_richmond/alderbridge-way_richmond/shell-rd",
+    "timestamp": "2026-06-15T18:46:00Z",
+    "scrapedAt": "2026-06-15T20:58:34Z",
+    "address": "ALDERBRIDGE WAY & SHELL RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/alderbridge-way",
+      "richmond/shell-rd"
+    ],
+    "streetNames": [
+      "Alderbridge Way",
+      "Shell Rd"
+    ],
+    "pulsePointId": "2497462869"
+  },
+  {
+    "id": "2026-06-15T18:28:00Z_langley/langley-bps",
+    "timestamp": "2026-06-15T18:28:00Z",
+    "scrapedAt": "2026-06-15T20:58:34Z",
+    "address": "LANGLEY BPS",
+    "city": "Langley",
+    "streets": [
+      "langley/langley-bps"
+    ],
+    "streetNames": [
+      "Langley Bps"
+    ],
+    "pulsePointId": "2497450168"
+  },
+  {
     "id": "2026-06-15T18:01:00Z_vancouver/main-st_vancouver/powell-st",
     "timestamp": "2026-06-15T18:01:00Z",
     "scrapedAt": "2026-06-15T18:03:47Z",

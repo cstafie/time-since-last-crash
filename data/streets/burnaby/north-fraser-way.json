@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-15T18:57:00Z_burnaby/north-fraser-way",
+      "timestamp": "2026-06-15T18:57:00Z",
+      "address": "NORTH FRASER WAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/north-fraser-way"
+      ],
+      "streetNames": [
+        "North Fraser Way"
+      ],
+      "pulsePointId": "2497469696"
+    },
+    {
       "id": "2026-05-25T17:29:00Z_burnaby/north-fraser-way",
       "timestamp": "2026-05-25T17:29:00Z",
       "address": "NORTH FRASER WAY",
@@ -62,6 +75,6 @@
       "pulsePointId": "2436439706"
     }
   ],
-  "lastIncident": "2026-05-25T17:29:00Z",
-  "count": 4
+  "lastIncident": "2026-06-15T18:57:00Z",
+  "count": 5
 }
