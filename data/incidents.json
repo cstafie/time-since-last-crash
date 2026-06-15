@@ -1,5 +1,97 @@
 [
   {
+    "id": "2026-06-15T02:55:00Z_surrey/trans-canada-hwy_surrey/192nd-street-onrp",
+    "timestamp": "2026-06-15T02:55:00Z",
+    "scrapedAt": "2026-06-15T03:00:55Z",
+    "address": "TRANS CANADA HWY & 192ND STREET ONRP",
+    "city": "Surrey",
+    "streets": [
+      "surrey/trans-canada-hwy",
+      "surrey/192nd-street-onrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "192nd Street Onrp"
+    ],
+    "pulsePointId": "2497028907"
+  },
+  {
+    "id": "2026-06-15T02:52:00Z_langley/trans-canada-hwy",
+    "timestamp": "2026-06-15T02:52:00Z",
+    "scrapedAt": "2026-06-15T03:00:55Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2497027669"
+  },
+  {
+    "id": "2026-06-15T02:39:00Z_chilliwack/vedder-mountain-rd_chilliwack/simmons-rd",
+    "timestamp": "2026-06-15T02:39:00Z",
+    "scrapedAt": "2026-06-15T03:00:55Z",
+    "address": "VEDDER MOUNTAIN RD & SIMMONS RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/vedder-mountain-rd",
+      "chilliwack/simmons-rd"
+    ],
+    "streetNames": [
+      "Vedder Mountain Rd",
+      "Simmons Rd"
+    ],
+    "pulsePointId": "2497019370"
+  },
+  {
+    "id": "2026-06-15T02:30:00Z_vancouver/e-26th-ave_vancouver/st-catherines-st",
+    "timestamp": "2026-06-15T02:30:00Z",
+    "scrapedAt": "2026-06-15T03:00:55Z",
+    "address": "E 26TH AVE & ST CATHERINES ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-26th-ave",
+      "vancouver/st-catherines-st"
+    ],
+    "streetNames": [
+      "E 26th Ave",
+      "St Catherines St"
+    ],
+    "pulsePointId": "2497014312"
+  },
+  {
+    "id": "2026-06-15T01:44:00Z_burnaby/marine-dr",
+    "timestamp": "2026-06-15T01:44:00Z",
+    "scrapedAt": "2026-06-15T03:00:55Z",
+    "address": "MARINE DR",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/marine-dr"
+    ],
+    "streetNames": [
+      "Marine Dr"
+    ],
+    "pulsePointId": "2496986771"
+  },
+  {
+    "id": "2026-06-15T01:44:00Z_abbotsford/south-parallel-rd_abbotsford/cole-rd",
+    "timestamp": "2026-06-15T01:44:00Z",
+    "scrapedAt": "2026-06-15T03:00:55Z",
+    "address": "SOUTH PARALLEL RD & COLE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/south-parallel-rd",
+      "abbotsford/cole-rd"
+    ],
+    "streetNames": [
+      "South Parallel Rd",
+      "Cole Rd"
+    ],
+    "pulsePointId": "2496987026"
+  },
+  {
     "id": "2026-06-15T01:23:00Z_vancouver/thurlow-st_vancouver/melville-st",
     "timestamp": "2026-06-15T01:23:00Z",
     "scrapedAt": "2026-06-15T01:35:10Z",

@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-15T01:44:00Z_burnaby/marine-dr",
+      "timestamp": "2026-06-15T01:44:00Z",
+      "address": "MARINE DR",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/marine-dr"
+      ],
+      "streetNames": [
+        "Marine Dr"
+      ],
+      "pulsePointId": "2496986771"
+    },
+    {
       "id": "2026-05-23T16:45:00Z_burnaby/marine-dr",
       "timestamp": "2026-05-23T16:45:00Z",
       "address": "MARINE DR",
@@ -90,6 +103,6 @@
       "pulsePointId": "2448106817"
     }
   ],
-  "lastIncident": "2026-05-23T16:45:00Z",
-  "count": 6
+  "lastIncident": "2026-06-15T01:44:00Z",
+  "count": 7
 }

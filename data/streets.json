@@ -269,8 +269,8 @@
     "name": "Trans Canada Hwy",
     "slug": "langley/trans-canada-hwy",
     "city": "Langley",
-    "lastIncident": "2026-06-11T18:37:00Z",
-    "count": 27
+    "lastIncident": "2026-06-15T02:52:00Z",
+    "count": 28
   },
   "maple-ridge/119th-ave": {
     "name": "119th Ave",
@@ -682,8 +682,8 @@
     "name": "Trans Canada Hwy",
     "slug": "surrey/trans-canada-hwy",
     "city": "Surrey",
-    "lastIncident": "2026-06-01T22:24:00Z",
-    "count": 23
+    "lastIncident": "2026-06-15T02:55:00Z",
+    "count": 24
   },
   "vancouver/balaclava-st": {
     "name": "Balaclava St",
@@ -2831,8 +2831,8 @@
     "name": "South Parallel Rd",
     "slug": "abbotsford/south-parallel-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-13T21:04:00Z",
-    "count": 3
+    "lastIncident": "2026-06-15T01:44:00Z",
+    "count": 4
   },
   "mission/7th-ave": {
     "name": "7th Ave",
@@ -5463,8 +5463,8 @@
     "name": "Marine Dr",
     "slug": "burnaby/marine-dr",
     "city": "Burnaby",
-    "lastIncident": "2026-05-23T16:45:00Z",
-    "count": 6
+    "lastIncident": "2026-06-15T01:44:00Z",
+    "count": 7
   },
   "burnaby/patterson-ave": {
     "name": "Patterson Ave",
@@ -6380,8 +6380,8 @@
     "name": "St Catherines St",
     "slug": "vancouver/st-catherines-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-12T00:00:00Z",
-    "count": 1
+    "lastIncident": "2026-06-15T02:30:00Z",
+    "count": 2
   },
   "vancouver/w-37th-ave": {
     "name": "W 37th Ave",
@@ -8676,15 +8676,15 @@
     "name": "Simmons Rd",
     "slug": "chilliwack/simmons-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-05-04T15:12:00Z",
-    "count": 1
+    "lastIncident": "2026-06-15T02:39:00Z",
+    "count": 2
   },
   "chilliwack/vedder-mountain-rd": {
     "name": "Vedder Mountain Rd",
     "slug": "chilliwack/vedder-mountain-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-07T18:42:00Z",
-    "count": 2
+    "lastIncident": "2026-06-15T02:39:00Z",
+    "count": 3
   },
   "burnaby/esmond-ave": {
     "name": "Esmond Ave",
@@ -12275,6 +12275,27 @@
     "slug": "vancouver/brunswick-st",
     "city": "Vancouver",
     "lastIncident": "2026-06-15T01:06:00Z",
+    "count": 1
+  },
+  "surrey/192nd-street-onrp": {
+    "name": "192nd Street Onrp",
+    "slug": "surrey/192nd-street-onrp",
+    "city": "Surrey",
+    "lastIncident": "2026-06-15T02:55:00Z",
+    "count": 1
+  },
+  "vancouver/e-26th-ave": {
+    "name": "E 26th Ave",
+    "slug": "vancouver/e-26th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-15T02:30:00Z",
+    "count": 1
+  },
+  "abbotsford/cole-rd": {
+    "name": "Cole Rd",
+    "slug": "abbotsford/cole-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-06-15T01:44:00Z",
     "count": 1
   }
 }

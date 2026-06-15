@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/cole-rd",
+  "name": "Cole Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-06-15T01:44:00Z_abbotsford/south-parallel-rd_abbotsford/cole-rd",
+      "timestamp": "2026-06-15T01:44:00Z",
+      "address": "SOUTH PARALLEL RD & COLE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/south-parallel-rd",
+        "abbotsford/cole-rd"
+      ],
+      "streetNames": [
+        "South Parallel Rd",
+        "Cole Rd"
+      ],
+      "pulsePointId": "2496987026"
+    }
+  ],
+  "lastIncident": "2026-06-15T01:44:00Z",
+  "count": 1
+}

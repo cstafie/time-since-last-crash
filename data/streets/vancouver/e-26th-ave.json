@@ -1,6 +1,6 @@
 {
-  "slug": "vancouver/st-catherines-st",
-  "name": "St Catherines St",
+  "slug": "vancouver/e-26th-ave",
+  "name": "E 26th Ave",
   "city": "Vancouver",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "St Catherines St"
       ],
       "pulsePointId": "2497014312"
-    },
-    {
-      "id": "2026-04-12T00:00:00Z_vancouver/e-41st-ave_vancouver/st-catherines-st",
-      "timestamp": "2026-04-12T00:00:00Z",
-      "address": "E 41ST AVE & ST CATHERINES ST",
-      "city": "Vancouver",
-      "streets": [
-        "vancouver/e-41st-ave",
-        "vancouver/st-catherines-st"
-      ],
-      "streetNames": [
-        "E 41st Ave",
-        "St Catherines St"
-      ],
-      "pulsePointId": "2452469030"
     }
   ],
   "lastIncident": "2026-06-15T02:30:00Z",
-  "count": 2
+  "count": 1
 }

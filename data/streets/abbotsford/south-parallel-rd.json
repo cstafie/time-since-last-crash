@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-15T01:44:00Z_abbotsford/south-parallel-rd_abbotsford/cole-rd",
+      "timestamp": "2026-06-15T01:44:00Z",
+      "address": "SOUTH PARALLEL RD & COLE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/south-parallel-rd",
+        "abbotsford/cole-rd"
+      ],
+      "streetNames": [
+        "South Parallel Rd",
+        "Cole Rd"
+      ],
+      "pulsePointId": "2496987026"
+    },
+    {
       "id": "2026-06-13T21:04:00Z_abbotsford/south-parallel-rd_abbotsford/whatcom-rd",
       "timestamp": "2026-06-13T21:04:00Z",
       "address": "SOUTH PARALLEL RD & WHATCOM RD",
@@ -45,6 +60,6 @@
       "pulsePointId": "2436632647"
     }
   ],
-  "lastIncident": "2026-06-13T21:04:00Z",
-  "count": 3
+  "lastIncident": "2026-06-15T01:44:00Z",
+  "count": 4
 }
