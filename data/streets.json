@@ -717,8 +717,8 @@
     "name": "E 41st Ave",
     "slug": "vancouver/e-41st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-12T01:35:00Z",
-    "count": 33
+    "lastIncident": "2026-06-15T15:42:00Z",
+    "count": 34
   },
   "vancouver/granville-st": {
     "name": "Granville St",
@@ -843,8 +843,8 @@
     "name": "16th Ave",
     "slug": "langley/16th-ave",
     "city": "Langley",
-    "lastIncident": "2026-06-13T00:01:00Z",
-    "count": 7
+    "lastIncident": "2026-06-15T15:57:00Z",
+    "count": 8
   },
   "surrey/32nd-ave": {
     "name": "32nd Ave",
@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-15T01:05:00Z",
-    "count": 46
+    "lastIncident": "2026-06-15T15:51:00Z",
+    "count": 48
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",
@@ -3804,8 +3804,8 @@
     "name": "Townshipline Rd",
     "slug": "abbotsford/townshipline-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-14T22:48:00Z",
-    "count": 2
+    "lastIncident": "2026-06-15T14:35:00Z",
+    "count": 3
   },
   "chilliwack/industrial-way": {
     "name": "Industrial Way",
@@ -7059,8 +7059,8 @@
     "name": "Argyle St",
     "slug": "vancouver/argyle-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-10T18:26:00Z",
-    "count": 6
+    "lastIncident": "2026-06-15T15:42:00Z",
+    "count": 7
   },
   "vancouver/parker-st": {
     "name": "Parker St",
@@ -7122,8 +7122,8 @@
     "name": "E 2nd Ave",
     "slug": "vancouver/e-2nd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-09T16:06:00Z",
-    "count": 4
+    "lastIncident": "2026-06-15T15:51:00Z",
+    "count": 6
   },
   "abbotsford/3033-immel-stste-600": {
     "name": "3033 Immel St,ste 600",
@@ -12296,6 +12296,20 @@
     "slug": "abbotsford/cole-rd",
     "city": "Abbotsford",
     "lastIncident": "2026-06-15T01:44:00Z",
+    "count": 1
+  },
+  "abbotsford/32711-south-fraser-way": {
+    "name": "32711 South Fraser Way",
+    "slug": "abbotsford/32711-south-fraser-way",
+    "city": "Abbotsford",
+    "lastIncident": "2026-06-15T16:10:00Z",
+    "count": 1
+  },
+  "maple-ridge/isaac-cres": {
+    "name": "Isaac Cres",
+    "slug": "maple-ridge/isaac-cres",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-06-15T15:34:00Z",
     "count": 1
   }
 }

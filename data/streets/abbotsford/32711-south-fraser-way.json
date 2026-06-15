@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/32711-south-fraser-way",
+  "name": "32711 South Fraser Way",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-06-15T16:10:00Z_abbotsford/32711-south-fraser-way",
+      "timestamp": "2026-06-15T16:10:00Z",
+      "address": "32711 SOUTH FRASER WAY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/32711-south-fraser-way"
+      ],
+      "streetNames": [
+        "32711 South Fraser Way"
+      ],
+      "pulsePointId": "2497345879"
+    }
+  ],
+  "lastIncident": "2026-06-15T16:10:00Z",
+  "count": 1
+}

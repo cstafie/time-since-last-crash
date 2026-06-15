@@ -1,0 +1,22 @@
+{
+  "slug": "maple-ridge/isaac-cres",
+  "name": "Isaac Cres",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-06-15T15:34:00Z_maple-ridge/isaac-cres",
+      "timestamp": "2026-06-15T15:34:00Z",
+      "address": "ISAAC CRES",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/isaac-cres"
+      ],
+      "streetNames": [
+        "Isaac Cres"
+      ],
+      "pulsePointId": "2497322994"
+    }
+  ],
+  "lastIncident": "2026-06-15T15:34:00Z",
+  "count": 1
+}

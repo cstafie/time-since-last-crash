@@ -1,5 +1,109 @@
 [
   {
+    "id": "2026-06-15T16:10:00Z_abbotsford/32711-south-fraser-way",
+    "timestamp": "2026-06-15T16:10:00Z",
+    "scrapedAt": "2026-06-15T16:14:47Z",
+    "address": "32711 SOUTH FRASER WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/32711-south-fraser-way"
+    ],
+    "streetNames": [
+      "32711 South Fraser Way"
+    ],
+    "pulsePointId": "2497345879"
+  },
+  {
+    "id": "2026-06-15T15:57:00Z_langley/16th-ave",
+    "timestamp": "2026-06-15T15:57:00Z",
+    "scrapedAt": "2026-06-15T16:14:47Z",
+    "address": "16TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/16th-ave"
+    ],
+    "streetNames": [
+      "16th Ave"
+    ],
+    "pulsePointId": "2497335703"
+  },
+  {
+    "id": "2026-06-15T15:51:00Z_vancouver/main-st_vancouver/e-2nd-ave",
+    "timestamp": "2026-06-15T15:51:00Z",
+    "scrapedAt": "2026-06-15T16:14:47Z",
+    "address": "MAIN ST & E 2ND AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st",
+      "vancouver/e-2nd-ave"
+    ],
+    "streetNames": [
+      "Main St",
+      "E 2nd Ave"
+    ],
+    "pulsePointId": "2497333819"
+  },
+  {
+    "id": "2026-06-15T15:50:00Z_vancouver/main-st_vancouver/e-2nd-ave",
+    "timestamp": "2026-06-15T15:50:00Z",
+    "scrapedAt": "2026-06-15T16:14:47Z",
+    "address": "MAIN ST & E 2ND AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st",
+      "vancouver/e-2nd-ave"
+    ],
+    "streetNames": [
+      "Main St",
+      "E 2nd Ave"
+    ],
+    "pulsePointId": "2497333314"
+  },
+  {
+    "id": "2026-06-15T15:42:00Z_vancouver/e-41st-ave_vancouver/argyle-st",
+    "timestamp": "2026-06-15T15:42:00Z",
+    "scrapedAt": "2026-06-15T16:14:47Z",
+    "address": "E 41ST AVE & ARGYLE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-41st-ave",
+      "vancouver/argyle-st"
+    ],
+    "streetNames": [
+      "E 41st Ave",
+      "Argyle St"
+    ],
+    "pulsePointId": "2497329047"
+  },
+  {
+    "id": "2026-06-15T15:34:00Z_maple-ridge/isaac-cres",
+    "timestamp": "2026-06-15T15:34:00Z",
+    "scrapedAt": "2026-06-15T16:14:47Z",
+    "address": "ISAAC CRES",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/isaac-cres"
+    ],
+    "streetNames": [
+      "Isaac Cres"
+    ],
+    "pulsePointId": "2497322994"
+  },
+  {
+    "id": "2026-06-15T14:35:00Z_abbotsford/townshipline-rd",
+    "timestamp": "2026-06-15T14:35:00Z",
+    "scrapedAt": "2026-06-15T16:14:47Z",
+    "address": "TOWNSHIPLINE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/townshipline-rd"
+    ],
+    "streetNames": [
+      "Townshipline Rd"
+    ],
+    "pulsePointId": "2497291011"
+  },
+  {
     "id": "2026-06-15T13:43:00Z_port-coquitlam/mclean-ave_port-coquitlam/kingsway-ave",
     "timestamp": "2026-06-15T13:43:00Z",
     "scrapedAt": "2026-06-15T14:22:54Z",
