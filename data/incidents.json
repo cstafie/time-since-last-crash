@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-15T22:05:00Z_surrey/168th-st",
+    "timestamp": "2026-06-15T22:05:00Z",
+    "scrapedAt": "2026-06-15T22:38:03Z",
+    "address": "168TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/168th-st"
+    ],
+    "streetNames": [
+      "168th St"
+    ],
+    "pulsePointId": "2497602801"
+  },
+  {
     "id": "2026-06-15T21:47:00Z_delta/nicholson-rd_delta/wade-rd",
     "timestamp": "2026-06-15T21:47:00Z",
     "scrapedAt": "2026-06-15T21:55:04Z",
