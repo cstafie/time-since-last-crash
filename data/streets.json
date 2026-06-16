@@ -1249,8 +1249,8 @@
     "name": "Trans Canada Hwy",
     "slug": "burnaby/trans-canada-hwy",
     "city": "Burnaby",
-    "lastIncident": "2026-06-13T07:01:00Z",
-    "count": 28
+    "lastIncident": "2026-06-16T22:05:00Z",
+    "count": 29
   },
   "vancouver/e-1st-ave": {
     "name": "E 1st Ave",
@@ -1536,8 +1536,8 @@
     "name": "Young Rd",
     "slug": "chilliwack/young-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-11T23:49:00Z",
-    "count": 6
+    "lastIncident": "2026-06-16T21:42:00Z",
+    "count": 7
   },
   "surrey/port-mann-brdg": {
     "name": "Port Mann Brdg",
@@ -1830,8 +1830,8 @@
     "name": "40th Ave",
     "slug": "surrey/40th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-12T02:14:00Z",
-    "count": 4
+    "lastIncident": "2026-06-16T22:12:00Z",
+    "count": 5
   },
   "chilliwack/vedder-rd": {
     "name": "Vedder Rd",
@@ -5127,8 +5127,8 @@
     "name": "Luckakuck Way",
     "slug": "chilliwack/luckakuck-way",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-11T23:02:00Z",
-    "count": 4
+    "lastIncident": "2026-06-16T21:42:00Z",
+    "count": 5
   },
   "richmond/sea-island-way": {
     "name": "Sea Island Way",

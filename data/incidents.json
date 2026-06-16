@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-06-16T22:12:00Z_surrey/40th-ave",
+    "timestamp": "2026-06-16T22:12:00Z",
+    "scrapedAt": "2026-06-16T22:16:37Z",
+    "address": "40TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/40th-ave"
+    ],
+    "streetNames": [
+      "40th Ave"
+    ],
+    "pulsePointId": "2498316650"
+  },
+  {
+    "id": "2026-06-16T22:05:00Z_burnaby/trans-canada-hwy",
+    "timestamp": "2026-06-16T22:05:00Z",
+    "scrapedAt": "2026-06-16T22:16:37Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2498311047"
+  },
+  {
+    "id": "2026-06-16T21:42:00Z_chilliwack/luckakuck-way_chilliwack/young-rd",
+    "timestamp": "2026-06-16T21:42:00Z",
+    "scrapedAt": "2026-06-16T22:16:37Z",
+    "address": "LUCKAKUCK WAY & YOUNG RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/luckakuck-way",
+      "chilliwack/young-rd"
+    ],
+    "streetNames": [
+      "Luckakuck Way",
+      "Young Rd"
+    ],
+    "pulsePointId": "2498294213"
+  },
+  {
     "id": "2026-06-16T21:24:00Z_abbotsford/beaver-st_abbotsford/emerald-ave",
     "timestamp": "2026-06-16T21:24:00Z",
     "scrapedAt": "2026-06-16T21:28:08Z",

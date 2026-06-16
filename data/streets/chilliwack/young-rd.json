@@ -4,6 +4,21 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-06-16T21:42:00Z_chilliwack/luckakuck-way_chilliwack/young-rd",
+      "timestamp": "2026-06-16T21:42:00Z",
+      "address": "LUCKAKUCK WAY & YOUNG RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/luckakuck-way",
+        "chilliwack/young-rd"
+      ],
+      "streetNames": [
+        "Luckakuck Way",
+        "Young Rd"
+      ],
+      "pulsePointId": "2498294213"
+    },
+    {
       "id": "2026-06-11T23:49:00Z_chilliwack/young-rd_chilliwack/first-ave",
       "timestamp": "2026-06-11T23:49:00Z",
       "address": "YOUNG RD & FIRST AVE",
@@ -92,6 +107,6 @@
       "pulsePointId": "2432750193"
     }
   ],
-  "lastIncident": "2026-06-11T23:49:00Z",
-  "count": 6
+  "lastIncident": "2026-06-16T21:42:00Z",
+  "count": 7
 }
