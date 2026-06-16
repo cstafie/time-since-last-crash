@@ -1,0 +1,24 @@
+{
+  "slug": "maple-ridge/wicklow-way",
+  "name": "Wicklow Way",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-06-16T01:04:00Z_maple-ridge/wicklow-way_maple-ridge/dewdney-trunk-rd",
+      "timestamp": "2026-06-16T01:04:00Z",
+      "address": "WICKLOW WAY & DEWDNEY TRUNK RD",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/wicklow-way",
+        "maple-ridge/dewdney-trunk-rd"
+      ],
+      "streetNames": [
+        "Wicklow Way",
+        "Dewdney Trunk Rd"
+      ],
+      "pulsePointId": "2497727750"
+    }
+  ],
+  "lastIncident": "2026-06-16T01:04:00Z",
+  "count": 1
+}

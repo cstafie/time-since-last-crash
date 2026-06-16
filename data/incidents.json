@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-16T01:04:00Z_maple-ridge/wicklow-way_maple-ridge/dewdney-trunk-rd",
+    "timestamp": "2026-06-16T01:04:00Z",
+    "scrapedAt": "2026-06-16T01:35:06Z",
+    "address": "WICKLOW WAY & DEWDNEY TRUNK RD",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/wicklow-way",
+      "maple-ridge/dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "Wicklow Way",
+      "Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2497727750"
+  },
+  {
     "id": "2026-06-15T23:43:00Z_richmond/gilbert-rd_richmond/mang-rd",
     "timestamp": "2026-06-15T23:43:00Z",
     "scrapedAt": "2026-06-16T00:07:31Z",
