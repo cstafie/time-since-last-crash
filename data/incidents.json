@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-16T19:04:00Z_richmond/francis-rd_richmond/no-1-rd",
+    "timestamp": "2026-06-16T19:04:00Z",
+    "scrapedAt": "2026-06-16T20:01:30Z",
+    "address": "FRANCIS RD & NO 1 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/francis-rd",
+      "richmond/no-1-rd"
+    ],
+    "streetNames": [
+      "Francis Rd",
+      "No 1 Rd"
+    ],
+    "pulsePointId": "2498183961"
+  },
+  {
+    "id": "2026-06-16T18:46:00Z_vancouver/mclean-dr_vancouver/e-hastings-st",
+    "timestamp": "2026-06-16T18:46:00Z",
+    "scrapedAt": "2026-06-16T20:01:30Z",
+    "address": "MCLEAN DR & E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/mclean-dr",
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "Mclean Dr",
+      "E Hastings St"
+    ],
+    "pulsePointId": "2498170404"
+  },
+  {
     "id": "2026-06-16T18:35:00Z_vancouver/macdonald-st_vancouver/w-broadway",
     "timestamp": "2026-06-16T18:35:00Z",
     "scrapedAt": "2026-06-16T18:47:58Z",

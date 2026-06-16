@@ -1081,8 +1081,8 @@
     "name": "No 1 Rd",
     "slug": "richmond/no-1-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-27T11:03:00Z",
-    "count": 4
+    "lastIncident": "2026-06-16T19:04:00Z",
+    "count": 5
   },
   "richmond/steveston-hwy": {
     "name": "Steveston Hwy",
@@ -1704,8 +1704,8 @@
     "name": "Francis Rd",
     "slug": "richmond/francis-rd",
     "city": "Richmond",
-    "lastIncident": "2026-06-16T15:59:00Z",
-    "count": 9
+    "lastIncident": "2026-06-16T19:04:00Z",
+    "count": 10
   },
   "maple-ridge/216th-st": {
     "name": "216th St",
@@ -1774,8 +1774,8 @@
     "name": "E Hastings St",
     "slug": "vancouver/e-hastings-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-14T06:14:00Z",
-    "count": 32
+    "lastIncident": "2026-06-16T18:46:00Z",
+    "count": 33
   },
   "abbotsford/king-rd": {
     "name": "King Rd",
@@ -6709,8 +6709,8 @@
     "name": "Mclean Dr",
     "slug": "vancouver/mclean-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-05-23T19:24:00Z",
-    "count": 3
+    "lastIncident": "2026-06-16T18:46:00Z",
+    "count": 4
   },
   "port-coquitlam/wilson-ave": {
     "name": "Wilson Ave",
