@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-06-16T21:24:00Z_abbotsford/beaver-st_abbotsford/emerald-ave",
+    "timestamp": "2026-06-16T21:24:00Z",
+    "scrapedAt": "2026-06-16T21:28:08Z",
+    "address": "BEAVER ST & EMERALD AVE",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/beaver-st",
+      "abbotsford/emerald-ave"
+    ],
+    "streetNames": [
+      "Beaver St",
+      "Emerald Ave"
+    ],
+    "pulsePointId": "2498280988"
+  },
+  {
+    "id": "2026-06-16T20:39:00Z_langley/56th-ave",
+    "timestamp": "2026-06-16T20:39:00Z",
+    "scrapedAt": "2026-06-16T21:28:08Z",
+    "address": "56TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/56th-ave"
+    ],
+    "streetNames": [
+      "56th Ave"
+    ],
+    "pulsePointId": "2498250950"
+  },
+  {
+    "id": "2026-06-16T20:29:00Z_vancouver/1715-commercial-dr",
+    "timestamp": "2026-06-16T20:29:00Z",
+    "scrapedAt": "2026-06-16T21:28:08Z",
+    "address": "1715 COMMERCIAL DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/1715-commercial-dr"
+    ],
+    "streetNames": [
+      "1715 Commercial Dr"
+    ],
+    "pulsePointId": "2498243075"
+  },
+  {
     "id": "2026-06-16T19:04:00Z_richmond/francis-rd_richmond/no-1-rd",
     "timestamp": "2026-06-16T19:04:00Z",
     "scrapedAt": "2026-06-16T20:01:30Z",

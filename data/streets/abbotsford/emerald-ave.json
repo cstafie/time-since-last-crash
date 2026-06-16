@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/emerald-ave",
+  "name": "Emerald Ave",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-06-16T21:24:00Z_abbotsford/beaver-st_abbotsford/emerald-ave",
+      "timestamp": "2026-06-16T21:24:00Z",
+      "address": "BEAVER ST & EMERALD AVE",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/beaver-st",
+        "abbotsford/emerald-ave"
+      ],
+      "streetNames": [
+        "Beaver St",
+        "Emerald Ave"
+      ],
+      "pulsePointId": "2498280988"
+    }
+  ],
+  "lastIncident": "2026-06-16T21:24:00Z",
+  "count": 1
+}

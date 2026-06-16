@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/1715-commercial-dr",
+  "name": "1715 Commercial Dr",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-16T20:29:00Z_vancouver/1715-commercial-dr",
+      "timestamp": "2026-06-16T20:29:00Z",
+      "address": "1715 COMMERCIAL DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/1715-commercial-dr"
+      ],
+      "streetNames": [
+        "1715 Commercial Dr"
+      ],
+      "pulsePointId": "2498243075"
+    }
+  ],
+  "lastIncident": "2026-06-16T20:29:00Z",
+  "count": 1
+}

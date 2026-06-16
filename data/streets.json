@@ -248,8 +248,8 @@
     "name": "56th Ave",
     "slug": "langley/56th-ave",
     "city": "Langley",
-    "lastIncident": "2026-06-12T02:46:00Z",
-    "count": 17
+    "lastIncident": "2026-06-16T20:39:00Z",
+    "count": 18
   },
   "langley/58th-cres": {
     "name": "58th Cres",
@@ -12373,6 +12373,27 @@
     "slug": "maple-ridge/234th-st",
     "city": "Maple Ridge",
     "lastIncident": "2026-06-16T15:31:00Z",
+    "count": 1
+  },
+  "abbotsford/beaver-st": {
+    "name": "Beaver St",
+    "slug": "abbotsford/beaver-st",
+    "city": "Abbotsford",
+    "lastIncident": "2026-06-16T21:24:00Z",
+    "count": 1
+  },
+  "abbotsford/emerald-ave": {
+    "name": "Emerald Ave",
+    "slug": "abbotsford/emerald-ave",
+    "city": "Abbotsford",
+    "lastIncident": "2026-06-16T21:24:00Z",
+    "count": 1
+  },
+  "vancouver/1715-commercial-dr": {
+    "name": "1715 Commercial Dr",
+    "slug": "vancouver/1715-commercial-dr",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-16T20:29:00Z",
     "count": 1
   }
 }
