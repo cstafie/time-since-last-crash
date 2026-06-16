@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-16T05:02:00Z_langley/fraser-hwy_langley/langley-bps",
+    "timestamp": "2026-06-16T05:02:00Z",
+    "scrapedAt": "2026-06-16T05:12:48Z",
+    "address": "FRASER HWY & LANGLEY BPS",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy",
+      "langley/langley-bps"
+    ],
+    "streetNames": [
+      "Fraser Hwy",
+      "Langley Bps"
+    ],
+    "pulsePointId": "2497856433"
+  },
+  {
     "id": "2026-06-16T01:54:00Z_surrey/128th-st_surrey/80th-ave",
     "timestamp": "2026-06-16T01:54:00Z",
     "scrapedAt": "2026-06-16T03:01:00Z",
