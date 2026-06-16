@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-14T00:34:00Z",
-    "count": 45
+    "lastIncident": "2026-06-16T17:12:00Z",
+    "count": 46
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -808,8 +808,8 @@
     "name": "W Broadway",
     "slug": "vancouver/w-broadway",
     "city": "Vancouver",
-    "lastIncident": "2026-06-15T21:42:00Z",
-    "count": 15
+    "lastIncident": "2026-06-16T18:35:00Z",
+    "count": 17
   },
   "west-vancouver/eagleridge-drive-ofrp": {
     "name": "Eagleridge Drive Ofrp",
@@ -3244,8 +3244,8 @@
     "name": "Macdonald St",
     "slug": "vancouver/macdonald-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-09T23:17:00Z",
-    "count": 7
+    "lastIncident": "2026-06-16T18:35:00Z",
+    "count": 8
   },
   "port-moody/ioco-rd": {
     "name": "Ioco Rd",

@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-16T18:35:00Z_vancouver/macdonald-st_vancouver/w-broadway",
+    "timestamp": "2026-06-16T18:35:00Z",
+    "scrapedAt": "2026-06-16T18:47:58Z",
+    "address": "MACDONALD ST & W BROADWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/macdonald-st",
+      "vancouver/w-broadway"
+    ],
+    "streetNames": [
+      "Macdonald St",
+      "W Broadway"
+    ],
+    "pulsePointId": "2498162483"
+  },
+  {
+    "id": "2026-06-16T17:12:00Z_vancouver/granville-st_vancouver/w-broadway",
+    "timestamp": "2026-06-16T17:12:00Z",
+    "scrapedAt": "2026-06-16T18:47:58Z",
+    "address": "GRANVILLE ST & W BROADWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st",
+      "vancouver/w-broadway"
+    ],
+    "streetNames": [
+      "Granville St",
+      "W Broadway"
+    ],
+    "pulsePointId": "2498103189"
+  },
+  {
     "id": "2026-06-16T16:47:00Z_surrey/144th-st_surrey/78th-ave",
     "timestamp": "2026-06-16T16:47:00Z",
     "scrapedAt": "2026-06-16T17:12:48Z",

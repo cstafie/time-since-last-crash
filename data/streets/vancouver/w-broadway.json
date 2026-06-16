@@ -4,6 +4,36 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-16T18:35:00Z_vancouver/macdonald-st_vancouver/w-broadway",
+      "timestamp": "2026-06-16T18:35:00Z",
+      "address": "MACDONALD ST & W BROADWAY",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/macdonald-st",
+        "vancouver/w-broadway"
+      ],
+      "streetNames": [
+        "Macdonald St",
+        "W Broadway"
+      ],
+      "pulsePointId": "2498162483"
+    },
+    {
+      "id": "2026-06-16T17:12:00Z_vancouver/granville-st_vancouver/w-broadway",
+      "timestamp": "2026-06-16T17:12:00Z",
+      "address": "GRANVILLE ST & W BROADWAY",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st",
+        "vancouver/w-broadway"
+      ],
+      "streetNames": [
+        "Granville St",
+        "W Broadway"
+      ],
+      "pulsePointId": "2498103189"
+    },
+    {
       "id": "2026-06-15T21:42:00Z_vancouver/oak-st_vancouver/w-broadway",
       "timestamp": "2026-06-15T21:42:00Z",
       "address": "OAK ST & W BROADWAY",
@@ -223,6 +253,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-15T21:42:00Z",
-  "count": 15
+  "lastIncident": "2026-06-16T18:35:00Z",
+  "count": 17
 }
