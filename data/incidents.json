@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-15T23:43:00Z_richmond/gilbert-rd_richmond/mang-rd",
+    "timestamp": "2026-06-15T23:43:00Z",
+    "scrapedAt": "2026-06-16T00:07:31Z",
+    "address": "GILBERT RD & MANG RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/gilbert-rd",
+      "richmond/mang-rd"
+    ],
+    "streetNames": [
+      "Gilbert Rd",
+      "Mang Rd"
+    ],
+    "pulsePointId": "2497672730"
+  },
+  {
+    "id": "2026-06-15T23:29:00Z_surrey/56th-ave",
+    "timestamp": "2026-06-15T23:29:00Z",
+    "scrapedAt": "2026-06-16T00:07:31Z",
+    "address": "56TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/56th-ave"
+    ],
+    "streetNames": [
+      "56th Ave"
+    ],
+    "pulsePointId": "2497658272"
+  },
+  {
     "id": "2026-06-15T22:40:00Z_surrey/176th-st_surrey/32nd-ave",
     "timestamp": "2026-06-15T22:40:00Z",
     "scrapedAt": "2026-06-15T23:30:05Z",

@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-06-15T23:43:00Z_richmond/gilbert-rd_richmond/mang-rd",
+      "timestamp": "2026-06-15T23:43:00Z",
+      "address": "GILBERT RD & MANG RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/gilbert-rd",
+        "richmond/mang-rd"
+      ],
+      "streetNames": [
+        "Gilbert Rd",
+        "Mang Rd"
+      ],
+      "pulsePointId": "2497672730"
+    },
+    {
       "id": "2026-05-30T05:52:00Z_richmond/woodwards-rd_richmond/gilbert-rd",
       "timestamp": "2026-05-30T05:52:00Z",
       "address": "WOODWARDS RD & GILBERT RD",
@@ -47,6 +62,6 @@
       "pulsePointId": "2464881239"
     }
   ],
-  "lastIncident": "2026-05-30T05:52:00Z",
-  "count": 3
+  "lastIncident": "2026-06-15T23:43:00Z",
+  "count": 4
 }
