@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-06-16T22:55:00Z_burnaby/beresford-st",
+    "timestamp": "2026-06-16T22:55:00Z",
+    "scrapedAt": "2026-06-16T23:00:14Z",
+    "address": "BERESFORD ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/beresford-st"
+    ],
+    "streetNames": [
+      "Beresford St"
+    ],
+    "pulsePointId": "2498345094"
+  },
+  {
+    "id": "2026-06-16T22:29:00Z_port-coquitlam/kingsway-ave",
+    "timestamp": "2026-06-16T22:29:00Z",
+    "scrapedAt": "2026-06-16T23:00:14Z",
+    "address": "KINGSWAY AVE",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/kingsway-ave"
+    ],
+    "streetNames": [
+      "Kingsway Ave"
+    ],
+    "pulsePointId": "2498327290"
+  },
+  {
+    "id": "2026-06-16T22:18:00Z_langley/fraser-hwy",
+    "timestamp": "2026-06-16T22:18:00Z",
+    "scrapedAt": "2026-06-16T23:00:14Z",
+    "address": "FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy"
+    ],
+    "streetNames": [
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2498320064"
+  },
+  {
     "id": "2026-06-16T22:12:00Z_surrey/40th-ave",
     "timestamp": "2026-06-16T22:12:00Z",
     "scrapedAt": "2026-06-16T22:16:37Z",
