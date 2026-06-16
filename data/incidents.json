@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-16T12:29:00Z_new-westminster/20th-st_new-westminster/8th-ave",
+    "timestamp": "2026-06-16T12:29:00Z",
+    "scrapedAt": "2026-06-16T13:04:29Z",
+    "address": "20TH ST & 8TH AVE",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/20th-st",
+      "new-westminster/8th-ave"
+    ],
+    "streetNames": [
+      "20th St",
+      "8th Ave"
+    ],
+    "pulsePointId": "2497970782"
+  },
+  {
     "id": "2026-06-16T08:03:00Z_north-vancouver/maplewood-cres",
     "timestamp": "2026-06-16T08:03:00Z",
     "scrapedAt": "2026-06-16T09:15:52Z",

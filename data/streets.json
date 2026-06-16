@@ -353,8 +353,8 @@
     "name": "20th St",
     "slug": "new-westminster/20th-st",
     "city": "New Westminster",
-    "lastIncident": "2026-06-10T02:24:00Z",
-    "count": 5
+    "lastIncident": "2026-06-16T12:29:00Z",
+    "count": 6
   },
   "new-westminster/6th-ave": {
     "name": "6th Ave",
@@ -6779,8 +6779,8 @@
     "name": "8th Ave",
     "slug": "new-westminster/8th-ave",
     "city": "New Westminster",
-    "lastIncident": "2026-06-11T23:17:00Z",
-    "count": 6
+    "lastIncident": "2026-06-16T12:29:00Z",
+    "count": 7
   },
   "vancouver/burrard-street-brdg": {
     "name": "Burrard Street Brdg",
