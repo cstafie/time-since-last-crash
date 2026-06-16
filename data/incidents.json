@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-16T23:34:00Z_vancouver/powell-st",
+    "timestamp": "2026-06-16T23:34:00Z",
+    "scrapedAt": "2026-06-16T23:38:27Z",
+    "address": "POWELL ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/powell-st"
+    ],
+    "streetNames": [
+      "Powell St"
+    ],
+    "pulsePointId": "2498370579"
+  },
+  {
+    "id": "2026-06-16T23:18:00Z_vancouver/n-skeena-st_vancouver/cambridge-st",
+    "timestamp": "2026-06-16T23:18:00Z",
+    "scrapedAt": "2026-06-16T23:38:27Z",
+    "address": "N SKEENA ST & CAMBRIDGE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/n-skeena-st",
+      "vancouver/cambridge-st"
+    ],
+    "streetNames": [
+      "N Skeena St",
+      "Cambridge St"
+    ],
+    "pulsePointId": "2498361958"
+  },
+  {
     "id": "2026-06-16T22:55:00Z_burnaby/beresford-st",
     "timestamp": "2026-06-16T22:55:00Z",
     "scrapedAt": "2026-06-16T23:00:14Z",

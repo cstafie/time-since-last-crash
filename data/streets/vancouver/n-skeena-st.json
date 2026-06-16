@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-16T23:18:00Z_vancouver/n-skeena-st_vancouver/cambridge-st",
+      "timestamp": "2026-06-16T23:18:00Z",
+      "address": "N SKEENA ST & CAMBRIDGE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/n-skeena-st",
+        "vancouver/cambridge-st"
+      ],
+      "streetNames": [
+        "N Skeena St",
+        "Cambridge St"
+      ],
+      "pulsePointId": "2498361958"
+    },
+    {
       "id": "2026-03-31T23:47:00Z_vancouver/n-skeena-st_vancouver/bridgeway",
       "timestamp": "2026-03-31T23:47:00Z",
       "address": "N SKEENA ST & BRIDGEWAY",
@@ -19,6 +34,6 @@
       "pulsePointId": "2445357719"
     }
   ],
-  "lastIncident": "2026-03-31T23:47:00Z",
-  "count": 1
+  "lastIncident": "2026-06-16T23:18:00Z",
+  "count": 2
 }
