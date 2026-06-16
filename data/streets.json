@@ -2621,8 +2621,8 @@
     "name": "Guildford Way",
     "slug": "coquitlam/guildford-way",
     "city": "Coquitlam",
-    "lastIncident": "2026-04-22T01:40:00Z",
-    "count": 2
+    "lastIncident": "2026-06-16T07:39:00Z",
+    "count": 3
   },
   "burnaby/sanders-st": {
     "name": "Sanders St",
@@ -12359,6 +12359,13 @@
     "slug": "maple-ridge/wicklow-way",
     "city": "Maple Ridge",
     "lastIncident": "2026-06-16T01:04:00Z",
+    "count": 1
+  },
+  "north-vancouver/maplewood-cres": {
+    "name": "Maplewood Cres",
+    "slug": "north-vancouver/maplewood-cres",
+    "city": "North Vancouver",
+    "lastIncident": "2026-06-16T08:03:00Z",
     "count": 1
   }
 }

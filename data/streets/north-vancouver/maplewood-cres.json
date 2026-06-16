@@ -1,0 +1,22 @@
+{
+  "slug": "north-vancouver/maplewood-cres",
+  "name": "Maplewood Cres",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-16T08:03:00Z_north-vancouver/maplewood-cres",
+      "timestamp": "2026-06-16T08:03:00Z",
+      "address": "MAPLEWOOD CRES",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/maplewood-cres"
+      ],
+      "streetNames": [
+        "Maplewood Cres"
+      ],
+      "pulsePointId": "2497918228"
+    }
+  ],
+  "lastIncident": "2026-06-16T08:03:00Z",
+  "count": 1
+}

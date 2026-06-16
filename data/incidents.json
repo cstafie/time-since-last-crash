@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-06-16T08:03:00Z_north-vancouver/maplewood-cres",
+    "timestamp": "2026-06-16T08:03:00Z",
+    "scrapedAt": "2026-06-16T09:15:52Z",
+    "address": "MAPLEWOOD CRES",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/maplewood-cres"
+    ],
+    "streetNames": [
+      "Maplewood Cres"
+    ],
+    "pulsePointId": "2497918228"
+  },
+  {
+    "id": "2026-06-16T07:39:00Z_coquitlam/guildford-way",
+    "timestamp": "2026-06-16T07:39:00Z",
+    "scrapedAt": "2026-06-16T09:15:52Z",
+    "address": "GUILDFORD WAY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/guildford-way"
+    ],
+    "streetNames": [
+      "Guildford Way"
+    ],
+    "pulsePointId": "2497912480"
+  },
+  {
     "id": "2026-06-16T05:02:00Z_langley/fraser-hwy_langley/langley-bps",
     "timestamp": "2026-06-16T05:02:00Z",
     "scrapedAt": "2026-06-16T05:12:48Z",
