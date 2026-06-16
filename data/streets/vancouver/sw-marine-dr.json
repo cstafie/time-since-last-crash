@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-16T16:18:00Z_vancouver/cambie-st_vancouver/sw-marine-dr",
+      "timestamp": "2026-06-16T16:18:00Z",
+      "address": "CAMBIE ST & SW MARINE DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/cambie-st",
+        "vancouver/sw-marine-dr"
+      ],
+      "streetNames": [
+        "Cambie St",
+        "Sw Marine Dr"
+      ],
+      "pulsePointId": "2498069901"
+    },
+    {
       "id": "2026-06-13T02:56:00Z_vancouver/sw-marine-dr_vancouver/milton-st",
       "timestamp": "2026-06-13T02:56:00Z",
       "address": "SW MARINE DR & MILTON ST",
@@ -195,6 +210,6 @@
       "pulsePointId": "2453784324"
     }
   ],
-  "lastIncident": "2026-06-13T02:56:00Z",
-  "count": 13
+  "lastIncident": "2026-06-16T16:18:00Z",
+  "count": 14
 }

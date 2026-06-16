@@ -1,0 +1,24 @@
+{
+  "slug": "maple-ridge/234th-st",
+  "name": "234th St",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-06-16T15:31:00Z_maple-ridge/234th-st_maple-ridge/dewdney-trunk-rd",
+      "timestamp": "2026-06-16T15:31:00Z",
+      "address": "234TH ST & DEWDNEY TRUNK RD",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/234th-st",
+        "maple-ridge/dewdney-trunk-rd"
+      ],
+      "streetNames": [
+        "234th St",
+        "Dewdney Trunk Rd"
+      ],
+      "pulsePointId": "2498038758"
+    }
+  ],
+  "lastIncident": "2026-06-16T15:31:00Z",
+  "count": 1
+}

@@ -1,5 +1,99 @@
 [
   {
+    "id": "2026-06-16T16:47:00Z_surrey/144th-st_surrey/78th-ave",
+    "timestamp": "2026-06-16T16:47:00Z",
+    "scrapedAt": "2026-06-16T17:12:48Z",
+    "address": "144TH ST & 78TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/144th-st",
+      "surrey/78th-ave"
+    ],
+    "streetNames": [
+      "144th St",
+      "78th Ave"
+    ],
+    "pulsePointId": "2498087490"
+  },
+  {
+    "id": "2026-06-16T16:18:00Z_vancouver/cambie-st_vancouver/sw-marine-dr",
+    "timestamp": "2026-06-16T16:18:00Z",
+    "scrapedAt": "2026-06-16T17:12:48Z",
+    "address": "CAMBIE ST & SW MARINE DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/cambie-st",
+      "vancouver/sw-marine-dr"
+    ],
+    "streetNames": [
+      "Cambie St",
+      "Sw Marine Dr"
+    ],
+    "pulsePointId": "2498069901"
+  },
+  {
+    "id": "2026-06-16T16:08:00Z_vancouver/cambie-street-brdg",
+    "timestamp": "2026-06-16T16:08:00Z",
+    "scrapedAt": "2026-06-16T17:12:48Z",
+    "address": "CAMBIE STREET BRDG",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/cambie-street-brdg"
+    ],
+    "streetNames": [
+      "Cambie Street Brdg"
+    ],
+    "pulsePointId": "2498063623"
+  },
+  {
+    "id": "2026-06-16T15:59:00Z_richmond/francis-rd_richmond/gilbert-rd",
+    "timestamp": "2026-06-16T15:59:00Z",
+    "scrapedAt": "2026-06-16T17:12:48Z",
+    "address": "FRANCIS RD & GILBERT RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/francis-rd",
+      "richmond/gilbert-rd"
+    ],
+    "streetNames": [
+      "Francis Rd",
+      "Gilbert Rd"
+    ],
+    "pulsePointId": "2498056323"
+  },
+  {
+    "id": "2026-06-16T15:31:00Z_maple-ridge/234th-st_maple-ridge/dewdney-trunk-rd",
+    "timestamp": "2026-06-16T15:31:00Z",
+    "scrapedAt": "2026-06-16T17:12:48Z",
+    "address": "234TH ST & DEWDNEY TRUNK RD",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/234th-st",
+      "maple-ridge/dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "234th St",
+      "Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2498038758"
+  },
+  {
+    "id": "2026-06-16T15:20:00Z_abbotsford/south-fraser-way_abbotsford/gladwin-rd",
+    "timestamp": "2026-06-16T15:20:00Z",
+    "scrapedAt": "2026-06-16T17:12:48Z",
+    "address": "SOUTH FRASER WAY & GLADWIN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/south-fraser-way",
+      "abbotsford/gladwin-rd"
+    ],
+    "streetNames": [
+      "South Fraser Way",
+      "Gladwin Rd"
+    ],
+    "pulsePointId": "2498032720"
+  },
+  {
     "id": "2026-06-16T12:29:00Z_new-westminster/20th-st_new-westminster/8th-ave",
     "timestamp": "2026-06-16T12:29:00Z",
     "scrapedAt": "2026-06-16T13:04:29Z",

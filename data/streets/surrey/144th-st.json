@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-16T16:47:00Z_surrey/144th-st_surrey/78th-ave",
+      "timestamp": "2026-06-16T16:47:00Z",
+      "address": "144TH ST & 78TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/144th-st",
+        "surrey/78th-ave"
+      ],
+      "streetNames": [
+        "144th St",
+        "78th Ave"
+      ],
+      "pulsePointId": "2498087490"
+    },
+    {
       "id": "2026-06-14T15:25:00Z_surrey/144th-st_surrey/84th-ave",
       "timestamp": "2026-06-14T15:25:00Z",
       "address": "144TH ST & 84TH AVE",
@@ -481,6 +496,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-14T15:25:00Z",
-  "count": 32
+  "lastIncident": "2026-06-16T16:47:00Z",
+  "count": 33
 }
