@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-16T01:54:00Z_surrey/128th-st_surrey/80th-ave",
+    "timestamp": "2026-06-16T01:54:00Z",
+    "scrapedAt": "2026-06-16T03:01:00Z",
+    "address": "128TH ST & 80TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/128th-st",
+      "surrey/80th-ave"
+    ],
+    "streetNames": [
+      "128th St",
+      "80th Ave"
+    ],
+    "pulsePointId": "2497756321"
+  },
+  {
+    "id": "2026-06-16T01:50:00Z_vancouver/e-cordova-st",
+    "timestamp": "2026-06-16T01:50:00Z",
+    "scrapedAt": "2026-06-16T03:01:00Z",
+    "address": "E CORDOVA ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-cordova-st"
+    ],
+    "streetNames": [
+      "E Cordova St"
+    ],
+    "pulsePointId": "2497753841"
+  },
+  {
     "id": "2026-06-16T01:04:00Z_maple-ridge/wicklow-way_maple-ridge/dewdney-trunk-rd",
     "timestamp": "2026-06-16T01:04:00Z",
     "scrapedAt": "2026-06-16T01:35:06Z",

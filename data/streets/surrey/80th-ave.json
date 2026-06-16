@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-16T01:54:00Z_surrey/128th-st_surrey/80th-ave",
+      "timestamp": "2026-06-16T01:54:00Z",
+      "address": "128TH ST & 80TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/128th-st",
+        "surrey/80th-ave"
+      ],
+      "streetNames": [
+        "128th St",
+        "80th Ave"
+      ],
+      "pulsePointId": "2497756321"
+    },
+    {
       "id": "2026-06-13T14:14:00Z_surrey/king-george-blvd_surrey/80th-ave",
       "timestamp": "2026-06-13T14:14:00Z",
       "address": "KING GEORGE BLVD & 80TH AVE",
@@ -369,6 +384,6 @@
       "pulsePointId": "2432896824"
     }
   ],
-  "lastIncident": "2026-06-13T14:14:00Z",
-  "count": 25
+  "lastIncident": "2026-06-16T01:54:00Z",
+  "count": 26
 }

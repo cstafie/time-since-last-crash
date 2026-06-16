@@ -535,8 +535,8 @@
     "name": "128th St",
     "slug": "surrey/128th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-12T23:26:00Z",
-    "count": 30
+    "lastIncident": "2026-06-16T01:54:00Z",
+    "count": 31
   },
   "surrey/130b-st": {
     "name": "130b St",
@@ -1620,8 +1620,8 @@
     "name": "80th Ave",
     "slug": "surrey/80th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-13T14:14:00Z",
-    "count": 25
+    "lastIncident": "2026-06-16T01:54:00Z",
+    "count": 26
   },
   "surrey/156th-st": {
     "name": "156th St",
@@ -3972,8 +3972,8 @@
     "name": "E Cordova St",
     "slug": "vancouver/e-cordova-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-01T18:13:00Z",
-    "count": 7
+    "lastIncident": "2026-06-16T01:50:00Z",
+    "count": 8
   },
   "vancouver/gore-ave": {
     "name": "Gore Ave",
