@@ -1774,8 +1774,8 @@
     "name": "E Hastings St",
     "slug": "vancouver/e-hastings-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-16T18:46:00Z",
-    "count": 33
+    "lastIncident": "2026-06-17T16:37:00Z",
+    "count": 34
   },
   "abbotsford/king-rd": {
     "name": "King Rd",
@@ -4756,8 +4756,8 @@
     "name": "Dunlevy Ave",
     "slug": "vancouver/dunlevy-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-01T18:13:00Z",
-    "count": 5
+    "lastIncident": "2026-06-17T16:37:00Z",
+    "count": 6
   },
   "abbotsford/seldon-rd": {
     "name": "Seldon Rd",

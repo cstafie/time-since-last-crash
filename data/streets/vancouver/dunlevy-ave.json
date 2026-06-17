@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-17T16:37:00Z_vancouver/dunlevy-ave_vancouver/e-hastings-st",
+      "timestamp": "2026-06-17T16:37:00Z",
+      "address": "DUNLEVY AVE & E HASTINGS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/dunlevy-ave",
+        "vancouver/e-hastings-st"
+      ],
+      "streetNames": [
+        "Dunlevy Ave",
+        "E Hastings St"
+      ],
+      "pulsePointId": "2498801633"
+    },
+    {
       "id": "2026-06-01T18:13:00Z_vancouver/e-cordova-st_vancouver/dunlevy-ave",
       "timestamp": "2026-06-01T18:13:00Z",
       "address": "E CORDOVA ST & DUNLEVY AVE",
@@ -77,6 +92,6 @@
       "pulsePointId": "2445624556"
     }
   ],
-  "lastIncident": "2026-06-01T18:13:00Z",
-  "count": 5
+  "lastIncident": "2026-06-17T16:37:00Z",
+  "count": 6
 }
