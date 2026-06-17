@@ -17,8 +17,8 @@
     "name": "Marshall Rd",
     "slug": "abbotsford/marshall-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-09T22:17:00Z",
-    "count": 10
+    "lastIncident": "2026-06-17T13:41:00Z",
+    "count": 11
   },
   "abbotsford/mccallum-rd": {
     "name": "Mccallum Rd",
@@ -199,8 +199,8 @@
     "name": "Ladner Trunk Rd",
     "slug": "delta/ladner-trunk-rd",
     "city": "Delta",
-    "lastIncident": "2026-06-17T04:43:00Z",
-    "count": 15
+    "lastIncident": "2026-06-17T13:58:00Z",
+    "count": 16
   },
   "langley/216th-street-ofrp": {
     "name": "216th Street Ofrp",
@@ -10489,8 +10489,8 @@
     "name": "Riverside Rd",
     "slug": "abbotsford/riverside-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-07T19:45:00Z",
-    "count": 2
+    "lastIncident": "2026-06-17T13:41:00Z",
+    "count": 3
   },
   "pitt-meadows/hammond-rd": {
     "name": "Hammond Rd",

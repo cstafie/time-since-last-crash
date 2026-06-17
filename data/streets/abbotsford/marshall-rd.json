@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-17T13:41:00Z_abbotsford/marshall-rd_abbotsford/riverside-rd",
+      "timestamp": "2026-06-17T13:41:00Z",
+      "address": "MARSHALL RD & RIVERSIDE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/marshall-rd",
+        "abbotsford/riverside-rd"
+      ],
+      "streetNames": [
+        "Marshall Rd",
+        "Riverside Rd"
+      ],
+      "pulsePointId": "2498704183"
+    },
+    {
       "id": "2026-06-09T22:17:00Z_abbotsford/marshall-rd",
       "timestamp": "2026-06-09T22:17:00Z",
       "address": "MARSHALL RD",
@@ -145,6 +160,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-09T22:17:00Z",
-  "count": 10
+  "lastIncident": "2026-06-17T13:41:00Z",
+  "count": 11
 }
