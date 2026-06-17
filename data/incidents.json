@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-06-17T04:43:00Z_delta/ladner-trunk-rd",
+    "timestamp": "2026-06-17T04:43:00Z",
+    "scrapedAt": "2026-06-17T05:09:10Z",
+    "address": "LADNER TRUNK RD",
+    "city": "Delta",
+    "streets": [
+      "delta/ladner-trunk-rd"
+    ],
+    "streetNames": [
+      "Ladner Trunk Rd"
+    ],
+    "pulsePointId": "2498540285"
+  },
+  {
+    "id": "2026-06-17T03:16:00Z_surrey/156th-st_surrey/78a-ave",
+    "timestamp": "2026-06-17T03:16:00Z",
+    "scrapedAt": "2026-06-17T05:09:10Z",
+    "address": "156TH ST & 78A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/156th-st",
+      "surrey/78a-ave"
+    ],
+    "streetNames": [
+      "156th St",
+      "78a Ave"
+    ],
+    "pulsePointId": "2498500259"
+  },
+  {
+    "id": "2026-06-17T02:59:00Z_vancouver/trans-canada-hwy",
+    "timestamp": "2026-06-17T02:59:00Z",
+    "scrapedAt": "2026-06-17T05:09:10Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2498493307"
+  },
+  {
     "id": "2026-06-17T02:37:00Z_mission/cherry-ave_mission/cedar-st",
     "timestamp": "2026-06-17T02:37:00Z",
     "scrapedAt": "2026-06-17T03:00:42Z",
