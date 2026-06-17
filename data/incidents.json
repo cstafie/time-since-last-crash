@@ -1,5 +1,193 @@
 [
   {
+    "id": "2026-06-17T21:11:00Z_vancouver/nelson-st_vancouver/broughton-st",
+    "timestamp": "2026-06-17T21:11:00Z",
+    "scrapedAt": "2026-06-17T21:36:19Z",
+    "address": "NELSON ST & BROUGHTON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/nelson-st",
+      "vancouver/broughton-st"
+    ],
+    "streetNames": [
+      "Nelson St",
+      "Broughton St"
+    ],
+    "pulsePointId": "2498991017"
+  },
+  {
+    "id": "2026-06-17T20:41:00Z_vancouver/blenheim-st_vancouver/w-23rd-ave",
+    "timestamp": "2026-06-17T20:41:00Z",
+    "scrapedAt": "2026-06-17T21:36:19Z",
+    "address": "BLENHEIM ST & W 23RD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/blenheim-st",
+      "vancouver/w-23rd-ave"
+    ],
+    "streetNames": [
+      "Blenheim St",
+      "W 23rd Ave"
+    ],
+    "pulsePointId": "2498971182"
+  },
+  {
+    "id": "2026-06-17T20:41:00Z_north-vancouver/emerson-way_north-vancouver/mt-seymour-pkwy",
+    "timestamp": "2026-06-17T20:41:00Z",
+    "scrapedAt": "2026-06-17T21:36:19Z",
+    "address": "EMERSON WAY & MT SEYMOUR PKWY",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/emerson-way",
+      "north-vancouver/mt-seymour-pkwy"
+    ],
+    "streetNames": [
+      "Emerson Way",
+      "Mt Seymour Pkwy"
+    ],
+    "pulsePointId": "2498970884"
+  },
+  {
+    "id": "2026-06-17T20:41:00Z_north-vancouver/westview-drive-onrp_north-vancouver/trans-canada-hwy",
+    "timestamp": "2026-06-17T20:41:00Z",
+    "scrapedAt": "2026-06-17T21:36:19Z",
+    "address": "WESTVIEW DRIVE ONRP & TRANS CANADA HWY",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/westview-drive-onrp",
+      "north-vancouver/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Westview Drive Onrp",
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2498969331"
+  },
+  {
+    "id": "2026-06-17T20:35:00Z_chilliwack/yale-rd_chilliwack/spadina-ave",
+    "timestamp": "2026-06-17T20:35:00Z",
+    "scrapedAt": "2026-06-17T21:36:19Z",
+    "address": "YALE RD & SPADINA AVE",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/yale-rd",
+      "chilliwack/spadina-ave"
+    ],
+    "streetNames": [
+      "Yale Rd",
+      "Spadina Ave"
+    ],
+    "pulsePointId": "2498966683"
+  },
+  {
+    "id": "2026-06-17T20:33:00Z_delta/18th-ave_delta/56th-st",
+    "timestamp": "2026-06-17T20:33:00Z",
+    "scrapedAt": "2026-06-17T21:36:19Z",
+    "address": "18TH AVE & 56TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/18th-ave",
+      "delta/56th-st"
+    ],
+    "streetNames": [
+      "18th Ave",
+      "56th St"
+    ],
+    "pulsePointId": "2498964328"
+  },
+  {
+    "id": "2026-06-17T20:19:00Z_surrey/scott-rd_surrey/120th-st",
+    "timestamp": "2026-06-17T20:19:00Z",
+    "scrapedAt": "2026-06-17T21:36:19Z",
+    "address": "SCOTT RD & 120TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/scott-rd",
+      "surrey/120th-st"
+    ],
+    "streetNames": [
+      "Scott Rd",
+      "120th St"
+    ],
+    "pulsePointId": "2498954223"
+  },
+  {
+    "id": "2026-06-17T20:16:00Z_port-moody/221-ioco-rd",
+    "timestamp": "2026-06-17T20:16:00Z",
+    "scrapedAt": "2026-06-17T21:36:19Z",
+    "address": "221 IOCO RD",
+    "city": "Port Moody",
+    "streets": [
+      "port-moody/221-ioco-rd"
+    ],
+    "streetNames": [
+      "221 Ioco Rd"
+    ],
+    "pulsePointId": "2498952562"
+  },
+  {
+    "id": "2026-06-17T19:49:00Z_surrey/enver-creek-secondary-school-accs_surrey/84th-ave",
+    "timestamp": "2026-06-17T19:49:00Z",
+    "scrapedAt": "2026-06-17T21:36:19Z",
+    "address": "ENVER CREEK SECONDARY SCHOOL ACCS & 84TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/enver-creek-secondary-school-accs",
+      "surrey/84th-ave"
+    ],
+    "streetNames": [
+      "Enver Creek Secondary School Accs",
+      "84th Ave"
+    ],
+    "pulsePointId": "2498933742"
+  },
+  {
+    "id": "2026-06-17T19:37:00Z_langley/200th-st_langley/88th-ave",
+    "timestamp": "2026-06-17T19:37:00Z",
+    "scrapedAt": "2026-06-17T21:36:19Z",
+    "address": "200TH ST & 88TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/200th-st",
+      "langley/88th-ave"
+    ],
+    "streetNames": [
+      "200th St",
+      "88th Ave"
+    ],
+    "pulsePointId": "2498927066"
+  },
+  {
+    "id": "2026-06-17T19:21:00Z_vancouver/1900-burrard-st",
+    "timestamp": "2026-06-17T19:21:00Z",
+    "scrapedAt": "2026-06-17T21:36:19Z",
+    "address": "1900 BURRARD ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/1900-burrard-st"
+    ],
+    "streetNames": [
+      "1900 Burrard St"
+    ],
+    "pulsePointId": "2498916276"
+  },
+  {
+    "id": "2026-06-17T19:16:00Z_vancouver/e-1st-ave_vancouver/mclean-dr",
+    "timestamp": "2026-06-17T19:16:00Z",
+    "scrapedAt": "2026-06-17T21:36:19Z",
+    "address": "E 1ST AVE & MCLEAN DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-1st-ave",
+      "vancouver/mclean-dr"
+    ],
+    "streetNames": [
+      "E 1st Ave",
+      "Mclean Dr"
+    ],
+    "pulsePointId": "2498910987"
+  },
+  {
     "id": "2026-06-17T16:37:00Z_vancouver/dunlevy-ave_vancouver/e-hastings-st",
     "timestamp": "2026-06-17T16:37:00Z",
     "scrapedAt": "2026-06-17T16:57:55Z",

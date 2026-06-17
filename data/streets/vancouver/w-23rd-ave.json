@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/w-23rd-ave",
+  "name": "W 23rd Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-17T20:41:00Z_vancouver/blenheim-st_vancouver/w-23rd-ave",
+      "timestamp": "2026-06-17T20:41:00Z",
+      "address": "BLENHEIM ST & W 23RD AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/blenheim-st",
+        "vancouver/w-23rd-ave"
+      ],
+      "streetNames": [
+        "Blenheim St",
+        "W 23rd Ave"
+      ],
+      "pulsePointId": "2498971182"
+    }
+  ],
+  "lastIncident": "2026-06-17T20:41:00Z",
+  "count": 1
+}

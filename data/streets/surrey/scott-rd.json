@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-17T20:19:00Z_surrey/scott-rd_surrey/120th-st",
+      "timestamp": "2026-06-17T20:19:00Z",
+      "address": "SCOTT RD & 120TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/scott-rd",
+        "surrey/120th-st"
+      ],
+      "streetNames": [
+        "Scott Rd",
+        "120th St"
+      ],
+      "pulsePointId": "2498954223"
+    },
+    {
       "id": "2026-05-23T07:08:00Z_surrey/124th-st_surrey/scott-rd",
       "timestamp": "2026-05-23T07:08:00Z",
       "address": "124TH ST & SCOTT RD",
@@ -47,6 +62,6 @@
       "pulsePointId": "2458503348"
     }
   ],
-  "lastIncident": "2026-05-23T07:08:00Z",
-  "count": 3
+  "lastIncident": "2026-06-17T20:19:00Z",
+  "count": 4
 }

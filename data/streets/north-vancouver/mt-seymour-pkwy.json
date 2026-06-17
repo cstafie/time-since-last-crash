@@ -4,6 +4,21 @@
   "city": "North Vancouver",
   "incidents": [
     {
+      "id": "2026-06-17T20:41:00Z_north-vancouver/emerson-way_north-vancouver/mt-seymour-pkwy",
+      "timestamp": "2026-06-17T20:41:00Z",
+      "address": "EMERSON WAY & MT SEYMOUR PKWY",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/emerson-way",
+        "north-vancouver/mt-seymour-pkwy"
+      ],
+      "streetNames": [
+        "Emerson Way",
+        "Mt Seymour Pkwy"
+      ],
+      "pulsePointId": "2498970884"
+    },
+    {
       "id": "2026-05-04T23:19:00Z_north-vancouver/mt-seymour-pkwy_north-vancouver/browning-pl",
       "timestamp": "2026-05-04T23:19:00Z",
       "address": "MT SEYMOUR PKWY & BROWNING PL",
@@ -91,6 +106,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-04T23:19:00Z",
-  "count": 6
+  "lastIncident": "2026-06-17T20:41:00Z",
+  "count": 7
 }

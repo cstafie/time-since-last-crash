@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-17T19:49:00Z_surrey/enver-creek-secondary-school-accs_surrey/84th-ave",
+      "timestamp": "2026-06-17T19:49:00Z",
+      "address": "ENVER CREEK SECONDARY SCHOOL ACCS & 84TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/enver-creek-secondary-school-accs",
+        "surrey/84th-ave"
+      ],
+      "streetNames": [
+        "Enver Creek Secondary School Accs",
+        "84th Ave"
+      ],
+      "pulsePointId": "2498933742"
+    },
+    {
       "id": "2026-06-14T15:25:00Z_surrey/144th-st_surrey/84th-ave",
       "timestamp": "2026-06-14T15:25:00Z",
       "address": "144TH ST & 84TH AVE",
@@ -312,6 +327,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-14T15:25:00Z",
-  "count": 21
+  "lastIncident": "2026-06-17T19:49:00Z",
+  "count": 22
 }

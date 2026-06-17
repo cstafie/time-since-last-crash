@@ -409,8 +409,8 @@
     "name": "Mt Seymour Pkwy",
     "slug": "north-vancouver/mt-seymour-pkwy",
     "city": "North Vancouver",
-    "lastIncident": "2026-05-04T23:19:00Z",
-    "count": 6
+    "lastIncident": "2026-06-17T20:41:00Z",
+    "count": 7
   },
   "north-vancouver/roche-point-dr": {
     "name": "Roche Point Dr",
@@ -626,8 +626,8 @@
     "name": "84th Ave",
     "slug": "surrey/84th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-14T15:25:00Z",
-    "count": 21
+    "lastIncident": "2026-06-17T19:49:00Z",
+    "count": 22
   },
   "surrey/88th-ave": {
     "name": "88th Ave",
@@ -1046,8 +1046,8 @@
     "name": "88th Ave",
     "slug": "langley/88th-ave",
     "city": "Langley",
-    "lastIncident": "2026-06-10T22:02:00Z",
-    "count": 11
+    "lastIncident": "2026-06-17T19:37:00Z",
+    "count": 12
   },
   "chilliwack/ryder-lake-rd": {
     "name": "Ryder Lake Rd",
@@ -1102,8 +1102,8 @@
     "name": "200th St",
     "slug": "langley/200th-st",
     "city": "Langley",
-    "lastIncident": "2026-06-09T21:33:00Z",
-    "count": 31
+    "lastIncident": "2026-06-17T19:37:00Z",
+    "count": 32
   },
   "abbotsford/downes-rd": {
     "name": "Downes Rd",
@@ -1256,8 +1256,8 @@
     "name": "E 1st Ave",
     "slug": "vancouver/e-1st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-08T19:37:00Z",
-    "count": 12
+    "lastIncident": "2026-06-17T19:16:00Z",
+    "count": 13
   },
   "vancouver/boundary-rd": {
     "name": "Boundary Rd",
@@ -1298,8 +1298,8 @@
     "name": "120th St",
     "slug": "surrey/120th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-27T17:48:00Z",
-    "count": 8
+    "lastIncident": "2026-06-17T20:19:00Z",
+    "count": 9
   },
   "delta/72nd-st": {
     "name": "72nd St",
@@ -2110,8 +2110,8 @@
     "name": "Nelson St",
     "slug": "vancouver/nelson-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-07T07:49:00Z",
-    "count": 9
+    "lastIncident": "2026-06-17T21:11:00Z",
+    "count": 10
   },
   "abbotsford/mt-lehman-rd": {
     "name": "Mt Lehman Rd",
@@ -2222,15 +2222,15 @@
     "name": "18th Ave",
     "slug": "delta/18th-ave",
     "city": "Delta",
-    "lastIncident": "2026-03-16T03:27:00Z",
-    "count": 1
+    "lastIncident": "2026-06-17T20:33:00Z",
+    "count": 2
   },
   "delta/56th-st": {
     "name": "56th St",
     "slug": "delta/56th-st",
     "city": "Delta",
-    "lastIncident": "2026-06-06T02:20:00Z",
-    "count": 3
+    "lastIncident": "2026-06-17T20:33:00Z",
+    "count": 4
   },
   "vancouver/e-63rd-ave": {
     "name": "E 63rd Ave",
@@ -2880,8 +2880,8 @@
     "name": "Yale Rd",
     "slug": "chilliwack/yale-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-09T19:09:00Z",
-    "count": 16
+    "lastIncident": "2026-06-17T20:35:00Z",
+    "count": 17
   },
   "vancouver/e-61st-ave": {
     "name": "E 61st Ave",
@@ -4294,8 +4294,8 @@
     "name": "Broughton St",
     "slug": "vancouver/broughton-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-04T01:07:00Z",
-    "count": 7
+    "lastIncident": "2026-06-17T21:11:00Z",
+    "count": 8
   },
   "chilliwack/fletcher-st": {
     "name": "Fletcher St",
@@ -5113,8 +5113,8 @@
     "name": "Trans Canada Hwy",
     "slug": "north-vancouver/trans-canada-hwy",
     "city": "North Vancouver",
-    "lastIncident": "2026-06-05T20:38:00Z",
-    "count": 16
+    "lastIncident": "2026-06-17T20:41:00Z",
+    "count": 17
   },
   "chilliwack/topaz-dr": {
     "name": "Topaz Dr",
@@ -6709,8 +6709,8 @@
     "name": "Mclean Dr",
     "slug": "vancouver/mclean-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-06-16T18:46:00Z",
-    "count": 4
+    "lastIncident": "2026-06-17T19:16:00Z",
+    "count": 5
   },
   "port-coquitlam/wilson-ave": {
     "name": "Wilson Ave",
@@ -7241,8 +7241,8 @@
     "name": "Blenheim St",
     "slug": "vancouver/blenheim-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-15T00:46:00Z",
-    "count": 4
+    "lastIncident": "2026-06-17T20:41:00Z",
+    "count": 5
   },
   "pitt-meadows/golden-ears-way": {
     "name": "Golden Ears Way",
@@ -7325,8 +7325,8 @@
     "name": "Scott Rd",
     "slug": "surrey/scott-rd",
     "city": "Surrey",
-    "lastIncident": "2026-05-23T07:08:00Z",
-    "count": 3
+    "lastIncident": "2026-06-17T20:19:00Z",
+    "count": 4
   },
   "vancouver/beatty-st": {
     "name": "Beatty St",
@@ -9565,8 +9565,8 @@
     "name": "Spadina Ave",
     "slug": "chilliwack/spadina-ave",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-14T00:50:00Z",
-    "count": 2
+    "lastIncident": "2026-06-17T20:35:00Z",
+    "count": 3
   },
   "maple-ridge/223rd-st": {
     "name": "223rd St",
@@ -12401,6 +12401,48 @@
     "slug": "surrey/78a-ave",
     "city": "Surrey",
     "lastIncident": "2026-06-17T03:16:00Z",
+    "count": 1
+  },
+  "vancouver/w-23rd-ave": {
+    "name": "W 23rd Ave",
+    "slug": "vancouver/w-23rd-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-17T20:41:00Z",
+    "count": 1
+  },
+  "north-vancouver/emerson-way": {
+    "name": "Emerson Way",
+    "slug": "north-vancouver/emerson-way",
+    "city": "North Vancouver",
+    "lastIncident": "2026-06-17T20:41:00Z",
+    "count": 1
+  },
+  "north-vancouver/westview-drive-onrp": {
+    "name": "Westview Drive Onrp",
+    "slug": "north-vancouver/westview-drive-onrp",
+    "city": "North Vancouver",
+    "lastIncident": "2026-06-17T20:41:00Z",
+    "count": 1
+  },
+  "port-moody/221-ioco-rd": {
+    "name": "221 Ioco Rd",
+    "slug": "port-moody/221-ioco-rd",
+    "city": "Port Moody",
+    "lastIncident": "2026-06-17T20:16:00Z",
+    "count": 1
+  },
+  "surrey/enver-creek-secondary-school-accs": {
+    "name": "Enver Creek Secondary School Accs",
+    "slug": "surrey/enver-creek-secondary-school-accs",
+    "city": "Surrey",
+    "lastIncident": "2026-06-17T19:49:00Z",
+    "count": 1
+  },
+  "vancouver/1900-burrard-st": {
+    "name": "1900 Burrard St",
+    "slug": "vancouver/1900-burrard-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-17T19:21:00Z",
     "count": 1
   }
 }

@@ -4,6 +4,21 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-06-17T20:35:00Z_chilliwack/yale-rd_chilliwack/spadina-ave",
+      "timestamp": "2026-06-17T20:35:00Z",
+      "address": "YALE RD & SPADINA AVE",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/yale-rd",
+        "chilliwack/spadina-ave"
+      ],
+      "streetNames": [
+        "Yale Rd",
+        "Spadina Ave"
+      ],
+      "pulsePointId": "2498966683"
+    },
+    {
       "id": "2026-06-14T00:50:00Z_chilliwack/mary-st_chilliwack/spadina-ave",
       "timestamp": "2026-06-14T00:50:00Z",
       "address": "MARY ST & SPADINA AVE",
@@ -34,6 +49,6 @@
       "pulsePointId": "2474410975"
     }
   ],
-  "lastIncident": "2026-06-14T00:50:00Z",
-  "count": 2
+  "lastIncident": "2026-06-17T20:35:00Z",
+  "count": 3
 }

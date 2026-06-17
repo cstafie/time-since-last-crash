@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-17T19:16:00Z_vancouver/e-1st-ave_vancouver/mclean-dr",
+      "timestamp": "2026-06-17T19:16:00Z",
+      "address": "E 1ST AVE & MCLEAN DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-1st-ave",
+        "vancouver/mclean-dr"
+      ],
+      "streetNames": [
+        "E 1st Ave",
+        "Mclean Dr"
+      ],
+      "pulsePointId": "2498910987"
+    },
+    {
       "id": "2026-06-08T19:37:00Z_vancouver/e-1st-ave_vancouver/slocan-st",
       "timestamp": "2026-06-08T19:37:00Z",
       "address": "E 1ST AVE & SLOCAN ST",
@@ -181,6 +196,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-08T19:37:00Z",
-  "count": 12
+  "lastIncident": "2026-06-17T19:16:00Z",
+  "count": 13
 }
