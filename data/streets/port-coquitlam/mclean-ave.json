@@ -4,6 +4,21 @@
   "city": "Port Coquitlam",
   "incidents": [
     {
+      "id": "2026-06-17T22:41:00Z_port-coquitlam/brown-st_port-coquitlam/mclean-ave",
+      "timestamp": "2026-06-17T22:41:00Z",
+      "address": "BROWN ST & MCLEAN AVE",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/brown-st",
+        "port-coquitlam/mclean-ave"
+      ],
+      "streetNames": [
+        "Brown St",
+        "Mclean Ave"
+      ],
+      "pulsePointId": "2499061482"
+    },
+    {
       "id": "2026-06-15T13:43:00Z_port-coquitlam/mclean-ave_port-coquitlam/kingsway-ave",
       "timestamp": "2026-06-15T13:43:00Z",
       "address": "MCLEAN AVE & KINGSWAY AVE",
@@ -49,6 +64,6 @@
       "pulsePointId": "2441451190"
     }
   ],
-  "lastIncident": "2026-06-15T13:43:00Z",
-  "count": 3
+  "lastIncident": "2026-06-17T22:41:00Z",
+  "count": 4
 }

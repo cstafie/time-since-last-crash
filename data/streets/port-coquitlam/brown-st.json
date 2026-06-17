@@ -1,0 +1,24 @@
+{
+  "slug": "port-coquitlam/brown-st",
+  "name": "Brown St",
+  "city": "Port Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-06-17T22:41:00Z_port-coquitlam/brown-st_port-coquitlam/mclean-ave",
+      "timestamp": "2026-06-17T22:41:00Z",
+      "address": "BROWN ST & MCLEAN AVE",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/brown-st",
+        "port-coquitlam/mclean-ave"
+      ],
+      "streetNames": [
+        "Brown St",
+        "Mclean Ave"
+      ],
+      "pulsePointId": "2499061482"
+    }
+  ],
+  "lastIncident": "2026-06-17T22:41:00Z",
+  "count": 1
+}

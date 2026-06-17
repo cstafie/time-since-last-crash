@@ -220,8 +220,8 @@
     "name": "272nd St",
     "slug": "langley/272nd-st",
     "city": "Langley",
-    "lastIncident": "2026-05-27T22:02:00Z",
-    "count": 10
+    "lastIncident": "2026-06-17T22:47:00Z",
+    "count": 11
   },
   "langley/273rd-st": {
     "name": "273rd St",
@@ -598,8 +598,8 @@
     "name": "64th Ave",
     "slug": "surrey/64th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-12T06:03:00Z",
-    "count": 23
+    "lastIncident": "2026-06-17T22:25:00Z",
+    "count": 24
   },
   "surrey/72a-ave": {
     "name": "72a Ave",
@@ -927,8 +927,8 @@
     "name": "Fraser Hwy",
     "slug": "surrey/fraser-hwy",
     "city": "Surrey",
-    "lastIncident": "2026-06-11T13:02:00Z",
-    "count": 15
+    "lastIncident": "2026-06-17T23:26:00Z",
+    "count": 16
   },
   "surrey/159th-st": {
     "name": "159th St",
@@ -1102,8 +1102,8 @@
     "name": "200th St",
     "slug": "langley/200th-st",
     "city": "Langley",
-    "lastIncident": "2026-06-17T19:37:00Z",
-    "count": 32
+    "lastIncident": "2026-06-17T22:33:00Z",
+    "count": 33
   },
   "abbotsford/downes-rd": {
     "name": "Downes Rd",
@@ -1382,8 +1382,8 @@
     "name": "192nd St",
     "slug": "surrey/192nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-27T22:46:00Z",
-    "count": 11
+    "lastIncident": "2026-06-17T22:08:00Z",
+    "count": 12
   },
   "surrey/66a-ave": {
     "name": "66a Ave",
@@ -1627,8 +1627,8 @@
     "name": "156th St",
     "slug": "surrey/156th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-17T03:16:00Z",
-    "count": 17
+    "lastIncident": "2026-06-17T23:26:00Z",
+    "count": 18
   },
   "north-vancouver/pemberton-ave": {
     "name": "Pemberton Ave",
@@ -1732,8 +1732,8 @@
     "name": "Alex Fraser Brdg",
     "slug": "delta/alex-fraser-brdg",
     "city": "Delta",
-    "lastIncident": "2026-06-14T19:38:00Z",
-    "count": 17
+    "lastIncident": "2026-06-17T23:09:00Z",
+    "count": 18
   },
   "abbotsford/riverside-st": {
     "name": "Riverside St",
@@ -2341,8 +2341,8 @@
     "name": "W Georgia St",
     "slug": "vancouver/w-georgia-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-05T16:17:00Z",
-    "count": 10
+    "lastIncident": "2026-06-17T21:57:00Z",
+    "count": 11
   },
   "vancouver/w-41st-ave": {
     "name": "W 41st Ave",
@@ -4042,8 +4042,8 @@
     "name": "Mclean Ave",
     "slug": "port-coquitlam/mclean-ave",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-06-15T13:43:00Z",
-    "count": 3
+    "lastIncident": "2026-06-17T22:41:00Z",
+    "count": 4
   },
   "port-coquitlam/kingsway-ave": {
     "name": "Kingsway Ave",
@@ -4840,8 +4840,8 @@
     "name": "94th Ave",
     "slug": "surrey/94th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-07T01:25:00Z",
-    "count": 2
+    "lastIncident": "2026-06-17T22:08:00Z",
+    "count": 3
   },
   "richmond/heather-st": {
     "name": "Heather St",
@@ -4966,8 +4966,8 @@
     "name": "188th St",
     "slug": "surrey/188th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-12T06:58:00Z",
-    "count": 5
+    "lastIncident": "2026-06-17T22:25:00Z",
+    "count": 6
   },
   "abbotsford/valdes-dr": {
     "name": "Valdes Dr",
@@ -5890,8 +5890,8 @@
     "name": "Howe St",
     "slug": "vancouver/howe-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-12T20:01:00Z",
-    "count": 4
+    "lastIncident": "2026-06-17T21:57:00Z",
+    "count": 5
   },
   "delta/kittson-pkwy": {
     "name": "Kittson Pkwy",
@@ -6779,8 +6779,8 @@
     "name": "8th Ave",
     "slug": "new-westminster/8th-ave",
     "city": "New Westminster",
-    "lastIncident": "2026-06-16T12:29:00Z",
-    "count": 7
+    "lastIncident": "2026-06-17T23:10:00Z",
+    "count": 8
   },
   "vancouver/burrard-street-brdg": {
     "name": "Burrard Street Brdg",
@@ -8214,8 +8214,8 @@
     "name": "28th Ave",
     "slug": "langley/28th-ave",
     "city": "Langley",
-    "lastIncident": "2026-06-06T23:05:00Z",
-    "count": 3
+    "lastIncident": "2026-06-17T22:47:00Z",
+    "count": 4
   },
   "chilliwack/broadway": {
     "name": "Broadway",
@@ -8620,8 +8620,8 @@
     "name": "Willowbrook Dr",
     "slug": "langley/willowbrook-dr",
     "city": "Langley",
-    "lastIncident": "2026-05-03T20:38:00Z",
-    "count": 1
+    "lastIncident": "2026-06-17T22:05:00Z",
+    "count": 2
   },
   "mission/10th-ave": {
     "name": "10th Ave",
@@ -9845,15 +9845,15 @@
     "name": "160th St",
     "slug": "white-rock/160th-st",
     "city": "White Rock",
-    "lastIncident": "2026-05-17T15:47:00Z",
-    "count": 2
+    "lastIncident": "2026-06-17T22:21:00Z",
+    "count": 3
   },
   "white-rock/16th-ave": {
     "name": "16th Ave",
     "slug": "white-rock/16th-ave",
     "city": "White Rock",
-    "lastIncident": "2026-05-17T15:44:00Z",
-    "count": 1
+    "lastIncident": "2026-06-17T22:21:00Z",
+    "count": 2
   },
   "surrey/pattullo-pl": {
     "name": "Pattullo Pl",
@@ -11497,8 +11497,8 @@
     "name": "Reece Ave",
     "slug": "chilliwack/reece-ave",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-05T21:40:00Z",
-    "count": 1
+    "lastIncident": "2026-06-17T23:18:00Z",
+    "count": 2
   },
   "langley/42nd-ave": {
     "name": "42nd Ave",
@@ -12443,6 +12443,27 @@
     "slug": "vancouver/1900-burrard-st",
     "city": "Vancouver",
     "lastIncident": "2026-06-17T19:21:00Z",
+    "count": 1
+  },
+  "chilliwack/corbould-st": {
+    "name": "Corbould St",
+    "slug": "chilliwack/corbould-st",
+    "city": "Chilliwack",
+    "lastIncident": "2026-06-17T23:18:00Z",
+    "count": 1
+  },
+  "new-westminster/13th-st": {
+    "name": "13th St",
+    "slug": "new-westminster/13th-st",
+    "city": "New Westminster",
+    "lastIncident": "2026-06-17T23:10:00Z",
+    "count": 1
+  },
+  "port-coquitlam/brown-st": {
+    "name": "Brown St",
+    "slug": "port-coquitlam/brown-st",
+    "city": "Port Coquitlam",
+    "lastIncident": "2026-06-17T22:41:00Z",
     "count": 1
   }
 }

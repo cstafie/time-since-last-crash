@@ -4,6 +4,19 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-06-17T23:09:00Z_delta/alex-fraser-brdg",
+      "timestamp": "2026-06-17T23:09:00Z",
+      "address": "ALEX FRASER BRDG",
+      "city": "Delta",
+      "streets": [
+        "delta/alex-fraser-brdg"
+      ],
+      "streetNames": [
+        "Alex Fraser Brdg"
+      ],
+      "pulsePointId": "2499084299"
+    },
+    {
       "id": "2026-06-14T19:38:00Z_delta/alex-fraser-brdg",
       "timestamp": "2026-06-14T19:38:00Z",
       "address": "ALEX FRASER BRDG",
@@ -225,6 +238,6 @@
       "pulsePointId": "2433160188"
     }
   ],
-  "lastIncident": "2026-06-14T19:38:00Z",
-  "count": 17
+  "lastIncident": "2026-06-17T23:09:00Z",
+  "count": 18
 }
