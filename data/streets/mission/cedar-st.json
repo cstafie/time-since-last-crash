@@ -4,6 +4,21 @@
   "city": "Mission",
   "incidents": [
     {
+      "id": "2026-06-17T02:37:00Z_mission/cherry-ave_mission/cedar-st",
+      "timestamp": "2026-06-17T02:37:00Z",
+      "address": "CHERRY AVE & CEDAR ST",
+      "city": "Mission",
+      "streets": [
+        "mission/cherry-ave",
+        "mission/cedar-st"
+      ],
+      "streetNames": [
+        "Cherry Ave",
+        "Cedar St"
+      ],
+      "pulsePointId": "2498479760"
+    },
+    {
       "id": "2026-05-13T18:38:00Z_mission/7th-ave_mission/cedar-st",
       "timestamp": "2026-05-13T18:38:00Z",
       "address": "7TH AVE & CEDAR ST",
@@ -79,6 +94,6 @@
       "pulsePointId": "2447818248"
     }
   ],
-  "lastIncident": "2026-05-13T18:38:00Z",
-  "count": 5
+  "lastIncident": "2026-06-17T02:37:00Z",
+  "count": 6
 }

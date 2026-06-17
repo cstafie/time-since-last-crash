@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-06-17T02:10:00Z_langley/48th-ave_langley/208th-st",
+      "timestamp": "2026-06-17T02:10:00Z",
+      "address": "48TH AVE & 208TH ST",
+      "city": "Langley",
+      "streets": [
+        "langley/48th-ave",
+        "langley/208th-st"
+      ],
+      "streetNames": [
+        "48th Ave",
+        "208th St"
+      ],
+      "pulsePointId": "2498465435"
+    },
+    {
       "id": "2026-05-24T08:52:00Z_langley/48th-ave",
       "timestamp": "2026-05-24T08:52:00Z",
       "address": "48TH AVE",
@@ -45,6 +60,6 @@
       "pulsePointId": "2459008504"
     }
   ],
-  "lastIncident": "2026-05-24T08:52:00Z",
-  "count": 3
+  "lastIncident": "2026-06-17T02:10:00Z",
+  "count": 4
 }
