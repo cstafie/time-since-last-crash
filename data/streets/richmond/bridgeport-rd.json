@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-06-17T00:34:00Z_richmond/no-5-rd_richmond/bridgeport-rd",
+      "timestamp": "2026-06-17T00:34:00Z",
+      "address": "NO 5 RD & BRIDGEPORT RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/no-5-rd",
+        "richmond/bridgeport-rd"
+      ],
+      "streetNames": [
+        "No 5 Rd",
+        "Bridgeport Rd"
+      ],
+      "pulsePointId": "2498409429"
+    },
+    {
       "id": "2026-06-03T23:42:00Z_richmond/bridgeport-rd_richmond/no-5-rd",
       "timestamp": "2026-06-03T23:42:00Z",
       "address": "BRIDGEPORT RD & NO 5 RD",
@@ -166,6 +181,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-03T23:42:00Z",
-  "count": 11
+  "lastIncident": "2026-06-17T00:34:00Z",
+  "count": 12
 }

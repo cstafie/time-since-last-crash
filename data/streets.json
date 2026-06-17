@@ -451,8 +451,8 @@
     "name": "Bridgeport Rd",
     "slug": "richmond/bridgeport-rd",
     "city": "Richmond",
-    "lastIncident": "2026-06-03T23:42:00Z",
-    "count": 11
+    "lastIncident": "2026-06-17T00:34:00Z",
+    "count": 12
   },
   "richmond/granville-ave": {
     "name": "Granville Ave",
@@ -1501,8 +1501,8 @@
     "name": "144th St",
     "slug": "surrey/144th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-16T16:47:00Z",
-    "count": 33
+    "lastIncident": "2026-06-17T00:45:00Z",
+    "count": 34
   },
   "north-vancouver/seymour-blvd": {
     "name": "Seymour Blvd",
@@ -2572,8 +2572,8 @@
     "name": "No 5 Rd",
     "slug": "richmond/no-5-rd",
     "city": "Richmond",
-    "lastIncident": "2026-06-08T23:29:00Z",
-    "count": 10
+    "lastIncident": "2026-06-17T00:34:00Z",
+    "count": 11
   },
   "port-moody/heritage-mountain-blvd": {
     "name": "Heritage Mountain Blvd",
@@ -11084,8 +11084,8 @@
     "name": "Linwood St",
     "slug": "burnaby/linwood-st",
     "city": "Burnaby",
-    "lastIncident": "2026-05-31T19:55:00Z",
-    "count": 1
+    "lastIncident": "2026-06-17T00:40:00Z",
+    "count": 2
   },
   "north-vancouver/e-15th-st": {
     "name": "E 15th St",
