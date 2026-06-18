@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/stanley-park-cswy",
+  "name": "Stanley Park Cswy",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-18T19:53:00Z_vancouver/stanley-park-cswy",
+      "timestamp": "2026-06-18T19:53:00Z",
+      "address": "STANLEY PARK CSWY",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/stanley-park-cswy"
+      ],
+      "streetNames": [
+        "Stanley Park Cswy"
+      ],
+      "pulsePointId": "2499696551"
+    }
+  ],
+  "lastIncident": "2026-06-18T19:53:00Z",
+  "count": 1
+}

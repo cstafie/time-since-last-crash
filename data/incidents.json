@@ -1,5 +1,173 @@
 [
   {
+    "id": "2026-06-18T22:07:00Z_chilliwack/ashwell-rd_chilliwack/bernard-ave",
+    "timestamp": "2026-06-18T22:07:00Z",
+    "scrapedAt": "2026-06-18T22:13:43Z",
+    "address": "ASHWELL RD & BERNARD AVE",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/ashwell-rd",
+      "chilliwack/bernard-ave"
+    ],
+    "streetNames": [
+      "Ashwell Rd",
+      "Bernard Ave"
+    ],
+    "pulsePointId": "2499798518"
+  },
+  {
+    "id": "2026-06-18T21:54:00Z_surrey/croydon-dr_surrey/24th-ave",
+    "timestamp": "2026-06-18T21:54:00Z",
+    "scrapedAt": "2026-06-18T22:13:43Z",
+    "address": "CROYDON DR & 24TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/croydon-dr",
+      "surrey/24th-ave"
+    ],
+    "streetNames": [
+      "Croydon Dr",
+      "24th Ave"
+    ],
+    "pulsePointId": "2499788093"
+  },
+  {
+    "id": "2026-06-18T21:44:00Z_vancouver/e-63rd-ave_vancouver/knight-st",
+    "timestamp": "2026-06-18T21:44:00Z",
+    "scrapedAt": "2026-06-18T22:13:43Z",
+    "address": "E 63RD AVE & KNIGHT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-63rd-ave",
+      "vancouver/knight-st"
+    ],
+    "streetNames": [
+      "E 63rd Ave",
+      "Knight St"
+    ],
+    "pulsePointId": "2499782860"
+  },
+  {
+    "id": "2026-06-18T21:41:00Z_surrey/15959-fraser-hwy",
+    "timestamp": "2026-06-18T21:41:00Z",
+    "scrapedAt": "2026-06-18T22:13:43Z",
+    "address": "15959 FRASER HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/15959-fraser-hwy"
+    ],
+    "streetNames": [
+      "15959 Fraser Hwy"
+    ],
+    "pulsePointId": "2499780484"
+  },
+  {
+    "id": "2026-06-18T21:32:00Z_surrey/croydon-dr_surrey/24th-ave",
+    "timestamp": "2026-06-18T21:32:00Z",
+    "scrapedAt": "2026-06-18T22:13:43Z",
+    "address": "CROYDON DR & 24TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/croydon-dr",
+      "surrey/24th-ave"
+    ],
+    "streetNames": [
+      "Croydon Dr",
+      "24th Ave"
+    ],
+    "pulsePointId": "2499772448"
+  },
+  {
+    "id": "2026-06-18T21:24:00Z_vancouver/e-27th-ave_vancouver/fraser-st",
+    "timestamp": "2026-06-18T21:24:00Z",
+    "scrapedAt": "2026-06-18T22:13:43Z",
+    "address": "E 27TH AVE & FRASER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-27th-ave",
+      "vancouver/fraser-st"
+    ],
+    "streetNames": [
+      "E 27th Ave",
+      "Fraser St"
+    ],
+    "pulsePointId": "2499767890"
+  },
+  {
+    "id": "2026-06-18T21:17:00Z_vancouver/rupert-st_vancouver/wellington-ave",
+    "timestamp": "2026-06-18T21:17:00Z",
+    "scrapedAt": "2026-06-18T22:13:43Z",
+    "address": "RUPERT ST & WELLINGTON AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/rupert-st",
+      "vancouver/wellington-ave"
+    ],
+    "streetNames": [
+      "Rupert St",
+      "Wellington Ave"
+    ],
+    "pulsePointId": "2499760794"
+  },
+  {
+    "id": "2026-06-18T21:00:00Z_port-moody/sunnyside-rd_port-moody/bedwell-bay-rd",
+    "timestamp": "2026-06-18T21:00:00Z",
+    "scrapedAt": "2026-06-18T22:13:43Z",
+    "address": "SUNNYSIDE RD & BEDWELL BAY RD",
+    "city": "Port Moody",
+    "streets": [
+      "port-moody/sunnyside-rd",
+      "port-moody/bedwell-bay-rd"
+    ],
+    "streetNames": [
+      "Sunnyside Rd",
+      "Bedwell Bay Rd"
+    ],
+    "pulsePointId": "2499748425"
+  },
+  {
+    "id": "2026-06-18T20:42:00Z_langley/200a-st",
+    "timestamp": "2026-06-18T20:42:00Z",
+    "scrapedAt": "2026-06-18T22:13:43Z",
+    "address": "200A ST",
+    "city": "Langley",
+    "streets": [
+      "langley/200a-st"
+    ],
+    "streetNames": [
+      "200a St"
+    ],
+    "pulsePointId": "2499734833"
+  },
+  {
+    "id": "2026-06-18T19:53:00Z_vancouver/stanley-park-cswy",
+    "timestamp": "2026-06-18T19:53:00Z",
+    "scrapedAt": "2026-06-18T22:13:43Z",
+    "address": "STANLEY PARK CSWY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/stanley-park-cswy"
+    ],
+    "streetNames": [
+      "Stanley Park Cswy"
+    ],
+    "pulsePointId": "2499696551"
+  },
+  {
+    "id": "2026-06-18T19:24:00Z_chilliwack/yarrow-central-rd",
+    "timestamp": "2026-06-18T19:24:00Z",
+    "scrapedAt": "2026-06-18T22:13:43Z",
+    "address": "YARROW CENTRAL RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/yarrow-central-rd"
+    ],
+    "streetNames": [
+      "Yarrow Central Rd"
+    ],
+    "pulsePointId": "2499674000"
+  },
+  {
     "id": "2026-06-18T18:59:00Z_abbotsford/whatcom-rd_abbotsford/sandringham-dr",
     "timestamp": "2026-06-18T18:59:00Z",
     "scrapedAt": "2026-06-18T19:18:30Z",

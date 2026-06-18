@@ -752,8 +752,8 @@
     "name": "Knight St",
     "slug": "vancouver/knight-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-18T14:09:00Z",
-    "count": 30
+    "lastIncident": "2026-06-18T21:44:00Z",
+    "count": 31
   },
   "vancouver/lower-mall": {
     "name": "Lower Mall",
@@ -2187,8 +2187,8 @@
     "name": "Rupert St",
     "slug": "vancouver/rupert-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-03T05:20:00Z",
-    "count": 12
+    "lastIncident": "2026-06-18T21:17:00Z",
+    "count": 13
   },
   "vancouver/fir-st": {
     "name": "Fir St",
@@ -2236,8 +2236,8 @@
     "name": "E 63rd Ave",
     "slug": "vancouver/e-63rd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-25T19:01:00Z",
-    "count": 4
+    "lastIncident": "2026-06-18T21:44:00Z",
+    "count": 5
   },
   "port-coquitlam/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -2446,8 +2446,8 @@
     "name": "E 27th Ave",
     "slug": "vancouver/e-27th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-03-17T02:52:00Z",
-    "count": 1
+    "lastIncident": "2026-06-18T21:24:00Z",
+    "count": 2
   },
   "vancouver/nanaimo-st": {
     "name": "Nanaimo St",
@@ -3062,8 +3062,8 @@
     "name": "24th Ave",
     "slug": "surrey/24th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-11T02:06:00Z",
-    "count": 14
+    "lastIncident": "2026-06-18T21:54:00Z",
+    "count": 16
   },
   "vancouver/e-49th-ave": {
     "name": "E 49th Ave",
@@ -3258,8 +3258,8 @@
     "name": "Fraser St",
     "slug": "vancouver/fraser-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-12T18:46:00Z",
-    "count": 13
+    "lastIncident": "2026-06-18T21:24:00Z",
+    "count": 14
   },
   "abbotsford/32470-simon-ave": {
     "name": "32470 Simon Ave",
@@ -6121,15 +6121,15 @@
     "name": "Bedwell Bay Rd",
     "slug": "port-moody/bedwell-bay-rd",
     "city": "Port Moody",
-    "lastIncident": "2026-04-10T08:43:00Z",
-    "count": 1
+    "lastIncident": "2026-06-18T21:00:00Z",
+    "count": 2
   },
   "surrey/croydon-dr": {
     "name": "Croydon Dr",
     "slug": "surrey/croydon-dr",
     "city": "Surrey",
-    "lastIncident": "2026-04-10T12:41:00Z",
-    "count": 1
+    "lastIncident": "2026-06-18T21:54:00Z",
+    "count": 3
   },
   "langley/26th-ave": {
     "name": "26th Ave",
@@ -9222,8 +9222,8 @@
     "name": "Wellington Ave",
     "slug": "vancouver/wellington-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-10T00:49:00Z",
-    "count": 1
+    "lastIncident": "2026-06-18T21:17:00Z",
+    "count": 2
   },
   "vancouver/w-67th-ave": {
     "name": "W 67th Ave",
@@ -12499,6 +12499,55 @@
     "slug": "abbotsford/sandringham-dr",
     "city": "Abbotsford",
     "lastIncident": "2026-06-18T18:59:00Z",
+    "count": 1
+  },
+  "chilliwack/ashwell-rd": {
+    "name": "Ashwell Rd",
+    "slug": "chilliwack/ashwell-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-06-18T22:07:00Z",
+    "count": 1
+  },
+  "chilliwack/bernard-ave": {
+    "name": "Bernard Ave",
+    "slug": "chilliwack/bernard-ave",
+    "city": "Chilliwack",
+    "lastIncident": "2026-06-18T22:07:00Z",
+    "count": 1
+  },
+  "port-moody/sunnyside-rd": {
+    "name": "Sunnyside Rd",
+    "slug": "port-moody/sunnyside-rd",
+    "city": "Port Moody",
+    "lastIncident": "2026-06-18T21:00:00Z",
+    "count": 1
+  },
+  "langley/200a-st": {
+    "name": "200a St",
+    "slug": "langley/200a-st",
+    "city": "Langley",
+    "lastIncident": "2026-06-18T20:42:00Z",
+    "count": 1
+  },
+  "surrey/15959-fraser-hwy": {
+    "name": "15959 Fraser Hwy",
+    "slug": "surrey/15959-fraser-hwy",
+    "city": "Surrey",
+    "lastIncident": "2026-06-18T21:41:00Z",
+    "count": 1
+  },
+  "vancouver/stanley-park-cswy": {
+    "name": "Stanley Park Cswy",
+    "slug": "vancouver/stanley-park-cswy",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-18T19:53:00Z",
+    "count": 1
+  },
+  "chilliwack/yarrow-central-rd": {
+    "name": "Yarrow Central Rd",
+    "slug": "chilliwack/yarrow-central-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-06-18T19:24:00Z",
     "count": 1
   }
 }

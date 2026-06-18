@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-18T21:17:00Z_vancouver/rupert-st_vancouver/wellington-ave",
+      "timestamp": "2026-06-18T21:17:00Z",
+      "address": "RUPERT ST & WELLINGTON AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/rupert-st",
+        "vancouver/wellington-ave"
+      ],
+      "streetNames": [
+        "Rupert St",
+        "Wellington Ave"
+      ],
+      "pulsePointId": "2499760794"
+    },
+    {
       "id": "2026-06-03T05:20:00Z_vancouver/grandview-hwy_vancouver/rupert-st",
       "timestamp": "2026-06-03T05:20:00Z",
       "address": "GRANDVIEW HWY & RUPERT ST",
@@ -180,6 +195,6 @@
       "pulsePointId": "2434824658"
     }
   ],
-  "lastIncident": "2026-06-03T05:20:00Z",
-  "count": 12
+  "lastIncident": "2026-06-18T21:17:00Z",
+  "count": 13
 }

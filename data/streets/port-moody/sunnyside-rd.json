@@ -1,6 +1,6 @@
 {
-  "slug": "port-moody/bedwell-bay-rd",
-  "name": "Bedwell Bay Rd",
+  "slug": "port-moody/sunnyside-rd",
+  "name": "Sunnyside Rd",
   "city": "Port Moody",
   "incidents": [
     {
@@ -17,21 +17,8 @@
         "Bedwell Bay Rd"
       ],
       "pulsePointId": "2499748425"
-    },
-    {
-      "id": "2026-04-10T08:43:00Z_port-moody/bedwell-bay-rd",
-      "timestamp": "2026-04-10T08:43:00Z",
-      "address": "BEDWELL BAY RD",
-      "city": "Port Moody",
-      "streets": [
-        "port-moody/bedwell-bay-rd"
-      ],
-      "streetNames": [
-        "Bedwell Bay Rd"
-      ],
-      "pulsePointId": "2451387751"
     }
   ],
   "lastIncident": "2026-06-18T21:00:00Z",
-  "count": 2
+  "count": 1
 }
