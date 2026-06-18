@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-18T02:20:00Z_vancouver/terminal-ave",
+      "timestamp": "2026-06-18T02:20:00Z",
+      "address": "TERMINAL AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/terminal-ave"
+      ],
+      "streetNames": [
+        "Terminal Ave"
+      ],
+      "pulsePointId": "2499217590"
+    },
+    {
       "id": "2026-05-29T01:00:00Z_vancouver/terminal-ave",
       "timestamp": "2026-05-29T01:00:00Z",
       "address": "TERMINAL AVE",
@@ -32,6 +45,6 @@
       "pulsePointId": "2437174039"
     }
   ],
-  "lastIncident": "2026-05-29T01:00:00Z",
-  "count": 2
+  "lastIncident": "2026-06-18T02:20:00Z",
+  "count": 3
 }

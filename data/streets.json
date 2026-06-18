@@ -528,8 +528,8 @@
     "name": "124th St",
     "slug": "surrey/124th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-13T20:29:00Z",
-    "count": 12
+    "lastIncident": "2026-06-18T01:28:00Z",
+    "count": 13
   },
   "surrey/128th-st": {
     "name": "128th St",
@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-13T20:29:00Z",
-    "count": 36
+    "lastIncident": "2026-06-18T01:28:00Z",
+    "count": 37
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",
@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-06-14T22:15:00Z",
-    "count": 68
+    "lastIncident": "2026-06-18T01:55:00Z",
+    "count": 69
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-15T18:01:00Z",
-    "count": 49
+    "lastIncident": "2026-06-18T02:07:00Z",
+    "count": 51
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",
@@ -2999,8 +2999,8 @@
     "name": "Terminal Ave",
     "slug": "vancouver/terminal-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-29T01:00:00Z",
-    "count": 2
+    "lastIncident": "2026-06-18T02:20:00Z",
+    "count": 3
   },
   "burnaby/griffiths-dr": {
     "name": "Griffiths Dr",
@@ -7122,8 +7122,8 @@
     "name": "E 2nd Ave",
     "slug": "vancouver/e-2nd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-15T16:14:00Z",
-    "count": 7
+    "lastIncident": "2026-06-18T00:29:00Z",
+    "count": 8
   },
   "abbotsford/3033-immel-stste-600": {
     "name": "3033 Immel St,ste 600",
@@ -8102,8 +8102,8 @@
     "name": "Lyon Rd",
     "slug": "delta/lyon-rd",
     "city": "Delta",
-    "lastIncident": "2026-06-06T09:00:00Z",
-    "count": 2
+    "lastIncident": "2026-06-18T00:58:00Z",
+    "count": 3
   },
   "surrey/134th-st": {
     "name": "134th St",
@@ -9558,8 +9558,8 @@
     "name": "102nd Ave",
     "slug": "surrey/102nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-19T12:45:00Z",
-    "count": 2
+    "lastIncident": "2026-06-18T01:55:00Z",
+    "count": 3
   },
   "chilliwack/spadina-ave": {
     "name": "Spadina Ave",
@@ -12464,6 +12464,20 @@
     "slug": "port-coquitlam/brown-st",
     "city": "Port Coquitlam",
     "lastIncident": "2026-06-17T22:41:00Z",
+    "count": 1
+  },
+  "vancouver/central-st": {
+    "name": "Central St",
+    "slug": "vancouver/central-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-18T02:07:00Z",
+    "count": 1
+  },
+  "delta/huff-blvd": {
+    "name": "Huff Blvd",
+    "slug": "delta/huff-blvd",
+    "city": "Delta",
+    "lastIncident": "2026-06-18T00:58:00Z",
     "count": 1
   }
 }

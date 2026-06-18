@@ -4,6 +4,36 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-18T02:07:00Z_vancouver/main-st_vancouver/central-st",
+      "timestamp": "2026-06-18T02:07:00Z",
+      "address": "MAIN ST & CENTRAL ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/main-st",
+        "vancouver/central-st"
+      ],
+      "streetNames": [
+        "Main St",
+        "Central St"
+      ],
+      "pulsePointId": "2499204915"
+    },
+    {
+      "id": "2026-06-18T00:29:00Z_vancouver/e-2nd-ave_vancouver/main-st",
+      "timestamp": "2026-06-18T00:29:00Z",
+      "address": "E 2ND AVE & MAIN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-2nd-ave",
+        "vancouver/main-st"
+      ],
+      "streetNames": [
+        "E 2nd Ave",
+        "Main St"
+      ],
+      "pulsePointId": "2499143352"
+    },
+    {
       "id": "2026-06-15T18:01:00Z_vancouver/main-st_vancouver/powell-st",
       "timestamp": "2026-06-15T18:01:00Z",
       "address": "MAIN ST & POWELL ST",
@@ -723,6 +753,6 @@
       "pulsePointId": "2432937969"
     }
   ],
-  "lastIncident": "2026-06-15T18:01:00Z",
-  "count": 49
+  "lastIncident": "2026-06-18T02:07:00Z",
+  "count": 51
 }

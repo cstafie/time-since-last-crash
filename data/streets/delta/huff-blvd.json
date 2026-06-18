@@ -1,0 +1,24 @@
+{
+  "slug": "delta/huff-blvd",
+  "name": "Huff Blvd",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-06-18T00:58:00Z_delta/huff-blvd_delta/lyon-rd",
+      "timestamp": "2026-06-18T00:58:00Z",
+      "address": "HUFF BLVD & LYON RD",
+      "city": "Delta",
+      "streets": [
+        "delta/huff-blvd",
+        "delta/lyon-rd"
+      ],
+      "streetNames": [
+        "Huff Blvd",
+        "Lyon Rd"
+      ],
+      "pulsePointId": "2499162158"
+    }
+  ],
+  "lastIncident": "2026-06-18T00:58:00Z",
+  "count": 1
+}

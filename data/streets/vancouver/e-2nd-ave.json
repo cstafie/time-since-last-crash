@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-18T00:29:00Z_vancouver/e-2nd-ave_vancouver/main-st",
+      "timestamp": "2026-06-18T00:29:00Z",
+      "address": "E 2ND AVE & MAIN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-2nd-ave",
+        "vancouver/main-st"
+      ],
+      "streetNames": [
+        "E 2nd Ave",
+        "Main St"
+      ],
+      "pulsePointId": "2499143352"
+    },
+    {
       "id": "2026-06-15T16:14:00Z_vancouver/commercial-dr_vancouver/e-2nd-ave",
       "timestamp": "2026-06-15T16:14:00Z",
       "address": "COMMERCIAL DR & E 2ND AVE",
@@ -109,6 +124,6 @@
       "pulsePointId": "2456840729"
     }
   ],
-  "lastIncident": "2026-06-15T16:14:00Z",
-  "count": 7
+  "lastIncident": "2026-06-18T00:29:00Z",
+  "count": 8
 }
