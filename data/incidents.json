@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-18T06:59:00Z_vancouver/w-georgia-st_vancouver/richards-st",
+    "timestamp": "2026-06-18T06:59:00Z",
+    "scrapedAt": "2026-06-18T08:31:23Z",
+    "address": "W GEORGIA ST & RICHARDS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-georgia-st",
+      "vancouver/richards-st"
+    ],
+    "streetNames": [
+      "W Georgia St",
+      "Richards St"
+    ],
+    "pulsePointId": "2499344038"
+  },
+  {
     "id": "2026-06-18T06:05:00Z_vancouver/e-hastings-st",
     "timestamp": "2026-06-18T06:05:00Z",
     "scrapedAt": "2026-06-18T06:33:17Z",
