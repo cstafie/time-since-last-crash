@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-06-18T17:01:00Z_abbotsford/abbotsford-way_abbotsford/marshall-rd",
+    "timestamp": "2026-06-18T17:01:00Z",
+    "scrapedAt": "2026-06-18T18:04:27Z",
+    "address": "ABBOTSFORD WAY & MARSHALL RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/abbotsford-way",
+      "abbotsford/marshall-rd"
+    ],
+    "streetNames": [
+      "Abbotsford Way",
+      "Marshall Rd"
+    ],
+    "pulsePointId": "2499572774"
+  },
+  {
+    "id": "2026-06-18T16:00:00Z_richmond/no-5-rd",
+    "timestamp": "2026-06-18T16:00:00Z",
+    "scrapedAt": "2026-06-18T18:04:27Z",
+    "address": "NO 5 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/no-5-rd"
+    ],
+    "streetNames": [
+      "No 5 Rd"
+    ],
+    "pulsePointId": "2499534331"
+  },
+  {
+    "id": "2026-06-18T15:59:00Z_richmond/no-5-rd",
+    "timestamp": "2026-06-18T15:59:00Z",
+    "scrapedAt": "2026-06-18T18:04:27Z",
+    "address": "NO 5 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/no-5-rd"
+    ],
+    "streetNames": [
+      "No 5 Rd"
+    ],
+    "pulsePointId": "2499532794"
+  },
+  {
+    "id": "2026-06-18T15:33:00Z_surrey/83rd-ave",
+    "timestamp": "2026-06-18T15:33:00Z",
+    "scrapedAt": "2026-06-18T18:04:27Z",
+    "address": "83RD AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/83rd-ave"
+    ],
+    "streetNames": [
+      "83rd Ave"
+    ],
+    "pulsePointId": "2499519382"
+  },
+  {
+    "id": "2026-06-18T14:58:00Z_burnaby/trans-canada-hwy_burnaby/willingdon-avenue-ofrp",
+    "timestamp": "2026-06-18T14:58:00Z",
+    "scrapedAt": "2026-06-18T18:04:27Z",
+    "address": "TRANS CANADA HWY & WILLINGDON AVENUE OFRP",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy",
+      "burnaby/willingdon-avenue-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "Willingdon Avenue Ofrp"
+    ],
+    "pulsePointId": "2499500133"
+  },
+  {
+    "id": "2026-06-18T14:09:00Z_vancouver/knight-st_vancouver/e-57th-ave",
+    "timestamp": "2026-06-18T14:09:00Z",
+    "scrapedAt": "2026-06-18T18:04:27Z",
+    "address": "KNIGHT ST & E 57TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/knight-st",
+      "vancouver/e-57th-ave"
+    ],
+    "streetNames": [
+      "Knight St",
+      "E 57th Ave"
+    ],
+    "pulsePointId": "2499476145"
+  },
+  {
     "id": "2026-06-18T13:38:00Z_richmond/westminster-hwy_richmond/no-4-rd",
     "timestamp": "2026-06-18T13:38:00Z",
     "scrapedAt": "2026-06-18T14:05:56Z",

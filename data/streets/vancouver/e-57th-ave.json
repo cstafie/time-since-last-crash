@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-18T14:09:00Z_vancouver/knight-st_vancouver/e-57th-ave",
+      "timestamp": "2026-06-18T14:09:00Z",
+      "address": "KNIGHT ST & E 57TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/knight-st",
+        "vancouver/e-57th-ave"
+      ],
+      "streetNames": [
+        "Knight St",
+        "E 57th Ave"
+      ],
+      "pulsePointId": "2499476145"
+    },
+    {
       "id": "2026-06-02T15:30:00Z_vancouver/e-57th-ave_vancouver/fraser-st",
       "timestamp": "2026-06-02T15:30:00Z",
       "address": "E 57TH AVE & FRASER ST",
@@ -64,6 +79,6 @@
       "pulsePointId": "2447494168"
     }
   ],
-  "lastIncident": "2026-06-02T15:30:00Z",
-  "count": 4
+  "lastIncident": "2026-06-18T14:09:00Z",
+  "count": 5
 }

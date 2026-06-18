@@ -17,8 +17,8 @@
     "name": "Marshall Rd",
     "slug": "abbotsford/marshall-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-17T13:41:00Z",
-    "count": 11
+    "lastIncident": "2026-06-18T17:01:00Z",
+    "count": 12
   },
   "abbotsford/mccallum-rd": {
     "name": "Mccallum Rd",
@@ -752,8 +752,8 @@
     "name": "Knight St",
     "slug": "vancouver/knight-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-25T19:01:00Z",
-    "count": 29
+    "lastIncident": "2026-06-18T14:09:00Z",
+    "count": 30
   },
   "vancouver/lower-mall": {
     "name": "Lower Mall",
@@ -1249,8 +1249,8 @@
     "name": "Trans Canada Hwy",
     "slug": "burnaby/trans-canada-hwy",
     "city": "Burnaby",
-    "lastIncident": "2026-06-16T22:05:00Z",
-    "count": 29
+    "lastIncident": "2026-06-18T14:58:00Z",
+    "count": 30
   },
   "vancouver/e-1st-ave": {
     "name": "E 1st Ave",
@@ -2572,8 +2572,8 @@
     "name": "No 5 Rd",
     "slug": "richmond/no-5-rd",
     "city": "Richmond",
-    "lastIncident": "2026-06-17T00:34:00Z",
-    "count": 11
+    "lastIncident": "2026-06-18T16:00:00Z",
+    "count": 13
   },
   "port-moody/heritage-mountain-blvd": {
     "name": "Heritage Mountain Blvd",
@@ -4133,8 +4133,8 @@
     "name": "Willingdon Avenue Ofrp",
     "slug": "burnaby/willingdon-avenue-ofrp",
     "city": "Burnaby",
-    "lastIncident": "2026-06-13T07:01:00Z",
-    "count": 7
+    "lastIncident": "2026-06-18T14:58:00Z",
+    "count": 8
   },
   "surrey/194a-st": {
     "name": "194a St",
@@ -5295,8 +5295,8 @@
     "name": "E 57th Ave",
     "slug": "vancouver/e-57th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-02T15:30:00Z",
-    "count": 4
+    "lastIncident": "2026-06-18T14:09:00Z",
+    "count": 5
   },
   "coquitlam/tatla-pl": {
     "name": "Tatla Pl",
@@ -12478,6 +12478,20 @@
     "slug": "delta/huff-blvd",
     "city": "Delta",
     "lastIncident": "2026-06-18T00:58:00Z",
+    "count": 1
+  },
+  "abbotsford/abbotsford-way": {
+    "name": "Abbotsford Way",
+    "slug": "abbotsford/abbotsford-way",
+    "city": "Abbotsford",
+    "lastIncident": "2026-06-18T17:01:00Z",
+    "count": 1
+  },
+  "surrey/83rd-ave": {
+    "name": "83rd Ave",
+    "slug": "surrey/83rd-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-06-18T15:33:00Z",
     "count": 1
   }
 }
