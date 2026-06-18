@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-17T23:46:00Z_surrey/125th-st_surrey/92nd-ave",
+      "timestamp": "2026-06-17T23:46:00Z",
+      "address": "125TH ST & 92ND AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/125th-st",
+        "surrey/92nd-ave"
+      ],
+      "streetNames": [
+        "125th St",
+        "92nd Ave"
+      ],
+      "pulsePointId": "2499111912"
+    },
+    {
       "id": "2026-06-09T22:13:00Z_surrey/92nd-ave_surrey/138th-st",
       "timestamp": "2026-06-09T22:13:00Z",
       "address": "92ND AVE & 138TH ST",
@@ -271,6 +286,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-09T22:13:00Z",
-  "count": 18
+  "lastIncident": "2026-06-17T23:46:00Z",
+  "count": 19
 }

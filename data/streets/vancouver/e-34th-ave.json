@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-17T23:32:00Z_vancouver/victoria-dr_vancouver/e-34th-ave",
+      "timestamp": "2026-06-17T23:32:00Z",
+      "address": "VICTORIA DR & E 34TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/victoria-dr",
+        "vancouver/e-34th-ave"
+      ],
+      "streetNames": [
+        "Victoria Dr",
+        "E 34th Ave"
+      ],
+      "pulsePointId": "2499102268"
+    },
+    {
       "id": "2026-05-29T21:45:00Z_vancouver/clarendon-st_vancouver/e-34th-ave",
       "timestamp": "2026-05-29T21:45:00Z",
       "address": "CLARENDON ST & E 34TH AVE",
@@ -34,6 +49,6 @@
       "pulsePointId": "2474935663"
     }
   ],
-  "lastIncident": "2026-05-29T21:45:00Z",
-  "count": 2
+  "lastIncident": "2026-06-17T23:32:00Z",
+  "count": 3
 }

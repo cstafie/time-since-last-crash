@@ -640,8 +640,8 @@
     "name": "92nd Ave",
     "slug": "surrey/92nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-09T22:13:00Z",
-    "count": 18
+    "lastIncident": "2026-06-17T23:46:00Z",
+    "count": 19
   },
   "surrey/96th-ave": {
     "name": "96th Ave",
@@ -3076,8 +3076,8 @@
     "name": "Victoria Dr",
     "slug": "vancouver/victoria-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-06-03T16:21:00Z",
-    "count": 17
+    "lastIncident": "2026-06-17T23:32:00Z",
+    "count": 18
   },
   "vancouver/e-60th-ave": {
     "name": "E 60th Ave",
@@ -5540,8 +5540,8 @@
     "name": "125th St",
     "slug": "surrey/125th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-26T00:59:00Z",
-    "count": 2
+    "lastIncident": "2026-06-17T23:46:00Z",
+    "count": 3
   },
   "surrey/130th-st": {
     "name": "130th St",
@@ -9656,8 +9656,8 @@
     "name": "E 34th Ave",
     "slug": "vancouver/e-34th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-29T21:45:00Z",
-    "count": 2
+    "lastIncident": "2026-06-17T23:32:00Z",
+    "count": 3
   },
   "vancouver/w-43rd-ave": {
     "name": "W 43rd Ave",

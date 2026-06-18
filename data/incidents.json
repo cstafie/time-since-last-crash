@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-17T23:46:00Z_surrey/125th-st_surrey/92nd-ave",
+    "timestamp": "2026-06-17T23:46:00Z",
+    "scrapedAt": "2026-06-18T00:00:49Z",
+    "address": "125TH ST & 92ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/125th-st",
+      "surrey/92nd-ave"
+    ],
+    "streetNames": [
+      "125th St",
+      "92nd Ave"
+    ],
+    "pulsePointId": "2499111912"
+  },
+  {
+    "id": "2026-06-17T23:32:00Z_vancouver/victoria-dr_vancouver/e-34th-ave",
+    "timestamp": "2026-06-17T23:32:00Z",
+    "scrapedAt": "2026-06-18T00:00:49Z",
+    "address": "VICTORIA DR & E 34TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/victoria-dr",
+      "vancouver/e-34th-ave"
+    ],
+    "streetNames": [
+      "Victoria Dr",
+      "E 34th Ave"
+    ],
+    "pulsePointId": "2499102268"
+  },
+  {
     "id": "2026-06-17T23:26:00Z_surrey/156th-st_surrey/fraser-hwy",
     "timestamp": "2026-06-17T23:26:00Z",
     "scrapedAt": "2026-06-17T23:32:00Z",

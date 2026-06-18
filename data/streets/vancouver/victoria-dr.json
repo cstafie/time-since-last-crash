@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-17T23:32:00Z_vancouver/victoria-dr_vancouver/e-34th-ave",
+      "timestamp": "2026-06-17T23:32:00Z",
+      "address": "VICTORIA DR & E 34TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/victoria-dr",
+        "vancouver/e-34th-ave"
+      ],
+      "streetNames": [
+        "Victoria Dr",
+        "E 34th Ave"
+      ],
+      "pulsePointId": "2499102268"
+    },
+    {
       "id": "2026-06-03T16:21:00Z_vancouver/e-41st-ave_vancouver/victoria-dr",
       "timestamp": "2026-06-03T16:21:00Z",
       "address": "E 41ST AVE & VICTORIA DR",
@@ -255,6 +270,6 @@
       "pulsePointId": "2437375979"
     }
   ],
-  "lastIncident": "2026-06-03T16:21:00Z",
-  "count": 17
+  "lastIncident": "2026-06-17T23:32:00Z",
+  "count": 18
 }
