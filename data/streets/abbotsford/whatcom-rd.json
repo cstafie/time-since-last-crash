@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-18T18:59:00Z_abbotsford/whatcom-rd_abbotsford/sandringham-dr",
+      "timestamp": "2026-06-18T18:59:00Z",
+      "address": "WHATCOM RD & SANDRINGHAM DR",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/whatcom-rd",
+        "abbotsford/sandringham-dr"
+      ],
+      "streetNames": [
+        "Whatcom Rd",
+        "Sandringham Dr"
+      ],
+      "pulsePointId": "2499654325"
+    },
+    {
       "id": "2026-06-13T21:04:00Z_abbotsford/south-parallel-rd_abbotsford/whatcom-rd",
       "timestamp": "2026-06-13T21:04:00Z",
       "address": "SOUTH PARALLEL RD & WHATCOM RD",
@@ -62,6 +77,6 @@
       "pulsePointId": "2444737079"
     }
   ],
-  "lastIncident": "2026-06-13T21:04:00Z",
-  "count": 4
+  "lastIncident": "2026-06-18T18:59:00Z",
+  "count": 5
 }
