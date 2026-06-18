@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-06-18T13:38:00Z_richmond/westminster-hwy_richmond/no-4-rd",
+      "timestamp": "2026-06-18T13:38:00Z",
+      "address": "WESTMINSTER HWY & NO 4 RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/westminster-hwy",
+        "richmond/no-4-rd"
+      ],
+      "streetNames": [
+        "Westminster Hwy",
+        "No 4 Rd"
+      ],
+      "pulsePointId": "2499461698"
+    },
+    {
       "id": "2026-06-08T22:30:00Z_richmond/odlin-rd_richmond/no-4-rd",
       "timestamp": "2026-06-08T22:30:00Z",
       "address": "ODLIN RD & NO 4 RD",
@@ -135,6 +150,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-08T22:30:00Z",
-  "count": 9
+  "lastIncident": "2026-06-18T13:38:00Z",
+  "count": 10
 }

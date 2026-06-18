@@ -493,8 +493,8 @@
     "name": "No 4 Rd",
     "slug": "richmond/no-4-rd",
     "city": "Richmond",
-    "lastIncident": "2026-06-08T22:30:00Z",
-    "count": 9
+    "lastIncident": "2026-06-18T13:38:00Z",
+    "count": 10
   },
   "richmond/st-albans-rd": {
     "name": "St Albans Rd",
@@ -990,8 +990,8 @@
     "name": "Westminster Hwy",
     "slug": "richmond/westminster-hwy",
     "city": "Richmond",
-    "lastIncident": "2026-06-13T18:22:00Z",
-    "count": 21
+    "lastIncident": "2026-06-18T13:38:00Z",
+    "count": 22
   },
   "vancouver/e-37th-ave": {
     "name": "E 37th Ave",

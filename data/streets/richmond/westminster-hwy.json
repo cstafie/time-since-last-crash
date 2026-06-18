@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-06-18T13:38:00Z_richmond/westminster-hwy_richmond/no-4-rd",
+      "timestamp": "2026-06-18T13:38:00Z",
+      "address": "WESTMINSTER HWY & NO 4 RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/westminster-hwy",
+        "richmond/no-4-rd"
+      ],
+      "streetNames": [
+        "Westminster Hwy",
+        "No 4 Rd"
+      ],
+      "pulsePointId": "2499461698"
+    },
+    {
       "id": "2026-06-13T18:22:00Z_richmond/lynas-lane_richmond/westminster-hwy",
       "timestamp": "2026-06-13T18:22:00Z",
       "address": "LYNAS LANE & WESTMINSTER HWY",
@@ -302,6 +317,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-13T18:22:00Z",
-  "count": 21
+  "lastIncident": "2026-06-18T13:38:00Z",
+  "count": 22
 }
