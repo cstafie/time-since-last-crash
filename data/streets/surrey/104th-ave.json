@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-19T02:59:00Z_surrey/104th-ave_surrey/scott-rd",
+      "timestamp": "2026-06-19T02:59:00Z",
+      "address": "104TH AVE & SCOTT RD",
+      "city": "Surrey",
+      "streets": [
+        "surrey/104th-ave",
+        "surrey/scott-rd"
+      ],
+      "streetNames": [
+        "104th Ave",
+        "Scott Rd"
+      ],
+      "pulsePointId": "2499997947"
+    },
+    {
       "id": "2026-06-10T13:09:00Z_surrey/104th-ave_surrey/hwy-17",
       "timestamp": "2026-06-10T13:09:00Z",
       "address": "104TH AVE & HWY 17",
@@ -475,6 +490,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-10T13:09:00Z",
-  "count": 32
+  "lastIncident": "2026-06-19T02:59:00Z",
+  "count": 33
 }

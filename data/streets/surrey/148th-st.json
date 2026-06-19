@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-19T05:04:00Z_surrey/60th-ave_surrey/148th-st",
+      "timestamp": "2026-06-19T05:04:00Z",
+      "address": "60TH AVE & 148TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/60th-ave",
+        "surrey/148th-st"
+      ],
+      "streetNames": [
+        "60th Ave",
+        "148th St"
+      ],
+      "pulsePointId": "2500061905"
+    },
+    {
       "id": "2026-05-20T21:54:00Z_surrey/63rd-ave_surrey/148th-st",
       "timestamp": "2026-05-20T21:54:00Z",
       "address": "63RD AVE & 148TH ST",
@@ -279,6 +294,6 @@
       "pulsePointId": "2433715392"
     }
   ],
-  "lastIncident": "2026-05-20T21:54:00Z",
-  "count": 19
+  "lastIncident": "2026-06-19T05:04:00Z",
+  "count": 20
 }

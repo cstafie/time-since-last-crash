@@ -1,0 +1,22 @@
+{
+  "slug": "langley/212th-st",
+  "name": "212th St",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-06-19T03:15:00Z_langley/212th-st",
+      "timestamp": "2026-06-19T03:15:00Z",
+      "address": "212TH ST",
+      "city": "Langley",
+      "streets": [
+        "langley/212th-st"
+      ],
+      "streetNames": [
+        "212th St"
+      ],
+      "pulsePointId": "2500006065"
+    }
+  ],
+  "lastIncident": "2026-06-19T03:15:00Z",
+  "count": 1
+}

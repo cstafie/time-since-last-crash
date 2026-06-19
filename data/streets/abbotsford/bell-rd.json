@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/bell-rd",
+  "name": "Bell Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-06-19T03:37:00Z_abbotsford/bell-rd_abbotsford/fore-rd",
+      "timestamp": "2026-06-19T03:37:00Z",
+      "address": "BELL RD & FORE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/bell-rd",
+        "abbotsford/fore-rd"
+      ],
+      "streetNames": [
+        "Bell Rd",
+        "Fore Rd"
+      ],
+      "pulsePointId": "2500020380"
+    }
+  ],
+  "lastIncident": "2026-06-19T03:37:00Z",
+  "count": 1
+}

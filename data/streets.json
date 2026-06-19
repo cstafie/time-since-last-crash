@@ -647,8 +647,8 @@
     "name": "96th Ave",
     "slug": "surrey/96th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-04T20:34:00Z",
-    "count": 27
+    "lastIncident": "2026-06-19T03:05:00Z",
+    "count": 28
   },
   "surrey/bolivar-rd": {
     "name": "Bolivar Rd",
@@ -1312,8 +1312,8 @@
     "name": "104th Ave",
     "slug": "surrey/104th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-10T13:09:00Z",
-    "count": 32
+    "lastIncident": "2026-06-19T02:59:00Z",
+    "count": 33
   },
   "surrey/122nd-st": {
     "name": "122nd St",
@@ -1893,8 +1893,8 @@
     "name": "148th St",
     "slug": "surrey/148th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-20T21:54:00Z",
-    "count": 19
+    "lastIncident": "2026-06-19T05:04:00Z",
+    "count": 20
   },
   "vancouver/earles-st": {
     "name": "Earles St",
@@ -2978,8 +2978,8 @@
     "name": "60th Ave",
     "slug": "surrey/60th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-09T21:13:00Z",
-    "count": 11
+    "lastIncident": "2026-06-19T05:04:00Z",
+    "count": 12
   },
   "pitt-meadows/airport-way": {
     "name": "Airport Way",
@@ -7325,8 +7325,8 @@
     "name": "Scott Rd",
     "slug": "surrey/scott-rd",
     "city": "Surrey",
-    "lastIncident": "2026-06-17T20:19:00Z",
-    "count": 4
+    "lastIncident": "2026-06-19T02:59:00Z",
+    "count": 5
   },
   "vancouver/beatty-st": {
     "name": "Beatty St",
@@ -12569,6 +12569,27 @@
     "slug": "new-westminster/sherbrooke-st",
     "city": "New Westminster",
     "lastIncident": "2026-06-19T00:40:00Z",
+    "count": 1
+  },
+  "abbotsford/bell-rd": {
+    "name": "Bell Rd",
+    "slug": "abbotsford/bell-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-06-19T03:37:00Z",
+    "count": 1
+  },
+  "abbotsford/fore-rd": {
+    "name": "Fore Rd",
+    "slug": "abbotsford/fore-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-06-19T03:37:00Z",
+    "count": 1
+  },
+  "langley/212th-st": {
+    "name": "212th St",
+    "slug": "langley/212th-st",
+    "city": "Langley",
+    "lastIncident": "2026-06-19T03:15:00Z",
     "count": 1
   }
 }

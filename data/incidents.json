@@ -1,5 +1,81 @@
 [
   {
+    "id": "2026-06-19T05:04:00Z_surrey/60th-ave_surrey/148th-st",
+    "timestamp": "2026-06-19T05:04:00Z",
+    "scrapedAt": "2026-06-19T05:12:43Z",
+    "address": "60TH AVE & 148TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/60th-ave",
+      "surrey/148th-st"
+    ],
+    "streetNames": [
+      "60th Ave",
+      "148th St"
+    ],
+    "pulsePointId": "2500061905"
+  },
+  {
+    "id": "2026-06-19T03:37:00Z_abbotsford/bell-rd_abbotsford/fore-rd",
+    "timestamp": "2026-06-19T03:37:00Z",
+    "scrapedAt": "2026-06-19T05:12:43Z",
+    "address": "BELL RD & FORE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/bell-rd",
+      "abbotsford/fore-rd"
+    ],
+    "streetNames": [
+      "Bell Rd",
+      "Fore Rd"
+    ],
+    "pulsePointId": "2500020380"
+  },
+  {
+    "id": "2026-06-19T03:15:00Z_langley/212th-st",
+    "timestamp": "2026-06-19T03:15:00Z",
+    "scrapedAt": "2026-06-19T05:12:43Z",
+    "address": "212TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/212th-st"
+    ],
+    "streetNames": [
+      "212th St"
+    ],
+    "pulsePointId": "2500006065"
+  },
+  {
+    "id": "2026-06-19T03:05:00Z_surrey/96th-ave",
+    "timestamp": "2026-06-19T03:05:00Z",
+    "scrapedAt": "2026-06-19T05:12:43Z",
+    "address": "96TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/96th-ave"
+    ],
+    "streetNames": [
+      "96th Ave"
+    ],
+    "pulsePointId": "2500001456"
+  },
+  {
+    "id": "2026-06-19T02:59:00Z_surrey/104th-ave_surrey/scott-rd",
+    "timestamp": "2026-06-19T02:59:00Z",
+    "scrapedAt": "2026-06-19T05:12:43Z",
+    "address": "104TH AVE & SCOTT RD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/104th-ave",
+      "surrey/scott-rd"
+    ],
+    "streetNames": [
+      "104th Ave",
+      "Scott Rd"
+    ],
+    "pulsePointId": "2499997947"
+  },
+  {
     "id": "2026-06-19T01:13:00Z_burnaby/central-blvd",
     "timestamp": "2026-06-19T01:13:00Z",
     "scrapedAt": "2026-06-19T01:36:50Z",
