@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-19T06:07:00Z_north-vancouver/lonsdale-ave_north-vancouver/e-25th-st",
+    "timestamp": "2026-06-19T06:07:00Z",
+    "scrapedAt": "2026-06-19T07:13:07Z",
+    "address": "LONSDALE AVE & E 25TH ST",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/lonsdale-ave",
+      "north-vancouver/e-25th-st"
+    ],
+    "streetNames": [
+      "Lonsdale Ave",
+      "E 25th St"
+    ],
+    "pulsePointId": "2500090788"
+  },
+  {
+    "id": "2026-06-19T05:35:00Z_burnaby/canada-way_burnaby/10th-ave",
+    "timestamp": "2026-06-19T05:35:00Z",
+    "scrapedAt": "2026-06-19T07:13:07Z",
+    "address": "CANADA WAY & 10TH AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/canada-way",
+      "burnaby/10th-ave"
+    ],
+    "streetNames": [
+      "Canada Way",
+      "10th Ave"
+    ],
+    "pulsePointId": "2500074921"
+  },
+  {
     "id": "2026-06-19T05:04:00Z_surrey/60th-ave_surrey/148th-st",
     "timestamp": "2026-06-19T05:04:00Z",
     "scrapedAt": "2026-06-19T05:12:43Z",
