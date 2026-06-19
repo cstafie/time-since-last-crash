@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-06-19T01:13:00Z_burnaby/central-blvd",
+    "timestamp": "2026-06-19T01:13:00Z",
+    "scrapedAt": "2026-06-19T01:36:50Z",
+    "address": "CENTRAL BLVD",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/central-blvd"
+    ],
+    "streetNames": [
+      "Central Blvd"
+    ],
+    "pulsePointId": "2499930789"
+  },
+  {
+    "id": "2026-06-19T01:10:00Z_burnaby/kingsway_burnaby/patterson-ave",
+    "timestamp": "2026-06-19T01:10:00Z",
+    "scrapedAt": "2026-06-19T01:36:50Z",
+    "address": "KINGSWAY & PATTERSON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/kingsway",
+      "burnaby/patterson-ave"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "Patterson Ave"
+    ],
+    "pulsePointId": "2499927722"
+  },
+  {
+    "id": "2026-06-19T00:50:00Z_richmond/hwy-91",
+    "timestamp": "2026-06-19T00:50:00Z",
+    "scrapedAt": "2026-06-19T01:36:50Z",
+    "address": "HWY 91",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hwy-91"
+    ],
+    "streetNames": [
+      "Hwy 91"
+    ],
+    "pulsePointId": "2499914192"
+  },
+  {
+    "id": "2026-06-19T00:40:00Z_new-westminster/sherbrooke-st",
+    "timestamp": "2026-06-19T00:40:00Z",
+    "scrapedAt": "2026-06-19T01:36:50Z",
+    "address": "SHERBROOKE ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/sherbrooke-st"
+    ],
+    "streetNames": [
+      "Sherbrooke St"
+    ],
+    "pulsePointId": "2499908412"
+  },
+  {
+    "id": "2026-06-19T00:32:00Z_vancouver/victoria-dr_vancouver/e-41st-ave",
+    "timestamp": "2026-06-19T00:32:00Z",
+    "scrapedAt": "2026-06-19T01:36:50Z",
+    "address": "VICTORIA DR & E 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/victoria-dr",
+      "vancouver/e-41st-ave"
+    ],
+    "streetNames": [
+      "Victoria Dr",
+      "E 41st Ave"
+    ],
+    "pulsePointId": "2499904053"
+  },
+  {
+    "id": "2026-06-19T00:21:00Z_delta/nordel-way_delta/84th-ave",
+    "timestamp": "2026-06-19T00:21:00Z",
+    "scrapedAt": "2026-06-19T01:36:50Z",
+    "address": "NORDEL WAY & 84TH AVE",
+    "city": "Delta",
+    "streets": [
+      "delta/nordel-way",
+      "delta/84th-ave"
+    ],
+    "streetNames": [
+      "Nordel Way",
+      "84th Ave"
+    ],
+    "pulsePointId": "2499893944"
+  },
+  {
     "id": "2026-06-18T23:51:00Z_vancouver/beatrice-st_vancouver/e-41st-ave",
     "timestamp": "2026-06-18T23:51:00Z",
     "scrapedAt": "2026-06-19T00:01:55Z",

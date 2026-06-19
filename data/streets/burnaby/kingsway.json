@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-19T01:10:00Z_burnaby/kingsway_burnaby/patterson-ave",
+      "timestamp": "2026-06-19T01:10:00Z",
+      "address": "KINGSWAY & PATTERSON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/kingsway",
+        "burnaby/patterson-ave"
+      ],
+      "streetNames": [
+        "Kingsway",
+        "Patterson Ave"
+      ],
+      "pulsePointId": "2499927722"
+    },
+    {
       "id": "2026-06-09T14:31:00Z_burnaby/kingsway_burnaby/boundary-rd",
       "timestamp": "2026-06-09T14:31:00Z",
       "address": "KINGSWAY & BOUNDARY RD",
@@ -259,6 +274,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-09T14:31:00Z",
-  "count": 18
+  "lastIncident": "2026-06-19T01:10:00Z",
+  "count": 19
 }

@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-19T01:13:00Z_burnaby/central-blvd",
+      "timestamp": "2026-06-19T01:13:00Z",
+      "address": "CENTRAL BLVD",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/central-blvd"
+      ],
+      "streetNames": [
+        "Central Blvd"
+      ],
+      "pulsePointId": "2499930789"
+    },
+    {
       "id": "2026-05-23T18:54:00Z_burnaby/central-blvd",
       "timestamp": "2026-05-23T18:54:00Z",
       "address": "CENTRAL BLVD",
@@ -60,6 +73,6 @@
       "pulsePointId": "2436250218"
     }
   ],
-  "lastIncident": "2026-05-23T18:54:00Z",
-  "count": 4
+  "lastIncident": "2026-06-19T01:13:00Z",
+  "count": 5
 }

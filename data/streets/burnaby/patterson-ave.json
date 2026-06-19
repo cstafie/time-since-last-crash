@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-19T01:10:00Z_burnaby/kingsway_burnaby/patterson-ave",
+      "timestamp": "2026-06-19T01:10:00Z",
+      "address": "KINGSWAY & PATTERSON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/kingsway",
+        "burnaby/patterson-ave"
+      ],
+      "streetNames": [
+        "Kingsway",
+        "Patterson Ave"
+      ],
+      "pulsePointId": "2499927722"
+    },
+    {
       "id": "2026-05-02T19:16:00Z_burnaby/patterson-ave_burnaby/marine-dr",
       "timestamp": "2026-05-02T19:16:00Z",
       "address": "PATTERSON AVE & MARINE DR",
@@ -79,6 +94,6 @@
       "pulsePointId": "2448106817"
     }
   ],
-  "lastIncident": "2026-05-02T19:16:00Z",
-  "count": 5
+  "lastIncident": "2026-06-19T01:10:00Z",
+  "count": 6
 }

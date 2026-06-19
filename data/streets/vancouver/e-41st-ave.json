@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-19T00:32:00Z_vancouver/victoria-dr_vancouver/e-41st-ave",
+      "timestamp": "2026-06-19T00:32:00Z",
+      "address": "VICTORIA DR & E 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/victoria-dr",
+        "vancouver/e-41st-ave"
+      ],
+      "streetNames": [
+        "Victoria Dr",
+        "E 41st Ave"
+      ],
+      "pulsePointId": "2499904053"
+    },
+    {
       "id": "2026-06-18T23:51:00Z_vancouver/beatrice-st_vancouver/e-41st-ave",
       "timestamp": "2026-06-18T23:51:00Z",
       "address": "BEATRICE ST & E 41ST AVE",
@@ -524,6 +539,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-18T23:51:00Z",
-  "count": 35
+  "lastIncident": "2026-06-19T00:32:00Z",
+  "count": 36
 }

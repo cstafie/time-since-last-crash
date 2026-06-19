@@ -465,8 +465,8 @@
     "name": "Hwy 91",
     "slug": "richmond/hwy-91",
     "city": "Richmond",
-    "lastIncident": "2026-06-09T23:42:00Z",
-    "count": 16
+    "lastIncident": "2026-06-19T00:50:00Z",
+    "count": 17
   },
   "richmond/nelson-rd": {
     "name": "Nelson Rd",
@@ -717,8 +717,8 @@
     "name": "E 41st Ave",
     "slug": "vancouver/e-41st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-18T23:51:00Z",
-    "count": 35
+    "lastIncident": "2026-06-19T00:32:00Z",
+    "count": 36
   },
   "vancouver/granville-st": {
     "name": "Granville St",
@@ -1473,8 +1473,8 @@
     "name": "Kingsway",
     "slug": "burnaby/kingsway",
     "city": "Burnaby",
-    "lastIncident": "2026-06-09T14:31:00Z",
-    "count": 18
+    "lastIncident": "2026-06-19T01:10:00Z",
+    "count": 19
   },
   "burnaby/gilley-ave": {
     "name": "Gilley Ave",
@@ -2698,8 +2698,8 @@
     "name": "Central Blvd",
     "slug": "burnaby/central-blvd",
     "city": "Burnaby",
-    "lastIncident": "2026-05-23T18:54:00Z",
-    "count": 4
+    "lastIncident": "2026-06-19T01:13:00Z",
+    "count": 5
   },
   "burnaby/bonsor-ave": {
     "name": "Bonsor Ave",
@@ -2929,8 +2929,8 @@
     "name": "Nordel Way",
     "slug": "delta/nordel-way",
     "city": "Delta",
-    "lastIncident": "2026-05-26T22:23:00Z",
-    "count": 10
+    "lastIncident": "2026-06-19T00:21:00Z",
+    "count": 11
   },
   "coquitlam/whiting-way": {
     "name": "Whiting Way",
@@ -3076,8 +3076,8 @@
     "name": "Victoria Dr",
     "slug": "vancouver/victoria-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-06-17T23:32:00Z",
-    "count": 18
+    "lastIncident": "2026-06-19T00:32:00Z",
+    "count": 19
   },
   "vancouver/e-60th-ave": {
     "name": "E 60th Ave",
@@ -4084,8 +4084,8 @@
     "name": "84th Ave",
     "slug": "delta/84th-ave",
     "city": "Delta",
-    "lastIncident": "2026-03-26T14:14:00Z",
-    "count": 1
+    "lastIncident": "2026-06-19T00:21:00Z",
+    "count": 2
   },
   "coquitlam/pitt-river-rd": {
     "name": "Pitt River Rd",
@@ -5470,8 +5470,8 @@
     "name": "Patterson Ave",
     "slug": "burnaby/patterson-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-05-02T19:16:00Z",
-    "count": 5
+    "lastIncident": "2026-06-19T01:10:00Z",
+    "count": 6
   },
   "richmond/inglis-dr": {
     "name": "Inglis Dr",
@@ -12562,6 +12562,13 @@
     "slug": "vancouver/ivanhoe-st",
     "city": "Vancouver",
     "lastIncident": "2026-06-18T22:18:00Z",
+    "count": 1
+  },
+  "new-westminster/sherbrooke-st": {
+    "name": "Sherbrooke St",
+    "slug": "new-westminster/sherbrooke-st",
+    "city": "New Westminster",
+    "lastIncident": "2026-06-19T00:40:00Z",
     "count": 1
   }
 }
