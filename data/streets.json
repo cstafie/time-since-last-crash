@@ -1291,8 +1291,8 @@
     "name": "28th Ave",
     "slug": "surrey/28th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-04T19:31:00Z",
-    "count": 4
+    "lastIncident": "2026-06-19T09:39:00Z",
+    "count": 5
   },
   "surrey/120th-st": {
     "name": "120th St",
@@ -6436,8 +6436,8 @@
     "name": "158th St",
     "slug": "surrey/158th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-17T18:18:00Z",
-    "count": 2
+    "lastIncident": "2026-06-19T09:39:00Z",
+    "count": 3
   },
   "langley/224th-st": {
     "name": "224th St",

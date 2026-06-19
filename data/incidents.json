@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-19T09:39:00Z_surrey/28th-ave_surrey/158th-st",
+    "timestamp": "2026-06-19T09:39:00Z",
+    "scrapedAt": "2026-06-19T11:00:06Z",
+    "address": "28TH AVE & 158TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/28th-ave",
+      "surrey/158th-st"
+    ],
+    "streetNames": [
+      "28th Ave",
+      "158th St"
+    ],
+    "pulsePointId": "2500160400"
+  },
+  {
     "id": "2026-06-19T08:59:00Z_delta/westminster-ave",
     "timestamp": "2026-06-19T08:59:00Z",
     "scrapedAt": "2026-06-19T09:09:52Z",
