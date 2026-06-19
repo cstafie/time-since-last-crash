@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-06-19T22:31:00Z_abbotsford/old-clayburn-rd",
+    "timestamp": "2026-06-19T22:31:00Z",
+    "scrapedAt": "2026-06-19T22:45:12Z",
+    "address": "OLD CLAYBURN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/old-clayburn-rd"
+    ],
+    "streetNames": [
+      "Old Clayburn Rd"
+    ],
+    "pulsePointId": "2500588414"
+  },
+  {
+    "id": "2026-06-19T22:27:00Z_richmond/hwy-99",
+    "timestamp": "2026-06-19T22:27:00Z",
+    "scrapedAt": "2026-06-19T22:45:12Z",
+    "address": "HWY 99",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2500585877"
+  },
+  {
     "id": "2026-06-19T21:43:00Z_chilliwack/watson-rd",
     "timestamp": "2026-06-19T21:43:00Z",
     "scrapedAt": "2026-06-19T21:50:26Z",

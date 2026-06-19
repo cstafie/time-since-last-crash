@@ -899,8 +899,8 @@
     "name": "Old Clayburn Rd",
     "slug": "abbotsford/old-clayburn-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-18T00:02:00Z",
-    "count": 4
+    "lastIncident": "2026-06-19T22:31:00Z",
+    "count": 5
   },
   "new-westminster/cumberland-st": {
     "name": "Cumberland St",
@@ -1396,8 +1396,8 @@
     "name": "Hwy 99",
     "slug": "richmond/hwy-99",
     "city": "Richmond",
-    "lastIncident": "2026-06-06T00:12:00Z",
-    "count": 5
+    "lastIncident": "2026-06-19T22:27:00Z",
+    "count": 6
   },
   "port-moody/barnet-hwy": {
     "name": "Barnet Hwy",
