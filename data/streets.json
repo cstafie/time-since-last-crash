@@ -12598,5 +12598,19 @@
     "city": "North Vancouver",
     "lastIncident": "2026-06-19T06:07:00Z",
     "count": 1
+  },
+  "delta/westminster-ave": {
+    "name": "Westminster Ave",
+    "slug": "delta/westminster-ave",
+    "city": "Delta",
+    "lastIncident": "2026-06-19T08:59:00Z",
+    "count": 1
+  },
+  "delta/9628-ladner-trunk-rd": {
+    "name": "9628 Ladner Trunk Rd",
+    "slug": "delta/9628-ladner-trunk-rd",
+    "city": "Delta",
+    "lastIncident": "2026-06-19T07:23:00Z",
+    "count": 1
   }
 }

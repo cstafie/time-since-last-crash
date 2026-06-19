@@ -1,0 +1,22 @@
+{
+  "slug": "delta/westminster-ave",
+  "name": "Westminster Ave",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-06-19T08:59:00Z_delta/westminster-ave",
+      "timestamp": "2026-06-19T08:59:00Z",
+      "address": "WESTMINSTER AVE",
+      "city": "Delta",
+      "streets": [
+        "delta/westminster-ave"
+      ],
+      "streetNames": [
+        "Westminster Ave"
+      ],
+      "pulsePointId": "2500148573"
+    }
+  ],
+  "lastIncident": "2026-06-19T08:59:00Z",
+  "count": 1
+}

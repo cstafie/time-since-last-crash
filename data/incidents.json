@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-06-19T08:59:00Z_delta/westminster-ave",
+    "timestamp": "2026-06-19T08:59:00Z",
+    "scrapedAt": "2026-06-19T09:09:52Z",
+    "address": "WESTMINSTER AVE",
+    "city": "Delta",
+    "streets": [
+      "delta/westminster-ave"
+    ],
+    "streetNames": [
+      "Westminster Ave"
+    ],
+    "pulsePointId": "2500148573"
+  },
+  {
+    "id": "2026-06-19T07:23:00Z_delta/9628-ladner-trunk-rd",
+    "timestamp": "2026-06-19T07:23:00Z",
+    "scrapedAt": "2026-06-19T09:09:52Z",
+    "address": "9628 LADNER TRUNK RD",
+    "city": "Delta",
+    "streets": [
+      "delta/9628-ladner-trunk-rd"
+    ],
+    "streetNames": [
+      "9628 Ladner Trunk Rd"
+    ],
+    "pulsePointId": "2500119487"
+  },
+  {
     "id": "2026-06-19T06:07:00Z_north-vancouver/lonsdale-ave_north-vancouver/e-25th-st",
     "timestamp": "2026-06-19T06:07:00Z",
     "scrapedAt": "2026-06-19T07:13:07Z",

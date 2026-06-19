@@ -1,0 +1,22 @@
+{
+  "slug": "delta/9628-ladner-trunk-rd",
+  "name": "9628 Ladner Trunk Rd",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-06-19T07:23:00Z_delta/9628-ladner-trunk-rd",
+      "timestamp": "2026-06-19T07:23:00Z",
+      "address": "9628 LADNER TRUNK RD",
+      "city": "Delta",
+      "streets": [
+        "delta/9628-ladner-trunk-rd"
+      ],
+      "streetNames": [
+        "9628 Ladner Trunk Rd"
+      ],
+      "pulsePointId": "2500119487"
+    }
+  ],
+  "lastIncident": "2026-06-19T07:23:00Z",
+  "count": 1
+}
