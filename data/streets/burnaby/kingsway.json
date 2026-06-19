@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-19T15:03:00Z_burnaby/inman-ave_burnaby/kingsway",
+      "timestamp": "2026-06-19T15:03:00Z",
+      "address": "INMAN AVE & KINGSWAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/inman-ave",
+        "burnaby/kingsway"
+      ],
+      "streetNames": [
+        "Inman Ave",
+        "Kingsway"
+      ],
+      "pulsePointId": "2500286109"
+    },
+    {
       "id": "2026-06-19T01:10:00Z_burnaby/kingsway_burnaby/patterson-ave",
       "timestamp": "2026-06-19T01:10:00Z",
       "address": "KINGSWAY & PATTERSON AVE",
@@ -274,6 +289,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-19T01:10:00Z",
-  "count": 19
+  "lastIncident": "2026-06-19T15:03:00Z",
+  "count": 20
 }

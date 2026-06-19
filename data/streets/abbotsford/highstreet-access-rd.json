@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/highstreet-access-rd",
+  "name": "Highstreet Access Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-06-19T15:02:00Z_abbotsford/mt-lehman-rd_abbotsford/highstreet-access-rd",
+      "timestamp": "2026-06-19T15:02:00Z",
+      "address": "MT LEHMAN RD & HIGHSTREET ACCESS RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/mt-lehman-rd",
+        "abbotsford/highstreet-access-rd"
+      ],
+      "streetNames": [
+        "Mt Lehman Rd",
+        "Highstreet Access Rd"
+      ],
+      "pulsePointId": "2500286234"
+    }
+  ],
+  "lastIncident": "2026-06-19T15:02:00Z",
+  "count": 1
+}

@@ -1,5 +1,85 @@
 [
   {
+    "id": "2026-06-19T15:47:00Z_north-vancouver/edgemont-blvd_north-vancouver/ridgewood-dr",
+    "timestamp": "2026-06-19T15:47:00Z",
+    "scrapedAt": "2026-06-19T16:08:26Z",
+    "address": "EDGEMONT BLVD & RIDGEWOOD DR",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/edgemont-blvd",
+      "north-vancouver/ridgewood-dr"
+    ],
+    "streetNames": [
+      "Edgemont Blvd",
+      "Ridgewood Dr"
+    ],
+    "pulsePointId": "2500312134"
+  },
+  {
+    "id": "2026-06-19T15:44:00Z_vancouver/w-59th-ave_vancouver/oak-st",
+    "timestamp": "2026-06-19T15:44:00Z",
+    "scrapedAt": "2026-06-19T16:08:26Z",
+    "address": "W 59TH AVE & OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-59th-ave",
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "W 59th Ave",
+      "Oak St"
+    ],
+    "pulsePointId": "2500307469"
+  },
+  {
+    "id": "2026-06-19T15:32:00Z_chilliwack/mary-st_chilliwack/spadina-ave",
+    "timestamp": "2026-06-19T15:32:00Z",
+    "scrapedAt": "2026-06-19T16:08:26Z",
+    "address": "MARY ST & SPADINA AVE",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/mary-st",
+      "chilliwack/spadina-ave"
+    ],
+    "streetNames": [
+      "Mary St",
+      "Spadina Ave"
+    ],
+    "pulsePointId": "2500301031"
+  },
+  {
+    "id": "2026-06-19T15:03:00Z_burnaby/inman-ave_burnaby/kingsway",
+    "timestamp": "2026-06-19T15:03:00Z",
+    "scrapedAt": "2026-06-19T16:08:26Z",
+    "address": "INMAN AVE & KINGSWAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/inman-ave",
+      "burnaby/kingsway"
+    ],
+    "streetNames": [
+      "Inman Ave",
+      "Kingsway"
+    ],
+    "pulsePointId": "2500286109"
+  },
+  {
+    "id": "2026-06-19T15:02:00Z_abbotsford/mt-lehman-rd_abbotsford/highstreet-access-rd",
+    "timestamp": "2026-06-19T15:02:00Z",
+    "scrapedAt": "2026-06-19T16:08:26Z",
+    "address": "MT LEHMAN RD & HIGHSTREET ACCESS RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/mt-lehman-rd",
+      "abbotsford/highstreet-access-rd"
+    ],
+    "streetNames": [
+      "Mt Lehman Rd",
+      "Highstreet Access Rd"
+    ],
+    "pulsePointId": "2500286234"
+  },
+  {
     "id": "2026-06-19T14:06:00Z_surrey/104th-ave_surrey/132nd-st",
     "timestamp": "2026-06-19T14:06:00Z",
     "scrapedAt": "2026-06-19T14:59:40Z",

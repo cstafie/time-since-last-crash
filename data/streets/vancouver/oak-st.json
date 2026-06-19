@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-19T15:44:00Z_vancouver/w-59th-ave_vancouver/oak-st",
+      "timestamp": "2026-06-19T15:44:00Z",
+      "address": "W 59TH AVE & OAK ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-59th-ave",
+        "vancouver/oak-st"
+      ],
+      "streetNames": [
+        "W 59th Ave",
+        "Oak St"
+      ],
+      "pulsePointId": "2500307469"
+    },
+    {
       "id": "2026-06-15T21:42:00Z_vancouver/oak-st_vancouver/w-broadway",
       "timestamp": "2026-06-15T21:42:00Z",
       "address": "OAK ST & W BROADWAY",
@@ -544,6 +559,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-15T21:42:00Z",
-  "count": 37
+  "lastIncident": "2026-06-19T15:44:00Z",
+  "count": 38
 }

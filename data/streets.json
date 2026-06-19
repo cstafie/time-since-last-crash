@@ -766,8 +766,8 @@
     "name": "Oak St",
     "slug": "vancouver/oak-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-15T21:42:00Z",
-    "count": 37
+    "lastIncident": "2026-06-19T15:44:00Z",
+    "count": 38
   },
   "vancouver/w-12th-ave": {
     "name": "W 12th Ave",
@@ -1473,8 +1473,8 @@
     "name": "Kingsway",
     "slug": "burnaby/kingsway",
     "city": "Burnaby",
-    "lastIncident": "2026-06-19T01:10:00Z",
-    "count": 19
+    "lastIncident": "2026-06-19T15:03:00Z",
+    "count": 20
   },
   "burnaby/gilley-ave": {
     "name": "Gilley Ave",
@@ -2117,8 +2117,8 @@
     "name": "Mt Lehman Rd",
     "slug": "abbotsford/mt-lehman-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-09T01:00:00Z",
-    "count": 8
+    "lastIncident": "2026-06-19T15:02:00Z",
+    "count": 9
   },
   "vancouver/napier-st": {
     "name": "Napier St",
@@ -9565,8 +9565,8 @@
     "name": "Spadina Ave",
     "slug": "chilliwack/spadina-ave",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-17T20:35:00Z",
-    "count": 3
+    "lastIncident": "2026-06-19T15:32:00Z",
+    "count": 4
   },
   "maple-ridge/223rd-st": {
     "name": "223rd St",
@@ -10433,8 +10433,8 @@
     "name": "W 59th Ave",
     "slug": "vancouver/w-59th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-25T17:39:00Z",
-    "count": 1
+    "lastIncident": "2026-06-19T15:44:00Z",
+    "count": 2
   },
   "abbotsford/mason-st": {
     "name": "Mason St",
@@ -10951,8 +10951,8 @@
     "name": "Inman Ave",
     "slug": "burnaby/inman-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-05-30T00:50:00Z",
-    "count": 1
+    "lastIncident": "2026-06-19T15:03:00Z",
+    "count": 2
   },
   "chilliwack/bonny-ave": {
     "name": "Bonny Ave",
@@ -12169,8 +12169,8 @@
     "name": "Mary St",
     "slug": "chilliwack/mary-st",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-14T00:50:00Z",
-    "count": 1
+    "lastIncident": "2026-06-19T15:32:00Z",
+    "count": 2
   },
   "vancouver/balfour-ave": {
     "name": "Balfour Ave",
@@ -12611,6 +12611,27 @@
     "slug": "delta/9628-ladner-trunk-rd",
     "city": "Delta",
     "lastIncident": "2026-06-19T07:23:00Z",
+    "count": 1
+  },
+  "north-vancouver/edgemont-blvd": {
+    "name": "Edgemont Blvd",
+    "slug": "north-vancouver/edgemont-blvd",
+    "city": "North Vancouver",
+    "lastIncident": "2026-06-19T15:47:00Z",
+    "count": 1
+  },
+  "north-vancouver/ridgewood-dr": {
+    "name": "Ridgewood Dr",
+    "slug": "north-vancouver/ridgewood-dr",
+    "city": "North Vancouver",
+    "lastIncident": "2026-06-19T15:47:00Z",
+    "count": 1
+  },
+  "abbotsford/highstreet-access-rd": {
+    "name": "Highstreet Access Rd",
+    "slug": "abbotsford/highstreet-access-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-06-19T15:02:00Z",
     "count": 1
   }
 }
