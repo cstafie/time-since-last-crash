@@ -1,5 +1,69 @@
 [
   {
+    "id": "2026-06-19T18:35:00Z_langley/trans-canada-hwy-onrp_langley/216th-st",
+    "timestamp": "2026-06-19T18:35:00Z",
+    "scrapedAt": "2026-06-19T19:08:06Z",
+    "address": "TRANS CANADA HWY ONRP & 216TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy-onrp",
+      "langley/216th-st"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy Onrp",
+      "216th St"
+    ],
+    "pulsePointId": "2500419909"
+  },
+  {
+    "id": "2026-06-19T18:06:00Z_surrey/king-george-blvd_surrey/94a-ave",
+    "timestamp": "2026-06-19T18:06:00Z",
+    "scrapedAt": "2026-06-19T19:08:06Z",
+    "address": "KING GEORGE BLVD & 94A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/94a-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "94a Ave"
+    ],
+    "pulsePointId": "2500399499"
+  },
+  {
+    "id": "2026-06-19T18:06:00Z_mission/park-st_mission/lougheed-hwy",
+    "timestamp": "2026-06-19T18:06:00Z",
+    "scrapedAt": "2026-06-19T19:08:06Z",
+    "address": "PARK ST & LOUGHEED HWY",
+    "city": "Mission",
+    "streets": [
+      "mission/park-st",
+      "mission/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Park St",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2500399486"
+  },
+  {
+    "id": "2026-06-19T18:03:00Z_surrey/90th-ave_surrey/harvie-rd",
+    "timestamp": "2026-06-19T18:03:00Z",
+    "scrapedAt": "2026-06-19T19:08:06Z",
+    "address": "90TH AVE & HARVIE RD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/90th-ave",
+      "surrey/harvie-rd"
+    ],
+    "streetNames": [
+      "90th Ave",
+      "Harvie Rd"
+    ],
+    "pulsePointId": "2500397328"
+  },
+  {
     "id": "2026-06-19T17:50:00Z_abbotsford/south-fraser-way",
     "timestamp": "2026-06-19T17:50:00Z",
     "scrapedAt": "2026-06-19T18:06:17Z",

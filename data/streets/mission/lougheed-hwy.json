@@ -4,6 +4,21 @@
   "city": "Mission",
   "incidents": [
     {
+      "id": "2026-06-19T18:06:00Z_mission/park-st_mission/lougheed-hwy",
+      "timestamp": "2026-06-19T18:06:00Z",
+      "address": "PARK ST & LOUGHEED HWY",
+      "city": "Mission",
+      "streets": [
+        "mission/park-st",
+        "mission/lougheed-hwy"
+      ],
+      "streetNames": [
+        "Park St",
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2500399486"
+    },
+    {
       "id": "2026-05-29T02:36:00Z_mission/shook-st_mission/lougheed-hwy",
       "timestamp": "2026-05-29T02:36:00Z",
       "address": "SHOOK ST & LOUGHEED HWY",
@@ -78,6 +93,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-29T02:36:00Z",
-  "count": 5
+  "lastIncident": "2026-06-19T18:06:00Z",
+  "count": 6
 }

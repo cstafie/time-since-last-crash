@@ -332,8 +332,8 @@
     "name": "Lougheed Hwy",
     "slug": "mission/lougheed-hwy",
     "city": "Mission",
-    "lastIncident": "2026-05-29T02:36:00Z",
-    "count": 5
+    "lastIncident": "2026-06-19T18:06:00Z",
+    "count": 6
   },
   "mission/wren-st": {
     "name": "Wren St",
@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-06-18T01:55:00Z",
-    "count": 69
+    "lastIncident": "2026-06-19T18:06:00Z",
+    "count": 70
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -2642,8 +2642,8 @@
     "name": "216th St",
     "slug": "langley/216th-st",
     "city": "Langley",
-    "lastIncident": "2026-06-17T08:25:00Z",
-    "count": 13
+    "lastIncident": "2026-06-19T18:35:00Z",
+    "count": 14
   },
   "surrey/87th-ave": {
     "name": "87th Ave",
@@ -2908,8 +2908,8 @@
     "name": "Harvie Rd",
     "slug": "surrey/harvie-rd",
     "city": "Surrey",
-    "lastIncident": "2026-03-19T00:41:00Z",
-    "count": 1
+    "lastIncident": "2026-06-19T18:03:00Z",
+    "count": 2
   },
   "langley/102b-ave": {
     "name": "102b Ave",
@@ -4028,8 +4028,8 @@
     "name": "90th Ave",
     "slug": "surrey/90th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-02T20:49:00Z",
-    "count": 3
+    "lastIncident": "2026-06-19T18:03:00Z",
+    "count": 4
   },
   "richmond/horseshoe-way": {
     "name": "Horseshoe Way",
@@ -4686,8 +4686,8 @@
     "name": "Trans Canada Hwy Onrp",
     "slug": "langley/trans-canada-hwy-onrp",
     "city": "Langley",
-    "lastIncident": "2026-06-05T22:09:00Z",
-    "count": 4
+    "lastIncident": "2026-06-19T18:35:00Z",
+    "count": 5
   },
   "coquitlam/barnet-hwy": {
     "name": "Barnet Hwy",
@@ -6856,8 +6856,8 @@
     "name": "94a Ave",
     "slug": "surrey/94a-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-03T17:33:00Z",
-    "count": 2
+    "lastIncident": "2026-06-19T18:06:00Z",
+    "count": 3
   },
   "delta/104th-st": {
     "name": "104th St",
@@ -6898,8 +6898,8 @@
     "name": "Park St",
     "slug": "mission/park-st",
     "city": "Mission",
-    "lastIncident": "2026-04-17T00:29:00Z",
-    "count": 1
+    "lastIncident": "2026-06-19T18:06:00Z",
+    "count": 2
   },
   "mission/3rd-ave": {
     "name": "3rd Ave",
