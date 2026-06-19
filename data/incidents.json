@@ -1,5 +1,131 @@
 [
   {
+    "id": "2026-06-18T23:51:00Z_vancouver/beatrice-st_vancouver/e-41st-ave",
+    "timestamp": "2026-06-18T23:51:00Z",
+    "scrapedAt": "2026-06-19T00:01:55Z",
+    "address": "BEATRICE ST & E 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/beatrice-st",
+      "vancouver/e-41st-ave"
+    ],
+    "streetNames": [
+      "Beatrice St",
+      "E 41st Ave"
+    ],
+    "pulsePointId": "2499873416"
+  },
+  {
+    "id": "2026-06-18T23:39:00Z_vancouver/scotia-st_vancouver/e-5th-ave",
+    "timestamp": "2026-06-18T23:39:00Z",
+    "scrapedAt": "2026-06-19T00:01:55Z",
+    "address": "SCOTIA ST & E 5TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/scotia-st",
+      "vancouver/e-5th-ave"
+    ],
+    "streetNames": [
+      "Scotia St",
+      "E 5th Ave"
+    ],
+    "pulsePointId": "2499864155"
+  },
+  {
+    "id": "2026-06-18T23:37:00Z_vancouver/clark-dr_vancouver/e-2nd-ave",
+    "timestamp": "2026-06-18T23:37:00Z",
+    "scrapedAt": "2026-06-19T00:01:55Z",
+    "address": "CLARK DR & E 2ND AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/clark-dr",
+      "vancouver/e-2nd-ave"
+    ],
+    "streetNames": [
+      "Clark Dr",
+      "E 2nd Ave"
+    ],
+    "pulsePointId": "2499863221"
+  },
+  {
+    "id": "2026-06-18T23:20:00Z_vancouver/robson-st_vancouver/hornby-st",
+    "timestamp": "2026-06-18T23:20:00Z",
+    "scrapedAt": "2026-06-19T00:01:55Z",
+    "address": "ROBSON ST & HORNBY ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/robson-st",
+      "vancouver/hornby-st"
+    ],
+    "streetNames": [
+      "Robson St",
+      "Hornby St"
+    ],
+    "pulsePointId": "2499849084"
+  },
+  {
+    "id": "2026-06-18T23:13:00Z_burnaby/imperial-st_burnaby/macpherson-ave",
+    "timestamp": "2026-06-18T23:13:00Z",
+    "scrapedAt": "2026-06-19T00:01:55Z",
+    "address": "IMPERIAL ST & MACPHERSON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/imperial-st",
+      "burnaby/macpherson-ave"
+    ],
+    "streetNames": [
+      "Imperial St",
+      "Macpherson Ave"
+    ],
+    "pulsePointId": "2499844211"
+  },
+  {
+    "id": "2026-06-18T23:10:00Z_vancouver/granville-st_vancouver/w-16th-ave",
+    "timestamp": "2026-06-18T23:10:00Z",
+    "scrapedAt": "2026-06-19T00:01:55Z",
+    "address": "GRANVILLE ST & W 16TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st",
+      "vancouver/w-16th-ave"
+    ],
+    "streetNames": [
+      "Granville St",
+      "W 16th Ave"
+    ],
+    "pulsePointId": "2499842317"
+  },
+  {
+    "id": "2026-06-18T22:38:00Z_vancouver/grandview-hwy_vancouver/boundary-rd",
+    "timestamp": "2026-06-18T22:38:00Z",
+    "scrapedAt": "2026-06-19T00:01:55Z",
+    "address": "GRANDVIEW HWY & BOUNDARY RD",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/grandview-hwy",
+      "vancouver/boundary-rd"
+    ],
+    "streetNames": [
+      "Grandview Hwy",
+      "Boundary Rd"
+    ],
+    "pulsePointId": "2499821941"
+  },
+  {
+    "id": "2026-06-18T22:18:00Z_vancouver/ivanhoe-st",
+    "timestamp": "2026-06-18T22:18:00Z",
+    "scrapedAt": "2026-06-19T00:01:55Z",
+    "address": "IVANHOE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/ivanhoe-st"
+    ],
+    "streetNames": [
+      "Ivanhoe St"
+    ],
+    "pulsePointId": "2499805592"
+  },
+  {
     "id": "2026-06-18T22:07:00Z_chilliwack/ashwell-rd_chilliwack/bernard-ave",
     "timestamp": "2026-06-18T22:07:00Z",
     "scrapedAt": "2026-06-18T22:13:43Z",

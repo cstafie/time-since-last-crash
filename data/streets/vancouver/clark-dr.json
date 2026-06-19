@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-18T23:37:00Z_vancouver/clark-dr_vancouver/e-2nd-ave",
+      "timestamp": "2026-06-18T23:37:00Z",
+      "address": "CLARK DR & E 2ND AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/clark-dr",
+        "vancouver/e-2nd-ave"
+      ],
+      "streetNames": [
+        "Clark Dr",
+        "E 2nd Ave"
+      ],
+      "pulsePointId": "2499863221"
+    },
+    {
       "id": "2026-06-11T20:00:00Z_vancouver/grant-st_vancouver/clark-dr",
       "timestamp": "2026-06-11T20:00:00Z",
       "address": "GRANT ST & CLARK DR",
@@ -139,6 +154,6 @@
       "pulsePointId": "2438733768"
     }
   ],
-  "lastIncident": "2026-06-11T20:00:00Z",
-  "count": 9
+  "lastIncident": "2026-06-18T23:37:00Z",
+  "count": 10
 }

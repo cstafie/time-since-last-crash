@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-18T23:20:00Z_vancouver/robson-st_vancouver/hornby-st",
+      "timestamp": "2026-06-18T23:20:00Z",
+      "address": "ROBSON ST & HORNBY ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/robson-st",
+        "vancouver/hornby-st"
+      ],
+      "streetNames": [
+        "Robson St",
+        "Hornby St"
+      ],
+      "pulsePointId": "2499849084"
+    },
+    {
       "id": "2026-05-09T12:44:00Z_vancouver/thurlow-st_vancouver/robson-st",
       "timestamp": "2026-05-09T12:44:00Z",
       "address": "THURLOW ST & ROBSON ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2445733996"
     }
   ],
-  "lastIncident": "2026-05-09T12:44:00Z",
-  "count": 2
+  "lastIncident": "2026-06-18T23:20:00Z",
+  "count": 3
 }

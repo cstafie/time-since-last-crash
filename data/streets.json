@@ -696,8 +696,8 @@
     "name": "Beatrice St",
     "slug": "vancouver/beatrice-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-11T00:11:00Z",
-    "count": 2
+    "lastIncident": "2026-06-18T23:51:00Z",
+    "count": 3
   },
   "vancouver/burrard-st": {
     "name": "Burrard St",
@@ -717,15 +717,15 @@
     "name": "E 41st Ave",
     "slug": "vancouver/e-41st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-15T15:42:00Z",
-    "count": 34
+    "lastIncident": "2026-06-18T23:51:00Z",
+    "count": 35
   },
   "vancouver/granville-st": {
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-16T17:12:00Z",
-    "count": 46
+    "lastIncident": "2026-06-18T23:10:00Z",
+    "count": 47
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -1263,8 +1263,8 @@
     "name": "Boundary Rd",
     "slug": "vancouver/boundary-rd",
     "city": "Vancouver",
-    "lastIncident": "2026-06-15T06:57:00Z",
-    "count": 21
+    "lastIncident": "2026-06-18T22:38:00Z",
+    "count": 22
   },
   "surrey/langley-bps": {
     "name": "Langley Bps",
@@ -1956,8 +1956,8 @@
     "name": "W 16th Ave",
     "slug": "vancouver/w-16th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-10T14:01:00Z",
-    "count": 11
+    "lastIncident": "2026-06-18T23:10:00Z",
+    "count": 12
   },
   "vancouver/dunbar-st": {
     "name": "Dunbar St",
@@ -3209,8 +3209,8 @@
     "name": "Hornby St",
     "slug": "vancouver/hornby-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-03T22:48:00Z",
-    "count": 5
+    "lastIncident": "2026-06-18T23:20:00Z",
+    "count": 6
   },
   "surrey/nordel-way": {
     "name": "Nordel Way",
@@ -3454,8 +3454,8 @@
     "name": "Clark Dr",
     "slug": "vancouver/clark-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-06-11T20:00:00Z",
-    "count": 9
+    "lastIncident": "2026-06-18T23:37:00Z",
+    "count": 10
   },
   "vancouver/e-17th-ave": {
     "name": "E 17th Ave",
@@ -4259,8 +4259,8 @@
     "name": "Imperial St",
     "slug": "burnaby/imperial-st",
     "city": "Burnaby",
-    "lastIncident": "2026-06-10T01:56:00Z",
-    "count": 11
+    "lastIncident": "2026-06-18T23:13:00Z",
+    "count": 12
   },
   "burnaby/kitchener-st": {
     "name": "Kitchener St",
@@ -4791,8 +4791,8 @@
     "name": "Robson St",
     "slug": "vancouver/robson-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-09T12:44:00Z",
-    "count": 2
+    "lastIncident": "2026-06-18T23:20:00Z",
+    "count": 3
   },
   "vancouver/thurlow-st": {
     "name": "Thurlow St",
@@ -7122,8 +7122,8 @@
     "name": "E 2nd Ave",
     "slug": "vancouver/e-2nd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-18T00:29:00Z",
-    "count": 8
+    "lastIncident": "2026-06-18T23:37:00Z",
+    "count": 9
   },
   "abbotsford/3033-immel-stste-600": {
     "name": "3033 Immel St,ste 600",
@@ -7934,8 +7934,8 @@
     "name": "Grandview Hwy",
     "slug": "vancouver/grandview-hwy",
     "city": "Vancouver",
-    "lastIncident": "2026-06-15T06:54:00Z",
-    "count": 3
+    "lastIncident": "2026-06-18T22:38:00Z",
+    "count": 4
   },
   "surrey/9595-king-george-blvd": {
     "name": "9595 King George Blvd",
@@ -8347,8 +8347,8 @@
     "name": "Macpherson Ave",
     "slug": "burnaby/macpherson-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-05-17T22:22:00Z",
-    "count": 2
+    "lastIncident": "2026-06-18T23:13:00Z",
+    "count": 3
   },
   "abbotsford/coutts-way": {
     "name": "Coutts Way",
@@ -11266,8 +11266,8 @@
     "name": "E 5th Ave",
     "slug": "vancouver/e-5th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-02T23:31:00Z",
-    "count": 1
+    "lastIncident": "2026-06-18T23:39:00Z",
+    "count": 2
   },
   "maple-ridge/golden-ears-park-rd": {
     "name": "Golden Ears Park Rd",
@@ -12548,6 +12548,20 @@
     "slug": "chilliwack/yarrow-central-rd",
     "city": "Chilliwack",
     "lastIncident": "2026-06-18T19:24:00Z",
+    "count": 1
+  },
+  "vancouver/scotia-st": {
+    "name": "Scotia St",
+    "slug": "vancouver/scotia-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-18T23:39:00Z",
+    "count": 1
+  },
+  "vancouver/ivanhoe-st": {
+    "name": "Ivanhoe St",
+    "slug": "vancouver/ivanhoe-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-18T22:18:00Z",
     "count": 1
   }
 }

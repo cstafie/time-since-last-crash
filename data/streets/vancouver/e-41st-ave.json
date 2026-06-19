@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-18T23:51:00Z_vancouver/beatrice-st_vancouver/e-41st-ave",
+      "timestamp": "2026-06-18T23:51:00Z",
+      "address": "BEATRICE ST & E 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/beatrice-st",
+        "vancouver/e-41st-ave"
+      ],
+      "streetNames": [
+        "Beatrice St",
+        "E 41st Ave"
+      ],
+      "pulsePointId": "2499873416"
+    },
+    {
       "id": "2026-06-15T15:42:00Z_vancouver/e-41st-ave_vancouver/argyle-st",
       "timestamp": "2026-06-15T15:42:00Z",
       "address": "E 41ST AVE & ARGYLE ST",
@@ -509,6 +524,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-15T15:42:00Z",
-  "count": 34
+  "lastIncident": "2026-06-18T23:51:00Z",
+  "count": 35
 }

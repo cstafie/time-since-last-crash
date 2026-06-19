@@ -1,6 +1,6 @@
 {
-  "slug": "vancouver/e-5th-ave",
-  "name": "E 5th Ave",
+  "slug": "vancouver/scotia-st",
+  "name": "Scotia St",
   "city": "Vancouver",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "E 5th Ave"
       ],
       "pulsePointId": "2499864155"
-    },
-    {
-      "id": "2026-06-02T23:31:00Z_vancouver/e-5th-ave_vancouver/rupert-st",
-      "timestamp": "2026-06-02T23:31:00Z",
-      "address": "E 5TH AVE & RUPERT ST",
-      "city": "Vancouver",
-      "streets": [
-        "vancouver/e-5th-ave",
-        "vancouver/rupert-st"
-      ],
-      "streetNames": [
-        "E 5th Ave",
-        "Rupert St"
-      ],
-      "pulsePointId": "2487941133"
     }
   ],
   "lastIncident": "2026-06-18T23:39:00Z",
-  "count": 2
+  "count": 1
 }
