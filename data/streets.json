@@ -549,8 +549,8 @@
     "name": "132nd St",
     "slug": "surrey/132nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-13T14:14:00Z",
-    "count": 23
+    "lastIncident": "2026-06-19T14:06:00Z",
+    "count": 24
   },
   "surrey/140th-st": {
     "name": "140th St",
@@ -1312,8 +1312,8 @@
     "name": "104th Ave",
     "slug": "surrey/104th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-19T02:59:00Z",
-    "count": 33
+    "lastIncident": "2026-06-19T14:06:00Z",
+    "count": 34
   },
   "surrey/122nd-st": {
     "name": "122nd St",
