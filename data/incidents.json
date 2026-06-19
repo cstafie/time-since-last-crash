@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-06-19T23:08:00Z_surrey/62nd-ave_surrey/130th-st",
+    "timestamp": "2026-06-19T23:08:00Z",
+    "scrapedAt": "2026-06-19T23:18:37Z",
+    "address": "62ND AVE & 130TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/62nd-ave",
+      "surrey/130th-st"
+    ],
+    "streetNames": [
+      "62nd Ave",
+      "130th St"
+    ],
+    "pulsePointId": "2500612342"
+  },
+  {
+    "id": "2026-06-19T23:03:00Z_chilliwack/first-ave",
+    "timestamp": "2026-06-19T23:03:00Z",
+    "scrapedAt": "2026-06-19T23:18:37Z",
+    "address": "FIRST AVE",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/first-ave"
+    ],
+    "streetNames": [
+      "First Ave"
+    ],
+    "pulsePointId": "2500611032"
+  },
+  {
+    "id": "2026-06-19T22:46:00Z_surrey/84th-ave",
+    "timestamp": "2026-06-19T22:46:00Z",
+    "scrapedAt": "2026-06-19T23:18:37Z",
+    "address": "84TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/84th-ave"
+    ],
+    "streetNames": [
+      "84th Ave"
+    ],
+    "pulsePointId": "2500598540"
+  },
+  {
     "id": "2026-06-19T22:31:00Z_abbotsford/old-clayburn-rd",
     "timestamp": "2026-06-19T22:31:00Z",
     "scrapedAt": "2026-06-19T22:45:12Z",

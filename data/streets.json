@@ -626,8 +626,8 @@
     "name": "84th Ave",
     "slug": "surrey/84th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-17T19:49:00Z",
-    "count": 22
+    "lastIncident": "2026-06-19T22:46:00Z",
+    "count": 23
   },
   "surrey/88th-ave": {
     "name": "88th Ave",
@@ -2418,8 +2418,8 @@
     "name": "First Ave",
     "slug": "chilliwack/first-ave",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-11T23:49:00Z",
-    "count": 9
+    "lastIncident": "2026-06-19T23:03:00Z",
+    "count": 10
   },
   "coquitlam/trans-canada-hwy-onrp": {
     "name": "Trans Canada Hwy Onrp",
@@ -5547,8 +5547,8 @@
     "name": "130th St",
     "slug": "surrey/130th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-06T19:33:00Z",
-    "count": 12
+    "lastIncident": "2026-06-19T23:08:00Z",
+    "count": 13
   },
   "vancouver/windermere-st": {
     "name": "Windermere St",
@@ -5883,8 +5883,8 @@
     "name": "62nd Ave",
     "slug": "surrey/62nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-20T05:58:00Z",
-    "count": 2
+    "lastIncident": "2026-06-19T23:08:00Z",
+    "count": 3
   },
   "vancouver/howe-st": {
     "name": "Howe St",
