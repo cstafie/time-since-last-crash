@@ -1767,8 +1767,8 @@
     "name": "South Fraser Way",
     "slug": "abbotsford/south-fraser-way",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-16T15:20:00Z",
-    "count": 28
+    "lastIncident": "2026-06-19T17:50:00Z",
+    "count": 29
   },
   "vancouver/e-hastings-st": {
     "name": "E Hastings St",
@@ -3076,8 +3076,8 @@
     "name": "Victoria Dr",
     "slug": "vancouver/victoria-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-06-19T00:32:00Z",
-    "count": 19
+    "lastIncident": "2026-06-19T16:35:00Z",
+    "count": 20
   },
   "vancouver/e-60th-ave": {
     "name": "E 60th Ave",
@@ -12632,6 +12632,20 @@
     "slug": "abbotsford/highstreet-access-rd",
     "city": "Abbotsford",
     "lastIncident": "2026-06-19T15:02:00Z",
+    "count": 1
+  },
+  "abbotsford/noble-ave": {
+    "name": "Noble Ave",
+    "slug": "abbotsford/noble-ave",
+    "city": "Abbotsford",
+    "lastIncident": "2026-06-19T17:16:00Z",
+    "count": 1
+  },
+  "vancouver/e-32nd-ave": {
+    "name": "E 32nd Ave",
+    "slug": "vancouver/e-32nd-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-19T16:35:00Z",
     "count": 1
   }
 }

@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/e-32nd-ave",
+  "name": "E 32nd Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-19T16:35:00Z_vancouver/victoria-dr_vancouver/e-32nd-ave",
+      "timestamp": "2026-06-19T16:35:00Z",
+      "address": "VICTORIA DR & E 32ND AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/victoria-dr",
+        "vancouver/e-32nd-ave"
+      ],
+      "streetNames": [
+        "Victoria Dr",
+        "E 32nd Ave"
+      ],
+      "pulsePointId": "2500339871"
+    }
+  ],
+  "lastIncident": "2026-06-19T16:35:00Z",
+  "count": 1
+}

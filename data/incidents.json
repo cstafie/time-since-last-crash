@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-06-19T17:50:00Z_abbotsford/south-fraser-way",
+    "timestamp": "2026-06-19T17:50:00Z",
+    "scrapedAt": "2026-06-19T18:06:17Z",
+    "address": "SOUTH FRASER WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/south-fraser-way"
+    ],
+    "streetNames": [
+      "South Fraser Way"
+    ],
+    "pulsePointId": "2500389037"
+  },
+  {
+    "id": "2026-06-19T17:16:00Z_abbotsford/noble-ave",
+    "timestamp": "2026-06-19T17:16:00Z",
+    "scrapedAt": "2026-06-19T18:06:17Z",
+    "address": "NOBLE AVE",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/noble-ave"
+    ],
+    "streetNames": [
+      "Noble Ave"
+    ],
+    "pulsePointId": "2500365616"
+  },
+  {
+    "id": "2026-06-19T16:35:00Z_vancouver/victoria-dr_vancouver/e-32nd-ave",
+    "timestamp": "2026-06-19T16:35:00Z",
+    "scrapedAt": "2026-06-19T18:06:17Z",
+    "address": "VICTORIA DR & E 32ND AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/victoria-dr",
+      "vancouver/e-32nd-ave"
+    ],
+    "streetNames": [
+      "Victoria Dr",
+      "E 32nd Ave"
+    ],
+    "pulsePointId": "2500339871"
+  },
+  {
     "id": "2026-06-19T15:47:00Z_north-vancouver/edgemont-blvd_north-vancouver/ridgewood-dr",
     "timestamp": "2026-06-19T15:47:00Z",
     "scrapedAt": "2026-06-19T16:08:26Z",

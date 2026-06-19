@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/noble-ave",
+  "name": "Noble Ave",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-06-19T17:16:00Z_abbotsford/noble-ave",
+      "timestamp": "2026-06-19T17:16:00Z",
+      "address": "NOBLE AVE",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/noble-ave"
+      ],
+      "streetNames": [
+        "Noble Ave"
+      ],
+      "pulsePointId": "2500365616"
+    }
+  ],
+  "lastIncident": "2026-06-19T17:16:00Z",
+  "count": 1
+}
