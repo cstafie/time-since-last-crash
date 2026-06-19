@@ -1,0 +1,24 @@
+{
+  "slug": "port-moody/moody-st",
+  "name": "Moody St",
+  "city": "Port Moody",
+  "incidents": [
+    {
+      "id": "2026-06-19T21:20:00Z_port-moody/moody-st_port-moody/st-johns-st",
+      "timestamp": "2026-06-19T21:20:00Z",
+      "address": "MOODY ST & ST JOHNS ST",
+      "city": "Port Moody",
+      "streets": [
+        "port-moody/moody-st",
+        "port-moody/st-johns-st"
+      ],
+      "streetNames": [
+        "Moody St",
+        "St Johns St"
+      ],
+      "pulsePointId": "2500536604"
+    }
+  ],
+  "lastIncident": "2026-06-19T21:20:00Z",
+  "count": 1
+}
