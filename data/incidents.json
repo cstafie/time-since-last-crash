@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-20T06:51:00Z_vancouver/granville-brdg",
+    "timestamp": "2026-06-20T06:51:00Z",
+    "scrapedAt": "2026-06-20T08:07:18Z",
+    "address": "GRANVILLE BRDG",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-brdg"
+    ],
+    "streetNames": [
+      "Granville Brdg"
+    ],
+    "pulsePointId": "2500888553"
+  },
+  {
     "id": "2026-06-20T06:43:00Z_vancouver/granville-brdg",
     "timestamp": "2026-06-20T06:43:00Z",
     "scrapedAt": "2026-06-20T06:49:12Z",
