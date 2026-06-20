@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-20T11:13:00Z_vancouver/nelson-st_vancouver/richards-st",
+      "timestamp": "2026-06-20T11:13:00Z",
+      "address": "NELSON ST & RICHARDS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/nelson-st",
+        "vancouver/richards-st"
+      ],
+      "streetNames": [
+        "Nelson St",
+        "Richards St"
+      ],
+      "pulsePointId": "2500978740"
+    },
+    {
       "id": "2026-06-17T21:11:00Z_vancouver/nelson-st_vancouver/broughton-st",
       "timestamp": "2026-06-17T21:11:00Z",
       "address": "NELSON ST & BROUGHTON ST",
@@ -154,6 +169,6 @@
       "pulsePointId": "2434363478"
     }
   ],
-  "lastIncident": "2026-06-17T21:11:00Z",
-  "count": 10
+  "lastIncident": "2026-06-20T11:13:00Z",
+  "count": 11
 }

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-20T11:13:00Z_vancouver/nelson-st_vancouver/richards-st",
+      "timestamp": "2026-06-20T11:13:00Z",
+      "address": "NELSON ST & RICHARDS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/nelson-st",
+        "vancouver/richards-st"
+      ],
+      "streetNames": [
+        "Nelson St",
+        "Richards St"
+      ],
+      "pulsePointId": "2500978740"
+    },
+    {
       "id": "2026-06-18T06:59:00Z_vancouver/w-georgia-st_vancouver/richards-st",
       "timestamp": "2026-06-18T06:59:00Z",
       "address": "W GEORGIA ST & RICHARDS ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2440715838"
     }
   ],
-  "lastIncident": "2026-06-18T06:59:00Z",
-  "count": 2
+  "lastIncident": "2026-06-20T11:13:00Z",
+  "count": 3
 }
