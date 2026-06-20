@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-20T01:26:00Z_chilliwack/tyson-rd_chilliwack/south-sumas-rd",
+    "timestamp": "2026-06-20T01:26:00Z",
+    "scrapedAt": "2026-06-20T02:16:32Z",
+    "address": "TYSON RD & SOUTH SUMAS RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/tyson-rd",
+      "chilliwack/south-sumas-rd"
+    ],
+    "streetNames": [
+      "Tyson Rd",
+      "South Sumas Rd"
+    ],
+    "pulsePointId": "2500709422"
+  },
+  {
     "id": "2026-06-20T00:52:00Z_burnaby/kingsway",
     "timestamp": "2026-06-20T00:52:00Z",
     "scrapedAt": "2026-06-20T01:25:35Z",
