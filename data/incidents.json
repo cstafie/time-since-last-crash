@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-20T17:23:00Z_abbotsford/clearbrook-rd",
+    "timestamp": "2026-06-20T17:23:00Z",
+    "scrapedAt": "2026-06-20T17:28:24Z",
+    "address": "CLEARBROOK RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/clearbrook-rd"
+    ],
+    "streetNames": [
+      "Clearbrook Rd"
+    ],
+    "pulsePointId": "2501141262"
+  },
+  {
     "id": "2026-06-20T11:13:00Z_vancouver/nelson-st_vancouver/richards-st",
     "timestamp": "2026-06-20T11:13:00Z",
     "scrapedAt": "2026-06-20T11:35:50Z",
