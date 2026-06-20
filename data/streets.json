@@ -892,8 +892,8 @@
     "name": "100th Ave",
     "slug": "surrey/100th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-15T18:47:00Z",
-    "count": 10
+    "lastIncident": "2026-06-20T21:15:00Z",
+    "count": 11
   },
   "abbotsford/old-clayburn-rd": {
     "name": "Old Clayburn Rd",
@@ -1893,8 +1893,8 @@
     "name": "148th St",
     "slug": "surrey/148th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-19T05:04:00Z",
-    "count": 20
+    "lastIncident": "2026-06-20T21:15:00Z",
+    "count": 21
   },
   "vancouver/earles-st": {
     "name": "Earles St",

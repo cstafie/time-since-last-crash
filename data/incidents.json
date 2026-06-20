@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-20T21:15:00Z_surrey/100th-ave_surrey/148th-st",
+    "timestamp": "2026-06-20T21:15:00Z",
+    "scrapedAt": "2026-06-20T21:26:06Z",
+    "address": "100TH AVE & 148TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/100th-ave",
+      "surrey/148th-st"
+    ],
+    "streetNames": [
+      "100th Ave",
+      "148th St"
+    ],
+    "pulsePointId": "2501296036"
+  },
+  {
     "id": "2026-06-20T20:43:00Z_north-vancouver/lonsdale-ave",
     "timestamp": "2026-06-20T20:43:00Z",
     "scrapedAt": "2026-06-20T20:53:41Z",
