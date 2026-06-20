@@ -1,5 +1,63 @@
 [
   {
+    "id": "2026-06-20T00:00:00Z_richmond/hwy-91_richmond/knight-street-onrp",
+    "timestamp": "2026-06-20T00:00:00Z",
+    "scrapedAt": "2026-06-20T00:23:01Z",
+    "address": "HWY 91 & KNIGHT STREET ONRP",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hwy-91",
+      "richmond/knight-street-onrp"
+    ],
+    "streetNames": [
+      "Hwy 91",
+      "Knight Street Onrp"
+    ],
+    "pulsePointId": "2500647303"
+  },
+  {
+    "id": "2026-06-19T23:59:00Z_richmond/knight-street-onrp",
+    "timestamp": "2026-06-19T23:59:00Z",
+    "scrapedAt": "2026-06-20T00:23:01Z",
+    "address": "KNIGHT STREET ONRP",
+    "city": "Richmond",
+    "streets": [
+      "richmond/knight-street-onrp"
+    ],
+    "streetNames": [
+      "Knight Street Onrp"
+    ],
+    "pulsePointId": "2500649010"
+  },
+  {
+    "id": "2026-06-19T23:58:00Z_surrey/hwy-99",
+    "timestamp": "2026-06-19T23:58:00Z",
+    "scrapedAt": "2026-06-20T00:23:01Z",
+    "address": "HWY 99",
+    "city": "Surrey",
+    "streets": [
+      "surrey/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2500645510"
+  },
+  {
+    "id": "2026-06-19T23:54:00Z_surrey/hwy-99",
+    "timestamp": "2026-06-19T23:54:00Z",
+    "scrapedAt": "2026-06-20T00:23:01Z",
+    "address": "HWY 99",
+    "city": "Surrey",
+    "streets": [
+      "surrey/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2500644987"
+  },
+  {
     "id": "2026-06-19T23:43:00Z_richmond/no-4-rd_richmond/westminster-hwy",
     "timestamp": "2026-06-19T23:43:00Z",
     "scrapedAt": "2026-06-19T23:50:03Z",

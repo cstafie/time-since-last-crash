@@ -465,8 +465,8 @@
     "name": "Hwy 91",
     "slug": "richmond/hwy-91",
     "city": "Richmond",
-    "lastIncident": "2026-06-19T00:50:00Z",
-    "count": 17
+    "lastIncident": "2026-06-20T00:00:00Z",
+    "count": 18
   },
   "richmond/nelson-rd": {
     "name": "Nelson Rd",
@@ -4238,8 +4238,8 @@
     "name": "Hwy 99",
     "slug": "surrey/hwy-99",
     "city": "Surrey",
-    "lastIncident": "2026-06-11T00:30:00Z",
-    "count": 7
+    "lastIncident": "2026-06-19T23:58:00Z",
+    "count": 9
   },
   "surrey/golden-ears-conn": {
     "name": "Golden Ears Conn",
@@ -11826,8 +11826,8 @@
     "name": "Knight Street Onrp",
     "slug": "richmond/knight-street-onrp",
     "city": "Richmond",
-    "lastIncident": "2026-06-14T06:34:00Z",
-    "count": 2
+    "lastIncident": "2026-06-20T00:00:00Z",
+    "count": 4
   },
   "abbotsford/whatcom-road-ofrp": {
     "name": "Whatcom Road Ofrp",
