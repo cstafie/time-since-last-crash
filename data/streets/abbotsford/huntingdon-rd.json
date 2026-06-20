@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-20T10:17:00Z_abbotsford/clearbrook-rd_abbotsford/huntingdon-rd",
+      "timestamp": "2026-06-20T10:17:00Z",
+      "address": "CLEARBROOK RD & HUNTINGDON RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/clearbrook-rd",
+        "abbotsford/huntingdon-rd"
+      ],
+      "streetNames": [
+        "Clearbrook Rd",
+        "Huntingdon Rd"
+      ],
+      "pulsePointId": "2500962623"
+    },
+    {
       "id": "2026-05-29T23:31:00Z_abbotsford/huntingdon-rd",
       "timestamp": "2026-05-29T23:31:00Z",
       "address": "HUNTINGDON RD",
@@ -60,6 +75,6 @@
       "pulsePointId": "2437634536"
     }
   ],
-  "lastIncident": "2026-05-29T23:31:00Z",
-  "count": 4
+  "lastIncident": "2026-06-20T10:17:00Z",
+  "count": 5
 }

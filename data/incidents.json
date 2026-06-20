@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-20T10:17:00Z_abbotsford/clearbrook-rd_abbotsford/huntingdon-rd",
+    "timestamp": "2026-06-20T10:17:00Z",
+    "scrapedAt": "2026-06-20T10:45:21Z",
+    "address": "CLEARBROOK RD & HUNTINGDON RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/clearbrook-rd",
+      "abbotsford/huntingdon-rd"
+    ],
+    "streetNames": [
+      "Clearbrook Rd",
+      "Huntingdon Rd"
+    ],
+    "pulsePointId": "2500962623"
+  },
+  {
+    "id": "2026-06-20T09:55:00Z_new-westminster/e-columbia-st",
+    "timestamp": "2026-06-20T09:55:00Z",
+    "scrapedAt": "2026-06-20T10:45:21Z",
+    "address": "E COLUMBIA ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/e-columbia-st"
+    ],
+    "streetNames": [
+      "E Columbia St"
+    ],
+    "pulsePointId": "2500956376"
+  },
+  {
     "id": "2026-06-20T08:27:00Z_chilliwack/trans-canada-hwy",
     "timestamp": "2026-06-20T08:27:00Z",
     "scrapedAt": "2026-06-20T09:37:10Z",

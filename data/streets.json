@@ -913,8 +913,8 @@
     "name": "E Columbia St",
     "slug": "new-westminster/e-columbia-st",
     "city": "New Westminster",
-    "lastIncident": "2026-06-13T22:42:00Z",
-    "count": 18
+    "lastIncident": "2026-06-20T09:55:00Z",
+    "count": 19
   },
   "burnaby/market-crss": {
     "name": "Market Crss",
@@ -1914,8 +1914,8 @@
     "name": "Clearbrook Rd",
     "slug": "abbotsford/clearbrook-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-28T07:57:00Z",
-    "count": 18
+    "lastIncident": "2026-06-20T10:17:00Z",
+    "count": 19
   },
   "abbotsford/maclure-rd": {
     "name": "Maclure Rd",
@@ -3132,8 +3132,8 @@
     "name": "Huntingdon Rd",
     "slug": "abbotsford/huntingdon-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-29T23:31:00Z",
-    "count": 4
+    "lastIncident": "2026-06-20T10:17:00Z",
+    "count": 5
   },
   "surrey/164th-st": {
     "name": "164th St",
