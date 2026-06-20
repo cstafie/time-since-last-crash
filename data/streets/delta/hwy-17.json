@@ -4,6 +4,21 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-06-20T19:01:00Z_delta/hwy-17_delta/56th-st",
+      "timestamp": "2026-06-20T19:01:00Z",
+      "address": "HWY 17 & 56TH ST",
+      "city": "Delta",
+      "streets": [
+        "delta/hwy-17",
+        "delta/56th-st"
+      ],
+      "streetNames": [
+        "Hwy 17",
+        "56th St"
+      ],
+      "pulsePointId": "2501201678"
+    },
+    {
       "id": "2026-06-14T19:33:00Z_delta/hwy-17_delta/tsawwassen-dr",
       "timestamp": "2026-06-14T19:33:00Z",
       "address": "HWY 17 & TSAWWASSEN DR",
@@ -192,6 +207,6 @@
       "pulsePointId": "2446023750"
     }
   ],
-  "lastIncident": "2026-06-14T19:33:00Z",
-  "count": 14
+  "lastIncident": "2026-06-20T19:01:00Z",
+  "count": 15
 }

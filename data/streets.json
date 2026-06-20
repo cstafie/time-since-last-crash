@@ -2229,8 +2229,8 @@
     "name": "56th St",
     "slug": "delta/56th-st",
     "city": "Delta",
-    "lastIncident": "2026-06-17T20:33:00Z",
-    "count": 4
+    "lastIncident": "2026-06-20T19:01:00Z",
+    "count": 5
   },
   "vancouver/e-63rd-ave": {
     "name": "E 63rd Ave",
@@ -4910,8 +4910,8 @@
     "name": "Hwy 17",
     "slug": "delta/hwy-17",
     "city": "Delta",
-    "lastIncident": "2026-06-14T19:33:00Z",
-    "count": 14
+    "lastIncident": "2026-06-20T19:01:00Z",
+    "count": 15
   },
   "coquitlam/winslow-ave": {
     "name": "Winslow Ave",
