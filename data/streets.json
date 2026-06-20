@@ -262,8 +262,8 @@
     "name": "Fraser Hwy",
     "slug": "langley/fraser-hwy",
     "city": "Langley",
-    "lastIncident": "2026-06-16T22:18:00Z",
-    "count": 40
+    "lastIncident": "2026-06-20T23:02:00Z",
+    "count": 41
   },
   "langley/trans-canada-hwy": {
     "name": "Trans Canada Hwy",
@@ -1249,8 +1249,8 @@
     "name": "Trans Canada Hwy",
     "slug": "burnaby/trans-canada-hwy",
     "city": "Burnaby",
-    "lastIncident": "2026-06-18T14:58:00Z",
-    "count": 30
+    "lastIncident": "2026-06-20T23:13:00Z",
+    "count": 31
   },
   "vancouver/e-1st-ave": {
     "name": "E 1st Ave",
@@ -1725,8 +1725,8 @@
     "name": "Knight St",
     "slug": "richmond/knight-st",
     "city": "Richmond",
-    "lastIncident": "2026-05-15T22:13:00Z",
-    "count": 3
+    "lastIncident": "2026-06-20T23:06:00Z",
+    "count": 4
   },
   "delta/alex-fraser-brdg": {
     "name": "Alex Fraser Brdg",
@@ -1893,8 +1893,8 @@
     "name": "148th St",
     "slug": "surrey/148th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-20T21:15:00Z",
-    "count": 21
+    "lastIncident": "2026-06-20T23:03:00Z",
+    "count": 22
   },
   "vancouver/earles-st": {
     "name": "Earles St",
@@ -3055,8 +3055,8 @@
     "name": "26th Ave",
     "slug": "surrey/26th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-03T00:29:00Z",
-    "count": 2
+    "lastIncident": "2026-06-20T23:03:00Z",
+    "count": 3
   },
   "surrey/24th-ave": {
     "name": "24th Ave",
@@ -4133,8 +4133,8 @@
     "name": "Willingdon Avenue Ofrp",
     "slug": "burnaby/willingdon-avenue-ofrp",
     "city": "Burnaby",
-    "lastIncident": "2026-06-18T14:58:00Z",
-    "count": 8
+    "lastIncident": "2026-06-20T23:13:00Z",
+    "count": 9
   },
   "surrey/194a-st": {
     "name": "194a St",
@@ -12682,5 +12682,12 @@
     "city": "Vancouver",
     "lastIncident": "2026-06-20T06:51:00Z",
     "count": 2
+  },
+  "langley/22728-fraser-hwy": {
+    "name": "22728 Fraser Hwy",
+    "slug": "langley/22728-fraser-hwy",
+    "city": "Langley",
+    "lastIncident": "2026-06-20T23:02:00Z",
+    "count": 1
   }
 }

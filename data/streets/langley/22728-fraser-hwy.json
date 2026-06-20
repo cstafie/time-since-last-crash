@@ -1,0 +1,22 @@
+{
+  "slug": "langley/22728-fraser-hwy",
+  "name": "22728 Fraser Hwy",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-06-20T23:02:00Z_langley/22728-fraser-hwy",
+      "timestamp": "2026-06-20T23:02:00Z",
+      "address": "22728 FRASER HWY",
+      "city": "Langley",
+      "streets": [
+        "langley/22728-fraser-hwy"
+      ],
+      "streetNames": [
+        "22728 Fraser Hwy"
+      ],
+      "pulsePointId": "2501368632"
+    }
+  ],
+  "lastIncident": "2026-06-20T23:02:00Z",
+  "count": 1
+}

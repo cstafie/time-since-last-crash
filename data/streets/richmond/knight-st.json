@@ -4,6 +4,19 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-06-20T23:06:00Z_richmond/knight-st",
+      "timestamp": "2026-06-20T23:06:00Z",
+      "address": "KNIGHT ST",
+      "city": "Richmond",
+      "streets": [
+        "richmond/knight-st"
+      ],
+      "streetNames": [
+        "Knight St"
+      ],
+      "pulsePointId": "2501374466"
+    },
+    {
       "id": "2026-05-15T22:13:00Z_richmond/westminster-hwy_richmond/knight-st",
       "timestamp": "2026-05-15T22:13:00Z",
       "address": "WESTMINSTER HWY & KNIGHT ST",
@@ -47,6 +60,6 @@
       "pulsePointId": "2433146122"
     }
   ],
-  "lastIncident": "2026-05-15T22:13:00Z",
-  "count": 3
+  "lastIncident": "2026-06-20T23:06:00Z",
+  "count": 4
 }

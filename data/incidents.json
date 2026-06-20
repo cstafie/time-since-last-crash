@@ -1,5 +1,79 @@
 [
   {
+    "id": "2026-06-20T23:13:00Z_burnaby/trans-canada-hwy_burnaby/willingdon-avenue-ofrp",
+    "timestamp": "2026-06-20T23:13:00Z",
+    "scrapedAt": "2026-06-20T23:23:47Z",
+    "address": "TRANS CANADA HWY & WILLINGDON AVENUE OFRP",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy",
+      "burnaby/willingdon-avenue-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "Willingdon Avenue Ofrp"
+    ],
+    "pulsePointId": "2501377053"
+  },
+  {
+    "id": "2026-06-20T23:06:00Z_richmond/knight-st",
+    "timestamp": "2026-06-20T23:06:00Z",
+    "scrapedAt": "2026-06-20T23:23:47Z",
+    "address": "KNIGHT ST",
+    "city": "Richmond",
+    "streets": [
+      "richmond/knight-st"
+    ],
+    "streetNames": [
+      "Knight St"
+    ],
+    "pulsePointId": "2501374466"
+  },
+  {
+    "id": "2026-06-20T23:03:00Z_surrey/26th-ave_surrey/148th-st",
+    "timestamp": "2026-06-20T23:03:00Z",
+    "scrapedAt": "2026-06-20T23:23:47Z",
+    "address": "26TH AVE & 148TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/26th-ave",
+      "surrey/148th-st"
+    ],
+    "streetNames": [
+      "26th Ave",
+      "148th St"
+    ],
+    "pulsePointId": "2501368491"
+  },
+  {
+    "id": "2026-06-20T23:02:00Z_langley/fraser-hwy",
+    "timestamp": "2026-06-20T23:02:00Z",
+    "scrapedAt": "2026-06-20T23:23:47Z",
+    "address": "FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy"
+    ],
+    "streetNames": [
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2501367385"
+  },
+  {
+    "id": "2026-06-20T23:02:00Z_langley/22728-fraser-hwy",
+    "timestamp": "2026-06-20T23:02:00Z",
+    "scrapedAt": "2026-06-20T23:23:47Z",
+    "address": "22728 FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/22728-fraser-hwy"
+    ],
+    "streetNames": [
+      "22728 Fraser Hwy"
+    ],
+    "pulsePointId": "2501368632"
+  },
+  {
     "id": "2026-06-20T22:10:00Z_vancouver/granville-st_vancouver/w-34th-ave",
     "timestamp": "2026-06-20T22:10:00Z",
     "scrapedAt": "2026-06-20T22:22:50Z",
