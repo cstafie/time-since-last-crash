@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-20T22:10:00Z_vancouver/granville-st_vancouver/w-34th-ave",
+      "timestamp": "2026-06-20T22:10:00Z",
+      "address": "GRANVILLE ST & W 34TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st",
+        "vancouver/w-34th-ave"
+      ],
+      "streetNames": [
+        "Granville St",
+        "W 34th Ave"
+      ],
+      "pulsePointId": "2501335690"
+    },
+    {
       "id": "2026-06-18T23:10:00Z_vancouver/granville-st_vancouver/w-16th-ave",
       "timestamp": "2026-06-18T23:10:00Z",
       "address": "GRANVILLE ST & W 16TH AVE",
@@ -696,6 +711,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-18T23:10:00Z",
-  "count": 47
+  "lastIncident": "2026-06-20T22:10:00Z",
+  "count": 48
 }
