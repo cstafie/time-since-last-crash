@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-06-20T17:46:00Z_vancouver/w-pender-st_vancouver/richards-st",
+    "timestamp": "2026-06-20T17:46:00Z",
+    "scrapedAt": "2026-06-20T17:57:41Z",
+    "address": "W PENDER ST & RICHARDS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-pender-st",
+      "vancouver/richards-st"
+    ],
+    "streetNames": [
+      "W Pender St",
+      "Richards St"
+    ],
+    "pulsePointId": "2501153739"
+  },
+  {
+    "id": "2026-06-20T17:43:00Z_vancouver/w-georgia-st_vancouver/broughton-st",
+    "timestamp": "2026-06-20T17:43:00Z",
+    "scrapedAt": "2026-06-20T17:57:41Z",
+    "address": "W GEORGIA ST & BROUGHTON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-georgia-st",
+      "vancouver/broughton-st"
+    ],
+    "streetNames": [
+      "W Georgia St",
+      "Broughton St"
+    ],
+    "pulsePointId": "2501151033"
+  },
+  {
+    "id": "2026-06-20T17:42:00Z_surrey/96th-ave_surrey/golden-ears-way",
+    "timestamp": "2026-06-20T17:42:00Z",
+    "scrapedAt": "2026-06-20T17:57:41Z",
+    "address": "96TH AVE & GOLDEN EARS WAY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/96th-ave",
+      "surrey/golden-ears-way"
+    ],
+    "streetNames": [
+      "96th Ave",
+      "Golden Ears Way"
+    ],
+    "pulsePointId": "2501151019"
+  },
+  {
     "id": "2026-06-20T17:23:00Z_abbotsford/clearbrook-rd",
     "timestamp": "2026-06-20T17:23:00Z",
     "scrapedAt": "2026-06-20T17:28:24Z",

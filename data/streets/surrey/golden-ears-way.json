@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-20T17:42:00Z_surrey/96th-ave_surrey/golden-ears-way",
+      "timestamp": "2026-06-20T17:42:00Z",
+      "address": "96TH AVE & GOLDEN EARS WAY",
+      "city": "Surrey",
+      "streets": [
+        "surrey/96th-ave",
+        "surrey/golden-ears-way"
+      ],
+      "streetNames": [
+        "96th Ave",
+        "Golden Ears Way"
+      ],
+      "pulsePointId": "2501151019"
+    },
+    {
       "id": "2026-05-21T01:30:00Z_surrey/golden-ears-way_surrey/96th-ave",
       "timestamp": "2026-05-21T01:30:00Z",
       "address": "GOLDEN EARS WAY & 96TH AVE",
@@ -45,6 +60,6 @@
       "pulsePointId": "2438989206"
     }
   ],
-  "lastIncident": "2026-05-21T01:30:00Z",
-  "count": 3
+  "lastIncident": "2026-06-20T17:42:00Z",
+  "count": 4
 }

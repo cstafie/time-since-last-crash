@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-20T17:46:00Z_vancouver/w-pender-st_vancouver/richards-st",
+      "timestamp": "2026-06-20T17:46:00Z",
+      "address": "W PENDER ST & RICHARDS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-pender-st",
+        "vancouver/richards-st"
+      ],
+      "streetNames": [
+        "W Pender St",
+        "Richards St"
+      ],
+      "pulsePointId": "2501153739"
+    },
+    {
       "id": "2026-06-20T11:13:00Z_vancouver/nelson-st_vancouver/richards-st",
       "timestamp": "2026-06-20T11:13:00Z",
       "address": "NELSON ST & RICHARDS ST",
@@ -49,6 +64,6 @@
       "pulsePointId": "2440715838"
     }
   ],
-  "lastIncident": "2026-06-20T11:13:00Z",
-  "count": 3
+  "lastIncident": "2026-06-20T17:46:00Z",
+  "count": 4
 }
