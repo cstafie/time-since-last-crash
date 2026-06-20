@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-20T20:43:00Z_north-vancouver/lonsdale-ave",
+    "timestamp": "2026-06-20T20:43:00Z",
+    "scrapedAt": "2026-06-20T20:53:41Z",
+    "address": "LONSDALE AVE",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/lonsdale-ave"
+    ],
+    "streetNames": [
+      "Lonsdale Ave"
+    ],
+    "pulsePointId": "2501274666"
+  },
+  {
+    "id": "2026-06-20T20:36:00Z_delta/lyon-rd_delta/kittson-pkwy",
+    "timestamp": "2026-06-20T20:36:00Z",
+    "scrapedAt": "2026-06-20T20:53:41Z",
+    "address": "LYON RD & KITTSON PKWY",
+    "city": "Delta",
+    "streets": [
+      "delta/lyon-rd",
+      "delta/kittson-pkwy"
+    ],
+    "streetNames": [
+      "Lyon Rd",
+      "Kittson Pkwy"
+    ],
+    "pulsePointId": "2501270143"
+  },
+  {
     "id": "2026-06-20T19:01:00Z_delta/hwy-17_delta/56th-st",
     "timestamp": "2026-06-20T19:01:00Z",
     "scrapedAt": "2026-06-20T19:28:43Z",

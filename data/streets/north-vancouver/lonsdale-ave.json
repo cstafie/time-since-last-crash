@@ -4,6 +4,19 @@
   "city": "North Vancouver",
   "incidents": [
     {
+      "id": "2026-06-20T20:43:00Z_north-vancouver/lonsdale-ave",
+      "timestamp": "2026-06-20T20:43:00Z",
+      "address": "LONSDALE AVE",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/lonsdale-ave"
+      ],
+      "streetNames": [
+        "Lonsdale Ave"
+      ],
+      "pulsePointId": "2501274666"
+    },
+    {
       "id": "2026-06-19T06:07:00Z_north-vancouver/lonsdale-ave_north-vancouver/e-25th-st",
       "timestamp": "2026-06-19T06:07:00Z",
       "address": "LONSDALE AVE & E 25TH ST",
@@ -79,6 +92,6 @@
       "pulsePointId": "2438092163"
     }
   ],
-  "lastIncident": "2026-06-19T06:07:00Z",
-  "count": 5
+  "lastIncident": "2026-06-20T20:43:00Z",
+  "count": 6
 }

@@ -3293,8 +3293,8 @@
     "name": "Lonsdale Ave",
     "slug": "north-vancouver/lonsdale-ave",
     "city": "North Vancouver",
-    "lastIncident": "2026-06-19T06:07:00Z",
-    "count": 5
+    "lastIncident": "2026-06-20T20:43:00Z",
+    "count": 6
   },
   "north-vancouver/e-29th-st": {
     "name": "E 29th St",
@@ -5897,8 +5897,8 @@
     "name": "Kittson Pkwy",
     "slug": "delta/kittson-pkwy",
     "city": "Delta",
-    "lastIncident": "2026-06-11T21:36:00Z",
-    "count": 4
+    "lastIncident": "2026-06-20T20:36:00Z",
+    "count": 5
   },
   "delta/river-rd": {
     "name": "River Rd",
@@ -8102,8 +8102,8 @@
     "name": "Lyon Rd",
     "slug": "delta/lyon-rd",
     "city": "Delta",
-    "lastIncident": "2026-06-18T00:58:00Z",
-    "count": 3
+    "lastIncident": "2026-06-20T20:36:00Z",
+    "count": 4
   },
   "surrey/134th-st": {
     "name": "134th St",

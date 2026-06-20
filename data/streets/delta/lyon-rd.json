@@ -4,6 +4,21 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-06-20T20:36:00Z_delta/lyon-rd_delta/kittson-pkwy",
+      "timestamp": "2026-06-20T20:36:00Z",
+      "address": "LYON RD & KITTSON PKWY",
+      "city": "Delta",
+      "streets": [
+        "delta/lyon-rd",
+        "delta/kittson-pkwy"
+      ],
+      "streetNames": [
+        "Lyon Rd",
+        "Kittson Pkwy"
+      ],
+      "pulsePointId": "2501270143"
+    },
+    {
       "id": "2026-06-18T00:58:00Z_delta/huff-blvd_delta/lyon-rd",
       "timestamp": "2026-06-18T00:58:00Z",
       "address": "HUFF BLVD & LYON RD",
@@ -47,6 +62,6 @@
       "pulsePointId": "2463878048"
     }
   ],
-  "lastIncident": "2026-06-18T00:58:00Z",
-  "count": 3
+  "lastIncident": "2026-06-20T20:36:00Z",
+  "count": 4
 }
