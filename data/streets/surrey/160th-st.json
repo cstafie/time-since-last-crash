@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-20T00:41:00Z_surrey/160th-st_surrey/88a-ave",
+      "timestamp": "2026-06-20T00:41:00Z",
+      "address": "160TH ST & 88A AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/160th-st",
+        "surrey/88a-ave"
+      ],
+      "streetNames": [
+        "160th St",
+        "88a Ave"
+      ],
+      "pulsePointId": "2500675543"
+    },
+    {
       "id": "2026-06-12T02:32:00Z_surrey/160th-st_surrey/88th-ave",
       "timestamp": "2026-06-12T02:32:00Z",
       "address": "160TH ST & 88TH AVE",
@@ -280,6 +295,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-12T02:32:00Z",
-  "count": 19
+  "lastIncident": "2026-06-20T00:41:00Z",
+  "count": 20
 }

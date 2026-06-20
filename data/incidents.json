@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-06-20T00:52:00Z_burnaby/kingsway",
+    "timestamp": "2026-06-20T00:52:00Z",
+    "scrapedAt": "2026-06-20T01:25:35Z",
+    "address": "KINGSWAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/kingsway"
+    ],
+    "streetNames": [
+      "Kingsway"
+    ],
+    "pulsePointId": "2500684044"
+  },
+  {
+    "id": "2026-06-20T00:47:00Z_richmond/westminster-hwy_richmond/no-3-rd",
+    "timestamp": "2026-06-20T00:47:00Z",
+    "scrapedAt": "2026-06-20T01:25:35Z",
+    "address": "WESTMINSTER HWY & NO 3 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/westminster-hwy",
+      "richmond/no-3-rd"
+    ],
+    "streetNames": [
+      "Westminster Hwy",
+      "No 3 Rd"
+    ],
+    "pulsePointId": "2500678527"
+  },
+  {
+    "id": "2026-06-20T00:42:00Z_burnaby/dawson-st_burnaby/gilmore-ave",
+    "timestamp": "2026-06-20T00:42:00Z",
+    "scrapedAt": "2026-06-20T01:25:35Z",
+    "address": "DAWSON ST & GILMORE AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/dawson-st",
+      "burnaby/gilmore-ave"
+    ],
+    "streetNames": [
+      "Dawson St",
+      "Gilmore Ave"
+    ],
+    "pulsePointId": "2500675106"
+  },
+  {
+    "id": "2026-06-20T00:41:00Z_surrey/160th-st_surrey/88a-ave",
+    "timestamp": "2026-06-20T00:41:00Z",
+    "scrapedAt": "2026-06-20T01:25:35Z",
+    "address": "160TH ST & 88A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/160th-st",
+      "surrey/88a-ave"
+    ],
+    "streetNames": [
+      "160th St",
+      "88a Ave"
+    ],
+    "pulsePointId": "2500675543"
+  },
+  {
     "id": "2026-06-20T00:00:00Z_richmond/hwy-91_richmond/knight-street-onrp",
     "timestamp": "2026-06-20T00:00:00Z",
     "scrapedAt": "2026-06-20T00:23:01Z",

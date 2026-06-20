@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-06-20T00:47:00Z_richmond/westminster-hwy_richmond/no-3-rd",
+      "timestamp": "2026-06-20T00:47:00Z",
+      "address": "WESTMINSTER HWY & NO 3 RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/westminster-hwy",
+        "richmond/no-3-rd"
+      ],
+      "streetNames": [
+        "Westminster Hwy",
+        "No 3 Rd"
+      ],
+      "pulsePointId": "2500678527"
+    },
+    {
       "id": "2026-06-13T19:44:00Z_richmond/no-3-rd_richmond/blundell-rd",
       "timestamp": "2026-06-13T19:44:00Z",
       "address": "NO 3 RD & BLUNDELL RD",
@@ -266,6 +281,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-13T19:44:00Z",
-  "count": 18
+  "lastIncident": "2026-06-20T00:47:00Z",
+  "count": 19
 }
