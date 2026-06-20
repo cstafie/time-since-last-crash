@@ -2285,8 +2285,8 @@
     "name": "Hwy 99",
     "slug": "delta/hwy-99",
     "city": "Delta",
-    "lastIncident": "2026-06-20T03:04:00Z",
-    "count": 13
+    "lastIncident": "2026-06-20T18:26:00Z",
+    "count": 14
   },
   "coquitlam/redonda-dr": {
     "name": "Redonda Dr",
@@ -2306,8 +2306,8 @@
     "name": "Hwy 17a Ofrp",
     "slug": "delta/hwy-17a-ofrp",
     "city": "Delta",
-    "lastIncident": "2026-05-20T14:36:00Z",
-    "count": 2
+    "lastIncident": "2026-06-20T18:26:00Z",
+    "count": 3
   },
   "delta/hwy-17-ofrp": {
     "name": "Hwy 17 Ofrp",
