@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-20T08:27:00Z_chilliwack/trans-canada-hwy",
+    "timestamp": "2026-06-20T08:27:00Z",
+    "scrapedAt": "2026-06-20T09:37:10Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2500928577"
+  },
+  {
     "id": "2026-06-20T06:51:00Z_vancouver/granville-brdg",
     "timestamp": "2026-06-20T06:51:00Z",
     "scrapedAt": "2026-06-20T08:07:18Z",
