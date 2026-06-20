@@ -1,0 +1,22 @@
+{
+  "slug": "richmond/sealord-rd",
+  "name": "Sealord Rd",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-06-20T04:05:00Z_richmond/sealord-rd",
+      "timestamp": "2026-06-20T04:05:00Z",
+      "address": "SEALORD RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/sealord-rd"
+      ],
+      "streetNames": [
+        "Sealord Rd"
+      ],
+      "pulsePointId": "2500812372"
+    }
+  ],
+  "lastIncident": "2026-06-20T04:05:00Z",
+  "count": 1
+}

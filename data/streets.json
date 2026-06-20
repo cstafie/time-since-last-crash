@@ -717,8 +717,8 @@
     "name": "E 41st Ave",
     "slug": "vancouver/e-41st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-19T00:32:00Z",
-    "count": 36
+    "lastIncident": "2026-06-20T05:08:00Z",
+    "count": 37
   },
   "vancouver/granville-st": {
     "name": "Granville St",
@@ -8095,8 +8095,8 @@
     "name": "Clarendon St",
     "slug": "vancouver/clarendon-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-07T20:35:00Z",
-    "count": 5
+    "lastIncident": "2026-06-20T05:08:00Z",
+    "count": 6
   },
   "delta/lyon-rd": {
     "name": "Lyon Rd",
@@ -12667,6 +12667,13 @@
     "slug": "surrey/88a-ave",
     "city": "Surrey",
     "lastIncident": "2026-06-20T00:41:00Z",
+    "count": 1
+  },
+  "richmond/sealord-rd": {
+    "name": "Sealord Rd",
+    "slug": "richmond/sealord-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-06-20T04:05:00Z",
     "count": 1
   }
 }

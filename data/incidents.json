@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-20T05:08:00Z_vancouver/e-41st-ave_vancouver/clarendon-st",
+    "timestamp": "2026-06-20T05:08:00Z",
+    "scrapedAt": "2026-06-20T05:25:20Z",
+    "address": "E 41ST AVE & CLARENDON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-41st-ave",
+      "vancouver/clarendon-st"
+    ],
+    "streetNames": [
+      "E 41st Ave",
+      "Clarendon St"
+    ],
+    "pulsePointId": "2500844076"
+  },
+  {
+    "id": "2026-06-20T04:05:00Z_richmond/sealord-rd",
+    "timestamp": "2026-06-20T04:05:00Z",
+    "scrapedAt": "2026-06-20T05:25:20Z",
+    "address": "SEALORD RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/sealord-rd"
+    ],
+    "streetNames": [
+      "Sealord Rd"
+    ],
+    "pulsePointId": "2500812372"
+  },
+  {
     "id": "2026-06-20T03:08:00Z_surrey/152nd-st",
     "timestamp": "2026-06-20T03:08:00Z",
     "scrapedAt": "2026-06-20T03:43:35Z",
