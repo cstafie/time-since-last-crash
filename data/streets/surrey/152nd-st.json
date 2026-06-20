@@ -4,6 +4,19 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-20T03:08:00Z_surrey/152nd-st",
+      "timestamp": "2026-06-20T03:08:00Z",
+      "address": "152ND ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/152nd-st"
+      ],
+      "streetNames": [
+        "152nd St"
+      ],
+      "pulsePointId": "2500777627"
+    },
+    {
       "id": "2026-06-12T17:46:00Z_surrey/70a-ave_surrey/152nd-st",
       "timestamp": "2026-06-12T17:46:00Z",
       "address": "70A AVE & 152ND ST",
@@ -474,6 +487,6 @@
       "pulsePointId": "2433332497"
     }
   ],
-  "lastIncident": "2026-06-12T17:46:00Z",
-  "count": 32
+  "lastIncident": "2026-06-20T03:08:00Z",
+  "count": 33
 }

@@ -4,6 +4,21 @@
   "city": "Port Moody",
   "incidents": [
     {
+      "id": "2026-06-20T02:26:00Z_port-moody/newport-dr_port-moody/ungless-way",
+      "timestamp": "2026-06-20T02:26:00Z",
+      "address": "NEWPORT DR & UNGLESS WAY",
+      "city": "Port Moody",
+      "streets": [
+        "port-moody/newport-dr",
+        "port-moody/ungless-way"
+      ],
+      "streetNames": [
+        "Newport Dr",
+        "Ungless Way"
+      ],
+      "pulsePointId": "2500750335"
+    },
+    {
       "id": "2026-06-08T16:31:00Z_port-moody/newport-dr_port-moody/ioco-rd",
       "timestamp": "2026-06-08T16:31:00Z",
       "address": "NEWPORT DR & IOCO RD",
@@ -32,6 +47,6 @@
       "pulsePointId": "2460085548"
     }
   ],
-  "lastIncident": "2026-06-08T16:31:00Z",
-  "count": 2
+  "lastIncident": "2026-06-20T02:26:00Z",
+  "count": 3
 }

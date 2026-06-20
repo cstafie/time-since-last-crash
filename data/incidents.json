@@ -1,5 +1,63 @@
 [
   {
+    "id": "2026-06-20T03:08:00Z_surrey/152nd-st",
+    "timestamp": "2026-06-20T03:08:00Z",
+    "scrapedAt": "2026-06-20T03:43:35Z",
+    "address": "152ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/152nd-st"
+    ],
+    "streetNames": [
+      "152nd St"
+    ],
+    "pulsePointId": "2500777627"
+  },
+  {
+    "id": "2026-06-20T03:04:00Z_delta/hwy-99",
+    "timestamp": "2026-06-20T03:04:00Z",
+    "scrapedAt": "2026-06-20T03:43:35Z",
+    "address": "HWY 99",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2500775851"
+  },
+  {
+    "id": "2026-06-20T02:43:00Z_richmond/hazelbridge-way",
+    "timestamp": "2026-06-20T02:43:00Z",
+    "scrapedAt": "2026-06-20T03:43:35Z",
+    "address": "HAZELBRIDGE WAY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hazelbridge-way"
+    ],
+    "streetNames": [
+      "Hazelbridge Way"
+    ],
+    "pulsePointId": "2500763504"
+  },
+  {
+    "id": "2026-06-20T02:26:00Z_port-moody/newport-dr_port-moody/ungless-way",
+    "timestamp": "2026-06-20T02:26:00Z",
+    "scrapedAt": "2026-06-20T03:43:35Z",
+    "address": "NEWPORT DR & UNGLESS WAY",
+    "city": "Port Moody",
+    "streets": [
+      "port-moody/newport-dr",
+      "port-moody/ungless-way"
+    ],
+    "streetNames": [
+      "Newport Dr",
+      "Ungless Way"
+    ],
+    "pulsePointId": "2500750335"
+  },
+  {
     "id": "2026-06-20T01:26:00Z_chilliwack/tyson-rd_chilliwack/south-sumas-rd",
     "timestamp": "2026-06-20T01:26:00Z",
     "scrapedAt": "2026-06-20T02:16:32Z",
