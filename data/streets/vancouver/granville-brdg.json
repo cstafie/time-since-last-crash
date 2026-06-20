@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/granville-brdg",
+  "name": "Granville Brdg",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-20T06:43:00Z_vancouver/granville-brdg",
+      "timestamp": "2026-06-20T06:43:00Z",
+      "address": "GRANVILLE BRDG",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-brdg"
+      ],
+      "streetNames": [
+        "Granville Brdg"
+      ],
+      "pulsePointId": "2500885857"
+    }
+  ],
+  "lastIncident": "2026-06-20T06:43:00Z",
+  "count": 1
+}

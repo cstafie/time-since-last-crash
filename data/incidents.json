@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-06-20T06:43:00Z_vancouver/granville-brdg",
+    "timestamp": "2026-06-20T06:43:00Z",
+    "scrapedAt": "2026-06-20T06:49:12Z",
+    "address": "GRANVILLE BRDG",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-brdg"
+    ],
+    "streetNames": [
+      "Granville Brdg"
+    ],
+    "pulsePointId": "2500885857"
+  },
+  {
+    "id": "2026-06-20T06:37:00Z_surrey/144th-st_surrey/61a-ave",
+    "timestamp": "2026-06-20T06:37:00Z",
+    "scrapedAt": "2026-06-20T06:49:12Z",
+    "address": "144TH ST & 61A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/144th-st",
+      "surrey/61a-ave"
+    ],
+    "streetNames": [
+      "144th St",
+      "61a Ave"
+    ],
+    "pulsePointId": "2500884008"
+  },
+  {
+    "id": "2026-06-20T05:34:00Z_surrey/66th-ave_surrey/142nd-st",
+    "timestamp": "2026-06-20T05:34:00Z",
+    "scrapedAt": "2026-06-20T06:49:12Z",
+    "address": "66TH AVE & 142ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/66th-ave",
+      "surrey/142nd-st"
+    ],
+    "streetNames": [
+      "66th Ave",
+      "142nd St"
+    ],
+    "pulsePointId": "2500856425"
+  },
+  {
     "id": "2026-06-20T05:08:00Z_vancouver/e-41st-ave_vancouver/clarendon-st",
     "timestamp": "2026-06-20T05:08:00Z",
     "scrapedAt": "2026-06-20T05:25:20Z",
