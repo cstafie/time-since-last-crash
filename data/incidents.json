@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-20T23:25:00Z_vancouver/oak-st",
+    "timestamp": "2026-06-20T23:25:00Z",
+    "scrapedAt": "2026-06-20T23:50:33Z",
+    "address": "OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "Oak St"
+    ],
+    "pulsePointId": "2501384140"
+  },
+  {
     "id": "2026-06-20T23:13:00Z_burnaby/trans-canada-hwy_burnaby/willingdon-avenue-ofrp",
     "timestamp": "2026-06-20T23:13:00Z",
     "scrapedAt": "2026-06-20T23:23:47Z",
