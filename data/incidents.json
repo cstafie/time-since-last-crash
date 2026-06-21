@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-21T21:15:00Z_vancouver/e-49th-ave_vancouver/beatrice-st",
+    "timestamp": "2026-06-21T21:15:00Z",
+    "scrapedAt": "2026-06-21T21:29:45Z",
+    "address": "E 49TH AVE & BEATRICE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-49th-ave",
+      "vancouver/beatrice-st"
+    ],
+    "streetNames": [
+      "E 49th Ave",
+      "Beatrice St"
+    ],
+    "pulsePointId": "2502038756"
+  },
+  {
     "id": "2026-06-21T19:49:00Z_vancouver/arbutus-st_vancouver/w-king-edward-ave",
     "timestamp": "2026-06-21T19:49:00Z",
     "scrapedAt": "2026-06-21T20:57:21Z",

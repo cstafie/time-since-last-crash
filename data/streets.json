@@ -696,8 +696,8 @@
     "name": "Beatrice St",
     "slug": "vancouver/beatrice-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-18T23:51:00Z",
-    "count": 3
+    "lastIncident": "2026-06-21T21:15:00Z",
+    "count": 4
   },
   "vancouver/burrard-st": {
     "name": "Burrard St",
@@ -3069,8 +3069,8 @@
     "name": "E 49th Ave",
     "slug": "vancouver/e-49th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-15T00:59:00Z",
-    "count": 17
+    "lastIncident": "2026-06-21T21:15:00Z",
+    "count": 18
   },
   "vancouver/victoria-dr": {
     "name": "Victoria Dr",
