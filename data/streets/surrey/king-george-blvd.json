@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-21T07:38:00Z_surrey/80th-ave_surrey/king-george-blvd",
+      "timestamp": "2026-06-21T07:38:00Z",
+      "address": "80TH AVE & KING GEORGE BLVD",
+      "city": "Surrey",
+      "streets": [
+        "surrey/80th-ave",
+        "surrey/king-george-blvd"
+      ],
+      "streetNames": [
+        "80th Ave",
+        "King George Blvd"
+      ],
+      "pulsePointId": "2501667711"
+    },
+    {
       "id": "2026-06-19T18:06:00Z_surrey/king-george-blvd_surrey/94a-ave",
       "timestamp": "2026-06-19T18:06:00Z",
       "address": "KING GEORGE BLVD & 94A AVE",
@@ -1026,6 +1041,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-19T18:06:00Z",
-  "count": 70
+  "lastIncident": "2026-06-21T07:38:00Z",
+  "count": 71
 }

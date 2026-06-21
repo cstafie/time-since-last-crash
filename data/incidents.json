@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-21T07:38:00Z_surrey/80th-ave_surrey/king-george-blvd",
+    "timestamp": "2026-06-21T07:38:00Z",
+    "scrapedAt": "2026-06-21T08:48:39Z",
+    "address": "80TH AVE & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/80th-ave",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "80th Ave",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2501667711"
+  },
+  {
     "id": "2026-06-21T06:54:00Z_langley/96th-ave_langley/201st-st",
     "timestamp": "2026-06-21T06:54:00Z",
     "scrapedAt": "2026-06-21T07:07:01Z",
