@@ -612,8 +612,8 @@
     "name": "78th Ave",
     "slug": "surrey/78th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-16T16:47:00Z",
-    "count": 4
+    "lastIncident": "2026-06-21T21:25:00Z",
+    "count": 5
   },
   "surrey/82nd-ave": {
     "name": "82nd Ave",
@@ -1501,8 +1501,8 @@
     "name": "144th St",
     "slug": "surrey/144th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-20T06:37:00Z",
-    "count": 35
+    "lastIncident": "2026-06-21T21:44:00Z",
+    "count": 36
   },
   "north-vancouver/seymour-blvd": {
     "name": "Seymour Blvd",
@@ -4399,8 +4399,8 @@
     "name": "74th Ave",
     "slug": "surrey/74th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-14T22:15:00Z",
-    "count": 5
+    "lastIncident": "2026-06-21T21:44:00Z",
+    "count": 6
   },
   "maple-ridge/208th-st": {
     "name": "208th St",
@@ -12723,6 +12723,13 @@
     "slug": "coquitlam/baycrest-ave",
     "city": "Coquitlam",
     "lastIncident": "2026-06-21T12:07:00Z",
+    "count": 1
+  },
+  "surrey/123rd-st": {
+    "name": "123rd St",
+    "slug": "surrey/123rd-st",
+    "city": "Surrey",
+    "lastIncident": "2026-06-21T21:25:00Z",
     "count": 1
   }
 }
