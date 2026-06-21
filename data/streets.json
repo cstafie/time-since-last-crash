@@ -1543,8 +1543,8 @@
     "name": "Port Mann Brdg",
     "slug": "surrey/port-mann-brdg",
     "city": "Surrey",
-    "lastIncident": "2026-06-09T08:36:00Z",
-    "count": 7
+    "lastIncident": "2026-06-21T01:39:00Z",
+    "count": 8
   },
   "vancouver/tyne-st": {
     "name": "Tyne St",
@@ -1998,8 +1998,8 @@
     "name": "Port Mann Brdg",
     "slug": "coquitlam/port-mann-brdg",
     "city": "Coquitlam",
-    "lastIncident": "2026-05-17T22:23:00Z",
-    "count": 4
+    "lastIncident": "2026-06-21T02:22:00Z",
+    "count": 7
   },
   "new-westminster/3rd-ave": {
     "name": "3rd Ave",
@@ -2131,8 +2131,8 @@
     "name": "Commercial Dr",
     "slug": "vancouver/commercial-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-06-15T16:14:00Z",
-    "count": 7
+    "lastIncident": "2026-06-21T01:44:00Z",
+    "count": 8
   },
   "mission/keystone-ave": {
     "name": "Keystone Ave",
@@ -3524,8 +3524,8 @@
     "name": "Harris Rd",
     "slug": "pitt-meadows/harris-rd",
     "city": "Pitt Meadows",
-    "lastIncident": "2026-06-06T17:53:00Z",
-    "count": 4
+    "lastIncident": "2026-06-21T01:53:00Z",
+    "count": 5
   },
   "burnaby/gaglardi-way": {
     "name": "Gaglardi Way",
@@ -12688,6 +12688,13 @@
     "slug": "langley/22728-fraser-hwy",
     "city": "Langley",
     "lastIncident": "2026-06-20T23:02:00Z",
+    "count": 1
+  },
+  "pitt-meadows/mitchell-rd": {
+    "name": "Mitchell Rd",
+    "slug": "pitt-meadows/mitchell-rd",
+    "city": "Pitt Meadows",
+    "lastIncident": "2026-06-21T01:53:00Z",
     "count": 1
   }
 }

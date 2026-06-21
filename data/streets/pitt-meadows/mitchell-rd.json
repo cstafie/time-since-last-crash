@@ -1,0 +1,24 @@
+{
+  "slug": "pitt-meadows/mitchell-rd",
+  "name": "Mitchell Rd",
+  "city": "Pitt Meadows",
+  "incidents": [
+    {
+      "id": "2026-06-21T01:53:00Z_pitt-meadows/harris-rd_pitt-meadows/mitchell-rd",
+      "timestamp": "2026-06-21T01:53:00Z",
+      "address": "HARRIS RD & MITCHELL RD",
+      "city": "Pitt Meadows",
+      "streets": [
+        "pitt-meadows/harris-rd",
+        "pitt-meadows/mitchell-rd"
+      ],
+      "streetNames": [
+        "Harris Rd",
+        "Mitchell Rd"
+      ],
+      "pulsePointId": "2501484576"
+    }
+  ],
+  "lastIncident": "2026-06-21T01:53:00Z",
+  "count": 1
+}

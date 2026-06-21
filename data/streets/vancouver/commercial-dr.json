@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-21T01:44:00Z_vancouver/commercial-dr",
+      "timestamp": "2026-06-21T01:44:00Z",
+      "address": "COMMERCIAL DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/commercial-dr"
+      ],
+      "streetNames": [
+        "Commercial Dr"
+      ],
+      "pulsePointId": "2501478333"
+    },
+    {
       "id": "2026-06-15T16:14:00Z_vancouver/commercial-dr_vancouver/e-2nd-ave",
       "timestamp": "2026-06-15T16:14:00Z",
       "address": "COMMERCIAL DR & E 2ND AVE",
@@ -109,6 +122,6 @@
       "pulsePointId": "2434378699"
     }
   ],
-  "lastIncident": "2026-06-15T16:14:00Z",
-  "count": 7
+  "lastIncident": "2026-06-21T01:44:00Z",
+  "count": 8
 }

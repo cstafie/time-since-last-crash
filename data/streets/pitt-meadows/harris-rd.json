@@ -4,6 +4,21 @@
   "city": "Pitt Meadows",
   "incidents": [
     {
+      "id": "2026-06-21T01:53:00Z_pitt-meadows/harris-rd_pitt-meadows/mitchell-rd",
+      "timestamp": "2026-06-21T01:53:00Z",
+      "address": "HARRIS RD & MITCHELL RD",
+      "city": "Pitt Meadows",
+      "streets": [
+        "pitt-meadows/harris-rd",
+        "pitt-meadows/mitchell-rd"
+      ],
+      "streetNames": [
+        "Harris Rd",
+        "Mitchell Rd"
+      ],
+      "pulsePointId": "2501484576"
+    },
+    {
       "id": "2026-06-06T17:53:00Z_pitt-meadows/lougheed-hwy_pitt-meadows/harris-rd",
       "timestamp": "2026-06-06T17:53:00Z",
       "address": "LOUGHEED HWY & HARRIS RD",
@@ -62,6 +77,6 @@
       "pulsePointId": "2439010835"
     }
   ],
-  "lastIncident": "2026-06-06T17:53:00Z",
-  "count": 4
+  "lastIncident": "2026-06-21T01:53:00Z",
+  "count": 5
 }
