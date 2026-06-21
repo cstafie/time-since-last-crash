@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-06-21T23:03:00Z_delta/72nd-ave_delta/118th-st",
+    "timestamp": "2026-06-21T23:03:00Z",
+    "scrapedAt": "2026-06-21T23:26:15Z",
+    "address": "72ND AVE & 118TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/72nd-ave",
+      "delta/118th-st"
+    ],
+    "streetNames": [
+      "72nd Ave",
+      "118th St"
+    ],
+    "pulsePointId": "2502116700"
+  },
+  {
+    "id": "2026-06-21T23:02:00Z_north-vancouver/trans-canada-hwy_north-vancouver/lloyd-ave",
+    "timestamp": "2026-06-21T23:02:00Z",
+    "scrapedAt": "2026-06-21T23:26:15Z",
+    "address": "TRANS CANADA HWY & LLOYD AVE",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/trans-canada-hwy",
+      "north-vancouver/lloyd-ave"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "Lloyd Ave"
+    ],
+    "pulsePointId": "2502113003"
+  },
+  {
+    "id": "2026-06-21T22:56:00Z_vancouver/jervis-st_vancouver/burnaby-st",
+    "timestamp": "2026-06-21T22:56:00Z",
+    "scrapedAt": "2026-06-21T23:26:15Z",
+    "address": "JERVIS ST & BURNABY ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/jervis-st",
+      "vancouver/burnaby-st"
+    ],
+    "streetNames": [
+      "Jervis St",
+      "Burnaby St"
+    ],
+    "pulsePointId": "2502108295"
+  },
+  {
     "id": "2026-06-21T22:01:00Z_maple-ridge/22838-lougheed-hwy",
     "timestamp": "2026-06-21T22:01:00Z",
     "scrapedAt": "2026-06-21T22:34:01Z",

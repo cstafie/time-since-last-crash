@@ -1,0 +1,24 @@
+{
+  "slug": "north-vancouver/lloyd-ave",
+  "name": "Lloyd Ave",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-21T23:02:00Z_north-vancouver/trans-canada-hwy_north-vancouver/lloyd-ave",
+      "timestamp": "2026-06-21T23:02:00Z",
+      "address": "TRANS CANADA HWY & LLOYD AVE",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/trans-canada-hwy",
+        "north-vancouver/lloyd-ave"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy",
+        "Lloyd Ave"
+      ],
+      "pulsePointId": "2502113003"
+    }
+  ],
+  "lastIncident": "2026-06-21T23:02:00Z",
+  "count": 1
+}

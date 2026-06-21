@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-21T22:56:00Z_vancouver/jervis-st_vancouver/burnaby-st",
+      "timestamp": "2026-06-21T22:56:00Z",
+      "address": "JERVIS ST & BURNABY ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/jervis-st",
+        "vancouver/burnaby-st"
+      ],
+      "streetNames": [
+        "Jervis St",
+        "Burnaby St"
+      ],
+      "pulsePointId": "2502108295"
+    },
+    {
       "id": "2026-06-05T16:17:00Z_vancouver/w-georgia-st_vancouver/jervis-st",
       "timestamp": "2026-06-05T16:17:00Z",
       "address": "W GEORGIA ST & JERVIS ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2450884607"
     }
   ],
-  "lastIncident": "2026-06-05T16:17:00Z",
-  "count": 2
+  "lastIncident": "2026-06-21T22:56:00Z",
+  "count": 3
 }

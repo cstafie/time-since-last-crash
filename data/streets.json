@@ -178,8 +178,8 @@
     "name": "72nd Ave",
     "slug": "delta/72nd-ave",
     "city": "Delta",
-    "lastIncident": "2026-05-19T03:13:00Z",
-    "count": 4
+    "lastIncident": "2026-06-21T23:03:00Z",
+    "count": 5
   },
   "delta/central-ave": {
     "name": "Central Ave",
@@ -5113,8 +5113,8 @@
     "name": "Trans Canada Hwy",
     "slug": "north-vancouver/trans-canada-hwy",
     "city": "North Vancouver",
-    "lastIncident": "2026-06-17T20:41:00Z",
-    "count": 17
+    "lastIncident": "2026-06-21T23:02:00Z",
+    "count": 18
   },
   "chilliwack/topaz-dr": {
     "name": "Topaz Dr",
@@ -5925,8 +5925,8 @@
     "name": "Jervis St",
     "slug": "vancouver/jervis-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-05T16:17:00Z",
-    "count": 2
+    "lastIncident": "2026-06-21T22:56:00Z",
+    "count": 3
   },
   "burnaby/1st-ave": {
     "name": "1st Ave",
@@ -7416,8 +7416,8 @@
     "name": "Burnaby St",
     "slug": "vancouver/burnaby-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-22T17:56:00Z",
-    "count": 1
+    "lastIncident": "2026-06-21T22:56:00Z",
+    "count": 2
   },
   "surrey/101a-ave": {
     "name": "101a Ave",
@@ -8508,8 +8508,8 @@
     "name": "118th St",
     "slug": "delta/118th-st",
     "city": "Delta",
-    "lastIncident": "2026-05-02T22:06:00Z",
-    "count": 1
+    "lastIncident": "2026-06-21T23:03:00Z",
+    "count": 2
   },
   "port-coquitlam/pitt-river-brdg": {
     "name": "Pitt River Brdg",
@@ -12737,6 +12737,13 @@
     "slug": "maple-ridge/22838-lougheed-hwy",
     "city": "Maple Ridge",
     "lastIncident": "2026-06-21T22:01:00Z",
+    "count": 1
+  },
+  "north-vancouver/lloyd-ave": {
+    "name": "Lloyd Ave",
+    "slug": "north-vancouver/lloyd-ave",
+    "city": "North Vancouver",
+    "lastIncident": "2026-06-21T23:02:00Z",
     "count": 1
   }
 }
