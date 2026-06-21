@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-06-21T00:07:00Z_coquitlam/schoolhouse-st_coquitlam/brunette-ave",
+      "timestamp": "2026-06-21T00:07:00Z",
+      "address": "SCHOOLHOUSE ST & BRUNETTE AVE",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/schoolhouse-st",
+        "coquitlam/brunette-ave"
+      ],
+      "streetNames": [
+        "Schoolhouse St",
+        "Brunette Ave"
+      ],
+      "pulsePointId": "2501413662"
+    },
+    {
       "id": "2026-03-20T01:05:00Z_coquitlam/brunette-ave",
       "timestamp": "2026-03-20T01:05:00Z",
       "address": "BRUNETTE AVE",
@@ -17,6 +32,6 @@
       "pulsePointId": "2437558090"
     }
   ],
-  "lastIncident": "2026-03-20T01:05:00Z",
-  "count": 1
+  "lastIncident": "2026-06-21T00:07:00Z",
+  "count": 2
 }

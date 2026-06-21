@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-21T00:14:00Z_langley/32nd-ave_langley/208th-st",
+    "timestamp": "2026-06-21T00:14:00Z",
+    "scrapedAt": "2026-06-21T00:23:33Z",
+    "address": "32ND AVE & 208TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/32nd-ave",
+      "langley/208th-st"
+    ],
+    "streetNames": [
+      "32nd Ave",
+      "208th St"
+    ],
+    "pulsePointId": "2501416438"
+  },
+  {
+    "id": "2026-06-21T00:07:00Z_coquitlam/schoolhouse-st_coquitlam/brunette-ave",
+    "timestamp": "2026-06-21T00:07:00Z",
+    "scrapedAt": "2026-06-21T00:23:33Z",
+    "address": "SCHOOLHOUSE ST & BRUNETTE AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/schoolhouse-st",
+      "coquitlam/brunette-ave"
+    ],
+    "streetNames": [
+      "Schoolhouse St",
+      "Brunette Ave"
+    ],
+    "pulsePointId": "2501413662"
+  },
+  {
     "id": "2026-06-20T23:25:00Z_vancouver/oak-st",
     "timestamp": "2026-06-20T23:25:00Z",
     "scrapedAt": "2026-06-20T23:50:33Z",
