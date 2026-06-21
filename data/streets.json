@@ -780,8 +780,8 @@
     "name": "W 33rd Ave",
     "slug": "vancouver/w-33rd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-21T03:52:00Z",
-    "count": 8
+    "lastIncident": "2026-06-21T18:39:00Z",
+    "count": 9
   },
   "vancouver/w-49th-ave": {
     "name": "W 49th Ave",
@@ -7696,8 +7696,8 @@
     "name": "Willow St",
     "slug": "vancouver/willow-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-30T01:00:00Z",
-    "count": 2
+    "lastIncident": "2026-06-21T18:39:00Z",
+    "count": 3
   },
   "vancouver/e-19th-ave": {
     "name": "E 19th Ave",
