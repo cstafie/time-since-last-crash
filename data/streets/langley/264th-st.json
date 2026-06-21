@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-06-21T05:25:00Z_langley/264th-st_langley/52nd-ave",
+      "timestamp": "2026-06-21T05:25:00Z",
+      "address": "264TH ST & 52ND AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/264th-st",
+        "langley/52nd-ave"
+      ],
+      "streetNames": [
+        "264th St",
+        "52nd Ave"
+      ],
+      "pulsePointId": "2501607740"
+    },
+    {
       "id": "2026-06-06T23:05:00Z_langley/264th-st",
       "timestamp": "2026-06-06T23:05:00Z",
       "address": "264TH ST",
@@ -147,6 +162,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-06T23:05:00Z",
-  "count": 10
+  "lastIncident": "2026-06-21T05:25:00Z",
+  "count": 11
 }

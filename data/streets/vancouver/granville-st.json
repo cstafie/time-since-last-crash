@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-21T05:09:00Z_vancouver/w-king-edward-ave_vancouver/granville-st",
+      "timestamp": "2026-06-21T05:09:00Z",
+      "address": "W KING EDWARD AVE & GRANVILLE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-king-edward-ave",
+        "vancouver/granville-st"
+      ],
+      "streetNames": [
+        "W King Edward Ave",
+        "Granville St"
+      ],
+      "pulsePointId": "2501601442"
+    },
+    {
       "id": "2026-06-20T22:10:00Z_vancouver/granville-st_vancouver/w-34th-ave",
       "timestamp": "2026-06-20T22:10:00Z",
       "address": "GRANVILLE ST & W 34TH AVE",
@@ -711,6 +726,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-20T22:10:00Z",
-  "count": 48
+  "lastIncident": "2026-06-21T05:09:00Z",
+  "count": 49
 }

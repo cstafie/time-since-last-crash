@@ -1,5 +1,69 @@
 [
   {
+    "id": "2026-06-21T06:54:00Z_langley/96th-ave_langley/201st-st",
+    "timestamp": "2026-06-21T06:54:00Z",
+    "scrapedAt": "2026-06-21T07:07:01Z",
+    "address": "96TH AVE & 201ST ST",
+    "city": "Langley",
+    "streets": [
+      "langley/96th-ave",
+      "langley/201st-st"
+    ],
+    "streetNames": [
+      "96th Ave",
+      "201st St"
+    ],
+    "pulsePointId": "2501647782"
+  },
+  {
+    "id": "2026-06-21T06:44:00Z_delta/nordel-way_delta/brooke-rd",
+    "timestamp": "2026-06-21T06:44:00Z",
+    "scrapedAt": "2026-06-21T07:07:01Z",
+    "address": "NORDEL WAY & BROOKE RD",
+    "city": "Delta",
+    "streets": [
+      "delta/nordel-way",
+      "delta/brooke-rd"
+    ],
+    "streetNames": [
+      "Nordel Way",
+      "Brooke Rd"
+    ],
+    "pulsePointId": "2501644346"
+  },
+  {
+    "id": "2026-06-21T05:25:00Z_langley/264th-st_langley/52nd-ave",
+    "timestamp": "2026-06-21T05:25:00Z",
+    "scrapedAt": "2026-06-21T07:07:01Z",
+    "address": "264TH ST & 52ND AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/264th-st",
+      "langley/52nd-ave"
+    ],
+    "streetNames": [
+      "264th St",
+      "52nd Ave"
+    ],
+    "pulsePointId": "2501607740"
+  },
+  {
+    "id": "2026-06-21T05:09:00Z_vancouver/w-king-edward-ave_vancouver/granville-st",
+    "timestamp": "2026-06-21T05:09:00Z",
+    "scrapedAt": "2026-06-21T07:07:01Z",
+    "address": "W KING EDWARD AVE & GRANVILLE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-king-edward-ave",
+      "vancouver/granville-st"
+    ],
+    "streetNames": [
+      "W King Edward Ave",
+      "Granville St"
+    ],
+    "pulsePointId": "2501601442"
+  },
+  {
     "id": "2026-06-21T04:50:00Z_langley/fraser-hwy_langley/langley-bps",
     "timestamp": "2026-06-21T04:50:00Z",
     "scrapedAt": "2026-06-21T05:11:01Z",

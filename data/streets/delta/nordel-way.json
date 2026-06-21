@@ -4,6 +4,21 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-06-21T06:44:00Z_delta/nordel-way_delta/brooke-rd",
+      "timestamp": "2026-06-21T06:44:00Z",
+      "address": "NORDEL WAY & BROOKE RD",
+      "city": "Delta",
+      "streets": [
+        "delta/nordel-way",
+        "delta/brooke-rd"
+      ],
+      "streetNames": [
+        "Nordel Way",
+        "Brooke Rd"
+      ],
+      "pulsePointId": "2501644346"
+    },
+    {
       "id": "2026-06-19T00:21:00Z_delta/nordel-way_delta/84th-ave",
       "timestamp": "2026-06-19T00:21:00Z",
       "address": "NORDEL WAY & 84TH AVE",
@@ -163,6 +178,6 @@
       "pulsePointId": "2436970054"
     }
   ],
-  "lastIncident": "2026-06-19T00:21:00Z",
-  "count": 11
+  "lastIncident": "2026-06-21T06:44:00Z",
+  "count": 12
 }
