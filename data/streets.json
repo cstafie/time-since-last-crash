@@ -619,8 +619,8 @@
     "name": "82nd Ave",
     "slug": "surrey/82nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-23T01:50:00Z",
-    "count": 3
+    "lastIncident": "2026-06-21T15:50:00Z",
+    "count": 4
   },
   "surrey/84th-ave": {
     "name": "84th Ave",
@@ -6436,8 +6436,8 @@
     "name": "158th St",
     "slug": "surrey/158th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-19T09:39:00Z",
-    "count": 3
+    "lastIncident": "2026-06-21T15:50:00Z",
+    "count": 4
   },
   "langley/224th-st": {
     "name": "224th St",
