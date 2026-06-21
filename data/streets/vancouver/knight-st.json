@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-21T16:18:00Z_vancouver/knight-st_vancouver/e-19th-ave",
+      "timestamp": "2026-06-21T16:18:00Z",
+      "address": "KNIGHT ST & E 19TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/knight-st",
+        "vancouver/e-19th-ave"
+      ],
+      "streetNames": [
+        "Knight St",
+        "E 19th Ave"
+      ],
+      "pulsePointId": "2501860049"
+    },
+    {
       "id": "2026-06-18T21:44:00Z_vancouver/e-63rd-ave_vancouver/knight-st",
       "timestamp": "2026-06-18T21:44:00Z",
       "address": "E 63RD AVE & KNIGHT ST",
@@ -462,6 +477,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-18T21:44:00Z",
-  "count": 31
+  "lastIncident": "2026-06-21T16:18:00Z",
+  "count": 32
 }
