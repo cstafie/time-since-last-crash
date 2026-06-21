@@ -1,0 +1,22 @@
+{
+  "slug": "coquitlam/baycrest-ave",
+  "name": "Baycrest Ave",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-06-21T12:07:00Z_coquitlam/baycrest-ave",
+      "timestamp": "2026-06-21T12:07:00Z",
+      "address": "BAYCREST AVE",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/baycrest-ave"
+      ],
+      "streetNames": [
+        "Baycrest Ave"
+      ],
+      "pulsePointId": "2501752899"
+    }
+  ],
+  "lastIncident": "2026-06-21T12:07:00Z",
+  "count": 1
+}

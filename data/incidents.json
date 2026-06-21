@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-21T12:07:00Z_coquitlam/baycrest-ave",
+    "timestamp": "2026-06-21T12:07:00Z",
+    "scrapedAt": "2026-06-21T12:16:30Z",
+    "address": "BAYCREST AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/baycrest-ave"
+    ],
+    "streetNames": [
+      "Baycrest Ave"
+    ],
+    "pulsePointId": "2501752899"
+  },
+  {
     "id": "2026-06-21T07:38:00Z_surrey/80th-ave_surrey/king-george-blvd",
     "timestamp": "2026-06-21T07:38:00Z",
     "scrapedAt": "2026-06-21T08:48:39Z",
