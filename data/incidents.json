@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-21T22:01:00Z_maple-ridge/22838-lougheed-hwy",
+    "timestamp": "2026-06-21T22:01:00Z",
+    "scrapedAt": "2026-06-21T22:34:01Z",
+    "address": "22838 LOUGHEED HWY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/22838-lougheed-hwy"
+    ],
+    "streetNames": [
+      "22838 Lougheed Hwy"
+    ],
+    "pulsePointId": "2502070853"
+  },
+  {
     "id": "2026-06-21T21:44:00Z_surrey/74th-ave_surrey/144th-st",
     "timestamp": "2026-06-21T21:44:00Z",
     "scrapedAt": "2026-06-21T22:00:00Z",

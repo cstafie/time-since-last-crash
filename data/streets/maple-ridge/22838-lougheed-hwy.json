@@ -1,0 +1,22 @@
+{
+  "slug": "maple-ridge/22838-lougheed-hwy",
+  "name": "22838 Lougheed Hwy",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-06-21T22:01:00Z_maple-ridge/22838-lougheed-hwy",
+      "timestamp": "2026-06-21T22:01:00Z",
+      "address": "22838 LOUGHEED HWY",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/22838-lougheed-hwy"
+      ],
+      "streetNames": [
+        "22838 Lougheed Hwy"
+      ],
+      "pulsePointId": "2502070853"
+    }
+  ],
+  "lastIncident": "2026-06-21T22:01:00Z",
+  "count": 1
+}

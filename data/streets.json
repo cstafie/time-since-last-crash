@@ -12731,5 +12731,12 @@
     "city": "Surrey",
     "lastIncident": "2026-06-21T21:25:00Z",
     "count": 1
+  },
+  "maple-ridge/22838-lougheed-hwy": {
+    "name": "22838 Lougheed Hwy",
+    "slug": "maple-ridge/22838-lougheed-hwy",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-06-21T22:01:00Z",
+    "count": 1
   }
 }
