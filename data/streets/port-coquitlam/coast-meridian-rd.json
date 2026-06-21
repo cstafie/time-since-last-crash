@@ -4,6 +4,19 @@
   "city": "Port Coquitlam",
   "incidents": [
     {
+      "id": "2026-06-21T18:16:00Z_port-coquitlam/coast-meridian-rd",
+      "timestamp": "2026-06-21T18:16:00Z",
+      "address": "COAST MERIDIAN RD",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/coast-meridian-rd"
+      ],
+      "streetNames": [
+        "Coast Meridian Rd"
+      ],
+      "pulsePointId": "2501928665"
+    },
+    {
       "id": "2026-06-10T23:05:00Z_port-coquitlam/riverwood-gt_port-coquitlam/coast-meridian-rd",
       "timestamp": "2026-06-10T23:05:00Z",
       "address": "RIVERWOOD GT & COAST MERIDIAN RD",
@@ -64,6 +77,6 @@
       "pulsePointId": "2455929322"
     }
   ],
-  "lastIncident": "2026-06-10T23:05:00Z",
-  "count": 4
+  "lastIncident": "2026-06-21T18:16:00Z",
+  "count": 5
 }

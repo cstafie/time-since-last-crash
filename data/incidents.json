@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-21T18:16:00Z_port-coquitlam/coast-meridian-rd",
+    "timestamp": "2026-06-21T18:16:00Z",
+    "scrapedAt": "2026-06-21T18:26:03Z",
+    "address": "COAST MERIDIAN RD",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/coast-meridian-rd"
+    ],
+    "streetNames": [
+      "Coast Meridian Rd"
+    ],
+    "pulsePointId": "2501928665"
+  },
+  {
     "id": "2026-06-21T16:18:00Z_lions-bay/hwy-99",
     "timestamp": "2026-06-21T16:18:00Z",
     "scrapedAt": "2026-06-21T17:00:04Z",
