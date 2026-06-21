@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-21T19:41:00Z_burnaby/canada-way_burnaby/willingdon-ave",
+      "timestamp": "2026-06-21T19:41:00Z",
+      "address": "CANADA WAY & WILLINGDON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/canada-way",
+        "burnaby/willingdon-ave"
+      ],
+      "streetNames": [
+        "Canada Way",
+        "Willingdon Ave"
+      ],
+      "pulsePointId": "2501979554"
+    },
+    {
       "id": "2026-06-05T06:15:00Z_burnaby/lougheed-hwy_burnaby/willingdon-ave",
       "timestamp": "2026-06-05T06:15:00Z",
       "address": "LOUGHEED HWY & WILLINGDON AVE",
@@ -136,6 +151,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-05T06:15:00Z",
-  "count": 9
+  "lastIncident": "2026-06-21T19:41:00Z",
+  "count": 10
 }

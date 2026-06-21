@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-21T19:49:00Z_vancouver/arbutus-st_vancouver/w-king-edward-ave",
+      "timestamp": "2026-06-21T19:49:00Z",
+      "address": "ARBUTUS ST & W KING EDWARD AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/arbutus-st",
+        "vancouver/w-king-edward-ave"
+      ],
+      "streetNames": [
+        "Arbutus St",
+        "W King Edward Ave"
+      ],
+      "pulsePointId": "2501983967"
+    },
+    {
       "id": "2026-05-02T21:40:00Z_vancouver/nanton-ave_vancouver/arbutus-st",
       "timestamp": "2026-05-02T21:40:00Z",
       "address": "NANTON AVE & ARBUTUS ST",
@@ -64,6 +79,6 @@
       "pulsePointId": "2448495578"
     }
   ],
-  "lastIncident": "2026-05-02T21:40:00Z",
-  "count": 4
+  "lastIncident": "2026-06-21T19:49:00Z",
+  "count": 5
 }

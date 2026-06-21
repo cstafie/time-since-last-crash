@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-06-21T19:49:00Z_vancouver/arbutus-st_vancouver/w-king-edward-ave",
+    "timestamp": "2026-06-21T19:49:00Z",
+    "scrapedAt": "2026-06-21T20:57:21Z",
+    "address": "ARBUTUS ST & W KING EDWARD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/arbutus-st",
+      "vancouver/w-king-edward-ave"
+    ],
+    "streetNames": [
+      "Arbutus St",
+      "W King Edward Ave"
+    ],
+    "pulsePointId": "2501983967"
+  },
+  {
+    "id": "2026-06-21T19:45:00Z_vancouver/w-35th-ave_vancouver/cambie-st",
+    "timestamp": "2026-06-21T19:45:00Z",
+    "scrapedAt": "2026-06-21T20:57:21Z",
+    "address": "W 35TH AVE & CAMBIE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-35th-ave",
+      "vancouver/cambie-st"
+    ],
+    "streetNames": [
+      "W 35th Ave",
+      "Cambie St"
+    ],
+    "pulsePointId": "2501981969"
+  },
+  {
+    "id": "2026-06-21T19:41:00Z_burnaby/canada-way_burnaby/willingdon-ave",
+    "timestamp": "2026-06-21T19:41:00Z",
+    "scrapedAt": "2026-06-21T20:57:21Z",
+    "address": "CANADA WAY & WILLINGDON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/canada-way",
+      "burnaby/willingdon-ave"
+    ],
+    "streetNames": [
+      "Canada Way",
+      "Willingdon Ave"
+    ],
+    "pulsePointId": "2501979554"
+  },
+  {
     "id": "2026-06-21T18:39:00Z_vancouver/willow-st_vancouver/w-33rd-ave",
     "timestamp": "2026-06-21T18:39:00Z",
     "scrapedAt": "2026-06-21T18:59:34Z",
