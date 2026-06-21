@@ -4,6 +4,19 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-06-21T00:30:00Z_richmond/no-3-rd",
+      "timestamp": "2026-06-21T00:30:00Z",
+      "address": "NO 3 RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/no-3-rd"
+      ],
+      "streetNames": [
+        "No 3 Rd"
+      ],
+      "pulsePointId": "2501428281"
+    },
+    {
       "id": "2026-06-20T00:47:00Z_richmond/westminster-hwy_richmond/no-3-rd",
       "timestamp": "2026-06-20T00:47:00Z",
       "address": "WESTMINSTER HWY & NO 3 RD",
@@ -281,6 +294,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-20T00:47:00Z",
-  "count": 19
+  "lastIncident": "2026-06-21T00:30:00Z",
+  "count": 20
 }

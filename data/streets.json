@@ -486,8 +486,8 @@
     "name": "No 3 Rd",
     "slug": "richmond/no-3-rd",
     "city": "Richmond",
-    "lastIncident": "2026-06-20T00:47:00Z",
-    "count": 19
+    "lastIncident": "2026-06-21T00:30:00Z",
+    "count": 20
   },
   "richmond/no-4-rd": {
     "name": "No 4 Rd",
@@ -927,8 +927,8 @@
     "name": "Fraser Hwy",
     "slug": "surrey/fraser-hwy",
     "city": "Surrey",
-    "lastIncident": "2026-06-17T23:26:00Z",
-    "count": 16
+    "lastIncident": "2026-06-21T00:43:00Z",
+    "count": 17
   },
   "surrey/159th-st": {
     "name": "159th St",
@@ -4966,8 +4966,8 @@
     "name": "188th St",
     "slug": "surrey/188th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-17T22:25:00Z",
-    "count": 6
+    "lastIncident": "2026-06-21T00:43:00Z",
+    "count": 7
   },
   "abbotsford/valdes-dr": {
     "name": "Valdes Dr",
