@@ -1,5 +1,83 @@
 [
   {
+    "id": "2026-06-21T04:50:00Z_langley/fraser-hwy_langley/langley-bps",
+    "timestamp": "2026-06-21T04:50:00Z",
+    "scrapedAt": "2026-06-21T05:11:01Z",
+    "address": "FRASER HWY & LANGLEY BPS",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy",
+      "langley/langley-bps"
+    ],
+    "streetNames": [
+      "Fraser Hwy",
+      "Langley Bps"
+    ],
+    "pulsePointId": "2501590447"
+  },
+  {
+    "id": "2026-06-21T04:39:00Z_surrey/84th-ave_surrey/128th-st",
+    "timestamp": "2026-06-21T04:39:00Z",
+    "scrapedAt": "2026-06-21T05:11:01Z",
+    "address": "84TH AVE & 128TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/84th-ave",
+      "surrey/128th-st"
+    ],
+    "streetNames": [
+      "84th Ave",
+      "128th St"
+    ],
+    "pulsePointId": "2501585829"
+  },
+  {
+    "id": "2026-06-21T04:31:00Z_abbotsford/powerhouse-rd_abbotsford/wells-line-rd",
+    "timestamp": "2026-06-21T04:31:00Z",
+    "scrapedAt": "2026-06-21T05:11:01Z",
+    "address": "POWERHOUSE RD & WELLS LINE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/powerhouse-rd",
+      "abbotsford/wells-line-rd"
+    ],
+    "streetNames": [
+      "Powerhouse Rd",
+      "Wells Line Rd"
+    ],
+    "pulsePointId": "2501580708"
+  },
+  {
+    "id": "2026-06-21T04:08:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-06-21T04:08:00Z",
+    "scrapedAt": "2026-06-21T05:11:01Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2501570140"
+  },
+  {
+    "id": "2026-06-21T03:52:00Z_vancouver/oak-st_vancouver/w-33rd-ave",
+    "timestamp": "2026-06-21T03:52:00Z",
+    "scrapedAt": "2026-06-21T05:11:01Z",
+    "address": "OAK ST & W 33RD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/oak-st",
+      "vancouver/w-33rd-ave"
+    ],
+    "streetNames": [
+      "Oak St",
+      "W 33rd Ave"
+    ],
+    "pulsePointId": "2501560502"
+  },
+  {
     "id": "2026-06-21T02:22:00Z_coquitlam/port-mann-brdg",
     "timestamp": "2026-06-21T02:22:00Z",
     "scrapedAt": "2026-06-21T03:00:47Z",

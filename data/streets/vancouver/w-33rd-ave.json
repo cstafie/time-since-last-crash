@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-21T03:52:00Z_vancouver/oak-st_vancouver/w-33rd-ave",
+      "timestamp": "2026-06-21T03:52:00Z",
+      "address": "OAK ST & W 33RD AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/oak-st",
+        "vancouver/w-33rd-ave"
+      ],
+      "streetNames": [
+        "Oak St",
+        "W 33rd Ave"
+      ],
+      "pulsePointId": "2501560502"
+    },
+    {
       "id": "2026-05-21T16:57:00Z_vancouver/w-33rd-ave_vancouver/granville-st",
       "timestamp": "2026-05-21T16:57:00Z",
       "address": "W 33RD AVE & GRANVILLE ST",
@@ -105,6 +120,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-21T16:57:00Z",
-  "count": 7
+  "lastIncident": "2026-06-21T03:52:00Z",
+  "count": 8
 }

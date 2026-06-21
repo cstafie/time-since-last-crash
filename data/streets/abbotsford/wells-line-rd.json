@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/wells-line-rd",
+  "name": "Wells Line Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-06-21T04:31:00Z_abbotsford/powerhouse-rd_abbotsford/wells-line-rd",
+      "timestamp": "2026-06-21T04:31:00Z",
+      "address": "POWERHOUSE RD & WELLS LINE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/powerhouse-rd",
+        "abbotsford/wells-line-rd"
+      ],
+      "streetNames": [
+        "Powerhouse Rd",
+        "Wells Line Rd"
+      ],
+      "pulsePointId": "2501580708"
+    }
+  ],
+  "lastIncident": "2026-06-21T04:31:00Z",
+  "count": 1
+}
