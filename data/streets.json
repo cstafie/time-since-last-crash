@@ -556,8 +556,8 @@
     "name": "140th St",
     "slug": "surrey/140th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-13T17:06:00Z",
-    "count": 29
+    "lastIncident": "2026-06-22T15:38:00Z",
+    "count": 30
   },
   "surrey/141a-st": {
     "name": "141a St",
@@ -892,8 +892,8 @@
     "name": "100th Ave",
     "slug": "surrey/100th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-20T21:15:00Z",
-    "count": 11
+    "lastIncident": "2026-06-22T15:38:00Z",
+    "count": 12
   },
   "abbotsford/old-clayburn-rd": {
     "name": "Old Clayburn Rd",
@@ -2117,8 +2117,8 @@
     "name": "Mt Lehman Rd",
     "slug": "abbotsford/mt-lehman-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-19T15:02:00Z",
-    "count": 9
+    "lastIncident": "2026-06-22T16:12:00Z",
+    "count": 10
   },
   "vancouver/napier-st": {
     "name": "Napier St",
@@ -12751,6 +12751,13 @@
     "slug": "abbotsford/west-railway-st",
     "city": "Abbotsford",
     "lastIncident": "2026-06-22T15:11:00Z",
+    "count": 1
+  },
+  "abbotsford/sunset-cres": {
+    "name": "Sunset Cres",
+    "slug": "abbotsford/sunset-cres",
+    "city": "Abbotsford",
+    "lastIncident": "2026-06-22T16:12:00Z",
     "count": 1
   }
 }
