@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-06-22T22:45:00Z_surrey/140th-st",
+    "timestamp": "2026-06-22T22:45:00Z",
+    "scrapedAt": "2026-06-22T22:59:46Z",
+    "address": "140TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/140th-st"
+    ],
+    "streetNames": [
+      "140th St"
+    ],
+    "pulsePointId": "2502864581"
+  },
+  {
+    "id": "2026-06-22T22:21:00Z_coquitlam/riverview-cres",
+    "timestamp": "2026-06-22T22:21:00Z",
+    "scrapedAt": "2026-06-22T22:59:46Z",
+    "address": "RIVERVIEW CRES",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/riverview-cres"
+    ],
+    "streetNames": [
+      "Riverview Cres"
+    ],
+    "pulsePointId": "2502850833"
+  },
+  {
     "id": "2026-06-22T21:27:00Z_vancouver/e-1st-ave_vancouver/commercial-dr",
     "timestamp": "2026-06-22T21:27:00Z",
     "scrapedAt": "2026-06-22T22:10:54Z",

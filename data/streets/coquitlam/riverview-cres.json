@@ -1,0 +1,22 @@
+{
+  "slug": "coquitlam/riverview-cres",
+  "name": "Riverview Cres",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-06-22T22:21:00Z_coquitlam/riverview-cres",
+      "timestamp": "2026-06-22T22:21:00Z",
+      "address": "RIVERVIEW CRES",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/riverview-cres"
+      ],
+      "streetNames": [
+        "Riverview Cres"
+      ],
+      "pulsePointId": "2502850833"
+    }
+  ],
+  "lastIncident": "2026-06-22T22:21:00Z",
+  "count": 1
+}
