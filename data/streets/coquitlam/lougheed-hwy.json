@@ -4,6 +4,19 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-06-22T21:06:00Z_coquitlam/lougheed-hwy",
+      "timestamp": "2026-06-22T21:06:00Z",
+      "address": "LOUGHEED HWY",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/lougheed-hwy"
+      ],
+      "streetNames": [
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2502795191"
+    },
+    {
       "id": "2026-06-13T08:07:00Z_coquitlam/lougheed-hwy",
       "timestamp": "2026-06-13T08:07:00Z",
       "address": "LOUGHEED HWY",
@@ -288,6 +301,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-13T08:07:00Z",
-  "count": 20
+  "lastIncident": "2026-06-22T21:06:00Z",
+  "count": 21
 }

@@ -1116,8 +1116,8 @@
     "name": "Lougheed Hwy",
     "slug": "coquitlam/lougheed-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-06-13T08:07:00Z",
-    "count": 20
+    "lastIncident": "2026-06-22T21:06:00Z",
+    "count": 21
   },
   "coquitlam/orchid-dr": {
     "name": "Orchid Dr",
@@ -1256,8 +1256,8 @@
     "name": "E 1st Ave",
     "slug": "vancouver/e-1st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-17T19:16:00Z",
-    "count": 13
+    "lastIncident": "2026-06-22T21:27:00Z",
+    "count": 14
   },
   "vancouver/boundary-rd": {
     "name": "Boundary Rd",
@@ -2131,8 +2131,8 @@
     "name": "Commercial Dr",
     "slug": "vancouver/commercial-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-06-21T01:44:00Z",
-    "count": 8
+    "lastIncident": "2026-06-22T21:27:00Z",
+    "count": 9
   },
   "mission/keystone-ave": {
     "name": "Keystone Ave",
@@ -5470,8 +5470,8 @@
     "name": "Patterson Ave",
     "slug": "burnaby/patterson-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-06-19T01:10:00Z",
-    "count": 6
+    "lastIncident": "2026-06-22T21:17:00Z",
+    "count": 7
   },
   "richmond/inglis-dr": {
     "name": "Inglis Dr",
@@ -12772,6 +12772,13 @@
     "slug": "new-westminster/canfor-ave",
     "city": "New Westminster",
     "lastIncident": "2026-06-22T20:34:00Z",
+    "count": 1
+  },
+  "burnaby/hurst-st": {
+    "name": "Hurst St",
+    "slug": "burnaby/hurst-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-06-22T21:17:00Z",
     "count": 1
   }
 }

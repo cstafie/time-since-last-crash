@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/hurst-st",
+  "name": "Hurst St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-06-22T21:17:00Z_burnaby/hurst-st_burnaby/patterson-ave",
+      "timestamp": "2026-06-22T21:17:00Z",
+      "address": "HURST ST & PATTERSON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/hurst-st",
+        "burnaby/patterson-ave"
+      ],
+      "streetNames": [
+        "Hurst St",
+        "Patterson Ave"
+      ],
+      "pulsePointId": "2502801146"
+    }
+  ],
+  "lastIncident": "2026-06-22T21:17:00Z",
+  "count": 1
+}

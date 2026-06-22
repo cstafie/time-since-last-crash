@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-06-22T21:27:00Z_vancouver/e-1st-ave_vancouver/commercial-dr",
+    "timestamp": "2026-06-22T21:27:00Z",
+    "scrapedAt": "2026-06-22T22:10:54Z",
+    "address": "E 1ST AVE & COMMERCIAL DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-1st-ave",
+      "vancouver/commercial-dr"
+    ],
+    "streetNames": [
+      "E 1st Ave",
+      "Commercial Dr"
+    ],
+    "pulsePointId": "2502808662"
+  },
+  {
+    "id": "2026-06-22T21:17:00Z_burnaby/hurst-st_burnaby/patterson-ave",
+    "timestamp": "2026-06-22T21:17:00Z",
+    "scrapedAt": "2026-06-22T22:10:54Z",
+    "address": "HURST ST & PATTERSON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/hurst-st",
+      "burnaby/patterson-ave"
+    ],
+    "streetNames": [
+      "Hurst St",
+      "Patterson Ave"
+    ],
+    "pulsePointId": "2502801146"
+  },
+  {
+    "id": "2026-06-22T21:06:00Z_coquitlam/lougheed-hwy",
+    "timestamp": "2026-06-22T21:06:00Z",
+    "scrapedAt": "2026-06-22T22:10:54Z",
+    "address": "LOUGHEED HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2502795191"
+  },
+  {
     "id": "2026-06-22T20:34:00Z_new-westminster/braid-st_new-westminster/canfor-ave",
     "timestamp": "2026-06-22T20:34:00Z",
     "scrapedAt": "2026-06-22T21:07:51Z",
