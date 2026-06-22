@@ -262,8 +262,8 @@
     "name": "Fraser Hwy",
     "slug": "langley/fraser-hwy",
     "city": "Langley",
-    "lastIncident": "2026-06-21T04:50:00Z",
-    "count": 42
+    "lastIncident": "2026-06-22T18:07:00Z",
+    "count": 43
   },
   "langley/trans-canada-hwy": {
     "name": "Trans Canada Hwy",
@@ -836,8 +836,8 @@
     "name": "240th St",
     "slug": "langley/240th-st",
     "city": "Langley",
-    "lastIncident": "2026-05-19T12:17:00Z",
-    "count": 6
+    "lastIncident": "2026-06-22T18:07:00Z",
+    "count": 7
   },
   "langley/16th-ave": {
     "name": "16th Ave",
@@ -4833,8 +4833,8 @@
     "name": "Nelson St",
     "slug": "coquitlam/nelson-st",
     "city": "Coquitlam",
-    "lastIncident": "2026-04-01T17:44:00Z",
-    "count": 1
+    "lastIncident": "2026-06-22T17:53:00Z",
+    "count": 2
   },
   "surrey/94th-ave": {
     "name": "94th Ave",
@@ -12758,6 +12758,13 @@
     "slug": "abbotsford/sunset-cres",
     "city": "Abbotsford",
     "lastIncident": "2026-06-22T16:12:00Z",
+    "count": 1
+  },
+  "coquitlam/alderson-ave": {
+    "name": "Alderson Ave",
+    "slug": "coquitlam/alderson-ave",
+    "city": "Coquitlam",
+    "lastIncident": "2026-06-22T17:53:00Z",
     "count": 1
   }
 }

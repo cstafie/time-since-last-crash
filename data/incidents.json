@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-22T18:07:00Z_langley/240th-st_langley/fraser-hwy",
+    "timestamp": "2026-06-22T18:07:00Z",
+    "scrapedAt": "2026-06-22T18:44:34Z",
+    "address": "240TH ST & FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/240th-st",
+      "langley/fraser-hwy"
+    ],
+    "streetNames": [
+      "240th St",
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2502664899"
+  },
+  {
+    "id": "2026-06-22T17:53:00Z_coquitlam/alderson-ave_coquitlam/nelson-st",
+    "timestamp": "2026-06-22T17:53:00Z",
+    "scrapedAt": "2026-06-22T18:44:34Z",
+    "address": "ALDERSON AVE & NELSON ST",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/alderson-ave",
+      "coquitlam/nelson-st"
+    ],
+    "streetNames": [
+      "Alderson Ave",
+      "Nelson St"
+    ],
+    "pulsePointId": "2502656422"
+  },
+  {
     "id": "2026-06-22T16:12:00Z_abbotsford/mt-lehman-rd_abbotsford/sunset-cres",
     "timestamp": "2026-06-22T16:12:00Z",
     "scrapedAt": "2026-06-22T17:10:12Z",

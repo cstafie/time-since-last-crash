@@ -1,6 +1,6 @@
 {
-  "slug": "coquitlam/nelson-st",
-  "name": "Nelson St",
+  "slug": "coquitlam/alderson-ave",
+  "name": "Alderson Ave",
   "city": "Coquitlam",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Nelson St"
       ],
       "pulsePointId": "2502656422"
-    },
-    {
-      "id": "2026-04-01T17:44:00Z_coquitlam/nelson-st_coquitlam/austin-ave",
-      "timestamp": "2026-04-01T17:44:00Z",
-      "address": "NELSON ST & AUSTIN AVE",
-      "city": "Coquitlam",
-      "streets": [
-        "coquitlam/nelson-st",
-        "coquitlam/austin-ave"
-      ],
-      "streetNames": [
-        "Nelson St",
-        "Austin Ave"
-      ],
-      "pulsePointId": "2445771674"
     }
   ],
   "lastIncident": "2026-06-22T17:53:00Z",
-  "count": 2
+  "count": 1
 }
