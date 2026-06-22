@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-22T02:31:00Z_langley/200th-st_langley/62nd-ave",
+    "timestamp": "2026-06-22T02:31:00Z",
+    "scrapedAt": "2026-06-22T03:00:57Z",
+    "address": "200TH ST & 62ND AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/200th-st",
+      "langley/62nd-ave"
+    ],
+    "streetNames": [
+      "200th St",
+      "62nd Ave"
+    ],
+    "pulsePointId": "2502244538"
+  },
+  {
+    "id": "2026-06-22T01:36:00Z_chilliwack/chilliwack-river-rd",
+    "timestamp": "2026-06-22T01:36:00Z",
+    "scrapedAt": "2026-06-22T03:00:57Z",
+    "address": "CHILLIWACK RIVER RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/chilliwack-river-rd"
+    ],
+    "streetNames": [
+      "Chilliwack River Rd"
+    ],
+    "pulsePointId": "2502214704"
+  },
+  {
     "id": "2026-06-22T01:21:00Z_surrey/126th-st_surrey/103rd-ave",
     "timestamp": "2026-06-22T01:21:00Z",
     "scrapedAt": "2026-06-22T01:35:05Z",
