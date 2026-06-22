@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-22T23:30:00Z_surrey/24th-ave_surrey/144th-st",
+      "timestamp": "2026-06-22T23:30:00Z",
+      "address": "24TH AVE & 144TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/24th-ave",
+        "surrey/144th-st"
+      ],
+      "streetNames": [
+        "24th Ave",
+        "144th St"
+      ],
+      "pulsePointId": "2502895218"
+    },
+    {
       "id": "2026-06-18T21:54:00Z_surrey/croydon-dr_surrey/24th-ave",
       "timestamp": "2026-06-18T21:54:00Z",
       "address": "CROYDON DR & 24TH AVE",
@@ -242,6 +257,6 @@
       "pulsePointId": "2437349820"
     }
   ],
-  "lastIncident": "2026-06-18T21:54:00Z",
-  "count": 16
+  "lastIncident": "2026-06-22T23:30:00Z",
+  "count": 17
 }

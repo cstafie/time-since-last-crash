@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-22T23:30:00Z_surrey/24th-ave_surrey/144th-st",
+    "timestamp": "2026-06-22T23:30:00Z",
+    "scrapedAt": "2026-06-22T23:37:20Z",
+    "address": "24TH AVE & 144TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/24th-ave",
+      "surrey/144th-st"
+    ],
+    "streetNames": [
+      "24th Ave",
+      "144th St"
+    ],
+    "pulsePointId": "2502895218"
+  },
+  {
     "id": "2026-06-22T22:45:00Z_surrey/140th-st",
     "timestamp": "2026-06-22T22:45:00Z",
     "scrapedAt": "2026-06-22T22:59:46Z",
