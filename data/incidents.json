@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-22T01:21:00Z_surrey/126th-st_surrey/103rd-ave",
+    "timestamp": "2026-06-22T01:21:00Z",
+    "scrapedAt": "2026-06-22T01:35:05Z",
+    "address": "126TH ST & 103RD AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/126th-st",
+      "surrey/103rd-ave"
+    ],
+    "streetNames": [
+      "126th St",
+      "103rd Ave"
+    ],
+    "pulsePointId": "2502204217"
+  },
+  {
+    "id": "2026-06-22T00:51:00Z_langley/200th-st_langley/72nd-ave",
+    "timestamp": "2026-06-22T00:51:00Z",
+    "scrapedAt": "2026-06-22T01:35:05Z",
+    "address": "200TH ST & 72ND AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/200th-st",
+      "langley/72nd-ave"
+    ],
+    "streetNames": [
+      "200th St",
+      "72nd Ave"
+    ],
+    "pulsePointId": "2502185816"
+  },
+  {
     "id": "2026-06-21T23:03:00Z_delta/72nd-ave_delta/118th-st",
     "timestamp": "2026-06-21T23:03:00Z",
     "scrapedAt": "2026-06-21T23:26:15Z",
