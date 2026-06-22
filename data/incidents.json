@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-22T19:03:00Z_surrey/56th-ave",
+    "timestamp": "2026-06-22T19:03:00Z",
+    "scrapedAt": "2026-06-22T20:00:02Z",
+    "address": "56TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/56th-ave"
+    ],
+    "streetNames": [
+      "56th Ave"
+    ],
+    "pulsePointId": "2502705354"
+  },
+  {
     "id": "2026-06-22T18:07:00Z_langley/240th-st_langley/fraser-hwy",
     "timestamp": "2026-06-22T18:07:00Z",
     "scrapedAt": "2026-06-22T18:44:34Z",
