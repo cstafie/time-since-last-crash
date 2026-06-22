@@ -269,8 +269,8 @@
     "name": "Trans Canada Hwy",
     "slug": "langley/trans-canada-hwy",
     "city": "Langley",
-    "lastIncident": "2026-06-18T18:38:00Z",
-    "count": 30
+    "lastIncident": "2026-06-22T10:54:00Z",
+    "count": 31
   },
   "maple-ridge/119th-ave": {
     "name": "119th Ave",
@@ -1641,8 +1641,8 @@
     "name": "Marine Dr",
     "slug": "north-vancouver/marine-dr",
     "city": "North Vancouver",
-    "lastIncident": "2026-05-29T22:19:00Z",
-    "count": 8
+    "lastIncident": "2026-06-22T09:50:00Z",
+    "count": 9
   },
   "coquitlam/shaughnessy-st": {
     "name": "Shaughnessy St",

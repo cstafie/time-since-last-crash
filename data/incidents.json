@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-06-22T10:54:00Z_langley/trans-canada-hwy",
+    "timestamp": "2026-06-22T10:54:00Z",
+    "scrapedAt": "2026-06-22T11:23:35Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2502441623"
+  },
+  {
+    "id": "2026-06-22T09:50:00Z_north-vancouver/marine-dr",
+    "timestamp": "2026-06-22T09:50:00Z",
+    "scrapedAt": "2026-06-22T11:23:35Z",
+    "address": "MARINE DR",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/marine-dr"
+    ],
+    "streetNames": [
+      "Marine Dr"
+    ],
+    "pulsePointId": "2502424808"
+  },
+  {
     "id": "2026-06-22T07:41:00Z_surrey/103rd-ave_surrey/128th-st",
     "timestamp": "2026-06-22T07:41:00Z",
     "scrapedAt": "2026-06-22T09:28:03Z",

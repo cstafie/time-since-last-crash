@@ -4,6 +4,19 @@
   "city": "North Vancouver",
   "incidents": [
     {
+      "id": "2026-06-22T09:50:00Z_north-vancouver/marine-dr",
+      "timestamp": "2026-06-22T09:50:00Z",
+      "address": "MARINE DR",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/marine-dr"
+      ],
+      "streetNames": [
+        "Marine Dr"
+      ],
+      "pulsePointId": "2502424808"
+    },
+    {
       "id": "2026-05-29T22:19:00Z_north-vancouver/bowser-ave_north-vancouver/marine-dr",
       "timestamp": "2026-05-29T22:19:00Z",
       "address": "BOWSER AVE & MARINE DR",
@@ -124,6 +137,6 @@
       "pulsePointId": "2432954898"
     }
   ],
-  "lastIncident": "2026-05-29T22:19:00Z",
-  "count": 8
+  "lastIncident": "2026-06-22T09:50:00Z",
+  "count": 9
 }
