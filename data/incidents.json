@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-06-22T03:46:00Z_surrey/103rd-ave",
+    "timestamp": "2026-06-22T03:46:00Z",
+    "scrapedAt": "2026-06-22T05:12:41Z",
+    "address": "103RD AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/103rd-ave"
+    ],
+    "streetNames": [
+      "103rd Ave"
+    ],
+    "pulsePointId": "2502284984"
+  },
+  {
+    "id": "2026-06-22T03:30:00Z_burnaby/hastings-st_burnaby/kensington-ave",
+    "timestamp": "2026-06-22T03:30:00Z",
+    "scrapedAt": "2026-06-22T05:12:41Z",
+    "address": "HASTINGS ST & KENSINGTON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/hastings-st",
+      "burnaby/kensington-ave"
+    ],
+    "streetNames": [
+      "Hastings St",
+      "Kensington Ave"
+    ],
+    "pulsePointId": "2502276145"
+  },
+  {
+    "id": "2026-06-22T03:26:00Z_surrey/78a-ave_surrey/144th-st",
+    "timestamp": "2026-06-22T03:26:00Z",
+    "scrapedAt": "2026-06-22T05:12:41Z",
+    "address": "78A AVE & 144TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/78a-ave",
+      "surrey/144th-st"
+    ],
+    "streetNames": [
+      "78a Ave",
+      "144th St"
+    ],
+    "pulsePointId": "2502274220"
+  },
+  {
+    "id": "2026-06-22T03:04:00Z_langley/64th-ave_langley/204th-st",
+    "timestamp": "2026-06-22T03:04:00Z",
+    "scrapedAt": "2026-06-22T05:12:41Z",
+    "address": "64TH AVE & 204TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/64th-ave",
+      "langley/204th-st"
+    ],
+    "streetNames": [
+      "64th Ave",
+      "204th St"
+    ],
+    "pulsePointId": "2502260918"
+  },
+  {
     "id": "2026-06-22T02:31:00Z_langley/200th-st_langley/62nd-ave",
     "timestamp": "2026-06-22T02:31:00Z",
     "scrapedAt": "2026-06-22T03:00:57Z",

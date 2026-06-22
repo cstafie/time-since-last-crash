@@ -1186,8 +1186,8 @@
     "name": "64th Ave",
     "slug": "langley/64th-ave",
     "city": "Langley",
-    "lastIncident": "2026-05-29T21:27:00Z",
-    "count": 11
+    "lastIncident": "2026-06-22T03:04:00Z",
+    "count": 12
   },
   "chilliwack/watson-rd": {
     "name": "Watson Rd",
@@ -1340,8 +1340,8 @@
     "name": "Kensington Ave",
     "slug": "burnaby/kensington-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-06-05T13:34:00Z",
-    "count": 4
+    "lastIncident": "2026-06-22T03:30:00Z",
+    "count": 5
   },
   "maple-ridge/222nd-st": {
     "name": "222nd St",
@@ -1501,8 +1501,8 @@
     "name": "144th St",
     "slug": "surrey/144th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-21T21:44:00Z",
-    "count": 36
+    "lastIncident": "2026-06-22T03:26:00Z",
+    "count": 37
   },
   "north-vancouver/seymour-blvd": {
     "name": "Seymour Blvd",
@@ -2299,8 +2299,8 @@
     "name": "Hastings St",
     "slug": "burnaby/hastings-st",
     "city": "Burnaby",
-    "lastIncident": "2026-06-13T04:31:00Z",
-    "count": 11
+    "lastIncident": "2026-06-22T03:30:00Z",
+    "count": 12
   },
   "delta/hwy-17a-ofrp": {
     "name": "Hwy 17a Ofrp",
@@ -2754,8 +2754,8 @@
     "name": "204th St",
     "slug": "langley/204th-st",
     "city": "Langley",
-    "lastIncident": "2026-06-15T00:08:00Z",
-    "count": 8
+    "lastIncident": "2026-06-22T03:04:00Z",
+    "count": 9
   },
   "burnaby/lake-city-way": {
     "name": "Lake City Way",
@@ -7269,8 +7269,8 @@
     "name": "103rd Ave",
     "slug": "surrey/103rd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-22T01:21:00Z",
-    "count": 3
+    "lastIncident": "2026-06-22T03:46:00Z",
+    "count": 4
   },
   "langley/maxwell-cres": {
     "name": "Maxwell Cres",
@@ -12400,8 +12400,8 @@
     "name": "78a Ave",
     "slug": "surrey/78a-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-17T03:16:00Z",
-    "count": 1
+    "lastIncident": "2026-06-22T03:26:00Z",
+    "count": 2
   },
   "vancouver/w-23rd-ave": {
     "name": "W 23rd Ave",
