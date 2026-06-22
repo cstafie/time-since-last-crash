@@ -4,6 +4,36 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-22T06:46:00Z_surrey/176th-st_surrey/60th-ave",
+      "timestamp": "2026-06-22T06:46:00Z",
+      "address": "176TH ST & 60TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/176th-st",
+        "surrey/60th-ave"
+      ],
+      "streetNames": [
+        "176th St",
+        "60th Ave"
+      ],
+      "pulsePointId": "2502370106"
+    },
+    {
+      "id": "2026-06-22T05:28:00Z_surrey/176th-st_surrey/60th-ave",
+      "timestamp": "2026-06-22T05:28:00Z",
+      "address": "176TH ST & 60TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/176th-st",
+        "surrey/60th-ave"
+      ],
+      "streetNames": [
+        "176th St",
+        "60th Ave"
+      ],
+      "pulsePointId": "2502335159"
+    },
+    {
       "id": "2026-06-15T22:40:00Z_surrey/176th-st_surrey/32nd-ave",
       "timestamp": "2026-06-15T22:40:00Z",
       "address": "176TH ST & 32ND AVE",
@@ -504,6 +534,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-15T22:40:00Z",
-  "count": 34
+  "lastIncident": "2026-06-22T06:46:00Z",
+  "count": 36
 }
