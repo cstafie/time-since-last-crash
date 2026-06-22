@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-22T15:05:00Z_vancouver/fraser-st_vancouver/se-marine-dr",
+      "timestamp": "2026-06-22T15:05:00Z",
+      "address": "FRASER ST & SE MARINE DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/fraser-st",
+        "vancouver/se-marine-dr"
+      ],
+      "streetNames": [
+        "Fraser St",
+        "Se Marine Dr"
+      ],
+      "pulsePointId": "2502544555"
+    },
+    {
       "id": "2026-06-14T23:45:00Z_vancouver/se-marine-dr_vancouver/chester-st",
       "timestamp": "2026-06-14T23:45:00Z",
       "address": "SE MARINE DR & CHESTER ST",
@@ -224,6 +239,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-14T23:45:00Z",
-  "count": 15
+  "lastIncident": "2026-06-22T15:05:00Z",
+  "count": 16
 }

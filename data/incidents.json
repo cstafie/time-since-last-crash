@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-22T15:11:00Z_abbotsford/essendene-ave_abbotsford/west-railway-st",
+    "timestamp": "2026-06-22T15:11:00Z",
+    "scrapedAt": "2026-06-22T15:15:19Z",
+    "address": "ESSENDENE AVE & WEST RAILWAY ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/essendene-ave",
+      "abbotsford/west-railway-st"
+    ],
+    "streetNames": [
+      "Essendene Ave",
+      "West Railway St"
+    ],
+    "pulsePointId": "2502547316"
+  },
+  {
+    "id": "2026-06-22T15:05:00Z_vancouver/fraser-st_vancouver/se-marine-dr",
+    "timestamp": "2026-06-22T15:05:00Z",
+    "scrapedAt": "2026-06-22T15:15:19Z",
+    "address": "FRASER ST & SE MARINE DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/fraser-st",
+      "vancouver/se-marine-dr"
+    ],
+    "streetNames": [
+      "Fraser St",
+      "Se Marine Dr"
+    ],
+    "pulsePointId": "2502544555"
+  },
+  {
     "id": "2026-06-22T10:54:00Z_langley/trans-canada-hwy",
     "timestamp": "2026-06-22T10:54:00Z",
     "scrapedAt": "2026-06-22T11:23:35Z",
