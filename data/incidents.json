@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-22T07:41:00Z_surrey/103rd-ave_surrey/128th-st",
+    "timestamp": "2026-06-22T07:41:00Z",
+    "scrapedAt": "2026-06-22T09:28:03Z",
+    "address": "103RD AVE & 128TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/103rd-ave",
+      "surrey/128th-st"
+    ],
+    "streetNames": [
+      "103rd Ave",
+      "128th St"
+    ],
+    "pulsePointId": "2502390206"
+  },
+  {
+    "id": "2026-06-22T07:22:00Z_surrey/62nd-ave_surrey/king-george-blvd",
+    "timestamp": "2026-06-22T07:22:00Z",
+    "scrapedAt": "2026-06-22T09:28:03Z",
+    "address": "62ND AVE & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/62nd-ave",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "62nd Ave",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2502382464"
+  },
+  {
     "id": "2026-06-22T06:46:00Z_surrey/176th-st_surrey/60th-ave",
     "timestamp": "2026-06-22T06:46:00Z",
     "scrapedAt": "2026-06-22T07:15:19Z",

@@ -535,8 +535,8 @@
     "name": "128th St",
     "slug": "surrey/128th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-21T04:39:00Z",
-    "count": 32
+    "lastIncident": "2026-06-22T07:41:00Z",
+    "count": 33
   },
   "surrey/130b-st": {
     "name": "130b St",
@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-06-21T07:38:00Z",
-    "count": 71
+    "lastIncident": "2026-06-22T07:22:00Z",
+    "count": 72
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -5883,8 +5883,8 @@
     "name": "62nd Ave",
     "slug": "surrey/62nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-19T23:08:00Z",
-    "count": 3
+    "lastIncident": "2026-06-22T07:22:00Z",
+    "count": 4
   },
   "vancouver/howe-st": {
     "name": "Howe St",
@@ -7269,8 +7269,8 @@
     "name": "103rd Ave",
     "slug": "surrey/103rd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-22T03:46:00Z",
-    "count": 4
+    "lastIncident": "2026-06-22T07:41:00Z",
+    "count": 5
   },
   "langley/maxwell-cres": {
     "name": "Maxwell Cres",
