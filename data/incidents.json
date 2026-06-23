@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-23T22:04:00Z_north-vancouver/william-ave_north-vancouver/e-29th-st",
+    "timestamp": "2026-06-23T22:04:00Z",
+    "scrapedAt": "2026-06-23T22:30:38Z",
+    "address": "WILLIAM AVE & E 29TH ST",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/william-ave",
+      "north-vancouver/e-29th-st"
+    ],
+    "streetNames": [
+      "William Ave",
+      "E 29th St"
+    ],
+    "pulsePointId": "2503575636"
+  },
+  {
     "id": "2026-06-23T21:37:00Z_richmond/cambie-rd_richmond/no-6-rd",
     "timestamp": "2026-06-23T21:37:00Z",
     "scrapedAt": "2026-06-23T21:57:50Z",
