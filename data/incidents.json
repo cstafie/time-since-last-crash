@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-23T02:04:00Z_surrey/152nd-st_surrey/62nd-ave",
+    "timestamp": "2026-06-23T02:04:00Z",
+    "scrapedAt": "2026-06-23T02:15:57Z",
+    "address": "152ND ST & 62ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/152nd-st",
+      "surrey/62nd-ave"
+    ],
+    "streetNames": [
+      "152nd St",
+      "62nd Ave"
+    ],
+    "pulsePointId": "2502996293"
+  },
+  {
+    "id": "2026-06-23T01:24:00Z_port-coquitlam/shaughnessy-st",
+    "timestamp": "2026-06-23T01:24:00Z",
+    "scrapedAt": "2026-06-23T02:15:57Z",
+    "address": "SHAUGHNESSY ST",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/shaughnessy-st"
+    ],
+    "streetNames": [
+      "Shaughnessy St"
+    ],
+    "pulsePointId": "2502970151"
+  },
+  {
     "id": "2026-06-23T01:00:00Z_new-westminster/holmes-st_new-westminster/e-columbia-st",
     "timestamp": "2026-06-23T01:00:00Z",
     "scrapedAt": "2026-06-23T01:20:05Z",

@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-23T02:04:00Z_surrey/152nd-st_surrey/62nd-ave",
+      "timestamp": "2026-06-23T02:04:00Z",
+      "address": "152ND ST & 62ND AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/152nd-st",
+        "surrey/62nd-ave"
+      ],
+      "streetNames": [
+        "152nd St",
+        "62nd Ave"
+      ],
+      "pulsePointId": "2502996293"
+    },
+    {
       "id": "2026-06-22T07:22:00Z_surrey/62nd-ave_surrey/king-george-blvd",
       "timestamp": "2026-06-22T07:22:00Z",
       "address": "62ND AVE & KING GEORGE BLVD",
@@ -64,6 +79,6 @@
       "pulsePointId": "2450595443"
     }
   ],
-  "lastIncident": "2026-06-22T07:22:00Z",
-  "count": 4
+  "lastIncident": "2026-06-23T02:04:00Z",
+  "count": 5
 }
