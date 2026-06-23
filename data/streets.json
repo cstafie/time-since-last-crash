@@ -12843,5 +12843,12 @@
     "city": "Burnaby",
     "lastIncident": "2026-06-23T15:58:00Z",
     "count": 1
+  },
+  "coquitlam/1900-united-blvd": {
+    "name": "1900 United Blvd",
+    "slug": "coquitlam/1900-united-blvd",
+    "city": "Coquitlam",
+    "lastIncident": "2026-06-23T16:46:00Z",
+    "count": 1
   }
 }

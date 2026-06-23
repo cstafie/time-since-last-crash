@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-23T16:46:00Z_coquitlam/1900-united-blvd",
+    "timestamp": "2026-06-23T16:46:00Z",
+    "scrapedAt": "2026-06-23T17:14:40Z",
+    "address": "1900 UNITED BLVD",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/1900-united-blvd"
+    ],
+    "streetNames": [
+      "1900 United Blvd"
+    ],
+    "pulsePointId": "2503355144"
+  },
+  {
     "id": "2026-06-23T15:58:00Z_burnaby/albert-st_burnaby/canberra-ave",
     "timestamp": "2026-06-23T15:58:00Z",
     "scrapedAt": "2026-06-23T16:22:34Z",
