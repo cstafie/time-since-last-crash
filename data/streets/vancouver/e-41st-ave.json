@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-23T23:25:00Z_vancouver/fraser-st_vancouver/e-41st-ave",
+      "timestamp": "2026-06-23T23:25:00Z",
+      "address": "FRASER ST & E 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/fraser-st",
+        "vancouver/e-41st-ave"
+      ],
+      "streetNames": [
+        "Fraser St",
+        "E 41st Ave"
+      ],
+      "pulsePointId": "2503630372"
+    },
+    {
       "id": "2026-06-20T05:08:00Z_vancouver/e-41st-ave_vancouver/clarendon-st",
       "timestamp": "2026-06-20T05:08:00Z",
       "address": "E 41ST AVE & CLARENDON ST",
@@ -554,6 +569,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-20T05:08:00Z",
-  "count": 37
+  "lastIncident": "2026-06-23T23:25:00Z",
+  "count": 38
 }

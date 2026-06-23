@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-23T23:25:00Z_vancouver/fraser-st_vancouver/e-41st-ave",
+      "timestamp": "2026-06-23T23:25:00Z",
+      "address": "FRASER ST & E 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/fraser-st",
+        "vancouver/e-41st-ave"
+      ],
+      "streetNames": [
+        "Fraser St",
+        "E 41st Ave"
+      ],
+      "pulsePointId": "2503630372"
+    },
+    {
       "id": "2026-06-22T15:05:00Z_vancouver/fraser-st_vancouver/se-marine-dr",
       "timestamp": "2026-06-22T15:05:00Z",
       "address": "FRASER ST & SE MARINE DR",
@@ -227,6 +242,6 @@
       "pulsePointId": "2438036867"
     }
   ],
-  "lastIncident": "2026-06-22T15:05:00Z",
-  "count": 15
+  "lastIncident": "2026-06-23T23:25:00Z",
+  "count": 16
 }

@@ -4,6 +4,19 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-23T23:41:00Z_abbotsford/mt-lehman-rd",
+      "timestamp": "2026-06-23T23:41:00Z",
+      "address": "MT LEHMAN RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/mt-lehman-rd"
+      ],
+      "streetNames": [
+        "Mt Lehman Rd"
+      ],
+      "pulsePointId": "2503639967"
+    },
+    {
       "id": "2026-06-22T16:12:00Z_abbotsford/mt-lehman-rd_abbotsford/sunset-cres",
       "timestamp": "2026-06-22T16:12:00Z",
       "address": "MT LEHMAN RD & SUNSET CRES",
@@ -152,6 +165,6 @@
       "pulsePointId": "2434362355"
     }
   ],
-  "lastIncident": "2026-06-22T16:12:00Z",
-  "count": 10
+  "lastIncident": "2026-06-23T23:41:00Z",
+  "count": 11
 }

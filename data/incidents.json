@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-06-23T23:41:00Z_abbotsford/mt-lehman-rd",
+    "timestamp": "2026-06-23T23:41:00Z",
+    "scrapedAt": "2026-06-23T23:45:43Z",
+    "address": "MT LEHMAN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/mt-lehman-rd"
+    ],
+    "streetNames": [
+      "Mt Lehman Rd"
+    ],
+    "pulsePointId": "2503639967"
+  },
+  {
+    "id": "2026-06-23T23:39:00Z_surrey/156th-st_surrey/fraser-hwy",
+    "timestamp": "2026-06-23T23:39:00Z",
+    "scrapedAt": "2026-06-23T23:45:43Z",
+    "address": "156TH ST & FRASER HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/156th-st",
+      "surrey/fraser-hwy"
+    ],
+    "streetNames": [
+      "156th St",
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2503638598"
+  },
+  {
+    "id": "2026-06-23T23:27:00Z_delta/arthur-dr",
+    "timestamp": "2026-06-23T23:27:00Z",
+    "scrapedAt": "2026-06-23T23:45:43Z",
+    "address": "ARTHUR DR",
+    "city": "Delta",
+    "streets": [
+      "delta/arthur-dr"
+    ],
+    "streetNames": [
+      "Arthur Dr"
+    ],
+    "pulsePointId": "2503631698"
+  },
+  {
+    "id": "2026-06-23T23:25:00Z_vancouver/fraser-st_vancouver/e-41st-ave",
+    "timestamp": "2026-06-23T23:25:00Z",
+    "scrapedAt": "2026-06-23T23:45:43Z",
+    "address": "FRASER ST & E 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/fraser-st",
+      "vancouver/e-41st-ave"
+    ],
+    "streetNames": [
+      "Fraser St",
+      "E 41st Ave"
+    ],
+    "pulsePointId": "2503630372"
+  },
+  {
     "id": "2026-06-23T23:14:00Z_vancouver/kingsway_vancouver/victoria-dr",
     "timestamp": "2026-06-23T23:14:00Z",
     "scrapedAt": "2026-06-23T23:21:53Z",

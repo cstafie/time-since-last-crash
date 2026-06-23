@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-23T23:39:00Z_surrey/156th-st_surrey/fraser-hwy",
+      "timestamp": "2026-06-23T23:39:00Z",
+      "address": "156TH ST & FRASER HWY",
+      "city": "Surrey",
+      "streets": [
+        "surrey/156th-st",
+        "surrey/fraser-hwy"
+      ],
+      "streetNames": [
+        "156th St",
+        "Fraser Hwy"
+      ],
+      "pulsePointId": "2503638598"
+    },
+    {
       "id": "2026-06-21T00:43:00Z_surrey/fraser-hwy_surrey/188th-st",
       "timestamp": "2026-06-21T00:43:00Z",
       "address": "FRASER HWY & 188TH ST",
@@ -252,6 +267,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-21T00:43:00Z",
-  "count": 17
+  "lastIncident": "2026-06-23T23:39:00Z",
+  "count": 18
 }
