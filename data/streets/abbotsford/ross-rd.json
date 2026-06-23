@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-23T07:04:00Z_abbotsford/haverman-rd_abbotsford/ross-rd",
+      "timestamp": "2026-06-23T07:04:00Z",
+      "address": "HAVERMAN RD & ROSS RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/haverman-rd",
+        "abbotsford/ross-rd"
+      ],
+      "streetNames": [
+        "Haverman Rd",
+        "Ross Rd"
+      ],
+      "pulsePointId": "2503136335"
+    },
+    {
       "id": "2026-06-13T16:17:00Z_abbotsford/downes-rd_abbotsford/ross-rd",
       "timestamp": "2026-06-13T16:17:00Z",
       "address": "DOWNES RD & ROSS RD",
@@ -121,6 +136,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-13T16:17:00Z",
-  "count": 8
+  "lastIncident": "2026-06-23T07:04:00Z",
+  "count": 9
 }

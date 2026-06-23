@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-23T07:04:00Z_abbotsford/haverman-rd_abbotsford/ross-rd",
+    "timestamp": "2026-06-23T07:04:00Z",
+    "scrapedAt": "2026-06-23T08:09:18Z",
+    "address": "HAVERMAN RD & ROSS RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/haverman-rd",
+      "abbotsford/ross-rd"
+    ],
+    "streetNames": [
+      "Haverman Rd",
+      "Ross Rd"
+    ],
+    "pulsePointId": "2503136335"
+  },
+  {
     "id": "2026-06-23T06:26:00Z_surrey/prince-charles-blvd",
     "timestamp": "2026-06-23T06:26:00Z",
     "scrapedAt": "2026-06-23T06:44:54Z",
