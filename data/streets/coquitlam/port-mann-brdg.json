@@ -4,6 +4,19 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-06-23T13:31:00Z_coquitlam/port-mann-brdg",
+      "timestamp": "2026-06-23T13:31:00Z",
+      "address": "PORT MANN BRDG",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/port-mann-brdg"
+      ],
+      "streetNames": [
+        "Port Mann Brdg"
+      ],
+      "pulsePointId": "2503244543"
+    },
+    {
       "id": "2026-06-21T02:22:00Z_coquitlam/port-mann-brdg",
       "timestamp": "2026-06-21T02:22:00Z",
       "address": "PORT MANN BRDG",
@@ -95,6 +108,6 @@
       "pulsePointId": "2434076904"
     }
   ],
-  "lastIncident": "2026-06-21T02:22:00Z",
-  "count": 7
+  "lastIncident": "2026-06-23T13:31:00Z",
+  "count": 8
 }

@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-06-23T14:01:00Z_vancouver/nanaimo-st_vancouver/kingsway",
+    "timestamp": "2026-06-23T14:01:00Z",
+    "scrapedAt": "2026-06-23T14:16:19Z",
+    "address": "NANAIMO ST & KINGSWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/nanaimo-st",
+      "vancouver/kingsway"
+    ],
+    "streetNames": [
+      "Nanaimo St",
+      "Kingsway"
+    ],
+    "pulsePointId": "2503257177"
+  },
+  {
+    "id": "2026-06-23T13:32:00Z_langley/272nd-st_langley/52nd-ave",
+    "timestamp": "2026-06-23T13:32:00Z",
+    "scrapedAt": "2026-06-23T14:16:19Z",
+    "address": "272ND ST & 52ND AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/272nd-st",
+      "langley/52nd-ave"
+    ],
+    "streetNames": [
+      "272nd St",
+      "52nd Ave"
+    ],
+    "pulsePointId": "2503244026"
+  },
+  {
+    "id": "2026-06-23T13:31:00Z_coquitlam/port-mann-brdg",
+    "timestamp": "2026-06-23T13:31:00Z",
+    "scrapedAt": "2026-06-23T14:16:19Z",
+    "address": "PORT MANN BRDG",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/port-mann-brdg"
+    ],
+    "streetNames": [
+      "Port Mann Brdg"
+    ],
+    "pulsePointId": "2503244543"
+  },
+  {
     "id": "2026-06-23T08:27:00Z_burnaby/15th-st",
     "timestamp": "2026-06-23T08:27:00Z",
     "scrapedAt": "2026-06-23T09:43:32Z",

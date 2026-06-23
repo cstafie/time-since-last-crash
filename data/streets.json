@@ -220,8 +220,8 @@
     "name": "272nd St",
     "slug": "langley/272nd-st",
     "city": "Langley",
-    "lastIncident": "2026-06-17T22:47:00Z",
-    "count": 11
+    "lastIncident": "2026-06-23T13:32:00Z",
+    "count": 12
   },
   "langley/273rd-st": {
     "name": "273rd St",
@@ -745,8 +745,8 @@
     "name": "Kingsway",
     "slug": "vancouver/kingsway",
     "city": "Vancouver",
-    "lastIncident": "2026-06-12T20:55:00Z",
-    "count": 23
+    "lastIncident": "2026-06-23T14:01:00Z",
+    "count": 24
   },
   "vancouver/knight-st": {
     "name": "Knight St",
@@ -1998,8 +1998,8 @@
     "name": "Port Mann Brdg",
     "slug": "coquitlam/port-mann-brdg",
     "city": "Coquitlam",
-    "lastIncident": "2026-06-21T02:22:00Z",
-    "count": 7
+    "lastIncident": "2026-06-23T13:31:00Z",
+    "count": 8
   },
   "new-westminster/3rd-ave": {
     "name": "3rd Ave",
@@ -2453,8 +2453,8 @@
     "name": "Nanaimo St",
     "slug": "vancouver/nanaimo-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-14T00:25:00Z",
-    "count": 16
+    "lastIncident": "2026-06-23T14:01:00Z",
+    "count": 17
   },
   "vancouver/cambie-st": {
     "name": "Cambie St",
@@ -12715,8 +12715,8 @@
     "name": "52nd Ave",
     "slug": "langley/52nd-ave",
     "city": "Langley",
-    "lastIncident": "2026-06-21T05:25:00Z",
-    "count": 1
+    "lastIncident": "2026-06-23T13:32:00Z",
+    "count": 2
   },
   "coquitlam/baycrest-ave": {
     "name": "Baycrest Ave",
