@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-23T19:54:00Z_vancouver/w-54th-ave_vancouver/oak-st",
+    "timestamp": "2026-06-23T19:54:00Z",
+    "scrapedAt": "2026-06-23T20:13:16Z",
+    "address": "W 54TH AVE & OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-54th-ave",
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "W 54th Ave",
+      "Oak St"
+    ],
+    "pulsePointId": "2503484664"
+  },
+  {
     "id": "2026-06-23T18:15:00Z_burnaby/bennett-st",
     "timestamp": "2026-06-23T18:15:00Z",
     "scrapedAt": "2026-06-23T19:12:34Z",

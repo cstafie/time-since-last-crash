@@ -766,8 +766,8 @@
     "name": "Oak St",
     "slug": "vancouver/oak-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-21T03:52:00Z",
-    "count": 40
+    "lastIncident": "2026-06-23T19:54:00Z",
+    "count": 41
   },
   "vancouver/w-12th-ave": {
     "name": "W 12th Ave",
@@ -8284,8 +8284,8 @@
     "name": "W 54th Ave",
     "slug": "vancouver/w-54th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-12T22:38:00Z",
-    "count": 2
+    "lastIncident": "2026-06-23T19:54:00Z",
+    "count": 3
   },
   "langley/worrell-cres": {
     "name": "Worrell Cres",
