@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/dundee-st",
+  "name": "Dundee St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-23T17:56:00Z_vancouver/dundee-st",
+      "timestamp": "2026-06-23T17:56:00Z",
+      "address": "DUNDEE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/dundee-st"
+      ],
+      "streetNames": [
+        "Dundee St"
+      ],
+      "pulsePointId": "2503403253"
+    }
+  ],
+  "lastIncident": "2026-06-23T17:56:00Z",
+  "count": 1
+}

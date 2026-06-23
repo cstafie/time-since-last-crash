@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-06-23T17:56:00Z_vancouver/dundee-st",
+    "timestamp": "2026-06-23T17:56:00Z",
+    "scrapedAt": "2026-06-23T18:09:11Z",
+    "address": "DUNDEE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/dundee-st"
+    ],
+    "streetNames": [
+      "Dundee St"
+    ],
+    "pulsePointId": "2503403253"
+  },
+  {
+    "id": "2026-06-23T17:35:00Z_abbotsford/vedder-river-brdg",
+    "timestamp": "2026-06-23T17:35:00Z",
+    "scrapedAt": "2026-06-23T18:09:11Z",
+    "address": "VEDDER RIVER BRDG",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/vedder-river-brdg"
+    ],
+    "streetNames": [
+      "Vedder River Brdg"
+    ],
+    "pulsePointId": "2503387508"
+  },
+  {
     "id": "2026-06-23T16:46:00Z_coquitlam/1900-united-blvd",
     "timestamp": "2026-06-23T16:46:00Z",
     "scrapedAt": "2026-06-23T17:14:40Z",

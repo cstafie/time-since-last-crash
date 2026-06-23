@@ -12850,5 +12850,19 @@
     "city": "Coquitlam",
     "lastIncident": "2026-06-23T16:46:00Z",
     "count": 1
+  },
+  "vancouver/dundee-st": {
+    "name": "Dundee St",
+    "slug": "vancouver/dundee-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-23T17:56:00Z",
+    "count": 1
+  },
+  "abbotsford/vedder-river-brdg": {
+    "name": "Vedder River Brdg",
+    "slug": "abbotsford/vedder-river-brdg",
+    "city": "Abbotsford",
+    "lastIncident": "2026-06-23T17:35:00Z",
+    "count": 1
   }
 }

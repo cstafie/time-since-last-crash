@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/vedder-river-brdg",
+  "name": "Vedder River Brdg",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-06-23T17:35:00Z_abbotsford/vedder-river-brdg",
+      "timestamp": "2026-06-23T17:35:00Z",
+      "address": "VEDDER RIVER BRDG",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/vedder-river-brdg"
+      ],
+      "streetNames": [
+        "Vedder River Brdg"
+      ],
+      "pulsePointId": "2503387508"
+    }
+  ],
+  "lastIncident": "2026-06-23T17:35:00Z",
+  "count": 1
+}
