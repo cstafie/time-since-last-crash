@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/305-alexander-st",
+  "name": "305 Alexander St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-23T00:45:00Z_vancouver/305-alexander-st",
+      "timestamp": "2026-06-23T00:45:00Z",
+      "address": "305 ALEXANDER ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/305-alexander-st"
+      ],
+      "streetNames": [
+        "305 Alexander St"
+      ],
+      "pulsePointId": "2502942698"
+    }
+  ],
+  "lastIncident": "2026-06-23T00:45:00Z",
+  "count": 1
+}

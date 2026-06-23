@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-06-23T01:00:00Z_new-westminster/holmes-st_new-westminster/e-columbia-st",
+    "timestamp": "2026-06-23T01:00:00Z",
+    "scrapedAt": "2026-06-23T01:20:05Z",
+    "address": "HOLMES ST & E COLUMBIA ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/holmes-st",
+      "new-westminster/e-columbia-st"
+    ],
+    "streetNames": [
+      "Holmes St",
+      "E Columbia St"
+    ],
+    "pulsePointId": "2502953544"
+  },
+  {
+    "id": "2026-06-23T00:45:00Z_vancouver/305-alexander-st",
+    "timestamp": "2026-06-23T00:45:00Z",
+    "scrapedAt": "2026-06-23T01:20:05Z",
+    "address": "305 ALEXANDER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/305-alexander-st"
+    ],
+    "streetNames": [
+      "305 Alexander St"
+    ],
+    "pulsePointId": "2502942698"
+  },
+  {
+    "id": "2026-06-23T00:45:00Z_vancouver/w-12th-ave",
+    "timestamp": "2026-06-23T00:45:00Z",
+    "scrapedAt": "2026-06-23T01:20:05Z",
+    "address": "W 12TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-12th-ave"
+    ],
+    "streetNames": [
+      "W 12th Ave"
+    ],
+    "pulsePointId": "2502943709"
+  },
+  {
     "id": "2026-06-23T00:10:00Z_surrey/96th-ave",
     "timestamp": "2026-06-23T00:10:00Z",
     "scrapedAt": "2026-06-23T00:23:18Z",
