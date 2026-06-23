@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-23T06:26:00Z_surrey/prince-charles-blvd",
+    "timestamp": "2026-06-23T06:26:00Z",
+    "scrapedAt": "2026-06-23T06:44:54Z",
+    "address": "PRINCE CHARLES BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/prince-charles-blvd"
+    ],
+    "streetNames": [
+      "Prince Charles Blvd"
+    ],
+    "pulsePointId": "2503123688"
+  },
+  {
+    "id": "2026-06-23T06:21:00Z_surrey/124th-st_surrey/106a-ave",
+    "timestamp": "2026-06-23T06:21:00Z",
+    "scrapedAt": "2026-06-23T06:44:54Z",
+    "address": "124TH ST & 106A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/124th-st",
+      "surrey/106a-ave"
+    ],
+    "streetNames": [
+      "124th St",
+      "106a Ave"
+    ],
+    "pulsePointId": "2503122085"
+  },
+  {
     "id": "2026-06-23T05:03:00Z_vancouver/granville-st_vancouver/w-49th-ave",
     "timestamp": "2026-06-23T05:03:00Z",
     "scrapedAt": "2026-06-23T05:16:31Z",

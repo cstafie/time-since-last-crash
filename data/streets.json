@@ -528,8 +528,8 @@
     "name": "124th St",
     "slug": "surrey/124th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-18T01:28:00Z",
-    "count": 13
+    "lastIncident": "2026-06-23T06:21:00Z",
+    "count": 14
   },
   "surrey/128th-st": {
     "name": "128th St",
@@ -675,8 +675,8 @@
     "name": "Prince Charles Blvd",
     "slug": "surrey/prince-charles-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-05-25T19:06:00Z",
-    "count": 2
+    "lastIncident": "2026-06-23T06:26:00Z",
+    "count": 3
   },
   "surrey/trans-canada-hwy": {
     "name": "Trans Canada Hwy",
@@ -12807,6 +12807,13 @@
     "slug": "chilliwack/paisley-ave",
     "city": "Chilliwack",
     "lastIncident": "2026-06-23T02:23:00Z",
+    "count": 1
+  },
+  "surrey/106a-ave": {
+    "name": "106a Ave",
+    "slug": "surrey/106a-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-06-23T06:21:00Z",
     "count": 1
   }
 }
