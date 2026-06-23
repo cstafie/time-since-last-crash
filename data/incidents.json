@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-23T18:15:00Z_burnaby/bennett-st",
+    "timestamp": "2026-06-23T18:15:00Z",
+    "scrapedAt": "2026-06-23T19:12:34Z",
+    "address": "BENNETT ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/bennett-st"
+    ],
+    "streetNames": [
+      "Bennett St"
+    ],
+    "pulsePointId": "2503415538"
+  },
+  {
     "id": "2026-06-23T17:56:00Z_vancouver/dundee-st",
     "timestamp": "2026-06-23T17:56:00Z",
     "scrapedAt": "2026-06-23T18:09:11Z",
