@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-23T05:03:00Z_vancouver/granville-st_vancouver/w-49th-ave",
+      "timestamp": "2026-06-23T05:03:00Z",
+      "address": "GRANVILLE ST & W 49TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st",
+        "vancouver/w-49th-ave"
+      ],
+      "streetNames": [
+        "Granville St",
+        "W 49th Ave"
+      ],
+      "pulsePointId": "2503090266"
+    },
+    {
       "id": "2026-06-10T15:17:00Z_vancouver/w-49th-ave_vancouver/mccleery-st",
       "timestamp": "2026-06-10T15:17:00Z",
       "address": "W 49TH AVE & MCCLEERY ST",
@@ -77,6 +92,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-10T15:17:00Z",
-  "count": 5
+  "lastIncident": "2026-06-23T05:03:00Z",
+  "count": 6
 }

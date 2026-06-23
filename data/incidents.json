@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-23T05:03:00Z_vancouver/granville-st_vancouver/w-49th-ave",
+    "timestamp": "2026-06-23T05:03:00Z",
+    "scrapedAt": "2026-06-23T05:16:31Z",
+    "address": "GRANVILLE ST & W 49TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st",
+      "vancouver/w-49th-ave"
+    ],
+    "streetNames": [
+      "Granville St",
+      "W 49th Ave"
+    ],
+    "pulsePointId": "2503090266"
+  },
+  {
+    "id": "2026-06-23T05:00:00Z_vancouver/granville-st_vancouver/w-52nd-ave",
+    "timestamp": "2026-06-23T05:00:00Z",
+    "scrapedAt": "2026-06-23T05:16:31Z",
+    "address": "GRANVILLE ST & W 52ND AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st",
+      "vancouver/w-52nd-ave"
+    ],
+    "streetNames": [
+      "Granville St",
+      "W 52nd Ave"
+    ],
+    "pulsePointId": "2503089294"
+  },
+  {
     "id": "2026-06-23T02:23:00Z_chilliwack/paisley-ave",
     "timestamp": "2026-06-23T02:23:00Z",
     "scrapedAt": "2026-06-23T03:43:28Z",
