@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-23T02:23:00Z_chilliwack/paisley-ave",
+    "timestamp": "2026-06-23T02:23:00Z",
+    "scrapedAt": "2026-06-23T03:43:28Z",
+    "address": "PAISLEY AVE",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/paisley-ave"
+    ],
+    "streetNames": [
+      "Paisley Ave"
+    ],
+    "pulsePointId": "2503006004"
+  },
+  {
     "id": "2026-06-23T02:04:00Z_surrey/152nd-st_surrey/62nd-ave",
     "timestamp": "2026-06-23T02:04:00Z",
     "scrapedAt": "2026-06-23T02:15:57Z",
