@@ -1,5 +1,81 @@
 [
   {
+    "id": "2026-06-23T00:10:00Z_surrey/96th-ave",
+    "timestamp": "2026-06-23T00:10:00Z",
+    "scrapedAt": "2026-06-23T00:23:18Z",
+    "address": "96TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/96th-ave"
+    ],
+    "streetNames": [
+      "96th Ave"
+    ],
+    "pulsePointId": "2502920403"
+  },
+  {
+    "id": "2026-06-23T00:05:00Z_burnaby/royal-oak-ave_burnaby/deer-lake-pkwy",
+    "timestamp": "2026-06-23T00:05:00Z",
+    "scrapedAt": "2026-06-23T00:23:18Z",
+    "address": "ROYAL OAK AVE & DEER LAKE PKWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/royal-oak-ave",
+      "burnaby/deer-lake-pkwy"
+    ],
+    "streetNames": [
+      "Royal Oak Ave",
+      "Deer Lake Pkwy"
+    ],
+    "pulsePointId": "2502917177"
+  },
+  {
+    "id": "2026-06-22T23:57:00Z_maple-ridge/232nd-st_maple-ridge/abernethy-way",
+    "timestamp": "2026-06-22T23:57:00Z",
+    "scrapedAt": "2026-06-23T00:23:18Z",
+    "address": "232ND ST & ABERNETHY WAY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/232nd-st",
+      "maple-ridge/abernethy-way"
+    ],
+    "streetNames": [
+      "232nd St",
+      "Abernethy Way"
+    ],
+    "pulsePointId": "2502911068"
+  },
+  {
+    "id": "2026-06-22T23:52:00Z_burnaby/hastings-st",
+    "timestamp": "2026-06-22T23:52:00Z",
+    "scrapedAt": "2026-06-23T00:23:18Z",
+    "address": "HASTINGS ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/hastings-st"
+    ],
+    "streetNames": [
+      "Hastings St"
+    ],
+    "pulsePointId": "2502908556"
+  },
+  {
+    "id": "2026-06-22T23:48:00Z_maple-ridge/237th-st_maple-ridge/kanaka-way",
+    "timestamp": "2026-06-22T23:48:00Z",
+    "scrapedAt": "2026-06-23T00:23:18Z",
+    "address": "237TH ST & KANAKA WAY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/237th-st",
+      "maple-ridge/kanaka-way"
+    ],
+    "streetNames": [
+      "237th St",
+      "Kanaka Way"
+    ],
+    "pulsePointId": "2502906259"
+  },
+  {
     "id": "2026-06-22T23:30:00Z_surrey/24th-ave_surrey/144th-st",
     "timestamp": "2026-06-22T23:30:00Z",
     "scrapedAt": "2026-06-22T23:37:20Z",

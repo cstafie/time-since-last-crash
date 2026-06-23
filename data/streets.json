@@ -52,8 +52,8 @@
     "name": "Deer Lake Pkwy",
     "slug": "burnaby/deer-lake-pkwy",
     "city": "Burnaby",
-    "lastIncident": "2026-05-18T17:27:00Z",
-    "count": 4
+    "lastIncident": "2026-06-23T00:05:00Z",
+    "count": 5
   },
   "burnaby/garden-grove-dr": {
     "name": "Garden Grove Dr",
@@ -647,8 +647,8 @@
     "name": "96th Ave",
     "slug": "surrey/96th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-20T17:42:00Z",
-    "count": 29
+    "lastIncident": "2026-06-23T00:10:00Z",
+    "count": 30
   },
   "surrey/bolivar-rd": {
     "name": "Bolivar Rd",
@@ -2299,8 +2299,8 @@
     "name": "Hastings St",
     "slug": "burnaby/hastings-st",
     "city": "Burnaby",
-    "lastIncident": "2026-06-22T03:30:00Z",
-    "count": 12
+    "lastIncident": "2026-06-22T23:52:00Z",
+    "count": 13
   },
   "delta/hwy-17a-ofrp": {
     "name": "Hwy 17a Ofrp",
@@ -2852,8 +2852,8 @@
     "name": "Kanaka Way",
     "slug": "maple-ridge/kanaka-way",
     "city": "Maple Ridge",
-    "lastIncident": "2026-04-19T21:55:00Z",
-    "count": 2
+    "lastIncident": "2026-06-22T23:48:00Z",
+    "count": 3
   },
   "vancouver/w-45th-ave": {
     "name": "W 45th Ave",
@@ -3699,8 +3699,8 @@
     "name": "Royal Oak Ave",
     "slug": "burnaby/royal-oak-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-05-30T04:16:00Z",
-    "count": 9
+    "lastIncident": "2026-06-23T00:05:00Z",
+    "count": 10
   },
   "burnaby/irving-st": {
     "name": "Irving St",
@@ -5820,8 +5820,8 @@
     "name": "Abernethy Way",
     "slug": "maple-ridge/abernethy-way",
     "city": "Maple Ridge",
-    "lastIncident": "2026-06-11T16:09:00Z",
-    "count": 6
+    "lastIncident": "2026-06-22T23:57:00Z",
+    "count": 7
   },
   "vancouver/w-26th-ave": {
     "name": "W 26th Ave",
@@ -8438,8 +8438,8 @@
     "name": "232nd St",
     "slug": "maple-ridge/232nd-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-06-08T02:56:00Z",
-    "count": 5
+    "lastIncident": "2026-06-22T23:57:00Z",
+    "count": 6
   },
   "delta/82nd-ave": {
     "name": "82nd Ave",
@@ -12786,6 +12786,13 @@
     "slug": "coquitlam/riverview-cres",
     "city": "Coquitlam",
     "lastIncident": "2026-06-22T22:21:00Z",
+    "count": 1
+  },
+  "maple-ridge/237th-st": {
+    "name": "237th St",
+    "slug": "maple-ridge/237th-st",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-06-22T23:48:00Z",
     "count": 1
   }
 }

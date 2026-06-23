@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-23T00:05:00Z_burnaby/royal-oak-ave_burnaby/deer-lake-pkwy",
+      "timestamp": "2026-06-23T00:05:00Z",
+      "address": "ROYAL OAK AVE & DEER LAKE PKWY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/royal-oak-ave",
+        "burnaby/deer-lake-pkwy"
+      ],
+      "streetNames": [
+        "Royal Oak Ave",
+        "Deer Lake Pkwy"
+      ],
+      "pulsePointId": "2502917177"
+    },
+    {
       "id": "2026-05-30T04:16:00Z_burnaby/royal-oak-ave",
       "timestamp": "2026-05-30T04:16:00Z",
       "address": "ROYAL OAK AVE",
@@ -135,6 +150,6 @@
       "pulsePointId": "2439944324"
     }
   ],
-  "lastIncident": "2026-05-30T04:16:00Z",
-  "count": 9
+  "lastIncident": "2026-06-23T00:05:00Z",
+  "count": 10
 }
