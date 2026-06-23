@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/canberra-ave",
+  "name": "Canberra Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-06-23T15:58:00Z_burnaby/albert-st_burnaby/canberra-ave",
+      "timestamp": "2026-06-23T15:58:00Z",
+      "address": "ALBERT ST & CANBERRA AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/albert-st",
+        "burnaby/canberra-ave"
+      ],
+      "streetNames": [
+        "Albert St",
+        "Canberra Ave"
+      ],
+      "pulsePointId": "2503322580"
+    }
+  ],
+  "lastIncident": "2026-06-23T15:58:00Z",
+  "count": 1
+}

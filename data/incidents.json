@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-06-23T15:58:00Z_burnaby/albert-st_burnaby/canberra-ave",
+    "timestamp": "2026-06-23T15:58:00Z",
+    "scrapedAt": "2026-06-23T16:22:34Z",
+    "address": "ALBERT ST & CANBERRA AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/albert-st",
+      "burnaby/canberra-ave"
+    ],
+    "streetNames": [
+      "Albert St",
+      "Canberra Ave"
+    ],
+    "pulsePointId": "2503322580"
+  },
+  {
+    "id": "2026-06-23T15:39:00Z_coquitlam/lougheed-hwy_coquitlam/colony-farm-rd",
+    "timestamp": "2026-06-23T15:39:00Z",
+    "scrapedAt": "2026-06-23T16:22:34Z",
+    "address": "LOUGHEED HWY & COLONY FARM RD",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/lougheed-hwy",
+      "coquitlam/colony-farm-rd"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "Colony Farm Rd"
+    ],
+    "pulsePointId": "2503312723"
+  },
+  {
+    "id": "2026-06-23T15:34:00Z_burnaby/marine-dr_burnaby/nelson-ave",
+    "timestamp": "2026-06-23T15:34:00Z",
+    "scrapedAt": "2026-06-23T16:22:34Z",
+    "address": "MARINE DR & NELSON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/marine-dr",
+      "burnaby/nelson-ave"
+    ],
+    "streetNames": [
+      "Marine Dr",
+      "Nelson Ave"
+    ],
+    "pulsePointId": "2503308934"
+  },
+  {
     "id": "2026-06-23T14:01:00Z_vancouver/nanaimo-st_vancouver/kingsway",
     "timestamp": "2026-06-23T14:01:00Z",
     "scrapedAt": "2026-06-23T14:16:19Z",

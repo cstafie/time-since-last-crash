@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-23T15:34:00Z_burnaby/marine-dr_burnaby/nelson-ave",
+      "timestamp": "2026-06-23T15:34:00Z",
+      "address": "MARINE DR & NELSON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/marine-dr",
+        "burnaby/nelson-ave"
+      ],
+      "streetNames": [
+        "Marine Dr",
+        "Nelson Ave"
+      ],
+      "pulsePointId": "2503308934"
+    },
+    {
       "id": "2026-04-29T14:44:00Z_burnaby/nelson-ave_burnaby/dover-st",
       "timestamp": "2026-04-29T14:44:00Z",
       "address": "NELSON AVE & DOVER ST",
@@ -79,6 +94,6 @@
       "pulsePointId": "2436020332"
     }
   ],
-  "lastIncident": "2026-04-29T14:44:00Z",
-  "count": 5
+  "lastIncident": "2026-06-23T15:34:00Z",
+  "count": 6
 }

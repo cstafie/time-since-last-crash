@@ -1116,8 +1116,8 @@
     "name": "Lougheed Hwy",
     "slug": "coquitlam/lougheed-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-06-22T21:06:00Z",
-    "count": 21
+    "lastIncident": "2026-06-23T15:39:00Z",
+    "count": 22
   },
   "coquitlam/orchid-dr": {
     "name": "Orchid Dr",
@@ -2635,8 +2635,8 @@
     "name": "Nelson Ave",
     "slug": "burnaby/nelson-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-04-29T14:44:00Z",
-    "count": 5
+    "lastIncident": "2026-06-23T15:34:00Z",
+    "count": 6
   },
   "langley/216th-st": {
     "name": "216th St",
@@ -2992,8 +2992,8 @@
     "name": "Colony Farm Rd",
     "slug": "coquitlam/colony-farm-rd",
     "city": "Coquitlam",
-    "lastIncident": "2026-04-09T23:22:00Z",
-    "count": 2
+    "lastIncident": "2026-06-23T15:39:00Z",
+    "count": 3
   },
   "vancouver/terminal-ave": {
     "name": "Terminal Ave",
@@ -5463,8 +5463,8 @@
     "name": "Marine Dr",
     "slug": "burnaby/marine-dr",
     "city": "Burnaby",
-    "lastIncident": "2026-06-15T01:44:00Z",
-    "count": 7
+    "lastIncident": "2026-06-23T15:34:00Z",
+    "count": 8
   },
   "burnaby/patterson-ave": {
     "name": "Patterson Ave",
@@ -12828,6 +12828,20 @@
     "slug": "burnaby/15th-st",
     "city": "Burnaby",
     "lastIncident": "2026-06-23T08:27:00Z",
+    "count": 1
+  },
+  "burnaby/albert-st": {
+    "name": "Albert St",
+    "slug": "burnaby/albert-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-06-23T15:58:00Z",
+    "count": 1
+  },
+  "burnaby/canberra-ave": {
+    "name": "Canberra Ave",
+    "slug": "burnaby/canberra-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-06-23T15:58:00Z",
     "count": 1
   }
 }
