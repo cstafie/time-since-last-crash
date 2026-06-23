@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/barnet-hwy",
+  "name": "Barnet Hwy",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-06-23T21:26:00Z_burnaby/cariboo-rd-n_burnaby/barnet-hwy",
+      "timestamp": "2026-06-23T21:26:00Z",
+      "address": "CARIBOO RD N & BARNET HWY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/cariboo-rd-n",
+        "burnaby/barnet-hwy"
+      ],
+      "streetNames": [
+        "Cariboo Rd N",
+        "Barnet Hwy"
+      ],
+      "pulsePointId": "2503549203"
+    }
+  ],
+  "lastIncident": "2026-06-23T21:26:00Z",
+  "count": 1
+}

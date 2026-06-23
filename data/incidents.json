@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-23T21:37:00Z_richmond/cambie-rd_richmond/no-6-rd",
+    "timestamp": "2026-06-23T21:37:00Z",
+    "scrapedAt": "2026-06-23T21:57:50Z",
+    "address": "CAMBIE RD & NO 6 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/cambie-rd",
+      "richmond/no-6-rd"
+    ],
+    "streetNames": [
+      "Cambie Rd",
+      "No 6 Rd"
+    ],
+    "pulsePointId": "2503557680"
+  },
+  {
+    "id": "2026-06-23T21:26:00Z_burnaby/cariboo-rd-n_burnaby/barnet-hwy",
+    "timestamp": "2026-06-23T21:26:00Z",
+    "scrapedAt": "2026-06-23T21:57:50Z",
+    "address": "CARIBOO RD N & BARNET HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/cariboo-rd-n",
+      "burnaby/barnet-hwy"
+    ],
+    "streetNames": [
+      "Cariboo Rd N",
+      "Barnet Hwy"
+    ],
+    "pulsePointId": "2503549203"
+  },
+  {
     "id": "2026-06-23T19:54:00Z_vancouver/w-54th-ave_vancouver/oak-st",
     "timestamp": "2026-06-23T19:54:00Z",
     "scrapedAt": "2026-06-23T20:13:16Z",
