@@ -521,8 +521,8 @@
     "name": "108th Ave",
     "slug": "surrey/108th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-13T04:34:00Z",
-    "count": 24
+    "lastIncident": "2026-06-23T22:35:00Z",
+    "count": 25
   },
   "surrey/124th-st": {
     "name": "124th St",
@@ -745,8 +745,8 @@
     "name": "Kingsway",
     "slug": "vancouver/kingsway",
     "city": "Vancouver",
-    "lastIncident": "2026-06-23T14:01:00Z",
-    "count": 24
+    "lastIncident": "2026-06-23T23:14:00Z",
+    "count": 25
   },
   "vancouver/knight-st": {
     "name": "Knight St",
@@ -3076,8 +3076,8 @@
     "name": "Victoria Dr",
     "slug": "vancouver/victoria-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-06-19T20:35:00Z",
-    "count": 21
+    "lastIncident": "2026-06-23T23:14:00Z",
+    "count": 22
   },
   "vancouver/e-60th-ave": {
     "name": "E 60th Ave",
@@ -3160,8 +3160,8 @@
     "name": "150th St",
     "slug": "surrey/150th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-20T23:35:00Z",
-    "count": 9
+    "lastIncident": "2026-06-23T22:35:00Z",
+    "count": 10
   },
   "mission/knight-ave": {
     "name": "Knight Ave",

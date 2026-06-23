@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-23T23:14:00Z_vancouver/kingsway_vancouver/victoria-dr",
+    "timestamp": "2026-06-23T23:14:00Z",
+    "scrapedAt": "2026-06-23T23:21:53Z",
+    "address": "KINGSWAY & VICTORIA DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kingsway",
+      "vancouver/victoria-dr"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "Victoria Dr"
+    ],
+    "pulsePointId": "2503622732"
+  },
+  {
+    "id": "2026-06-23T22:35:00Z_surrey/150th-st_surrey/108th-ave",
+    "timestamp": "2026-06-23T22:35:00Z",
+    "scrapedAt": "2026-06-23T23:21:53Z",
+    "address": "150TH ST & 108TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/150th-st",
+      "surrey/108th-ave"
+    ],
+    "streetNames": [
+      "150th St",
+      "108th Ave"
+    ],
+    "pulsePointId": "2503597148"
+  },
+  {
     "id": "2026-06-23T22:04:00Z_north-vancouver/william-ave_north-vancouver/e-29th-st",
     "timestamp": "2026-06-23T22:04:00Z",
     "scrapedAt": "2026-06-23T22:30:38Z",
