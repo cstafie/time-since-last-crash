@@ -829,8 +829,8 @@
     "name": "Lougheed Hwy",
     "slug": "pitt-meadows/lougheed-hwy",
     "city": "Pitt Meadows",
-    "lastIncident": "2026-06-06T17:53:00Z",
-    "count": 9
+    "lastIncident": "2026-06-24T13:38:00Z",
+    "count": 10
   },
   "langley/240th-st": {
     "name": "240th St",
@@ -1494,8 +1494,8 @@
     "name": "Keefer St",
     "slug": "vancouver/keefer-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-12T03:21:00Z",
-    "count": 3
+    "lastIncident": "2026-06-24T13:33:00Z",
+    "count": 4
   },
   "surrey/144th-st": {
     "name": "144th St",
@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-18T02:07:00Z",
-    "count": 51
+    "lastIncident": "2026-06-24T13:33:00Z",
+    "count": 52
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",

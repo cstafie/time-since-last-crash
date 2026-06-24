@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-24T13:33:00Z_vancouver/main-st_vancouver/keefer-st",
+      "timestamp": "2026-06-24T13:33:00Z",
+      "address": "MAIN ST & KEEFER ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/main-st",
+        "vancouver/keefer-st"
+      ],
+      "streetNames": [
+        "Main St",
+        "Keefer St"
+      ],
+      "pulsePointId": "2503980001"
+    },
+    {
       "id": "2026-06-18T02:07:00Z_vancouver/main-st_vancouver/central-st",
       "timestamp": "2026-06-18T02:07:00Z",
       "address": "MAIN ST & CENTRAL ST",
@@ -753,6 +768,6 @@
       "pulsePointId": "2432937969"
     }
   ],
-  "lastIncident": "2026-06-18T02:07:00Z",
-  "count": 51
+  "lastIncident": "2026-06-24T13:33:00Z",
+  "count": 52
 }

@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-24T13:38:00Z_pitt-meadows/lougheed-hwy",
+    "timestamp": "2026-06-24T13:38:00Z",
+    "scrapedAt": "2026-06-24T13:40:37Z",
+    "address": "LOUGHEED HWY",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2503981636"
+  },
+  {
+    "id": "2026-06-24T13:33:00Z_vancouver/main-st_vancouver/keefer-st",
+    "timestamp": "2026-06-24T13:33:00Z",
+    "scrapedAt": "2026-06-24T13:40:37Z",
+    "address": "MAIN ST & KEEFER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st",
+      "vancouver/keefer-st"
+    ],
+    "streetNames": [
+      "Main St",
+      "Keefer St"
+    ],
+    "pulsePointId": "2503980001"
+  },
+  {
     "id": "2026-06-24T06:44:00Z_surrey/84th-ave_surrey/152nd-st",
     "timestamp": "2026-06-24T06:44:00Z",
     "scrapedAt": "2026-06-24T08:06:13Z",
