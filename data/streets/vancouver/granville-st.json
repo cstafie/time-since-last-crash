@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-24T22:46:00Z_vancouver/w-64th-ave_vancouver/granville-st",
+      "timestamp": "2026-06-24T22:46:00Z",
+      "address": "W 64TH AVE & GRANVILLE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-64th-ave",
+        "vancouver/granville-st"
+      ],
+      "streetNames": [
+        "W 64th Ave",
+        "Granville St"
+      ],
+      "pulsePointId": "2504333088"
+    },
+    {
       "id": "2026-06-23T05:03:00Z_vancouver/granville-st_vancouver/w-49th-ave",
       "timestamp": "2026-06-23T05:03:00Z",
       "address": "GRANVILLE ST & W 49TH AVE",
@@ -756,6 +771,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-23T05:03:00Z",
-  "count": 51
+  "lastIncident": "2026-06-24T22:46:00Z",
+  "count": 52
 }

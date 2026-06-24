@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-23T05:03:00Z",
-    "count": 51
+    "lastIncident": "2026-06-24T22:46:00Z",
+    "count": 52
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -4427,8 +4427,8 @@
     "name": "W 64th Ave",
     "slug": "vancouver/w-64th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-07T20:36:00Z",
-    "count": 7
+    "lastIncident": "2026-06-24T22:46:00Z",
+    "count": 8
   },
   "langley/210th-st": {
     "name": "210th St",
