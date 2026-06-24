@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-24T15:26:00Z_abbotsford/mayfair-ave_abbotsford/mccallum-rd",
+      "timestamp": "2026-06-24T15:26:00Z",
+      "address": "MAYFAIR AVE & MCCALLUM RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/mayfair-ave",
+        "abbotsford/mccallum-rd"
+      ],
+      "streetNames": [
+        "Mayfair Ave",
+        "Mccallum Rd"
+      ],
+      "pulsePointId": "2504035117"
+    },
+    {
       "id": "2026-05-12T01:27:00Z_abbotsford/morey-ave_abbotsford/mccallum-rd",
       "timestamp": "2026-05-12T01:27:00Z",
       "address": "MOREY AVE & MCCALLUM RD",
@@ -120,6 +135,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-12T01:27:00Z",
-  "count": 8
+  "lastIncident": "2026-06-24T15:26:00Z",
+  "count": 9
 }

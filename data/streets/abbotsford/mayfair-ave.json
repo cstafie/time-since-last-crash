@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/mayfair-ave",
+  "name": "Mayfair Ave",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-06-24T15:26:00Z_abbotsford/mayfair-ave_abbotsford/mccallum-rd",
+      "timestamp": "2026-06-24T15:26:00Z",
+      "address": "MAYFAIR AVE & MCCALLUM RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/mayfair-ave",
+        "abbotsford/mccallum-rd"
+      ],
+      "streetNames": [
+        "Mayfair Ave",
+        "Mccallum Rd"
+      ],
+      "pulsePointId": "2504035117"
+    }
+  ],
+  "lastIncident": "2026-06-24T15:26:00Z",
+  "count": 1
+}

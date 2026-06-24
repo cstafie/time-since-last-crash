@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-24T15:36:00Z_vancouver/fraser-st_vancouver/se-marine-dr",
+    "timestamp": "2026-06-24T15:36:00Z",
+    "scrapedAt": "2026-06-24T15:43:36Z",
+    "address": "FRASER ST & SE MARINE DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/fraser-st",
+      "vancouver/se-marine-dr"
+    ],
+    "streetNames": [
+      "Fraser St",
+      "Se Marine Dr"
+    ],
+    "pulsePointId": "2504041381"
+  },
+  {
+    "id": "2026-06-24T15:26:00Z_abbotsford/mayfair-ave_abbotsford/mccallum-rd",
+    "timestamp": "2026-06-24T15:26:00Z",
+    "scrapedAt": "2026-06-24T15:43:36Z",
+    "address": "MAYFAIR AVE & MCCALLUM RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/mayfair-ave",
+      "abbotsford/mccallum-rd"
+    ],
+    "streetNames": [
+      "Mayfair Ave",
+      "Mccallum Rd"
+    ],
+    "pulsePointId": "2504035117"
+  },
+  {
     "id": "2026-06-24T14:22:00Z_abbotsford/whatcom-rd_abbotsford/south-parallel-rd",
     "timestamp": "2026-06-24T14:22:00Z",
     "scrapedAt": "2026-06-24T14:53:17Z",

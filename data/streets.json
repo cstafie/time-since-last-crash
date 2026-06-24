@@ -24,8 +24,8 @@
     "name": "Mccallum Rd",
     "slug": "abbotsford/mccallum-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-12T01:27:00Z",
-    "count": 8
+    "lastIncident": "2026-06-24T15:26:00Z",
+    "count": 9
   },
   "abbotsford/mcdougall-ave": {
     "name": "Mcdougall Ave",
@@ -1200,8 +1200,8 @@
     "name": "Se Marine Dr",
     "slug": "vancouver/se-marine-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-06-22T15:05:00Z",
-    "count": 16
+    "lastIncident": "2026-06-24T15:36:00Z",
+    "count": 17
   },
   "vancouver/kerr-st": {
     "name": "Kerr St",
@@ -3258,8 +3258,8 @@
     "name": "Fraser St",
     "slug": "vancouver/fraser-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-23T23:25:00Z",
-    "count": 16
+    "lastIncident": "2026-06-24T15:36:00Z",
+    "count": 17
   },
   "abbotsford/32470-simon-ave": {
     "name": "32470 Simon Ave",
@@ -12926,6 +12926,13 @@
     "slug": "vancouver/pine-cres",
     "city": "Vancouver",
     "lastIncident": "2026-06-24T14:19:00Z",
+    "count": 1
+  },
+  "abbotsford/mayfair-ave": {
+    "name": "Mayfair Ave",
+    "slug": "abbotsford/mayfair-ave",
+    "city": "Abbotsford",
+    "lastIncident": "2026-06-24T15:26:00Z",
     "count": 1
   }
 }
