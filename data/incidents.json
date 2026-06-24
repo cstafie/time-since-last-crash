@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-24T23:16:00Z_vancouver/kaslo-st_vancouver/e-hastings-st",
+    "timestamp": "2026-06-24T23:16:00Z",
+    "scrapedAt": "2026-06-24T23:22:14Z",
+    "address": "KASLO ST & E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kaslo-st",
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "Kaslo St",
+      "E Hastings St"
+    ],
+    "pulsePointId": "2504353798"
+  },
+  {
+    "id": "2026-06-24T23:12:00Z_surrey/104th-ave",
+    "timestamp": "2026-06-24T23:12:00Z",
+    "scrapedAt": "2026-06-24T23:22:14Z",
+    "address": "104TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/104th-ave"
+    ],
+    "streetNames": [
+      "104th Ave"
+    ],
+    "pulsePointId": "2504353016"
+  },
+  {
     "id": "2026-06-24T22:46:00Z_vancouver/w-64th-ave_vancouver/granville-st",
     "timestamp": "2026-06-24T22:46:00Z",
     "scrapedAt": "2026-06-24T22:53:18Z",

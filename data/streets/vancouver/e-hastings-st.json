@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-24T23:16:00Z_vancouver/kaslo-st_vancouver/e-hastings-st",
+      "timestamp": "2026-06-24T23:16:00Z",
+      "address": "KASLO ST & E HASTINGS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/kaslo-st",
+        "vancouver/e-hastings-st"
+      ],
+      "streetNames": [
+        "Kaslo St",
+        "E Hastings St"
+      ],
+      "pulsePointId": "2504353798"
+    },
+    {
       "id": "2026-06-18T06:05:00Z_vancouver/e-hastings-st",
       "timestamp": "2026-06-18T06:05:00Z",
       "address": "E HASTINGS ST",
@@ -507,6 +522,6 @@
       "pulsePointId": "2433305056"
     }
   ],
-  "lastIncident": "2026-06-18T06:05:00Z",
-  "count": 35
+  "lastIncident": "2026-06-24T23:16:00Z",
+  "count": 36
 }
