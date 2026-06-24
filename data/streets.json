@@ -780,8 +780,8 @@
     "name": "W 33rd Ave",
     "slug": "vancouver/w-33rd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-21T18:39:00Z",
-    "count": 9
+    "lastIncident": "2026-06-24T14:19:00Z",
+    "count": 10
   },
   "vancouver/w-49th-ave": {
     "name": "W 49th Ave",
@@ -1767,8 +1767,8 @@
     "name": "South Fraser Way",
     "slug": "abbotsford/south-fraser-way",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-19T17:50:00Z",
-    "count": 29
+    "lastIncident": "2026-06-24T13:50:00Z",
+    "count": 30
   },
   "vancouver/e-hastings-st": {
     "name": "E Hastings St",
@@ -2831,8 +2831,8 @@
     "name": "South Parallel Rd",
     "slug": "abbotsford/south-parallel-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-15T01:44:00Z",
-    "count": 4
+    "lastIncident": "2026-06-24T14:22:00Z",
+    "count": 5
   },
   "mission/7th-ave": {
     "name": "7th Ave",
@@ -4581,8 +4581,8 @@
     "name": "Whatcom Rd",
     "slug": "abbotsford/whatcom-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-18T18:59:00Z",
-    "count": 5
+    "lastIncident": "2026-06-24T14:22:00Z",
+    "count": 6
   },
   "abbotsford/regal-pkwy": {
     "name": "Regal Pkwy",
@@ -5232,8 +5232,8 @@
     "name": "Gladwin Rd",
     "slug": "abbotsford/gladwin-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-16T15:20:00Z",
-    "count": 13
+    "lastIncident": "2026-06-24T13:50:00Z",
+    "count": 14
   },
   "surrey/old-yale-rd": {
     "name": "Old Yale Rd",
@@ -12919,6 +12919,13 @@
     "slug": "vancouver/east-boulevard",
     "city": "Vancouver",
     "lastIncident": "2026-06-24T04:54:00Z",
+    "count": 1
+  },
+  "vancouver/pine-cres": {
+    "name": "Pine Cres",
+    "slug": "vancouver/pine-cres",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-24T14:19:00Z",
     "count": 1
   }
 }

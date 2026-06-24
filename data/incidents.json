@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-06-24T14:22:00Z_abbotsford/whatcom-rd_abbotsford/south-parallel-rd",
+    "timestamp": "2026-06-24T14:22:00Z",
+    "scrapedAt": "2026-06-24T14:53:17Z",
+    "address": "WHATCOM RD & SOUTH PARALLEL RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/whatcom-rd",
+      "abbotsford/south-parallel-rd"
+    ],
+    "streetNames": [
+      "Whatcom Rd",
+      "South Parallel Rd"
+    ],
+    "pulsePointId": "2504001959"
+  },
+  {
+    "id": "2026-06-24T14:19:00Z_vancouver/pine-cres_vancouver/w-33rd-ave",
+    "timestamp": "2026-06-24T14:19:00Z",
+    "scrapedAt": "2026-06-24T14:53:17Z",
+    "address": "PINE CRES & W 33RD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/pine-cres",
+      "vancouver/w-33rd-ave"
+    ],
+    "streetNames": [
+      "Pine Cres",
+      "W 33rd Ave"
+    ],
+    "pulsePointId": "2504000664"
+  },
+  {
+    "id": "2026-06-24T13:50:00Z_abbotsford/south-fraser-way_abbotsford/gladwin-rd",
+    "timestamp": "2026-06-24T13:50:00Z",
+    "scrapedAt": "2026-06-24T14:53:17Z",
+    "address": "SOUTH FRASER WAY & GLADWIN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/south-fraser-way",
+      "abbotsford/gladwin-rd"
+    ],
+    "streetNames": [
+      "South Fraser Way",
+      "Gladwin Rd"
+    ],
+    "pulsePointId": "2503987132"
+  },
+  {
     "id": "2026-06-24T13:38:00Z_pitt-meadows/lougheed-hwy",
     "timestamp": "2026-06-24T13:38:00Z",
     "scrapedAt": "2026-06-24T13:40:37Z",

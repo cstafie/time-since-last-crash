@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-24T14:19:00Z_vancouver/pine-cres_vancouver/w-33rd-ave",
+      "timestamp": "2026-06-24T14:19:00Z",
+      "address": "PINE CRES & W 33RD AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/pine-cres",
+        "vancouver/w-33rd-ave"
+      ],
+      "streetNames": [
+        "Pine Cres",
+        "W 33rd Ave"
+      ],
+      "pulsePointId": "2504000664"
+    },
+    {
       "id": "2026-06-21T18:39:00Z_vancouver/willow-st_vancouver/w-33rd-ave",
       "timestamp": "2026-06-21T18:39:00Z",
       "address": "WILLOW ST & W 33RD AVE",
@@ -135,6 +150,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-21T18:39:00Z",
-  "count": 9
+  "lastIncident": "2026-06-24T14:19:00Z",
+  "count": 10
 }
