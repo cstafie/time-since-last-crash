@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-24T04:54:00Z_vancouver/east-boulevard_vancouver/w-41st-ave",
+      "timestamp": "2026-06-24T04:54:00Z",
+      "address": "EAST BOULEVARD & W 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/east-boulevard",
+        "vancouver/w-41st-ave"
+      ],
+      "streetNames": [
+        "East Boulevard",
+        "W 41st Ave"
+      ],
+      "pulsePointId": "2503821275"
+    },
+    {
       "id": "2026-06-19T20:55:00Z_vancouver/maple-st_vancouver/w-41st-ave",
       "timestamp": "2026-06-19T20:55:00Z",
       "address": "MAPLE ST & W 41ST AVE",
@@ -227,6 +242,6 @@
       "pulsePointId": "2435256240"
     }
   ],
-  "lastIncident": "2026-06-19T20:55:00Z",
-  "count": 15
+  "lastIncident": "2026-06-24T04:54:00Z",
+  "count": 16
 }

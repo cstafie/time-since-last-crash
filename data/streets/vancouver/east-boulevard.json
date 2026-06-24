@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/east-boulevard",
+  "name": "East Boulevard",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-24T04:54:00Z_vancouver/east-boulevard_vancouver/w-41st-ave",
+      "timestamp": "2026-06-24T04:54:00Z",
+      "address": "EAST BOULEVARD & W 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/east-boulevard",
+        "vancouver/w-41st-ave"
+      ],
+      "streetNames": [
+        "East Boulevard",
+        "W 41st Ave"
+      ],
+      "pulsePointId": "2503821275"
+    }
+  ],
+  "lastIncident": "2026-06-24T04:54:00Z",
+  "count": 1
+}

@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-24T04:54:00Z_vancouver/east-boulevard_vancouver/w-41st-ave",
+    "timestamp": "2026-06-24T04:54:00Z",
+    "scrapedAt": "2026-06-24T05:15:26Z",
+    "address": "EAST BOULEVARD & W 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/east-boulevard",
+      "vancouver/w-41st-ave"
+    ],
+    "streetNames": [
+      "East Boulevard",
+      "W 41st Ave"
+    ],
+    "pulsePointId": "2503821275"
+  },
+  {
     "id": "2026-06-24T02:52:00Z_coquitlam/town-centre-blvd_coquitlam/pinetree-way",
     "timestamp": "2026-06-24T02:52:00Z",
     "scrapedAt": "2026-06-24T03:43:30Z",
