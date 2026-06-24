@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-24T22:12:00Z_surrey/old-yale-rd_surrey/125a-st",
+      "timestamp": "2026-06-24T22:12:00Z",
+      "address": "OLD YALE RD & 125A ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/old-yale-rd",
+        "surrey/125a-st"
+      ],
+      "streetNames": [
+        "Old Yale Rd",
+        "125a St"
+      ],
+      "pulsePointId": "2504310264"
+    },
+    {
       "id": "2026-05-25T04:38:00Z_surrey/station-rd_surrey/125a-st",
       "timestamp": "2026-05-25T04:38:00Z",
       "address": "STATION RD & 125A ST",
@@ -19,6 +34,6 @@
       "pulsePointId": "2481821909"
     }
   ],
-  "lastIncident": "2026-05-25T04:38:00Z",
-  "count": 1
+  "lastIncident": "2026-06-24T22:12:00Z",
+  "count": 2
 }

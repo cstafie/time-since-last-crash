@@ -1,0 +1,24 @@
+{
+  "slug": "north-vancouver/indian-river-dr",
+  "name": "Indian River Dr",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-24T22:14:00Z_north-vancouver/indian-river-cres_north-vancouver/indian-river-dr",
+      "timestamp": "2026-06-24T22:14:00Z",
+      "address": "INDIAN RIVER CRES & INDIAN RIVER DR",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/indian-river-cres",
+        "north-vancouver/indian-river-dr"
+      ],
+      "streetNames": [
+        "Indian River Cres",
+        "Indian River Dr"
+      ],
+      "pulsePointId": "2504312181"
+    }
+  ],
+  "lastIncident": "2026-06-24T22:14:00Z",
+  "count": 1
+}

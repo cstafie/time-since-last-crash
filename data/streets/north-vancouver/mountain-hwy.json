@@ -4,6 +4,21 @@
   "city": "North Vancouver",
   "incidents": [
     {
+      "id": "2026-06-24T21:55:00Z_north-vancouver/mountain-hwy_north-vancouver/e-keith-rd",
+      "timestamp": "2026-06-24T21:55:00Z",
+      "address": "MOUNTAIN HWY & E KEITH RD",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/mountain-hwy",
+        "north-vancouver/e-keith-rd"
+      ],
+      "streetNames": [
+        "Mountain Hwy",
+        "E Keith Rd"
+      ],
+      "pulsePointId": "2504297784"
+    },
+    {
       "id": "2026-05-30T01:09:00Z_north-vancouver/mountain-hwy_north-vancouver/e-keith-rd",
       "timestamp": "2026-05-30T01:09:00Z",
       "address": "MOUNTAIN HWY & E KEITH RD",
@@ -49,6 +64,6 @@
       "pulsePointId": "2470272645"
     }
   ],
-  "lastIncident": "2026-05-30T01:09:00Z",
-  "count": 3
+  "lastIncident": "2026-06-24T21:55:00Z",
+  "count": 4
 }

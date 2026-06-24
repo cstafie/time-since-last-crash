@@ -4,6 +4,34 @@
   "city": "West Vancouver",
   "incidents": [
     {
+      "id": "2026-06-24T22:09:00Z_west-vancouver/marine-dr",
+      "timestamp": "2026-06-24T22:09:00Z",
+      "address": "MARINE DR",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/marine-dr"
+      ],
+      "streetNames": [
+        "Marine Dr"
+      ],
+      "pulsePointId": "2504308285"
+    },
+    {
+      "id": "2026-06-24T22:07:00Z_west-vancouver/marine-dr_west-vancouver/taylor-way",
+      "timestamp": "2026-06-24T22:07:00Z",
+      "address": "MARINE DR & TAYLOR WAY",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/marine-dr",
+        "west-vancouver/taylor-way"
+      ],
+      "streetNames": [
+        "Marine Dr",
+        "Taylor Way"
+      ],
+      "pulsePointId": "2504308593"
+    },
+    {
       "id": "2026-06-14T23:29:00Z_west-vancouver/marine-dr",
       "timestamp": "2026-06-14T23:29:00Z",
       "address": "MARINE DR",
@@ -60,6 +88,6 @@
       "pulsePointId": "2462161326"
     }
   ],
-  "lastIncident": "2026-06-14T23:29:00Z",
-  "count": 4
+  "lastIncident": "2026-06-24T22:09:00Z",
+  "count": 6
 }

@@ -1,5 +1,83 @@
 [
   {
+    "id": "2026-06-24T22:14:00Z_north-vancouver/indian-river-cres_north-vancouver/indian-river-dr",
+    "timestamp": "2026-06-24T22:14:00Z",
+    "scrapedAt": "2026-06-24T22:27:33Z",
+    "address": "INDIAN RIVER CRES & INDIAN RIVER DR",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/indian-river-cres",
+      "north-vancouver/indian-river-dr"
+    ],
+    "streetNames": [
+      "Indian River Cres",
+      "Indian River Dr"
+    ],
+    "pulsePointId": "2504312181"
+  },
+  {
+    "id": "2026-06-24T22:12:00Z_surrey/old-yale-rd_surrey/125a-st",
+    "timestamp": "2026-06-24T22:12:00Z",
+    "scrapedAt": "2026-06-24T22:27:33Z",
+    "address": "OLD YALE RD & 125A ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/old-yale-rd",
+      "surrey/125a-st"
+    ],
+    "streetNames": [
+      "Old Yale Rd",
+      "125a St"
+    ],
+    "pulsePointId": "2504310264"
+  },
+  {
+    "id": "2026-06-24T22:09:00Z_west-vancouver/marine-dr",
+    "timestamp": "2026-06-24T22:09:00Z",
+    "scrapedAt": "2026-06-24T22:27:33Z",
+    "address": "MARINE DR",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/marine-dr"
+    ],
+    "streetNames": [
+      "Marine Dr"
+    ],
+    "pulsePointId": "2504308285"
+  },
+  {
+    "id": "2026-06-24T22:07:00Z_west-vancouver/marine-dr_west-vancouver/taylor-way",
+    "timestamp": "2026-06-24T22:07:00Z",
+    "scrapedAt": "2026-06-24T22:27:33Z",
+    "address": "MARINE DR & TAYLOR WAY",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/marine-dr",
+      "west-vancouver/taylor-way"
+    ],
+    "streetNames": [
+      "Marine Dr",
+      "Taylor Way"
+    ],
+    "pulsePointId": "2504308593"
+  },
+  {
+    "id": "2026-06-24T21:55:00Z_north-vancouver/mountain-hwy_north-vancouver/e-keith-rd",
+    "timestamp": "2026-06-24T21:55:00Z",
+    "scrapedAt": "2026-06-24T22:27:33Z",
+    "address": "MOUNTAIN HWY & E KEITH RD",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/mountain-hwy",
+      "north-vancouver/e-keith-rd"
+    ],
+    "streetNames": [
+      "Mountain Hwy",
+      "E Keith Rd"
+    ],
+    "pulsePointId": "2504297784"
+  },
+  {
     "id": "2026-06-24T20:17:00Z_vancouver/e-49th-ave_vancouver/brooks-st",
     "timestamp": "2026-06-24T20:17:00Z",
     "scrapedAt": "2026-06-24T21:01:49Z",
