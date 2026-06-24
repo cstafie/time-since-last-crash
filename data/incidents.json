@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-06-24T02:10:00Z_port-moody/alderside-rd_port-moody/ioco-rd",
+    "timestamp": "2026-06-24T02:10:00Z",
+    "scrapedAt": "2026-06-24T02:16:29Z",
+    "address": "ALDERSIDE RD & IOCO RD",
+    "city": "Port Moody",
+    "streets": [
+      "port-moody/alderside-rd",
+      "port-moody/ioco-rd"
+    ],
+    "streetNames": [
+      "Alderside Rd",
+      "Ioco Rd"
+    ],
+    "pulsePointId": "2503734520"
+  },
+  {
+    "id": "2026-06-24T02:03:00Z_langley/216th-st_langley/glover-rd",
+    "timestamp": "2026-06-24T02:03:00Z",
+    "scrapedAt": "2026-06-24T02:16:29Z",
+    "address": "216TH ST & GLOVER RD",
+    "city": "Langley",
+    "streets": [
+      "langley/216th-st",
+      "langley/glover-rd"
+    ],
+    "streetNames": [
+      "216th St",
+      "Glover Rd"
+    ],
+    "pulsePointId": "2503728085"
+  },
+  {
+    "id": "2026-06-24T01:21:00Z_burnaby/phillips-ave",
+    "timestamp": "2026-06-24T01:21:00Z",
+    "scrapedAt": "2026-06-24T02:16:29Z",
+    "address": "PHILLIPS AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/phillips-ave"
+    ],
+    "streetNames": [
+      "Phillips Ave"
+    ],
+    "pulsePointId": "2503703186"
+  },
+  {
+    "id": "2026-06-24T01:20:00Z_abbotsford/sumas-river-brdg",
+    "timestamp": "2026-06-24T01:20:00Z",
+    "scrapedAt": "2026-06-24T02:16:29Z",
+    "address": "SUMAS RIVER BRDG",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/sumas-river-brdg"
+    ],
+    "streetNames": [
+      "Sumas River Brdg"
+    ],
+    "pulsePointId": "2503702150"
+  },
+  {
     "id": "2026-06-24T00:53:00Z_vancouver/trans-canada-hwy",
     "timestamp": "2026-06-24T00:53:00Z",
     "scrapedAt": "2026-06-24T01:17:29Z",

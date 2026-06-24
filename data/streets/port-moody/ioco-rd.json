@@ -4,6 +4,21 @@
   "city": "Port Moody",
   "incidents": [
     {
+      "id": "2026-06-24T02:10:00Z_port-moody/alderside-rd_port-moody/ioco-rd",
+      "timestamp": "2026-06-24T02:10:00Z",
+      "address": "ALDERSIDE RD & IOCO RD",
+      "city": "Port Moody",
+      "streets": [
+        "port-moody/alderside-rd",
+        "port-moody/ioco-rd"
+      ],
+      "streetNames": [
+        "Alderside Rd",
+        "Ioco Rd"
+      ],
+      "pulsePointId": "2503734520"
+    },
+    {
       "id": "2026-06-10T22:25:00Z_port-moody/ioco-rd_port-moody/murray-st",
       "timestamp": "2026-06-10T22:25:00Z",
       "address": "IOCO RD & MURRAY ST",
@@ -62,6 +77,6 @@
       "pulsePointId": "2438015861"
     }
   ],
-  "lastIncident": "2026-06-10T22:25:00Z",
-  "count": 4
+  "lastIncident": "2026-06-24T02:10:00Z",
+  "count": 5
 }

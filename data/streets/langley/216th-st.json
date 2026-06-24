@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-06-24T02:03:00Z_langley/216th-st_langley/glover-rd",
+      "timestamp": "2026-06-24T02:03:00Z",
+      "address": "216TH ST & GLOVER RD",
+      "city": "Langley",
+      "streets": [
+        "langley/216th-st",
+        "langley/glover-rd"
+      ],
+      "streetNames": [
+        "216th St",
+        "Glover Rd"
+      ],
+      "pulsePointId": "2503728085"
+    },
+    {
       "id": "2026-06-19T18:35:00Z_langley/trans-canada-hwy-onrp_langley/216th-st",
       "timestamp": "2026-06-19T18:35:00Z",
       "address": "TRANS CANADA HWY ONRP & 216TH ST",
@@ -206,6 +221,6 @@
       "pulsePointId": "2436047549"
     }
   ],
-  "lastIncident": "2026-06-19T18:35:00Z",
-  "count": 14
+  "lastIncident": "2026-06-24T02:03:00Z",
+  "count": 15
 }

@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/phillips-ave",
+  "name": "Phillips Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-06-24T01:21:00Z_burnaby/phillips-ave",
+      "timestamp": "2026-06-24T01:21:00Z",
+      "address": "PHILLIPS AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/phillips-ave"
+      ],
+      "streetNames": [
+        "Phillips Ave"
+      ],
+      "pulsePointId": "2503703186"
+    }
+  ],
+  "lastIncident": "2026-06-24T01:21:00Z",
+  "count": 1
+}
