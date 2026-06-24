@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-06-24T16:27:00Z_vancouver/w-41st-ave_vancouver/mackenzie-st",
+    "timestamp": "2026-06-24T16:27:00Z",
+    "scrapedAt": "2026-06-24T16:39:26Z",
+    "address": "W 41ST AVE & MACKENZIE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-41st-ave",
+      "vancouver/mackenzie-st"
+    ],
+    "streetNames": [
+      "W 41st Ave",
+      "Mackenzie St"
+    ],
+    "pulsePointId": "2504070479"
+  },
+  {
+    "id": "2026-06-24T16:01:00Z_surrey/148th-st_surrey/104th-ave",
+    "timestamp": "2026-06-24T16:01:00Z",
+    "scrapedAt": "2026-06-24T16:39:26Z",
+    "address": "148TH ST & 104TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/148th-st",
+      "surrey/104th-ave"
+    ],
+    "streetNames": [
+      "148th St",
+      "104th Ave"
+    ],
+    "pulsePointId": "2504054816"
+  },
+  {
+    "id": "2026-06-24T16:01:00Z_chilliwack/yarrow-central-rd",
+    "timestamp": "2026-06-24T16:01:00Z",
+    "scrapedAt": "2026-06-24T16:39:26Z",
+    "address": "YARROW CENTRAL RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/yarrow-central-rd"
+    ],
+    "streetNames": [
+      "Yarrow Central Rd"
+    ],
+    "pulsePointId": "2504054299"
+  },
+  {
     "id": "2026-06-24T15:36:00Z_vancouver/fraser-st_vancouver/se-marine-dr",
     "timestamp": "2026-06-24T15:36:00Z",
     "scrapedAt": "2026-06-24T15:43:36Z",

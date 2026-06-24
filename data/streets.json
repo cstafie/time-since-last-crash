@@ -1312,8 +1312,8 @@
     "name": "104th Ave",
     "slug": "surrey/104th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-19T14:06:00Z",
-    "count": 34
+    "lastIncident": "2026-06-24T16:01:00Z",
+    "count": 35
   },
   "surrey/122nd-st": {
     "name": "122nd St",
@@ -1893,8 +1893,8 @@
     "name": "148th St",
     "slug": "surrey/148th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-20T23:03:00Z",
-    "count": 22
+    "lastIncident": "2026-06-24T16:01:00Z",
+    "count": 23
   },
   "vancouver/earles-st": {
     "name": "Earles St",
@@ -2348,8 +2348,8 @@
     "name": "W 41st Ave",
     "slug": "vancouver/w-41st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-24T04:54:00Z",
-    "count": 16
+    "lastIncident": "2026-06-24T16:27:00Z",
+    "count": 17
   },
   "burnaby/cariboo-rd": {
     "name": "Cariboo Rd",
@@ -5071,8 +5071,8 @@
     "name": "Mackenzie St",
     "slug": "vancouver/mackenzie-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-03T21:09:00Z",
-    "count": 3
+    "lastIncident": "2026-06-24T16:27:00Z",
+    "count": 4
   },
   "burnaby/dominion-st": {
     "name": "Dominion St",
@@ -12547,8 +12547,8 @@
     "name": "Yarrow Central Rd",
     "slug": "chilliwack/yarrow-central-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-18T19:24:00Z",
-    "count": 1
+    "lastIncident": "2026-06-24T16:01:00Z",
+    "count": 2
   },
   "vancouver/scotia-st": {
     "name": "Scotia St",

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-24T16:27:00Z_vancouver/w-41st-ave_vancouver/mackenzie-st",
+      "timestamp": "2026-06-24T16:27:00Z",
+      "address": "W 41ST AVE & MACKENZIE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-41st-ave",
+        "vancouver/mackenzie-st"
+      ],
+      "streetNames": [
+        "W 41st Ave",
+        "Mackenzie St"
+      ],
+      "pulsePointId": "2504070479"
+    },
+    {
       "id": "2026-06-24T04:54:00Z_vancouver/east-boulevard_vancouver/w-41st-ave",
       "timestamp": "2026-06-24T04:54:00Z",
       "address": "EAST BOULEVARD & W 41ST AVE",
@@ -242,6 +257,6 @@
       "pulsePointId": "2435256240"
     }
   ],
-  "lastIncident": "2026-06-24T04:54:00Z",
-  "count": 16
+  "lastIncident": "2026-06-24T16:27:00Z",
+  "count": 17
 }
