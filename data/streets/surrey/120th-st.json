@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-24T00:40:00Z_surrey/92nd-ave_surrey/120th-st",
+      "timestamp": "2026-06-24T00:40:00Z",
+      "address": "92ND AVE & 120TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/92nd-ave",
+        "surrey/120th-st"
+      ],
+      "streetNames": [
+        "92nd Ave",
+        "120th St"
+      ],
+      "pulsePointId": "2503680764"
+    },
+    {
       "id": "2026-06-17T20:19:00Z_surrey/scott-rd_surrey/120th-st",
       "timestamp": "2026-06-17T20:19:00Z",
       "address": "SCOTT RD & 120TH ST",
@@ -134,6 +149,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-17T20:19:00Z",
-  "count": 9
+  "lastIncident": "2026-06-24T00:40:00Z",
+  "count": 10
 }

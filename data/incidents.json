@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-06-24T00:53:00Z_vancouver/trans-canada-hwy",
+    "timestamp": "2026-06-24T00:53:00Z",
+    "scrapedAt": "2026-06-24T01:17:29Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2503684977"
+  },
+  {
+    "id": "2026-06-24T00:40:00Z_surrey/92nd-ave_surrey/120th-st",
+    "timestamp": "2026-06-24T00:40:00Z",
+    "scrapedAt": "2026-06-24T01:17:29Z",
+    "address": "92ND AVE & 120TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/92nd-ave",
+      "surrey/120th-st"
+    ],
+    "streetNames": [
+      "92nd Ave",
+      "120th St"
+    ],
+    "pulsePointId": "2503680764"
+  },
+  {
+    "id": "2026-06-24T00:39:00Z_delta/92nd-ave_delta/120th-st",
+    "timestamp": "2026-06-24T00:39:00Z",
+    "scrapedAt": "2026-06-24T01:17:29Z",
+    "address": "92ND AVE & 120TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/92nd-ave",
+      "delta/120th-st"
+    ],
+    "streetNames": [
+      "92nd Ave",
+      "120th St"
+    ],
+    "pulsePointId": "2503679309"
+  },
+  {
     "id": "2026-06-24T00:14:00Z_burnaby/4812-willingdon-ave",
     "timestamp": "2026-06-24T00:14:00Z",
     "scrapedAt": "2026-06-24T00:18:27Z",

@@ -640,8 +640,8 @@
     "name": "92nd Ave",
     "slug": "surrey/92nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-17T23:46:00Z",
-    "count": 19
+    "lastIncident": "2026-06-24T00:40:00Z",
+    "count": 20
   },
   "surrey/96th-ave": {
     "name": "96th Ave",
@@ -871,8 +871,8 @@
     "name": "120th St",
     "slug": "delta/120th-st",
     "city": "Delta",
-    "lastIncident": "2026-05-31T08:20:00Z",
-    "count": 22
+    "lastIncident": "2026-06-24T00:39:00Z",
+    "count": 23
   },
   "delta/roberts-bank-rd": {
     "name": "Roberts Bank Rd",
@@ -1298,8 +1298,8 @@
     "name": "120th St",
     "slug": "surrey/120th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-17T20:19:00Z",
-    "count": 9
+    "lastIncident": "2026-06-24T00:40:00Z",
+    "count": 10
   },
   "delta/72nd-st": {
     "name": "72nd St",
@@ -1333,8 +1333,8 @@
     "name": "Trans Canada Hwy",
     "slug": "vancouver/trans-canada-hwy",
     "city": "Vancouver",
-    "lastIncident": "2026-06-17T02:59:00Z",
-    "count": 12
+    "lastIncident": "2026-06-24T00:53:00Z",
+    "count": 13
   },
   "burnaby/kensington-ave": {
     "name": "Kensington Ave",
@@ -5449,8 +5449,8 @@
     "name": "92nd Ave",
     "slug": "delta/92nd-ave",
     "city": "Delta",
-    "lastIncident": "2026-05-25T22:12:00Z",
-    "count": 3
+    "lastIncident": "2026-06-24T00:39:00Z",
+    "count": 4
   },
   "burnaby/burris-st": {
     "name": "Burris St",

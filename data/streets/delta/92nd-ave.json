@@ -4,6 +4,21 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-06-24T00:39:00Z_delta/92nd-ave_delta/120th-st",
+      "timestamp": "2026-06-24T00:39:00Z",
+      "address": "92ND AVE & 120TH ST",
+      "city": "Delta",
+      "streets": [
+        "delta/92nd-ave",
+        "delta/120th-st"
+      ],
+      "streetNames": [
+        "92nd Ave",
+        "120th St"
+      ],
+      "pulsePointId": "2503679309"
+    },
+    {
       "id": "2026-05-25T22:12:00Z_delta/92nd-ave",
       "timestamp": "2026-05-25T22:12:00Z",
       "address": "92ND AVE",
@@ -47,6 +62,6 @@
       "pulsePointId": "2448094531"
     }
   ],
-  "lastIncident": "2026-05-25T22:12:00Z",
-  "count": 3
+  "lastIncident": "2026-06-24T00:39:00Z",
+  "count": 4
 }
