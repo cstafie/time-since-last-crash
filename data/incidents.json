@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-24T16:56:00Z_delta/alex-fraser-brdg",
+    "timestamp": "2026-06-24T16:56:00Z",
+    "scrapedAt": "2026-06-24T17:34:02Z",
+    "address": "ALEX FRASER BRDG",
+    "city": "Delta",
+    "streets": [
+      "delta/alex-fraser-brdg"
+    ],
+    "streetNames": [
+      "Alex Fraser Brdg"
+    ],
+    "pulsePointId": "2504090043"
+  },
+  {
     "id": "2026-06-24T16:27:00Z_vancouver/w-41st-ave_vancouver/mackenzie-st",
     "timestamp": "2026-06-24T16:27:00Z",
     "scrapedAt": "2026-06-24T16:39:26Z",
