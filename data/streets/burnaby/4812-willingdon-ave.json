@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/4812-willingdon-ave",
+  "name": "4812 Willingdon Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-06-24T00:14:00Z_burnaby/4812-willingdon-ave",
+      "timestamp": "2026-06-24T00:14:00Z",
+      "address": "4812 WILLINGDON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/4812-willingdon-ave"
+      ],
+      "streetNames": [
+        "4812 Willingdon Ave"
+      ],
+      "pulsePointId": "2503662989"
+    }
+  ],
+  "lastIncident": "2026-06-24T00:14:00Z",
+  "count": 1
+}

@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-06-24T00:14:00Z_burnaby/4812-willingdon-ave",
+    "timestamp": "2026-06-24T00:14:00Z",
+    "scrapedAt": "2026-06-24T00:18:27Z",
+    "address": "4812 WILLINGDON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/4812-willingdon-ave"
+    ],
+    "streetNames": [
+      "4812 Willingdon Ave"
+    ],
+    "pulsePointId": "2503662989"
+  },
+  {
+    "id": "2026-06-23T23:55:00Z_port-coquitlam/mary-hill-bps",
+    "timestamp": "2026-06-23T23:55:00Z",
+    "scrapedAt": "2026-06-24T00:18:27Z",
+    "address": "MARY HILL BPS",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/mary-hill-bps"
+    ],
+    "streetNames": [
+      "Mary Hill Bps"
+    ],
+    "pulsePointId": "2503649084"
+  },
+  {
+    "id": "2026-06-23T23:45:00Z_new-westminster/8th-st_new-westminster/3rd-ave",
+    "timestamp": "2026-06-23T23:45:00Z",
+    "scrapedAt": "2026-06-24T00:18:27Z",
+    "address": "8TH ST & 3RD AVE",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/8th-st",
+      "new-westminster/3rd-ave"
+    ],
+    "streetNames": [
+      "8th St",
+      "3rd Ave"
+    ],
+    "pulsePointId": "2503643969"
+  },
+  {
     "id": "2026-06-23T23:41:00Z_abbotsford/mt-lehman-rd",
     "timestamp": "2026-06-23T23:41:00Z",
     "scrapedAt": "2026-06-23T23:45:43Z",
