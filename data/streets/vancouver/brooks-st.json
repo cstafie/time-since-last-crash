@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/brooks-st",
+  "name": "Brooks St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-24T20:17:00Z_vancouver/e-49th-ave_vancouver/brooks-st",
+      "timestamp": "2026-06-24T20:17:00Z",
+      "address": "E 49TH AVE & BROOKS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-49th-ave",
+        "vancouver/brooks-st"
+      ],
+      "streetNames": [
+        "E 49th Ave",
+        "Brooks St"
+      ],
+      "pulsePointId": "2504230416"
+    }
+  ],
+  "lastIncident": "2026-06-24T20:17:00Z",
+  "count": 1
+}
