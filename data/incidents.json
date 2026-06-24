@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-06-24T02:52:00Z_coquitlam/town-centre-blvd_coquitlam/pinetree-way",
+    "timestamp": "2026-06-24T02:52:00Z",
+    "scrapedAt": "2026-06-24T03:43:30Z",
+    "address": "TOWN CENTRE BLVD & PINETREE WAY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/town-centre-blvd",
+      "coquitlam/pinetree-way"
+    ],
+    "streetNames": [
+      "Town Centre Blvd",
+      "Pinetree Way"
+    ],
+    "pulsePointId": "2503758480"
+  },
+  {
+    "id": "2026-06-24T02:23:00Z_mission/bell-st_mission/dewdney-trunk-rd",
+    "timestamp": "2026-06-24T02:23:00Z",
+    "scrapedAt": "2026-06-24T03:43:30Z",
+    "address": "BELL ST & DEWDNEY TRUNK RD",
+    "city": "Mission",
+    "streets": [
+      "mission/bell-st",
+      "mission/dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "Bell St",
+      "Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2503740699"
+  },
+  {
+    "id": "2026-06-24T02:18:00Z_burnaby/moscrop-st_burnaby/boundary-rd",
+    "timestamp": "2026-06-24T02:18:00Z",
+    "scrapedAt": "2026-06-24T03:43:30Z",
+    "address": "MOSCROP ST & BOUNDARY RD",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/moscrop-st",
+      "burnaby/boundary-rd"
+    ],
+    "streetNames": [
+      "Moscrop St",
+      "Boundary Rd"
+    ],
+    "pulsePointId": "2503738704"
+  },
+  {
     "id": "2026-06-24T02:10:00Z_port-moody/alderside-rd_port-moody/ioco-rd",
     "timestamp": "2026-06-24T02:10:00Z",
     "scrapedAt": "2026-06-24T02:16:29Z",

@@ -1,0 +1,24 @@
+{
+  "slug": "mission/bell-st",
+  "name": "Bell St",
+  "city": "Mission",
+  "incidents": [
+    {
+      "id": "2026-06-24T02:23:00Z_mission/bell-st_mission/dewdney-trunk-rd",
+      "timestamp": "2026-06-24T02:23:00Z",
+      "address": "BELL ST & DEWDNEY TRUNK RD",
+      "city": "Mission",
+      "streets": [
+        "mission/bell-st",
+        "mission/dewdney-trunk-rd"
+      ],
+      "streetNames": [
+        "Bell St",
+        "Dewdney Trunk Rd"
+      ],
+      "pulsePointId": "2503740699"
+    }
+  ],
+  "lastIncident": "2026-06-24T02:23:00Z",
+  "count": 1
+}
