@@ -7836,8 +7836,8 @@
     "name": "Marine Dr",
     "slug": "west-vancouver/marine-dr",
     "city": "West Vancouver",
-    "lastIncident": "2026-06-24T22:09:00Z",
-    "count": 6
+    "lastIncident": "2026-06-25T17:37:00Z",
+    "count": 7
   },
   "west-vancouver/18th-st": {
     "name": "18th St",
@@ -9138,8 +9138,8 @@
     "name": "Mountain Hwy",
     "slug": "north-vancouver/mountain-hwy",
     "city": "North Vancouver",
-    "lastIncident": "2026-06-24T21:55:00Z",
-    "count": 4
+    "lastIncident": "2026-06-25T17:43:00Z",
+    "count": 5
   },
   "burnaby/waverley-ave": {
     "name": "Waverley Ave",
@@ -13045,6 +13045,20 @@
     "slug": "vancouver/e-10th-ave",
     "city": "Vancouver",
     "lastIncident": "2026-06-25T16:18:00Z",
+    "count": 1
+  },
+  "north-vancouver/seylynn-cres": {
+    "name": "Seylynn Cres",
+    "slug": "north-vancouver/seylynn-cres",
+    "city": "North Vancouver",
+    "lastIncident": "2026-06-25T17:43:00Z",
+    "count": 1
+  },
+  "west-vancouver/16th-st": {
+    "name": "16th St",
+    "slug": "west-vancouver/16th-st",
+    "city": "West Vancouver",
+    "lastIncident": "2026-06-25T17:37:00Z",
     "count": 1
   }
 }

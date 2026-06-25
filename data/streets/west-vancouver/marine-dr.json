@@ -4,6 +4,21 @@
   "city": "West Vancouver",
   "incidents": [
     {
+      "id": "2026-06-25T17:37:00Z_west-vancouver/marine-dr_west-vancouver/16th-st",
+      "timestamp": "2026-06-25T17:37:00Z",
+      "address": "MARINE DR & 16TH ST",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/marine-dr",
+        "west-vancouver/16th-st"
+      ],
+      "streetNames": [
+        "Marine Dr",
+        "16th St"
+      ],
+      "pulsePointId": "2504845747"
+    },
+    {
       "id": "2026-06-24T22:09:00Z_west-vancouver/marine-dr",
       "timestamp": "2026-06-24T22:09:00Z",
       "address": "MARINE DR",
@@ -88,6 +103,6 @@
       "pulsePointId": "2462161326"
     }
   ],
-  "lastIncident": "2026-06-24T22:09:00Z",
-  "count": 6
+  "lastIncident": "2026-06-25T17:37:00Z",
+  "count": 7
 }

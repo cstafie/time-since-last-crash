@@ -1,0 +1,24 @@
+{
+  "slug": "north-vancouver/seylynn-cres",
+  "name": "Seylynn Cres",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-25T17:43:00Z_north-vancouver/mountain-hwy_north-vancouver/seylynn-cres",
+      "timestamp": "2026-06-25T17:43:00Z",
+      "address": "MOUNTAIN HWY & SEYLYNN CRES",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/mountain-hwy",
+        "north-vancouver/seylynn-cres"
+      ],
+      "streetNames": [
+        "Mountain Hwy",
+        "Seylynn Cres"
+      ],
+      "pulsePointId": "2504849559"
+    }
+  ],
+  "lastIncident": "2026-06-25T17:43:00Z",
+  "count": 1
+}
