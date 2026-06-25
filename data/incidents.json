@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-25T16:57:00Z_chilliwack/yale-rd_chilliwack/airport-rd",
+    "timestamp": "2026-06-25T16:57:00Z",
+    "scrapedAt": "2026-06-25T17:36:01Z",
+    "address": "YALE RD & AIRPORT RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/yale-rd",
+      "chilliwack/airport-rd"
+    ],
+    "streetNames": [
+      "Yale Rd",
+      "Airport Rd"
+    ],
+    "pulsePointId": "2504817902"
+  },
+  {
+    "id": "2026-06-25T16:54:00Z_chilliwack/yale-rd",
+    "timestamp": "2026-06-25T16:54:00Z",
+    "scrapedAt": "2026-06-25T17:36:01Z",
+    "address": "YALE RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/yale-rd"
+    ],
+    "streetNames": [
+      "Yale Rd"
+    ],
+    "pulsePointId": "2504818057"
+  },
+  {
     "id": "2026-06-25T16:18:00Z_vancouver/main-st_vancouver/e-10th-ave",
     "timestamp": "2026-06-25T16:18:00Z",
     "scrapedAt": "2026-06-25T16:42:04Z",

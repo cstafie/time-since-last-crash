@@ -1529,8 +1529,8 @@
     "name": "Airport Rd",
     "slug": "chilliwack/airport-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-05-29T22:44:00Z",
-    "count": 5
+    "lastIncident": "2026-06-25T16:57:00Z",
+    "count": 6
   },
   "chilliwack/young-rd": {
     "name": "Young Rd",
@@ -2880,8 +2880,8 @@
     "name": "Yale Rd",
     "slug": "chilliwack/yale-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-25T04:12:00Z",
-    "count": 18
+    "lastIncident": "2026-06-25T16:57:00Z",
+    "count": 20
   },
   "vancouver/e-61st-ave": {
     "name": "E 61st Ave",
