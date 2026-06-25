@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-06-25T01:17:00Z_new-westminster/1st-st_new-westminster/agnes-st",
+    "timestamp": "2026-06-25T01:17:00Z",
+    "scrapedAt": "2026-06-25T01:23:06Z",
+    "address": "1ST ST & AGNES ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/1st-st",
+      "new-westminster/agnes-st"
+    ],
+    "streetNames": [
+      "1st St",
+      "Agnes St"
+    ],
+    "pulsePointId": "2504431444"
+  },
+  {
+    "id": "2026-06-25T00:47:00Z_langley/80th-ave_langley/200th-st",
+    "timestamp": "2026-06-25T00:47:00Z",
+    "scrapedAt": "2026-06-25T01:23:06Z",
+    "address": "80TH AVE & 200TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/80th-ave",
+      "langley/200th-st"
+    ],
+    "streetNames": [
+      "80th Ave",
+      "200th St"
+    ],
+    "pulsePointId": "2504411647"
+  },
+  {
+    "id": "2026-06-25T00:35:00Z_chilliwack/mary-st",
+    "timestamp": "2026-06-25T00:35:00Z",
+    "scrapedAt": "2026-06-25T01:23:06Z",
+    "address": "MARY ST",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/mary-st"
+    ],
+    "streetNames": [
+      "Mary St"
+    ],
+    "pulsePointId": "2504403811"
+  },
+  {
     "id": "2026-06-25T00:07:00Z_vancouver/cook-st",
     "timestamp": "2026-06-25T00:07:00Z",
     "scrapedAt": "2026-06-25T00:23:15Z",
