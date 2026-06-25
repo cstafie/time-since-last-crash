@@ -269,8 +269,8 @@
     "name": "Trans Canada Hwy",
     "slug": "langley/trans-canada-hwy",
     "city": "Langley",
-    "lastIncident": "2026-06-22T10:54:00Z",
-    "count": 31
+    "lastIncident": "2026-06-25T22:47:00Z",
+    "count": 32
   },
   "maple-ridge/119th-ave": {
     "name": "119th Ave",
@@ -1928,8 +1928,8 @@
     "name": "Renfrew St",
     "slug": "vancouver/renfrew-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-28T15:49:00Z",
-    "count": 15
+    "lastIncident": "2026-06-25T22:14:00Z",
+    "count": 16
   },
   "vancouver/e-22nd-ave": {
     "name": "E 22nd Ave",
@@ -3860,8 +3860,8 @@
     "name": "Richards St",
     "slug": "vancouver/richards-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-20T17:46:00Z",
-    "count": 4
+    "lastIncident": "2026-06-25T22:47:00Z",
+    "count": 6
   },
   "vancouver/smithe-st": {
     "name": "Smithe St",
@@ -4791,8 +4791,8 @@
     "name": "Robson St",
     "slug": "vancouver/robson-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-18T23:20:00Z",
-    "count": 3
+    "lastIncident": "2026-06-25T22:47:00Z",
+    "count": 5
   },
   "vancouver/thurlow-st": {
     "name": "Thurlow St",
@@ -4910,8 +4910,8 @@
     "name": "Hwy 17",
     "slug": "delta/hwy-17",
     "city": "Delta",
-    "lastIncident": "2026-06-25T13:10:00Z",
-    "count": 16
+    "lastIncident": "2026-06-25T22:51:00Z",
+    "count": 17
   },
   "coquitlam/winslow-ave": {
     "name": "Winslow Ave",
@@ -5659,8 +5659,8 @@
     "name": "Como Lake Ave",
     "slug": "coquitlam/como-lake-ave",
     "city": "Coquitlam",
-    "lastIncident": "2026-05-24T20:02:00Z",
-    "count": 3
+    "lastIncident": "2026-06-25T22:48:00Z",
+    "count": 4
   },
   "white-rock/oxford-st": {
     "name": "Oxford St",
@@ -6751,8 +6751,8 @@
     "name": "70th Ave",
     "slug": "surrey/70th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-25T01:57:00Z",
-    "count": 2
+    "lastIncident": "2026-06-25T22:18:00Z",
+    "count": 3
   },
   "burnaby/dawson-st": {
     "name": "Dawson St",
@@ -12225,8 +12225,8 @@
     "name": "Tsawwassen Dr",
     "slug": "delta/tsawwassen-dr",
     "city": "Delta",
-    "lastIncident": "2026-06-14T19:33:00Z",
-    "count": 1
+    "lastIncident": "2026-06-25T22:51:00Z",
+    "count": 2
   },
   "mission/dunsmuir-st": {
     "name": "Dunsmuir St",
@@ -13073,6 +13073,27 @@
     "slug": "burnaby/tillicum-st",
     "city": "Burnaby",
     "lastIncident": "2026-06-25T19:44:00Z",
+    "count": 1
+  },
+  "coquitlam/claremont-st": {
+    "name": "Claremont St",
+    "slug": "coquitlam/claremont-st",
+    "city": "Coquitlam",
+    "lastIncident": "2026-06-25T22:48:00Z",
+    "count": 1
+  },
+  "langley/264th-street-onrp": {
+    "name": "264th Street Onrp",
+    "slug": "langley/264th-street-onrp",
+    "city": "Langley",
+    "lastIncident": "2026-06-25T22:47:00Z",
+    "count": 1
+  },
+  "vancouver/e-3rd-ave": {
+    "name": "E 3rd Ave",
+    "slug": "vancouver/e-3rd-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-25T22:14:00Z",
     "count": 1
   }
 }

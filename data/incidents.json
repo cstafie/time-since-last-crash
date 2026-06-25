@@ -1,5 +1,115 @@
 [
   {
+    "id": "2026-06-25T22:51:00Z_delta/tsawwassen-dr_delta/hwy-17",
+    "timestamp": "2026-06-25T22:51:00Z",
+    "scrapedAt": "2026-06-25T22:57:25Z",
+    "address": "TSAWWASSEN DR & HWY 17",
+    "city": "Delta",
+    "streets": [
+      "delta/tsawwassen-dr",
+      "delta/hwy-17"
+    ],
+    "streetNames": [
+      "Tsawwassen Dr",
+      "Hwy 17"
+    ],
+    "pulsePointId": "2505068803"
+  },
+  {
+    "id": "2026-06-25T22:48:00Z_coquitlam/claremont-st_coquitlam/como-lake-ave",
+    "timestamp": "2026-06-25T22:48:00Z",
+    "scrapedAt": "2026-06-25T22:57:25Z",
+    "address": "CLAREMONT ST & COMO LAKE AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/claremont-st",
+      "coquitlam/como-lake-ave"
+    ],
+    "streetNames": [
+      "Claremont St",
+      "Como Lake Ave"
+    ],
+    "pulsePointId": "2505066503"
+  },
+  {
+    "id": "2026-06-25T22:47:00Z_langley/trans-canada-hwy_langley/264th-street-onrp",
+    "timestamp": "2026-06-25T22:47:00Z",
+    "scrapedAt": "2026-06-25T22:57:25Z",
+    "address": "TRANS CANADA HWY & 264TH STREET ONRP",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy",
+      "langley/264th-street-onrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "264th Street Onrp"
+    ],
+    "pulsePointId": "2505065332"
+  },
+  {
+    "id": "2026-06-25T22:47:00Z_vancouver/robson-st_vancouver/richards-st",
+    "timestamp": "2026-06-25T22:47:00Z",
+    "scrapedAt": "2026-06-25T22:57:25Z",
+    "address": "ROBSON ST & RICHARDS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/robson-st",
+      "vancouver/richards-st"
+    ],
+    "streetNames": [
+      "Robson St",
+      "Richards St"
+    ],
+    "pulsePointId": "2505064663"
+  },
+  {
+    "id": "2026-06-25T22:46:00Z_vancouver/richards-st_vancouver/robson-st",
+    "timestamp": "2026-06-25T22:46:00Z",
+    "scrapedAt": "2026-06-25T22:57:25Z",
+    "address": "RICHARDS ST & ROBSON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/richards-st",
+      "vancouver/robson-st"
+    ],
+    "streetNames": [
+      "Richards St",
+      "Robson St"
+    ],
+    "pulsePointId": "2505064439"
+  },
+  {
+    "id": "2026-06-25T22:18:00Z_surrey/70th-ave",
+    "timestamp": "2026-06-25T22:18:00Z",
+    "scrapedAt": "2026-06-25T22:57:25Z",
+    "address": "70TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/70th-ave"
+    ],
+    "streetNames": [
+      "70th Ave"
+    ],
+    "pulsePointId": "2505043443"
+  },
+  {
+    "id": "2026-06-25T22:14:00Z_vancouver/renfrew-st_vancouver/e-3rd-ave",
+    "timestamp": "2026-06-25T22:14:00Z",
+    "scrapedAt": "2026-06-25T22:57:25Z",
+    "address": "RENFREW ST & E 3RD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/renfrew-st",
+      "vancouver/e-3rd-ave"
+    ],
+    "streetNames": [
+      "Renfrew St",
+      "E 3rd Ave"
+    ],
+    "pulsePointId": "2505042102"
+  },
+  {
     "id": "2026-06-25T21:44:00Z_vancouver/howe-st",
     "timestamp": "2026-06-25T21:44:00Z",
     "scrapedAt": "2026-06-25T22:04:09Z",

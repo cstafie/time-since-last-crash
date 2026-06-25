@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-06-25T22:48:00Z_coquitlam/claremont-st_coquitlam/como-lake-ave",
+      "timestamp": "2026-06-25T22:48:00Z",
+      "address": "CLAREMONT ST & COMO LAKE AVE",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/claremont-st",
+        "coquitlam/como-lake-ave"
+      ],
+      "streetNames": [
+        "Claremont St",
+        "Como Lake Ave"
+      ],
+      "pulsePointId": "2505066503"
+    },
+    {
       "id": "2026-05-24T20:02:00Z_coquitlam/banting-st_coquitlam/como-lake-ave",
       "timestamp": "2026-05-24T20:02:00Z",
       "address": "BANTING ST & COMO LAKE AVE",
@@ -49,6 +64,6 @@
       "pulsePointId": "2449631707"
     }
   ],
-  "lastIncident": "2026-05-24T20:02:00Z",
-  "count": 3
+  "lastIncident": "2026-06-25T22:48:00Z",
+  "count": 4
 }
