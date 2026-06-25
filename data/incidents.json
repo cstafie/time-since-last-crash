@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-06-25T06:32:00Z_mission/hwy-11_mission/london-avenue-ofrp",
+    "timestamp": "2026-06-25T06:32:00Z",
+    "scrapedAt": "2026-06-25T06:44:43Z",
+    "address": "HWY 11 & LONDON AVENUE OFRP",
+    "city": "Mission",
+    "streets": [
+      "mission/hwy-11",
+      "mission/london-avenue-ofrp"
+    ],
+    "streetNames": [
+      "Hwy 11",
+      "London Avenue Ofrp"
+    ],
+    "pulsePointId": "2504586133"
+  },
+  {
+    "id": "2026-06-25T06:03:00Z_vancouver/chancellor-blvd_vancouver/tasmania-cres",
+    "timestamp": "2026-06-25T06:03:00Z",
+    "scrapedAt": "2026-06-25T06:44:43Z",
+    "address": "CHANCELLOR BLVD & TASMANIA CRES",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/chancellor-blvd",
+      "vancouver/tasmania-cres"
+    ],
+    "streetNames": [
+      "Chancellor Blvd",
+      "Tasmania Cres"
+    ],
+    "pulsePointId": "2504575292"
+  },
+  {
+    "id": "2026-06-25T05:50:00Z_surrey/104th-ave",
+    "timestamp": "2026-06-25T05:50:00Z",
+    "scrapedAt": "2026-06-25T06:44:43Z",
+    "address": "104TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/104th-ave"
+    ],
+    "streetNames": [
+      "104th Ave"
+    ],
+    "pulsePointId": "2504570331"
+  },
+  {
+    "id": "2026-06-25T05:34:00Z_new-westminster/e-columbia-st",
+    "timestamp": "2026-06-25T05:34:00Z",
+    "scrapedAt": "2026-06-25T06:44:43Z",
+    "address": "E COLUMBIA ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/e-columbia-st"
+    ],
+    "streetNames": [
+      "E Columbia St"
+    ],
+    "pulsePointId": "2504562379"
+  },
+  {
     "id": "2026-06-25T04:36:00Z_port-coquitlam/westwood-st",
     "timestamp": "2026-06-25T04:36:00Z",
     "scrapedAt": "2026-06-25T05:16:42Z",

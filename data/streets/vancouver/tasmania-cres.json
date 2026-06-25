@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/tasmania-cres",
+  "name": "Tasmania Cres",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-25T06:03:00Z_vancouver/chancellor-blvd_vancouver/tasmania-cres",
+      "timestamp": "2026-06-25T06:03:00Z",
+      "address": "CHANCELLOR BLVD & TASMANIA CRES",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/chancellor-blvd",
+        "vancouver/tasmania-cres"
+      ],
+      "streetNames": [
+        "Chancellor Blvd",
+        "Tasmania Cres"
+      ],
+      "pulsePointId": "2504575292"
+    }
+  ],
+  "lastIncident": "2026-06-25T06:03:00Z",
+  "count": 1
+}
