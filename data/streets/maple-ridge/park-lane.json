@@ -1,6 +1,6 @@
 {
-  "slug": "maple-ridge/132nd-ave",
-  "name": "132nd Ave",
+  "slug": "maple-ridge/park-lane",
+  "name": "Park Lane",
   "city": "Maple Ridge",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Park Lane"
       ],
       "pulsePointId": "2504691741"
-    },
-    {
-      "id": "2026-03-14T09:17:00Z_maple-ridge/216th-st_maple-ridge/132nd-ave",
-      "timestamp": "2026-03-14T09:17:00Z",
-      "address": "216TH ST & 132ND AVE",
-      "city": "Maple Ridge",
-      "streets": [
-        "maple-ridge/216th-st",
-        "maple-ridge/132nd-ave"
-      ],
-      "streetNames": [
-        "216th St",
-        "132nd Ave"
-      ],
-      "pulsePointId": "2433794431"
     }
   ],
   "lastIncident": "2026-06-25T12:54:00Z",
-  "count": 2
+  "count": 1
 }

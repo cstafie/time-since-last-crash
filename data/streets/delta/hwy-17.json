@@ -4,6 +4,21 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-06-25T13:10:00Z_delta/hwy-17_delta/52nd-st",
+      "timestamp": "2026-06-25T13:10:00Z",
+      "address": "HWY 17 & 52ND ST",
+      "city": "Delta",
+      "streets": [
+        "delta/hwy-17",
+        "delta/52nd-st"
+      ],
+      "streetNames": [
+        "Hwy 17",
+        "52nd St"
+      ],
+      "pulsePointId": "2504697254"
+    },
+    {
       "id": "2026-06-20T19:01:00Z_delta/hwy-17_delta/56th-st",
       "timestamp": "2026-06-20T19:01:00Z",
       "address": "HWY 17 & 56TH ST",
@@ -207,6 +222,6 @@
       "pulsePointId": "2446023750"
     }
   ],
-  "lastIncident": "2026-06-20T19:01:00Z",
-  "count": 15
+  "lastIncident": "2026-06-25T13:10:00Z",
+  "count": 16
 }

@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-06-25T13:10:00Z_delta/hwy-17_delta/52nd-st",
+    "timestamp": "2026-06-25T13:10:00Z",
+    "scrapedAt": "2026-06-25T13:39:29Z",
+    "address": "HWY 17 & 52ND ST",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-17",
+      "delta/52nd-st"
+    ],
+    "streetNames": [
+      "Hwy 17",
+      "52nd St"
+    ],
+    "pulsePointId": "2504697254"
+  },
+  {
+    "id": "2026-06-25T12:54:00Z_maple-ridge/132nd-ave_maple-ridge/park-lane",
+    "timestamp": "2026-06-25T12:54:00Z",
+    "scrapedAt": "2026-06-25T13:39:29Z",
+    "address": "132ND AVE & PARK LANE",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/132nd-ave",
+      "maple-ridge/park-lane"
+    ],
+    "streetNames": [
+      "132nd Ave",
+      "Park Lane"
+    ],
+    "pulsePointId": "2504691741"
+  },
+  {
+    "id": "2026-06-25T12:51:00Z_surrey/132nd-st_surrey/96th-ave",
+    "timestamp": "2026-06-25T12:51:00Z",
+    "scrapedAt": "2026-06-25T13:39:29Z",
+    "address": "132ND ST & 96TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/132nd-st",
+      "surrey/96th-ave"
+    ],
+    "streetNames": [
+      "132nd St",
+      "96th Ave"
+    ],
+    "pulsePointId": "2504689881"
+  },
+  {
     "id": "2026-06-25T06:52:00Z_delta/hwy-91",
     "timestamp": "2026-06-25T06:52:00Z",
     "scrapedAt": "2026-06-25T08:05:38Z",
