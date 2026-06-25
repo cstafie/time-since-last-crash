@@ -4,6 +4,19 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-25T01:28:00Z_surrey/hwy-99",
+      "timestamp": "2026-06-25T01:28:00Z",
+      "address": "HWY 99",
+      "city": "Surrey",
+      "streets": [
+        "surrey/hwy-99"
+      ],
+      "streetNames": [
+        "Hwy 99"
+      ],
+      "pulsePointId": "2504437537"
+    },
+    {
       "id": "2026-06-19T23:58:00Z_surrey/hwy-99",
       "timestamp": "2026-06-19T23:58:00Z",
       "address": "HWY 99",
@@ -123,6 +136,6 @@
       "pulsePointId": "2442777136"
     }
   ],
-  "lastIncident": "2026-06-19T23:58:00Z",
-  "count": 9
+  "lastIncident": "2026-06-25T01:28:00Z",
+  "count": 10
 }

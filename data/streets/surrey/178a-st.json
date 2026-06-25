@@ -1,6 +1,6 @@
 {
-  "slug": "surrey/70th-ave",
-  "name": "70th Ave",
+  "slug": "surrey/178a-st",
+  "name": "178a St",
   "city": "Surrey",
   "incidents": [
     {
@@ -17,21 +17,8 @@
         "178a St"
       ],
       "pulsePointId": "2504455066"
-    },
-    {
-      "id": "2026-04-14T23:46:00Z_surrey/70th-ave",
-      "timestamp": "2026-04-14T23:46:00Z",
-      "address": "70TH AVE",
-      "city": "Surrey",
-      "streets": [
-        "surrey/70th-ave"
-      ],
-      "streetNames": [
-        "70th Ave"
-      ],
-      "pulsePointId": "2454383244"
     }
   ],
   "lastIncident": "2026-06-25T01:57:00Z",
-  "count": 2
+  "count": 1
 }
