@@ -4,6 +4,21 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-06-25T00:07:00Z_delta/90th-ave_delta/116th-st",
+      "timestamp": "2026-06-25T00:07:00Z",
+      "address": "90TH AVE & 116TH ST",
+      "city": "Delta",
+      "streets": [
+        "delta/90th-ave",
+        "delta/116th-st"
+      ],
+      "streetNames": [
+        "90th Ave",
+        "116th St"
+      ],
+      "pulsePointId": "2504389407"
+    },
+    {
       "id": "2026-06-07T15:54:00Z_delta/90th-ave_delta/116th-st",
       "timestamp": "2026-06-07T15:54:00Z",
       "address": "90TH AVE & 116TH ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2477492953"
     }
   ],
-  "lastIncident": "2026-06-07T15:54:00Z",
-  "count": 2
+  "lastIncident": "2026-06-25T00:07:00Z",
+  "count": 3
 }

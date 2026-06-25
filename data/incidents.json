@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-06-25T00:07:00Z_vancouver/cook-st",
+    "timestamp": "2026-06-25T00:07:00Z",
+    "scrapedAt": "2026-06-25T00:23:15Z",
+    "address": "COOK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/cook-st"
+    ],
+    "streetNames": [
+      "Cook St"
+    ],
+    "pulsePointId": "2504388036"
+  },
+  {
+    "id": "2026-06-25T00:07:00Z_delta/90th-ave_delta/116th-st",
+    "timestamp": "2026-06-25T00:07:00Z",
+    "scrapedAt": "2026-06-25T00:23:15Z",
+    "address": "90TH AVE & 116TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/90th-ave",
+      "delta/116th-st"
+    ],
+    "streetNames": [
+      "90th Ave",
+      "116th St"
+    ],
+    "pulsePointId": "2504389407"
+  },
+  {
+    "id": "2026-06-25T00:01:00Z_coquitlam/hwy-7b-ofrp",
+    "timestamp": "2026-06-25T00:01:00Z",
+    "scrapedAt": "2026-06-25T00:23:15Z",
+    "address": "HWY 7B OFRP",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/hwy-7b-ofrp"
+    ],
+    "streetNames": [
+      "Hwy 7b Ofrp"
+    ],
+    "pulsePointId": "2504384918"
+  },
+  {
     "id": "2026-06-24T23:16:00Z_vancouver/kaslo-st_vancouver/e-hastings-st",
     "timestamp": "2026-06-24T23:16:00Z",
     "scrapedAt": "2026-06-24T23:22:14Z",
