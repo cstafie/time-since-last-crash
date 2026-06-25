@@ -4,6 +4,19 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-06-25T06:52:00Z_delta/hwy-91",
+      "timestamp": "2026-06-25T06:52:00Z",
+      "address": "HWY 91",
+      "city": "Delta",
+      "streets": [
+        "delta/hwy-91"
+      ],
+      "streetNames": [
+        "Hwy 91"
+      ],
+      "pulsePointId": "2504593501"
+    },
+    {
       "id": "2026-05-22T22:56:00Z_delta/pullout_delta/hwy-91",
       "timestamp": "2026-05-22T22:56:00Z",
       "address": "PULLOUT & HWY 91",
@@ -112,6 +125,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-22T22:56:00Z",
-  "count": 8
+  "lastIncident": "2026-06-25T06:52:00Z",
+  "count": 9
 }
