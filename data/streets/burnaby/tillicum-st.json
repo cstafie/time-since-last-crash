@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/tillicum-st",
+  "name": "Tillicum St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-06-25T19:44:00Z_burnaby/north-fraser-way_burnaby/tillicum-st",
+      "timestamp": "2026-06-25T19:44:00Z",
+      "address": "NORTH FRASER WAY & TILLICUM ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/north-fraser-way",
+        "burnaby/tillicum-st"
+      ],
+      "streetNames": [
+        "North Fraser Way",
+        "Tillicum St"
+      ],
+      "pulsePointId": "2504932166"
+    }
+  ],
+  "lastIncident": "2026-06-25T19:44:00Z",
+  "count": 1
+}

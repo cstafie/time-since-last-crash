@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-06-25T19:53:00Z_langley/200th-st_langley/57a-ave",
+      "timestamp": "2026-06-25T19:53:00Z",
+      "address": "200TH ST & 57A AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/200th-st",
+        "langley/57a-ave"
+      ],
+      "streetNames": [
+        "200th St",
+        "57a Ave"
+      ],
+      "pulsePointId": "2504939719"
+    },
+    {
       "id": "2026-06-25T00:47:00Z_langley/80th-ave_langley/200th-st",
       "timestamp": "2026-06-25T00:47:00Z",
       "address": "80TH AVE & 200TH ST",
@@ -529,6 +544,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-25T00:47:00Z",
-  "count": 36
+  "lastIncident": "2026-06-25T19:53:00Z",
+  "count": 37
 }

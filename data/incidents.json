@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-06-25T20:20:00Z_chilliwack/vedder-rd",
+    "timestamp": "2026-06-25T20:20:00Z",
+    "scrapedAt": "2026-06-25T20:36:20Z",
+    "address": "VEDDER RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/vedder-rd"
+    ],
+    "streetNames": [
+      "Vedder Rd"
+    ],
+    "pulsePointId": "2504959576"
+  },
+  {
+    "id": "2026-06-25T19:53:00Z_burnaby/gilley-ave",
+    "timestamp": "2026-06-25T19:53:00Z",
+    "scrapedAt": "2026-06-25T20:36:20Z",
+    "address": "GILLEY AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/gilley-ave"
+    ],
+    "streetNames": [
+      "Gilley Ave"
+    ],
+    "pulsePointId": "2504940455"
+  },
+  {
+    "id": "2026-06-25T19:53:00Z_langley/200th-st_langley/57a-ave",
+    "timestamp": "2026-06-25T19:53:00Z",
+    "scrapedAt": "2026-06-25T20:36:20Z",
+    "address": "200TH ST & 57A AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/200th-st",
+      "langley/57a-ave"
+    ],
+    "streetNames": [
+      "200th St",
+      "57a Ave"
+    ],
+    "pulsePointId": "2504939719"
+  },
+  {
+    "id": "2026-06-25T19:44:00Z_burnaby/north-fraser-way_burnaby/tillicum-st",
+    "timestamp": "2026-06-25T19:44:00Z",
+    "scrapedAt": "2026-06-25T20:36:20Z",
+    "address": "NORTH FRASER WAY & TILLICUM ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/north-fraser-way",
+      "burnaby/tillicum-st"
+    ],
+    "streetNames": [
+      "North Fraser Way",
+      "Tillicum St"
+    ],
+    "pulsePointId": "2504932166"
+  },
+  {
     "id": "2026-06-25T17:43:00Z_north-vancouver/mountain-hwy_north-vancouver/seylynn-cres",
     "timestamp": "2026-06-25T17:43:00Z",
     "scrapedAt": "2026-06-25T18:38:28Z",
