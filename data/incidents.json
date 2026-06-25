@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-25T04:36:00Z_port-coquitlam/westwood-st",
+    "timestamp": "2026-06-25T04:36:00Z",
+    "scrapedAt": "2026-06-25T05:16:42Z",
+    "address": "WESTWOOD ST",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/westwood-st"
+    ],
+    "streetNames": [
+      "Westwood St"
+    ],
+    "pulsePointId": "2504536354"
+  },
+  {
+    "id": "2026-06-25T04:12:00Z_chilliwack/hopedale-rd_chilliwack/yale-rd",
+    "timestamp": "2026-06-25T04:12:00Z",
+    "scrapedAt": "2026-06-25T05:16:42Z",
+    "address": "HOPEDALE RD & YALE RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/hopedale-rd",
+      "chilliwack/yale-rd"
+    ],
+    "streetNames": [
+      "Hopedale Rd",
+      "Yale Rd"
+    ],
+    "pulsePointId": "2504525760"
+  },
+  {
     "id": "2026-06-25T03:36:00Z_surrey/104th-ave",
     "timestamp": "2026-06-25T03:36:00Z",
     "scrapedAt": "2026-06-25T03:43:29Z",

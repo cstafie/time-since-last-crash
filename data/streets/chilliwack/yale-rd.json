@@ -4,6 +4,21 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-06-25T04:12:00Z_chilliwack/hopedale-rd_chilliwack/yale-rd",
+      "timestamp": "2026-06-25T04:12:00Z",
+      "address": "HOPEDALE RD & YALE RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/hopedale-rd",
+        "chilliwack/yale-rd"
+      ],
+      "streetNames": [
+        "Hopedale Rd",
+        "Yale Rd"
+      ],
+      "pulsePointId": "2504525760"
+    },
+    {
       "id": "2026-06-17T20:35:00Z_chilliwack/yale-rd_chilliwack/spadina-ave",
       "timestamp": "2026-06-17T20:35:00Z",
       "address": "YALE RD & SPADINA AVE",
@@ -249,6 +264,6 @@
       "pulsePointId": "2436752247"
     }
   ],
-  "lastIncident": "2026-06-17T20:35:00Z",
-  "count": 17
+  "lastIncident": "2026-06-25T04:12:00Z",
+  "count": 18
 }

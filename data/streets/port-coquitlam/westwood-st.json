@@ -4,6 +4,19 @@
   "city": "Port Coquitlam",
   "incidents": [
     {
+      "id": "2026-06-25T04:36:00Z_port-coquitlam/westwood-st",
+      "timestamp": "2026-06-25T04:36:00Z",
+      "address": "WESTWOOD ST",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/westwood-st"
+      ],
+      "streetNames": [
+        "Westwood St"
+      ],
+      "pulsePointId": "2504536354"
+    },
+    {
       "id": "2026-05-28T22:46:00Z_port-coquitlam/westwood-st_port-coquitlam/davies-ave",
       "timestamp": "2026-05-28T22:46:00Z",
       "address": "WESTWOOD ST & DAVIES AVE",
@@ -34,6 +47,6 @@
       "pulsePointId": "2459684615"
     }
   ],
-  "lastIncident": "2026-05-28T22:46:00Z",
-  "count": 2
+  "lastIncident": "2026-06-25T04:36:00Z",
+  "count": 3
 }
