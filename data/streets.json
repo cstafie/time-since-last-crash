@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-24T13:33:00Z",
-    "count": 52
+    "lastIncident": "2026-06-25T16:18:00Z",
+    "count": 53
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",
@@ -13038,6 +13038,13 @@
     "slug": "maple-ridge/116b-ave",
     "city": "Maple Ridge",
     "lastIncident": "2026-06-25T15:43:00Z",
+    "count": 1
+  },
+  "vancouver/e-10th-ave": {
+    "name": "E 10th Ave",
+    "slug": "vancouver/e-10th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-25T16:18:00Z",
     "count": 1
   }
 }

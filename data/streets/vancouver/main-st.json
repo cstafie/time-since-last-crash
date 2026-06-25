@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-25T16:18:00Z_vancouver/main-st_vancouver/e-10th-ave",
+      "timestamp": "2026-06-25T16:18:00Z",
+      "address": "MAIN ST & E 10TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/main-st",
+        "vancouver/e-10th-ave"
+      ],
+      "streetNames": [
+        "Main St",
+        "E 10th Ave"
+      ],
+      "pulsePointId": "2504793480"
+    },
+    {
       "id": "2026-06-24T13:33:00Z_vancouver/main-st_vancouver/keefer-st",
       "timestamp": "2026-06-24T13:33:00Z",
       "address": "MAIN ST & KEEFER ST",
@@ -768,6 +783,6 @@
       "pulsePointId": "2432937969"
     }
   ],
-  "lastIncident": "2026-06-24T13:33:00Z",
-  "count": 52
+  "lastIncident": "2026-06-25T16:18:00Z",
+  "count": 53
 }
