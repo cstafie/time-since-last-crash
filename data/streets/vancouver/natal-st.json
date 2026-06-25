@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/natal-st",
+  "name": "Natal St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-25T13:39:00Z_vancouver/grandview-hwy_vancouver/natal-st",
+      "timestamp": "2026-06-25T13:39:00Z",
+      "address": "GRANDVIEW HWY & NATAL ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/grandview-hwy",
+        "vancouver/natal-st"
+      ],
+      "streetNames": [
+        "Grandview Hwy",
+        "Natal St"
+      ],
+      "pulsePointId": "2504709312"
+    }
+  ],
+  "lastIncident": "2026-06-25T13:39:00Z",
+  "count": 1
+}

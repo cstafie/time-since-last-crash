@@ -7934,8 +7934,8 @@
     "name": "Grandview Hwy",
     "slug": "vancouver/grandview-hwy",
     "city": "Vancouver",
-    "lastIncident": "2026-06-18T22:38:00Z",
-    "count": 4
+    "lastIncident": "2026-06-25T13:39:00Z",
+    "count": 5
   },
   "surrey/9595-king-george-blvd": {
     "name": "9595 King George Blvd",
@@ -13024,6 +13024,13 @@
     "slug": "maple-ridge/park-lane",
     "city": "Maple Ridge",
     "lastIncident": "2026-06-25T12:54:00Z",
+    "count": 1
+  },
+  "vancouver/natal-st": {
+    "name": "Natal St",
+    "slug": "vancouver/natal-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-25T13:39:00Z",
     "count": 1
   }
 }

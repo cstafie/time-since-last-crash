@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-25T13:39:00Z_vancouver/grandview-hwy_vancouver/natal-st",
+    "timestamp": "2026-06-25T13:39:00Z",
+    "scrapedAt": "2026-06-25T14:54:35Z",
+    "address": "GRANDVIEW HWY & NATAL ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/grandview-hwy",
+      "vancouver/natal-st"
+    ],
+    "streetNames": [
+      "Grandview Hwy",
+      "Natal St"
+    ],
+    "pulsePointId": "2504709312"
+  },
+  {
     "id": "2026-06-25T13:10:00Z_delta/hwy-17_delta/52nd-st",
     "timestamp": "2026-06-25T13:10:00Z",
     "scrapedAt": "2026-06-25T13:39:29Z",
