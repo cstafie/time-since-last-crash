@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-25T21:44:00Z_vancouver/howe-st",
+      "timestamp": "2026-06-25T21:44:00Z",
+      "address": "HOWE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/howe-st"
+      ],
+      "streetNames": [
+        "Howe St"
+      ],
+      "pulsePointId": "2505019901"
+    },
+    {
       "id": "2026-06-17T21:57:00Z_vancouver/w-georgia-st_vancouver/howe-st",
       "timestamp": "2026-06-17T21:57:00Z",
       "address": "W GEORGIA ST & HOWE ST",
@@ -79,6 +92,6 @@
       "pulsePointId": "2450716796"
     }
   ],
-  "lastIncident": "2026-06-17T21:57:00Z",
-  "count": 5
+  "lastIncident": "2026-06-25T21:44:00Z",
+  "count": 6
 }
