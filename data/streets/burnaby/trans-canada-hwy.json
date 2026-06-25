@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-25T02:40:00Z_burnaby/trans-canada-hwy_burnaby/kensington-avenue-ofrp",
+      "timestamp": "2026-06-25T02:40:00Z",
+      "address": "TRANS CANADA HWY & KENSINGTON AVENUE OFRP",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/trans-canada-hwy",
+        "burnaby/kensington-avenue-ofrp"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy",
+        "Kensington Avenue Ofrp"
+      ],
+      "pulsePointId": "2504478623"
+    },
+    {
       "id": "2026-06-24T18:18:00Z_burnaby/trans-canada-hwy_burnaby/kensington-avenue-ofrp",
       "timestamp": "2026-06-24T18:18:00Z",
       "address": "TRANS CANADA HWY & KENSINGTON AVENUE OFRP",
@@ -447,6 +462,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-24T18:18:00Z",
-  "count": 32
+  "lastIncident": "2026-06-25T02:40:00Z",
+  "count": 33
 }

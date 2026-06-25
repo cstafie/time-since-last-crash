@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-25T03:36:00Z_surrey/104th-ave",
+    "timestamp": "2026-06-25T03:36:00Z",
+    "scrapedAt": "2026-06-25T03:43:29Z",
+    "address": "104TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/104th-ave"
+    ],
+    "streetNames": [
+      "104th Ave"
+    ],
+    "pulsePointId": "2504506983"
+  },
+  {
+    "id": "2026-06-25T02:40:00Z_burnaby/trans-canada-hwy_burnaby/kensington-avenue-ofrp",
+    "timestamp": "2026-06-25T02:40:00Z",
+    "scrapedAt": "2026-06-25T03:43:29Z",
+    "address": "TRANS CANADA HWY & KENSINGTON AVENUE OFRP",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy",
+      "burnaby/kensington-avenue-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "Kensington Avenue Ofrp"
+    ],
+    "pulsePointId": "2504478623"
+  },
+  {
     "id": "2026-06-25T01:57:00Z_surrey/70th-ave_surrey/178a-st",
     "timestamp": "2026-06-25T01:57:00Z",
     "scrapedAt": "2026-06-25T02:16:00Z",
