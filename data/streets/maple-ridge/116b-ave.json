@@ -1,0 +1,24 @@
+{
+  "slug": "maple-ridge/116b-ave",
+  "name": "116b Ave",
+  "city": "Maple Ridge",
+  "incidents": [
+    {
+      "id": "2026-06-25T15:43:00Z_maple-ridge/203rd-st_maple-ridge/116b-ave",
+      "timestamp": "2026-06-25T15:43:00Z",
+      "address": "203RD ST & 116B AVE",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/203rd-st",
+        "maple-ridge/116b-ave"
+      ],
+      "streetNames": [
+        "203rd St",
+        "116b Ave"
+      ],
+      "pulsePointId": "2504773950"
+    }
+  ],
+  "lastIncident": "2026-06-25T15:43:00Z",
+  "count": 1
+}

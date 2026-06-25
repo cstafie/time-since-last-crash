@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-06-25T15:43:00Z_maple-ridge/203rd-st_maple-ridge/116b-ave",
+      "timestamp": "2026-06-25T15:43:00Z",
+      "address": "203RD ST & 116B AVE",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/203rd-st",
+        "maple-ridge/116b-ave"
+      ],
+      "streetNames": [
+        "203rd St",
+        "116b Ave"
+      ],
+      "pulsePointId": "2504773950"
+    },
+    {
       "id": "2026-06-11T23:29:00Z_maple-ridge/203rd-st_maple-ridge/lougheed-hwy",
       "timestamp": "2026-06-11T23:29:00Z",
       "address": "203RD ST & LOUGHEED HWY",
@@ -78,6 +93,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-11T23:29:00Z",
-  "count": 5
+  "lastIncident": "2026-06-25T15:43:00Z",
+  "count": 6
 }

@@ -283,8 +283,8 @@
     "name": "203rd St",
     "slug": "maple-ridge/203rd-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-06-11T23:29:00Z",
-    "count": 5
+    "lastIncident": "2026-06-25T15:43:00Z",
+    "count": 6
   },
   "maple-ridge/207th-st": {
     "name": "207th St",
@@ -13031,6 +13031,13 @@
     "slug": "vancouver/natal-st",
     "city": "Vancouver",
     "lastIncident": "2026-06-25T13:39:00Z",
+    "count": 1
+  },
+  "maple-ridge/116b-ave": {
+    "name": "116b Ave",
+    "slug": "maple-ridge/116b-ave",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-06-25T15:43:00Z",
     "count": 1
   }
 }
