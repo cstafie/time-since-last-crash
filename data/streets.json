@@ -1949,8 +1949,8 @@
     "name": "Trans Canada Hwy",
     "slug": "abbotsford/trans-canada-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-21T04:08:00Z",
-    "count": 43
+    "lastIncident": "2026-06-25T23:18:00Z",
+    "count": 44
   },
   "vancouver/w-16th-ave": {
     "name": "W 16th Ave",
@@ -4315,8 +4315,8 @@
     "name": "Mt Lehman Road Ofrp",
     "slug": "abbotsford/mt-lehman-road-ofrp",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-24T15:13:00Z",
-    "count": 3
+    "lastIncident": "2026-06-25T23:18:00Z",
+    "count": 4
   },
   "abbotsford/edgehill-ave": {
     "name": "Edgehill Ave",
