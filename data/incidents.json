@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-06-26T04:48:00Z_mission/lougheed-hwy_mission/hayward-conn",
+    "timestamp": "2026-06-26T04:48:00Z",
+    "scrapedAt": "2026-06-26T05:21:54Z",
+    "address": "LOUGHEED HWY & HAYWARD CONN",
+    "city": "Mission",
+    "streets": [
+      "mission/lougheed-hwy",
+      "mission/hayward-conn"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "Hayward Conn"
+    ],
+    "pulsePointId": "2505264389"
+  },
+  {
+    "id": "2026-06-26T04:05:00Z_vancouver/argyle-st_vancouver/se-marine-dr",
+    "timestamp": "2026-06-26T04:05:00Z",
+    "scrapedAt": "2026-06-26T05:21:54Z",
+    "address": "ARGYLE ST & SE MARINE DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/argyle-st",
+      "vancouver/se-marine-dr"
+    ],
+    "streetNames": [
+      "Argyle St",
+      "Se Marine Dr"
+    ],
+    "pulsePointId": "2505245665"
+  },
+  {
+    "id": "2026-06-26T03:47:00Z_coquitlam/lougheed-hwy",
+    "timestamp": "2026-06-26T03:47:00Z",
+    "scrapedAt": "2026-06-26T05:21:54Z",
+    "address": "LOUGHEED HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2505238186"
+  },
+  {
     "id": "2026-06-26T03:23:00Z_abbotsford/townline-rd_abbotsford/southern-dr",
     "timestamp": "2026-06-26T03:23:00Z",
     "scrapedAt": "2026-06-26T03:43:39Z",
