@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-26T14:14:00Z_surrey/golden-ears-conn_surrey/golden-ears-way",
+    "timestamp": "2026-06-26T14:14:00Z",
+    "scrapedAt": "2026-06-26T14:49:16Z",
+    "address": "GOLDEN EARS CONN & GOLDEN EARS WAY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/golden-ears-conn",
+      "surrey/golden-ears-way"
+    ],
+    "streetNames": [
+      "Golden Ears Conn",
+      "Golden Ears Way"
+    ],
+    "pulsePointId": "2505444464"
+  },
+  {
+    "id": "2026-06-26T13:39:00Z_delta/hwy-17",
+    "timestamp": "2026-06-26T13:39:00Z",
+    "scrapedAt": "2026-06-26T14:49:16Z",
+    "address": "HWY 17",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-17"
+    ],
+    "streetNames": [
+      "Hwy 17"
+    ],
+    "pulsePointId": "2505431680"
+  },
+  {
     "id": "2026-06-26T12:54:00Z_abbotsford/harris-rd",
     "timestamp": "2026-06-26T12:54:00Z",
     "scrapedAt": "2026-06-26T13:36:33Z",

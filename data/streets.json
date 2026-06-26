@@ -3510,8 +3510,8 @@
     "name": "Golden Ears Way",
     "slug": "surrey/golden-ears-way",
     "city": "Surrey",
-    "lastIncident": "2026-06-20T17:42:00Z",
-    "count": 4
+    "lastIncident": "2026-06-26T14:14:00Z",
+    "count": 5
   },
   "surrey/144a-st": {
     "name": "144a St",
@@ -4245,8 +4245,8 @@
     "name": "Golden Ears Conn",
     "slug": "surrey/golden-ears-conn",
     "city": "Surrey",
-    "lastIncident": "2026-03-27T23:10:00Z",
-    "count": 1
+    "lastIncident": "2026-06-26T14:14:00Z",
+    "count": 2
   },
   "surrey/179th-st": {
     "name": "179th St",
@@ -4910,8 +4910,8 @@
     "name": "Hwy 17",
     "slug": "delta/hwy-17",
     "city": "Delta",
-    "lastIncident": "2026-06-25T22:51:00Z",
-    "count": 17
+    "lastIncident": "2026-06-26T13:39:00Z",
+    "count": 18
   },
   "coquitlam/winslow-ave": {
     "name": "Winslow Ave",

@@ -4,6 +4,19 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-06-26T13:39:00Z_delta/hwy-17",
+      "timestamp": "2026-06-26T13:39:00Z",
+      "address": "HWY 17",
+      "city": "Delta",
+      "streets": [
+        "delta/hwy-17"
+      ],
+      "streetNames": [
+        "Hwy 17"
+      ],
+      "pulsePointId": "2505431680"
+    },
+    {
       "id": "2026-06-25T22:51:00Z_delta/tsawwassen-dr_delta/hwy-17",
       "timestamp": "2026-06-25T22:51:00Z",
       "address": "TSAWWASSEN DR & HWY 17",
@@ -237,6 +250,6 @@
       "pulsePointId": "2446023750"
     }
   ],
-  "lastIncident": "2026-06-25T22:51:00Z",
-  "count": 17
+  "lastIncident": "2026-06-26T13:39:00Z",
+  "count": 18
 }
