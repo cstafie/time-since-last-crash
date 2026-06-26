@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-06-26T03:23:00Z_abbotsford/townline-rd_abbotsford/southern-dr",
+    "timestamp": "2026-06-26T03:23:00Z",
+    "scrapedAt": "2026-06-26T03:43:39Z",
+    "address": "TOWNLINE RD & SOUTHERN DR",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/townline-rd",
+      "abbotsford/southern-dr"
+    ],
+    "streetNames": [
+      "Townline Rd",
+      "Southern Dr"
+    ],
+    "pulsePointId": "2505225315"
+  },
+  {
+    "id": "2026-06-26T02:52:00Z_surrey/144th-st_surrey/64th-ave",
+    "timestamp": "2026-06-26T02:52:00Z",
+    "scrapedAt": "2026-06-26T03:43:39Z",
+    "address": "144TH ST & 64TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/144th-st",
+      "surrey/64th-ave"
+    ],
+    "streetNames": [
+      "144th St",
+      "64th Ave"
+    ],
+    "pulsePointId": "2505210089"
+  },
+  {
+    "id": "2026-06-26T02:39:00Z_surrey/32nd-ave_surrey/188th-st",
+    "timestamp": "2026-06-26T02:39:00Z",
+    "scrapedAt": "2026-06-26T03:43:39Z",
+    "address": "32ND AVE & 188TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/32nd-ave",
+      "surrey/188th-st"
+    ],
+    "streetNames": [
+      "32nd Ave",
+      "188th St"
+    ],
+    "pulsePointId": "2505205069"
+  },
+  {
     "id": "2026-06-26T01:23:00Z_abbotsford/cardinal-ave_abbotsford/mt-lehman-rd",
     "timestamp": "2026-06-26T01:23:00Z",
     "scrapedAt": "2026-06-26T02:16:02Z",

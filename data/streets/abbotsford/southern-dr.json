@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-26T03:23:00Z_abbotsford/townline-rd_abbotsford/southern-dr",
+      "timestamp": "2026-06-26T03:23:00Z",
+      "address": "TOWNLINE RD & SOUTHERN DR",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/townline-rd",
+        "abbotsford/southern-dr"
+      ],
+      "streetNames": [
+        "Townline Rd",
+        "Southern Dr"
+      ],
+      "pulsePointId": "2505225315"
+    },
+    {
       "id": "2026-05-21T14:49:00Z_abbotsford/southern-dr_abbotsford/townline-rd",
       "timestamp": "2026-05-21T14:49:00Z",
       "address": "SOUTHERN DR & TOWNLINE RD",
@@ -32,6 +47,6 @@
       "pulsePointId": "2448209631"
     }
   ],
-  "lastIncident": "2026-05-21T14:49:00Z",
-  "count": 2
+  "lastIncident": "2026-06-26T03:23:00Z",
+  "count": 3
 }

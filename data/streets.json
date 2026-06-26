@@ -598,8 +598,8 @@
     "name": "64th Ave",
     "slug": "surrey/64th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-17T22:25:00Z",
-    "count": 24
+    "lastIncident": "2026-06-26T02:52:00Z",
+    "count": 25
   },
   "surrey/72a-ave": {
     "name": "72a Ave",
@@ -850,8 +850,8 @@
     "name": "32nd Ave",
     "slug": "surrey/32nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-26T00:11:00Z",
-    "count": 14
+    "lastIncident": "2026-06-26T02:39:00Z",
+    "count": 15
   },
   "langley/30th-ave": {
     "name": "30th Ave",
@@ -1067,8 +1067,8 @@
     "name": "Townline Rd",
     "slug": "abbotsford/townline-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-02T23:37:00Z",
-    "count": 8
+    "lastIncident": "2026-06-26T03:23:00Z",
+    "count": 9
   },
   "coquitlam/mariner-way": {
     "name": "Mariner Way",
@@ -1501,8 +1501,8 @@
     "name": "144th St",
     "slug": "surrey/144th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-22T23:30:00Z",
-    "count": 38
+    "lastIncident": "2026-06-26T02:52:00Z",
+    "count": 39
   },
   "north-vancouver/seymour-blvd": {
     "name": "Seymour Blvd",
@@ -4966,8 +4966,8 @@
     "name": "188th St",
     "slug": "surrey/188th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-21T00:43:00Z",
-    "count": 7
+    "lastIncident": "2026-06-26T02:39:00Z",
+    "count": 8
   },
   "abbotsford/valdes-dr": {
     "name": "Valdes Dr",
@@ -5491,8 +5491,8 @@
     "name": "Southern Dr",
     "slug": "abbotsford/southern-dr",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-21T14:49:00Z",
-    "count": 2
+    "lastIncident": "2026-06-26T03:23:00Z",
+    "count": 3
   },
   "langley/douglas-cres": {
     "name": "Douglas Cres",
