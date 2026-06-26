@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-06-26T22:45:00Z_abbotsford/2596-mcmillan-rd",
+    "timestamp": "2026-06-26T22:45:00Z",
+    "scrapedAt": "2026-06-26T22:50:37Z",
+    "address": "2596 MCMILLAN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/2596-mcmillan-rd"
+    ],
+    "streetNames": [
+      "2596 Mcmillan Rd"
+    ],
+    "pulsePointId": "2505770895"
+  },
+  {
+    "id": "2026-06-26T22:44:00Z_surrey/17a-ave_surrey/154th-st",
+    "timestamp": "2026-06-26T22:44:00Z",
+    "scrapedAt": "2026-06-26T22:50:37Z",
+    "address": "17A AVE & 154TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/17a-ave",
+      "surrey/154th-st"
+    ],
+    "streetNames": [
+      "17a Ave",
+      "154th St"
+    ],
+    "pulsePointId": "2505768972"
+  },
+  {
+    "id": "2026-06-26T22:23:00Z_burnaby/canada-way_burnaby/14th-ave",
+    "timestamp": "2026-06-26T22:23:00Z",
+    "scrapedAt": "2026-06-26T22:50:37Z",
+    "address": "CANADA WAY & 14TH AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/canada-way",
+      "burnaby/14th-ave"
+    ],
+    "streetNames": [
+      "Canada Way",
+      "14th Ave"
+    ],
+    "pulsePointId": "2505754108"
+  },
+  {
     "id": "2026-06-26T22:19:00Z_burnaby/broadway_burnaby/gaglardi-way",
     "timestamp": "2026-06-26T22:19:00Z",
     "scrapedAt": "2026-06-26T22:22:36Z",

@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-26T22:23:00Z_burnaby/canada-way_burnaby/14th-ave",
+      "timestamp": "2026-06-26T22:23:00Z",
+      "address": "CANADA WAY & 14TH AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/canada-way",
+        "burnaby/14th-ave"
+      ],
+      "streetNames": [
+        "Canada Way",
+        "14th Ave"
+      ],
+      "pulsePointId": "2505754108"
+    },
+    {
       "id": "2026-06-21T19:41:00Z_burnaby/canada-way_burnaby/willingdon-ave",
       "timestamp": "2026-06-21T19:41:00Z",
       "address": "CANADA WAY & WILLINGDON AVE",
@@ -385,6 +400,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-21T19:41:00Z",
-  "count": 26
+  "lastIncident": "2026-06-26T22:23:00Z",
+  "count": 27
 }

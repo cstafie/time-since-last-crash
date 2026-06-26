@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/2596-mcmillan-rd",
+  "name": "2596 Mcmillan Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-06-26T22:45:00Z_abbotsford/2596-mcmillan-rd",
+      "timestamp": "2026-06-26T22:45:00Z",
+      "address": "2596 MCMILLAN RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/2596-mcmillan-rd"
+      ],
+      "streetNames": [
+        "2596 Mcmillan Rd"
+      ],
+      "pulsePointId": "2505770895"
+    }
+  ],
+  "lastIncident": "2026-06-26T22:45:00Z",
+  "count": 1
+}
