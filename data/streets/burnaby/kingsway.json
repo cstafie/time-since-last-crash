@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-26T17:58:00Z_burnaby/kingsway_burnaby/grimmer-st",
+      "timestamp": "2026-06-26T17:58:00Z",
+      "address": "KINGSWAY & GRIMMER ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/kingsway",
+        "burnaby/grimmer-st"
+      ],
+      "streetNames": [
+        "Kingsway",
+        "Grimmer St"
+      ],
+      "pulsePointId": "2505569257"
+    },
+    {
       "id": "2026-06-25T23:40:00Z_burnaby/kingsway",
       "timestamp": "2026-06-25T23:40:00Z",
       "address": "KINGSWAY",
@@ -315,6 +330,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-25T23:40:00Z",
-  "count": 22
+  "lastIncident": "2026-06-26T17:58:00Z",
+  "count": 23
 }

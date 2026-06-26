@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-06-26T18:18:00Z_surrey/76th-ave_surrey/128th-st",
+    "timestamp": "2026-06-26T18:18:00Z",
+    "scrapedAt": "2026-06-26T18:30:03Z",
+    "address": "76TH AVE & 128TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/76th-ave",
+      "surrey/128th-st"
+    ],
+    "streetNames": [
+      "76th Ave",
+      "128th St"
+    ],
+    "pulsePointId": "2505584192"
+  },
+  {
+    "id": "2026-06-26T17:58:00Z_burnaby/kingsway_burnaby/grimmer-st",
+    "timestamp": "2026-06-26T17:58:00Z",
+    "scrapedAt": "2026-06-26T18:30:03Z",
+    "address": "KINGSWAY & GRIMMER ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/kingsway",
+      "burnaby/grimmer-st"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "Grimmer St"
+    ],
+    "pulsePointId": "2505569257"
+  },
+  {
+    "id": "2026-06-26T17:53:00Z_burnaby/16th-ave_burnaby/cariboo-rd",
+    "timestamp": "2026-06-26T17:53:00Z",
+    "scrapedAt": "2026-06-26T18:30:03Z",
+    "address": "16TH AVE & CARIBOO RD",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/16th-ave",
+      "burnaby/cariboo-rd"
+    ],
+    "streetNames": [
+      "16th Ave",
+      "Cariboo Rd"
+    ],
+    "pulsePointId": "2505566151"
+  },
+  {
     "id": "2026-06-26T17:24:00Z_vancouver/e-12th-ave",
     "timestamp": "2026-06-26T17:24:00Z",
     "scrapedAt": "2026-06-26T17:30:31Z",

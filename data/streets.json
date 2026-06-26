@@ -535,8 +535,8 @@
     "name": "128th St",
     "slug": "surrey/128th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-26T01:14:00Z",
-    "count": 34
+    "lastIncident": "2026-06-26T18:18:00Z",
+    "count": 35
   },
   "surrey/130b-st": {
     "name": "130b St",
@@ -1473,8 +1473,8 @@
     "name": "Kingsway",
     "slug": "burnaby/kingsway",
     "city": "Burnaby",
-    "lastIncident": "2026-06-25T23:40:00Z",
-    "count": 22
+    "lastIncident": "2026-06-26T17:58:00Z",
+    "count": 23
   },
   "burnaby/gilley-ave": {
     "name": "Gilley Ave",
@@ -2355,8 +2355,8 @@
     "name": "Cariboo Rd",
     "slug": "burnaby/cariboo-rd",
     "city": "Burnaby",
-    "lastIncident": "2026-06-26T14:54:00Z",
-    "count": 6
+    "lastIncident": "2026-06-26T17:53:00Z",
+    "count": 7
   },
   "burnaby/avalon-ave": {
     "name": "Avalon Ave",
@@ -5568,8 +5568,8 @@
     "name": "16th Ave",
     "slug": "burnaby/16th-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-05-16T17:18:00Z",
-    "count": 2
+    "lastIncident": "2026-06-26T17:53:00Z",
+    "count": 3
   },
   "chilliwack/chilliwack-central-rd": {
     "name": "Chilliwack Central Rd",
@@ -6450,8 +6450,8 @@
     "name": "76th Ave",
     "slug": "surrey/76th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-12T02:06:00Z",
-    "count": 9
+    "lastIncident": "2026-06-26T18:18:00Z",
+    "count": 10
   },
   "surrey/67b-ave": {
     "name": "67b Ave",
@@ -13122,6 +13122,13 @@
     "slug": "north-vancouver/bridgman-ave",
     "city": "North Vancouver",
     "lastIncident": "2026-06-26T16:44:00Z",
+    "count": 1
+  },
+  "burnaby/grimmer-st": {
+    "name": "Grimmer St",
+    "slug": "burnaby/grimmer-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-06-26T17:58:00Z",
     "count": 1
   }
 }

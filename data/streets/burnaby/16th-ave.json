@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-26T17:53:00Z_burnaby/16th-ave_burnaby/cariboo-rd",
+      "timestamp": "2026-06-26T17:53:00Z",
+      "address": "16TH AVE & CARIBOO RD",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/16th-ave",
+        "burnaby/cariboo-rd"
+      ],
+      "streetNames": [
+        "16th Ave",
+        "Cariboo Rd"
+      ],
+      "pulsePointId": "2505566151"
+    },
+    {
       "id": "2026-05-16T17:18:00Z_burnaby/16th-ave_burnaby/canada-way",
       "timestamp": "2026-05-16T17:18:00Z",
       "address": "16TH AVE & CANADA WAY",
@@ -32,6 +47,6 @@
       "pulsePointId": "2448694527"
     }
   ],
-  "lastIncident": "2026-05-16T17:18:00Z",
-  "count": 2
+  "lastIncident": "2026-06-26T17:53:00Z",
+  "count": 3
 }
