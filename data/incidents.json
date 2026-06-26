@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-06-26T22:19:00Z_burnaby/broadway_burnaby/gaglardi-way",
+    "timestamp": "2026-06-26T22:19:00Z",
+    "scrapedAt": "2026-06-26T22:22:36Z",
+    "address": "BROADWAY & GAGLARDI WAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/broadway",
+      "burnaby/gaglardi-way"
+    ],
+    "streetNames": [
+      "Broadway",
+      "Gaglardi Way"
+    ],
+    "pulsePointId": "2505751330"
+  },
+  {
+    "id": "2026-06-26T22:05:00Z_langley/72nd-ave_langley/202a-st",
+    "timestamp": "2026-06-26T22:05:00Z",
+    "scrapedAt": "2026-06-26T22:22:36Z",
+    "address": "72ND AVE & 202A ST",
+    "city": "Langley",
+    "streets": [
+      "langley/72nd-ave",
+      "langley/202a-st"
+    ],
+    "streetNames": [
+      "72nd Ave",
+      "202a St"
+    ],
+    "pulsePointId": "2505741392"
+  },
+  {
+    "id": "2026-06-26T21:48:00Z_vancouver/e-19th-ave_vancouver/fraser-st",
+    "timestamp": "2026-06-26T21:48:00Z",
+    "scrapedAt": "2026-06-26T22:22:36Z",
+    "address": "E 19TH AVE & FRASER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-19th-ave",
+      "vancouver/fraser-st"
+    ],
+    "streetNames": [
+      "E 19th Ave",
+      "Fraser St"
+    ],
+    "pulsePointId": "2505730063"
+  },
+  {
     "id": "2026-06-26T21:38:00Z_abbotsford/old-yale-rd_abbotsford/maclure-rd",
     "timestamp": "2026-06-26T21:38:00Z",
     "scrapedAt": "2026-06-26T21:51:44Z",

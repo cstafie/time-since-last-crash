@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-26T21:48:00Z_vancouver/e-19th-ave_vancouver/fraser-st",
+      "timestamp": "2026-06-26T21:48:00Z",
+      "address": "E 19TH AVE & FRASER ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-19th-ave",
+        "vancouver/fraser-st"
+      ],
+      "streetNames": [
+        "E 19th Ave",
+        "Fraser St"
+      ],
+      "pulsePointId": "2505730063"
+    },
+    {
       "id": "2026-06-24T15:36:00Z_vancouver/fraser-st_vancouver/se-marine-dr",
       "timestamp": "2026-06-24T15:36:00Z",
       "address": "FRASER ST & SE MARINE DR",
@@ -257,6 +272,6 @@
       "pulsePointId": "2438036867"
     }
   ],
-  "lastIncident": "2026-06-24T15:36:00Z",
-  "count": 17
+  "lastIncident": "2026-06-26T21:48:00Z",
+  "count": 18
 }

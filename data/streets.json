@@ -1095,8 +1095,8 @@
     "name": "72nd Ave",
     "slug": "langley/72nd-ave",
     "city": "Langley",
-    "lastIncident": "2026-06-26T15:05:00Z",
-    "count": 5
+    "lastIncident": "2026-06-26T22:05:00Z",
+    "count": 6
   },
   "langley/200th-st": {
     "name": "200th St",
@@ -2047,8 +2047,8 @@
     "name": "202a St",
     "slug": "langley/202a-st",
     "city": "Langley",
-    "lastIncident": "2026-05-25T13:15:00Z",
-    "count": 2
+    "lastIncident": "2026-06-26T22:05:00Z",
+    "count": 3
   },
   "langley/80th-ave": {
     "name": "80th Ave",
@@ -3258,8 +3258,8 @@
     "name": "Fraser St",
     "slug": "vancouver/fraser-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-24T15:36:00Z",
-    "count": 17
+    "lastIncident": "2026-06-26T21:48:00Z",
+    "count": 18
   },
   "abbotsford/32470-simon-ave": {
     "name": "32470 Simon Ave",
@@ -3531,8 +3531,8 @@
     "name": "Gaglardi Way",
     "slug": "burnaby/gaglardi-way",
     "city": "Burnaby",
-    "lastIncident": "2026-06-10T14:07:00Z",
-    "count": 5
+    "lastIncident": "2026-06-26T22:19:00Z",
+    "count": 6
   },
   "north-vancouver/w-3rd-st": {
     "name": "W 3rd St",
@@ -3671,8 +3671,8 @@
     "name": "Broadway",
     "slug": "burnaby/broadway",
     "city": "Burnaby",
-    "lastIncident": "2026-06-06T21:28:00Z",
-    "count": 5
+    "lastIncident": "2026-06-26T22:19:00Z",
+    "count": 6
   },
   "abbotsford/cottonwood-st": {
     "name": "Cottonwood St",
@@ -7703,8 +7703,8 @@
     "name": "E 19th Ave",
     "slug": "vancouver/e-19th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-21T16:18:00Z",
-    "count": 3
+    "lastIncident": "2026-06-26T21:48:00Z",
+    "count": 4
   },
   "north-vancouver/dollarton-hwy-ofrp": {
     "name": "Dollarton Hwy Ofrp",
