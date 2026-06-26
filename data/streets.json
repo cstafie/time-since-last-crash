@@ -108,8 +108,8 @@
     "name": "Keith Wilson Rd",
     "slug": "chilliwack/keith-wilson-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-14T01:39:00Z",
-    "count": 6
+    "lastIncident": "2026-06-26T18:56:00Z",
+    "count": 7
   },
   "chilliwack/prairie-central-rd": {
     "name": "Prairie Central Rd",
@@ -465,8 +465,8 @@
     "name": "Hwy 91",
     "slug": "richmond/hwy-91",
     "city": "Richmond",
-    "lastIncident": "2026-06-20T00:00:00Z",
-    "count": 18
+    "lastIncident": "2026-06-26T18:33:00Z",
+    "count": 19
   },
   "richmond/nelson-rd": {
     "name": "Nelson Rd",

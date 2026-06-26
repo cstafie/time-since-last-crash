@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-06-26T18:56:00Z_chilliwack/keith-wilson-rd",
+    "timestamp": "2026-06-26T18:56:00Z",
+    "scrapedAt": "2026-06-26T19:09:59Z",
+    "address": "KEITH WILSON RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/keith-wilson-rd"
+    ],
+    "streetNames": [
+      "Keith Wilson Rd"
+    ],
+    "pulsePointId": "2505611143"
+  },
+  {
+    "id": "2026-06-26T18:33:00Z_richmond/hwy-91",
+    "timestamp": "2026-06-26T18:33:00Z",
+    "scrapedAt": "2026-06-26T19:09:59Z",
+    "address": "HWY 91",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hwy-91"
+    ],
+    "streetNames": [
+      "Hwy 91"
+    ],
+    "pulsePointId": "2505595182"
+  },
+  {
     "id": "2026-06-26T18:18:00Z_surrey/76th-ave_surrey/128th-st",
     "timestamp": "2026-06-26T18:18:00Z",
     "scrapedAt": "2026-06-26T18:30:03Z",
