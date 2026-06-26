@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-26T12:31:00Z_abbotsford/sumas-way_abbotsford/mcconnell-rd",
+    "timestamp": "2026-06-26T12:31:00Z",
+    "scrapedAt": "2026-06-26T12:35:08Z",
+    "address": "SUMAS WAY & MCCONNELL RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/sumas-way",
+      "abbotsford/mcconnell-rd"
+    ],
+    "streetNames": [
+      "Sumas Way",
+      "Mcconnell Rd"
+    ],
+    "pulsePointId": "2505406069"
+  },
+  {
     "id": "2026-06-26T11:24:00Z_vancouver/sw-marine-dr_vancouver/cambie-st",
     "timestamp": "2026-06-26T11:24:00Z",
     "scrapedAt": "2026-06-26T11:52:53Z",

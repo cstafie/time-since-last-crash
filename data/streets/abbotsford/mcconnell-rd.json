@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-26T12:31:00Z_abbotsford/sumas-way_abbotsford/mcconnell-rd",
+      "timestamp": "2026-06-26T12:31:00Z",
+      "address": "SUMAS WAY & MCCONNELL RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/sumas-way",
+        "abbotsford/mcconnell-rd"
+      ],
+      "streetNames": [
+        "Sumas Way",
+        "Mcconnell Rd"
+      ],
+      "pulsePointId": "2505406069"
+    },
+    {
       "id": "2026-04-10T19:37:00Z_abbotsford/mcconnell-rd",
       "timestamp": "2026-04-10T19:37:00Z",
       "address": "MCCONNELL RD",
@@ -17,6 +32,6 @@
       "pulsePointId": "2451668257"
     }
   ],
-  "lastIncident": "2026-04-10T19:37:00Z",
-  "count": 1
+  "lastIncident": "2026-06-26T12:31:00Z",
+  "count": 2
 }
