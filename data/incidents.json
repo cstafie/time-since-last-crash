@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-26T12:54:00Z_abbotsford/harris-rd",
+    "timestamp": "2026-06-26T12:54:00Z",
+    "scrapedAt": "2026-06-26T13:36:33Z",
+    "address": "HARRIS RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/harris-rd"
+    ],
+    "streetNames": [
+      "Harris Rd"
+    ],
+    "pulsePointId": "2505413072"
+  },
+  {
+    "id": "2026-06-26T12:44:00Z_surrey/120th-st_surrey/76a-ave",
+    "timestamp": "2026-06-26T12:44:00Z",
+    "scrapedAt": "2026-06-26T13:36:33Z",
+    "address": "120TH ST & 76A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/120th-st",
+      "surrey/76a-ave"
+    ],
+    "streetNames": [
+      "120th St",
+      "76a Ave"
+    ],
+    "pulsePointId": "2505409806"
+  },
+  {
     "id": "2026-06-26T12:31:00Z_abbotsford/sumas-way_abbotsford/mcconnell-rd",
     "timestamp": "2026-06-26T12:31:00Z",
     "scrapedAt": "2026-06-26T12:35:08Z",
@@ -14,6 +44,22 @@
       "Mcconnell Rd"
     ],
     "pulsePointId": "2505406069"
+  },
+  {
+    "id": "2026-06-26T12:25:00Z_surrey/fraser-hwy_surrey/96th-ave",
+    "timestamp": "2026-06-26T12:25:00Z",
+    "scrapedAt": "2026-06-26T13:36:33Z",
+    "address": "FRASER HWY & 96TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/fraser-hwy",
+      "surrey/96th-ave"
+    ],
+    "streetNames": [
+      "Fraser Hwy",
+      "96th Ave"
+    ],
+    "pulsePointId": "2505403379"
   },
   {
     "id": "2026-06-26T11:24:00Z_vancouver/sw-marine-dr_vancouver/cambie-st",
