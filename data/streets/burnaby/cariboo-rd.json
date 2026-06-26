@@ -4,6 +4,32 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-26T14:54:00Z_burnaby/cariboo-rd",
+      "timestamp": "2026-06-26T14:54:00Z",
+      "address": "CARIBOO RD",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/cariboo-rd"
+      ],
+      "streetNames": [
+        "Cariboo Rd"
+      ],
+      "pulsePointId": "2505464378"
+    },
+    {
+      "id": "2026-06-26T14:50:00Z_burnaby/cariboo-rd",
+      "timestamp": "2026-06-26T14:50:00Z",
+      "address": "CARIBOO RD",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/cariboo-rd"
+      ],
+      "streetNames": [
+        "Cariboo Rd"
+      ],
+      "pulsePointId": "2505463601"
+    },
+    {
       "id": "2026-05-19T23:42:00Z_burnaby/cariboo-rd",
       "timestamp": "2026-05-19T23:42:00Z",
       "address": "CARIBOO RD",
@@ -62,6 +88,6 @@
       "pulsePointId": "2435284202"
     }
   ],
-  "lastIncident": "2026-05-19T23:42:00Z",
-  "count": 4
+  "lastIncident": "2026-06-26T14:54:00Z",
+  "count": 6
 }

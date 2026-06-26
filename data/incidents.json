@@ -1,5 +1,79 @@
 [
   {
+    "id": "2026-06-26T15:40:00Z_vancouver/clark-dr_vancouver/e-1st-ave",
+    "timestamp": "2026-06-26T15:40:00Z",
+    "scrapedAt": "2026-06-26T15:42:17Z",
+    "address": "CLARK DR & E 1ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/clark-dr",
+      "vancouver/e-1st-ave"
+    ],
+    "streetNames": [
+      "Clark Dr",
+      "E 1st Ave"
+    ],
+    "pulsePointId": "2505487168"
+  },
+  {
+    "id": "2026-06-26T15:26:00Z_new-westminster/6th-ave_new-westminster/8th-st",
+    "timestamp": "2026-06-26T15:26:00Z",
+    "scrapedAt": "2026-06-26T15:42:17Z",
+    "address": "6TH AVE & 8TH ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/6th-ave",
+      "new-westminster/8th-st"
+    ],
+    "streetNames": [
+      "6th Ave",
+      "8th St"
+    ],
+    "pulsePointId": "2505479854"
+  },
+  {
+    "id": "2026-06-26T15:05:00Z_langley/72nd-ave",
+    "timestamp": "2026-06-26T15:05:00Z",
+    "scrapedAt": "2026-06-26T15:42:17Z",
+    "address": "72ND AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/72nd-ave"
+    ],
+    "streetNames": [
+      "72nd Ave"
+    ],
+    "pulsePointId": "2505469751"
+  },
+  {
+    "id": "2026-06-26T14:54:00Z_burnaby/cariboo-rd",
+    "timestamp": "2026-06-26T14:54:00Z",
+    "scrapedAt": "2026-06-26T15:42:17Z",
+    "address": "CARIBOO RD",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/cariboo-rd"
+    ],
+    "streetNames": [
+      "Cariboo Rd"
+    ],
+    "pulsePointId": "2505464378"
+  },
+  {
+    "id": "2026-06-26T14:50:00Z_burnaby/cariboo-rd",
+    "timestamp": "2026-06-26T14:50:00Z",
+    "scrapedAt": "2026-06-26T15:42:17Z",
+    "address": "CARIBOO RD",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/cariboo-rd"
+    ],
+    "streetNames": [
+      "Cariboo Rd"
+    ],
+    "pulsePointId": "2505463601"
+  },
+  {
     "id": "2026-06-26T14:14:00Z_surrey/golden-ears-conn_surrey/golden-ears-way",
     "timestamp": "2026-06-26T14:14:00Z",
     "scrapedAt": "2026-06-26T14:49:16Z",

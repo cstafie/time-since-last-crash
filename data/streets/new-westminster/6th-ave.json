@@ -4,6 +4,21 @@
   "city": "New Westminster",
   "incidents": [
     {
+      "id": "2026-06-26T15:26:00Z_new-westminster/6th-ave_new-westminster/8th-st",
+      "timestamp": "2026-06-26T15:26:00Z",
+      "address": "6TH AVE & 8TH ST",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/6th-ave",
+        "new-westminster/8th-st"
+      ],
+      "streetNames": [
+        "6th Ave",
+        "8th St"
+      ],
+      "pulsePointId": "2505479854"
+    },
+    {
       "id": "2026-05-04T17:07:00Z_new-westminster/7th-st_new-westminster/6th-ave",
       "timestamp": "2026-05-04T17:07:00Z",
       "address": "7TH ST & 6TH AVE",
@@ -61,6 +76,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-04T17:07:00Z",
-  "count": 4
+  "lastIncident": "2026-06-26T15:26:00Z",
+  "count": 5
 }

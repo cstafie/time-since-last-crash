@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-26T15:40:00Z_vancouver/clark-dr_vancouver/e-1st-ave",
+      "timestamp": "2026-06-26T15:40:00Z",
+      "address": "CLARK DR & E 1ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/clark-dr",
+        "vancouver/e-1st-ave"
+      ],
+      "streetNames": [
+        "Clark Dr",
+        "E 1st Ave"
+      ],
+      "pulsePointId": "2505487168"
+    },
+    {
       "id": "2026-06-18T23:37:00Z_vancouver/clark-dr_vancouver/e-2nd-ave",
       "timestamp": "2026-06-18T23:37:00Z",
       "address": "CLARK DR & E 2ND AVE",
@@ -154,6 +169,6 @@
       "pulsePointId": "2438733768"
     }
   ],
-  "lastIncident": "2026-06-18T23:37:00Z",
-  "count": 10
+  "lastIncident": "2026-06-26T15:40:00Z",
+  "count": 11
 }

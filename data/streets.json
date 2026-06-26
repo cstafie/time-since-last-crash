@@ -360,15 +360,15 @@
     "name": "6th Ave",
     "slug": "new-westminster/6th-ave",
     "city": "New Westminster",
-    "lastIncident": "2026-05-04T17:07:00Z",
-    "count": 4
+    "lastIncident": "2026-06-26T15:26:00Z",
+    "count": 5
   },
   "new-westminster/8th-st": {
     "name": "8th St",
     "slug": "new-westminster/8th-st",
     "city": "New Westminster",
-    "lastIncident": "2026-06-23T23:45:00Z",
-    "count": 5
+    "lastIncident": "2026-06-26T15:26:00Z",
+    "count": 6
   },
   "new-westminster/mcbride-blvd": {
     "name": "Mcbride Blvd",
@@ -1095,8 +1095,8 @@
     "name": "72nd Ave",
     "slug": "langley/72nd-ave",
     "city": "Langley",
-    "lastIncident": "2026-06-22T00:51:00Z",
-    "count": 4
+    "lastIncident": "2026-06-26T15:05:00Z",
+    "count": 5
   },
   "langley/200th-st": {
     "name": "200th St",
@@ -1256,8 +1256,8 @@
     "name": "E 1st Ave",
     "slug": "vancouver/e-1st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-22T21:27:00Z",
-    "count": 14
+    "lastIncident": "2026-06-26T15:40:00Z",
+    "count": 15
   },
   "vancouver/boundary-rd": {
     "name": "Boundary Rd",
@@ -2355,8 +2355,8 @@
     "name": "Cariboo Rd",
     "slug": "burnaby/cariboo-rd",
     "city": "Burnaby",
-    "lastIncident": "2026-05-19T23:42:00Z",
-    "count": 4
+    "lastIncident": "2026-06-26T14:54:00Z",
+    "count": 6
   },
   "burnaby/avalon-ave": {
     "name": "Avalon Ave",
@@ -3454,8 +3454,8 @@
     "name": "Clark Dr",
     "slug": "vancouver/clark-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-06-18T23:37:00Z",
-    "count": 10
+    "lastIncident": "2026-06-26T15:40:00Z",
+    "count": 11
   },
   "vancouver/e-17th-ave": {
     "name": "E 17th Ave",
