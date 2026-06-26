@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-26T01:14:00Z_surrey/king-george-blvd_surrey/128th-st",
+      "timestamp": "2026-06-26T01:14:00Z",
+      "address": "KING GEORGE BLVD & 128TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/king-george-blvd",
+        "surrey/128th-st"
+      ],
+      "streetNames": [
+        "King George Blvd",
+        "128th St"
+      ],
+      "pulsePointId": "2505157247"
+    },
+    {
       "id": "2026-06-22T07:41:00Z_surrey/103rd-ave_surrey/128th-st",
       "timestamp": "2026-06-22T07:41:00Z",
       "address": "103RD AVE & 128TH ST",
@@ -485,6 +500,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-22T07:41:00Z",
-  "count": 33
+  "lastIncident": "2026-06-26T01:14:00Z",
+  "count": 34
 }

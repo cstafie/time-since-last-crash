@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-06-26T01:14:00Z_surrey/king-george-blvd_surrey/128th-st",
+    "timestamp": "2026-06-26T01:14:00Z",
+    "scrapedAt": "2026-06-26T01:25:29Z",
+    "address": "KING GEORGE BLVD & 128TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/128th-st"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "128th St"
+    ],
+    "pulsePointId": "2505157247"
+  },
+  {
+    "id": "2026-06-26T01:08:00Z_port-coquitlam/hawthorne-ave",
+    "timestamp": "2026-06-26T01:08:00Z",
+    "scrapedAt": "2026-06-26T01:25:29Z",
+    "address": "HAWTHORNE AVE",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/hawthorne-ave"
+    ],
+    "streetNames": [
+      "Hawthorne Ave"
+    ],
+    "pulsePointId": "2505153458"
+  },
+  {
+    "id": "2026-06-26T00:55:00Z_delta/hwy-91",
+    "timestamp": "2026-06-26T00:55:00Z",
+    "scrapedAt": "2026-06-26T01:25:29Z",
+    "address": "HWY 91",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-91"
+    ],
+    "streetNames": [
+      "Hwy 91"
+    ],
+    "pulsePointId": "2505147761"
+  },
+  {
+    "id": "2026-06-26T00:41:00Z_burnaby/willingdon-ave_burnaby/lougheed-hwy",
+    "timestamp": "2026-06-26T00:41:00Z",
+    "scrapedAt": "2026-06-26T01:25:29Z",
+    "address": "WILLINGDON AVE & LOUGHEED HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/willingdon-ave",
+      "burnaby/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Willingdon Ave",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2505138815"
+  },
+  {
     "id": "2026-06-26T00:11:00Z_surrey/176th-st_surrey/32nd-ave",
     "timestamp": "2026-06-26T00:11:00Z",
     "scrapedAt": "2026-06-26T00:24:07Z",

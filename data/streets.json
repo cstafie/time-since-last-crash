@@ -66,8 +66,8 @@
     "name": "Lougheed Hwy",
     "slug": "burnaby/lougheed-hwy",
     "city": "Burnaby",
-    "lastIncident": "2026-06-10T06:24:00Z",
-    "count": 11
+    "lastIncident": "2026-06-26T00:41:00Z",
+    "count": 12
   },
   "burnaby/marine-way": {
     "name": "Marine Way",
@@ -80,8 +80,8 @@
     "name": "Willingdon Ave",
     "slug": "burnaby/willingdon-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-06-21T19:41:00Z",
-    "count": 10
+    "lastIncident": "2026-06-26T00:41:00Z",
+    "count": 11
   },
   "chilliwack/chadsey-rd": {
     "name": "Chadsey Rd",
@@ -192,8 +192,8 @@
     "name": "Hwy 91",
     "slug": "delta/hwy-91",
     "city": "Delta",
-    "lastIncident": "2026-06-25T21:22:00Z",
-    "count": 10
+    "lastIncident": "2026-06-26T00:55:00Z",
+    "count": 11
   },
   "delta/ladner-trunk-rd": {
     "name": "Ladner Trunk Rd",
@@ -535,8 +535,8 @@
     "name": "128th St",
     "slug": "surrey/128th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-22T07:41:00Z",
-    "count": 33
+    "lastIncident": "2026-06-26T01:14:00Z",
+    "count": 34
   },
   "surrey/130b-st": {
     "name": "130b St",
@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-06-22T07:22:00Z",
-    "count": 72
+    "lastIncident": "2026-06-26T01:14:00Z",
+    "count": 73
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -13101,6 +13101,13 @@
     "slug": "richmond/sea-island-way-onrp",
     "city": "Richmond",
     "lastIncident": "2026-06-25T23:39:00Z",
+    "count": 1
+  },
+  "port-coquitlam/hawthorne-ave": {
+    "name": "Hawthorne Ave",
+    "slug": "port-coquitlam/hawthorne-ave",
+    "city": "Port Coquitlam",
+    "lastIncident": "2026-06-26T01:08:00Z",
     "count": 1
   }
 }
