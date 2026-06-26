@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-25T23:40:00Z_burnaby/kingsway",
+      "timestamp": "2026-06-25T23:40:00Z",
+      "address": "KINGSWAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/kingsway"
+      ],
+      "streetNames": [
+        "Kingsway"
+      ],
+      "pulsePointId": "2505101113"
+    },
+    {
       "id": "2026-06-20T00:52:00Z_burnaby/kingsway",
       "timestamp": "2026-06-20T00:52:00Z",
       "address": "KINGSWAY",
@@ -302,6 +315,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-20T00:52:00Z",
-  "count": 21
+  "lastIncident": "2026-06-25T23:40:00Z",
+  "count": 22
 }

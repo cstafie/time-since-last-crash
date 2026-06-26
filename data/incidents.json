@@ -1,5 +1,83 @@
 [
   {
+    "id": "2026-06-26T00:11:00Z_surrey/176th-st_surrey/32nd-ave",
+    "timestamp": "2026-06-26T00:11:00Z",
+    "scrapedAt": "2026-06-26T00:24:07Z",
+    "address": "176TH ST & 32ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/176th-st",
+      "surrey/32nd-ave"
+    ],
+    "streetNames": [
+      "176th St",
+      "32nd Ave"
+    ],
+    "pulsePointId": "2505119433"
+  },
+  {
+    "id": "2026-06-26T00:10:00Z_maple-ridge/248th-st_maple-ridge/dewdney-trunk-rd",
+    "timestamp": "2026-06-26T00:10:00Z",
+    "scrapedAt": "2026-06-26T00:24:07Z",
+    "address": "248TH ST & DEWDNEY TRUNK RD",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/248th-st",
+      "maple-ridge/dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "248th St",
+      "Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2505119424"
+  },
+  {
+    "id": "2026-06-25T23:50:00Z_vancouver/w-king-edward-ave_vancouver/granville-st",
+    "timestamp": "2026-06-25T23:50:00Z",
+    "scrapedAt": "2026-06-26T00:24:07Z",
+    "address": "W KING EDWARD AVE & GRANVILLE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-king-edward-ave",
+      "vancouver/granville-st"
+    ],
+    "streetNames": [
+      "W King Edward Ave",
+      "Granville St"
+    ],
+    "pulsePointId": "2505106915"
+  },
+  {
+    "id": "2026-06-25T23:40:00Z_burnaby/kingsway",
+    "timestamp": "2026-06-25T23:40:00Z",
+    "scrapedAt": "2026-06-26T00:24:07Z",
+    "address": "KINGSWAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/kingsway"
+    ],
+    "streetNames": [
+      "Kingsway"
+    ],
+    "pulsePointId": "2505101113"
+  },
+  {
+    "id": "2026-06-25T23:39:00Z_richmond/sea-island-way-onrp_richmond/hwy-99",
+    "timestamp": "2026-06-25T23:39:00Z",
+    "scrapedAt": "2026-06-26T00:24:07Z",
+    "address": "SEA ISLAND WAY ONRP & HWY 99",
+    "city": "Richmond",
+    "streets": [
+      "richmond/sea-island-way-onrp",
+      "richmond/hwy-99"
+    ],
+    "streetNames": [
+      "Sea Island Way Onrp",
+      "Hwy 99"
+    ],
+    "pulsePointId": "2505099257"
+  },
+  {
     "id": "2026-06-25T23:18:00Z_abbotsford/mt-lehman-road-ofrp_abbotsford/trans-canada-hwy",
     "timestamp": "2026-06-25T23:18:00Z",
     "scrapedAt": "2026-06-25T23:30:41Z",
