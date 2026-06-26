@@ -4,6 +4,21 @@
   "city": "North Vancouver",
   "incidents": [
     {
+      "id": "2026-06-26T16:44:00Z_north-vancouver/marine-dr_north-vancouver/bridgman-ave",
+      "timestamp": "2026-06-26T16:44:00Z",
+      "address": "MARINE DR & BRIDGMAN AVE",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/marine-dr",
+        "north-vancouver/bridgman-ave"
+      ],
+      "streetNames": [
+        "Marine Dr",
+        "Bridgman Ave"
+      ],
+      "pulsePointId": "2505522634"
+    },
+    {
       "id": "2026-06-22T09:50:00Z_north-vancouver/marine-dr",
       "timestamp": "2026-06-22T09:50:00Z",
       "address": "MARINE DR",
@@ -137,6 +152,6 @@
       "pulsePointId": "2432954898"
     }
   ],
-  "lastIncident": "2026-06-22T09:50:00Z",
-  "count": 9
+  "lastIncident": "2026-06-26T16:44:00Z",
+  "count": 10
 }

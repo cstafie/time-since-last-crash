@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-26T17:24:00Z_vancouver/e-12th-ave",
+      "timestamp": "2026-06-26T17:24:00Z",
+      "address": "E 12TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-12th-ave"
+      ],
+      "streetNames": [
+        "E 12th Ave"
+      ],
+      "pulsePointId": "2505548621"
+    },
+    {
       "id": "2026-06-06T16:39:00Z_vancouver/e-12th-ave_vancouver/woodland-dr",
       "timestamp": "2026-06-06T16:39:00Z",
       "address": "E 12TH AVE & WOODLAND DR",
@@ -179,6 +192,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-06T16:39:00Z",
-  "count": 12
+  "lastIncident": "2026-06-26T17:24:00Z",
+  "count": 13
 }
