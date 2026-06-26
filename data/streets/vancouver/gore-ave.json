@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-26T21:17:00Z_vancouver/powell-st_vancouver/gore-ave",
+      "timestamp": "2026-06-26T21:17:00Z",
+      "address": "POWELL ST & GORE AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/powell-st",
+        "vancouver/gore-ave"
+      ],
+      "streetNames": [
+        "Powell St",
+        "Gore Ave"
+      ],
+      "pulsePointId": "2505707588"
+    },
+    {
       "id": "2026-06-07T09:16:00Z_vancouver/gore-ave_vancouver/e-pender-st",
       "timestamp": "2026-06-07T09:16:00Z",
       "address": "GORE AVE & E PENDER ST",
@@ -49,6 +64,6 @@
       "pulsePointId": "2441206189"
     }
   ],
-  "lastIncident": "2026-06-07T09:16:00Z",
-  "count": 3
+  "lastIncident": "2026-06-26T21:17:00Z",
+  "count": 4
 }

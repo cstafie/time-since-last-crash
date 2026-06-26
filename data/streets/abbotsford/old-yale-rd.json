@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-26T21:38:00Z_abbotsford/old-yale-rd_abbotsford/maclure-rd",
+      "timestamp": "2026-06-26T21:38:00Z",
+      "address": "OLD YALE RD & MACLURE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/old-yale-rd",
+        "abbotsford/maclure-rd"
+      ],
+      "streetNames": [
+        "Old Yale Rd",
+        "Maclure Rd"
+      ],
+      "pulsePointId": "2505721724"
+    },
+    {
       "id": "2026-06-14T04:35:00Z_abbotsford/old-yale-rd_abbotsford/mcmillan-rd",
       "timestamp": "2026-06-14T04:35:00Z",
       "address": "OLD YALE RD & MCMILLAN RD",
@@ -124,6 +139,6 @@
       "pulsePointId": "2432971315"
     }
   ],
-  "lastIncident": "2026-06-14T04:35:00Z",
-  "count": 8
+  "lastIncident": "2026-06-26T21:38:00Z",
+  "count": 9
 }

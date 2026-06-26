@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-26T21:38:00Z_abbotsford/old-yale-rd_abbotsford/maclure-rd",
+    "timestamp": "2026-06-26T21:38:00Z",
+    "scrapedAt": "2026-06-26T21:51:44Z",
+    "address": "OLD YALE RD & MACLURE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/old-yale-rd",
+      "abbotsford/maclure-rd"
+    ],
+    "streetNames": [
+      "Old Yale Rd",
+      "Maclure Rd"
+    ],
+    "pulsePointId": "2505721724"
+  },
+  {
+    "id": "2026-06-26T21:17:00Z_vancouver/powell-st_vancouver/gore-ave",
+    "timestamp": "2026-06-26T21:17:00Z",
+    "scrapedAt": "2026-06-26T21:51:44Z",
+    "address": "POWELL ST & GORE AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/powell-st",
+      "vancouver/gore-ave"
+    ],
+    "streetNames": [
+      "Powell St",
+      "Gore Ave"
+    ],
+    "pulsePointId": "2505707588"
+  },
+  {
     "id": "2026-06-26T20:04:00Z_surrey/72nd-ave",
     "timestamp": "2026-06-26T20:04:00Z",
     "scrapedAt": "2026-06-26T20:07:19Z",

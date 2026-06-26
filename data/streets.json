@@ -1690,8 +1690,8 @@
     "name": "Old Yale Rd",
     "slug": "abbotsford/old-yale-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-14T04:35:00Z",
-    "count": 8
+    "lastIncident": "2026-06-26T21:38:00Z",
+    "count": 9
   },
   "vancouver/inverness-st": {
     "name": "Inverness St",
@@ -1921,8 +1921,8 @@
     "name": "Maclure Rd",
     "slug": "abbotsford/maclure-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-14T05:46:00Z",
-    "count": 12
+    "lastIncident": "2026-06-26T21:38:00Z",
+    "count": 13
   },
   "vancouver/renfrew-st": {
     "name": "Renfrew St",
@@ -3979,8 +3979,8 @@
     "name": "Gore Ave",
     "slug": "vancouver/gore-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-07T09:16:00Z",
-    "count": 3
+    "lastIncident": "2026-06-26T21:17:00Z",
+    "count": 4
   },
   "richmond/burrows-rd": {
     "name": "Burrows Rd",
@@ -4630,8 +4630,8 @@
     "name": "Powell St",
     "slug": "vancouver/powell-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-16T23:34:00Z",
-    "count": 6
+    "lastIncident": "2026-06-26T21:17:00Z",
+    "count": 7
   },
   "maple-ridge/224th-st": {
     "name": "224th St",
