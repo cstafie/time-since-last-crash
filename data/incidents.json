@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-26T11:24:00Z_vancouver/sw-marine-dr_vancouver/cambie-st",
+    "timestamp": "2026-06-26T11:24:00Z",
+    "scrapedAt": "2026-06-26T11:52:53Z",
+    "address": "SW MARINE DR & CAMBIE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/sw-marine-dr",
+      "vancouver/cambie-st"
+    ],
+    "streetNames": [
+      "Sw Marine Dr",
+      "Cambie St"
+    ],
+    "pulsePointId": "2505385567"
+  },
+  {
     "id": "2026-06-26T07:47:00Z_surrey/122nd-st_surrey/72nd-ave",
     "timestamp": "2026-06-26T07:47:00Z",
     "scrapedAt": "2026-06-26T08:10:26Z",

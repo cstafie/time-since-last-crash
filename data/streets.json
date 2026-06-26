@@ -2460,8 +2460,8 @@
     "name": "Cambie St",
     "slug": "vancouver/cambie-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-21T19:45:00Z",
-    "count": 14
+    "lastIncident": "2026-06-26T11:24:00Z",
+    "count": 15
   },
   "vancouver/e-broadway": {
     "name": "E Broadway",
@@ -6597,8 +6597,8 @@
     "name": "Sw Marine Dr",
     "slug": "vancouver/sw-marine-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-06-16T16:18:00Z",
-    "count": 14
+    "lastIncident": "2026-06-26T11:24:00Z",
+    "count": 15
   },
   "surrey/54th-ave": {
     "name": "54th Ave",

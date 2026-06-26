@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-26T11:24:00Z_vancouver/sw-marine-dr_vancouver/cambie-st",
+      "timestamp": "2026-06-26T11:24:00Z",
+      "address": "SW MARINE DR & CAMBIE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/sw-marine-dr",
+        "vancouver/cambie-st"
+      ],
+      "streetNames": [
+        "Sw Marine Dr",
+        "Cambie St"
+      ],
+      "pulsePointId": "2505385567"
+    },
+    {
       "id": "2026-06-21T19:45:00Z_vancouver/w-35th-ave_vancouver/cambie-st",
       "timestamp": "2026-06-21T19:45:00Z",
       "address": "W 35TH AVE & CAMBIE ST",
@@ -212,6 +227,6 @@
       "pulsePointId": "2435569506"
     }
   ],
-  "lastIncident": "2026-06-21T19:45:00Z",
-  "count": 14
+  "lastIncident": "2026-06-26T11:24:00Z",
+  "count": 15
 }
