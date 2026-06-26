@@ -1319,8 +1319,8 @@
     "name": "122nd St",
     "slug": "surrey/122nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-05T22:18:00Z",
-    "count": 6
+    "lastIncident": "2026-06-26T07:47:00Z",
+    "count": 7
   },
   "surrey/137th-st": {
     "name": "137th St",
@@ -4518,8 +4518,8 @@
     "name": "72nd Ave",
     "slug": "surrey/72nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-08T22:29:00Z",
-    "count": 17
+    "lastIncident": "2026-06-26T07:47:00Z",
+    "count": 18
   },
   "abbotsford/laurel-st": {
     "name": "Laurel St",

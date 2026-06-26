@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-26T07:47:00Z_surrey/122nd-st_surrey/72nd-ave",
+    "timestamp": "2026-06-26T07:47:00Z",
+    "scrapedAt": "2026-06-26T08:10:26Z",
+    "address": "122ND ST & 72ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/122nd-st",
+      "surrey/72nd-ave"
+    ],
+    "streetNames": [
+      "122nd St",
+      "72nd Ave"
+    ],
+    "pulsePointId": "2505329048"
+  },
+  {
     "id": "2026-06-26T04:48:00Z_mission/lougheed-hwy_mission/hayward-conn",
     "timestamp": "2026-06-26T04:48:00Z",
     "scrapedAt": "2026-06-26T05:21:54Z",
