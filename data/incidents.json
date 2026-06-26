@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-26T23:06:00Z_surrey/96th-ave",
+    "timestamp": "2026-06-26T23:06:00Z",
+    "scrapedAt": "2026-06-26T23:22:52Z",
+    "address": "96TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/96th-ave"
+    ],
+    "streetNames": [
+      "96th Ave"
+    ],
+    "pulsePointId": "2505785184"
+  },
+  {
+    "id": "2026-06-26T23:03:00Z_richmond/garden-city-rd_richmond/cambie-rd",
+    "timestamp": "2026-06-26T23:03:00Z",
+    "scrapedAt": "2026-06-26T23:22:52Z",
+    "address": "GARDEN CITY RD & CAMBIE RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/garden-city-rd",
+      "richmond/cambie-rd"
+    ],
+    "streetNames": [
+      "Garden City Rd",
+      "Cambie Rd"
+    ],
+    "pulsePointId": "2505782982"
+  },
+  {
     "id": "2026-06-26T22:45:00Z_abbotsford/2596-mcmillan-rd",
     "timestamp": "2026-06-26T22:45:00Z",
     "scrapedAt": "2026-06-26T22:50:37Z",

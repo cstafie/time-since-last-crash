@@ -647,8 +647,8 @@
     "name": "96th Ave",
     "slug": "surrey/96th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-26T12:25:00Z",
-    "count": 32
+    "lastIncident": "2026-06-26T23:06:00Z",
+    "count": 33
   },
   "surrey/bolivar-rd": {
     "name": "Bolivar Rd",
@@ -1809,8 +1809,8 @@
     "name": "Garden City Rd",
     "slug": "richmond/garden-city-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-18T02:16:00Z",
-    "count": 7
+    "lastIncident": "2026-06-26T23:03:00Z",
+    "count": 8
   },
   "vancouver/commercial-st": {
     "name": "Commercial St",
@@ -2061,8 +2061,8 @@
     "name": "Cambie Rd",
     "slug": "richmond/cambie-rd",
     "city": "Richmond",
-    "lastIncident": "2026-06-23T21:37:00Z",
-    "count": 7
+    "lastIncident": "2026-06-26T23:03:00Z",
+    "count": 8
   },
   "richmond/viking-way": {
     "name": "Viking Way",

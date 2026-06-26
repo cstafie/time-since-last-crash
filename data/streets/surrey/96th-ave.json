@@ -4,6 +4,19 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-26T23:06:00Z_surrey/96th-ave",
+      "timestamp": "2026-06-26T23:06:00Z",
+      "address": "96TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/96th-ave"
+      ],
+      "streetNames": [
+        "96th Ave"
+      ],
+      "pulsePointId": "2505785184"
+    },
+    {
       "id": "2026-06-26T12:25:00Z_surrey/fraser-hwy_surrey/96th-ave",
       "timestamp": "2026-06-26T12:25:00Z",
       "address": "FRASER HWY & 96TH AVE",
@@ -475,6 +488,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-26T12:25:00Z",
-  "count": 32
+  "lastIncident": "2026-06-26T23:06:00Z",
+  "count": 33
 }

@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-06-26T23:03:00Z_richmond/garden-city-rd_richmond/cambie-rd",
+      "timestamp": "2026-06-26T23:03:00Z",
+      "address": "GARDEN CITY RD & CAMBIE RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/garden-city-rd",
+        "richmond/cambie-rd"
+      ],
+      "streetNames": [
+        "Garden City Rd",
+        "Cambie Rd"
+      ],
+      "pulsePointId": "2505782982"
+    },
+    {
       "id": "2026-06-23T21:37:00Z_richmond/cambie-rd_richmond/no-6-rd",
       "timestamp": "2026-06-23T21:37:00Z",
       "address": "CAMBIE RD & NO 6 RD",
@@ -107,6 +122,6 @@
       "pulsePointId": "2434197215"
     }
   ],
-  "lastIncident": "2026-06-23T21:37:00Z",
-  "count": 7
+  "lastIncident": "2026-06-26T23:03:00Z",
+  "count": 8
 }
