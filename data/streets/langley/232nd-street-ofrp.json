@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-06-26T19:26:00Z_langley/trans-canada-hwy_langley/232nd-street-ofrp",
+      "timestamp": "2026-06-26T19:26:00Z",
+      "address": "TRANS CANADA HWY & 232ND STREET OFRP",
+      "city": "Langley",
+      "streets": [
+        "langley/trans-canada-hwy",
+        "langley/232nd-street-ofrp"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy",
+        "232nd Street Ofrp"
+      ],
+      "pulsePointId": "2505632919"
+    },
+    {
       "id": "2026-04-01T06:46:00Z_langley/232nd-street-ofrp",
       "timestamp": "2026-04-01T06:46:00Z",
       "address": "232ND STREET OFRP",
@@ -17,6 +32,6 @@
       "pulsePointId": "2445542602"
     }
   ],
-  "lastIncident": "2026-04-01T06:46:00Z",
-  "count": 1
+  "lastIncident": "2026-06-26T19:26:00Z",
+  "count": 2
 }

@@ -269,8 +269,8 @@
     "name": "Trans Canada Hwy",
     "slug": "langley/trans-canada-hwy",
     "city": "Langley",
-    "lastIncident": "2026-06-25T22:47:00Z",
-    "count": 32
+    "lastIncident": "2026-06-26T19:28:00Z",
+    "count": 34
   },
   "maple-ridge/119th-ave": {
     "name": "119th Ave",
@@ -423,8 +423,8 @@
     "name": "Mary Hill Bps",
     "slug": "port-coquitlam/mary-hill-bps",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-06-23T23:55:00Z",
-    "count": 13
+    "lastIncident": "2026-06-26T19:23:00Z",
+    "count": 14
   },
   "richmond/8111-ackroyd-rd": {
     "name": "8111 Ackroyd Rd",
@@ -535,8 +535,8 @@
     "name": "128th St",
     "slug": "surrey/128th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-26T18:18:00Z",
-    "count": 35
+    "lastIncident": "2026-06-26T19:23:00Z",
+    "count": 36
   },
   "surrey/130b-st": {
     "name": "130b St",
@@ -1452,8 +1452,8 @@
     "name": "Pitt River Rd",
     "slug": "port-coquitlam/pitt-river-rd",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-06-01T19:06:00Z",
-    "count": 5
+    "lastIncident": "2026-06-26T19:23:00Z",
+    "count": 6
   },
   "richmond/jow-st": {
     "name": "Jow St",
@@ -2215,8 +2215,8 @@
     "name": "Sumas Mountain Rd",
     "slug": "abbotsford/sumas-mountain-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-24T22:42:00Z",
-    "count": 4
+    "lastIncident": "2026-06-26T19:37:00Z",
+    "count": 5
   },
   "delta/18th-ave": {
     "name": "18th Ave",
@@ -4518,8 +4518,8 @@
     "name": "72nd Ave",
     "slug": "surrey/72nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-26T07:47:00Z",
-    "count": 18
+    "lastIncident": "2026-06-26T20:04:00Z",
+    "count": 19
   },
   "abbotsford/laurel-st": {
     "name": "Laurel St",
@@ -4742,8 +4742,8 @@
     "name": "232nd Street Ofrp",
     "slug": "langley/232nd-street-ofrp",
     "city": "Langley",
-    "lastIncident": "2026-04-01T06:46:00Z",
-    "count": 1
+    "lastIncident": "2026-06-26T19:26:00Z",
+    "count": 2
   },
   "abbotsford/gladys-ave": {
     "name": "Gladys Ave",
@@ -7185,8 +7185,8 @@
     "name": "Grand St",
     "slug": "mission/grand-st",
     "city": "Mission",
-    "lastIncident": "2026-04-19T13:43:00Z",
-    "count": 1
+    "lastIncident": "2026-06-26T19:12:00Z",
+    "count": 2
   },
   "burnaby/willingdon-extn": {
     "name": "Willingdon Extn",
@@ -9334,8 +9334,8 @@
     "name": "98th Ave",
     "slug": "surrey/98th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-29T16:54:00Z",
-    "count": 3
+    "lastIncident": "2026-06-26T19:23:00Z",
+    "count": 4
   },
   "mission/florence-lake-rd": {
     "name": "Florence Lake Rd",
@@ -11546,8 +11546,8 @@
     "name": "Mckee Rd",
     "slug": "abbotsford/mckee-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-10T13:36:00Z",
-    "count": 2
+    "lastIncident": "2026-06-26T19:37:00Z",
+    "count": 3
   },
   "abbotsford/purcell-ave": {
     "name": "Purcell Ave",
@@ -13129,6 +13129,27 @@
     "slug": "burnaby/grimmer-st",
     "city": "Burnaby",
     "lastIncident": "2026-06-26T17:58:00Z",
+    "count": 1
+  },
+  "mission/14th-ave": {
+    "name": "14th Ave",
+    "slug": "mission/14th-ave",
+    "city": "Mission",
+    "lastIncident": "2026-06-26T19:12:00Z",
+    "count": 1
+  },
+  "burnaby/15th-ave": {
+    "name": "15th Ave",
+    "slug": "burnaby/15th-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-06-26T19:34:00Z",
+    "count": 1
+  },
+  "langley/72nd-avenue-onrp": {
+    "name": "72nd Avenue Onrp",
+    "slug": "langley/72nd-avenue-onrp",
+    "city": "Langley",
+    "lastIncident": "2026-06-26T19:28:00Z",
     "count": 1
   }
 }

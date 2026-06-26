@@ -4,6 +4,19 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-26T20:04:00Z_surrey/72nd-ave",
+      "timestamp": "2026-06-26T20:04:00Z",
+      "address": "72ND AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/72nd-ave"
+      ],
+      "streetNames": [
+        "72nd Ave"
+      ],
+      "pulsePointId": "2505658712"
+    },
+    {
       "id": "2026-06-26T07:47:00Z_surrey/122nd-st_surrey/72nd-ave",
       "timestamp": "2026-06-26T07:47:00Z",
       "address": "122ND ST & 72ND AVE",
@@ -272,6 +285,6 @@
       "pulsePointId": "2444536491"
     }
   ],
-  "lastIncident": "2026-06-26T07:47:00Z",
-  "count": 18
+  "lastIncident": "2026-06-26T20:04:00Z",
+  "count": 19
 }

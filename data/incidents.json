@@ -1,5 +1,129 @@
 [
   {
+    "id": "2026-06-26T20:04:00Z_surrey/72nd-ave",
+    "timestamp": "2026-06-26T20:04:00Z",
+    "scrapedAt": "2026-06-26T20:07:19Z",
+    "address": "72ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/72nd-ave"
+    ],
+    "streetNames": [
+      "72nd Ave"
+    ],
+    "pulsePointId": "2505658712"
+  },
+  {
+    "id": "2026-06-26T19:37:00Z_abbotsford/mckee-rd_abbotsford/sumas-mountain-rd",
+    "timestamp": "2026-06-26T19:37:00Z",
+    "scrapedAt": "2026-06-26T20:07:19Z",
+    "address": "MCKEE RD & SUMAS MOUNTAIN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/mckee-rd",
+      "abbotsford/sumas-mountain-rd"
+    ],
+    "streetNames": [
+      "Mckee Rd",
+      "Sumas Mountain Rd"
+    ],
+    "pulsePointId": "2505639495"
+  },
+  {
+    "id": "2026-06-26T19:34:00Z_burnaby/15th-ave",
+    "timestamp": "2026-06-26T19:34:00Z",
+    "scrapedAt": "2026-06-26T20:07:19Z",
+    "address": "15TH AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/15th-ave"
+    ],
+    "streetNames": [
+      "15th Ave"
+    ],
+    "pulsePointId": "2505638681"
+  },
+  {
+    "id": "2026-06-26T19:28:00Z_langley/72nd-avenue-onrp_langley/trans-canada-hwy",
+    "timestamp": "2026-06-26T19:28:00Z",
+    "scrapedAt": "2026-06-26T20:07:19Z",
+    "address": "72ND AVENUE ONRP & TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/72nd-avenue-onrp",
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "72nd Avenue Onrp",
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2505633927"
+  },
+  {
+    "id": "2026-06-26T19:26:00Z_langley/trans-canada-hwy_langley/232nd-street-ofrp",
+    "timestamp": "2026-06-26T19:26:00Z",
+    "scrapedAt": "2026-06-26T20:07:19Z",
+    "address": "TRANS CANADA HWY & 232ND STREET OFRP",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy",
+      "langley/232nd-street-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "232nd Street Ofrp"
+    ],
+    "pulsePointId": "2505632919"
+  },
+  {
+    "id": "2026-06-26T19:23:00Z_port-coquitlam/pitt-river-rd_port-coquitlam/mary-hill-bps",
+    "timestamp": "2026-06-26T19:23:00Z",
+    "scrapedAt": "2026-06-26T20:07:19Z",
+    "address": "PITT RIVER RD & MARY HILL BPS",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/pitt-river-rd",
+      "port-coquitlam/mary-hill-bps"
+    ],
+    "streetNames": [
+      "Pitt River Rd",
+      "Mary Hill Bps"
+    ],
+    "pulsePointId": "2505630332"
+  },
+  {
+    "id": "2026-06-26T19:23:00Z_surrey/98th-ave_surrey/128th-st",
+    "timestamp": "2026-06-26T19:23:00Z",
+    "scrapedAt": "2026-06-26T20:07:19Z",
+    "address": "98TH AVE & 128TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/98th-ave",
+      "surrey/128th-st"
+    ],
+    "streetNames": [
+      "98th Ave",
+      "128th St"
+    ],
+    "pulsePointId": "2505632918"
+  },
+  {
+    "id": "2026-06-26T19:12:00Z_mission/grand-st_mission/14th-ave",
+    "timestamp": "2026-06-26T19:12:00Z",
+    "scrapedAt": "2026-06-26T20:07:19Z",
+    "address": "GRAND ST & 14TH AVE",
+    "city": "Mission",
+    "streets": [
+      "mission/grand-st",
+      "mission/14th-ave"
+    ],
+    "streetNames": [
+      "Grand St",
+      "14th Ave"
+    ],
+    "pulsePointId": "2505621639"
+  },
+  {
     "id": "2026-06-26T18:56:00Z_chilliwack/keith-wilson-rd",
     "timestamp": "2026-06-26T18:56:00Z",
     "scrapedAt": "2026-06-26T19:09:59Z",

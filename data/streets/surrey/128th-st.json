@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-26T19:23:00Z_surrey/98th-ave_surrey/128th-st",
+      "timestamp": "2026-06-26T19:23:00Z",
+      "address": "98TH AVE & 128TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/98th-ave",
+        "surrey/128th-st"
+      ],
+      "streetNames": [
+        "98th Ave",
+        "128th St"
+      ],
+      "pulsePointId": "2505632918"
+    },
+    {
       "id": "2026-06-26T18:18:00Z_surrey/76th-ave_surrey/128th-st",
       "timestamp": "2026-06-26T18:18:00Z",
       "address": "76TH AVE & 128TH ST",
@@ -515,6 +530,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-26T18:18:00Z",
-  "count": 35
+  "lastIncident": "2026-06-26T19:23:00Z",
+  "count": 36
 }

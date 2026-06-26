@@ -4,6 +4,36 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-06-26T19:28:00Z_langley/72nd-avenue-onrp_langley/trans-canada-hwy",
+      "timestamp": "2026-06-26T19:28:00Z",
+      "address": "72ND AVENUE ONRP & TRANS CANADA HWY",
+      "city": "Langley",
+      "streets": [
+        "langley/72nd-avenue-onrp",
+        "langley/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "72nd Avenue Onrp",
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2505633927"
+    },
+    {
+      "id": "2026-06-26T19:26:00Z_langley/trans-canada-hwy_langley/232nd-street-ofrp",
+      "timestamp": "2026-06-26T19:26:00Z",
+      "address": "TRANS CANADA HWY & 232ND STREET OFRP",
+      "city": "Langley",
+      "streets": [
+        "langley/trans-canada-hwy",
+        "langley/232nd-street-ofrp"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy",
+        "232nd Street Ofrp"
+      ],
+      "pulsePointId": "2505632919"
+    },
+    {
       "id": "2026-06-25T22:47:00Z_langley/trans-canada-hwy_langley/264th-street-onrp",
       "timestamp": "2026-06-25T22:47:00Z",
       "address": "TRANS CANADA HWY & 264TH STREET ONRP",
@@ -433,6 +463,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-25T22:47:00Z",
-  "count": 32
+  "lastIncident": "2026-06-26T19:28:00Z",
+  "count": 34
 }

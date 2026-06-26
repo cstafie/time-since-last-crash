@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-26T19:37:00Z_abbotsford/mckee-rd_abbotsford/sumas-mountain-rd",
+      "timestamp": "2026-06-26T19:37:00Z",
+      "address": "MCKEE RD & SUMAS MOUNTAIN RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/mckee-rd",
+        "abbotsford/sumas-mountain-rd"
+      ],
+      "streetNames": [
+        "Mckee Rd",
+        "Sumas Mountain Rd"
+      ],
+      "pulsePointId": "2505639495"
+    },
+    {
       "id": "2026-06-10T13:36:00Z_abbotsford/blauson-blvd_abbotsford/mckee-rd",
       "timestamp": "2026-06-10T13:36:00Z",
       "address": "BLAUSON BLVD & MCKEE RD",
@@ -34,6 +49,6 @@
       "pulsePointId": "2490383485"
     }
   ],
-  "lastIncident": "2026-06-10T13:36:00Z",
-  "count": 2
+  "lastIncident": "2026-06-26T19:37:00Z",
+  "count": 3
 }

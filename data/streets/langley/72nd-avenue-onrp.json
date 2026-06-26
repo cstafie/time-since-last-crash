@@ -1,0 +1,24 @@
+{
+  "slug": "langley/72nd-avenue-onrp",
+  "name": "72nd Avenue Onrp",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-06-26T19:28:00Z_langley/72nd-avenue-onrp_langley/trans-canada-hwy",
+      "timestamp": "2026-06-26T19:28:00Z",
+      "address": "72ND AVENUE ONRP & TRANS CANADA HWY",
+      "city": "Langley",
+      "streets": [
+        "langley/72nd-avenue-onrp",
+        "langley/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "72nd Avenue Onrp",
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2505633927"
+    }
+  ],
+  "lastIncident": "2026-06-26T19:28:00Z",
+  "count": 1
+}
