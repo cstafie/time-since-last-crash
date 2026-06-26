@@ -1,6 +1,6 @@
 {
-  "slug": "chilliwack/chilliwack-mountain-rd",
-  "name": "Chilliwack Mountain Rd",
+  "slug": "chilliwack/grand-view-dr",
+  "name": "Grand View Dr",
   "city": "Chilliwack",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Chilliwack Mountain Rd"
       ],
       "pulsePointId": "2505797713"
-    },
-    {
-      "id": "2026-03-17T07:58:00Z_chilliwack/chilliwack-mountain-rd_chilliwack/aitken-rd",
-      "timestamp": "2026-03-17T07:58:00Z",
-      "address": "CHILLIWACK MOUNTAIN RD & AITKEN RD",
-      "city": "Chilliwack",
-      "streets": [
-        "chilliwack/chilliwack-mountain-rd",
-        "chilliwack/aitken-rd"
-      ],
-      "streetNames": [
-        "Chilliwack Mountain Rd",
-        "Aitken Rd"
-      ],
-      "pulsePointId": "2435706852"
     }
   ],
   "lastIncident": "2026-06-26T23:25:00Z",
-  "count": 2
+  "count": 1
 }
