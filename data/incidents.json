@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-26T01:23:00Z_abbotsford/cardinal-ave_abbotsford/mt-lehman-rd",
+    "timestamp": "2026-06-26T01:23:00Z",
+    "scrapedAt": "2026-06-26T02:16:02Z",
+    "address": "CARDINAL AVE & MT LEHMAN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/cardinal-ave",
+      "abbotsford/mt-lehman-rd"
+    ],
+    "streetNames": [
+      "Cardinal Ave",
+      "Mt Lehman Rd"
+    ],
+    "pulsePointId": "2505163580"
+  },
+  {
     "id": "2026-06-26T01:14:00Z_surrey/king-george-blvd_surrey/128th-st",
     "timestamp": "2026-06-26T01:14:00Z",
     "scrapedAt": "2026-06-26T01:25:29Z",

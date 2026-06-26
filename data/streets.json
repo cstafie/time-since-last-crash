@@ -2117,8 +2117,8 @@
     "name": "Mt Lehman Rd",
     "slug": "abbotsford/mt-lehman-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-23T23:41:00Z",
-    "count": 11
+    "lastIncident": "2026-06-26T01:23:00Z",
+    "count": 12
   },
   "vancouver/napier-st": {
     "name": "Napier St",
@@ -13108,6 +13108,13 @@
     "slug": "port-coquitlam/hawthorne-ave",
     "city": "Port Coquitlam",
     "lastIncident": "2026-06-26T01:08:00Z",
+    "count": 1
+  },
+  "abbotsford/cardinal-ave": {
+    "name": "Cardinal Ave",
+    "slug": "abbotsford/cardinal-ave",
+    "city": "Abbotsford",
+    "lastIncident": "2026-06-26T01:23:00Z",
     "count": 1
   }
 }
