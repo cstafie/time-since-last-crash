@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-06-27T01:01:00Z_surrey/hwy-99",
+    "timestamp": "2026-06-27T01:01:00Z",
+    "scrapedAt": "2026-06-27T01:20:50Z",
+    "address": "HWY 99",
+    "city": "Surrey",
+    "streets": [
+      "surrey/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2505861782"
+  },
+  {
+    "id": "2026-06-27T00:39:00Z_vancouver/cassiar-tunl",
+    "timestamp": "2026-06-27T00:39:00Z",
+    "scrapedAt": "2026-06-27T01:20:50Z",
+    "address": "CASSIAR TUNL",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/cassiar-tunl"
+    ],
+    "streetNames": [
+      "Cassiar Tunl"
+    ],
+    "pulsePointId": "2505846071"
+  },
+  {
+    "id": "2026-06-27T00:27:00Z_abbotsford/old-yale-rd_abbotsford/mcmillan-rd",
+    "timestamp": "2026-06-27T00:27:00Z",
+    "scrapedAt": "2026-06-27T01:20:50Z",
+    "address": "OLD YALE RD & MCMILLAN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/old-yale-rd",
+      "abbotsford/mcmillan-rd"
+    ],
+    "streetNames": [
+      "Old Yale Rd",
+      "Mcmillan Rd"
+    ],
+    "pulsePointId": "2505837492"
+  },
+  {
     "id": "2026-06-26T23:54:00Z_burnaby/burke-st_burnaby/inman-ave",
     "timestamp": "2026-06-26T23:54:00Z",
     "scrapedAt": "2026-06-27T00:22:22Z",
