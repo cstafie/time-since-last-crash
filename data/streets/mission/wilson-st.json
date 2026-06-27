@@ -4,6 +4,19 @@
   "city": "Mission",
   "incidents": [
     {
+      "id": "2026-06-27T13:45:00Z_mission/wilson-st",
+      "timestamp": "2026-06-27T13:45:00Z",
+      "address": "WILSON ST",
+      "city": "Mission",
+      "streets": [
+        "mission/wilson-st"
+      ],
+      "streetNames": [
+        "Wilson St"
+      ],
+      "pulsePointId": "2506158591"
+    },
+    {
       "id": "2026-05-08T15:44:00Z_mission/wilson-st",
       "timestamp": "2026-05-08T15:44:00Z",
       "address": "WILSON ST",
@@ -30,6 +43,6 @@
       "pulsePointId": "2469928147"
     }
   ],
-  "lastIncident": "2026-05-08T15:44:00Z",
-  "count": 2
+  "lastIncident": "2026-06-27T13:45:00Z",
+  "count": 3
 }

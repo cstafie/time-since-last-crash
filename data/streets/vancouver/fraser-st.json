@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-27T13:52:00Z_vancouver/e-55th-ave_vancouver/fraser-st",
+      "timestamp": "2026-06-27T13:52:00Z",
+      "address": "E 55TH AVE & FRASER ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-55th-ave",
+        "vancouver/fraser-st"
+      ],
+      "streetNames": [
+        "E 55th Ave",
+        "Fraser St"
+      ],
+      "pulsePointId": "2506160534"
+    },
+    {
       "id": "2026-06-26T21:48:00Z_vancouver/e-19th-ave_vancouver/fraser-st",
       "timestamp": "2026-06-26T21:48:00Z",
       "address": "E 19TH AVE & FRASER ST",
@@ -272,6 +287,6 @@
       "pulsePointId": "2438036867"
     }
   ],
-  "lastIncident": "2026-06-26T21:48:00Z",
-  "count": 18
+  "lastIncident": "2026-06-27T13:52:00Z",
+  "count": 19
 }
