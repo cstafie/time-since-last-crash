@@ -4,6 +4,19 @@
   "city": "North Vancouver",
   "incidents": [
     {
+      "id": "2026-06-27T08:04:00Z_north-vancouver/trans-canada-hwy",
+      "timestamp": "2026-06-27T08:04:00Z",
+      "address": "TRANS CANADA HWY",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2506062697"
+    },
+    {
       "id": "2026-06-21T23:02:00Z_north-vancouver/trans-canada-hwy_north-vancouver/lloyd-ave",
       "timestamp": "2026-06-21T23:02:00Z",
       "address": "TRANS CANADA HWY & LLOYD AVE",
@@ -248,6 +261,6 @@
       "pulsePointId": "2446681723"
     }
   ],
-  "lastIncident": "2026-06-21T23:02:00Z",
-  "count": 18
+  "lastIncident": "2026-06-27T08:04:00Z",
+  "count": 19
 }

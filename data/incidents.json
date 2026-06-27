@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-27T08:07:00Z_abbotsford/dixon-rd_abbotsford/no-4-rd",
+    "timestamp": "2026-06-27T08:07:00Z",
+    "scrapedAt": "2026-06-27T08:51:32Z",
+    "address": "DIXON RD & NO 4 RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/dixon-rd",
+      "abbotsford/no-4-rd"
+    ],
+    "streetNames": [
+      "Dixon Rd",
+      "No 4 Rd"
+    ],
+    "pulsePointId": "2506063847"
+  },
+  {
+    "id": "2026-06-27T08:04:00Z_north-vancouver/trans-canada-hwy",
+    "timestamp": "2026-06-27T08:04:00Z",
+    "scrapedAt": "2026-06-27T08:51:32Z",
+    "address": "TRANS CANADA HWY",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2506062697"
+  },
+  {
     "id": "2026-06-27T05:51:00Z_vancouver/vanness-ave_vancouver/joyce-st",
     "timestamp": "2026-06-27T05:51:00Z",
     "scrapedAt": "2026-06-27T06:36:13Z",
