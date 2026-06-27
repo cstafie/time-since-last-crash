@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-27T17:34:00Z_abbotsford/no-4-rd_abbotsford/tolmie-rd",
+    "timestamp": "2026-06-27T17:34:00Z",
+    "scrapedAt": "2026-06-27T17:48:21Z",
+    "address": "NO 4 RD & TOLMIE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/no-4-rd",
+      "abbotsford/tolmie-rd"
+    ],
+    "streetNames": [
+      "No 4 Rd",
+      "Tolmie Rd"
+    ],
+    "pulsePointId": "2506267448"
+  },
+  {
+    "id": "2026-06-27T17:24:00Z_surrey/196th-st_surrey/56th-ave",
+    "timestamp": "2026-06-27T17:24:00Z",
+    "scrapedAt": "2026-06-27T17:48:21Z",
+    "address": "196TH ST & 56TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/196th-st",
+      "surrey/56th-ave"
+    ],
+    "streetNames": [
+      "196th St",
+      "56th Ave"
+    ],
+    "pulsePointId": "2506260865"
+  },
+  {
     "id": "2026-06-27T15:37:00Z_surrey/122a-st_surrey/80th-ave",
     "timestamp": "2026-06-27T15:37:00Z",
     "scrapedAt": "2026-06-27T16:20:47Z",
