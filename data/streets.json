@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-25T16:18:00Z",
-    "count": 53
+    "lastIncident": "2026-06-27T19:33:00Z",
+    "count": 54
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",
@@ -13206,6 +13206,13 @@
     "slug": "abbotsford/sherwood-cres",
     "city": "Abbotsford",
     "lastIncident": "2026-06-27T19:18:00Z",
+    "count": 1
+  },
+  "vancouver/e-48th-ave": {
+    "name": "E 48th Ave",
+    "slug": "vancouver/e-48th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-27T19:33:00Z",
     "count": 1
   }
 }

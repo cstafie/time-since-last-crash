@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-27T19:33:00Z_vancouver/main-st_vancouver/e-48th-ave",
+    "timestamp": "2026-06-27T19:33:00Z",
+    "scrapedAt": "2026-06-27T19:56:28Z",
+    "address": "MAIN ST & E 48TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st",
+      "vancouver/e-48th-ave"
+    ],
+    "streetNames": [
+      "Main St",
+      "E 48th Ave"
+    ],
+    "pulsePointId": "2506341957"
+  },
+  {
     "id": "2026-06-27T19:18:00Z_abbotsford/sherwood-cres",
     "timestamp": "2026-06-27T19:18:00Z",
     "scrapedAt": "2026-06-27T19:27:53Z",
