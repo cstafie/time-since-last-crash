@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-27T08:25:00Z_anmore/sunnyside-rd",
+    "timestamp": "2026-06-27T08:25:00Z",
+    "scrapedAt": "2026-06-27T09:39:57Z",
+    "address": "SUNNYSIDE RD",
+    "city": "Anmore",
+    "streets": [
+      "anmore/sunnyside-rd"
+    ],
+    "streetNames": [
+      "Sunnyside Rd"
+    ],
+    "pulsePointId": "2506069122"
+  },
+  {
     "id": "2026-06-27T08:07:00Z_abbotsford/dixon-rd_abbotsford/no-4-rd",
     "timestamp": "2026-06-27T08:07:00Z",
     "scrapedAt": "2026-06-27T08:51:32Z",
