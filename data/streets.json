@@ -1249,8 +1249,8 @@
     "name": "Trans Canada Hwy",
     "slug": "burnaby/trans-canada-hwy",
     "city": "Burnaby",
-    "lastIncident": "2026-06-25T02:40:00Z",
-    "count": 33
+    "lastIncident": "2026-06-27T05:30:00Z",
+    "count": 34
   },
   "vancouver/e-1st-ave": {
     "name": "E 1st Ave",
@@ -4007,8 +4007,8 @@
     "name": "Joyce St",
     "slug": "vancouver/joyce-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-23T03:26:00Z",
-    "count": 3
+    "lastIncident": "2026-06-27T05:51:00Z",
+    "count": 6
   },
   "richmond/general-currie-rd": {
     "name": "General Currie Rd",
@@ -13165,5 +13165,12 @@
     "city": "Chilliwack",
     "lastIncident": "2026-06-26T23:25:00Z",
     "count": 1
+  },
+  "vancouver/vanness-ave": {
+    "name": "Vanness Ave",
+    "slug": "vancouver/vanness-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-27T05:51:00Z",
+    "count": 2
   }
 }

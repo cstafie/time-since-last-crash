@@ -1,0 +1,39 @@
+{
+  "slug": "vancouver/vanness-ave",
+  "name": "Vanness Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-27T05:51:00Z_vancouver/vanness-ave_vancouver/joyce-st",
+      "timestamp": "2026-06-27T05:51:00Z",
+      "address": "VANNESS AVE & JOYCE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/vanness-ave",
+        "vancouver/joyce-st"
+      ],
+      "streetNames": [
+        "Vanness Ave",
+        "Joyce St"
+      ],
+      "pulsePointId": "2506015394"
+    },
+    {
+      "id": "2026-06-27T05:50:00Z_vancouver/joyce-st_vancouver/vanness-ave",
+      "timestamp": "2026-06-27T05:50:00Z",
+      "address": "JOYCE ST & VANNESS AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/joyce-st",
+        "vancouver/vanness-ave"
+      ],
+      "streetNames": [
+        "Joyce St",
+        "Vanness Ave"
+      ],
+      "pulsePointId": "2506013394"
+    }
+  ],
+  "lastIncident": "2026-06-27T05:51:00Z",
+  "count": 2
+}
