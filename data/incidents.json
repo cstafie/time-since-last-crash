@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-27T20:57:00Z_surrey/77th-ave_surrey/140th-st",
+    "timestamp": "2026-06-27T20:57:00Z",
+    "scrapedAt": "2026-06-27T21:20:43Z",
+    "address": "77TH AVE & 140TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/77th-ave",
+      "surrey/140th-st"
+    ],
+    "streetNames": [
+      "77th Ave",
+      "140th St"
+    ],
+    "pulsePointId": "2506393880"
+  },
+  {
     "id": "2026-06-27T20:44:00Z_surrey/108th-ave_surrey/148th-st",
     "timestamp": "2026-06-27T20:44:00Z",
     "scrapedAt": "2026-06-27T20:46:20Z",
