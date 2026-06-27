@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-27T19:12:00Z_burnaby/griffiths-ave_burnaby/arcola-st",
+      "timestamp": "2026-06-27T19:12:00Z",
+      "address": "GRIFFITHS AVE & ARCOLA ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/griffiths-ave",
+        "burnaby/arcola-st"
+      ],
+      "streetNames": [
+        "Griffiths Ave",
+        "Arcola St"
+      ],
+      "pulsePointId": "2506326902"
+    },
+    {
       "id": "2026-06-11T01:02:00Z_burnaby/sperling-ave_burnaby/arcola-st",
       "timestamp": "2026-06-11T01:02:00Z",
       "address": "SPERLING AVE & ARCOLA ST",
@@ -32,6 +47,6 @@
       "pulsePointId": "2465447424"
     }
   ],
-  "lastIncident": "2026-06-11T01:02:00Z",
-  "count": 2
+  "lastIncident": "2026-06-27T19:12:00Z",
+  "count": 3
 }

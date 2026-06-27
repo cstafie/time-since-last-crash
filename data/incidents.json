@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-27T19:18:00Z_abbotsford/sherwood-cres",
+    "timestamp": "2026-06-27T19:18:00Z",
+    "scrapedAt": "2026-06-27T19:27:53Z",
+    "address": "SHERWOOD CRES",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/sherwood-cres"
+    ],
+    "streetNames": [
+      "Sherwood Cres"
+    ],
+    "pulsePointId": "2506329880"
+  },
+  {
+    "id": "2026-06-27T19:12:00Z_burnaby/griffiths-ave_burnaby/arcola-st",
+    "timestamp": "2026-06-27T19:12:00Z",
+    "scrapedAt": "2026-06-27T19:27:53Z",
+    "address": "GRIFFITHS AVE & ARCOLA ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/griffiths-ave",
+      "burnaby/arcola-st"
+    ],
+    "streetNames": [
+      "Griffiths Ave",
+      "Arcola St"
+    ],
+    "pulsePointId": "2506326902"
+  },
+  {
     "id": "2026-06-27T18:38:00Z_chilliwack/mcsween-rd",
     "timestamp": "2026-06-27T18:38:00Z",
     "scrapedAt": "2026-06-27T18:50:54Z",
