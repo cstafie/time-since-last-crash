@@ -269,8 +269,8 @@
     "name": "Trans Canada Hwy",
     "slug": "langley/trans-canada-hwy",
     "city": "Langley",
-    "lastIncident": "2026-06-26T19:28:00Z",
-    "count": 34
+    "lastIncident": "2026-06-27T21:28:00Z",
+    "count": 35
   },
   "maple-ridge/119th-ave": {
     "name": "119th Ave",
@@ -283,8 +283,8 @@
     "name": "203rd St",
     "slug": "maple-ridge/203rd-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-06-25T15:43:00Z",
-    "count": 6
+    "lastIncident": "2026-06-27T22:09:00Z",
+    "count": 7
   },
   "maple-ridge/207th-st": {
     "name": "207th St",
@@ -1312,8 +1312,8 @@
     "name": "104th Ave",
     "slug": "surrey/104th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-25T05:50:00Z",
-    "count": 38
+    "lastIncident": "2026-06-27T21:56:00Z",
+    "count": 39
   },
   "surrey/122nd-st": {
     "name": "122nd St",
@@ -2460,8 +2460,8 @@
     "name": "Cambie St",
     "slug": "vancouver/cambie-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-26T11:24:00Z",
-    "count": 15
+    "lastIncident": "2026-06-27T22:01:00Z",
+    "count": 16
   },
   "vancouver/e-broadway": {
     "name": "E Broadway",
@@ -3237,8 +3237,8 @@
     "name": "146th St",
     "slug": "surrey/146th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-10T05:21:00Z",
-    "count": 4
+    "lastIncident": "2026-06-27T21:56:00Z",
+    "count": 5
   },
   "vancouver/macdonald-st": {
     "name": "Macdonald St",
@@ -6597,8 +6597,8 @@
     "name": "Sw Marine Dr",
     "slug": "vancouver/sw-marine-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-06-26T11:24:00Z",
-    "count": 15
+    "lastIncident": "2026-06-27T22:01:00Z",
+    "count": 16
   },
   "surrey/54th-ave": {
     "name": "54th Ave",
@@ -8788,8 +8788,8 @@
     "name": "Golden Ears Way",
     "slug": "maple-ridge/golden-ears-way",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-04T22:48:00Z",
-    "count": 1
+    "lastIncident": "2026-06-27T22:09:00Z",
+    "count": 2
   },
   "north-vancouver/browning-pl": {
     "name": "Browning Pl",

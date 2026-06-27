@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-06-27T22:09:00Z_maple-ridge/golden-ears-way_maple-ridge/203rd-st",
+    "timestamp": "2026-06-27T22:09:00Z",
+    "scrapedAt": "2026-06-27T22:19:29Z",
+    "address": "GOLDEN EARS WAY & 203RD ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/golden-ears-way",
+      "maple-ridge/203rd-st"
+    ],
+    "streetNames": [
+      "Golden Ears Way",
+      "203rd St"
+    ],
+    "pulsePointId": "2506439321"
+  },
+  {
+    "id": "2026-06-27T22:01:00Z_vancouver/sw-marine-dr_vancouver/cambie-st",
+    "timestamp": "2026-06-27T22:01:00Z",
+    "scrapedAt": "2026-06-27T22:19:29Z",
+    "address": "SW MARINE DR & CAMBIE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/sw-marine-dr",
+      "vancouver/cambie-st"
+    ],
+    "streetNames": [
+      "Sw Marine Dr",
+      "Cambie St"
+    ],
+    "pulsePointId": "2506434821"
+  },
+  {
+    "id": "2026-06-27T21:56:00Z_surrey/104th-ave_surrey/146th-st",
+    "timestamp": "2026-06-27T21:56:00Z",
+    "scrapedAt": "2026-06-27T22:19:29Z",
+    "address": "104TH AVE & 146TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/104th-ave",
+      "surrey/146th-st"
+    ],
+    "streetNames": [
+      "104th Ave",
+      "146th St"
+    ],
+    "pulsePointId": "2506431618"
+  },
+  {
+    "id": "2026-06-27T21:28:00Z_langley/trans-canada-hwy",
+    "timestamp": "2026-06-27T21:28:00Z",
+    "scrapedAt": "2026-06-27T22:19:29Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2506412391"
+  },
+  {
     "id": "2026-06-27T20:57:00Z_surrey/77th-ave_surrey/140th-st",
     "timestamp": "2026-06-27T20:57:00Z",
     "scrapedAt": "2026-06-27T21:20:43Z",

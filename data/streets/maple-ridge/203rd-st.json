@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-06-27T22:09:00Z_maple-ridge/golden-ears-way_maple-ridge/203rd-st",
+      "timestamp": "2026-06-27T22:09:00Z",
+      "address": "GOLDEN EARS WAY & 203RD ST",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/golden-ears-way",
+        "maple-ridge/203rd-st"
+      ],
+      "streetNames": [
+        "Golden Ears Way",
+        "203rd St"
+      ],
+      "pulsePointId": "2506439321"
+    },
+    {
       "id": "2026-06-25T15:43:00Z_maple-ridge/203rd-st_maple-ridge/116b-ave",
       "timestamp": "2026-06-25T15:43:00Z",
       "address": "203RD ST & 116B AVE",
@@ -93,6 +108,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-25T15:43:00Z",
-  "count": 6
+  "lastIncident": "2026-06-27T22:09:00Z",
+  "count": 7
 }
