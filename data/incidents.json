@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-27T18:18:00Z_surrey/92nd-ave_surrey/king-george-blvd",
+    "timestamp": "2026-06-27T18:18:00Z",
+    "scrapedAt": "2026-06-27T18:19:49Z",
+    "address": "92ND AVE & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/92nd-ave",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "92nd Ave",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2506292713"
+  },
+  {
+    "id": "2026-06-27T18:01:00Z_burnaby/austin-rd_burnaby/gatineau-pl",
+    "timestamp": "2026-06-27T18:01:00Z",
+    "scrapedAt": "2026-06-27T18:19:49Z",
+    "address": "AUSTIN RD & GATINEAU PL",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/austin-rd",
+      "burnaby/gatineau-pl"
+    ],
+    "streetNames": [
+      "Austin Rd",
+      "Gatineau Pl"
+    ],
+    "pulsePointId": "2506283479"
+  },
+  {
     "id": "2026-06-27T17:34:00Z_abbotsford/no-4-rd_abbotsford/tolmie-rd",
     "timestamp": "2026-06-27T17:34:00Z",
     "scrapedAt": "2026-06-27T17:48:21Z",

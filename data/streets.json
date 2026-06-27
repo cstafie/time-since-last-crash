@@ -640,8 +640,8 @@
     "name": "92nd Ave",
     "slug": "surrey/92nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-24T00:40:00Z",
-    "count": 20
+    "lastIncident": "2026-06-27T18:18:00Z",
+    "count": 21
   },
   "surrey/96th-ave": {
     "name": "96th Ave",
@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-06-26T01:14:00Z",
-    "count": 73
+    "lastIncident": "2026-06-27T18:18:00Z",
+    "count": 74
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -13185,6 +13185,20 @@
     "slug": "vancouver/champlain-cres",
     "city": "Vancouver",
     "lastIncident": "2026-06-27T10:44:00Z",
+    "count": 1
+  },
+  "burnaby/austin-rd": {
+    "name": "Austin Rd",
+    "slug": "burnaby/austin-rd",
+    "city": "Burnaby",
+    "lastIncident": "2026-06-27T18:01:00Z",
+    "count": 1
+  },
+  "burnaby/gatineau-pl": {
+    "name": "Gatineau Pl",
+    "slug": "burnaby/gatineau-pl",
+    "city": "Burnaby",
+    "lastIncident": "2026-06-27T18:01:00Z",
     "count": 1
   }
 }

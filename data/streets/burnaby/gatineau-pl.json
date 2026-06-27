@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/gatineau-pl",
+  "name": "Gatineau Pl",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-06-27T18:01:00Z_burnaby/austin-rd_burnaby/gatineau-pl",
+      "timestamp": "2026-06-27T18:01:00Z",
+      "address": "AUSTIN RD & GATINEAU PL",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/austin-rd",
+        "burnaby/gatineau-pl"
+      ],
+      "streetNames": [
+        "Austin Rd",
+        "Gatineau Pl"
+      ],
+      "pulsePointId": "2506283479"
+    }
+  ],
+  "lastIncident": "2026-06-27T18:01:00Z",
+  "count": 1
+}
