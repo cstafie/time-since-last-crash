@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-06-27T23:40:00Z_vancouver/woodland-dr_vancouver/e-hastings-st",
+    "timestamp": "2026-06-27T23:40:00Z",
+    "scrapedAt": "2026-06-27T23:46:52Z",
+    "address": "WOODLAND DR & E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/woodland-dr",
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "Woodland Dr",
+      "E Hastings St"
+    ],
+    "pulsePointId": "2506496245"
+  },
+  {
+    "id": "2026-06-27T23:31:00Z_delta/hwy-91",
+    "timestamp": "2026-06-27T23:31:00Z",
+    "scrapedAt": "2026-06-27T23:46:52Z",
+    "address": "HWY 91",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-91"
+    ],
+    "streetNames": [
+      "Hwy 91"
+    ],
+    "pulsePointId": "2506491159"
+  },
+  {
+    "id": "2026-06-27T23:26:00Z_vancouver/e-59th-ave",
+    "timestamp": "2026-06-27T23:26:00Z",
+    "scrapedAt": "2026-06-27T23:46:52Z",
+    "address": "E 59TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-59th-ave"
+    ],
+    "streetNames": [
+      "E 59th Ave"
+    ],
+    "pulsePointId": "2506486752"
+  },
+  {
     "id": "2026-06-27T23:03:00Z_burnaby/lougheed-hwy_burnaby/beta-ave",
     "timestamp": "2026-06-27T23:03:00Z",
     "scrapedAt": "2026-06-27T23:19:26Z",

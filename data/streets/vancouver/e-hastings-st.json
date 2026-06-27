@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-27T23:40:00Z_vancouver/woodland-dr_vancouver/e-hastings-st",
+      "timestamp": "2026-06-27T23:40:00Z",
+      "address": "WOODLAND DR & E HASTINGS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/woodland-dr",
+        "vancouver/e-hastings-st"
+      ],
+      "streetNames": [
+        "Woodland Dr",
+        "E Hastings St"
+      ],
+      "pulsePointId": "2506496245"
+    },
+    {
       "id": "2026-06-24T23:16:00Z_vancouver/kaslo-st_vancouver/e-hastings-st",
       "timestamp": "2026-06-24T23:16:00Z",
       "address": "KASLO ST & E HASTINGS ST",
@@ -522,6 +537,6 @@
       "pulsePointId": "2433305056"
     }
   ],
-  "lastIncident": "2026-06-24T23:16:00Z",
-  "count": 36
+  "lastIncident": "2026-06-27T23:40:00Z",
+  "count": 37
 }
