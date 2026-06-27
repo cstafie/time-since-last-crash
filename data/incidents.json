@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-27T23:03:00Z_burnaby/lougheed-hwy_burnaby/beta-ave",
+    "timestamp": "2026-06-27T23:03:00Z",
+    "scrapedAt": "2026-06-27T23:19:26Z",
+    "address": "LOUGHEED HWY & BETA AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/lougheed-hwy",
+      "burnaby/beta-ave"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "Beta Ave"
+    ],
+    "pulsePointId": "2506472093"
+  },
+  {
+    "id": "2026-06-27T22:58:00Z_surrey/176th-st",
+    "timestamp": "2026-06-27T22:58:00Z",
+    "scrapedAt": "2026-06-27T23:19:26Z",
+    "address": "176TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/176th-st"
+    ],
+    "streetNames": [
+      "176th St"
+    ],
+    "pulsePointId": "2506469284"
+  },
+  {
     "id": "2026-06-27T22:29:00Z_surrey/trans-canada-hwy",
     "timestamp": "2026-06-27T22:29:00Z",
     "scrapedAt": "2026-06-27T22:46:54Z",
