@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/champlain-cres",
+  "name": "Champlain Cres",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-27T10:44:00Z_vancouver/champlain-cres",
+      "timestamp": "2026-06-27T10:44:00Z",
+      "address": "CHAMPLAIN CRES",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/champlain-cres"
+      ],
+      "streetNames": [
+        "Champlain Cres"
+      ],
+      "pulsePointId": "2506105915"
+    }
+  ],
+  "lastIncident": "2026-06-27T10:44:00Z",
+  "count": 1
+}
