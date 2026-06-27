@@ -577,8 +577,8 @@
     "name": "168th St",
     "slug": "surrey/168th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-15T22:05:00Z",
-    "count": 13
+    "lastIncident": "2026-06-27T22:28:00Z",
+    "count": 14
   },
   "surrey/16th-ave": {
     "name": "16th Ave",
@@ -682,8 +682,8 @@
     "name": "Trans Canada Hwy",
     "slug": "surrey/trans-canada-hwy",
     "city": "Surrey",
-    "lastIncident": "2026-06-15T02:55:00Z",
-    "count": 24
+    "lastIncident": "2026-06-27T22:29:00Z",
+    "count": 26
   },
   "vancouver/balaclava-st": {
     "name": "Balaclava St",
@@ -850,8 +850,8 @@
     "name": "32nd Ave",
     "slug": "surrey/32nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-26T02:39:00Z",
-    "count": 15
+    "lastIncident": "2026-06-27T22:28:00Z",
+    "count": 16
   },
   "langley/30th-ave": {
     "name": "30th Ave",
@@ -6646,8 +6646,8 @@
     "name": "160th Street Onrp",
     "slug": "surrey/160th-street-onrp",
     "city": "Surrey",
-    "lastIncident": "2026-04-17T15:04:00Z",
-    "count": 2
+    "lastIncident": "2026-06-27T22:29:00Z",
+    "count": 3
   },
   "langley/91a-ave": {
     "name": "91a Ave",

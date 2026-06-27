@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-06-27T22:29:00Z_surrey/trans-canada-hwy",
+    "timestamp": "2026-06-27T22:29:00Z",
+    "scrapedAt": "2026-06-27T22:46:54Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2506452141"
+  },
+  {
+    "id": "2026-06-27T22:29:00Z_surrey/trans-canada-hwy_surrey/160th-street-onrp",
+    "timestamp": "2026-06-27T22:29:00Z",
+    "scrapedAt": "2026-06-27T22:46:54Z",
+    "address": "TRANS CANADA HWY & 160TH STREET ONRP",
+    "city": "Surrey",
+    "streets": [
+      "surrey/trans-canada-hwy",
+      "surrey/160th-street-onrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "160th Street Onrp"
+    ],
+    "pulsePointId": "2506452150"
+  },
+  {
+    "id": "2026-06-27T22:28:00Z_surrey/168th-st_surrey/32nd-ave",
+    "timestamp": "2026-06-27T22:28:00Z",
+    "scrapedAt": "2026-06-27T22:46:54Z",
+    "address": "168TH ST & 32ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/168th-st",
+      "surrey/32nd-ave"
+    ],
+    "streetNames": [
+      "168th St",
+      "32nd Ave"
+    ],
+    "pulsePointId": "2506451916"
+  },
+  {
     "id": "2026-06-27T22:09:00Z_maple-ridge/golden-ears-way_maple-ridge/203rd-st",
     "timestamp": "2026-06-27T22:09:00Z",
     "scrapedAt": "2026-06-27T22:19:29Z",
