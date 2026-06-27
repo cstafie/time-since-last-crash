@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-27T15:37:00Z_surrey/122a-st_surrey/80th-ave",
+    "timestamp": "2026-06-27T15:37:00Z",
+    "scrapedAt": "2026-06-27T16:20:47Z",
+    "address": "122A ST & 80TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/122a-st",
+      "surrey/80th-ave"
+    ],
+    "streetNames": [
+      "122a St",
+      "80th Ave"
+    ],
+    "pulsePointId": "2506205048"
+  },
+  {
     "id": "2026-06-27T15:11:00Z_surrey/122a-st_surrey/80th-ave",
     "timestamp": "2026-06-27T15:11:00Z",
     "scrapedAt": "2026-06-27T15:34:07Z",

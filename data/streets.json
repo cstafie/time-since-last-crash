@@ -1620,8 +1620,8 @@
     "name": "80th Ave",
     "slug": "surrey/80th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-27T15:11:00Z",
-    "count": 28
+    "lastIncident": "2026-06-27T15:37:00Z",
+    "count": 29
   },
   "surrey/156th-st": {
     "name": "156th St",
@@ -11714,8 +11714,8 @@
     "name": "122a St",
     "slug": "surrey/122a-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-27T15:11:00Z",
-    "count": 2
+    "lastIncident": "2026-06-27T15:37:00Z",
+    "count": 3
   },
   "north-vancouver/turning-lane": {
     "name": "Turning Lane",
