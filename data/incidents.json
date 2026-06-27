@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-06-27T14:56:00Z_surrey/hwy-17",
+    "timestamp": "2026-06-27T14:56:00Z",
+    "scrapedAt": "2026-06-27T14:59:24Z",
+    "address": "HWY 17",
+    "city": "Surrey",
+    "streets": [
+      "surrey/hwy-17"
+    ],
+    "streetNames": [
+      "Hwy 17"
+    ],
+    "pulsePointId": "2506185011"
+  },
+  {
+    "id": "2026-06-27T14:55:00Z_surrey/103a-ave",
+    "timestamp": "2026-06-27T14:55:00Z",
+    "scrapedAt": "2026-06-27T14:59:24Z",
+    "address": "103A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/103a-ave"
+    ],
+    "streetNames": [
+      "103a Ave"
+    ],
+    "pulsePointId": "2506185480"
+  },
+  {
     "id": "2026-06-27T13:52:00Z_vancouver/e-55th-ave_vancouver/fraser-st",
     "timestamp": "2026-06-27T13:52:00Z",
     "scrapedAt": "2026-06-27T14:09:34Z",

@@ -4,6 +4,19 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-27T14:56:00Z_surrey/hwy-17",
+      "timestamp": "2026-06-27T14:56:00Z",
+      "address": "HWY 17",
+      "city": "Surrey",
+      "streets": [
+        "surrey/hwy-17"
+      ],
+      "streetNames": [
+        "Hwy 17"
+      ],
+      "pulsePointId": "2506185011"
+    },
+    {
       "id": "2026-06-10T13:09:00Z_surrey/104th-ave_surrey/hwy-17",
       "timestamp": "2026-06-10T13:09:00Z",
       "address": "104TH AVE & HWY 17",
@@ -140,6 +153,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-10T13:09:00Z",
-  "count": 10
+  "lastIncident": "2026-06-27T14:56:00Z",
+  "count": 11
 }
