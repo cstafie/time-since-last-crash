@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-26T23:54:00Z_burnaby/burke-st_burnaby/inman-ave",
+    "timestamp": "2026-06-26T23:54:00Z",
+    "scrapedAt": "2026-06-27T00:22:22Z",
+    "address": "BURKE ST & INMAN AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/burke-st",
+      "burnaby/inman-ave"
+    ],
+    "streetNames": [
+      "Burke St",
+      "Inman Ave"
+    ],
+    "pulsePointId": "2505816780"
+  },
+  {
+    "id": "2026-06-26T23:49:00Z_north-vancouver/fell-ave_north-vancouver/w-16th-st",
+    "timestamp": "2026-06-26T23:49:00Z",
+    "scrapedAt": "2026-06-27T00:22:22Z",
+    "address": "FELL AVE & W 16TH ST",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/fell-ave",
+      "north-vancouver/w-16th-st"
+    ],
+    "streetNames": [
+      "Fell Ave",
+      "W 16th St"
+    ],
+    "pulsePointId": "2505814369"
+  },
+  {
     "id": "2026-06-26T23:25:00Z_chilliwack/grand-view-dr_chilliwack/chilliwack-mountain-rd",
     "timestamp": "2026-06-26T23:25:00Z",
     "scrapedAt": "2026-06-26T23:48:36Z",
