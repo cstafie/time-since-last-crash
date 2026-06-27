@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-27T18:38:00Z_chilliwack/mcsween-rd",
+    "timestamp": "2026-06-27T18:38:00Z",
+    "scrapedAt": "2026-06-27T18:50:54Z",
+    "address": "MCSWEEN RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/mcsween-rd"
+    ],
+    "streetNames": [
+      "Mcsween Rd"
+    ],
+    "pulsePointId": "2506306686"
+  },
+  {
+    "id": "2026-06-27T18:26:00Z_richmond/bridgeport-rd_richmond/shell-rd",
+    "timestamp": "2026-06-27T18:26:00Z",
+    "scrapedAt": "2026-06-27T18:50:54Z",
+    "address": "BRIDGEPORT RD & SHELL RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/bridgeport-rd",
+      "richmond/shell-rd"
+    ],
+    "streetNames": [
+      "Bridgeport Rd",
+      "Shell Rd"
+    ],
+    "pulsePointId": "2506298077"
+  },
+  {
     "id": "2026-06-27T18:18:00Z_surrey/92nd-ave_surrey/king-george-blvd",
     "timestamp": "2026-06-27T18:18:00Z",
     "scrapedAt": "2026-06-27T18:19:49Z",

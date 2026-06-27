@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-06-27T18:26:00Z_richmond/bridgeport-rd_richmond/shell-rd",
+      "timestamp": "2026-06-27T18:26:00Z",
+      "address": "BRIDGEPORT RD & SHELL RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/bridgeport-rd",
+        "richmond/shell-rd"
+      ],
+      "streetNames": [
+        "Bridgeport Rd",
+        "Shell Rd"
+      ],
+      "pulsePointId": "2506298077"
+    },
+    {
       "id": "2026-06-15T18:46:00Z_richmond/alderbridge-way_richmond/shell-rd",
       "timestamp": "2026-06-15T18:46:00Z",
       "address": "ALDERBRIDGE WAY & SHELL RD",
@@ -106,6 +121,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-15T18:46:00Z",
-  "count": 7
+  "lastIncident": "2026-06-27T18:26:00Z",
+  "count": 8
 }
