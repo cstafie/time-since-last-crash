@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-27T20:01:00Z_vancouver/oak-st",
+    "timestamp": "2026-06-27T20:01:00Z",
+    "scrapedAt": "2026-06-27T20:23:24Z",
+    "address": "OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "Oak St"
+    ],
+    "pulsePointId": "2506356279"
+  },
+  {
+    "id": "2026-06-27T20:00:00Z_surrey/nordel-way_surrey/120th-st",
+    "timestamp": "2026-06-27T20:00:00Z",
+    "scrapedAt": "2026-06-27T20:23:24Z",
+    "address": "NORDEL WAY & 120TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/nordel-way",
+      "surrey/120th-st"
+    ],
+    "streetNames": [
+      "Nordel Way",
+      "120th St"
+    ],
+    "pulsePointId": "2506357490"
+  },
+  {
     "id": "2026-06-27T19:33:00Z_vancouver/main-st_vancouver/e-48th-ave",
     "timestamp": "2026-06-27T19:33:00Z",
     "scrapedAt": "2026-06-27T19:56:28Z",
