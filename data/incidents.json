@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-28T18:14:00Z_vancouver/larch-st_vancouver/w-12th-ave",
+    "timestamp": "2026-06-28T18:14:00Z",
+    "scrapedAt": "2026-06-28T18:19:41Z",
+    "address": "LARCH ST & W 12TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/larch-st",
+      "vancouver/w-12th-ave"
+    ],
+    "streetNames": [
+      "Larch St",
+      "W 12th Ave"
+    ],
+    "pulsePointId": "2506979107"
+  },
+  {
     "id": "2026-06-28T16:04:00Z_maple-ridge/lougheed-hwy_maple-ridge/227th-st",
     "timestamp": "2026-06-28T16:04:00Z",
     "scrapedAt": "2026-06-28T16:23:18Z",
