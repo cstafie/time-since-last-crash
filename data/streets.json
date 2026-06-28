@@ -2040,8 +2040,8 @@
     "name": "Trans Canada Hwy",
     "slug": "coquitlam/trans-canada-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-06-03T22:42:00Z",
-    "count": 19
+    "lastIncident": "2026-06-28T04:36:00Z",
+    "count": 20
   },
   "langley/202a-st": {
     "name": "202a St",
@@ -13220,6 +13220,13 @@
     "slug": "richmond/10780-cambie-rd",
     "city": "Richmond",
     "lastIncident": "2026-06-27T23:47:00Z",
+    "count": 1
+  },
+  "burnaby/colborne-ave": {
+    "name": "Colborne Ave",
+    "slug": "burnaby/colborne-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-06-28T05:17:00Z",
     "count": 1
   }
 }
