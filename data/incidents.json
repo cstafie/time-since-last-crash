@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-28T07:06:00Z_richmond/russ-baker-way_richmond/gilbert-rd",
+    "timestamp": "2026-06-28T07:06:00Z",
+    "scrapedAt": "2026-06-28T08:05:37Z",
+    "address": "RUSS BAKER WAY & GILBERT RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/russ-baker-way",
+      "richmond/gilbert-rd"
+    ],
+    "streetNames": [
+      "Russ Baker Way",
+      "Gilbert Rd"
+    ],
+    "pulsePointId": "2506732959"
+  },
+  {
     "id": "2026-06-28T06:10:00Z_surrey/scott-road-ofrp",
     "timestamp": "2026-06-28T06:10:00Z",
     "scrapedAt": "2026-06-28T06:47:25Z",

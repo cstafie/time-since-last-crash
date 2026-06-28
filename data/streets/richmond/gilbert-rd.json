@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-06-28T07:06:00Z_richmond/russ-baker-way_richmond/gilbert-rd",
+      "timestamp": "2026-06-28T07:06:00Z",
+      "address": "RUSS BAKER WAY & GILBERT RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/russ-baker-way",
+        "richmond/gilbert-rd"
+      ],
+      "streetNames": [
+        "Russ Baker Way",
+        "Gilbert Rd"
+      ],
+      "pulsePointId": "2506732959"
+    },
+    {
       "id": "2026-06-16T15:59:00Z_richmond/francis-rd_richmond/gilbert-rd",
       "timestamp": "2026-06-16T15:59:00Z",
       "address": "FRANCIS RD & GILBERT RD",
@@ -77,6 +92,6 @@
       "pulsePointId": "2464881239"
     }
   ],
-  "lastIncident": "2026-06-16T15:59:00Z",
-  "count": 5
+  "lastIncident": "2026-06-28T07:06:00Z",
+  "count": 6
 }
