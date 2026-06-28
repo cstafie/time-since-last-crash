@@ -13214,5 +13214,12 @@
     "city": "Vancouver",
     "lastIncident": "2026-06-27T19:33:00Z",
     "count": 1
+  },
+  "richmond/10780-cambie-rd": {
+    "name": "10780 Cambie Rd",
+    "slug": "richmond/10780-cambie-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-06-27T23:47:00Z",
+    "count": 1
   }
 }

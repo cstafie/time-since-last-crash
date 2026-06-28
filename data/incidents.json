@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-06-27T23:47:00Z_richmond/10780-cambie-rd",
+    "timestamp": "2026-06-27T23:47:00Z",
+    "scrapedAt": "2026-06-28T00:20:19Z",
+    "address": "10780 CAMBIE RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/10780-cambie-rd"
+    ],
+    "streetNames": [
+      "10780 Cambie Rd"
+    ],
+    "pulsePointId": "2506501726"
+  },
+  {
     "id": "2026-06-27T23:40:00Z_vancouver/woodland-dr_vancouver/e-hastings-st",
     "timestamp": "2026-06-27T23:40:00Z",
     "scrapedAt": "2026-06-27T23:46:52Z",
