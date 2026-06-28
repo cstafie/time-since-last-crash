@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-28T22:58:00Z_north-vancouver/main-st",
+    "timestamp": "2026-06-28T22:58:00Z",
+    "scrapedAt": "2026-06-28T23:49:40Z",
+    "address": "MAIN ST",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/main-st"
+    ],
+    "streetNames": [
+      "Main St"
+    ],
+    "pulsePointId": "2507140428"
+  },
+  {
+    "id": "2026-06-28T22:54:00Z_surrey/152nd-st_surrey/34th-ave",
+    "timestamp": "2026-06-28T22:54:00Z",
+    "scrapedAt": "2026-06-28T23:49:40Z",
+    "address": "152ND ST & 34TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/152nd-st",
+      "surrey/34th-ave"
+    ],
+    "streetNames": [
+      "152nd St",
+      "34th Ave"
+    ],
+    "pulsePointId": "2507137943"
+  },
+  {
     "id": "2026-06-28T22:41:00Z_coquitlam/trans-canada-hwy_coquitlam/brunette-avenue-ofrp",
     "timestamp": "2026-06-28T22:41:00Z",
     "scrapedAt": "2026-06-28T22:47:13Z",

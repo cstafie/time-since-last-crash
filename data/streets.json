@@ -1795,8 +1795,8 @@
     "name": "152nd St",
     "slug": "surrey/152nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-28T08:02:00Z",
-    "count": 36
+    "lastIncident": "2026-06-28T22:54:00Z",
+    "count": 37
   },
   "langley/20611-fraser-hwyste-111": {
     "name": "20611 Fraser Hwy,ste 111",
@@ -7892,8 +7892,8 @@
     "name": "Main St",
     "slug": "north-vancouver/main-st",
     "city": "North Vancouver",
-    "lastIncident": "2026-04-27T22:34:00Z",
-    "count": 1
+    "lastIncident": "2026-06-28T22:58:00Z",
+    "count": 2
   },
   "abbotsford/campbell-rd": {
     "name": "Campbell Rd",
@@ -13262,6 +13262,13 @@
     "slug": "new-westminster/howes-st",
     "city": "New Westminster",
     "lastIncident": "2026-06-28T20:53:00Z",
+    "count": 1
+  },
+  "surrey/34th-ave": {
+    "name": "34th Ave",
+    "slug": "surrey/34th-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-06-28T22:54:00Z",
     "count": 1
   }
 }
