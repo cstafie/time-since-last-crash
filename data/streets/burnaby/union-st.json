@@ -1,6 +1,6 @@
 {
-  "slug": "burnaby/holdom-ave",
-  "name": "Holdom Ave",
+  "slug": "burnaby/union-st",
+  "name": "Union St",
   "city": "Burnaby",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Holdom Ave"
       ],
       "pulsePointId": "2506786775"
-    },
-    {
-      "id": "2026-06-01T12:46:00Z_burnaby/curtis-st_burnaby/holdom-ave",
-      "timestamp": "2026-06-01T12:46:00Z",
-      "address": "CURTIS ST & HOLDOM AVE",
-      "city": "Burnaby",
-      "streets": [
-        "burnaby/curtis-st",
-        "burnaby/holdom-ave"
-      ],
-      "streetNames": [
-        "Curtis St",
-        "Holdom Ave"
-      ],
-      "pulsePointId": "2486834242"
     }
   ],
   "lastIncident": "2026-06-28T09:47:00Z",
-  "count": 2
+  "count": 1
 }
