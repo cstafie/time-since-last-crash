@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-06-28T18:19:00Z_langley/56th-ave_langley/203rd-st",
+      "timestamp": "2026-06-28T18:19:00Z",
+      "address": "56TH AVE & 203RD ST",
+      "city": "Langley",
+      "streets": [
+        "langley/56th-ave",
+        "langley/203rd-st"
+      ],
+      "streetNames": [
+        "56th Ave",
+        "203rd St"
+      ],
+      "pulsePointId": "2506983463"
+    },
+    {
       "id": "2026-06-08T18:47:00Z_langley/203rd-st_langley/98th-ave",
       "timestamp": "2026-06-08T18:47:00Z",
       "address": "203RD ST & 98TH AVE",
@@ -79,6 +94,6 @@
       "pulsePointId": "2470897109"
     }
   ],
-  "lastIncident": "2026-06-08T18:47:00Z",
-  "count": 5
+  "lastIncident": "2026-06-28T18:19:00Z",
+  "count": 6
 }

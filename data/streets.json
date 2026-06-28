@@ -248,8 +248,8 @@
     "name": "56th Ave",
     "slug": "langley/56th-ave",
     "city": "Langley",
-    "lastIncident": "2026-06-16T20:39:00Z",
-    "count": 18
+    "lastIncident": "2026-06-28T18:19:00Z",
+    "count": 19
   },
   "langley/58th-cres": {
     "name": "58th Cres",
@@ -9180,8 +9180,8 @@
     "name": "203rd St",
     "slug": "langley/203rd-st",
     "city": "Langley",
-    "lastIncident": "2026-06-08T18:47:00Z",
-    "count": 5
+    "lastIncident": "2026-06-28T18:19:00Z",
+    "count": 6
   },
   "north-vancouver/fell-ave": {
     "name": "Fell Ave",
