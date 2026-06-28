@@ -2040,8 +2040,8 @@
     "name": "Trans Canada Hwy",
     "slug": "coquitlam/trans-canada-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-06-28T04:36:00Z",
-    "count": 20
+    "lastIncident": "2026-06-28T22:41:00Z",
+    "count": 21
   },
   "langley/202a-st": {
     "name": "202a St",
@@ -3370,8 +3370,8 @@
     "name": "Brunette Avenue Ofrp",
     "slug": "coquitlam/brunette-avenue-ofrp",
     "city": "Coquitlam",
-    "lastIncident": "2026-06-09T16:41:00Z",
-    "count": 5
+    "lastIncident": "2026-06-28T22:41:00Z",
+    "count": 6
   },
   "delta/80th-street-ofrp": {
     "name": "80th Street Ofrp",
