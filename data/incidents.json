@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-28T19:59:00Z_surrey/149th-st_surrey/104th-ave",
+    "timestamp": "2026-06-28T19:59:00Z",
+    "scrapedAt": "2026-06-28T20:27:30Z",
+    "address": "149TH ST & 104TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/149th-st",
+      "surrey/104th-ave"
+    ],
+    "streetNames": [
+      "149th St",
+      "104th Ave"
+    ],
+    "pulsePointId": "2507039463"
+  },
+  {
     "id": "2026-06-28T19:18:00Z_surrey/16th-ave",
     "timestamp": "2026-06-28T19:18:00Z",
     "scrapedAt": "2026-06-28T19:28:08Z",
