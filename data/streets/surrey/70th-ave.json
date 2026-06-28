@@ -4,6 +4,36 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-28T19:05:00Z_surrey/70th-ave_surrey/138th-st",
+      "timestamp": "2026-06-28T19:05:00Z",
+      "address": "70TH AVE & 138TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/70th-ave",
+        "surrey/138th-st"
+      ],
+      "streetNames": [
+        "70th Ave",
+        "138th St"
+      ],
+      "pulsePointId": "2507009975"
+    },
+    {
+      "id": "2026-06-28T18:52:00Z_surrey/70th-ave_surrey/138th-st",
+      "timestamp": "2026-06-28T18:52:00Z",
+      "address": "70TH AVE & 138TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/70th-ave",
+        "surrey/138th-st"
+      ],
+      "streetNames": [
+        "70th Ave",
+        "138th St"
+      ],
+      "pulsePointId": "2507003182"
+    },
+    {
       "id": "2026-06-28T00:44:00Z_surrey/king-george-blvd_surrey/70th-ave",
       "timestamp": "2026-06-28T00:44:00Z",
       "address": "KING GEORGE BLVD & 70TH AVE",
@@ -60,6 +90,6 @@
       "pulsePointId": "2454383244"
     }
   ],
-  "lastIncident": "2026-06-28T00:44:00Z",
-  "count": 4
+  "lastIncident": "2026-06-28T19:05:00Z",
+  "count": 6
 }

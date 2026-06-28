@@ -1,5 +1,81 @@
 [
   {
+    "id": "2026-06-28T19:18:00Z_surrey/16th-ave",
+    "timestamp": "2026-06-28T19:18:00Z",
+    "scrapedAt": "2026-06-28T19:28:08Z",
+    "address": "16TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/16th-ave"
+    ],
+    "streetNames": [
+      "16th Ave"
+    ],
+    "pulsePointId": "2507017321"
+  },
+  {
+    "id": "2026-06-28T19:14:00Z_abbotsford/2054-whatcom-rd",
+    "timestamp": "2026-06-28T19:14:00Z",
+    "scrapedAt": "2026-06-28T19:28:08Z",
+    "address": "2054 WHATCOM RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/2054-whatcom-rd"
+    ],
+    "streetNames": [
+      "2054 Whatcom Rd"
+    ],
+    "pulsePointId": "2507014028"
+  },
+  {
+    "id": "2026-06-28T19:08:00Z_vancouver/grandview-hwy_vancouver/skeena-st",
+    "timestamp": "2026-06-28T19:08:00Z",
+    "scrapedAt": "2026-06-28T19:28:08Z",
+    "address": "GRANDVIEW HWY & SKEENA ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/grandview-hwy",
+      "vancouver/skeena-st"
+    ],
+    "streetNames": [
+      "Grandview Hwy",
+      "Skeena St"
+    ],
+    "pulsePointId": "2507011747"
+  },
+  {
+    "id": "2026-06-28T19:05:00Z_surrey/70th-ave_surrey/138th-st",
+    "timestamp": "2026-06-28T19:05:00Z",
+    "scrapedAt": "2026-06-28T19:28:08Z",
+    "address": "70TH AVE & 138TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/70th-ave",
+      "surrey/138th-st"
+    ],
+    "streetNames": [
+      "70th Ave",
+      "138th St"
+    ],
+    "pulsePointId": "2507009975"
+  },
+  {
+    "id": "2026-06-28T18:52:00Z_surrey/70th-ave_surrey/138th-st",
+    "timestamp": "2026-06-28T18:52:00Z",
+    "scrapedAt": "2026-06-28T19:28:08Z",
+    "address": "70TH AVE & 138TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/70th-ave",
+      "surrey/138th-st"
+    ],
+    "streetNames": [
+      "70th Ave",
+      "138th St"
+    ],
+    "pulsePointId": "2507003182"
+  },
+  {
     "id": "2026-06-28T18:19:00Z_langley/56th-ave_langley/203rd-st",
     "timestamp": "2026-06-28T18:19:00Z",
     "scrapedAt": "2026-06-28T18:50:32Z",
