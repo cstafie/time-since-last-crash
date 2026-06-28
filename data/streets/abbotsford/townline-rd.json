@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-28T21:00:00Z_abbotsford/downes-rd_abbotsford/townline-rd",
+      "timestamp": "2026-06-28T21:00:00Z",
+      "address": "DOWNES RD & TOWNLINE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/downes-rd",
+        "abbotsford/townline-rd"
+      ],
+      "streetNames": [
+        "Downes Rd",
+        "Townline Rd"
+      ],
+      "pulsePointId": "2507075180"
+    },
+    {
       "id": "2026-06-26T03:23:00Z_abbotsford/townline-rd_abbotsford/southern-dr",
       "timestamp": "2026-06-26T03:23:00Z",
       "address": "TOWNLINE RD & SOUTHERN DR",
@@ -138,6 +153,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-26T03:23:00Z",
-  "count": 9
+  "lastIncident": "2026-06-28T21:00:00Z",
+  "count": 10
 }

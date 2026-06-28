@@ -1,5 +1,83 @@
 [
   {
+    "id": "2026-06-28T21:22:00Z_richmond/no-3-rd",
+    "timestamp": "2026-06-28T21:22:00Z",
+    "scrapedAt": "2026-06-28T21:47:37Z",
+    "address": "NO 3 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/no-3-rd"
+    ],
+    "streetNames": [
+      "No 3 Rd"
+    ],
+    "pulsePointId": "2507086503"
+  },
+  {
+    "id": "2026-06-28T21:20:00Z_langley/fraser-hwy_langley/langley-bps",
+    "timestamp": "2026-06-28T21:20:00Z",
+    "scrapedAt": "2026-06-28T21:47:37Z",
+    "address": "FRASER HWY & LANGLEY BPS",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy",
+      "langley/langley-bps"
+    ],
+    "streetNames": [
+      "Fraser Hwy",
+      "Langley Bps"
+    ],
+    "pulsePointId": "2507086395"
+  },
+  {
+    "id": "2026-06-28T21:00:00Z_abbotsford/blueridge-dr_abbotsford/ridgeview-dr",
+    "timestamp": "2026-06-28T21:00:00Z",
+    "scrapedAt": "2026-06-28T21:47:37Z",
+    "address": "BLUERIDGE DR & RIDGEVIEW DR",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/blueridge-dr",
+      "abbotsford/ridgeview-dr"
+    ],
+    "streetNames": [
+      "Blueridge Dr",
+      "Ridgeview Dr"
+    ],
+    "pulsePointId": "2507077021"
+  },
+  {
+    "id": "2026-06-28T21:00:00Z_abbotsford/downes-rd_abbotsford/townline-rd",
+    "timestamp": "2026-06-28T21:00:00Z",
+    "scrapedAt": "2026-06-28T21:47:37Z",
+    "address": "DOWNES RD & TOWNLINE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/downes-rd",
+      "abbotsford/townline-rd"
+    ],
+    "streetNames": [
+      "Downes Rd",
+      "Townline Rd"
+    ],
+    "pulsePointId": "2507075180"
+  },
+  {
+    "id": "2026-06-28T20:53:00Z_new-westminster/howes-st_new-westminster/ewen-ave",
+    "timestamp": "2026-06-28T20:53:00Z",
+    "scrapedAt": "2026-06-28T21:47:37Z",
+    "address": "HOWES ST & EWEN AVE",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/howes-st",
+      "new-westminster/ewen-ave"
+    ],
+    "streetNames": [
+      "Howes St",
+      "Ewen Ave"
+    ],
+    "pulsePointId": "2507071941"
+  },
+  {
     "id": "2026-06-28T19:59:00Z_surrey/149th-st_surrey/104th-ave",
     "timestamp": "2026-06-28T19:59:00Z",
     "scrapedAt": "2026-06-28T20:27:30Z",
