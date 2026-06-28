@@ -297,8 +297,8 @@
     "name": "227th St",
     "slug": "maple-ridge/227th-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-06-11T16:09:00Z",
-    "count": 4
+    "lastIncident": "2026-06-28T16:04:00Z",
+    "count": 5
   },
   "maple-ridge/228th-st": {
     "name": "228th St",
@@ -325,8 +325,8 @@
     "name": "Lougheed Hwy",
     "slug": "maple-ridge/lougheed-hwy",
     "city": "Maple Ridge",
-    "lastIncident": "2026-06-14T03:39:00Z",
-    "count": 31
+    "lastIncident": "2026-06-28T16:04:00Z",
+    "count": 33
   },
   "mission/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -1347,8 +1347,8 @@
     "name": "222nd St",
     "slug": "maple-ridge/222nd-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-04-18T22:44:00Z",
-    "count": 4
+    "lastIncident": "2026-06-28T16:03:00Z",
+    "count": 5
   },
   "mission/horne-street-onrp": {
     "name": "Horne Street Onrp",
