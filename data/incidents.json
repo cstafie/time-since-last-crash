@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-06-28T01:03:00Z_surrey/142nd-st_surrey/108th-ave",
+    "timestamp": "2026-06-28T01:03:00Z",
+    "scrapedAt": "2026-06-28T01:27:00Z",
+    "address": "142ND ST & 108TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/142nd-st",
+      "surrey/108th-ave"
+    ],
+    "streetNames": [
+      "142nd St",
+      "108th Ave"
+    ],
+    "pulsePointId": "2506550420"
+  },
+  {
+    "id": "2026-06-28T00:44:00Z_surrey/king-george-blvd_surrey/70th-ave",
+    "timestamp": "2026-06-28T00:44:00Z",
+    "scrapedAt": "2026-06-28T01:27:00Z",
+    "address": "KING GEORGE BLVD & 70TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/70th-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "70th Ave"
+    ],
+    "pulsePointId": "2506538316"
+  },
+  {
     "id": "2026-06-27T23:47:00Z_richmond/10780-cambie-rd",
     "timestamp": "2026-06-27T23:47:00Z",
     "scrapedAt": "2026-06-28T00:20:19Z",

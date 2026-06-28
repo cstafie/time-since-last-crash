@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-28T00:44:00Z_surrey/king-george-blvd_surrey/70th-ave",
+      "timestamp": "2026-06-28T00:44:00Z",
+      "address": "KING GEORGE BLVD & 70TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/king-george-blvd",
+        "surrey/70th-ave"
+      ],
+      "streetNames": [
+        "King George Blvd",
+        "70th Ave"
+      ],
+      "pulsePointId": "2506538316"
+    },
+    {
       "id": "2026-06-25T22:18:00Z_surrey/70th-ave",
       "timestamp": "2026-06-25T22:18:00Z",
       "address": "70TH AVE",
@@ -45,6 +60,6 @@
       "pulsePointId": "2454383244"
     }
   ],
-  "lastIncident": "2026-06-25T22:18:00Z",
-  "count": 3
+  "lastIncident": "2026-06-28T00:44:00Z",
+  "count": 4
 }

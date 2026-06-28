@@ -521,8 +521,8 @@
     "name": "108th Ave",
     "slug": "surrey/108th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-27T20:44:00Z",
-    "count": 26
+    "lastIncident": "2026-06-28T01:03:00Z",
+    "count": 27
   },
   "surrey/124th-st": {
     "name": "124th St",
@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-06-27T18:18:00Z",
-    "count": 74
+    "lastIncident": "2026-06-28T00:44:00Z",
+    "count": 75
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -6751,8 +6751,8 @@
     "name": "70th Ave",
     "slug": "surrey/70th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-25T22:18:00Z",
-    "count": 3
+    "lastIncident": "2026-06-28T00:44:00Z",
+    "count": 4
   },
   "burnaby/dawson-st": {
     "name": "Dawson St",
@@ -7633,8 +7633,8 @@
     "name": "142nd St",
     "slug": "surrey/142nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-20T05:34:00Z",
-    "count": 4
+    "lastIncident": "2026-06-28T01:03:00Z",
+    "count": 5
   },
   "burnaby/sprott-st": {
     "name": "Sprott St",
