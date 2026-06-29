@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-29T23:21:00Z_richmond/cambie-rd_richmond/no-6-rd",
+    "timestamp": "2026-06-29T23:21:00Z",
+    "scrapedAt": "2026-06-29T23:46:26Z",
+    "address": "CAMBIE RD & NO 6 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/cambie-rd",
+      "richmond/no-6-rd"
+    ],
+    "streetNames": [
+      "Cambie Rd",
+      "No 6 Rd"
+    ],
+    "pulsePointId": "2507859826"
+  },
+  {
     "id": "2026-06-29T23:00:00Z_burnaby/still-creek-ave_burnaby/ingleton-ave",
     "timestamp": "2026-06-29T23:00:00Z",
     "scrapedAt": "2026-06-29T23:19:16Z",

@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-06-29T23:21:00Z_richmond/cambie-rd_richmond/no-6-rd",
+      "timestamp": "2026-06-29T23:21:00Z",
+      "address": "CAMBIE RD & NO 6 RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/cambie-rd",
+        "richmond/no-6-rd"
+      ],
+      "streetNames": [
+        "Cambie Rd",
+        "No 6 Rd"
+      ],
+      "pulsePointId": "2507859826"
+    },
+    {
       "id": "2026-06-23T21:37:00Z_richmond/cambie-rd_richmond/no-6-rd",
       "timestamp": "2026-06-23T21:37:00Z",
       "address": "CAMBIE RD & NO 6 RD",
@@ -91,6 +106,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-23T21:37:00Z",
-  "count": 6
+  "lastIncident": "2026-06-29T23:21:00Z",
+  "count": 7
 }
