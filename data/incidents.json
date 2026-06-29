@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-29T17:39:00Z_surrey/193rd-st_surrey/73rd-ave",
+    "timestamp": "2026-06-29T17:39:00Z",
+    "scrapedAt": "2026-06-29T17:50:52Z",
+    "address": "193RD ST & 73RD AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/193rd-st",
+      "surrey/73rd-ave"
+    ],
+    "streetNames": [
+      "193rd St",
+      "73rd Ave"
+    ],
+    "pulsePointId": "2507628082"
+  },
+  {
     "id": "2026-06-29T14:43:00Z_north-vancouver/mackay-rd_north-vancouver/w-1st-st",
     "timestamp": "2026-06-29T14:43:00Z",
     "scrapedAt": "2026-06-29T15:44:02Z",
