@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-06-29T00:14:00Z_langley/203a-st_langley/logan-ave",
+    "timestamp": "2026-06-29T00:14:00Z",
+    "scrapedAt": "2026-06-29T00:22:11Z",
+    "address": "203A ST & LOGAN AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/203a-st",
+      "langley/logan-ave"
+    ],
+    "streetNames": [
+      "203a St",
+      "Logan Ave"
+    ],
+    "pulsePointId": "2507186482"
+  },
+  {
+    "id": "2026-06-28T23:49:00Z_chilliwack/trans-canada-hwy_chilliwack/yale-road-ofrp",
+    "timestamp": "2026-06-28T23:49:00Z",
+    "scrapedAt": "2026-06-29T00:22:11Z",
+    "address": "TRANS CANADA HWY & YALE ROAD OFRP",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/trans-canada-hwy",
+      "chilliwack/yale-road-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "Yale Road Ofrp"
+    ],
+    "pulsePointId": "2507172512"
+  },
+  {
+    "id": "2026-06-28T23:45:00Z_langley/trans-canada-hwy_langley/56th-avenue-ofrp",
+    "timestamp": "2026-06-28T23:45:00Z",
+    "scrapedAt": "2026-06-29T00:22:11Z",
+    "address": "TRANS CANADA HWY & 56TH AVENUE OFRP",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy",
+      "langley/56th-avenue-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "56th Avenue Ofrp"
+    ],
+    "pulsePointId": "2507169284"
+  },
+  {
     "id": "2026-06-28T22:58:00Z_north-vancouver/main-st",
     "timestamp": "2026-06-28T22:58:00Z",
     "scrapedAt": "2026-06-28T23:49:40Z",

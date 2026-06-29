@@ -1,6 +1,6 @@
 {
-  "slug": "langley/logan-ave",
-  "name": "Logan Ave",
+  "slug": "langley/203a-st",
+  "name": "203a St",
   "city": "Langley",
   "incidents": [
     {
@@ -17,21 +17,8 @@
         "Logan Ave"
       ],
       "pulsePointId": "2507186482"
-    },
-    {
-      "id": "2026-05-30T19:45:00Z_langley/logan-ave",
-      "timestamp": "2026-05-30T19:45:00Z",
-      "address": "LOGAN AVE",
-      "city": "Langley",
-      "streets": [
-        "langley/logan-ave"
-      ],
-      "streetNames": [
-        "Logan Ave"
-      ],
-      "pulsePointId": "2485684917"
     }
   ],
   "lastIncident": "2026-06-29T00:14:00Z",
-  "count": 2
+  "count": 1
 }
