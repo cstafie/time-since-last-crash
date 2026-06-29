@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-29T12:52:00Z_abbotsford/livingstone-ave_abbotsford/blue-jay-st",
+      "timestamp": "2026-06-29T12:52:00Z",
+      "address": "LIVINGSTONE AVE & BLUE JAY ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/livingstone-ave",
+        "abbotsford/blue-jay-st"
+      ],
+      "streetNames": [
+        "Livingstone Ave",
+        "Blue Jay St"
+      ],
+      "pulsePointId": "2507475375"
+    },
+    {
       "id": "2026-05-27T00:54:00Z_abbotsford/sandpiper-dr_abbotsford/blue-jay-st",
       "timestamp": "2026-05-27T00:54:00Z",
       "address": "SANDPIPER DR & BLUE JAY ST",
@@ -19,6 +34,6 @@
       "pulsePointId": "2483094323"
     }
   ],
-  "lastIncident": "2026-05-27T00:54:00Z",
-  "count": 1
+  "lastIncident": "2026-06-29T12:52:00Z",
+  "count": 2
 }

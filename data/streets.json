@@ -1200,8 +1200,8 @@
     "name": "Se Marine Dr",
     "slug": "vancouver/se-marine-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-06-26T04:05:00Z",
-    "count": 18
+    "lastIncident": "2026-06-29T13:49:00Z",
+    "count": 20
   },
   "vancouver/kerr-st": {
     "name": "Kerr St",
@@ -5050,8 +5050,8 @@
     "name": "Livingstone Ave",
     "slug": "abbotsford/livingstone-ave",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-04T20:18:00Z",
-    "count": 3
+    "lastIncident": "2026-06-29T12:52:00Z",
+    "count": 4
   },
   "abbotsford/1812-vedder-way": {
     "name": "1812 Vedder Way",
@@ -10629,8 +10629,8 @@
     "name": "Blue Jay St",
     "slug": "abbotsford/blue-jay-st",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-27T00:54:00Z",
-    "count": 1
+    "lastIncident": "2026-06-29T12:52:00Z",
+    "count": 2
   },
   "vancouver/hull-st": {
     "name": "Hull St",
@@ -12246,8 +12246,8 @@
     "name": "Chester St",
     "slug": "vancouver/chester-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-14T23:45:00Z",
-    "count": 1
+    "lastIncident": "2026-06-29T13:49:00Z",
+    "count": 3
   },
   "langley/8th-ave": {
     "name": "8th Ave",

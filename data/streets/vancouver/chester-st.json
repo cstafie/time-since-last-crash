@@ -4,6 +4,36 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-29T13:49:00Z_vancouver/se-marine-dr_vancouver/chester-st",
+      "timestamp": "2026-06-29T13:49:00Z",
+      "address": "SE MARINE DR & CHESTER ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/se-marine-dr",
+        "vancouver/chester-st"
+      ],
+      "streetNames": [
+        "Se Marine Dr",
+        "Chester St"
+      ],
+      "pulsePointId": "2507496588"
+    },
+    {
+      "id": "2026-06-29T13:48:00Z_vancouver/chester-st_vancouver/se-marine-dr",
+      "timestamp": "2026-06-29T13:48:00Z",
+      "address": "CHESTER ST & SE MARINE DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/chester-st",
+        "vancouver/se-marine-dr"
+      ],
+      "streetNames": [
+        "Chester St",
+        "Se Marine Dr"
+      ],
+      "pulsePointId": "2507497441"
+    },
+    {
       "id": "2026-06-14T23:45:00Z_vancouver/se-marine-dr_vancouver/chester-st",
       "timestamp": "2026-06-14T23:45:00Z",
       "address": "SE MARINE DR & CHESTER ST",
@@ -19,6 +49,6 @@
       "pulsePointId": "2496905518"
     }
   ],
-  "lastIncident": "2026-06-14T23:45:00Z",
-  "count": 1
+  "lastIncident": "2026-06-29T13:49:00Z",
+  "count": 3
 }

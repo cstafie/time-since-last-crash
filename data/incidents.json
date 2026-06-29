@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-06-29T13:49:00Z_vancouver/se-marine-dr_vancouver/chester-st",
+    "timestamp": "2026-06-29T13:49:00Z",
+    "scrapedAt": "2026-06-29T14:20:45Z",
+    "address": "SE MARINE DR & CHESTER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/se-marine-dr",
+      "vancouver/chester-st"
+    ],
+    "streetNames": [
+      "Se Marine Dr",
+      "Chester St"
+    ],
+    "pulsePointId": "2507496588"
+  },
+  {
+    "id": "2026-06-29T13:48:00Z_vancouver/chester-st_vancouver/se-marine-dr",
+    "timestamp": "2026-06-29T13:48:00Z",
+    "scrapedAt": "2026-06-29T14:20:45Z",
+    "address": "CHESTER ST & SE MARINE DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/chester-st",
+      "vancouver/se-marine-dr"
+    ],
+    "streetNames": [
+      "Chester St",
+      "Se Marine Dr"
+    ],
+    "pulsePointId": "2507497441"
+  },
+  {
+    "id": "2026-06-29T12:52:00Z_abbotsford/livingstone-ave_abbotsford/blue-jay-st",
+    "timestamp": "2026-06-29T12:52:00Z",
+    "scrapedAt": "2026-06-29T14:20:45Z",
+    "address": "LIVINGSTONE AVE & BLUE JAY ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/livingstone-ave",
+      "abbotsford/blue-jay-st"
+    ],
+    "streetNames": [
+      "Livingstone Ave",
+      "Blue Jay St"
+    ],
+    "pulsePointId": "2507475375"
+  },
+  {
     "id": "2026-06-29T01:46:00Z_abbotsford/townshipline-rd",
     "timestamp": "2026-06-29T01:46:00Z",
     "scrapedAt": "2026-06-29T02:21:45Z",

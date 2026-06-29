@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-29T12:52:00Z_abbotsford/livingstone-ave_abbotsford/blue-jay-st",
+      "timestamp": "2026-06-29T12:52:00Z",
+      "address": "LIVINGSTONE AVE & BLUE JAY ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/livingstone-ave",
+        "abbotsford/blue-jay-st"
+      ],
+      "streetNames": [
+        "Livingstone Ave",
+        "Blue Jay St"
+      ],
+      "pulsePointId": "2507475375"
+    },
+    {
       "id": "2026-06-04T20:18:00Z_abbotsford/maclure-rd_abbotsford/livingstone-ave",
       "timestamp": "2026-06-04T20:18:00Z",
       "address": "MACLURE RD & LIVINGSTONE AVE",
@@ -47,6 +62,6 @@
       "pulsePointId": "2446467770"
     }
   ],
-  "lastIncident": "2026-06-04T20:18:00Z",
-  "count": 3
+  "lastIncident": "2026-06-29T12:52:00Z",
+  "count": 4
 }
