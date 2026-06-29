@@ -360,8 +360,8 @@
     "name": "6th Ave",
     "slug": "new-westminster/6th-ave",
     "city": "New Westminster",
-    "lastIncident": "2026-06-26T15:26:00Z",
-    "count": 5
+    "lastIncident": "2026-06-29T18:03:00Z",
+    "count": 6
   },
   "new-westminster/8th-st": {
     "name": "8th St",
@@ -1081,8 +1081,8 @@
     "name": "No 1 Rd",
     "slug": "richmond/no-1-rd",
     "city": "Richmond",
-    "lastIncident": "2026-06-16T19:04:00Z",
-    "count": 5
+    "lastIncident": "2026-06-29T17:57:00Z",
+    "count": 6
   },
   "richmond/steveston-hwy": {
     "name": "Steveston Hwy",
@@ -13290,6 +13290,13 @@
     "slug": "north-vancouver/mackay-rd",
     "city": "North Vancouver",
     "lastIncident": "2026-06-29T14:43:00Z",
+    "count": 1
+  },
+  "richmond/broadway-st": {
+    "name": "Broadway St",
+    "slug": "richmond/broadway-st",
+    "city": "Richmond",
+    "lastIncident": "2026-06-29T17:57:00Z",
     "count": 1
   }
 }

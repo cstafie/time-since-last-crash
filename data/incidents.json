@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-29T18:03:00Z_new-westminster/6th-ave",
+    "timestamp": "2026-06-29T18:03:00Z",
+    "scrapedAt": "2026-06-29T18:35:13Z",
+    "address": "6TH AVE",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/6th-ave"
+    ],
+    "streetNames": [
+      "6th Ave"
+    ],
+    "pulsePointId": "2507645112"
+  },
+  {
+    "id": "2026-06-29T17:57:00Z_richmond/broadway-st_richmond/no-1-rd",
+    "timestamp": "2026-06-29T17:57:00Z",
+    "scrapedAt": "2026-06-29T18:35:13Z",
+    "address": "BROADWAY ST & NO 1 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/broadway-st",
+      "richmond/no-1-rd"
+    ],
+    "streetNames": [
+      "Broadway St",
+      "No 1 Rd"
+    ],
+    "pulsePointId": "2507641303"
+  },
+  {
     "id": "2026-06-29T17:39:00Z_surrey/193rd-st_surrey/73rd-ave",
     "timestamp": "2026-06-29T17:39:00Z",
     "scrapedAt": "2026-06-29T17:50:52Z",
