@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-29T23:00:00Z_burnaby/still-creek-ave_burnaby/ingleton-ave",
+    "timestamp": "2026-06-29T23:00:00Z",
+    "scrapedAt": "2026-06-29T23:19:16Z",
+    "address": "STILL CREEK AVE & INGLETON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/still-creek-ave",
+      "burnaby/ingleton-ave"
+    ],
+    "streetNames": [
+      "Still Creek Ave",
+      "Ingleton Ave"
+    ],
+    "pulsePointId": "2507845629"
+  },
+  {
     "id": "2026-06-29T22:23:00Z_vancouver/granville-st_vancouver/balfour-ave",
     "timestamp": "2026-06-29T22:23:00Z",
     "scrapedAt": "2026-06-29T22:27:09Z",
