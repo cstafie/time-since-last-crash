@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-06-29T01:06:00Z_vancouver/larch-st_vancouver/w-41st-ave",
+    "timestamp": "2026-06-29T01:06:00Z",
+    "scrapedAt": "2026-06-29T01:27:45Z",
+    "address": "LARCH ST & W 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/larch-st",
+      "vancouver/w-41st-ave"
+    ],
+    "streetNames": [
+      "Larch St",
+      "W 41st Ave"
+    ],
+    "pulsePointId": "2507216040"
+  },
+  {
+    "id": "2026-06-29T00:47:00Z_surrey/16th-ave",
+    "timestamp": "2026-06-29T00:47:00Z",
+    "scrapedAt": "2026-06-29T01:27:45Z",
+    "address": "16TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/16th-ave"
+    ],
+    "streetNames": [
+      "16th Ave"
+    ],
+    "pulsePointId": "2507206160"
+  },
+  {
+    "id": "2026-06-29T00:27:00Z_coquitlam/guildford-way_coquitlam/lansdowne-dr",
+    "timestamp": "2026-06-29T00:27:00Z",
+    "scrapedAt": "2026-06-29T01:27:45Z",
+    "address": "GUILDFORD WAY & LANSDOWNE DR",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/guildford-way",
+      "coquitlam/lansdowne-dr"
+    ],
+    "streetNames": [
+      "Guildford Way",
+      "Lansdowne Dr"
+    ],
+    "pulsePointId": "2507194523"
+  },
+  {
+    "id": "2026-06-29T00:22:00Z_west-vancouver/taylor-way_west-vancouver/inglewood-ave",
+    "timestamp": "2026-06-29T00:22:00Z",
+    "scrapedAt": "2026-06-29T01:27:45Z",
+    "address": "TAYLOR WAY & INGLEWOOD AVE",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/taylor-way",
+      "west-vancouver/inglewood-ave"
+    ],
+    "streetNames": [
+      "Taylor Way",
+      "Inglewood Ave"
+    ],
+    "pulsePointId": "2507190434"
+  },
+  {
     "id": "2026-06-29T00:14:00Z_langley/203a-st_langley/logan-ave",
     "timestamp": "2026-06-29T00:14:00Z",
     "scrapedAt": "2026-06-29T00:22:11Z",

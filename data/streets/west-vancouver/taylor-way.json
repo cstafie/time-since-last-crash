@@ -4,6 +4,21 @@
   "city": "West Vancouver",
   "incidents": [
     {
+      "id": "2026-06-29T00:22:00Z_west-vancouver/taylor-way_west-vancouver/inglewood-ave",
+      "timestamp": "2026-06-29T00:22:00Z",
+      "address": "TAYLOR WAY & INGLEWOOD AVE",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/taylor-way",
+        "west-vancouver/inglewood-ave"
+      ],
+      "streetNames": [
+        "Taylor Way",
+        "Inglewood Ave"
+      ],
+      "pulsePointId": "2507190434"
+    },
+    {
       "id": "2026-06-24T22:07:00Z_west-vancouver/marine-dr_west-vancouver/taylor-way",
       "timestamp": "2026-06-24T22:07:00Z",
       "address": "MARINE DR & TAYLOR WAY",
@@ -49,6 +64,6 @@
       "pulsePointId": "2482370119"
     }
   ],
-  "lastIncident": "2026-06-24T22:07:00Z",
-  "count": 3
+  "lastIncident": "2026-06-29T00:22:00Z",
+  "count": 4
 }

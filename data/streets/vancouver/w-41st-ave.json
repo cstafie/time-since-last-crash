@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-29T01:06:00Z_vancouver/larch-st_vancouver/w-41st-ave",
+      "timestamp": "2026-06-29T01:06:00Z",
+      "address": "LARCH ST & W 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/larch-st",
+        "vancouver/w-41st-ave"
+      ],
+      "streetNames": [
+        "Larch St",
+        "W 41st Ave"
+      ],
+      "pulsePointId": "2507216040"
+    },
+    {
       "id": "2026-06-24T16:27:00Z_vancouver/w-41st-ave_vancouver/mackenzie-st",
       "timestamp": "2026-06-24T16:27:00Z",
       "address": "W 41ST AVE & MACKENZIE ST",
@@ -257,6 +272,6 @@
       "pulsePointId": "2435256240"
     }
   ],
-  "lastIncident": "2026-06-24T16:27:00Z",
-  "count": 17
+  "lastIncident": "2026-06-29T01:06:00Z",
+  "count": 18
 }

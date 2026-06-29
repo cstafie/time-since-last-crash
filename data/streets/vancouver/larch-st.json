@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-29T01:06:00Z_vancouver/larch-st_vancouver/w-41st-ave",
+      "timestamp": "2026-06-29T01:06:00Z",
+      "address": "LARCH ST & W 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/larch-st",
+        "vancouver/w-41st-ave"
+      ],
+      "streetNames": [
+        "Larch St",
+        "W 41st Ave"
+      ],
+      "pulsePointId": "2507216040"
+    },
+    {
       "id": "2026-06-28T18:14:00Z_vancouver/larch-st_vancouver/w-12th-ave",
       "timestamp": "2026-06-28T18:14:00Z",
       "address": "LARCH ST & W 12TH AVE",
@@ -34,6 +49,6 @@
       "pulsePointId": "2436516566"
     }
   ],
-  "lastIncident": "2026-06-28T18:14:00Z",
-  "count": 2
+  "lastIncident": "2026-06-29T01:06:00Z",
+  "count": 3
 }

@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-06-29T00:27:00Z_coquitlam/guildford-way_coquitlam/lansdowne-dr",
+      "timestamp": "2026-06-29T00:27:00Z",
+      "address": "GUILDFORD WAY & LANSDOWNE DR",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/guildford-way",
+        "coquitlam/lansdowne-dr"
+      ],
+      "streetNames": [
+        "Guildford Way",
+        "Lansdowne Dr"
+      ],
+      "pulsePointId": "2507194523"
+    },
+    {
       "id": "2026-06-18T18:50:00Z_coquitlam/guildford-way_coquitlam/johnson-st",
       "timestamp": "2026-06-18T18:50:00Z",
       "address": "GUILDFORD WAY & JOHNSON ST",
@@ -60,6 +75,6 @@
       "pulsePointId": "2436026722"
     }
   ],
-  "lastIncident": "2026-06-18T18:50:00Z",
-  "count": 4
+  "lastIncident": "2026-06-29T00:27:00Z",
+  "count": 5
 }
