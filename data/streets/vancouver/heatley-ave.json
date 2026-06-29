@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/heatley-ave",
+  "name": "Heatley Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-29T22:16:00Z_vancouver/heatley-ave",
+      "timestamp": "2026-06-29T22:16:00Z",
+      "address": "HEATLEY AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/heatley-ave"
+      ],
+      "streetNames": [
+        "Heatley Ave"
+      ],
+      "pulsePointId": "2507817519"
+    }
+  ],
+  "lastIncident": "2026-06-29T22:16:00Z",
+  "count": 1
+}

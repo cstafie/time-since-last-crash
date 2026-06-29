@@ -1,0 +1,24 @@
+{
+  "slug": "langley/252nd-st",
+  "name": "252nd St",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-06-29T22:06:00Z_langley/252nd-st_langley/16th-ave",
+      "timestamp": "2026-06-29T22:06:00Z",
+      "address": "252ND ST & 16TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/252nd-st",
+        "langley/16th-ave"
+      ],
+      "streetNames": [
+        "252nd St",
+        "16th Ave"
+      ],
+      "pulsePointId": "2507809532"
+    }
+  ],
+  "lastIncident": "2026-06-29T22:06:00Z",
+  "count": 1
+}

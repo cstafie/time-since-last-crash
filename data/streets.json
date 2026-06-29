@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-28T05:50:00Z",
-    "count": 54
+    "lastIncident": "2026-06-29T22:23:00Z",
+    "count": 55
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -843,8 +843,8 @@
     "name": "16th Ave",
     "slug": "langley/16th-ave",
     "city": "Langley",
-    "lastIncident": "2026-06-29T19:20:00Z",
-    "count": 10
+    "lastIncident": "2026-06-29T22:06:00Z",
+    "count": 11
   },
   "surrey/32nd-ave": {
     "name": "32nd Ave",
@@ -12176,8 +12176,8 @@
     "name": "Balfour Ave",
     "slug": "vancouver/balfour-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-14T00:34:00Z",
-    "count": 1
+    "lastIncident": "2026-06-29T22:23:00Z",
+    "count": 2
   },
   "surrey/tannery-road-ofrp": {
     "name": "Tannery Road Ofrp",
@@ -13318,6 +13318,20 @@
     "slug": "surrey/regal-dr",
     "city": "Surrey",
     "lastIncident": "2026-06-29T19:28:00Z",
+    "count": 1
+  },
+  "vancouver/heatley-ave": {
+    "name": "Heatley Ave",
+    "slug": "vancouver/heatley-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-29T22:16:00Z",
+    "count": 1
+  },
+  "langley/252nd-st": {
+    "name": "252nd St",
+    "slug": "langley/252nd-st",
+    "city": "Langley",
+    "lastIncident": "2026-06-29T22:06:00Z",
     "count": 1
   }
 }

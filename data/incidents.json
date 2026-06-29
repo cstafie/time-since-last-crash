@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-06-29T22:23:00Z_vancouver/granville-st_vancouver/balfour-ave",
+    "timestamp": "2026-06-29T22:23:00Z",
+    "scrapedAt": "2026-06-29T22:27:09Z",
+    "address": "GRANVILLE ST & BALFOUR AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st",
+      "vancouver/balfour-ave"
+    ],
+    "streetNames": [
+      "Granville St",
+      "Balfour Ave"
+    ],
+    "pulsePointId": "2507821388"
+  },
+  {
+    "id": "2026-06-29T22:16:00Z_vancouver/heatley-ave",
+    "timestamp": "2026-06-29T22:16:00Z",
+    "scrapedAt": "2026-06-29T22:27:09Z",
+    "address": "HEATLEY AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/heatley-ave"
+    ],
+    "streetNames": [
+      "Heatley Ave"
+    ],
+    "pulsePointId": "2507817519"
+  },
+  {
+    "id": "2026-06-29T22:06:00Z_langley/252nd-st_langley/16th-ave",
+    "timestamp": "2026-06-29T22:06:00Z",
+    "scrapedAt": "2026-06-29T22:27:09Z",
+    "address": "252ND ST & 16TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/252nd-st",
+      "langley/16th-ave"
+    ],
+    "streetNames": [
+      "252nd St",
+      "16th Ave"
+    ],
+    "pulsePointId": "2507809532"
+  },
+  {
     "id": "2026-06-29T21:37:00Z_vancouver/sw-marine-dr",
     "timestamp": "2026-06-29T21:37:00Z",
     "scrapedAt": "2026-06-29T21:57:56Z",
