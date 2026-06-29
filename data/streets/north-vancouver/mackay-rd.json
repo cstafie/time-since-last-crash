@@ -1,0 +1,24 @@
+{
+  "slug": "north-vancouver/mackay-rd",
+  "name": "Mackay Rd",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-29T14:43:00Z_north-vancouver/mackay-rd_north-vancouver/w-1st-st",
+      "timestamp": "2026-06-29T14:43:00Z",
+      "address": "MACKAY RD & W 1ST ST",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/mackay-rd",
+        "north-vancouver/w-1st-st"
+      ],
+      "streetNames": [
+        "Mackay Rd",
+        "W 1st St"
+      ],
+      "pulsePointId": "2507521492"
+    }
+  ],
+  "lastIncident": "2026-06-29T14:43:00Z",
+  "count": 1
+}

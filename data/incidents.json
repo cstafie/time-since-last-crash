@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-29T14:43:00Z_north-vancouver/mackay-rd_north-vancouver/w-1st-st",
+    "timestamp": "2026-06-29T14:43:00Z",
+    "scrapedAt": "2026-06-29T15:44:02Z",
+    "address": "MACKAY RD & W 1ST ST",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/mackay-rd",
+      "north-vancouver/w-1st-st"
+    ],
+    "streetNames": [
+      "Mackay Rd",
+      "W 1st St"
+    ],
+    "pulsePointId": "2507521492"
+  },
+  {
     "id": "2026-06-29T13:49:00Z_vancouver/se-marine-dr_vancouver/chester-st",
     "timestamp": "2026-06-29T13:49:00Z",
     "scrapedAt": "2026-06-29T14:20:45Z",
