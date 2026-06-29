@@ -1,5 +1,101 @@
 [
   {
+    "id": "2026-06-29T21:14:00Z_delta/king-st_delta/churchill-st",
+    "timestamp": "2026-06-29T21:14:00Z",
+    "scrapedAt": "2026-06-29T21:28:35Z",
+    "address": "KING ST & CHURCHILL ST",
+    "city": "Delta",
+    "streets": [
+      "delta/king-st",
+      "delta/churchill-st"
+    ],
+    "streetNames": [
+      "King St",
+      "Churchill St"
+    ],
+    "pulsePointId": "2507773202"
+  },
+  {
+    "id": "2026-06-29T21:05:00Z_surrey/192nd-st_surrey/56th-ave",
+    "timestamp": "2026-06-29T21:05:00Z",
+    "scrapedAt": "2026-06-29T21:28:35Z",
+    "address": "192ND ST & 56TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/192nd-st",
+      "surrey/56th-ave"
+    ],
+    "streetNames": [
+      "192nd St",
+      "56th Ave"
+    ],
+    "pulsePointId": "2507766377"
+  },
+  {
+    "id": "2026-06-29T21:03:00Z_langley/trans-canada-hwy_langley/216th-street-ofrp",
+    "timestamp": "2026-06-29T21:03:00Z",
+    "scrapedAt": "2026-06-29T21:28:35Z",
+    "address": "TRANS CANADA HWY & 216TH STREET OFRP",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy",
+      "langley/216th-street-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "216th Street Ofrp"
+    ],
+    "pulsePointId": "2507765514"
+  },
+  {
+    "id": "2026-06-29T20:11:00Z_new-westminster/3rd-ave_new-westminster/stewardson-way",
+    "timestamp": "2026-06-29T20:11:00Z",
+    "scrapedAt": "2026-06-29T21:28:35Z",
+    "address": "3RD AVE & STEWARDSON WAY",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/3rd-ave",
+      "new-westminster/stewardson-way"
+    ],
+    "streetNames": [
+      "3rd Ave",
+      "Stewardson Way"
+    ],
+    "pulsePointId": "2507731174"
+  },
+  {
+    "id": "2026-06-29T19:43:00Z_surrey/fleetwood-way_surrey/fraser-hwy",
+    "timestamp": "2026-06-29T19:43:00Z",
+    "scrapedAt": "2026-06-29T21:28:35Z",
+    "address": "FLEETWOOD WAY & FRASER HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/fleetwood-way",
+      "surrey/fraser-hwy"
+    ],
+    "streetNames": [
+      "Fleetwood Way",
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2507712124"
+  },
+  {
+    "id": "2026-06-29T19:28:00Z_surrey/river-rd_surrey/regal-dr",
+    "timestamp": "2026-06-29T19:28:00Z",
+    "scrapedAt": "2026-06-29T21:28:35Z",
+    "address": "RIVER RD & REGAL DR",
+    "city": "Surrey",
+    "streets": [
+      "surrey/river-rd",
+      "surrey/regal-dr"
+    ],
+    "streetNames": [
+      "River Rd",
+      "Regal Dr"
+    ],
+    "pulsePointId": "2507702022"
+  },
+  {
     "id": "2026-06-29T19:23:00Z_surrey/176th-st_surrey/96th-ave",
     "timestamp": "2026-06-29T19:23:00Z",
     "scrapedAt": "2026-06-29T19:31:15Z",

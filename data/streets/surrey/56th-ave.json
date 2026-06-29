@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-29T21:05:00Z_surrey/192nd-st_surrey/56th-ave",
+      "timestamp": "2026-06-29T21:05:00Z",
+      "address": "192ND ST & 56TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/192nd-st",
+        "surrey/56th-ave"
+      ],
+      "streetNames": [
+        "192nd St",
+        "56th Ave"
+      ],
+      "pulsePointId": "2507766377"
+    },
+    {
       "id": "2026-06-27T17:24:00Z_surrey/196th-st_surrey/56th-ave",
       "timestamp": "2026-06-27T17:24:00Z",
       "address": "196TH ST & 56TH AVE",
@@ -295,6 +310,6 @@
       "pulsePointId": "2435409934"
     }
   ],
-  "lastIncident": "2026-06-27T17:24:00Z",
-  "count": 21
+  "lastIncident": "2026-06-29T21:05:00Z",
+  "count": 22
 }

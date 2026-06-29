@@ -206,8 +206,8 @@
     "name": "216th Street Ofrp",
     "slug": "langley/216th-street-ofrp",
     "city": "Langley",
-    "lastIncident": "2026-05-21T23:35:00Z",
-    "count": 2
+    "lastIncident": "2026-06-29T21:03:00Z",
+    "count": 3
   },
   "langley/248th-st": {
     "name": "248th St",
@@ -269,8 +269,8 @@
     "name": "Trans Canada Hwy",
     "slug": "langley/trans-canada-hwy",
     "city": "Langley",
-    "lastIncident": "2026-06-28T23:45:00Z",
-    "count": 37
+    "lastIncident": "2026-06-29T21:03:00Z",
+    "count": 38
   },
   "maple-ridge/119th-ave": {
     "name": "119th Ave",
@@ -927,8 +927,8 @@
     "name": "Fraser Hwy",
     "slug": "surrey/fraser-hwy",
     "city": "Surrey",
-    "lastIncident": "2026-06-26T12:25:00Z",
-    "count": 19
+    "lastIncident": "2026-06-29T19:43:00Z",
+    "count": 20
   },
   "surrey/159th-st": {
     "name": "159th St",
@@ -1382,8 +1382,8 @@
     "name": "192nd St",
     "slug": "surrey/192nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-17T22:08:00Z",
-    "count": 12
+    "lastIncident": "2026-06-29T21:05:00Z",
+    "count": 13
   },
   "surrey/66a-ave": {
     "name": "66a Ave",
@@ -2005,15 +2005,15 @@
     "name": "3rd Ave",
     "slug": "new-westminster/3rd-ave",
     "city": "New Westminster",
-    "lastIncident": "2026-06-23T23:45:00Z",
-    "count": 3
+    "lastIncident": "2026-06-29T20:11:00Z",
+    "count": 4
   },
   "new-westminster/stewardson-way": {
     "name": "Stewardson Way",
     "slug": "new-westminster/stewardson-way",
     "city": "New Westminster",
-    "lastIncident": "2026-04-26T18:19:00Z",
-    "count": 7
+    "lastIncident": "2026-06-29T20:11:00Z",
+    "count": 8
   },
   "vancouver/oak-street-brdg": {
     "name": "Oak Street Brdg",
@@ -2390,8 +2390,8 @@
     "name": "56th Ave",
     "slug": "surrey/56th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-27T17:24:00Z",
-    "count": 21
+    "lastIncident": "2026-06-29T21:05:00Z",
+    "count": 22
   },
   "port-moody/grant-st": {
     "name": "Grant St",
@@ -9593,8 +9593,8 @@
     "name": "Fleetwood Way",
     "slug": "surrey/fleetwood-way",
     "city": "Surrey",
-    "lastIncident": "2026-05-15T00:03:00Z",
-    "count": 1
+    "lastIncident": "2026-06-29T19:43:00Z",
+    "count": 2
   },
   "burnaby/sperling-ave": {
     "name": "Sperling Ave",
@@ -9964,8 +9964,8 @@
     "name": "Churchill St",
     "slug": "delta/churchill-st",
     "city": "Delta",
-    "lastIncident": "2026-05-19T17:17:00Z",
-    "count": 1
+    "lastIncident": "2026-06-29T21:14:00Z",
+    "count": 2
   },
   "richmond/vickers-way": {
     "name": "Vickers Way",
@@ -13297,6 +13297,27 @@
     "slug": "richmond/broadway-st",
     "city": "Richmond",
     "lastIncident": "2026-06-29T17:57:00Z",
+    "count": 1
+  },
+  "delta/king-st": {
+    "name": "King St",
+    "slug": "delta/king-st",
+    "city": "Delta",
+    "lastIncident": "2026-06-29T21:14:00Z",
+    "count": 1
+  },
+  "surrey/river-rd": {
+    "name": "River Rd",
+    "slug": "surrey/river-rd",
+    "city": "Surrey",
+    "lastIncident": "2026-06-29T19:28:00Z",
+    "count": 1
+  },
+  "surrey/regal-dr": {
+    "name": "Regal Dr",
+    "slug": "surrey/regal-dr",
+    "city": "Surrey",
+    "lastIncident": "2026-06-29T19:28:00Z",
     "count": 1
   }
 }
