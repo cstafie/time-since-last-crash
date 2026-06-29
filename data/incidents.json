@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-06-29T01:46:00Z_abbotsford/townshipline-rd",
+    "timestamp": "2026-06-29T01:46:00Z",
+    "scrapedAt": "2026-06-29T02:21:45Z",
+    "address": "TOWNSHIPLINE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/townshipline-rd"
+    ],
+    "streetNames": [
+      "Townshipline Rd"
+    ],
+    "pulsePointId": "2507239798"
+  },
+  {
+    "id": "2026-06-29T01:30:00Z_surrey/scott-rd_surrey/103a-ave",
+    "timestamp": "2026-06-29T01:30:00Z",
+    "scrapedAt": "2026-06-29T02:21:45Z",
+    "address": "SCOTT RD & 103A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/scott-rd",
+      "surrey/103a-ave"
+    ],
+    "streetNames": [
+      "Scott Rd",
+      "103a Ave"
+    ],
+    "pulsePointId": "2507229683"
+  },
+  {
+    "id": "2026-06-29T01:26:00Z_surrey/152nd-st",
+    "timestamp": "2026-06-29T01:26:00Z",
+    "scrapedAt": "2026-06-29T02:21:45Z",
+    "address": "152ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/152nd-st"
+    ],
+    "streetNames": [
+      "152nd St"
+    ],
+    "pulsePointId": "2507228695"
+  },
+  {
     "id": "2026-06-29T01:06:00Z_vancouver/larch-st_vancouver/w-41st-ave",
     "timestamp": "2026-06-29T01:06:00Z",
     "scrapedAt": "2026-06-29T01:27:45Z",

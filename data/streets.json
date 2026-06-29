@@ -1795,8 +1795,8 @@
     "name": "152nd St",
     "slug": "surrey/152nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-28T22:54:00Z",
-    "count": 37
+    "lastIncident": "2026-06-29T01:26:00Z",
+    "count": 38
   },
   "langley/20611-fraser-hwyste-111": {
     "name": "20611 Fraser Hwy,ste 111",
@@ -3804,8 +3804,8 @@
     "name": "Townshipline Rd",
     "slug": "abbotsford/townshipline-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-15T14:35:00Z",
-    "count": 3
+    "lastIncident": "2026-06-29T01:46:00Z",
+    "count": 4
   },
   "chilliwack/industrial-way": {
     "name": "Industrial Way",
@@ -5694,8 +5694,8 @@
     "name": "103a Ave",
     "slug": "surrey/103a-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-27T14:55:00Z",
-    "count": 5
+    "lastIncident": "2026-06-29T01:30:00Z",
+    "count": 6
   },
   "vancouver/w-46th-ave": {
     "name": "W 46th Ave",
@@ -7325,8 +7325,8 @@
     "name": "Scott Rd",
     "slug": "surrey/scott-rd",
     "city": "Surrey",
-    "lastIncident": "2026-06-19T02:59:00Z",
-    "count": 5
+    "lastIncident": "2026-06-29T01:30:00Z",
+    "count": 6
   },
   "vancouver/beatty-st": {
     "name": "Beatty St",

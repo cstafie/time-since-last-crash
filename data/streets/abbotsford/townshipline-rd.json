@@ -4,6 +4,19 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-06-29T01:46:00Z_abbotsford/townshipline-rd",
+      "timestamp": "2026-06-29T01:46:00Z",
+      "address": "TOWNSHIPLINE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/townshipline-rd"
+      ],
+      "streetNames": [
+        "Townshipline Rd"
+      ],
+      "pulsePointId": "2507239798"
+    },
+    {
       "id": "2026-06-15T14:35:00Z_abbotsford/townshipline-rd",
       "timestamp": "2026-06-15T14:35:00Z",
       "address": "TOWNSHIPLINE RD",
@@ -45,6 +58,6 @@
       "pulsePointId": "2440431488"
     }
   ],
-  "lastIncident": "2026-06-15T14:35:00Z",
-  "count": 3
+  "lastIncident": "2026-06-29T01:46:00Z",
+  "count": 4
 }
