@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-30T00:17:00Z_vancouver/gladstone-st_vancouver/e-41st-ave",
+    "timestamp": "2026-06-30T00:17:00Z",
+    "scrapedAt": "2026-06-30T00:22:12Z",
+    "address": "GLADSTONE ST & E 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/gladstone-st",
+      "vancouver/e-41st-ave"
+    ],
+    "streetNames": [
+      "Gladstone St",
+      "E 41st Ave"
+    ],
+    "pulsePointId": "2507895390"
+  },
+  {
     "id": "2026-06-29T23:21:00Z_richmond/cambie-rd_richmond/no-6-rd",
     "timestamp": "2026-06-29T23:21:00Z",
     "scrapedAt": "2026-06-29T23:46:26Z",

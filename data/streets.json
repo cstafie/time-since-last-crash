@@ -717,8 +717,8 @@
     "name": "E 41st Ave",
     "slug": "vancouver/e-41st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-23T23:25:00Z",
-    "count": 38
+    "lastIncident": "2026-06-30T00:17:00Z",
+    "count": 39
   },
   "vancouver/granville-st": {
     "name": "Granville St",
@@ -4287,8 +4287,8 @@
     "name": "Gladstone St",
     "slug": "vancouver/gladstone-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-03T17:08:00Z",
-    "count": 2
+    "lastIncident": "2026-06-30T00:17:00Z",
+    "count": 3
   },
   "vancouver/broughton-st": {
     "name": "Broughton St",

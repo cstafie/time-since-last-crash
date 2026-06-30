@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-30T00:17:00Z_vancouver/gladstone-st_vancouver/e-41st-ave",
+      "timestamp": "2026-06-30T00:17:00Z",
+      "address": "GLADSTONE ST & E 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/gladstone-st",
+        "vancouver/e-41st-ave"
+      ],
+      "streetNames": [
+        "Gladstone St",
+        "E 41st Ave"
+      ],
+      "pulsePointId": "2507895390"
+    },
+    {
       "id": "2026-06-23T23:25:00Z_vancouver/fraser-st_vancouver/e-41st-ave",
       "timestamp": "2026-06-23T23:25:00Z",
       "address": "FRASER ST & E 41ST AVE",
@@ -569,6 +584,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-23T23:25:00Z",
-  "count": 38
+  "lastIncident": "2026-06-30T00:17:00Z",
+  "count": 39
 }
