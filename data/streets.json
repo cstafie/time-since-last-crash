@@ -2005,8 +2005,8 @@
     "name": "3rd Ave",
     "slug": "new-westminster/3rd-ave",
     "city": "New Westminster",
-    "lastIncident": "2026-06-29T20:11:00Z",
-    "count": 4
+    "lastIncident": "2026-06-30T21:59:00Z",
+    "count": 5
   },
   "new-westminster/stewardson-way": {
     "name": "Stewardson Way",
@@ -2572,8 +2572,8 @@
     "name": "No 5 Rd",
     "slug": "richmond/no-5-rd",
     "city": "Richmond",
-    "lastIncident": "2026-06-18T16:00:00Z",
-    "count": 13
+    "lastIncident": "2026-06-30T22:31:00Z",
+    "count": 14
   },
   "port-moody/heritage-mountain-blvd": {
     "name": "Heritage Mountain Blvd",
@@ -5015,8 +5015,8 @@
     "name": "Willowbrook Conn",
     "slug": "langley/willowbrook-conn",
     "city": "Langley",
-    "lastIncident": "2026-04-02T16:23:00Z",
-    "count": 1
+    "lastIncident": "2026-06-30T22:42:00Z",
+    "count": 2
   },
   "chilliwack/adams-rd": {
     "name": "Adams Rd",
@@ -13381,6 +13381,13 @@
     "slug": "west-vancouver/hadden-dr",
     "city": "West Vancouver",
     "lastIncident": "2026-06-30T20:52:00Z",
+    "count": 1
+  },
+  "langley/65th-ave": {
+    "name": "65th Ave",
+    "slug": "langley/65th-ave",
+    "city": "Langley",
+    "lastIncident": "2026-06-30T22:42:00Z",
     "count": 1
   }
 }

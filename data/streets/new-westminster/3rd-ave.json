@@ -4,6 +4,19 @@
   "city": "New Westminster",
   "incidents": [
     {
+      "id": "2026-06-30T21:59:00Z_new-westminster/3rd-ave",
+      "timestamp": "2026-06-30T21:59:00Z",
+      "address": "3RD AVE",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/3rd-ave"
+      ],
+      "streetNames": [
+        "3rd Ave"
+      ],
+      "pulsePointId": "2508514974"
+    },
+    {
       "id": "2026-06-29T20:11:00Z_new-westminster/3rd-ave_new-westminster/stewardson-way",
       "timestamp": "2026-06-29T20:11:00Z",
       "address": "3RD AVE & STEWARDSON WAY",
@@ -64,6 +77,6 @@
       "pulsePointId": "2434119568"
     }
   ],
-  "lastIncident": "2026-06-29T20:11:00Z",
-  "count": 4
+  "lastIncident": "2026-06-30T21:59:00Z",
+  "count": 5
 }

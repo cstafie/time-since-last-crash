@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-06-30T22:42:00Z_langley/65th-ave_langley/willowbrook-conn",
+    "timestamp": "2026-06-30T22:42:00Z",
+    "scrapedAt": "2026-06-30T22:53:58Z",
+    "address": "65TH AVE & WILLOWBROOK CONN",
+    "city": "Langley",
+    "streets": [
+      "langley/65th-ave",
+      "langley/willowbrook-conn"
+    ],
+    "streetNames": [
+      "65th Ave",
+      "Willowbrook Conn"
+    ],
+    "pulsePointId": "2508542716"
+  },
+  {
+    "id": "2026-06-30T22:31:00Z_richmond/no-5-rd",
+    "timestamp": "2026-06-30T22:31:00Z",
+    "scrapedAt": "2026-06-30T22:53:58Z",
+    "address": "NO 5 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/no-5-rd"
+    ],
+    "streetNames": [
+      "No 5 Rd"
+    ],
+    "pulsePointId": "2508535761"
+  },
+  {
+    "id": "2026-06-30T21:59:00Z_new-westminster/3rd-ave",
+    "timestamp": "2026-06-30T21:59:00Z",
+    "scrapedAt": "2026-06-30T22:53:58Z",
+    "address": "3RD AVE",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/3rd-ave"
+    ],
+    "streetNames": [
+      "3rd Ave"
+    ],
+    "pulsePointId": "2508514974"
+  },
+  {
     "id": "2026-06-30T21:00:00Z_surrey/16th-ave_surrey/168th-st",
     "timestamp": "2026-06-30T21:00:00Z",
     "scrapedAt": "2026-06-30T21:28:48Z",
