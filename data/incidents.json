@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-06-30T01:01:00Z_richmond/cambie-rd",
+    "timestamp": "2026-06-30T01:01:00Z",
+    "scrapedAt": "2026-06-30T01:22:11Z",
+    "address": "CAMBIE RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/cambie-rd"
+    ],
+    "streetNames": [
+      "Cambie Rd"
+    ],
+    "pulsePointId": "2507921178"
+  },
+  {
+    "id": "2026-06-30T00:58:00Z_langley/trans-canada-hwy",
+    "timestamp": "2026-06-30T00:58:00Z",
+    "scrapedAt": "2026-06-30T01:22:11Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2507920494"
+  },
+  {
     "id": "2026-06-30T00:17:00Z_vancouver/gladstone-st_vancouver/e-41st-ave",
     "timestamp": "2026-06-30T00:17:00Z",
     "scrapedAt": "2026-06-30T00:22:12Z",
