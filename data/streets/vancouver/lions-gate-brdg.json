@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/lions-gate-brdg",
+  "name": "Lions Gate Brdg",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-30T06:22:00Z_vancouver/lions-gate-brdg",
+      "timestamp": "2026-06-30T06:22:00Z",
+      "address": "LIONS GATE BRDG",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/lions-gate-brdg"
+      ],
+      "streetNames": [
+        "Lions Gate Brdg"
+      ],
+      "pulsePointId": "2508083015"
+    }
+  ],
+  "lastIncident": "2026-06-30T06:22:00Z",
+  "count": 1
+}

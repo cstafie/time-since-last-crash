@@ -13340,5 +13340,12 @@
     "city": "Surrey",
     "lastIncident": "2026-06-30T04:56:00Z",
     "count": 1
+  },
+  "vancouver/lions-gate-brdg": {
+    "name": "Lions Gate Brdg",
+    "slug": "vancouver/lions-gate-brdg",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-30T06:22:00Z",
+    "count": 1
   }
 }
