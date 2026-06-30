@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-06-30T15:24:00Z_coquitlam/clarke-rd_coquitlam/smith-ave",
+      "timestamp": "2026-06-30T15:24:00Z",
+      "address": "CLARKE RD & SMITH AVE",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/clarke-rd",
+        "coquitlam/smith-ave"
+      ],
+      "streetNames": [
+        "Clarke Rd",
+        "Smith Ave"
+      ],
+      "pulsePointId": "2508259401"
+    },
+    {
       "id": "2026-04-07T18:47:00Z_coquitlam/como-lake-ave_coquitlam/clarke-rd",
       "timestamp": "2026-04-07T18:47:00Z",
       "address": "COMO LAKE AVE & CLARKE RD",
@@ -34,6 +49,6 @@
       "pulsePointId": "2444715548"
     }
   ],
-  "lastIncident": "2026-04-07T18:47:00Z",
-  "count": 2
+  "lastIncident": "2026-06-30T15:24:00Z",
+  "count": 3
 }

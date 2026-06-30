@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-06-30T15:24:00Z_coquitlam/clarke-rd_coquitlam/smith-ave",
+    "timestamp": "2026-06-30T15:24:00Z",
+    "scrapedAt": "2026-06-30T15:45:54Z",
+    "address": "CLARKE RD & SMITH AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/clarke-rd",
+      "coquitlam/smith-ave"
+    ],
+    "streetNames": [
+      "Clarke Rd",
+      "Smith Ave"
+    ],
+    "pulsePointId": "2508259401"
+  },
+  {
+    "id": "2026-06-30T14:59:00Z_burnaby/boundary-rd_burnaby/kingsway",
+    "timestamp": "2026-06-30T14:59:00Z",
+    "scrapedAt": "2026-06-30T15:45:54Z",
+    "address": "BOUNDARY RD & KINGSWAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/boundary-rd",
+      "burnaby/kingsway"
+    ],
+    "streetNames": [
+      "Boundary Rd",
+      "Kingsway"
+    ],
+    "pulsePointId": "2508245466"
+  },
+  {
+    "id": "2026-06-30T14:58:00Z_vancouver/joyce-st",
+    "timestamp": "2026-06-30T14:58:00Z",
+    "scrapedAt": "2026-06-30T15:45:54Z",
+    "address": "JOYCE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/joyce-st"
+    ],
+    "streetNames": [
+      "Joyce St"
+    ],
+    "pulsePointId": "2508244529"
+  },
+  {
+    "id": "2026-06-30T14:54:00Z_delta/hwy-99",
+    "timestamp": "2026-06-30T14:54:00Z",
+    "scrapedAt": "2026-06-30T15:45:54Z",
+    "address": "HWY 99",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2508243497"
+  },
+  {
     "id": "2026-06-30T14:29:00Z_vancouver/arbutus-st_vancouver/w-12th-ave",
     "timestamp": "2026-06-30T14:29:00Z",
     "scrapedAt": "2026-06-30T14:47:14Z",

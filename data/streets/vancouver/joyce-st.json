@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-30T14:58:00Z_vancouver/joyce-st",
+      "timestamp": "2026-06-30T14:58:00Z",
+      "address": "JOYCE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/joyce-st"
+      ],
+      "streetNames": [
+        "Joyce St"
+      ],
+      "pulsePointId": "2508244529"
+    },
+    {
       "id": "2026-06-27T05:51:00Z_vancouver/vanness-ave_vancouver/joyce-st",
       "timestamp": "2026-06-27T05:51:00Z",
       "address": "VANNESS AVE & JOYCE ST",
@@ -92,6 +105,6 @@
       "pulsePointId": "2441282635"
     }
   ],
-  "lastIncident": "2026-06-27T05:51:00Z",
-  "count": 6
+  "lastIncident": "2026-06-30T14:58:00Z",
+  "count": 7
 }
