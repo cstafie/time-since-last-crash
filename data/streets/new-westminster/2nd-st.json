@@ -4,6 +4,19 @@
   "city": "New Westminster",
   "incidents": [
     {
+      "id": "2026-06-30T17:43:00Z_new-westminster/2nd-st",
+      "timestamp": "2026-06-30T17:43:00Z",
+      "address": "2ND ST",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/2nd-st"
+      ],
+      "streetNames": [
+        "2nd St"
+      ],
+      "pulsePointId": "2508341367"
+    },
+    {
       "id": "2026-06-10T00:47:00Z_new-westminster/2nd-st_new-westminster/elgin-st",
       "timestamp": "2026-06-10T00:47:00Z",
       "address": "2ND ST & ELGIN ST",
@@ -49,6 +62,6 @@
       "pulsePointId": "2433232587"
     }
   ],
-  "lastIncident": "2026-06-10T00:47:00Z",
-  "count": 3
+  "lastIncident": "2026-06-30T17:43:00Z",
+  "count": 4
 }
