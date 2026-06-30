@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-06-30T09:19:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-06-30T09:19:00Z",
+    "scrapedAt": "2026-06-30T09:43:25Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2508132852"
+  },
+  {
+    "id": "2026-06-30T08:49:00Z_vancouver/seymour-st",
+    "timestamp": "2026-06-30T08:49:00Z",
+    "scrapedAt": "2026-06-30T09:43:25Z",
+    "address": "SEYMOUR ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/seymour-st"
+    ],
+    "streetNames": [
+      "Seymour St"
+    ],
+    "pulsePointId": "2508125157"
+  },
+  {
     "id": "2026-06-30T06:57:00Z_burnaby/kingsway_burnaby/patterson-ave",
     "timestamp": "2026-06-30T06:57:00Z",
     "scrapedAt": "2026-06-30T08:09:22Z",

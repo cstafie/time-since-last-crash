@@ -1949,8 +1949,8 @@
     "name": "Trans Canada Hwy",
     "slug": "abbotsford/trans-canada-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-25T23:18:00Z",
-    "count": 44
+    "lastIncident": "2026-06-30T09:19:00Z",
+    "count": 45
   },
   "vancouver/w-16th-ave": {
     "name": "W 16th Ave",
@@ -4511,8 +4511,8 @@
     "name": "Seymour St",
     "slug": "vancouver/seymour-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-12T20:53:00Z",
-    "count": 6
+    "lastIncident": "2026-06-30T08:49:00Z",
+    "count": 7
   },
   "surrey/72nd-ave": {
     "name": "72nd Ave",
