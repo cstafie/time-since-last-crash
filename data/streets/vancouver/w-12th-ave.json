@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-30T14:29:00Z_vancouver/arbutus-st_vancouver/w-12th-ave",
+      "timestamp": "2026-06-30T14:29:00Z",
+      "address": "ARBUTUS ST & W 12TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/arbutus-st",
+        "vancouver/w-12th-ave"
+      ],
+      "streetNames": [
+        "Arbutus St",
+        "W 12th Ave"
+      ],
+      "pulsePointId": "2508228709"
+    },
+    {
       "id": "2026-06-28T18:14:00Z_vancouver/larch-st_vancouver/w-12th-ave",
       "timestamp": "2026-06-28T18:14:00Z",
       "address": "LARCH ST & W 12TH AVE",
@@ -207,6 +222,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-28T18:14:00Z",
-  "count": 14
+  "lastIncident": "2026-06-30T14:29:00Z",
+  "count": 15
 }

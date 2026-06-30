@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-30T14:29:00Z_vancouver/arbutus-st_vancouver/w-12th-ave",
+    "timestamp": "2026-06-30T14:29:00Z",
+    "scrapedAt": "2026-06-30T14:47:14Z",
+    "address": "ARBUTUS ST & W 12TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/arbutus-st",
+      "vancouver/w-12th-ave"
+    ],
+    "streetNames": [
+      "Arbutus St",
+      "W 12th Ave"
+    ],
+    "pulsePointId": "2508228709"
+  },
+  {
     "id": "2026-06-30T09:19:00Z_abbotsford/trans-canada-hwy",
     "timestamp": "2026-06-30T09:19:00Z",
     "scrapedAt": "2026-06-30T09:43:25Z",

@@ -773,8 +773,8 @@
     "name": "W 12th Ave",
     "slug": "vancouver/w-12th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-28T18:14:00Z",
-    "count": 14
+    "lastIncident": "2026-06-30T14:29:00Z",
+    "count": 15
   },
   "vancouver/w-33rd-ave": {
     "name": "W 33rd Ave",
@@ -5533,8 +5533,8 @@
     "name": "Arbutus St",
     "slug": "vancouver/arbutus-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-21T19:49:00Z",
-    "count": 5
+    "lastIncident": "2026-06-30T14:29:00Z",
+    "count": 6
   },
   "surrey/125th-st": {
     "name": "125th St",
