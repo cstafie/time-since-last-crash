@@ -1,0 +1,24 @@
+{
+  "slug": "north-vancouver/e-12th-lane",
+  "name": "E 12th Lane",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-30T19:48:00Z_north-vancouver/st-andrews-ave_north-vancouver/e-12th-lane",
+      "timestamp": "2026-06-30T19:48:00Z",
+      "address": "ST ANDREWS AVE & E 12TH LANE",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/st-andrews-ave",
+        "north-vancouver/e-12th-lane"
+      ],
+      "streetNames": [
+        "St Andrews Ave",
+        "E 12th Lane"
+      ],
+      "pulsePointId": "2508423688"
+    }
+  ],
+  "lastIncident": "2026-06-30T19:48:00Z",
+  "count": 1
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/prince-edward-st",
+  "name": "Prince Edward St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-30T19:42:00Z_vancouver/e-59th-ave_vancouver/prince-edward-st",
+      "timestamp": "2026-06-30T19:42:00Z",
+      "address": "E 59TH AVE & PRINCE EDWARD ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-59th-ave",
+        "vancouver/prince-edward-st"
+      ],
+      "streetNames": [
+        "E 59th Ave",
+        "Prince Edward St"
+      ],
+      "pulsePointId": "2508419728"
+    }
+  ],
+  "lastIncident": "2026-06-30T19:42:00Z",
+  "count": 1
+}

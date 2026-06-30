@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-06-30T20:30:00Z_vancouver/w-64th-ave_vancouver/oak-st",
+    "timestamp": "2026-06-30T20:30:00Z",
+    "scrapedAt": "2026-06-30T20:34:02Z",
+    "address": "W 64TH AVE & OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-64th-ave",
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "W 64th Ave",
+      "Oak St"
+    ],
+    "pulsePointId": "2508453592"
+  },
+  {
+    "id": "2026-06-30T19:48:00Z_north-vancouver/st-andrews-ave_north-vancouver/e-12th-lane",
+    "timestamp": "2026-06-30T19:48:00Z",
+    "scrapedAt": "2026-06-30T20:34:02Z",
+    "address": "ST ANDREWS AVE & E 12TH LANE",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/st-andrews-ave",
+      "north-vancouver/e-12th-lane"
+    ],
+    "streetNames": [
+      "St Andrews Ave",
+      "E 12th Lane"
+    ],
+    "pulsePointId": "2508423688"
+  },
+  {
+    "id": "2026-06-30T19:42:00Z_vancouver/e-59th-ave_vancouver/prince-edward-st",
+    "timestamp": "2026-06-30T19:42:00Z",
+    "scrapedAt": "2026-06-30T20:34:02Z",
+    "address": "E 59TH AVE & PRINCE EDWARD ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-59th-ave",
+      "vancouver/prince-edward-st"
+    ],
+    "streetNames": [
+      "E 59th Ave",
+      "Prince Edward St"
+    ],
+    "pulsePointId": "2508419728"
+  },
+  {
     "id": "2026-06-30T17:43:00Z_new-westminster/2nd-st",
     "timestamp": "2026-06-30T17:43:00Z",
     "scrapedAt": "2026-06-30T18:30:49Z",

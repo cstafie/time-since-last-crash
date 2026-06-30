@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-30T20:30:00Z_vancouver/w-64th-ave_vancouver/oak-st",
+      "timestamp": "2026-06-30T20:30:00Z",
+      "address": "W 64TH AVE & OAK ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-64th-ave",
+        "vancouver/oak-st"
+      ],
+      "streetNames": [
+        "W 64th Ave",
+        "Oak St"
+      ],
+      "pulsePointId": "2508453592"
+    },
+    {
       "id": "2026-06-24T22:46:00Z_vancouver/w-64th-ave_vancouver/granville-st",
       "timestamp": "2026-06-24T22:46:00Z",
       "address": "W 64TH AVE & GRANVILLE ST",
@@ -124,6 +139,6 @@
       "pulsePointId": "2443852464"
     }
   ],
-  "lastIncident": "2026-06-24T22:46:00Z",
-  "count": 8
+  "lastIncident": "2026-06-30T20:30:00Z",
+  "count": 9
 }
