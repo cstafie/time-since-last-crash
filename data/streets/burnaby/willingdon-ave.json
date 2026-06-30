@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-30T02:23:00Z_burnaby/willingdon-ave_burnaby/lougheed-hwy",
+      "timestamp": "2026-06-30T02:23:00Z",
+      "address": "WILLINGDON AVE & LOUGHEED HWY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/willingdon-ave",
+        "burnaby/lougheed-hwy"
+      ],
+      "streetNames": [
+        "Willingdon Ave",
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2507969804"
+    },
+    {
       "id": "2026-06-26T00:41:00Z_burnaby/willingdon-ave_burnaby/lougheed-hwy",
       "timestamp": "2026-06-26T00:41:00Z",
       "address": "WILLINGDON AVE & LOUGHEED HWY",
@@ -166,6 +181,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-26T00:41:00Z",
-  "count": 11
+  "lastIncident": "2026-06-30T02:23:00Z",
+  "count": 12
 }

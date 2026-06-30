@@ -66,8 +66,8 @@
     "name": "Lougheed Hwy",
     "slug": "burnaby/lougheed-hwy",
     "city": "Burnaby",
-    "lastIncident": "2026-06-27T23:03:00Z",
-    "count": 13
+    "lastIncident": "2026-06-30T02:23:00Z",
+    "count": 14
   },
   "burnaby/marine-way": {
     "name": "Marine Way",
@@ -80,8 +80,8 @@
     "name": "Willingdon Ave",
     "slug": "burnaby/willingdon-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-06-26T00:41:00Z",
-    "count": 11
+    "lastIncident": "2026-06-30T02:23:00Z",
+    "count": 12
   },
   "chilliwack/chadsey-rd": {
     "name": "Chadsey Rd",

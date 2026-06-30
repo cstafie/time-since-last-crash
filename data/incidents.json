@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-30T02:23:00Z_burnaby/willingdon-ave_burnaby/lougheed-hwy",
+    "timestamp": "2026-06-30T02:23:00Z",
+    "scrapedAt": "2026-06-30T03:43:41Z",
+    "address": "WILLINGDON AVE & LOUGHEED HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/willingdon-ave",
+      "burnaby/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Willingdon Ave",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2507969804"
+  },
+  {
     "id": "2026-06-30T01:22:00Z_surrey/128th-st_surrey/prince-charles-blvd",
     "timestamp": "2026-06-30T01:22:00Z",
     "scrapedAt": "2026-06-30T02:15:56Z",
