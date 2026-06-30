@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-06-30T16:36:00Z_vancouver/granville-st_vancouver/w-66th-ave",
+    "timestamp": "2026-06-30T16:36:00Z",
+    "scrapedAt": "2026-06-30T16:39:33Z",
+    "address": "GRANVILLE ST & W 66TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st",
+      "vancouver/w-66th-ave"
+    ],
+    "streetNames": [
+      "Granville St",
+      "W 66th Ave"
+    ],
+    "pulsePointId": "2508298451"
+  },
+  {
+    "id": "2026-06-30T16:35:00Z_north-vancouver/mahon-ave_north-vancouver/w-3rd-st",
+    "timestamp": "2026-06-30T16:35:00Z",
+    "scrapedAt": "2026-06-30T16:39:33Z",
+    "address": "MAHON AVE & W 3RD ST",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/mahon-ave",
+      "north-vancouver/w-3rd-st"
+    ],
+    "streetNames": [
+      "Mahon Ave",
+      "W 3rd St"
+    ],
+    "pulsePointId": "2508298184"
+  },
+  {
+    "id": "2026-06-30T16:30:00Z_delta/64th-ave_delta/120th-st",
+    "timestamp": "2026-06-30T16:30:00Z",
+    "scrapedAt": "2026-06-30T16:39:33Z",
+    "address": "64TH AVE & 120TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/64th-ave",
+      "delta/120th-st"
+    ],
+    "streetNames": [
+      "64th Ave",
+      "120th St"
+    ],
+    "pulsePointId": "2508295169"
+  },
+  {
     "id": "2026-06-30T15:24:00Z_coquitlam/clarke-rd_coquitlam/smith-ave",
     "timestamp": "2026-06-30T15:24:00Z",
     "scrapedAt": "2026-06-30T15:45:54Z",

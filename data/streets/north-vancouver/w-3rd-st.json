@@ -4,6 +4,21 @@
   "city": "North Vancouver",
   "incidents": [
     {
+      "id": "2026-06-30T16:35:00Z_north-vancouver/mahon-ave_north-vancouver/w-3rd-st",
+      "timestamp": "2026-06-30T16:35:00Z",
+      "address": "MAHON AVE & W 3RD ST",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/mahon-ave",
+        "north-vancouver/w-3rd-st"
+      ],
+      "streetNames": [
+        "Mahon Ave",
+        "W 3rd St"
+      ],
+      "pulsePointId": "2508298184"
+    },
+    {
       "id": "2026-04-23T01:45:00Z_north-vancouver/w-3rd-st_north-vancouver/marine-dr",
       "timestamp": "2026-04-23T01:45:00Z",
       "address": "W 3RD ST & MARINE DR",
@@ -34,6 +49,6 @@
       "pulsePointId": "2439083787"
     }
   ],
-  "lastIncident": "2026-04-23T01:45:00Z",
-  "count": 2
+  "lastIncident": "2026-06-30T16:35:00Z",
+  "count": 3
 }

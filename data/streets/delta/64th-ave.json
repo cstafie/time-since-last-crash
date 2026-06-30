@@ -4,6 +4,21 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-06-30T16:30:00Z_delta/64th-ave_delta/120th-st",
+      "timestamp": "2026-06-30T16:30:00Z",
+      "address": "64TH AVE & 120TH ST",
+      "city": "Delta",
+      "streets": [
+        "delta/64th-ave",
+        "delta/120th-st"
+      ],
+      "streetNames": [
+        "64th Ave",
+        "120th St"
+      ],
+      "pulsePointId": "2508295169"
+    },
+    {
       "id": "2026-05-25T22:28:00Z_delta/sunwood-dr_delta/64th-ave",
       "timestamp": "2026-05-25T22:28:00Z",
       "address": "SUNWOOD DR & 64TH AVE",
@@ -89,6 +104,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-25T22:28:00Z",
-  "count": 6
+  "lastIncident": "2026-06-30T16:30:00Z",
+  "count": 7
 }

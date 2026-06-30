@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-06-30T16:36:00Z_vancouver/granville-st_vancouver/w-66th-ave",
+      "timestamp": "2026-06-30T16:36:00Z",
+      "address": "GRANVILLE ST & W 66TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st",
+        "vancouver/w-66th-ave"
+      ],
+      "streetNames": [
+        "Granville St",
+        "W 66th Ave"
+      ],
+      "pulsePointId": "2508298451"
+    },
+    {
       "id": "2026-06-29T22:23:00Z_vancouver/granville-st_vancouver/balfour-ave",
       "timestamp": "2026-06-29T22:23:00Z",
       "address": "GRANVILLE ST & BALFOUR AVE",
@@ -816,6 +831,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-29T22:23:00Z",
-  "count": 55
+  "lastIncident": "2026-06-30T16:36:00Z",
+  "count": 56
 }

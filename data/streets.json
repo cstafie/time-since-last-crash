@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-29T22:23:00Z",
-    "count": 55
+    "lastIncident": "2026-06-30T16:36:00Z",
+    "count": 56
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -871,8 +871,8 @@
     "name": "120th St",
     "slug": "delta/120th-st",
     "city": "Delta",
-    "lastIncident": "2026-06-24T00:39:00Z",
-    "count": 23
+    "lastIncident": "2026-06-30T16:30:00Z",
+    "count": 24
   },
   "delta/roberts-bank-rd": {
     "name": "Roberts Bank Rd",
@@ -1410,8 +1410,8 @@
     "name": "64th Ave",
     "slug": "delta/64th-ave",
     "city": "Delta",
-    "lastIncident": "2026-05-25T22:28:00Z",
-    "count": 6
+    "lastIncident": "2026-06-30T16:30:00Z",
+    "count": 7
   },
   "new-westminster/6th-st": {
     "name": "6th St",
@@ -3538,8 +3538,8 @@
     "name": "W 3rd St",
     "slug": "north-vancouver/w-3rd-st",
     "city": "North Vancouver",
-    "lastIncident": "2026-04-23T01:45:00Z",
-    "count": 2
+    "lastIncident": "2026-06-30T16:35:00Z",
+    "count": 3
   },
   "delta/hwy-10-ofrp": {
     "name": "Hwy 10 Ofrp",
@@ -11385,8 +11385,8 @@
     "name": "Mahon Ave",
     "slug": "north-vancouver/mahon-ave",
     "city": "North Vancouver",
-    "lastIncident": "2026-06-03T22:26:00Z",
-    "count": 1
+    "lastIncident": "2026-06-30T16:35:00Z",
+    "count": 2
   },
   "surrey/93a-ave": {
     "name": "93a Ave",
@@ -13346,6 +13346,13 @@
     "slug": "vancouver/lions-gate-brdg",
     "city": "Vancouver",
     "lastIncident": "2026-06-30T06:22:00Z",
+    "count": 1
+  },
+  "vancouver/w-66th-ave": {
+    "name": "W 66th Ave",
+    "slug": "vancouver/w-66th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-06-30T16:36:00Z",
     "count": 1
   }
 }
