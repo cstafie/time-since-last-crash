@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-06-30T06:57:00Z_burnaby/kingsway_burnaby/patterson-ave",
+      "timestamp": "2026-06-30T06:57:00Z",
+      "address": "KINGSWAY & PATTERSON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/kingsway",
+        "burnaby/patterson-ave"
+      ],
+      "streetNames": [
+        "Kingsway",
+        "Patterson Ave"
+      ],
+      "pulsePointId": "2508094866"
+    },
+    {
       "id": "2026-06-22T21:17:00Z_burnaby/hurst-st_burnaby/patterson-ave",
       "timestamp": "2026-06-22T21:17:00Z",
       "address": "HURST ST & PATTERSON AVE",
@@ -109,6 +124,6 @@
       "pulsePointId": "2448106817"
     }
   ],
-  "lastIncident": "2026-06-22T21:17:00Z",
-  "count": 7
+  "lastIncident": "2026-06-30T06:57:00Z",
+  "count": 8
 }

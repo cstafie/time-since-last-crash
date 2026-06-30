@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-30T06:57:00Z_burnaby/kingsway_burnaby/patterson-ave",
+    "timestamp": "2026-06-30T06:57:00Z",
+    "scrapedAt": "2026-06-30T08:09:22Z",
+    "address": "KINGSWAY & PATTERSON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/kingsway",
+      "burnaby/patterson-ave"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "Patterson Ave"
+    ],
+    "pulsePointId": "2508094866"
+  },
+  {
     "id": "2026-06-30T06:22:00Z_vancouver/lions-gate-brdg",
     "timestamp": "2026-06-30T06:22:00Z",
     "scrapedAt": "2026-06-30T06:45:40Z",

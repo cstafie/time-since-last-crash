@@ -1473,8 +1473,8 @@
     "name": "Kingsway",
     "slug": "burnaby/kingsway",
     "city": "Burnaby",
-    "lastIncident": "2026-06-26T17:58:00Z",
-    "count": 23
+    "lastIncident": "2026-06-30T06:57:00Z",
+    "count": 24
   },
   "burnaby/gilley-ave": {
     "name": "Gilley Ave",
@@ -5470,8 +5470,8 @@
     "name": "Patterson Ave",
     "slug": "burnaby/patterson-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-06-22T21:17:00Z",
-    "count": 7
+    "lastIncident": "2026-06-30T06:57:00Z",
+    "count": 8
   },
   "richmond/inglis-dr": {
     "name": "Inglis Dr",
