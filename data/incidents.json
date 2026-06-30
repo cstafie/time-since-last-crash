@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-06-30T05:06:00Z_surrey/panorama-dr_surrey/56th-ave",
+    "timestamp": "2026-06-30T05:06:00Z",
+    "scrapedAt": "2026-06-30T05:18:32Z",
+    "address": "PANORAMA DR & 56TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/panorama-dr",
+      "surrey/56th-ave"
+    ],
+    "streetNames": [
+      "Panorama Dr",
+      "56th Ave"
+    ],
+    "pulsePointId": "2508053995"
+  },
+  {
+    "id": "2026-06-30T04:56:00Z_surrey/16th-avenue-ofrp_surrey/hwy-99",
+    "timestamp": "2026-06-30T04:56:00Z",
+    "scrapedAt": "2026-06-30T05:18:32Z",
+    "address": "16TH AVENUE OFRP & HWY 99",
+    "city": "Surrey",
+    "streets": [
+      "surrey/16th-avenue-ofrp",
+      "surrey/hwy-99"
+    ],
+    "streetNames": [
+      "16th Avenue Ofrp",
+      "Hwy 99"
+    ],
+    "pulsePointId": "2508049953"
+  },
+  {
+    "id": "2026-06-30T04:46:00Z_surrey/100th-ave_surrey/king-george-blvd",
+    "timestamp": "2026-06-30T04:46:00Z",
+    "scrapedAt": "2026-06-30T05:18:32Z",
+    "address": "100TH AVE & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/100th-ave",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "100th Ave",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2508045171"
+  },
+  {
     "id": "2026-06-30T02:23:00Z_burnaby/willingdon-ave_burnaby/lougheed-hwy",
     "timestamp": "2026-06-30T02:23:00Z",
     "scrapedAt": "2026-06-30T03:43:41Z",
