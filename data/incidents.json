@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-06-30T21:00:00Z_surrey/16th-ave_surrey/168th-st",
+    "timestamp": "2026-06-30T21:00:00Z",
+    "scrapedAt": "2026-06-30T21:28:48Z",
+    "address": "16TH AVE & 168TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/16th-ave",
+      "surrey/168th-st"
+    ],
+    "streetNames": [
+      "16th Ave",
+      "168th St"
+    ],
+    "pulsePointId": "2508473942"
+  },
+  {
+    "id": "2026-06-30T20:52:00Z_west-vancouver/hadden-dr",
+    "timestamp": "2026-06-30T20:52:00Z",
+    "scrapedAt": "2026-06-30T21:28:48Z",
+    "address": "HADDEN DR",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/hadden-dr"
+    ],
+    "streetNames": [
+      "Hadden Dr"
+    ],
+    "pulsePointId": "2508468314"
+  },
+  {
     "id": "2026-06-30T20:30:00Z_vancouver/w-64th-ave_vancouver/oak-st",
     "timestamp": "2026-06-30T20:30:00Z",
     "scrapedAt": "2026-06-30T20:34:02Z",

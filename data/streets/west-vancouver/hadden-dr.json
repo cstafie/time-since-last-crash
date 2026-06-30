@@ -1,0 +1,22 @@
+{
+  "slug": "west-vancouver/hadden-dr",
+  "name": "Hadden Dr",
+  "city": "West Vancouver",
+  "incidents": [
+    {
+      "id": "2026-06-30T20:52:00Z_west-vancouver/hadden-dr",
+      "timestamp": "2026-06-30T20:52:00Z",
+      "address": "HADDEN DR",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/hadden-dr"
+      ],
+      "streetNames": [
+        "Hadden Dr"
+      ],
+      "pulsePointId": "2508468314"
+    }
+  ],
+  "lastIncident": "2026-06-30T20:52:00Z",
+  "count": 1
+}
