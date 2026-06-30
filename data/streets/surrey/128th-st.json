@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-06-30T01:22:00Z_surrey/128th-st_surrey/prince-charles-blvd",
+      "timestamp": "2026-06-30T01:22:00Z",
+      "address": "128TH ST & PRINCE CHARLES BLVD",
+      "city": "Surrey",
+      "streets": [
+        "surrey/128th-st",
+        "surrey/prince-charles-blvd"
+      ],
+      "streetNames": [
+        "128th St",
+        "Prince Charles Blvd"
+      ],
+      "pulsePointId": "2507934014"
+    },
+    {
       "id": "2026-06-26T19:23:00Z_surrey/98th-ave_surrey/128th-st",
       "timestamp": "2026-06-26T19:23:00Z",
       "address": "98TH AVE & 128TH ST",
@@ -530,6 +545,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-26T19:23:00Z",
-  "count": 36
+  "lastIncident": "2026-06-30T01:22:00Z",
+  "count": 37
 }

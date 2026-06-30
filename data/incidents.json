@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-30T01:22:00Z_surrey/128th-st_surrey/prince-charles-blvd",
+    "timestamp": "2026-06-30T01:22:00Z",
+    "scrapedAt": "2026-06-30T02:15:56Z",
+    "address": "128TH ST & PRINCE CHARLES BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/128th-st",
+      "surrey/prince-charles-blvd"
+    ],
+    "streetNames": [
+      "128th St",
+      "Prince Charles Blvd"
+    ],
+    "pulsePointId": "2507934014"
+  },
+  {
     "id": "2026-06-30T01:01:00Z_richmond/cambie-rd",
     "timestamp": "2026-06-30T01:01:00Z",
     "scrapedAt": "2026-06-30T01:22:11Z",

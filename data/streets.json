@@ -535,8 +535,8 @@
     "name": "128th St",
     "slug": "surrey/128th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-26T19:23:00Z",
-    "count": 36
+    "lastIncident": "2026-06-30T01:22:00Z",
+    "count": 37
   },
   "surrey/130b-st": {
     "name": "130b St",
@@ -675,8 +675,8 @@
     "name": "Prince Charles Blvd",
     "slug": "surrey/prince-charles-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-06-23T06:26:00Z",
-    "count": 3
+    "lastIncident": "2026-06-30T01:22:00Z",
+    "count": 4
   },
   "surrey/trans-canada-hwy": {
     "name": "Trans Canada Hwy",
