@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-06-30T17:07:00Z_coquitlam/johnson-st_coquitlam/atlantic-ave",
+    "timestamp": "2026-06-30T17:07:00Z",
+    "scrapedAt": "2026-06-30T17:32:10Z",
+    "address": "JOHNSON ST & ATLANTIC AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/johnson-st",
+      "coquitlam/atlantic-ave"
+    ],
+    "streetNames": [
+      "Johnson St",
+      "Atlantic Ave"
+    ],
+    "pulsePointId": "2508317422"
+  },
+  {
     "id": "2026-06-30T16:36:00Z_vancouver/granville-st_vancouver/w-66th-ave",
     "timestamp": "2026-06-30T16:36:00Z",
     "scrapedAt": "2026-06-30T16:39:33Z",

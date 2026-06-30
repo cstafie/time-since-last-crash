@@ -1,0 +1,24 @@
+{
+  "slug": "coquitlam/atlantic-ave",
+  "name": "Atlantic Ave",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-06-30T17:07:00Z_coquitlam/johnson-st_coquitlam/atlantic-ave",
+      "timestamp": "2026-06-30T17:07:00Z",
+      "address": "JOHNSON ST & ATLANTIC AVE",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/johnson-st",
+        "coquitlam/atlantic-ave"
+      ],
+      "streetNames": [
+        "Johnson St",
+        "Atlantic Ave"
+      ],
+      "pulsePointId": "2508317422"
+    }
+  ],
+  "lastIncident": "2026-06-30T17:07:00Z",
+  "count": 1
+}
