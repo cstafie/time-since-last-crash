@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-01T18:43:00Z_surrey/122nd-st_surrey/72nd-ave",
+    "timestamp": "2026-07-01T18:43:00Z",
+    "scrapedAt": "2026-07-01T19:08:05Z",
+    "address": "122ND ST & 72ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/122nd-st",
+      "surrey/72nd-ave"
+    ],
+    "streetNames": [
+      "122nd St",
+      "72nd Ave"
+    ],
+    "pulsePointId": "2509095721"
+  },
+  {
     "id": "2026-07-01T15:37:00Z_burnaby/arcola-st_burnaby/kingsway",
     "timestamp": "2026-07-01T15:37:00Z",
     "scrapedAt": "2026-07-01T16:15:40Z",
