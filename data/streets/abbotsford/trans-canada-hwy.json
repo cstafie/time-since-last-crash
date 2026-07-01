@@ -4,6 +4,34 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-01T00:48:00Z_abbotsford/trans-canada-hwy_abbotsford/bradner-road-rest",
+      "timestamp": "2026-07-01T00:48:00Z",
+      "address": "TRANS CANADA HWY & BRADNER ROAD REST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/trans-canada-hwy",
+        "abbotsford/bradner-road-rest"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy",
+        "Bradner Road Rest"
+      ],
+      "pulsePointId": "2508622321"
+    },
+    {
+      "id": "2026-07-01T00:31:00Z_abbotsford/trans-canada-hwy",
+      "timestamp": "2026-07-01T00:31:00Z",
+      "address": "TRANS CANADA HWY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2508610960"
+    },
+    {
       "id": "2026-06-30T09:19:00Z_abbotsford/trans-canada-hwy",
       "timestamp": "2026-06-30T09:19:00Z",
       "address": "TRANS CANADA HWY",
@@ -611,6 +639,6 @@
       "pulsePointId": "2433793691"
     }
   ],
-  "lastIncident": "2026-06-30T09:19:00Z",
-  "count": 45
+  "lastIncident": "2026-07-01T00:48:00Z",
+  "count": 47
 }

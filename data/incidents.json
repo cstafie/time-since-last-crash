@@ -1,5 +1,97 @@
 [
   {
+    "id": "2026-07-01T01:24:00Z_richmond/no-5-rd_richmond/blundell-rd",
+    "timestamp": "2026-07-01T01:24:00Z",
+    "scrapedAt": "2026-07-01T01:28:34Z",
+    "address": "NO 5 RD & BLUNDELL RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/no-5-rd",
+      "richmond/blundell-rd"
+    ],
+    "streetNames": [
+      "No 5 Rd",
+      "Blundell Rd"
+    ],
+    "pulsePointId": "2508642842"
+  },
+  {
+    "id": "2026-07-01T00:57:00Z_burnaby/glenlyon-pkwy_burnaby/marine-way",
+    "timestamp": "2026-07-01T00:57:00Z",
+    "scrapedAt": "2026-07-01T01:28:34Z",
+    "address": "GLENLYON PKWY & MARINE WAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/glenlyon-pkwy",
+      "burnaby/marine-way"
+    ],
+    "streetNames": [
+      "Glenlyon Pkwy",
+      "Marine Way"
+    ],
+    "pulsePointId": "2508628342"
+  },
+  {
+    "id": "2026-07-01T00:48:00Z_abbotsford/trans-canada-hwy_abbotsford/bradner-road-rest",
+    "timestamp": "2026-07-01T00:48:00Z",
+    "scrapedAt": "2026-07-01T01:28:34Z",
+    "address": "TRANS CANADA HWY & BRADNER ROAD REST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy",
+      "abbotsford/bradner-road-rest"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "Bradner Road Rest"
+    ],
+    "pulsePointId": "2508622321"
+  },
+  {
+    "id": "2026-07-01T00:44:00Z_surrey/trans-canada-hwy",
+    "timestamp": "2026-07-01T00:44:00Z",
+    "scrapedAt": "2026-07-01T01:28:34Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2508620868"
+  },
+  {
+    "id": "2026-07-01T00:31:00Z_surrey/128a-st_surrey/68th-ave",
+    "timestamp": "2026-07-01T00:31:00Z",
+    "scrapedAt": "2026-07-01T01:28:34Z",
+    "address": "128A ST & 68TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/128a-st",
+      "surrey/68th-ave"
+    ],
+    "streetNames": [
+      "128a St",
+      "68th Ave"
+    ],
+    "pulsePointId": "2508612121"
+  },
+  {
+    "id": "2026-07-01T00:31:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-07-01T00:31:00Z",
+    "scrapedAt": "2026-07-01T01:28:34Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2508610960"
+  },
+  {
     "id": "2026-07-01T00:14:00Z_vancouver/w-georgia-st_vancouver/hornby-st",
     "timestamp": "2026-07-01T00:14:00Z",
     "scrapedAt": "2026-07-01T00:22:58Z",

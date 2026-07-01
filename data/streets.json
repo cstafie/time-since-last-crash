@@ -73,8 +73,8 @@
     "name": "Marine Way",
     "slug": "burnaby/marine-way",
     "city": "Burnaby",
-    "lastIncident": "2026-06-07T23:47:00Z",
-    "count": 7
+    "lastIncident": "2026-07-01T00:57:00Z",
+    "count": 8
   },
   "burnaby/willingdon-ave": {
     "name": "Willingdon Ave",
@@ -437,8 +437,8 @@
     "name": "Blundell Rd",
     "slug": "richmond/blundell-rd",
     "city": "Richmond",
-    "lastIncident": "2026-06-13T19:44:00Z",
-    "count": 18
+    "lastIncident": "2026-07-01T01:24:00Z",
+    "count": 19
   },
   "richmond/bowcock-rd": {
     "name": "Bowcock Rd",
@@ -682,8 +682,8 @@
     "name": "Trans Canada Hwy",
     "slug": "surrey/trans-canada-hwy",
     "city": "Surrey",
-    "lastIncident": "2026-06-27T22:29:00Z",
-    "count": 26
+    "lastIncident": "2026-07-01T00:44:00Z",
+    "count": 27
   },
   "vancouver/balaclava-st": {
     "name": "Balaclava St",
@@ -1949,8 +1949,8 @@
     "name": "Trans Canada Hwy",
     "slug": "abbotsford/trans-canada-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-30T09:19:00Z",
-    "count": 45
+    "lastIncident": "2026-07-01T00:48:00Z",
+    "count": 47
   },
   "vancouver/w-16th-ave": {
     "name": "W 16th Ave",
@@ -2572,8 +2572,8 @@
     "name": "No 5 Rd",
     "slug": "richmond/no-5-rd",
     "city": "Richmond",
-    "lastIncident": "2026-06-30T22:31:00Z",
-    "count": 14
+    "lastIncident": "2026-07-01T01:24:00Z",
+    "count": 15
   },
   "port-moody/heritage-mountain-blvd": {
     "name": "Heritage Mountain Blvd",
@@ -3692,8 +3692,8 @@
     "name": "68th Ave",
     "slug": "surrey/68th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-05T23:07:00Z",
-    "count": 15
+    "lastIncident": "2026-07-01T00:31:00Z",
+    "count": 16
   },
   "burnaby/royal-oak-ave": {
     "name": "Royal Oak Ave",
@@ -5176,8 +5176,8 @@
     "name": "Glenlyon Pkwy",
     "slug": "burnaby/glenlyon-pkwy",
     "city": "Burnaby",
-    "lastIncident": "2026-04-30T07:29:00Z",
-    "count": 3
+    "lastIncident": "2026-07-01T00:57:00Z",
+    "count": 4
   },
   "burnaby/6th-st": {
     "name": "6th St",
@@ -9061,8 +9061,8 @@
     "name": "Bradner Road Rest",
     "slug": "abbotsford/bradner-road-rest",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-08T00:57:00Z",
-    "count": 1
+    "lastIncident": "2026-07-01T00:48:00Z",
+    "count": 2
   },
   "port-coquitlam/wellington-st": {
     "name": "Wellington St",
@@ -13388,6 +13388,13 @@
     "slug": "langley/65th-ave",
     "city": "Langley",
     "lastIncident": "2026-06-30T22:42:00Z",
+    "count": 1
+  },
+  "surrey/128a-st": {
+    "name": "128a St",
+    "slug": "surrey/128a-st",
+    "city": "Surrey",
+    "lastIncident": "2026-07-01T00:31:00Z",
     "count": 1
   }
 }

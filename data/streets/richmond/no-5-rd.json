@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-01T01:24:00Z_richmond/no-5-rd_richmond/blundell-rd",
+      "timestamp": "2026-07-01T01:24:00Z",
+      "address": "NO 5 RD & BLUNDELL RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/no-5-rd",
+        "richmond/blundell-rd"
+      ],
+      "streetNames": [
+        "No 5 Rd",
+        "Blundell Rd"
+      ],
+      "pulsePointId": "2508642842"
+    },
+    {
       "id": "2026-06-30T22:31:00Z_richmond/no-5-rd",
       "timestamp": "2026-06-30T22:31:00Z",
       "address": "NO 5 RD",
@@ -204,6 +219,6 @@
       "pulsePointId": "2435827761"
     }
   ],
-  "lastIncident": "2026-06-30T22:31:00Z",
-  "count": 14
+  "lastIncident": "2026-07-01T01:24:00Z",
+  "count": 15
 }
