@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-01T19:57:00Z_vancouver/kingsway_vancouver/fraser-st",
+      "timestamp": "2026-07-01T19:57:00Z",
+      "address": "KINGSWAY & FRASER ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/kingsway",
+        "vancouver/fraser-st"
+      ],
+      "streetNames": [
+        "Kingsway",
+        "Fraser St"
+      ],
+      "pulsePointId": "2509148130"
+    },
+    {
       "id": "2026-06-23T23:14:00Z_vancouver/kingsway_vancouver/victoria-dr",
       "timestamp": "2026-06-23T23:14:00Z",
       "address": "KINGSWAY & VICTORIA DR",
@@ -370,6 +385,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-23T23:14:00Z",
-  "count": 25
+  "lastIncident": "2026-07-01T19:57:00Z",
+  "count": 26
 }

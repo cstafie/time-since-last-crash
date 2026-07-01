@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-07-01T19:59:00Z_chilliwack/vedder-rd_chilliwack/keith-wilson-rd",
+    "timestamp": "2026-07-01T19:59:00Z",
+    "scrapedAt": "2026-07-01T20:08:44Z",
+    "address": "VEDDER RD & KEITH WILSON RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/vedder-rd",
+      "chilliwack/keith-wilson-rd"
+    ],
+    "streetNames": [
+      "Vedder Rd",
+      "Keith Wilson Rd"
+    ],
+    "pulsePointId": "2509147415"
+  },
+  {
+    "id": "2026-07-01T19:57:00Z_vancouver/kingsway_vancouver/fraser-st",
+    "timestamp": "2026-07-01T19:57:00Z",
+    "scrapedAt": "2026-07-01T20:08:44Z",
+    "address": "KINGSWAY & FRASER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kingsway",
+      "vancouver/fraser-st"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "Fraser St"
+    ],
+    "pulsePointId": "2509148130"
+  },
+  {
+    "id": "2026-07-01T19:27:00Z_richmond/no-3-rd",
+    "timestamp": "2026-07-01T19:27:00Z",
+    "scrapedAt": "2026-07-01T20:08:44Z",
+    "address": "NO 3 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/no-3-rd"
+    ],
+    "streetNames": [
+      "No 3 Rd"
+    ],
+    "pulsePointId": "2509128741"
+  },
+  {
+    "id": "2026-07-01T19:09:00Z_abbotsford/ventura-ave_abbotsford/bourquin-cres-w",
+    "timestamp": "2026-07-01T19:09:00Z",
+    "scrapedAt": "2026-07-01T20:08:44Z",
+    "address": "VENTURA AVE & BOURQUIN CRES W",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/ventura-ave",
+      "abbotsford/bourquin-cres-w"
+    ],
+    "streetNames": [
+      "Ventura Ave",
+      "Bourquin Cres W"
+    ],
+    "pulsePointId": "2509114608"
+  },
+  {
     "id": "2026-07-01T18:43:00Z_surrey/122nd-st_surrey/72nd-ave",
     "timestamp": "2026-07-01T18:43:00Z",
     "scrapedAt": "2026-07-01T19:08:05Z",

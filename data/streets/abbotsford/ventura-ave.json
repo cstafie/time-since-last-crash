@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/ventura-ave",
+  "name": "Ventura Ave",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-07-01T19:09:00Z_abbotsford/ventura-ave_abbotsford/bourquin-cres-w",
+      "timestamp": "2026-07-01T19:09:00Z",
+      "address": "VENTURA AVE & BOURQUIN CRES W",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/ventura-ave",
+        "abbotsford/bourquin-cres-w"
+      ],
+      "streetNames": [
+        "Ventura Ave",
+        "Bourquin Cres W"
+      ],
+      "pulsePointId": "2509114608"
+    }
+  ],
+  "lastIncident": "2026-07-01T19:09:00Z",
+  "count": 1
+}

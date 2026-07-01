@@ -108,8 +108,8 @@
     "name": "Keith Wilson Rd",
     "slug": "chilliwack/keith-wilson-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-26T18:56:00Z",
-    "count": 7
+    "lastIncident": "2026-07-01T19:59:00Z",
+    "count": 8
   },
   "chilliwack/prairie-central-rd": {
     "name": "Prairie Central Rd",
@@ -486,8 +486,8 @@
     "name": "No 3 Rd",
     "slug": "richmond/no-3-rd",
     "city": "Richmond",
-    "lastIncident": "2026-07-01T04:58:00Z",
-    "count": 22
+    "lastIncident": "2026-07-01T19:27:00Z",
+    "count": 23
   },
   "richmond/no-4-rd": {
     "name": "No 4 Rd",
@@ -745,8 +745,8 @@
     "name": "Kingsway",
     "slug": "vancouver/kingsway",
     "city": "Vancouver",
-    "lastIncident": "2026-06-23T23:14:00Z",
-    "count": 25
+    "lastIncident": "2026-07-01T19:57:00Z",
+    "count": 26
   },
   "vancouver/knight-st": {
     "name": "Knight St",
@@ -1823,8 +1823,8 @@
     "name": "Bourquin Cres W",
     "slug": "abbotsford/bourquin-cres-w",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-08T13:56:00Z",
-    "count": 4
+    "lastIncident": "2026-07-01T19:09:00Z",
+    "count": 5
   },
   "surrey/40th-ave": {
     "name": "40th Ave",
@@ -1837,8 +1837,8 @@
     "name": "Vedder Rd",
     "slug": "chilliwack/vedder-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-25T20:20:00Z",
-    "count": 15
+    "lastIncident": "2026-07-01T19:59:00Z",
+    "count": 16
   },
   "chilliwack/spruce-dr": {
     "name": "Spruce Dr",
@@ -3258,8 +3258,8 @@
     "name": "Fraser St",
     "slug": "vancouver/fraser-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-27T13:52:00Z",
-    "count": 19
+    "lastIncident": "2026-07-01T19:57:00Z",
+    "count": 20
   },
   "abbotsford/32470-simon-ave": {
     "name": "32470 Simon Ave",
@@ -13409,6 +13409,13 @@
     "slug": "new-westminster/riverview-brdg",
     "city": "New Westminster",
     "lastIncident": "2026-07-01T07:39:00Z",
+    "count": 1
+  },
+  "abbotsford/ventura-ave": {
+    "name": "Ventura Ave",
+    "slug": "abbotsford/ventura-ave",
+    "city": "Abbotsford",
+    "lastIncident": "2026-07-01T19:09:00Z",
     "count": 1
   }
 }

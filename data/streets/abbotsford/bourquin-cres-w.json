@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-01T19:09:00Z_abbotsford/ventura-ave_abbotsford/bourquin-cres-w",
+      "timestamp": "2026-07-01T19:09:00Z",
+      "address": "VENTURA AVE & BOURQUIN CRES W",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/ventura-ave",
+        "abbotsford/bourquin-cres-w"
+      ],
+      "streetNames": [
+        "Ventura Ave",
+        "Bourquin Cres W"
+      ],
+      "pulsePointId": "2509114608"
+    },
+    {
       "id": "2026-05-08T13:56:00Z_abbotsford/bourquin-cres-w_abbotsford/amicus-pl",
       "timestamp": "2026-05-08T13:56:00Z",
       "address": "BOURQUIN CRES W & AMICUS PL",
@@ -64,6 +79,6 @@
       "pulsePointId": "2433538670"
     }
   ],
-  "lastIncident": "2026-05-08T13:56:00Z",
-  "count": 4
+  "lastIncident": "2026-07-01T19:09:00Z",
+  "count": 5
 }
