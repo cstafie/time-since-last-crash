@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-07-01T02:02:00Z_burnaby/kingsway",
+    "timestamp": "2026-07-01T02:02:00Z",
+    "scrapedAt": "2026-07-01T02:23:47Z",
+    "address": "KINGSWAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/kingsway"
+    ],
+    "streetNames": [
+      "Kingsway"
+    ],
+    "pulsePointId": "2508664445"
+  },
+  {
+    "id": "2026-07-01T01:50:00Z_vancouver/w-10th-ave",
+    "timestamp": "2026-07-01T01:50:00Z",
+    "scrapedAt": "2026-07-01T02:23:47Z",
+    "address": "W 10TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-10th-ave"
+    ],
+    "streetNames": [
+      "W 10th Ave"
+    ],
+    "pulsePointId": "2508657106"
+  },
+  {
     "id": "2026-07-01T01:24:00Z_richmond/no-5-rd_richmond/blundell-rd",
     "timestamp": "2026-07-01T01:24:00Z",
     "scrapedAt": "2026-07-01T01:28:34Z",
