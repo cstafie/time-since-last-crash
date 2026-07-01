@@ -4,6 +4,19 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-07-01T08:42:00Z_langley/208th-st",
+      "timestamp": "2026-07-01T08:42:00Z",
+      "address": "208TH ST",
+      "city": "Langley",
+      "streets": [
+        "langley/208th-st"
+      ],
+      "streetNames": [
+        "208th St"
+      ],
+      "pulsePointId": "2508831852"
+    },
+    {
       "id": "2026-06-21T00:14:00Z_langley/32nd-ave_langley/208th-st",
       "timestamp": "2026-06-21T00:14:00Z",
       "address": "32ND AVE & 208TH ST",
@@ -195,6 +208,6 @@
       "pulsePointId": "2444669082"
     }
   ],
-  "lastIncident": "2026-06-21T00:14:00Z",
-  "count": 13
+  "lastIncident": "2026-07-01T08:42:00Z",
+  "count": 14
 }

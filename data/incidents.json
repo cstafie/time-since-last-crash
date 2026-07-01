@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-07-01T09:08:00Z_delta/river-rd-w",
+    "timestamp": "2026-07-01T09:08:00Z",
+    "scrapedAt": "2026-07-01T09:43:58Z",
+    "address": "RIVER RD W",
+    "city": "Delta",
+    "streets": [
+      "delta/river-rd-w"
+    ],
+    "streetNames": [
+      "River Rd W"
+    ],
+    "pulsePointId": "2508838868"
+  },
+  {
+    "id": "2026-07-01T08:42:00Z_langley/208th-st",
+    "timestamp": "2026-07-01T08:42:00Z",
+    "scrapedAt": "2026-07-01T09:43:58Z",
+    "address": "208TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/208th-st"
+    ],
+    "streetNames": [
+      "208th St"
+    ],
+    "pulsePointId": "2508831852"
+  },
+  {
     "id": "2026-07-01T07:39:00Z_new-westminster/riverview-brdg",
     "timestamp": "2026-07-01T07:39:00Z",
     "scrapedAt": "2026-07-01T08:24:17Z",
