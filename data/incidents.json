@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-07-01T07:39:00Z_new-westminster/riverview-brdg",
+    "timestamp": "2026-07-01T07:39:00Z",
+    "scrapedAt": "2026-07-01T08:24:17Z",
+    "address": "RIVERVIEW BRDG",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/riverview-brdg"
+    ],
+    "streetNames": [
+      "Riverview Brdg"
+    ],
+    "pulsePointId": "2508813572"
+  },
+  {
     "id": "2026-07-01T04:58:00Z_richmond/no-3-rd_richmond/blundell-rd",
     "timestamp": "2026-07-01T04:58:00Z",
     "scrapedAt": "2026-07-01T05:28:14Z",

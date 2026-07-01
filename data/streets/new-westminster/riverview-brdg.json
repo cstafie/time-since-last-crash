@@ -1,0 +1,22 @@
+{
+  "slug": "new-westminster/riverview-brdg",
+  "name": "Riverview Brdg",
+  "city": "New Westminster",
+  "incidents": [
+    {
+      "id": "2026-07-01T07:39:00Z_new-westminster/riverview-brdg",
+      "timestamp": "2026-07-01T07:39:00Z",
+      "address": "RIVERVIEW BRDG",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/riverview-brdg"
+      ],
+      "streetNames": [
+        "Riverview Brdg"
+      ],
+      "pulsePointId": "2508813572"
+    }
+  ],
+  "lastIncident": "2026-07-01T07:39:00Z",
+  "count": 1
+}
