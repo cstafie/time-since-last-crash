@@ -4,6 +4,19 @@
   "city": "New Westminster",
   "incidents": [
     {
+      "id": "2026-07-01T03:47:00Z_new-westminster/e-columbia-st",
+      "timestamp": "2026-07-01T03:47:00Z",
+      "address": "E COLUMBIA ST",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/e-columbia-st"
+      ],
+      "streetNames": [
+        "E Columbia St"
+      ],
+      "pulsePointId": "2508720765"
+    },
+    {
       "id": "2026-06-25T05:34:00Z_new-westminster/e-columbia-st",
       "timestamp": "2026-06-25T05:34:00Z",
       "address": "E COLUMBIA ST",
@@ -286,6 +299,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-25T05:34:00Z",
-  "count": 21
+  "lastIncident": "2026-07-01T03:47:00Z",
+  "count": 22
 }

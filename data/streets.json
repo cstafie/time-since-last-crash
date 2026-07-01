@@ -437,8 +437,8 @@
     "name": "Blundell Rd",
     "slug": "richmond/blundell-rd",
     "city": "Richmond",
-    "lastIncident": "2026-07-01T01:24:00Z",
-    "count": 19
+    "lastIncident": "2026-07-01T04:58:00Z",
+    "count": 20
   },
   "richmond/bowcock-rd": {
     "name": "Bowcock Rd",
@@ -486,8 +486,8 @@
     "name": "No 3 Rd",
     "slug": "richmond/no-3-rd",
     "city": "Richmond",
-    "lastIncident": "2026-06-28T21:22:00Z",
-    "count": 21
+    "lastIncident": "2026-07-01T04:58:00Z",
+    "count": 22
   },
   "richmond/no-4-rd": {
     "name": "No 4 Rd",
@@ -913,8 +913,8 @@
     "name": "E Columbia St",
     "slug": "new-westminster/e-columbia-st",
     "city": "New Westminster",
-    "lastIncident": "2026-06-25T05:34:00Z",
-    "count": 21
+    "lastIncident": "2026-07-01T03:47:00Z",
+    "count": 22
   },
   "burnaby/market-crss": {
     "name": "Market Crss",
