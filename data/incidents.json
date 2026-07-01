@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-01T14:55:00Z_vancouver/grandview-hwy_vancouver/rupert-st",
+    "timestamp": "2026-07-01T14:55:00Z",
+    "scrapedAt": "2026-07-01T15:23:08Z",
+    "address": "GRANDVIEW HWY & RUPERT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/grandview-hwy",
+      "vancouver/rupert-st"
+    ],
+    "streetNames": [
+      "Grandview Hwy",
+      "Rupert St"
+    ],
+    "pulsePointId": "2508955368"
+  },
+  {
     "id": "2026-07-01T09:08:00Z_delta/river-rd-w",
     "timestamp": "2026-07-01T09:08:00Z",
     "scrapedAt": "2026-07-01T09:43:58Z",
