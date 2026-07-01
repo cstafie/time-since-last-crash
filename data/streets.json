@@ -1473,8 +1473,8 @@
     "name": "Kingsway",
     "slug": "burnaby/kingsway",
     "city": "Burnaby",
-    "lastIncident": "2026-07-01T02:02:00Z",
-    "count": 26
+    "lastIncident": "2026-07-01T15:37:00Z",
+    "count": 27
   },
   "burnaby/gilley-ave": {
     "name": "Gilley Ave",
@@ -8389,8 +8389,8 @@
     "name": "Arcola St",
     "slug": "burnaby/arcola-st",
     "city": "Burnaby",
-    "lastIncident": "2026-06-27T19:12:00Z",
-    "count": 3
+    "lastIncident": "2026-07-01T15:37:00Z",
+    "count": 4
   },
   "burnaby/como-lake-ave": {
     "name": "Como Lake Ave",

@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-01T15:37:00Z_burnaby/arcola-st_burnaby/kingsway",
+      "timestamp": "2026-07-01T15:37:00Z",
+      "address": "ARCOLA ST & KINGSWAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/arcola-st",
+        "burnaby/kingsway"
+      ],
+      "streetNames": [
+        "Arcola St",
+        "Kingsway"
+      ],
+      "pulsePointId": "2508979976"
+    },
+    {
       "id": "2026-06-27T19:12:00Z_burnaby/griffiths-ave_burnaby/arcola-st",
       "timestamp": "2026-06-27T19:12:00Z",
       "address": "GRIFFITHS AVE & ARCOLA ST",
@@ -47,6 +62,6 @@
       "pulsePointId": "2465447424"
     }
   ],
-  "lastIncident": "2026-06-27T19:12:00Z",
-  "count": 3
+  "lastIncident": "2026-07-01T15:37:00Z",
+  "count": 4
 }

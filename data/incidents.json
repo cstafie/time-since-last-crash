@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-01T15:37:00Z_burnaby/arcola-st_burnaby/kingsway",
+    "timestamp": "2026-07-01T15:37:00Z",
+    "scrapedAt": "2026-07-01T16:15:40Z",
+    "address": "ARCOLA ST & KINGSWAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/arcola-st",
+      "burnaby/kingsway"
+    ],
+    "streetNames": [
+      "Arcola St",
+      "Kingsway"
+    ],
+    "pulsePointId": "2508979976"
+  },
+  {
     "id": "2026-07-01T14:55:00Z_vancouver/grandview-hwy_vancouver/rupert-st",
     "timestamp": "2026-07-01T14:55:00Z",
     "scrapedAt": "2026-07-01T15:23:08Z",
