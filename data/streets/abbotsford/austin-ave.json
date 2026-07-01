@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/austin-ave",
+  "name": "Austin Ave",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-07-01T02:29:00Z_abbotsford/austin-ave_abbotsford/clearbrook-rd",
+      "timestamp": "2026-07-01T02:29:00Z",
+      "address": "AUSTIN AVE & CLEARBROOK RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/austin-ave",
+        "abbotsford/clearbrook-rd"
+      ],
+      "streetNames": [
+        "Austin Ave",
+        "Clearbrook Rd"
+      ],
+      "pulsePointId": "2508680006"
+    }
+  ],
+  "lastIncident": "2026-07-01T02:29:00Z",
+  "count": 1
+}

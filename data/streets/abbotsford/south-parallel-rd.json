@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-01T02:37:00Z_abbotsford/sumas-way_abbotsford/south-parallel-rd",
+      "timestamp": "2026-07-01T02:37:00Z",
+      "address": "SUMAS WAY & SOUTH PARALLEL RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/sumas-way",
+        "abbotsford/south-parallel-rd"
+      ],
+      "streetNames": [
+        "Sumas Way",
+        "South Parallel Rd"
+      ],
+      "pulsePointId": "2508685133"
+    },
+    {
       "id": "2026-06-24T14:22:00Z_abbotsford/whatcom-rd_abbotsford/south-parallel-rd",
       "timestamp": "2026-06-24T14:22:00Z",
       "address": "WHATCOM RD & SOUTH PARALLEL RD",
@@ -75,6 +90,6 @@
       "pulsePointId": "2436632647"
     }
   ],
-  "lastIncident": "2026-06-24T14:22:00Z",
-  "count": 5
+  "lastIncident": "2026-07-01T02:37:00Z",
+  "count": 6
 }

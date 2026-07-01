@@ -556,8 +556,8 @@
     "name": "140th St",
     "slug": "surrey/140th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-27T20:57:00Z",
-    "count": 32
+    "lastIncident": "2026-07-01T02:33:00Z",
+    "count": 33
   },
   "surrey/141a-st": {
     "name": "141a St",
@@ -850,8 +850,8 @@
     "name": "32nd Ave",
     "slug": "surrey/32nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-27T22:28:00Z",
-    "count": 16
+    "lastIncident": "2026-07-01T02:37:00Z",
+    "count": 17
   },
   "langley/30th-ave": {
     "name": "30th Ave",
@@ -1032,8 +1032,8 @@
     "name": "160th St",
     "slug": "surrey/160th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-20T00:41:00Z",
-    "count": 20
+    "lastIncident": "2026-07-01T02:37:00Z",
+    "count": 21
   },
   "vancouver/e-28th-ave": {
     "name": "E 28th Ave",
@@ -1914,8 +1914,8 @@
     "name": "Clearbrook Rd",
     "slug": "abbotsford/clearbrook-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-20T17:23:00Z",
-    "count": 20
+    "lastIncident": "2026-07-01T02:29:00Z",
+    "count": 21
   },
   "abbotsford/maclure-rd": {
     "name": "Maclure Rd",
@@ -2831,8 +2831,8 @@
     "name": "South Parallel Rd",
     "slug": "abbotsford/south-parallel-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-24T14:22:00Z",
-    "count": 5
+    "lastIncident": "2026-07-01T02:37:00Z",
+    "count": 6
   },
   "mission/7th-ave": {
     "name": "7th Ave",
@@ -3503,8 +3503,8 @@
     "name": "Helmcken St",
     "slug": "vancouver/helmcken-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-07T23:22:00Z",
-    "count": 4
+    "lastIncident": "2026-07-01T03:03:00Z",
+    "count": 5
   },
   "surrey/golden-ears-way": {
     "name": "Golden Ears Way",
@@ -3608,8 +3608,8 @@
     "name": "Sumas Way",
     "slug": "abbotsford/sumas-way",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-26T12:31:00Z",
-    "count": 10
+    "lastIncident": "2026-07-01T02:37:00Z",
+    "count": 11
   },
   "burnaby/marlborough-ave": {
     "name": "Marlborough Ave",
@@ -3699,8 +3699,8 @@
     "name": "Royal Oak Ave",
     "slug": "burnaby/royal-oak-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-06-23T00:05:00Z",
-    "count": 10
+    "lastIncident": "2026-07-01T03:21:00Z",
+    "count": 11
   },
   "burnaby/irving-st": {
     "name": "Irving St",
@@ -6338,8 +6338,8 @@
     "name": "Homer St",
     "slug": "vancouver/homer-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-11T07:04:00Z",
-    "count": 1
+    "lastIncident": "2026-07-01T03:03:00Z",
+    "count": 2
   },
   "vancouver/wall-st": {
     "name": "Wall St",
@@ -13128,8 +13128,8 @@
     "name": "Grimmer St",
     "slug": "burnaby/grimmer-st",
     "city": "Burnaby",
-    "lastIncident": "2026-06-26T17:58:00Z",
-    "count": 1
+    "lastIncident": "2026-07-01T03:21:00Z",
+    "count": 2
   },
   "mission/14th-ave": {
     "name": "14th Ave",
@@ -13395,6 +13395,13 @@
     "slug": "surrey/128a-st",
     "city": "Surrey",
     "lastIncident": "2026-07-01T00:31:00Z",
+    "count": 1
+  },
+  "abbotsford/austin-ave": {
+    "name": "Austin Ave",
+    "slug": "abbotsford/austin-ave",
+    "city": "Abbotsford",
+    "lastIncident": "2026-07-01T02:29:00Z",
     "count": 1
   }
 }

@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-01T03:21:00Z_burnaby/grimmer-st_burnaby/royal-oak-ave",
+      "timestamp": "2026-07-01T03:21:00Z",
+      "address": "GRIMMER ST & ROYAL OAK AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/grimmer-st",
+        "burnaby/royal-oak-ave"
+      ],
+      "streetNames": [
+        "Grimmer St",
+        "Royal Oak Ave"
+      ],
+      "pulsePointId": "2508707921"
+    },
+    {
       "id": "2026-06-23T00:05:00Z_burnaby/royal-oak-ave_burnaby/deer-lake-pkwy",
       "timestamp": "2026-06-23T00:05:00Z",
       "address": "ROYAL OAK AVE & DEER LAKE PKWY",
@@ -150,6 +165,6 @@
       "pulsePointId": "2439944324"
     }
   ],
-  "lastIncident": "2026-06-23T00:05:00Z",
-  "count": 10
+  "lastIncident": "2026-07-01T03:21:00Z",
+  "count": 11
 }

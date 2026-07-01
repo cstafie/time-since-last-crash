@@ -1,5 +1,99 @@
 [
   {
+    "id": "2026-07-01T03:21:00Z_burnaby/grimmer-st_burnaby/royal-oak-ave",
+    "timestamp": "2026-07-01T03:21:00Z",
+    "scrapedAt": "2026-07-01T03:43:53Z",
+    "address": "GRIMMER ST & ROYAL OAK AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/grimmer-st",
+      "burnaby/royal-oak-ave"
+    ],
+    "streetNames": [
+      "Grimmer St",
+      "Royal Oak Ave"
+    ],
+    "pulsePointId": "2508707921"
+  },
+  {
+    "id": "2026-07-01T03:03:00Z_vancouver/homer-st_vancouver/helmcken-st",
+    "timestamp": "2026-07-01T03:03:00Z",
+    "scrapedAt": "2026-07-01T03:43:53Z",
+    "address": "HOMER ST & HELMCKEN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/homer-st",
+      "vancouver/helmcken-st"
+    ],
+    "streetNames": [
+      "Homer St",
+      "Helmcken St"
+    ],
+    "pulsePointId": "2508698093"
+  },
+  {
+    "id": "2026-07-01T02:37:00Z_abbotsford/sumas-way_abbotsford/south-parallel-rd",
+    "timestamp": "2026-07-01T02:37:00Z",
+    "scrapedAt": "2026-07-01T03:43:53Z",
+    "address": "SUMAS WAY & SOUTH PARALLEL RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/sumas-way",
+      "abbotsford/south-parallel-rd"
+    ],
+    "streetNames": [
+      "Sumas Way",
+      "South Parallel Rd"
+    ],
+    "pulsePointId": "2508685133"
+  },
+  {
+    "id": "2026-07-01T02:37:00Z_surrey/160th-st_surrey/32nd-ave",
+    "timestamp": "2026-07-01T02:37:00Z",
+    "scrapedAt": "2026-07-01T03:43:53Z",
+    "address": "160TH ST & 32ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/160th-st",
+      "surrey/32nd-ave"
+    ],
+    "streetNames": [
+      "160th St",
+      "32nd Ave"
+    ],
+    "pulsePointId": "2508685132"
+  },
+  {
+    "id": "2026-07-01T02:33:00Z_surrey/140th-st",
+    "timestamp": "2026-07-01T02:33:00Z",
+    "scrapedAt": "2026-07-01T03:43:53Z",
+    "address": "140TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/140th-st"
+    ],
+    "streetNames": [
+      "140th St"
+    ],
+    "pulsePointId": "2508683294"
+  },
+  {
+    "id": "2026-07-01T02:29:00Z_abbotsford/austin-ave_abbotsford/clearbrook-rd",
+    "timestamp": "2026-07-01T02:29:00Z",
+    "scrapedAt": "2026-07-01T03:43:53Z",
+    "address": "AUSTIN AVE & CLEARBROOK RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/austin-ave",
+      "abbotsford/clearbrook-rd"
+    ],
+    "streetNames": [
+      "Austin Ave",
+      "Clearbrook Rd"
+    ],
+    "pulsePointId": "2508680006"
+  },
+  {
     "id": "2026-07-01T02:02:00Z_burnaby/kingsway",
     "timestamp": "2026-07-01T02:02:00Z",
     "scrapedAt": "2026-07-01T02:23:47Z",
