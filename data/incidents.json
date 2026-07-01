@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-07-01T20:11:00Z_surrey/78a-ave_surrey/140th-st",
+    "timestamp": "2026-07-01T20:11:00Z",
+    "scrapedAt": "2026-07-01T21:00:09Z",
+    "address": "78A AVE & 140TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/78a-ave",
+      "surrey/140th-st"
+    ],
+    "streetNames": [
+      "78a Ave",
+      "140th St"
+    ],
+    "pulsePointId": "2509156817"
+  },
+  {
+    "id": "2026-07-01T20:08:00Z_surrey/king-george-blvd_surrey/105a-ave",
+    "timestamp": "2026-07-01T20:08:00Z",
+    "scrapedAt": "2026-07-01T21:00:09Z",
+    "address": "KING GEORGE BLVD & 105A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/105a-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "105a Ave"
+    ],
+    "pulsePointId": "2509154271"
+  },
+  {
     "id": "2026-07-01T19:59:00Z_chilliwack/vedder-rd_chilliwack/keith-wilson-rd",
     "timestamp": "2026-07-01T19:59:00Z",
     "scrapedAt": "2026-07-01T20:08:44Z",

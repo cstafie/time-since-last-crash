@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-01T20:08:00Z_surrey/king-george-blvd_surrey/105a-ave",
+      "timestamp": "2026-07-01T20:08:00Z",
+      "address": "KING GEORGE BLVD & 105A AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/king-george-blvd",
+        "surrey/105a-ave"
+      ],
+      "streetNames": [
+        "King George Blvd",
+        "105a Ave"
+      ],
+      "pulsePointId": "2509154271"
+    },
+    {
       "id": "2026-06-30T04:46:00Z_surrey/100th-ave_surrey/king-george-blvd",
       "timestamp": "2026-06-30T04:46:00Z",
       "address": "100TH AVE & KING GEORGE BLVD",
@@ -1116,6 +1131,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-30T04:46:00Z",
-  "count": 76
+  "lastIncident": "2026-07-01T20:08:00Z",
+  "count": 77
 }

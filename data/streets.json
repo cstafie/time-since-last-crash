@@ -556,8 +556,8 @@
     "name": "140th St",
     "slug": "surrey/140th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-01T02:33:00Z",
-    "count": 33
+    "lastIncident": "2026-07-01T20:11:00Z",
+    "count": 34
   },
   "surrey/141a-st": {
     "name": "141a St",
@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-06-30T04:46:00Z",
-    "count": 76
+    "lastIncident": "2026-07-01T20:08:00Z",
+    "count": 77
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -6632,8 +6632,8 @@
     "name": "105a Ave",
     "slug": "surrey/105a-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-25T22:41:00Z",
-    "count": 3
+    "lastIncident": "2026-07-01T20:08:00Z",
+    "count": 4
   },
   "abbotsford/station-rd": {
     "name": "Station Rd",
@@ -12400,8 +12400,8 @@
     "name": "78a Ave",
     "slug": "surrey/78a-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-22T03:26:00Z",
-    "count": 2
+    "lastIncident": "2026-07-01T20:11:00Z",
+    "count": 3
   },
   "vancouver/w-23rd-ave": {
     "name": "W 23rd Ave",
