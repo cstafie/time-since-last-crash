@@ -2341,8 +2341,8 @@
     "name": "W Georgia St",
     "slug": "vancouver/w-georgia-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-20T17:43:00Z",
-    "count": 13
+    "lastIncident": "2026-07-01T00:14:00Z",
+    "count": 14
   },
   "vancouver/w-41st-ave": {
     "name": "W 41st Ave",
@@ -3209,8 +3209,8 @@
     "name": "Hornby St",
     "slug": "vancouver/hornby-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-18T23:20:00Z",
-    "count": 6
+    "lastIncident": "2026-07-01T00:14:00Z",
+    "count": 7
   },
   "surrey/nordel-way": {
     "name": "Nordel Way",

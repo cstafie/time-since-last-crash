@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-01T00:14:00Z_vancouver/w-georgia-st_vancouver/hornby-st",
+      "timestamp": "2026-07-01T00:14:00Z",
+      "address": "W GEORGIA ST & HORNBY ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-georgia-st",
+        "vancouver/hornby-st"
+      ],
+      "streetNames": [
+        "W Georgia St",
+        "Hornby St"
+      ],
+      "pulsePointId": "2508601254"
+    },
+    {
       "id": "2026-06-18T23:20:00Z_vancouver/robson-st_vancouver/hornby-st",
       "timestamp": "2026-06-18T23:20:00Z",
       "address": "ROBSON ST & HORNBY ST",
@@ -94,6 +109,6 @@
       "pulsePointId": "2437915968"
     }
   ],
-  "lastIncident": "2026-06-18T23:20:00Z",
-  "count": 6
+  "lastIncident": "2026-07-01T00:14:00Z",
+  "count": 7
 }
