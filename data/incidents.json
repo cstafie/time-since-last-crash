@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-07-01T22:03:00Z_surrey/140th-st_surrey/fraser-hwy",
+    "timestamp": "2026-07-01T22:03:00Z",
+    "scrapedAt": "2026-07-01T22:25:04Z",
+    "address": "140TH ST & FRASER HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/140th-st",
+      "surrey/fraser-hwy"
+    ],
+    "streetNames": [
+      "140th St",
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2509235118"
+  },
+  {
+    "id": "2026-07-01T21:38:00Z_vancouver/e-51st-ave_vancouver/mckinnon-st",
+    "timestamp": "2026-07-01T21:38:00Z",
+    "scrapedAt": "2026-07-01T22:25:04Z",
+    "address": "E 51ST AVE & MCKINNON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-51st-ave",
+      "vancouver/mckinnon-st"
+    ],
+    "streetNames": [
+      "E 51st Ave",
+      "Mckinnon St"
+    ],
+    "pulsePointId": "2509217268"
+  },
+  {
     "id": "2026-07-01T20:11:00Z_surrey/78a-ave_surrey/140th-st",
     "timestamp": "2026-07-01T20:11:00Z",
     "scrapedAt": "2026-07-01T21:00:09Z",

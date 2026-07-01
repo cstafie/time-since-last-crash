@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/mckinnon-st",
+  "name": "Mckinnon St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-07-01T21:38:00Z_vancouver/e-51st-ave_vancouver/mckinnon-st",
+      "timestamp": "2026-07-01T21:38:00Z",
+      "address": "E 51ST AVE & MCKINNON ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-51st-ave",
+        "vancouver/mckinnon-st"
+      ],
+      "streetNames": [
+        "E 51st Ave",
+        "Mckinnon St"
+      ],
+      "pulsePointId": "2509217268"
+    }
+  ],
+  "lastIncident": "2026-07-01T21:38:00Z",
+  "count": 1
+}

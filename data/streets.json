@@ -556,8 +556,8 @@
     "name": "140th St",
     "slug": "surrey/140th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-01T20:11:00Z",
-    "count": 34
+    "lastIncident": "2026-07-01T22:03:00Z",
+    "count": 35
   },
   "surrey/141a-st": {
     "name": "141a St",
@@ -927,8 +927,8 @@
     "name": "Fraser Hwy",
     "slug": "surrey/fraser-hwy",
     "city": "Surrey",
-    "lastIncident": "2026-06-29T19:43:00Z",
-    "count": 20
+    "lastIncident": "2026-07-01T22:03:00Z",
+    "count": 21
   },
   "surrey/159th-st": {
     "name": "159th St",
@@ -1872,8 +1872,8 @@
     "name": "E 51st Ave",
     "slug": "vancouver/e-51st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-13T03:11:00Z",
-    "count": 3
+    "lastIncident": "2026-07-01T21:38:00Z",
+    "count": 4
   },
   "chilliwack/bellevue-dr": {
     "name": "Bellevue Dr",
@@ -13416,6 +13416,13 @@
     "slug": "abbotsford/ventura-ave",
     "city": "Abbotsford",
     "lastIncident": "2026-07-01T19:09:00Z",
+    "count": 1
+  },
+  "vancouver/mckinnon-st": {
+    "name": "Mckinnon St",
+    "slug": "vancouver/mckinnon-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-07-01T21:38:00Z",
     "count": 1
   }
 }
