@@ -332,8 +332,8 @@
     "name": "Lougheed Hwy",
     "slug": "mission/lougheed-hwy",
     "city": "Mission",
-    "lastIncident": "2026-06-26T04:48:00Z",
-    "count": 7
+    "lastIncident": "2026-07-02T07:00:00Z",
+    "count": 8
   },
   "mission/wren-st": {
     "name": "Wren St",
@@ -794,8 +794,8 @@
     "name": "W 4th Ave",
     "slug": "vancouver/w-4th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-13T14:46:00Z",
-    "count": 11
+    "lastIncident": "2026-07-02T04:56:00Z",
+    "count": 12
   },
   "vancouver/w-70th-ave": {
     "name": "W 70th Ave",
@@ -885,8 +885,8 @@
     "name": "176th St",
     "slug": "surrey/176th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-29T19:23:00Z",
-    "count": 39
+    "lastIncident": "2026-07-02T06:30:00Z",
+    "count": 41
   },
   "surrey/100th-ave": {
     "name": "100th Ave",
@@ -1795,8 +1795,8 @@
     "name": "152nd St",
     "slug": "surrey/152nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-29T01:26:00Z",
-    "count": 38
+    "lastIncident": "2026-07-02T06:56:00Z",
+    "count": 39
   },
   "langley/20611-fraser-hwyste-111": {
     "name": "20611 Fraser Hwy,ste 111",
@@ -2642,8 +2642,8 @@
     "name": "216th St",
     "slug": "langley/216th-st",
     "city": "Langley",
-    "lastIncident": "2026-06-24T02:03:00Z",
-    "count": 15
+    "lastIncident": "2026-07-02T05:35:00Z",
+    "count": 16
   },
   "surrey/87th-ave": {
     "name": "87th Ave",
@@ -7885,8 +7885,8 @@
     "name": "Hayward Conn",
     "slug": "mission/hayward-conn",
     "city": "Mission",
-    "lastIncident": "2026-06-26T04:48:00Z",
-    "count": 2
+    "lastIncident": "2026-07-02T07:00:00Z",
+    "count": 3
   },
   "north-vancouver/main-st": {
     "name": "Main St",
@@ -9607,8 +9607,8 @@
     "name": "68a Ave",
     "slug": "surrey/68a-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-15T03:40:00Z",
-    "count": 1
+    "lastIncident": "2026-07-02T06:30:00Z",
+    "count": 2
   },
   "north-vancouver/n-dollarton-hwy": {
     "name": "N Dollarton Hwy",
@@ -13430,6 +13430,27 @@
     "slug": "burnaby/mulberry-pl",
     "city": "Burnaby",
     "lastIncident": "2026-07-01T23:57:00Z",
+    "count": 1
+  },
+  "surrey/65a-ave": {
+    "name": "65a Ave",
+    "slug": "surrey/65a-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-07-02T06:30:00Z",
+    "count": 1
+  },
+  "langley/58th-ave": {
+    "name": "58th Ave",
+    "slug": "langley/58th-ave",
+    "city": "Langley",
+    "lastIncident": "2026-07-02T05:35:00Z",
+    "count": 1
+  },
+  "vancouver/wallace-st": {
+    "name": "Wallace St",
+    "slug": "vancouver/wallace-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-07-02T04:56:00Z",
     "count": 1
   }
 }

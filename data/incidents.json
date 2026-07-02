@@ -1,5 +1,99 @@
 [
   {
+    "id": "2026-07-02T07:00:00Z_mission/lougheed-hwy_mission/hayward-conn",
+    "timestamp": "2026-07-02T07:00:00Z",
+    "scrapedAt": "2026-07-02T07:58:26Z",
+    "address": "LOUGHEED HWY & HAYWARD CONN",
+    "city": "Mission",
+    "streets": [
+      "mission/lougheed-hwy",
+      "mission/hayward-conn"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "Hayward Conn"
+    ],
+    "pulsePointId": "2509519092"
+  },
+  {
+    "id": "2026-07-02T06:56:00Z_surrey/152nd-st",
+    "timestamp": "2026-07-02T06:56:00Z",
+    "scrapedAt": "2026-07-02T07:58:26Z",
+    "address": "152ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/152nd-st"
+    ],
+    "streetNames": [
+      "152nd St"
+    ],
+    "pulsePointId": "2509518422"
+  },
+  {
+    "id": "2026-07-02T06:30:00Z_surrey/176th-st_surrey/65a-ave",
+    "timestamp": "2026-07-02T06:30:00Z",
+    "scrapedAt": "2026-07-02T07:58:26Z",
+    "address": "176TH ST & 65A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/176th-st",
+      "surrey/65a-ave"
+    ],
+    "streetNames": [
+      "176th St",
+      "65a Ave"
+    ],
+    "pulsePointId": "2509510426"
+  },
+  {
+    "id": "2026-07-02T06:30:00Z_surrey/68a-ave_surrey/176th-st",
+    "timestamp": "2026-07-02T06:30:00Z",
+    "scrapedAt": "2026-07-02T07:58:26Z",
+    "address": "68A AVE & 176TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/68a-ave",
+      "surrey/176th-st"
+    ],
+    "streetNames": [
+      "68a Ave",
+      "176th St"
+    ],
+    "pulsePointId": "2509510219"
+  },
+  {
+    "id": "2026-07-02T05:35:00Z_langley/216th-st_langley/58th-ave",
+    "timestamp": "2026-07-02T05:35:00Z",
+    "scrapedAt": "2026-07-02T07:58:26Z",
+    "address": "216TH ST & 58TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/216th-st",
+      "langley/58th-ave"
+    ],
+    "streetNames": [
+      "216th St",
+      "58th Ave"
+    ],
+    "pulsePointId": "2509490588"
+  },
+  {
+    "id": "2026-07-02T04:56:00Z_vancouver/wallace-st_vancouver/w-4th-ave",
+    "timestamp": "2026-07-02T04:56:00Z",
+    "scrapedAt": "2026-07-02T07:58:26Z",
+    "address": "WALLACE ST & W 4TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/wallace-st",
+      "vancouver/w-4th-ave"
+    ],
+    "streetNames": [
+      "Wallace St",
+      "W 4th Ave"
+    ],
+    "pulsePointId": "2509474881"
+  },
+  {
     "id": "2026-07-02T04:06:00Z_vancouver/clark-dr_vancouver/e-6th-ave",
     "timestamp": "2026-07-02T04:06:00Z",
     "scrapedAt": "2026-07-02T04:35:45Z",

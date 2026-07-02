@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/wallace-st",
+  "name": "Wallace St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-07-02T04:56:00Z_vancouver/wallace-st_vancouver/w-4th-ave",
+      "timestamp": "2026-07-02T04:56:00Z",
+      "address": "WALLACE ST & W 4TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/wallace-st",
+        "vancouver/w-4th-ave"
+      ],
+      "streetNames": [
+        "Wallace St",
+        "W 4th Ave"
+      ],
+      "pulsePointId": "2509474881"
+    }
+  ],
+  "lastIncident": "2026-07-02T04:56:00Z",
+  "count": 1
+}

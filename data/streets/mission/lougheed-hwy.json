@@ -4,6 +4,21 @@
   "city": "Mission",
   "incidents": [
     {
+      "id": "2026-07-02T07:00:00Z_mission/lougheed-hwy_mission/hayward-conn",
+      "timestamp": "2026-07-02T07:00:00Z",
+      "address": "LOUGHEED HWY & HAYWARD CONN",
+      "city": "Mission",
+      "streets": [
+        "mission/lougheed-hwy",
+        "mission/hayward-conn"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "Hayward Conn"
+      ],
+      "pulsePointId": "2509519092"
+    },
+    {
       "id": "2026-06-26T04:48:00Z_mission/lougheed-hwy_mission/hayward-conn",
       "timestamp": "2026-06-26T04:48:00Z",
       "address": "LOUGHEED HWY & HAYWARD CONN",
@@ -108,6 +123,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-26T04:48:00Z",
-  "count": 7
+  "lastIncident": "2026-07-02T07:00:00Z",
+  "count": 8
 }

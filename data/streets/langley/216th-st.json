@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-07-02T05:35:00Z_langley/216th-st_langley/58th-ave",
+      "timestamp": "2026-07-02T05:35:00Z",
+      "address": "216TH ST & 58TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/216th-st",
+        "langley/58th-ave"
+      ],
+      "streetNames": [
+        "216th St",
+        "58th Ave"
+      ],
+      "pulsePointId": "2509490588"
+    },
+    {
       "id": "2026-06-24T02:03:00Z_langley/216th-st_langley/glover-rd",
       "timestamp": "2026-06-24T02:03:00Z",
       "address": "216TH ST & GLOVER RD",
@@ -221,6 +236,6 @@
       "pulsePointId": "2436047549"
     }
   ],
-  "lastIncident": "2026-06-24T02:03:00Z",
-  "count": 15
+  "lastIncident": "2026-07-02T05:35:00Z",
+  "count": 16
 }
