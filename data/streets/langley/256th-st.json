@@ -4,6 +4,19 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-07-02T21:04:00Z_langley/256th-st",
+      "timestamp": "2026-07-02T21:04:00Z",
+      "address": "256TH ST",
+      "city": "Langley",
+      "streets": [
+        "langley/256th-st"
+      ],
+      "streetNames": [
+        "256th St"
+      ],
+      "pulsePointId": "2509920336"
+    },
+    {
       "id": "2026-06-10T07:16:00Z_langley/256th-st_langley/robertson-cres",
       "timestamp": "2026-06-10T07:16:00Z",
       "address": "256TH ST & ROBERTSON CRES",
@@ -62,6 +75,6 @@
       "pulsePointId": "2438915688"
     }
   ],
-  "lastIncident": "2026-06-10T07:16:00Z",
-  "count": 4
+  "lastIncident": "2026-07-02T21:04:00Z",
+  "count": 5
 }

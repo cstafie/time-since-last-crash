@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-02T20:27:00Z_vancouver/w-7th-ave",
+      "timestamp": "2026-07-02T20:27:00Z",
+      "address": "W 7TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-7th-ave"
+      ],
+      "streetNames": [
+        "W 7th Ave"
+      ],
+      "pulsePointId": "2509892581"
+    },
+    {
       "id": "2026-06-04T19:07:00Z_vancouver/w-7th-ave",
       "timestamp": "2026-06-04T19:07:00Z",
       "address": "W 7TH AVE",
@@ -77,6 +90,6 @@
       "pulsePointId": "2451107823"
     }
   ],
-  "lastIncident": "2026-06-04T19:07:00Z",
-  "count": 5
+  "lastIncident": "2026-07-02T20:27:00Z",
+  "count": 6
 }

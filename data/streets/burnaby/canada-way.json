@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-02T21:20:00Z_burnaby/kensington-ave_burnaby/canada-way",
+      "timestamp": "2026-07-02T21:20:00Z",
+      "address": "KENSINGTON AVE & CANADA WAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/kensington-ave",
+        "burnaby/canada-way"
+      ],
+      "streetNames": [
+        "Kensington Ave",
+        "Canada Way"
+      ],
+      "pulsePointId": "2509934864"
+    },
+    {
       "id": "2026-06-26T22:23:00Z_burnaby/canada-way_burnaby/14th-ave",
       "timestamp": "2026-06-26T22:23:00Z",
       "address": "CANADA WAY & 14TH AVE",
@@ -400,6 +415,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-26T22:23:00Z",
-  "count": 27
+  "lastIncident": "2026-07-02T21:20:00Z",
+  "count": 28
 }

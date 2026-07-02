@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-07-02T21:20:00Z_burnaby/kensington-ave_burnaby/canada-way",
+    "timestamp": "2026-07-02T21:20:00Z",
+    "scrapedAt": "2026-07-02T21:38:49Z",
+    "address": "KENSINGTON AVE & CANADA WAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/kensington-ave",
+      "burnaby/canada-way"
+    ],
+    "streetNames": [
+      "Kensington Ave",
+      "Canada Way"
+    ],
+    "pulsePointId": "2509934864"
+  },
+  {
+    "id": "2026-07-02T21:04:00Z_langley/268th-st_langley/56th-ave",
+    "timestamp": "2026-07-02T21:04:00Z",
+    "scrapedAt": "2026-07-02T21:38:49Z",
+    "address": "268TH ST & 56TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/268th-st",
+      "langley/56th-ave"
+    ],
+    "streetNames": [
+      "268th St",
+      "56th Ave"
+    ],
+    "pulsePointId": "2509920760"
+  },
+  {
+    "id": "2026-07-02T21:04:00Z_langley/256th-st",
+    "timestamp": "2026-07-02T21:04:00Z",
+    "scrapedAt": "2026-07-02T21:38:49Z",
+    "address": "256TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/256th-st"
+    ],
+    "streetNames": [
+      "256th St"
+    ],
+    "pulsePointId": "2509920336"
+  },
+  {
+    "id": "2026-07-02T20:52:00Z_vancouver/ash-st_vancouver/w-broadway",
+    "timestamp": "2026-07-02T20:52:00Z",
+    "scrapedAt": "2026-07-02T21:38:49Z",
+    "address": "ASH ST & W BROADWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/ash-st",
+      "vancouver/w-broadway"
+    ],
+    "streetNames": [
+      "Ash St",
+      "W Broadway"
+    ],
+    "pulsePointId": "2509910783"
+  },
+  {
+    "id": "2026-07-02T20:29:00Z_abbotsford/1812-vedder-way",
+    "timestamp": "2026-07-02T20:29:00Z",
+    "scrapedAt": "2026-07-02T21:38:49Z",
+    "address": "1812 VEDDER WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/1812-vedder-way"
+    ],
+    "streetNames": [
+      "1812 Vedder Way"
+    ],
+    "pulsePointId": "2509893975"
+  },
+  {
+    "id": "2026-07-02T20:27:00Z_vancouver/w-7th-ave",
+    "timestamp": "2026-07-02T20:27:00Z",
+    "scrapedAt": "2026-07-02T21:38:49Z",
+    "address": "W 7TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-7th-ave"
+    ],
+    "streetNames": [
+      "W 7th Ave"
+    ],
+    "pulsePointId": "2509892581"
+  },
+  {
     "id": "2026-07-02T20:01:00Z_vancouver/sophia-st",
     "timestamp": "2026-07-02T20:01:00Z",
     "scrapedAt": "2026-07-02T20:12:49Z",

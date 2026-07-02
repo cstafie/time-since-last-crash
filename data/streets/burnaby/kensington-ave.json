@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-02T21:20:00Z_burnaby/kensington-ave_burnaby/canada-way",
+      "timestamp": "2026-07-02T21:20:00Z",
+      "address": "KENSINGTON AVE & CANADA WAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/kensington-ave",
+        "burnaby/canada-way"
+      ],
+      "streetNames": [
+        "Kensington Ave",
+        "Canada Way"
+      ],
+      "pulsePointId": "2509934864"
+    },
+    {
       "id": "2026-06-22T03:30:00Z_burnaby/hastings-st_burnaby/kensington-ave",
       "timestamp": "2026-06-22T03:30:00Z",
       "address": "HASTINGS ST & KENSINGTON AVE",
@@ -76,6 +91,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-22T03:30:00Z",
-  "count": 5
+  "lastIncident": "2026-07-02T21:20:00Z",
+  "count": 6
 }
