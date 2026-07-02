@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-02T09:24:00Z_burnaby/walker-ave",
+      "timestamp": "2026-07-02T09:24:00Z",
+      "address": "WALKER AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/walker-ave"
+      ],
+      "streetNames": [
+        "Walker Ave"
+      ],
+      "pulsePointId": "2509557270"
+    },
+    {
       "id": "2026-03-22T13:58:00Z_burnaby/walker-ave",
       "timestamp": "2026-03-22T13:58:00Z",
       "address": "WALKER AVE",
@@ -17,6 +30,6 @@
       "pulsePointId": "2439172284"
     }
   ],
-  "lastIncident": "2026-03-22T13:58:00Z",
-  "count": 1
+  "lastIncident": "2026-07-02T09:24:00Z",
+  "count": 2
 }

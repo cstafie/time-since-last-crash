@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-02T09:04:00Z_surrey/92nd-ave_surrey/prince-charles-blvd",
+      "timestamp": "2026-07-02T09:04:00Z",
+      "address": "92ND AVE & PRINCE CHARLES BLVD",
+      "city": "Surrey",
+      "streets": [
+        "surrey/92nd-ave",
+        "surrey/prince-charles-blvd"
+      ],
+      "streetNames": [
+        "92nd Ave",
+        "Prince Charles Blvd"
+      ],
+      "pulsePointId": "2509552255"
+    },
+    {
       "id": "2026-06-27T18:18:00Z_surrey/92nd-ave_surrey/king-george-blvd",
       "timestamp": "2026-06-27T18:18:00Z",
       "address": "92ND AVE & KING GEORGE BLVD",
@@ -316,6 +331,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-27T18:18:00Z",
-  "count": 21
+  "lastIncident": "2026-07-02T09:04:00Z",
+  "count": 22
 }

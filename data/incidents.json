@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-07-02T09:24:00Z_burnaby/walker-ave",
+    "timestamp": "2026-07-02T09:24:00Z",
+    "scrapedAt": "2026-07-02T10:32:54Z",
+    "address": "WALKER AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/walker-ave"
+    ],
+    "streetNames": [
+      "Walker Ave"
+    ],
+    "pulsePointId": "2509557270"
+  },
+  {
+    "id": "2026-07-02T09:04:00Z_surrey/92nd-ave_surrey/prince-charles-blvd",
+    "timestamp": "2026-07-02T09:04:00Z",
+    "scrapedAt": "2026-07-02T10:32:54Z",
+    "address": "92ND AVE & PRINCE CHARLES BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/92nd-ave",
+      "surrey/prince-charles-blvd"
+    ],
+    "streetNames": [
+      "92nd Ave",
+      "Prince Charles Blvd"
+    ],
+    "pulsePointId": "2509552255"
+  },
+  {
     "id": "2026-07-02T07:00:00Z_mission/lougheed-hwy_mission/hayward-conn",
     "timestamp": "2026-07-02T07:00:00Z",
     "scrapedAt": "2026-07-02T07:58:26Z",
