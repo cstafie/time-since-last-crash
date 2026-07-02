@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-30T16:36:00Z",
-    "count": 56
+    "lastIncident": "2026-07-02T13:59:00Z",
+    "count": 57
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -2523,8 +2523,8 @@
     "name": "W King Edward Ave",
     "slug": "vancouver/w-king-edward-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-28T05:50:00Z",
-    "count": 9
+    "lastIncident": "2026-07-02T13:59:00Z",
+    "count": 10
   },
   "vancouver/puget-dr": {
     "name": "Puget Dr",
