@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-07-02T16:52:00Z_delta/cliveden-avenue-ofrp_delta/alex-fraser-brdg",
+    "timestamp": "2026-07-02T16:52:00Z",
+    "scrapedAt": "2026-07-02T17:07:05Z",
+    "address": "CLIVEDEN AVENUE OFRP & ALEX FRASER BRDG",
+    "city": "Delta",
+    "streets": [
+      "delta/cliveden-avenue-ofrp",
+      "delta/alex-fraser-brdg"
+    ],
+    "streetNames": [
+      "Cliveden Avenue Ofrp",
+      "Alex Fraser Brdg"
+    ],
+    "pulsePointId": "2509738043"
+  },
+  {
+    "id": "2026-07-02T16:22:00Z_delta/roberts-bank-rd",
+    "timestamp": "2026-07-02T16:22:00Z",
+    "scrapedAt": "2026-07-02T17:07:05Z",
+    "address": "ROBERTS BANK RD",
+    "city": "Delta",
+    "streets": [
+      "delta/roberts-bank-rd"
+    ],
+    "streetNames": [
+      "Roberts Bank Rd"
+    ],
+    "pulsePointId": "2509718165"
+  },
+  {
+    "id": "2026-07-02T15:54:00Z_surrey/137a-st_surrey/96th-ave",
+    "timestamp": "2026-07-02T15:54:00Z",
+    "scrapedAt": "2026-07-02T17:07:05Z",
+    "address": "137A ST & 96TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/137a-st",
+      "surrey/96th-ave"
+    ],
+    "streetNames": [
+      "137a St",
+      "96th Ave"
+    ],
+    "pulsePointId": "2509700414"
+  },
+  {
     "id": "2026-07-02T13:59:00Z_vancouver/w-king-edward-ave_vancouver/granville-st",
     "timestamp": "2026-07-02T13:59:00Z",
     "scrapedAt": "2026-07-02T15:01:40Z",

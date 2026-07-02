@@ -647,8 +647,8 @@
     "name": "96th Ave",
     "slug": "surrey/96th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-29T19:23:00Z",
-    "count": 34
+    "lastIncident": "2026-07-02T15:54:00Z",
+    "count": 35
   },
   "surrey/bolivar-rd": {
     "name": "Bolivar Rd",
@@ -878,8 +878,8 @@
     "name": "Roberts Bank Rd",
     "slug": "delta/roberts-bank-rd",
     "city": "Delta",
-    "lastIncident": "2026-03-10T13:25:00Z",
-    "count": 1
+    "lastIncident": "2026-07-02T16:22:00Z",
+    "count": 2
   },
   "surrey/176th-st": {
     "name": "176th St",
@@ -1732,8 +1732,8 @@
     "name": "Alex Fraser Brdg",
     "slug": "delta/alex-fraser-brdg",
     "city": "Delta",
-    "lastIncident": "2026-06-24T16:56:00Z",
-    "count": 19
+    "lastIncident": "2026-07-02T16:52:00Z",
+    "count": 20
   },
   "abbotsford/riverside-st": {
     "name": "Riverside St",
@@ -13451,6 +13451,20 @@
     "slug": "vancouver/wallace-st",
     "city": "Vancouver",
     "lastIncident": "2026-07-02T04:56:00Z",
+    "count": 1
+  },
+  "delta/cliveden-avenue-ofrp": {
+    "name": "Cliveden Avenue Ofrp",
+    "slug": "delta/cliveden-avenue-ofrp",
+    "city": "Delta",
+    "lastIncident": "2026-07-02T16:52:00Z",
+    "count": 1
+  },
+  "surrey/137a-st": {
+    "name": "137a St",
+    "slug": "surrey/137a-st",
+    "city": "Surrey",
+    "lastIncident": "2026-07-02T15:54:00Z",
     "count": 1
   }
 }

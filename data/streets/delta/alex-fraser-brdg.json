@@ -4,6 +4,21 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-07-02T16:52:00Z_delta/cliveden-avenue-ofrp_delta/alex-fraser-brdg",
+      "timestamp": "2026-07-02T16:52:00Z",
+      "address": "CLIVEDEN AVENUE OFRP & ALEX FRASER BRDG",
+      "city": "Delta",
+      "streets": [
+        "delta/cliveden-avenue-ofrp",
+        "delta/alex-fraser-brdg"
+      ],
+      "streetNames": [
+        "Cliveden Avenue Ofrp",
+        "Alex Fraser Brdg"
+      ],
+      "pulsePointId": "2509738043"
+    },
+    {
       "id": "2026-06-24T16:56:00Z_delta/alex-fraser-brdg",
       "timestamp": "2026-06-24T16:56:00Z",
       "address": "ALEX FRASER BRDG",
@@ -251,6 +266,6 @@
       "pulsePointId": "2433160188"
     }
   ],
-  "lastIncident": "2026-06-24T16:56:00Z",
-  "count": 19
+  "lastIncident": "2026-07-02T16:52:00Z",
+  "count": 20
 }
