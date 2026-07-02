@@ -577,15 +577,15 @@
     "name": "168th St",
     "slug": "surrey/168th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-30T21:00:00Z",
-    "count": 15
+    "lastIncident": "2026-07-02T19:11:00Z",
+    "count": 16
   },
   "surrey/16th-ave": {
     "name": "16th Ave",
     "slug": "surrey/16th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-30T21:00:00Z",
-    "count": 13
+    "lastIncident": "2026-07-02T19:11:00Z",
+    "count": 14
   },
   "surrey/63a-ave": {
     "name": "63a Ave",
@@ -2943,8 +2943,8 @@
     "name": "Gilmore Ave",
     "slug": "burnaby/gilmore-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-06-20T00:42:00Z",
-    "count": 4
+    "lastIncident": "2026-07-02T19:41:00Z",
+    "count": 5
   },
   "new-westminster/11th-st": {
     "name": "11th St",
@@ -9572,8 +9572,8 @@
     "name": "223rd St",
     "slug": "maple-ridge/223rd-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-14T22:52:00Z",
-    "count": 1
+    "lastIncident": "2026-07-02T20:00:00Z",
+    "count": 2
   },
   "maple-ridge/mcintosh-ave": {
     "name": "Mcintosh Ave",
@@ -11077,8 +11077,8 @@
     "name": "Selkirk Ave",
     "slug": "maple-ridge/selkirk-ave",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-31T17:08:00Z",
-    "count": 1
+    "lastIncident": "2026-07-02T20:00:00Z",
+    "count": 2
   },
   "burnaby/linwood-st": {
     "name": "Linwood St",
@@ -12834,8 +12834,8 @@
     "name": "Albert St",
     "slug": "burnaby/albert-st",
     "city": "Burnaby",
-    "lastIncident": "2026-06-23T15:58:00Z",
-    "count": 1
+    "lastIncident": "2026-07-02T19:41:00Z",
+    "count": 2
   },
   "burnaby/canberra-ave": {
     "name": "Canberra Ave",
@@ -13500,6 +13500,13 @@
     "slug": "port-moody/henry-st",
     "city": "Port Moody",
     "lastIncident": "2026-07-02T18:05:00Z",
+    "count": 1
+  },
+  "vancouver/sophia-st": {
+    "name": "Sophia St",
+    "slug": "vancouver/sophia-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-07-02T20:01:00Z",
     "count": 1
   }
 }

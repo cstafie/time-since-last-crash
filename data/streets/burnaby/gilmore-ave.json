@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-02T19:41:00Z_burnaby/albert-st_burnaby/gilmore-ave",
+      "timestamp": "2026-07-02T19:41:00Z",
+      "address": "ALBERT ST & GILMORE AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/albert-st",
+        "burnaby/gilmore-ave"
+      ],
+      "streetNames": [
+        "Albert St",
+        "Gilmore Ave"
+      ],
+      "pulsePointId": "2509858458"
+    },
+    {
       "id": "2026-06-20T00:42:00Z_burnaby/dawson-st_burnaby/gilmore-ave",
       "timestamp": "2026-06-20T00:42:00Z",
       "address": "DAWSON ST & GILMORE AVE",
@@ -62,6 +77,6 @@
       "pulsePointId": "2437006115"
     }
   ],
-  "lastIncident": "2026-06-20T00:42:00Z",
-  "count": 4
+  "lastIncident": "2026-07-02T19:41:00Z",
+  "count": 5
 }

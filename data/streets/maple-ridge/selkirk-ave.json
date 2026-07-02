@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-07-02T20:00:00Z_maple-ridge/223rd-st_maple-ridge/selkirk-ave",
+      "timestamp": "2026-07-02T20:00:00Z",
+      "address": "223RD ST & SELKIRK AVE",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/223rd-st",
+        "maple-ridge/selkirk-ave"
+      ],
+      "streetNames": [
+        "223rd St",
+        "Selkirk Ave"
+      ],
+      "pulsePointId": "2509871609"
+    },
+    {
       "id": "2026-05-31T17:08:00Z_maple-ridge/224th-st_maple-ridge/selkirk-ave",
       "timestamp": "2026-05-31T17:08:00Z",
       "address": "224TH ST & SELKIRK AVE",
@@ -19,6 +34,6 @@
       "pulsePointId": "2486273407"
     }
   ],
-  "lastIncident": "2026-05-31T17:08:00Z",
-  "count": 1
+  "lastIncident": "2026-07-02T20:00:00Z",
+  "count": 2
 }

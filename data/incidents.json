@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-07-02T20:01:00Z_vancouver/sophia-st",
+    "timestamp": "2026-07-02T20:01:00Z",
+    "scrapedAt": "2026-07-02T20:12:49Z",
+    "address": "SOPHIA ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/sophia-st"
+    ],
+    "streetNames": [
+      "Sophia St"
+    ],
+    "pulsePointId": "2509872699"
+  },
+  {
+    "id": "2026-07-02T20:00:00Z_maple-ridge/223rd-st_maple-ridge/selkirk-ave",
+    "timestamp": "2026-07-02T20:00:00Z",
+    "scrapedAt": "2026-07-02T20:12:49Z",
+    "address": "223RD ST & SELKIRK AVE",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/223rd-st",
+      "maple-ridge/selkirk-ave"
+    ],
+    "streetNames": [
+      "223rd St",
+      "Selkirk Ave"
+    ],
+    "pulsePointId": "2509871609"
+  },
+  {
+    "id": "2026-07-02T19:41:00Z_burnaby/albert-st_burnaby/gilmore-ave",
+    "timestamp": "2026-07-02T19:41:00Z",
+    "scrapedAt": "2026-07-02T20:12:49Z",
+    "address": "ALBERT ST & GILMORE AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/albert-st",
+      "burnaby/gilmore-ave"
+    ],
+    "streetNames": [
+      "Albert St",
+      "Gilmore Ave"
+    ],
+    "pulsePointId": "2509858458"
+  },
+  {
+    "id": "2026-07-02T19:11:00Z_surrey/16th-ave_surrey/168th-st",
+    "timestamp": "2026-07-02T19:11:00Z",
+    "scrapedAt": "2026-07-02T20:12:49Z",
+    "address": "16TH AVE & 168TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/16th-ave",
+      "surrey/168th-st"
+    ],
+    "streetNames": [
+      "16th Ave",
+      "168th St"
+    ],
+    "pulsePointId": "2509830726"
+  },
+  {
     "id": "2026-07-02T18:09:00Z_port-coquitlam/salisbury-ave_port-coquitlam/wellington-st",
     "timestamp": "2026-07-02T18:09:00Z",
     "scrapedAt": "2026-07-02T18:53:25Z",
