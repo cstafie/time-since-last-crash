@@ -4,6 +4,19 @@
   "city": "Mission",
   "incidents": [
     {
+      "id": "2026-07-02T03:36:00Z_mission/dewdney-trunk-rd",
+      "timestamp": "2026-07-02T03:36:00Z",
+      "address": "DEWDNEY TRUNK RD",
+      "city": "Mission",
+      "streets": [
+        "mission/dewdney-trunk-rd"
+      ],
+      "streetNames": [
+        "Dewdney Trunk Rd"
+      ],
+      "pulsePointId": "2509437905"
+    },
+    {
       "id": "2026-06-24T02:23:00Z_mission/bell-st_mission/dewdney-trunk-rd",
       "timestamp": "2026-06-24T02:23:00Z",
       "address": "BELL ST & DEWDNEY TRUNK RD",
@@ -47,6 +60,6 @@
       "pulsePointId": "2450236340"
     }
   ],
-  "lastIncident": "2026-06-24T02:23:00Z",
-  "count": 3
+  "lastIncident": "2026-07-02T03:36:00Z",
+  "count": 4
 }

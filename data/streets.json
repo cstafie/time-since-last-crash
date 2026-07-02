@@ -528,8 +528,8 @@
     "name": "124th St",
     "slug": "surrey/124th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-23T06:21:00Z",
-    "count": 14
+    "lastIncident": "2026-07-02T00:45:00Z",
+    "count": 15
   },
   "surrey/128th-st": {
     "name": "128th St",
@@ -1620,8 +1620,8 @@
     "name": "80th Ave",
     "slug": "surrey/80th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-27T15:37:00Z",
-    "count": 29
+    "lastIncident": "2026-07-02T00:45:00Z",
+    "count": 30
   },
   "surrey/156th-st": {
     "name": "156th St",
@@ -2285,8 +2285,8 @@
     "name": "Hwy 99",
     "slug": "delta/hwy-99",
     "city": "Delta",
-    "lastIncident": "2026-06-30T14:54:00Z",
-    "count": 15
+    "lastIncident": "2026-07-02T01:10:00Z",
+    "count": 16
   },
   "coquitlam/redonda-dr": {
     "name": "Redonda Dr",
@@ -3454,8 +3454,8 @@
     "name": "Clark Dr",
     "slug": "vancouver/clark-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-06-26T15:40:00Z",
-    "count": 11
+    "lastIncident": "2026-07-02T04:06:00Z",
+    "count": 12
   },
   "vancouver/e-17th-ave": {
     "name": "E 17th Ave",
@@ -5799,8 +5799,8 @@
     "name": "Dewdney Trunk Rd",
     "slug": "mission/dewdney-trunk-rd",
     "city": "Mission",
-    "lastIncident": "2026-06-24T02:23:00Z",
-    "count": 3
+    "lastIncident": "2026-07-02T03:36:00Z",
+    "count": 4
   },
   "mission/creston-ave": {
     "name": "Creston Ave",
@@ -6989,8 +6989,8 @@
     "name": "E 6th Ave",
     "slug": "vancouver/e-6th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-17T08:04:00Z",
-    "count": 1
+    "lastIncident": "2026-07-02T04:06:00Z",
+    "count": 2
   },
   "vancouver/perry-st": {
     "name": "Perry St",

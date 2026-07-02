@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-07-02T04:06:00Z_vancouver/clark-dr_vancouver/e-6th-ave",
+    "timestamp": "2026-07-02T04:06:00Z",
+    "scrapedAt": "2026-07-02T04:35:45Z",
+    "address": "CLARK DR & E 6TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/clark-dr",
+      "vancouver/e-6th-ave"
+    ],
+    "streetNames": [
+      "Clark Dr",
+      "E 6th Ave"
+    ],
+    "pulsePointId": "2509452970"
+  },
+  {
+    "id": "2026-07-02T03:36:00Z_mission/dewdney-trunk-rd",
+    "timestamp": "2026-07-02T03:36:00Z",
+    "scrapedAt": "2026-07-02T04:35:45Z",
+    "address": "DEWDNEY TRUNK RD",
+    "city": "Mission",
+    "streets": [
+      "mission/dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2509437905"
+  },
+  {
+    "id": "2026-07-02T01:10:00Z_delta/hwy-99",
+    "timestamp": "2026-07-02T01:10:00Z",
+    "scrapedAt": "2026-07-02T04:35:45Z",
+    "address": "HWY 99",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2509356373"
+  },
+  {
+    "id": "2026-07-02T00:45:00Z_surrey/124th-st_surrey/80th-ave",
+    "timestamp": "2026-07-02T00:45:00Z",
+    "scrapedAt": "2026-07-02T04:35:45Z",
+    "address": "124TH ST & 80TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/124th-st",
+      "surrey/80th-ave"
+    ],
+    "streetNames": [
+      "124th St",
+      "80th Ave"
+    ],
+    "pulsePointId": "2509340554"
+  },
+  {
     "id": "2026-07-01T23:57:00Z_burnaby/mulberry-pl",
     "timestamp": "2026-07-01T23:57:00Z",
     "scrapedAt": "2026-07-02T00:23:19Z",
