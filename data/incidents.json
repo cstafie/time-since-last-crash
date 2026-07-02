@@ -1,5 +1,219 @@
 [
   {
+    "id": "2026-07-02T22:52:00Z_abbotsford/peardonville-rd",
+    "timestamp": "2026-07-02T22:52:00Z",
+    "scrapedAt": "2026-07-02T22:53:32Z",
+    "address": "PEARDONVILLE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/peardonville-rd"
+    ],
+    "streetNames": [
+      "Peardonville Rd"
+    ],
+    "pulsePointId": "2509998559"
+  },
+  {
+    "id": "2026-07-02T22:49:00Z_richmond/cambie-rd_richmond/jacombs-rd",
+    "timestamp": "2026-07-02T22:49:00Z",
+    "scrapedAt": "2026-07-02T22:53:32Z",
+    "address": "CAMBIE RD & JACOMBS RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/cambie-rd",
+      "richmond/jacombs-rd"
+    ],
+    "streetNames": [
+      "Cambie Rd",
+      "Jacombs Rd"
+    ],
+    "pulsePointId": "2509998146"
+  },
+  {
+    "id": "2026-07-02T22:33:00Z_new-westminster/3rd-ave_new-westminster/6th-st",
+    "timestamp": "2026-07-02T22:33:00Z",
+    "scrapedAt": "2026-07-02T22:53:32Z",
+    "address": "3RD AVE & 6TH ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/3rd-ave",
+      "new-westminster/6th-st"
+    ],
+    "streetNames": [
+      "3rd Ave",
+      "6th St"
+    ],
+    "pulsePointId": "2509986014"
+  },
+  {
+    "id": "2026-07-02T22:27:00Z_vancouver/arbutus-st_vancouver/w-12th-ave",
+    "timestamp": "2026-07-02T22:27:00Z",
+    "scrapedAt": "2026-07-02T22:53:32Z",
+    "address": "ARBUTUS ST & W 12TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/arbutus-st",
+      "vancouver/w-12th-ave"
+    ],
+    "streetNames": [
+      "Arbutus St",
+      "W 12th Ave"
+    ],
+    "pulsePointId": "2509981013"
+  },
+  {
+    "id": "2026-07-02T22:23:00Z_chilliwack/trans-canada-hwy",
+    "timestamp": "2026-07-02T22:23:00Z",
+    "scrapedAt": "2026-07-02T22:53:32Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2509979252"
+  },
+  {
+    "id": "2026-07-02T22:14:00Z_surrey/192nd-st_surrey/80th-ave",
+    "timestamp": "2026-07-02T22:14:00Z",
+    "scrapedAt": "2026-07-02T22:53:32Z",
+    "address": "192ND ST & 80TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/192nd-st",
+      "surrey/80th-ave"
+    ],
+    "streetNames": [
+      "192nd St",
+      "80th Ave"
+    ],
+    "pulsePointId": "2509972106"
+  },
+  {
+    "id": "2026-07-02T22:10:00Z_maple-ridge/dewdney-trunk-rd",
+    "timestamp": "2026-07-02T22:10:00Z",
+    "scrapedAt": "2026-07-02T22:53:32Z",
+    "address": "DEWDNEY TRUNK RD",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2509969650"
+  },
+  {
+    "id": "2026-07-02T22:08:00Z_surrey/16th-ave_surrey/176th-st",
+    "timestamp": "2026-07-02T22:08:00Z",
+    "scrapedAt": "2026-07-02T22:53:32Z",
+    "address": "16TH AVE & 176TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/16th-ave",
+      "surrey/176th-st"
+    ],
+    "streetNames": [
+      "16th Ave",
+      "176th St"
+    ],
+    "pulsePointId": "2509967123"
+  },
+  {
+    "id": "2026-07-02T21:52:00Z_burnaby/gilmore-way_burnaby/sanderson-way",
+    "timestamp": "2026-07-02T21:52:00Z",
+    "scrapedAt": "2026-07-02T22:53:32Z",
+    "address": "GILMORE WAY & SANDERSON WAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/gilmore-way",
+      "burnaby/sanderson-way"
+    ],
+    "streetNames": [
+      "Gilmore Way",
+      "Sanderson Way"
+    ],
+    "pulsePointId": "2509954852"
+  },
+  {
+    "id": "2026-07-02T21:51:00Z_vancouver/jervis-st_vancouver/w-georgia-st",
+    "timestamp": "2026-07-02T21:51:00Z",
+    "scrapedAt": "2026-07-02T22:53:32Z",
+    "address": "JERVIS ST & W GEORGIA ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/jervis-st",
+      "vancouver/w-georgia-st"
+    ],
+    "streetNames": [
+      "Jervis St",
+      "W Georgia St"
+    ],
+    "pulsePointId": "2509955357"
+  },
+  {
+    "id": "2026-07-02T21:49:00Z_vancouver/w-cordova-st",
+    "timestamp": "2026-07-02T21:49:00Z",
+    "scrapedAt": "2026-07-02T22:53:32Z",
+    "address": "W CORDOVA ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-cordova-st"
+    ],
+    "streetNames": [
+      "W Cordova St"
+    ],
+    "pulsePointId": "2509954201"
+  },
+  {
+    "id": "2026-07-02T21:48:00Z_richmond/viking-way",
+    "timestamp": "2026-07-02T21:48:00Z",
+    "scrapedAt": "2026-07-02T22:53:32Z",
+    "address": "VIKING WAY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/viking-way"
+    ],
+    "streetNames": [
+      "Viking Way"
+    ],
+    "pulsePointId": "2509953220"
+  },
+  {
+    "id": "2026-07-02T21:47:00Z_richmond/viking-pl_richmond/viking-way",
+    "timestamp": "2026-07-02T21:47:00Z",
+    "scrapedAt": "2026-07-02T22:53:32Z",
+    "address": "VIKING PL & VIKING WAY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/viking-pl",
+      "richmond/viking-way"
+    ],
+    "streetNames": [
+      "Viking Pl",
+      "Viking Way"
+    ],
+    "pulsePointId": "2509951026"
+  },
+  {
+    "id": "2026-07-02T21:37:00Z_richmond/alderbridge-way_richmond/minoru-blvd",
+    "timestamp": "2026-07-02T21:37:00Z",
+    "scrapedAt": "2026-07-02T22:53:32Z",
+    "address": "ALDERBRIDGE WAY & MINORU BLVD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/alderbridge-way",
+      "richmond/minoru-blvd"
+    ],
+    "streetNames": [
+      "Alderbridge Way",
+      "Minoru Blvd"
+    ],
+    "pulsePointId": "2509944962"
+  },
+  {
     "id": "2026-07-02T21:20:00Z_burnaby/kensington-ave_burnaby/canada-way",
     "timestamp": "2026-07-02T21:20:00Z",
     "scrapedAt": "2026-07-02T21:38:49Z",

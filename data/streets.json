@@ -129,8 +129,8 @@
     "name": "Trans Canada Hwy",
     "slug": "chilliwack/trans-canada-hwy",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-28T23:49:00Z",
-    "count": 21
+    "lastIncident": "2026-07-02T22:23:00Z",
+    "count": 22
   },
   "chilliwack/upper-prairie-rd": {
     "name": "Upper Prairie Rd",
@@ -318,8 +318,8 @@
     "name": "Dewdney Trunk Rd",
     "slug": "maple-ridge/dewdney-trunk-rd",
     "city": "Maple Ridge",
-    "lastIncident": "2026-06-26T00:10:00Z",
-    "count": 25
+    "lastIncident": "2026-07-02T22:10:00Z",
+    "count": 26
   },
   "maple-ridge/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -584,8 +584,8 @@
     "name": "16th Ave",
     "slug": "surrey/16th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-02T19:11:00Z",
-    "count": 14
+    "lastIncident": "2026-07-02T22:08:00Z",
+    "count": 15
   },
   "surrey/63a-ave": {
     "name": "63a Ave",
@@ -773,8 +773,8 @@
     "name": "W 12th Ave",
     "slug": "vancouver/w-12th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-30T14:29:00Z",
-    "count": 15
+    "lastIncident": "2026-07-02T22:27:00Z",
+    "count": 16
   },
   "vancouver/w-33rd-ave": {
     "name": "W 33rd Ave",
@@ -885,8 +885,8 @@
     "name": "176th St",
     "slug": "surrey/176th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-02T06:30:00Z",
-    "count": 41
+    "lastIncident": "2026-07-02T22:08:00Z",
+    "count": 42
   },
   "surrey/100th-ave": {
     "name": "100th Ave",
@@ -1060,8 +1060,8 @@
     "name": "Peardonville Rd",
     "slug": "abbotsford/peardonville-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-13T09:45:00Z",
-    "count": 9
+    "lastIncident": "2026-07-02T22:52:00Z",
+    "count": 10
   },
   "abbotsford/townline-rd": {
     "name": "Townline Rd",
@@ -1382,8 +1382,8 @@
     "name": "192nd St",
     "slug": "surrey/192nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-29T21:05:00Z",
-    "count": 13
+    "lastIncident": "2026-07-02T22:14:00Z",
+    "count": 14
   },
   "surrey/66a-ave": {
     "name": "66a Ave",
@@ -1417,8 +1417,8 @@
     "name": "6th St",
     "slug": "new-westminster/6th-st",
     "city": "New Westminster",
-    "lastIncident": "2026-05-20T20:49:00Z",
-    "count": 5
+    "lastIncident": "2026-07-02T22:33:00Z",
+    "count": 6
   },
   "abbotsford/32900-south-fraser-way": {
     "name": "32900 South Fraser Way",
@@ -1620,8 +1620,8 @@
     "name": "80th Ave",
     "slug": "surrey/80th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-02T00:45:00Z",
-    "count": 30
+    "lastIncident": "2026-07-02T22:14:00Z",
+    "count": 31
   },
   "surrey/156th-st": {
     "name": "156th St",
@@ -2005,8 +2005,8 @@
     "name": "3rd Ave",
     "slug": "new-westminster/3rd-ave",
     "city": "New Westminster",
-    "lastIncident": "2026-06-30T21:59:00Z",
-    "count": 5
+    "lastIncident": "2026-07-02T22:33:00Z",
+    "count": 6
   },
   "new-westminster/stewardson-way": {
     "name": "Stewardson Way",
@@ -2061,15 +2061,15 @@
     "name": "Cambie Rd",
     "slug": "richmond/cambie-rd",
     "city": "Richmond",
-    "lastIncident": "2026-06-30T01:01:00Z",
-    "count": 10
+    "lastIncident": "2026-07-02T22:49:00Z",
+    "count": 11
   },
   "richmond/viking-way": {
     "name": "Viking Way",
     "slug": "richmond/viking-way",
     "city": "Richmond",
-    "lastIncident": "2026-05-28T15:53:00Z",
-    "count": 2
+    "lastIncident": "2026-07-02T21:48:00Z",
+    "count": 4
   },
   "vancouver/ironworkers-memorial-brdg": {
     "name": "Ironworkers Memorial Brdg",
@@ -2341,8 +2341,8 @@
     "name": "W Georgia St",
     "slug": "vancouver/w-georgia-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-01T00:14:00Z",
-    "count": 14
+    "lastIncident": "2026-07-02T21:51:00Z",
+    "count": 15
   },
   "vancouver/w-41st-ave": {
     "name": "W 41st Ave",
@@ -3314,8 +3314,8 @@
     "name": "Alderbridge Way",
     "slug": "richmond/alderbridge-way",
     "city": "Richmond",
-    "lastIncident": "2026-06-15T18:46:00Z",
-    "count": 8
+    "lastIncident": "2026-07-02T21:37:00Z",
+    "count": 9
   },
   "abbotsford/bateman-rd": {
     "name": "Bateman Rd",
@@ -4483,8 +4483,8 @@
     "name": "Jacombs Rd",
     "slug": "richmond/jacombs-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-17T16:14:00Z",
-    "count": 3
+    "lastIncident": "2026-07-02T22:49:00Z",
+    "count": 4
   },
   "richmond/delf-pl": {
     "name": "Delf Pl",
@@ -5533,8 +5533,8 @@
     "name": "Arbutus St",
     "slug": "vancouver/arbutus-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-30T14:29:00Z",
-    "count": 6
+    "lastIncident": "2026-07-02T22:27:00Z",
+    "count": 7
   },
   "surrey/125th-st": {
     "name": "125th St",
@@ -5925,8 +5925,8 @@
     "name": "Jervis St",
     "slug": "vancouver/jervis-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-21T22:56:00Z",
-    "count": 3
+    "lastIncident": "2026-07-02T21:51:00Z",
+    "count": 4
   },
   "burnaby/1st-ave": {
     "name": "1st Ave",
@@ -9292,8 +9292,8 @@
     "name": "Minoru Blvd",
     "slug": "richmond/minoru-blvd",
     "city": "Richmond",
-    "lastIncident": "2026-06-25T21:43:00Z",
-    "count": 4
+    "lastIncident": "2026-07-02T21:37:00Z",
+    "count": 5
   },
   "richmond/gollner-ave": {
     "name": "Gollner Ave",
@@ -10699,8 +10699,8 @@
     "name": "W Cordova St",
     "slug": "vancouver/w-cordova-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-27T19:40:00Z",
-    "count": 1
+    "lastIncident": "2026-07-02T21:49:00Z",
+    "count": 2
   },
   "mission/abbotsford-mission-brdg": {
     "name": "Abbotsford Mission Brdg",
@@ -13507,6 +13507,27 @@
     "slug": "vancouver/sophia-st",
     "city": "Vancouver",
     "lastIncident": "2026-07-02T20:01:00Z",
+    "count": 1
+  },
+  "burnaby/gilmore-way": {
+    "name": "Gilmore Way",
+    "slug": "burnaby/gilmore-way",
+    "city": "Burnaby",
+    "lastIncident": "2026-07-02T21:52:00Z",
+    "count": 1
+  },
+  "burnaby/sanderson-way": {
+    "name": "Sanderson Way",
+    "slug": "burnaby/sanderson-way",
+    "city": "Burnaby",
+    "lastIncident": "2026-07-02T21:52:00Z",
+    "count": 1
+  },
+  "richmond/viking-pl": {
+    "name": "Viking Pl",
+    "slug": "richmond/viking-pl",
+    "city": "Richmond",
+    "lastIncident": "2026-07-02T21:47:00Z",
     "count": 1
   }
 }

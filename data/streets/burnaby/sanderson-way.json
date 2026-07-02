@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/sanderson-way",
+  "name": "Sanderson Way",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-07-02T21:52:00Z_burnaby/gilmore-way_burnaby/sanderson-way",
+      "timestamp": "2026-07-02T21:52:00Z",
+      "address": "GILMORE WAY & SANDERSON WAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/gilmore-way",
+        "burnaby/sanderson-way"
+      ],
+      "streetNames": [
+        "Gilmore Way",
+        "Sanderson Way"
+      ],
+      "pulsePointId": "2509954852"
+    }
+  ],
+  "lastIncident": "2026-07-02T21:52:00Z",
+  "count": 1
+}

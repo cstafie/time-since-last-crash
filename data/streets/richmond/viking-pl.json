@@ -1,0 +1,24 @@
+{
+  "slug": "richmond/viking-pl",
+  "name": "Viking Pl",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-07-02T21:47:00Z_richmond/viking-pl_richmond/viking-way",
+      "timestamp": "2026-07-02T21:47:00Z",
+      "address": "VIKING PL & VIKING WAY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/viking-pl",
+        "richmond/viking-way"
+      ],
+      "streetNames": [
+        "Viking Pl",
+        "Viking Way"
+      ],
+      "pulsePointId": "2509951026"
+    }
+  ],
+  "lastIncident": "2026-07-02T21:47:00Z",
+  "count": 1
+}

@@ -4,6 +4,21 @@
   "city": "New Westminster",
   "incidents": [
     {
+      "id": "2026-07-02T22:33:00Z_new-westminster/3rd-ave_new-westminster/6th-st",
+      "timestamp": "2026-07-02T22:33:00Z",
+      "address": "3RD AVE & 6TH ST",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/3rd-ave",
+        "new-westminster/6th-st"
+      ],
+      "streetNames": [
+        "3rd Ave",
+        "6th St"
+      ],
+      "pulsePointId": "2509986014"
+    },
+    {
       "id": "2026-05-20T20:49:00Z_new-westminster/6th-st_new-westminster/blackford-st",
       "timestamp": "2026-05-20T20:49:00Z",
       "address": "6TH ST & BLACKFORD ST",
@@ -76,6 +91,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-20T20:49:00Z",
-  "count": 5
+  "lastIncident": "2026-07-02T22:33:00Z",
+  "count": 6
 }

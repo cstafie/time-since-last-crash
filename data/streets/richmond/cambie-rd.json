@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-02T22:49:00Z_richmond/cambie-rd_richmond/jacombs-rd",
+      "timestamp": "2026-07-02T22:49:00Z",
+      "address": "CAMBIE RD & JACOMBS RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/cambie-rd",
+        "richmond/jacombs-rd"
+      ],
+      "streetNames": [
+        "Cambie Rd",
+        "Jacombs Rd"
+      ],
+      "pulsePointId": "2509998146"
+    },
+    {
       "id": "2026-06-30T01:01:00Z_richmond/cambie-rd",
       "timestamp": "2026-06-30T01:01:00Z",
       "address": "CAMBIE RD",
@@ -150,6 +165,6 @@
       "pulsePointId": "2434197215"
     }
   ],
-  "lastIncident": "2026-06-30T01:01:00Z",
-  "count": 10
+  "lastIncident": "2026-07-02T22:49:00Z",
+  "count": 11
 }

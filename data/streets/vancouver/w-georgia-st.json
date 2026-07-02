@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-02T21:51:00Z_vancouver/jervis-st_vancouver/w-georgia-st",
+      "timestamp": "2026-07-02T21:51:00Z",
+      "address": "JERVIS ST & W GEORGIA ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/jervis-st",
+        "vancouver/w-georgia-st"
+      ],
+      "streetNames": [
+        "Jervis St",
+        "W Georgia St"
+      ],
+      "pulsePointId": "2509955357"
+    },
+    {
       "id": "2026-07-01T00:14:00Z_vancouver/w-georgia-st_vancouver/hornby-st",
       "timestamp": "2026-07-01T00:14:00Z",
       "address": "W GEORGIA ST & HORNBY ST",
@@ -214,6 +229,6 @@
       "pulsePointId": "2435242336"
     }
   ],
-  "lastIncident": "2026-07-01T00:14:00Z",
-  "count": 14
+  "lastIncident": "2026-07-02T21:51:00Z",
+  "count": 15
 }

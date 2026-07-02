@@ -4,6 +4,19 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-07-02T22:23:00Z_chilliwack/trans-canada-hwy",
+      "timestamp": "2026-07-02T22:23:00Z",
+      "address": "TRANS CANADA HWY",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2509979252"
+    },
+    {
       "id": "2026-06-28T23:49:00Z_chilliwack/trans-canada-hwy_chilliwack/yale-road-ofrp",
       "timestamp": "2026-06-28T23:49:00Z",
       "address": "TRANS CANADA HWY & YALE ROAD OFRP",
@@ -286,6 +299,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-28T23:49:00Z",
-  "count": 21
+  "lastIncident": "2026-07-02T22:23:00Z",
+  "count": 22
 }
