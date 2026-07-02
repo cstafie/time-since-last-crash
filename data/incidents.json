@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-07-02T18:09:00Z_port-coquitlam/salisbury-ave_port-coquitlam/wellington-st",
+    "timestamp": "2026-07-02T18:09:00Z",
+    "scrapedAt": "2026-07-02T18:53:25Z",
+    "address": "SALISBURY AVE & WELLINGTON ST",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/salisbury-ave",
+      "port-coquitlam/wellington-st"
+    ],
+    "streetNames": [
+      "Salisbury Ave",
+      "Wellington St"
+    ],
+    "pulsePointId": "2509787652"
+  },
+  {
+    "id": "2026-07-02T18:05:00Z_port-moody/mary-st_port-moody/henry-st",
+    "timestamp": "2026-07-02T18:05:00Z",
+    "scrapedAt": "2026-07-02T18:53:25Z",
+    "address": "MARY ST & HENRY ST",
+    "city": "Port Moody",
+    "streets": [
+      "port-moody/mary-st",
+      "port-moody/henry-st"
+    ],
+    "streetNames": [
+      "Mary St",
+      "Henry St"
+    ],
+    "pulsePointId": "2509787421"
+  },
+  {
+    "id": "2026-07-02T17:32:00Z_burnaby/sussex-ave_burnaby/hazel-st",
+    "timestamp": "2026-07-02T17:32:00Z",
+    "scrapedAt": "2026-07-02T18:53:25Z",
+    "address": "SUSSEX AVE & HAZEL ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/sussex-ave",
+      "burnaby/hazel-st"
+    ],
+    "streetNames": [
+      "Sussex Ave",
+      "Hazel St"
+    ],
+    "pulsePointId": "2509762106"
+  },
+  {
+    "id": "2026-07-02T17:11:00Z_mission/32729-7th-ave",
+    "timestamp": "2026-07-02T17:11:00Z",
+    "scrapedAt": "2026-07-02T18:53:25Z",
+    "address": "32729 7TH AVE",
+    "city": "Mission",
+    "streets": [
+      "mission/32729-7th-ave"
+    ],
+    "streetNames": [
+      "32729 7th Ave"
+    ],
+    "pulsePointId": "2509748536"
+  },
+  {
     "id": "2026-07-02T16:52:00Z_delta/cliveden-avenue-ofrp_delta/alex-fraser-brdg",
     "timestamp": "2026-07-02T16:52:00Z",
     "scrapedAt": "2026-07-02T17:07:05Z",

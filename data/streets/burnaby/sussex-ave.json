@@ -1,6 +1,6 @@
 {
-  "slug": "burnaby/hazel-st",
-  "name": "Hazel St",
+  "slug": "burnaby/sussex-ave",
+  "name": "Sussex Ave",
   "city": "Burnaby",
   "incidents": [
     {
@@ -17,20 +17,8 @@
         "Hazel St"
       ],
       "pulsePointId": "2509762106"
-    },
-    {
-      "id": "2026-03-11T20:26:00Z_burnaby/hazel-st",
-      "timestamp": "2026-03-11T20:26:00Z",
-      "address": "HAZEL ST",
-      "city": "Burnaby",
-      "streets": [
-        "burnaby/hazel-st"
-      ],
-      "streetNames": [
-        "Hazel St"
-      ]
     }
   ],
   "lastIncident": "2026-07-02T17:32:00Z",
-  "count": 2
+  "count": 1
 }

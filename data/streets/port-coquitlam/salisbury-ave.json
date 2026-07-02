@@ -1,6 +1,6 @@
 {
-  "slug": "port-coquitlam/wellington-st",
-  "name": "Wellington St",
+  "slug": "port-coquitlam/salisbury-ave",
+  "name": "Salisbury Ave",
   "city": "Port Coquitlam",
   "incidents": [
     {
@@ -17,21 +17,8 @@
         "Wellington St"
       ],
       "pulsePointId": "2509787652"
-    },
-    {
-      "id": "2026-05-08T04:38:00Z_port-coquitlam/wellington-st",
-      "timestamp": "2026-05-08T04:38:00Z",
-      "address": "WELLINGTON ST",
-      "city": "Port Coquitlam",
-      "streets": [
-        "port-coquitlam/wellington-st"
-      ],
-      "streetNames": [
-        "Wellington St"
-      ],
-      "pulsePointId": "2469707189"
     }
   ],
   "lastIncident": "2026-07-02T18:09:00Z",
-  "count": 2
+  "count": 1
 }

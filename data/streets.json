@@ -1284,8 +1284,8 @@
     "name": "Hazel St",
     "slug": "burnaby/hazel-st",
     "city": "Burnaby",
-    "lastIncident": "2026-03-11T20:26:00Z",
-    "count": 1
+    "lastIncident": "2026-07-02T17:32:00Z",
+    "count": 2
   },
   "surrey/28th-ave": {
     "name": "28th Ave",
@@ -9068,8 +9068,8 @@
     "name": "Wellington St",
     "slug": "port-coquitlam/wellington-st",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-05-08T04:38:00Z",
-    "count": 1
+    "lastIncident": "2026-07-02T18:09:00Z",
+    "count": 2
   },
   "coquitlam/lea-ave": {
     "name": "Lea Ave",
@@ -13465,6 +13465,41 @@
     "slug": "surrey/137a-st",
     "city": "Surrey",
     "lastIncident": "2026-07-02T15:54:00Z",
+    "count": 1
+  },
+  "port-coquitlam/salisbury-ave": {
+    "name": "Salisbury Ave",
+    "slug": "port-coquitlam/salisbury-ave",
+    "city": "Port Coquitlam",
+    "lastIncident": "2026-07-02T18:09:00Z",
+    "count": 1
+  },
+  "burnaby/sussex-ave": {
+    "name": "Sussex Ave",
+    "slug": "burnaby/sussex-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-07-02T17:32:00Z",
+    "count": 1
+  },
+  "mission/32729-7th-ave": {
+    "name": "32729 7th Ave",
+    "slug": "mission/32729-7th-ave",
+    "city": "Mission",
+    "lastIncident": "2026-07-02T17:11:00Z",
+    "count": 1
+  },
+  "port-moody/mary-st": {
+    "name": "Mary St",
+    "slug": "port-moody/mary-st",
+    "city": "Port Moody",
+    "lastIncident": "2026-07-02T18:05:00Z",
+    "count": 1
+  },
+  "port-moody/henry-st": {
+    "name": "Henry St",
+    "slug": "port-moody/henry-st",
+    "city": "Port Moody",
+    "lastIncident": "2026-07-02T18:05:00Z",
     "count": 1
   }
 }
