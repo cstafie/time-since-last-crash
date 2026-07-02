@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/3122-mt-lehman-rd",
+  "name": "3122 Mt Lehman Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-07-02T23:17:00Z_abbotsford/3122-mt-lehman-rd",
+      "timestamp": "2026-07-02T23:17:00Z",
+      "address": "3122 MT LEHMAN RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/3122-mt-lehman-rd"
+      ],
+      "streetNames": [
+        "3122 Mt Lehman Rd"
+      ],
+      "pulsePointId": "2510018171"
+    }
+  ],
+  "lastIncident": "2026-07-02T23:17:00Z",
+  "count": 1
+}

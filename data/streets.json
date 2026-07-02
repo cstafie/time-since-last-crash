@@ -80,8 +80,8 @@
     "name": "Willingdon Ave",
     "slug": "burnaby/willingdon-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-06-30T02:23:00Z",
-    "count": 12
+    "lastIncident": "2026-07-02T23:44:00Z",
+    "count": 13
   },
   "chilliwack/chadsey-rd": {
     "name": "Chadsey Rd",
@@ -1046,8 +1046,8 @@
     "name": "88th Ave",
     "slug": "langley/88th-ave",
     "city": "Langley",
-    "lastIncident": "2026-06-17T19:37:00Z",
-    "count": 12
+    "lastIncident": "2026-07-02T23:27:00Z",
+    "count": 13
   },
   "chilliwack/ryder-lake-rd": {
     "name": "Ryder Lake Rd",
@@ -1515,8 +1515,8 @@
     "name": "W 6th Ave",
     "slug": "vancouver/w-6th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-28T14:40:00Z",
-    "count": 6
+    "lastIncident": "2026-07-02T22:54:00Z",
+    "count": 7
   },
   "vancouver/columbia-st": {
     "name": "Columbia St",
@@ -1655,8 +1655,8 @@
     "name": "David Ave",
     "slug": "coquitlam/david-ave",
     "city": "Coquitlam",
-    "lastIncident": "2026-05-30T01:28:00Z",
-    "count": 6
+    "lastIncident": "2026-07-02T23:49:00Z",
+    "count": 7
   },
   "coquitlam/oxford-st": {
     "name": "Oxford St",
@@ -3937,8 +3937,8 @@
     "name": "E 33rd Ave",
     "slug": "vancouver/e-33rd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-01T13:41:00Z",
-    "count": 9
+    "lastIncident": "2026-07-02T23:38:00Z",
+    "count": 10
   },
   "surrey/university-dr": {
     "name": "University Dr",
@@ -4196,8 +4196,8 @@
     "name": "184th St",
     "slug": "surrey/184th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-07T08:10:00Z",
-    "count": 11
+    "lastIncident": "2026-07-02T22:57:00Z",
+    "count": 12
   },
   "burnaby/rosser-ave": {
     "name": "Rosser Ave",
@@ -4553,8 +4553,8 @@
     "name": "46a Ave",
     "slug": "langley/46a-ave",
     "city": "Langley",
-    "lastIncident": "2026-03-30T22:09:00Z",
-    "count": 1
+    "lastIncident": "2026-07-02T23:40:00Z",
+    "count": 2
   },
   "abbotsford/2852-gladys-ave": {
     "name": "2852 Gladys Ave",
@@ -5505,8 +5505,8 @@
     "name": "206th St",
     "slug": "langley/206th-st",
     "city": "Langley",
-    "lastIncident": "2026-06-14T22:03:00Z",
-    "count": 3
+    "lastIncident": "2026-07-02T23:27:00Z",
+    "count": 4
   },
   "burnaby/ulster-st": {
     "name": "Ulster St",
@@ -6205,8 +6205,8 @@
     "name": "Harris Rd",
     "slug": "abbotsford/harris-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-26T12:54:00Z",
-    "count": 9
+    "lastIncident": "2026-07-02T23:09:00Z",
+    "count": 11
   },
   "north-vancouver/capilano-road-onrp": {
     "name": "Capilano Road Onrp",
@@ -6429,8 +6429,8 @@
     "name": "Bates Rd",
     "slug": "abbotsford/bates-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-12T02:22:00Z",
-    "count": 1
+    "lastIncident": "2026-07-02T23:09:00Z",
+    "count": 3
   },
   "surrey/158th-st": {
     "name": "158th St",
@@ -8928,8 +8928,8 @@
     "name": "Windsor St",
     "slug": "vancouver/windsor-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-05T22:00:00Z",
-    "count": 1
+    "lastIncident": "2026-07-02T23:38:00Z",
+    "count": 2
   },
   "vancouver/carolina-st": {
     "name": "Carolina St",
@@ -13528,6 +13528,27 @@
     "slug": "richmond/viking-pl",
     "city": "Richmond",
     "lastIncident": "2026-07-02T21:47:00Z",
+    "count": 1
+  },
+  "coquitlam/coast-meridian-rd": {
+    "name": "Coast Meridian Rd",
+    "slug": "coquitlam/coast-meridian-rd",
+    "city": "Coquitlam",
+    "lastIncident": "2026-07-02T23:49:00Z",
+    "count": 1
+  },
+  "burnaby/brentlawn-dr": {
+    "name": "Brentlawn Dr",
+    "slug": "burnaby/brentlawn-dr",
+    "city": "Burnaby",
+    "lastIncident": "2026-07-02T23:44:00Z",
+    "count": 1
+  },
+  "abbotsford/3122-mt-lehman-rd": {
+    "name": "3122 Mt Lehman Rd",
+    "slug": "abbotsford/3122-mt-lehman-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-07-02T23:17:00Z",
     "count": 1
   }
 }

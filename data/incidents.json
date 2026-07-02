@@ -1,5 +1,141 @@
 [
   {
+    "id": "2026-07-02T23:49:00Z_coquitlam/coast-meridian-rd_coquitlam/david-ave",
+    "timestamp": "2026-07-02T23:49:00Z",
+    "scrapedAt": "2026-07-02T23:52:57Z",
+    "address": "COAST MERIDIAN RD & DAVID AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/coast-meridian-rd",
+      "coquitlam/david-ave"
+    ],
+    "streetNames": [
+      "Coast Meridian Rd",
+      "David Ave"
+    ],
+    "pulsePointId": "2510038468"
+  },
+  {
+    "id": "2026-07-02T23:44:00Z_burnaby/willingdon-ave_burnaby/brentlawn-dr",
+    "timestamp": "2026-07-02T23:44:00Z",
+    "scrapedAt": "2026-07-02T23:52:57Z",
+    "address": "WILLINGDON AVE & BRENTLAWN DR",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/willingdon-ave",
+      "burnaby/brentlawn-dr"
+    ],
+    "streetNames": [
+      "Willingdon Ave",
+      "Brentlawn Dr"
+    ],
+    "pulsePointId": "2510035692"
+  },
+  {
+    "id": "2026-07-02T23:40:00Z_langley/46a-ave",
+    "timestamp": "2026-07-02T23:40:00Z",
+    "scrapedAt": "2026-07-02T23:52:57Z",
+    "address": "46A AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/46a-ave"
+    ],
+    "streetNames": [
+      "46a Ave"
+    ],
+    "pulsePointId": "2510032757"
+  },
+  {
+    "id": "2026-07-02T23:38:00Z_vancouver/e-33rd-ave_vancouver/windsor-st",
+    "timestamp": "2026-07-02T23:38:00Z",
+    "scrapedAt": "2026-07-02T23:52:57Z",
+    "address": "E 33RD AVE & WINDSOR ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-33rd-ave",
+      "vancouver/windsor-st"
+    ],
+    "streetNames": [
+      "E 33rd Ave",
+      "Windsor St"
+    ],
+    "pulsePointId": "2510031849"
+  },
+  {
+    "id": "2026-07-02T23:27:00Z_langley/88th-ave_langley/206th-st",
+    "timestamp": "2026-07-02T23:27:00Z",
+    "scrapedAt": "2026-07-02T23:52:57Z",
+    "address": "88TH AVE & 206TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/88th-ave",
+      "langley/206th-st"
+    ],
+    "streetNames": [
+      "88th Ave",
+      "206th St"
+    ],
+    "pulsePointId": "2510023214"
+  },
+  {
+    "id": "2026-07-02T23:17:00Z_abbotsford/3122-mt-lehman-rd",
+    "timestamp": "2026-07-02T23:17:00Z",
+    "scrapedAt": "2026-07-02T23:52:57Z",
+    "address": "3122 MT LEHMAN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/3122-mt-lehman-rd"
+    ],
+    "streetNames": [
+      "3122 Mt Lehman Rd"
+    ],
+    "pulsePointId": "2510018171"
+  },
+  {
+    "id": "2026-07-02T23:09:00Z_abbotsford/harris-rd_abbotsford/bates-rd",
+    "timestamp": "2026-07-02T23:09:00Z",
+    "scrapedAt": "2026-07-02T23:52:57Z",
+    "address": "HARRIS RD & BATES RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/harris-rd",
+      "abbotsford/bates-rd"
+    ],
+    "streetNames": [
+      "Harris Rd",
+      "Bates Rd"
+    ],
+    "pulsePointId": "2510011397"
+  },
+  {
+    "id": "2026-07-02T22:57:00Z_surrey/184th-st",
+    "timestamp": "2026-07-02T22:57:00Z",
+    "scrapedAt": "2026-07-02T23:52:57Z",
+    "address": "184TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/184th-st"
+    ],
+    "streetNames": [
+      "184th St"
+    ],
+    "pulsePointId": "2510002794"
+  },
+  {
+    "id": "2026-07-02T22:54:00Z_vancouver/w-6th-ave",
+    "timestamp": "2026-07-02T22:54:00Z",
+    "scrapedAt": "2026-07-02T23:52:57Z",
+    "address": "W 6TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-6th-ave"
+    ],
+    "streetNames": [
+      "W 6th Ave"
+    ],
+    "pulsePointId": "2510000978"
+  },
+  {
     "id": "2026-07-02T22:52:00Z_abbotsford/peardonville-rd",
     "timestamp": "2026-07-02T22:52:00Z",
     "scrapedAt": "2026-07-02T22:53:32Z",
@@ -12,6 +148,22 @@
       "Peardonville Rd"
     ],
     "pulsePointId": "2509998559"
+  },
+  {
+    "id": "2026-07-02T22:52:00Z_abbotsford/harris-rd_abbotsford/bates-rd",
+    "timestamp": "2026-07-02T22:52:00Z",
+    "scrapedAt": "2026-07-02T23:52:57Z",
+    "address": "HARRIS RD & BATES RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/harris-rd",
+      "abbotsford/bates-rd"
+    ],
+    "streetNames": [
+      "Harris Rd",
+      "Bates Rd"
+    ],
+    "pulsePointId": "2510001150"
   },
   {
     "id": "2026-07-02T22:49:00Z_richmond/cambie-rd_richmond/jacombs-rd",

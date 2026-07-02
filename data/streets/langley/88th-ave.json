@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-07-02T23:27:00Z_langley/88th-ave_langley/206th-st",
+      "timestamp": "2026-07-02T23:27:00Z",
+      "address": "88TH AVE & 206TH ST",
+      "city": "Langley",
+      "streets": [
+        "langley/88th-ave",
+        "langley/206th-st"
+      ],
+      "streetNames": [
+        "88th Ave",
+        "206th St"
+      ],
+      "pulsePointId": "2510023214"
+    },
+    {
       "id": "2026-06-17T19:37:00Z_langley/200th-st_langley/88th-ave",
       "timestamp": "2026-06-17T19:37:00Z",
       "address": "200TH ST & 88TH AVE",
@@ -171,6 +186,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-17T19:37:00Z",
-  "count": 12
+  "lastIncident": "2026-07-02T23:27:00Z",
+  "count": 13
 }

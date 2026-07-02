@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/brentlawn-dr",
+  "name": "Brentlawn Dr",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-07-02T23:44:00Z_burnaby/willingdon-ave_burnaby/brentlawn-dr",
+      "timestamp": "2026-07-02T23:44:00Z",
+      "address": "WILLINGDON AVE & BRENTLAWN DR",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/willingdon-ave",
+        "burnaby/brentlawn-dr"
+      ],
+      "streetNames": [
+        "Willingdon Ave",
+        "Brentlawn Dr"
+      ],
+      "pulsePointId": "2510035692"
+    }
+  ],
+  "lastIncident": "2026-07-02T23:44:00Z",
+  "count": 1
+}

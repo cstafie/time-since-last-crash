@@ -4,6 +4,36 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-02T23:09:00Z_abbotsford/harris-rd_abbotsford/bates-rd",
+      "timestamp": "2026-07-02T23:09:00Z",
+      "address": "HARRIS RD & BATES RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/harris-rd",
+        "abbotsford/bates-rd"
+      ],
+      "streetNames": [
+        "Harris Rd",
+        "Bates Rd"
+      ],
+      "pulsePointId": "2510011397"
+    },
+    {
+      "id": "2026-07-02T22:52:00Z_abbotsford/harris-rd_abbotsford/bates-rd",
+      "timestamp": "2026-07-02T22:52:00Z",
+      "address": "HARRIS RD & BATES RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/harris-rd",
+        "abbotsford/bates-rd"
+      ],
+      "streetNames": [
+        "Harris Rd",
+        "Bates Rd"
+      ],
+      "pulsePointId": "2510001150"
+    },
+    {
       "id": "2026-06-26T12:54:00Z_abbotsford/harris-rd",
       "timestamp": "2026-06-26T12:54:00Z",
       "address": "HARRIS RD",
@@ -129,6 +159,6 @@
       "pulsePointId": "2451782410"
     }
   ],
-  "lastIncident": "2026-06-26T12:54:00Z",
-  "count": 9
+  "lastIncident": "2026-07-02T23:09:00Z",
+  "count": 11
 }

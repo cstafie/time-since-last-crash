@@ -1,0 +1,24 @@
+{
+  "slug": "coquitlam/coast-meridian-rd",
+  "name": "Coast Meridian Rd",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-07-02T23:49:00Z_coquitlam/coast-meridian-rd_coquitlam/david-ave",
+      "timestamp": "2026-07-02T23:49:00Z",
+      "address": "COAST MERIDIAN RD & DAVID AVE",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/coast-meridian-rd",
+        "coquitlam/david-ave"
+      ],
+      "streetNames": [
+        "Coast Meridian Rd",
+        "David Ave"
+      ],
+      "pulsePointId": "2510038468"
+    }
+  ],
+  "lastIncident": "2026-07-02T23:49:00Z",
+  "count": 1
+}
