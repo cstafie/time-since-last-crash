@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-03T02:00:00Z_burnaby/kingsway",
+      "timestamp": "2026-07-03T02:00:00Z",
+      "address": "KINGSWAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/kingsway"
+      ],
+      "streetNames": [
+        "Kingsway"
+      ],
+      "pulsePointId": "2510119673"
+    },
+    {
       "id": "2026-07-01T15:37:00Z_burnaby/arcola-st_burnaby/kingsway",
       "timestamp": "2026-07-01T15:37:00Z",
       "address": "ARCOLA ST & KINGSWAY",
@@ -388,6 +401,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-01T15:37:00Z",
-  "count": 27
+  "lastIncident": "2026-07-03T02:00:00Z",
+  "count": 28
 }

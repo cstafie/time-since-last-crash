@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-03T03:04:00Z_abbotsford/sumas-way_abbotsford/gladys-ave",
+      "timestamp": "2026-07-03T03:04:00Z",
+      "address": "SUMAS WAY & GLADYS AVE",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/sumas-way",
+        "abbotsford/gladys-ave"
+      ],
+      "streetNames": [
+        "Sumas Way",
+        "Gladys Ave"
+      ],
+      "pulsePointId": "2510156198"
+    },
+    {
       "id": "2026-07-01T02:37:00Z_abbotsford/sumas-way_abbotsford/south-parallel-rd",
       "timestamp": "2026-07-01T02:37:00Z",
       "address": "SUMAS WAY & SOUTH PARALLEL RD",
@@ -159,6 +174,6 @@
       "pulsePointId": "2439464523"
     }
   ],
-  "lastIncident": "2026-07-01T02:37:00Z",
-  "count": 11
+  "lastIncident": "2026-07-03T03:04:00Z",
+  "count": 12
 }

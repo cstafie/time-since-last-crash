@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/kamloops-st",
+  "name": "Kamloops St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-07-03T04:31:00Z_vancouver/kamloops-st",
+      "timestamp": "2026-07-03T04:31:00Z",
+      "address": "KAMLOOPS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/kamloops-st"
+      ],
+      "streetNames": [
+        "Kamloops St"
+      ],
+      "pulsePointId": "2510200911"
+    }
+  ],
+  "lastIncident": "2026-07-03T04:31:00Z",
+  "count": 1
+}
