@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-03T05:36:00Z_surrey/72nd-ave_surrey/128th-st",
+      "timestamp": "2026-07-03T05:36:00Z",
+      "address": "72ND AVE & 128TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/72nd-ave",
+        "surrey/128th-st"
+      ],
+      "streetNames": [
+        "72nd Ave",
+        "128th St"
+      ],
+      "pulsePointId": "2510228273"
+    },
+    {
       "id": "2026-06-30T01:22:00Z_surrey/128th-st_surrey/prince-charles-blvd",
       "timestamp": "2026-06-30T01:22:00Z",
       "address": "128TH ST & PRINCE CHARLES BLVD",
@@ -545,6 +560,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-30T01:22:00Z",
-  "count": 37
+  "lastIncident": "2026-07-03T05:36:00Z",
+  "count": 38
 }

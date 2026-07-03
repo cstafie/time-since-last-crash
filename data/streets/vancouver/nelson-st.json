@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-03T05:39:00Z_vancouver/nelson-st_vancouver/cambie-st",
+      "timestamp": "2026-07-03T05:39:00Z",
+      "address": "NELSON ST & CAMBIE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/nelson-st",
+        "vancouver/cambie-st"
+      ],
+      "streetNames": [
+        "Nelson St",
+        "Cambie St"
+      ],
+      "pulsePointId": "2510228884"
+    },
+    {
       "id": "2026-06-20T11:13:00Z_vancouver/nelson-st_vancouver/richards-st",
       "timestamp": "2026-06-20T11:13:00Z",
       "address": "NELSON ST & RICHARDS ST",
@@ -169,6 +184,6 @@
       "pulsePointId": "2434363478"
     }
   ],
-  "lastIncident": "2026-06-20T11:13:00Z",
-  "count": 11
+  "lastIncident": "2026-07-03T05:39:00Z",
+  "count": 12
 }

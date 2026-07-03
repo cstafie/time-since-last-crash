@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-03T07:14:00Z_vancouver/campbell-ave_vancouver/e-hastings-st",
+      "timestamp": "2026-07-03T07:14:00Z",
+      "address": "CAMPBELL AVE & E HASTINGS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/campbell-ave",
+        "vancouver/e-hastings-st"
+      ],
+      "streetNames": [
+        "Campbell Ave",
+        "E Hastings St"
+      ],
+      "pulsePointId": "2510261657"
+    },
+    {
       "id": "2026-06-27T23:40:00Z_vancouver/woodland-dr_vancouver/e-hastings-st",
       "timestamp": "2026-06-27T23:40:00Z",
       "address": "WOODLAND DR & E HASTINGS ST",
@@ -537,6 +552,6 @@
       "pulsePointId": "2433305056"
     }
   ],
-  "lastIncident": "2026-06-27T23:40:00Z",
-  "count": 37
+  "lastIncident": "2026-07-03T07:14:00Z",
+  "count": 38
 }

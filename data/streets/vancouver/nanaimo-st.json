@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-03T05:32:00Z_vancouver/nanaimo-st_vancouver/e-26th-ave",
+      "timestamp": "2026-07-03T05:32:00Z",
+      "address": "NANAIMO ST & E 26TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/nanaimo-st",
+        "vancouver/e-26th-ave"
+      ],
+      "streetNames": [
+        "Nanaimo St",
+        "E 26th Ave"
+      ],
+      "pulsePointId": "2510226431"
+    },
+    {
       "id": "2026-06-23T14:01:00Z_vancouver/nanaimo-st_vancouver/kingsway",
       "timestamp": "2026-06-23T14:01:00Z",
       "address": "NANAIMO ST & KINGSWAY",
@@ -253,6 +268,6 @@
       "pulsePointId": "2435582679"
     }
   ],
-  "lastIncident": "2026-06-23T14:01:00Z",
-  "count": 17
+  "lastIncident": "2026-07-03T05:32:00Z",
+  "count": 18
 }

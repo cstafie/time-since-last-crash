@@ -535,8 +535,8 @@
     "name": "128th St",
     "slug": "surrey/128th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-30T01:22:00Z",
-    "count": 37
+    "lastIncident": "2026-07-03T05:36:00Z",
+    "count": 38
   },
   "surrey/130b-st": {
     "name": "130b St",
@@ -696,8 +696,8 @@
     "name": "Beatrice St",
     "slug": "vancouver/beatrice-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-21T21:15:00Z",
-    "count": 4
+    "lastIncident": "2026-07-03T05:44:00Z",
+    "count": 5
   },
   "vancouver/burrard-st": {
     "name": "Burrard St",
@@ -1200,8 +1200,8 @@
     "name": "Se Marine Dr",
     "slug": "vancouver/se-marine-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-06-29T13:49:00Z",
-    "count": 20
+    "lastIncident": "2026-07-03T05:44:00Z",
+    "count": 22
   },
   "vancouver/kerr-st": {
     "name": "Kerr St",
@@ -1774,8 +1774,8 @@
     "name": "E Hastings St",
     "slug": "vancouver/e-hastings-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-27T23:40:00Z",
-    "count": 37
+    "lastIncident": "2026-07-03T07:14:00Z",
+    "count": 38
   },
   "abbotsford/king-rd": {
     "name": "King Rd",
@@ -1795,8 +1795,8 @@
     "name": "152nd St",
     "slug": "surrey/152nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-02T06:56:00Z",
-    "count": 39
+    "lastIncident": "2026-07-03T08:12:00Z",
+    "count": 40
   },
   "langley/20611-fraser-hwyste-111": {
     "name": "20611 Fraser Hwy,ste 111",
@@ -2110,8 +2110,8 @@
     "name": "Nelson St",
     "slug": "vancouver/nelson-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-20T11:13:00Z",
-    "count": 11
+    "lastIncident": "2026-07-03T05:39:00Z",
+    "count": 12
   },
   "abbotsford/mt-lehman-rd": {
     "name": "Mt Lehman Rd",
@@ -2453,15 +2453,15 @@
     "name": "Nanaimo St",
     "slug": "vancouver/nanaimo-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-23T14:01:00Z",
-    "count": 17
+    "lastIncident": "2026-07-03T05:32:00Z",
+    "count": 18
   },
   "vancouver/cambie-st": {
     "name": "Cambie St",
     "slug": "vancouver/cambie-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-27T22:01:00Z",
-    "count": 16
+    "lastIncident": "2026-07-03T05:39:00Z",
+    "count": 17
   },
   "vancouver/e-broadway": {
     "name": "E Broadway",
@@ -4343,8 +4343,8 @@
     "name": "Campbell Ave",
     "slug": "vancouver/campbell-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-29T18:40:00Z",
-    "count": 2
+    "lastIncident": "2026-07-03T07:14:00Z",
+    "count": 3
   },
   "new-westminster/10th-ave": {
     "name": "10th Ave",
@@ -4518,8 +4518,8 @@
     "name": "72nd Ave",
     "slug": "surrey/72nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-01T18:43:00Z",
-    "count": 20
+    "lastIncident": "2026-07-03T05:36:00Z",
+    "count": 21
   },
   "abbotsford/laurel-st": {
     "name": "Laurel St",
@@ -5288,8 +5288,8 @@
     "name": "Gilmore Avenue Dvrs",
     "slug": "burnaby/gilmore-avenue-dvrs",
     "city": "Burnaby",
-    "lastIncident": "2026-04-04T07:34:00Z",
-    "count": 1
+    "lastIncident": "2026-07-03T05:40:00Z",
+    "count": 2
   },
   "vancouver/e-57th-ave": {
     "name": "E 57th Ave",
@@ -7430,8 +7430,8 @@
     "name": "Borden St",
     "slug": "vancouver/borden-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-22T22:11:00Z",
-    "count": 1
+    "lastIncident": "2026-07-03T05:44:00Z",
+    "count": 2
   },
   "vancouver/e-king-edward-ave": {
     "name": "E King Edward Ave",
@@ -12288,8 +12288,8 @@
     "name": "E 26th Ave",
     "slug": "vancouver/e-26th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-15T02:30:00Z",
-    "count": 1
+    "lastIncident": "2026-07-03T05:32:00Z",
+    "count": 2
   },
   "abbotsford/cole-rd": {
     "name": "Cole Rd",
@@ -13556,6 +13556,13 @@
     "slug": "vancouver/kamloops-st",
     "city": "Vancouver",
     "lastIncident": "2026-07-03T04:31:00Z",
+    "count": 1
+  },
+  "surrey/ferguson-dvrs": {
+    "name": "Ferguson Dvrs",
+    "slug": "surrey/ferguson-dvrs",
+    "city": "Surrey",
+    "lastIncident": "2026-07-03T08:12:00Z",
     "count": 1
   }
 }

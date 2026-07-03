@@ -1,5 +1,131 @@
 [
   {
+    "id": "2026-07-03T08:12:00Z_surrey/ferguson-dvrs_surrey/152nd-st",
+    "timestamp": "2026-07-03T08:12:00Z",
+    "scrapedAt": "2026-07-03T08:31:02Z",
+    "address": "FERGUSON DVRS & 152ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/ferguson-dvrs",
+      "surrey/152nd-st"
+    ],
+    "streetNames": [
+      "Ferguson Dvrs",
+      "152nd St"
+    ],
+    "pulsePointId": "2510278209"
+  },
+  {
+    "id": "2026-07-03T07:14:00Z_vancouver/campbell-ave_vancouver/e-hastings-st",
+    "timestamp": "2026-07-03T07:14:00Z",
+    "scrapedAt": "2026-07-03T08:31:02Z",
+    "address": "CAMPBELL AVE & E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/campbell-ave",
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "Campbell Ave",
+      "E Hastings St"
+    ],
+    "pulsePointId": "2510261657"
+  },
+  {
+    "id": "2026-07-03T05:44:00Z_vancouver/beatrice-st_vancouver/se-marine-dr",
+    "timestamp": "2026-07-03T05:44:00Z",
+    "scrapedAt": "2026-07-03T08:31:02Z",
+    "address": "BEATRICE ST & SE MARINE DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/beatrice-st",
+      "vancouver/se-marine-dr"
+    ],
+    "streetNames": [
+      "Beatrice St",
+      "Se Marine Dr"
+    ],
+    "pulsePointId": "2510231423"
+  },
+  {
+    "id": "2026-07-03T05:44:00Z_vancouver/borden-st_vancouver/se-marine-dr",
+    "timestamp": "2026-07-03T05:44:00Z",
+    "scrapedAt": "2026-07-03T08:31:02Z",
+    "address": "BORDEN ST & SE MARINE DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/borden-st",
+      "vancouver/se-marine-dr"
+    ],
+    "streetNames": [
+      "Borden St",
+      "Se Marine Dr"
+    ],
+    "pulsePointId": "2510231567"
+  },
+  {
+    "id": "2026-07-03T05:40:00Z_burnaby/gilmore-avenue-dvrs",
+    "timestamp": "2026-07-03T05:40:00Z",
+    "scrapedAt": "2026-07-03T08:31:02Z",
+    "address": "GILMORE AVENUE DVRS",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/gilmore-avenue-dvrs"
+    ],
+    "streetNames": [
+      "Gilmore Avenue Dvrs"
+    ],
+    "pulsePointId": "2510229033"
+  },
+  {
+    "id": "2026-07-03T05:39:00Z_vancouver/nelson-st_vancouver/cambie-st",
+    "timestamp": "2026-07-03T05:39:00Z",
+    "scrapedAt": "2026-07-03T08:31:02Z",
+    "address": "NELSON ST & CAMBIE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/nelson-st",
+      "vancouver/cambie-st"
+    ],
+    "streetNames": [
+      "Nelson St",
+      "Cambie St"
+    ],
+    "pulsePointId": "2510228884"
+  },
+  {
+    "id": "2026-07-03T05:36:00Z_surrey/72nd-ave_surrey/128th-st",
+    "timestamp": "2026-07-03T05:36:00Z",
+    "scrapedAt": "2026-07-03T08:31:02Z",
+    "address": "72ND AVE & 128TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/72nd-ave",
+      "surrey/128th-st"
+    ],
+    "streetNames": [
+      "72nd Ave",
+      "128th St"
+    ],
+    "pulsePointId": "2510228273"
+  },
+  {
+    "id": "2026-07-03T05:32:00Z_vancouver/nanaimo-st_vancouver/e-26th-ave",
+    "timestamp": "2026-07-03T05:32:00Z",
+    "scrapedAt": "2026-07-03T08:31:02Z",
+    "address": "NANAIMO ST & E 26TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/nanaimo-st",
+      "vancouver/e-26th-ave"
+    ],
+    "streetNames": [
+      "Nanaimo St",
+      "E 26th Ave"
+    ],
+    "pulsePointId": "2510226431"
+  },
+  {
     "id": "2026-07-03T04:31:00Z_vancouver/kamloops-st",
     "timestamp": "2026-07-03T04:31:00Z",
     "scrapedAt": "2026-07-03T05:07:33Z",

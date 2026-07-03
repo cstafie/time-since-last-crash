@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-03T05:44:00Z_vancouver/beatrice-st_vancouver/se-marine-dr",
+      "timestamp": "2026-07-03T05:44:00Z",
+      "address": "BEATRICE ST & SE MARINE DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/beatrice-st",
+        "vancouver/se-marine-dr"
+      ],
+      "streetNames": [
+        "Beatrice St",
+        "Se Marine Dr"
+      ],
+      "pulsePointId": "2510231423"
+    },
+    {
       "id": "2026-06-21T21:15:00Z_vancouver/e-49th-ave_vancouver/beatrice-st",
       "timestamp": "2026-06-21T21:15:00Z",
       "address": "E 49TH AVE & BEATRICE ST",
@@ -63,6 +78,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-21T21:15:00Z",
-  "count": 4
+  "lastIncident": "2026-07-03T05:44:00Z",
+  "count": 5
 }
