@@ -1,0 +1,22 @@
+{
+  "slug": "delta/fosters-way",
+  "name": "Fosters Way",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-07-03T14:12:00Z_delta/fosters-way",
+      "timestamp": "2026-07-03T14:12:00Z",
+      "address": "FOSTERS WAY",
+      "city": "Delta",
+      "streets": [
+        "delta/fosters-way"
+      ],
+      "streetNames": [
+        "Fosters Way"
+      ],
+      "pulsePointId": "2510379783"
+    }
+  ],
+  "lastIncident": "2026-07-03T14:12:00Z",
+  "count": 1
+}

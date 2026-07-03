@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-07-03T14:12:00Z_delta/fosters-way",
+    "timestamp": "2026-07-03T14:12:00Z",
+    "scrapedAt": "2026-07-03T15:31:01Z",
+    "address": "FOSTERS WAY",
+    "city": "Delta",
+    "streets": [
+      "delta/fosters-way"
+    ],
+    "streetNames": [
+      "Fosters Way"
+    ],
+    "pulsePointId": "2510379783"
+  },
+  {
     "id": "2026-07-03T12:55:00Z_vancouver/e-49th-ave_vancouver/vivian-st",
     "timestamp": "2026-07-03T12:55:00Z",
     "scrapedAt": "2026-07-03T13:17:32Z",
