@@ -1,0 +1,24 @@
+{
+  "slug": "north-vancouver/jones-ave",
+  "name": "Jones Ave",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-07-03T22:15:00Z_north-vancouver/w-15th-st_north-vancouver/jones-ave",
+      "timestamp": "2026-07-03T22:15:00Z",
+      "address": "W 15TH ST & JONES AVE",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/w-15th-st",
+        "north-vancouver/jones-ave"
+      ],
+      "streetNames": [
+        "W 15th St",
+        "Jones Ave"
+      ],
+      "pulsePointId": "2510677942"
+    }
+  ],
+  "lastIncident": "2026-07-03T22:15:00Z",
+  "count": 1
+}

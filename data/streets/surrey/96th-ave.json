@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-03T22:10:00Z_surrey/96th-ave_surrey/188th-st",
+      "timestamp": "2026-07-03T22:10:00Z",
+      "address": "96TH AVE & 188TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/96th-ave",
+        "surrey/188th-st"
+      ],
+      "streetNames": [
+        "96th Ave",
+        "188th St"
+      ],
+      "pulsePointId": "2510675213"
+    },
+    {
       "id": "2026-07-02T15:54:00Z_surrey/137a-st_surrey/96th-ave",
       "timestamp": "2026-07-02T15:54:00Z",
       "address": "137A ST & 96TH AVE",
@@ -518,6 +533,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-02T15:54:00Z",
-  "count": 35
+  "lastIncident": "2026-07-03T22:10:00Z",
+  "count": 36
 }

@@ -4,6 +4,19 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-07-03T22:14:00Z_langley/202a-st",
+      "timestamp": "2026-07-03T22:14:00Z",
+      "address": "202A ST",
+      "city": "Langley",
+      "streets": [
+        "langley/202a-st"
+      ],
+      "streetNames": [
+        "202a St"
+      ],
+      "pulsePointId": "2510677336"
+    },
+    {
       "id": "2026-06-26T22:05:00Z_langley/72nd-ave_langley/202a-st",
       "timestamp": "2026-06-26T22:05:00Z",
       "address": "72ND AVE & 202A ST",
@@ -49,6 +62,6 @@
       "pulsePointId": "2434196018"
     }
   ],
-  "lastIncident": "2026-06-26T22:05:00Z",
-  "count": 3
+  "lastIncident": "2026-07-03T22:14:00Z",
+  "count": 4
 }

@@ -1,5 +1,83 @@
 [
   {
+    "id": "2026-07-03T22:20:00Z_surrey/88th-ave_surrey/176th-st",
+    "timestamp": "2026-07-03T22:20:00Z",
+    "scrapedAt": "2026-07-03T22:50:49Z",
+    "address": "88TH AVE & 176TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/88th-ave",
+      "surrey/176th-st"
+    ],
+    "streetNames": [
+      "88th Ave",
+      "176th St"
+    ],
+    "pulsePointId": "2510682665"
+  },
+  {
+    "id": "2026-07-03T22:15:00Z_north-vancouver/w-15th-st_north-vancouver/jones-ave",
+    "timestamp": "2026-07-03T22:15:00Z",
+    "scrapedAt": "2026-07-03T22:50:49Z",
+    "address": "W 15TH ST & JONES AVE",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/w-15th-st",
+      "north-vancouver/jones-ave"
+    ],
+    "streetNames": [
+      "W 15th St",
+      "Jones Ave"
+    ],
+    "pulsePointId": "2510677942"
+  },
+  {
+    "id": "2026-07-03T22:14:00Z_langley/202a-st",
+    "timestamp": "2026-07-03T22:14:00Z",
+    "scrapedAt": "2026-07-03T22:50:49Z",
+    "address": "202A ST",
+    "city": "Langley",
+    "streets": [
+      "langley/202a-st"
+    ],
+    "streetNames": [
+      "202a St"
+    ],
+    "pulsePointId": "2510677336"
+  },
+  {
+    "id": "2026-07-03T22:10:00Z_surrey/96th-ave_surrey/188th-st",
+    "timestamp": "2026-07-03T22:10:00Z",
+    "scrapedAt": "2026-07-03T22:50:49Z",
+    "address": "96TH AVE & 188TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/96th-ave",
+      "surrey/188th-st"
+    ],
+    "streetNames": [
+      "96th Ave",
+      "188th St"
+    ],
+    "pulsePointId": "2510675213"
+  },
+  {
+    "id": "2026-07-03T21:57:00Z_coquitlam/barnet-hwy_coquitlam/falcon-dr",
+    "timestamp": "2026-07-03T21:57:00Z",
+    "scrapedAt": "2026-07-03T22:50:49Z",
+    "address": "BARNET HWY & FALCON DR",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/barnet-hwy",
+      "coquitlam/falcon-dr"
+    ],
+    "streetNames": [
+      "Barnet Hwy",
+      "Falcon Dr"
+    ],
+    "pulsePointId": "2510665211"
+  },
+  {
     "id": "2026-07-03T21:31:00Z_vancouver/e-49th-ave_vancouver/lancaster-st",
     "timestamp": "2026-07-03T21:31:00Z",
     "scrapedAt": "2026-07-03T21:36:19Z",

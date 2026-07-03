@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-18T01:28:00Z",
-    "count": 37
+    "lastIncident": "2026-07-03T22:20:00Z",
+    "count": 38
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",
@@ -647,8 +647,8 @@
     "name": "96th Ave",
     "slug": "surrey/96th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-02T15:54:00Z",
-    "count": 35
+    "lastIncident": "2026-07-03T22:10:00Z",
+    "count": 36
   },
   "surrey/bolivar-rd": {
     "name": "Bolivar Rd",
@@ -885,8 +885,8 @@
     "name": "176th St",
     "slug": "surrey/176th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-02T22:08:00Z",
-    "count": 42
+    "lastIncident": "2026-07-03T22:20:00Z",
+    "count": 43
   },
   "surrey/100th-ave": {
     "name": "100th Ave",
@@ -2047,8 +2047,8 @@
     "name": "202a St",
     "slug": "langley/202a-st",
     "city": "Langley",
-    "lastIncident": "2026-06-26T22:05:00Z",
-    "count": 3
+    "lastIncident": "2026-07-03T22:14:00Z",
+    "count": 4
   },
   "langley/80th-ave": {
     "name": "80th Ave",
@@ -4693,15 +4693,15 @@
     "name": "Barnet Hwy",
     "slug": "coquitlam/barnet-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-05-23T18:54:00Z",
-    "count": 2
+    "lastIncident": "2026-07-03T21:57:00Z",
+    "count": 3
   },
   "coquitlam/falcon-dr": {
     "name": "Falcon Dr",
     "slug": "coquitlam/falcon-dr",
     "city": "Coquitlam",
-    "lastIncident": "2026-05-23T18:54:00Z",
-    "count": 2
+    "lastIncident": "2026-07-03T21:57:00Z",
+    "count": 3
   },
   "vancouver/n-skeena-st": {
     "name": "N Skeena St",
@@ -4966,8 +4966,8 @@
     "name": "188th St",
     "slug": "surrey/188th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-26T02:39:00Z",
-    "count": 8
+    "lastIncident": "2026-07-03T22:10:00Z",
+    "count": 9
   },
   "abbotsford/valdes-dr": {
     "name": "Valdes Dr",
@@ -13612,6 +13612,20 @@
     "slug": "new-westminster/nelsons-cres",
     "city": "New Westminster",
     "lastIncident": "2026-07-03T20:41:00Z",
+    "count": 1
+  },
+  "north-vancouver/w-15th-st": {
+    "name": "W 15th St",
+    "slug": "north-vancouver/w-15th-st",
+    "city": "North Vancouver",
+    "lastIncident": "2026-07-03T22:15:00Z",
+    "count": 1
+  },
+  "north-vancouver/jones-ave": {
+    "name": "Jones Ave",
+    "slug": "north-vancouver/jones-ave",
+    "city": "North Vancouver",
+    "lastIncident": "2026-07-03T22:15:00Z",
     "count": 1
   }
 }
