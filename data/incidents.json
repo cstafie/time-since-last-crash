@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-07-03T16:56:00Z_coquitlam/golden-dr_coquitlam/united-blvd",
+    "timestamp": "2026-07-03T16:56:00Z",
+    "scrapedAt": "2026-07-03T17:08:00Z",
+    "address": "GOLDEN DR & UNITED BLVD",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/golden-dr",
+      "coquitlam/united-blvd"
+    ],
+    "streetNames": [
+      "Golden Dr",
+      "United Blvd"
+    ],
+    "pulsePointId": "2510465585"
+  },
+  {
+    "id": "2026-07-03T16:14:00Z_west-vancouver/queens-ave_west-vancouver/15th-st",
+    "timestamp": "2026-07-03T16:14:00Z",
+    "scrapedAt": "2026-07-03T17:08:00Z",
+    "address": "QUEENS AVE & 15TH ST",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/queens-ave",
+      "west-vancouver/15th-st"
+    ],
+    "streetNames": [
+      "Queens Ave",
+      "15th St"
+    ],
+    "pulsePointId": "2510439962"
+  },
+  {
+    "id": "2026-07-03T15:54:00Z_vancouver/se-marine-dr_vancouver/ross-st",
+    "timestamp": "2026-07-03T15:54:00Z",
+    "scrapedAt": "2026-07-03T17:08:00Z",
+    "address": "SE MARINE DR & ROSS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/se-marine-dr",
+      "vancouver/ross-st"
+    ],
+    "streetNames": [
+      "Se Marine Dr",
+      "Ross St"
+    ],
+    "pulsePointId": "2510427643"
+  },
+  {
     "id": "2026-07-03T14:12:00Z_delta/fosters-way",
     "timestamp": "2026-07-03T14:12:00Z",
     "scrapedAt": "2026-07-03T15:31:01Z",
