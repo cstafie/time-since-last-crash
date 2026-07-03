@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-03T17:14:00Z_vancouver/venables-st",
+      "timestamp": "2026-07-03T17:14:00Z",
+      "address": "VENABLES ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/venables-st"
+      ],
+      "streetNames": [
+        "Venables St"
+      ],
+      "pulsePointId": "2510476672"
+    },
+    {
       "id": "2026-04-28T15:25:00Z_vancouver/venables-st_vancouver/victoria-dr",
       "timestamp": "2026-04-28T15:25:00Z",
       "address": "VENABLES ST & VICTORIA DR",
@@ -49,6 +62,6 @@
       "pulsePointId": "2435809865"
     }
   ],
-  "lastIncident": "2026-04-28T15:25:00Z",
-  "count": 3
+  "lastIncident": "2026-07-03T17:14:00Z",
+  "count": 4
 }

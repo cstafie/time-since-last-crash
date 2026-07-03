@@ -2565,8 +2565,8 @@
     "name": "Venables St",
     "slug": "vancouver/venables-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-28T15:25:00Z",
-    "count": 3
+    "lastIncident": "2026-07-03T17:14:00Z",
+    "count": 4
   },
   "richmond/no-5-rd": {
     "name": "No 5 Rd",
@@ -10566,8 +10566,8 @@
     "name": "Hwy 91 Conn",
     "slug": "delta/hwy-91-conn",
     "city": "Delta",
-    "lastIncident": "2026-05-26T18:58:00Z",
-    "count": 1
+    "lastIncident": "2026-07-03T17:08:00Z",
+    "count": 2
   },
   "coquitlam/woolridge-st": {
     "name": "Woolridge St",
@@ -13584,6 +13584,20 @@
     "slug": "west-vancouver/queens-ave",
     "city": "West Vancouver",
     "lastIncident": "2026-07-03T16:14:00Z",
+    "count": 1
+  },
+  "richmond/hwy-91-onrp": {
+    "name": "Hwy 91 Onrp",
+    "slug": "richmond/hwy-91-onrp",
+    "city": "Richmond",
+    "lastIncident": "2026-07-03T17:11:00Z",
+    "count": 1
+  },
+  "richmond/westminster-hwy-ofrp": {
+    "name": "Westminster Hwy Ofrp",
+    "slug": "richmond/westminster-hwy-ofrp",
+    "city": "Richmond",
+    "lastIncident": "2026-07-03T17:11:00Z",
     "count": 1
   }
 }

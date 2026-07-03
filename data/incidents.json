@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-07-03T17:14:00Z_vancouver/venables-st",
+    "timestamp": "2026-07-03T17:14:00Z",
+    "scrapedAt": "2026-07-03T18:43:05Z",
+    "address": "VENABLES ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/venables-st"
+    ],
+    "streetNames": [
+      "Venables St"
+    ],
+    "pulsePointId": "2510476672"
+  },
+  {
+    "id": "2026-07-03T17:11:00Z_richmond/hwy-91-onrp_richmond/westminster-hwy-ofrp",
+    "timestamp": "2026-07-03T17:11:00Z",
+    "scrapedAt": "2026-07-03T18:43:05Z",
+    "address": "HWY 91 ONRP & WESTMINSTER HWY OFRP",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hwy-91-onrp",
+      "richmond/westminster-hwy-ofrp"
+    ],
+    "streetNames": [
+      "Hwy 91 Onrp",
+      "Westminster Hwy Ofrp"
+    ],
+    "pulsePointId": "2510473965"
+  },
+  {
+    "id": "2026-07-03T17:08:00Z_delta/hwy-91-conn",
+    "timestamp": "2026-07-03T17:08:00Z",
+    "scrapedAt": "2026-07-03T18:43:05Z",
+    "address": "HWY 91 CONN",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-91-conn"
+    ],
+    "streetNames": [
+      "Hwy 91 Conn"
+    ],
+    "pulsePointId": "2510474213"
+  },
+  {
     "id": "2026-07-03T16:56:00Z_coquitlam/golden-dr_coquitlam/united-blvd",
     "timestamp": "2026-07-03T16:56:00Z",
     "scrapedAt": "2026-07-03T17:08:00Z",
