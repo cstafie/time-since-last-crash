@@ -1,5 +1,81 @@
 [
   {
+    "id": "2026-07-03T01:19:00Z_coquitlam/united-blvd_coquitlam/cape-horn-ave",
+    "timestamp": "2026-07-03T01:19:00Z",
+    "scrapedAt": "2026-07-03T01:26:53Z",
+    "address": "UNITED BLVD & CAPE HORN AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/united-blvd",
+      "coquitlam/cape-horn-ave"
+    ],
+    "streetNames": [
+      "United Blvd",
+      "Cape Horn Ave"
+    ],
+    "pulsePointId": "2510095204"
+  },
+  {
+    "id": "2026-07-03T01:14:00Z_burnaby/mckay-ave_burnaby/central-blvd",
+    "timestamp": "2026-07-03T01:14:00Z",
+    "scrapedAt": "2026-07-03T01:26:53Z",
+    "address": "MCKAY AVE & CENTRAL BLVD",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/mckay-ave",
+      "burnaby/central-blvd"
+    ],
+    "streetNames": [
+      "Mckay Ave",
+      "Central Blvd"
+    ],
+    "pulsePointId": "2510092450"
+  },
+  {
+    "id": "2026-07-03T01:04:00Z_surrey/148th-st",
+    "timestamp": "2026-07-03T01:04:00Z",
+    "scrapedAt": "2026-07-03T01:26:53Z",
+    "address": "148TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/148th-st"
+    ],
+    "streetNames": [
+      "148th St"
+    ],
+    "pulsePointId": "2510087771"
+  },
+  {
+    "id": "2026-07-03T00:28:00Z_burnaby/marine-way_burnaby/glenlyon-pkwy",
+    "timestamp": "2026-07-03T00:28:00Z",
+    "scrapedAt": "2026-07-03T01:26:53Z",
+    "address": "MARINE WAY & GLENLYON PKWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/marine-way",
+      "burnaby/glenlyon-pkwy"
+    ],
+    "streetNames": [
+      "Marine Way",
+      "Glenlyon Pkwy"
+    ],
+    "pulsePointId": "2510065825"
+  },
+  {
+    "id": "2026-07-02T23:50:00Z_abbotsford/marshall-rd",
+    "timestamp": "2026-07-02T23:50:00Z",
+    "scrapedAt": "2026-07-03T01:26:53Z",
+    "address": "MARSHALL RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/marshall-rd"
+    ],
+    "streetNames": [
+      "Marshall Rd"
+    ],
+    "pulsePointId": "2510037849"
+  },
+  {
     "id": "2026-07-02T23:49:00Z_coquitlam/coast-meridian-rd_coquitlam/david-ave",
     "timestamp": "2026-07-02T23:49:00Z",
     "scrapedAt": "2026-07-02T23:52:57Z",

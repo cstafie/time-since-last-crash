@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-03T01:14:00Z_burnaby/mckay-ave_burnaby/central-blvd",
+      "timestamp": "2026-07-03T01:14:00Z",
+      "address": "MCKAY AVE & CENTRAL BLVD",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/mckay-ave",
+        "burnaby/central-blvd"
+      ],
+      "streetNames": [
+        "Mckay Ave",
+        "Central Blvd"
+      ],
+      "pulsePointId": "2510092450"
+    },
+    {
       "id": "2026-06-19T01:13:00Z_burnaby/central-blvd",
       "timestamp": "2026-06-19T01:13:00Z",
       "address": "CENTRAL BLVD",
@@ -73,6 +88,6 @@
       "pulsePointId": "2436250218"
     }
   ],
-  "lastIncident": "2026-06-19T01:13:00Z",
-  "count": 5
+  "lastIncident": "2026-07-03T01:14:00Z",
+  "count": 6
 }

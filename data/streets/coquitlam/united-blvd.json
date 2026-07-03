@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-07-03T01:19:00Z_coquitlam/united-blvd_coquitlam/cape-horn-ave",
+      "timestamp": "2026-07-03T01:19:00Z",
+      "address": "UNITED BLVD & CAPE HORN AVE",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/united-blvd",
+        "coquitlam/cape-horn-ave"
+      ],
+      "streetNames": [
+        "United Blvd",
+        "Cape Horn Ave"
+      ],
+      "pulsePointId": "2510095204"
+    },
+    {
       "id": "2026-05-27T14:45:00Z_coquitlam/golden-dr_coquitlam/united-blvd",
       "timestamp": "2026-05-27T14:45:00Z",
       "address": "GOLDEN DR & UNITED BLVD",
@@ -31,6 +46,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-27T14:45:00Z",
-  "count": 2
+  "lastIncident": "2026-07-03T01:19:00Z",
+  "count": 3
 }
