@@ -437,8 +437,8 @@
     "name": "Blundell Rd",
     "slug": "richmond/blundell-rd",
     "city": "Richmond",
-    "lastIncident": "2026-07-01T04:58:00Z",
-    "count": 20
+    "lastIncident": "2026-07-03T19:23:00Z",
+    "count": 22
   },
   "richmond/bowcock-rd": {
     "name": "Bowcock Rd",
@@ -1928,8 +1928,8 @@
     "name": "Renfrew St",
     "slug": "vancouver/renfrew-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-25T22:14:00Z",
-    "count": 16
+    "lastIncident": "2026-07-03T18:57:00Z",
+    "count": 17
   },
   "vancouver/e-22nd-ave": {
     "name": "E 22nd Ave",
@@ -7934,8 +7934,8 @@
     "name": "Grandview Hwy",
     "slug": "vancouver/grandview-hwy",
     "city": "Vancouver",
-    "lastIncident": "2026-07-01T14:55:00Z",
-    "count": 7
+    "lastIncident": "2026-07-03T18:57:00Z",
+    "count": 8
   },
   "surrey/9595-king-george-blvd": {
     "name": "9595 King George Blvd",
@@ -8298,8 +8298,8 @@
     "name": "Gilbert Rd",
     "slug": "richmond/gilbert-rd",
     "city": "Richmond",
-    "lastIncident": "2026-06-28T07:06:00Z",
-    "count": 6
+    "lastIncident": "2026-07-03T19:23:00Z",
+    "count": 8
   },
   "maple-ridge/camwood-ave": {
     "name": "Camwood Ave",

@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-07-03T19:23:00Z_richmond/blundell-rd_richmond/gilbert-rd",
+    "timestamp": "2026-07-03T19:23:00Z",
+    "scrapedAt": "2026-07-03T20:06:56Z",
+    "address": "BLUNDELL RD & GILBERT RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/blundell-rd",
+      "richmond/gilbert-rd"
+    ],
+    "streetNames": [
+      "Blundell Rd",
+      "Gilbert Rd"
+    ],
+    "pulsePointId": "2510558272"
+  },
+  {
+    "id": "2026-07-03T19:22:00Z_richmond/blundell-rd_richmond/gilbert-rd",
+    "timestamp": "2026-07-03T19:22:00Z",
+    "scrapedAt": "2026-07-03T20:06:56Z",
+    "address": "BLUNDELL RD & GILBERT RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/blundell-rd",
+      "richmond/gilbert-rd"
+    ],
+    "streetNames": [
+      "Blundell Rd",
+      "Gilbert Rd"
+    ],
+    "pulsePointId": "2510558273"
+  },
+  {
+    "id": "2026-07-03T18:57:00Z_vancouver/renfrew-st_vancouver/grandview-hwy",
+    "timestamp": "2026-07-03T18:57:00Z",
+    "scrapedAt": "2026-07-03T20:06:56Z",
+    "address": "RENFREW ST & GRANDVIEW HWY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/renfrew-st",
+      "vancouver/grandview-hwy"
+    ],
+    "streetNames": [
+      "Renfrew St",
+      "Grandview Hwy"
+    ],
+    "pulsePointId": "2510541457"
+  },
+  {
     "id": "2026-07-03T17:14:00Z_vancouver/venables-st",
     "timestamp": "2026-07-03T17:14:00Z",
     "scrapedAt": "2026-07-03T18:43:05Z",
