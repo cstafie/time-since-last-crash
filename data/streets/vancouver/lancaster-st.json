@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/lancaster-st",
+  "name": "Lancaster St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-07-03T21:31:00Z_vancouver/e-49th-ave_vancouver/lancaster-st",
+      "timestamp": "2026-07-03T21:31:00Z",
+      "address": "E 49TH AVE & LANCASTER ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-49th-ave",
+        "vancouver/lancaster-st"
+      ],
+      "streetNames": [
+        "E 49th Ave",
+        "Lancaster St"
+      ],
+      "pulsePointId": "2510647325"
+    }
+  ],
+  "lastIncident": "2026-07-03T21:31:00Z",
+  "count": 1
+}

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-03T21:31:00Z_vancouver/e-49th-ave_vancouver/lancaster-st",
+      "timestamp": "2026-07-03T21:31:00Z",
+      "address": "E 49TH AVE & LANCASTER ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-49th-ave",
+        "vancouver/lancaster-st"
+      ],
+      "streetNames": [
+        "E 49th Ave",
+        "Lancaster St"
+      ],
+      "pulsePointId": "2510647325"
+    },
+    {
       "id": "2026-07-03T12:55:00Z_vancouver/e-49th-ave_vancouver/vivian-st",
       "timestamp": "2026-07-03T12:55:00Z",
       "address": "E 49TH AVE & VIVIAN ST",
@@ -296,6 +311,6 @@
       "pulsePointId": "2437375979"
     }
   ],
-  "lastIncident": "2026-07-03T12:55:00Z",
-  "count": 20
+  "lastIncident": "2026-07-03T21:31:00Z",
+  "count": 21
 }

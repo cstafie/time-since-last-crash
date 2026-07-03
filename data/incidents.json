@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-07-03T21:31:00Z_vancouver/e-49th-ave_vancouver/lancaster-st",
+    "timestamp": "2026-07-03T21:31:00Z",
+    "scrapedAt": "2026-07-03T21:36:19Z",
+    "address": "E 49TH AVE & LANCASTER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-49th-ave",
+      "vancouver/lancaster-st"
+    ],
+    "streetNames": [
+      "E 49th Ave",
+      "Lancaster St"
+    ],
+    "pulsePointId": "2510647325"
+  },
+  {
+    "id": "2026-07-03T21:14:00Z_vancouver/w-26th-ave",
+    "timestamp": "2026-07-03T21:14:00Z",
+    "scrapedAt": "2026-07-03T21:36:19Z",
+    "address": "W 26TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-26th-ave"
+    ],
+    "streetNames": [
+      "W 26th Ave"
+    ],
+    "pulsePointId": "2510637029"
+  },
+  {
+    "id": "2026-07-03T20:56:00Z_west-vancouver/main-st",
+    "timestamp": "2026-07-03T20:56:00Z",
+    "scrapedAt": "2026-07-03T21:36:19Z",
+    "address": "MAIN ST",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/main-st"
+    ],
+    "streetNames": [
+      "Main St"
+    ],
+    "pulsePointId": "2510624232"
+  },
+  {
+    "id": "2026-07-03T20:41:00Z_new-westminster/nelsons-cres_new-westminster/e-columbia-st",
+    "timestamp": "2026-07-03T20:41:00Z",
+    "scrapedAt": "2026-07-03T21:36:19Z",
+    "address": "NELSONS CRES & E COLUMBIA ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/nelsons-cres",
+      "new-westminster/e-columbia-st"
+    ],
+    "streetNames": [
+      "Nelsons Cres",
+      "E Columbia St"
+    ],
+    "pulsePointId": "2510613129"
+  },
+  {
     "id": "2026-07-03T19:23:00Z_richmond/blundell-rd_richmond/gilbert-rd",
     "timestamp": "2026-07-03T19:23:00Z",
     "scrapedAt": "2026-07-03T20:06:56Z",

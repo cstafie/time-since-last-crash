@@ -4,6 +4,21 @@
   "city": "New Westminster",
   "incidents": [
     {
+      "id": "2026-07-03T20:41:00Z_new-westminster/nelsons-cres_new-westminster/e-columbia-st",
+      "timestamp": "2026-07-03T20:41:00Z",
+      "address": "NELSONS CRES & E COLUMBIA ST",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/nelsons-cres",
+        "new-westminster/e-columbia-st"
+      ],
+      "streetNames": [
+        "Nelsons Cres",
+        "E Columbia St"
+      ],
+      "pulsePointId": "2510613129"
+    },
+    {
       "id": "2026-07-01T03:47:00Z_new-westminster/e-columbia-st",
       "timestamp": "2026-07-01T03:47:00Z",
       "address": "E COLUMBIA ST",
@@ -299,6 +314,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-01T03:47:00Z",
-  "count": 22
+  "lastIncident": "2026-07-03T20:41:00Z",
+  "count": 23
 }
