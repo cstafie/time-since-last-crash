@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-03T23:34:00Z_vancouver/ross-st_vancouver/e-63rd-ave",
+      "timestamp": "2026-07-03T23:34:00Z",
+      "address": "ROSS ST & E 63RD AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/ross-st",
+        "vancouver/e-63rd-ave"
+      ],
+      "streetNames": [
+        "Ross St",
+        "E 63rd Ave"
+      ],
+      "pulsePointId": "2510733875"
+    },
+    {
       "id": "2026-06-18T21:44:00Z_vancouver/e-63rd-ave_vancouver/knight-st",
       "timestamp": "2026-06-18T21:44:00Z",
       "address": "E 63RD AVE & KNIGHT ST",
@@ -79,6 +94,6 @@
       "pulsePointId": "2434929621"
     }
   ],
-  "lastIncident": "2026-06-18T21:44:00Z",
-  "count": 5
+  "lastIncident": "2026-07-03T23:34:00Z",
+  "count": 6
 }

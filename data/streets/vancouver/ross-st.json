@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-03T23:34:00Z_vancouver/ross-st_vancouver/e-63rd-ave",
+      "timestamp": "2026-07-03T23:34:00Z",
+      "address": "ROSS ST & E 63RD AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/ross-st",
+        "vancouver/e-63rd-ave"
+      ],
+      "streetNames": [
+        "Ross St",
+        "E 63rd Ave"
+      ],
+      "pulsePointId": "2510733875"
+    },
+    {
       "id": "2026-07-03T15:54:00Z_vancouver/se-marine-dr_vancouver/ross-st",
       "timestamp": "2026-07-03T15:54:00Z",
       "address": "SE MARINE DR & ROSS ST",
@@ -94,6 +109,6 @@
       "pulsePointId": "2447688343"
     }
   ],
-  "lastIncident": "2026-07-03T15:54:00Z",
-  "count": 6
+  "lastIncident": "2026-07-03T23:34:00Z",
+  "count": 7
 }

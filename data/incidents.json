@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-07-03T23:36:00Z_chilliwack/vedder-rd_chilliwack/vedder-road-onrp",
+    "timestamp": "2026-07-03T23:36:00Z",
+    "scrapedAt": "2026-07-03T23:52:37Z",
+    "address": "VEDDER RD & VEDDER ROAD ONRP",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/vedder-rd",
+      "chilliwack/vedder-road-onrp"
+    ],
+    "streetNames": [
+      "Vedder Rd",
+      "Vedder Road Onrp"
+    ],
+    "pulsePointId": "2510735554"
+  },
+  {
+    "id": "2026-07-03T23:34:00Z_vancouver/ross-st_vancouver/e-63rd-ave",
+    "timestamp": "2026-07-03T23:34:00Z",
+    "scrapedAt": "2026-07-03T23:52:37Z",
+    "address": "ROSS ST & E 63RD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/ross-st",
+      "vancouver/e-63rd-ave"
+    ],
+    "streetNames": [
+      "Ross St",
+      "E 63rd Ave"
+    ],
+    "pulsePointId": "2510733875"
+  },
+  {
     "id": "2026-07-03T22:20:00Z_surrey/88th-ave_surrey/176th-st",
     "timestamp": "2026-07-03T22:20:00Z",
     "scrapedAt": "2026-07-03T22:50:49Z",
