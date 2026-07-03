@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-03T12:55:00Z_vancouver/e-49th-ave_vancouver/vivian-st",
+    "timestamp": "2026-07-03T12:55:00Z",
+    "scrapedAt": "2026-07-03T13:17:32Z",
+    "address": "E 49TH AVE & VIVIAN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-49th-ave",
+      "vancouver/vivian-st"
+    ],
+    "streetNames": [
+      "E 49th Ave",
+      "Vivian St"
+    ],
+    "pulsePointId": "2510350507"
+  },
+  {
     "id": "2026-07-03T08:12:00Z_surrey/ferguson-dvrs_surrey/152nd-st",
     "timestamp": "2026-07-03T08:12:00Z",
     "scrapedAt": "2026-07-03T08:31:02Z",

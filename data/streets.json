@@ -3069,8 +3069,8 @@
     "name": "E 49th Ave",
     "slug": "vancouver/e-49th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-24T20:17:00Z",
-    "count": 19
+    "lastIncident": "2026-07-03T12:55:00Z",
+    "count": 20
   },
   "vancouver/victoria-dr": {
     "name": "Victoria Dr",
@@ -13563,6 +13563,13 @@
     "slug": "surrey/ferguson-dvrs",
     "city": "Surrey",
     "lastIncident": "2026-07-03T08:12:00Z",
+    "count": 1
+  },
+  "vancouver/vivian-st": {
+    "name": "Vivian St",
+    "slug": "vancouver/vivian-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-07-03T12:55:00Z",
     "count": 1
   }
 }

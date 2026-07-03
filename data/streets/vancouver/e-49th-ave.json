@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-03T12:55:00Z_vancouver/e-49th-ave_vancouver/vivian-st",
+      "timestamp": "2026-07-03T12:55:00Z",
+      "address": "E 49TH AVE & VIVIAN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-49th-ave",
+        "vancouver/vivian-st"
+      ],
+      "streetNames": [
+        "E 49th Ave",
+        "Vivian St"
+      ],
+      "pulsePointId": "2510350507"
+    },
+    {
       "id": "2026-06-24T20:17:00Z_vancouver/e-49th-ave_vancouver/brooks-st",
       "timestamp": "2026-06-24T20:17:00Z",
       "address": "E 49TH AVE & BROOKS ST",
@@ -281,6 +296,6 @@
       "pulsePointId": "2437375979"
     }
   ],
-  "lastIncident": "2026-06-24T20:17:00Z",
-  "count": 19
+  "lastIncident": "2026-07-03T12:55:00Z",
+  "count": 20
 }
