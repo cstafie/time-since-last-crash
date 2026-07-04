@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-07-04T16:33:00Z_surrey/104th-ave",
+    "timestamp": "2026-07-04T16:33:00Z",
+    "scrapedAt": "2026-07-04T16:47:34Z",
+    "address": "104TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/104th-ave"
+    ],
+    "streetNames": [
+      "104th Ave"
+    ],
+    "pulsePointId": "2511268844"
+  },
+  {
     "id": "2026-07-04T14:43:00Z_richmond/lansdowne-rd_richmond/alderbridge-way",
     "timestamp": "2026-07-04T14:43:00Z",
     "scrapedAt": "2026-07-04T15:37:14Z",
