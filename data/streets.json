@@ -1690,8 +1690,8 @@
     "name": "Old Yale Rd",
     "slug": "abbotsford/old-yale-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-27T00:27:00Z",
-    "count": 10
+    "lastIncident": "2026-07-04T14:39:00Z",
+    "count": 11
   },
   "vancouver/inverness-st": {
     "name": "Inverness St",
@@ -3314,8 +3314,8 @@
     "name": "Alderbridge Way",
     "slug": "richmond/alderbridge-way",
     "city": "Richmond",
-    "lastIncident": "2026-07-02T21:37:00Z",
-    "count": 9
+    "lastIncident": "2026-07-04T14:43:00Z",
+    "count": 10
   },
   "abbotsford/bateman-rd": {
     "name": "Bateman Rd",
@@ -3720,8 +3720,8 @@
     "name": "Lansdowne Rd",
     "slug": "richmond/lansdowne-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-12T17:19:00Z",
-    "count": 4
+    "lastIncident": "2026-07-04T14:43:00Z",
+    "count": 5
   },
   "chilliwack/lutz-rd": {
     "name": "Lutz Rd",
@@ -13661,6 +13661,13 @@
     "slug": "vancouver/stanley-park-dr",
     "city": "Vancouver",
     "lastIncident": "2026-07-04T06:15:00Z",
+    "count": 1
+  },
+  "abbotsford/mcadam-rd": {
+    "name": "Mcadam Rd",
+    "slug": "abbotsford/mcadam-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-07-04T14:39:00Z",
     "count": 1
   }
 }

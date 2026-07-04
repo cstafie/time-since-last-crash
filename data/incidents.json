@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-07-04T14:43:00Z_richmond/lansdowne-rd_richmond/alderbridge-way",
+    "timestamp": "2026-07-04T14:43:00Z",
+    "scrapedAt": "2026-07-04T15:37:14Z",
+    "address": "LANSDOWNE RD & ALDERBRIDGE WAY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/lansdowne-rd",
+      "richmond/alderbridge-way"
+    ],
+    "streetNames": [
+      "Lansdowne Rd",
+      "Alderbridge Way"
+    ],
+    "pulsePointId": "2511214280"
+  },
+  {
+    "id": "2026-07-04T14:39:00Z_abbotsford/old-yale-rd_abbotsford/mcadam-rd",
+    "timestamp": "2026-07-04T14:39:00Z",
+    "scrapedAt": "2026-07-04T15:37:14Z",
+    "address": "OLD YALE RD & MCADAM RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/old-yale-rd",
+      "abbotsford/mcadam-rd"
+    ],
+    "streetNames": [
+      "Old Yale Rd",
+      "Mcadam Rd"
+    ],
+    "pulsePointId": "2511213165"
+  },
+  {
     "id": "2026-07-04T13:53:00Z_langley/trans-canada-hwy",
     "timestamp": "2026-07-04T13:53:00Z",
     "scrapedAt": "2026-07-04T14:21:17Z",

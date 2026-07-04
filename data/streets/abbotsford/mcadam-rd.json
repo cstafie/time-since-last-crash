@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/mcadam-rd",
+  "name": "Mcadam Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-07-04T14:39:00Z_abbotsford/old-yale-rd_abbotsford/mcadam-rd",
+      "timestamp": "2026-07-04T14:39:00Z",
+      "address": "OLD YALE RD & MCADAM RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/old-yale-rd",
+        "abbotsford/mcadam-rd"
+      ],
+      "streetNames": [
+        "Old Yale Rd",
+        "Mcadam Rd"
+      ],
+      "pulsePointId": "2511213165"
+    }
+  ],
+  "lastIncident": "2026-07-04T14:39:00Z",
+  "count": 1
+}
