@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-04T02:12:00Z_vancouver/bute-st_vancouver/w-georgia-st",
+      "timestamp": "2026-07-04T02:12:00Z",
+      "address": "BUTE ST & W GEORGIA ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/bute-st",
+        "vancouver/w-georgia-st"
+      ],
+      "streetNames": [
+        "Bute St",
+        "W Georgia St"
+      ],
+      "pulsePointId": "2510848224"
+    },
+    {
       "id": "2026-07-02T21:51:00Z_vancouver/jervis-st_vancouver/w-georgia-st",
       "timestamp": "2026-07-02T21:51:00Z",
       "address": "JERVIS ST & W GEORGIA ST",
@@ -229,6 +244,6 @@
       "pulsePointId": "2435242336"
     }
   ],
-  "lastIncident": "2026-07-02T21:51:00Z",
-  "count": 15
+  "lastIncident": "2026-07-04T02:12:00Z",
+  "count": 16
 }

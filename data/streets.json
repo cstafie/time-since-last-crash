@@ -1501,8 +1501,8 @@
     "name": "144th St",
     "slug": "surrey/144th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-26T02:52:00Z",
-    "count": 39
+    "lastIncident": "2026-07-04T01:33:00Z",
+    "count": 41
   },
   "north-vancouver/seymour-blvd": {
     "name": "Seymour Blvd",
@@ -1767,8 +1767,8 @@
     "name": "South Fraser Way",
     "slug": "abbotsford/south-fraser-way",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-24T13:50:00Z",
-    "count": 30
+    "lastIncident": "2026-07-04T03:02:00Z",
+    "count": 31
   },
   "vancouver/e-hastings-st": {
     "name": "E Hastings St",
@@ -2341,8 +2341,8 @@
     "name": "W Georgia St",
     "slug": "vancouver/w-georgia-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-02T21:51:00Z",
-    "count": 15
+    "lastIncident": "2026-07-04T02:12:00Z",
+    "count": 16
   },
   "vancouver/w-41st-ave": {
     "name": "W 41st Ave",
@@ -6982,8 +6982,8 @@
     "name": "Coast Meridian Rd",
     "slug": "port-coquitlam/coast-meridian-rd",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-06-21T18:16:00Z",
-    "count": 5
+    "lastIncident": "2026-07-04T02:32:00Z",
+    "count": 6
   },
   "vancouver/e-6th-ave": {
     "name": "E 6th Ave",
@@ -7738,8 +7738,8 @@
     "name": "Bute St",
     "slug": "vancouver/bute-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-15T12:55:00Z",
-    "count": 4
+    "lastIncident": "2026-07-04T02:12:00Z",
+    "count": 5
   },
   "coquitlam/quarry-rd": {
     "name": "Quarry Rd",
@@ -13640,6 +13640,13 @@
     "slug": "coquitlam/2929-barnet-hwyste-4000",
     "city": "Coquitlam",
     "lastIncident": "2026-07-04T00:03:00Z",
+    "count": 1
+  },
+  "port-coquitlam/lincoln-dr": {
+    "name": "Lincoln Dr",
+    "slug": "port-coquitlam/lincoln-dr",
+    "city": "Port Coquitlam",
+    "lastIncident": "2026-07-04T02:32:00Z",
     "count": 1
   }
 }

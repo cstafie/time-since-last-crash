@@ -4,6 +4,21 @@
   "city": "Port Coquitlam",
   "incidents": [
     {
+      "id": "2026-07-04T02:32:00Z_port-coquitlam/coast-meridian-rd_port-coquitlam/lincoln-dr",
+      "timestamp": "2026-07-04T02:32:00Z",
+      "address": "COAST MERIDIAN RD & LINCOLN DR",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/coast-meridian-rd",
+        "port-coquitlam/lincoln-dr"
+      ],
+      "streetNames": [
+        "Coast Meridian Rd",
+        "Lincoln Dr"
+      ],
+      "pulsePointId": "2510871987"
+    },
+    {
       "id": "2026-06-21T18:16:00Z_port-coquitlam/coast-meridian-rd",
       "timestamp": "2026-06-21T18:16:00Z",
       "address": "COAST MERIDIAN RD",
@@ -77,6 +92,6 @@
       "pulsePointId": "2455929322"
     }
   ],
-  "lastIncident": "2026-06-21T18:16:00Z",
-  "count": 5
+  "lastIncident": "2026-07-04T02:32:00Z",
+  "count": 6
 }

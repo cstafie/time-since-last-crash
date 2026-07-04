@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-04T02:12:00Z_vancouver/bute-st_vancouver/w-georgia-st",
+      "timestamp": "2026-07-04T02:12:00Z",
+      "address": "BUTE ST & W GEORGIA ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/bute-st",
+        "vancouver/w-georgia-st"
+      ],
+      "streetNames": [
+        "Bute St",
+        "W Georgia St"
+      ],
+      "pulsePointId": "2510848224"
+    },
+    {
       "id": "2026-05-15T12:55:00Z_vancouver/comox-st_vancouver/bute-st",
       "timestamp": "2026-05-15T12:55:00Z",
       "address": "COMOX ST & BUTE ST",
@@ -60,6 +75,6 @@
       "pulsePointId": "2461663996"
     }
   ],
-  "lastIncident": "2026-05-15T12:55:00Z",
-  "count": 4
+  "lastIncident": "2026-07-04T02:12:00Z",
+  "count": 5
 }
