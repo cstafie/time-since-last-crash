@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-07-04T13:53:00Z_langley/trans-canada-hwy",
+    "timestamp": "2026-07-04T13:53:00Z",
+    "scrapedAt": "2026-07-04T14:21:17Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2511196553"
+  },
+  {
     "id": "2026-07-04T11:09:00Z_surrey/56th-ave_surrey/192nd-st",
     "timestamp": "2026-07-04T11:09:00Z",
     "scrapedAt": "2026-07-04T11:17:39Z",
