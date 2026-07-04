@@ -1382,8 +1382,8 @@
     "name": "192nd St",
     "slug": "surrey/192nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-02T22:14:00Z",
-    "count": 14
+    "lastIncident": "2026-07-04T11:09:00Z",
+    "count": 15
   },
   "surrey/66a-ave": {
     "name": "66a Ave",
@@ -2390,8 +2390,8 @@
     "name": "56th Ave",
     "slug": "surrey/56th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-30T05:06:00Z",
-    "count": 23
+    "lastIncident": "2026-07-04T11:09:00Z",
+    "count": 24
   },
   "port-moody/grant-st": {
     "name": "Grant St",

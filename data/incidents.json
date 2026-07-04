@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-04T11:09:00Z_surrey/56th-ave_surrey/192nd-st",
+    "timestamp": "2026-07-04T11:09:00Z",
+    "scrapedAt": "2026-07-04T11:17:39Z",
+    "address": "56TH AVE & 192ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/56th-ave",
+      "surrey/192nd-st"
+    ],
+    "streetNames": [
+      "56th Ave",
+      "192nd St"
+    ],
+    "pulsePointId": "2511142794"
+  },
+  {
     "id": "2026-07-04T07:34:00Z_mission/cardinal-st",
     "timestamp": "2026-07-04T07:34:00Z",
     "scrapedAt": "2026-07-04T07:46:01Z",
