@@ -1,5 +1,63 @@
 [
   {
+    "id": "2026-07-04T21:18:00Z_chilliwack/45086-yale-rd",
+    "timestamp": "2026-07-04T21:18:00Z",
+    "scrapedAt": "2026-07-04T21:23:55Z",
+    "address": "45086 YALE RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/45086-yale-rd"
+    ],
+    "streetNames": [
+      "45086 Yale Rd"
+    ],
+    "pulsePointId": "2511447944"
+  },
+  {
+    "id": "2026-07-04T20:54:00Z_langley/fraser-hwy",
+    "timestamp": "2026-07-04T20:54:00Z",
+    "scrapedAt": "2026-07-04T21:23:55Z",
+    "address": "FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy"
+    ],
+    "streetNames": [
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2511427926"
+  },
+  {
+    "id": "2026-07-04T20:32:00Z_langley/64th-ave_langley/202nd-st",
+    "timestamp": "2026-07-04T20:32:00Z",
+    "scrapedAt": "2026-07-04T21:23:55Z",
+    "address": "64TH AVE & 202ND ST",
+    "city": "Langley",
+    "streets": [
+      "langley/64th-ave",
+      "langley/202nd-st"
+    ],
+    "streetNames": [
+      "64th Ave",
+      "202nd St"
+    ],
+    "pulsePointId": "2511414263"
+  },
+  {
+    "id": "2026-07-04T20:32:00Z_langley/66th-ave",
+    "timestamp": "2026-07-04T20:32:00Z",
+    "scrapedAt": "2026-07-04T21:23:55Z",
+    "address": "66TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/66th-ave"
+    ],
+    "streetNames": [
+      "66th Ave"
+    ],
+    "pulsePointId": "2511414265"
+  },
+  {
     "id": "2026-07-04T19:50:00Z_vancouver/e-8th-ave",
     "timestamp": "2026-07-04T19:50:00Z",
     "scrapedAt": "2026-07-04T20:01:58Z",

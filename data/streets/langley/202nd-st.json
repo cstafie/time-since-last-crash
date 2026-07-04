@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-07-04T20:32:00Z_langley/64th-ave_langley/202nd-st",
+      "timestamp": "2026-07-04T20:32:00Z",
+      "address": "64TH AVE & 202ND ST",
+      "city": "Langley",
+      "streets": [
+        "langley/64th-ave",
+        "langley/202nd-st"
+      ],
+      "streetNames": [
+        "64th Ave",
+        "202nd St"
+      ],
+      "pulsePointId": "2511414263"
+    },
+    {
       "id": "2026-03-16T20:14:00Z_langley/202nd-st_langley/langley-bps",
       "timestamp": "2026-03-16T20:14:00Z",
       "address": "202ND ST & LANGLEY BPS",
@@ -19,6 +34,6 @@
       "pulsePointId": "2435348390"
     }
   ],
-  "lastIncident": "2026-03-16T20:14:00Z",
-  "count": 1
+  "lastIncident": "2026-07-04T20:32:00Z",
+  "count": 2
 }
