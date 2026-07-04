@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-07-04T07:34:00Z_mission/cardinal-st",
+    "timestamp": "2026-07-04T07:34:00Z",
+    "scrapedAt": "2026-07-04T07:46:01Z",
+    "address": "CARDINAL ST",
+    "city": "Mission",
+    "streets": [
+      "mission/cardinal-st"
+    ],
+    "streetNames": [
+      "Cardinal St"
+    ],
+    "pulsePointId": "2511071947"
+  },
+  {
+    "id": "2026-07-04T06:15:00Z_vancouver/stanley-park-dr",
+    "timestamp": "2026-07-04T06:15:00Z",
+    "scrapedAt": "2026-07-04T07:46:01Z",
+    "address": "STANLEY PARK DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/stanley-park-dr"
+    ],
+    "streetNames": [
+      "Stanley Park Dr"
+    ],
+    "pulsePointId": "2511038053"
+  },
+  {
     "id": "2026-07-04T03:02:00Z_abbotsford/south-fraser-way",
     "timestamp": "2026-07-04T03:02:00Z",
     "scrapedAt": "2026-07-04T05:00:16Z",

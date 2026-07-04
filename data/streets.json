@@ -13648,5 +13648,19 @@
     "city": "Port Coquitlam",
     "lastIncident": "2026-07-04T02:32:00Z",
     "count": 1
+  },
+  "mission/cardinal-st": {
+    "name": "Cardinal St",
+    "slug": "mission/cardinal-st",
+    "city": "Mission",
+    "lastIncident": "2026-07-04T07:34:00Z",
+    "count": 1
+  },
+  "vancouver/stanley-park-dr": {
+    "name": "Stanley Park Dr",
+    "slug": "vancouver/stanley-park-dr",
+    "city": "Vancouver",
+    "lastIncident": "2026-07-04T06:15:00Z",
+    "count": 1
   }
 }

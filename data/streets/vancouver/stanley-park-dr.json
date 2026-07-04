@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/stanley-park-dr",
+  "name": "Stanley Park Dr",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-07-04T06:15:00Z_vancouver/stanley-park-dr",
+      "timestamp": "2026-07-04T06:15:00Z",
+      "address": "STANLEY PARK DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/stanley-park-dr"
+      ],
+      "streetNames": [
+        "Stanley Park Dr"
+      ],
+      "pulsePointId": "2511038053"
+    }
+  ],
+  "lastIncident": "2026-07-04T06:15:00Z",
+  "count": 1
+}
