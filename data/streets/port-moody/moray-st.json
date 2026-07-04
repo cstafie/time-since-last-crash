@@ -4,6 +4,21 @@
   "city": "Port Moody",
   "incidents": [
     {
+      "id": "2026-07-04T22:41:00Z_port-moody/st-johns-st_port-moody/moray-st",
+      "timestamp": "2026-07-04T22:41:00Z",
+      "address": "ST JOHNS ST & MORAY ST",
+      "city": "Port Moody",
+      "streets": [
+        "port-moody/st-johns-st",
+        "port-moody/moray-st"
+      ],
+      "streetNames": [
+        "St Johns St",
+        "Moray St"
+      ],
+      "pulsePointId": "2511504110"
+    },
+    {
       "id": "2026-06-07T01:42:00Z_port-moody/st-johns-st_port-moody/moray-st",
       "timestamp": "2026-06-07T01:42:00Z",
       "address": "ST JOHNS ST & MORAY ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2488701486"
     }
   ],
-  "lastIncident": "2026-06-07T01:42:00Z",
-  "count": 2
+  "lastIncident": "2026-07-04T22:41:00Z",
+  "count": 3
 }

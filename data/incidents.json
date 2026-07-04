@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-07-04T23:14:00Z_coquitlam/barnet-hwy_coquitlam/pinetree-way",
+    "timestamp": "2026-07-04T23:14:00Z",
+    "scrapedAt": "2026-07-04T23:27:22Z",
+    "address": "BARNET HWY & PINETREE WAY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/barnet-hwy",
+      "coquitlam/pinetree-way"
+    ],
+    "streetNames": [
+      "Barnet Hwy",
+      "Pinetree Way"
+    ],
+    "pulsePointId": "2511524235"
+  },
+  {
+    "id": "2026-07-04T22:41:00Z_port-moody/st-johns-st_port-moody/moray-st",
+    "timestamp": "2026-07-04T22:41:00Z",
+    "scrapedAt": "2026-07-04T23:27:22Z",
+    "address": "ST JOHNS ST & MORAY ST",
+    "city": "Port Moody",
+    "streets": [
+      "port-moody/st-johns-st",
+      "port-moody/moray-st"
+    ],
+    "streetNames": [
+      "St Johns St",
+      "Moray St"
+    ],
+    "pulsePointId": "2511504110"
+  },
+  {
     "id": "2026-07-04T21:19:00Z_richmond/brown-rd_richmond/cambie-rd",
     "timestamp": "2026-07-04T21:19:00Z",
     "scrapedAt": "2026-07-04T22:24:07Z",

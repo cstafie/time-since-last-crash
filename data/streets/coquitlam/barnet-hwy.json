@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-07-04T23:14:00Z_coquitlam/barnet-hwy_coquitlam/pinetree-way",
+      "timestamp": "2026-07-04T23:14:00Z",
+      "address": "BARNET HWY & PINETREE WAY",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/barnet-hwy",
+        "coquitlam/pinetree-way"
+      ],
+      "streetNames": [
+        "Barnet Hwy",
+        "Pinetree Way"
+      ],
+      "pulsePointId": "2511524235"
+    },
+    {
       "id": "2026-07-03T21:57:00Z_coquitlam/barnet-hwy_coquitlam/falcon-dr",
       "timestamp": "2026-07-03T21:57:00Z",
       "address": "BARNET HWY & FALCON DR",
@@ -49,6 +64,6 @@
       "pulsePointId": "2445366422"
     }
   ],
-  "lastIncident": "2026-07-03T21:57:00Z",
-  "count": 3
+  "lastIncident": "2026-07-04T23:14:00Z",
+  "count": 4
 }

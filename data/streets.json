@@ -4693,8 +4693,8 @@
     "name": "Barnet Hwy",
     "slug": "coquitlam/barnet-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-07-03T21:57:00Z",
-    "count": 3
+    "lastIncident": "2026-07-04T23:14:00Z",
+    "count": 4
   },
   "coquitlam/falcon-dr": {
     "name": "Falcon Dr",
@@ -6296,8 +6296,8 @@
     "name": "St Johns St",
     "slug": "port-moody/st-johns-st",
     "city": "Port Moody",
-    "lastIncident": "2026-06-19T21:20:00Z",
-    "count": 8
+    "lastIncident": "2026-07-04T22:41:00Z",
+    "count": 9
   },
   "port-moody/elgin-st": {
     "name": "Elgin St",
@@ -8893,8 +8893,8 @@
     "name": "Pinetree Way",
     "slug": "coquitlam/pinetree-way",
     "city": "Coquitlam",
-    "lastIncident": "2026-06-24T02:52:00Z",
-    "count": 5
+    "lastIncident": "2026-07-04T23:14:00Z",
+    "count": 6
   },
   "richmond/birch-st": {
     "name": "Birch St",
@@ -11399,8 +11399,8 @@
     "name": "Moray St",
     "slug": "port-moody/moray-st",
     "city": "Port Moody",
-    "lastIncident": "2026-06-07T01:42:00Z",
-    "count": 2
+    "lastIncident": "2026-07-04T22:41:00Z",
+    "count": 3
   },
   "abbotsford/creekstone-dr": {
     "name": "Creekstone Dr",
