@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-07-04T19:50:00Z_vancouver/e-8th-ave",
+    "timestamp": "2026-07-04T19:50:00Z",
+    "scrapedAt": "2026-07-04T20:01:58Z",
+    "address": "E 8TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-8th-ave"
+    ],
+    "streetNames": [
+      "E 8th Ave"
+    ],
+    "pulsePointId": "2511388245"
+  },
+  {
+    "id": "2026-07-04T19:39:00Z_langley/glover-rd_langley/79th-ave",
+    "timestamp": "2026-07-04T19:39:00Z",
+    "scrapedAt": "2026-07-04T20:01:58Z",
+    "address": "GLOVER RD & 79TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/glover-rd",
+      "langley/79th-ave"
+    ],
+    "streetNames": [
+      "Glover Rd",
+      "79th Ave"
+    ],
+    "pulsePointId": "2511381682"
+  },
+  {
     "id": "2026-07-04T17:34:00Z_vancouver/w-63rd-ave_vancouver/cambie-st",
     "timestamp": "2026-07-04T17:34:00Z",
     "scrapedAt": "2026-07-04T17:52:53Z",

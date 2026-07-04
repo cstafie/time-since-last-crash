@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-07-04T19:39:00Z_langley/glover-rd_langley/79th-ave",
+      "timestamp": "2026-07-04T19:39:00Z",
+      "address": "GLOVER RD & 79TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/glover-rd",
+        "langley/79th-ave"
+      ],
+      "streetNames": [
+        "Glover Rd",
+        "79th Ave"
+      ],
+      "pulsePointId": "2511381682"
+    },
+    {
       "id": "2026-06-24T02:03:00Z_langley/216th-st_langley/glover-rd",
       "timestamp": "2026-06-24T02:03:00Z",
       "address": "216TH ST & GLOVER RD",
@@ -122,6 +137,6 @@
       "pulsePointId": "2446246891"
     }
   ],
-  "lastIncident": "2026-06-24T02:03:00Z",
-  "count": 8
+  "lastIncident": "2026-07-04T19:39:00Z",
+  "count": 9
 }

@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-04T19:50:00Z_vancouver/e-8th-ave",
+      "timestamp": "2026-07-04T19:50:00Z",
+      "address": "E 8TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-8th-ave"
+      ],
+      "streetNames": [
+        "E 8th Ave"
+      ],
+      "pulsePointId": "2511388245"
+    },
+    {
       "id": "2026-04-07T07:58:00Z_vancouver/main-st_vancouver/e-8th-ave",
       "timestamp": "2026-04-07T07:58:00Z",
       "address": "MAIN ST & E 8TH AVE",
@@ -19,6 +32,6 @@
       "pulsePointId": "2449382773"
     }
   ],
-  "lastIncident": "2026-04-07T07:58:00Z",
-  "count": 1
+  "lastIncident": "2026-07-04T19:50:00Z",
+  "count": 2
 }
