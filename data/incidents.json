@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-04T21:19:00Z_richmond/brown-rd_richmond/cambie-rd",
+    "timestamp": "2026-07-04T21:19:00Z",
+    "scrapedAt": "2026-07-04T22:24:07Z",
+    "address": "BROWN RD & CAMBIE RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/brown-rd",
+      "richmond/cambie-rd"
+    ],
+    "streetNames": [
+      "Brown Rd",
+      "Cambie Rd"
+    ],
+    "pulsePointId": "2511449584"
+  },
+  {
     "id": "2026-07-04T21:18:00Z_chilliwack/45086-yale-rd",
     "timestamp": "2026-07-04T21:18:00Z",
     "scrapedAt": "2026-07-04T21:23:55Z",

@@ -1,0 +1,24 @@
+{
+  "slug": "richmond/brown-rd",
+  "name": "Brown Rd",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-07-04T21:19:00Z_richmond/brown-rd_richmond/cambie-rd",
+      "timestamp": "2026-07-04T21:19:00Z",
+      "address": "BROWN RD & CAMBIE RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/brown-rd",
+        "richmond/cambie-rd"
+      ],
+      "streetNames": [
+        "Brown Rd",
+        "Cambie Rd"
+      ],
+      "pulsePointId": "2511449584"
+    }
+  ],
+  "lastIncident": "2026-07-04T21:19:00Z",
+  "count": 1
+}

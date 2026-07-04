@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-04T21:19:00Z_richmond/brown-rd_richmond/cambie-rd",
+      "timestamp": "2026-07-04T21:19:00Z",
+      "address": "BROWN RD & CAMBIE RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/brown-rd",
+        "richmond/cambie-rd"
+      ],
+      "streetNames": [
+        "Brown Rd",
+        "Cambie Rd"
+      ],
+      "pulsePointId": "2511449584"
+    },
+    {
       "id": "2026-07-02T22:49:00Z_richmond/cambie-rd_richmond/jacombs-rd",
       "timestamp": "2026-07-02T22:49:00Z",
       "address": "CAMBIE RD & JACOMBS RD",
@@ -165,6 +180,6 @@
       "pulsePointId": "2434197215"
     }
   ],
-  "lastIncident": "2026-07-02T22:49:00Z",
-  "count": 11
+  "lastIncident": "2026-07-04T21:19:00Z",
+  "count": 12
 }
