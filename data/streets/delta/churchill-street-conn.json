@@ -1,6 +1,6 @@
 {
-  "slug": "delta/80th-st",
-  "name": "80th St",
+  "slug": "delta/churchill-street-conn",
+  "name": "Churchill Street Conn",
   "city": "Delta",
   "incidents": [
     {
@@ -17,21 +17,8 @@
         "Churchill Street Conn"
       ],
       "pulsePointId": "2510767090"
-    },
-    {
-      "id": "2026-04-13T22:56:00Z_delta/80th-st",
-      "timestamp": "2026-04-13T22:56:00Z",
-      "address": "80TH ST",
-      "city": "Delta",
-      "streets": [
-        "delta/80th-st"
-      ],
-      "streetNames": [
-        "80th St"
-      ],
-      "pulsePointId": "2453719961"
     }
   ],
   "lastIncident": "2026-07-04T00:25:00Z",
-  "count": 2
+  "count": 1
 }

@@ -1,5 +1,79 @@
 [
   {
+    "id": "2026-07-04T00:53:00Z_delta/84th-ave",
+    "timestamp": "2026-07-04T00:53:00Z",
+    "scrapedAt": "2026-07-04T01:26:27Z",
+    "address": "84TH AVE",
+    "city": "Delta",
+    "streets": [
+      "delta/84th-ave"
+    ],
+    "streetNames": [
+      "84th Ave"
+    ],
+    "pulsePointId": "2510785068"
+  },
+  {
+    "id": "2026-07-04T00:36:00Z_surrey/king-george-blvd",
+    "timestamp": "2026-07-04T00:36:00Z",
+    "scrapedAt": "2026-07-04T01:26:27Z",
+    "address": "KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "King George Blvd"
+    ],
+    "pulsePointId": "2510776510"
+  },
+  {
+    "id": "2026-07-04T00:25:00Z_delta/80th-st_delta/churchill-street-conn",
+    "timestamp": "2026-07-04T00:25:00Z",
+    "scrapedAt": "2026-07-04T01:26:27Z",
+    "address": "80TH ST & CHURCHILL STREET CONN",
+    "city": "Delta",
+    "streets": [
+      "delta/80th-st",
+      "delta/churchill-street-conn"
+    ],
+    "streetNames": [
+      "80th St",
+      "Churchill Street Conn"
+    ],
+    "pulsePointId": "2510767090"
+  },
+  {
+    "id": "2026-07-04T00:03:00Z_coquitlam/2929-barnet-hwyste-4000",
+    "timestamp": "2026-07-04T00:03:00Z",
+    "scrapedAt": "2026-07-04T01:26:27Z",
+    "address": "2929 BARNET HWY,STE 4000",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/2929-barnet-hwyste-4000"
+    ],
+    "streetNames": [
+      "2929 Barnet Hwy,ste 4000"
+    ],
+    "pulsePointId": "2510752251"
+  },
+  {
+    "id": "2026-07-03T23:53:00Z_surrey/trans-canada-hwy_surrey/152nd-street-ofrp",
+    "timestamp": "2026-07-03T23:53:00Z",
+    "scrapedAt": "2026-07-04T01:26:27Z",
+    "address": "TRANS CANADA HWY & 152ND STREET OFRP",
+    "city": "Surrey",
+    "streets": [
+      "surrey/trans-canada-hwy",
+      "surrey/152nd-street-ofrp"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy",
+      "152nd Street Ofrp"
+    ],
+    "pulsePointId": "2510746044"
+  },
+  {
     "id": "2026-07-03T23:36:00Z_chilliwack/vedder-rd_chilliwack/vedder-road-onrp",
     "timestamp": "2026-07-03T23:36:00Z",
     "scrapedAt": "2026-07-03T23:52:37Z",

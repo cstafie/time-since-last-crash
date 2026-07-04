@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-03T23:53:00Z_surrey/trans-canada-hwy_surrey/152nd-street-ofrp",
+      "timestamp": "2026-07-03T23:53:00Z",
+      "address": "TRANS CANADA HWY & 152ND STREET OFRP",
+      "city": "Surrey",
+      "streets": [
+        "surrey/trans-canada-hwy",
+        "surrey/152nd-street-ofrp"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy",
+        "152nd Street Ofrp"
+      ],
+      "pulsePointId": "2510746044"
+    },
+    {
       "id": "2026-07-01T00:44:00Z_surrey/trans-canada-hwy",
       "timestamp": "2026-07-01T00:44:00Z",
       "address": "TRANS CANADA HWY",
@@ -366,6 +381,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-01T00:44:00Z",
-  "count": 27
+  "lastIncident": "2026-07-03T23:53:00Z",
+  "count": 28
 }
