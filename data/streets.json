@@ -493,8 +493,8 @@
     "name": "No 4 Rd",
     "slug": "richmond/no-4-rd",
     "city": "Richmond",
-    "lastIncident": "2026-06-19T23:43:00Z",
-    "count": 11
+    "lastIncident": "2026-07-04T17:34:00Z",
+    "count": 12
   },
   "richmond/st-albans-rd": {
     "name": "St Albans Rd",
@@ -1088,8 +1088,8 @@
     "name": "Steveston Hwy",
     "slug": "richmond/steveston-hwy",
     "city": "Richmond",
-    "lastIncident": "2026-05-04T15:13:00Z",
-    "count": 7
+    "lastIncident": "2026-07-04T17:34:00Z",
+    "count": 8
   },
   "langley/72nd-ave": {
     "name": "72nd Ave",
@@ -2460,8 +2460,8 @@
     "name": "Cambie St",
     "slug": "vancouver/cambie-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-03T05:39:00Z",
-    "count": 17
+    "lastIncident": "2026-07-04T17:34:00Z",
+    "count": 18
   },
   "vancouver/e-broadway": {
     "name": "E Broadway",
@@ -13668,6 +13668,13 @@
     "slug": "abbotsford/mcadam-rd",
     "city": "Abbotsford",
     "lastIncident": "2026-07-04T14:39:00Z",
+    "count": 1
+  },
+  "vancouver/w-63rd-ave": {
+    "name": "W 63rd Ave",
+    "slug": "vancouver/w-63rd-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-07-04T17:34:00Z",
     "count": 1
   }
 }

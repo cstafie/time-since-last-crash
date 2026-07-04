@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-04T17:34:00Z_richmond/steveston-hwy_richmond/no-4-rd",
+      "timestamp": "2026-07-04T17:34:00Z",
+      "address": "STEVESTON HWY & NO 4 RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/steveston-hwy",
+        "richmond/no-4-rd"
+      ],
+      "streetNames": [
+        "Steveston Hwy",
+        "No 4 Rd"
+      ],
+      "pulsePointId": "2511302307"
+    },
+    {
       "id": "2026-06-19T23:43:00Z_richmond/no-4-rd_richmond/westminster-hwy",
       "timestamp": "2026-06-19T23:43:00Z",
       "address": "NO 4 RD & WESTMINSTER HWY",
@@ -165,6 +180,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-19T23:43:00Z",
-  "count": 11
+  "lastIncident": "2026-07-04T17:34:00Z",
+  "count": 12
 }
