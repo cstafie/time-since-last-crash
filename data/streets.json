@@ -1186,8 +1186,8 @@
     "name": "64th Ave",
     "slug": "langley/64th-ave",
     "city": "Langley",
-    "lastIncident": "2026-07-04T20:32:00Z",
-    "count": 13
+    "lastIncident": "2026-07-05T01:35:00Z",
+    "count": 14
   },
   "chilliwack/watson-rd": {
     "name": "Watson Rd",
@@ -2880,8 +2880,8 @@
     "name": "Yale Rd",
     "slug": "chilliwack/yale-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-25T16:57:00Z",
-    "count": 20
+    "lastIncident": "2026-07-05T02:08:00Z",
+    "count": 21
   },
   "vancouver/e-61st-ave": {
     "name": "E 61st Ave",
@@ -9180,8 +9180,8 @@
     "name": "203rd St",
     "slug": "langley/203rd-st",
     "city": "Langley",
-    "lastIncident": "2026-06-28T18:19:00Z",
-    "count": 6
+    "lastIncident": "2026-07-05T01:35:00Z",
+    "count": 7
   },
   "north-vancouver/fell-ave": {
     "name": "Fell Ave",
@@ -13703,6 +13703,13 @@
     "slug": "west-vancouver/nelson-ave",
     "city": "West Vancouver",
     "lastIncident": "2026-07-04T23:29:00Z",
+    "count": 1
+  },
+  "vancouver/osler-st": {
+    "name": "Osler St",
+    "slug": "vancouver/osler-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-07-05T03:18:00Z",
     "count": 1
   }
 }

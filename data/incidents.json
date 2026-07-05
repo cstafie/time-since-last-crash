@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-07-05T03:18:00Z_vancouver/osler-st",
+    "timestamp": "2026-07-05T03:18:00Z",
+    "scrapedAt": "2026-07-05T05:14:12Z",
+    "address": "OSLER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/osler-st"
+    ],
+    "streetNames": [
+      "Osler St"
+    ],
+    "pulsePointId": "2511711765"
+  },
+  {
+    "id": "2026-07-05T02:08:00Z_chilliwack/yale-rd",
+    "timestamp": "2026-07-05T02:08:00Z",
+    "scrapedAt": "2026-07-05T05:14:12Z",
+    "address": "YALE RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/yale-rd"
+    ],
+    "streetNames": [
+      "Yale Rd"
+    ],
+    "pulsePointId": "2511654522"
+  },
+  {
+    "id": "2026-07-05T01:35:00Z_langley/64th-ave_langley/203rd-st",
+    "timestamp": "2026-07-05T01:35:00Z",
+    "scrapedAt": "2026-07-05T05:14:12Z",
+    "address": "64TH AVE & 203RD ST",
+    "city": "Langley",
+    "streets": [
+      "langley/64th-ave",
+      "langley/203rd-st"
+    ],
+    "streetNames": [
+      "64th Ave",
+      "203rd St"
+    ],
+    "pulsePointId": "2511627226"
+  },
+  {
     "id": "2026-07-05T00:16:00Z_new-westminster/royal-ave",
     "timestamp": "2026-07-05T00:16:00Z",
     "scrapedAt": "2026-07-05T01:12:31Z",

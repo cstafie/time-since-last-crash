@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-07-05T01:35:00Z_langley/64th-ave_langley/203rd-st",
+      "timestamp": "2026-07-05T01:35:00Z",
+      "address": "64TH AVE & 203RD ST",
+      "city": "Langley",
+      "streets": [
+        "langley/64th-ave",
+        "langley/203rd-st"
+      ],
+      "streetNames": [
+        "64th Ave",
+        "203rd St"
+      ],
+      "pulsePointId": "2511627226"
+    },
+    {
       "id": "2026-07-04T20:32:00Z_langley/64th-ave_langley/202nd-st",
       "timestamp": "2026-07-04T20:32:00Z",
       "address": "64TH AVE & 202ND ST",
@@ -192,6 +207,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-04T20:32:00Z",
-  "count": 13
+  "lastIncident": "2026-07-05T01:35:00Z",
+  "count": 14
 }
