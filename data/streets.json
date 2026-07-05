@@ -437,8 +437,8 @@
     "name": "Blundell Rd",
     "slug": "richmond/blundell-rd",
     "city": "Richmond",
-    "lastIncident": "2026-07-03T19:23:00Z",
-    "count": 22
+    "lastIncident": "2026-07-05T17:14:00Z",
+    "count": 23
   },
   "richmond/bowcock-rd": {
     "name": "Bowcock Rd",
@@ -13724,6 +13724,13 @@
     "slug": "vancouver/199-main-st",
     "city": "Vancouver",
     "lastIncident": "2026-07-05T14:05:00Z",
+    "count": 1
+  },
+  "richmond/ash-st": {
+    "name": "Ash St",
+    "slug": "richmond/ash-st",
+    "city": "Richmond",
+    "lastIncident": "2026-07-05T17:14:00Z",
     "count": 1
   }
 }
