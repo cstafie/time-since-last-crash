@@ -4,6 +4,19 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-05T13:58:00Z_surrey/84th-ave",
+      "timestamp": "2026-07-05T13:58:00Z",
+      "address": "84TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/84th-ave"
+      ],
+      "streetNames": [
+        "84th Ave"
+      ],
+      "pulsePointId": "2512067581"
+    },
+    {
       "id": "2026-06-24T06:44:00Z_surrey/84th-ave_surrey/152nd-st",
       "timestamp": "2026-06-24T06:44:00Z",
       "address": "84TH AVE & 152ND ST",
@@ -370,6 +383,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-24T06:44:00Z",
-  "count": 25
+  "lastIncident": "2026-07-05T13:58:00Z",
+  "count": 26
 }

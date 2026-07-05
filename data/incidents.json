@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-07-05T14:07:00Z_delta/hwy-91-ofrp_delta/hwy-99",
+    "timestamp": "2026-07-05T14:07:00Z",
+    "scrapedAt": "2026-07-05T14:13:17Z",
+    "address": "HWY 91 OFRP & HWY 99",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-91-ofrp",
+      "delta/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 91 Ofrp",
+      "Hwy 99"
+    ],
+    "pulsePointId": "2512072326"
+  },
+  {
+    "id": "2026-07-05T14:05:00Z_vancouver/199-main-st",
+    "timestamp": "2026-07-05T14:05:00Z",
+    "scrapedAt": "2026-07-05T14:13:17Z",
+    "address": "199 MAIN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/199-main-st"
+    ],
+    "streetNames": [
+      "199 Main St"
+    ],
+    "pulsePointId": "2512070238"
+  },
+  {
+    "id": "2026-07-05T13:58:00Z_surrey/84th-ave",
+    "timestamp": "2026-07-05T13:58:00Z",
+    "scrapedAt": "2026-07-05T14:13:17Z",
+    "address": "84TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/84th-ave"
+    ],
+    "streetNames": [
+      "84th Ave"
+    ],
+    "pulsePointId": "2512067581"
+  },
+  {
+    "id": "2026-07-05T13:48:00Z_surrey/whalley-blvd_surrey/108th-ave",
+    "timestamp": "2026-07-05T13:48:00Z",
+    "scrapedAt": "2026-07-05T14:13:17Z",
+    "address": "WHALLEY BLVD & 108TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/whalley-blvd",
+      "surrey/108th-ave"
+    ],
+    "streetNames": [
+      "Whalley Blvd",
+      "108th Ave"
+    ],
+    "pulsePointId": "2512064378"
+  },
+  {
     "id": "2026-07-05T09:42:00Z_vancouver/granville-st_vancouver/w-64th-ave",
     "timestamp": "2026-07-05T09:42:00Z",
     "scrapedAt": "2026-07-05T10:32:35Z",

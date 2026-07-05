@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/199-main-st",
+  "name": "199 Main St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-07-05T14:05:00Z_vancouver/199-main-st",
+      "timestamp": "2026-07-05T14:05:00Z",
+      "address": "199 MAIN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/199-main-st"
+      ],
+      "streetNames": [
+        "199 Main St"
+      ],
+      "pulsePointId": "2512070238"
+    }
+  ],
+  "lastIncident": "2026-07-05T14:05:00Z",
+  "count": 1
+}

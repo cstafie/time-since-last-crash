@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-05T13:48:00Z_surrey/whalley-blvd_surrey/108th-ave",
+      "timestamp": "2026-07-05T13:48:00Z",
+      "address": "WHALLEY BLVD & 108TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/whalley-blvd",
+        "surrey/108th-ave"
+      ],
+      "streetNames": [
+        "Whalley Blvd",
+        "108th Ave"
+      ],
+      "pulsePointId": "2512064378"
+    },
+    {
       "id": "2026-06-28T01:03:00Z_surrey/142nd-st_surrey/108th-ave",
       "timestamp": "2026-06-28T01:03:00Z",
       "address": "142ND ST & 108TH AVE",
@@ -404,6 +419,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-28T01:03:00Z",
-  "count": 27
+  "lastIncident": "2026-07-05T13:48:00Z",
+  "count": 28
 }
