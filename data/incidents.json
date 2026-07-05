@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-07-05T09:42:00Z_vancouver/granville-st_vancouver/w-64th-ave",
+    "timestamp": "2026-07-05T09:42:00Z",
+    "scrapedAt": "2026-07-05T10:32:35Z",
+    "address": "GRANVILLE ST & W 64TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st",
+      "vancouver/w-64th-ave"
+    ],
+    "streetNames": [
+      "Granville St",
+      "W 64th Ave"
+    ],
+    "pulsePointId": "2511977980"
+  },
+  {
+    "id": "2026-07-05T08:50:00Z_coquitlam/lougheed-hwy",
+    "timestamp": "2026-07-05T08:50:00Z",
+    "scrapedAt": "2026-07-05T10:32:35Z",
+    "address": "LOUGHEED HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2511953876"
+  },
+  {
     "id": "2026-07-05T07:30:00Z_vancouver/boundary-rd_vancouver/vanness-ave",
     "timestamp": "2026-07-05T07:30:00Z",
     "scrapedAt": "2026-07-05T08:22:09Z",
