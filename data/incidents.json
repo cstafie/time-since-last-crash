@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-07-05T23:00:00Z_vancouver/carrall-st_vancouver/e-hastings-st",
+    "timestamp": "2026-07-05T23:00:00Z",
+    "scrapedAt": "2026-07-05T23:53:03Z",
+    "address": "CARRALL ST & E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/carrall-st",
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "Carrall St",
+      "E Hastings St"
+    ],
+    "pulsePointId": "2512377589"
+  },
+  {
+    "id": "2026-07-05T22:56:00Z_langley/258th-st",
+    "timestamp": "2026-07-05T22:56:00Z",
+    "scrapedAt": "2026-07-05T23:53:03Z",
+    "address": "258TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/258th-st"
+    ],
+    "streetNames": [
+      "258th St"
+    ],
+    "pulsePointId": "2512374850"
+  },
+  {
     "id": "2026-07-05T22:29:00Z_coquitlam/lougheed-hwy",
     "timestamp": "2026-07-05T22:29:00Z",
     "scrapedAt": "2026-07-05T22:45:18Z",

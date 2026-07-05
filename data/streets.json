@@ -1774,8 +1774,8 @@
     "name": "E Hastings St",
     "slug": "vancouver/e-hastings-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-03T07:14:00Z",
-    "count": 38
+    "lastIncident": "2026-07-05T23:00:00Z",
+    "count": 39
   },
   "abbotsford/king-rd": {
     "name": "King Rd",
@@ -13738,6 +13738,20 @@
     "slug": "vancouver/harwood-st",
     "city": "Vancouver",
     "lastIncident": "2026-07-05T18:15:00Z",
+    "count": 1
+  },
+  "vancouver/carrall-st": {
+    "name": "Carrall St",
+    "slug": "vancouver/carrall-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-07-05T23:00:00Z",
+    "count": 1
+  },
+  "langley/258th-st": {
+    "name": "258th St",
+    "slug": "langley/258th-st",
+    "city": "Langley",
+    "lastIncident": "2026-07-05T22:56:00Z",
     "count": 1
   }
 }

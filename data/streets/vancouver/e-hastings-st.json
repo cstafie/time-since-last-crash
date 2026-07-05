@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-05T23:00:00Z_vancouver/carrall-st_vancouver/e-hastings-st",
+      "timestamp": "2026-07-05T23:00:00Z",
+      "address": "CARRALL ST & E HASTINGS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/carrall-st",
+        "vancouver/e-hastings-st"
+      ],
+      "streetNames": [
+        "Carrall St",
+        "E Hastings St"
+      ],
+      "pulsePointId": "2512377589"
+    },
+    {
       "id": "2026-07-03T07:14:00Z_vancouver/campbell-ave_vancouver/e-hastings-st",
       "timestamp": "2026-07-03T07:14:00Z",
       "address": "CAMPBELL AVE & E HASTINGS ST",
@@ -552,6 +567,6 @@
       "pulsePointId": "2433305056"
     }
   ],
-  "lastIncident": "2026-07-03T07:14:00Z",
-  "count": 38
+  "lastIncident": "2026-07-05T23:00:00Z",
+  "count": 39
 }
