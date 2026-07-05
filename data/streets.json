@@ -24,8 +24,8 @@
     "name": "Mccallum Rd",
     "slug": "abbotsford/mccallum-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-24T15:26:00Z",
-    "count": 9
+    "lastIncident": "2026-07-05T20:23:00Z",
+    "count": 10
   },
   "abbotsford/mcdougall-ave": {
     "name": "Mcdougall Ave",
@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-03T22:20:00Z",
-    "count": 38
+    "lastIncident": "2026-07-05T19:08:00Z",
+    "count": 39
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",
@@ -1746,8 +1746,8 @@
     "name": "Ware St",
     "slug": "abbotsford/ware-st",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-13T22:46:00Z",
-    "count": 11
+    "lastIncident": "2026-07-05T20:58:00Z",
+    "count": 12
   },
   "abbotsford/bourquin-cres-e": {
     "name": "Bourquin Cres E",
@@ -3237,8 +3237,8 @@
     "name": "146th St",
     "slug": "surrey/146th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-27T21:56:00Z",
-    "count": 5
+    "lastIncident": "2026-07-05T19:08:00Z",
+    "count": 6
   },
   "vancouver/macdonald-st": {
     "name": "Macdonald St",
@@ -7521,8 +7521,8 @@
     "name": "Vye Rd",
     "slug": "abbotsford/vye-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-07T19:45:00Z",
-    "count": 2
+    "lastIncident": "2026-07-05T20:23:00Z",
+    "count": 3
   },
   "port-moody/newport-dr": {
     "name": "Newport Dr",

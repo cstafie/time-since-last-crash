@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-05T20:23:00Z_abbotsford/vye-rd_abbotsford/mccallum-rd",
+      "timestamp": "2026-07-05T20:23:00Z",
+      "address": "VYE RD & MCCALLUM RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/vye-rd",
+        "abbotsford/mccallum-rd"
+      ],
+      "streetNames": [
+        "Vye Rd",
+        "Mccallum Rd"
+      ],
+      "pulsePointId": "2512278742"
+    },
+    {
       "id": "2026-06-24T15:26:00Z_abbotsford/mayfair-ave_abbotsford/mccallum-rd",
       "timestamp": "2026-06-24T15:26:00Z",
       "address": "MAYFAIR AVE & MCCALLUM RD",
@@ -135,6 +150,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-24T15:26:00Z",
-  "count": 9
+  "lastIncident": "2026-07-05T20:23:00Z",
+  "count": 10
 }

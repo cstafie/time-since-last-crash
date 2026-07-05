@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-07-05T20:58:00Z_abbotsford/ware-st",
+    "timestamp": "2026-07-05T20:58:00Z",
+    "scrapedAt": "2026-07-05T21:30:54Z",
+    "address": "WARE ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/ware-st"
+    ],
+    "streetNames": [
+      "Ware St"
+    ],
+    "pulsePointId": "2512300383"
+  },
+  {
+    "id": "2026-07-05T20:23:00Z_abbotsford/vye-rd_abbotsford/mccallum-rd",
+    "timestamp": "2026-07-05T20:23:00Z",
+    "scrapedAt": "2026-07-05T21:30:54Z",
+    "address": "VYE RD & MCCALLUM RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/vye-rd",
+      "abbotsford/mccallum-rd"
+    ],
+    "streetNames": [
+      "Vye Rd",
+      "Mccallum Rd"
+    ],
+    "pulsePointId": "2512278742"
+  },
+  {
+    "id": "2026-07-05T19:08:00Z_surrey/146th-st_surrey/88th-ave",
+    "timestamp": "2026-07-05T19:08:00Z",
+    "scrapedAt": "2026-07-05T21:30:54Z",
+    "address": "146TH ST & 88TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/146th-st",
+      "surrey/88th-ave"
+    ],
+    "streetNames": [
+      "146th St",
+      "88th Ave"
+    ],
+    "pulsePointId": "2512232472"
+  },
+  {
     "id": "2026-07-05T18:41:00Z_vancouver/e-49th-ave_vancouver/tyne-st",
     "timestamp": "2026-07-05T18:41:00Z",
     "scrapedAt": "2026-07-05T18:54:31Z",
