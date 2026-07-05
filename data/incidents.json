@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-07-05T00:16:00Z_new-westminster/royal-ave",
+    "timestamp": "2026-07-05T00:16:00Z",
+    "scrapedAt": "2026-07-05T01:12:31Z",
+    "address": "ROYAL AVE",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/royal-ave"
+    ],
+    "streetNames": [
+      "Royal Ave"
+    ],
+    "pulsePointId": "2511568256"
+  },
+  {
+    "id": "2026-07-05T00:05:00Z_new-westminster/queensborough-brdg",
+    "timestamp": "2026-07-05T00:05:00Z",
+    "scrapedAt": "2026-07-05T01:12:31Z",
+    "address": "QUEENSBOROUGH BRDG",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/queensborough-brdg"
+    ],
+    "streetNames": [
+      "Queensborough Brdg"
+    ],
+    "pulsePointId": "2511559798"
+  },
+  {
+    "id": "2026-07-04T23:29:00Z_west-vancouver/nelson-ave",
+    "timestamp": "2026-07-04T23:29:00Z",
+    "scrapedAt": "2026-07-05T01:12:31Z",
+    "address": "NELSON AVE",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/nelson-ave"
+    ],
+    "streetNames": [
+      "Nelson Ave"
+    ],
+    "pulsePointId": "2511533368"
+  },
+  {
     "id": "2026-07-04T23:14:00Z_coquitlam/barnet-hwy_coquitlam/pinetree-way",
     "timestamp": "2026-07-04T23:14:00Z",
     "scrapedAt": "2026-07-04T23:27:22Z",
