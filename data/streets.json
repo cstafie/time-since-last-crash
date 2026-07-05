@@ -647,8 +647,8 @@
     "name": "96th Ave",
     "slug": "surrey/96th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-03T22:10:00Z",
-    "count": 36
+    "lastIncident": "2026-07-05T22:10:00Z",
+    "count": 37
   },
   "surrey/bolivar-rd": {
     "name": "Bolivar Rd",
@@ -885,8 +885,8 @@
     "name": "176th St",
     "slug": "surrey/176th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-03T22:20:00Z",
-    "count": 43
+    "lastIncident": "2026-07-05T22:20:00Z",
+    "count": 44
   },
   "surrey/100th-ave": {
     "name": "100th Ave",
@@ -1116,8 +1116,8 @@
     "name": "Lougheed Hwy",
     "slug": "coquitlam/lougheed-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-07-05T08:50:00Z",
-    "count": 24
+    "lastIncident": "2026-07-05T22:29:00Z",
+    "count": 25
   },
   "coquitlam/orchid-dr": {
     "name": "Orchid Dr",
@@ -1830,8 +1830,8 @@
     "name": "40th Ave",
     "slug": "surrey/40th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-16T22:12:00Z",
-    "count": 5
+    "lastIncident": "2026-07-05T22:20:00Z",
+    "count": 6
   },
   "chilliwack/vedder-rd": {
     "name": "Vedder Rd",
@@ -12729,8 +12729,8 @@
     "name": "123rd St",
     "slug": "surrey/123rd-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-21T21:25:00Z",
-    "count": 1
+    "lastIncident": "2026-07-05T22:10:00Z",
+    "count": 2
   },
   "maple-ridge/22838-lougheed-hwy": {
     "name": "22838 Lougheed Hwy",

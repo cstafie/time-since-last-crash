@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-07-05T22:29:00Z_coquitlam/lougheed-hwy",
+    "timestamp": "2026-07-05T22:29:00Z",
+    "scrapedAt": "2026-07-05T22:45:18Z",
+    "address": "LOUGHEED HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2512357099"
+  },
+  {
+    "id": "2026-07-05T22:20:00Z_surrey/40th-ave_surrey/176th-st",
+    "timestamp": "2026-07-05T22:20:00Z",
+    "scrapedAt": "2026-07-05T22:45:18Z",
+    "address": "40TH AVE & 176TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/40th-ave",
+      "surrey/176th-st"
+    ],
+    "streetNames": [
+      "40th Ave",
+      "176th St"
+    ],
+    "pulsePointId": "2512351852"
+  },
+  {
+    "id": "2026-07-05T22:10:00Z_surrey/123rd-st_surrey/96th-ave",
+    "timestamp": "2026-07-05T22:10:00Z",
+    "scrapedAt": "2026-07-05T22:45:18Z",
+    "address": "123RD ST & 96TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/123rd-st",
+      "surrey/96th-ave"
+    ],
+    "streetNames": [
+      "123rd St",
+      "96th Ave"
+    ],
+    "pulsePointId": "2512345229"
+  },
+  {
     "id": "2026-07-05T20:58:00Z_abbotsford/ware-st",
     "timestamp": "2026-07-05T20:58:00Z",
     "scrapedAt": "2026-07-05T21:30:54Z",
