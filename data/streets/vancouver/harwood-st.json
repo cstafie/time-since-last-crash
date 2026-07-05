@@ -1,6 +1,6 @@
 {
-  "slug": "vancouver/bidwell-st",
-  "name": "Bidwell St",
+  "slug": "vancouver/harwood-st",
+  "name": "Harwood St",
   "city": "Vancouver",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Harwood St"
       ],
       "pulsePointId": "2512198344"
-    },
-    {
-      "id": "2026-06-02T16:42:00Z_vancouver/davie-st_vancouver/bidwell-st",
-      "timestamp": "2026-06-02T16:42:00Z",
-      "address": "DAVIE ST & BIDWELL ST",
-      "city": "Vancouver",
-      "streets": [
-        "vancouver/davie-st",
-        "vancouver/bidwell-st"
-      ],
-      "streetNames": [
-        "Davie St",
-        "Bidwell St"
-      ],
-      "pulsePointId": "2487666082"
     }
   ],
   "lastIncident": "2026-07-05T18:15:00Z",
-  "count": 2
+  "count": 1
 }

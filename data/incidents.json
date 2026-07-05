@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-07-05T18:41:00Z_vancouver/e-49th-ave_vancouver/tyne-st",
+    "timestamp": "2026-07-05T18:41:00Z",
+    "scrapedAt": "2026-07-05T18:54:31Z",
+    "address": "E 49TH AVE & TYNE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-49th-ave",
+      "vancouver/tyne-st"
+    ],
+    "streetNames": [
+      "E 49th Ave",
+      "Tyne St"
+    ],
+    "pulsePointId": "2512214062"
+  },
+  {
+    "id": "2026-07-05T18:15:00Z_vancouver/bidwell-st_vancouver/harwood-st",
+    "timestamp": "2026-07-05T18:15:00Z",
+    "scrapedAt": "2026-07-05T18:54:31Z",
+    "address": "BIDWELL ST & HARWOOD ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/bidwell-st",
+      "vancouver/harwood-st"
+    ],
+    "streetNames": [
+      "Bidwell St",
+      "Harwood St"
+    ],
+    "pulsePointId": "2512198344"
+  },
+  {
     "id": "2026-07-05T17:14:00Z_richmond/ash-st_richmond/blundell-rd",
     "timestamp": "2026-07-05T17:14:00Z",
     "scrapedAt": "2026-07-05T17:53:18Z",

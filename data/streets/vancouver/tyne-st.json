@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-05T18:41:00Z_vancouver/e-49th-ave_vancouver/tyne-st",
+      "timestamp": "2026-07-05T18:41:00Z",
+      "address": "E 49TH AVE & TYNE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-49th-ave",
+        "vancouver/tyne-st"
+      ],
+      "streetNames": [
+        "E 49th Ave",
+        "Tyne St"
+      ],
+      "pulsePointId": "2512214062"
+    },
+    {
       "id": "2026-06-15T00:59:00Z_vancouver/e-49th-ave_vancouver/tyne-st",
       "timestamp": "2026-06-15T00:59:00Z",
       "address": "E 49TH AVE & TYNE ST",
@@ -77,6 +92,6 @@
       "pulsePointId": "2432757590"
     }
   ],
-  "lastIncident": "2026-06-15T00:59:00Z",
-  "count": 5
+  "lastIncident": "2026-07-05T18:41:00Z",
+  "count": 6
 }
