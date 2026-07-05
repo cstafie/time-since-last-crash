@@ -1,5 +1,129 @@
 [
   {
+    "id": "2026-07-05T07:30:00Z_vancouver/boundary-rd_vancouver/vanness-ave",
+    "timestamp": "2026-07-05T07:30:00Z",
+    "scrapedAt": "2026-07-05T08:22:09Z",
+    "address": "BOUNDARY RD & VANNESS AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/boundary-rd",
+      "vancouver/vanness-ave"
+    ],
+    "streetNames": [
+      "Boundary Rd",
+      "Vanness Ave"
+    ],
+    "pulsePointId": "2511913220"
+  },
+  {
+    "id": "2026-07-05T07:28:00Z_burnaby/boundary-rd_burnaby/kingsway",
+    "timestamp": "2026-07-05T07:28:00Z",
+    "scrapedAt": "2026-07-05T08:22:09Z",
+    "address": "BOUNDARY RD & KINGSWAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/boundary-rd",
+      "burnaby/kingsway"
+    ],
+    "streetNames": [
+      "Boundary Rd",
+      "Kingsway"
+    ],
+    "pulsePointId": "2511912590"
+  },
+  {
+    "id": "2026-07-05T06:50:00Z_abbotsford/south-fraser-way_abbotsford/gladwin-rd",
+    "timestamp": "2026-07-05T06:50:00Z",
+    "scrapedAt": "2026-07-05T08:22:09Z",
+    "address": "SOUTH FRASER WAY & GLADWIN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/south-fraser-way",
+      "abbotsford/gladwin-rd"
+    ],
+    "streetNames": [
+      "South Fraser Way",
+      "Gladwin Rd"
+    ],
+    "pulsePointId": "2511889258"
+  },
+  {
+    "id": "2026-07-05T06:41:00Z_surrey/104th-ave_surrey/140th-st",
+    "timestamp": "2026-07-05T06:41:00Z",
+    "scrapedAt": "2026-07-05T08:22:09Z",
+    "address": "104TH AVE & 140TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/104th-ave",
+      "surrey/140th-st"
+    ],
+    "streetNames": [
+      "104th Ave",
+      "140th St"
+    ],
+    "pulsePointId": "2511882799"
+  },
+  {
+    "id": "2026-07-05T06:37:00Z_surrey/93rd-ave",
+    "timestamp": "2026-07-05T06:37:00Z",
+    "scrapedAt": "2026-07-05T08:22:09Z",
+    "address": "93RD AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/93rd-ave"
+    ],
+    "streetNames": [
+      "93rd Ave"
+    ],
+    "pulsePointId": "2511881409"
+  },
+  {
+    "id": "2026-07-05T06:32:00Z_north-vancouver/pemberton-ave",
+    "timestamp": "2026-07-05T06:32:00Z",
+    "scrapedAt": "2026-07-05T08:22:09Z",
+    "address": "PEMBERTON AVE",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/pemberton-ave"
+    ],
+    "streetNames": [
+      "Pemberton Ave"
+    ],
+    "pulsePointId": "2511876774"
+  },
+  {
+    "id": "2026-07-05T06:26:00Z_north-vancouver/w-1st-st_north-vancouver/forbes-ave",
+    "timestamp": "2026-07-05T06:26:00Z",
+    "scrapedAt": "2026-07-05T08:22:09Z",
+    "address": "W 1ST ST & FORBES AVE",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/w-1st-st",
+      "north-vancouver/forbes-ave"
+    ],
+    "streetNames": [
+      "W 1st St",
+      "Forbes Ave"
+    ],
+    "pulsePointId": "2511872546"
+  },
+  {
+    "id": "2026-07-05T06:01:00Z_vancouver/e-37th-ave_vancouver/clarendon-st",
+    "timestamp": "2026-07-05T06:01:00Z",
+    "scrapedAt": "2026-07-05T08:22:09Z",
+    "address": "E 37TH AVE & CLARENDON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-37th-ave",
+      "vancouver/clarendon-st"
+    ],
+    "streetNames": [
+      "E 37th Ave",
+      "Clarendon St"
+    ],
+    "pulsePointId": "2511853639"
+  },
+  {
     "id": "2026-07-05T03:18:00Z_vancouver/osler-st",
     "timestamp": "2026-07-05T03:18:00Z",
     "scrapedAt": "2026-07-05T05:14:12Z",

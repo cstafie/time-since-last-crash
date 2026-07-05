@@ -556,8 +556,8 @@
     "name": "140th St",
     "slug": "surrey/140th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-01T22:03:00Z",
-    "count": 35
+    "lastIncident": "2026-07-05T06:41:00Z",
+    "count": 36
   },
   "surrey/141a-st": {
     "name": "141a St",
@@ -997,8 +997,8 @@
     "name": "E 37th Ave",
     "slug": "vancouver/e-37th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-03-10T22:26:00Z",
-    "count": 1
+    "lastIncident": "2026-07-05T06:01:00Z",
+    "count": 2
   },
   "vancouver/prince-albert-st": {
     "name": "Prince Albert St",
@@ -1263,8 +1263,8 @@
     "name": "Boundary Rd",
     "slug": "vancouver/boundary-rd",
     "city": "Vancouver",
-    "lastIncident": "2026-06-18T22:38:00Z",
-    "count": 22
+    "lastIncident": "2026-07-05T07:30:00Z",
+    "count": 23
   },
   "surrey/langley-bps": {
     "name": "Langley Bps",
@@ -1312,8 +1312,8 @@
     "name": "104th Ave",
     "slug": "surrey/104th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-04T16:33:00Z",
-    "count": 41
+    "lastIncident": "2026-07-05T06:41:00Z",
+    "count": 42
   },
   "surrey/122nd-st": {
     "name": "122nd St",
@@ -1473,8 +1473,8 @@
     "name": "Kingsway",
     "slug": "burnaby/kingsway",
     "city": "Burnaby",
-    "lastIncident": "2026-07-03T02:00:00Z",
-    "count": 28
+    "lastIncident": "2026-07-05T07:28:00Z",
+    "count": 29
   },
   "burnaby/gilley-ave": {
     "name": "Gilley Ave",
@@ -1634,8 +1634,8 @@
     "name": "Pemberton Ave",
     "slug": "north-vancouver/pemberton-ave",
     "city": "North Vancouver",
-    "lastIncident": "2026-03-13T03:30:00Z",
-    "count": 1
+    "lastIncident": "2026-07-05T06:32:00Z",
+    "count": 2
   },
   "north-vancouver/marine-dr": {
     "name": "Marine Dr",
@@ -1767,8 +1767,8 @@
     "name": "South Fraser Way",
     "slug": "abbotsford/south-fraser-way",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-04T03:02:00Z",
-    "count": 31
+    "lastIncident": "2026-07-05T06:50:00Z",
+    "count": 32
   },
   "vancouver/e-hastings-st": {
     "name": "E Hastings St",
@@ -2782,8 +2782,8 @@
     "name": "Boundary Rd",
     "slug": "burnaby/boundary-rd",
     "city": "Burnaby",
-    "lastIncident": "2026-06-30T14:59:00Z",
-    "count": 14
+    "lastIncident": "2026-07-05T07:28:00Z",
+    "count": 15
   },
   "coquitlam/westview-st": {
     "name": "Westview St",
@@ -3013,8 +3013,8 @@
     "name": "W 1st St",
     "slug": "north-vancouver/w-1st-st",
     "city": "North Vancouver",
-    "lastIncident": "2026-06-29T14:43:00Z",
-    "count": 2
+    "lastIncident": "2026-07-05T06:26:00Z",
+    "count": 3
   },
   "north-vancouver/chesterfield-ave": {
     "name": "Chesterfield Ave",
@@ -5232,8 +5232,8 @@
     "name": "Gladwin Rd",
     "slug": "abbotsford/gladwin-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-24T13:50:00Z",
-    "count": 14
+    "lastIncident": "2026-07-05T06:50:00Z",
+    "count": 15
   },
   "surrey/old-yale-rd": {
     "name": "Old Yale Rd",
@@ -6324,8 +6324,8 @@
     "name": "Forbes Ave",
     "slug": "north-vancouver/forbes-ave",
     "city": "North Vancouver",
-    "lastIncident": "2026-04-11T05:33:00Z",
-    "count": 1
+    "lastIncident": "2026-07-05T06:26:00Z",
+    "count": 2
   },
   "north-vancouver/w-2nd-st": {
     "name": "W 2nd St",
@@ -8095,8 +8095,8 @@
     "name": "Clarendon St",
     "slug": "vancouver/clarendon-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-20T05:08:00Z",
-    "count": 6
+    "lastIncident": "2026-07-05T06:01:00Z",
+    "count": 7
   },
   "delta/lyon-rd": {
     "name": "Lyon Rd",
@@ -13170,8 +13170,8 @@
     "name": "Vanness Ave",
     "slug": "vancouver/vanness-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-27T05:51:00Z",
-    "count": 2
+    "lastIncident": "2026-07-05T07:30:00Z",
+    "count": 3
   },
   "abbotsford/dixon-rd": {
     "name": "Dixon Rd",
@@ -13710,6 +13710,13 @@
     "slug": "vancouver/osler-st",
     "city": "Vancouver",
     "lastIncident": "2026-07-05T03:18:00Z",
+    "count": 1
+  },
+  "surrey/93rd-ave": {
+    "name": "93rd Ave",
+    "slug": "surrey/93rd-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-07-05T06:37:00Z",
     "count": 1
   }
 }

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-05T07:30:00Z_vancouver/boundary-rd_vancouver/vanness-ave",
+      "timestamp": "2026-07-05T07:30:00Z",
+      "address": "BOUNDARY RD & VANNESS AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/boundary-rd",
+        "vancouver/vanness-ave"
+      ],
+      "streetNames": [
+        "Boundary Rd",
+        "Vanness Ave"
+      ],
+      "pulsePointId": "2511913220"
+    },
+    {
       "id": "2026-06-18T22:38:00Z_vancouver/grandview-hwy_vancouver/boundary-rd",
       "timestamp": "2026-06-18T22:38:00Z",
       "address": "GRANDVIEW HWY & BOUNDARY RD",
@@ -327,6 +342,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-18T22:38:00Z",
-  "count": 22
+  "lastIncident": "2026-07-05T07:30:00Z",
+  "count": 23
 }

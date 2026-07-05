@@ -4,6 +4,21 @@
   "city": "North Vancouver",
   "incidents": [
     {
+      "id": "2026-07-05T06:26:00Z_north-vancouver/w-1st-st_north-vancouver/forbes-ave",
+      "timestamp": "2026-07-05T06:26:00Z",
+      "address": "W 1ST ST & FORBES AVE",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/w-1st-st",
+        "north-vancouver/forbes-ave"
+      ],
+      "streetNames": [
+        "W 1st St",
+        "Forbes Ave"
+      ],
+      "pulsePointId": "2511872546"
+    },
+    {
       "id": "2026-06-29T14:43:00Z_north-vancouver/mackay-rd_north-vancouver/w-1st-st",
       "timestamp": "2026-06-29T14:43:00Z",
       "address": "MACKAY RD & W 1ST ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2437200820"
     }
   ],
-  "lastIncident": "2026-06-29T14:43:00Z",
-  "count": 2
+  "lastIncident": "2026-07-05T06:26:00Z",
+  "count": 3
 }

@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-05T06:41:00Z_surrey/104th-ave_surrey/140th-st",
+      "timestamp": "2026-07-05T06:41:00Z",
+      "address": "104TH AVE & 140TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/104th-ave",
+        "surrey/140th-st"
+      ],
+      "streetNames": [
+        "104th Ave",
+        "140th St"
+      ],
+      "pulsePointId": "2511882799"
+    },
+    {
       "id": "2026-07-01T22:03:00Z_surrey/140th-st_surrey/fraser-hwy",
       "timestamp": "2026-07-01T22:03:00Z",
       "address": "140TH ST & FRASER HWY",
@@ -521,6 +536,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-01T22:03:00Z",
-  "count": 35
+  "lastIncident": "2026-07-05T06:41:00Z",
+  "count": 36
 }

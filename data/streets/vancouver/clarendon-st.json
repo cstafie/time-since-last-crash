@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-05T06:01:00Z_vancouver/e-37th-ave_vancouver/clarendon-st",
+      "timestamp": "2026-07-05T06:01:00Z",
+      "address": "E 37TH AVE & CLARENDON ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-37th-ave",
+        "vancouver/clarendon-st"
+      ],
+      "streetNames": [
+        "E 37th Ave",
+        "Clarendon St"
+      ],
+      "pulsePointId": "2511853639"
+    },
+    {
       "id": "2026-06-20T05:08:00Z_vancouver/e-41st-ave_vancouver/clarendon-st",
       "timestamp": "2026-06-20T05:08:00Z",
       "address": "E 41ST AVE & CLARENDON ST",
@@ -94,6 +109,6 @@
       "pulsePointId": "2463886387"
     }
   ],
-  "lastIncident": "2026-06-20T05:08:00Z",
-  "count": 6
+  "lastIncident": "2026-07-05T06:01:00Z",
+  "count": 7
 }

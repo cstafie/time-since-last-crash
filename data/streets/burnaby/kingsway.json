@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-05T07:28:00Z_burnaby/boundary-rd_burnaby/kingsway",
+      "timestamp": "2026-07-05T07:28:00Z",
+      "address": "BOUNDARY RD & KINGSWAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/boundary-rd",
+        "burnaby/kingsway"
+      ],
+      "streetNames": [
+        "Boundary Rd",
+        "Kingsway"
+      ],
+      "pulsePointId": "2511912590"
+    },
+    {
       "id": "2026-07-03T02:00:00Z_burnaby/kingsway",
       "timestamp": "2026-07-03T02:00:00Z",
       "address": "KINGSWAY",
@@ -401,6 +416,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-03T02:00:00Z",
-  "count": 28
+  "lastIncident": "2026-07-05T07:28:00Z",
+  "count": 29
 }

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-05T07:30:00Z_vancouver/boundary-rd_vancouver/vanness-ave",
+      "timestamp": "2026-07-05T07:30:00Z",
+      "address": "BOUNDARY RD & VANNESS AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/boundary-rd",
+        "vancouver/vanness-ave"
+      ],
+      "streetNames": [
+        "Boundary Rd",
+        "Vanness Ave"
+      ],
+      "pulsePointId": "2511913220"
+    },
+    {
       "id": "2026-06-27T05:51:00Z_vancouver/vanness-ave_vancouver/joyce-st",
       "timestamp": "2026-06-27T05:51:00Z",
       "address": "VANNESS AVE & JOYCE ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2506013394"
     }
   ],
-  "lastIncident": "2026-06-27T05:51:00Z",
-  "count": 2
+  "lastIncident": "2026-07-05T07:30:00Z",
+  "count": 3
 }
