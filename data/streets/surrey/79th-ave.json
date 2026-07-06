@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-06T22:32:00Z_surrey/140th-st_surrey/79th-ave",
+      "timestamp": "2026-07-06T22:32:00Z",
+      "address": "140TH ST & 79TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/140th-st",
+        "surrey/79th-ave"
+      ],
+      "streetNames": [
+        "140th St",
+        "79th Ave"
+      ],
+      "pulsePointId": "2513117412"
+    },
+    {
       "id": "2026-05-27T01:54:00Z_surrey/79th-ave_surrey/128th-st",
       "timestamp": "2026-05-27T01:54:00Z",
       "address": "79TH AVE & 128TH ST",
@@ -49,6 +64,6 @@
       "pulsePointId": "2436823042"
     }
   ],
-  "lastIncident": "2026-05-27T01:54:00Z",
-  "count": 3
+  "lastIncident": "2026-07-06T22:32:00Z",
+  "count": 4
 }

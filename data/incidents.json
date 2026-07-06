@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-07-06T22:32:00Z_surrey/140th-st_surrey/79th-ave",
+    "timestamp": "2026-07-06T22:32:00Z",
+    "scrapedAt": "2026-07-06T22:41:42Z",
+    "address": "140TH ST & 79TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/140th-st",
+      "surrey/79th-ave"
+    ],
+    "streetNames": [
+      "140th St",
+      "79th Ave"
+    ],
+    "pulsePointId": "2513117412"
+  },
+  {
+    "id": "2026-07-06T22:25:00Z_coquitlam/marmont-st_coquitlam/austin-ave",
+    "timestamp": "2026-07-06T22:25:00Z",
+    "scrapedAt": "2026-07-06T22:41:42Z",
+    "address": "MARMONT ST & AUSTIN AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/marmont-st",
+      "coquitlam/austin-ave"
+    ],
+    "streetNames": [
+      "Marmont St",
+      "Austin Ave"
+    ],
+    "pulsePointId": "2513110975"
+  },
+  {
+    "id": "2026-07-06T21:26:00Z_surrey/80th-ave_surrey/144th-st",
+    "timestamp": "2026-07-06T21:26:00Z",
+    "scrapedAt": "2026-07-06T22:41:42Z",
+    "address": "80TH AVE & 144TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/80th-ave",
+      "surrey/144th-st"
+    ],
+    "streetNames": [
+      "80th Ave",
+      "144th St"
+    ],
+    "pulsePointId": "2513070812"
+  },
+  {
     "id": "2026-07-06T20:33:00Z_coquitlam/glen-dr_coquitlam/pipeline-rd",
     "timestamp": "2026-07-06T20:33:00Z",
     "scrapedAt": "2026-07-06T21:07:38Z",
