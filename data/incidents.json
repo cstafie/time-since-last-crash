@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-07-06T18:55:00Z_surrey/64th-ave",
+    "timestamp": "2026-07-06T18:55:00Z",
+    "scrapedAt": "2026-07-06T19:26:35Z",
+    "address": "64TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/64th-ave"
+    ],
+    "streetNames": [
+      "64th Ave"
+    ],
+    "pulsePointId": "2512963771"
+  },
+  {
+    "id": "2026-07-06T18:50:00Z_chilliwack/vedder-rd_chilliwack/chilliwack-lake-rd",
+    "timestamp": "2026-07-06T18:50:00Z",
+    "scrapedAt": "2026-07-06T19:26:35Z",
+    "address": "VEDDER RD & CHILLIWACK LAKE RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/vedder-rd",
+      "chilliwack/chilliwack-lake-rd"
+    ],
+    "streetNames": [
+      "Vedder Rd",
+      "Chilliwack Lake Rd"
+    ],
+    "pulsePointId": "2512961146"
+  },
+  {
     "id": "2026-07-06T17:28:00Z_abbotsford/maclure-rd_abbotsford/clearbrook-rd",
     "timestamp": "2026-07-06T17:28:00Z",
     "scrapedAt": "2026-07-06T17:34:58Z",

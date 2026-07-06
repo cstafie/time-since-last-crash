@@ -4,6 +4,19 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-06T18:55:00Z_surrey/64th-ave",
+      "timestamp": "2026-07-06T18:55:00Z",
+      "address": "64TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/64th-ave"
+      ],
+      "streetNames": [
+        "64th Ave"
+      ],
+      "pulsePointId": "2512963771"
+    },
+    {
       "id": "2026-07-06T01:42:00Z_surrey/64th-ave",
       "timestamp": "2026-07-06T01:42:00Z",
       "address": "64TH AVE",
@@ -394,6 +407,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-06T01:42:00Z",
-  "count": 27
+  "lastIncident": "2026-07-06T18:55:00Z",
+  "count": 28
 }

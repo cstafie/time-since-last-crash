@@ -598,8 +598,8 @@
     "name": "64th Ave",
     "slug": "surrey/64th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-06T01:42:00Z",
-    "count": 27
+    "lastIncident": "2026-07-06T18:55:00Z",
+    "count": 28
   },
   "surrey/72a-ave": {
     "name": "72a Ave",
@@ -1837,8 +1837,8 @@
     "name": "Vedder Rd",
     "slug": "chilliwack/vedder-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-07-03T23:36:00Z",
-    "count": 17
+    "lastIncident": "2026-07-06T18:50:00Z",
+    "count": 18
   },
   "chilliwack/spruce-dr": {
     "name": "Spruce Dr",
@@ -13780,6 +13780,13 @@
     "slug": "port-moody/maple-dr",
     "city": "Port Moody",
     "lastIncident": "2026-07-06T15:43:00Z",
+    "count": 1
+  },
+  "chilliwack/chilliwack-lake-rd": {
+    "name": "Chilliwack Lake Rd",
+    "slug": "chilliwack/chilliwack-lake-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-07-06T18:50:00Z",
     "count": 1
   }
 }
