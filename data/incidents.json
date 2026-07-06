@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-07-06T01:42:00Z_surrey/64th-ave",
+    "timestamp": "2026-07-06T01:42:00Z",
+    "scrapedAt": "2026-07-06T01:46:30Z",
+    "address": "64TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/64th-ave"
+    ],
+    "streetNames": [
+      "64th Ave"
+    ],
+    "pulsePointId": "2512478709"
+  },
+  {
+    "id": "2026-07-06T01:07:00Z_new-westminster/10th-ave_new-westminster/6th-st",
+    "timestamp": "2026-07-06T01:07:00Z",
+    "scrapedAt": "2026-07-06T01:46:30Z",
+    "address": "10TH AVE & 6TH ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/10th-ave",
+      "new-westminster/6th-st"
+    ],
+    "streetNames": [
+      "10th Ave",
+      "6th St"
+    ],
+    "pulsePointId": "2512456953"
+  },
+  {
+    "id": "2026-07-05T23:52:00Z_maple-ridge/222nd-st_maple-ridge/lougheed-hwy",
+    "timestamp": "2026-07-05T23:52:00Z",
+    "scrapedAt": "2026-07-06T01:46:30Z",
+    "address": "222ND ST & LOUGHEED HWY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/222nd-st",
+      "maple-ridge/lougheed-hwy"
+    ],
+    "streetNames": [
+      "222nd St",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2512411461"
+  },
+  {
     "id": "2026-07-05T23:00:00Z_vancouver/carrall-st_vancouver/e-hastings-st",
     "timestamp": "2026-07-05T23:00:00Z",
     "scrapedAt": "2026-07-05T23:53:03Z",

@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-07-05T23:52:00Z_maple-ridge/222nd-st_maple-ridge/lougheed-hwy",
+      "timestamp": "2026-07-05T23:52:00Z",
+      "address": "222ND ST & LOUGHEED HWY",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/222nd-st",
+        "maple-ridge/lougheed-hwy"
+      ],
+      "streetNames": [
+        "222nd St",
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2512411461"
+    },
+    {
       "id": "2026-06-28T16:04:00Z_maple-ridge/lougheed-hwy_maple-ridge/227th-st",
       "timestamp": "2026-06-28T16:04:00Z",
       "address": "LOUGHEED HWY & 227TH ST",
@@ -485,6 +500,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-28T16:04:00Z",
-  "count": 33
+  "lastIncident": "2026-07-05T23:52:00Z",
+  "count": 34
 }

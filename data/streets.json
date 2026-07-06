@@ -325,8 +325,8 @@
     "name": "Lougheed Hwy",
     "slug": "maple-ridge/lougheed-hwy",
     "city": "Maple Ridge",
-    "lastIncident": "2026-06-28T16:04:00Z",
-    "count": 33
+    "lastIncident": "2026-07-05T23:52:00Z",
+    "count": 34
   },
   "mission/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -598,8 +598,8 @@
     "name": "64th Ave",
     "slug": "surrey/64th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-28T08:02:00Z",
-    "count": 26
+    "lastIncident": "2026-07-06T01:42:00Z",
+    "count": 27
   },
   "surrey/72a-ave": {
     "name": "72a Ave",
@@ -1347,8 +1347,8 @@
     "name": "222nd St",
     "slug": "maple-ridge/222nd-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-06-28T16:03:00Z",
-    "count": 5
+    "lastIncident": "2026-07-05T23:52:00Z",
+    "count": 6
   },
   "mission/horne-street-onrp": {
     "name": "Horne Street Onrp",
@@ -1417,8 +1417,8 @@
     "name": "6th St",
     "slug": "new-westminster/6th-st",
     "city": "New Westminster",
-    "lastIncident": "2026-07-02T22:33:00Z",
-    "count": 6
+    "lastIncident": "2026-07-06T01:07:00Z",
+    "count": 7
   },
   "abbotsford/32900-south-fraser-way": {
     "name": "32900 South Fraser Way",
@@ -4350,8 +4350,8 @@
     "name": "10th Ave",
     "slug": "new-westminster/10th-ave",
     "city": "New Westminster",
-    "lastIncident": "2026-06-15T06:48:00Z",
-    "count": 3
+    "lastIncident": "2026-07-06T01:07:00Z",
+    "count": 4
   },
   "burnaby/4469-kingsway": {
     "name": "4469 Kingsway",
