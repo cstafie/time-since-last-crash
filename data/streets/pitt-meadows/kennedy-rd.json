@@ -1,0 +1,22 @@
+{
+  "slug": "pitt-meadows/kennedy-rd",
+  "name": "Kennedy Rd",
+  "city": "Pitt Meadows",
+  "incidents": [
+    {
+      "id": "2026-07-06T11:56:00Z_pitt-meadows/kennedy-rd",
+      "timestamp": "2026-07-06T11:56:00Z",
+      "address": "KENNEDY RD",
+      "city": "Pitt Meadows",
+      "streets": [
+        "pitt-meadows/kennedy-rd"
+      ],
+      "streetNames": [
+        "Kennedy Rd"
+      ],
+      "pulsePointId": "2512730849"
+    }
+  ],
+  "lastIncident": "2026-07-06T11:56:00Z",
+  "count": 1
+}

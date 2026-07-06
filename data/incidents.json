@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-07-06T14:27:00Z_vancouver/se-marine-dr_vancouver/fraser-st",
+    "timestamp": "2026-07-06T14:27:00Z",
+    "scrapedAt": "2026-07-06T14:39:45Z",
+    "address": "SE MARINE DR & FRASER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/se-marine-dr",
+      "vancouver/fraser-st"
+    ],
+    "streetNames": [
+      "Se Marine Dr",
+      "Fraser St"
+    ],
+    "pulsePointId": "2512791952"
+  },
+  {
+    "id": "2026-07-06T13:29:00Z_burnaby/boundary-rd_burnaby/dominion-st",
+    "timestamp": "2026-07-06T13:29:00Z",
+    "scrapedAt": "2026-07-06T14:39:45Z",
+    "address": "BOUNDARY RD & DOMINION ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/boundary-rd",
+      "burnaby/dominion-st"
+    ],
+    "streetNames": [
+      "Boundary Rd",
+      "Dominion St"
+    ],
+    "pulsePointId": "2512765814"
+  },
+  {
+    "id": "2026-07-06T11:56:00Z_pitt-meadows/kennedy-rd",
+    "timestamp": "2026-07-06T11:56:00Z",
+    "scrapedAt": "2026-07-06T14:39:45Z",
+    "address": "KENNEDY RD",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/kennedy-rd"
+    ],
+    "streetNames": [
+      "Kennedy Rd"
+    ],
+    "pulsePointId": "2512730849"
+  },
+  {
     "id": "2026-07-06T06:02:00Z_coquitlam/lougheed-hwy_coquitlam/westwood-st",
     "timestamp": "2026-07-06T06:02:00Z",
     "scrapedAt": "2026-07-06T06:13:27Z",

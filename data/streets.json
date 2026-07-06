@@ -1200,8 +1200,8 @@
     "name": "Se Marine Dr",
     "slug": "vancouver/se-marine-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-07-03T15:54:00Z",
-    "count": 23
+    "lastIncident": "2026-07-06T14:27:00Z",
+    "count": 24
   },
   "vancouver/kerr-st": {
     "name": "Kerr St",
@@ -2782,8 +2782,8 @@
     "name": "Boundary Rd",
     "slug": "burnaby/boundary-rd",
     "city": "Burnaby",
-    "lastIncident": "2026-07-05T07:28:00Z",
-    "count": 15
+    "lastIncident": "2026-07-06T13:29:00Z",
+    "count": 16
   },
   "coquitlam/westview-st": {
     "name": "Westview St",
@@ -3258,8 +3258,8 @@
     "name": "Fraser St",
     "slug": "vancouver/fraser-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-01T19:57:00Z",
-    "count": 20
+    "lastIncident": "2026-07-06T14:27:00Z",
+    "count": 21
   },
   "abbotsford/32470-simon-ave": {
     "name": "32470 Simon Ave",
@@ -5078,8 +5078,8 @@
     "name": "Dominion St",
     "slug": "burnaby/dominion-st",
     "city": "Burnaby",
-    "lastIncident": "2026-05-15T20:47:00Z",
-    "count": 3
+    "lastIncident": "2026-07-06T13:29:00Z",
+    "count": 4
   },
   "burnaby/sumner-ave": {
     "name": "Sumner Ave",
@@ -13766,6 +13766,13 @@
     "slug": "chilliwack/cartmell-rd",
     "city": "Chilliwack",
     "lastIncident": "2026-07-06T05:29:00Z",
+    "count": 1
+  },
+  "pitt-meadows/kennedy-rd": {
+    "name": "Kennedy Rd",
+    "slug": "pitt-meadows/kennedy-rd",
+    "city": "Pitt Meadows",
+    "lastIncident": "2026-07-06T11:56:00Z",
     "count": 1
   }
 }
