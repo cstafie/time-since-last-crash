@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-06T14:43:00Z_vancouver/se-marine-dr_vancouver/ross-st",
+      "timestamp": "2026-07-06T14:43:00Z",
+      "address": "SE MARINE DR & ROSS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/se-marine-dr",
+        "vancouver/ross-st"
+      ],
+      "streetNames": [
+        "Se Marine Dr",
+        "Ross St"
+      ],
+      "pulsePointId": "2512801132"
+    },
+    {
       "id": "2026-07-06T14:27:00Z_vancouver/se-marine-dr_vancouver/fraser-st",
       "timestamp": "2026-07-06T14:27:00Z",
       "address": "SE MARINE DR & FRASER ST",
@@ -359,6 +374,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-06T14:27:00Z",
-  "count": 24
+  "lastIncident": "2026-07-06T14:43:00Z",
+  "count": 25
 }

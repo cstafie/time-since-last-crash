@@ -4,6 +4,21 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-07-06T14:42:00Z_delta/72nd-ave_delta/116th-st",
+      "timestamp": "2026-07-06T14:42:00Z",
+      "address": "72ND AVE & 116TH ST",
+      "city": "Delta",
+      "streets": [
+        "delta/72nd-ave",
+        "delta/116th-st"
+      ],
+      "streetNames": [
+        "72nd Ave",
+        "116th St"
+      ],
+      "pulsePointId": "2512800556"
+    },
+    {
       "id": "2026-06-25T00:07:00Z_delta/90th-ave_delta/116th-st",
       "timestamp": "2026-06-25T00:07:00Z",
       "address": "90TH AVE & 116TH ST",
@@ -165,6 +180,6 @@
       "pulsePointId": "2451883831"
     }
   ],
-  "lastIncident": "2026-06-25T00:07:00Z",
-  "count": 11
+  "lastIncident": "2026-07-06T14:42:00Z",
+  "count": 12
 }

@@ -1,5 +1,99 @@
 [
   {
+    "id": "2026-07-06T17:28:00Z_abbotsford/maclure-rd_abbotsford/clearbrook-rd",
+    "timestamp": "2026-07-06T17:28:00Z",
+    "scrapedAt": "2026-07-06T17:34:58Z",
+    "address": "MACLURE RD & CLEARBROOK RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/maclure-rd",
+      "abbotsford/clearbrook-rd"
+    ],
+    "streetNames": [
+      "Maclure Rd",
+      "Clearbrook Rd"
+    ],
+    "pulsePointId": "2512903121"
+  },
+  {
+    "id": "2026-07-06T17:10:00Z_vancouver/w-king-edward-ave_vancouver/blenheim-st",
+    "timestamp": "2026-07-06T17:10:00Z",
+    "scrapedAt": "2026-07-06T17:34:58Z",
+    "address": "W KING EDWARD AVE & BLENHEIM ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-king-edward-ave",
+      "vancouver/blenheim-st"
+    ],
+    "streetNames": [
+      "W King Edward Ave",
+      "Blenheim St"
+    ],
+    "pulsePointId": "2512890858"
+  },
+  {
+    "id": "2026-07-06T15:59:00Z_vancouver/venables-st_vancouver/raymur-ave",
+    "timestamp": "2026-07-06T15:59:00Z",
+    "scrapedAt": "2026-07-06T17:34:58Z",
+    "address": "VENABLES ST & RAYMUR AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/venables-st",
+      "vancouver/raymur-ave"
+    ],
+    "streetNames": [
+      "Venables St",
+      "Raymur Ave"
+    ],
+    "pulsePointId": "2512842577"
+  },
+  {
+    "id": "2026-07-06T15:43:00Z_port-moody/maple-dr",
+    "timestamp": "2026-07-06T15:43:00Z",
+    "scrapedAt": "2026-07-06T17:34:58Z",
+    "address": "MAPLE DR",
+    "city": "Port Moody",
+    "streets": [
+      "port-moody/maple-dr"
+    ],
+    "streetNames": [
+      "Maple Dr"
+    ],
+    "pulsePointId": "2512835061"
+  },
+  {
+    "id": "2026-07-06T14:43:00Z_vancouver/se-marine-dr_vancouver/ross-st",
+    "timestamp": "2026-07-06T14:43:00Z",
+    "scrapedAt": "2026-07-06T17:34:58Z",
+    "address": "SE MARINE DR & ROSS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/se-marine-dr",
+      "vancouver/ross-st"
+    ],
+    "streetNames": [
+      "Se Marine Dr",
+      "Ross St"
+    ],
+    "pulsePointId": "2512801132"
+  },
+  {
+    "id": "2026-07-06T14:42:00Z_delta/72nd-ave_delta/116th-st",
+    "timestamp": "2026-07-06T14:42:00Z",
+    "scrapedAt": "2026-07-06T17:34:58Z",
+    "address": "72ND AVE & 116TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/72nd-ave",
+      "delta/116th-st"
+    ],
+    "streetNames": [
+      "72nd Ave",
+      "116th St"
+    ],
+    "pulsePointId": "2512800556"
+  },
+  {
     "id": "2026-07-06T14:27:00Z_vancouver/se-marine-dr_vancouver/fraser-st",
     "timestamp": "2026-07-06T14:27:00Z",
     "scrapedAt": "2026-07-06T14:39:45Z",

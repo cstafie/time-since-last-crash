@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-06T15:59:00Z_vancouver/venables-st_vancouver/raymur-ave",
+      "timestamp": "2026-07-06T15:59:00Z",
+      "address": "VENABLES ST & RAYMUR AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/venables-st",
+        "vancouver/raymur-ave"
+      ],
+      "streetNames": [
+        "Venables St",
+        "Raymur Ave"
+      ],
+      "pulsePointId": "2512842577"
+    },
+    {
       "id": "2026-07-03T17:14:00Z_vancouver/venables-st",
       "timestamp": "2026-07-03T17:14:00Z",
       "address": "VENABLES ST",
@@ -62,6 +77,6 @@
       "pulsePointId": "2435809865"
     }
   ],
-  "lastIncident": "2026-07-03T17:14:00Z",
-  "count": 4
+  "lastIncident": "2026-07-06T15:59:00Z",
+  "count": 5
 }
