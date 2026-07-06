@@ -2782,8 +2782,8 @@
     "name": "Boundary Rd",
     "slug": "burnaby/boundary-rd",
     "city": "Burnaby",
-    "lastIncident": "2026-07-06T13:29:00Z",
-    "count": 16
+    "lastIncident": "2026-07-06T22:41:00Z",
+    "count": 17
   },
   "coquitlam/westview-st": {
     "name": "Westview St",
@@ -6100,8 +6100,8 @@
     "name": "Moscrop St",
     "slug": "burnaby/moscrop-st",
     "city": "Burnaby",
-    "lastIncident": "2026-06-24T02:18:00Z",
-    "count": 4
+    "lastIncident": "2026-07-06T22:41:00Z",
+    "count": 5
   },
   "abbotsford/plaxton-cres": {
     "name": "Plaxton Cres",

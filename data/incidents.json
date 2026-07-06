@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-06T22:41:00Z_burnaby/moscrop-st_burnaby/boundary-rd",
+    "timestamp": "2026-07-06T22:41:00Z",
+    "scrapedAt": "2026-07-06T23:55:17Z",
+    "address": "MOSCROP ST & BOUNDARY RD",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/moscrop-st",
+      "burnaby/boundary-rd"
+    ],
+    "streetNames": [
+      "Moscrop St",
+      "Boundary Rd"
+    ],
+    "pulsePointId": "2513123464"
+  },
+  {
     "id": "2026-07-06T22:32:00Z_surrey/140th-st_surrey/79th-ave",
     "timestamp": "2026-07-06T22:32:00Z",
     "scrapedAt": "2026-07-06T22:41:42Z",
