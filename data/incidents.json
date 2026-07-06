@@ -1,5 +1,69 @@
 [
   {
+    "id": "2026-07-06T20:33:00Z_coquitlam/glen-dr_coquitlam/pipeline-rd",
+    "timestamp": "2026-07-06T20:33:00Z",
+    "scrapedAt": "2026-07-06T21:07:38Z",
+    "address": "GLEN DR & PIPELINE RD",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/glen-dr",
+      "coquitlam/pipeline-rd"
+    ],
+    "streetNames": [
+      "Glen Dr",
+      "Pipeline Rd"
+    ],
+    "pulsePointId": "2513034207"
+  },
+  {
+    "id": "2026-07-06T19:47:00Z_delta/12th-ave_delta/55th-st",
+    "timestamp": "2026-07-06T19:47:00Z",
+    "scrapedAt": "2026-07-06T21:07:38Z",
+    "address": "12TH AVE & 55TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/12th-ave",
+      "delta/55th-st"
+    ],
+    "streetNames": [
+      "12th Ave",
+      "55th St"
+    ],
+    "pulsePointId": "2513000941"
+  },
+  {
+    "id": "2026-07-06T19:33:00Z_burnaby/edmonds-st_burnaby/griffiths-dr",
+    "timestamp": "2026-07-06T19:33:00Z",
+    "scrapedAt": "2026-07-06T21:07:38Z",
+    "address": "EDMONDS ST & GRIFFITHS DR",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/edmonds-st",
+      "burnaby/griffiths-dr"
+    ],
+    "streetNames": [
+      "Edmonds St",
+      "Griffiths Dr"
+    ],
+    "pulsePointId": "2512991392"
+  },
+  {
+    "id": "2026-07-06T19:32:00Z_coquitlam/laurentian-cres_coquitlam/austin-ave",
+    "timestamp": "2026-07-06T19:32:00Z",
+    "scrapedAt": "2026-07-06T21:07:38Z",
+    "address": "LAURENTIAN CRES & AUSTIN AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/laurentian-cres",
+      "coquitlam/austin-ave"
+    ],
+    "streetNames": [
+      "Laurentian Cres",
+      "Austin Ave"
+    ],
+    "pulsePointId": "2512990575"
+  },
+  {
     "id": "2026-07-06T18:55:00Z_surrey/64th-ave",
     "timestamp": "2026-07-06T18:55:00Z",
     "scrapedAt": "2026-07-06T19:26:35Z",

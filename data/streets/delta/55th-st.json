@@ -1,0 +1,24 @@
+{
+  "slug": "delta/55th-st",
+  "name": "55th St",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-07-06T19:47:00Z_delta/12th-ave_delta/55th-st",
+      "timestamp": "2026-07-06T19:47:00Z",
+      "address": "12TH AVE & 55TH ST",
+      "city": "Delta",
+      "streets": [
+        "delta/12th-ave",
+        "delta/55th-st"
+      ],
+      "streetNames": [
+        "12th Ave",
+        "55th St"
+      ],
+      "pulsePointId": "2513000941"
+    }
+  ],
+  "lastIncident": "2026-07-06T19:47:00Z",
+  "count": 1
+}

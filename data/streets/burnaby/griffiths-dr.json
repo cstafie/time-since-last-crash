@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-06T19:33:00Z_burnaby/edmonds-st_burnaby/griffiths-dr",
+      "timestamp": "2026-07-06T19:33:00Z",
+      "address": "EDMONDS ST & GRIFFITHS DR",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/edmonds-st",
+        "burnaby/griffiths-dr"
+      ],
+      "streetNames": [
+        "Edmonds St",
+        "Griffiths Dr"
+      ],
+      "pulsePointId": "2512991392"
+    },
+    {
       "id": "2026-05-03T19:22:00Z_burnaby/griffiths-dr_burnaby/edmonds-st",
       "timestamp": "2026-05-03T19:22:00Z",
       "address": "GRIFFITHS DR & EDMONDS ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2437201982"
     }
   ],
-  "lastIncident": "2026-05-03T19:22:00Z",
-  "count": 2
+  "lastIncident": "2026-07-06T19:33:00Z",
+  "count": 3
 }

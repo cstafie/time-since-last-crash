@@ -2796,8 +2796,8 @@
     "name": "Austin Ave",
     "slug": "coquitlam/austin-ave",
     "city": "Coquitlam",
-    "lastIncident": "2026-06-07T20:38:00Z",
-    "count": 7
+    "lastIncident": "2026-07-06T19:32:00Z",
+    "count": 8
   },
   "vancouver/larch-st": {
     "name": "Larch St",
@@ -3006,8 +3006,8 @@
     "name": "Griffiths Dr",
     "slug": "burnaby/griffiths-dr",
     "city": "Burnaby",
-    "lastIncident": "2026-05-03T19:22:00Z",
-    "count": 2
+    "lastIncident": "2026-07-06T19:33:00Z",
+    "count": 3
   },
   "north-vancouver/w-1st-st": {
     "name": "W 1st St",
@@ -3755,15 +3755,15 @@
     "name": "Pipeline Rd",
     "slug": "coquitlam/pipeline-rd",
     "city": "Coquitlam",
-    "lastIncident": "2026-03-24T04:04:00Z",
-    "count": 1
+    "lastIncident": "2026-07-06T20:33:00Z",
+    "count": 2
   },
   "coquitlam/glen-dr": {
     "name": "Glen Dr",
     "slug": "coquitlam/glen-dr",
     "city": "Coquitlam",
-    "lastIncident": "2026-03-24T04:04:00Z",
-    "count": 1
+    "lastIncident": "2026-07-06T20:33:00Z",
+    "count": 2
   },
   "lions-bay/ocean-point-dr": {
     "name": "Ocean Point Dr",
@@ -7612,8 +7612,8 @@
     "name": "Laurentian Cres",
     "slug": "coquitlam/laurentian-cres",
     "city": "Coquitlam",
-    "lastIncident": "2026-04-24T22:18:00Z",
-    "count": 1
+    "lastIncident": "2026-07-06T19:32:00Z",
+    "count": 2
   },
   "surrey/48th-ave": {
     "name": "48th Ave",
@@ -8613,8 +8613,8 @@
     "name": "Edmonds St",
     "slug": "burnaby/edmonds-st",
     "city": "Burnaby",
-    "lastIncident": "2026-05-03T19:22:00Z",
-    "count": 1
+    "lastIncident": "2026-07-06T19:33:00Z",
+    "count": 2
   },
   "langley/willowbrook-dr": {
     "name": "Willowbrook Dr",
@@ -13787,6 +13787,20 @@
     "slug": "chilliwack/chilliwack-lake-rd",
     "city": "Chilliwack",
     "lastIncident": "2026-07-06T18:50:00Z",
+    "count": 1
+  },
+  "delta/12th-ave": {
+    "name": "12th Ave",
+    "slug": "delta/12th-ave",
+    "city": "Delta",
+    "lastIncident": "2026-07-06T19:47:00Z",
+    "count": 1
+  },
+  "delta/55th-st": {
+    "name": "55th St",
+    "slug": "delta/55th-st",
+    "city": "Delta",
+    "lastIncident": "2026-07-06T19:47:00Z",
     "count": 1
   }
 }
