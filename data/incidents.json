@@ -1,5 +1,111 @@
 [
   {
+    "id": "2026-07-06T06:02:00Z_coquitlam/lougheed-hwy_coquitlam/westwood-st",
+    "timestamp": "2026-07-06T06:02:00Z",
+    "scrapedAt": "2026-07-06T06:13:27Z",
+    "address": "LOUGHEED HWY & WESTWOOD ST",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/lougheed-hwy",
+      "coquitlam/westwood-st"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "Westwood St"
+    ],
+    "pulsePointId": "2512618391"
+  },
+  {
+    "id": "2026-07-06T05:54:00Z_richmond/nelson-road-ofrp",
+    "timestamp": "2026-07-06T05:54:00Z",
+    "scrapedAt": "2026-07-06T06:13:27Z",
+    "address": "NELSON ROAD OFRP",
+    "city": "Richmond",
+    "streets": [
+      "richmond/nelson-road-ofrp"
+    ],
+    "streetNames": [
+      "Nelson Road Ofrp"
+    ],
+    "pulsePointId": "2512614081"
+  },
+  {
+    "id": "2026-07-06T05:54:00Z_delta/ferry-cswy",
+    "timestamp": "2026-07-06T05:54:00Z",
+    "scrapedAt": "2026-07-06T06:13:27Z",
+    "address": "FERRY CSWY",
+    "city": "Delta",
+    "streets": [
+      "delta/ferry-cswy"
+    ],
+    "streetNames": [
+      "Ferry Cswy"
+    ],
+    "pulsePointId": "2512614255"
+  },
+  {
+    "id": "2026-07-06T05:29:00Z_chilliwack/young-rd_chilliwack/cartmell-rd",
+    "timestamp": "2026-07-06T05:29:00Z",
+    "scrapedAt": "2026-07-06T06:13:27Z",
+    "address": "YOUNG RD & CARTMELL RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/young-rd",
+      "chilliwack/cartmell-rd"
+    ],
+    "streetNames": [
+      "Young Rd",
+      "Cartmell Rd"
+    ],
+    "pulsePointId": "2512602818"
+  },
+  {
+    "id": "2026-07-06T04:02:00Z_vancouver/columbia-st_vancouver/w-3rd-ave",
+    "timestamp": "2026-07-06T04:02:00Z",
+    "scrapedAt": "2026-07-06T06:13:27Z",
+    "address": "COLUMBIA ST & W 3RD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/columbia-st",
+      "vancouver/w-3rd-ave"
+    ],
+    "streetNames": [
+      "Columbia St",
+      "W 3rd Ave"
+    ],
+    "pulsePointId": "2512554721"
+  },
+  {
+    "id": "2026-07-06T02:17:00Z_langley/trans-canada-hwy",
+    "timestamp": "2026-07-06T02:17:00Z",
+    "scrapedAt": "2026-07-06T06:13:27Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2512499012"
+  },
+  {
+    "id": "2026-07-06T02:15:00Z_langley/56th-ave_langley/216th-st",
+    "timestamp": "2026-07-06T02:15:00Z",
+    "scrapedAt": "2026-07-06T06:13:27Z",
+    "address": "56TH AVE & 216TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/56th-ave",
+      "langley/216th-st"
+    ],
+    "streetNames": [
+      "56th Ave",
+      "216th St"
+    ],
+    "pulsePointId": "2512497967"
+  },
+  {
     "id": "2026-07-06T01:42:00Z_surrey/64th-ave",
     "timestamp": "2026-07-06T01:42:00Z",
     "scrapedAt": "2026-07-06T01:46:30Z",

@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-07-06T06:02:00Z_coquitlam/lougheed-hwy_coquitlam/westwood-st",
+      "timestamp": "2026-07-06T06:02:00Z",
+      "address": "LOUGHEED HWY & WESTWOOD ST",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/lougheed-hwy",
+        "coquitlam/westwood-st"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "Westwood St"
+      ],
+      "pulsePointId": "2512618391"
+    },
+    {
       "id": "2026-06-12T15:48:00Z_coquitlam/westwood-st_coquitlam/anson-ave",
       "timestamp": "2026-06-12T15:48:00Z",
       "address": "WESTWOOD ST & ANSON AVE",
@@ -49,6 +64,6 @@
       "pulsePointId": "2490715498"
     }
   ],
-  "lastIncident": "2026-06-12T15:48:00Z",
-  "count": 3
+  "lastIncident": "2026-07-06T06:02:00Z",
+  "count": 4
 }

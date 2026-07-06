@@ -1,0 +1,24 @@
+{
+  "slug": "chilliwack/cartmell-rd",
+  "name": "Cartmell Rd",
+  "city": "Chilliwack",
+  "incidents": [
+    {
+      "id": "2026-07-06T05:29:00Z_chilliwack/young-rd_chilliwack/cartmell-rd",
+      "timestamp": "2026-07-06T05:29:00Z",
+      "address": "YOUNG RD & CARTMELL RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/young-rd",
+        "chilliwack/cartmell-rd"
+      ],
+      "streetNames": [
+        "Young Rd",
+        "Cartmell Rd"
+      ],
+      "pulsePointId": "2512602818"
+    }
+  ],
+  "lastIncident": "2026-07-06T05:29:00Z",
+  "count": 1
+}

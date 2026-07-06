@@ -248,8 +248,8 @@
     "name": "56th Ave",
     "slug": "langley/56th-ave",
     "city": "Langley",
-    "lastIncident": "2026-07-02T21:04:00Z",
-    "count": 20
+    "lastIncident": "2026-07-06T02:15:00Z",
+    "count": 21
   },
   "langley/58th-cres": {
     "name": "58th Cres",
@@ -269,8 +269,8 @@
     "name": "Trans Canada Hwy",
     "slug": "langley/trans-canada-hwy",
     "city": "Langley",
-    "lastIncident": "2026-07-04T13:53:00Z",
-    "count": 40
+    "lastIncident": "2026-07-06T02:17:00Z",
+    "count": 41
   },
   "maple-ridge/119th-ave": {
     "name": "119th Ave",
@@ -1116,8 +1116,8 @@
     "name": "Lougheed Hwy",
     "slug": "coquitlam/lougheed-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-07-05T22:29:00Z",
-    "count": 25
+    "lastIncident": "2026-07-06T06:02:00Z",
+    "count": 26
   },
   "coquitlam/orchid-dr": {
     "name": "Orchid Dr",
@@ -1522,8 +1522,8 @@
     "name": "Columbia St",
     "slug": "vancouver/columbia-st",
     "city": "Vancouver",
-    "lastIncident": "2026-04-14T00:56:00Z",
-    "count": 3
+    "lastIncident": "2026-07-06T04:02:00Z",
+    "count": 4
   },
   "chilliwack/airport-rd": {
     "name": "Airport Rd",
@@ -1536,8 +1536,8 @@
     "name": "Young Rd",
     "slug": "chilliwack/young-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-16T21:42:00Z",
-    "count": 7
+    "lastIncident": "2026-07-06T05:29:00Z",
+    "count": 8
   },
   "surrey/port-mann-brdg": {
     "name": "Port Mann Brdg",
@@ -1991,8 +1991,8 @@
     "name": "W 3rd Ave",
     "slug": "vancouver/w-3rd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-28T22:46:00Z",
-    "count": 2
+    "lastIncident": "2026-07-06T04:02:00Z",
+    "count": 3
   },
   "coquitlam/port-mann-brdg": {
     "name": "Port Mann Brdg",
@@ -2642,8 +2642,8 @@
     "name": "216th St",
     "slug": "langley/216th-st",
     "city": "Langley",
-    "lastIncident": "2026-07-02T05:35:00Z",
-    "count": 16
+    "lastIncident": "2026-07-06T02:15:00Z",
+    "count": 17
   },
   "surrey/87th-ave": {
     "name": "87th Ave",
@@ -8018,8 +8018,8 @@
     "name": "Ferry Cswy",
     "slug": "delta/ferry-cswy",
     "city": "Delta",
-    "lastIncident": "2026-04-29T03:20:00Z",
-    "count": 1
+    "lastIncident": "2026-07-06T05:54:00Z",
+    "count": 2
   },
   "burnaby/mckay-ave": {
     "name": "Mckay Ave",
@@ -11595,8 +11595,8 @@
     "name": "Westwood St",
     "slug": "coquitlam/westwood-st",
     "city": "Coquitlam",
-    "lastIncident": "2026-06-12T15:48:00Z",
-    "count": 3
+    "lastIncident": "2026-07-06T06:02:00Z",
+    "count": 4
   },
   "burnaby/woolwich-ave": {
     "name": "Woolwich Ave",
@@ -13752,6 +13752,20 @@
     "slug": "langley/258th-st",
     "city": "Langley",
     "lastIncident": "2026-07-05T22:56:00Z",
+    "count": 1
+  },
+  "richmond/nelson-road-ofrp": {
+    "name": "Nelson Road Ofrp",
+    "slug": "richmond/nelson-road-ofrp",
+    "city": "Richmond",
+    "lastIncident": "2026-07-06T05:54:00Z",
+    "count": 1
+  },
+  "chilliwack/cartmell-rd": {
+    "name": "Cartmell Rd",
+    "slug": "chilliwack/cartmell-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-07-06T05:29:00Z",
     "count": 1
   }
 }

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-06T04:02:00Z_vancouver/columbia-st_vancouver/w-3rd-ave",
+      "timestamp": "2026-07-06T04:02:00Z",
+      "address": "COLUMBIA ST & W 3RD AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/columbia-st",
+        "vancouver/w-3rd-ave"
+      ],
+      "streetNames": [
+        "Columbia St",
+        "W 3rd Ave"
+      ],
+      "pulsePointId": "2512554721"
+    },
+    {
       "id": "2026-05-28T22:46:00Z_vancouver/w-3rd-ave",
       "timestamp": "2026-05-28T22:46:00Z",
       "address": "W 3RD AVE",
@@ -32,6 +47,6 @@
       "pulsePointId": "2434010523"
     }
   ],
-  "lastIncident": "2026-05-28T22:46:00Z",
-  "count": 2
+  "lastIncident": "2026-07-06T04:02:00Z",
+  "count": 3
 }
