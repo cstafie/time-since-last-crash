@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-07-07T01:24:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-07-07T01:24:00Z",
+    "scrapedAt": "2026-07-07T01:44:38Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2513233118"
+  },
+  {
+    "id": "2026-07-06T23:56:00Z_vancouver/sw-marine-dr_vancouver/cambie-st",
+    "timestamp": "2026-07-06T23:56:00Z",
+    "scrapedAt": "2026-07-07T01:44:38Z",
+    "address": "SW MARINE DR & CAMBIE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/sw-marine-dr",
+      "vancouver/cambie-st"
+    ],
+    "streetNames": [
+      "Sw Marine Dr",
+      "Cambie St"
+    ],
+    "pulsePointId": "2513175656"
+  },
+  {
     "id": "2026-07-06T22:41:00Z_burnaby/moscrop-st_burnaby/boundary-rd",
     "timestamp": "2026-07-06T22:41:00Z",
     "scrapedAt": "2026-07-06T23:55:17Z",
