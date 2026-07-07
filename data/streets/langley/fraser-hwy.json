@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-07-07T04:54:00Z_langley/fraser-hwy_langley/48th-ave",
+      "timestamp": "2026-07-07T04:54:00Z",
+      "address": "FRASER HWY & 48TH AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/fraser-hwy",
+        "langley/48th-ave"
+      ],
+      "streetNames": [
+        "Fraser Hwy",
+        "48th Ave"
+      ],
+      "pulsePointId": "2513345686"
+    },
+    {
       "id": "2026-07-04T20:54:00Z_langley/fraser-hwy",
       "timestamp": "2026-07-04T20:54:00Z",
       "address": "FRASER HWY",
@@ -650,6 +665,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-04T20:54:00Z",
-  "count": 45
+  "lastIncident": "2026-07-07T04:54:00Z",
+  "count": 46
 }

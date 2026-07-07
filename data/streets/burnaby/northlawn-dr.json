@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/northlawn-dr",
+  "name": "Northlawn Dr",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-07-07T03:59:00Z_burnaby/northlawn-dr",
+      "timestamp": "2026-07-07T03:59:00Z",
+      "address": "NORTHLAWN DR",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/northlawn-dr"
+      ],
+      "streetNames": [
+        "Northlawn Dr"
+      ],
+      "pulsePointId": "2513320216"
+    }
+  ],
+  "lastIncident": "2026-07-07T03:59:00Z",
+  "count": 1
+}

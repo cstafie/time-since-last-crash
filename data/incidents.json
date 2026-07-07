@@ -1,5 +1,201 @@
 [
   {
+    "id": "2026-07-07T05:20:00Z_surrey/king-george-blvd_surrey/fraser-hwy",
+    "timestamp": "2026-07-07T05:20:00Z",
+    "scrapedAt": "2026-07-07T05:55:07Z",
+    "address": "KING GEORGE BLVD & FRASER HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/fraser-hwy"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2513355714"
+  },
+  {
+    "id": "2026-07-07T05:19:00Z_vancouver/burrard-st_vancouver/davie-st",
+    "timestamp": "2026-07-07T05:19:00Z",
+    "scrapedAt": "2026-07-07T05:55:07Z",
+    "address": "BURRARD ST & DAVIE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/burrard-st",
+      "vancouver/davie-st"
+    ],
+    "streetNames": [
+      "Burrard St",
+      "Davie St"
+    ],
+    "pulsePointId": "2513357084"
+  },
+  {
+    "id": "2026-07-07T04:57:00Z_surrey/north-bluff-rd_surrey/140th-st",
+    "timestamp": "2026-07-07T04:57:00Z",
+    "scrapedAt": "2026-07-07T05:55:07Z",
+    "address": "NORTH BLUFF RD & 140TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/north-bluff-rd",
+      "surrey/140th-st"
+    ],
+    "streetNames": [
+      "North Bluff Rd",
+      "140th St"
+    ],
+    "pulsePointId": "2513347198"
+  },
+  {
+    "id": "2026-07-07T04:54:00Z_langley/fraser-hwy_langley/48th-ave",
+    "timestamp": "2026-07-07T04:54:00Z",
+    "scrapedAt": "2026-07-07T05:55:07Z",
+    "address": "FRASER HWY & 48TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy",
+      "langley/48th-ave"
+    ],
+    "streetNames": [
+      "Fraser Hwy",
+      "48th Ave"
+    ],
+    "pulsePointId": "2513345686"
+  },
+  {
+    "id": "2026-07-07T04:49:00Z_langley/22611-fraser-hwy",
+    "timestamp": "2026-07-07T04:49:00Z",
+    "scrapedAt": "2026-07-07T05:55:07Z",
+    "address": "22611 FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/22611-fraser-hwy"
+    ],
+    "streetNames": [
+      "22611 Fraser Hwy"
+    ],
+    "pulsePointId": "2513343962"
+  },
+  {
+    "id": "2026-07-07T04:24:00Z_north-vancouver/lillooet-rd_north-vancouver/inter-river-park-rd",
+    "timestamp": "2026-07-07T04:24:00Z",
+    "scrapedAt": "2026-07-07T05:55:07Z",
+    "address": "LILLOOET RD & INTER RIVER PARK RD",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/lillooet-rd",
+      "north-vancouver/inter-river-park-rd"
+    ],
+    "streetNames": [
+      "Lillooet Rd",
+      "Inter River Park Rd"
+    ],
+    "pulsePointId": "2513331644"
+  },
+  {
+    "id": "2026-07-07T04:15:00Z_maple-ridge/cottonwood-dr",
+    "timestamp": "2026-07-07T04:15:00Z",
+    "scrapedAt": "2026-07-07T05:55:07Z",
+    "address": "COTTONWOOD DR",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/cottonwood-dr"
+    ],
+    "streetNames": [
+      "Cottonwood Dr"
+    ],
+    "pulsePointId": "2513327653"
+  },
+  {
+    "id": "2026-07-07T04:06:00Z_surrey/126th-st_surrey/88th-ave",
+    "timestamp": "2026-07-07T04:06:00Z",
+    "scrapedAt": "2026-07-07T05:55:07Z",
+    "address": "126TH ST & 88TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/126th-st",
+      "surrey/88th-ave"
+    ],
+    "streetNames": [
+      "126th St",
+      "88th Ave"
+    ],
+    "pulsePointId": "2513322739"
+  },
+  {
+    "id": "2026-07-07T03:59:00Z_burnaby/northlawn-dr",
+    "timestamp": "2026-07-07T03:59:00Z",
+    "scrapedAt": "2026-07-07T05:55:07Z",
+    "address": "NORTHLAWN DR",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/northlawn-dr"
+    ],
+    "streetNames": [
+      "Northlawn Dr"
+    ],
+    "pulsePointId": "2513320216"
+  },
+  {
+    "id": "2026-07-07T03:46:00Z_surrey/121st-st",
+    "timestamp": "2026-07-07T03:46:00Z",
+    "scrapedAt": "2026-07-07T05:55:07Z",
+    "address": "121ST ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/121st-st"
+    ],
+    "streetNames": [
+      "121st St"
+    ],
+    "pulsePointId": "2513312038"
+  },
+  {
+    "id": "2026-07-07T03:37:00Z_burnaby/4500-still-creek-dr",
+    "timestamp": "2026-07-07T03:37:00Z",
+    "scrapedAt": "2026-07-07T05:55:07Z",
+    "address": "4500 STILL CREEK DR",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/4500-still-creek-dr"
+    ],
+    "streetNames": [
+      "4500 Still Creek Dr"
+    ],
+    "pulsePointId": "2513308899"
+  },
+  {
+    "id": "2026-07-07T02:51:00Z_abbotsford/gladys-ave",
+    "timestamp": "2026-07-07T02:51:00Z",
+    "scrapedAt": "2026-07-07T05:55:07Z",
+    "address": "GLADYS AVE",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/gladys-ave"
+    ],
+    "streetNames": [
+      "Gladys Ave"
+    ],
+    "pulsePointId": "2513281557"
+  },
+  {
+    "id": "2026-07-07T01:50:00Z_richmond/no-5-rd_richmond/steveston-hwy",
+    "timestamp": "2026-07-07T01:50:00Z",
+    "scrapedAt": "2026-07-07T05:55:07Z",
+    "address": "NO 5 RD & STEVESTON HWY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/no-5-rd",
+      "richmond/steveston-hwy"
+    ],
+    "streetNames": [
+      "No 5 Rd",
+      "Steveston Hwy"
+    ],
+    "pulsePointId": "2513247368"
+  },
+  {
     "id": "2026-07-07T01:24:00Z_abbotsford/trans-canada-hwy",
     "timestamp": "2026-07-07T01:24:00Z",
     "scrapedAt": "2026-07-07T01:44:38Z",

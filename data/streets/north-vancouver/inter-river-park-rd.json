@@ -1,6 +1,6 @@
 {
-  "slug": "north-vancouver/lillooet-rd",
-  "name": "Lillooet Rd",
+  "slug": "north-vancouver/inter-river-park-rd",
+  "name": "Inter River Park Rd",
   "city": "North Vancouver",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Inter River Park Rd"
       ],
       "pulsePointId": "2513331644"
-    },
-    {
-      "id": "2026-04-28T18:49:00Z_north-vancouver/lillooet-rd_north-vancouver/monashee-dr",
-      "timestamp": "2026-04-28T18:49:00Z",
-      "address": "LILLOOET RD & MONASHEE DR",
-      "city": "North Vancouver",
-      "streets": [
-        "north-vancouver/lillooet-rd",
-        "north-vancouver/monashee-dr"
-      ],
-      "streetNames": [
-        "Lillooet Rd",
-        "Monashee Dr"
-      ],
-      "pulsePointId": "2463314185"
     }
   ],
   "lastIncident": "2026-07-07T04:24:00Z",
-  "count": 2
+  "count": 1
 }

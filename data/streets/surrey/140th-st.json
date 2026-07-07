@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-07T04:57:00Z_surrey/north-bluff-rd_surrey/140th-st",
+      "timestamp": "2026-07-07T04:57:00Z",
+      "address": "NORTH BLUFF RD & 140TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/north-bluff-rd",
+        "surrey/140th-st"
+      ],
+      "streetNames": [
+        "North Bluff Rd",
+        "140th St"
+      ],
+      "pulsePointId": "2513347198"
+    },
+    {
       "id": "2026-07-06T22:32:00Z_surrey/140th-st_surrey/79th-ave",
       "timestamp": "2026-07-06T22:32:00Z",
       "address": "140TH ST & 79TH AVE",
@@ -551,6 +566,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-06T22:32:00Z",
-  "count": 37
+  "lastIncident": "2026-07-07T04:57:00Z",
+  "count": 38
 }

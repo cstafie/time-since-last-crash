@@ -262,8 +262,8 @@
     "name": "Fraser Hwy",
     "slug": "langley/fraser-hwy",
     "city": "Langley",
-    "lastIncident": "2026-07-04T20:54:00Z",
-    "count": 45
+    "lastIncident": "2026-07-07T04:54:00Z",
+    "count": 46
   },
   "langley/trans-canada-hwy": {
     "name": "Trans Canada Hwy",
@@ -556,8 +556,8 @@
     "name": "140th St",
     "slug": "surrey/140th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-06T22:32:00Z",
-    "count": 37
+    "lastIncident": "2026-07-07T04:57:00Z",
+    "count": 38
   },
   "surrey/141a-st": {
     "name": "141a St",
@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-05T19:08:00Z",
-    "count": 39
+    "lastIncident": "2026-07-07T04:06:00Z",
+    "count": 40
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",
@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-07-04T00:36:00Z",
-    "count": 78
+    "lastIncident": "2026-07-07T05:20:00Z",
+    "count": 79
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -703,8 +703,8 @@
     "name": "Burrard St",
     "slug": "vancouver/burrard-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-30T16:04:00Z",
-    "count": 15
+    "lastIncident": "2026-07-07T05:19:00Z",
+    "count": 16
   },
   "vancouver/e-12th-ave": {
     "name": "E 12th Ave",
@@ -927,8 +927,8 @@
     "name": "Fraser Hwy",
     "slug": "surrey/fraser-hwy",
     "city": "Surrey",
-    "lastIncident": "2026-07-01T22:03:00Z",
-    "count": 21
+    "lastIncident": "2026-07-07T05:20:00Z",
+    "count": 22
   },
   "surrey/159th-st": {
     "name": "159th St",
@@ -1088,8 +1088,8 @@
     "name": "Steveston Hwy",
     "slug": "richmond/steveston-hwy",
     "city": "Richmond",
-    "lastIncident": "2026-07-04T17:34:00Z",
-    "count": 8
+    "lastIncident": "2026-07-07T01:50:00Z",
+    "count": 9
   },
   "langley/72nd-ave": {
     "name": "72nd Ave",
@@ -2096,8 +2096,8 @@
     "name": "126th St",
     "slug": "surrey/126th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-22T01:21:00Z",
-    "count": 12
+    "lastIncident": "2026-07-07T04:06:00Z",
+    "count": 13
   },
   "surrey/huntley-ave": {
     "name": "Huntley Ave",
@@ -2488,8 +2488,8 @@
     "name": "Davie St",
     "slug": "vancouver/davie-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-02T16:42:00Z",
-    "count": 8
+    "lastIncident": "2026-07-07T05:19:00Z",
+    "count": 9
   },
   "coquitlam/brunette-avenue-onrp": {
     "name": "Brunette Avenue Onrp",
@@ -2572,8 +2572,8 @@
     "name": "No 5 Rd",
     "slug": "richmond/no-5-rd",
     "city": "Richmond",
-    "lastIncident": "2026-07-01T01:24:00Z",
-    "count": 15
+    "lastIncident": "2026-07-07T01:50:00Z",
+    "count": 16
   },
   "port-moody/heritage-mountain-blvd": {
     "name": "Heritage Mountain Blvd",
@@ -3818,8 +3818,8 @@
     "name": "North Bluff Rd",
     "slug": "surrey/north-bluff-rd",
     "city": "Surrey",
-    "lastIncident": "2026-05-05T07:44:00Z",
-    "count": 4
+    "lastIncident": "2026-07-07T04:57:00Z",
+    "count": 5
   },
   "surrey/33rd-ave": {
     "name": "33rd Ave",
@@ -4749,8 +4749,8 @@
     "name": "Gladys Ave",
     "slug": "abbotsford/gladys-ave",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-03T03:04:00Z",
-    "count": 3
+    "lastIncident": "2026-07-07T02:51:00Z",
+    "count": 4
   },
   "vancouver/dunlevy-ave": {
     "name": "Dunlevy Ave",
@@ -7360,8 +7360,8 @@
     "name": "48th Ave",
     "slug": "langley/48th-ave",
     "city": "Langley",
-    "lastIncident": "2026-06-17T02:10:00Z",
-    "count": 4
+    "lastIncident": "2026-07-07T04:54:00Z",
+    "count": 5
   },
   "vancouver/cypress-st": {
     "name": "Cypress St",
@@ -7990,8 +7990,8 @@
     "name": "Lillooet Rd",
     "slug": "north-vancouver/lillooet-rd",
     "city": "North Vancouver",
-    "lastIncident": "2026-04-28T18:49:00Z",
-    "count": 1
+    "lastIncident": "2026-07-07T04:24:00Z",
+    "count": 2
   },
   "north-vancouver/monashee-dr": {
     "name": "Monashee Dr",
@@ -8634,8 +8634,8 @@
     "name": "Cottonwood Dr",
     "slug": "maple-ridge/cottonwood-dr",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-03T21:27:00Z",
-    "count": 1
+    "lastIncident": "2026-07-07T04:15:00Z",
+    "count": 2
   },
   "vancouver/highbury-st": {
     "name": "Highbury St",
@@ -9285,8 +9285,8 @@
     "name": "121st St",
     "slug": "surrey/121st-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-22T23:01:00Z",
-    "count": 2
+    "lastIncident": "2026-07-07T03:46:00Z",
+    "count": 3
   },
   "richmond/minoru-blvd": {
     "name": "Minoru Blvd",
@@ -13808,6 +13808,34 @@
     "slug": "coquitlam/marmont-st",
     "city": "Coquitlam",
     "lastIncident": "2026-07-06T22:25:00Z",
+    "count": 1
+  },
+  "langley/22611-fraser-hwy": {
+    "name": "22611 Fraser Hwy",
+    "slug": "langley/22611-fraser-hwy",
+    "city": "Langley",
+    "lastIncident": "2026-07-07T04:49:00Z",
+    "count": 1
+  },
+  "north-vancouver/inter-river-park-rd": {
+    "name": "Inter River Park Rd",
+    "slug": "north-vancouver/inter-river-park-rd",
+    "city": "North Vancouver",
+    "lastIncident": "2026-07-07T04:24:00Z",
+    "count": 1
+  },
+  "burnaby/northlawn-dr": {
+    "name": "Northlawn Dr",
+    "slug": "burnaby/northlawn-dr",
+    "city": "Burnaby",
+    "lastIncident": "2026-07-07T03:59:00Z",
+    "count": 1
+  },
+  "burnaby/4500-still-creek-dr": {
+    "name": "4500 Still Creek Dr",
+    "slug": "burnaby/4500-still-creek-dr",
+    "city": "Burnaby",
+    "lastIncident": "2026-07-07T03:37:00Z",
     "count": 1
   }
 }

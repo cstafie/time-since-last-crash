@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-07T05:20:00Z_surrey/king-george-blvd_surrey/fraser-hwy",
+      "timestamp": "2026-07-07T05:20:00Z",
+      "address": "KING GEORGE BLVD & FRASER HWY",
+      "city": "Surrey",
+      "streets": [
+        "surrey/king-george-blvd",
+        "surrey/fraser-hwy"
+      ],
+      "streetNames": [
+        "King George Blvd",
+        "Fraser Hwy"
+      ],
+      "pulsePointId": "2513355714"
+    },
+    {
       "id": "2026-07-01T22:03:00Z_surrey/140th-st_surrey/fraser-hwy",
       "timestamp": "2026-07-01T22:03:00Z",
       "address": "140TH ST & FRASER HWY",
@@ -312,6 +327,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-01T22:03:00Z",
-  "count": 21
+  "lastIncident": "2026-07-07T05:20:00Z",
+  "count": 22
 }
