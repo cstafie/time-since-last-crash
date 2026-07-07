@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-07T21:50:00Z_vancouver/knight-st_vancouver/e-37th-ave",
+      "timestamp": "2026-07-07T21:50:00Z",
+      "address": "KNIGHT ST & E 37TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/knight-st",
+        "vancouver/e-37th-ave"
+      ],
+      "streetNames": [
+        "Knight St",
+        "E 37th Ave"
+      ],
+      "pulsePointId": "2513832868"
+    },
+    {
       "id": "2026-06-21T16:18:00Z_vancouver/knight-st_vancouver/e-19th-ave",
       "timestamp": "2026-06-21T16:18:00Z",
       "address": "KNIGHT ST & E 19TH AVE",
@@ -477,6 +492,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-21T16:18:00Z",
-  "count": 32
+  "lastIncident": "2026-07-07T21:50:00Z",
+  "count": 33
 }

@@ -1,0 +1,24 @@
+{
+  "slug": "port-coquitlam/maple-st",
+  "name": "Maple St",
+  "city": "Port Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-07-07T21:22:00Z_port-coquitlam/mcallister-ave_port-coquitlam/maple-st",
+      "timestamp": "2026-07-07T21:22:00Z",
+      "address": "MCALLISTER AVE & MAPLE ST",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/mcallister-ave",
+        "port-coquitlam/maple-st"
+      ],
+      "streetNames": [
+        "Mcallister Ave",
+        "Maple St"
+      ],
+      "pulsePointId": "2513813533"
+    }
+  ],
+  "lastIncident": "2026-07-07T21:22:00Z",
+  "count": 1
+}

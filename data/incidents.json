@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-07-07T21:50:00Z_vancouver/knight-st_vancouver/e-37th-ave",
+    "timestamp": "2026-07-07T21:50:00Z",
+    "scrapedAt": "2026-07-07T22:48:41Z",
+    "address": "KNIGHT ST & E 37TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/knight-st",
+      "vancouver/e-37th-ave"
+    ],
+    "streetNames": [
+      "Knight St",
+      "E 37th Ave"
+    ],
+    "pulsePointId": "2513832868"
+  },
+  {
+    "id": "2026-07-07T21:22:00Z_port-coquitlam/mcallister-ave_port-coquitlam/maple-st",
+    "timestamp": "2026-07-07T21:22:00Z",
+    "scrapedAt": "2026-07-07T22:48:41Z",
+    "address": "MCALLISTER AVE & MAPLE ST",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/mcallister-ave",
+      "port-coquitlam/maple-st"
+    ],
+    "streetNames": [
+      "Mcallister Ave",
+      "Maple St"
+    ],
+    "pulsePointId": "2513813533"
+  },
+  {
+    "id": "2026-07-07T20:48:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-07-07T20:48:00Z",
+    "scrapedAt": "2026-07-07T22:48:41Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2513787509"
+  },
+  {
+    "id": "2026-07-07T20:37:00Z_maple-ridge/224th-st",
+    "timestamp": "2026-07-07T20:37:00Z",
+    "scrapedAt": "2026-07-07T22:48:41Z",
+    "address": "224TH ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/224th-st"
+    ],
+    "streetNames": [
+      "224th St"
+    ],
+    "pulsePointId": "2513777967"
+  },
+  {
     "id": "2026-07-07T20:18:00Z_langley/200th-st_langley/36th-ave",
     "timestamp": "2026-07-07T20:18:00Z",
     "scrapedAt": "2026-07-07T20:22:34Z",

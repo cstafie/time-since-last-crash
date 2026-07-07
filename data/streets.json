@@ -752,8 +752,8 @@
     "name": "Knight St",
     "slug": "vancouver/knight-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-21T16:18:00Z",
-    "count": 32
+    "lastIncident": "2026-07-07T21:50:00Z",
+    "count": 33
   },
   "vancouver/lower-mall": {
     "name": "Lower Mall",
@@ -997,8 +997,8 @@
     "name": "E 37th Ave",
     "slug": "vancouver/e-37th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-05T06:01:00Z",
-    "count": 2
+    "lastIncident": "2026-07-07T21:50:00Z",
+    "count": 3
   },
   "vancouver/prince-albert-st": {
     "name": "Prince Albert St",
@@ -1949,8 +1949,8 @@
     "name": "Trans Canada Hwy",
     "slug": "abbotsford/trans-canada-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-07T01:24:00Z",
-    "count": 48
+    "lastIncident": "2026-07-07T20:48:00Z",
+    "count": 49
   },
   "vancouver/w-16th-ave": {
     "name": "W 16th Ave",
@@ -4637,8 +4637,8 @@
     "name": "224th St",
     "slug": "maple-ridge/224th-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-06-11T18:07:00Z",
-    "count": 6
+    "lastIncident": "2026-07-07T20:37:00Z",
+    "count": 7
   },
   "maple-ridge/124th-ave": {
     "name": "124th Ave",
@@ -13836,6 +13836,20 @@
     "slug": "burnaby/4500-still-creek-dr",
     "city": "Burnaby",
     "lastIncident": "2026-07-07T03:37:00Z",
+    "count": 1
+  },
+  "port-coquitlam/mcallister-ave": {
+    "name": "Mcallister Ave",
+    "slug": "port-coquitlam/mcallister-ave",
+    "city": "Port Coquitlam",
+    "lastIncident": "2026-07-07T21:22:00Z",
+    "count": 1
+  },
+  "port-coquitlam/maple-st": {
+    "name": "Maple St",
+    "slug": "port-coquitlam/maple-st",
+    "city": "Port Coquitlam",
+    "lastIncident": "2026-07-07T21:22:00Z",
     "count": 1
   }
 }
