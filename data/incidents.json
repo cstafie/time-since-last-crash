@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-07-07T20:18:00Z_langley/200th-st_langley/36th-ave",
+    "timestamp": "2026-07-07T20:18:00Z",
+    "scrapedAt": "2026-07-07T20:22:34Z",
+    "address": "200TH ST & 36TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/200th-st",
+      "langley/36th-ave"
+    ],
+    "streetNames": [
+      "200th St",
+      "36th Ave"
+    ],
+    "pulsePointId": "2513764759"
+  },
+  {
+    "id": "2026-07-07T20:13:00Z_langley/32nd-ave_langley/200th-st",
+    "timestamp": "2026-07-07T20:13:00Z",
+    "scrapedAt": "2026-07-07T20:22:34Z",
+    "address": "32ND AVE & 200TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/32nd-ave",
+      "langley/200th-st"
+    ],
+    "streetNames": [
+      "32nd Ave",
+      "200th St"
+    ],
+    "pulsePointId": "2513761002"
+  },
+  {
+    "id": "2026-07-07T19:08:00Z_vancouver/se-marine-dr",
+    "timestamp": "2026-07-07T19:08:00Z",
+    "scrapedAt": "2026-07-07T20:22:34Z",
+    "address": "SE MARINE DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/se-marine-dr"
+    ],
+    "streetNames": [
+      "Se Marine Dr"
+    ],
+    "pulsePointId": "2513714486"
+  },
+  {
+    "id": "2026-07-07T17:25:00Z_vancouver/clark-dr",
+    "timestamp": "2026-07-07T17:25:00Z",
+    "scrapedAt": "2026-07-07T20:22:34Z",
+    "address": "CLARK DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/clark-dr"
+    ],
+    "streetNames": [
+      "Clark Dr"
+    ],
+    "pulsePointId": "2513640999"
+  },
+  {
     "id": "2026-07-07T09:55:00Z_surrey/16th-ave_surrey/176th-st",
     "timestamp": "2026-07-07T09:55:00Z",
     "scrapedAt": "2026-07-07T11:49:32Z",
