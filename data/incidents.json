@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-07-07T23:25:00Z_vancouver/e-hastings-st_vancouver/semlin-dr",
+    "timestamp": "2026-07-07T23:25:00Z",
+    "scrapedAt": "2026-07-07T23:43:08Z",
+    "address": "E HASTINGS ST & SEMLIN DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-hastings-st",
+      "vancouver/semlin-dr"
+    ],
+    "streetNames": [
+      "E Hastings St",
+      "Semlin Dr"
+    ],
+    "pulsePointId": "2513904888"
+  },
+  {
+    "id": "2026-07-07T22:53:00Z_abbotsford/28326-fraser-hwy",
+    "timestamp": "2026-07-07T22:53:00Z",
+    "scrapedAt": "2026-07-07T23:43:08Z",
+    "address": "28326 FRASER HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/28326-fraser-hwy"
+    ],
+    "streetNames": [
+      "28326 Fraser Hwy"
+    ],
+    "pulsePointId": "2513881100"
+  },
+  {
+    "id": "2026-07-07T22:50:00Z_langley/19811-fraser-hwy",
+    "timestamp": "2026-07-07T22:50:00Z",
+    "scrapedAt": "2026-07-07T23:43:08Z",
+    "address": "19811 FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/19811-fraser-hwy"
+    ],
+    "streetNames": [
+      "19811 Fraser Hwy"
+    ],
+    "pulsePointId": "2513879122"
+  },
+  {
     "id": "2026-07-07T21:50:00Z_vancouver/knight-st_vancouver/e-37th-ave",
     "timestamp": "2026-07-07T21:50:00Z",
     "scrapedAt": "2026-07-07T22:48:41Z",

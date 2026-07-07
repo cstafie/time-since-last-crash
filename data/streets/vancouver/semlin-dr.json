@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/semlin-dr",
+  "name": "Semlin Dr",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-07-07T23:25:00Z_vancouver/e-hastings-st_vancouver/semlin-dr",
+      "timestamp": "2026-07-07T23:25:00Z",
+      "address": "E HASTINGS ST & SEMLIN DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-hastings-st",
+        "vancouver/semlin-dr"
+      ],
+      "streetNames": [
+        "E Hastings St",
+        "Semlin Dr"
+      ],
+      "pulsePointId": "2513904888"
+    }
+  ],
+  "lastIncident": "2026-07-07T23:25:00Z",
+  "count": 1
+}

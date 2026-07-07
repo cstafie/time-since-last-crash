@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-07T23:25:00Z_vancouver/e-hastings-st_vancouver/semlin-dr",
+      "timestamp": "2026-07-07T23:25:00Z",
+      "address": "E HASTINGS ST & SEMLIN DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-hastings-st",
+        "vancouver/semlin-dr"
+      ],
+      "streetNames": [
+        "E Hastings St",
+        "Semlin Dr"
+      ],
+      "pulsePointId": "2513904888"
+    },
+    {
       "id": "2026-07-05T23:00:00Z_vancouver/carrall-st_vancouver/e-hastings-st",
       "timestamp": "2026-07-05T23:00:00Z",
       "address": "CARRALL ST & E HASTINGS ST",
@@ -567,6 +582,6 @@
       "pulsePointId": "2433305056"
     }
   ],
-  "lastIncident": "2026-07-05T23:00:00Z",
-  "count": 39
+  "lastIncident": "2026-07-07T23:25:00Z",
+  "count": 40
 }

@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/28326-fraser-hwy",
+  "name": "28326 Fraser Hwy",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-07-07T22:53:00Z_abbotsford/28326-fraser-hwy",
+      "timestamp": "2026-07-07T22:53:00Z",
+      "address": "28326 FRASER HWY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/28326-fraser-hwy"
+      ],
+      "streetNames": [
+        "28326 Fraser Hwy"
+      ],
+      "pulsePointId": "2513881100"
+    }
+  ],
+  "lastIncident": "2026-07-07T22:53:00Z",
+  "count": 1
+}
