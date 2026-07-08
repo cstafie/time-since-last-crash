@@ -4,6 +4,32 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-08T02:29:00Z_richmond/hwy-99",
+      "timestamp": "2026-07-08T02:29:00Z",
+      "address": "HWY 99",
+      "city": "Richmond",
+      "streets": [
+        "richmond/hwy-99"
+      ],
+      "streetNames": [
+        "Hwy 99"
+      ],
+      "pulsePointId": "2514027498"
+    },
+    {
+      "id": "2026-07-08T02:20:00Z_richmond/hwy-99",
+      "timestamp": "2026-07-08T02:20:00Z",
+      "address": "HWY 99",
+      "city": "Richmond",
+      "streets": [
+        "richmond/hwy-99"
+      ],
+      "streetNames": [
+        "Hwy 99"
+      ],
+      "pulsePointId": "2514021106"
+    },
+    {
       "id": "2026-06-25T23:39:00Z_richmond/sea-island-way-onrp_richmond/hwy-99",
       "timestamp": "2026-06-25T23:39:00Z",
       "address": "SEA ISLAND WAY ONRP & HWY 99",
@@ -96,6 +122,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-25T23:39:00Z",
-  "count": 7
+  "lastIncident": "2026-07-08T02:29:00Z",
+  "count": 9
 }

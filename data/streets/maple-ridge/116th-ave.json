@@ -4,6 +4,19 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-07-08T02:09:00Z_maple-ridge/116th-ave",
+      "timestamp": "2026-07-08T02:09:00Z",
+      "address": "116TH AVE",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/116th-ave"
+      ],
+      "streetNames": [
+        "116th Ave"
+      ],
+      "pulsePointId": "2514015043"
+    },
+    {
       "id": "2026-03-20T21:25:00Z_maple-ridge/116th-ave",
       "timestamp": "2026-03-20T21:25:00Z",
       "address": "116TH AVE",
@@ -17,6 +30,6 @@
       "pulsePointId": "2438097951"
     }
   ],
-  "lastIncident": "2026-03-20T21:25:00Z",
-  "count": 1
+  "lastIncident": "2026-07-08T02:09:00Z",
+  "count": 2
 }

@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-08T01:12:00Z_richmond/shell-rd_richmond/westminster-hwy",
+      "timestamp": "2026-07-08T01:12:00Z",
+      "address": "SHELL RD & WESTMINSTER HWY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/shell-rd",
+        "richmond/westminster-hwy"
+      ],
+      "streetNames": [
+        "Shell Rd",
+        "Westminster Hwy"
+      ],
+      "pulsePointId": "2513985750"
+    },
+    {
       "id": "2026-06-27T18:26:00Z_richmond/bridgeport-rd_richmond/shell-rd",
       "timestamp": "2026-06-27T18:26:00Z",
       "address": "BRIDGEPORT RD & SHELL RD",
@@ -121,6 +136,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-27T18:26:00Z",
-  "count": 8
+  "lastIncident": "2026-07-08T01:12:00Z",
+  "count": 9
 }

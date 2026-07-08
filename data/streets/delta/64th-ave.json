@@ -4,6 +4,21 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-07-08T03:31:00Z_delta/64th-ave_delta/summit-cres",
+      "timestamp": "2026-07-08T03:31:00Z",
+      "address": "64TH AVE & SUMMIT CRES",
+      "city": "Delta",
+      "streets": [
+        "delta/64th-ave",
+        "delta/summit-cres"
+      ],
+      "streetNames": [
+        "64th Ave",
+        "Summit Cres"
+      ],
+      "pulsePointId": "2514059436"
+    },
+    {
       "id": "2026-06-30T16:30:00Z_delta/64th-ave_delta/120th-st",
       "timestamp": "2026-06-30T16:30:00Z",
       "address": "64TH AVE & 120TH ST",
@@ -104,6 +119,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-30T16:30:00Z",
-  "count": 7
+  "lastIncident": "2026-07-08T03:31:00Z",
+  "count": 8
 }

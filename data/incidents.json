@@ -1,5 +1,111 @@
 [
   {
+    "id": "2026-07-08T04:12:00Z_vancouver/boundary-rd_vancouver/normandy-dr",
+    "timestamp": "2026-07-08T04:12:00Z",
+    "scrapedAt": "2026-07-08T04:38:33Z",
+    "address": "BOUNDARY RD & NORMANDY DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/boundary-rd",
+      "vancouver/normandy-dr"
+    ],
+    "streetNames": [
+      "Boundary Rd",
+      "Normandy Dr"
+    ],
+    "pulsePointId": "2514080226"
+  },
+  {
+    "id": "2026-07-08T03:31:00Z_delta/64th-ave_delta/summit-cres",
+    "timestamp": "2026-07-08T03:31:00Z",
+    "scrapedAt": "2026-07-08T04:38:33Z",
+    "address": "64TH AVE & SUMMIT CRES",
+    "city": "Delta",
+    "streets": [
+      "delta/64th-ave",
+      "delta/summit-cres"
+    ],
+    "streetNames": [
+      "64th Ave",
+      "Summit Cres"
+    ],
+    "pulsePointId": "2514059436"
+  },
+  {
+    "id": "2026-07-08T02:29:00Z_richmond/hwy-99",
+    "timestamp": "2026-07-08T02:29:00Z",
+    "scrapedAt": "2026-07-08T04:38:33Z",
+    "address": "HWY 99",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2514027498"
+  },
+  {
+    "id": "2026-07-08T02:20:00Z_richmond/hwy-99",
+    "timestamp": "2026-07-08T02:20:00Z",
+    "scrapedAt": "2026-07-08T04:38:33Z",
+    "address": "HWY 99",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2514021106"
+  },
+  {
+    "id": "2026-07-08T02:09:00Z_maple-ridge/116th-ave",
+    "timestamp": "2026-07-08T02:09:00Z",
+    "scrapedAt": "2026-07-08T04:38:33Z",
+    "address": "116TH AVE",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/116th-ave"
+    ],
+    "streetNames": [
+      "116th Ave"
+    ],
+    "pulsePointId": "2514015043"
+  },
+  {
+    "id": "2026-07-08T02:01:00Z_abbotsford/townshipline-rd_abbotsford/gladwin-rd",
+    "timestamp": "2026-07-08T02:01:00Z",
+    "scrapedAt": "2026-07-08T04:38:33Z",
+    "address": "TOWNSHIPLINE RD & GLADWIN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/townshipline-rd",
+      "abbotsford/gladwin-rd"
+    ],
+    "streetNames": [
+      "Townshipline Rd",
+      "Gladwin Rd"
+    ],
+    "pulsePointId": "2514010704"
+  },
+  {
+    "id": "2026-07-08T01:12:00Z_richmond/shell-rd_richmond/westminster-hwy",
+    "timestamp": "2026-07-08T01:12:00Z",
+    "scrapedAt": "2026-07-08T04:38:33Z",
+    "address": "SHELL RD & WESTMINSTER HWY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/shell-rd",
+      "richmond/westminster-hwy"
+    ],
+    "streetNames": [
+      "Shell Rd",
+      "Westminster Hwy"
+    ],
+    "pulsePointId": "2513985750"
+  },
+  {
     "id": "2026-07-08T01:04:00Z_maple-ridge/207th-st_maple-ridge/camwood-ave",
     "timestamp": "2026-07-08T01:04:00Z",
     "scrapedAt": "2026-07-08T01:18:03Z",

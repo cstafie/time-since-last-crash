@@ -1,0 +1,24 @@
+{
+  "slug": "delta/summit-cres",
+  "name": "Summit Cres",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-07-08T03:31:00Z_delta/64th-ave_delta/summit-cres",
+      "timestamp": "2026-07-08T03:31:00Z",
+      "address": "64TH AVE & SUMMIT CRES",
+      "city": "Delta",
+      "streets": [
+        "delta/64th-ave",
+        "delta/summit-cres"
+      ],
+      "streetNames": [
+        "64th Ave",
+        "Summit Cres"
+      ],
+      "pulsePointId": "2514059436"
+    }
+  ],
+  "lastIncident": "2026-07-08T03:31:00Z",
+  "count": 1
+}

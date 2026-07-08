@@ -955,8 +955,8 @@
     "name": "Shell Rd",
     "slug": "richmond/shell-rd",
     "city": "Richmond",
-    "lastIncident": "2026-06-27T18:26:00Z",
-    "count": 8
+    "lastIncident": "2026-07-08T01:12:00Z",
+    "count": 9
   },
   "surrey/152nd-street-ofrp": {
     "name": "152nd Street Ofrp",
@@ -990,8 +990,8 @@
     "name": "Westminster Hwy",
     "slug": "richmond/westminster-hwy",
     "city": "Richmond",
-    "lastIncident": "2026-06-20T00:47:00Z",
-    "count": 24
+    "lastIncident": "2026-07-08T01:12:00Z",
+    "count": 25
   },
   "vancouver/e-37th-ave": {
     "name": "E 37th Ave",
@@ -1263,8 +1263,8 @@
     "name": "Boundary Rd",
     "slug": "vancouver/boundary-rd",
     "city": "Vancouver",
-    "lastIncident": "2026-07-05T07:30:00Z",
-    "count": 23
+    "lastIncident": "2026-07-08T04:12:00Z",
+    "count": 24
   },
   "surrey/langley-bps": {
     "name": "Langley Bps",
@@ -1396,8 +1396,8 @@
     "name": "Hwy 99",
     "slug": "richmond/hwy-99",
     "city": "Richmond",
-    "lastIncident": "2026-06-25T23:39:00Z",
-    "count": 7
+    "lastIncident": "2026-07-08T02:29:00Z",
+    "count": 9
   },
   "port-moody/barnet-hwy": {
     "name": "Barnet Hwy",
@@ -1410,8 +1410,8 @@
     "name": "64th Ave",
     "slug": "delta/64th-ave",
     "city": "Delta",
-    "lastIncident": "2026-06-30T16:30:00Z",
-    "count": 7
+    "lastIncident": "2026-07-08T03:31:00Z",
+    "count": 8
   },
   "new-westminster/6th-st": {
     "name": "6th St",
@@ -3307,8 +3307,8 @@
     "name": "116th Ave",
     "slug": "maple-ridge/116th-ave",
     "city": "Maple Ridge",
-    "lastIncident": "2026-03-20T21:25:00Z",
-    "count": 1
+    "lastIncident": "2026-07-08T02:09:00Z",
+    "count": 2
   },
   "richmond/alderbridge-way": {
     "name": "Alderbridge Way",
@@ -3804,8 +3804,8 @@
     "name": "Townshipline Rd",
     "slug": "abbotsford/townshipline-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-29T01:46:00Z",
-    "count": 4
+    "lastIncident": "2026-07-08T02:01:00Z",
+    "count": 5
   },
   "chilliwack/industrial-way": {
     "name": "Industrial Way",
@@ -5232,8 +5232,8 @@
     "name": "Gladwin Rd",
     "slug": "abbotsford/gladwin-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-05T06:50:00Z",
-    "count": 15
+    "lastIncident": "2026-07-08T02:01:00Z",
+    "count": 16
   },
   "surrey/old-yale-rd": {
     "name": "Old Yale Rd",
@@ -9404,8 +9404,8 @@
     "name": "Normandy Dr",
     "slug": "vancouver/normandy-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-05-13T19:04:00Z",
-    "count": 2
+    "lastIncident": "2026-07-08T04:12:00Z",
+    "count": 3
   },
   "burnaby/station-st": {
     "name": "Station St",
@@ -13871,6 +13871,13 @@
     "slug": "burnaby/laurel-st",
     "city": "Burnaby",
     "lastIncident": "2026-07-08T00:52:00Z",
+    "count": 1
+  },
+  "delta/summit-cres": {
+    "name": "Summit Cres",
+    "slug": "delta/summit-cres",
+    "city": "Delta",
+    "lastIncident": "2026-07-08T03:31:00Z",
     "count": 1
   }
 }
