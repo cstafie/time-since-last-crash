@@ -1,5 +1,63 @@
 [
   {
+    "id": "2026-07-08T20:51:00Z_surrey/72nd-ave",
+    "timestamp": "2026-07-08T20:51:00Z",
+    "scrapedAt": "2026-07-08T21:35:50Z",
+    "address": "72ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/72nd-ave"
+    ],
+    "streetNames": [
+      "72nd Ave"
+    ],
+    "pulsePointId": "2514552997"
+  },
+  {
+    "id": "2026-07-08T20:45:00Z_richmond/dyke-rd",
+    "timestamp": "2026-07-08T20:45:00Z",
+    "scrapedAt": "2026-07-08T21:35:50Z",
+    "address": "DYKE RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/dyke-rd"
+    ],
+    "streetNames": [
+      "Dyke Rd"
+    ],
+    "pulsePointId": "2514546953"
+  },
+  {
+    "id": "2026-07-08T20:38:00Z_vancouver/w-64th-ave_vancouver/oak-st",
+    "timestamp": "2026-07-08T20:38:00Z",
+    "scrapedAt": "2026-07-08T21:35:50Z",
+    "address": "W 64TH AVE & OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-64th-ave",
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "W 64th Ave",
+      "Oak St"
+    ],
+    "pulsePointId": "2514541374"
+  },
+  {
+    "id": "2026-07-08T20:34:00Z_richmond/knight-street-onrp",
+    "timestamp": "2026-07-08T20:34:00Z",
+    "scrapedAt": "2026-07-08T21:35:50Z",
+    "address": "KNIGHT STREET ONRP",
+    "city": "Richmond",
+    "streets": [
+      "richmond/knight-street-onrp"
+    ],
+    "streetNames": [
+      "Knight Street Onrp"
+    ],
+    "pulsePointId": "2514539843"
+  },
+  {
     "id": "2026-07-08T17:13:00Z_coquitlam/clarke-rd_coquitlam/chapman-ave",
     "timestamp": "2026-07-08T17:13:00Z",
     "scrapedAt": "2026-07-08T18:51:37Z",

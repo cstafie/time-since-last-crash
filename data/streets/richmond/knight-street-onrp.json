@@ -4,6 +4,19 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-08T20:34:00Z_richmond/knight-street-onrp",
+      "timestamp": "2026-07-08T20:34:00Z",
+      "address": "KNIGHT STREET ONRP",
+      "city": "Richmond",
+      "streets": [
+        "richmond/knight-street-onrp"
+      ],
+      "streetNames": [
+        "Knight Street Onrp"
+      ],
+      "pulsePointId": "2514539843"
+    },
+    {
       "id": "2026-06-20T00:00:00Z_richmond/hwy-91_richmond/knight-street-onrp",
       "timestamp": "2026-06-20T00:00:00Z",
       "address": "HWY 91 & KNIGHT STREET ONRP",
@@ -60,6 +73,6 @@
       "pulsePointId": "2492587187"
     }
   ],
-  "lastIncident": "2026-06-20T00:00:00Z",
-  "count": 4
+  "lastIncident": "2026-07-08T20:34:00Z",
+  "count": 5
 }

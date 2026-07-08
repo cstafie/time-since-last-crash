@@ -766,8 +766,8 @@
     "name": "Oak St",
     "slug": "vancouver/oak-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-30T20:30:00Z",
-    "count": 43
+    "lastIncident": "2026-07-08T20:38:00Z",
+    "count": 44
   },
   "vancouver/w-12th-ave": {
     "name": "W 12th Ave",
@@ -4427,8 +4427,8 @@
     "name": "W 64th Ave",
     "slug": "vancouver/w-64th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-05T09:42:00Z",
-    "count": 10
+    "lastIncident": "2026-07-08T20:38:00Z",
+    "count": 11
   },
   "langley/210th-st": {
     "name": "210th St",
@@ -4518,8 +4518,8 @@
     "name": "72nd Ave",
     "slug": "surrey/72nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-03T05:36:00Z",
-    "count": 21
+    "lastIncident": "2026-07-08T20:51:00Z",
+    "count": 22
   },
   "abbotsford/laurel-st": {
     "name": "Laurel St",
@@ -11826,8 +11826,8 @@
     "name": "Knight Street Onrp",
     "slug": "richmond/knight-street-onrp",
     "city": "Richmond",
-    "lastIncident": "2026-06-20T00:00:00Z",
-    "count": 4
+    "lastIncident": "2026-07-08T20:34:00Z",
+    "count": 5
   },
   "abbotsford/whatcom-road-ofrp": {
     "name": "Whatcom Road Ofrp",
@@ -13885,6 +13885,13 @@
     "slug": "coquitlam/chapman-ave",
     "city": "Coquitlam",
     "lastIncident": "2026-07-08T17:13:00Z",
+    "count": 1
+  },
+  "richmond/dyke-rd": {
+    "name": "Dyke Rd",
+    "slug": "richmond/dyke-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-07-08T20:45:00Z",
     "count": 1
   }
 }
