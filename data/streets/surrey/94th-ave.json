@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-08T23:33:00Z_surrey/94th-ave_surrey/192nd-st",
+      "timestamp": "2026-07-08T23:33:00Z",
+      "address": "94TH AVE & 192ND ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/94th-ave",
+        "surrey/192nd-st"
+      ],
+      "streetNames": [
+        "94th Ave",
+        "192nd St"
+      ],
+      "pulsePointId": "2514665211"
+    },
+    {
       "id": "2026-06-17T22:08:00Z_surrey/192nd-st_surrey/94th-ave",
       "timestamp": "2026-06-17T22:08:00Z",
       "address": "192ND ST & 94TH AVE",
@@ -49,6 +64,6 @@
       "pulsePointId": "2445812475"
     }
   ],
-  "lastIncident": "2026-06-17T22:08:00Z",
-  "count": 3
+  "lastIncident": "2026-07-08T23:33:00Z",
+  "count": 4
 }

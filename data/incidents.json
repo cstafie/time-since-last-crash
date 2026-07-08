@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-07-08T23:33:00Z_surrey/94th-ave_surrey/192nd-st",
+    "timestamp": "2026-07-08T23:33:00Z",
+    "scrapedAt": "2026-07-08T23:56:36Z",
+    "address": "94TH AVE & 192ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/94th-ave",
+      "surrey/192nd-st"
+    ],
+    "streetNames": [
+      "94th Ave",
+      "192nd St"
+    ],
+    "pulsePointId": "2514665211"
+  },
+  {
+    "id": "2026-07-08T23:01:00Z_chilliwack/yale-rd",
+    "timestamp": "2026-07-08T23:01:00Z",
+    "scrapedAt": "2026-07-08T23:56:36Z",
+    "address": "YALE RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/yale-rd"
+    ],
+    "streetNames": [
+      "Yale Rd"
+    ],
+    "pulsePointId": "2514643061"
+  },
+  {
     "id": "2026-07-08T22:48:00Z_abbotsford/mt-lehman-rd_abbotsford/cardinal-ave",
     "timestamp": "2026-07-08T22:48:00Z",
     "scrapedAt": "2026-07-08T22:52:18Z",

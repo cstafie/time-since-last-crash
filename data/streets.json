@@ -1382,8 +1382,8 @@
     "name": "192nd St",
     "slug": "surrey/192nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-04T11:09:00Z",
-    "count": 15
+    "lastIncident": "2026-07-08T23:33:00Z",
+    "count": 16
   },
   "surrey/66a-ave": {
     "name": "66a Ave",
@@ -2880,8 +2880,8 @@
     "name": "Yale Rd",
     "slug": "chilliwack/yale-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-07-05T02:08:00Z",
-    "count": 21
+    "lastIncident": "2026-07-08T23:01:00Z",
+    "count": 22
   },
   "vancouver/e-61st-ave": {
     "name": "E 61st Ave",
@@ -4840,8 +4840,8 @@
     "name": "94th Ave",
     "slug": "surrey/94th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-17T22:08:00Z",
-    "count": 3
+    "lastIncident": "2026-07-08T23:33:00Z",
+    "count": 4
   },
   "richmond/heather-st": {
     "name": "Heather St",
