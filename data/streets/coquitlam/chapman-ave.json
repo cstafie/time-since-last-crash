@@ -1,0 +1,24 @@
+{
+  "slug": "coquitlam/chapman-ave",
+  "name": "Chapman Ave",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-07-08T17:13:00Z_coquitlam/clarke-rd_coquitlam/chapman-ave",
+      "timestamp": "2026-07-08T17:13:00Z",
+      "address": "CLARKE RD & CHAPMAN AVE",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/clarke-rd",
+        "coquitlam/chapman-ave"
+      ],
+      "streetNames": [
+        "Clarke Rd",
+        "Chapman Ave"
+      ],
+      "pulsePointId": "2514388864"
+    }
+  ],
+  "lastIncident": "2026-07-08T17:13:00Z",
+  "count": 1
+}

@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-07-08T17:13:00Z_coquitlam/clarke-rd_coquitlam/chapman-ave",
+      "timestamp": "2026-07-08T17:13:00Z",
+      "address": "CLARKE RD & CHAPMAN AVE",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/clarke-rd",
+        "coquitlam/chapman-ave"
+      ],
+      "streetNames": [
+        "Clarke Rd",
+        "Chapman Ave"
+      ],
+      "pulsePointId": "2514388864"
+    },
+    {
       "id": "2026-06-30T15:24:00Z_coquitlam/clarke-rd_coquitlam/smith-ave",
       "timestamp": "2026-06-30T15:24:00Z",
       "address": "CLARKE RD & SMITH AVE",
@@ -49,6 +64,6 @@
       "pulsePointId": "2444715548"
     }
   ],
-  "lastIncident": "2026-06-30T15:24:00Z",
-  "count": 3
+  "lastIncident": "2026-07-08T17:13:00Z",
+  "count": 4
 }

@@ -4567,8 +4567,8 @@
     "name": "Clarke Rd",
     "slug": "coquitlam/clarke-rd",
     "city": "Coquitlam",
-    "lastIncident": "2026-06-30T15:24:00Z",
-    "count": 3
+    "lastIncident": "2026-07-08T17:13:00Z",
+    "count": 4
   },
   "coquitlam/smith-ave": {
     "name": "Smith Ave",
@@ -13878,6 +13878,13 @@
     "slug": "delta/summit-cres",
     "city": "Delta",
     "lastIncident": "2026-07-08T03:31:00Z",
+    "count": 1
+  },
+  "coquitlam/chapman-ave": {
+    "name": "Chapman Ave",
+    "slug": "coquitlam/chapman-ave",
+    "city": "Coquitlam",
+    "lastIncident": "2026-07-08T17:13:00Z",
     "count": 1
   }
 }

@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-08T17:13:00Z_coquitlam/clarke-rd_coquitlam/chapman-ave",
+    "timestamp": "2026-07-08T17:13:00Z",
+    "scrapedAt": "2026-07-08T18:51:37Z",
+    "address": "CLARKE RD & CHAPMAN AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/clarke-rd",
+      "coquitlam/chapman-ave"
+    ],
+    "streetNames": [
+      "Clarke Rd",
+      "Chapman Ave"
+    ],
+    "pulsePointId": "2514388864"
+  },
+  {
     "id": "2026-07-08T12:16:00Z_surrey/194a-st",
     "timestamp": "2026-07-08T12:16:00Z",
     "scrapedAt": "2026-07-08T13:21:28Z",
