@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-07-08T07:02:00Z_surrey/king-rd",
+    "timestamp": "2026-07-08T07:02:00Z",
+    "scrapedAt": "2026-07-08T07:19:06Z",
+    "address": "KING RD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-rd"
+    ],
+    "streetNames": [
+      "King Rd"
+    ],
+    "pulsePointId": "2514144756"
+  },
+  {
     "id": "2026-07-08T04:12:00Z_vancouver/boundary-rd_vancouver/normandy-dr",
     "timestamp": "2026-07-08T04:12:00Z",
     "scrapedAt": "2026-07-08T04:38:33Z",

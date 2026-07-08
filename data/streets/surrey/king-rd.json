@@ -4,6 +4,19 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-08T07:02:00Z_surrey/king-rd",
+      "timestamp": "2026-07-08T07:02:00Z",
+      "address": "KING RD",
+      "city": "Surrey",
+      "streets": [
+        "surrey/king-rd"
+      ],
+      "streetNames": [
+        "King Rd"
+      ],
+      "pulsePointId": "2514144756"
+    },
+    {
       "id": "2026-06-04T23:01:00Z_surrey/king-rd_surrey/mcbride-dr",
       "timestamp": "2026-06-04T23:01:00Z",
       "address": "KING RD & MCBRIDE DR",
@@ -47,6 +60,6 @@
       "pulsePointId": "2457860875"
     }
   ],
-  "lastIncident": "2026-06-04T23:01:00Z",
-  "count": 3
+  "lastIncident": "2026-07-08T07:02:00Z",
+  "count": 4
 }
