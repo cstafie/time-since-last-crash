@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-08T22:48:00Z_abbotsford/mt-lehman-rd_abbotsford/cardinal-ave",
+      "timestamp": "2026-07-08T22:48:00Z",
+      "address": "MT LEHMAN RD & CARDINAL AVE",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/mt-lehman-rd",
+        "abbotsford/cardinal-ave"
+      ],
+      "streetNames": [
+        "Mt Lehman Rd",
+        "Cardinal Ave"
+      ],
+      "pulsePointId": "2514633782"
+    },
+    {
       "id": "2026-06-26T01:23:00Z_abbotsford/cardinal-ave_abbotsford/mt-lehman-rd",
       "timestamp": "2026-06-26T01:23:00Z",
       "address": "CARDINAL AVE & MT LEHMAN RD",
@@ -180,6 +195,6 @@
       "pulsePointId": "2434362355"
     }
   ],
-  "lastIncident": "2026-06-26T01:23:00Z",
-  "count": 12
+  "lastIncident": "2026-07-08T22:48:00Z",
+  "count": 13
 }

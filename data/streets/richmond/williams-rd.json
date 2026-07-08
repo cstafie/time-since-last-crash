@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-08T22:39:00Z_richmond/shell-rd_richmond/williams-rd",
+      "timestamp": "2026-07-08T22:39:00Z",
+      "address": "SHELL RD & WILLIAMS RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/shell-rd",
+        "richmond/williams-rd"
+      ],
+      "streetNames": [
+        "Shell Rd",
+        "Williams Rd"
+      ],
+      "pulsePointId": "2514625804"
+    },
+    {
       "id": "2026-05-31T22:15:00Z_richmond/williams-rd_richmond/railway-ave",
       "timestamp": "2026-05-31T22:15:00Z",
       "address": "WILLIAMS RD & RAILWAY AVE",
@@ -92,6 +107,6 @@
       "pulsePointId": "2439496679"
     }
   ],
-  "lastIncident": "2026-05-31T22:15:00Z",
-  "count": 6
+  "lastIncident": "2026-07-08T22:39:00Z",
+  "count": 7
 }

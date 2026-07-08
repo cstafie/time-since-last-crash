@@ -1,5 +1,145 @@
 [
   {
+    "id": "2026-07-08T22:48:00Z_abbotsford/mt-lehman-rd_abbotsford/cardinal-ave",
+    "timestamp": "2026-07-08T22:48:00Z",
+    "scrapedAt": "2026-07-08T22:52:18Z",
+    "address": "MT LEHMAN RD & CARDINAL AVE",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/mt-lehman-rd",
+      "abbotsford/cardinal-ave"
+    ],
+    "streetNames": [
+      "Mt Lehman Rd",
+      "Cardinal Ave"
+    ],
+    "pulsePointId": "2514633782"
+  },
+  {
+    "id": "2026-07-08T22:41:00Z_white-rock/pacific-ave_white-rock/parker-st",
+    "timestamp": "2026-07-08T22:41:00Z",
+    "scrapedAt": "2026-07-08T22:52:18Z",
+    "address": "PACIFIC AVE & PARKER ST",
+    "city": "White Rock",
+    "streets": [
+      "white-rock/pacific-ave",
+      "white-rock/parker-st"
+    ],
+    "streetNames": [
+      "Pacific Ave",
+      "Parker St"
+    ],
+    "pulsePointId": "2514627486"
+  },
+  {
+    "id": "2026-07-08T22:39:00Z_richmond/shell-rd_richmond/williams-rd",
+    "timestamp": "2026-07-08T22:39:00Z",
+    "scrapedAt": "2026-07-08T22:52:18Z",
+    "address": "SHELL RD & WILLIAMS RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/shell-rd",
+      "richmond/williams-rd"
+    ],
+    "streetNames": [
+      "Shell Rd",
+      "Williams Rd"
+    ],
+    "pulsePointId": "2514625804"
+  },
+  {
+    "id": "2026-07-08T22:39:00Z_surrey/96th-ave_surrey/prince-charles-blvd",
+    "timestamp": "2026-07-08T22:39:00Z",
+    "scrapedAt": "2026-07-08T22:52:18Z",
+    "address": "96TH AVE & PRINCE CHARLES BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/96th-ave",
+      "surrey/prince-charles-blvd"
+    ],
+    "streetNames": [
+      "96th Ave",
+      "Prince Charles Blvd"
+    ],
+    "pulsePointId": "2514625988"
+  },
+  {
+    "id": "2026-07-08T22:31:00Z_surrey/88th-ave",
+    "timestamp": "2026-07-08T22:31:00Z",
+    "scrapedAt": "2026-07-08T22:52:18Z",
+    "address": "88TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/88th-ave"
+    ],
+    "streetNames": [
+      "88th Ave"
+    ],
+    "pulsePointId": "2514620879"
+  },
+  {
+    "id": "2026-07-08T22:14:00Z_mission/hwy-11_mission/lougheed-hwy",
+    "timestamp": "2026-07-08T22:14:00Z",
+    "scrapedAt": "2026-07-08T22:52:18Z",
+    "address": "HWY 11 & LOUGHEED HWY",
+    "city": "Mission",
+    "streets": [
+      "mission/hwy-11",
+      "mission/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Hwy 11",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2514608195"
+  },
+  {
+    "id": "2026-07-08T21:54:00Z_surrey/108th-ave_surrey/whalley-blvd",
+    "timestamp": "2026-07-08T21:54:00Z",
+    "scrapedAt": "2026-07-08T22:52:18Z",
+    "address": "108TH AVE & WHALLEY BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/108th-ave",
+      "surrey/whalley-blvd"
+    ],
+    "streetNames": [
+      "108th Ave",
+      "Whalley Blvd"
+    ],
+    "pulsePointId": "2514593403"
+  },
+  {
+    "id": "2026-07-08T21:41:00Z_vancouver/w-12th-ave",
+    "timestamp": "2026-07-08T21:41:00Z",
+    "scrapedAt": "2026-07-08T22:52:18Z",
+    "address": "W 12TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-12th-ave"
+    ],
+    "streetNames": [
+      "W 12th Ave"
+    ],
+    "pulsePointId": "2514583967"
+  },
+  {
+    "id": "2026-07-08T21:35:00Z_vancouver/renfrew-st_vancouver/e-14th-ave",
+    "timestamp": "2026-07-08T21:35:00Z",
+    "scrapedAt": "2026-07-08T22:52:18Z",
+    "address": "RENFREW ST & E 14TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/renfrew-st",
+      "vancouver/e-14th-ave"
+    ],
+    "streetNames": [
+      "Renfrew St",
+      "E 14th Ave"
+    ],
+    "pulsePointId": "2514581452"
+  },
+  {
     "id": "2026-07-08T20:51:00Z_surrey/72nd-ave",
     "timestamp": "2026-07-08T20:51:00Z",
     "scrapedAt": "2026-07-08T21:35:50Z",

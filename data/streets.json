@@ -332,8 +332,8 @@
     "name": "Lougheed Hwy",
     "slug": "mission/lougheed-hwy",
     "city": "Mission",
-    "lastIncident": "2026-07-02T07:00:00Z",
-    "count": 8
+    "lastIncident": "2026-07-08T22:14:00Z",
+    "count": 9
   },
   "mission/wren-st": {
     "name": "Wren St",
@@ -521,8 +521,8 @@
     "name": "108th Ave",
     "slug": "surrey/108th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-07T23:55:00Z",
-    "count": 29
+    "lastIncident": "2026-07-08T21:54:00Z",
+    "count": 30
   },
   "surrey/124th-st": {
     "name": "124th St",
@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-07T04:06:00Z",
-    "count": 40
+    "lastIncident": "2026-07-08T22:31:00Z",
+    "count": 41
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",
@@ -647,8 +647,8 @@
     "name": "96th Ave",
     "slug": "surrey/96th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-05T22:10:00Z",
-    "count": 37
+    "lastIncident": "2026-07-08T22:39:00Z",
+    "count": 38
   },
   "surrey/bolivar-rd": {
     "name": "Bolivar Rd",
@@ -675,8 +675,8 @@
     "name": "Prince Charles Blvd",
     "slug": "surrey/prince-charles-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-07-02T09:04:00Z",
-    "count": 5
+    "lastIncident": "2026-07-08T22:39:00Z",
+    "count": 6
   },
   "surrey/trans-canada-hwy": {
     "name": "Trans Canada Hwy",
@@ -773,8 +773,8 @@
     "name": "W 12th Ave",
     "slug": "vancouver/w-12th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-02T22:27:00Z",
-    "count": 16
+    "lastIncident": "2026-07-08T21:41:00Z",
+    "count": 17
   },
   "vancouver/w-33rd-ave": {
     "name": "W 33rd Ave",
@@ -955,8 +955,8 @@
     "name": "Shell Rd",
     "slug": "richmond/shell-rd",
     "city": "Richmond",
-    "lastIncident": "2026-07-08T01:12:00Z",
-    "count": 9
+    "lastIncident": "2026-07-08T22:39:00Z",
+    "count": 10
   },
   "surrey/152nd-street-ofrp": {
     "name": "152nd Street Ofrp",
@@ -1928,8 +1928,8 @@
     "name": "Renfrew St",
     "slug": "vancouver/renfrew-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-03T18:57:00Z",
-    "count": 17
+    "lastIncident": "2026-07-08T21:35:00Z",
+    "count": 18
   },
   "vancouver/e-22nd-ave": {
     "name": "E 22nd Ave",
@@ -2117,8 +2117,8 @@
     "name": "Mt Lehman Rd",
     "slug": "abbotsford/mt-lehman-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-26T01:23:00Z",
-    "count": 12
+    "lastIncident": "2026-07-08T22:48:00Z",
+    "count": 13
   },
   "vancouver/napier-st": {
     "name": "Napier St",
@@ -2320,8 +2320,8 @@
     "name": "Whalley Blvd",
     "slug": "surrey/whalley-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-07-05T13:48:00Z",
-    "count": 8
+    "lastIncident": "2026-07-08T21:54:00Z",
+    "count": 9
   },
   "richmond/russ-baker-way": {
     "name": "Russ Baker Way",
@@ -3419,8 +3419,8 @@
     "name": "Pacific Ave",
     "slug": "white-rock/pacific-ave",
     "city": "White Rock",
-    "lastIncident": "2026-03-21T17:51:00Z",
-    "count": 1
+    "lastIncident": "2026-07-08T22:41:00Z",
+    "count": 2
   },
   "surrey/wallace-dr": {
     "name": "Wallace Dr",
@@ -3629,8 +3629,8 @@
     "name": "Williams Rd",
     "slug": "richmond/williams-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-31T22:15:00Z",
-    "count": 6
+    "lastIncident": "2026-07-08T22:39:00Z",
+    "count": 7
   },
   "surrey/91st-ave": {
     "name": "91st Ave",
@@ -12988,8 +12988,8 @@
     "name": "Hwy 11",
     "slug": "mission/hwy-11",
     "city": "Mission",
-    "lastIncident": "2026-06-25T06:32:00Z",
-    "count": 1
+    "lastIncident": "2026-07-08T22:14:00Z",
+    "count": 2
   },
   "mission/london-avenue-ofrp": {
     "name": "London Avenue Ofrp",
@@ -13114,8 +13114,8 @@
     "name": "Cardinal Ave",
     "slug": "abbotsford/cardinal-ave",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-26T01:23:00Z",
-    "count": 1
+    "lastIncident": "2026-07-08T22:48:00Z",
+    "count": 2
   },
   "north-vancouver/bridgman-ave": {
     "name": "Bridgman Ave",
@@ -13892,6 +13892,20 @@
     "slug": "richmond/dyke-rd",
     "city": "Richmond",
     "lastIncident": "2026-07-08T20:45:00Z",
+    "count": 1
+  },
+  "white-rock/parker-st": {
+    "name": "Parker St",
+    "slug": "white-rock/parker-st",
+    "city": "White Rock",
+    "lastIncident": "2026-07-08T22:41:00Z",
+    "count": 1
+  },
+  "vancouver/e-14th-ave": {
+    "name": "E 14th Ave",
+    "slug": "vancouver/e-14th-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-07-08T21:35:00Z",
     "count": 1
   }
 }

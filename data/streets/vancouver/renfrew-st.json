@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-08T21:35:00Z_vancouver/renfrew-st_vancouver/e-14th-ave",
+      "timestamp": "2026-07-08T21:35:00Z",
+      "address": "RENFREW ST & E 14TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/renfrew-st",
+        "vancouver/e-14th-ave"
+      ],
+      "streetNames": [
+        "Renfrew St",
+        "E 14th Ave"
+      ],
+      "pulsePointId": "2514581452"
+    },
+    {
       "id": "2026-07-03T18:57:00Z_vancouver/renfrew-st_vancouver/grandview-hwy",
       "timestamp": "2026-07-03T18:57:00Z",
       "address": "RENFREW ST & GRANDVIEW HWY",
@@ -257,6 +272,6 @@
       "pulsePointId": "2433781130"
     }
   ],
-  "lastIncident": "2026-07-03T18:57:00Z",
-  "count": 17
+  "lastIncident": "2026-07-08T21:35:00Z",
+  "count": 18
 }

@@ -1,6 +1,6 @@
 {
-  "slug": "white-rock/pacific-ave",
-  "name": "Pacific Ave",
+  "slug": "white-rock/parker-st",
+  "name": "Parker St",
   "city": "White Rock",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Parker St"
       ],
       "pulsePointId": "2514627486"
-    },
-    {
-      "id": "2026-03-21T17:51:00Z_white-rock/habgood-st_white-rock/pacific-ave",
-      "timestamp": "2026-03-21T17:51:00Z",
-      "address": "HABGOOD ST & PACIFIC AVE",
-      "city": "White Rock",
-      "streets": [
-        "white-rock/habgood-st",
-        "white-rock/pacific-ave"
-      ],
-      "streetNames": [
-        "Habgood St",
-        "Pacific Ave"
-      ],
-      "pulsePointId": "2438631704"
     }
   ],
   "lastIncident": "2026-07-08T22:41:00Z",
-  "count": 2
+  "count": 1
 }

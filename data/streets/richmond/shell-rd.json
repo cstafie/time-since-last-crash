@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-08T22:39:00Z_richmond/shell-rd_richmond/williams-rd",
+      "timestamp": "2026-07-08T22:39:00Z",
+      "address": "SHELL RD & WILLIAMS RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/shell-rd",
+        "richmond/williams-rd"
+      ],
+      "streetNames": [
+        "Shell Rd",
+        "Williams Rd"
+      ],
+      "pulsePointId": "2514625804"
+    },
+    {
       "id": "2026-07-08T01:12:00Z_richmond/shell-rd_richmond/westminster-hwy",
       "timestamp": "2026-07-08T01:12:00Z",
       "address": "SHELL RD & WESTMINSTER HWY",
@@ -136,6 +151,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-08T01:12:00Z",
-  "count": 9
+  "lastIncident": "2026-07-08T22:39:00Z",
+  "count": 10
 }
