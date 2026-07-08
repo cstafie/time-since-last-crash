@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/laurel-st",
+  "name": "Laurel St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-07-08T00:52:00Z_burnaby/laurel-st",
+      "timestamp": "2026-07-08T00:52:00Z",
+      "address": "LAUREL ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/laurel-st"
+      ],
+      "streetNames": [
+        "Laurel St"
+      ],
+      "pulsePointId": "2513965739"
+    }
+  ],
+  "lastIncident": "2026-07-08T00:52:00Z",
+  "count": 1
+}

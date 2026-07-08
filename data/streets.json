@@ -290,8 +290,8 @@
     "name": "207th St",
     "slug": "maple-ridge/207th-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-29T22:04:00Z",
-    "count": 4
+    "lastIncident": "2026-07-08T01:04:00Z",
+    "count": 5
   },
   "maple-ridge/227th-st": {
     "name": "227th St",
@@ -521,8 +521,8 @@
     "name": "108th Ave",
     "slug": "surrey/108th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-05T13:48:00Z",
-    "count": 28
+    "lastIncident": "2026-07-07T23:55:00Z",
+    "count": 29
   },
   "surrey/124th-st": {
     "name": "124th St",
@@ -1501,8 +1501,8 @@
     "name": "144th St",
     "slug": "surrey/144th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-06T21:26:00Z",
-    "count": 42
+    "lastIncident": "2026-07-07T23:55:00Z",
+    "count": 43
   },
   "north-vancouver/seymour-blvd": {
     "name": "Seymour Blvd",
@@ -3328,8 +3328,8 @@
     "name": "Hwy 11",
     "slug": "abbotsford/hwy-11",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-14T01:48:00Z",
-    "count": 5
+    "lastIncident": "2026-07-08T00:21:00Z",
+    "count": 6
   },
   "surrey/67th-ave": {
     "name": "67th Ave",
@@ -6205,8 +6205,8 @@
     "name": "Harris Rd",
     "slug": "abbotsford/harris-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-02T23:09:00Z",
-    "count": 11
+    "lastIncident": "2026-07-08T00:21:00Z",
+    "count": 12
   },
   "north-vancouver/capilano-road-onrp": {
     "name": "Capilano Road Onrp",
@@ -8305,8 +8305,8 @@
     "name": "Camwood Ave",
     "slug": "maple-ridge/camwood-ave",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-01T01:20:00Z",
-    "count": 1
+    "lastIncident": "2026-07-08T01:04:00Z",
+    "count": 2
   },
   "vancouver/w-24th-ave": {
     "name": "W 24th Ave",
@@ -13864,6 +13864,13 @@
     "slug": "abbotsford/28326-fraser-hwy",
     "city": "Abbotsford",
     "lastIncident": "2026-07-07T22:53:00Z",
+    "count": 1
+  },
+  "burnaby/laurel-st": {
+    "name": "Laurel St",
+    "slug": "burnaby/laurel-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-07-08T00:52:00Z",
     "count": 1
   }
 }

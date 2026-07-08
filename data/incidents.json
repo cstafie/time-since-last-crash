@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-07-08T01:04:00Z_maple-ridge/207th-st_maple-ridge/camwood-ave",
+    "timestamp": "2026-07-08T01:04:00Z",
+    "scrapedAt": "2026-07-08T01:18:03Z",
+    "address": "207TH ST & CAMWOOD AVE",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/207th-st",
+      "maple-ridge/camwood-ave"
+    ],
+    "streetNames": [
+      "207th St",
+      "Camwood Ave"
+    ],
+    "pulsePointId": "2513974232"
+  },
+  {
+    "id": "2026-07-08T00:52:00Z_burnaby/laurel-st",
+    "timestamp": "2026-07-08T00:52:00Z",
+    "scrapedAt": "2026-07-08T01:18:03Z",
+    "address": "LAUREL ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/laurel-st"
+    ],
+    "streetNames": [
+      "Laurel St"
+    ],
+    "pulsePointId": "2513965739"
+  },
+  {
+    "id": "2026-07-08T00:21:00Z_abbotsford/harris-rd_abbotsford/hwy-11",
+    "timestamp": "2026-07-08T00:21:00Z",
+    "scrapedAt": "2026-07-08T01:18:03Z",
+    "address": "HARRIS RD & HWY 11",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/harris-rd",
+      "abbotsford/hwy-11"
+    ],
+    "streetNames": [
+      "Harris Rd",
+      "Hwy 11"
+    ],
+    "pulsePointId": "2513944749"
+  },
+  {
+    "id": "2026-07-07T23:55:00Z_surrey/108th-ave_surrey/144th-st",
+    "timestamp": "2026-07-07T23:55:00Z",
+    "scrapedAt": "2026-07-08T01:18:03Z",
+    "address": "108TH AVE & 144TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/108th-ave",
+      "surrey/144th-st"
+    ],
+    "streetNames": [
+      "108th Ave",
+      "144th St"
+    ],
+    "pulsePointId": "2513925211"
+  },
+  {
     "id": "2026-07-07T23:25:00Z_vancouver/e-hastings-st_vancouver/semlin-dr",
     "timestamp": "2026-07-07T23:25:00Z",
     "scrapedAt": "2026-07-07T23:43:08Z",

@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-07-08T01:04:00Z_maple-ridge/207th-st_maple-ridge/camwood-ave",
+      "timestamp": "2026-07-08T01:04:00Z",
+      "address": "207TH ST & CAMWOOD AVE",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/207th-st",
+        "maple-ridge/camwood-ave"
+      ],
+      "streetNames": [
+        "207th St",
+        "Camwood Ave"
+      ],
+      "pulsePointId": "2513974232"
+    },
+    {
       "id": "2026-05-29T22:04:00Z_maple-ridge/lougheed-hwy_maple-ridge/207th-st",
       "timestamp": "2026-05-29T22:04:00Z",
       "address": "LOUGHEED HWY & 207TH ST",
@@ -63,6 +78,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-29T22:04:00Z",
-  "count": 4
+  "lastIncident": "2026-07-08T01:04:00Z",
+  "count": 5
 }

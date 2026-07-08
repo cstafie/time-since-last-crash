@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-08T00:21:00Z_abbotsford/harris-rd_abbotsford/hwy-11",
+      "timestamp": "2026-07-08T00:21:00Z",
+      "address": "HARRIS RD & HWY 11",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/harris-rd",
+        "abbotsford/hwy-11"
+      ],
+      "streetNames": [
+        "Harris Rd",
+        "Hwy 11"
+      ],
+      "pulsePointId": "2513944749"
+    },
+    {
       "id": "2026-07-02T23:09:00Z_abbotsford/harris-rd_abbotsford/bates-rd",
       "timestamp": "2026-07-02T23:09:00Z",
       "address": "HARRIS RD & BATES RD",
@@ -159,6 +174,6 @@
       "pulsePointId": "2451782410"
     }
   ],
-  "lastIncident": "2026-07-02T23:09:00Z",
-  "count": 11
+  "lastIncident": "2026-07-08T00:21:00Z",
+  "count": 12
 }
