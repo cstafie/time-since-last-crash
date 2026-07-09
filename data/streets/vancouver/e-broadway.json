@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-09T21:59:00Z_vancouver/e-broadway",
+      "timestamp": "2026-07-09T21:59:00Z",
+      "address": "E BROADWAY",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-broadway"
+      ],
+      "streetNames": [
+        "E Broadway"
+      ],
+      "pulsePointId": "2515345181"
+    },
+    {
       "id": "2026-06-03T18:02:00Z_vancouver/e-broadway_vancouver/commercial-dr",
       "timestamp": "2026-06-03T18:02:00Z",
       "address": "E BROADWAY & COMMERCIAL DR",
@@ -227,6 +240,6 @@
       "pulsePointId": "2435592326"
     }
   ],
-  "lastIncident": "2026-06-03T18:02:00Z",
-  "count": 15
+  "lastIncident": "2026-07-09T21:59:00Z",
+  "count": 16
 }

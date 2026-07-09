@@ -1,5 +1,83 @@
 [
   {
+    "id": "2026-07-09T21:59:00Z_vancouver/e-broadway",
+    "timestamp": "2026-07-09T21:59:00Z",
+    "scrapedAt": "2026-07-09T23:01:40Z",
+    "address": "E BROADWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-broadway"
+    ],
+    "streetNames": [
+      "E Broadway"
+    ],
+    "pulsePointId": "2515345181"
+  },
+  {
+    "id": "2026-07-09T21:57:00Z_delta/derwent-way_delta/audley-blvd",
+    "timestamp": "2026-07-09T21:57:00Z",
+    "scrapedAt": "2026-07-09T23:01:40Z",
+    "address": "DERWENT WAY & AUDLEY BLVD",
+    "city": "Delta",
+    "streets": [
+      "delta/derwent-way",
+      "delta/audley-blvd"
+    ],
+    "streetNames": [
+      "Derwent Way",
+      "Audley Blvd"
+    ],
+    "pulsePointId": "2515343350"
+  },
+  {
+    "id": "2026-07-09T21:56:00Z_richmond/no-2-rd_richmond/francis-rd",
+    "timestamp": "2026-07-09T21:56:00Z",
+    "scrapedAt": "2026-07-09T23:01:40Z",
+    "address": "NO 2 RD & FRANCIS RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/no-2-rd",
+      "richmond/francis-rd"
+    ],
+    "streetNames": [
+      "No 2 Rd",
+      "Francis Rd"
+    ],
+    "pulsePointId": "2515342578"
+  },
+  {
+    "id": "2026-07-09T21:55:00Z_surrey/scott-rd_surrey/100th-ave",
+    "timestamp": "2026-07-09T21:55:00Z",
+    "scrapedAt": "2026-07-09T23:01:40Z",
+    "address": "SCOTT RD & 100TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/scott-rd",
+      "surrey/100th-ave"
+    ],
+    "streetNames": [
+      "Scott Rd",
+      "100th Ave"
+    ],
+    "pulsePointId": "2515341735"
+  },
+  {
+    "id": "2026-07-09T21:55:00Z_surrey/scott-rd_surrey/104th-ave",
+    "timestamp": "2026-07-09T21:55:00Z",
+    "scrapedAt": "2026-07-09T23:01:40Z",
+    "address": "SCOTT RD & 104TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/scott-rd",
+      "surrey/104th-ave"
+    ],
+    "streetNames": [
+      "Scott Rd",
+      "104th Ave"
+    ],
+    "pulsePointId": "2515341262"
+  },
+  {
     "id": "2026-07-09T21:35:00Z_maple-ridge/129th-ave",
     "timestamp": "2026-07-09T21:35:00Z",
     "scrapedAt": "2026-07-09T21:56:25Z",

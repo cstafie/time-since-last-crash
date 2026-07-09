@@ -1,0 +1,24 @@
+{
+  "slug": "delta/audley-blvd",
+  "name": "Audley Blvd",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-07-09T21:57:00Z_delta/derwent-way_delta/audley-blvd",
+      "timestamp": "2026-07-09T21:57:00Z",
+      "address": "DERWENT WAY & AUDLEY BLVD",
+      "city": "Delta",
+      "streets": [
+        "delta/derwent-way",
+        "delta/audley-blvd"
+      ],
+      "streetNames": [
+        "Derwent Way",
+        "Audley Blvd"
+      ],
+      "pulsePointId": "2515343350"
+    }
+  ],
+  "lastIncident": "2026-07-09T21:57:00Z",
+  "count": 1
+}

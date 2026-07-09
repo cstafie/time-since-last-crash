@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-09T21:55:00Z_surrey/scott-rd_surrey/100th-ave",
+      "timestamp": "2026-07-09T21:55:00Z",
+      "address": "SCOTT RD & 100TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/scott-rd",
+        "surrey/100th-ave"
+      ],
+      "streetNames": [
+        "Scott Rd",
+        "100th Ave"
+      ],
+      "pulsePointId": "2515341735"
+    },
+    {
       "id": "2026-06-30T04:46:00Z_surrey/100th-ave_surrey/king-george-blvd",
       "timestamp": "2026-06-30T04:46:00Z",
       "address": "100TH AVE & KING GEORGE BLVD",
@@ -197,6 +212,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-30T04:46:00Z",
-  "count": 13
+  "lastIncident": "2026-07-09T21:55:00Z",
+  "count": 14
 }

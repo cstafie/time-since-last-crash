@@ -479,8 +479,8 @@
     "name": "No 2 Rd",
     "slug": "richmond/no-2-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-29T22:13:00Z",
-    "count": 11
+    "lastIncident": "2026-07-09T21:56:00Z",
+    "count": 12
   },
   "richmond/no-3-rd": {
     "name": "No 3 Rd",
@@ -892,8 +892,8 @@
     "name": "100th Ave",
     "slug": "surrey/100th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-30T04:46:00Z",
-    "count": 13
+    "lastIncident": "2026-07-09T21:55:00Z",
+    "count": 14
   },
   "abbotsford/old-clayburn-rd": {
     "name": "Old Clayburn Rd",
@@ -1312,8 +1312,8 @@
     "name": "104th Ave",
     "slug": "surrey/104th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-09T05:47:00Z",
-    "count": 44
+    "lastIncident": "2026-07-09T21:55:00Z",
+    "count": 45
   },
   "surrey/122nd-st": {
     "name": "122nd St",
@@ -1704,8 +1704,8 @@
     "name": "Francis Rd",
     "slug": "richmond/francis-rd",
     "city": "Richmond",
-    "lastIncident": "2026-06-16T19:04:00Z",
-    "count": 10
+    "lastIncident": "2026-07-09T21:56:00Z",
+    "count": 11
   },
   "maple-ridge/216th-st": {
     "name": "216th St",
@@ -2467,8 +2467,8 @@
     "name": "E Broadway",
     "slug": "vancouver/e-broadway",
     "city": "Vancouver",
-    "lastIncident": "2026-06-03T18:02:00Z",
-    "count": 15
+    "lastIncident": "2026-07-09T21:59:00Z",
+    "count": 16
   },
   "maple-ridge/240th-st": {
     "name": "240th St",
@@ -7325,8 +7325,8 @@
     "name": "Scott Rd",
     "slug": "surrey/scott-rd",
     "city": "Surrey",
-    "lastIncident": "2026-06-29T01:30:00Z",
-    "count": 6
+    "lastIncident": "2026-07-09T21:55:00Z",
+    "count": 8
   },
   "vancouver/beatty-st": {
     "name": "Beatty St",
@@ -13927,6 +13927,20 @@
     "slug": "maple-ridge/129th-ave",
     "city": "Maple Ridge",
     "lastIncident": "2026-07-09T21:35:00Z",
+    "count": 1
+  },
+  "delta/derwent-way": {
+    "name": "Derwent Way",
+    "slug": "delta/derwent-way",
+    "city": "Delta",
+    "lastIncident": "2026-07-09T21:57:00Z",
+    "count": 1
+  },
+  "delta/audley-blvd": {
+    "name": "Audley Blvd",
+    "slug": "delta/audley-blvd",
+    "city": "Delta",
+    "lastIncident": "2026-07-09T21:57:00Z",
     "count": 1
   }
 }
