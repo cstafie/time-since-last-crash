@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/briar-rd",
+  "name": "Briar Rd",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-07-09T07:29:00Z_burnaby/briar-rd",
+      "timestamp": "2026-07-09T07:29:00Z",
+      "address": "BRIAR RD",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/briar-rd"
+      ],
+      "streetNames": [
+        "Briar Rd"
+      ],
+      "pulsePointId": "2514911151"
+    }
+  ],
+  "lastIncident": "2026-07-09T07:29:00Z",
+  "count": 1
+}

@@ -4392,8 +4392,8 @@
     "name": "138th St",
     "slug": "surrey/138th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-28T19:05:00Z",
-    "count": 7
+    "lastIncident": "2026-07-09T07:02:00Z",
+    "count": 8
   },
   "surrey/74th-ave": {
     "name": "74th Ave",
@@ -4518,8 +4518,8 @@
     "name": "72nd Ave",
     "slug": "surrey/72nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-08T20:51:00Z",
-    "count": 22
+    "lastIncident": "2026-07-09T07:02:00Z",
+    "count": 23
   },
   "abbotsford/laurel-st": {
     "name": "Laurel St",
@@ -7409,8 +7409,8 @@
     "name": "24th Ave",
     "slug": "langley/24th-ave",
     "city": "Langley",
-    "lastIncident": "2026-06-02T12:00:00Z",
-    "count": 4
+    "lastIncident": "2026-07-09T06:27:00Z",
+    "count": 5
   },
   "vancouver/burnaby-st": {
     "name": "Burnaby St",
@@ -13906,6 +13906,13 @@
     "slug": "vancouver/e-14th-ave",
     "city": "Vancouver",
     "lastIncident": "2026-07-08T21:35:00Z",
+    "count": 1
+  },
+  "burnaby/briar-rd": {
+    "name": "Briar Rd",
+    "slug": "burnaby/briar-rd",
+    "city": "Burnaby",
+    "lastIncident": "2026-07-09T07:29:00Z",
     "count": 1
   }
 }
