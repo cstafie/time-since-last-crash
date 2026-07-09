@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-07-09T14:05:00Z_surrey/140th-st_surrey/88th-ave",
+    "timestamp": "2026-07-09T14:05:00Z",
+    "scrapedAt": "2026-07-09T14:22:08Z",
+    "address": "140TH ST & 88TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/140th-st",
+      "surrey/88th-ave"
+    ],
+    "streetNames": [
+      "140th St",
+      "88th Ave"
+    ],
+    "pulsePointId": "2515029567"
+  },
+  {
+    "id": "2026-07-09T13:13:00Z_maple-ridge/224th-st_maple-ridge/132nd-ave",
+    "timestamp": "2026-07-09T13:13:00Z",
+    "scrapedAt": "2026-07-09T14:22:08Z",
+    "address": "224TH ST & 132ND AVE",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/224th-st",
+      "maple-ridge/132nd-ave"
+    ],
+    "streetNames": [
+      "224th St",
+      "132nd Ave"
+    ],
+    "pulsePointId": "2515007150"
+  },
+  {
+    "id": "2026-07-09T11:58:00Z_coquitlam/david-ave_coquitlam/johnson-st",
+    "timestamp": "2026-07-09T11:58:00Z",
+    "scrapedAt": "2026-07-09T14:22:08Z",
+    "address": "DAVID AVE & JOHNSON ST",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/david-ave",
+      "coquitlam/johnson-st"
+    ],
+    "streetNames": [
+      "David Ave",
+      "Johnson St"
+    ],
+    "pulsePointId": "2514982410"
+  },
+  {
     "id": "2026-07-09T07:29:00Z_burnaby/briar-rd",
     "timestamp": "2026-07-09T07:29:00Z",
     "scrapedAt": "2026-07-09T08:58:43Z",

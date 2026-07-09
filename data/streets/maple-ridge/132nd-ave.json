@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-07-09T13:13:00Z_maple-ridge/224th-st_maple-ridge/132nd-ave",
+      "timestamp": "2026-07-09T13:13:00Z",
+      "address": "224TH ST & 132ND AVE",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/224th-st",
+        "maple-ridge/132nd-ave"
+      ],
+      "streetNames": [
+        "224th St",
+        "132nd Ave"
+      ],
+      "pulsePointId": "2515007150"
+    },
+    {
       "id": "2026-06-25T12:54:00Z_maple-ridge/132nd-ave_maple-ridge/park-lane",
       "timestamp": "2026-06-25T12:54:00Z",
       "address": "132ND AVE & PARK LANE",
@@ -34,6 +49,6 @@
       "pulsePointId": "2433794431"
     }
   ],
-  "lastIncident": "2026-06-25T12:54:00Z",
-  "count": 2
+  "lastIncident": "2026-07-09T13:13:00Z",
+  "count": 3
 }

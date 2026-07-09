@@ -556,8 +556,8 @@
     "name": "140th St",
     "slug": "surrey/140th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-09T02:04:00Z",
-    "count": 39
+    "lastIncident": "2026-07-09T14:05:00Z",
+    "count": 40
   },
   "surrey/141a-st": {
     "name": "141a St",
@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-09T03:50:00Z",
-    "count": 42
+    "lastIncident": "2026-07-09T14:05:00Z",
+    "count": 43
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",
@@ -1655,8 +1655,8 @@
     "name": "David Ave",
     "slug": "coquitlam/david-ave",
     "city": "Coquitlam",
-    "lastIncident": "2026-07-09T03:14:00Z",
-    "count": 8
+    "lastIncident": "2026-07-09T11:58:00Z",
+    "count": 9
   },
   "coquitlam/oxford-st": {
     "name": "Oxford St",
@@ -1942,8 +1942,8 @@
     "name": "132nd Ave",
     "slug": "maple-ridge/132nd-ave",
     "city": "Maple Ridge",
-    "lastIncident": "2026-06-25T12:54:00Z",
-    "count": 2
+    "lastIncident": "2026-07-09T13:13:00Z",
+    "count": 3
   },
   "abbotsford/trans-canada-hwy": {
     "name": "Trans Canada Hwy",
@@ -3587,8 +3587,8 @@
     "name": "Johnson St",
     "slug": "coquitlam/johnson-st",
     "city": "Coquitlam",
-    "lastIncident": "2026-07-09T03:14:00Z",
-    "count": 6
+    "lastIncident": "2026-07-09T11:58:00Z",
+    "count": 7
   },
   "langley/200th-street-ofrp": {
     "name": "200th Street Ofrp",
@@ -4637,8 +4637,8 @@
     "name": "224th St",
     "slug": "maple-ridge/224th-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-07-07T20:37:00Z",
-    "count": 7
+    "lastIncident": "2026-07-09T13:13:00Z",
+    "count": 8
   },
   "maple-ridge/124th-ave": {
     "name": "124th Ave",
