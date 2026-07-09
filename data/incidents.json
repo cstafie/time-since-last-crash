@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-07-09T21:35:00Z_maple-ridge/129th-ave",
+    "timestamp": "2026-07-09T21:35:00Z",
+    "scrapedAt": "2026-07-09T21:56:25Z",
+    "address": "129TH AVE",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/129th-ave"
+    ],
+    "streetNames": [
+      "129th Ave"
+    ],
+    "pulsePointId": "2515327620"
+  },
+  {
     "id": "2026-07-09T20:00:00Z_surrey/66th-ave",
     "timestamp": "2026-07-09T20:00:00Z",
     "scrapedAt": "2026-07-09T20:29:54Z",
