@@ -1,5 +1,97 @@
 [
   {
+    "id": "2026-07-09T20:00:00Z_surrey/66th-ave",
+    "timestamp": "2026-07-09T20:00:00Z",
+    "scrapedAt": "2026-07-09T20:29:54Z",
+    "address": "66TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/66th-ave"
+    ],
+    "streetNames": [
+      "66th Ave"
+    ],
+    "pulsePointId": "2515259113"
+  },
+  {
+    "id": "2026-07-09T19:38:00Z_port-coquitlam/oxford-st_port-coquitlam/lougheed-hwy",
+    "timestamp": "2026-07-09T19:38:00Z",
+    "scrapedAt": "2026-07-09T20:29:54Z",
+    "address": "OXFORD ST & LOUGHEED HWY",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/oxford-st",
+      "port-coquitlam/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Oxford St",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2515242917"
+  },
+  {
+    "id": "2026-07-09T19:22:00Z_vancouver/w-70th-ave_vancouver/hudson-st",
+    "timestamp": "2026-07-09T19:22:00Z",
+    "scrapedAt": "2026-07-09T20:29:54Z",
+    "address": "W 70TH AVE & HUDSON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-70th-ave",
+      "vancouver/hudson-st"
+    ],
+    "streetNames": [
+      "W 70th Ave",
+      "Hudson St"
+    ],
+    "pulsePointId": "2515233070"
+  },
+  {
+    "id": "2026-07-09T19:17:00Z_langley/203rd-st",
+    "timestamp": "2026-07-09T19:17:00Z",
+    "scrapedAt": "2026-07-09T20:29:54Z",
+    "address": "203RD ST",
+    "city": "Langley",
+    "streets": [
+      "langley/203rd-st"
+    ],
+    "streetNames": [
+      "203rd St"
+    ],
+    "pulsePointId": "2515229270"
+  },
+  {
+    "id": "2026-07-09T19:17:00Z_richmond/vickers-way_richmond/bridgeport-rd",
+    "timestamp": "2026-07-09T19:17:00Z",
+    "scrapedAt": "2026-07-09T20:29:54Z",
+    "address": "VICKERS WAY & BRIDGEPORT RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/vickers-way",
+      "richmond/bridgeport-rd"
+    ],
+    "streetNames": [
+      "Vickers Way",
+      "Bridgeport Rd"
+    ],
+    "pulsePointId": "2515229271"
+  },
+  {
+    "id": "2026-07-09T18:46:00Z_richmond/alexandra-rd_richmond/hazelbridge-way",
+    "timestamp": "2026-07-09T18:46:00Z",
+    "scrapedAt": "2026-07-09T20:29:54Z",
+    "address": "ALEXANDRA RD & HAZELBRIDGE WAY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/alexandra-rd",
+      "richmond/hazelbridge-way"
+    ],
+    "streetNames": [
+      "Alexandra Rd",
+      "Hazelbridge Way"
+    ],
+    "pulsePointId": "2515210081"
+  },
+  {
     "id": "2026-07-09T15:45:00Z_vancouver/park-dr_vancouver/oak-st",
     "timestamp": "2026-07-09T15:45:00Z",
     "scrapedAt": "2026-07-09T16:58:12Z",

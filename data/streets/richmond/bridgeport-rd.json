@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-09T19:17:00Z_richmond/vickers-way_richmond/bridgeport-rd",
+      "timestamp": "2026-07-09T19:17:00Z",
+      "address": "VICKERS WAY & BRIDGEPORT RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/vickers-way",
+        "richmond/bridgeport-rd"
+      ],
+      "streetNames": [
+        "Vickers Way",
+        "Bridgeport Rd"
+      ],
+      "pulsePointId": "2515229271"
+    },
+    {
       "id": "2026-06-27T18:26:00Z_richmond/bridgeport-rd_richmond/shell-rd",
       "timestamp": "2026-06-27T18:26:00Z",
       "address": "BRIDGEPORT RD & SHELL RD",
@@ -196,6 +211,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-27T18:26:00Z",
-  "count": 13
+  "lastIncident": "2026-07-09T19:17:00Z",
+  "count": 14
 }

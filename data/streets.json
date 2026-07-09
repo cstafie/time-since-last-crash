@@ -451,8 +451,8 @@
     "name": "Bridgeport Rd",
     "slug": "richmond/bridgeport-rd",
     "city": "Richmond",
-    "lastIncident": "2026-06-27T18:26:00Z",
-    "count": 13
+    "lastIncident": "2026-07-09T19:17:00Z",
+    "count": 14
   },
   "richmond/granville-ave": {
     "name": "Granville Ave",
@@ -801,8 +801,8 @@
     "name": "W 70th Ave",
     "slug": "vancouver/w-70th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-15T01:19:00Z",
-    "count": 7
+    "lastIncident": "2026-07-09T19:22:00Z",
+    "count": 8
   },
   "vancouver/w-broadway": {
     "name": "W Broadway",
@@ -2243,8 +2243,8 @@
     "name": "Lougheed Hwy",
     "slug": "port-coquitlam/lougheed-hwy",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-06-13T01:28:00Z",
-    "count": 3
+    "lastIncident": "2026-07-09T19:38:00Z",
+    "count": 4
   },
   "port-coquitlam/hastings-st": {
     "name": "Hastings St",
@@ -6814,8 +6814,8 @@
     "name": "Hudson St",
     "slug": "vancouver/hudson-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-02T22:01:00Z",
-    "count": 3
+    "lastIncident": "2026-07-09T19:22:00Z",
+    "count": 4
   },
   "mission/birch-st": {
     "name": "Birch St",
@@ -7871,8 +7871,8 @@
     "name": "Oxford St",
     "slug": "port-coquitlam/oxford-st",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-04-27T19:47:00Z",
-    "count": 1
+    "lastIncident": "2026-07-09T19:38:00Z",
+    "count": 2
   },
   "chilliwack/margaret-ave": {
     "name": "Margaret Ave",
@@ -7920,8 +7920,8 @@
     "name": "Hazelbridge Way",
     "slug": "richmond/hazelbridge-way",
     "city": "Richmond",
-    "lastIncident": "2026-06-20T02:43:00Z",
-    "count": 5
+    "lastIncident": "2026-07-09T18:46:00Z",
+    "count": 6
   },
   "pitt-meadows/hale-rd": {
     "name": "Hale Rd",
@@ -9180,8 +9180,8 @@
     "name": "203rd St",
     "slug": "langley/203rd-st",
     "city": "Langley",
-    "lastIncident": "2026-07-05T01:35:00Z",
-    "count": 7
+    "lastIncident": "2026-07-09T19:17:00Z",
+    "count": 8
   },
   "north-vancouver/fell-ave": {
     "name": "Fell Ave",
@@ -9649,8 +9649,8 @@
     "name": "66th Ave",
     "slug": "surrey/66th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-24T20:05:00Z",
-    "count": 3
+    "lastIncident": "2026-07-09T20:00:00Z",
+    "count": 4
   },
   "vancouver/e-34th-ave": {
     "name": "E 34th Ave",
@@ -9971,8 +9971,8 @@
     "name": "Vickers Way",
     "slug": "richmond/vickers-way",
     "city": "Richmond",
-    "lastIncident": "2026-05-19T22:07:00Z",
-    "count": 1
+    "lastIncident": "2026-07-09T19:17:00Z",
+    "count": 2
   },
   "abbotsford/tims-st": {
     "name": "Tims St",
@@ -13913,6 +13913,13 @@
     "slug": "burnaby/briar-rd",
     "city": "Burnaby",
     "lastIncident": "2026-07-09T07:29:00Z",
+    "count": 1
+  },
+  "richmond/alexandra-rd": {
+    "name": "Alexandra Rd",
+    "slug": "richmond/alexandra-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-07-09T18:46:00Z",
     "count": 1
   }
 }

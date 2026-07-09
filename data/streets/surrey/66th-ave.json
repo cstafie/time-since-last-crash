@@ -4,6 +4,19 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-09T20:00:00Z_surrey/66th-ave",
+      "timestamp": "2026-07-09T20:00:00Z",
+      "address": "66TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/66th-ave"
+      ],
+      "streetNames": [
+        "66th Ave"
+      ],
+      "pulsePointId": "2515259113"
+    },
+    {
       "id": "2026-06-24T20:05:00Z_surrey/66th-ave_surrey/194th-st",
       "timestamp": "2026-06-24T20:05:00Z",
       "address": "66TH AVE & 194TH ST",
@@ -49,6 +62,6 @@
       "pulsePointId": "2474938919"
     }
   ],
-  "lastIncident": "2026-06-24T20:05:00Z",
-  "count": 3
+  "lastIncident": "2026-07-09T20:00:00Z",
+  "count": 4
 }

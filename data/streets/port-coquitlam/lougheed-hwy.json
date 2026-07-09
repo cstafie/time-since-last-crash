@@ -4,6 +4,21 @@
   "city": "Port Coquitlam",
   "incidents": [
     {
+      "id": "2026-07-09T19:38:00Z_port-coquitlam/oxford-st_port-coquitlam/lougheed-hwy",
+      "timestamp": "2026-07-09T19:38:00Z",
+      "address": "OXFORD ST & LOUGHEED HWY",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/oxford-st",
+        "port-coquitlam/lougheed-hwy"
+      ],
+      "streetNames": [
+        "Oxford St",
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2515242917"
+    },
+    {
       "id": "2026-06-13T01:28:00Z_port-coquitlam/ottawa-st_port-coquitlam/lougheed-hwy",
       "timestamp": "2026-06-13T01:28:00Z",
       "address": "OTTAWA ST & LOUGHEED HWY",
@@ -49,6 +64,6 @@
       "pulsePointId": "2434921067"
     }
   ],
-  "lastIncident": "2026-06-13T01:28:00Z",
-  "count": 3
+  "lastIncident": "2026-07-09T19:38:00Z",
+  "count": 4
 }

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-09T19:22:00Z_vancouver/w-70th-ave_vancouver/hudson-st",
+      "timestamp": "2026-07-09T19:22:00Z",
+      "address": "W 70TH AVE & HUDSON ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-70th-ave",
+        "vancouver/hudson-st"
+      ],
+      "streetNames": [
+        "W 70th Ave",
+        "Hudson St"
+      ],
+      "pulsePointId": "2515233070"
+    },
+    {
       "id": "2026-06-15T01:19:00Z_vancouver/w-70th-ave_vancouver/montcalm-st",
       "timestamp": "2026-06-15T01:19:00Z",
       "address": "W 70TH AVE & MONTCALM ST",
@@ -108,6 +123,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-15T01:19:00Z",
-  "count": 7
+  "lastIncident": "2026-07-09T19:22:00Z",
+  "count": 8
 }

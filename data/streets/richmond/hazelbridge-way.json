@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-09T18:46:00Z_richmond/alexandra-rd_richmond/hazelbridge-way",
+      "timestamp": "2026-07-09T18:46:00Z",
+      "address": "ALEXANDRA RD & HAZELBRIDGE WAY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/alexandra-rd",
+        "richmond/hazelbridge-way"
+      ],
+      "streetNames": [
+        "Alexandra Rd",
+        "Hazelbridge Way"
+      ],
+      "pulsePointId": "2515210081"
+    },
+    {
       "id": "2026-06-20T02:43:00Z_richmond/hazelbridge-way",
       "timestamp": "2026-06-20T02:43:00Z",
       "address": "HAZELBRIDGE WAY",
@@ -77,6 +92,6 @@
       "pulsePointId": "2463034081"
     }
   ],
-  "lastIncident": "2026-06-20T02:43:00Z",
-  "count": 5
+  "lastIncident": "2026-07-09T18:46:00Z",
+  "count": 6
 }
