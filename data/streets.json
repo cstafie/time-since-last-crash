@@ -1767,15 +1767,15 @@
     "name": "South Fraser Way",
     "slug": "abbotsford/south-fraser-way",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-05T06:50:00Z",
-    "count": 32
+    "lastIncident": "2026-07-09T01:07:00Z",
+    "count": 33
   },
   "vancouver/e-hastings-st": {
     "name": "E Hastings St",
     "slug": "vancouver/e-hastings-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-07T23:25:00Z",
-    "count": 40
+    "lastIncident": "2026-07-09T00:36:00Z",
+    "count": 41
   },
   "abbotsford/king-rd": {
     "name": "King Rd",
@@ -3342,8 +3342,8 @@
     "name": "Garden Dr",
     "slug": "vancouver/garden-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-06-12T00:09:00Z",
-    "count": 4
+    "lastIncident": "2026-07-09T00:36:00Z",
+    "count": 5
   },
   "vancouver/grandview-hwy-s": {
     "name": "Grandview Hwy S",

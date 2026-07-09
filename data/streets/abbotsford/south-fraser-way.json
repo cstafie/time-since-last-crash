@@ -4,6 +4,19 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-09T01:07:00Z_abbotsford/south-fraser-way",
+      "timestamp": "2026-07-09T01:07:00Z",
+      "address": "SOUTH FRASER WAY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/south-fraser-way"
+      ],
+      "streetNames": [
+        "South Fraser Way"
+      ],
+      "pulsePointId": "2514729494"
+    },
+    {
       "id": "2026-07-05T06:50:00Z_abbotsford/south-fraser-way_abbotsford/gladwin-rd",
       "timestamp": "2026-07-05T06:50:00Z",
       "address": "SOUTH FRASER WAY & GLADWIN RD",
@@ -472,6 +485,6 @@
       "pulsePointId": "2433235919"
     }
   ],
-  "lastIncident": "2026-07-05T06:50:00Z",
-  "count": 32
+  "lastIncident": "2026-07-09T01:07:00Z",
+  "count": 33
 }
