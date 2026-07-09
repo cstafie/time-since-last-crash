@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-05T09:42:00Z",
-    "count": 58
+    "lastIncident": "2026-07-09T15:42:00Z",
+    "count": 59
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -766,8 +766,8 @@
     "name": "Oak St",
     "slug": "vancouver/oak-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-08T20:38:00Z",
-    "count": 44
+    "lastIncident": "2026-07-09T15:45:00Z",
+    "count": 45
   },
   "vancouver/w-12th-ave": {
     "name": "W 12th Ave",
@@ -6807,8 +6807,8 @@
     "name": "Park Dr",
     "slug": "vancouver/park-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-05-14T22:32:00Z",
-    "count": 3
+    "lastIncident": "2026-07-09T15:45:00Z",
+    "count": 5
   },
   "vancouver/hudson-st": {
     "name": "Hudson St",

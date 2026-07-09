@@ -4,6 +4,36 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-09T15:45:00Z_vancouver/park-dr_vancouver/oak-st",
+      "timestamp": "2026-07-09T15:45:00Z",
+      "address": "PARK DR & OAK ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/park-dr",
+        "vancouver/oak-st"
+      ],
+      "streetNames": [
+        "Park Dr",
+        "Oak St"
+      ],
+      "pulsePointId": "2515084159"
+    },
+    {
+      "id": "2026-07-09T15:42:00Z_vancouver/granville-st_vancouver/park-dr",
+      "timestamp": "2026-07-09T15:42:00Z",
+      "address": "GRANVILLE ST & PARK DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st",
+        "vancouver/park-dr"
+      ],
+      "streetNames": [
+        "Granville St",
+        "Park Dr"
+      ],
+      "pulsePointId": "2515081463"
+    },
+    {
       "id": "2026-05-14T22:32:00Z_vancouver/park-dr_vancouver/hudson-st",
       "timestamp": "2026-05-14T22:32:00Z",
       "address": "PARK DR & HUDSON ST",
@@ -49,6 +79,6 @@
       "pulsePointId": "2455028056"
     }
   ],
-  "lastIncident": "2026-05-14T22:32:00Z",
-  "count": 3
+  "lastIncident": "2026-07-09T15:45:00Z",
+  "count": 5
 }

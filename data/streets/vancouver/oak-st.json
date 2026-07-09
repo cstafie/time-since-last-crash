@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-09T15:45:00Z_vancouver/park-dr_vancouver/oak-st",
+      "timestamp": "2026-07-09T15:45:00Z",
+      "address": "PARK DR & OAK ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/park-dr",
+        "vancouver/oak-st"
+      ],
+      "streetNames": [
+        "Park Dr",
+        "Oak St"
+      ],
+      "pulsePointId": "2515084159"
+    },
+    {
       "id": "2026-07-08T20:38:00Z_vancouver/w-64th-ave_vancouver/oak-st",
       "timestamp": "2026-07-08T20:38:00Z",
       "address": "W 64TH AVE & OAK ST",
@@ -645,6 +660,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-08T20:38:00Z",
-  "count": 44
+  "lastIncident": "2026-07-09T15:45:00Z",
+  "count": 45
 }
