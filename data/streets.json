@@ -535,8 +535,8 @@
     "name": "128th St",
     "slug": "surrey/128th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-03T05:36:00Z",
-    "count": 38
+    "lastIncident": "2026-07-09T01:58:00Z",
+    "count": 39
   },
   "surrey/130b-st": {
     "name": "130b St",
@@ -556,8 +556,8 @@
     "name": "140th St",
     "slug": "surrey/140th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-07T04:57:00Z",
-    "count": 38
+    "lastIncident": "2026-07-09T02:04:00Z",
+    "count": 39
   },
   "surrey/141a-st": {
     "name": "141a St",
@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-08T22:31:00Z",
-    "count": 41
+    "lastIncident": "2026-07-09T03:50:00Z",
+    "count": 42
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",
@@ -1312,8 +1312,8 @@
     "name": "104th Ave",
     "slug": "surrey/104th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-05T06:41:00Z",
-    "count": 42
+    "lastIncident": "2026-07-09T05:47:00Z",
+    "count": 44
   },
   "surrey/122nd-st": {
     "name": "122nd St",
@@ -1627,8 +1627,8 @@
     "name": "156th St",
     "slug": "surrey/156th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-23T23:39:00Z",
-    "count": 19
+    "lastIncident": "2026-07-09T03:50:00Z",
+    "count": 20
   },
   "north-vancouver/pemberton-ave": {
     "name": "Pemberton Ave",
@@ -1655,8 +1655,8 @@
     "name": "David Ave",
     "slug": "coquitlam/david-ave",
     "city": "Coquitlam",
-    "lastIncident": "2026-07-02T23:49:00Z",
-    "count": 7
+    "lastIncident": "2026-07-09T03:14:00Z",
+    "count": 8
   },
   "coquitlam/oxford-st": {
     "name": "Oxford St",
@@ -2390,8 +2390,8 @@
     "name": "56th Ave",
     "slug": "surrey/56th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-04T11:09:00Z",
-    "count": 24
+    "lastIncident": "2026-07-09T01:58:00Z",
+    "count": 25
   },
   "port-moody/grant-st": {
     "name": "Grant St",
@@ -2460,8 +2460,8 @@
     "name": "Cambie St",
     "slug": "vancouver/cambie-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-06T23:56:00Z",
-    "count": 19
+    "lastIncident": "2026-07-09T03:31:00Z",
+    "count": 20
   },
   "vancouver/e-broadway": {
     "name": "E Broadway",
@@ -3160,8 +3160,8 @@
     "name": "150th St",
     "slug": "surrey/150th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-23T22:35:00Z",
-    "count": 10
+    "lastIncident": "2026-07-09T05:47:00Z",
+    "count": 11
   },
   "mission/knight-ave": {
     "name": "Knight Ave",
@@ -3587,8 +3587,8 @@
     "name": "Johnson St",
     "slug": "coquitlam/johnson-st",
     "city": "Coquitlam",
-    "lastIncident": "2026-06-30T17:07:00Z",
-    "count": 5
+    "lastIncident": "2026-07-09T03:14:00Z",
+    "count": 6
   },
   "langley/200th-street-ofrp": {
     "name": "200th Street Ofrp",
@@ -3720,8 +3720,8 @@
     "name": "Lansdowne Rd",
     "slug": "richmond/lansdowne-rd",
     "city": "Richmond",
-    "lastIncident": "2026-07-04T14:43:00Z",
-    "count": 5
+    "lastIncident": "2026-07-09T03:30:00Z",
+    "count": 6
   },
   "chilliwack/lutz-rd": {
     "name": "Lutz Rd",
@@ -13674,8 +13674,8 @@
     "name": "W 63rd Ave",
     "slug": "vancouver/w-63rd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-04T17:34:00Z",
-    "count": 1
+    "lastIncident": "2026-07-09T03:31:00Z",
+    "count": 2
   },
   "langley/79th-ave": {
     "name": "79th Ave",

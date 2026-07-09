@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-09T03:31:00Z_vancouver/w-63rd-ave_vancouver/cambie-st",
+      "timestamp": "2026-07-09T03:31:00Z",
+      "address": "W 63RD AVE & CAMBIE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-63rd-ave",
+        "vancouver/cambie-st"
+      ],
+      "streetNames": [
+        "W 63rd Ave",
+        "Cambie St"
+      ],
+      "pulsePointId": "2514811405"
+    },
+    {
       "id": "2026-07-06T23:56:00Z_vancouver/sw-marine-dr_vancouver/cambie-st",
       "timestamp": "2026-07-06T23:56:00Z",
       "address": "SW MARINE DR & CAMBIE ST",
@@ -287,6 +302,6 @@
       "pulsePointId": "2435569506"
     }
   ],
-  "lastIncident": "2026-07-06T23:56:00Z",
-  "count": 19
+  "lastIncident": "2026-07-09T03:31:00Z",
+  "count": 20
 }

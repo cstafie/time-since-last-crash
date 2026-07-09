@@ -1,5 +1,115 @@
 [
   {
+    "id": "2026-07-09T05:47:00Z_surrey/150th-st_surrey/104th-ave",
+    "timestamp": "2026-07-09T05:47:00Z",
+    "scrapedAt": "2026-07-09T05:51:47Z",
+    "address": "150TH ST & 104TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/150th-st",
+      "surrey/104th-ave"
+    ],
+    "streetNames": [
+      "150th St",
+      "104th Ave"
+    ],
+    "pulsePointId": "2514875048"
+  },
+  {
+    "id": "2026-07-09T03:50:00Z_surrey/88th-ave_surrey/156th-st",
+    "timestamp": "2026-07-09T03:50:00Z",
+    "scrapedAt": "2026-07-09T05:51:47Z",
+    "address": "88TH AVE & 156TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/88th-ave",
+      "surrey/156th-st"
+    ],
+    "streetNames": [
+      "88th Ave",
+      "156th St"
+    ],
+    "pulsePointId": "2514821278"
+  },
+  {
+    "id": "2026-07-09T03:31:00Z_vancouver/w-63rd-ave_vancouver/cambie-st",
+    "timestamp": "2026-07-09T03:31:00Z",
+    "scrapedAt": "2026-07-09T05:51:47Z",
+    "address": "W 63RD AVE & CAMBIE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-63rd-ave",
+      "vancouver/cambie-st"
+    ],
+    "streetNames": [
+      "W 63rd Ave",
+      "Cambie St"
+    ],
+    "pulsePointId": "2514811405"
+  },
+  {
+    "id": "2026-07-09T03:30:00Z_richmond/lansdowne-rd",
+    "timestamp": "2026-07-09T03:30:00Z",
+    "scrapedAt": "2026-07-09T05:51:47Z",
+    "address": "LANSDOWNE RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/lansdowne-rd"
+    ],
+    "streetNames": [
+      "Lansdowne Rd"
+    ],
+    "pulsePointId": "2514813280"
+  },
+  {
+    "id": "2026-07-09T03:14:00Z_coquitlam/johnson-st_coquitlam/david-ave",
+    "timestamp": "2026-07-09T03:14:00Z",
+    "scrapedAt": "2026-07-09T05:51:47Z",
+    "address": "JOHNSON ST & DAVID AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/johnson-st",
+      "coquitlam/david-ave"
+    ],
+    "streetNames": [
+      "Johnson St",
+      "David Ave"
+    ],
+    "pulsePointId": "2514803982"
+  },
+  {
+    "id": "2026-07-09T02:04:00Z_surrey/140th-st_surrey/104th-ave",
+    "timestamp": "2026-07-09T02:04:00Z",
+    "scrapedAt": "2026-07-09T05:51:47Z",
+    "address": "140TH ST & 104TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/140th-st",
+      "surrey/104th-ave"
+    ],
+    "streetNames": [
+      "140th St",
+      "104th Ave"
+    ],
+    "pulsePointId": "2514765457"
+  },
+  {
+    "id": "2026-07-09T01:58:00Z_surrey/56th-ave_surrey/128th-st",
+    "timestamp": "2026-07-09T01:58:00Z",
+    "scrapedAt": "2026-07-09T05:51:47Z",
+    "address": "56TH AVE & 128TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/56th-ave",
+      "surrey/128th-st"
+    ],
+    "streetNames": [
+      "56th Ave",
+      "128th St"
+    ],
+    "pulsePointId": "2514759960"
+  },
+  {
     "id": "2026-07-09T01:07:00Z_abbotsford/south-fraser-way",
     "timestamp": "2026-07-09T01:07:00Z",
     "scrapedAt": "2026-07-09T01:55:17Z",

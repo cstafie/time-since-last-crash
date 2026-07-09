@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-07-09T03:14:00Z_coquitlam/johnson-st_coquitlam/david-ave",
+      "timestamp": "2026-07-09T03:14:00Z",
+      "address": "JOHNSON ST & DAVID AVE",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/johnson-st",
+        "coquitlam/david-ave"
+      ],
+      "streetNames": [
+        "Johnson St",
+        "David Ave"
+      ],
+      "pulsePointId": "2514803982"
+    },
+    {
       "id": "2026-07-02T23:49:00Z_coquitlam/coast-meridian-rd_coquitlam/david-ave",
       "timestamp": "2026-07-02T23:49:00Z",
       "address": "COAST MERIDIAN RD & DAVID AVE",
@@ -107,6 +122,6 @@
       "pulsePointId": "2432944071"
     }
   ],
-  "lastIncident": "2026-07-02T23:49:00Z",
-  "count": 7
+  "lastIncident": "2026-07-09T03:14:00Z",
+  "count": 8
 }

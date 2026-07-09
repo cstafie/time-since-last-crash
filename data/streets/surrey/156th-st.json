@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-09T03:50:00Z_surrey/88th-ave_surrey/156th-st",
+      "timestamp": "2026-07-09T03:50:00Z",
+      "address": "88TH AVE & 156TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/88th-ave",
+        "surrey/156th-st"
+      ],
+      "streetNames": [
+        "88th Ave",
+        "156th St"
+      ],
+      "pulsePointId": "2514821278"
+    },
+    {
       "id": "2026-06-23T23:39:00Z_surrey/156th-st_surrey/fraser-hwy",
       "timestamp": "2026-06-23T23:39:00Z",
       "address": "156TH ST & FRASER HWY",
@@ -285,6 +300,6 @@
       "pulsePointId": "2432889415"
     }
   ],
-  "lastIncident": "2026-06-23T23:39:00Z",
-  "count": 19
+  "lastIncident": "2026-07-09T03:50:00Z",
+  "count": 20
 }

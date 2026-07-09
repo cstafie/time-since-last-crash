@@ -4,6 +4,19 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-09T03:30:00Z_richmond/lansdowne-rd",
+      "timestamp": "2026-07-09T03:30:00Z",
+      "address": "LANSDOWNE RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/lansdowne-rd"
+      ],
+      "streetNames": [
+        "Lansdowne Rd"
+      ],
+      "pulsePointId": "2514813280"
+    },
+    {
       "id": "2026-07-04T14:43:00Z_richmond/lansdowne-rd_richmond/alderbridge-way",
       "timestamp": "2026-07-04T14:43:00Z",
       "address": "LANSDOWNE RD & ALDERBRIDGE WAY",
@@ -79,6 +92,6 @@
       "pulsePointId": "2440171570"
     }
   ],
-  "lastIncident": "2026-07-04T14:43:00Z",
-  "count": 5
+  "lastIncident": "2026-07-09T03:30:00Z",
+  "count": 6
 }
