@@ -4,6 +4,36 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-10T17:03:00Z_richmond/lansdowne-rd_richmond/garden-city-rd",
+      "timestamp": "2026-07-10T17:03:00Z",
+      "address": "LANSDOWNE RD & GARDEN CITY RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/lansdowne-rd",
+        "richmond/garden-city-rd"
+      ],
+      "streetNames": [
+        "Lansdowne Rd",
+        "Garden City Rd"
+      ],
+      "pulsePointId": "2515879247"
+    },
+    {
+      "id": "2026-07-10T17:00:00Z_richmond/lansdowne-rd_richmond/garden-city-rd",
+      "timestamp": "2026-07-10T17:00:00Z",
+      "address": "LANSDOWNE RD & GARDEN CITY RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/lansdowne-rd",
+        "richmond/garden-city-rd"
+      ],
+      "streetNames": [
+        "Lansdowne Rd",
+        "Garden City Rd"
+      ],
+      "pulsePointId": "2515876519"
+    },
+    {
       "id": "2026-06-26T23:03:00Z_richmond/garden-city-rd_richmond/cambie-rd",
       "timestamp": "2026-06-26T23:03:00Z",
       "address": "GARDEN CITY RD & CAMBIE RD",
@@ -122,6 +152,6 @@
       "pulsePointId": "2433457530"
     }
   ],
-  "lastIncident": "2026-06-26T23:03:00Z",
-  "count": 8
+  "lastIncident": "2026-07-10T17:03:00Z",
+  "count": 10
 }

@@ -1,6 +1,6 @@
 {
-  "slug": "new-westminster/howes-st",
-  "name": "Howes St",
+  "slug": "new-westminster/boyd-st",
+  "name": "Boyd St",
   "city": "New Westminster",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Howes St"
       ],
       "pulsePointId": "2515974328"
-    },
-    {
-      "id": "2026-06-28T20:53:00Z_new-westminster/howes-st_new-westminster/ewen-ave",
-      "timestamp": "2026-06-28T20:53:00Z",
-      "address": "HOWES ST & EWEN AVE",
-      "city": "New Westminster",
-      "streets": [
-        "new-westminster/howes-st",
-        "new-westminster/ewen-ave"
-      ],
-      "streetNames": [
-        "Howes St",
-        "Ewen Ave"
-      ],
-      "pulsePointId": "2507071941"
     }
   ],
   "lastIncident": "2026-07-10T19:22:00Z",
-  "count": 2
+  "count": 1
 }

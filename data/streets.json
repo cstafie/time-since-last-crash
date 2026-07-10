@@ -822,8 +822,8 @@
     "name": "Trans Canada Hwy",
     "slug": "west-vancouver/trans-canada-hwy",
     "city": "West Vancouver",
-    "lastIncident": "2026-06-06T01:10:00Z",
-    "count": 4
+    "lastIncident": "2026-07-10T18:28:00Z",
+    "count": 6
   },
   "pitt-meadows/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -1809,8 +1809,8 @@
     "name": "Garden City Rd",
     "slug": "richmond/garden-city-rd",
     "city": "Richmond",
-    "lastIncident": "2026-06-26T23:03:00Z",
-    "count": 8
+    "lastIncident": "2026-07-10T17:03:00Z",
+    "count": 10
   },
   "vancouver/commercial-st": {
     "name": "Commercial St",
@@ -3720,8 +3720,8 @@
     "name": "Lansdowne Rd",
     "slug": "richmond/lansdowne-rd",
     "city": "Richmond",
-    "lastIncident": "2026-07-09T03:30:00Z",
-    "count": 6
+    "lastIncident": "2026-07-10T17:03:00Z",
+    "count": 8
   },
   "chilliwack/lutz-rd": {
     "name": "Lutz Rd",
@@ -6268,8 +6268,8 @@
     "name": "Cameron St",
     "slug": "burnaby/cameron-st",
     "city": "Burnaby",
-    "lastIncident": "2026-04-11T01:23:00Z",
-    "count": 1
+    "lastIncident": "2026-07-10T19:00:00Z",
+    "count": 2
   },
   "chilliwack/lower-landing-rd": {
     "name": "Lower Landing Rd",
@@ -13261,8 +13261,8 @@
     "name": "Howes St",
     "slug": "new-westminster/howes-st",
     "city": "New Westminster",
-    "lastIncident": "2026-06-28T20:53:00Z",
-    "count": 1
+    "lastIncident": "2026-07-10T19:22:00Z",
+    "count": 2
   },
   "surrey/34th-ave": {
     "name": "34th Ave",
@@ -14004,6 +14004,48 @@
     "slug": "delta/55b-st",
     "city": "Delta",
     "lastIncident": "2026-07-10T16:05:00Z",
+    "count": 1
+  },
+  "richmond/vanguard-rd": {
+    "name": "Vanguard Rd",
+    "slug": "richmond/vanguard-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-07-10T19:50:00Z",
+    "count": 1
+  },
+  "new-westminster/boyd-st": {
+    "name": "Boyd St",
+    "slug": "new-westminster/boyd-st",
+    "city": "New Westminster",
+    "lastIncident": "2026-07-10T19:22:00Z",
+    "count": 1
+  },
+  "burnaby/morrey-crt": {
+    "name": "Morrey Crt",
+    "slug": "burnaby/morrey-crt",
+    "city": "Burnaby",
+    "lastIncident": "2026-07-10T19:00:00Z",
+    "count": 1
+  },
+  "west-vancouver/estevan-pl": {
+    "name": "Estevan Pl",
+    "slug": "west-vancouver/estevan-pl",
+    "city": "West Vancouver",
+    "lastIncident": "2026-07-10T18:29:00Z",
+    "count": 1
+  },
+  "west-vancouver/caulfeild-dr": {
+    "name": "Caulfeild Dr",
+    "slug": "west-vancouver/caulfeild-dr",
+    "city": "West Vancouver",
+    "lastIncident": "2026-07-10T18:29:00Z",
+    "count": 1
+  },
+  "west-vancouver/westport-road-ofrp": {
+    "name": "Westport Road Ofrp",
+    "slug": "west-vancouver/westport-road-ofrp",
+    "city": "West Vancouver",
+    "lastIncident": "2026-07-10T18:25:00Z",
     "count": 1
   }
 }

@@ -1,5 +1,129 @@
 [
   {
+    "id": "2026-07-10T19:50:00Z_richmond/vanguard-rd",
+    "timestamp": "2026-07-10T19:50:00Z",
+    "scrapedAt": "2026-07-10T19:55:41Z",
+    "address": "VANGUARD RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/vanguard-rd"
+    ],
+    "streetNames": [
+      "Vanguard Rd"
+    ],
+    "pulsePointId": "2515994578"
+  },
+  {
+    "id": "2026-07-10T19:22:00Z_new-westminster/boyd-st_new-westminster/howes-st",
+    "timestamp": "2026-07-10T19:22:00Z",
+    "scrapedAt": "2026-07-10T19:55:41Z",
+    "address": "BOYD ST & HOWES ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/boyd-st",
+      "new-westminster/howes-st"
+    ],
+    "streetNames": [
+      "Boyd St",
+      "Howes St"
+    ],
+    "pulsePointId": "2515974328"
+  },
+  {
+    "id": "2026-07-10T19:00:00Z_burnaby/cameron-st_burnaby/morrey-crt",
+    "timestamp": "2026-07-10T19:00:00Z",
+    "scrapedAt": "2026-07-10T19:55:41Z",
+    "address": "CAMERON ST & MORREY CRT",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/cameron-st",
+      "burnaby/morrey-crt"
+    ],
+    "streetNames": [
+      "Cameron St",
+      "Morrey Crt"
+    ],
+    "pulsePointId": "2515961821"
+  },
+  {
+    "id": "2026-07-10T18:29:00Z_west-vancouver/estevan-pl_west-vancouver/caulfeild-dr",
+    "timestamp": "2026-07-10T18:29:00Z",
+    "scrapedAt": "2026-07-10T19:55:41Z",
+    "address": "ESTEVAN PL & CAULFEILD DR",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/estevan-pl",
+      "west-vancouver/caulfeild-dr"
+    ],
+    "streetNames": [
+      "Estevan Pl",
+      "Caulfeild Dr"
+    ],
+    "pulsePointId": "2515938557"
+  },
+  {
+    "id": "2026-07-10T18:28:00Z_west-vancouver/trans-canada-hwy",
+    "timestamp": "2026-07-10T18:28:00Z",
+    "scrapedAt": "2026-07-10T19:55:41Z",
+    "address": "TRANS CANADA HWY",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2515936939"
+  },
+  {
+    "id": "2026-07-10T18:25:00Z_west-vancouver/westport-road-ofrp_west-vancouver/trans-canada-hwy",
+    "timestamp": "2026-07-10T18:25:00Z",
+    "scrapedAt": "2026-07-10T19:55:41Z",
+    "address": "WESTPORT ROAD OFRP & TRANS CANADA HWY",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/westport-road-ofrp",
+      "west-vancouver/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Westport Road Ofrp",
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2515936292"
+  },
+  {
+    "id": "2026-07-10T17:03:00Z_richmond/lansdowne-rd_richmond/garden-city-rd",
+    "timestamp": "2026-07-10T17:03:00Z",
+    "scrapedAt": "2026-07-10T19:55:41Z",
+    "address": "LANSDOWNE RD & GARDEN CITY RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/lansdowne-rd",
+      "richmond/garden-city-rd"
+    ],
+    "streetNames": [
+      "Lansdowne Rd",
+      "Garden City Rd"
+    ],
+    "pulsePointId": "2515879247"
+  },
+  {
+    "id": "2026-07-10T17:00:00Z_richmond/lansdowne-rd_richmond/garden-city-rd",
+    "timestamp": "2026-07-10T17:00:00Z",
+    "scrapedAt": "2026-07-10T19:55:41Z",
+    "address": "LANSDOWNE RD & GARDEN CITY RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/lansdowne-rd",
+      "richmond/garden-city-rd"
+    ],
+    "streetNames": [
+      "Lansdowne Rd",
+      "Garden City Rd"
+    ],
+    "pulsePointId": "2515876519"
+  },
+  {
     "id": "2026-07-10T16:05:00Z_delta/ladner-trunk-rd_delta/55b-st",
     "timestamp": "2026-07-10T16:05:00Z",
     "scrapedAt": "2026-07-10T16:10:37Z",

@@ -1,6 +1,6 @@
 {
-  "slug": "burnaby/cameron-st",
-  "name": "Cameron St",
+  "slug": "burnaby/morrey-crt",
+  "name": "Morrey Crt",
   "city": "Burnaby",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Morrey Crt"
       ],
       "pulsePointId": "2515961821"
-    },
-    {
-      "id": "2026-04-11T01:23:00Z_burnaby/north-rd_burnaby/cameron-st",
-      "timestamp": "2026-04-11T01:23:00Z",
-      "address": "NORTH RD & CAMERON ST",
-      "city": "Burnaby",
-      "streets": [
-        "burnaby/north-rd",
-        "burnaby/cameron-st"
-      ],
-      "streetNames": [
-        "North Rd",
-        "Cameron St"
-      ],
-      "pulsePointId": "2451881945"
     }
   ],
   "lastIncident": "2026-07-10T19:00:00Z",
-  "count": 2
+  "count": 1
 }

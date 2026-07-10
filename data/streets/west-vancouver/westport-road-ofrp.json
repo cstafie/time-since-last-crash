@@ -1,0 +1,24 @@
+{
+  "slug": "west-vancouver/westport-road-ofrp",
+  "name": "Westport Road Ofrp",
+  "city": "West Vancouver",
+  "incidents": [
+    {
+      "id": "2026-07-10T18:25:00Z_west-vancouver/westport-road-ofrp_west-vancouver/trans-canada-hwy",
+      "timestamp": "2026-07-10T18:25:00Z",
+      "address": "WESTPORT ROAD OFRP & TRANS CANADA HWY",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/westport-road-ofrp",
+        "west-vancouver/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Westport Road Ofrp",
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2515936292"
+    }
+  ],
+  "lastIncident": "2026-07-10T18:25:00Z",
+  "count": 1
+}

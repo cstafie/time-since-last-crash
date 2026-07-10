@@ -1,0 +1,22 @@
+{
+  "slug": "richmond/vanguard-rd",
+  "name": "Vanguard Rd",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-07-10T19:50:00Z_richmond/vanguard-rd",
+      "timestamp": "2026-07-10T19:50:00Z",
+      "address": "VANGUARD RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/vanguard-rd"
+      ],
+      "streetNames": [
+        "Vanguard Rd"
+      ],
+      "pulsePointId": "2515994578"
+    }
+  ],
+  "lastIncident": "2026-07-10T19:50:00Z",
+  "count": 1
+}
