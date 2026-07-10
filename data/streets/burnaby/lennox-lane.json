@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/lennox-lane",
+  "name": "Lennox Lane",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-07-10T20:32:00Z_burnaby/nelson-ave_burnaby/lennox-lane",
+      "timestamp": "2026-07-10T20:32:00Z",
+      "address": "NELSON AVE & LENNOX LANE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/nelson-ave",
+        "burnaby/lennox-lane"
+      ],
+      "streetNames": [
+        "Nelson Ave",
+        "Lennox Lane"
+      ],
+      "pulsePointId": "2516022168"
+    }
+  ],
+  "lastIncident": "2026-07-10T20:32:00Z",
+  "count": 1
+}

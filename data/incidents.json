@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-07-10T20:32:00Z_burnaby/nelson-ave_burnaby/lennox-lane",
+    "timestamp": "2026-07-10T20:32:00Z",
+    "scrapedAt": "2026-07-10T20:57:26Z",
+    "address": "NELSON AVE & LENNOX LANE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/nelson-ave",
+      "burnaby/lennox-lane"
+    ],
+    "streetNames": [
+      "Nelson Ave",
+      "Lennox Lane"
+    ],
+    "pulsePointId": "2516022168"
+  },
+  {
+    "id": "2026-07-10T20:19:00Z_coquitlam/austin-ave",
+    "timestamp": "2026-07-10T20:19:00Z",
+    "scrapedAt": "2026-07-10T20:57:26Z",
+    "address": "AUSTIN AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/austin-ave"
+    ],
+    "streetNames": [
+      "Austin Ave"
+    ],
+    "pulsePointId": "2516013612"
+  },
+  {
     "id": "2026-07-10T19:50:00Z_richmond/vanguard-rd",
     "timestamp": "2026-07-10T19:50:00Z",
     "scrapedAt": "2026-07-10T19:55:41Z",

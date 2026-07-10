@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-10T20:32:00Z_burnaby/nelson-ave_burnaby/lennox-lane",
+      "timestamp": "2026-07-10T20:32:00Z",
+      "address": "NELSON AVE & LENNOX LANE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/nelson-ave",
+        "burnaby/lennox-lane"
+      ],
+      "streetNames": [
+        "Nelson Ave",
+        "Lennox Lane"
+      ],
+      "pulsePointId": "2516022168"
+    },
+    {
       "id": "2026-06-23T15:34:00Z_burnaby/marine-dr_burnaby/nelson-ave",
       "timestamp": "2026-06-23T15:34:00Z",
       "address": "MARINE DR & NELSON AVE",
@@ -94,6 +109,6 @@
       "pulsePointId": "2436020332"
     }
   ],
-  "lastIncident": "2026-06-23T15:34:00Z",
-  "count": 6
+  "lastIncident": "2026-07-10T20:32:00Z",
+  "count": 7
 }

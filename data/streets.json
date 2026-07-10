@@ -2635,8 +2635,8 @@
     "name": "Nelson Ave",
     "slug": "burnaby/nelson-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-06-23T15:34:00Z",
-    "count": 6
+    "lastIncident": "2026-07-10T20:32:00Z",
+    "count": 7
   },
   "langley/216th-st": {
     "name": "216th St",
@@ -2796,8 +2796,8 @@
     "name": "Austin Ave",
     "slug": "coquitlam/austin-ave",
     "city": "Coquitlam",
-    "lastIncident": "2026-07-06T22:25:00Z",
-    "count": 9
+    "lastIncident": "2026-07-10T20:19:00Z",
+    "count": 10
   },
   "vancouver/larch-st": {
     "name": "Larch St",
@@ -14046,6 +14046,13 @@
     "slug": "west-vancouver/westport-road-ofrp",
     "city": "West Vancouver",
     "lastIncident": "2026-07-10T18:25:00Z",
+    "count": 1
+  },
+  "burnaby/lennox-lane": {
+    "name": "Lennox Lane",
+    "slug": "burnaby/lennox-lane",
+    "city": "Burnaby",
+    "lastIncident": "2026-07-10T20:32:00Z",
     "count": 1
   }
 }
