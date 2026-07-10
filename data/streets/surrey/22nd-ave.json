@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-10T08:23:00Z_surrey/162nd-st_surrey/22nd-ave",
+      "timestamp": "2026-07-10T08:23:00Z",
+      "address": "162ND ST & 22ND AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/162nd-st",
+        "surrey/22nd-ave"
+      ],
+      "streetNames": [
+        "162nd St",
+        "22nd Ave"
+      ],
+      "pulsePointId": "2515673236"
+    },
+    {
       "id": "2026-03-15T17:53:00Z_surrey/22nd-ave_surrey/124th-st",
       "timestamp": "2026-03-15T17:53:00Z",
       "address": "22ND AVE & 124TH ST",
@@ -19,6 +34,6 @@
       "pulsePointId": "2434613469"
     }
   ],
-  "lastIncident": "2026-03-15T17:53:00Z",
-  "count": 1
+  "lastIncident": "2026-07-10T08:23:00Z",
+  "count": 2
 }

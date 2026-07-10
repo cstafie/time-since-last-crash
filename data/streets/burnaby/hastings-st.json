@@ -4,6 +4,36 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-10T06:40:00Z_burnaby/hastings-st_burnaby/delta-ave",
+      "timestamp": "2026-07-10T06:40:00Z",
+      "address": "HASTINGS ST & DELTA AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/hastings-st",
+        "burnaby/delta-ave"
+      ],
+      "streetNames": [
+        "Hastings St",
+        "Delta Ave"
+      ],
+      "pulsePointId": "2515642595"
+    },
+    {
+      "id": "2026-07-10T06:39:00Z_burnaby/hastings-st_burnaby/delta-ave",
+      "timestamp": "2026-07-10T06:39:00Z",
+      "address": "HASTINGS ST & DELTA AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/hastings-st",
+        "burnaby/delta-ave"
+      ],
+      "streetNames": [
+        "Hastings St",
+        "Delta Ave"
+      ],
+      "pulsePointId": "2515642594"
+    },
+    {
       "id": "2026-06-22T23:52:00Z_burnaby/hastings-st",
       "timestamp": "2026-06-22T23:52:00Z",
       "address": "HASTINGS ST",
@@ -195,6 +225,6 @@
       "pulsePointId": "2435141614"
     }
   ],
-  "lastIncident": "2026-06-22T23:52:00Z",
-  "count": 13
+  "lastIncident": "2026-07-10T06:40:00Z",
+  "count": 15
 }

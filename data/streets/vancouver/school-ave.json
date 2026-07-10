@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/school-ave",
+  "name": "School Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-07-10T05:32:00Z_vancouver/rupert-st_vancouver/school-ave",
+      "timestamp": "2026-07-10T05:32:00Z",
+      "address": "RUPERT ST & SCHOOL AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/rupert-st",
+        "vancouver/school-ave"
+      ],
+      "streetNames": [
+        "Rupert St",
+        "School Ave"
+      ],
+      "pulsePointId": "2515619568"
+    }
+  ],
+  "lastIncident": "2026-07-10T05:32:00Z",
+  "count": 1
+}

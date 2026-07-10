@@ -1,5 +1,85 @@
 [
   {
+    "id": "2026-07-10T08:23:00Z_surrey/162nd-st_surrey/22nd-ave",
+    "timestamp": "2026-07-10T08:23:00Z",
+    "scrapedAt": "2026-07-10T08:45:52Z",
+    "address": "162ND ST & 22ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/162nd-st",
+      "surrey/22nd-ave"
+    ],
+    "streetNames": [
+      "162nd St",
+      "22nd Ave"
+    ],
+    "pulsePointId": "2515673236"
+  },
+  {
+    "id": "2026-07-10T07:48:00Z_delta/hwy-99_delta/hwy-91-onrp",
+    "timestamp": "2026-07-10T07:48:00Z",
+    "scrapedAt": "2026-07-10T08:45:52Z",
+    "address": "HWY 99 & HWY 91 ONRP",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-99",
+      "delta/hwy-91-onrp"
+    ],
+    "streetNames": [
+      "Hwy 99",
+      "Hwy 91 Onrp"
+    ],
+    "pulsePointId": "2515664578"
+  },
+  {
+    "id": "2026-07-10T06:40:00Z_burnaby/hastings-st_burnaby/delta-ave",
+    "timestamp": "2026-07-10T06:40:00Z",
+    "scrapedAt": "2026-07-10T08:45:52Z",
+    "address": "HASTINGS ST & DELTA AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/hastings-st",
+      "burnaby/delta-ave"
+    ],
+    "streetNames": [
+      "Hastings St",
+      "Delta Ave"
+    ],
+    "pulsePointId": "2515642595"
+  },
+  {
+    "id": "2026-07-10T06:39:00Z_burnaby/hastings-st_burnaby/delta-ave",
+    "timestamp": "2026-07-10T06:39:00Z",
+    "scrapedAt": "2026-07-10T08:45:52Z",
+    "address": "HASTINGS ST & DELTA AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/hastings-st",
+      "burnaby/delta-ave"
+    ],
+    "streetNames": [
+      "Hastings St",
+      "Delta Ave"
+    ],
+    "pulsePointId": "2515642594"
+  },
+  {
+    "id": "2026-07-10T05:32:00Z_vancouver/rupert-st_vancouver/school-ave",
+    "timestamp": "2026-07-10T05:32:00Z",
+    "scrapedAt": "2026-07-10T08:45:52Z",
+    "address": "RUPERT ST & SCHOOL AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/rupert-st",
+      "vancouver/school-ave"
+    ],
+    "streetNames": [
+      "Rupert St",
+      "School Ave"
+    ],
+    "pulsePointId": "2515619568"
+  },
+  {
     "id": "2026-07-10T05:07:00Z_new-westminster/brunette-ave_new-westminster/braid-st",
     "timestamp": "2026-07-10T05:07:00Z",
     "scrapedAt": "2026-07-10T05:13:49Z",
