@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-07-10T22:05:00Z_langley/mall-accs_langley/201st-st",
+      "timestamp": "2026-07-10T22:05:00Z",
+      "address": "MALL ACCS & 201ST ST",
+      "city": "Langley",
+      "streets": [
+        "langley/mall-accs",
+        "langley/201st-st"
+      ],
+      "streetNames": [
+        "Mall Accs",
+        "201st St"
+      ],
+      "pulsePointId": "2516089432"
+    },
+    {
       "id": "2026-05-22T17:07:00Z_langley/mall-accs",
       "timestamp": "2026-05-22T17:07:00Z",
       "address": "MALL ACCS",
@@ -17,6 +32,6 @@
       "pulsePointId": "2480011164"
     }
   ],
-  "lastIncident": "2026-05-22T17:07:00Z",
-  "count": 1
+  "lastIncident": "2026-07-10T22:05:00Z",
+  "count": 2
 }

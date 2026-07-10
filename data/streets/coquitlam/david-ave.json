@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-07-10T22:37:00Z_coquitlam/david-ave_coquitlam/shaughnessy-st",
+      "timestamp": "2026-07-10T22:37:00Z",
+      "address": "DAVID AVE & SHAUGHNESSY ST",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/david-ave",
+        "coquitlam/shaughnessy-st"
+      ],
+      "streetNames": [
+        "David Ave",
+        "Shaughnessy St"
+      ],
+      "pulsePointId": "2516111715"
+    },
+    {
       "id": "2026-07-09T11:58:00Z_coquitlam/david-ave_coquitlam/johnson-st",
       "timestamp": "2026-07-09T11:58:00Z",
       "address": "DAVID AVE & JOHNSON ST",
@@ -137,6 +152,6 @@
       "pulsePointId": "2432944071"
     }
   ],
-  "lastIncident": "2026-07-09T11:58:00Z",
-  "count": 9
+  "lastIncident": "2026-07-10T22:37:00Z",
+  "count": 10
 }

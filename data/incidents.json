@@ -1,5 +1,83 @@
 [
   {
+    "id": "2026-07-10T22:37:00Z_coquitlam/david-ave_coquitlam/shaughnessy-st",
+    "timestamp": "2026-07-10T22:37:00Z",
+    "scrapedAt": "2026-07-10T22:45:42Z",
+    "address": "DAVID AVE & SHAUGHNESSY ST",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/david-ave",
+      "coquitlam/shaughnessy-st"
+    ],
+    "streetNames": [
+      "David Ave",
+      "Shaughnessy St"
+    ],
+    "pulsePointId": "2516111715"
+  },
+  {
+    "id": "2026-07-10T22:31:00Z_burnaby/canada-way_burnaby/norland-ave",
+    "timestamp": "2026-07-10T22:31:00Z",
+    "scrapedAt": "2026-07-10T22:45:42Z",
+    "address": "CANADA WAY & NORLAND AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/canada-way",
+      "burnaby/norland-ave"
+    ],
+    "streetNames": [
+      "Canada Way",
+      "Norland Ave"
+    ],
+    "pulsePointId": "2516108135"
+  },
+  {
+    "id": "2026-07-10T22:15:00Z_port-moody/murray-st",
+    "timestamp": "2026-07-10T22:15:00Z",
+    "scrapedAt": "2026-07-10T22:45:42Z",
+    "address": "MURRAY ST",
+    "city": "Port Moody",
+    "streets": [
+      "port-moody/murray-st"
+    ],
+    "streetNames": [
+      "Murray St"
+    ],
+    "pulsePointId": "2516096742"
+  },
+  {
+    "id": "2026-07-10T22:09:00Z_north-vancouver/main-st_north-vancouver/mountain-hwy",
+    "timestamp": "2026-07-10T22:09:00Z",
+    "scrapedAt": "2026-07-10T22:45:42Z",
+    "address": "MAIN ST & MOUNTAIN HWY",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/main-st",
+      "north-vancouver/mountain-hwy"
+    ],
+    "streetNames": [
+      "Main St",
+      "Mountain Hwy"
+    ],
+    "pulsePointId": "2516092526"
+  },
+  {
+    "id": "2026-07-10T22:05:00Z_langley/mall-accs_langley/201st-st",
+    "timestamp": "2026-07-10T22:05:00Z",
+    "scrapedAt": "2026-07-10T22:45:42Z",
+    "address": "MALL ACCS & 201ST ST",
+    "city": "Langley",
+    "streets": [
+      "langley/mall-accs",
+      "langley/201st-st"
+    ],
+    "streetNames": [
+      "Mall Accs",
+      "201st St"
+    ],
+    "pulsePointId": "2516089432"
+  },
+  {
     "id": "2026-07-10T20:32:00Z_burnaby/nelson-ave_burnaby/lennox-lane",
     "timestamp": "2026-07-10T20:32:00Z",
     "scrapedAt": "2026-07-10T20:57:26Z",

@@ -4,6 +4,21 @@
   "city": "North Vancouver",
   "incidents": [
     {
+      "id": "2026-07-10T22:09:00Z_north-vancouver/main-st_north-vancouver/mountain-hwy",
+      "timestamp": "2026-07-10T22:09:00Z",
+      "address": "MAIN ST & MOUNTAIN HWY",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/main-st",
+        "north-vancouver/mountain-hwy"
+      ],
+      "streetNames": [
+        "Main St",
+        "Mountain Hwy"
+      ],
+      "pulsePointId": "2516092526"
+    },
+    {
       "id": "2026-06-28T22:58:00Z_north-vancouver/main-st",
       "timestamp": "2026-06-28T22:58:00Z",
       "address": "MAIN ST",
@@ -30,6 +45,6 @@
       "pulsePointId": "2462793748"
     }
   ],
-  "lastIncident": "2026-06-28T22:58:00Z",
-  "count": 2
+  "lastIncident": "2026-07-10T22:09:00Z",
+  "count": 3
 }

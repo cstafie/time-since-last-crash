@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-10T22:31:00Z_burnaby/canada-way_burnaby/norland-ave",
+      "timestamp": "2026-07-10T22:31:00Z",
+      "address": "CANADA WAY & NORLAND AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/canada-way",
+        "burnaby/norland-ave"
+      ],
+      "streetNames": [
+        "Canada Way",
+        "Norland Ave"
+      ],
+      "pulsePointId": "2516108135"
+    },
+    {
       "id": "2026-06-10T21:19:00Z_burnaby/canada-way_burnaby/norland-ave",
       "timestamp": "2026-06-10T21:19:00Z",
       "address": "CANADA WAY & NORLAND AVE",
@@ -63,6 +78,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-10T21:19:00Z",
-  "count": 4
+  "lastIncident": "2026-07-10T22:31:00Z",
+  "count": 5
 }
