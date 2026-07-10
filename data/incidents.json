@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-07-10T09:23:00Z_langley/8th-ave",
+    "timestamp": "2026-07-10T09:23:00Z",
+    "scrapedAt": "2026-07-10T11:39:17Z",
+    "address": "8TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/8th-ave"
+    ],
+    "streetNames": [
+      "8th Ave"
+    ],
+    "pulsePointId": "2515689621"
+  },
+  {
     "id": "2026-07-10T08:23:00Z_surrey/162nd-st_surrey/22nd-ave",
     "timestamp": "2026-07-10T08:23:00Z",
     "scrapedAt": "2026-07-10T08:45:52Z",
