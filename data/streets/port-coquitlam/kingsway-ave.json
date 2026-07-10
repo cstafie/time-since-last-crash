@@ -4,6 +4,21 @@
   "city": "Port Coquitlam",
   "incidents": [
     {
+      "id": "2026-07-10T00:08:00Z_port-coquitlam/coast-meridian-ovps_port-coquitlam/kingsway-ave",
+      "timestamp": "2026-07-10T00:08:00Z",
+      "address": "COAST MERIDIAN OVPS & KINGSWAY AVE",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/coast-meridian-ovps",
+        "port-coquitlam/kingsway-ave"
+      ],
+      "streetNames": [
+        "Coast Meridian Ovps",
+        "Kingsway Ave"
+      ],
+      "pulsePointId": "2515437536"
+    },
+    {
       "id": "2026-06-16T22:29:00Z_port-coquitlam/kingsway-ave",
       "timestamp": "2026-06-16T22:29:00Z",
       "address": "KINGSWAY AVE",
@@ -92,6 +107,6 @@
       "pulsePointId": "2441451190"
     }
   ],
-  "lastIncident": "2026-06-16T22:29:00Z",
-  "count": 6
+  "lastIncident": "2026-07-10T00:08:00Z",
+  "count": 7
 }

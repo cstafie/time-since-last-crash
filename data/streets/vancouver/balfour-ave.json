@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-09T23:35:00Z_vancouver/balfour-ave_vancouver/granville-st",
+      "timestamp": "2026-07-09T23:35:00Z",
+      "address": "BALFOUR AVE & GRANVILLE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/balfour-ave",
+        "vancouver/granville-st"
+      ],
+      "streetNames": [
+        "Balfour Ave",
+        "Granville St"
+      ],
+      "pulsePointId": "2515412492"
+    },
+    {
       "id": "2026-06-29T22:23:00Z_vancouver/granville-st_vancouver/balfour-ave",
       "timestamp": "2026-06-29T22:23:00Z",
       "address": "GRANVILLE ST & BALFOUR AVE",
@@ -34,6 +49,6 @@
       "pulsePointId": "2496182808"
     }
   ],
-  "lastIncident": "2026-06-29T22:23:00Z",
-  "count": 2
+  "lastIncident": "2026-07-09T23:35:00Z",
+  "count": 3
 }

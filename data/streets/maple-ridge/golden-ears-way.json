@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-07-10T00:50:00Z_maple-ridge/210th-st_maple-ridge/golden-ears-way",
+      "timestamp": "2026-07-10T00:50:00Z",
+      "address": "210TH ST & GOLDEN EARS WAY",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/210th-st",
+        "maple-ridge/golden-ears-way"
+      ],
+      "streetNames": [
+        "210th St",
+        "Golden Ears Way"
+      ],
+      "pulsePointId": "2515466788"
+    },
+    {
       "id": "2026-06-27T22:09:00Z_maple-ridge/golden-ears-way_maple-ridge/203rd-st",
       "timestamp": "2026-06-27T22:09:00Z",
       "address": "GOLDEN EARS WAY & 203RD ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2467460251"
     }
   ],
-  "lastIncident": "2026-06-27T22:09:00Z",
-  "count": 2
+  "lastIncident": "2026-07-10T00:50:00Z",
+  "count": 3
 }

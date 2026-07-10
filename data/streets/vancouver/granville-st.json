@@ -4,6 +4,34 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-09T23:36:00Z_vancouver/granville-st",
+      "timestamp": "2026-07-09T23:36:00Z",
+      "address": "GRANVILLE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st"
+      ],
+      "streetNames": [
+        "Granville St"
+      ],
+      "pulsePointId": "2515413493"
+    },
+    {
+      "id": "2026-07-09T23:35:00Z_vancouver/balfour-ave_vancouver/granville-st",
+      "timestamp": "2026-07-09T23:35:00Z",
+      "address": "BALFOUR AVE & GRANVILLE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/balfour-ave",
+        "vancouver/granville-st"
+      ],
+      "streetNames": [
+        "Balfour Ave",
+        "Granville St"
+      ],
+      "pulsePointId": "2515412492"
+    },
+    {
       "id": "2026-07-09T15:42:00Z_vancouver/granville-st_vancouver/park-dr",
       "timestamp": "2026-07-09T15:42:00Z",
       "address": "GRANVILLE ST & PARK DR",
@@ -876,6 +904,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-09T15:42:00Z",
-  "count": 59
+  "lastIncident": "2026-07-09T23:36:00Z",
+  "count": 61
 }

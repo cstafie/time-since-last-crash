@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-10T00:14:00Z_burnaby/rosser-ave_burnaby/parker-st",
+      "timestamp": "2026-07-10T00:14:00Z",
+      "address": "ROSSER AVE & PARKER ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/rosser-ave",
+        "burnaby/parker-st"
+      ],
+      "streetNames": [
+        "Rosser Ave",
+        "Parker St"
+      ],
+      "pulsePointId": "2515441932"
+    },
+    {
       "id": "2026-03-27T19:18:00Z_burnaby/rosser-ave_burnaby/lougheed-hwy",
       "timestamp": "2026-03-27T19:18:00Z",
       "address": "ROSSER AVE & LOUGHEED HWY",
@@ -19,6 +34,6 @@
       "pulsePointId": "2442626205"
     }
   ],
-  "lastIncident": "2026-03-27T19:18:00Z",
-  "count": 1
+  "lastIncident": "2026-07-10T00:14:00Z",
+  "count": 2
 }

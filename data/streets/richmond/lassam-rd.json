@@ -1,0 +1,22 @@
+{
+  "slug": "richmond/lassam-rd",
+  "name": "Lassam Rd",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-07-09T23:57:00Z_richmond/lassam-rd",
+      "timestamp": "2026-07-09T23:57:00Z",
+      "address": "LASSAM RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/lassam-rd"
+      ],
+      "streetNames": [
+        "Lassam Rd"
+      ],
+      "pulsePointId": "2515430707"
+    }
+  ],
+  "lastIncident": "2026-07-09T23:57:00Z",
+  "count": 1
+}

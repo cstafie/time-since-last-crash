@@ -1,5 +1,249 @@
 [
   {
+    "id": "2026-07-10T00:51:00Z_maple-ridge/128th-ave",
+    "timestamp": "2026-07-10T00:51:00Z",
+    "scrapedAt": "2026-07-10T01:04:48Z",
+    "address": "128TH AVE",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/128th-ave"
+    ],
+    "streetNames": [
+      "128th Ave"
+    ],
+    "pulsePointId": "2515468058"
+  },
+  {
+    "id": "2026-07-10T00:50:00Z_maple-ridge/210th-st_maple-ridge/golden-ears-way",
+    "timestamp": "2026-07-10T00:50:00Z",
+    "scrapedAt": "2026-07-10T01:04:48Z",
+    "address": "210TH ST & GOLDEN EARS WAY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/210th-st",
+      "maple-ridge/golden-ears-way"
+    ],
+    "streetNames": [
+      "210th St",
+      "Golden Ears Way"
+    ],
+    "pulsePointId": "2515466788"
+  },
+  {
+    "id": "2026-07-10T00:47:00Z_vancouver/w-2nd-ave_vancouver/manitoba-st",
+    "timestamp": "2026-07-10T00:47:00Z",
+    "scrapedAt": "2026-07-10T01:04:48Z",
+    "address": "W 2ND AVE & MANITOBA ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-2nd-ave",
+      "vancouver/manitoba-st"
+    ],
+    "streetNames": [
+      "W 2nd Ave",
+      "Manitoba St"
+    ],
+    "pulsePointId": "2515464926"
+  },
+  {
+    "id": "2026-07-10T00:14:00Z_burnaby/rosser-ave_burnaby/parker-st",
+    "timestamp": "2026-07-10T00:14:00Z",
+    "scrapedAt": "2026-07-10T01:04:48Z",
+    "address": "ROSSER AVE & PARKER ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/rosser-ave",
+      "burnaby/parker-st"
+    ],
+    "streetNames": [
+      "Rosser Ave",
+      "Parker St"
+    ],
+    "pulsePointId": "2515441932"
+  },
+  {
+    "id": "2026-07-10T00:14:00Z_burnaby/rumble-st_burnaby/boundary-rd",
+    "timestamp": "2026-07-10T00:14:00Z",
+    "scrapedAt": "2026-07-10T01:04:48Z",
+    "address": "RUMBLE ST & BOUNDARY RD",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/rumble-st",
+      "burnaby/boundary-rd"
+    ],
+    "streetNames": [
+      "Rumble St",
+      "Boundary Rd"
+    ],
+    "pulsePointId": "2515441282"
+  },
+  {
+    "id": "2026-07-10T00:08:00Z_port-coquitlam/coast-meridian-ovps_port-coquitlam/kingsway-ave",
+    "timestamp": "2026-07-10T00:08:00Z",
+    "scrapedAt": "2026-07-10T01:04:48Z",
+    "address": "COAST MERIDIAN OVPS & KINGSWAY AVE",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/coast-meridian-ovps",
+      "port-coquitlam/kingsway-ave"
+    ],
+    "streetNames": [
+      "Coast Meridian Ovps",
+      "Kingsway Ave"
+    ],
+    "pulsePointId": "2515437536"
+  },
+  {
+    "id": "2026-07-10T00:05:00Z_vancouver/e-33rd-ave",
+    "timestamp": "2026-07-10T00:05:00Z",
+    "scrapedAt": "2026-07-10T01:04:48Z",
+    "address": "E 33RD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-33rd-ave"
+    ],
+    "streetNames": [
+      "E 33rd Ave"
+    ],
+    "pulsePointId": "2515436781"
+  },
+  {
+    "id": "2026-07-09T23:57:00Z_richmond/lassam-rd",
+    "timestamp": "2026-07-09T23:57:00Z",
+    "scrapedAt": "2026-07-10T01:04:48Z",
+    "address": "LASSAM RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/lassam-rd"
+    ],
+    "streetNames": [
+      "Lassam Rd"
+    ],
+    "pulsePointId": "2515430707"
+  },
+  {
+    "id": "2026-07-09T23:54:00Z_surrey/104th-ave",
+    "timestamp": "2026-07-09T23:54:00Z",
+    "scrapedAt": "2026-07-10T01:04:48Z",
+    "address": "104TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/104th-ave"
+    ],
+    "streetNames": [
+      "104th Ave"
+    ],
+    "pulsePointId": "2515427137"
+  },
+  {
+    "id": "2026-07-09T23:45:00Z_chilliwack/keith-wilson-rd_chilliwack/dieppe-st",
+    "timestamp": "2026-07-09T23:45:00Z",
+    "scrapedAt": "2026-07-10T01:04:48Z",
+    "address": "KEITH WILSON RD & DIEPPE ST",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/keith-wilson-rd",
+      "chilliwack/dieppe-st"
+    ],
+    "streetNames": [
+      "Keith Wilson Rd",
+      "Dieppe St"
+    ],
+    "pulsePointId": "2515421066"
+  },
+  {
+    "id": "2026-07-09T23:37:00Z_surrey/64th-ave_surrey/160th-st",
+    "timestamp": "2026-07-09T23:37:00Z",
+    "scrapedAt": "2026-07-10T01:04:48Z",
+    "address": "64TH AVE & 160TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/64th-ave",
+      "surrey/160th-st"
+    ],
+    "streetNames": [
+      "64th Ave",
+      "160th St"
+    ],
+    "pulsePointId": "2515416142"
+  },
+  {
+    "id": "2026-07-09T23:36:00Z_vancouver/granville-st",
+    "timestamp": "2026-07-09T23:36:00Z",
+    "scrapedAt": "2026-07-10T01:04:48Z",
+    "address": "GRANVILLE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st"
+    ],
+    "streetNames": [
+      "Granville St"
+    ],
+    "pulsePointId": "2515413493"
+  },
+  {
+    "id": "2026-07-09T23:35:00Z_vancouver/balfour-ave_vancouver/granville-st",
+    "timestamp": "2026-07-09T23:35:00Z",
+    "scrapedAt": "2026-07-10T01:04:48Z",
+    "address": "BALFOUR AVE & GRANVILLE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/balfour-ave",
+      "vancouver/granville-st"
+    ],
+    "streetNames": [
+      "Balfour Ave",
+      "Granville St"
+    ],
+    "pulsePointId": "2515412492"
+  },
+  {
+    "id": "2026-07-09T23:33:00Z_coquitlam/trans-canada-hwy",
+    "timestamp": "2026-07-09T23:33:00Z",
+    "scrapedAt": "2026-07-10T01:04:48Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2515412491"
+  },
+  {
+    "id": "2026-07-09T23:28:00Z_vancouver/kingsway_vancouver/knight-st",
+    "timestamp": "2026-07-09T23:28:00Z",
+    "scrapedAt": "2026-07-10T01:04:48Z",
+    "address": "KINGSWAY & KNIGHT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kingsway",
+      "vancouver/knight-st"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "Knight St"
+    ],
+    "pulsePointId": "2515407708"
+  },
+  {
+    "id": "2026-07-09T23:12:00Z_surrey/park-accs_surrey/88th-ave",
+    "timestamp": "2026-07-09T23:12:00Z",
+    "scrapedAt": "2026-07-10T01:04:48Z",
+    "address": "PARK ACCS & 88TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/park-accs",
+      "surrey/88th-ave"
+    ],
+    "streetNames": [
+      "Park Accs",
+      "88th Ave"
+    ],
+    "pulsePointId": "2515397550"
+  },
+  {
     "id": "2026-07-09T21:59:00Z_vancouver/e-broadway",
     "timestamp": "2026-07-09T21:59:00Z",
     "scrapedAt": "2026-07-09T23:01:40Z",

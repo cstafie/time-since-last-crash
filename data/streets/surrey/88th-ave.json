@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-09T23:12:00Z_surrey/park-accs_surrey/88th-ave",
+      "timestamp": "2026-07-09T23:12:00Z",
+      "address": "PARK ACCS & 88TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/park-accs",
+        "surrey/88th-ave"
+      ],
+      "streetNames": [
+        "Park Accs",
+        "88th Ave"
+      ],
+      "pulsePointId": "2515397550"
+    },
+    {
       "id": "2026-07-09T14:05:00Z_surrey/140th-st_surrey/88th-ave",
       "timestamp": "2026-07-09T14:05:00Z",
       "address": "140TH ST & 88TH AVE",
@@ -635,6 +650,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-09T14:05:00Z",
-  "count": 43
+  "lastIncident": "2026-07-09T23:12:00Z",
+  "count": 44
 }

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-10T00:47:00Z_vancouver/w-2nd-ave_vancouver/manitoba-st",
+      "timestamp": "2026-07-10T00:47:00Z",
+      "address": "W 2ND AVE & MANITOBA ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-2nd-ave",
+        "vancouver/manitoba-st"
+      ],
+      "streetNames": [
+        "W 2nd Ave",
+        "Manitoba St"
+      ],
+      "pulsePointId": "2515464926"
+    },
+    {
       "id": "2026-05-31T00:10:00Z_vancouver/w-king-edward-ave_vancouver/manitoba-st",
       "timestamp": "2026-05-31T00:10:00Z",
       "address": "W KING EDWARD AVE & MANITOBA ST",
@@ -94,6 +109,6 @@
       "pulsePointId": "2451848619"
     }
   ],
-  "lastIncident": "2026-05-31T00:10:00Z",
-  "count": 6
+  "lastIncident": "2026-07-10T00:47:00Z",
+  "count": 7
 }

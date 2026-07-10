@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-10T00:14:00Z_burnaby/rosser-ave_burnaby/parker-st",
+      "timestamp": "2026-07-10T00:14:00Z",
+      "address": "ROSSER AVE & PARKER ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/rosser-ave",
+        "burnaby/parker-st"
+      ],
+      "streetNames": [
+        "Rosser Ave",
+        "Parker St"
+      ],
+      "pulsePointId": "2515441932"
+    },
+    {
       "id": "2026-05-15T22:00:00Z_burnaby/parker-st",
       "timestamp": "2026-05-15T22:00:00Z",
       "address": "PARKER ST",
@@ -30,6 +45,6 @@
       "pulsePointId": "2473486845"
     }
   ],
-  "lastIncident": "2026-05-15T22:00:00Z",
-  "count": 2
+  "lastIncident": "2026-07-10T00:14:00Z",
+  "count": 3
 }

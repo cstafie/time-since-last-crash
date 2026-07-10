@@ -1,0 +1,24 @@
+{
+  "slug": "chilliwack/dieppe-st",
+  "name": "Dieppe St",
+  "city": "Chilliwack",
+  "incidents": [
+    {
+      "id": "2026-07-09T23:45:00Z_chilliwack/keith-wilson-rd_chilliwack/dieppe-st",
+      "timestamp": "2026-07-09T23:45:00Z",
+      "address": "KEITH WILSON RD & DIEPPE ST",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/keith-wilson-rd",
+        "chilliwack/dieppe-st"
+      ],
+      "streetNames": [
+        "Keith Wilson Rd",
+        "Dieppe St"
+      ],
+      "pulsePointId": "2515421066"
+    }
+  ],
+  "lastIncident": "2026-07-09T23:45:00Z",
+  "count": 1
+}

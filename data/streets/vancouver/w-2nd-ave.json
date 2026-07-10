@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-10T00:47:00Z_vancouver/w-2nd-ave_vancouver/manitoba-st",
+      "timestamp": "2026-07-10T00:47:00Z",
+      "address": "W 2ND AVE & MANITOBA ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-2nd-ave",
+        "vancouver/manitoba-st"
+      ],
+      "streetNames": [
+        "W 2nd Ave",
+        "Manitoba St"
+      ],
+      "pulsePointId": "2515464926"
+    },
+    {
       "id": "2026-06-12T18:55:00Z_vancouver/w-2nd-ave_vancouver/blanca-st",
       "timestamp": "2026-06-12T18:55:00Z",
       "address": "W 2ND AVE & BLANCA ST",
@@ -124,6 +139,6 @@
       "pulsePointId": "2442265889"
     }
   ],
-  "lastIncident": "2026-06-12T18:55:00Z",
-  "count": 8
+  "lastIncident": "2026-07-10T00:47:00Z",
+  "count": 9
 }

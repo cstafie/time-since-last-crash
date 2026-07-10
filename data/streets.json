@@ -108,8 +108,8 @@
     "name": "Keith Wilson Rd",
     "slug": "chilliwack/keith-wilson-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-07-01T19:59:00Z",
-    "count": 8
+    "lastIncident": "2026-07-09T23:45:00Z",
+    "count": 9
   },
   "chilliwack/prairie-central-rd": {
     "name": "Prairie Central Rd",
@@ -598,8 +598,8 @@
     "name": "64th Ave",
     "slug": "surrey/64th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-06T18:55:00Z",
-    "count": 28
+    "lastIncident": "2026-07-09T23:37:00Z",
+    "count": 29
   },
   "surrey/72a-ave": {
     "name": "72a Ave",
@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-09T14:05:00Z",
-    "count": 43
+    "lastIncident": "2026-07-09T23:12:00Z",
+    "count": 44
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",
@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-09T15:42:00Z",
-    "count": 59
+    "lastIncident": "2026-07-09T23:36:00Z",
+    "count": 61
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -745,15 +745,15 @@
     "name": "Kingsway",
     "slug": "vancouver/kingsway",
     "city": "Vancouver",
-    "lastIncident": "2026-07-01T19:57:00Z",
-    "count": 26
+    "lastIncident": "2026-07-09T23:28:00Z",
+    "count": 27
   },
   "vancouver/knight-st": {
     "name": "Knight St",
     "slug": "vancouver/knight-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-07T21:50:00Z",
-    "count": 33
+    "lastIncident": "2026-07-09T23:28:00Z",
+    "count": 34
   },
   "vancouver/lower-mall": {
     "name": "Lower Mall",
@@ -1032,8 +1032,8 @@
     "name": "160th St",
     "slug": "surrey/160th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-01T02:37:00Z",
-    "count": 21
+    "lastIncident": "2026-07-09T23:37:00Z",
+    "count": 22
   },
   "vancouver/e-28th-ave": {
     "name": "E 28th Ave",
@@ -1312,8 +1312,8 @@
     "name": "104th Ave",
     "slug": "surrey/104th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-09T21:55:00Z",
-    "count": 45
+    "lastIncident": "2026-07-09T23:54:00Z",
+    "count": 46
   },
   "surrey/122nd-st": {
     "name": "122nd St",
@@ -1718,8 +1718,8 @@
     "name": "128th Ave",
     "slug": "maple-ridge/128th-ave",
     "city": "Maple Ridge",
-    "lastIncident": "2026-03-13T13:39:00Z",
-    "count": 1
+    "lastIncident": "2026-07-10T00:51:00Z",
+    "count": 2
   },
   "richmond/knight-st": {
     "name": "Knight St",
@@ -2040,8 +2040,8 @@
     "name": "Trans Canada Hwy",
     "slug": "coquitlam/trans-canada-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-06-28T22:41:00Z",
-    "count": 21
+    "lastIncident": "2026-07-09T23:33:00Z",
+    "count": 22
   },
   "langley/202a-st": {
     "name": "202a St",
@@ -2782,8 +2782,8 @@
     "name": "Boundary Rd",
     "slug": "burnaby/boundary-rd",
     "city": "Burnaby",
-    "lastIncident": "2026-07-06T22:41:00Z",
-    "count": 17
+    "lastIncident": "2026-07-10T00:14:00Z",
+    "count": 18
   },
   "coquitlam/westview-st": {
     "name": "Westview St",
@@ -3937,8 +3937,8 @@
     "name": "E 33rd Ave",
     "slug": "vancouver/e-33rd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-02T23:38:00Z",
-    "count": 10
+    "lastIncident": "2026-07-10T00:05:00Z",
+    "count": 11
   },
   "surrey/university-dr": {
     "name": "University Dr",
@@ -4049,8 +4049,8 @@
     "name": "Kingsway Ave",
     "slug": "port-coquitlam/kingsway-ave",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-06-16T22:29:00Z",
-    "count": 6
+    "lastIncident": "2026-07-10T00:08:00Z",
+    "count": 7
   },
   "surrey/192nd-street-ofrp": {
     "name": "192nd Street Ofrp",
@@ -4161,8 +4161,8 @@
     "name": "W 2nd Ave",
     "slug": "vancouver/w-2nd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-12T18:55:00Z",
-    "count": 8
+    "lastIncident": "2026-07-10T00:47:00Z",
+    "count": 9
   },
   "vancouver/e-21st-ave": {
     "name": "E 21st Ave",
@@ -4203,8 +4203,8 @@
     "name": "Rosser Ave",
     "slug": "burnaby/rosser-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-03-27T19:18:00Z",
-    "count": 1
+    "lastIncident": "2026-07-10T00:14:00Z",
+    "count": 2
   },
   "richmond/pigott-rd": {
     "name": "Pigott Rd",
@@ -6219,8 +6219,8 @@
     "name": "Manitoba St",
     "slug": "vancouver/manitoba-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-31T00:10:00Z",
-    "count": 6
+    "lastIncident": "2026-07-10T00:47:00Z",
+    "count": 7
   },
   "surrey/coventry-rd": {
     "name": "Coventry Rd",
@@ -6569,8 +6569,8 @@
     "name": "Rumble St",
     "slug": "burnaby/rumble-st",
     "city": "Burnaby",
-    "lastIncident": "2026-05-04T01:48:00Z",
-    "count": 3
+    "lastIncident": "2026-07-10T00:14:00Z",
+    "count": 4
   },
   "burnaby/buller-ave": {
     "name": "Buller Ave",
@@ -8788,8 +8788,8 @@
     "name": "Golden Ears Way",
     "slug": "maple-ridge/golden-ears-way",
     "city": "Maple Ridge",
-    "lastIncident": "2026-06-27T22:09:00Z",
-    "count": 2
+    "lastIncident": "2026-07-10T00:50:00Z",
+    "count": 3
   },
   "north-vancouver/browning-pl": {
     "name": "Browning Pl",
@@ -9474,8 +9474,8 @@
     "name": "Parker St",
     "slug": "burnaby/parker-st",
     "city": "Burnaby",
-    "lastIncident": "2026-05-15T22:00:00Z",
-    "count": 2
+    "lastIncident": "2026-07-10T00:14:00Z",
+    "count": 3
   },
   "surrey/32nd-avenue-dvrs": {
     "name": "32nd Avenue Dvrs",
@@ -12176,8 +12176,8 @@
     "name": "Balfour Ave",
     "slug": "vancouver/balfour-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-29T22:23:00Z",
-    "count": 2
+    "lastIncident": "2026-07-09T23:35:00Z",
+    "count": 3
   },
   "surrey/tannery-road-ofrp": {
     "name": "Tannery Road Ofrp",
@@ -13941,6 +13941,41 @@
     "slug": "delta/audley-blvd",
     "city": "Delta",
     "lastIncident": "2026-07-09T21:57:00Z",
+    "count": 1
+  },
+  "maple-ridge/210th-st": {
+    "name": "210th St",
+    "slug": "maple-ridge/210th-st",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-07-10T00:50:00Z",
+    "count": 1
+  },
+  "port-coquitlam/coast-meridian-ovps": {
+    "name": "Coast Meridian Ovps",
+    "slug": "port-coquitlam/coast-meridian-ovps",
+    "city": "Port Coquitlam",
+    "lastIncident": "2026-07-10T00:08:00Z",
+    "count": 1
+  },
+  "richmond/lassam-rd": {
+    "name": "Lassam Rd",
+    "slug": "richmond/lassam-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-07-09T23:57:00Z",
+    "count": 1
+  },
+  "chilliwack/dieppe-st": {
+    "name": "Dieppe St",
+    "slug": "chilliwack/dieppe-st",
+    "city": "Chilliwack",
+    "lastIncident": "2026-07-09T23:45:00Z",
+    "count": 1
+  },
+  "surrey/park-accs": {
+    "name": "Park Accs",
+    "slug": "surrey/park-accs",
+    "city": "Surrey",
+    "lastIncident": "2026-07-09T23:12:00Z",
     "count": 1
   }
 }

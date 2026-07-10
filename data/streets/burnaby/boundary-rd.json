@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-10T00:14:00Z_burnaby/rumble-st_burnaby/boundary-rd",
+      "timestamp": "2026-07-10T00:14:00Z",
+      "address": "RUMBLE ST & BOUNDARY RD",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/rumble-st",
+        "burnaby/boundary-rd"
+      ],
+      "streetNames": [
+        "Rumble St",
+        "Boundary Rd"
+      ],
+      "pulsePointId": "2515441282"
+    },
+    {
       "id": "2026-07-06T22:41:00Z_burnaby/moscrop-st_burnaby/boundary-rd",
       "timestamp": "2026-07-06T22:41:00Z",
       "address": "MOSCROP ST & BOUNDARY RD",
@@ -257,6 +272,6 @@
       "pulsePointId": "2436452941"
     }
   ],
-  "lastIncident": "2026-07-06T22:41:00Z",
-  "count": 17
+  "lastIncident": "2026-07-10T00:14:00Z",
+  "count": 18
 }
