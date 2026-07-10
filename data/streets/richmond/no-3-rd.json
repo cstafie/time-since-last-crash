@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-10T03:49:00Z_richmond/no-3-rd_richmond/capstan-way",
+      "timestamp": "2026-07-10T03:49:00Z",
+      "address": "NO 3 RD & CAPSTAN WAY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/no-3-rd",
+        "richmond/capstan-way"
+      ],
+      "streetNames": [
+        "No 3 Rd",
+        "Capstan Way"
+      ],
+      "pulsePointId": "2515573874"
+    },
+    {
       "id": "2026-07-01T19:27:00Z_richmond/no-3-rd",
       "timestamp": "2026-07-01T19:27:00Z",
       "address": "NO 3 RD",
@@ -335,6 +350,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-01T19:27:00Z",
-  "count": 23
+  "lastIncident": "2026-07-10T03:49:00Z",
+  "count": 24
 }

@@ -1,5 +1,111 @@
 [
   {
+    "id": "2026-07-10T05:07:00Z_new-westminster/brunette-ave_new-westminster/braid-st",
+    "timestamp": "2026-07-10T05:07:00Z",
+    "scrapedAt": "2026-07-10T05:13:49Z",
+    "address": "BRUNETTE AVE & BRAID ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/brunette-ave",
+      "new-westminster/braid-st"
+    ],
+    "streetNames": [
+      "Brunette Ave",
+      "Braid St"
+    ],
+    "pulsePointId": "2515608295"
+  },
+  {
+    "id": "2026-07-10T03:56:00Z_vancouver/miller-st",
+    "timestamp": "2026-07-10T03:56:00Z",
+    "scrapedAt": "2026-07-10T05:13:49Z",
+    "address": "MILLER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/miller-st"
+    ],
+    "streetNames": [
+      "Miller St"
+    ],
+    "pulsePointId": "2515578671"
+  },
+  {
+    "id": "2026-07-10T03:49:00Z_richmond/no-3-rd_richmond/capstan-way",
+    "timestamp": "2026-07-10T03:49:00Z",
+    "scrapedAt": "2026-07-10T05:13:49Z",
+    "address": "NO 3 RD & CAPSTAN WAY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/no-3-rd",
+      "richmond/capstan-way"
+    ],
+    "streetNames": [
+      "No 3 Rd",
+      "Capstan Way"
+    ],
+    "pulsePointId": "2515573874"
+  },
+  {
+    "id": "2026-07-10T03:43:00Z_surrey/150th-st",
+    "timestamp": "2026-07-10T03:43:00Z",
+    "scrapedAt": "2026-07-10T05:13:49Z",
+    "address": "150TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/150th-st"
+    ],
+    "streetNames": [
+      "150th St"
+    ],
+    "pulsePointId": "2515570297"
+  },
+  {
+    "id": "2026-07-10T03:38:00Z_abbotsford/king-rd",
+    "timestamp": "2026-07-10T03:38:00Z",
+    "scrapedAt": "2026-07-10T05:13:49Z",
+    "address": "KING RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/king-rd"
+    ],
+    "streetNames": [
+      "King Rd"
+    ],
+    "pulsePointId": "2515566635"
+  },
+  {
+    "id": "2026-07-10T01:45:00Z_surrey/16th-ave_surrey/162nd-st",
+    "timestamp": "2026-07-10T01:45:00Z",
+    "scrapedAt": "2026-07-10T05:13:49Z",
+    "address": "16TH AVE & 162ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/16th-ave",
+      "surrey/162nd-st"
+    ],
+    "streetNames": [
+      "16th Ave",
+      "162nd St"
+    ],
+    "pulsePointId": "2515503569"
+  },
+  {
+    "id": "2026-07-10T01:19:00Z_vancouver/kingsway_vancouver/e-10th-ave",
+    "timestamp": "2026-07-10T01:19:00Z",
+    "scrapedAt": "2026-07-10T05:13:49Z",
+    "address": "KINGSWAY & E 10TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kingsway",
+      "vancouver/e-10th-ave"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "E 10th Ave"
+    ],
+    "pulsePointId": "2515485725"
+  },
+  {
     "id": "2026-07-10T00:51:00Z_maple-ridge/128th-ave",
     "timestamp": "2026-07-10T00:51:00Z",
     "scrapedAt": "2026-07-10T01:04:48Z",

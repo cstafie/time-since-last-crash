@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-10T01:19:00Z_vancouver/kingsway_vancouver/e-10th-ave",
+      "timestamp": "2026-07-10T01:19:00Z",
+      "address": "KINGSWAY & E 10TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/kingsway",
+        "vancouver/e-10th-ave"
+      ],
+      "streetNames": [
+        "Kingsway",
+        "E 10th Ave"
+      ],
+      "pulsePointId": "2515485725"
+    },
+    {
       "id": "2026-07-09T23:28:00Z_vancouver/kingsway_vancouver/knight-st",
       "timestamp": "2026-07-09T23:28:00Z",
       "address": "KINGSWAY & KNIGHT ST",
@@ -400,6 +415,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-09T23:28:00Z",
-  "count": 27
+  "lastIncident": "2026-07-10T01:19:00Z",
+  "count": 28
 }
