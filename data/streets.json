@@ -199,8 +199,8 @@
     "name": "Ladner Trunk Rd",
     "slug": "delta/ladner-trunk-rd",
     "city": "Delta",
-    "lastIncident": "2026-06-17T13:58:00Z",
-    "count": 16
+    "lastIncident": "2026-07-10T16:05:00Z",
+    "count": 17
   },
   "langley/216th-street-ofrp": {
     "name": "216th Street Ofrp",
@@ -325,8 +325,8 @@
     "name": "Lougheed Hwy",
     "slug": "maple-ridge/lougheed-hwy",
     "city": "Maple Ridge",
-    "lastIncident": "2026-07-05T23:52:00Z",
-    "count": 34
+    "lastIncident": "2026-07-10T15:39:00Z",
+    "count": 35
   },
   "mission/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -556,8 +556,8 @@
     "name": "140th St",
     "slug": "surrey/140th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-09T14:05:00Z",
-    "count": 40
+    "lastIncident": "2026-07-10T15:33:00Z",
+    "count": 41
   },
   "surrey/141a-st": {
     "name": "141a St",
@@ -647,8 +647,8 @@
     "name": "96th Ave",
     "slug": "surrey/96th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-08T22:39:00Z",
-    "count": 38
+    "lastIncident": "2026-07-10T15:33:00Z",
+    "count": 39
   },
   "surrey/bolivar-rd": {
     "name": "Bolivar Rd",
@@ -2194,8 +2194,8 @@
     "name": "Fir St",
     "slug": "vancouver/fir-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-09T21:53:00Z",
-    "count": 5
+    "lastIncident": "2026-07-10T14:45:00Z",
+    "count": 6
   },
   "vancouver/w-11th-ave": {
     "name": "W 11th Ave",
@@ -2474,8 +2474,8 @@
     "name": "240th St",
     "slug": "maple-ridge/240th-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-04-09T19:23:00Z",
-    "count": 4
+    "lastIncident": "2026-07-10T15:39:00Z",
+    "count": 5
   },
   "vancouver/pacific-blvd": {
     "name": "Pacific Blvd",
@@ -6065,8 +6065,8 @@
     "name": "W 14th Ave",
     "slug": "vancouver/w-14th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-07T01:12:00Z",
-    "count": 2
+    "lastIncident": "2026-07-10T14:45:00Z",
+    "count": 3
   },
   "vancouver/waterloo-st": {
     "name": "Waterloo St",
@@ -10216,8 +10216,8 @@
     "name": "197th St",
     "slug": "langley/197th-st",
     "city": "Langley",
-    "lastIncident": "2026-05-28T22:11:00Z",
-    "count": 2
+    "lastIncident": "2026-07-10T14:07:00Z",
+    "count": 3
   },
   "langley/76th-ave": {
     "name": "76th Ave",
@@ -13997,6 +13997,13 @@
     "slug": "vancouver/school-ave",
     "city": "Vancouver",
     "lastIncident": "2026-07-10T05:32:00Z",
+    "count": 1
+  },
+  "delta/55b-st": {
+    "name": "55b St",
+    "slug": "delta/55b-st",
+    "city": "Delta",
+    "lastIncident": "2026-07-10T16:05:00Z",
     "count": 1
   }
 }

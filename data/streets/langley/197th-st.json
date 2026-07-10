@@ -4,6 +4,19 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-07-10T14:07:00Z_langley/197th-st",
+      "timestamp": "2026-07-10T14:07:00Z",
+      "address": "197TH ST",
+      "city": "Langley",
+      "streets": [
+        "langley/197th-st"
+      ],
+      "streetNames": [
+        "197th St"
+      ],
+      "pulsePointId": "2515777550"
+    },
+    {
       "id": "2026-05-28T22:11:00Z_langley/197th-st",
       "timestamp": "2026-05-28T22:11:00Z",
       "address": "197TH ST",
@@ -32,6 +45,6 @@
       "pulsePointId": "2480213923"
     }
   ],
-  "lastIncident": "2026-05-28T22:11:00Z",
-  "count": 2
+  "lastIncident": "2026-07-10T14:07:00Z",
+  "count": 3
 }

@@ -1,0 +1,24 @@
+{
+  "slug": "delta/55b-st",
+  "name": "55b St",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-07-10T16:05:00Z_delta/ladner-trunk-rd_delta/55b-st",
+      "timestamp": "2026-07-10T16:05:00Z",
+      "address": "LADNER TRUNK RD & 55B ST",
+      "city": "Delta",
+      "streets": [
+        "delta/ladner-trunk-rd",
+        "delta/55b-st"
+      ],
+      "streetNames": [
+        "Ladner Trunk Rd",
+        "55b St"
+      ],
+      "pulsePointId": "2515841761"
+    }
+  ],
+  "lastIncident": "2026-07-10T16:05:00Z",
+  "count": 1
+}

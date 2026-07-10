@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-07-10T15:39:00Z_maple-ridge/lougheed-hwy_maple-ridge/240th-st",
+      "timestamp": "2026-07-10T15:39:00Z",
+      "address": "LOUGHEED HWY & 240TH ST",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/lougheed-hwy",
+        "maple-ridge/240th-st"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "240th St"
+      ],
+      "pulsePointId": "2515827280"
+    },
+    {
       "id": "2026-04-09T19:23:00Z_maple-ridge/240th-st",
       "timestamp": "2026-04-09T19:23:00Z",
       "address": "240TH ST",
@@ -62,6 +77,6 @@
       "pulsePointId": "2435629259"
     }
   ],
-  "lastIncident": "2026-04-09T19:23:00Z",
-  "count": 4
+  "lastIncident": "2026-07-10T15:39:00Z",
+  "count": 5
 }
