@@ -4,6 +4,21 @@
   "city": "Mission",
   "incidents": [
     {
+      "id": "2026-07-11T22:58:00Z_mission/dewdney-trunk-rd_mission/lougheed-hwy",
+      "timestamp": "2026-07-11T22:58:00Z",
+      "address": "DEWDNEY TRUNK RD & LOUGHEED HWY",
+      "city": "Mission",
+      "streets": [
+        "mission/dewdney-trunk-rd",
+        "mission/lougheed-hwy"
+      ],
+      "streetNames": [
+        "Dewdney Trunk Rd",
+        "Lougheed Hwy"
+      ],
+      "pulsePointId": "2516852591"
+    },
+    {
       "id": "2026-07-08T22:14:00Z_mission/hwy-11_mission/lougheed-hwy",
       "timestamp": "2026-07-08T22:14:00Z",
       "address": "HWY 11 & LOUGHEED HWY",
@@ -138,6 +153,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-08T22:14:00Z",
-  "count": 9
+  "lastIncident": "2026-07-11T22:58:00Z",
+  "count": 10
 }

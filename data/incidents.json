@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-07-11T22:58:00Z_mission/dewdney-trunk-rd_mission/lougheed-hwy",
+    "timestamp": "2026-07-11T22:58:00Z",
+    "scrapedAt": "2026-07-11T23:39:51Z",
+    "address": "DEWDNEY TRUNK RD & LOUGHEED HWY",
+    "city": "Mission",
+    "streets": [
+      "mission/dewdney-trunk-rd",
+      "mission/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Dewdney Trunk Rd",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2516852591"
+  },
+  {
+    "id": "2026-07-11T22:42:00Z_coquitlam/port-mann-brdg",
+    "timestamp": "2026-07-11T22:42:00Z",
+    "scrapedAt": "2026-07-11T23:39:51Z",
+    "address": "PORT MANN BRDG",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/port-mann-brdg"
+    ],
+    "streetNames": [
+      "Port Mann Brdg"
+    ],
+    "pulsePointId": "2516844453"
+  },
+  {
     "id": "2026-07-11T22:30:00Z_coquitlam/lougheed-hwy_coquitlam/pitt-river-rd",
     "timestamp": "2026-07-11T22:30:00Z",
     "scrapedAt": "2026-07-11T22:34:41Z",

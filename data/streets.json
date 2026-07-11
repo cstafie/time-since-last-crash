@@ -332,8 +332,8 @@
     "name": "Lougheed Hwy",
     "slug": "mission/lougheed-hwy",
     "city": "Mission",
-    "lastIncident": "2026-07-08T22:14:00Z",
-    "count": 9
+    "lastIncident": "2026-07-11T22:58:00Z",
+    "count": 10
   },
   "mission/wren-st": {
     "name": "Wren St",
@@ -1998,8 +1998,8 @@
     "name": "Port Mann Brdg",
     "slug": "coquitlam/port-mann-brdg",
     "city": "Coquitlam",
-    "lastIncident": "2026-06-23T13:31:00Z",
-    "count": 8
+    "lastIncident": "2026-07-11T22:42:00Z",
+    "count": 9
   },
   "new-westminster/3rd-ave": {
     "name": "3rd Ave",
@@ -5799,8 +5799,8 @@
     "name": "Dewdney Trunk Rd",
     "slug": "mission/dewdney-trunk-rd",
     "city": "Mission",
-    "lastIncident": "2026-07-02T03:36:00Z",
-    "count": 4
+    "lastIncident": "2026-07-11T22:58:00Z",
+    "count": 5
   },
   "mission/creston-ave": {
     "name": "Creston Ave",
