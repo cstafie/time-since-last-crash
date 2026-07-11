@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-07-11T20:22:00Z_surrey/176th-st_surrey/40th-ave",
+    "timestamp": "2026-07-11T20:22:00Z",
+    "scrapedAt": "2026-07-11T20:35:47Z",
+    "address": "176TH ST & 40TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/176th-st",
+      "surrey/40th-ave"
+    ],
+    "streetNames": [
+      "176th St",
+      "40th Ave"
+    ],
+    "pulsePointId": "2516754009"
+  },
+  {
+    "id": "2026-07-11T20:08:00Z_vancouver/w-10th-ave",
+    "timestamp": "2026-07-11T20:08:00Z",
+    "scrapedAt": "2026-07-11T20:35:47Z",
+    "address": "W 10TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-10th-ave"
+    ],
+    "streetNames": [
+      "W 10th Ave"
+    ],
+    "pulsePointId": "2516742475"
+  },
+  {
+    "id": "2026-07-11T20:03:00Z_vancouver/e-broadway",
+    "timestamp": "2026-07-11T20:03:00Z",
+    "scrapedAt": "2026-07-11T20:35:47Z",
+    "address": "E BROADWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-broadway"
+    ],
+    "streetNames": [
+      "E Broadway"
+    ],
+    "pulsePointId": "2516740341"
+  },
+  {
+    "id": "2026-07-11T19:41:00Z_richmond/beckwith-rd_richmond/great-canadian-way",
+    "timestamp": "2026-07-11T19:41:00Z",
+    "scrapedAt": "2026-07-11T20:35:47Z",
+    "address": "BECKWITH RD & GREAT CANADIAN WAY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/beckwith-rd",
+      "richmond/great-canadian-way"
+    ],
+    "streetNames": [
+      "Beckwith Rd",
+      "Great Canadian Way"
+    ],
+    "pulsePointId": "2516725809"
+  },
+  {
     "id": "2026-07-11T19:22:00Z_chilliwack/yale-rd",
     "timestamp": "2026-07-11T19:22:00Z",
     "scrapedAt": "2026-07-11T19:37:11Z",

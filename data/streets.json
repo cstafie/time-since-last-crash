@@ -885,8 +885,8 @@
     "name": "176th St",
     "slug": "surrey/176th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-07T09:55:00Z",
-    "count": 45
+    "lastIncident": "2026-07-11T20:22:00Z",
+    "count": 46
   },
   "surrey/100th-ave": {
     "name": "100th Ave",
@@ -1151,8 +1151,8 @@
     "name": "W 10th Ave",
     "slug": "vancouver/w-10th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-11T02:11:00Z",
-    "count": 10
+    "lastIncident": "2026-07-11T20:08:00Z",
+    "count": 11
   },
   "surrey/57th-ave": {
     "name": "57th Ave",
@@ -1830,8 +1830,8 @@
     "name": "40th Ave",
     "slug": "surrey/40th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-05T22:20:00Z",
-    "count": 6
+    "lastIncident": "2026-07-11T20:22:00Z",
+    "count": 7
   },
   "chilliwack/vedder-rd": {
     "name": "Vedder Rd",
@@ -2467,8 +2467,8 @@
     "name": "E Broadway",
     "slug": "vancouver/e-broadway",
     "city": "Vancouver",
-    "lastIncident": "2026-07-09T21:59:00Z",
-    "count": 16
+    "lastIncident": "2026-07-11T20:03:00Z",
+    "count": 17
   },
   "maple-ridge/240th-st": {
     "name": "240th St",
@@ -14081,6 +14081,20 @@
     "slug": "mission/7230-park-st",
     "city": "Mission",
     "lastIncident": "2026-07-11T18:36:00Z",
+    "count": 1
+  },
+  "richmond/beckwith-rd": {
+    "name": "Beckwith Rd",
+    "slug": "richmond/beckwith-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-07-11T19:41:00Z",
+    "count": 1
+  },
+  "richmond/great-canadian-way": {
+    "name": "Great Canadian Way",
+    "slug": "richmond/great-canadian-way",
+    "city": "Richmond",
+    "lastIncident": "2026-07-11T19:41:00Z",
     "count": 1
   }
 }

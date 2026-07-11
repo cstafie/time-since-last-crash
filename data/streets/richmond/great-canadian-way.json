@@ -1,0 +1,24 @@
+{
+  "slug": "richmond/great-canadian-way",
+  "name": "Great Canadian Way",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-07-11T19:41:00Z_richmond/beckwith-rd_richmond/great-canadian-way",
+      "timestamp": "2026-07-11T19:41:00Z",
+      "address": "BECKWITH RD & GREAT CANADIAN WAY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/beckwith-rd",
+        "richmond/great-canadian-way"
+      ],
+      "streetNames": [
+        "Beckwith Rd",
+        "Great Canadian Way"
+      ],
+      "pulsePointId": "2516725809"
+    }
+  ],
+  "lastIncident": "2026-07-11T19:41:00Z",
+  "count": 1
+}
