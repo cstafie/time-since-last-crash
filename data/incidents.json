@@ -1,5 +1,115 @@
 [
   {
+    "id": "2026-07-11T22:30:00Z_coquitlam/lougheed-hwy_coquitlam/pitt-river-rd",
+    "timestamp": "2026-07-11T22:30:00Z",
+    "scrapedAt": "2026-07-11T22:34:41Z",
+    "address": "LOUGHEED HWY & PITT RIVER RD",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/lougheed-hwy",
+      "coquitlam/pitt-river-rd"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "Pitt River Rd"
+    ],
+    "pulsePointId": "2516835448"
+  },
+  {
+    "id": "2026-07-11T22:20:00Z_chilliwack/evans-rd_chilliwack/knight-rd",
+    "timestamp": "2026-07-11T22:20:00Z",
+    "scrapedAt": "2026-07-11T22:34:41Z",
+    "address": "EVANS RD & KNIGHT RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/evans-rd",
+      "chilliwack/knight-rd"
+    ],
+    "streetNames": [
+      "Evans Rd",
+      "Knight Rd"
+    ],
+    "pulsePointId": "2516829735"
+  },
+  {
+    "id": "2026-07-11T21:34:00Z_surrey/168th-st_surrey/56th-ave",
+    "timestamp": "2026-07-11T21:34:00Z",
+    "scrapedAt": "2026-07-11T22:34:41Z",
+    "address": "168TH ST & 56TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/168th-st",
+      "surrey/56th-ave"
+    ],
+    "streetNames": [
+      "168th St",
+      "56th Ave"
+    ],
+    "pulsePointId": "2516801909"
+  },
+  {
+    "id": "2026-07-11T21:19:00Z_vancouver/kingsway",
+    "timestamp": "2026-07-11T21:19:00Z",
+    "scrapedAt": "2026-07-11T22:34:41Z",
+    "address": "KINGSWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kingsway"
+    ],
+    "streetNames": [
+      "Kingsway"
+    ],
+    "pulsePointId": "2516790697"
+  },
+  {
+    "id": "2026-07-11T20:49:00Z_vancouver/adera-st_vancouver/w-49th-ave",
+    "timestamp": "2026-07-11T20:49:00Z",
+    "scrapedAt": "2026-07-11T22:34:41Z",
+    "address": "ADERA ST & W 49TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/adera-st",
+      "vancouver/w-49th-ave"
+    ],
+    "streetNames": [
+      "Adera St",
+      "W 49th Ave"
+    ],
+    "pulsePointId": "2516771126"
+  },
+  {
+    "id": "2026-07-11T20:49:00Z_vancouver/w-49th-ave_vancouver/adera-st",
+    "timestamp": "2026-07-11T20:49:00Z",
+    "scrapedAt": "2026-07-11T22:34:41Z",
+    "address": "W 49TH AVE & ADERA ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-49th-ave",
+      "vancouver/adera-st"
+    ],
+    "streetNames": [
+      "W 49th Ave",
+      "Adera St"
+    ],
+    "pulsePointId": "2516771124"
+  },
+  {
+    "id": "2026-07-11T20:44:00Z_abbotsford/hwy-11_abbotsford/hazelwood-ave",
+    "timestamp": "2026-07-11T20:44:00Z",
+    "scrapedAt": "2026-07-11T22:34:41Z",
+    "address": "HWY 11 & HAZELWOOD AVE",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/hwy-11",
+      "abbotsford/hazelwood-ave"
+    ],
+    "streetNames": [
+      "Hwy 11",
+      "Hazelwood Ave"
+    ],
+    "pulsePointId": "2516768134"
+  },
+  {
     "id": "2026-07-11T20:22:00Z_surrey/176th-st_surrey/40th-ave",
     "timestamp": "2026-07-11T20:22:00Z",
     "scrapedAt": "2026-07-11T20:35:47Z",

@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-07-11T22:30:00Z_coquitlam/lougheed-hwy_coquitlam/pitt-river-rd",
+      "timestamp": "2026-07-11T22:30:00Z",
+      "address": "LOUGHEED HWY & PITT RIVER RD",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/lougheed-hwy",
+        "coquitlam/pitt-river-rd"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "Pitt River Rd"
+      ],
+      "pulsePointId": "2516835448"
+    },
+    {
       "id": "2026-07-06T06:02:00Z_coquitlam/lougheed-hwy_coquitlam/westwood-st",
       "timestamp": "2026-07-06T06:02:00Z",
       "address": "LOUGHEED HWY & WESTWOOD ST",
@@ -370,6 +385,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-06T06:02:00Z",
-  "count": 26
+  "lastIncident": "2026-07-11T22:30:00Z",
+  "count": 27
 }

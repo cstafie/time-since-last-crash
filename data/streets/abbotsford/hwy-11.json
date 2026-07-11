@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-11T20:44:00Z_abbotsford/hwy-11_abbotsford/hazelwood-ave",
+      "timestamp": "2026-07-11T20:44:00Z",
+      "address": "HWY 11 & HAZELWOOD AVE",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/hwy-11",
+        "abbotsford/hazelwood-ave"
+      ],
+      "streetNames": [
+        "Hwy 11",
+        "Hazelwood Ave"
+      ],
+      "pulsePointId": "2516768134"
+    },
+    {
       "id": "2026-07-08T00:21:00Z_abbotsford/harris-rd_abbotsford/hwy-11",
       "timestamp": "2026-07-08T00:21:00Z",
       "address": "HARRIS RD & HWY 11",
@@ -92,6 +107,6 @@
       "pulsePointId": "2438158784"
     }
   ],
-  "lastIncident": "2026-07-08T00:21:00Z",
-  "count": 6
+  "lastIncident": "2026-07-11T20:44:00Z",
+  "count": 7
 }

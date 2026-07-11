@@ -577,8 +577,8 @@
     "name": "168th St",
     "slug": "surrey/168th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-02T19:11:00Z",
-    "count": 16
+    "lastIncident": "2026-07-11T21:34:00Z",
+    "count": 17
   },
   "surrey/16th-ave": {
     "name": "16th Ave",
@@ -745,8 +745,8 @@
     "name": "Kingsway",
     "slug": "vancouver/kingsway",
     "city": "Vancouver",
-    "lastIncident": "2026-07-10T23:45:00Z",
-    "count": 29
+    "lastIncident": "2026-07-11T21:19:00Z",
+    "count": 30
   },
   "vancouver/knight-st": {
     "name": "Knight St",
@@ -787,8 +787,8 @@
     "name": "W 49th Ave",
     "slug": "vancouver/w-49th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-23T05:03:00Z",
-    "count": 6
+    "lastIncident": "2026-07-11T20:49:00Z",
+    "count": 8
   },
   "vancouver/w-4th-ave": {
     "name": "W 4th Ave",
@@ -1116,8 +1116,8 @@
     "name": "Lougheed Hwy",
     "slug": "coquitlam/lougheed-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-07-06T06:02:00Z",
-    "count": 26
+    "lastIncident": "2026-07-11T22:30:00Z",
+    "count": 27
   },
   "coquitlam/orchid-dr": {
     "name": "Orchid Dr",
@@ -2390,8 +2390,8 @@
     "name": "56th Ave",
     "slug": "surrey/56th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-09T01:58:00Z",
-    "count": 25
+    "lastIncident": "2026-07-11T21:34:00Z",
+    "count": 26
   },
   "port-moody/grant-st": {
     "name": "Grant St",
@@ -2873,8 +2873,8 @@
     "name": "Evans Rd",
     "slug": "chilliwack/evans-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-03-20T20:54:00Z",
-    "count": 2
+    "lastIncident": "2026-07-11T22:20:00Z",
+    "count": 3
   },
   "chilliwack/yale-rd": {
     "name": "Yale Rd",
@@ -3328,8 +3328,8 @@
     "name": "Hwy 11",
     "slug": "abbotsford/hwy-11",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-08T00:21:00Z",
-    "count": 6
+    "lastIncident": "2026-07-11T20:44:00Z",
+    "count": 7
   },
   "surrey/67th-ave": {
     "name": "67th Ave",
@@ -4091,8 +4091,8 @@
     "name": "Pitt River Rd",
     "slug": "coquitlam/pitt-river-rd",
     "city": "Coquitlam",
-    "lastIncident": "2026-03-26T18:34:00Z",
-    "count": 1
+    "lastIncident": "2026-07-11T22:30:00Z",
+    "count": 2
   },
   "north-vancouver/prospect-rd": {
     "name": "Prospect Rd",
@@ -7857,8 +7857,8 @@
     "name": "Knight Rd",
     "slug": "chilliwack/knight-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-05-29T19:15:00Z",
-    "count": 4
+    "lastIncident": "2026-07-11T22:20:00Z",
+    "count": 5
   },
   "abbotsford/ward-rd": {
     "name": "Ward Rd",
@@ -11112,8 +11112,8 @@
     "name": "Adera St",
     "slug": "vancouver/adera-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-01T00:35:00Z",
-    "count": 1
+    "lastIncident": "2026-07-11T20:49:00Z",
+    "count": 3
   },
   "langley/68th-ave": {
     "name": "68th Ave",
@@ -14095,6 +14095,13 @@
     "slug": "richmond/great-canadian-way",
     "city": "Richmond",
     "lastIncident": "2026-07-11T19:41:00Z",
+    "count": 1
+  },
+  "abbotsford/hazelwood-ave": {
+    "name": "Hazelwood Ave",
+    "slug": "abbotsford/hazelwood-ave",
+    "city": "Abbotsford",
+    "lastIncident": "2026-07-11T20:44:00Z",
     "count": 1
   }
 }
