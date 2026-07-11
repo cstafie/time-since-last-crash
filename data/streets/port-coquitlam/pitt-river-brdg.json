@@ -4,6 +4,19 @@
   "city": "Port Coquitlam",
   "incidents": [
     {
+      "id": "2026-07-11T15:06:00Z_port-coquitlam/pitt-river-brdg",
+      "timestamp": "2026-07-11T15:06:00Z",
+      "address": "PITT RIVER BRDG",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/pitt-river-brdg"
+      ],
+      "streetNames": [
+        "Pitt River Brdg"
+      ],
+      "pulsePointId": "2516562786"
+    },
+    {
       "id": "2026-05-22T23:20:00Z_port-coquitlam/pitt-river-brdg",
       "timestamp": "2026-05-22T23:20:00Z",
       "address": "PITT RIVER BRDG",
@@ -30,6 +43,6 @@
       "pulsePointId": "2466124804"
     }
   ],
-  "lastIncident": "2026-05-22T23:20:00Z",
-  "count": 2
+  "lastIncident": "2026-07-11T15:06:00Z",
+  "count": 3
 }

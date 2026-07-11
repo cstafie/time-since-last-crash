@@ -1,0 +1,22 @@
+{
+  "slug": "mission/32520-lougheed-hwy",
+  "name": "32520 Lougheed Hwy",
+  "city": "Mission",
+  "incidents": [
+    {
+      "id": "2026-07-11T14:33:00Z_mission/32520-lougheed-hwy",
+      "timestamp": "2026-07-11T14:33:00Z",
+      "address": "32520 LOUGHEED HWY",
+      "city": "Mission",
+      "streets": [
+        "mission/32520-lougheed-hwy"
+      ],
+      "streetNames": [
+        "32520 Lougheed Hwy"
+      ],
+      "pulsePointId": "2516548133"
+    }
+  ],
+  "lastIncident": "2026-07-11T14:33:00Z",
+  "count": 1
+}

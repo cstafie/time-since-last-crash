@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-11T14:52:00Z_vancouver/e-hastings-st",
+      "timestamp": "2026-07-11T14:52:00Z",
+      "address": "E HASTINGS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-hastings-st"
+      ],
+      "streetNames": [
+        "E Hastings St"
+      ],
+      "pulsePointId": "2516556292"
+    },
+    {
       "id": "2026-07-09T00:36:00Z_vancouver/e-hastings-st_vancouver/garden-dr",
       "timestamp": "2026-07-09T00:36:00Z",
       "address": "E HASTINGS ST & GARDEN DR",
@@ -597,6 +610,6 @@
       "pulsePointId": "2433305056"
     }
   ],
-  "lastIncident": "2026-07-09T00:36:00Z",
-  "count": 41
+  "lastIncident": "2026-07-11T14:52:00Z",
+  "count": 42
 }

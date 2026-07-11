@@ -1,5 +1,61 @@
 [
   {
+    "id": "2026-07-11T15:09:00Z_delta/120th-st",
+    "timestamp": "2026-07-11T15:09:00Z",
+    "scrapedAt": "2026-07-11T15:27:13Z",
+    "address": "120TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/120th-st"
+    ],
+    "streetNames": [
+      "120th St"
+    ],
+    "pulsePointId": "2516564677"
+  },
+  {
+    "id": "2026-07-11T15:06:00Z_port-coquitlam/pitt-river-brdg",
+    "timestamp": "2026-07-11T15:06:00Z",
+    "scrapedAt": "2026-07-11T15:27:13Z",
+    "address": "PITT RIVER BRDG",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/pitt-river-brdg"
+    ],
+    "streetNames": [
+      "Pitt River Brdg"
+    ],
+    "pulsePointId": "2516562786"
+  },
+  {
+    "id": "2026-07-11T14:52:00Z_vancouver/e-hastings-st",
+    "timestamp": "2026-07-11T14:52:00Z",
+    "scrapedAt": "2026-07-11T15:27:13Z",
+    "address": "E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "E Hastings St"
+    ],
+    "pulsePointId": "2516556292"
+  },
+  {
+    "id": "2026-07-11T14:33:00Z_mission/32520-lougheed-hwy",
+    "timestamp": "2026-07-11T14:33:00Z",
+    "scrapedAt": "2026-07-11T15:27:13Z",
+    "address": "32520 LOUGHEED HWY",
+    "city": "Mission",
+    "streets": [
+      "mission/32520-lougheed-hwy"
+    ],
+    "streetNames": [
+      "32520 Lougheed Hwy"
+    ],
+    "pulsePointId": "2516548133"
+  },
+  {
     "id": "2026-07-11T05:40:00Z_delta/120th-st",
     "timestamp": "2026-07-11T05:40:00Z",
     "scrapedAt": "2026-07-11T07:02:42Z",
