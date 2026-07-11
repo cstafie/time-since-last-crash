@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-07-11T15:35:00Z_chilliwack/keith-wilson-rd",
+    "timestamp": "2026-07-11T15:35:00Z",
+    "scrapedAt": "2026-07-11T16:14:41Z",
+    "address": "KEITH WILSON RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/keith-wilson-rd"
+    ],
+    "streetNames": [
+      "Keith Wilson Rd"
+    ],
+    "pulsePointId": "2516576718"
+  },
+  {
     "id": "2026-07-11T15:09:00Z_delta/120th-st",
     "timestamp": "2026-07-11T15:09:00Z",
     "scrapedAt": "2026-07-11T15:27:13Z",
