@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/victory-st",
+  "name": "Victory St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-07-11T16:41:00Z_burnaby/victory-st_burnaby/nelson-ave",
+      "timestamp": "2026-07-11T16:41:00Z",
+      "address": "VICTORY ST & NELSON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/victory-st",
+        "burnaby/nelson-ave"
+      ],
+      "streetNames": [
+        "Victory St",
+        "Nelson Ave"
+      ],
+      "pulsePointId": "2516611540"
+    }
+  ],
+  "lastIncident": "2026-07-11T16:41:00Z",
+  "count": 1
+}

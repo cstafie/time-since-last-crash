@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-11T16:41:00Z_burnaby/victory-st_burnaby/nelson-ave",
+      "timestamp": "2026-07-11T16:41:00Z",
+      "address": "VICTORY ST & NELSON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/victory-st",
+        "burnaby/nelson-ave"
+      ],
+      "streetNames": [
+        "Victory St",
+        "Nelson Ave"
+      ],
+      "pulsePointId": "2516611540"
+    },
+    {
       "id": "2026-07-10T20:32:00Z_burnaby/nelson-ave_burnaby/lennox-lane",
       "timestamp": "2026-07-10T20:32:00Z",
       "address": "NELSON AVE & LENNOX LANE",
@@ -109,6 +124,6 @@
       "pulsePointId": "2436020332"
     }
   ],
-  "lastIncident": "2026-07-10T20:32:00Z",
-  "count": 7
+  "lastIncident": "2026-07-11T16:41:00Z",
+  "count": 8
 }

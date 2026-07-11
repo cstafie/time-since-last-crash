@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-07-11T16:41:00Z_burnaby/victory-st_burnaby/nelson-ave",
+    "timestamp": "2026-07-11T16:41:00Z",
+    "scrapedAt": "2026-07-11T17:26:51Z",
+    "address": "VICTORY ST & NELSON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/victory-st",
+      "burnaby/nelson-ave"
+    ],
+    "streetNames": [
+      "Victory St",
+      "Nelson Ave"
+    ],
+    "pulsePointId": "2516611540"
+  },
+  {
+    "id": "2026-07-11T16:40:00Z_vancouver/blenheim-st",
+    "timestamp": "2026-07-11T16:40:00Z",
+    "scrapedAt": "2026-07-11T17:26:51Z",
+    "address": "BLENHEIM ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/blenheim-st"
+    ],
+    "streetNames": [
+      "Blenheim St"
+    ],
+    "pulsePointId": "2516610926"
+  },
+  {
     "id": "2026-07-11T15:35:00Z_chilliwack/keith-wilson-rd",
     "timestamp": "2026-07-11T15:35:00Z",
     "scrapedAt": "2026-07-11T16:14:41Z",
