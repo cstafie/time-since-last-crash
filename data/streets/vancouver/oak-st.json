@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-11T02:02:00Z_vancouver/oak-st_vancouver/w-38th-ave",
+      "timestamp": "2026-07-11T02:02:00Z",
+      "address": "OAK ST & W 38TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/oak-st",
+        "vancouver/w-38th-ave"
+      ],
+      "streetNames": [
+        "Oak St",
+        "W 38th Ave"
+      ],
+      "pulsePointId": "2516256421"
+    },
+    {
       "id": "2026-07-09T15:45:00Z_vancouver/park-dr_vancouver/oak-st",
       "timestamp": "2026-07-09T15:45:00Z",
       "address": "PARK DR & OAK ST",
@@ -660,6 +675,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-09T15:45:00Z",
-  "count": 45
+  "lastIncident": "2026-07-11T02:02:00Z",
+  "count": 46
 }
