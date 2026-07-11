@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-11T00:49:00Z_burnaby/marine-way",
+      "timestamp": "2026-07-11T00:49:00Z",
+      "address": "MARINE WAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/marine-way"
+      ],
+      "streetNames": [
+        "Marine Way"
+      ],
+      "pulsePointId": "2516207643"
+    },
+    {
       "id": "2026-07-03T00:28:00Z_burnaby/marine-way_burnaby/glenlyon-pkwy",
       "timestamp": "2026-07-03T00:28:00Z",
       "address": "MARINE WAY & GLENLYON PKWY",
@@ -135,6 +148,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-03T00:28:00Z",
-  "count": 9
+  "lastIncident": "2026-07-11T00:49:00Z",
+  "count": 10
 }

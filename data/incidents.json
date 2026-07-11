@@ -1,5 +1,99 @@
 [
   {
+    "id": "2026-07-11T00:49:00Z_burnaby/marine-way",
+    "timestamp": "2026-07-11T00:49:00Z",
+    "scrapedAt": "2026-07-11T01:16:54Z",
+    "address": "MARINE WAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/marine-way"
+    ],
+    "streetNames": [
+      "Marine Way"
+    ],
+    "pulsePointId": "2516207643"
+  },
+  {
+    "id": "2026-07-11T00:45:00Z_surrey/132nd-st_surrey/100th-ave",
+    "timestamp": "2026-07-11T00:45:00Z",
+    "scrapedAt": "2026-07-11T01:16:54Z",
+    "address": "132ND ST & 100TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/132nd-st",
+      "surrey/100th-ave"
+    ],
+    "streetNames": [
+      "132nd St",
+      "100th Ave"
+    ],
+    "pulsePointId": "2516205757"
+  },
+  {
+    "id": "2026-07-10T23:45:00Z_vancouver/kingsway_vancouver/e-12th-ave",
+    "timestamp": "2026-07-10T23:45:00Z",
+    "scrapedAt": "2026-07-11T01:16:54Z",
+    "address": "KINGSWAY & E 12TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kingsway",
+      "vancouver/e-12th-ave"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "E 12th Ave"
+    ],
+    "pulsePointId": "2516161845"
+  },
+  {
+    "id": "2026-07-10T23:10:00Z_vancouver/borden-st_vancouver/se-marine-dr",
+    "timestamp": "2026-07-10T23:10:00Z",
+    "scrapedAt": "2026-07-11T01:16:54Z",
+    "address": "BORDEN ST & SE MARINE DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/borden-st",
+      "vancouver/se-marine-dr"
+    ],
+    "streetNames": [
+      "Borden St",
+      "Se Marine Dr"
+    ],
+    "pulsePointId": "2516136094"
+  },
+  {
+    "id": "2026-07-10T22:49:00Z_new-westminster/e-6th-ave_new-westminster/mcbride-blvd",
+    "timestamp": "2026-07-10T22:49:00Z",
+    "scrapedAt": "2026-07-11T01:16:54Z",
+    "address": "E 6TH AVE & MCBRIDE BLVD",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/e-6th-ave",
+      "new-westminster/mcbride-blvd"
+    ],
+    "streetNames": [
+      "E 6th Ave",
+      "Mcbride Blvd"
+    ],
+    "pulsePointId": "2516122696"
+  },
+  {
+    "id": "2026-07-10T22:45:00Z_richmond/westminster-hwy_richmond/minoru-blvd",
+    "timestamp": "2026-07-10T22:45:00Z",
+    "scrapedAt": "2026-07-11T01:16:54Z",
+    "address": "WESTMINSTER HWY & MINORU BLVD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/westminster-hwy",
+      "richmond/minoru-blvd"
+    ],
+    "streetNames": [
+      "Westminster Hwy",
+      "Minoru Blvd"
+    ],
+    "pulsePointId": "2516117530"
+  },
+  {
     "id": "2026-07-10T22:37:00Z_coquitlam/david-ave_coquitlam/shaughnessy-st",
     "timestamp": "2026-07-10T22:37:00Z",
     "scrapedAt": "2026-07-10T22:45:42Z",

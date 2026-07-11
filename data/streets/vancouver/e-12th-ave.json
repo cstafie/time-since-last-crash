@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-10T23:45:00Z_vancouver/kingsway_vancouver/e-12th-ave",
+      "timestamp": "2026-07-10T23:45:00Z",
+      "address": "KINGSWAY & E 12TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/kingsway",
+        "vancouver/e-12th-ave"
+      ],
+      "streetNames": [
+        "Kingsway",
+        "E 12th Ave"
+      ],
+      "pulsePointId": "2516161845"
+    },
+    {
       "id": "2026-06-26T17:24:00Z_vancouver/e-12th-ave",
       "timestamp": "2026-06-26T17:24:00Z",
       "address": "E 12TH AVE",
@@ -192,6 +207,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-26T17:24:00Z",
-  "count": 13
+  "lastIncident": "2026-07-10T23:45:00Z",
+  "count": 14
 }

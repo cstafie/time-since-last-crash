@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-10T22:45:00Z_richmond/westminster-hwy_richmond/minoru-blvd",
+      "timestamp": "2026-07-10T22:45:00Z",
+      "address": "WESTMINSTER HWY & MINORU BLVD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/westminster-hwy",
+        "richmond/minoru-blvd"
+      ],
+      "streetNames": [
+        "Westminster Hwy",
+        "Minoru Blvd"
+      ],
+      "pulsePointId": "2516117530"
+    },
+    {
       "id": "2026-07-02T21:37:00Z_richmond/alderbridge-way_richmond/minoru-blvd",
       "timestamp": "2026-07-02T21:37:00Z",
       "address": "ALDERBRIDGE WAY & MINORU BLVD",
@@ -77,6 +92,6 @@
       "pulsePointId": "2472178177"
     }
   ],
-  "lastIncident": "2026-07-02T21:37:00Z",
-  "count": 5
+  "lastIncident": "2026-07-10T22:45:00Z",
+  "count": 6
 }
