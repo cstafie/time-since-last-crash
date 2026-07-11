@@ -4,6 +4,19 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-07-11T17:33:00Z_chilliwack/vedder-rd",
+      "timestamp": "2026-07-11T17:33:00Z",
+      "address": "VEDDER RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/vedder-rd"
+      ],
+      "streetNames": [
+        "Vedder Rd"
+      ],
+      "pulsePointId": "2516643077"
+    },
+    {
       "id": "2026-07-06T18:50:00Z_chilliwack/vedder-rd_chilliwack/chilliwack-lake-rd",
       "timestamp": "2026-07-06T18:50:00Z",
       "address": "VEDDER RD & CHILLIWACK LAKE RD",
@@ -260,6 +273,6 @@
       "pulsePointId": "2433567443"
     }
   ],
-  "lastIncident": "2026-07-06T18:50:00Z",
-  "count": 18
+  "lastIncident": "2026-07-11T17:33:00Z",
+  "count": 19
 }

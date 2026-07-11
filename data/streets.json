@@ -682,8 +682,8 @@
     "name": "Trans Canada Hwy",
     "slug": "surrey/trans-canada-hwy",
     "city": "Surrey",
-    "lastIncident": "2026-07-03T23:53:00Z",
-    "count": 28
+    "lastIncident": "2026-07-11T17:37:00Z",
+    "count": 29
   },
   "vancouver/balaclava-st": {
     "name": "Balaclava St",
@@ -1837,8 +1837,8 @@
     "name": "Vedder Rd",
     "slug": "chilliwack/vedder-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-07-06T18:50:00Z",
-    "count": 18
+    "lastIncident": "2026-07-11T17:33:00Z",
+    "count": 19
   },
   "chilliwack/spruce-dr": {
     "name": "Spruce Dr",
@@ -4056,8 +4056,8 @@
     "name": "192nd Street Ofrp",
     "slug": "surrey/192nd-street-ofrp",
     "city": "Surrey",
-    "lastIncident": "2026-03-26T00:31:00Z",
-    "count": 1
+    "lastIncident": "2026-07-11T17:37:00Z",
+    "count": 2
   },
   "langley/96th-ave": {
     "name": "96th Ave",
