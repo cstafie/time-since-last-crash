@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-07-11T19:22:00Z_chilliwack/yale-rd",
+    "timestamp": "2026-07-11T19:22:00Z",
+    "scrapedAt": "2026-07-11T19:37:11Z",
+    "address": "YALE RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/yale-rd"
+    ],
+    "streetNames": [
+      "Yale Rd"
+    ],
+    "pulsePointId": "2516713600"
+  },
+  {
+    "id": "2026-07-11T18:36:00Z_mission/7230-park-st",
+    "timestamp": "2026-07-11T18:36:00Z",
+    "scrapedAt": "2026-07-11T19:37:11Z",
+    "address": "7230 PARK ST",
+    "city": "Mission",
+    "streets": [
+      "mission/7230-park-st"
+    ],
+    "streetNames": [
+      "7230 Park St"
+    ],
+    "pulsePointId": "2516682329"
+  },
+  {
     "id": "2026-07-11T17:37:00Z_surrey/trans-canada-hwy_surrey/192nd-street-ofrp",
     "timestamp": "2026-07-11T17:37:00Z",
     "scrapedAt": "2026-07-11T18:12:59Z",

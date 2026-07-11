@@ -2880,8 +2880,8 @@
     "name": "Yale Rd",
     "slug": "chilliwack/yale-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-07-08T23:01:00Z",
-    "count": 22
+    "lastIncident": "2026-07-11T19:22:00Z",
+    "count": 23
   },
   "vancouver/e-61st-ave": {
     "name": "E 61st Ave",
@@ -14074,6 +14074,13 @@
     "slug": "burnaby/victory-st",
     "city": "Burnaby",
     "lastIncident": "2026-07-11T16:41:00Z",
+    "count": 1
+  },
+  "mission/7230-park-st": {
+    "name": "7230 Park St",
+    "slug": "mission/7230-park-st",
+    "city": "Mission",
+    "lastIncident": "2026-07-11T18:36:00Z",
     "count": 1
   }
 }
