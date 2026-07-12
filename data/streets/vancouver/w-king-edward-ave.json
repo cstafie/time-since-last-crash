@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-12T20:50:00Z_vancouver/w-king-edward-ave",
+      "timestamp": "2026-07-12T20:50:00Z",
+      "address": "W KING EDWARD AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-king-edward-ave"
+      ],
+      "streetNames": [
+        "W King Edward Ave"
+      ],
+      "pulsePointId": "2517477683"
+    },
+    {
       "id": "2026-07-06T17:10:00Z_vancouver/w-king-edward-ave_vancouver/blenheim-st",
       "timestamp": "2026-07-06T17:10:00Z",
       "address": "W KING EDWARD AVE & BLENHEIM ST",
@@ -169,6 +182,6 @@
       "pulsePointId": "2435790624"
     }
   ],
-  "lastIncident": "2026-07-06T17:10:00Z",
-  "count": 11
+  "lastIncident": "2026-07-12T20:50:00Z",
+  "count": 12
 }

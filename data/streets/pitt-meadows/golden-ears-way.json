@@ -4,6 +4,19 @@
   "city": "Pitt Meadows",
   "incidents": [
     {
+      "id": "2026-07-12T20:45:00Z_pitt-meadows/golden-ears-way",
+      "timestamp": "2026-07-12T20:45:00Z",
+      "address": "GOLDEN EARS WAY",
+      "city": "Pitt Meadows",
+      "streets": [
+        "pitt-meadows/golden-ears-way"
+      ],
+      "streetNames": [
+        "Golden Ears Way"
+      ],
+      "pulsePointId": "2517473531"
+    },
+    {
       "id": "2026-06-12T23:18:00Z_pitt-meadows/golden-ears-way",
       "timestamp": "2026-06-12T23:18:00Z",
       "address": "GOLDEN EARS WAY",
@@ -30,6 +43,6 @@
       "pulsePointId": "2457728256"
     }
   ],
-  "lastIncident": "2026-06-12T23:18:00Z",
-  "count": 2
+  "lastIncident": "2026-07-12T20:45:00Z",
+  "count": 3
 }

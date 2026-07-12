@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-07-12T20:50:00Z_vancouver/w-king-edward-ave",
+    "timestamp": "2026-07-12T20:50:00Z",
+    "scrapedAt": "2026-07-12T21:36:42Z",
+    "address": "W KING EDWARD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-king-edward-ave"
+    ],
+    "streetNames": [
+      "W King Edward Ave"
+    ],
+    "pulsePointId": "2517477683"
+  },
+  {
+    "id": "2026-07-12T20:50:00Z_langley/golden-ears-brdg",
+    "timestamp": "2026-07-12T20:50:00Z",
+    "scrapedAt": "2026-07-12T21:36:42Z",
+    "address": "GOLDEN EARS BRDG",
+    "city": "Langley",
+    "streets": [
+      "langley/golden-ears-brdg"
+    ],
+    "streetNames": [
+      "Golden Ears Brdg"
+    ],
+    "pulsePointId": "2517475248"
+  },
+  {
+    "id": "2026-07-12T20:45:00Z_pitt-meadows/golden-ears-way",
+    "timestamp": "2026-07-12T20:45:00Z",
+    "scrapedAt": "2026-07-12T21:36:42Z",
+    "address": "GOLDEN EARS WAY",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/golden-ears-way"
+    ],
+    "streetNames": [
+      "Golden Ears Way"
+    ],
+    "pulsePointId": "2517473531"
+  },
+  {
     "id": "2026-07-12T19:44:00Z_surrey/154th-st_surrey/104th-ave",
     "timestamp": "2026-07-12T19:44:00Z",
     "scrapedAt": "2026-07-12T19:58:16Z",

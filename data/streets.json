@@ -2523,8 +2523,8 @@
     "name": "W King Edward Ave",
     "slug": "vancouver/w-king-edward-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-06T17:10:00Z",
-    "count": 11
+    "lastIncident": "2026-07-12T20:50:00Z",
+    "count": 12
   },
   "vancouver/puget-dr": {
     "name": "Puget Dr",
@@ -7248,8 +7248,8 @@
     "name": "Golden Ears Way",
     "slug": "pitt-meadows/golden-ears-way",
     "city": "Pitt Meadows",
-    "lastIncident": "2026-06-12T23:18:00Z",
-    "count": 2
+    "lastIncident": "2026-07-12T20:45:00Z",
+    "count": 3
   },
   "abbotsford/mccallum-road-ofrp": {
     "name": "Mccallum Road Ofrp",
@@ -11371,8 +11371,8 @@
     "name": "Golden Ears Brdg",
     "slug": "langley/golden-ears-brdg",
     "city": "Langley",
-    "lastIncident": "2026-06-03T21:33:00Z",
-    "count": 1
+    "lastIncident": "2026-07-12T20:50:00Z",
+    "count": 2
   },
   "richmond/2700-sweden-way": {
     "name": "2700 Sweden Way",
