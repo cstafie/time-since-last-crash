@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-07-12T23:16:00Z_north-vancouver/e-3rd-st",
+    "timestamp": "2026-07-12T23:16:00Z",
+    "scrapedAt": "2026-07-12T23:39:25Z",
+    "address": "E 3RD ST",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/e-3rd-st"
+    ],
+    "streetNames": [
+      "E 3rd St"
+    ],
+    "pulsePointId": "2517561366"
+  },
+  {
+    "id": "2026-07-12T22:41:00Z_surrey/148th-st_surrey/72nd-ave",
+    "timestamp": "2026-07-12T22:41:00Z",
+    "scrapedAt": "2026-07-12T23:39:25Z",
+    "address": "148TH ST & 72ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/148th-st",
+      "surrey/72nd-ave"
+    ],
+    "streetNames": [
+      "148th St",
+      "72nd Ave"
+    ],
+    "pulsePointId": "2517539153"
+  },
+  {
     "id": "2026-07-12T22:31:00Z_richmond/blundell-rd_richmond/no-5-rd",
     "timestamp": "2026-07-12T22:31:00Z",
     "scrapedAt": "2026-07-12T22:34:31Z",

@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-12T22:41:00Z_surrey/148th-st_surrey/72nd-ave",
+      "timestamp": "2026-07-12T22:41:00Z",
+      "address": "148TH ST & 72ND AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/148th-st",
+        "surrey/72nd-ave"
+      ],
+      "streetNames": [
+        "148th St",
+        "72nd Ave"
+      ],
+      "pulsePointId": "2517539153"
+    },
+    {
       "id": "2026-07-03T01:04:00Z_surrey/148th-st",
       "timestamp": "2026-07-03T01:04:00Z",
       "address": "148TH ST",
@@ -367,6 +382,6 @@
       "pulsePointId": "2433715392"
     }
   ],
-  "lastIncident": "2026-07-03T01:04:00Z",
-  "count": 25
+  "lastIncident": "2026-07-12T22:41:00Z",
+  "count": 26
 }
