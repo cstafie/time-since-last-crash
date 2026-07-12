@@ -983,8 +983,8 @@
     "name": "No 6 Rd",
     "slug": "richmond/no-6-rd",
     "city": "Richmond",
-    "lastIncident": "2026-06-29T23:21:00Z",
-    "count": 7
+    "lastIncident": "2026-07-12T08:59:00Z",
+    "count": 8
   },
   "richmond/westminster-hwy": {
     "name": "Westminster Hwy",
@@ -2929,8 +2929,8 @@
     "name": "Nordel Way",
     "slug": "delta/nordel-way",
     "city": "Delta",
-    "lastIncident": "2026-06-21T06:44:00Z",
-    "count": 12
+    "lastIncident": "2026-07-12T07:44:00Z",
+    "count": 13
   },
   "coquitlam/whiting-way": {
     "name": "Whiting Way",
@@ -14109,6 +14109,13 @@
     "slug": "burnaby/macdonald-ave",
     "city": "Burnaby",
     "lastIncident": "2026-07-12T00:56:00Z",
+    "count": 1
+  },
+  "delta/hwy-91-conn-onrp": {
+    "name": "Hwy 91 Conn Onrp",
+    "slug": "delta/hwy-91-conn-onrp",
+    "city": "Delta",
+    "lastIncident": "2026-07-12T07:44:00Z",
     "count": 1
   }
 }

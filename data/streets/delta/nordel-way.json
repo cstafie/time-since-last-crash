@@ -4,6 +4,21 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-07-12T07:44:00Z_delta/nordel-way_delta/hwy-91-conn-onrp",
+      "timestamp": "2026-07-12T07:44:00Z",
+      "address": "NORDEL WAY & HWY 91 CONN ONRP",
+      "city": "Delta",
+      "streets": [
+        "delta/nordel-way",
+        "delta/hwy-91-conn-onrp"
+      ],
+      "streetNames": [
+        "Nordel Way",
+        "Hwy 91 Conn Onrp"
+      ],
+      "pulsePointId": "2517132758"
+    },
+    {
       "id": "2026-06-21T06:44:00Z_delta/nordel-way_delta/brooke-rd",
       "timestamp": "2026-06-21T06:44:00Z",
       "address": "NORDEL WAY & BROOKE RD",
@@ -178,6 +193,6 @@
       "pulsePointId": "2436970054"
     }
   ],
-  "lastIncident": "2026-06-21T06:44:00Z",
-  "count": 12
+  "lastIncident": "2026-07-12T07:44:00Z",
+  "count": 13
 }

@@ -1,0 +1,24 @@
+{
+  "slug": "delta/hwy-91-conn-onrp",
+  "name": "Hwy 91 Conn Onrp",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-07-12T07:44:00Z_delta/nordel-way_delta/hwy-91-conn-onrp",
+      "timestamp": "2026-07-12T07:44:00Z",
+      "address": "NORDEL WAY & HWY 91 CONN ONRP",
+      "city": "Delta",
+      "streets": [
+        "delta/nordel-way",
+        "delta/hwy-91-conn-onrp"
+      ],
+      "streetNames": [
+        "Nordel Way",
+        "Hwy 91 Conn Onrp"
+      ],
+      "pulsePointId": "2517132758"
+    }
+  ],
+  "lastIncident": "2026-07-12T07:44:00Z",
+  "count": 1
+}
