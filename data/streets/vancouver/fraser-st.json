@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-12T17:19:00Z_vancouver/e-63rd-ave_vancouver/fraser-st",
+      "timestamp": "2026-07-12T17:19:00Z",
+      "address": "E 63RD AVE & FRASER ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-63rd-ave",
+        "vancouver/fraser-st"
+      ],
+      "streetNames": [
+        "E 63rd Ave",
+        "Fraser St"
+      ],
+      "pulsePointId": "2517353112"
+    },
+    {
       "id": "2026-07-06T14:27:00Z_vancouver/se-marine-dr_vancouver/fraser-st",
       "timestamp": "2026-07-06T14:27:00Z",
       "address": "SE MARINE DR & FRASER ST",
@@ -317,6 +332,6 @@
       "pulsePointId": "2438036867"
     }
   ],
-  "lastIncident": "2026-07-06T14:27:00Z",
-  "count": 21
+  "lastIncident": "2026-07-12T17:19:00Z",
+  "count": 22
 }

@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/7455-10th-ave",
+  "name": "7455 10th Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-07-12T17:25:00Z_burnaby/7455-10th-ave",
+      "timestamp": "2026-07-12T17:25:00Z",
+      "address": "7455 10TH AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/7455-10th-ave"
+      ],
+      "streetNames": [
+        "7455 10th Ave"
+      ],
+      "pulsePointId": "2517355657"
+    }
+  ],
+  "lastIncident": "2026-07-12T17:25:00Z",
+  "count": 1
+}

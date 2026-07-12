@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-07-12T17:29:00Z_maple-ridge/240th-st_maple-ridge/lougheed-hwy",
+    "timestamp": "2026-07-12T17:29:00Z",
+    "scrapedAt": "2026-07-12T17:31:01Z",
+    "address": "240TH ST & LOUGHEED HWY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/240th-st",
+      "maple-ridge/lougheed-hwy"
+    ],
+    "streetNames": [
+      "240th St",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2517357140"
+  },
+  {
+    "id": "2026-07-12T17:25:00Z_burnaby/7455-10th-ave",
+    "timestamp": "2026-07-12T17:25:00Z",
+    "scrapedAt": "2026-07-12T17:31:01Z",
+    "address": "7455 10TH AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/7455-10th-ave"
+    ],
+    "streetNames": [
+      "7455 10th Ave"
+    ],
+    "pulsePointId": "2517355657"
+  },
+  {
+    "id": "2026-07-12T17:19:00Z_vancouver/e-63rd-ave_vancouver/fraser-st",
+    "timestamp": "2026-07-12T17:19:00Z",
+    "scrapedAt": "2026-07-12T17:31:01Z",
+    "address": "E 63RD AVE & FRASER ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-63rd-ave",
+      "vancouver/fraser-st"
+    ],
+    "streetNames": [
+      "E 63rd Ave",
+      "Fraser St"
+    ],
+    "pulsePointId": "2517353112"
+  },
+  {
+    "id": "2026-07-12T17:09:00Z_surrey/194th-st",
+    "timestamp": "2026-07-12T17:09:00Z",
+    "scrapedAt": "2026-07-12T17:31:01Z",
+    "address": "194TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/194th-st"
+    ],
+    "streetNames": [
+      "194th St"
+    ],
+    "pulsePointId": "2517346103"
+  },
+  {
     "id": "2026-07-12T08:59:00Z_richmond/no-6-rd",
     "timestamp": "2026-07-12T08:59:00Z",
     "scrapedAt": "2026-07-12T09:22:46Z",
