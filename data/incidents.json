@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-07-12T22:31:00Z_richmond/blundell-rd_richmond/no-5-rd",
+    "timestamp": "2026-07-12T22:31:00Z",
+    "scrapedAt": "2026-07-12T22:34:31Z",
+    "address": "BLUNDELL RD & NO 5 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/blundell-rd",
+      "richmond/no-5-rd"
+    ],
+    "streetNames": [
+      "Blundell Rd",
+      "No 5 Rd"
+    ],
+    "pulsePointId": "2517534615"
+  },
+  {
+    "id": "2026-07-12T21:57:00Z_langley/trans-canada-hwy",
+    "timestamp": "2026-07-12T21:57:00Z",
+    "scrapedAt": "2026-07-12T22:34:31Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2517514206"
+  },
+  {
     "id": "2026-07-12T20:50:00Z_vancouver/w-king-edward-ave",
     "timestamp": "2026-07-12T20:50:00Z",
     "scrapedAt": "2026-07-12T21:36:42Z",

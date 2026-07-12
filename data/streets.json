@@ -269,8 +269,8 @@
     "name": "Trans Canada Hwy",
     "slug": "langley/trans-canada-hwy",
     "city": "Langley",
-    "lastIncident": "2026-07-06T02:17:00Z",
-    "count": 41
+    "lastIncident": "2026-07-12T21:57:00Z",
+    "count": 42
   },
   "maple-ridge/119th-ave": {
     "name": "119th Ave",
@@ -437,8 +437,8 @@
     "name": "Blundell Rd",
     "slug": "richmond/blundell-rd",
     "city": "Richmond",
-    "lastIncident": "2026-07-05T17:14:00Z",
-    "count": 23
+    "lastIncident": "2026-07-12T22:31:00Z",
+    "count": 24
   },
   "richmond/bowcock-rd": {
     "name": "Bowcock Rd",
@@ -2572,8 +2572,8 @@
     "name": "No 5 Rd",
     "slug": "richmond/no-5-rd",
     "city": "Richmond",
-    "lastIncident": "2026-07-07T01:50:00Z",
-    "count": 16
+    "lastIncident": "2026-07-12T22:31:00Z",
+    "count": 17
   },
   "port-moody/heritage-mountain-blvd": {
     "name": "Heritage Mountain Blvd",
