@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-07-12T06:59:00Z_surrey/64th-ave",
+    "timestamp": "2026-07-12T06:59:00Z",
+    "scrapedAt": "2026-07-12T07:22:58Z",
+    "address": "64TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/64th-ave"
+    ],
+    "streetNames": [
+      "64th Ave"
+    ],
+    "pulsePointId": "2517115809"
+  },
+  {
+    "id": "2026-07-12T06:18:00Z_vancouver/venables-st_vancouver/clark-dr",
+    "timestamp": "2026-07-12T06:18:00Z",
+    "scrapedAt": "2026-07-12T07:22:58Z",
+    "address": "VENABLES ST & CLARK DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/venables-st",
+      "vancouver/clark-dr"
+    ],
+    "streetNames": [
+      "Venables St",
+      "Clark Dr"
+    ],
+    "pulsePointId": "2517098651"
+  },
+  {
     "id": "2026-07-12T04:02:00Z_langley/station-rd",
     "timestamp": "2026-07-12T04:02:00Z",
     "scrapedAt": "2026-07-12T04:44:30Z",

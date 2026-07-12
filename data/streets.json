@@ -598,8 +598,8 @@
     "name": "64th Ave",
     "slug": "surrey/64th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-09T23:37:00Z",
-    "count": 29
+    "lastIncident": "2026-07-12T06:59:00Z",
+    "count": 30
   },
   "surrey/72a-ave": {
     "name": "72a Ave",
@@ -2565,8 +2565,8 @@
     "name": "Venables St",
     "slug": "vancouver/venables-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-06T15:59:00Z",
-    "count": 5
+    "lastIncident": "2026-07-12T06:18:00Z",
+    "count": 6
   },
   "richmond/no-5-rd": {
     "name": "No 5 Rd",
@@ -3454,8 +3454,8 @@
     "name": "Clark Dr",
     "slug": "vancouver/clark-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-07-07T17:25:00Z",
-    "count": 13
+    "lastIncident": "2026-07-12T06:18:00Z",
+    "count": 14
   },
   "vancouver/e-17th-ave": {
     "name": "E 17th Ave",

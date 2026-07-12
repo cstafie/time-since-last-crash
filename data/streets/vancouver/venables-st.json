@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-12T06:18:00Z_vancouver/venables-st_vancouver/clark-dr",
+      "timestamp": "2026-07-12T06:18:00Z",
+      "address": "VENABLES ST & CLARK DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/venables-st",
+        "vancouver/clark-dr"
+      ],
+      "streetNames": [
+        "Venables St",
+        "Clark Dr"
+      ],
+      "pulsePointId": "2517098651"
+    },
+    {
       "id": "2026-07-06T15:59:00Z_vancouver/venables-st_vancouver/raymur-ave",
       "timestamp": "2026-07-06T15:59:00Z",
       "address": "VENABLES ST & RAYMUR AVE",
@@ -77,6 +92,6 @@
       "pulsePointId": "2435809865"
     }
   ],
-  "lastIncident": "2026-07-06T15:59:00Z",
-  "count": 5
+  "lastIncident": "2026-07-12T06:18:00Z",
+  "count": 6
 }
