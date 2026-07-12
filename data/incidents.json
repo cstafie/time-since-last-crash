@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-12T19:44:00Z_surrey/154th-st_surrey/104th-ave",
+    "timestamp": "2026-07-12T19:44:00Z",
+    "scrapedAt": "2026-07-12T19:58:16Z",
+    "address": "154TH ST & 104TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/154th-st",
+      "surrey/104th-ave"
+    ],
+    "streetNames": [
+      "154th St",
+      "104th Ave"
+    ],
+    "pulsePointId": "2517437245"
+  },
+  {
     "id": "2026-07-12T18:18:00Z_vancouver/fraser-st",
     "timestamp": "2026-07-12T18:18:00Z",
     "scrapedAt": "2026-07-12T18:43:33Z",

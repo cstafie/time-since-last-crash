@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-12T19:44:00Z_surrey/154th-st_surrey/104th-ave",
+      "timestamp": "2026-07-12T19:44:00Z",
+      "address": "154TH ST & 104TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/154th-st",
+        "surrey/104th-ave"
+      ],
+      "streetNames": [
+        "154th St",
+        "104th Ave"
+      ],
+      "pulsePointId": "2517437245"
+    },
+    {
       "id": "2026-06-26T22:44:00Z_surrey/17a-ave_surrey/154th-st",
       "timestamp": "2026-06-26T22:44:00Z",
       "address": "17A AVE & 154TH ST",
@@ -79,6 +94,6 @@
       "pulsePointId": "2437954989"
     }
   ],
-  "lastIncident": "2026-06-26T22:44:00Z",
-  "count": 5
+  "lastIncident": "2026-07-12T19:44:00Z",
+  "count": 6
 }

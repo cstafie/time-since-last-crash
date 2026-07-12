@@ -1312,8 +1312,8 @@
     "name": "104th Ave",
     "slug": "surrey/104th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-09T23:54:00Z",
-    "count": 46
+    "lastIncident": "2026-07-12T19:44:00Z",
+    "count": 47
   },
   "surrey/122nd-st": {
     "name": "122nd St",
@@ -3223,8 +3223,8 @@
     "name": "154th St",
     "slug": "surrey/154th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-26T22:44:00Z",
-    "count": 5
+    "lastIncident": "2026-07-12T19:44:00Z",
+    "count": 6
   },
   "vancouver/w-42nd-ave": {
     "name": "W 42nd Ave",
