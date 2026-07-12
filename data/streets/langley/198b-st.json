@@ -4,6 +4,36 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-07-12T03:15:00Z_langley/198b-st_langley/72nd-ave",
+      "timestamp": "2026-07-12T03:15:00Z",
+      "address": "198B ST & 72ND AVE",
+      "city": "Langley",
+      "streets": [
+        "langley/198b-st",
+        "langley/72nd-ave"
+      ],
+      "streetNames": [
+        "198b St",
+        "72nd Ave"
+      ],
+      "pulsePointId": "2517007276"
+    },
+    {
+      "id": "2026-07-12T03:14:00Z_langley/72nd-ave_langley/198b-st",
+      "timestamp": "2026-07-12T03:14:00Z",
+      "address": "72ND AVE & 198B ST",
+      "city": "Langley",
+      "streets": [
+        "langley/72nd-ave",
+        "langley/198b-st"
+      ],
+      "streetNames": [
+        "72nd Ave",
+        "198b St"
+      ],
+      "pulsePointId": "2517007273"
+    },
+    {
       "id": "2026-05-21T20:16:00Z_langley/198b-st",
       "timestamp": "2026-05-21T20:16:00Z",
       "address": "198B ST",
@@ -17,6 +47,6 @@
       "pulsePointId": "2479405606"
     }
   ],
-  "lastIncident": "2026-05-21T20:16:00Z",
-  "count": 1
+  "lastIncident": "2026-07-12T03:15:00Z",
+  "count": 3
 }
