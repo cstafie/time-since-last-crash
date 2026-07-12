@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-12T00:05:00Z_abbotsford/simon-ave_abbotsford/garden-st",
+      "timestamp": "2026-07-12T00:05:00Z",
+      "address": "SIMON AVE & GARDEN ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/simon-ave",
+        "abbotsford/garden-st"
+      ],
+      "streetNames": [
+        "Simon Ave",
+        "Garden St"
+      ],
+      "pulsePointId": "2516894628"
+    },
+    {
       "id": "2026-05-01T22:31:00Z_abbotsford/simon-ave_abbotsford/emerson-st",
       "timestamp": "2026-05-01T22:31:00Z",
       "address": "SIMON AVE & EMERSON ST",
@@ -32,6 +47,6 @@
       "pulsePointId": "2456851769"
     }
   ],
-  "lastIncident": "2026-05-01T22:31:00Z",
-  "count": 2
+  "lastIncident": "2026-07-12T00:05:00Z",
+  "count": 3
 }

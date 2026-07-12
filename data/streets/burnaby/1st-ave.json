@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-12T00:56:00Z_burnaby/macdonald-ave_burnaby/1st-ave",
+      "timestamp": "2026-07-12T00:56:00Z",
+      "address": "MACDONALD AVE & 1ST AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/macdonald-ave",
+        "burnaby/1st-ave"
+      ],
+      "streetNames": [
+        "Macdonald Ave",
+        "1st Ave"
+      ],
+      "pulsePointId": "2516925272"
+    },
+    {
       "id": "2026-06-11T00:30:00Z_burnaby/1st-ave_burnaby/esmond-ave",
       "timestamp": "2026-06-11T00:30:00Z",
       "address": "1ST AVE & ESMOND AVE",
@@ -47,6 +62,6 @@
       "pulsePointId": "2450913455"
     }
   ],
-  "lastIncident": "2026-06-11T00:30:00Z",
-  "count": 3
+  "lastIncident": "2026-07-12T00:56:00Z",
+  "count": 4
 }

@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-07-12T00:56:00Z_burnaby/macdonald-ave_burnaby/1st-ave",
+    "timestamp": "2026-07-12T00:56:00Z",
+    "scrapedAt": "2026-07-12T01:18:17Z",
+    "address": "MACDONALD AVE & 1ST AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/macdonald-ave",
+      "burnaby/1st-ave"
+    ],
+    "streetNames": [
+      "Macdonald Ave",
+      "1st Ave"
+    ],
+    "pulsePointId": "2516925272"
+  },
+  {
+    "id": "2026-07-12T00:48:00Z_port-coquitlam/mary-hill-bps_port-coquitlam/shaughnessy-st",
+    "timestamp": "2026-07-12T00:48:00Z",
+    "scrapedAt": "2026-07-12T01:18:17Z",
+    "address": "MARY HILL BPS & SHAUGHNESSY ST",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/mary-hill-bps",
+      "port-coquitlam/shaughnessy-st"
+    ],
+    "streetNames": [
+      "Mary Hill Bps",
+      "Shaughnessy St"
+    ],
+    "pulsePointId": "2516920310"
+  },
+  {
+    "id": "2026-07-12T00:31:00Z_maple-ridge/dewdney-trunk-rd",
+    "timestamp": "2026-07-12T00:31:00Z",
+    "scrapedAt": "2026-07-12T01:18:17Z",
+    "address": "DEWDNEY TRUNK RD",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2516909856"
+  },
+  {
+    "id": "2026-07-12T00:07:00Z_vancouver/w-hastings-st",
+    "timestamp": "2026-07-12T00:07:00Z",
+    "scrapedAt": "2026-07-12T01:18:17Z",
+    "address": "W HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-hastings-st"
+    ],
+    "streetNames": [
+      "W Hastings St"
+    ],
+    "pulsePointId": "2516894786"
+  },
+  {
+    "id": "2026-07-12T00:05:00Z_abbotsford/simon-ave_abbotsford/garden-st",
+    "timestamp": "2026-07-12T00:05:00Z",
+    "scrapedAt": "2026-07-12T01:18:17Z",
+    "address": "SIMON AVE & GARDEN ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/simon-ave",
+      "abbotsford/garden-st"
+    ],
+    "streetNames": [
+      "Simon Ave",
+      "Garden St"
+    ],
+    "pulsePointId": "2516894628"
+  },
+  {
+    "id": "2026-07-12T00:00:00Z_new-westminster/e-columbia-st",
+    "timestamp": "2026-07-12T00:00:00Z",
+    "scrapedAt": "2026-07-12T01:18:17Z",
+    "address": "E COLUMBIA ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/e-columbia-st"
+    ],
+    "streetNames": [
+      "E Columbia St"
+    ],
+    "pulsePointId": "2516889614"
+  },
+  {
     "id": "2026-07-11T22:58:00Z_mission/dewdney-trunk-rd_mission/lougheed-hwy",
     "timestamp": "2026-07-11T22:58:00Z",
     "scrapedAt": "2026-07-11T23:39:51Z",
