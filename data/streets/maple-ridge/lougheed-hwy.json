@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-07-13T03:34:00Z_maple-ridge/lougheed-hwy_maple-ridge/116th-ave",
+      "timestamp": "2026-07-13T03:34:00Z",
+      "address": "LOUGHEED HWY & 116TH AVE",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/lougheed-hwy",
+        "maple-ridge/116th-ave"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "116th Ave"
+      ],
+      "pulsePointId": "2517704435"
+    },
+    {
       "id": "2026-07-12T17:29:00Z_maple-ridge/240th-st_maple-ridge/lougheed-hwy",
       "timestamp": "2026-07-12T17:29:00Z",
       "address": "240TH ST & LOUGHEED HWY",
@@ -530,6 +545,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-12T17:29:00Z",
-  "count": 36
+  "lastIncident": "2026-07-13T03:34:00Z",
+  "count": 37
 }

@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-07-13T03:34:00Z_maple-ridge/lougheed-hwy_maple-ridge/116th-ave",
+    "timestamp": "2026-07-13T03:34:00Z",
+    "scrapedAt": "2026-07-13T04:51:40Z",
+    "address": "LOUGHEED HWY & 116TH AVE",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/lougheed-hwy",
+      "maple-ridge/116th-ave"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "116th Ave"
+    ],
+    "pulsePointId": "2517704435"
+  },
+  {
+    "id": "2026-07-13T02:49:00Z_abbotsford/townshipline-rd",
+    "timestamp": "2026-07-13T02:49:00Z",
+    "scrapedAt": "2026-07-13T04:51:40Z",
+    "address": "TOWNSHIPLINE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/townshipline-rd"
+    ],
+    "streetNames": [
+      "Townshipline Rd"
+    ],
+    "pulsePointId": "2517682163"
+  },
+  {
     "id": "2026-07-13T01:05:00Z_west-vancouver/760-16th-st",
     "timestamp": "2026-07-13T01:05:00Z",
     "scrapedAt": "2026-07-13T01:19:55Z",

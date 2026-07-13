@@ -325,8 +325,8 @@
     "name": "Lougheed Hwy",
     "slug": "maple-ridge/lougheed-hwy",
     "city": "Maple Ridge",
-    "lastIncident": "2026-07-12T17:29:00Z",
-    "count": 36
+    "lastIncident": "2026-07-13T03:34:00Z",
+    "count": 37
   },
   "mission/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -3307,8 +3307,8 @@
     "name": "116th Ave",
     "slug": "maple-ridge/116th-ave",
     "city": "Maple Ridge",
-    "lastIncident": "2026-07-08T02:09:00Z",
-    "count": 2
+    "lastIncident": "2026-07-13T03:34:00Z",
+    "count": 3
   },
   "richmond/alderbridge-way": {
     "name": "Alderbridge Way",
@@ -3804,8 +3804,8 @@
     "name": "Townshipline Rd",
     "slug": "abbotsford/townshipline-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-08T02:01:00Z",
-    "count": 5
+    "lastIncident": "2026-07-13T02:49:00Z",
+    "count": 6
   },
   "chilliwack/industrial-way": {
     "name": "Industrial Way",
