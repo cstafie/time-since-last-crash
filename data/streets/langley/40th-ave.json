@@ -4,6 +4,36 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-07-13T22:44:00Z_langley/40th-ave_langley/212th-st",
+      "timestamp": "2026-07-13T22:44:00Z",
+      "address": "40TH AVE & 212TH ST",
+      "city": "Langley",
+      "streets": [
+        "langley/40th-ave",
+        "langley/212th-st"
+      ],
+      "streetNames": [
+        "40th Ave",
+        "212th St"
+      ],
+      "pulsePointId": "2518274243"
+    },
+    {
+      "id": "2026-07-13T22:42:00Z_langley/40th-ave_langley/213a-st",
+      "timestamp": "2026-07-13T22:42:00Z",
+      "address": "40TH AVE & 213A ST",
+      "city": "Langley",
+      "streets": [
+        "langley/40th-ave",
+        "langley/213a-st"
+      ],
+      "streetNames": [
+        "40th Ave",
+        "213a St"
+      ],
+      "pulsePointId": "2518270177"
+    },
+    {
       "id": "2026-06-10T07:52:00Z_langley/208th-st_langley/40th-ave",
       "timestamp": "2026-06-10T07:52:00Z",
       "address": "208TH ST & 40TH AVE",
@@ -90,6 +120,6 @@
       "pulsePointId": "2464276107"
     }
   ],
-  "lastIncident": "2026-06-10T07:52:00Z",
-  "count": 6
+  "lastIncident": "2026-07-13T22:44:00Z",
+  "count": 8
 }

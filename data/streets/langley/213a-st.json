@@ -1,0 +1,24 @@
+{
+  "slug": "langley/213a-st",
+  "name": "213a St",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-07-13T22:42:00Z_langley/40th-ave_langley/213a-st",
+      "timestamp": "2026-07-13T22:42:00Z",
+      "address": "40TH AVE & 213A ST",
+      "city": "Langley",
+      "streets": [
+        "langley/40th-ave",
+        "langley/213a-st"
+      ],
+      "streetNames": [
+        "40th Ave",
+        "213a St"
+      ],
+      "pulsePointId": "2518270177"
+    }
+  ],
+  "lastIncident": "2026-07-13T22:42:00Z",
+  "count": 1
+}

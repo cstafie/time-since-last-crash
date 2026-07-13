@@ -4,6 +4,21 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-07-13T22:41:00Z_chilliwack/evans-rd_chilliwack/luckakuck-way",
+      "timestamp": "2026-07-13T22:41:00Z",
+      "address": "EVANS RD & LUCKAKUCK WAY",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/evans-rd",
+        "chilliwack/luckakuck-way"
+      ],
+      "streetNames": [
+        "Evans Rd",
+        "Luckakuck Way"
+      ],
+      "pulsePointId": "2518268280"
+    },
+    {
       "id": "2026-07-11T22:20:00Z_chilliwack/evans-rd_chilliwack/knight-rd",
       "timestamp": "2026-07-11T22:20:00Z",
       "address": "EVANS RD & KNIGHT RD",
@@ -49,6 +64,6 @@
       "pulsePointId": "2436752247"
     }
   ],
-  "lastIncident": "2026-07-11T22:20:00Z",
-  "count": 3
+  "lastIncident": "2026-07-13T22:41:00Z",
+  "count": 4
 }

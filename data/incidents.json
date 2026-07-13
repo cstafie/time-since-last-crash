@@ -1,5 +1,85 @@
 [
   {
+    "id": "2026-07-13T22:44:00Z_langley/40th-ave_langley/212th-st",
+    "timestamp": "2026-07-13T22:44:00Z",
+    "scrapedAt": "2026-07-13T23:39:35Z",
+    "address": "40TH AVE & 212TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/40th-ave",
+      "langley/212th-st"
+    ],
+    "streetNames": [
+      "40th Ave",
+      "212th St"
+    ],
+    "pulsePointId": "2518274243"
+  },
+  {
+    "id": "2026-07-13T22:43:00Z_abbotsford/bevan-ave_abbotsford/ware-st",
+    "timestamp": "2026-07-13T22:43:00Z",
+    "scrapedAt": "2026-07-13T23:39:35Z",
+    "address": "BEVAN AVE & WARE ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/bevan-ave",
+      "abbotsford/ware-st"
+    ],
+    "streetNames": [
+      "Bevan Ave",
+      "Ware St"
+    ],
+    "pulsePointId": "2518270176"
+  },
+  {
+    "id": "2026-07-13T22:43:00Z_surrey/138th-st_surrey/64th-ave",
+    "timestamp": "2026-07-13T22:43:00Z",
+    "scrapedAt": "2026-07-13T23:39:35Z",
+    "address": "138TH ST & 64TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/138th-st",
+      "surrey/64th-ave"
+    ],
+    "streetNames": [
+      "138th St",
+      "64th Ave"
+    ],
+    "pulsePointId": "2518269121"
+  },
+  {
+    "id": "2026-07-13T22:42:00Z_langley/40th-ave_langley/213a-st",
+    "timestamp": "2026-07-13T22:42:00Z",
+    "scrapedAt": "2026-07-13T23:39:35Z",
+    "address": "40TH AVE & 213A ST",
+    "city": "Langley",
+    "streets": [
+      "langley/40th-ave",
+      "langley/213a-st"
+    ],
+    "streetNames": [
+      "40th Ave",
+      "213a St"
+    ],
+    "pulsePointId": "2518270177"
+  },
+  {
+    "id": "2026-07-13T22:41:00Z_chilliwack/evans-rd_chilliwack/luckakuck-way",
+    "timestamp": "2026-07-13T22:41:00Z",
+    "scrapedAt": "2026-07-13T23:39:35Z",
+    "address": "EVANS RD & LUCKAKUCK WAY",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/evans-rd",
+      "chilliwack/luckakuck-way"
+    ],
+    "streetNames": [
+      "Evans Rd",
+      "Luckakuck Way"
+    ],
+    "pulsePointId": "2518268280"
+  },
+  {
     "id": "2026-07-13T22:19:00Z_surrey/192nd-st_surrey/golden-ears-way",
     "timestamp": "2026-07-13T22:19:00Z",
     "scrapedAt": "2026-07-13T22:41:33Z",

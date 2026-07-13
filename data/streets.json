@@ -598,8 +598,8 @@
     "name": "64th Ave",
     "slug": "surrey/64th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-13T06:53:00Z",
-    "count": 31
+    "lastIncident": "2026-07-13T22:43:00Z",
+    "count": 32
   },
   "surrey/72a-ave": {
     "name": "72a Ave",
@@ -1746,8 +1746,8 @@
     "name": "Ware St",
     "slug": "abbotsford/ware-st",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-05T20:58:00Z",
-    "count": 12
+    "lastIncident": "2026-07-13T22:43:00Z",
+    "count": 13
   },
   "abbotsford/bourquin-cres-e": {
     "name": "Bourquin Cres E",
@@ -2873,8 +2873,8 @@
     "name": "Evans Rd",
     "slug": "chilliwack/evans-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-07-11T22:20:00Z",
-    "count": 3
+    "lastIncident": "2026-07-13T22:41:00Z",
+    "count": 4
   },
   "chilliwack/yale-rd": {
     "name": "Yale Rd",
@@ -4392,8 +4392,8 @@
     "name": "138th St",
     "slug": "surrey/138th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-09T07:02:00Z",
-    "count": 8
+    "lastIncident": "2026-07-13T22:43:00Z",
+    "count": 9
   },
   "surrey/74th-ave": {
     "name": "74th Ave",
@@ -5127,8 +5127,8 @@
     "name": "Luckakuck Way",
     "slug": "chilliwack/luckakuck-way",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-16T21:42:00Z",
-    "count": 5
+    "lastIncident": "2026-07-13T22:41:00Z",
+    "count": 6
   },
   "richmond/sea-island-way": {
     "name": "Sea Island Way",
@@ -8193,8 +8193,8 @@
     "name": "40th Ave",
     "slug": "langley/40th-ave",
     "city": "Langley",
-    "lastIncident": "2026-06-10T07:52:00Z",
-    "count": 6
+    "lastIncident": "2026-07-13T22:44:00Z",
+    "count": 8
   },
   "port-moody/spring-st": {
     "name": "Spring St",
@@ -9810,8 +9810,8 @@
     "name": "Bevan Ave",
     "slug": "abbotsford/bevan-ave",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-13T22:46:00Z",
-    "count": 5
+    "lastIncident": "2026-07-13T22:43:00Z",
+    "count": 6
   },
   "chilliwack/meadowbrook-dr": {
     "name": "Meadowbrook Dr",
@@ -12589,8 +12589,8 @@
     "name": "212th St",
     "slug": "langley/212th-st",
     "city": "Langley",
-    "lastIncident": "2026-06-19T03:15:00Z",
-    "count": 1
+    "lastIncident": "2026-07-13T22:44:00Z",
+    "count": 2
   },
   "north-vancouver/e-25th-st": {
     "name": "E 25th St",
@@ -14158,6 +14158,13 @@
     "slug": "surrey/10th-ave",
     "city": "Surrey",
     "lastIncident": "2026-07-13T21:22:00Z",
+    "count": 1
+  },
+  "langley/213a-st": {
+    "name": "213a St",
+    "slug": "langley/213a-st",
+    "city": "Langley",
+    "lastIncident": "2026-07-13T22:42:00Z",
     "count": 1
   }
 }
