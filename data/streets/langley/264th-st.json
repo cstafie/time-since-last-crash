@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-07-13T19:57:00Z_langley/36th-ave_langley/264th-st",
+      "timestamp": "2026-07-13T19:57:00Z",
+      "address": "36TH AVE & 264TH ST",
+      "city": "Langley",
+      "streets": [
+        "langley/36th-ave",
+        "langley/264th-st"
+      ],
+      "streetNames": [
+        "36th Ave",
+        "264th St"
+      ],
+      "pulsePointId": "2518149906"
+    },
+    {
       "id": "2026-06-29T19:19:00Z_langley/264th-st_langley/16th-ave",
       "timestamp": "2026-06-29T19:19:00Z",
       "address": "264TH ST & 16TH AVE",
@@ -177,6 +192,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-29T19:19:00Z",
-  "count": 12
+  "lastIncident": "2026-07-13T19:57:00Z",
+  "count": 13
 }

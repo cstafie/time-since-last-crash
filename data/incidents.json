@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-13T19:57:00Z_langley/36th-ave_langley/264th-st",
+    "timestamp": "2026-07-13T19:57:00Z",
+    "scrapedAt": "2026-07-13T20:45:39Z",
+    "address": "36TH AVE & 264TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/36th-ave",
+      "langley/264th-st"
+    ],
+    "streetNames": [
+      "36th Ave",
+      "264th St"
+    ],
+    "pulsePointId": "2518149906"
+  },
+  {
     "id": "2026-07-13T19:45:00Z_vancouver/e-3rd-ave_vancouver/main-st",
     "timestamp": "2026-07-13T19:45:00Z",
     "scrapedAt": "2026-07-13T19:54:47Z",

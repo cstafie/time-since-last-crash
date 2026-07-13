@@ -1179,8 +1179,8 @@
     "name": "264th St",
     "slug": "langley/264th-st",
     "city": "Langley",
-    "lastIncident": "2026-06-29T19:19:00Z",
-    "count": 12
+    "lastIncident": "2026-07-13T19:57:00Z",
+    "count": 13
   },
   "langley/64th-ave": {
     "name": "64th Ave",
@@ -3776,8 +3776,8 @@
     "name": "36th Ave",
     "slug": "langley/36th-ave",
     "city": "Langley",
-    "lastIncident": "2026-07-07T20:18:00Z",
-    "count": 3
+    "lastIncident": "2026-07-13T19:57:00Z",
+    "count": 4
   },
   "vancouver/e-54th-ave": {
     "name": "E 54th Ave",
