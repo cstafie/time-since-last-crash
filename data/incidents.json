@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-07-13T01:05:00Z_west-vancouver/760-16th-st",
+    "timestamp": "2026-07-13T01:05:00Z",
+    "scrapedAt": "2026-07-13T01:19:55Z",
+    "address": "760 16TH ST",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/760-16th-st"
+    ],
+    "streetNames": [
+      "760 16th St"
+    ],
+    "pulsePointId": "2517624399"
+  },
+  {
     "id": "2026-07-12T23:16:00Z_north-vancouver/e-3rd-st",
     "timestamp": "2026-07-12T23:16:00Z",
     "scrapedAt": "2026-07-12T23:39:25Z",
