@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-07-13T06:08:00Z",
-    "count": 81
+    "lastIncident": "2026-07-13T21:22:00Z",
+    "count": 82
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -14137,6 +14137,27 @@
     "slug": "north-vancouver/w-queens-rd",
     "city": "North Vancouver",
     "lastIncident": "2026-07-13T18:55:00Z",
+    "count": 1
+  },
+  "west-vancouver/nelson-creek-brdg": {
+    "name": "Nelson Creek Brdg",
+    "slug": "west-vancouver/nelson-creek-brdg",
+    "city": "West Vancouver",
+    "lastIncident": "2026-07-13T21:23:00Z",
+    "count": 1
+  },
+  "coquitlam/552-clarke-rd": {
+    "name": "552 Clarke Rd",
+    "slug": "coquitlam/552-clarke-rd",
+    "city": "Coquitlam",
+    "lastIncident": "2026-07-13T20:53:00Z",
+    "count": 1
+  },
+  "surrey/10th-ave": {
+    "name": "10th Ave",
+    "slug": "surrey/10th-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-07-13T21:22:00Z",
     "count": 1
   }
 }

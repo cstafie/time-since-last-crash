@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-07-13T21:23:00Z_west-vancouver/nelson-creek-brdg",
+    "timestamp": "2026-07-13T21:23:00Z",
+    "scrapedAt": "2026-07-13T21:41:13Z",
+    "address": "NELSON CREEK BRDG",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/nelson-creek-brdg"
+    ],
+    "streetNames": [
+      "Nelson Creek Brdg"
+    ],
+    "pulsePointId": "2518211317"
+  },
+  {
+    "id": "2026-07-13T21:22:00Z_surrey/10th-ave_surrey/king-george-blvd",
+    "timestamp": "2026-07-13T21:22:00Z",
+    "scrapedAt": "2026-07-13T21:41:13Z",
+    "address": "10TH AVE & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/10th-ave",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "10th Ave",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2518210282"
+  },
+  {
+    "id": "2026-07-13T20:53:00Z_coquitlam/552-clarke-rd",
+    "timestamp": "2026-07-13T20:53:00Z",
+    "scrapedAt": "2026-07-13T21:41:13Z",
+    "address": "552 CLARKE RD",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/552-clarke-rd"
+    ],
+    "streetNames": [
+      "552 Clarke Rd"
+    ],
+    "pulsePointId": "2518189832"
+  },
+  {
     "id": "2026-07-13T19:57:00Z_langley/36th-ave_langley/264th-st",
     "timestamp": "2026-07-13T19:57:00Z",
     "scrapedAt": "2026-07-13T20:45:39Z",

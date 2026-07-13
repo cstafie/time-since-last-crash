@@ -1,0 +1,22 @@
+{
+  "slug": "coquitlam/552-clarke-rd",
+  "name": "552 Clarke Rd",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-07-13T20:53:00Z_coquitlam/552-clarke-rd",
+      "timestamp": "2026-07-13T20:53:00Z",
+      "address": "552 CLARKE RD",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/552-clarke-rd"
+      ],
+      "streetNames": [
+        "552 Clarke Rd"
+      ],
+      "pulsePointId": "2518189832"
+    }
+  ],
+  "lastIncident": "2026-07-13T20:53:00Z",
+  "count": 1
+}

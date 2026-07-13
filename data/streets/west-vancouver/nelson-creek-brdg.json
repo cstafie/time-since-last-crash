@@ -1,0 +1,22 @@
+{
+  "slug": "west-vancouver/nelson-creek-brdg",
+  "name": "Nelson Creek Brdg",
+  "city": "West Vancouver",
+  "incidents": [
+    {
+      "id": "2026-07-13T21:23:00Z_west-vancouver/nelson-creek-brdg",
+      "timestamp": "2026-07-13T21:23:00Z",
+      "address": "NELSON CREEK BRDG",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/nelson-creek-brdg"
+      ],
+      "streetNames": [
+        "Nelson Creek Brdg"
+      ],
+      "pulsePointId": "2518211317"
+    }
+  ],
+  "lastIncident": "2026-07-13T21:23:00Z",
+  "count": 1
+}
