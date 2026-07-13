@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-07-13T06:53:00Z_surrey/64th-ave_surrey/176th-st",
+    "timestamp": "2026-07-13T06:53:00Z",
+    "scrapedAt": "2026-07-13T10:57:26Z",
+    "address": "64TH AVE & 176TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/64th-ave",
+      "surrey/176th-st"
+    ],
+    "streetNames": [
+      "64th Ave",
+      "176th St"
+    ],
+    "pulsePointId": "2517785292"
+  },
+  {
+    "id": "2026-07-13T06:08:00Z_surrey/68th-ave_surrey/king-george-blvd",
+    "timestamp": "2026-07-13T06:08:00Z",
+    "scrapedAt": "2026-07-13T10:57:26Z",
+    "address": "68TH AVE & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/68th-ave",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "68th Ave",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2517770255"
+  },
+  {
     "id": "2026-07-13T03:34:00Z_maple-ridge/lougheed-hwy_maple-ridge/116th-ave",
     "timestamp": "2026-07-13T03:34:00Z",
     "scrapedAt": "2026-07-13T04:51:40Z",

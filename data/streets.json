@@ -598,8 +598,8 @@
     "name": "64th Ave",
     "slug": "surrey/64th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-12T06:59:00Z",
-    "count": 30
+    "lastIncident": "2026-07-13T06:53:00Z",
+    "count": 31
   },
   "surrey/72a-ave": {
     "name": "72a Ave",
@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-07-12T03:40:00Z",
-    "count": 80
+    "lastIncident": "2026-07-13T06:08:00Z",
+    "count": 81
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -885,8 +885,8 @@
     "name": "176th St",
     "slug": "surrey/176th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-11T20:22:00Z",
-    "count": 46
+    "lastIncident": "2026-07-13T06:53:00Z",
+    "count": 47
   },
   "surrey/100th-ave": {
     "name": "100th Ave",
@@ -3692,8 +3692,8 @@
     "name": "68th Ave",
     "slug": "surrey/68th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-11T01:49:00Z",
-    "count": 17
+    "lastIncident": "2026-07-13T06:08:00Z",
+    "count": 18
   },
   "burnaby/royal-oak-ave": {
     "name": "Royal Oak Ave",

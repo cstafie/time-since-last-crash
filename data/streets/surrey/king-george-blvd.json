@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-13T06:08:00Z_surrey/68th-ave_surrey/king-george-blvd",
+      "timestamp": "2026-07-13T06:08:00Z",
+      "address": "68TH AVE & KING GEORGE BLVD",
+      "city": "Surrey",
+      "streets": [
+        "surrey/68th-ave",
+        "surrey/king-george-blvd"
+      ],
+      "streetNames": [
+        "68th Ave",
+        "King George Blvd"
+      ],
+      "pulsePointId": "2517770255"
+    },
+    {
       "id": "2026-07-12T03:40:00Z_surrey/102nd-ave_surrey/king-george-blvd",
       "timestamp": "2026-07-12T03:40:00Z",
       "address": "102ND AVE & KING GEORGE BLVD",
@@ -1174,6 +1189,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-12T03:40:00Z",
-  "count": 80
+  "lastIncident": "2026-07-13T06:08:00Z",
+  "count": 81
 }
