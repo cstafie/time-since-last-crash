@@ -647,8 +647,8 @@
     "name": "96th Ave",
     "slug": "surrey/96th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-10T15:33:00Z",
-    "count": 39
+    "lastIncident": "2026-07-13T22:15:00Z",
+    "count": 40
   },
   "surrey/bolivar-rd": {
     "name": "Bolivar Rd",
@@ -780,8 +780,8 @@
     "name": "W 33rd Ave",
     "slug": "vancouver/w-33rd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-13T14:10:00Z",
-    "count": 11
+    "lastIncident": "2026-07-13T21:49:00Z",
+    "count": 12
   },
   "vancouver/w-49th-ave": {
     "name": "W 49th Ave",
@@ -1382,8 +1382,8 @@
     "name": "192nd St",
     "slug": "surrey/192nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-08T23:33:00Z",
-    "count": 16
+    "lastIncident": "2026-07-13T22:19:00Z",
+    "count": 17
   },
   "surrey/66a-ave": {
     "name": "66a Ave",
@@ -3510,8 +3510,8 @@
     "name": "Golden Ears Way",
     "slug": "surrey/golden-ears-way",
     "city": "Surrey",
-    "lastIncident": "2026-06-26T14:14:00Z",
-    "count": 5
+    "lastIncident": "2026-07-13T22:19:00Z",
+    "count": 6
   },
   "surrey/144a-st": {
     "name": "144a St",
@@ -6597,8 +6597,8 @@
     "name": "Sw Marine Dr",
     "slug": "vancouver/sw-marine-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-07-06T23:56:00Z",
-    "count": 18
+    "lastIncident": "2026-07-13T22:04:00Z",
+    "count": 19
   },
   "surrey/54th-ave": {
     "name": "54th Ave",
@@ -7220,8 +7220,8 @@
     "name": "Yukon St",
     "slug": "vancouver/yukon-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-21T03:45:00Z",
-    "count": 5
+    "lastIncident": "2026-07-13T22:04:00Z",
+    "count": 6
   },
   "surrey/tannery-rd": {
     "name": "Tannery Rd",

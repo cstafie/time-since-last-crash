@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-07-13T22:19:00Z_surrey/192nd-st_surrey/golden-ears-way",
+    "timestamp": "2026-07-13T22:19:00Z",
+    "scrapedAt": "2026-07-13T22:41:33Z",
+    "address": "192ND ST & GOLDEN EARS WAY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/192nd-st",
+      "surrey/golden-ears-way"
+    ],
+    "streetNames": [
+      "192nd St",
+      "Golden Ears Way"
+    ],
+    "pulsePointId": "2518254085"
+  },
+  {
+    "id": "2026-07-13T22:15:00Z_surrey/96th-ave",
+    "timestamp": "2026-07-13T22:15:00Z",
+    "scrapedAt": "2026-07-13T22:41:33Z",
+    "address": "96TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/96th-ave"
+    ],
+    "streetNames": [
+      "96th Ave"
+    ],
+    "pulsePointId": "2518250856"
+  },
+  {
+    "id": "2026-07-13T22:04:00Z_vancouver/sw-marine-dr_vancouver/yukon-st",
+    "timestamp": "2026-07-13T22:04:00Z",
+    "scrapedAt": "2026-07-13T22:41:33Z",
+    "address": "SW MARINE DR & YUKON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/sw-marine-dr",
+      "vancouver/yukon-st"
+    ],
+    "streetNames": [
+      "Sw Marine Dr",
+      "Yukon St"
+    ],
+    "pulsePointId": "2518242998"
+  },
+  {
+    "id": "2026-07-13T21:49:00Z_vancouver/w-33rd-ave",
+    "timestamp": "2026-07-13T21:49:00Z",
+    "scrapedAt": "2026-07-13T22:41:33Z",
+    "address": "W 33RD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-33rd-ave"
+    ],
+    "streetNames": [
+      "W 33rd Ave"
+    ],
+    "pulsePointId": "2518231689"
+  },
+  {
     "id": "2026-07-13T21:23:00Z_west-vancouver/nelson-creek-brdg",
     "timestamp": "2026-07-13T21:23:00Z",
     "scrapedAt": "2026-07-13T21:41:13Z",

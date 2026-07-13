@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-13T22:04:00Z_vancouver/sw-marine-dr_vancouver/yukon-st",
+      "timestamp": "2026-07-13T22:04:00Z",
+      "address": "SW MARINE DR & YUKON ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/sw-marine-dr",
+        "vancouver/yukon-st"
+      ],
+      "streetNames": [
+        "Sw Marine Dr",
+        "Yukon St"
+      ],
+      "pulsePointId": "2518242998"
+    },
+    {
       "id": "2026-05-21T03:45:00Z_vancouver/yukon-st_vancouver/sw-marine-dr",
       "timestamp": "2026-05-21T03:45:00Z",
       "address": "YUKON ST & SW MARINE DR",
@@ -79,6 +94,6 @@
       "pulsePointId": "2457677523"
     }
   ],
-  "lastIncident": "2026-05-21T03:45:00Z",
-  "count": 5
+  "lastIncident": "2026-07-13T22:04:00Z",
+  "count": 6
 }
