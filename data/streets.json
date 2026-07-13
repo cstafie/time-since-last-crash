@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-09T23:36:00Z",
-    "count": 61
+    "lastIncident": "2026-07-13T14:10:00Z",
+    "count": 62
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -780,8 +780,8 @@
     "name": "W 33rd Ave",
     "slug": "vancouver/w-33rd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-24T14:19:00Z",
-    "count": 10
+    "lastIncident": "2026-07-13T14:10:00Z",
+    "count": 11
   },
   "vancouver/w-49th-ave": {
     "name": "W 49th Ave",
@@ -4910,8 +4910,8 @@
     "name": "Hwy 17",
     "slug": "delta/hwy-17",
     "city": "Delta",
-    "lastIncident": "2026-06-26T13:39:00Z",
-    "count": 18
+    "lastIncident": "2026-07-13T14:49:00Z",
+    "count": 19
   },
   "coquitlam/winslow-ave": {
     "name": "Winslow Ave",
