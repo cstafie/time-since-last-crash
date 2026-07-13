@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-13T19:10:00Z_vancouver/rupert-st_vancouver/e-22nd-ave",
+      "timestamp": "2026-07-13T19:10:00Z",
+      "address": "RUPERT ST & E 22ND AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/rupert-st",
+        "vancouver/e-22nd-ave"
+      ],
+      "streetNames": [
+        "Rupert St",
+        "E 22nd Ave"
+      ],
+      "pulsePointId": "2518115107"
+    },
+    {
       "id": "2026-07-10T05:32:00Z_vancouver/rupert-st_vancouver/school-ave",
       "timestamp": "2026-07-10T05:32:00Z",
       "address": "RUPERT ST & SCHOOL AVE",
@@ -225,6 +240,6 @@
       "pulsePointId": "2434824658"
     }
   ],
-  "lastIncident": "2026-07-10T05:32:00Z",
-  "count": 15
+  "lastIncident": "2026-07-13T19:10:00Z",
+  "count": 16
 }

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-13T19:25:00Z_vancouver/w-6th-ave_vancouver/columbia-st",
+      "timestamp": "2026-07-13T19:25:00Z",
+      "address": "W 6TH AVE & COLUMBIA ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-6th-ave",
+        "vancouver/columbia-st"
+      ],
+      "streetNames": [
+        "W 6th Ave",
+        "Columbia St"
+      ],
+      "pulsePointId": "2518130606"
+    },
+    {
       "id": "2026-07-02T22:54:00Z_vancouver/w-6th-ave",
       "timestamp": "2026-07-02T22:54:00Z",
       "address": "W 6TH AVE",
@@ -105,6 +120,6 @@
       "pulsePointId": "2432704249"
     }
   ],
-  "lastIncident": "2026-07-02T22:54:00Z",
-  "count": 7
+  "lastIncident": "2026-07-13T19:25:00Z",
+  "count": 8
 }

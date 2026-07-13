@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-13T19:45:00Z_vancouver/e-3rd-ave_vancouver/main-st",
+      "timestamp": "2026-07-13T19:45:00Z",
+      "address": "E 3RD AVE & MAIN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-3rd-ave",
+        "vancouver/main-st"
+      ],
+      "streetNames": [
+        "E 3rd Ave",
+        "Main St"
+      ],
+      "pulsePointId": "2518142035"
+    },
+    {
       "id": "2026-06-27T19:33:00Z_vancouver/main-st_vancouver/e-48th-ave",
       "timestamp": "2026-06-27T19:33:00Z",
       "address": "MAIN ST & E 48TH AVE",
@@ -798,6 +813,6 @@
       "pulsePointId": "2432937969"
     }
   ],
-  "lastIncident": "2026-06-27T19:33:00Z",
-  "count": 54
+  "lastIncident": "2026-07-13T19:45:00Z",
+  "count": 55
 }

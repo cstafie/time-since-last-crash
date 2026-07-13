@@ -1,0 +1,22 @@
+{
+  "slug": "north-vancouver/w-queens-rd",
+  "name": "W Queens Rd",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-07-13T18:55:00Z_north-vancouver/w-queens-rd",
+      "timestamp": "2026-07-13T18:55:00Z",
+      "address": "W QUEENS RD",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/w-queens-rd"
+      ],
+      "streetNames": [
+        "W Queens Rd"
+      ],
+      "pulsePointId": "2518104773"
+    }
+  ],
+  "lastIncident": "2026-07-13T18:55:00Z",
+  "count": 1
+}

@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-07-13T18:35:00Z_coquitlam/mariner-way_coquitlam/austin-ave",
+      "timestamp": "2026-07-13T18:35:00Z",
+      "address": "MARINER WAY & AUSTIN AVE",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/mariner-way",
+        "coquitlam/austin-ave"
+      ],
+      "streetNames": [
+        "Mariner Way",
+        "Austin Ave"
+      ],
+      "pulsePointId": "2518090508"
+    },
+    {
       "id": "2026-06-06T02:28:00Z_coquitlam/dewdney-trunk-rd_coquitlam/mariner-way",
       "timestamp": "2026-06-06T02:28:00Z",
       "address": "DEWDNEY TRUNK RD & MARINER WAY",
@@ -72,6 +87,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-06T02:28:00Z",
-  "count": 5
+  "lastIncident": "2026-07-13T18:35:00Z",
+  "count": 6
 }

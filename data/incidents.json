@@ -1,5 +1,83 @@
 [
   {
+    "id": "2026-07-13T19:45:00Z_vancouver/e-3rd-ave_vancouver/main-st",
+    "timestamp": "2026-07-13T19:45:00Z",
+    "scrapedAt": "2026-07-13T19:54:47Z",
+    "address": "E 3RD AVE & MAIN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-3rd-ave",
+      "vancouver/main-st"
+    ],
+    "streetNames": [
+      "E 3rd Ave",
+      "Main St"
+    ],
+    "pulsePointId": "2518142035"
+  },
+  {
+    "id": "2026-07-13T19:25:00Z_vancouver/w-6th-ave_vancouver/columbia-st",
+    "timestamp": "2026-07-13T19:25:00Z",
+    "scrapedAt": "2026-07-13T19:54:47Z",
+    "address": "W 6TH AVE & COLUMBIA ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-6th-ave",
+      "vancouver/columbia-st"
+    ],
+    "streetNames": [
+      "W 6th Ave",
+      "Columbia St"
+    ],
+    "pulsePointId": "2518130606"
+  },
+  {
+    "id": "2026-07-13T19:10:00Z_vancouver/rupert-st_vancouver/e-22nd-ave",
+    "timestamp": "2026-07-13T19:10:00Z",
+    "scrapedAt": "2026-07-13T19:54:47Z",
+    "address": "RUPERT ST & E 22ND AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/rupert-st",
+      "vancouver/e-22nd-ave"
+    ],
+    "streetNames": [
+      "Rupert St",
+      "E 22nd Ave"
+    ],
+    "pulsePointId": "2518115107"
+  },
+  {
+    "id": "2026-07-13T18:55:00Z_north-vancouver/w-queens-rd",
+    "timestamp": "2026-07-13T18:55:00Z",
+    "scrapedAt": "2026-07-13T19:54:47Z",
+    "address": "W QUEENS RD",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/w-queens-rd"
+    ],
+    "streetNames": [
+      "W Queens Rd"
+    ],
+    "pulsePointId": "2518104773"
+  },
+  {
+    "id": "2026-07-13T18:35:00Z_coquitlam/mariner-way_coquitlam/austin-ave",
+    "timestamp": "2026-07-13T18:35:00Z",
+    "scrapedAt": "2026-07-13T19:54:47Z",
+    "address": "MARINER WAY & AUSTIN AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/mariner-way",
+      "coquitlam/austin-ave"
+    ],
+    "streetNames": [
+      "Mariner Way",
+      "Austin Ave"
+    ],
+    "pulsePointId": "2518090508"
+  },
+  {
     "id": "2026-07-13T14:49:00Z_delta/hwy-17",
     "timestamp": "2026-07-13T14:49:00Z",
     "scrapedAt": "2026-07-13T16:01:27Z",
