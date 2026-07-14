@@ -192,8 +192,8 @@
     "name": "Hwy 91",
     "slug": "delta/hwy-91",
     "city": "Delta",
-    "lastIncident": "2026-06-27T23:31:00Z",
-    "count": 12
+    "lastIncident": "2026-07-14T01:59:00Z",
+    "count": 13
   },
   "delta/ladner-trunk-rd": {
     "name": "Ladner Trunk Rd",
@@ -269,8 +269,8 @@
     "name": "Trans Canada Hwy",
     "slug": "langley/trans-canada-hwy",
     "city": "Langley",
-    "lastIncident": "2026-07-12T21:57:00Z",
-    "count": 42
+    "lastIncident": "2026-07-14T02:28:00Z",
+    "count": 43
   },
   "maple-ridge/119th-ave": {
     "name": "119th Ave",
@@ -4742,8 +4742,8 @@
     "name": "232nd Street Ofrp",
     "slug": "langley/232nd-street-ofrp",
     "city": "Langley",
-    "lastIncident": "2026-06-26T19:26:00Z",
-    "count": 2
+    "lastIncident": "2026-07-14T02:28:00Z",
+    "count": 3
   },
   "abbotsford/gladys-ave": {
     "name": "Gladys Ave",
@@ -4924,8 +4924,8 @@
     "name": "Schoolhouse St",
     "slug": "coquitlam/schoolhouse-st",
     "city": "Coquitlam",
-    "lastIncident": "2026-06-21T00:07:00Z",
-    "count": 6
+    "lastIncident": "2026-07-14T02:05:00Z",
+    "count": 7
   },
   "maple-ridge/maple-cres": {
     "name": "Maple Cres",
@@ -14165,6 +14165,13 @@
     "slug": "langley/213a-st",
     "city": "Langley",
     "lastIncident": "2026-07-13T22:42:00Z",
+    "count": 1
+  },
+  "vancouver/e-53rd-ave": {
+    "name": "E 53rd Ave",
+    "slug": "vancouver/e-53rd-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-07-14T03:03:00Z",
     "count": 1
   }
 }
