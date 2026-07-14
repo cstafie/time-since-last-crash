@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-07-14T00:14:00Z_maple-ridge/fern-cres_maple-ridge/129th-ave",
+      "timestamp": "2026-07-14T00:14:00Z",
+      "address": "FERN CRES & 129TH AVE",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/fern-cres",
+        "maple-ridge/129th-ave"
+      ],
+      "streetNames": [
+        "Fern Cres",
+        "129th Ave"
+      ],
+      "pulsePointId": "2518332081"
+    },
+    {
       "id": "2026-06-06T05:19:00Z_maple-ridge/fern-cres",
       "timestamp": "2026-06-06T05:19:00Z",
       "address": "FERN CRES",
@@ -58,6 +73,6 @@
       "pulsePointId": "2474658582"
     }
   ],
-  "lastIncident": "2026-06-06T05:19:00Z",
-  "count": 4
+  "lastIncident": "2026-07-14T00:14:00Z",
+  "count": 5
 }

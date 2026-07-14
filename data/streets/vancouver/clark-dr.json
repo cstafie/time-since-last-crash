@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-14T00:03:00Z_vancouver/e-hastings-st_vancouver/clark-dr",
+      "timestamp": "2026-07-14T00:03:00Z",
+      "address": "E HASTINGS ST & CLARK DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-hastings-st",
+        "vancouver/clark-dr"
+      ],
+      "streetNames": [
+        "E Hastings St",
+        "Clark Dr"
+      ],
+      "pulsePointId": "2518325040"
+    },
+    {
       "id": "2026-07-12T06:18:00Z_vancouver/venables-st_vancouver/clark-dr",
       "timestamp": "2026-07-12T06:18:00Z",
       "address": "VENABLES ST & CLARK DR",
@@ -212,6 +227,6 @@
       "pulsePointId": "2438733768"
     }
   ],
-  "lastIncident": "2026-07-12T06:18:00Z",
-  "count": 14
+  "lastIncident": "2026-07-14T00:03:00Z",
+  "count": 15
 }

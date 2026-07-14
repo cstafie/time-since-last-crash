@@ -1,5 +1,81 @@
 [
   {
+    "id": "2026-07-14T00:30:00Z_abbotsford/bourquin-cres-e",
+    "timestamp": "2026-07-14T00:30:00Z",
+    "scrapedAt": "2026-07-14T01:09:15Z",
+    "address": "BOURQUIN CRES E",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/bourquin-cres-e"
+    ],
+    "streetNames": [
+      "Bourquin Cres E"
+    ],
+    "pulsePointId": "2518342367"
+  },
+  {
+    "id": "2026-07-14T00:14:00Z_maple-ridge/fern-cres_maple-ridge/129th-ave",
+    "timestamp": "2026-07-14T00:14:00Z",
+    "scrapedAt": "2026-07-14T01:09:15Z",
+    "address": "FERN CRES & 129TH AVE",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/fern-cres",
+      "maple-ridge/129th-ave"
+    ],
+    "streetNames": [
+      "Fern Cres",
+      "129th Ave"
+    ],
+    "pulsePointId": "2518332081"
+  },
+  {
+    "id": "2026-07-14T00:08:00Z_north-vancouver/forbes-ave",
+    "timestamp": "2026-07-14T00:08:00Z",
+    "scrapedAt": "2026-07-14T01:09:15Z",
+    "address": "FORBES AVE",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/forbes-ave"
+    ],
+    "streetNames": [
+      "Forbes Ave"
+    ],
+    "pulsePointId": "2518333610"
+  },
+  {
+    "id": "2026-07-14T00:03:00Z_vancouver/e-hastings-st_vancouver/clark-dr",
+    "timestamp": "2026-07-14T00:03:00Z",
+    "scrapedAt": "2026-07-14T01:09:15Z",
+    "address": "E HASTINGS ST & CLARK DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-hastings-st",
+      "vancouver/clark-dr"
+    ],
+    "streetNames": [
+      "E Hastings St",
+      "Clark Dr"
+    ],
+    "pulsePointId": "2518325040"
+  },
+  {
+    "id": "2026-07-13T23:41:00Z_surrey/148th-st_surrey/100th-ave",
+    "timestamp": "2026-07-13T23:41:00Z",
+    "scrapedAt": "2026-07-14T01:09:15Z",
+    "address": "148TH ST & 100TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/148th-st",
+      "surrey/100th-ave"
+    ],
+    "streetNames": [
+      "148th St",
+      "100th Ave"
+    ],
+    "pulsePointId": "2518310987"
+  },
+  {
     "id": "2026-07-13T22:44:00Z_langley/40th-ave_langley/212th-st",
     "timestamp": "2026-07-13T22:44:00Z",
     "scrapedAt": "2026-07-13T23:39:35Z",
