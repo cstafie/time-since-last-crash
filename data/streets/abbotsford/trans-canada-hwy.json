@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-14T14:46:00Z_abbotsford/trans-canada-hwy_abbotsford/mccallum-road-ofrp",
+      "timestamp": "2026-07-14T14:46:00Z",
+      "address": "TRANS CANADA HWY & MCCALLUM ROAD OFRP",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/trans-canada-hwy",
+        "abbotsford/mccallum-road-ofrp"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy",
+        "Mccallum Road Ofrp"
+      ],
+      "pulsePointId": "2518670833"
+    },
+    {
       "id": "2026-07-07T20:48:00Z_abbotsford/trans-canada-hwy",
       "timestamp": "2026-07-07T20:48:00Z",
       "address": "TRANS CANADA HWY",
@@ -665,6 +680,6 @@
       "pulsePointId": "2433793691"
     }
   ],
-  "lastIncident": "2026-07-07T20:48:00Z",
-  "count": 49
+  "lastIncident": "2026-07-14T14:46:00Z",
+  "count": 50
 }
