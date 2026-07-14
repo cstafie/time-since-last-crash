@@ -2579,8 +2579,8 @@
     "name": "Heritage Mountain Blvd",
     "slug": "port-moody/heritage-mountain-blvd",
     "city": "Port Moody",
-    "lastIncident": "2026-03-17T17:06:00Z",
-    "count": 1
+    "lastIncident": "2026-07-14T21:27:00Z",
+    "count": 2
   },
   "port-moody/ungless-way": {
     "name": "Ungless Way",
@@ -3251,8 +3251,8 @@
     "name": "Ioco Rd",
     "slug": "port-moody/ioco-rd",
     "city": "Port Moody",
-    "lastIncident": "2026-06-24T02:10:00Z",
-    "count": 5
+    "lastIncident": "2026-07-14T21:27:00Z",
+    "count": 6
   },
   "vancouver/fraser-st": {
     "name": "Fraser St",

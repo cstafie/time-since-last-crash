@@ -4,6 +4,21 @@
   "city": "Port Moody",
   "incidents": [
     {
+      "id": "2026-07-14T21:27:00Z_port-moody/ioco-rd_port-moody/heritage-mountain-blvd",
+      "timestamp": "2026-07-14T21:27:00Z",
+      "address": "IOCO RD & HERITAGE MOUNTAIN BLVD",
+      "city": "Port Moody",
+      "streets": [
+        "port-moody/ioco-rd",
+        "port-moody/heritage-mountain-blvd"
+      ],
+      "streetNames": [
+        "Ioco Rd",
+        "Heritage Mountain Blvd"
+      ],
+      "pulsePointId": "2518946769"
+    },
+    {
       "id": "2026-06-24T02:10:00Z_port-moody/alderside-rd_port-moody/ioco-rd",
       "timestamp": "2026-06-24T02:10:00Z",
       "address": "ALDERSIDE RD & IOCO RD",
@@ -77,6 +92,6 @@
       "pulsePointId": "2438015861"
     }
   ],
-  "lastIncident": "2026-06-24T02:10:00Z",
-  "count": 5
+  "lastIncident": "2026-07-14T21:27:00Z",
+  "count": 6
 }
