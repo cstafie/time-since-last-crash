@@ -843,8 +843,8 @@
     "name": "16th Ave",
     "slug": "langley/16th-ave",
     "city": "Langley",
-    "lastIncident": "2026-06-29T22:06:00Z",
-    "count": 11
+    "lastIncident": "2026-07-14T22:31:00Z",
+    "count": 12
   },
   "surrey/32nd-ave": {
     "name": "32nd Ave",
@@ -3496,8 +3496,8 @@
     "name": "256th St",
     "slug": "langley/256th-st",
     "city": "Langley",
-    "lastIncident": "2026-07-02T21:04:00Z",
-    "count": 5
+    "lastIncident": "2026-07-14T22:31:00Z",
+    "count": 6
   },
   "vancouver/helmcken-st": {
     "name": "Helmcken St",
@@ -14186,6 +14186,27 @@
     "slug": "white-rock/george-st",
     "city": "White Rock",
     "lastIncident": "2026-07-14T21:10:00Z",
+    "count": 1
+  },
+  "coquitlam/turning-lane": {
+    "name": "Turning Lane",
+    "slug": "coquitlam/turning-lane",
+    "city": "Coquitlam",
+    "lastIncident": "2026-07-14T22:33:00Z",
+    "count": 1
+  },
+  "pitt-meadows/ford-road-detour": {
+    "name": "Ford Road Detour",
+    "slug": "pitt-meadows/ford-road-detour",
+    "city": "Pitt Meadows",
+    "lastIncident": "2026-07-14T22:27:00Z",
+    "count": 2
+  },
+  "pitt-meadows/176th-st": {
+    "name": "176th St",
+    "slug": "pitt-meadows/176th-st",
+    "city": "Pitt Meadows",
+    "lastIncident": "2026-07-14T22:27:00Z",
     "count": 1
   }
 }

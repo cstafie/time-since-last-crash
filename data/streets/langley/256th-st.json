@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-07-14T22:31:00Z_langley/16th-ave_langley/256th-st",
+      "timestamp": "2026-07-14T22:31:00Z",
+      "address": "16TH AVE & 256TH ST",
+      "city": "Langley",
+      "streets": [
+        "langley/16th-ave",
+        "langley/256th-st"
+      ],
+      "streetNames": [
+        "16th Ave",
+        "256th St"
+      ],
+      "pulsePointId": "2518995053"
+    },
+    {
       "id": "2026-07-02T21:04:00Z_langley/256th-st",
       "timestamp": "2026-07-02T21:04:00Z",
       "address": "256TH ST",
@@ -75,6 +90,6 @@
       "pulsePointId": "2438915688"
     }
   ],
-  "lastIncident": "2026-07-02T21:04:00Z",
-  "count": 5
+  "lastIncident": "2026-07-14T22:31:00Z",
+  "count": 6
 }

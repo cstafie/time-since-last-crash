@@ -1,0 +1,37 @@
+{
+  "slug": "pitt-meadows/ford-road-detour",
+  "name": "Ford Road Detour",
+  "city": "Pitt Meadows",
+  "incidents": [
+    {
+      "id": "2026-07-14T22:27:00Z_pitt-meadows/ford-road-detour_pitt-meadows/176th-st",
+      "timestamp": "2026-07-14T22:27:00Z",
+      "address": "FORD ROAD DETOUR & 176TH ST",
+      "city": "Pitt Meadows",
+      "streets": [
+        "pitt-meadows/ford-road-detour",
+        "pitt-meadows/176th-st"
+      ],
+      "streetNames": [
+        "Ford Road Detour",
+        "176th St"
+      ],
+      "pulsePointId": "2518991080"
+    },
+    {
+      "id": "2026-07-14T22:26:00Z_pitt-meadows/ford-road-detour",
+      "timestamp": "2026-07-14T22:26:00Z",
+      "address": "FORD ROAD DETOUR",
+      "city": "Pitt Meadows",
+      "streets": [
+        "pitt-meadows/ford-road-detour"
+      ],
+      "streetNames": [
+        "Ford Road Detour"
+      ],
+      "pulsePointId": "2518992713"
+    }
+  ],
+  "lastIncident": "2026-07-14T22:27:00Z",
+  "count": 2
+}

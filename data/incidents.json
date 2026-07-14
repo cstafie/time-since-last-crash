@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-07-14T22:33:00Z_coquitlam/turning-lane",
+    "timestamp": "2026-07-14T22:33:00Z",
+    "scrapedAt": "2026-07-14T23:23:16Z",
+    "address": "TURNING LANE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/turning-lane"
+    ],
+    "streetNames": [
+      "Turning Lane"
+    ],
+    "pulsePointId": "2518998835"
+  },
+  {
+    "id": "2026-07-14T22:31:00Z_langley/16th-ave_langley/256th-st",
+    "timestamp": "2026-07-14T22:31:00Z",
+    "scrapedAt": "2026-07-14T23:23:16Z",
+    "address": "16TH AVE & 256TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/16th-ave",
+      "langley/256th-st"
+    ],
+    "streetNames": [
+      "16th Ave",
+      "256th St"
+    ],
+    "pulsePointId": "2518995053"
+  },
+  {
+    "id": "2026-07-14T22:27:00Z_pitt-meadows/ford-road-detour_pitt-meadows/176th-st",
+    "timestamp": "2026-07-14T22:27:00Z",
+    "scrapedAt": "2026-07-14T23:23:16Z",
+    "address": "FORD ROAD DETOUR & 176TH ST",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/ford-road-detour",
+      "pitt-meadows/176th-st"
+    ],
+    "streetNames": [
+      "Ford Road Detour",
+      "176th St"
+    ],
+    "pulsePointId": "2518991080"
+  },
+  {
+    "id": "2026-07-14T22:26:00Z_pitt-meadows/ford-road-detour",
+    "timestamp": "2026-07-14T22:26:00Z",
+    "scrapedAt": "2026-07-14T23:23:16Z",
+    "address": "FORD ROAD DETOUR",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/ford-road-detour"
+    ],
+    "streetNames": [
+      "Ford Road Detour"
+    ],
+    "pulsePointId": "2518992713"
+  },
+  {
     "id": "2026-07-14T21:27:00Z_port-moody/ioco-rd_port-moody/heritage-mountain-blvd",
     "timestamp": "2026-07-14T21:27:00Z",
     "scrapedAt": "2026-07-14T22:27:45Z",
