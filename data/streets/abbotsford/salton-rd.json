@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/salton-rd",
+  "name": "Salton Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-07-14T14:42:00Z_abbotsford/salton-rd",
+      "timestamp": "2026-07-14T14:42:00Z",
+      "address": "SALTON RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/salton-rd"
+      ],
+      "streetNames": [
+        "Salton Rd"
+      ],
+      "pulsePointId": "2518669366"
+    }
+  ],
+  "lastIncident": "2026-07-14T14:42:00Z",
+  "count": 1
+}

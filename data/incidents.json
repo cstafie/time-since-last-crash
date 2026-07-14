@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-07-14T14:42:00Z_abbotsford/salton-rd",
+    "timestamp": "2026-07-14T14:42:00Z",
+    "scrapedAt": "2026-07-14T14:45:26Z",
+    "address": "SALTON RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/salton-rd"
+    ],
+    "streetNames": [
+      "Salton Rd"
+    ],
+    "pulsePointId": "2518669366"
+  },
+  {
+    "id": "2026-07-14T14:37:00Z_surrey/hwy-99",
+    "timestamp": "2026-07-14T14:37:00Z",
+    "scrapedAt": "2026-07-14T14:45:26Z",
+    "address": "HWY 99",
+    "city": "Surrey",
+    "streets": [
+      "surrey/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2518667260"
+  },
+  {
     "id": "2026-07-14T08:05:00Z_burnaby/18th-ave",
     "timestamp": "2026-07-14T08:05:00Z",
     "scrapedAt": "2026-07-14T08:56:32Z",
