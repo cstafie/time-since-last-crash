@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-07-14T08:05:00Z_burnaby/18th-ave",
+    "timestamp": "2026-07-14T08:05:00Z",
+    "scrapedAt": "2026-07-14T08:56:32Z",
+    "address": "18TH AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/18th-ave"
+    ],
+    "streetNames": [
+      "18th Ave"
+    ],
+    "pulsePointId": "2518548446"
+  },
+  {
     "id": "2026-07-14T03:03:00Z_vancouver/e-53rd-ave",
     "timestamp": "2026-07-14T03:03:00Z",
     "scrapedAt": "2026-07-14T04:19:37Z",

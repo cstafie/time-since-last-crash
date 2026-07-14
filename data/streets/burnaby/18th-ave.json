@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-14T08:05:00Z_burnaby/18th-ave",
+      "timestamp": "2026-07-14T08:05:00Z",
+      "address": "18TH AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/18th-ave"
+      ],
+      "streetNames": [
+        "18th Ave"
+      ],
+      "pulsePointId": "2518548446"
+    },
+    {
       "id": "2026-05-29T10:22:00Z_burnaby/4th-st_burnaby/18th-ave",
       "timestamp": "2026-05-29T10:22:00Z",
       "address": "4TH ST & 18TH AVE",
@@ -34,6 +47,6 @@
       "pulsePointId": "2464276453"
     }
   ],
-  "lastIncident": "2026-05-29T10:22:00Z",
-  "count": 2
+  "lastIncident": "2026-07-14T08:05:00Z",
+  "count": 3
 }
