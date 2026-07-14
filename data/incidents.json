@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-07-14T19:11:00Z_surrey/fraser-hwy",
+    "timestamp": "2026-07-14T19:11:00Z",
+    "scrapedAt": "2026-07-14T20:03:55Z",
+    "address": "FRASER HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/fraser-hwy"
+    ],
+    "streetNames": [
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2518845114"
+  },
+  {
+    "id": "2026-07-14T18:39:00Z_surrey/64th-ave",
+    "timestamp": "2026-07-14T18:39:00Z",
+    "scrapedAt": "2026-07-14T20:03:55Z",
+    "address": "64TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/64th-ave"
+    ],
+    "streetNames": [
+      "64th Ave"
+    ],
+    "pulsePointId": "2518823477"
+  },
+  {
     "id": "2026-07-14T17:19:00Z_richmond/westminster-hwy_richmond/no-2-rd",
     "timestamp": "2026-07-14T17:19:00Z",
     "scrapedAt": "2026-07-14T17:37:47Z",
