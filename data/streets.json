@@ -479,8 +479,8 @@
     "name": "No 2 Rd",
     "slug": "richmond/no-2-rd",
     "city": "Richmond",
-    "lastIncident": "2026-07-09T21:56:00Z",
-    "count": 12
+    "lastIncident": "2026-07-14T17:19:00Z",
+    "count": 13
   },
   "richmond/no-3-rd": {
     "name": "No 3 Rd",
@@ -752,8 +752,8 @@
     "name": "Knight St",
     "slug": "vancouver/knight-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-09T23:28:00Z",
-    "count": 34
+    "lastIncident": "2026-07-14T16:04:00Z",
+    "count": 35
   },
   "vancouver/lower-mall": {
     "name": "Lower Mall",
@@ -990,8 +990,8 @@
     "name": "Westminster Hwy",
     "slug": "richmond/westminster-hwy",
     "city": "Richmond",
-    "lastIncident": "2026-07-10T22:45:00Z",
-    "count": 26
+    "lastIncident": "2026-07-14T17:19:00Z",
+    "count": 27
   },
   "vancouver/e-37th-ave": {
     "name": "E 37th Ave",
@@ -1200,8 +1200,8 @@
     "name": "Se Marine Dr",
     "slug": "vancouver/se-marine-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-07-10T23:10:00Z",
-    "count": 27
+    "lastIncident": "2026-07-14T17:01:00Z",
+    "count": 28
   },
   "vancouver/kerr-st": {
     "name": "Kerr St",
@@ -3160,8 +3160,8 @@
     "name": "150th St",
     "slug": "surrey/150th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-10T03:43:00Z",
-    "count": 12
+    "lastIncident": "2026-07-14T17:11:00Z",
+    "count": 13
   },
   "mission/knight-ave": {
     "name": "Knight Ave",
@@ -7059,8 +7059,8 @@
     "name": "Argyle St",
     "slug": "vancouver/argyle-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-26T04:05:00Z",
-    "count": 8
+    "lastIncident": "2026-07-14T17:01:00Z",
+    "count": 9
   },
   "vancouver/parker-st": {
     "name": "Parker St",

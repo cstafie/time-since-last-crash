@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-14T17:19:00Z_richmond/westminster-hwy_richmond/no-2-rd",
+      "timestamp": "2026-07-14T17:19:00Z",
+      "address": "WESTMINSTER HWY & NO 2 RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/westminster-hwy",
+        "richmond/no-2-rd"
+      ],
+      "streetNames": [
+        "Westminster Hwy",
+        "No 2 Rd"
+      ],
+      "pulsePointId": "2518766342"
+    },
+    {
       "id": "2026-07-09T21:56:00Z_richmond/no-2-rd_richmond/francis-rd",
       "timestamp": "2026-07-09T21:56:00Z",
       "address": "NO 2 RD & FRANCIS RD",
@@ -181,6 +196,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-09T21:56:00Z",
-  "count": 12
+  "lastIncident": "2026-07-14T17:19:00Z",
+  "count": 13
 }

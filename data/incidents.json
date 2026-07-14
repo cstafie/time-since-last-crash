@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-07-14T17:19:00Z_richmond/westminster-hwy_richmond/no-2-rd",
+    "timestamp": "2026-07-14T17:19:00Z",
+    "scrapedAt": "2026-07-14T17:37:47Z",
+    "address": "WESTMINSTER HWY & NO 2 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/westminster-hwy",
+      "richmond/no-2-rd"
+    ],
+    "streetNames": [
+      "Westminster Hwy",
+      "No 2 Rd"
+    ],
+    "pulsePointId": "2518766342"
+  },
+  {
+    "id": "2026-07-14T17:11:00Z_surrey/150th-st",
+    "timestamp": "2026-07-14T17:11:00Z",
+    "scrapedAt": "2026-07-14T17:37:47Z",
+    "address": "150TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/150th-st"
+    ],
+    "streetNames": [
+      "150th St"
+    ],
+    "pulsePointId": "2518760469"
+  },
+  {
+    "id": "2026-07-14T17:01:00Z_vancouver/argyle-st_vancouver/se-marine-dr",
+    "timestamp": "2026-07-14T17:01:00Z",
+    "scrapedAt": "2026-07-14T17:37:47Z",
+    "address": "ARGYLE ST & SE MARINE DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/argyle-st",
+      "vancouver/se-marine-dr"
+    ],
+    "streetNames": [
+      "Argyle St",
+      "Se Marine Dr"
+    ],
+    "pulsePointId": "2518753961"
+  },
+  {
+    "id": "2026-07-14T16:04:00Z_vancouver/knight-st",
+    "timestamp": "2026-07-14T16:04:00Z",
+    "scrapedAt": "2026-07-14T17:37:47Z",
+    "address": "KNIGHT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/knight-st"
+    ],
+    "streetNames": [
+      "Knight St"
+    ],
+    "pulsePointId": "2518715747"
+  },
+  {
     "id": "2026-07-14T14:46:00Z_abbotsford/trans-canada-hwy_abbotsford/mccallum-road-ofrp",
     "timestamp": "2026-07-14T14:46:00Z",
     "scrapedAt": "2026-07-14T16:06:07Z",
