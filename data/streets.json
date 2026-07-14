@@ -332,8 +332,8 @@
     "name": "Lougheed Hwy",
     "slug": "mission/lougheed-hwy",
     "city": "Mission",
-    "lastIncident": "2026-07-11T22:58:00Z",
-    "count": 10
+    "lastIncident": "2026-07-14T20:22:00Z",
+    "count": 11
   },
   "mission/wren-st": {
     "name": "Wren St",
@@ -3370,8 +3370,8 @@
     "name": "Brunette Avenue Ofrp",
     "slug": "coquitlam/brunette-avenue-ofrp",
     "city": "Coquitlam",
-    "lastIncident": "2026-06-28T22:41:00Z",
-    "count": 6
+    "lastIncident": "2026-07-14T20:30:00Z",
+    "count": 7
   },
   "delta/80th-street-ofrp": {
     "name": "80th Street Ofrp",
@@ -5386,8 +5386,8 @@
     "name": "North Bluff Rd",
     "slug": "white-rock/north-bluff-rd",
     "city": "White Rock",
-    "lastIncident": "2026-05-17T15:47:00Z",
-    "count": 3
+    "lastIncident": "2026-07-14T21:10:00Z",
+    "count": 4
   },
   "chilliwack/stevenson-rd": {
     "name": "Stevenson Rd",
@@ -6898,8 +6898,8 @@
     "name": "Park St",
     "slug": "mission/park-st",
     "city": "Mission",
-    "lastIncident": "2026-06-19T18:06:00Z",
-    "count": 2
+    "lastIncident": "2026-07-14T20:22:00Z",
+    "count": 3
   },
   "mission/3rd-ave": {
     "name": "3rd Ave",
@@ -14179,6 +14179,13 @@
     "slug": "abbotsford/salton-rd",
     "city": "Abbotsford",
     "lastIncident": "2026-07-14T14:42:00Z",
+    "count": 1
+  },
+  "white-rock/george-st": {
+    "name": "George St",
+    "slug": "white-rock/george-st",
+    "city": "White Rock",
+    "lastIncident": "2026-07-14T21:10:00Z",
     "count": 1
   }
 }
