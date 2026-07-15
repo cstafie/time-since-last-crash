@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-07-15T05:01:00Z_surrey/151a-st",
+    "timestamp": "2026-07-15T05:01:00Z",
+    "scrapedAt": "2026-07-15T06:04:09Z",
+    "address": "151A ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/151a-st"
+    ],
+    "streetNames": [
+      "151a St"
+    ],
+    "pulsePointId": "2519224848"
+  },
+  {
+    "id": "2026-07-15T04:52:00Z_surrey/122nd-st_surrey/72nd-ave",
+    "timestamp": "2026-07-15T04:52:00Z",
+    "scrapedAt": "2026-07-15T06:04:09Z",
+    "address": "122ND ST & 72ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/122nd-st",
+      "surrey/72nd-ave"
+    ],
+    "streetNames": [
+      "122nd St",
+      "72nd Ave"
+    ],
+    "pulsePointId": "2519220997"
+  },
+  {
+    "id": "2026-07-15T03:46:00Z_surrey/168th-st_surrey/88th-ave",
+    "timestamp": "2026-07-15T03:46:00Z",
+    "scrapedAt": "2026-07-15T06:04:09Z",
+    "address": "168TH ST & 88TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/168th-st",
+      "surrey/88th-ave"
+    ],
+    "streetNames": [
+      "168th St",
+      "88th Ave"
+    ],
+    "pulsePointId": "2519190495"
+  },
+  {
     "id": "2026-07-15T03:27:00Z_north-vancouver/main-street-ofrp_north-vancouver/phibbs-exchange",
     "timestamp": "2026-07-15T03:27:00Z",
     "scrapedAt": "2026-07-15T03:41:51Z",
