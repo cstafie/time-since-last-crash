@@ -4259,8 +4259,8 @@
     "name": "Imperial St",
     "slug": "burnaby/imperial-st",
     "city": "Burnaby",
-    "lastIncident": "2026-06-18T23:13:00Z",
-    "count": 12
+    "lastIncident": "2026-07-15T17:29:00Z",
+    "count": 13
   },
   "burnaby/kitchener-st": {
     "name": "Kitchener St",
@@ -9089,8 +9089,8 @@
     "name": "190th St",
     "slug": "surrey/190th-st",
     "city": "Surrey",
-    "lastIncident": "2026-05-24T17:36:00Z",
-    "count": 3
+    "lastIncident": "2026-07-15T17:26:00Z",
+    "count": 4
   },
   "abbotsford/amicus-pl": {
     "name": "Amicus Pl",
@@ -9334,8 +9334,8 @@
     "name": "98th Ave",
     "slug": "surrey/98th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-26T19:23:00Z",
-    "count": 4
+    "lastIncident": "2026-07-15T17:26:00Z",
+    "count": 5
   },
   "mission/florence-lake-rd": {
     "name": "Florence Lake Rd",
@@ -14249,6 +14249,20 @@
     "slug": "surrey/151a-st",
     "city": "Surrey",
     "lastIncident": "2026-07-15T05:01:00Z",
+    "count": 1
+  },
+  "burnaby/mandy-ave": {
+    "name": "Mandy Ave",
+    "slug": "burnaby/mandy-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-07-15T17:29:00Z",
+    "count": 1
+  },
+  "pitt-meadows/sharpe-rd": {
+    "name": "Sharpe Rd",
+    "slug": "pitt-meadows/sharpe-rd",
+    "city": "Pitt Meadows",
+    "lastIncident": "2026-07-15T17:06:00Z",
     "count": 1
   }
 }

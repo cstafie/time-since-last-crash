@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-15T17:29:00Z_burnaby/imperial-st_burnaby/mandy-ave",
+      "timestamp": "2026-07-15T17:29:00Z",
+      "address": "IMPERIAL ST & MANDY AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/imperial-st",
+        "burnaby/mandy-ave"
+      ],
+      "streetNames": [
+        "Imperial St",
+        "Mandy Ave"
+      ],
+      "pulsePointId": "2519521737"
+    },
+    {
       "id": "2026-06-18T23:13:00Z_burnaby/imperial-st_burnaby/macpherson-ave",
       "timestamp": "2026-06-18T23:13:00Z",
       "address": "IMPERIAL ST & MACPHERSON AVE",
@@ -178,6 +193,6 @@
       "pulsePointId": "2442839188"
     }
   ],
-  "lastIncident": "2026-06-18T23:13:00Z",
-  "count": 12
+  "lastIncident": "2026-07-15T17:29:00Z",
+  "count": 13
 }

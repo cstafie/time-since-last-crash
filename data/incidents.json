@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-07-15T17:29:00Z_burnaby/imperial-st_burnaby/mandy-ave",
+    "timestamp": "2026-07-15T17:29:00Z",
+    "scrapedAt": "2026-07-15T18:34:58Z",
+    "address": "IMPERIAL ST & MANDY AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/imperial-st",
+      "burnaby/mandy-ave"
+    ],
+    "streetNames": [
+      "Imperial St",
+      "Mandy Ave"
+    ],
+    "pulsePointId": "2519521737"
+  },
+  {
+    "id": "2026-07-15T17:26:00Z_surrey/98th-ave_surrey/190th-st",
+    "timestamp": "2026-07-15T17:26:00Z",
+    "scrapedAt": "2026-07-15T18:34:58Z",
+    "address": "98TH AVE & 190TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/98th-ave",
+      "surrey/190th-st"
+    ],
+    "streetNames": [
+      "98th Ave",
+      "190th St"
+    ],
+    "pulsePointId": "2519518035"
+  },
+  {
+    "id": "2026-07-15T17:06:00Z_pitt-meadows/sharpe-rd",
+    "timestamp": "2026-07-15T17:06:00Z",
+    "scrapedAt": "2026-07-15T18:34:58Z",
+    "address": "SHARPE RD",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/sharpe-rd"
+    ],
+    "streetNames": [
+      "Sharpe Rd"
+    ],
+    "pulsePointId": "2519507377"
+  },
+  {
     "id": "2026-07-15T14:36:00Z_surrey/88th-ave_surrey/176th-st",
     "timestamp": "2026-07-15T14:36:00Z",
     "scrapedAt": "2026-07-15T15:56:33Z",
