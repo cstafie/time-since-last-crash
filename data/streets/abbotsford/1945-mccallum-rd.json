@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/1945-mccallum-rd",
+  "name": "1945 Mccallum Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-07-15T01:26:00Z_abbotsford/1945-mccallum-rd",
+      "timestamp": "2026-07-15T01:26:00Z",
+      "address": "1945 MCCALLUM RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/1945-mccallum-rd"
+      ],
+      "streetNames": [
+        "1945 Mccallum Rd"
+      ],
+      "pulsePointId": "2519113582"
+    }
+  ],
+  "lastIncident": "2026-07-15T01:26:00Z",
+  "count": 1
+}

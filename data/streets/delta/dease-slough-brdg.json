@@ -1,0 +1,22 @@
+{
+  "slug": "delta/dease-slough-brdg",
+  "name": "Dease Slough Brdg",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-07-15T01:59:00Z_delta/dease-slough-brdg",
+      "timestamp": "2026-07-15T01:59:00Z",
+      "address": "DEASE SLOUGH BRDG",
+      "city": "Delta",
+      "streets": [
+        "delta/dease-slough-brdg"
+      ],
+      "streetNames": [
+        "Dease Slough Brdg"
+      ],
+      "pulsePointId": "2519135092"
+    }
+  ],
+  "lastIncident": "2026-07-15T01:59:00Z",
+  "count": 1
+}

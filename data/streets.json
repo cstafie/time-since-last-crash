@@ -1914,8 +1914,8 @@
     "name": "Clearbrook Rd",
     "slug": "abbotsford/clearbrook-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-06T17:28:00Z",
-    "count": 22
+    "lastIncident": "2026-07-15T01:59:00Z",
+    "count": 23
   },
   "abbotsford/maclure-rd": {
     "name": "Maclure Rd",
@@ -2411,8 +2411,8 @@
     "name": "180th St",
     "slug": "surrey/180th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-27T05:35:00Z",
-    "count": 2
+    "lastIncident": "2026-07-15T03:25:00Z",
+    "count": 3
   },
   "chilliwack/first-ave": {
     "name": "First Ave",
@@ -3510,8 +3510,8 @@
     "name": "Golden Ears Way",
     "slug": "surrey/golden-ears-way",
     "city": "Surrey",
-    "lastIncident": "2026-07-13T22:19:00Z",
-    "count": 6
+    "lastIncident": "2026-07-15T03:25:00Z",
+    "count": 7
   },
   "surrey/144a-st": {
     "name": "144a St",
@@ -3608,8 +3608,8 @@
     "name": "Sumas Way",
     "slug": "abbotsford/sumas-way",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-03T03:04:00Z",
-    "count": 12
+    "lastIncident": "2026-07-15T01:07:00Z",
+    "count": 13
   },
   "burnaby/marlborough-ave": {
     "name": "Marlborough Ave",
@@ -4217,8 +4217,8 @@
     "name": "Oak Ave",
     "slug": "abbotsford/oak-ave",
     "city": "Abbotsford",
-    "lastIncident": "2026-03-27T20:55:00Z",
-    "count": 1
+    "lastIncident": "2026-07-15T01:59:00Z",
+    "count": 2
   },
   "pitt-meadows/pitt-river-brdg": {
     "name": "Pitt River Brdg",
@@ -6205,8 +6205,8 @@
     "name": "Harris Rd",
     "slug": "abbotsford/harris-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-08T00:21:00Z",
-    "count": 12
+    "lastIncident": "2026-07-15T00:19:00Z",
+    "count": 13
   },
   "north-vancouver/capilano-road-onrp": {
     "name": "Capilano Road Onrp",
@@ -6429,8 +6429,8 @@
     "name": "Bates Rd",
     "slug": "abbotsford/bates-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-02T23:09:00Z",
-    "count": 3
+    "lastIncident": "2026-07-15T00:19:00Z",
+    "count": 4
   },
   "surrey/158th-st": {
     "name": "158th St",
@@ -11315,8 +11315,8 @@
     "name": "Grant St",
     "slug": "vancouver/grant-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-11T20:00:00Z",
-    "count": 2
+    "lastIncident": "2026-07-15T00:21:00Z",
+    "count": 3
   },
   "richmond/aviation-ave": {
     "name": "Aviation Ave",
@@ -14214,6 +14214,34 @@
     "slug": "surrey/rosemary-heights-dr",
     "city": "Surrey",
     "lastIncident": "2026-07-15T00:01:00Z",
+    "count": 1
+  },
+  "north-vancouver/main-street-ofrp": {
+    "name": "Main Street Ofrp",
+    "slug": "north-vancouver/main-street-ofrp",
+    "city": "North Vancouver",
+    "lastIncident": "2026-07-15T03:27:00Z",
+    "count": 1
+  },
+  "north-vancouver/phibbs-exchange": {
+    "name": "Phibbs Exchange",
+    "slug": "north-vancouver/phibbs-exchange",
+    "city": "North Vancouver",
+    "lastIncident": "2026-07-15T03:27:00Z",
+    "count": 1
+  },
+  "delta/dease-slough-brdg": {
+    "name": "Dease Slough Brdg",
+    "slug": "delta/dease-slough-brdg",
+    "city": "Delta",
+    "lastIncident": "2026-07-15T01:59:00Z",
+    "count": 1
+  },
+  "abbotsford/1945-mccallum-rd": {
+    "name": "1945 Mccallum Rd",
+    "slug": "abbotsford/1945-mccallum-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-07-15T01:26:00Z",
     "count": 1
   }
 }

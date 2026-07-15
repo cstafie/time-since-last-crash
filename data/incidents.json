@@ -1,5 +1,125 @@
 [
   {
+    "id": "2026-07-15T03:27:00Z_north-vancouver/main-street-ofrp_north-vancouver/phibbs-exchange",
+    "timestamp": "2026-07-15T03:27:00Z",
+    "scrapedAt": "2026-07-15T03:41:51Z",
+    "address": "MAIN STREET OFRP & PHIBBS EXCHANGE",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/main-street-ofrp",
+      "north-vancouver/phibbs-exchange"
+    ],
+    "streetNames": [
+      "Main Street Ofrp",
+      "Phibbs Exchange"
+    ],
+    "pulsePointId": "2519181797"
+  },
+  {
+    "id": "2026-07-15T03:25:00Z_surrey/golden-ears-way_surrey/180th-st",
+    "timestamp": "2026-07-15T03:25:00Z",
+    "scrapedAt": "2026-07-15T03:41:51Z",
+    "address": "GOLDEN EARS WAY & 180TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/golden-ears-way",
+      "surrey/180th-st"
+    ],
+    "streetNames": [
+      "Golden Ears Way",
+      "180th St"
+    ],
+    "pulsePointId": "2519179681"
+  },
+  {
+    "id": "2026-07-15T01:59:00Z_delta/dease-slough-brdg",
+    "timestamp": "2026-07-15T01:59:00Z",
+    "scrapedAt": "2026-07-15T03:41:51Z",
+    "address": "DEASE SLOUGH BRDG",
+    "city": "Delta",
+    "streets": [
+      "delta/dease-slough-brdg"
+    ],
+    "streetNames": [
+      "Dease Slough Brdg"
+    ],
+    "pulsePointId": "2519135092"
+  },
+  {
+    "id": "2026-07-15T01:59:00Z_abbotsford/clearbrook-rd_abbotsford/oak-ave",
+    "timestamp": "2026-07-15T01:59:00Z",
+    "scrapedAt": "2026-07-15T03:41:51Z",
+    "address": "CLEARBROOK RD & OAK AVE",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/clearbrook-rd",
+      "abbotsford/oak-ave"
+    ],
+    "streetNames": [
+      "Clearbrook Rd",
+      "Oak Ave"
+    ],
+    "pulsePointId": "2519132548"
+  },
+  {
+    "id": "2026-07-15T01:26:00Z_abbotsford/1945-mccallum-rd",
+    "timestamp": "2026-07-15T01:26:00Z",
+    "scrapedAt": "2026-07-15T03:41:51Z",
+    "address": "1945 MCCALLUM RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/1945-mccallum-rd"
+    ],
+    "streetNames": [
+      "1945 Mccallum Rd"
+    ],
+    "pulsePointId": "2519113582"
+  },
+  {
+    "id": "2026-07-15T01:07:00Z_abbotsford/sumas-way",
+    "timestamp": "2026-07-15T01:07:00Z",
+    "scrapedAt": "2026-07-15T03:41:51Z",
+    "address": "SUMAS WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/sumas-way"
+    ],
+    "streetNames": [
+      "Sumas Way"
+    ],
+    "pulsePointId": "2519101317"
+  },
+  {
+    "id": "2026-07-15T00:21:00Z_vancouver/grant-st",
+    "timestamp": "2026-07-15T00:21:00Z",
+    "scrapedAt": "2026-07-15T03:41:51Z",
+    "address": "GRANT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/grant-st"
+    ],
+    "streetNames": [
+      "Grant St"
+    ],
+    "pulsePointId": "2519072010"
+  },
+  {
+    "id": "2026-07-15T00:19:00Z_abbotsford/harris-rd_abbotsford/bates-rd",
+    "timestamp": "2026-07-15T00:19:00Z",
+    "scrapedAt": "2026-07-15T03:41:51Z",
+    "address": "HARRIS RD & BATES RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/harris-rd",
+      "abbotsford/bates-rd"
+    ],
+    "streetNames": [
+      "Harris Rd",
+      "Bates Rd"
+    ],
+    "pulsePointId": "2519071106"
+  },
+  {
     "id": "2026-07-15T00:07:00Z_burnaby/dawson-st",
     "timestamp": "2026-07-15T00:07:00Z",
     "scrapedAt": "2026-07-15T00:10:43Z",
