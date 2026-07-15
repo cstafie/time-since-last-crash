@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-07-15T00:07:00Z_burnaby/dawson-st",
+    "timestamp": "2026-07-15T00:07:00Z",
+    "scrapedAt": "2026-07-15T00:10:43Z",
+    "address": "DAWSON ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/dawson-st"
+    ],
+    "streetNames": [
+      "Dawson St"
+    ],
+    "pulsePointId": "2519062531"
+  },
+  {
+    "id": "2026-07-15T00:01:00Z_surrey/rosemary-heights-dr",
+    "timestamp": "2026-07-15T00:01:00Z",
+    "scrapedAt": "2026-07-15T00:10:43Z",
+    "address": "ROSEMARY HEIGHTS DR",
+    "city": "Surrey",
+    "streets": [
+      "surrey/rosemary-heights-dr"
+    ],
+    "streetNames": [
+      "Rosemary Heights Dr"
+    ],
+    "pulsePointId": "2519057655"
+  },
+  {
+    "id": "2026-07-14T23:30:00Z_delta/116th-st_delta/88th-ave",
+    "timestamp": "2026-07-14T23:30:00Z",
+    "scrapedAt": "2026-07-15T00:10:43Z",
+    "address": "116TH ST & 88TH AVE",
+    "city": "Delta",
+    "streets": [
+      "delta/116th-st",
+      "delta/88th-ave"
+    ],
+    "streetNames": [
+      "116th St",
+      "88th Ave"
+    ],
+    "pulsePointId": "2519037379"
+  },
+  {
     "id": "2026-07-14T22:33:00Z_coquitlam/turning-lane",
     "timestamp": "2026-07-14T22:33:00Z",
     "scrapedAt": "2026-07-14T23:23:16Z",

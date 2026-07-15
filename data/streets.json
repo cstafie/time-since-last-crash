@@ -6254,8 +6254,8 @@
     "name": "116th St",
     "slug": "delta/116th-st",
     "city": "Delta",
-    "lastIncident": "2026-07-06T14:42:00Z",
-    "count": 12
+    "lastIncident": "2026-07-14T23:30:00Z",
+    "count": 13
   },
   "burnaby/north-rd": {
     "name": "North Rd",
@@ -6758,8 +6758,8 @@
     "name": "Dawson St",
     "slug": "burnaby/dawson-st",
     "city": "Burnaby",
-    "lastIncident": "2026-06-20T00:42:00Z",
-    "count": 2
+    "lastIncident": "2026-07-15T00:07:00Z",
+    "count": 3
   },
   "surrey/73rd-ave": {
     "name": "73rd Ave",
@@ -9271,8 +9271,8 @@
     "name": "88th Ave",
     "slug": "delta/88th-ave",
     "city": "Delta",
-    "lastIncident": "2026-05-15T16:55:00Z",
-    "count": 2
+    "lastIncident": "2026-07-14T23:30:00Z",
+    "count": 3
   },
   "abbotsford/whelan-rd": {
     "name": "Whelan Rd",
@@ -14207,6 +14207,13 @@
     "slug": "pitt-meadows/176th-st",
     "city": "Pitt Meadows",
     "lastIncident": "2026-07-14T22:27:00Z",
+    "count": 1
+  },
+  "surrey/rosemary-heights-dr": {
+    "name": "Rosemary Heights Dr",
+    "slug": "surrey/rosemary-heights-dr",
+    "city": "Surrey",
+    "lastIncident": "2026-07-15T00:01:00Z",
     "count": 1
   }
 }

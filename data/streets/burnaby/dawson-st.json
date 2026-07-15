@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-15T00:07:00Z_burnaby/dawson-st",
+      "timestamp": "2026-07-15T00:07:00Z",
+      "address": "DAWSON ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/dawson-st"
+      ],
+      "streetNames": [
+        "Dawson St"
+      ],
+      "pulsePointId": "2519062531"
+    },
+    {
       "id": "2026-06-20T00:42:00Z_burnaby/dawson-st_burnaby/gilmore-ave",
       "timestamp": "2026-06-20T00:42:00Z",
       "address": "DAWSON ST & GILMORE AVE",
@@ -34,6 +47,6 @@
       "pulsePointId": "2454512238"
     }
   ],
-  "lastIncident": "2026-06-20T00:42:00Z",
-  "count": 2
+  "lastIncident": "2026-07-15T00:07:00Z",
+  "count": 3
 }
