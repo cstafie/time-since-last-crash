@@ -199,8 +199,8 @@
     "name": "Ladner Trunk Rd",
     "slug": "delta/ladner-trunk-rd",
     "city": "Delta",
-    "lastIncident": "2026-07-10T16:05:00Z",
-    "count": 17
+    "lastIncident": "2026-07-15T22:14:00Z",
+    "count": 18
   },
   "langley/216th-street-ofrp": {
     "name": "216th Street Ofrp",
@@ -927,8 +927,8 @@
     "name": "Fraser Hwy",
     "slug": "surrey/fraser-hwy",
     "city": "Surrey",
-    "lastIncident": "2026-07-14T19:11:00Z",
-    "count": 23
+    "lastIncident": "2026-07-15T22:43:00Z",
+    "count": 24
   },
   "surrey/159th-st": {
     "name": "159th St",
@@ -1501,8 +1501,8 @@
     "name": "144th St",
     "slug": "surrey/144th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-15T19:39:00Z",
-    "count": 44
+    "lastIncident": "2026-07-15T22:38:00Z",
+    "count": 45
   },
   "north-vancouver/seymour-blvd": {
     "name": "Seymour Blvd",
@@ -1592,8 +1592,8 @@
     "name": "58th Ave",
     "slug": "surrey/58th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-11T14:41:00Z",
-    "count": 11
+    "lastIncident": "2026-07-15T22:38:00Z",
+    "count": 12
   },
   "vancouver/w-22nd-ave": {
     "name": "W 22nd Ave",
@@ -1949,8 +1949,8 @@
     "name": "Trans Canada Hwy",
     "slug": "abbotsford/trans-canada-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-14T14:46:00Z",
-    "count": 50
+    "lastIncident": "2026-07-15T21:59:00Z",
+    "count": 51
   },
   "vancouver/w-16th-ave": {
     "name": "W 16th Ave",
@@ -2320,8 +2320,8 @@
     "name": "Whalley Blvd",
     "slug": "surrey/whalley-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-07-08T21:54:00Z",
-    "count": 9
+    "lastIncident": "2026-07-15T22:43:00Z",
+    "count": 10
   },
   "richmond/russ-baker-way": {
     "name": "Russ Baker Way",
@@ -14270,6 +14270,13 @@
     "slug": "burnaby/brighton-ave",
     "city": "Burnaby",
     "lastIncident": "2026-07-15T18:37:00Z",
+    "count": 1
+  },
+  "surrey/6925-king-george-blvd": {
+    "name": "6925 King George Blvd",
+    "slug": "surrey/6925-king-george-blvd",
+    "city": "Surrey",
+    "lastIncident": "2026-07-15T22:23:00Z",
     "count": 1
   }
 }

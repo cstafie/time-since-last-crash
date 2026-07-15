@@ -1,5 +1,79 @@
 [
   {
+    "id": "2026-07-15T22:43:00Z_surrey/whalley-blvd_surrey/fraser-hwy",
+    "timestamp": "2026-07-15T22:43:00Z",
+    "scrapedAt": "2026-07-15T22:44:33Z",
+    "address": "WHALLEY BLVD & FRASER HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/whalley-blvd",
+      "surrey/fraser-hwy"
+    ],
+    "streetNames": [
+      "Whalley Blvd",
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2519742712"
+  },
+  {
+    "id": "2026-07-15T22:38:00Z_surrey/58th-ave_surrey/144th-st",
+    "timestamp": "2026-07-15T22:38:00Z",
+    "scrapedAt": "2026-07-15T22:44:33Z",
+    "address": "58TH AVE & 144TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/58th-ave",
+      "surrey/144th-st"
+    ],
+    "streetNames": [
+      "58th Ave",
+      "144th St"
+    ],
+    "pulsePointId": "2519741857"
+  },
+  {
+    "id": "2026-07-15T22:23:00Z_surrey/6925-king-george-blvd",
+    "timestamp": "2026-07-15T22:23:00Z",
+    "scrapedAt": "2026-07-15T22:44:33Z",
+    "address": "6925 KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/6925-king-george-blvd"
+    ],
+    "streetNames": [
+      "6925 King George Blvd"
+    ],
+    "pulsePointId": "2519730691"
+  },
+  {
+    "id": "2026-07-15T22:14:00Z_delta/ladner-trunk-rd",
+    "timestamp": "2026-07-15T22:14:00Z",
+    "scrapedAt": "2026-07-15T22:44:33Z",
+    "address": "LADNER TRUNK RD",
+    "city": "Delta",
+    "streets": [
+      "delta/ladner-trunk-rd"
+    ],
+    "streetNames": [
+      "Ladner Trunk Rd"
+    ],
+    "pulsePointId": "2519724177"
+  },
+  {
+    "id": "2026-07-15T21:59:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-07-15T21:59:00Z",
+    "scrapedAt": "2026-07-15T22:44:33Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2519713727"
+  },
+  {
     "id": "2026-07-15T21:28:00Z_surrey/108th-ave_surrey/university-dr",
     "timestamp": "2026-07-15T21:28:00Z",
     "scrapedAt": "2026-07-15T21:45:31Z",
