@@ -1,5 +1,97 @@
 [
   {
+    "id": "2026-07-15T19:40:00Z_vancouver/pacific-blvd",
+    "timestamp": "2026-07-15T19:40:00Z",
+    "scrapedAt": "2026-07-15T19:58:50Z",
+    "address": "PACIFIC BLVD",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/pacific-blvd"
+    ],
+    "streetNames": [
+      "Pacific Blvd"
+    ],
+    "pulsePointId": "2519612113"
+  },
+  {
+    "id": "2026-07-15T19:39:00Z_surrey/144th-st_surrey/104th-ave",
+    "timestamp": "2026-07-15T19:39:00Z",
+    "scrapedAt": "2026-07-15T19:58:50Z",
+    "address": "144TH ST & 104TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/144th-st",
+      "surrey/104th-ave"
+    ],
+    "streetNames": [
+      "144th St",
+      "104th Ave"
+    ],
+    "pulsePointId": "2519611489"
+  },
+  {
+    "id": "2026-07-15T19:38:00Z_langley/fraser-hwy_langley/268th-st",
+    "timestamp": "2026-07-15T19:38:00Z",
+    "scrapedAt": "2026-07-15T19:58:50Z",
+    "address": "FRASER HWY & 268TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/fraser-hwy",
+      "langley/268th-st"
+    ],
+    "streetNames": [
+      "Fraser Hwy",
+      "268th St"
+    ],
+    "pulsePointId": "2519610771"
+  },
+  {
+    "id": "2026-07-15T19:02:00Z_vancouver/tyne-st_vancouver/e-49th-ave",
+    "timestamp": "2026-07-15T19:02:00Z",
+    "scrapedAt": "2026-07-15T19:58:50Z",
+    "address": "TYNE ST & E 49TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/tyne-st",
+      "vancouver/e-49th-ave"
+    ],
+    "streetNames": [
+      "Tyne St",
+      "E 49th Ave"
+    ],
+    "pulsePointId": "2519586038"
+  },
+  {
+    "id": "2026-07-15T18:40:00Z_langley/trans-canada-hwy",
+    "timestamp": "2026-07-15T18:40:00Z",
+    "scrapedAt": "2026-07-15T19:58:50Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2519569214"
+  },
+  {
+    "id": "2026-07-15T18:37:00Z_burnaby/winston-st_burnaby/brighton-ave",
+    "timestamp": "2026-07-15T18:37:00Z",
+    "scrapedAt": "2026-07-15T19:58:50Z",
+    "address": "WINSTON ST & BRIGHTON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/winston-st",
+      "burnaby/brighton-ave"
+    ],
+    "streetNames": [
+      "Winston St",
+      "Brighton Ave"
+    ],
+    "pulsePointId": "2519567252"
+  },
+  {
     "id": "2026-07-15T17:29:00Z_burnaby/imperial-st_burnaby/mandy-ave",
     "timestamp": "2026-07-15T17:29:00Z",
     "scrapedAt": "2026-07-15T18:34:58Z",

@@ -1,6 +1,6 @@
 {
-  "slug": "burnaby/winston-st",
-  "name": "Winston St",
+  "slug": "burnaby/brighton-ave",
+  "name": "Brighton Ave",
   "city": "Burnaby",
   "incidents": [
     {
@@ -17,21 +17,8 @@
         "Brighton Ave"
       ],
       "pulsePointId": "2519567252"
-    },
-    {
-      "id": "2026-05-22T21:01:00Z_burnaby/winston-st",
-      "timestamp": "2026-05-22T21:01:00Z",
-      "address": "WINSTON ST",
-      "city": "Burnaby",
-      "streets": [
-        "burnaby/winston-st"
-      ],
-      "streetNames": [
-        "Winston St"
-      ],
-      "pulsePointId": "2480180468"
     }
   ],
   "lastIncident": "2026-07-15T18:37:00Z",
-  "count": 2
+  "count": 1
 }

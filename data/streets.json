@@ -262,15 +262,15 @@
     "name": "Fraser Hwy",
     "slug": "langley/fraser-hwy",
     "city": "Langley",
-    "lastIncident": "2026-07-07T04:54:00Z",
-    "count": 46
+    "lastIncident": "2026-07-15T19:38:00Z",
+    "count": 47
   },
   "langley/trans-canada-hwy": {
     "name": "Trans Canada Hwy",
     "slug": "langley/trans-canada-hwy",
     "city": "Langley",
-    "lastIncident": "2026-07-14T02:28:00Z",
-    "count": 43
+    "lastIncident": "2026-07-15T18:40:00Z",
+    "count": 44
   },
   "maple-ridge/119th-ave": {
     "name": "119th Ave",
@@ -1312,8 +1312,8 @@
     "name": "104th Ave",
     "slug": "surrey/104th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-12T19:44:00Z",
-    "count": 47
+    "lastIncident": "2026-07-15T19:39:00Z",
+    "count": 48
   },
   "surrey/122nd-st": {
     "name": "122nd St",
@@ -1375,8 +1375,8 @@
     "name": "268th St",
     "slug": "langley/268th-st",
     "city": "Langley",
-    "lastIncident": "2026-07-02T21:04:00Z",
-    "count": 3
+    "lastIncident": "2026-07-15T19:38:00Z",
+    "count": 4
   },
   "surrey/192nd-st": {
     "name": "192nd St",
@@ -1501,8 +1501,8 @@
     "name": "144th St",
     "slug": "surrey/144th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-07T23:55:00Z",
-    "count": 43
+    "lastIncident": "2026-07-15T19:39:00Z",
+    "count": 44
   },
   "north-vancouver/seymour-blvd": {
     "name": "Seymour Blvd",
@@ -1550,8 +1550,8 @@
     "name": "Tyne St",
     "slug": "vancouver/tyne-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-05T18:41:00Z",
-    "count": 6
+    "lastIncident": "2026-07-15T19:02:00Z",
+    "count": 7
   },
   "delta/95th-ave": {
     "name": "95th Ave",
@@ -2481,8 +2481,8 @@
     "name": "Pacific Blvd",
     "slug": "vancouver/pacific-blvd",
     "city": "Vancouver",
-    "lastIncident": "2026-04-29T17:09:00Z",
-    "count": 4
+    "lastIncident": "2026-07-15T19:40:00Z",
+    "count": 5
   },
   "vancouver/davie-st": {
     "name": "Davie St",
@@ -3069,8 +3069,8 @@
     "name": "E 49th Ave",
     "slug": "vancouver/e-49th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-05T18:41:00Z",
-    "count": 22
+    "lastIncident": "2026-07-15T19:02:00Z",
+    "count": 23
   },
   "vancouver/victoria-dr": {
     "name": "Victoria Dr",
@@ -10202,8 +10202,8 @@
     "name": "Winston St",
     "slug": "burnaby/winston-st",
     "city": "Burnaby",
-    "lastIncident": "2026-05-22T21:01:00Z",
-    "count": 1
+    "lastIncident": "2026-07-15T18:37:00Z",
+    "count": 2
   },
   "vancouver/franklin-st": {
     "name": "Franklin St",
@@ -14263,6 +14263,13 @@
     "slug": "pitt-meadows/sharpe-rd",
     "city": "Pitt Meadows",
     "lastIncident": "2026-07-15T17:06:00Z",
+    "count": 1
+  },
+  "burnaby/brighton-ave": {
+    "name": "Brighton Ave",
+    "slug": "burnaby/brighton-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-07-15T18:37:00Z",
     "count": 1
   }
 }

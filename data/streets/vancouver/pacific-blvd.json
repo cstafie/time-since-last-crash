@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-15T19:40:00Z_vancouver/pacific-blvd",
+      "timestamp": "2026-07-15T19:40:00Z",
+      "address": "PACIFIC BLVD",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/pacific-blvd"
+      ],
+      "streetNames": [
+        "Pacific Blvd"
+      ],
+      "pulsePointId": "2519612113"
+    },
+    {
       "id": "2026-04-29T17:09:00Z_vancouver/davie-st_vancouver/pacific-blvd",
       "timestamp": "2026-04-29T17:09:00Z",
       "address": "DAVIE ST & PACIFIC BLVD",
@@ -64,6 +77,6 @@
       "pulsePointId": "2435623611"
     }
   ],
-  "lastIncident": "2026-04-29T17:09:00Z",
-  "count": 4
+  "lastIncident": "2026-07-15T19:40:00Z",
+  "count": 5
 }
