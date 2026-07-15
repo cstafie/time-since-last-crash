@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-15T03:46:00Z",
-    "count": 45
+    "lastIncident": "2026-07-15T14:36:00Z",
+    "count": 46
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",
@@ -885,8 +885,8 @@
     "name": "176th St",
     "slug": "surrey/176th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-13T06:53:00Z",
-    "count": 47
+    "lastIncident": "2026-07-15T14:36:00Z",
+    "count": 48
   },
   "surrey/100th-ave": {
     "name": "100th Ave",
@@ -2838,8 +2838,8 @@
     "name": "7th Ave",
     "slug": "mission/7th-ave",
     "city": "Mission",
-    "lastIncident": "2026-06-14T20:43:00Z",
-    "count": 10
+    "lastIncident": "2026-07-15T14:19:00Z",
+    "count": 11
   },
   "richmond/sexsmith-rd": {
     "name": "Sexsmith Rd",
@@ -7185,8 +7185,8 @@
     "name": "Grand St",
     "slug": "mission/grand-st",
     "city": "Mission",
-    "lastIncident": "2026-06-26T19:12:00Z",
-    "count": 2
+    "lastIncident": "2026-07-15T14:19:00Z",
+    "count": 3
   },
   "burnaby/willingdon-extn": {
     "name": "Willingdon Extn",

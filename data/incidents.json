@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-07-15T14:36:00Z_surrey/88th-ave_surrey/176th-st",
+    "timestamp": "2026-07-15T14:36:00Z",
+    "scrapedAt": "2026-07-15T15:56:33Z",
+    "address": "88TH AVE & 176TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/88th-ave",
+      "surrey/176th-st"
+    ],
+    "streetNames": [
+      "88th Ave",
+      "176th St"
+    ],
+    "pulsePointId": "2519415349"
+  },
+  {
+    "id": "2026-07-15T14:19:00Z_mission/7th-ave_mission/grand-st",
+    "timestamp": "2026-07-15T14:19:00Z",
+    "scrapedAt": "2026-07-15T15:56:33Z",
+    "address": "7TH AVE & GRAND ST",
+    "city": "Mission",
+    "streets": [
+      "mission/7th-ave",
+      "mission/grand-st"
+    ],
+    "streetNames": [
+      "7th Ave",
+      "Grand St"
+    ],
+    "pulsePointId": "2519406861"
+  },
+  {
     "id": "2026-07-15T13:52:00Z_burnaby/inman-ave_burnaby/burke-st",
     "timestamp": "2026-07-15T13:52:00Z",
     "scrapedAt": "2026-07-15T14:16:21Z",
