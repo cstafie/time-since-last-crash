@@ -4,6 +4,21 @@
   "city": "New Westminster",
   "incidents": [
     {
+      "id": "2026-07-15T22:47:00Z_new-westminster/royal-ave_new-westminster/4th-st",
+      "timestamp": "2026-07-15T22:47:00Z",
+      "address": "ROYAL AVE & 4TH ST",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/royal-ave",
+        "new-westminster/4th-st"
+      ],
+      "streetNames": [
+        "Royal Ave",
+        "4th St"
+      ],
+      "pulsePointId": "2519746280"
+    },
+    {
       "id": "2026-05-03T21:15:00Z_new-westminster/4th-st_new-westminster/8th-ave",
       "timestamp": "2026-05-03T21:15:00Z",
       "address": "4TH ST & 8TH AVE",
@@ -34,6 +49,6 @@
       "pulsePointId": "2447422037"
     }
   ],
-  "lastIncident": "2026-05-03T21:15:00Z",
-  "count": 2
+  "lastIncident": "2026-07-15T22:47:00Z",
+  "count": 3
 }

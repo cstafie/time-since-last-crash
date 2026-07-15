@@ -388,8 +388,8 @@
     "name": "Royal Ave",
     "slug": "new-westminster/royal-ave",
     "city": "New Westminster",
-    "lastIncident": "2026-07-05T00:16:00Z",
-    "count": 8
+    "lastIncident": "2026-07-15T22:47:00Z",
+    "count": 9
   },
   "north-vancouver/capilano-rd": {
     "name": "Capilano Rd",
@@ -822,8 +822,8 @@
     "name": "Trans Canada Hwy",
     "slug": "west-vancouver/trans-canada-hwy",
     "city": "West Vancouver",
-    "lastIncident": "2026-07-10T18:28:00Z",
-    "count": 6
+    "lastIncident": "2026-07-15T23:06:00Z",
+    "count": 7
   },
   "pitt-meadows/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -1347,8 +1347,8 @@
     "name": "222nd St",
     "slug": "maple-ridge/222nd-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-07-05T23:52:00Z",
-    "count": 6
+    "lastIncident": "2026-07-15T23:15:00Z",
+    "count": 7
   },
   "mission/horne-street-onrp": {
     "name": "Horne Street Onrp",
@@ -1697,8 +1697,8 @@
     "name": "Inverness St",
     "slug": "vancouver/inverness-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-28T23:49:00Z",
-    "count": 7
+    "lastIncident": "2026-07-15T23:15:00Z",
+    "count": 8
   },
   "richmond/francis-rd": {
     "name": "Francis Rd",
@@ -3069,8 +3069,8 @@
     "name": "E 49th Ave",
     "slug": "vancouver/e-49th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-15T19:02:00Z",
-    "count": 23
+    "lastIncident": "2026-07-15T23:15:00Z",
+    "count": 24
   },
   "vancouver/victoria-dr": {
     "name": "Victoria Dr",
@@ -3860,8 +3860,8 @@
     "name": "Richards St",
     "slug": "vancouver/richards-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-25T22:47:00Z",
-    "count": 6
+    "lastIncident": "2026-07-15T23:02:00Z",
+    "count": 7
   },
   "vancouver/smithe-st": {
     "name": "Smithe St",
@@ -5260,8 +5260,8 @@
     "name": "4th St",
     "slug": "new-westminster/4th-st",
     "city": "New Westminster",
-    "lastIncident": "2026-05-03T21:15:00Z",
-    "count": 2
+    "lastIncident": "2026-07-15T22:47:00Z",
+    "count": 3
   },
   "new-westminster/cunningham-st": {
     "name": "Cunningham St",
@@ -7500,15 +7500,15 @@
     "name": "St Andrews Ave",
     "slug": "north-vancouver/st-andrews-ave",
     "city": "North Vancouver",
-    "lastIncident": "2026-06-30T19:48:00Z",
-    "count": 3
+    "lastIncident": "2026-07-15T23:18:00Z",
+    "count": 5
   },
   "north-vancouver/esplanade-ave": {
     "name": "Esplanade Ave",
     "slug": "north-vancouver/esplanade-ave",
     "city": "North Vancouver",
-    "lastIncident": "2026-04-23T15:51:00Z",
-    "count": 1
+    "lastIncident": "2026-07-15T23:17:00Z",
+    "count": 2
   },
   "langley/62nd-ave": {
     "name": "62nd Ave",
@@ -8732,8 +8732,8 @@
     "name": "Drake St",
     "slug": "vancouver/drake-st",
     "city": "Vancouver",
-    "lastIncident": "2026-05-04T19:42:00Z",
-    "count": 1
+    "lastIncident": "2026-07-15T23:02:00Z",
+    "count": 2
   },
   "surrey/129a-st": {
     "name": "129a St",
@@ -14277,6 +14277,20 @@
     "slug": "surrey/6925-king-george-blvd",
     "city": "Surrey",
     "lastIncident": "2026-07-15T22:23:00Z",
+    "count": 1
+  },
+  "north-vancouver/low-level-rd": {
+    "name": "Low Level Rd",
+    "slug": "north-vancouver/low-level-rd",
+    "city": "North Vancouver",
+    "lastIncident": "2026-07-15T23:18:00Z",
+    "count": 1
+  },
+  "west-vancouver/taylor-way-ofrp": {
+    "name": "Taylor Way Ofrp",
+    "slug": "west-vancouver/taylor-way-ofrp",
+    "city": "West Vancouver",
+    "lastIncident": "2026-07-15T23:06:00Z",
     "count": 1
   }
 }

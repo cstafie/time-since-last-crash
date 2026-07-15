@@ -4,6 +4,36 @@
   "city": "North Vancouver",
   "incidents": [
     {
+      "id": "2026-07-15T23:18:00Z_north-vancouver/st-andrews-ave_north-vancouver/low-level-rd",
+      "timestamp": "2026-07-15T23:18:00Z",
+      "address": "ST ANDREWS AVE & LOW LEVEL RD",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/st-andrews-ave",
+        "north-vancouver/low-level-rd"
+      ],
+      "streetNames": [
+        "St Andrews Ave",
+        "Low Level Rd"
+      ],
+      "pulsePointId": "2519766504"
+    },
+    {
+      "id": "2026-07-15T23:17:00Z_north-vancouver/st-andrews-ave_north-vancouver/esplanade-ave",
+      "timestamp": "2026-07-15T23:17:00Z",
+      "address": "ST ANDREWS AVE & ESPLANADE AVE",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/st-andrews-ave",
+        "north-vancouver/esplanade-ave"
+      ],
+      "streetNames": [
+        "St Andrews Ave",
+        "Esplanade Ave"
+      ],
+      "pulsePointId": "2519766486"
+    },
+    {
       "id": "2026-06-30T19:48:00Z_north-vancouver/st-andrews-ave_north-vancouver/e-12th-lane",
       "timestamp": "2026-06-30T19:48:00Z",
       "address": "ST ANDREWS AVE & E 12TH LANE",
@@ -49,6 +79,6 @@
       "pulsePointId": "2459926796"
     }
   ],
-  "lastIncident": "2026-06-30T19:48:00Z",
-  "count": 3
+  "lastIncident": "2026-07-15T23:18:00Z",
+  "count": 5
 }

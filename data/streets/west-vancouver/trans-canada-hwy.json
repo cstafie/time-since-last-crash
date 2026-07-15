@@ -4,6 +4,21 @@
   "city": "West Vancouver",
   "incidents": [
     {
+      "id": "2026-07-15T23:06:00Z_west-vancouver/trans-canada-hwy_west-vancouver/taylor-way-ofrp",
+      "timestamp": "2026-07-15T23:06:00Z",
+      "address": "TRANS CANADA HWY & TAYLOR WAY OFRP",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/trans-canada-hwy",
+        "west-vancouver/taylor-way-ofrp"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy",
+        "Taylor Way Ofrp"
+      ],
+      "pulsePointId": "2519760290"
+    },
+    {
       "id": "2026-07-10T18:28:00Z_west-vancouver/trans-canada-hwy",
       "timestamp": "2026-07-10T18:28:00Z",
       "address": "TRANS CANADA HWY",
@@ -86,6 +101,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-10T18:28:00Z",
-  "count": 6
+  "lastIncident": "2026-07-15T23:06:00Z",
+  "count": 7
 }

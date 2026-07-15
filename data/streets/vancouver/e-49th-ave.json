@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-15T23:15:00Z_vancouver/e-49th-ave_vancouver/inverness-st",
+      "timestamp": "2026-07-15T23:15:00Z",
+      "address": "E 49TH AVE & INVERNESS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-49th-ave",
+        "vancouver/inverness-st"
+      ],
+      "streetNames": [
+        "E 49th Ave",
+        "Inverness St"
+      ],
+      "pulsePointId": "2519764383"
+    },
+    {
       "id": "2026-07-15T19:02:00Z_vancouver/tyne-st_vancouver/e-49th-ave",
       "timestamp": "2026-07-15T19:02:00Z",
       "address": "TYNE ST & E 49TH AVE",
@@ -341,6 +356,6 @@
       "pulsePointId": "2437375979"
     }
   ],
-  "lastIncident": "2026-07-15T19:02:00Z",
-  "count": 23
+  "lastIncident": "2026-07-15T23:15:00Z",
+  "count": 24
 }
