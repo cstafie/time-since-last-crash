@@ -4,6 +4,19 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-07-15T13:47:00Z_delta/deltaport-way",
+      "timestamp": "2026-07-15T13:47:00Z",
+      "address": "DELTAPORT WAY",
+      "city": "Delta",
+      "streets": [
+        "delta/deltaport-way"
+      ],
+      "streetNames": [
+        "Deltaport Way"
+      ],
+      "pulsePointId": "2519391170"
+    },
+    {
       "id": "2026-04-25T15:12:00Z_delta/deltaport-way_delta/41b-street-conn",
       "timestamp": "2026-04-25T15:12:00Z",
       "address": "DELTAPORT WAY & 41B STREET CONN",
@@ -60,6 +73,6 @@
       "pulsePointId": "2448064258"
     }
   ],
-  "lastIncident": "2026-04-25T15:12:00Z",
-  "count": 4
+  "lastIncident": "2026-07-15T13:47:00Z",
+  "count": 5
 }

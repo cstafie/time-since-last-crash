@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-07-15T13:52:00Z_burnaby/inman-ave_burnaby/burke-st",
+    "timestamp": "2026-07-15T13:52:00Z",
+    "scrapedAt": "2026-07-15T14:16:21Z",
+    "address": "INMAN AVE & BURKE ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/inman-ave",
+      "burnaby/burke-st"
+    ],
+    "streetNames": [
+      "Inman Ave",
+      "Burke St"
+    ],
+    "pulsePointId": "2519393341"
+  },
+  {
+    "id": "2026-07-15T13:48:00Z_abbotsford/valdes-dr_abbotsford/blueridge-dr",
+    "timestamp": "2026-07-15T13:48:00Z",
+    "scrapedAt": "2026-07-15T14:16:21Z",
+    "address": "VALDES DR & BLUERIDGE DR",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/valdes-dr",
+      "abbotsford/blueridge-dr"
+    ],
+    "streetNames": [
+      "Valdes Dr",
+      "Blueridge Dr"
+    ],
+    "pulsePointId": "2519392626"
+  },
+  {
+    "id": "2026-07-15T13:47:00Z_delta/deltaport-way",
+    "timestamp": "2026-07-15T13:47:00Z",
+    "scrapedAt": "2026-07-15T14:16:21Z",
+    "address": "DELTAPORT WAY",
+    "city": "Delta",
+    "streets": [
+      "delta/deltaport-way"
+    ],
+    "streetNames": [
+      "Deltaport Way"
+    ],
+    "pulsePointId": "2519391170"
+  },
+  {
+    "id": "2026-07-15T12:47:00Z_richmond/hwy-99_richmond/hwy-91-ofrp",
+    "timestamp": "2026-07-15T12:47:00Z",
+    "scrapedAt": "2026-07-15T14:16:21Z",
+    "address": "HWY 99 & HWY 91 OFRP",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hwy-99",
+      "richmond/hwy-91-ofrp"
+    ],
+    "streetNames": [
+      "Hwy 99",
+      "Hwy 91 Ofrp"
+    ],
+    "pulsePointId": "2519366816"
+  },
+  {
     "id": "2026-07-15T07:51:00Z_surrey/148th-st_surrey/28th-ave",
     "timestamp": "2026-07-15T07:51:00Z",
     "scrapedAt": "2026-07-15T08:39:19Z",

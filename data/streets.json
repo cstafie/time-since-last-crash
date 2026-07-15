@@ -1396,8 +1396,8 @@
     "name": "Hwy 99",
     "slug": "richmond/hwy-99",
     "city": "Richmond",
-    "lastIncident": "2026-07-08T02:29:00Z",
-    "count": 9
+    "lastIncident": "2026-07-15T12:47:00Z",
+    "count": 10
   },
   "port-moody/barnet-hwy": {
     "name": "Barnet Hwy",
@@ -1977,8 +1977,8 @@
     "name": "Hwy 91 Ofrp",
     "slug": "richmond/hwy-91-ofrp",
     "city": "Richmond",
-    "lastIncident": "2026-03-14T14:56:00Z",
-    "count": 1
+    "lastIncident": "2026-07-15T12:47:00Z",
+    "count": 2
   },
   "abbotsford/graham-cres": {
     "name": "Graham Cres",
@@ -4770,8 +4770,8 @@
     "name": "Burke St",
     "slug": "burnaby/burke-st",
     "city": "Burnaby",
-    "lastIncident": "2026-06-26T23:54:00Z",
-    "count": 4
+    "lastIncident": "2026-07-15T13:52:00Z",
+    "count": 5
   },
   "burnaby/burlington-ave": {
     "name": "Burlington Ave",
@@ -4959,8 +4959,8 @@
     "name": "Blueridge Dr",
     "slug": "abbotsford/blueridge-dr",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-28T21:00:00Z",
-    "count": 6
+    "lastIncident": "2026-07-15T13:48:00Z",
+    "count": 7
   },
   "surrey/188th-st": {
     "name": "188th St",
@@ -4973,8 +4973,8 @@
     "name": "Valdes Dr",
     "slug": "abbotsford/valdes-dr",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-02T11:27:00Z",
-    "count": 1
+    "lastIncident": "2026-07-15T13:48:00Z",
+    "count": 2
   },
   "langley/glover-rd": {
     "name": "Glover Rd",
@@ -5435,8 +5435,8 @@
     "name": "Deltaport Way",
     "slug": "delta/deltaport-way",
     "city": "Delta",
-    "lastIncident": "2026-04-25T15:12:00Z",
-    "count": 4
+    "lastIncident": "2026-07-15T13:47:00Z",
+    "count": 5
   },
   "chilliwack/wolfe-rd": {
     "name": "Wolfe Rd",
@@ -10951,8 +10951,8 @@
     "name": "Inman Ave",
     "slug": "burnaby/inman-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-06-26T23:54:00Z",
-    "count": 3
+    "lastIncident": "2026-07-15T13:52:00Z",
+    "count": 4
   },
   "chilliwack/bonny-ave": {
     "name": "Bonny Ave",

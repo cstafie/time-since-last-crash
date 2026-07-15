@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-15T13:48:00Z_abbotsford/valdes-dr_abbotsford/blueridge-dr",
+      "timestamp": "2026-07-15T13:48:00Z",
+      "address": "VALDES DR & BLUERIDGE DR",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/valdes-dr",
+        "abbotsford/blueridge-dr"
+      ],
+      "streetNames": [
+        "Valdes Dr",
+        "Blueridge Dr"
+      ],
+      "pulsePointId": "2519392626"
+    },
+    {
       "id": "2026-06-28T21:00:00Z_abbotsford/blueridge-dr_abbotsford/ridgeview-dr",
       "timestamp": "2026-06-28T21:00:00Z",
       "address": "BLUERIDGE DR & RIDGEVIEW DR",
@@ -92,6 +107,6 @@
       "pulsePointId": "2446156501"
     }
   ],
-  "lastIncident": "2026-06-28T21:00:00Z",
-  "count": 6
+  "lastIncident": "2026-07-15T13:48:00Z",
+  "count": 7
 }

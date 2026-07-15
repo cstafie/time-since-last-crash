@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-15T13:52:00Z_burnaby/inman-ave_burnaby/burke-st",
+      "timestamp": "2026-07-15T13:52:00Z",
+      "address": "INMAN AVE & BURKE ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/inman-ave",
+        "burnaby/burke-st"
+      ],
+      "streetNames": [
+        "Inman Ave",
+        "Burke St"
+      ],
+      "pulsePointId": "2519393341"
+    },
+    {
       "id": "2026-06-26T23:54:00Z_burnaby/burke-st_burnaby/inman-ave",
       "timestamp": "2026-06-26T23:54:00Z",
       "address": "BURKE ST & INMAN AVE",
@@ -49,6 +64,6 @@
       "pulsePointId": "2485210661"
     }
   ],
-  "lastIncident": "2026-06-26T23:54:00Z",
-  "count": 3
+  "lastIncident": "2026-07-15T13:52:00Z",
+  "count": 4
 }
