@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-07-13T21:22:00Z",
-    "count": 82
+    "lastIncident": "2026-07-15T20:40:00Z",
+    "count": 83
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -2922,15 +2922,15 @@
     "name": "Brooke Rd",
     "slug": "delta/brooke-rd",
     "city": "Delta",
-    "lastIncident": "2026-06-21T06:44:00Z",
-    "count": 2
+    "lastIncident": "2026-07-15T20:10:00Z",
+    "count": 3
   },
   "delta/nordel-way": {
     "name": "Nordel Way",
     "slug": "delta/nordel-way",
     "city": "Delta",
-    "lastIncident": "2026-07-12T07:44:00Z",
-    "count": 13
+    "lastIncident": "2026-07-15T20:10:00Z",
+    "count": 15
   },
   "coquitlam/whiting-way": {
     "name": "Whiting Way",
@@ -3741,8 +3741,8 @@
     "name": "Crescent Rd",
     "slug": "surrey/crescent-rd",
     "city": "Surrey",
-    "lastIncident": "2026-06-05T07:30:00Z",
-    "count": 3
+    "lastIncident": "2026-07-15T20:40:00Z",
+    "count": 4
   },
   "surrey/142a-st": {
     "name": "142a St",
@@ -4084,8 +4084,8 @@
     "name": "84th Ave",
     "slug": "delta/84th-ave",
     "city": "Delta",
-    "lastIncident": "2026-07-04T00:53:00Z",
-    "count": 3
+    "lastIncident": "2026-07-15T20:10:00Z",
+    "count": 4
   },
   "coquitlam/pitt-river-rd": {
     "name": "Pitt River Rd",
@@ -4273,8 +4273,8 @@
     "name": "River Rd",
     "slug": "richmond/river-rd",
     "city": "Richmond",
-    "lastIncident": "2026-06-13T17:58:00Z",
-    "count": 3
+    "lastIncident": "2026-07-15T20:00:00Z",
+    "count": 4
   },
   "delta/hwy-17a": {
     "name": "Hwy 17a",

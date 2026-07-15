@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-07-15T20:40:00Z_surrey/king-george-blvd_surrey/crescent-rd",
+    "timestamp": "2026-07-15T20:40:00Z",
+    "scrapedAt": "2026-07-15T20:56:15Z",
+    "address": "KING GEORGE BLVD & CRESCENT RD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/crescent-rd"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "Crescent Rd"
+    ],
+    "pulsePointId": "2519654981"
+  },
+  {
+    "id": "2026-07-15T20:10:00Z_delta/nordel-way_delta/84th-ave",
+    "timestamp": "2026-07-15T20:10:00Z",
+    "scrapedAt": "2026-07-15T20:56:15Z",
+    "address": "NORDEL WAY & 84TH AVE",
+    "city": "Delta",
+    "streets": [
+      "delta/nordel-way",
+      "delta/84th-ave"
+    ],
+    "streetNames": [
+      "Nordel Way",
+      "84th Ave"
+    ],
+    "pulsePointId": "2519634104"
+  },
+  {
+    "id": "2026-07-15T20:10:00Z_delta/brooke-rd_delta/nordel-way",
+    "timestamp": "2026-07-15T20:10:00Z",
+    "scrapedAt": "2026-07-15T20:56:15Z",
+    "address": "BROOKE RD & NORDEL WAY",
+    "city": "Delta",
+    "streets": [
+      "delta/brooke-rd",
+      "delta/nordel-way"
+    ],
+    "streetNames": [
+      "Brooke Rd",
+      "Nordel Way"
+    ],
+    "pulsePointId": "2519634290"
+  },
+  {
+    "id": "2026-07-15T20:00:00Z_richmond/river-rd",
+    "timestamp": "2026-07-15T20:00:00Z",
+    "scrapedAt": "2026-07-15T20:56:15Z",
+    "address": "RIVER RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/river-rd"
+    ],
+    "streetNames": [
+      "River Rd"
+    ],
+    "pulsePointId": "2519626543"
+  },
+  {
     "id": "2026-07-15T19:40:00Z_vancouver/pacific-blvd",
     "timestamp": "2026-07-15T19:40:00Z",
     "scrapedAt": "2026-07-15T19:58:50Z",
