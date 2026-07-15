@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-15T21:28:00Z_surrey/108th-ave_surrey/university-dr",
+    "timestamp": "2026-07-15T21:28:00Z",
+    "scrapedAt": "2026-07-15T21:45:31Z",
+    "address": "108TH AVE & UNIVERSITY DR",
+    "city": "Surrey",
+    "streets": [
+      "surrey/108th-ave",
+      "surrey/university-dr"
+    ],
+    "streetNames": [
+      "108th Ave",
+      "University Dr"
+    ],
+    "pulsePointId": "2519690658"
+  },
+  {
     "id": "2026-07-15T20:40:00Z_surrey/king-george-blvd_surrey/crescent-rd",
     "timestamp": "2026-07-15T20:40:00Z",
     "scrapedAt": "2026-07-15T20:56:15Z",

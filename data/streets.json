@@ -521,8 +521,8 @@
     "name": "108th Ave",
     "slug": "surrey/108th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-08T21:54:00Z",
-    "count": 30
+    "lastIncident": "2026-07-15T21:28:00Z",
+    "count": 31
   },
   "surrey/124th-st": {
     "name": "124th St",
@@ -3944,8 +3944,8 @@
     "name": "University Dr",
     "slug": "surrey/university-dr",
     "city": "Surrey",
-    "lastIncident": "2026-06-13T04:34:00Z",
-    "count": 4
+    "lastIncident": "2026-07-15T21:28:00Z",
+    "count": 5
   },
   "vancouver/griffiths-way": {
     "name": "Griffiths Way",
