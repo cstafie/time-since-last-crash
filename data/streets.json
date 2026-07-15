@@ -1291,8 +1291,8 @@
     "name": "28th Ave",
     "slug": "surrey/28th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-19T09:39:00Z",
-    "count": 5
+    "lastIncident": "2026-07-15T07:51:00Z",
+    "count": 6
   },
   "surrey/120th-st": {
     "name": "120th St",
@@ -1893,8 +1893,8 @@
     "name": "148th St",
     "slug": "surrey/148th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-13T23:41:00Z",
-    "count": 27
+    "lastIncident": "2026-07-15T07:51:00Z",
+    "count": 28
   },
   "vancouver/earles-st": {
     "name": "Earles St",
