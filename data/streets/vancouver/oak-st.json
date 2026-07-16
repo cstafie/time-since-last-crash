@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-16T16:10:00Z_vancouver/w-23rd-ave_vancouver/oak-st",
+      "timestamp": "2026-07-16T16:10:00Z",
+      "address": "W 23RD AVE & OAK ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-23rd-ave",
+        "vancouver/oak-st"
+      ],
+      "streetNames": [
+        "W 23rd Ave",
+        "Oak St"
+      ],
+      "pulsePointId": "2520225772"
+    },
+    {
       "id": "2026-07-11T02:02:00Z_vancouver/oak-st_vancouver/w-38th-ave",
       "timestamp": "2026-07-11T02:02:00Z",
       "address": "OAK ST & W 38TH AVE",
@@ -675,6 +690,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-11T02:02:00Z",
-  "count": 46
+  "lastIncident": "2026-07-16T16:10:00Z",
+  "count": 47
 }

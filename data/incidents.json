@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-16T16:10:00Z_vancouver/w-23rd-ave_vancouver/oak-st",
+    "timestamp": "2026-07-16T16:10:00Z",
+    "scrapedAt": "2026-07-16T17:43:44Z",
+    "address": "W 23RD AVE & OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-23rd-ave",
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "W 23rd Ave",
+      "Oak St"
+    ],
+    "pulsePointId": "2520225772"
+  },
+  {
     "id": "2026-07-16T15:33:00Z_vancouver/e-11th-ave_vancouver/kingsway",
     "timestamp": "2026-07-16T15:33:00Z",
     "scrapedAt": "2026-07-16T16:07:39Z",
