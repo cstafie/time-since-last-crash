@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-07-16T04:44:00Z_vancouver/miller-st_vancouver/kingsway",
+    "timestamp": "2026-07-16T04:44:00Z",
+    "scrapedAt": "2026-07-16T06:41:39Z",
+    "address": "MILLER ST & KINGSWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/miller-st",
+      "vancouver/kingsway"
+    ],
+    "streetNames": [
+      "Miller St",
+      "Kingsway"
+    ],
+    "pulsePointId": "2519963908"
+  },
+  {
+    "id": "2026-07-16T04:30:00Z_maple-ridge/kanaka-way_maple-ridge/lougheed-hwy",
+    "timestamp": "2026-07-16T04:30:00Z",
+    "scrapedAt": "2026-07-16T06:41:39Z",
+    "address": "KANAKA WAY & LOUGHEED HWY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/kanaka-way",
+      "maple-ridge/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Kanaka Way",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2519957265"
+  },
+  {
     "id": "2026-07-16T04:24:00Z_west-vancouver/kings-ave_west-vancouver/14th-st",
     "timestamp": "2026-07-16T04:24:00Z",
     "scrapedAt": "2026-07-16T04:29:29Z",

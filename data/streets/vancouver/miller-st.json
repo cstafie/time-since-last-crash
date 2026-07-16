@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-16T04:44:00Z_vancouver/miller-st_vancouver/kingsway",
+      "timestamp": "2026-07-16T04:44:00Z",
+      "address": "MILLER ST & KINGSWAY",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/miller-st",
+        "vancouver/kingsway"
+      ],
+      "streetNames": [
+        "Miller St",
+        "Kingsway"
+      ],
+      "pulsePointId": "2519963908"
+    },
+    {
       "id": "2026-07-10T03:56:00Z_vancouver/miller-st",
       "timestamp": "2026-07-10T03:56:00Z",
       "address": "MILLER ST",
@@ -32,6 +47,6 @@
       "pulsePointId": "2440936676"
     }
   ],
-  "lastIncident": "2026-07-10T03:56:00Z",
-  "count": 2
+  "lastIncident": "2026-07-16T04:44:00Z",
+  "count": 3
 }

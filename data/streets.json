@@ -325,8 +325,8 @@
     "name": "Lougheed Hwy",
     "slug": "maple-ridge/lougheed-hwy",
     "city": "Maple Ridge",
-    "lastIncident": "2026-07-13T03:34:00Z",
-    "count": 37
+    "lastIncident": "2026-07-16T04:30:00Z",
+    "count": 38
   },
   "mission/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -745,8 +745,8 @@
     "name": "Kingsway",
     "slug": "vancouver/kingsway",
     "city": "Vancouver",
-    "lastIncident": "2026-07-11T21:19:00Z",
-    "count": 30
+    "lastIncident": "2026-07-16T04:44:00Z",
+    "count": 31
   },
   "vancouver/knight-st": {
     "name": "Knight St",
@@ -2852,8 +2852,8 @@
     "name": "Kanaka Way",
     "slug": "maple-ridge/kanaka-way",
     "city": "Maple Ridge",
-    "lastIncident": "2026-06-22T23:48:00Z",
-    "count": 3
+    "lastIncident": "2026-07-16T04:30:00Z",
+    "count": 4
   },
   "vancouver/w-45th-ave": {
     "name": "W 45th Ave",
@@ -3916,8 +3916,8 @@
     "name": "Miller St",
     "slug": "vancouver/miller-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-10T03:56:00Z",
-    "count": 2
+    "lastIncident": "2026-07-16T04:44:00Z",
+    "count": 3
   },
   "richmond/george-massey-tunl": {
     "name": "George Massey Tunl",
