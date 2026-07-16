@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-07-16T19:39:00Z_langley/208th-st_langley/16th-ave",
+    "timestamp": "2026-07-16T19:39:00Z",
+    "scrapedAt": "2026-07-16T19:53:11Z",
+    "address": "208TH ST & 16TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/208th-st",
+      "langley/16th-ave"
+    ],
+    "streetNames": [
+      "208th St",
+      "16th Ave"
+    ],
+    "pulsePointId": "2520373592"
+  },
+  {
+    "id": "2026-07-16T19:30:00Z_abbotsford/bevan-ave_abbotsford/broadway-st",
+    "timestamp": "2026-07-16T19:30:00Z",
+    "scrapedAt": "2026-07-16T19:53:11Z",
+    "address": "BEVAN AVE & BROADWAY ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/bevan-ave",
+      "abbotsford/broadway-st"
+    ],
+    "streetNames": [
+      "Bevan Ave",
+      "Broadway St"
+    ],
+    "pulsePointId": "2520367677"
+  },
+  {
+    "id": "2026-07-16T19:29:00Z_surrey/56th-ave_surrey/160th-st",
+    "timestamp": "2026-07-16T19:29:00Z",
+    "scrapedAt": "2026-07-16T19:53:11Z",
+    "address": "56TH AVE & 160TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/56th-ave",
+      "surrey/160th-st"
+    ],
+    "streetNames": [
+      "56th Ave",
+      "160th St"
+    ],
+    "pulsePointId": "2520369442"
+  },
+  {
     "id": "2026-07-16T17:59:00Z_north-vancouver/dollarton-hwy",
     "timestamp": "2026-07-16T17:59:00Z",
     "scrapedAt": "2026-07-16T18:51:09Z",

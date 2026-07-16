@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-16T19:30:00Z_abbotsford/bevan-ave_abbotsford/broadway-st",
+      "timestamp": "2026-07-16T19:30:00Z",
+      "address": "BEVAN AVE & BROADWAY ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/bevan-ave",
+        "abbotsford/broadway-st"
+      ],
+      "streetNames": [
+        "Bevan Ave",
+        "Broadway St"
+      ],
+      "pulsePointId": "2520367677"
+    },
+    {
       "id": "2026-07-13T22:43:00Z_abbotsford/bevan-ave_abbotsford/ware-st",
       "timestamp": "2026-07-13T22:43:00Z",
       "address": "BEVAN AVE & WARE ST",
@@ -94,6 +109,6 @@
       "pulsePointId": "2475963011"
     }
   ],
-  "lastIncident": "2026-07-13T22:43:00Z",
-  "count": 6
+  "lastIncident": "2026-07-16T19:30:00Z",
+  "count": 7
 }
