@@ -1,0 +1,24 @@
+{
+  "slug": "langley/old-yale-rd",
+  "name": "Old Yale Rd",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-07-16T22:00:00Z_langley/40th-ave_langley/old-yale-rd",
+      "timestamp": "2026-07-16T22:00:00Z",
+      "address": "40TH AVE & OLD YALE RD",
+      "city": "Langley",
+      "streets": [
+        "langley/40th-ave",
+        "langley/old-yale-rd"
+      ],
+      "streetNames": [
+        "40th Ave",
+        "Old Yale Rd"
+      ],
+      "pulsePointId": "2520482804"
+    }
+  ],
+  "lastIncident": "2026-07-16T22:00:00Z",
+  "count": 1
+}

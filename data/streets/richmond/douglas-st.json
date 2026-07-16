@@ -1,0 +1,24 @@
+{
+  "slug": "richmond/douglas-st",
+  "name": "Douglas St",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-07-16T22:39:00Z_richmond/douglas-st_richmond/sexsmith-rd",
+      "timestamp": "2026-07-16T22:39:00Z",
+      "address": "DOUGLAS ST & SEXSMITH RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/douglas-st",
+        "richmond/sexsmith-rd"
+      ],
+      "streetNames": [
+        "Douglas St",
+        "Sexsmith Rd"
+      ],
+      "pulsePointId": "2520510789"
+    }
+  ],
+  "lastIncident": "2026-07-16T22:39:00Z",
+  "count": 1
+}

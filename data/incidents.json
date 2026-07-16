@@ -1,5 +1,129 @@
 [
   {
+    "id": "2026-07-16T22:39:00Z_richmond/douglas-st_richmond/sexsmith-rd",
+    "timestamp": "2026-07-16T22:39:00Z",
+    "scrapedAt": "2026-07-16T22:44:27Z",
+    "address": "DOUGLAS ST & SEXSMITH RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/douglas-st",
+      "richmond/sexsmith-rd"
+    ],
+    "streetNames": [
+      "Douglas St",
+      "Sexsmith Rd"
+    ],
+    "pulsePointId": "2520510789"
+  },
+  {
+    "id": "2026-07-16T22:23:00Z_coquitlam/panorama-dr_coquitlam/johnson-st",
+    "timestamp": "2026-07-16T22:23:00Z",
+    "scrapedAt": "2026-07-16T22:44:27Z",
+    "address": "PANORAMA DR & JOHNSON ST",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/panorama-dr",
+      "coquitlam/johnson-st"
+    ],
+    "streetNames": [
+      "Panorama Dr",
+      "Johnson St"
+    ],
+    "pulsePointId": "2520499463"
+  },
+  {
+    "id": "2026-07-16T22:20:00Z_surrey/24th-ave",
+    "timestamp": "2026-07-16T22:20:00Z",
+    "scrapedAt": "2026-07-16T22:44:27Z",
+    "address": "24TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/24th-ave"
+    ],
+    "streetNames": [
+      "24th Ave"
+    ],
+    "pulsePointId": "2520497279"
+  },
+  {
+    "id": "2026-07-16T22:19:00Z_surrey/king-george-blvd_surrey/152nd-st",
+    "timestamp": "2026-07-16T22:19:00Z",
+    "scrapedAt": "2026-07-16T22:44:27Z",
+    "address": "KING GEORGE BLVD & 152ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/152nd-st"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "152nd St"
+    ],
+    "pulsePointId": "2520496690"
+  },
+  {
+    "id": "2026-07-16T22:10:00Z_langley/56th-ave_langley/224th-st",
+    "timestamp": "2026-07-16T22:10:00Z",
+    "scrapedAt": "2026-07-16T22:44:27Z",
+    "address": "56TH AVE & 224TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/56th-ave",
+      "langley/224th-st"
+    ],
+    "streetNames": [
+      "56th Ave",
+      "224th St"
+    ],
+    "pulsePointId": "2520489659"
+  },
+  {
+    "id": "2026-07-16T22:08:00Z_vancouver/e-broadway_vancouver/penticton-st",
+    "timestamp": "2026-07-16T22:08:00Z",
+    "scrapedAt": "2026-07-16T22:44:27Z",
+    "address": "E BROADWAY & PENTICTON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-broadway",
+      "vancouver/penticton-st"
+    ],
+    "streetNames": [
+      "E Broadway",
+      "Penticton St"
+    ],
+    "pulsePointId": "2520488729"
+  },
+  {
+    "id": "2026-07-16T22:02:00Z_langley/23928-fraser-hwy",
+    "timestamp": "2026-07-16T22:02:00Z",
+    "scrapedAt": "2026-07-16T22:44:27Z",
+    "address": "23928 FRASER HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/23928-fraser-hwy"
+    ],
+    "streetNames": [
+      "23928 Fraser Hwy"
+    ],
+    "pulsePointId": "2520485539"
+  },
+  {
+    "id": "2026-07-16T22:00:00Z_langley/40th-ave_langley/old-yale-rd",
+    "timestamp": "2026-07-16T22:00:00Z",
+    "scrapedAt": "2026-07-16T22:44:27Z",
+    "address": "40TH AVE & OLD YALE RD",
+    "city": "Langley",
+    "streets": [
+      "langley/40th-ave",
+      "langley/old-yale-rd"
+    ],
+    "streetNames": [
+      "40th Ave",
+      "Old Yale Rd"
+    ],
+    "pulsePointId": "2520482804"
+  },
+  {
     "id": "2026-07-16T21:21:00Z_vancouver/gore-ave_vancouver/union-st",
     "timestamp": "2026-07-16T21:21:00Z",
     "scrapedAt": "2026-07-16T21:52:08Z",

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-16T22:08:00Z_vancouver/e-broadway_vancouver/penticton-st",
+      "timestamp": "2026-07-16T22:08:00Z",
+      "address": "E BROADWAY & PENTICTON ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-broadway",
+        "vancouver/penticton-st"
+      ],
+      "streetNames": [
+        "E Broadway",
+        "Penticton St"
+      ],
+      "pulsePointId": "2520488729"
+    },
+    {
       "id": "2026-07-11T20:03:00Z_vancouver/e-broadway",
       "timestamp": "2026-07-11T20:03:00Z",
       "address": "E BROADWAY",
@@ -253,6 +268,6 @@
       "pulsePointId": "2435592326"
     }
   ],
-  "lastIncident": "2026-07-11T20:03:00Z",
-  "count": 17
+  "lastIncident": "2026-07-16T22:08:00Z",
+  "count": 18
 }

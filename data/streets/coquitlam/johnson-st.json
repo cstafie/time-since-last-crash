@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-07-16T22:23:00Z_coquitlam/panorama-dr_coquitlam/johnson-st",
+      "timestamp": "2026-07-16T22:23:00Z",
+      "address": "PANORAMA DR & JOHNSON ST",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/panorama-dr",
+        "coquitlam/johnson-st"
+      ],
+      "streetNames": [
+        "Panorama Dr",
+        "Johnson St"
+      ],
+      "pulsePointId": "2520499463"
+    },
+    {
       "id": "2026-07-09T11:58:00Z_coquitlam/david-ave_coquitlam/johnson-st",
       "timestamp": "2026-07-09T11:58:00Z",
       "address": "DAVID AVE & JOHNSON ST",
@@ -109,6 +124,6 @@
       "pulsePointId": "2439295236"
     }
   ],
-  "lastIncident": "2026-07-09T11:58:00Z",
-  "count": 7
+  "lastIncident": "2026-07-16T22:23:00Z",
+  "count": 8
 }

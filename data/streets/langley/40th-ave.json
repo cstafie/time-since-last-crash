@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-07-16T22:00:00Z_langley/40th-ave_langley/old-yale-rd",
+      "timestamp": "2026-07-16T22:00:00Z",
+      "address": "40TH AVE & OLD YALE RD",
+      "city": "Langley",
+      "streets": [
+        "langley/40th-ave",
+        "langley/old-yale-rd"
+      ],
+      "streetNames": [
+        "40th Ave",
+        "Old Yale Rd"
+      ],
+      "pulsePointId": "2520482804"
+    },
+    {
       "id": "2026-07-13T22:44:00Z_langley/40th-ave_langley/212th-st",
       "timestamp": "2026-07-13T22:44:00Z",
       "address": "40TH AVE & 212TH ST",
@@ -120,6 +135,6 @@
       "pulsePointId": "2464276107"
     }
   ],
-  "lastIncident": "2026-07-13T22:44:00Z",
-  "count": 8
+  "lastIncident": "2026-07-16T22:00:00Z",
+  "count": 9
 }
