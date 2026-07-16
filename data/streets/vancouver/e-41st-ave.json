@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-16T22:43:00Z_vancouver/e-41st-ave_vancouver/beatrice-st",
+      "timestamp": "2026-07-16T22:43:00Z",
+      "address": "E 41ST AVE & BEATRICE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-41st-ave",
+        "vancouver/beatrice-st"
+      ],
+      "streetNames": [
+        "E 41st Ave",
+        "Beatrice St"
+      ],
+      "pulsePointId": "2520513718"
+    },
+    {
       "id": "2026-06-30T00:17:00Z_vancouver/gladstone-st_vancouver/e-41st-ave",
       "timestamp": "2026-06-30T00:17:00Z",
       "address": "GLADSTONE ST & E 41ST AVE",
@@ -584,6 +599,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-30T00:17:00Z",
-  "count": 39
+  "lastIncident": "2026-07-16T22:43:00Z",
+  "count": 40
 }

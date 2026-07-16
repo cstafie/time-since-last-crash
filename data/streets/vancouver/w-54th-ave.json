@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-16T23:14:00Z_vancouver/w-54th-ave_vancouver/oak-st",
+      "timestamp": "2026-07-16T23:14:00Z",
+      "address": "W 54TH AVE & OAK ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-54th-ave",
+        "vancouver/oak-st"
+      ],
+      "streetNames": [
+        "W 54th Ave",
+        "Oak St"
+      ],
+      "pulsePointId": "2520534657"
+    },
+    {
       "id": "2026-06-23T19:54:00Z_vancouver/w-54th-ave_vancouver/oak-st",
       "timestamp": "2026-06-23T19:54:00Z",
       "address": "W 54TH AVE & OAK ST",
@@ -47,6 +62,6 @@
       "pulsePointId": "2464836030"
     }
   ],
-  "lastIncident": "2026-06-23T19:54:00Z",
-  "count": 3
+  "lastIncident": "2026-07-16T23:14:00Z",
+  "count": 4
 }

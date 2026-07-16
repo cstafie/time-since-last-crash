@@ -1,5 +1,143 @@
 [
   {
+    "id": "2026-07-16T23:40:00Z_abbotsford/ware-st_abbotsford/george-ferguson-way",
+    "timestamp": "2026-07-16T23:40:00Z",
+    "scrapedAt": "2026-07-16T23:44:34Z",
+    "address": "WARE ST & GEORGE FERGUSON WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/ware-st",
+      "abbotsford/george-ferguson-way"
+    ],
+    "streetNames": [
+      "Ware St",
+      "George Ferguson Way"
+    ],
+    "pulsePointId": "2520552098"
+  },
+  {
+    "id": "2026-07-16T23:34:00Z_abbotsford/gladwin-rd_abbotsford/harris-rd",
+    "timestamp": "2026-07-16T23:34:00Z",
+    "scrapedAt": "2026-07-16T23:44:34Z",
+    "address": "GLADWIN RD & HARRIS RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/gladwin-rd",
+      "abbotsford/harris-rd"
+    ],
+    "streetNames": [
+      "Gladwin Rd",
+      "Harris Rd"
+    ],
+    "pulsePointId": "2520550137"
+  },
+  {
+    "id": "2026-07-16T23:28:00Z_surrey/130th-st",
+    "timestamp": "2026-07-16T23:28:00Z",
+    "scrapedAt": "2026-07-16T23:44:34Z",
+    "address": "130TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/130th-st"
+    ],
+    "streetNames": [
+      "130th St"
+    ],
+    "pulsePointId": "2520547625"
+  },
+  {
+    "id": "2026-07-16T23:26:00Z_pitt-meadows/old-dewdney-trunk-rd",
+    "timestamp": "2026-07-16T23:26:00Z",
+    "scrapedAt": "2026-07-16T23:44:34Z",
+    "address": "OLD DEWDNEY TRUNK RD",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/old-dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "Old Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2520543937"
+  },
+  {
+    "id": "2026-07-16T23:16:00Z_abbotsford/edgehill-ave_abbotsford/townline-rd",
+    "timestamp": "2026-07-16T23:16:00Z",
+    "scrapedAt": "2026-07-16T23:44:34Z",
+    "address": "EDGEHILL AVE & TOWNLINE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/edgehill-ave",
+      "abbotsford/townline-rd"
+    ],
+    "streetNames": [
+      "Edgehill Ave",
+      "Townline Rd"
+    ],
+    "pulsePointId": "2520536984"
+  },
+  {
+    "id": "2026-07-16T23:14:00Z_vancouver/w-54th-ave_vancouver/oak-st",
+    "timestamp": "2026-07-16T23:14:00Z",
+    "scrapedAt": "2026-07-16T23:44:34Z",
+    "address": "W 54TH AVE & OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-54th-ave",
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "W 54th Ave",
+      "Oak St"
+    ],
+    "pulsePointId": "2520534657"
+  },
+  {
+    "id": "2026-07-16T22:55:00Z_vancouver/granville-st",
+    "timestamp": "2026-07-16T22:55:00Z",
+    "scrapedAt": "2026-07-16T23:44:34Z",
+    "address": "GRANVILLE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st"
+    ],
+    "streetNames": [
+      "Granville St"
+    ],
+    "pulsePointId": "2520522267"
+  },
+  {
+    "id": "2026-07-16T22:48:00Z_vancouver/cartier-st_vancouver/w-71st-ave",
+    "timestamp": "2026-07-16T22:48:00Z",
+    "scrapedAt": "2026-07-16T23:44:34Z",
+    "address": "CARTIER ST & W 71ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/cartier-st",
+      "vancouver/w-71st-ave"
+    ],
+    "streetNames": [
+      "Cartier St",
+      "W 71st Ave"
+    ],
+    "pulsePointId": "2520517425"
+  },
+  {
+    "id": "2026-07-16T22:43:00Z_vancouver/e-41st-ave_vancouver/beatrice-st",
+    "timestamp": "2026-07-16T22:43:00Z",
+    "scrapedAt": "2026-07-16T23:44:34Z",
+    "address": "E 41ST AVE & BEATRICE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-41st-ave",
+      "vancouver/beatrice-st"
+    ],
+    "streetNames": [
+      "E 41st Ave",
+      "Beatrice St"
+    ],
+    "pulsePointId": "2520513718"
+  },
+  {
     "id": "2026-07-16T22:39:00Z_richmond/douglas-st_richmond/sexsmith-rd",
     "timestamp": "2026-07-16T22:39:00Z",
     "scrapedAt": "2026-07-16T22:44:27Z",

@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-16T22:55:00Z_vancouver/granville-st",
+      "timestamp": "2026-07-16T22:55:00Z",
+      "address": "GRANVILLE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st"
+      ],
+      "streetNames": [
+        "Granville St"
+      ],
+      "pulsePointId": "2520522267"
+    },
+    {
       "id": "2026-07-13T14:10:00Z_vancouver/granville-st_vancouver/w-33rd-ave",
       "timestamp": "2026-07-13T14:10:00Z",
       "address": "GRANVILLE ST & W 33RD AVE",
@@ -919,6 +932,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-13T14:10:00Z",
-  "count": 62
+  "lastIncident": "2026-07-16T22:55:00Z",
+  "count": 63
 }

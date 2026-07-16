@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-16T23:40:00Z_abbotsford/ware-st_abbotsford/george-ferguson-way",
+      "timestamp": "2026-07-16T23:40:00Z",
+      "address": "WARE ST & GEORGE FERGUSON WAY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/ware-st",
+        "abbotsford/george-ferguson-way"
+      ],
+      "streetNames": [
+        "Ware St",
+        "George Ferguson Way"
+      ],
+      "pulsePointId": "2520552098"
+    },
+    {
       "id": "2026-07-13T22:43:00Z_abbotsford/bevan-ave_abbotsford/ware-st",
       "timestamp": "2026-07-13T22:43:00Z",
       "address": "BEVAN AVE & WARE ST",
@@ -197,6 +212,6 @@
       "pulsePointId": "2433198543"
     }
   ],
-  "lastIncident": "2026-07-13T22:43:00Z",
-  "count": 13
+  "lastIncident": "2026-07-16T23:40:00Z",
+  "count": 14
 }
