@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-16T21:21:00Z_vancouver/gore-ave_vancouver/union-st",
+      "timestamp": "2026-07-16T21:21:00Z",
+      "address": "GORE AVE & UNION ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/gore-ave",
+        "vancouver/union-st"
+      ],
+      "streetNames": [
+        "Gore Ave",
+        "Union St"
+      ],
+      "pulsePointId": "2520451117"
+    },
+    {
       "id": "2026-06-26T21:17:00Z_vancouver/powell-st_vancouver/gore-ave",
       "timestamp": "2026-06-26T21:17:00Z",
       "address": "POWELL ST & GORE AVE",
@@ -64,6 +79,6 @@
       "pulsePointId": "2441206189"
     }
   ],
-  "lastIncident": "2026-06-26T21:17:00Z",
-  "count": 4
+  "lastIncident": "2026-07-16T21:21:00Z",
+  "count": 5
 }

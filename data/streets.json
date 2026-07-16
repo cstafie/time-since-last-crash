@@ -3979,8 +3979,8 @@
     "name": "Gore Ave",
     "slug": "vancouver/gore-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-26T21:17:00Z",
-    "count": 4
+    "lastIncident": "2026-07-16T21:21:00Z",
+    "count": 5
   },
   "richmond/burrows-rd": {
     "name": "Burrows Rd",
@@ -6835,8 +6835,8 @@
     "name": "Union St",
     "slug": "vancouver/union-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-07T00:36:00Z",
-    "count": 7
+    "lastIncident": "2026-07-16T21:21:00Z",
+    "count": 8
   },
   "west-vancouver/chairlift-rd": {
     "name": "Chairlift Rd",
@@ -14320,5 +14320,12 @@
     "city": "Vancouver",
     "lastIncident": "2026-07-16T15:33:00Z",
     "count": 2
+  },
+  "surrey/king-george-boulevard-ofrp": {
+    "name": "King George Boulevard Ofrp",
+    "slug": "surrey/king-george-boulevard-ofrp",
+    "city": "Surrey",
+    "lastIncident": "2026-07-16T20:52:00Z",
+    "count": 1
   }
 }

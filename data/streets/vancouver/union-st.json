@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-16T21:21:00Z_vancouver/gore-ave_vancouver/union-st",
+      "timestamp": "2026-07-16T21:21:00Z",
+      "address": "GORE AVE & UNION ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/gore-ave",
+        "vancouver/union-st"
+      ],
+      "streetNames": [
+        "Gore Ave",
+        "Union St"
+      ],
+      "pulsePointId": "2520451117"
+    },
+    {
       "id": "2026-06-07T00:36:00Z_vancouver/main-st_vancouver/union-st",
       "timestamp": "2026-06-07T00:36:00Z",
       "address": "MAIN ST & UNION ST",
@@ -109,6 +124,6 @@
       "pulsePointId": "2455179110"
     }
   ],
-  "lastIncident": "2026-06-07T00:36:00Z",
-  "count": 7
+  "lastIncident": "2026-07-16T21:21:00Z",
+  "count": 8
 }
