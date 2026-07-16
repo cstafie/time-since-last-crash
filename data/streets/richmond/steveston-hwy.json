@@ -4,6 +4,36 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-16T03:09:00Z_richmond/gilbert-rd_richmond/steveston-hwy",
+      "timestamp": "2026-07-16T03:09:00Z",
+      "address": "GILBERT RD & STEVESTON HWY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/gilbert-rd",
+        "richmond/steveston-hwy"
+      ],
+      "streetNames": [
+        "Gilbert Rd",
+        "Steveston Hwy"
+      ],
+      "pulsePointId": "2519915309"
+    },
+    {
+      "id": "2026-07-16T03:08:00Z_richmond/gilbert-rd_richmond/steveston-hwy",
+      "timestamp": "2026-07-16T03:08:00Z",
+      "address": "GILBERT RD & STEVESTON HWY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/gilbert-rd",
+        "richmond/steveston-hwy"
+      ],
+      "streetNames": [
+        "Gilbert Rd",
+        "Steveston Hwy"
+      ],
+      "pulsePointId": "2519915506"
+    },
+    {
       "id": "2026-07-07T01:50:00Z_richmond/no-5-rd_richmond/steveston-hwy",
       "timestamp": "2026-07-07T01:50:00Z",
       "address": "NO 5 RD & STEVESTON HWY",
@@ -133,6 +163,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-07T01:50:00Z",
-  "count": 9
+  "lastIncident": "2026-07-16T03:09:00Z",
+  "count": 11
 }

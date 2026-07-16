@@ -1,5 +1,131 @@
 [
   {
+    "id": "2026-07-16T04:24:00Z_west-vancouver/kings-ave_west-vancouver/14th-st",
+    "timestamp": "2026-07-16T04:24:00Z",
+    "scrapedAt": "2026-07-16T04:29:29Z",
+    "address": "KINGS AVE & 14TH ST",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/kings-ave",
+      "west-vancouver/14th-st"
+    ],
+    "streetNames": [
+      "Kings Ave",
+      "14th St"
+    ],
+    "pulsePointId": "2519954039"
+  },
+  {
+    "id": "2026-07-16T03:09:00Z_richmond/gilbert-rd_richmond/steveston-hwy",
+    "timestamp": "2026-07-16T03:09:00Z",
+    "scrapedAt": "2026-07-16T04:29:29Z",
+    "address": "GILBERT RD & STEVESTON HWY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/gilbert-rd",
+      "richmond/steveston-hwy"
+    ],
+    "streetNames": [
+      "Gilbert Rd",
+      "Steveston Hwy"
+    ],
+    "pulsePointId": "2519915309"
+  },
+  {
+    "id": "2026-07-16T03:08:00Z_richmond/gilbert-rd_richmond/steveston-hwy",
+    "timestamp": "2026-07-16T03:08:00Z",
+    "scrapedAt": "2026-07-16T04:29:29Z",
+    "address": "GILBERT RD & STEVESTON HWY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/gilbert-rd",
+      "richmond/steveston-hwy"
+    ],
+    "streetNames": [
+      "Gilbert Rd",
+      "Steveston Hwy"
+    ],
+    "pulsePointId": "2519915506"
+  },
+  {
+    "id": "2026-07-16T02:46:00Z_surrey/cloverdale-bps_surrey/58th-ave",
+    "timestamp": "2026-07-16T02:46:00Z",
+    "scrapedAt": "2026-07-16T04:29:29Z",
+    "address": "CLOVERDALE BPS & 58TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/cloverdale-bps",
+      "surrey/58th-ave"
+    ],
+    "streetNames": [
+      "Cloverdale Bps",
+      "58th Ave"
+    ],
+    "pulsePointId": "2519904501"
+  },
+  {
+    "id": "2026-07-16T02:46:00Z_delta/118th-st_delta/96th-ave",
+    "timestamp": "2026-07-16T02:46:00Z",
+    "scrapedAt": "2026-07-16T04:29:29Z",
+    "address": "118TH ST & 96TH AVE",
+    "city": "Delta",
+    "streets": [
+      "delta/118th-st",
+      "delta/96th-ave"
+    ],
+    "streetNames": [
+      "118th St",
+      "96th Ave"
+    ],
+    "pulsePointId": "2519902969"
+  },
+  {
+    "id": "2026-07-16T02:15:00Z_surrey/92nd-ave_surrey/king-george-blvd",
+    "timestamp": "2026-07-16T02:15:00Z",
+    "scrapedAt": "2026-07-16T04:29:29Z",
+    "address": "92ND AVE & KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/92nd-ave",
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "92nd Ave",
+      "King George Blvd"
+    ],
+    "pulsePointId": "2519884439"
+  },
+  {
+    "id": "2026-07-16T01:58:00Z_vancouver/cassiar-tunl",
+    "timestamp": "2026-07-16T01:58:00Z",
+    "scrapedAt": "2026-07-16T04:29:29Z",
+    "address": "CASSIAR TUNL",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/cassiar-tunl"
+    ],
+    "streetNames": [
+      "Cassiar Tunl"
+    ],
+    "pulsePointId": "2519876014"
+  },
+  {
+    "id": "2026-07-16T01:20:00Z_chilliwack/mcguire-rd_chilliwack/prest-rd",
+    "timestamp": "2026-07-16T01:20:00Z",
+    "scrapedAt": "2026-07-16T04:29:29Z",
+    "address": "MCGUIRE RD & PREST RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/mcguire-rd",
+      "chilliwack/prest-rd"
+    ],
+    "streetNames": [
+      "Mcguire Rd",
+      "Prest Rd"
+    ],
+    "pulsePointId": "2519848564"
+  },
+  {
     "id": "2026-07-16T01:06:00Z_burnaby/gaglardi-way_burnaby/broadway",
     "timestamp": "2026-07-16T01:06:00Z",
     "scrapedAt": "2026-07-16T01:15:35Z",

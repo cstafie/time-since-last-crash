@@ -640,8 +640,8 @@
     "name": "92nd Ave",
     "slug": "surrey/92nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-02T09:04:00Z",
-    "count": 22
+    "lastIncident": "2026-07-16T02:15:00Z",
+    "count": 23
   },
   "surrey/96th-ave": {
     "name": "96th Ave",
@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-07-15T20:40:00Z",
-    "count": 83
+    "lastIncident": "2026-07-16T02:15:00Z",
+    "count": 84
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -1088,8 +1088,8 @@
     "name": "Steveston Hwy",
     "slug": "richmond/steveston-hwy",
     "city": "Richmond",
-    "lastIncident": "2026-07-07T01:50:00Z",
-    "count": 9
+    "lastIncident": "2026-07-16T03:09:00Z",
+    "count": 11
   },
   "langley/72nd-ave": {
     "name": "72nd Ave",
@@ -1361,8 +1361,8 @@
     "name": "Cassiar Tunl",
     "slug": "vancouver/cassiar-tunl",
     "city": "Vancouver",
-    "lastIncident": "2026-06-27T00:39:00Z",
-    "count": 2
+    "lastIncident": "2026-07-16T01:58:00Z",
+    "count": 3
   },
   "surrey/turning-lane": {
     "name": "Turning Lane",
@@ -1592,8 +1592,8 @@
     "name": "58th Ave",
     "slug": "surrey/58th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-15T22:38:00Z",
-    "count": 12
+    "lastIncident": "2026-07-16T02:46:00Z",
+    "count": 13
   },
   "vancouver/w-22nd-ave": {
     "name": "W 22nd Ave",
@@ -2663,15 +2663,15 @@
     "name": "Prest Rd",
     "slug": "chilliwack/prest-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-13T18:40:00Z",
-    "count": 7
+    "lastIncident": "2026-07-16T01:20:00Z",
+    "count": 8
   },
   "chilliwack/mcguire-rd": {
     "name": "Mcguire Rd",
     "slug": "chilliwack/mcguire-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-04-30T20:47:00Z",
-    "count": 2
+    "lastIncident": "2026-07-16T01:20:00Z",
+    "count": 3
   },
   "abbotsford/allwood-st": {
     "name": "Allwood St",
@@ -2971,8 +2971,8 @@
     "name": "Cloverdale Bps",
     "slug": "surrey/cloverdale-bps",
     "city": "Surrey",
-    "lastIncident": "2026-05-13T03:17:00Z",
-    "count": 4
+    "lastIncident": "2026-07-16T02:46:00Z",
+    "count": 5
   },
   "surrey/60th-ave": {
     "name": "60th Ave",
@@ -8298,8 +8298,8 @@
     "name": "Gilbert Rd",
     "slug": "richmond/gilbert-rd",
     "city": "Richmond",
-    "lastIncident": "2026-07-03T19:23:00Z",
-    "count": 8
+    "lastIncident": "2026-07-16T03:09:00Z",
+    "count": 10
   },
   "maple-ridge/camwood-ave": {
     "name": "Camwood Ave",
@@ -8508,8 +8508,8 @@
     "name": "118th St",
     "slug": "delta/118th-st",
     "city": "Delta",
-    "lastIncident": "2026-06-21T23:03:00Z",
-    "count": 2
+    "lastIncident": "2026-07-16T02:46:00Z",
+    "count": 3
   },
   "port-coquitlam/pitt-river-brdg": {
     "name": "Pitt River Brdg",
@@ -8830,8 +8830,8 @@
     "name": "14th St",
     "slug": "west-vancouver/14th-st",
     "city": "West Vancouver",
-    "lastIncident": "2026-05-05T08:55:00Z",
-    "count": 1
+    "lastIncident": "2026-07-16T04:24:00Z",
+    "count": 2
   },
   "west-vancouver/jefferson-ave": {
     "name": "Jefferson Ave",
@@ -10468,8 +10468,8 @@
     "name": "96th Ave",
     "slug": "delta/96th-ave",
     "city": "Delta",
-    "lastIncident": "2026-05-25T22:30:00Z",
-    "count": 1
+    "lastIncident": "2026-07-16T02:46:00Z",
+    "count": 2
   },
   "delta/sunwood-dr": {
     "name": "Sunwood Dr",
@@ -14298,6 +14298,13 @@
     "slug": "surrey/96th-avenue-conn",
     "city": "Surrey",
     "lastIncident": "2026-07-16T00:35:00Z",
+    "count": 1
+  },
+  "west-vancouver/kings-ave": {
+    "name": "Kings Ave",
+    "slug": "west-vancouver/kings-ave",
+    "city": "West Vancouver",
+    "lastIncident": "2026-07-16T04:24:00Z",
     "count": 1
   }
 }

@@ -4,6 +4,21 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-07-16T01:20:00Z_chilliwack/mcguire-rd_chilliwack/prest-rd",
+      "timestamp": "2026-07-16T01:20:00Z",
+      "address": "MCGUIRE RD & PREST RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/mcguire-rd",
+        "chilliwack/prest-rd"
+      ],
+      "streetNames": [
+        "Mcguire Rd",
+        "Prest Rd"
+      ],
+      "pulsePointId": "2519848564"
+    },
+    {
       "id": "2026-04-30T20:47:00Z_chilliwack/mcguire-rd",
       "timestamp": "2026-04-30T20:47:00Z",
       "address": "MCGUIRE RD",
@@ -32,6 +47,6 @@
       "pulsePointId": "2436137627"
     }
   ],
-  "lastIncident": "2026-04-30T20:47:00Z",
-  "count": 2
+  "lastIncident": "2026-07-16T01:20:00Z",
+  "count": 3
 }

@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-16T02:46:00Z_surrey/cloverdale-bps_surrey/58th-ave",
+      "timestamp": "2026-07-16T02:46:00Z",
+      "address": "CLOVERDALE BPS & 58TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/cloverdale-bps",
+        "surrey/58th-ave"
+      ],
+      "streetNames": [
+        "Cloverdale Bps",
+        "58th Ave"
+      ],
+      "pulsePointId": "2519904501"
+    },
+    {
       "id": "2026-05-13T03:17:00Z_surrey/cloverdale-bps_surrey/57th-ave",
       "timestamp": "2026-05-13T03:17:00Z",
       "address": "CLOVERDALE BPS & 57TH AVE",
@@ -60,6 +75,6 @@
       "pulsePointId": "2437141725"
     }
   ],
-  "lastIncident": "2026-05-13T03:17:00Z",
-  "count": 4
+  "lastIncident": "2026-07-16T02:46:00Z",
+  "count": 5
 }
