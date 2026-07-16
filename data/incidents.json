@@ -1,5 +1,69 @@
 [
   {
+    "id": "2026-07-16T15:33:00Z_vancouver/e-11th-ave_vancouver/kingsway",
+    "timestamp": "2026-07-16T15:33:00Z",
+    "scrapedAt": "2026-07-16T16:07:39Z",
+    "address": "E 11TH AVE & KINGSWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-11th-ave",
+      "vancouver/kingsway"
+    ],
+    "streetNames": [
+      "E 11th Ave",
+      "Kingsway"
+    ],
+    "pulsePointId": "2520201409"
+  },
+  {
+    "id": "2026-07-16T15:33:00Z_vancouver/kingsway_vancouver/e-11th-ave",
+    "timestamp": "2026-07-16T15:33:00Z",
+    "scrapedAt": "2026-07-16T16:07:39Z",
+    "address": "KINGSWAY & E 11TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kingsway",
+      "vancouver/e-11th-ave"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "E 11th Ave"
+    ],
+    "pulsePointId": "2520201416"
+  },
+  {
+    "id": "2026-07-16T15:30:00Z_langley/84th-ave_langley/200th-st",
+    "timestamp": "2026-07-16T15:30:00Z",
+    "scrapedAt": "2026-07-16T16:07:39Z",
+    "address": "84TH AVE & 200TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/84th-ave",
+      "langley/200th-st"
+    ],
+    "streetNames": [
+      "84th Ave",
+      "200th St"
+    ],
+    "pulsePointId": "2520199809"
+  },
+  {
+    "id": "2026-07-16T15:02:00Z_maple-ridge/lougheed-hwy_maple-ridge/222nd-st",
+    "timestamp": "2026-07-16T15:02:00Z",
+    "scrapedAt": "2026-07-16T16:07:39Z",
+    "address": "LOUGHEED HWY & 222ND ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/lougheed-hwy",
+      "maple-ridge/222nd-st"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "222nd St"
+    ],
+    "pulsePointId": "2520182511"
+  },
+  {
     "id": "2026-07-16T14:42:00Z_new-westminster/10th-st_new-westminster/royal-ave",
     "timestamp": "2026-07-16T14:42:00Z",
     "scrapedAt": "2026-07-16T14:51:47Z",

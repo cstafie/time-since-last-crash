@@ -4,6 +4,36 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-16T15:33:00Z_vancouver/e-11th-ave_vancouver/kingsway",
+      "timestamp": "2026-07-16T15:33:00Z",
+      "address": "E 11TH AVE & KINGSWAY",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-11th-ave",
+        "vancouver/kingsway"
+      ],
+      "streetNames": [
+        "E 11th Ave",
+        "Kingsway"
+      ],
+      "pulsePointId": "2520201409"
+    },
+    {
+      "id": "2026-07-16T15:33:00Z_vancouver/kingsway_vancouver/e-11th-ave",
+      "timestamp": "2026-07-16T15:33:00Z",
+      "address": "KINGSWAY & E 11TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/kingsway",
+        "vancouver/e-11th-ave"
+      ],
+      "streetNames": [
+        "Kingsway",
+        "E 11th Ave"
+      ],
+      "pulsePointId": "2520201416"
+    },
+    {
       "id": "2026-07-16T04:44:00Z_vancouver/miller-st_vancouver/kingsway",
       "timestamp": "2026-07-16T04:44:00Z",
       "address": "MILLER ST & KINGSWAY",
@@ -458,6 +488,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-16T04:44:00Z",
-  "count": 31
+  "lastIncident": "2026-07-16T15:33:00Z",
+  "count": 33
 }
