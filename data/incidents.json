@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-07-16T17:59:00Z_north-vancouver/dollarton-hwy",
+    "timestamp": "2026-07-16T17:59:00Z",
+    "scrapedAt": "2026-07-16T18:51:09Z",
+    "address": "DOLLARTON HWY",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/dollarton-hwy"
+    ],
+    "streetNames": [
+      "Dollarton Hwy"
+    ],
+    "pulsePointId": "2520298720"
+  },
+  {
     "id": "2026-07-16T16:10:00Z_vancouver/w-23rd-ave_vancouver/oak-st",
     "timestamp": "2026-07-16T16:10:00Z",
     "scrapedAt": "2026-07-16T17:43:44Z",
