@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-07-16T08:16:00Z_surrey/77a-ave_surrey/143rd-st",
+    "timestamp": "2026-07-16T08:16:00Z",
+    "scrapedAt": "2026-07-16T09:06:36Z",
+    "address": "77A AVE & 143RD ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/77a-ave",
+      "surrey/143rd-st"
+    ],
+    "streetNames": [
+      "77a Ave",
+      "143rd St"
+    ],
+    "pulsePointId": "2520043094"
+  },
+  {
+    "id": "2026-07-16T06:54:00Z_surrey/108th-ave_surrey/142nd-st",
+    "timestamp": "2026-07-16T06:54:00Z",
+    "scrapedAt": "2026-07-16T09:06:36Z",
+    "address": "108TH AVE & 142ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/108th-ave",
+      "surrey/142nd-st"
+    ],
+    "streetNames": [
+      "108th Ave",
+      "142nd St"
+    ],
+    "pulsePointId": "2520015895"
+  },
+  {
     "id": "2026-07-16T04:44:00Z_vancouver/miller-st_vancouver/kingsway",
     "timestamp": "2026-07-16T04:44:00Z",
     "scrapedAt": "2026-07-16T06:41:39Z",
