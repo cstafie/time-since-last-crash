@@ -4,6 +4,21 @@
   "city": "New Westminster",
   "incidents": [
     {
+      "id": "2026-07-16T14:42:00Z_new-westminster/10th-st_new-westminster/royal-ave",
+      "timestamp": "2026-07-16T14:42:00Z",
+      "address": "10TH ST & ROYAL AVE",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/10th-st",
+        "new-westminster/royal-ave"
+      ],
+      "streetNames": [
+        "10th St",
+        "Royal Ave"
+      ],
+      "pulsePointId": "2520172317"
+    },
+    {
       "id": "2026-07-15T22:47:00Z_new-westminster/royal-ave_new-westminster/4th-st",
       "timestamp": "2026-07-15T22:47:00Z",
       "address": "ROYAL AVE & 4TH ST",
@@ -132,6 +147,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-15T22:47:00Z",
-  "count": 9
+  "lastIncident": "2026-07-16T14:42:00Z",
+  "count": 10
 }

@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-16T14:42:00Z_new-westminster/10th-st_new-westminster/royal-ave",
+    "timestamp": "2026-07-16T14:42:00Z",
+    "scrapedAt": "2026-07-16T14:51:47Z",
+    "address": "10TH ST & ROYAL AVE",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/10th-st",
+      "new-westminster/royal-ave"
+    ],
+    "streetNames": [
+      "10th St",
+      "Royal Ave"
+    ],
+    "pulsePointId": "2520172317"
+  },
+  {
     "id": "2026-07-16T08:16:00Z_surrey/77a-ave_surrey/143rd-st",
     "timestamp": "2026-07-16T08:16:00Z",
     "scrapedAt": "2026-07-16T09:06:36Z",
