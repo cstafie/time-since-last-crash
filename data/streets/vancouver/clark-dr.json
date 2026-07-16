@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-16T19:58:00Z_vancouver/clark-dr_vancouver/e-2nd-ave",
+      "timestamp": "2026-07-16T19:58:00Z",
+      "address": "CLARK DR & E 2ND AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/clark-dr",
+        "vancouver/e-2nd-ave"
+      ],
+      "streetNames": [
+        "Clark Dr",
+        "E 2nd Ave"
+      ],
+      "pulsePointId": "2520388942"
+    },
+    {
       "id": "2026-07-14T00:03:00Z_vancouver/e-hastings-st_vancouver/clark-dr",
       "timestamp": "2026-07-14T00:03:00Z",
       "address": "E HASTINGS ST & CLARK DR",
@@ -227,6 +242,6 @@
       "pulsePointId": "2438733768"
     }
   ],
-  "lastIncident": "2026-07-14T00:03:00Z",
-  "count": 15
+  "lastIncident": "2026-07-16T19:58:00Z",
+  "count": 16
 }

@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-07-16T19:58:00Z_vancouver/clark-dr_vancouver/e-2nd-ave",
+    "timestamp": "2026-07-16T19:58:00Z",
+    "scrapedAt": "2026-07-16T20:41:03Z",
+    "address": "CLARK DR & E 2ND AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/clark-dr",
+      "vancouver/e-2nd-ave"
+    ],
+    "streetNames": [
+      "Clark Dr",
+      "E 2nd Ave"
+    ],
+    "pulsePointId": "2520388942"
+  },
+  {
+    "id": "2026-07-16T19:56:00Z_coquitlam/anson-ave_coquitlam/westwood-st",
+    "timestamp": "2026-07-16T19:56:00Z",
+    "scrapedAt": "2026-07-16T20:41:03Z",
+    "address": "ANSON AVE & WESTWOOD ST",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/anson-ave",
+      "coquitlam/westwood-st"
+    ],
+    "streetNames": [
+      "Anson Ave",
+      "Westwood St"
+    ],
+    "pulsePointId": "2520386672"
+  },
+  {
     "id": "2026-07-16T19:39:00Z_langley/208th-st_langley/16th-ave",
     "timestamp": "2026-07-16T19:39:00Z",
     "scrapedAt": "2026-07-16T19:53:11Z",

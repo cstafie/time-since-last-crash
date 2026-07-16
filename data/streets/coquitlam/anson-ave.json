@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-07-16T19:56:00Z_coquitlam/anson-ave_coquitlam/westwood-st",
+      "timestamp": "2026-07-16T19:56:00Z",
+      "address": "ANSON AVE & WESTWOOD ST",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/anson-ave",
+        "coquitlam/westwood-st"
+      ],
+      "streetNames": [
+        "Anson Ave",
+        "Westwood St"
+      ],
+      "pulsePointId": "2520386672"
+    },
+    {
       "id": "2026-06-12T15:48:00Z_coquitlam/westwood-st_coquitlam/anson-ave",
       "timestamp": "2026-06-12T15:48:00Z",
       "address": "WESTWOOD ST & ANSON AVE",
@@ -19,6 +34,6 @@
       "pulsePointId": "2494872843"
     }
   ],
-  "lastIncident": "2026-06-12T15:48:00Z",
-  "count": 1
+  "lastIncident": "2026-07-16T19:56:00Z",
+  "count": 2
 }
