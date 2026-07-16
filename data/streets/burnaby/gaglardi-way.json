@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-16T01:06:00Z_burnaby/gaglardi-way_burnaby/broadway",
+      "timestamp": "2026-07-16T01:06:00Z",
+      "address": "GAGLARDI WAY & BROADWAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/gaglardi-way",
+        "burnaby/broadway"
+      ],
+      "streetNames": [
+        "Gaglardi Way",
+        "Broadway"
+      ],
+      "pulsePointId": "2519841337"
+    },
+    {
       "id": "2026-06-26T22:19:00Z_burnaby/broadway_burnaby/gaglardi-way",
       "timestamp": "2026-06-26T22:19:00Z",
       "address": "BROADWAY & GAGLARDI WAY",
@@ -88,6 +103,6 @@
       "pulsePointId": "2439039502"
     }
   ],
-  "lastIncident": "2026-06-26T22:19:00Z",
-  "count": 6
+  "lastIncident": "2026-07-16T01:06:00Z",
+  "count": 7
 }

@@ -1109,8 +1109,8 @@
     "name": "Downes Rd",
     "slug": "abbotsford/downes-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-28T21:00:00Z",
-    "count": 9
+    "lastIncident": "2026-07-15T23:49:00Z",
+    "count": 10
   },
   "coquitlam/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -1914,8 +1914,8 @@
     "name": "Clearbrook Rd",
     "slug": "abbotsford/clearbrook-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-15T01:59:00Z",
-    "count": 23
+    "lastIncident": "2026-07-15T23:49:00Z",
+    "count": 24
   },
   "abbotsford/maclure-rd": {
     "name": "Maclure Rd",
@@ -2187,8 +2187,8 @@
     "name": "Rupert St",
     "slug": "vancouver/rupert-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-13T19:10:00Z",
-    "count": 16
+    "lastIncident": "2026-07-16T00:33:00Z",
+    "count": 17
   },
   "vancouver/fir-st": {
     "name": "Fir St",
@@ -3314,8 +3314,8 @@
     "name": "Alderbridge Way",
     "slug": "richmond/alderbridge-way",
     "city": "Richmond",
-    "lastIncident": "2026-07-04T14:43:00Z",
-    "count": 10
+    "lastIncident": "2026-07-16T00:58:00Z",
+    "count": 11
   },
   "abbotsford/bateman-rd": {
     "name": "Bateman Rd",
@@ -3510,8 +3510,8 @@
     "name": "Golden Ears Way",
     "slug": "surrey/golden-ears-way",
     "city": "Surrey",
-    "lastIncident": "2026-07-15T03:25:00Z",
-    "count": 7
+    "lastIncident": "2026-07-16T00:35:00Z",
+    "count": 8
   },
   "surrey/144a-st": {
     "name": "144a St",
@@ -3531,8 +3531,8 @@
     "name": "Gaglardi Way",
     "slug": "burnaby/gaglardi-way",
     "city": "Burnaby",
-    "lastIncident": "2026-06-26T22:19:00Z",
-    "count": 6
+    "lastIncident": "2026-07-16T01:06:00Z",
+    "count": 7
   },
   "north-vancouver/w-3rd-st": {
     "name": "W 3rd St",
@@ -3671,8 +3671,8 @@
     "name": "Broadway",
     "slug": "burnaby/broadway",
     "city": "Burnaby",
-    "lastIncident": "2026-06-28T09:51:00Z",
-    "count": 7
+    "lastIncident": "2026-07-16T01:06:00Z",
+    "count": 8
   },
   "abbotsford/cottonwood-st": {
     "name": "Cottonwood St",
@@ -9222,8 +9222,8 @@
     "name": "Wellington Ave",
     "slug": "vancouver/wellington-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-18T21:17:00Z",
-    "count": 2
+    "lastIncident": "2026-07-16T00:33:00Z",
+    "count": 3
   },
   "vancouver/w-67th-ave": {
     "name": "W 67th Ave",
@@ -14291,6 +14291,13 @@
     "slug": "west-vancouver/taylor-way-ofrp",
     "city": "West Vancouver",
     "lastIncident": "2026-07-15T23:06:00Z",
+    "count": 1
+  },
+  "surrey/96th-avenue-conn": {
+    "name": "96th Avenue Conn",
+    "slug": "surrey/96th-avenue-conn",
+    "city": "Surrey",
+    "lastIncident": "2026-07-16T00:35:00Z",
     "count": 1
   }
 }

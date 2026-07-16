@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-15T23:49:00Z_abbotsford/downes-rd_abbotsford/clearbrook-rd",
+      "timestamp": "2026-07-15T23:49:00Z",
+      "address": "DOWNES RD & CLEARBROOK RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/downes-rd",
+        "abbotsford/clearbrook-rd"
+      ],
+      "streetNames": [
+        "Downes Rd",
+        "Clearbrook Rd"
+      ],
+      "pulsePointId": "2519787066"
+    },
+    {
       "id": "2026-07-15T01:59:00Z_abbotsford/clearbrook-rd_abbotsford/oak-ave",
       "timestamp": "2026-07-15T01:59:00Z",
       "address": "CLEARBROOK RD & OAK AVE",
@@ -341,6 +356,6 @@
       "pulsePointId": "2433749907"
     }
   ],
-  "lastIncident": "2026-07-15T01:59:00Z",
-  "count": 23
+  "lastIncident": "2026-07-15T23:49:00Z",
+  "count": 24
 }

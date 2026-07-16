@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-16T00:33:00Z_vancouver/wellington-ave_vancouver/rupert-st",
+      "timestamp": "2026-07-16T00:33:00Z",
+      "address": "WELLINGTON AVE & RUPERT ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/wellington-ave",
+        "vancouver/rupert-st"
+      ],
+      "streetNames": [
+        "Wellington Ave",
+        "Rupert St"
+      ],
+      "pulsePointId": "2519818673"
+    },
+    {
       "id": "2026-07-13T19:10:00Z_vancouver/rupert-st_vancouver/e-22nd-ave",
       "timestamp": "2026-07-13T19:10:00Z",
       "address": "RUPERT ST & E 22ND AVE",
@@ -240,6 +255,6 @@
       "pulsePointId": "2434824658"
     }
   ],
-  "lastIncident": "2026-07-13T19:10:00Z",
-  "count": 16
+  "lastIncident": "2026-07-16T00:33:00Z",
+  "count": 17
 }
