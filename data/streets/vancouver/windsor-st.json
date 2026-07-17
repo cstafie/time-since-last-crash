@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-17T00:41:00Z_vancouver/e-33rd-ave_vancouver/windsor-st",
+      "timestamp": "2026-07-17T00:41:00Z",
+      "address": "E 33RD AVE & WINDSOR ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-33rd-ave",
+        "vancouver/windsor-st"
+      ],
+      "streetNames": [
+        "E 33rd Ave",
+        "Windsor St"
+      ],
+      "pulsePointId": "2520594899"
+    },
+    {
       "id": "2026-07-02T23:38:00Z_vancouver/e-33rd-ave_vancouver/windsor-st",
       "timestamp": "2026-07-02T23:38:00Z",
       "address": "E 33RD AVE & WINDSOR ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2468108723"
     }
   ],
-  "lastIncident": "2026-07-02T23:38:00Z",
-  "count": 2
+  "lastIncident": "2026-07-17T00:41:00Z",
+  "count": 3
 }

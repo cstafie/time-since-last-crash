@@ -164,8 +164,8 @@
     "name": "United Blvd",
     "slug": "coquitlam/united-blvd",
     "city": "Coquitlam",
-    "lastIncident": "2026-07-03T16:56:00Z",
-    "count": 4
+    "lastIncident": "2026-07-17T00:31:00Z",
+    "count": 5
   },
   "delta/112th-st": {
     "name": "112th St",
@@ -682,8 +682,8 @@
     "name": "Trans Canada Hwy",
     "slug": "surrey/trans-canada-hwy",
     "city": "Surrey",
-    "lastIncident": "2026-07-11T17:37:00Z",
-    "count": 29
+    "lastIncident": "2026-07-16T23:42:00Z",
+    "count": 30
   },
   "vancouver/balaclava-st": {
     "name": "Balaclava St",
@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-16T22:55:00Z",
-    "count": 63
+    "lastIncident": "2026-07-17T00:10:00Z",
+    "count": 64
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -1018,8 +1018,8 @@
     "name": "Lougheed Hwy Onrp",
     "slug": "coquitlam/lougheed-hwy-onrp",
     "city": "Coquitlam",
-    "lastIncident": "2026-03-10T22:14:00Z",
-    "count": 1
+    "lastIncident": "2026-07-17T00:31:00Z",
+    "count": 2
   },
   "coquitlam/united-boulevard-ofrp": {
     "name": "United Boulevard Ofrp",
@@ -1956,8 +1956,8 @@
     "name": "W 16th Ave",
     "slug": "vancouver/w-16th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-18T23:10:00Z",
-    "count": 12
+    "lastIncident": "2026-07-16T23:49:00Z",
+    "count": 13
   },
   "vancouver/dunbar-st": {
     "name": "Dunbar St",
@@ -3937,8 +3937,8 @@
     "name": "E 33rd Ave",
     "slug": "vancouver/e-33rd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-10T00:05:00Z",
-    "count": 11
+    "lastIncident": "2026-07-17T00:41:00Z",
+    "count": 12
   },
   "surrey/university-dr": {
     "name": "University Dr",
@@ -5162,8 +5162,8 @@
     "name": "Salisbury Ave",
     "slug": "burnaby/salisbury-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-04-03T03:16:00Z",
-    "count": 1
+    "lastIncident": "2026-07-17T00:40:00Z",
+    "count": 2
   },
   "burnaby/arcola-way": {
     "name": "Arcola Way",
@@ -8613,8 +8613,8 @@
     "name": "Edmonds St",
     "slug": "burnaby/edmonds-st",
     "city": "Burnaby",
-    "lastIncident": "2026-07-06T19:33:00Z",
-    "count": 2
+    "lastIncident": "2026-07-17T00:40:00Z",
+    "count": 3
   },
   "langley/willowbrook-dr": {
     "name": "Willowbrook Dr",
@@ -8928,8 +8928,8 @@
     "name": "Windsor St",
     "slug": "vancouver/windsor-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-02T23:38:00Z",
-    "count": 2
+    "lastIncident": "2026-07-17T00:41:00Z",
+    "count": 3
   },
   "vancouver/carolina-st": {
     "name": "Carolina St",

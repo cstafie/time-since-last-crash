@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-07-17T00:31:00Z_coquitlam/united-blvd_coquitlam/lougheed-hwy-onrp",
+      "timestamp": "2026-07-17T00:31:00Z",
+      "address": "UNITED BLVD & LOUGHEED HWY ONRP",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/united-blvd",
+        "coquitlam/lougheed-hwy-onrp"
+      ],
+      "streetNames": [
+        "United Blvd",
+        "Lougheed Hwy Onrp"
+      ],
+      "pulsePointId": "2520587933"
+    },
+    {
       "id": "2026-07-03T16:56:00Z_coquitlam/golden-dr_coquitlam/united-blvd",
       "timestamp": "2026-07-03T16:56:00Z",
       "address": "GOLDEN DR & UNITED BLVD",
@@ -61,6 +76,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-03T16:56:00Z",
-  "count": 4
+  "lastIncident": "2026-07-17T00:31:00Z",
+  "count": 5
 }

@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-17T00:40:00Z_burnaby/salisbury-ave_burnaby/edmonds-st",
+      "timestamp": "2026-07-17T00:40:00Z",
+      "address": "SALISBURY AVE & EDMONDS ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/salisbury-ave",
+        "burnaby/edmonds-st"
+      ],
+      "streetNames": [
+        "Salisbury Ave",
+        "Edmonds St"
+      ],
+      "pulsePointId": "2520593439"
+    },
+    {
       "id": "2026-07-06T19:33:00Z_burnaby/edmonds-st_burnaby/griffiths-dr",
       "timestamp": "2026-07-06T19:33:00Z",
       "address": "EDMONDS ST & GRIFFITHS DR",
@@ -34,6 +49,6 @@
       "pulsePointId": "2466649476"
     }
   ],
-  "lastIncident": "2026-07-06T19:33:00Z",
-  "count": 2
+  "lastIncident": "2026-07-17T00:40:00Z",
+  "count": 3
 }

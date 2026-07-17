@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-07-17T00:41:00Z_vancouver/e-33rd-ave_vancouver/windsor-st",
+    "timestamp": "2026-07-17T00:41:00Z",
+    "scrapedAt": "2026-07-17T01:19:03Z",
+    "address": "E 33RD AVE & WINDSOR ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-33rd-ave",
+      "vancouver/windsor-st"
+    ],
+    "streetNames": [
+      "E 33rd Ave",
+      "Windsor St"
+    ],
+    "pulsePointId": "2520594899"
+  },
+  {
+    "id": "2026-07-17T00:40:00Z_burnaby/salisbury-ave_burnaby/edmonds-st",
+    "timestamp": "2026-07-17T00:40:00Z",
+    "scrapedAt": "2026-07-17T01:19:03Z",
+    "address": "SALISBURY AVE & EDMONDS ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/salisbury-ave",
+      "burnaby/edmonds-st"
+    ],
+    "streetNames": [
+      "Salisbury Ave",
+      "Edmonds St"
+    ],
+    "pulsePointId": "2520593439"
+  },
+  {
+    "id": "2026-07-17T00:31:00Z_coquitlam/united-blvd_coquitlam/lougheed-hwy-onrp",
+    "timestamp": "2026-07-17T00:31:00Z",
+    "scrapedAt": "2026-07-17T01:19:03Z",
+    "address": "UNITED BLVD & LOUGHEED HWY ONRP",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/united-blvd",
+      "coquitlam/lougheed-hwy-onrp"
+    ],
+    "streetNames": [
+      "United Blvd",
+      "Lougheed Hwy Onrp"
+    ],
+    "pulsePointId": "2520587933"
+  },
+  {
+    "id": "2026-07-17T00:10:00Z_vancouver/granville-st",
+    "timestamp": "2026-07-17T00:10:00Z",
+    "scrapedAt": "2026-07-17T01:19:03Z",
+    "address": "GRANVILLE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st"
+    ],
+    "streetNames": [
+      "Granville St"
+    ],
+    "pulsePointId": "2520573960"
+  },
+  {
+    "id": "2026-07-16T23:49:00Z_vancouver/w-16th-ave",
+    "timestamp": "2026-07-16T23:49:00Z",
+    "scrapedAt": "2026-07-17T01:19:03Z",
+    "address": "W 16TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-16th-ave"
+    ],
+    "streetNames": [
+      "W 16th Ave"
+    ],
+    "pulsePointId": "2520558601"
+  },
+  {
+    "id": "2026-07-16T23:42:00Z_surrey/trans-canada-hwy",
+    "timestamp": "2026-07-16T23:42:00Z",
+    "scrapedAt": "2026-07-17T01:19:03Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2520555061"
+  },
+  {
     "id": "2026-07-16T23:40:00Z_abbotsford/ware-st_abbotsford/george-ferguson-way",
     "timestamp": "2026-07-16T23:40:00Z",
     "scrapedAt": "2026-07-16T23:44:34Z",
