@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-17T23:08:00Z_vancouver/dunsmuir-st_vancouver/burrard-st",
+      "timestamp": "2026-07-17T23:08:00Z",
+      "address": "DUNSMUIR ST & BURRARD ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/dunsmuir-st",
+        "vancouver/burrard-st"
+      ],
+      "streetNames": [
+        "Dunsmuir St",
+        "Burrard St"
+      ],
+      "pulsePointId": "2521267786"
+    },
+    {
       "id": "2026-06-09T22:00:00Z_vancouver/dunsmuir-st_vancouver/beatty-st",
       "timestamp": "2026-06-09T22:00:00Z",
       "address": "DUNSMUIR ST & BEATTY ST",
@@ -79,6 +94,6 @@
       "pulsePointId": "2449984202"
     }
   ],
-  "lastIncident": "2026-06-09T22:00:00Z",
-  "count": 5
+  "lastIncident": "2026-07-17T23:08:00Z",
+  "count": 6
 }

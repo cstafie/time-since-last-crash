@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-17T23:08:00Z_vancouver/dunsmuir-st_vancouver/burrard-st",
+      "timestamp": "2026-07-17T23:08:00Z",
+      "address": "DUNSMUIR ST & BURRARD ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/dunsmuir-st",
+        "vancouver/burrard-st"
+      ],
+      "streetNames": [
+        "Dunsmuir St",
+        "Burrard St"
+      ],
+      "pulsePointId": "2521267786"
+    },
+    {
       "id": "2026-07-12T03:40:00Z_vancouver/w-12th-ave_vancouver/burrard-st",
       "timestamp": "2026-07-12T03:40:00Z",
       "address": "W 12TH AVE & BURRARD ST",
@@ -256,6 +271,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-12T03:40:00Z",
-  "count": 17
+  "lastIncident": "2026-07-17T23:08:00Z",
+  "count": 18
 }

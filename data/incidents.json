@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-07-17T23:08:00Z_vancouver/dunsmuir-st_vancouver/burrard-st",
+    "timestamp": "2026-07-17T23:08:00Z",
+    "scrapedAt": "2026-07-17T23:39:17Z",
+    "address": "DUNSMUIR ST & BURRARD ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/dunsmuir-st",
+      "vancouver/burrard-st"
+    ],
+    "streetNames": [
+      "Dunsmuir St",
+      "Burrard St"
+    ],
+    "pulsePointId": "2521267786"
+  },
+  {
+    "id": "2026-07-17T22:38:00Z_abbotsford/3122-mt-lehman-rd",
+    "timestamp": "2026-07-17T22:38:00Z",
+    "scrapedAt": "2026-07-17T23:39:17Z",
+    "address": "3122 MT LEHMAN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/3122-mt-lehman-rd"
+    ],
+    "streetNames": [
+      "3122 Mt Lehman Rd"
+    ],
+    "pulsePointId": "2521247488"
+  },
+  {
     "id": "2026-07-17T22:07:00Z_delta/hwy-91-conn-ofrp_delta/hwy-17",
     "timestamp": "2026-07-17T22:07:00Z",
     "scrapedAt": "2026-07-17T22:35:59Z",
