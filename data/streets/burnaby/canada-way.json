@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-17T14:32:00Z_burnaby/canada-way_burnaby/hazelmere-st",
+      "timestamp": "2026-07-17T14:32:00Z",
+      "address": "CANADA WAY & HAZELMERE ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/canada-way",
+        "burnaby/hazelmere-st"
+      ],
+      "streetNames": [
+        "Canada Way",
+        "Hazelmere St"
+      ],
+      "pulsePointId": "2520922688"
+    },
+    {
       "id": "2026-07-10T22:31:00Z_burnaby/canada-way_burnaby/norland-ave",
       "timestamp": "2026-07-10T22:31:00Z",
       "address": "CANADA WAY & NORLAND AVE",
@@ -430,6 +445,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-10T22:31:00Z",
-  "count": 29
+  "lastIncident": "2026-07-17T14:32:00Z",
+  "count": 30
 }

@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/hazelmere-st",
+  "name": "Hazelmere St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-07-17T14:32:00Z_burnaby/canada-way_burnaby/hazelmere-st",
+      "timestamp": "2026-07-17T14:32:00Z",
+      "address": "CANADA WAY & HAZELMERE ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/canada-way",
+        "burnaby/hazelmere-st"
+      ],
+      "streetNames": [
+        "Canada Way",
+        "Hazelmere St"
+      ],
+      "pulsePointId": "2520922688"
+    }
+  ],
+  "lastIncident": "2026-07-17T14:32:00Z",
+  "count": 1
+}

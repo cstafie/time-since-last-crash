@@ -1130,8 +1130,8 @@
     "name": "Canada Way",
     "slug": "burnaby/canada-way",
     "city": "Burnaby",
-    "lastIncident": "2026-07-10T22:31:00Z",
-    "count": 29
+    "lastIncident": "2026-07-17T14:32:00Z",
+    "count": 30
   },
   "burnaby/norland-ave": {
     "name": "Norland Ave",
@@ -1333,8 +1333,8 @@
     "name": "Trans Canada Hwy",
     "slug": "vancouver/trans-canada-hwy",
     "city": "Vancouver",
-    "lastIncident": "2026-06-24T00:53:00Z",
-    "count": 13
+    "lastIncident": "2026-07-17T15:05:00Z",
+    "count": 14
   },
   "burnaby/kensington-ave": {
     "name": "Kensington Ave",
@@ -14361,6 +14361,13 @@
     "slug": "maple-ridge/lorne-ave",
     "city": "Maple Ridge",
     "lastIncident": "2026-07-17T07:01:00Z",
+    "count": 1
+  },
+  "burnaby/hazelmere-st": {
+    "name": "Hazelmere St",
+    "slug": "burnaby/hazelmere-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-07-17T14:32:00Z",
     "count": 1
   }
 }
