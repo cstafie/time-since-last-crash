@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-17T02:36:00Z_vancouver/e-cordova-st_vancouver/princess-ave",
+      "timestamp": "2026-07-17T02:36:00Z",
+      "address": "E CORDOVA ST & PRINCESS AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-cordova-st",
+        "vancouver/princess-ave"
+      ],
+      "streetNames": [
+        "E Cordova St",
+        "Princess Ave"
+      ],
+      "pulsePointId": "2520665448"
+    },
+    {
       "id": "2026-06-16T01:50:00Z_vancouver/e-cordova-st",
       "timestamp": "2026-06-16T01:50:00Z",
       "address": "E CORDOVA ST",
@@ -118,6 +133,6 @@
       "pulsePointId": "2441206189"
     }
   ],
-  "lastIncident": "2026-06-16T01:50:00Z",
-  "count": 8
+  "lastIncident": "2026-07-17T02:36:00Z",
+  "count": 9
 }

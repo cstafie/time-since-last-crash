@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-17T03:40:00Z_vancouver/main-st_vancouver/e-17th-ave",
+      "timestamp": "2026-07-17T03:40:00Z",
+      "address": "MAIN ST & E 17TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/main-st",
+        "vancouver/e-17th-ave"
+      ],
+      "streetNames": [
+        "Main St",
+        "E 17th Ave"
+      ],
+      "pulsePointId": "2520699621"
+    },
+    {
       "id": "2026-07-13T19:45:00Z_vancouver/e-3rd-ave_vancouver/main-st",
       "timestamp": "2026-07-13T19:45:00Z",
       "address": "E 3RD AVE & MAIN ST",
@@ -813,6 +828,6 @@
       "pulsePointId": "2432937969"
     }
   ],
-  "lastIncident": "2026-07-13T19:45:00Z",
-  "count": 55
+  "lastIncident": "2026-07-17T03:40:00Z",
+  "count": 56
 }

@@ -1,5 +1,133 @@
 [
   {
+    "id": "2026-07-17T03:50:00Z_abbotsford/clearbrook-rd_abbotsford/south-fraser-way",
+    "timestamp": "2026-07-17T03:50:00Z",
+    "scrapedAt": "2026-07-17T04:31:17Z",
+    "address": "CLEARBROOK RD & SOUTH FRASER WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/clearbrook-rd",
+      "abbotsford/south-fraser-way"
+    ],
+    "streetNames": [
+      "Clearbrook Rd",
+      "South Fraser Way"
+    ],
+    "pulsePointId": "2520703441"
+  },
+  {
+    "id": "2026-07-17T03:46:00Z_vancouver/elliott-st_vancouver/e-49th-ave",
+    "timestamp": "2026-07-17T03:46:00Z",
+    "scrapedAt": "2026-07-17T04:31:17Z",
+    "address": "ELLIOTT ST & E 49TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/elliott-st",
+      "vancouver/e-49th-ave"
+    ],
+    "streetNames": [
+      "Elliott St",
+      "E 49th Ave"
+    ],
+    "pulsePointId": "2520701947"
+  },
+  {
+    "id": "2026-07-17T03:40:00Z_vancouver/main-st_vancouver/e-17th-ave",
+    "timestamp": "2026-07-17T03:40:00Z",
+    "scrapedAt": "2026-07-17T04:31:17Z",
+    "address": "MAIN ST & E 17TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st",
+      "vancouver/e-17th-ave"
+    ],
+    "streetNames": [
+      "Main St",
+      "E 17th Ave"
+    ],
+    "pulsePointId": "2520699621"
+  },
+  {
+    "id": "2026-07-17T02:36:00Z_vancouver/e-cordova-st_vancouver/princess-ave",
+    "timestamp": "2026-07-17T02:36:00Z",
+    "scrapedAt": "2026-07-17T04:31:17Z",
+    "address": "E CORDOVA ST & PRINCESS AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-cordova-st",
+      "vancouver/princess-ave"
+    ],
+    "streetNames": [
+      "E Cordova St",
+      "Princess Ave"
+    ],
+    "pulsePointId": "2520665448"
+  },
+  {
+    "id": "2026-07-17T02:27:00Z_burnaby/14th-ave_burnaby/15th-st",
+    "timestamp": "2026-07-17T02:27:00Z",
+    "scrapedAt": "2026-07-17T04:31:17Z",
+    "address": "14TH AVE & 15TH ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/14th-ave",
+      "burnaby/15th-st"
+    ],
+    "streetNames": [
+      "14th Ave",
+      "15th St"
+    ],
+    "pulsePointId": "2520661059"
+  },
+  {
+    "id": "2026-07-17T01:39:00Z_vancouver/e-49th-ave_vancouver/boundary-rd",
+    "timestamp": "2026-07-17T01:39:00Z",
+    "scrapedAt": "2026-07-17T04:31:17Z",
+    "address": "E 49TH AVE & BOUNDARY RD",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-49th-ave",
+      "vancouver/boundary-rd"
+    ],
+    "streetNames": [
+      "E 49th Ave",
+      "Boundary Rd"
+    ],
+    "pulsePointId": "2520630798"
+  },
+  {
+    "id": "2026-07-17T01:33:00Z_vancouver/w-georgia-st_vancouver/denman-st",
+    "timestamp": "2026-07-17T01:33:00Z",
+    "scrapedAt": "2026-07-17T04:31:17Z",
+    "address": "W GEORGIA ST & DENMAN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-georgia-st",
+      "vancouver/denman-st"
+    ],
+    "streetNames": [
+      "W Georgia St",
+      "Denman St"
+    ],
+    "pulsePointId": "2520628957"
+  },
+  {
+    "id": "2026-07-17T01:29:00Z_surrey/99th-ave_surrey/121st-st",
+    "timestamp": "2026-07-17T01:29:00Z",
+    "scrapedAt": "2026-07-17T04:31:17Z",
+    "address": "99TH AVE & 121ST ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/99th-ave",
+      "surrey/121st-st"
+    ],
+    "streetNames": [
+      "99th Ave",
+      "121st St"
+    ],
+    "pulsePointId": "2520624364"
+  },
+  {
     "id": "2026-07-17T00:41:00Z_vancouver/e-33rd-ave_vancouver/windsor-st",
     "timestamp": "2026-07-17T00:41:00Z",
     "scrapedAt": "2026-07-17T01:19:03Z",

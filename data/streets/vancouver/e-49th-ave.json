@@ -4,6 +4,36 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-17T03:46:00Z_vancouver/elliott-st_vancouver/e-49th-ave",
+      "timestamp": "2026-07-17T03:46:00Z",
+      "address": "ELLIOTT ST & E 49TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/elliott-st",
+        "vancouver/e-49th-ave"
+      ],
+      "streetNames": [
+        "Elliott St",
+        "E 49th Ave"
+      ],
+      "pulsePointId": "2520701947"
+    },
+    {
+      "id": "2026-07-17T01:39:00Z_vancouver/e-49th-ave_vancouver/boundary-rd",
+      "timestamp": "2026-07-17T01:39:00Z",
+      "address": "E 49TH AVE & BOUNDARY RD",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-49th-ave",
+        "vancouver/boundary-rd"
+      ],
+      "streetNames": [
+        "E 49th Ave",
+        "Boundary Rd"
+      ],
+      "pulsePointId": "2520630798"
+    },
+    {
       "id": "2026-07-15T23:15:00Z_vancouver/e-49th-ave_vancouver/inverness-st",
       "timestamp": "2026-07-15T23:15:00Z",
       "address": "E 49TH AVE & INVERNESS ST",
@@ -356,6 +386,6 @@
       "pulsePointId": "2437375979"
     }
   ],
-  "lastIncident": "2026-07-15T23:15:00Z",
-  "count": 24
+  "lastIncident": "2026-07-17T03:46:00Z",
+  "count": 26
 }

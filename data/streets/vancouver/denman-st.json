@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-17T01:33:00Z_vancouver/w-georgia-st_vancouver/denman-st",
+      "timestamp": "2026-07-17T01:33:00Z",
+      "address": "W GEORGIA ST & DENMAN ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-georgia-st",
+        "vancouver/denman-st"
+      ],
+      "streetNames": [
+        "W Georgia St",
+        "Denman St"
+      ],
+      "pulsePointId": "2520628957"
+    },
+    {
       "id": "2026-04-26T08:36:00Z_vancouver/w-georgia-st_vancouver/denman-st",
       "timestamp": "2026-04-26T08:36:00Z",
       "address": "W GEORGIA ST & DENMAN ST",
@@ -79,6 +94,6 @@
       "pulsePointId": "2434983078"
     }
   ],
-  "lastIncident": "2026-04-26T08:36:00Z",
-  "count": 5
+  "lastIncident": "2026-07-17T01:33:00Z",
+  "count": 6
 }

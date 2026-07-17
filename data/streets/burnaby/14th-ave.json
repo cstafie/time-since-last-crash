@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-17T02:27:00Z_burnaby/14th-ave_burnaby/15th-st",
+      "timestamp": "2026-07-17T02:27:00Z",
+      "address": "14TH AVE & 15TH ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/14th-ave",
+        "burnaby/15th-st"
+      ],
+      "streetNames": [
+        "14th Ave",
+        "15th St"
+      ],
+      "pulsePointId": "2520661059"
+    },
+    {
       "id": "2026-06-26T22:23:00Z_burnaby/canada-way_burnaby/14th-ave",
       "timestamp": "2026-06-26T22:23:00Z",
       "address": "CANADA WAY & 14TH AVE",
@@ -60,6 +75,6 @@
       "pulsePointId": "2443959704"
     }
   ],
-  "lastIncident": "2026-06-26T22:23:00Z",
-  "count": 4
+  "lastIncident": "2026-07-17T02:27:00Z",
+  "count": 5
 }
