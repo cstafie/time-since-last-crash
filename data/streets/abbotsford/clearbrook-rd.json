@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-17T12:23:00Z_abbotsford/clearbrook-rd_abbotsford/old-yale-rd",
+      "timestamp": "2026-07-17T12:23:00Z",
+      "address": "CLEARBROOK RD & OLD YALE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/clearbrook-rd",
+        "abbotsford/old-yale-rd"
+      ],
+      "streetNames": [
+        "Clearbrook Rd",
+        "Old Yale Rd"
+      ],
+      "pulsePointId": "2520869799"
+    },
+    {
       "id": "2026-07-17T03:50:00Z_abbotsford/clearbrook-rd_abbotsford/south-fraser-way",
       "timestamp": "2026-07-17T03:50:00Z",
       "address": "CLEARBROOK RD & SOUTH FRASER WAY",
@@ -371,6 +386,6 @@
       "pulsePointId": "2433749907"
     }
   ],
-  "lastIncident": "2026-07-17T03:50:00Z",
-  "count": 25
+  "lastIncident": "2026-07-17T12:23:00Z",
+  "count": 26
 }

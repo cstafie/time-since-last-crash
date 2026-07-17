@@ -52,8 +52,8 @@
     "name": "Deer Lake Pkwy",
     "slug": "burnaby/deer-lake-pkwy",
     "city": "Burnaby",
-    "lastIncident": "2026-06-23T00:05:00Z",
-    "count": 5
+    "lastIncident": "2026-07-17T14:04:00Z",
+    "count": 6
   },
   "burnaby/garden-grove-dr": {
     "name": "Garden Grove Dr",
@@ -556,8 +556,8 @@
     "name": "140th St",
     "slug": "surrey/140th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-10T15:33:00Z",
-    "count": 41
+    "lastIncident": "2026-07-17T12:50:00Z",
+    "count": 42
   },
   "surrey/141a-st": {
     "name": "141a St",
@@ -647,8 +647,8 @@
     "name": "96th Ave",
     "slug": "surrey/96th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-13T22:15:00Z",
-    "count": 40
+    "lastIncident": "2026-07-17T12:50:00Z",
+    "count": 41
   },
   "surrey/bolivar-rd": {
     "name": "Bolivar Rd",
@@ -1690,8 +1690,8 @@
     "name": "Old Yale Rd",
     "slug": "abbotsford/old-yale-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-04T14:39:00Z",
-    "count": 11
+    "lastIncident": "2026-07-17T12:23:00Z",
+    "count": 12
   },
   "vancouver/inverness-st": {
     "name": "Inverness St",
@@ -1914,8 +1914,8 @@
     "name": "Clearbrook Rd",
     "slug": "abbotsford/clearbrook-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-17T03:50:00Z",
-    "count": 25
+    "lastIncident": "2026-07-17T12:23:00Z",
+    "count": 26
   },
   "abbotsford/maclure-rd": {
     "name": "Maclure Rd",

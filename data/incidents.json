@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-07-17T14:04:00Z_burnaby/deer-lake-pkwy",
+    "timestamp": "2026-07-17T14:04:00Z",
+    "scrapedAt": "2026-07-17T14:09:11Z",
+    "address": "DEER LAKE PKWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/deer-lake-pkwy"
+    ],
+    "streetNames": [
+      "Deer Lake Pkwy"
+    ],
+    "pulsePointId": "2520908723"
+  },
+  {
+    "id": "2026-07-17T12:50:00Z_surrey/96th-ave_surrey/140th-st",
+    "timestamp": "2026-07-17T12:50:00Z",
+    "scrapedAt": "2026-07-17T14:09:11Z",
+    "address": "96TH AVE & 140TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/96th-ave",
+      "surrey/140th-st"
+    ],
+    "streetNames": [
+      "96th Ave",
+      "140th St"
+    ],
+    "pulsePointId": "2520879080"
+  },
+  {
+    "id": "2026-07-17T12:23:00Z_abbotsford/clearbrook-rd_abbotsford/old-yale-rd",
+    "timestamp": "2026-07-17T12:23:00Z",
+    "scrapedAt": "2026-07-17T14:09:11Z",
+    "address": "CLEARBROOK RD & OLD YALE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/clearbrook-rd",
+      "abbotsford/old-yale-rd"
+    ],
+    "streetNames": [
+      "Clearbrook Rd",
+      "Old Yale Rd"
+    ],
+    "pulsePointId": "2520869799"
+  },
+  {
     "id": "2026-07-17T07:01:00Z_maple-ridge/maple-cres_maple-ridge/lorne-ave",
     "timestamp": "2026-07-17T07:01:00Z",
     "scrapedAt": "2026-07-17T07:06:46Z",

@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-17T12:50:00Z_surrey/96th-ave_surrey/140th-st",
+      "timestamp": "2026-07-17T12:50:00Z",
+      "address": "96TH AVE & 140TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/96th-ave",
+        "surrey/140th-st"
+      ],
+      "streetNames": [
+        "96th Ave",
+        "140th St"
+      ],
+      "pulsePointId": "2520879080"
+    },
+    {
       "id": "2026-07-13T22:15:00Z_surrey/96th-ave",
       "timestamp": "2026-07-13T22:15:00Z",
       "address": "96TH AVE",
@@ -591,6 +606,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-13T22:15:00Z",
-  "count": 40
+  "lastIncident": "2026-07-17T12:50:00Z",
+  "count": 41
 }

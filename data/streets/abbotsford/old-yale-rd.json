@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-17T12:23:00Z_abbotsford/clearbrook-rd_abbotsford/old-yale-rd",
+      "timestamp": "2026-07-17T12:23:00Z",
+      "address": "CLEARBROOK RD & OLD YALE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/clearbrook-rd",
+        "abbotsford/old-yale-rd"
+      ],
+      "streetNames": [
+        "Clearbrook Rd",
+        "Old Yale Rd"
+      ],
+      "pulsePointId": "2520869799"
+    },
+    {
       "id": "2026-07-04T14:39:00Z_abbotsford/old-yale-rd_abbotsford/mcadam-rd",
       "timestamp": "2026-07-04T14:39:00Z",
       "address": "OLD YALE RD & MCADAM RD",
@@ -169,6 +184,6 @@
       "pulsePointId": "2432971315"
     }
   ],
-  "lastIncident": "2026-07-04T14:39:00Z",
-  "count": 11
+  "lastIncident": "2026-07-17T12:23:00Z",
+  "count": 12
 }
