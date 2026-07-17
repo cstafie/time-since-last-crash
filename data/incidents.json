@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-17T19:08:00Z_vancouver/oak-st_vancouver/w-33rd-ave",
+    "timestamp": "2026-07-17T19:08:00Z",
+    "scrapedAt": "2026-07-17T19:55:04Z",
+    "address": "OAK ST & W 33RD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/oak-st",
+      "vancouver/w-33rd-ave"
+    ],
+    "streetNames": [
+      "Oak St",
+      "W 33rd Ave"
+    ],
+    "pulsePointId": "2521097948"
+  },
+  {
     "id": "2026-07-17T17:38:00Z_coquitlam/lougheed-hwy_coquitlam/bernatchey-st",
     "timestamp": "2026-07-17T17:38:00Z",
     "scrapedAt": "2026-07-17T17:54:00Z",
