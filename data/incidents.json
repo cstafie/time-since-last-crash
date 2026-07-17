@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-07-17T07:01:00Z_maple-ridge/maple-cres_maple-ridge/lorne-ave",
+    "timestamp": "2026-07-17T07:01:00Z",
+    "scrapedAt": "2026-07-17T07:06:46Z",
+    "address": "MAPLE CRES & LORNE AVE",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/maple-cres",
+      "maple-ridge/lorne-ave"
+    ],
+    "streetNames": [
+      "Maple Cres",
+      "Lorne Ave"
+    ],
+    "pulsePointId": "2520782949"
+  },
+  {
+    "id": "2026-07-17T05:43:00Z_surrey/144th-st_surrey/108th-ave",
+    "timestamp": "2026-07-17T05:43:00Z",
+    "scrapedAt": "2026-07-17T07:06:46Z",
+    "address": "144TH ST & 108TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/144th-st",
+      "surrey/108th-ave"
+    ],
+    "streetNames": [
+      "144th St",
+      "108th Ave"
+    ],
+    "pulsePointId": "2520757422"
+  },
+  {
+    "id": "2026-07-17T05:19:00Z_surrey/16th-ave_surrey/176th-st",
+    "timestamp": "2026-07-17T05:19:00Z",
+    "scrapedAt": "2026-07-17T07:06:46Z",
+    "address": "16TH AVE & 176TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/16th-ave",
+      "surrey/176th-st"
+    ],
+    "streetNames": [
+      "16th Ave",
+      "176th St"
+    ],
+    "pulsePointId": "2520746809"
+  },
+  {
     "id": "2026-07-17T03:50:00Z_abbotsford/clearbrook-rd_abbotsford/south-fraser-way",
     "timestamp": "2026-07-17T03:50:00Z",
     "scrapedAt": "2026-07-17T04:31:17Z",

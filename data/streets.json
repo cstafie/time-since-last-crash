@@ -521,8 +521,8 @@
     "name": "108th Ave",
     "slug": "surrey/108th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-16T06:54:00Z",
-    "count": 32
+    "lastIncident": "2026-07-17T05:43:00Z",
+    "count": 33
   },
   "surrey/124th-st": {
     "name": "124th St",
@@ -584,8 +584,8 @@
     "name": "16th Ave",
     "slug": "surrey/16th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-10T01:45:00Z",
-    "count": 17
+    "lastIncident": "2026-07-17T05:19:00Z",
+    "count": 18
   },
   "surrey/63a-ave": {
     "name": "63a Ave",
@@ -885,8 +885,8 @@
     "name": "176th St",
     "slug": "surrey/176th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-15T14:36:00Z",
-    "count": 48
+    "lastIncident": "2026-07-17T05:19:00Z",
+    "count": 49
   },
   "surrey/100th-ave": {
     "name": "100th Ave",
@@ -1501,8 +1501,8 @@
     "name": "144th St",
     "slug": "surrey/144th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-15T22:38:00Z",
-    "count": 45
+    "lastIncident": "2026-07-17T05:43:00Z",
+    "count": 46
   },
   "north-vancouver/seymour-blvd": {
     "name": "Seymour Blvd",
@@ -4931,8 +4931,8 @@
     "name": "Maple Cres",
     "slug": "maple-ridge/maple-cres",
     "city": "Maple Ridge",
-    "lastIncident": "2026-05-26T23:27:00Z",
-    "count": 2
+    "lastIncident": "2026-07-17T07:01:00Z",
+    "count": 3
   },
   "langley/77a-ave": {
     "name": "77a Ave",
@@ -14354,6 +14354,13 @@
     "slug": "surrey/99th-ave",
     "city": "Surrey",
     "lastIncident": "2026-07-17T01:29:00Z",
+    "count": 1
+  },
+  "maple-ridge/lorne-ave": {
+    "name": "Lorne Ave",
+    "slug": "maple-ridge/lorne-ave",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-07-17T07:01:00Z",
     "count": 1
   }
 }

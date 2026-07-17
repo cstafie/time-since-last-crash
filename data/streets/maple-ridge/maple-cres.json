@@ -4,6 +4,21 @@
   "city": "Maple Ridge",
   "incidents": [
     {
+      "id": "2026-07-17T07:01:00Z_maple-ridge/maple-cres_maple-ridge/lorne-ave",
+      "timestamp": "2026-07-17T07:01:00Z",
+      "address": "MAPLE CRES & LORNE AVE",
+      "city": "Maple Ridge",
+      "streets": [
+        "maple-ridge/maple-cres",
+        "maple-ridge/lorne-ave"
+      ],
+      "streetNames": [
+        "Maple Cres",
+        "Lorne Ave"
+      ],
+      "pulsePointId": "2520782949"
+    },
+    {
       "id": "2026-05-26T23:27:00Z_maple-ridge/maple-cres_maple-ridge/113b-ave",
       "timestamp": "2026-05-26T23:27:00Z",
       "address": "MAPLE CRES & 113B AVE",
@@ -32,6 +47,6 @@
       "pulsePointId": "2446079782"
     }
   ],
-  "lastIncident": "2026-05-26T23:27:00Z",
-  "count": 2
+  "lastIncident": "2026-07-17T07:01:00Z",
+  "count": 3
 }
