@@ -1,0 +1,24 @@
+{
+  "slug": "delta/hwy-91-conn-ofrp",
+  "name": "Hwy 91 Conn Ofrp",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-07-17T22:07:00Z_delta/hwy-91-conn-ofrp_delta/hwy-17",
+      "timestamp": "2026-07-17T22:07:00Z",
+      "address": "HWY 91 CONN OFRP & HWY 17",
+      "city": "Delta",
+      "streets": [
+        "delta/hwy-91-conn-ofrp",
+        "delta/hwy-17"
+      ],
+      "streetNames": [
+        "Hwy 91 Conn Ofrp",
+        "Hwy 17"
+      ],
+      "pulsePointId": "2521224918"
+    }
+  ],
+  "lastIncident": "2026-07-17T22:07:00Z",
+  "count": 1
+}

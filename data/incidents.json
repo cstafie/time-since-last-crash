@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-07-17T22:07:00Z_delta/hwy-91-conn-ofrp_delta/hwy-17",
+    "timestamp": "2026-07-17T22:07:00Z",
+    "scrapedAt": "2026-07-17T22:35:59Z",
+    "address": "HWY 91 CONN OFRP & HWY 17",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-91-conn-ofrp",
+      "delta/hwy-17"
+    ],
+    "streetNames": [
+      "Hwy 91 Conn Ofrp",
+      "Hwy 17"
+    ],
+    "pulsePointId": "2521224918"
+  },
+  {
+    "id": "2026-07-17T22:05:00Z_delta/hwy-91-conn-onrp",
+    "timestamp": "2026-07-17T22:05:00Z",
+    "scrapedAt": "2026-07-17T22:35:59Z",
+    "address": "HWY 91 CONN ONRP",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-91-conn-onrp"
+    ],
+    "streetNames": [
+      "Hwy 91 Conn Onrp"
+    ],
+    "pulsePointId": "2521224555"
+  },
+  {
+    "id": "2026-07-17T21:45:00Z_north-vancouver/sasamat-lane",
+    "timestamp": "2026-07-17T21:45:00Z",
+    "scrapedAt": "2026-07-17T22:35:59Z",
+    "address": "SASAMAT LANE",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/sasamat-lane"
+    ],
+    "streetNames": [
+      "Sasamat Lane"
+    ],
+    "pulsePointId": "2521211884"
+  },
+  {
     "id": "2026-07-17T20:31:00Z_burnaby/imperial-st_burnaby/kingsway",
     "timestamp": "2026-07-17T20:31:00Z",
     "scrapedAt": "2026-07-17T21:38:50Z",

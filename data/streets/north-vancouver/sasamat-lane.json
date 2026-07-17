@@ -1,0 +1,22 @@
+{
+  "slug": "north-vancouver/sasamat-lane",
+  "name": "Sasamat Lane",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-07-17T21:45:00Z_north-vancouver/sasamat-lane",
+      "timestamp": "2026-07-17T21:45:00Z",
+      "address": "SASAMAT LANE",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/sasamat-lane"
+      ],
+      "streetNames": [
+        "Sasamat Lane"
+      ],
+      "pulsePointId": "2521211884"
+    }
+  ],
+  "lastIncident": "2026-07-17T21:45:00Z",
+  "count": 1
+}

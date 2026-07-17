@@ -4910,8 +4910,8 @@
     "name": "Hwy 17",
     "slug": "delta/hwy-17",
     "city": "Delta",
-    "lastIncident": "2026-07-13T14:49:00Z",
-    "count": 19
+    "lastIncident": "2026-07-17T22:07:00Z",
+    "count": 20
   },
   "coquitlam/winslow-ave": {
     "name": "Winslow Ave",
@@ -14115,8 +14115,8 @@
     "name": "Hwy 91 Conn Onrp",
     "slug": "delta/hwy-91-conn-onrp",
     "city": "Delta",
-    "lastIncident": "2026-07-12T07:44:00Z",
-    "count": 1
+    "lastIncident": "2026-07-17T22:05:00Z",
+    "count": 2
   },
   "burnaby/7455-10th-ave": {
     "name": "7455 10th Ave",
@@ -14368,6 +14368,20 @@
     "slug": "burnaby/hazelmere-st",
     "city": "Burnaby",
     "lastIncident": "2026-07-17T14:32:00Z",
+    "count": 1
+  },
+  "delta/hwy-91-conn-ofrp": {
+    "name": "Hwy 91 Conn Ofrp",
+    "slug": "delta/hwy-91-conn-ofrp",
+    "city": "Delta",
+    "lastIncident": "2026-07-17T22:07:00Z",
+    "count": 1
+  },
+  "north-vancouver/sasamat-lane": {
+    "name": "Sasamat Lane",
+    "slug": "north-vancouver/sasamat-lane",
+    "city": "North Vancouver",
+    "lastIncident": "2026-07-17T21:45:00Z",
     "count": 1
   }
 }
