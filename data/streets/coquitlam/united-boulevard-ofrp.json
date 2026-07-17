@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-07-17T15:50:00Z_coquitlam/lougheed-hwy_coquitlam/united-boulevard-ofrp",
+      "timestamp": "2026-07-17T15:50:00Z",
+      "address": "LOUGHEED HWY & UNITED BOULEVARD OFRP",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/lougheed-hwy",
+        "coquitlam/united-boulevard-ofrp"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "United Boulevard Ofrp"
+      ],
+      "pulsePointId": "2520963921"
+    },
+    {
       "id": "2026-03-16T22:43:00Z_coquitlam/trans-canada-hwy-onrp_coquitlam/united-boulevard-ofrp",
       "timestamp": "2026-03-16T22:43:00Z",
       "address": "TRANS CANADA HWY ONRP & UNITED BOULEVARD OFRP",
@@ -33,6 +48,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-16T22:43:00Z",
-  "count": 2
+  "lastIncident": "2026-07-17T15:50:00Z",
+  "count": 3
 }

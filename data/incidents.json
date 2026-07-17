@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-07-17T16:05:00Z_delta/112th-st_delta/80th-ave",
+    "timestamp": "2026-07-17T16:05:00Z",
+    "scrapedAt": "2026-07-17T16:55:18Z",
+    "address": "112TH ST & 80TH AVE",
+    "city": "Delta",
+    "streets": [
+      "delta/112th-st",
+      "delta/80th-ave"
+    ],
+    "streetNames": [
+      "112th St",
+      "80th Ave"
+    ],
+    "pulsePointId": "2520972263"
+  },
+  {
+    "id": "2026-07-17T15:57:00Z_vancouver/victoria-dr_vancouver/e-41st-ave",
+    "timestamp": "2026-07-17T15:57:00Z",
+    "scrapedAt": "2026-07-17T16:55:18Z",
+    "address": "VICTORIA DR & E 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/victoria-dr",
+      "vancouver/e-41st-ave"
+    ],
+    "streetNames": [
+      "Victoria Dr",
+      "E 41st Ave"
+    ],
+    "pulsePointId": "2520968274"
+  },
+  {
+    "id": "2026-07-17T15:50:00Z_coquitlam/lougheed-hwy_coquitlam/united-boulevard-ofrp",
+    "timestamp": "2026-07-17T15:50:00Z",
+    "scrapedAt": "2026-07-17T16:55:18Z",
+    "address": "LOUGHEED HWY & UNITED BOULEVARD OFRP",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/lougheed-hwy",
+      "coquitlam/united-boulevard-ofrp"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "United Boulevard Ofrp"
+    ],
+    "pulsePointId": "2520963921"
+  },
+  {
     "id": "2026-07-17T15:05:00Z_vancouver/trans-canada-hwy",
     "timestamp": "2026-07-17T15:05:00Z",
     "scrapedAt": "2026-07-17T15:50:43Z",

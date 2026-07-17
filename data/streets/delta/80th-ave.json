@@ -4,6 +4,21 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-07-17T16:05:00Z_delta/112th-st_delta/80th-ave",
+      "timestamp": "2026-07-17T16:05:00Z",
+      "address": "112TH ST & 80TH AVE",
+      "city": "Delta",
+      "streets": [
+        "delta/112th-st",
+        "delta/80th-ave"
+      ],
+      "streetNames": [
+        "112th St",
+        "80th Ave"
+      ],
+      "pulsePointId": "2520972263"
+    },
+    {
       "id": "2026-05-19T19:02:00Z_delta/80th-ave_delta/120th-st",
       "timestamp": "2026-05-19T19:02:00Z",
       "address": "80TH AVE & 120TH ST",
@@ -64,6 +79,6 @@
       "pulsePointId": "2453183429"
     }
   ],
-  "lastIncident": "2026-05-19T19:02:00Z",
-  "count": 4
+  "lastIncident": "2026-07-17T16:05:00Z",
+  "count": 5
 }
