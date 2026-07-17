@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-07-16T22:19:00Z",
-    "count": 85
+    "lastIncident": "2026-07-17T19:52:00Z",
+    "count": 86
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -1473,8 +1473,8 @@
     "name": "Kingsway",
     "slug": "burnaby/kingsway",
     "city": "Burnaby",
-    "lastIncident": "2026-07-05T07:28:00Z",
-    "count": 29
+    "lastIncident": "2026-07-17T20:31:00Z",
+    "count": 30
   },
   "burnaby/gilley-ave": {
     "name": "Gilley Ave",
@@ -4259,8 +4259,8 @@
     "name": "Imperial St",
     "slug": "burnaby/imperial-st",
     "city": "Burnaby",
-    "lastIncident": "2026-07-15T17:29:00Z",
-    "count": 13
+    "lastIncident": "2026-07-17T20:31:00Z",
+    "count": 14
   },
   "burnaby/kitchener-st": {
     "name": "Kitchener St",
@@ -8053,8 +8053,8 @@
     "name": "105th Ave",
     "slug": "surrey/105th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-05-26T13:52:00Z",
-    "count": 3
+    "lastIncident": "2026-07-17T19:52:00Z",
+    "count": 4
   },
   "langley/206a-st": {
     "name": "206a St",

@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-07-17T20:31:00Z_burnaby/imperial-st_burnaby/kingsway",
+    "timestamp": "2026-07-17T20:31:00Z",
+    "scrapedAt": "2026-07-17T21:38:50Z",
+    "address": "IMPERIAL ST & KINGSWAY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/imperial-st",
+      "burnaby/kingsway"
+    ],
+    "streetNames": [
+      "Imperial St",
+      "Kingsway"
+    ],
+    "pulsePointId": "2521158383"
+  },
+  {
+    "id": "2026-07-17T19:52:00Z_surrey/king-george-blvd_surrey/105th-ave",
+    "timestamp": "2026-07-17T19:52:00Z",
+    "scrapedAt": "2026-07-17T21:38:50Z",
+    "address": "KING GEORGE BLVD & 105TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/105th-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "105th Ave"
+    ],
+    "pulsePointId": "2521130467"
+  },
+  {
     "id": "2026-07-17T19:08:00Z_vancouver/oak-st_vancouver/w-33rd-ave",
     "timestamp": "2026-07-17T19:08:00Z",
     "scrapedAt": "2026-07-17T19:55:04Z",

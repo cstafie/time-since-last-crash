@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-17T20:31:00Z_burnaby/imperial-st_burnaby/kingsway",
+      "timestamp": "2026-07-17T20:31:00Z",
+      "address": "IMPERIAL ST & KINGSWAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/imperial-st",
+        "burnaby/kingsway"
+      ],
+      "streetNames": [
+        "Imperial St",
+        "Kingsway"
+      ],
+      "pulsePointId": "2521158383"
+    },
+    {
       "id": "2026-07-05T07:28:00Z_burnaby/boundary-rd_burnaby/kingsway",
       "timestamp": "2026-07-05T07:28:00Z",
       "address": "BOUNDARY RD & KINGSWAY",
@@ -416,6 +431,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-05T07:28:00Z",
-  "count": 29
+  "lastIncident": "2026-07-17T20:31:00Z",
+  "count": 30
 }
