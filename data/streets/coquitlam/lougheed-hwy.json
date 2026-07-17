@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-07-17T17:38:00Z_coquitlam/lougheed-hwy_coquitlam/bernatchey-st",
+      "timestamp": "2026-07-17T17:38:00Z",
+      "address": "LOUGHEED HWY & BERNATCHEY ST",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/lougheed-hwy",
+        "coquitlam/bernatchey-st"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "Bernatchey St"
+      ],
+      "pulsePointId": "2521033264"
+    },
+    {
       "id": "2026-07-17T15:50:00Z_coquitlam/lougheed-hwy_coquitlam/united-boulevard-ofrp",
       "timestamp": "2026-07-17T15:50:00Z",
       "address": "LOUGHEED HWY & UNITED BOULEVARD OFRP",
@@ -400,6 +415,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-17T15:50:00Z",
-  "count": 28
+  "lastIncident": "2026-07-17T17:38:00Z",
+  "count": 29
 }

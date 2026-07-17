@@ -1116,8 +1116,8 @@
     "name": "Lougheed Hwy",
     "slug": "coquitlam/lougheed-hwy",
     "city": "Coquitlam",
-    "lastIncident": "2026-07-17T15:50:00Z",
-    "count": 28
+    "lastIncident": "2026-07-17T17:38:00Z",
+    "count": 29
   },
   "coquitlam/orchid-dr": {
     "name": "Orchid Dr",
@@ -3538,8 +3538,8 @@
     "name": "W 3rd St",
     "slug": "north-vancouver/w-3rd-st",
     "city": "North Vancouver",
-    "lastIncident": "2026-06-30T16:35:00Z",
-    "count": 3
+    "lastIncident": "2026-07-17T16:59:00Z",
+    "count": 4
   },
   "delta/hwy-10-ofrp": {
     "name": "Hwy 10 Ofrp",
@@ -6947,8 +6947,8 @@
     "name": "8th Ave",
     "slug": "surrey/8th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-02T05:43:00Z",
-    "count": 3
+    "lastIncident": "2026-07-17T17:06:00Z",
+    "count": 4
   },
   "abbotsford/queen-st": {
     "name": "Queen St",
@@ -10384,8 +10384,8 @@
     "name": "Bernatchey St",
     "slug": "coquitlam/bernatchey-st",
     "city": "Coquitlam",
-    "lastIncident": "2026-05-24T19:27:00Z",
-    "count": 1
+    "lastIncident": "2026-07-17T17:38:00Z",
+    "count": 2
   },
   "coquitlam/banting-st": {
     "name": "Banting St",
@@ -13289,8 +13289,8 @@
     "name": "Mackay Rd",
     "slug": "north-vancouver/mackay-rd",
     "city": "North Vancouver",
-    "lastIncident": "2026-06-29T14:43:00Z",
-    "count": 1
+    "lastIncident": "2026-07-17T16:59:00Z",
+    "count": 2
   },
   "richmond/broadway-st": {
     "name": "Broadway St",

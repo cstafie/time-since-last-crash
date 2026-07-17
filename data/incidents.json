@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-07-17T17:38:00Z_coquitlam/lougheed-hwy_coquitlam/bernatchey-st",
+    "timestamp": "2026-07-17T17:38:00Z",
+    "scrapedAt": "2026-07-17T17:54:00Z",
+    "address": "LOUGHEED HWY & BERNATCHEY ST",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/lougheed-hwy",
+      "coquitlam/bernatchey-st"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "Bernatchey St"
+    ],
+    "pulsePointId": "2521033264"
+  },
+  {
+    "id": "2026-07-17T17:06:00Z_surrey/8th-ave",
+    "timestamp": "2026-07-17T17:06:00Z",
+    "scrapedAt": "2026-07-17T17:54:00Z",
+    "address": "8TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/8th-ave"
+    ],
+    "streetNames": [
+      "8th Ave"
+    ],
+    "pulsePointId": "2521013194"
+  },
+  {
+    "id": "2026-07-17T16:59:00Z_north-vancouver/w-3rd-st_north-vancouver/mackay-rd",
+    "timestamp": "2026-07-17T16:59:00Z",
+    "scrapedAt": "2026-07-17T17:54:00Z",
+    "address": "W 3RD ST & MACKAY RD",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/w-3rd-st",
+      "north-vancouver/mackay-rd"
+    ],
+    "streetNames": [
+      "W 3rd St",
+      "Mackay Rd"
+    ],
+    "pulsePointId": "2521006589"
+  },
+  {
     "id": "2026-07-17T16:05:00Z_delta/112th-st_delta/80th-ave",
     "timestamp": "2026-07-17T16:05:00Z",
     "scrapedAt": "2026-07-17T16:55:18Z",
