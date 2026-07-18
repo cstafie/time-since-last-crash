@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-18T15:56:00Z_vancouver/arbutus-st_vancouver/w-6th-ave",
+      "timestamp": "2026-07-18T15:56:00Z",
+      "address": "ARBUTUS ST & W 6TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/arbutus-st",
+        "vancouver/w-6th-ave"
+      ],
+      "streetNames": [
+        "Arbutus St",
+        "W 6th Ave"
+      ],
+      "pulsePointId": "2521715607"
+    },
+    {
       "id": "2026-07-11T02:11:00Z_vancouver/arbutus-st_vancouver/w-10th-ave",
       "timestamp": "2026-07-11T02:11:00Z",
       "address": "ARBUTUS ST & W 10TH AVE",
@@ -124,6 +139,6 @@
       "pulsePointId": "2448495578"
     }
   ],
-  "lastIncident": "2026-07-11T02:11:00Z",
-  "count": 8
+  "lastIncident": "2026-07-18T15:56:00Z",
+  "count": 9
 }

@@ -1515,8 +1515,8 @@
     "name": "W 6th Ave",
     "slug": "vancouver/w-6th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-13T19:25:00Z",
-    "count": 8
+    "lastIncident": "2026-07-18T15:56:00Z",
+    "count": 9
   },
   "vancouver/columbia-st": {
     "name": "Columbia St",
@@ -2187,8 +2187,8 @@
     "name": "Rupert St",
     "slug": "vancouver/rupert-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-16T00:33:00Z",
-    "count": 17
+    "lastIncident": "2026-07-18T16:06:00Z",
+    "count": 18
   },
   "vancouver/fir-st": {
     "name": "Fir St",
@@ -5533,8 +5533,8 @@
     "name": "Arbutus St",
     "slug": "vancouver/arbutus-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-11T02:11:00Z",
-    "count": 8
+    "lastIncident": "2026-07-18T15:56:00Z",
+    "count": 9
   },
   "surrey/125th-st": {
     "name": "125th St",
@@ -7934,8 +7934,8 @@
     "name": "Grandview Hwy",
     "slug": "vancouver/grandview-hwy",
     "city": "Vancouver",
-    "lastIncident": "2026-07-18T10:22:00Z",
-    "count": 9
+    "lastIncident": "2026-07-18T16:06:00Z",
+    "count": 10
   },
   "surrey/9595-king-george-blvd": {
     "name": "9595 King George Blvd",

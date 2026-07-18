@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-07-18T16:06:00Z_vancouver/rupert-st_vancouver/grandview-hwy",
+    "timestamp": "2026-07-18T16:06:00Z",
+    "scrapedAt": "2026-07-18T16:15:32Z",
+    "address": "RUPERT ST & GRANDVIEW HWY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/rupert-st",
+      "vancouver/grandview-hwy"
+    ],
+    "streetNames": [
+      "Rupert St",
+      "Grandview Hwy"
+    ],
+    "pulsePointId": "2521721607"
+  },
+  {
+    "id": "2026-07-18T15:56:00Z_vancouver/arbutus-st_vancouver/w-6th-ave",
+    "timestamp": "2026-07-18T15:56:00Z",
+    "scrapedAt": "2026-07-18T16:15:32Z",
+    "address": "ARBUTUS ST & W 6TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/arbutus-st",
+      "vancouver/w-6th-ave"
+    ],
+    "streetNames": [
+      "Arbutus St",
+      "W 6th Ave"
+    ],
+    "pulsePointId": "2521715607"
+  },
+  {
     "id": "2026-07-18T15:01:00Z_richmond/hwy-91",
     "timestamp": "2026-07-18T15:01:00Z",
     "scrapedAt": "2026-07-18T15:26:08Z",
