@@ -2264,8 +2264,8 @@
     "name": "W 8th Ave",
     "slug": "vancouver/w-8th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-23T22:13:00Z",
-    "count": 6
+    "lastIncident": "2026-07-18T13:53:00Z",
+    "count": 7
   },
   "vancouver/denman-st": {
     "name": "Denman St",
@@ -2460,8 +2460,8 @@
     "name": "Cambie St",
     "slug": "vancouver/cambie-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-09T03:31:00Z",
-    "count": 20
+    "lastIncident": "2026-07-18T13:53:00Z",
+    "count": 21
   },
   "vancouver/e-broadway": {
     "name": "E Broadway",

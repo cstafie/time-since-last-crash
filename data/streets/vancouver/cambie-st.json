@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-18T13:53:00Z_vancouver/cambie-st_vancouver/w-8th-ave",
+      "timestamp": "2026-07-18T13:53:00Z",
+      "address": "CAMBIE ST & W 8TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/cambie-st",
+        "vancouver/w-8th-ave"
+      ],
+      "streetNames": [
+        "Cambie St",
+        "W 8th Ave"
+      ],
+      "pulsePointId": "2521661867"
+    },
+    {
       "id": "2026-07-09T03:31:00Z_vancouver/w-63rd-ave_vancouver/cambie-st",
       "timestamp": "2026-07-09T03:31:00Z",
       "address": "W 63RD AVE & CAMBIE ST",
@@ -302,6 +317,6 @@
       "pulsePointId": "2435569506"
     }
   ],
-  "lastIncident": "2026-07-09T03:31:00Z",
-  "count": 20
+  "lastIncident": "2026-07-18T13:53:00Z",
+  "count": 21
 }

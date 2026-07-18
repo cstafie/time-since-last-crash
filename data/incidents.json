@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-18T13:53:00Z_vancouver/cambie-st_vancouver/w-8th-ave",
+    "timestamp": "2026-07-18T13:53:00Z",
+    "scrapedAt": "2026-07-18T14:12:41Z",
+    "address": "CAMBIE ST & W 8TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/cambie-st",
+      "vancouver/w-8th-ave"
+    ],
+    "streetNames": [
+      "Cambie St",
+      "W 8th Ave"
+    ],
+    "pulsePointId": "2521661867"
+  },
+  {
     "id": "2026-07-18T10:22:00Z_vancouver/boundary-rd_vancouver/grandview-hwy",
     "timestamp": "2026-07-18T10:22:00Z",
     "scrapedAt": "2026-07-18T10:53:35Z",
