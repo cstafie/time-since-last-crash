@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-18T01:15:00Z_abbotsford/ross-rd_abbotsford/fraser-hwy",
+      "timestamp": "2026-07-18T01:15:00Z",
+      "address": "ROSS RD & FRASER HWY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/ross-rd",
+        "abbotsford/fraser-hwy"
+      ],
+      "streetNames": [
+        "Ross Rd",
+        "Fraser Hwy"
+      ],
+      "pulsePointId": "2521356663"
+    },
+    {
       "id": "2026-06-12T13:21:00Z_abbotsford/maclure-road-ofrp_abbotsford/fraser-hwy",
       "timestamp": "2026-06-12T13:21:00Z",
       "address": "MACLURE ROAD OFRP & FRASER HWY",
@@ -185,6 +200,6 @@
       "pulsePointId": "2436433195"
     }
   ],
-  "lastIncident": "2026-06-12T13:21:00Z",
-  "count": 13
+  "lastIncident": "2026-07-18T01:15:00Z",
+  "count": 14
 }

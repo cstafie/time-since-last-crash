@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-18T03:12:00Z_burnaby/wiggins-st_burnaby/north-fraser-way",
+      "timestamp": "2026-07-18T03:12:00Z",
+      "address": "WIGGINS ST & NORTH FRASER WAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/wiggins-st",
+        "burnaby/north-fraser-way"
+      ],
+      "streetNames": [
+        "Wiggins St",
+        "North Fraser Way"
+      ],
+      "pulsePointId": "2521426642"
+    },
+    {
       "id": "2026-06-25T19:44:00Z_burnaby/north-fraser-way_burnaby/tillicum-st",
       "timestamp": "2026-06-25T19:44:00Z",
       "address": "NORTH FRASER WAY & TILLICUM ST",
@@ -90,6 +105,6 @@
       "pulsePointId": "2436439706"
     }
   ],
-  "lastIncident": "2026-06-25T19:44:00Z",
-  "count": 6
+  "lastIncident": "2026-07-18T03:12:00Z",
+  "count": 7
 }

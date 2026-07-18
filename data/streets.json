@@ -38,8 +38,8 @@
     "name": "Ross Rd",
     "slug": "abbotsford/ross-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-23T07:04:00Z",
-    "count": 9
+    "lastIncident": "2026-07-18T01:15:00Z",
+    "count": 10
   },
   "abbotsford/trethewey-st": {
     "name": "Trethewey St",
@@ -2768,15 +2768,15 @@
     "name": "Fraser Hwy",
     "slug": "abbotsford/fraser-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-12T13:21:00Z",
-    "count": 13
+    "lastIncident": "2026-07-18T01:15:00Z",
+    "count": 14
   },
   "burnaby/north-fraser-way": {
     "name": "North Fraser Way",
     "slug": "burnaby/north-fraser-way",
     "city": "Burnaby",
-    "lastIncident": "2026-06-25T19:44:00Z",
-    "count": 6
+    "lastIncident": "2026-07-18T03:12:00Z",
+    "count": 7
   },
   "burnaby/boundary-rd": {
     "name": "Boundary Rd",
@@ -14382,6 +14382,13 @@
     "slug": "north-vancouver/sasamat-lane",
     "city": "North Vancouver",
     "lastIncident": "2026-07-17T21:45:00Z",
+    "count": 1
+  },
+  "burnaby/wiggins-st": {
+    "name": "Wiggins St",
+    "slug": "burnaby/wiggins-st",
+    "city": "Burnaby",
+    "lastIncident": "2026-07-18T03:12:00Z",
     "count": 1
   }
 }

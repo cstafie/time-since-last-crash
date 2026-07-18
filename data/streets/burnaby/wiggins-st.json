@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/wiggins-st",
+  "name": "Wiggins St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-07-18T03:12:00Z_burnaby/wiggins-st_burnaby/north-fraser-way",
+      "timestamp": "2026-07-18T03:12:00Z",
+      "address": "WIGGINS ST & NORTH FRASER WAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/wiggins-st",
+        "burnaby/north-fraser-way"
+      ],
+      "streetNames": [
+        "Wiggins St",
+        "North Fraser Way"
+      ],
+      "pulsePointId": "2521426642"
+    }
+  ],
+  "lastIncident": "2026-07-18T03:12:00Z",
+  "count": 1
+}
