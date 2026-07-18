@@ -1,5 +1,63 @@
 [
   {
+    "id": "2026-07-18T05:14:00Z_surrey/king-george-blvd",
+    "timestamp": "2026-07-18T05:14:00Z",
+    "scrapedAt": "2026-07-18T06:25:34Z",
+    "address": "KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "King George Blvd"
+    ],
+    "pulsePointId": "2521485656"
+  },
+  {
+    "id": "2026-07-18T05:10:00Z_vancouver/e-hastings-st",
+    "timestamp": "2026-07-18T05:10:00Z",
+    "scrapedAt": "2026-07-18T06:25:34Z",
+    "address": "E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "E Hastings St"
+    ],
+    "pulsePointId": "2521484500"
+  },
+  {
+    "id": "2026-07-18T04:56:00Z_maple-ridge/124th-ave",
+    "timestamp": "2026-07-18T04:56:00Z",
+    "scrapedAt": "2026-07-18T06:25:34Z",
+    "address": "124TH AVE",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/124th-ave"
+    ],
+    "streetNames": [
+      "124th Ave"
+    ],
+    "pulsePointId": "2521478453"
+  },
+  {
+    "id": "2026-07-18T04:37:00Z_richmond/shell-rd_richmond/alderbridge-way",
+    "timestamp": "2026-07-18T04:37:00Z",
+    "scrapedAt": "2026-07-18T06:25:34Z",
+    "address": "SHELL RD & ALDERBRIDGE WAY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/shell-rd",
+      "richmond/alderbridge-way"
+    ],
+    "streetNames": [
+      "Shell Rd",
+      "Alderbridge Way"
+    ],
+    "pulsePointId": "2521468356"
+  },
+  {
     "id": "2026-07-18T03:12:00Z_burnaby/wiggins-st_burnaby/north-fraser-way",
     "timestamp": "2026-07-18T03:12:00Z",
     "scrapedAt": "2026-07-18T04:17:59Z",
