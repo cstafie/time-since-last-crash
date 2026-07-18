@@ -1,5 +1,63 @@
 [
   {
+    "id": "2026-07-18T15:01:00Z_richmond/hwy-91",
+    "timestamp": "2026-07-18T15:01:00Z",
+    "scrapedAt": "2026-07-18T15:26:08Z",
+    "address": "HWY 91",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hwy-91"
+    ],
+    "streetNames": [
+      "Hwy 91"
+    ],
+    "pulsePointId": "2521691095"
+  },
+  {
+    "id": "2026-07-18T14:36:00Z_delta/nordel-way",
+    "timestamp": "2026-07-18T14:36:00Z",
+    "scrapedAt": "2026-07-18T15:26:08Z",
+    "address": "NORDEL WAY",
+    "city": "Delta",
+    "streets": [
+      "delta/nordel-way"
+    ],
+    "streetNames": [
+      "Nordel Way"
+    ],
+    "pulsePointId": "2521679426"
+  },
+  {
+    "id": "2026-07-18T14:34:00Z_delta/hwy-99",
+    "timestamp": "2026-07-18T14:34:00Z",
+    "scrapedAt": "2026-07-18T15:26:08Z",
+    "address": "HWY 99",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2521678090"
+  },
+  {
+    "id": "2026-07-18T14:05:00Z_vancouver/kingsway_vancouver/slocan-st",
+    "timestamp": "2026-07-18T14:05:00Z",
+    "scrapedAt": "2026-07-18T15:26:08Z",
+    "address": "KINGSWAY & SLOCAN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kingsway",
+      "vancouver/slocan-st"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "Slocan St"
+    ],
+    "pulsePointId": "2521666144"
+  },
+  {
     "id": "2026-07-18T13:53:00Z_vancouver/cambie-st_vancouver/w-8th-ave",
     "timestamp": "2026-07-18T13:53:00Z",
     "scrapedAt": "2026-07-18T14:12:41Z",

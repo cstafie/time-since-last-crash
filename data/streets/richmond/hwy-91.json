@@ -4,6 +4,19 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-18T15:01:00Z_richmond/hwy-91",
+      "timestamp": "2026-07-18T15:01:00Z",
+      "address": "HWY 91",
+      "city": "Richmond",
+      "streets": [
+        "richmond/hwy-91"
+      ],
+      "streetNames": [
+        "Hwy 91"
+      ],
+      "pulsePointId": "2521691095"
+    },
+    {
       "id": "2026-06-26T18:33:00Z_richmond/hwy-91",
       "timestamp": "2026-06-26T18:33:00Z",
       "address": "HWY 91",
@@ -260,6 +273,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-26T18:33:00Z",
-  "count": 19
+  "lastIncident": "2026-07-18T15:01:00Z",
+  "count": 20
 }

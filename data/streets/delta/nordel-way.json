@@ -4,6 +4,19 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-07-18T14:36:00Z_delta/nordel-way",
+      "timestamp": "2026-07-18T14:36:00Z",
+      "address": "NORDEL WAY",
+      "city": "Delta",
+      "streets": [
+        "delta/nordel-way"
+      ],
+      "streetNames": [
+        "Nordel Way"
+      ],
+      "pulsePointId": "2521679426"
+    },
+    {
       "id": "2026-07-15T20:10:00Z_delta/nordel-way_delta/84th-ave",
       "timestamp": "2026-07-15T20:10:00Z",
       "address": "NORDEL WAY & 84TH AVE",
@@ -223,6 +236,6 @@
       "pulsePointId": "2436970054"
     }
   ],
-  "lastIncident": "2026-07-15T20:10:00Z",
-  "count": 15
+  "lastIncident": "2026-07-18T14:36:00Z",
+  "count": 16
 }
