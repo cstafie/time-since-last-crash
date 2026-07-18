@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-07-18T07:06:00Z_langley/langley-bps",
+    "timestamp": "2026-07-18T07:06:00Z",
+    "scrapedAt": "2026-07-18T08:13:51Z",
+    "address": "LANGLEY BPS",
+    "city": "Langley",
+    "streets": [
+      "langley/langley-bps"
+    ],
+    "streetNames": [
+      "Langley Bps"
+    ],
+    "pulsePointId": "2521529921"
+  },
+  {
     "id": "2026-07-18T05:14:00Z_surrey/king-george-blvd",
     "timestamp": "2026-07-18T05:14:00Z",
     "scrapedAt": "2026-07-18T06:25:34Z",
