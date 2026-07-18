@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-07-18T21:11:00Z_vancouver/se-marine-dr_vancouver/sherbrooke-st",
+    "timestamp": "2026-07-18T21:11:00Z",
+    "scrapedAt": "2026-07-18T21:37:30Z",
+    "address": "SE MARINE DR & SHERBROOKE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/se-marine-dr",
+      "vancouver/sherbrooke-st"
+    ],
+    "streetNames": [
+      "Se Marine Dr",
+      "Sherbrooke St"
+    ],
+    "pulsePointId": "2521917427"
+  },
+  {
+    "id": "2026-07-18T20:55:00Z_north-vancouver/1219-marine-dr",
+    "timestamp": "2026-07-18T20:55:00Z",
+    "scrapedAt": "2026-07-18T21:37:30Z",
+    "address": "1219 MARINE DR",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/1219-marine-dr"
+    ],
+    "streetNames": [
+      "1219 Marine Dr"
+    ],
+    "pulsePointId": "2521905798"
+  },
+  {
     "id": "2026-07-18T20:25:00Z_vancouver/se-marine-dr_vancouver/se-marine-drive-onrp",
     "timestamp": "2026-07-18T20:25:00Z",
     "scrapedAt": "2026-07-18T20:34:38Z",

@@ -1200,8 +1200,8 @@
     "name": "Se Marine Dr",
     "slug": "vancouver/se-marine-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-07-18T20:25:00Z",
-    "count": 30
+    "lastIncident": "2026-07-18T21:11:00Z",
+    "count": 31
   },
   "vancouver/kerr-st": {
     "name": "Kerr St",
@@ -14410,6 +14410,20 @@
     "slug": "vancouver/se-marine-drive-onrp",
     "city": "Vancouver",
     "lastIncident": "2026-07-18T20:25:00Z",
+    "count": 1
+  },
+  "vancouver/sherbrooke-st": {
+    "name": "Sherbrooke St",
+    "slug": "vancouver/sherbrooke-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-07-18T21:11:00Z",
+    "count": 1
+  },
+  "north-vancouver/1219-marine-dr": {
+    "name": "1219 Marine Dr",
+    "slug": "north-vancouver/1219-marine-dr",
+    "city": "North Vancouver",
+    "lastIncident": "2026-07-18T20:55:00Z",
     "count": 1
   }
 }
