@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-18T10:22:00Z_vancouver/boundary-rd_vancouver/grandview-hwy",
+      "timestamp": "2026-07-18T10:22:00Z",
+      "address": "BOUNDARY RD & GRANDVIEW HWY",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/boundary-rd",
+        "vancouver/grandview-hwy"
+      ],
+      "streetNames": [
+        "Boundary Rd",
+        "Grandview Hwy"
+      ],
+      "pulsePointId": "2521594815"
+    },
+    {
       "id": "2026-07-17T01:39:00Z_vancouver/e-49th-ave_vancouver/boundary-rd",
       "timestamp": "2026-07-17T01:39:00Z",
       "address": "E 49TH AVE & BOUNDARY RD",
@@ -372,6 +387,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-17T01:39:00Z",
-  "count": 25
+  "lastIncident": "2026-07-18T10:22:00Z",
+  "count": 26
 }

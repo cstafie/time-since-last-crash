@@ -1263,8 +1263,8 @@
     "name": "Boundary Rd",
     "slug": "vancouver/boundary-rd",
     "city": "Vancouver",
-    "lastIncident": "2026-07-17T01:39:00Z",
-    "count": 25
+    "lastIncident": "2026-07-18T10:22:00Z",
+    "count": 26
   },
   "surrey/langley-bps": {
     "name": "Langley Bps",
@@ -7934,8 +7934,8 @@
     "name": "Grandview Hwy",
     "slug": "vancouver/grandview-hwy",
     "city": "Vancouver",
-    "lastIncident": "2026-07-03T18:57:00Z",
-    "count": 8
+    "lastIncident": "2026-07-18T10:22:00Z",
+    "count": 9
   },
   "surrey/9595-king-george-blvd": {
     "name": "9595 King George Blvd",
