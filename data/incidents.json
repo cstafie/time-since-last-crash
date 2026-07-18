@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-07-18T00:53:00Z_chilliwack/broadway",
+    "timestamp": "2026-07-18T00:53:00Z",
+    "scrapedAt": "2026-07-18T01:11:21Z",
+    "address": "BROADWAY",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/broadway"
+    ],
+    "streetNames": [
+      "Broadway"
+    ],
+    "pulsePointId": "2521341382"
+  },
+  {
+    "id": "2026-07-18T00:07:00Z_burnaby/willingdon-ave",
+    "timestamp": "2026-07-18T00:07:00Z",
+    "scrapedAt": "2026-07-18T01:11:21Z",
+    "address": "WILLINGDON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/willingdon-ave"
+    ],
+    "streetNames": [
+      "Willingdon Ave"
+    ],
+    "pulsePointId": "2521309029"
+  },
+  {
     "id": "2026-07-17T23:08:00Z_vancouver/dunsmuir-st_vancouver/burrard-st",
     "timestamp": "2026-07-17T23:08:00Z",
     "scrapedAt": "2026-07-17T23:39:17Z",

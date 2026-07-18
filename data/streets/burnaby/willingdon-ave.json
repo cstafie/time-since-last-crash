@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-18T00:07:00Z_burnaby/willingdon-ave",
+      "timestamp": "2026-07-18T00:07:00Z",
+      "address": "WILLINGDON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/willingdon-ave"
+      ],
+      "streetNames": [
+        "Willingdon Ave"
+      ],
+      "pulsePointId": "2521309029"
+    },
+    {
       "id": "2026-07-02T23:44:00Z_burnaby/willingdon-ave_burnaby/brentlawn-dr",
       "timestamp": "2026-07-02T23:44:00Z",
       "address": "WILLINGDON AVE & BRENTLAWN DR",
@@ -196,6 +209,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-02T23:44:00Z",
-  "count": 13
+  "lastIncident": "2026-07-18T00:07:00Z",
+  "count": 14
 }
