@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-18T19:43:00Z_vancouver/w-georgia-st_vancouver/broughton-st",
+      "timestamp": "2026-07-18T19:43:00Z",
+      "address": "W GEORGIA ST & BROUGHTON ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-georgia-st",
+        "vancouver/broughton-st"
+      ],
+      "streetNames": [
+        "W Georgia St",
+        "Broughton St"
+      ],
+      "pulsePointId": "2521857490"
+    },
+    {
       "id": "2026-07-17T01:33:00Z_vancouver/w-georgia-st_vancouver/denman-st",
       "timestamp": "2026-07-17T01:33:00Z",
       "address": "W GEORGIA ST & DENMAN ST",
@@ -259,6 +274,6 @@
       "pulsePointId": "2435242336"
     }
   ],
-  "lastIncident": "2026-07-17T01:33:00Z",
-  "count": 17
+  "lastIncident": "2026-07-18T19:43:00Z",
+  "count": 18
 }

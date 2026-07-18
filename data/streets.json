@@ -1200,8 +1200,8 @@
     "name": "Se Marine Dr",
     "slug": "vancouver/se-marine-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-07-14T17:01:00Z",
-    "count": 28
+    "lastIncident": "2026-07-18T20:25:00Z",
+    "count": 30
   },
   "vancouver/kerr-st": {
     "name": "Kerr St",
@@ -2341,8 +2341,8 @@
     "name": "W Georgia St",
     "slug": "vancouver/w-georgia-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-17T01:33:00Z",
-    "count": 17
+    "lastIncident": "2026-07-18T19:43:00Z",
+    "count": 18
   },
   "vancouver/w-41st-ave": {
     "name": "W 41st Ave",
@@ -4294,8 +4294,8 @@
     "name": "Broughton St",
     "slug": "vancouver/broughton-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-20T17:43:00Z",
-    "count": 9
+    "lastIncident": "2026-07-18T19:43:00Z",
+    "count": 10
   },
   "chilliwack/fletcher-st": {
     "name": "Fletcher St",
@@ -14403,6 +14403,13 @@
     "slug": "abbotsford/willet-rd",
     "city": "Abbotsford",
     "lastIncident": "2026-07-18T19:19:00Z",
+    "count": 1
+  },
+  "vancouver/se-marine-drive-onrp": {
+    "name": "Se Marine Drive Onrp",
+    "slug": "vancouver/se-marine-drive-onrp",
+    "city": "Vancouver",
+    "lastIncident": "2026-07-18T20:25:00Z",
     "count": 1
   }
 }

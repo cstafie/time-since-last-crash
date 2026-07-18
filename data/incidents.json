@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-07-18T20:25:00Z_vancouver/se-marine-dr_vancouver/se-marine-drive-onrp",
+    "timestamp": "2026-07-18T20:25:00Z",
+    "scrapedAt": "2026-07-18T20:34:38Z",
+    "address": "SE MARINE DR & SE MARINE DRIVE ONRP",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/se-marine-dr",
+      "vancouver/se-marine-drive-onrp"
+    ],
+    "streetNames": [
+      "Se Marine Dr",
+      "Se Marine Drive Onrp"
+    ],
+    "pulsePointId": "2521885713"
+  },
+  {
+    "id": "2026-07-18T20:22:00Z_vancouver/se-marine-dr",
+    "timestamp": "2026-07-18T20:22:00Z",
+    "scrapedAt": "2026-07-18T20:34:38Z",
+    "address": "SE MARINE DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/se-marine-dr"
+    ],
+    "streetNames": [
+      "Se Marine Dr"
+    ],
+    "pulsePointId": "2521883311"
+  },
+  {
+    "id": "2026-07-18T19:43:00Z_vancouver/w-georgia-st_vancouver/broughton-st",
+    "timestamp": "2026-07-18T19:43:00Z",
+    "scrapedAt": "2026-07-18T20:34:38Z",
+    "address": "W GEORGIA ST & BROUGHTON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-georgia-st",
+      "vancouver/broughton-st"
+    ],
+    "streetNames": [
+      "W Georgia St",
+      "Broughton St"
+    ],
+    "pulsePointId": "2521857490"
+  },
+  {
     "id": "2026-07-18T19:19:00Z_abbotsford/willet-rd_abbotsford/straiton-rd",
     "timestamp": "2026-07-18T19:19:00Z",
     "scrapedAt": "2026-07-18T19:37:31Z",
