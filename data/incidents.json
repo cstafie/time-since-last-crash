@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-07-18T17:10:00Z_abbotsford/27988-fraser-hwy",
+    "timestamp": "2026-07-18T17:10:00Z",
+    "scrapedAt": "2026-07-18T17:26:53Z",
+    "address": "27988 FRASER HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/27988-fraser-hwy"
+    ],
+    "streetNames": [
+      "27988 Fraser Hwy"
+    ],
+    "pulsePointId": "2521759622"
+  },
+  {
+    "id": "2026-07-18T16:51:00Z_maple-ridge/lougheed-hwy_maple-ridge/224th-st",
+    "timestamp": "2026-07-18T16:51:00Z",
+    "scrapedAt": "2026-07-18T17:26:53Z",
+    "address": "LOUGHEED HWY & 224TH ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/lougheed-hwy",
+      "maple-ridge/224th-st"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "224th St"
+    ],
+    "pulsePointId": "2521747488"
+  },
+  {
+    "id": "2026-07-18T16:38:00Z_abbotsford/gladwin-rd_abbotsford/maclure-rd",
+    "timestamp": "2026-07-18T16:38:00Z",
+    "scrapedAt": "2026-07-18T17:26:53Z",
+    "address": "GLADWIN RD & MACLURE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/gladwin-rd",
+      "abbotsford/maclure-rd"
+    ],
+    "streetNames": [
+      "Gladwin Rd",
+      "Maclure Rd"
+    ],
+    "pulsePointId": "2521740180"
+  },
+  {
+    "id": "2026-07-18T16:28:00Z_vancouver/kingsway",
+    "timestamp": "2026-07-18T16:28:00Z",
+    "scrapedAt": "2026-07-18T17:26:53Z",
+    "address": "KINGSWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kingsway"
+    ],
+    "streetNames": [
+      "Kingsway"
+    ],
+    "pulsePointId": "2521733931"
+  },
+  {
     "id": "2026-07-18T16:06:00Z_vancouver/rupert-st_vancouver/grandview-hwy",
     "timestamp": "2026-07-18T16:06:00Z",
     "scrapedAt": "2026-07-18T16:15:32Z",

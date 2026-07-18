@@ -325,8 +325,8 @@
     "name": "Lougheed Hwy",
     "slug": "maple-ridge/lougheed-hwy",
     "city": "Maple Ridge",
-    "lastIncident": "2026-07-16T15:02:00Z",
-    "count": 39
+    "lastIncident": "2026-07-18T16:51:00Z",
+    "count": 40
   },
   "mission/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -745,8 +745,8 @@
     "name": "Kingsway",
     "slug": "vancouver/kingsway",
     "city": "Vancouver",
-    "lastIncident": "2026-07-18T14:05:00Z",
-    "count": 34
+    "lastIncident": "2026-07-18T16:28:00Z",
+    "count": 35
   },
   "vancouver/knight-st": {
     "name": "Knight St",
@@ -1921,8 +1921,8 @@
     "name": "Maclure Rd",
     "slug": "abbotsford/maclure-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-06T17:28:00Z",
-    "count": 14
+    "lastIncident": "2026-07-18T16:38:00Z",
+    "count": 15
   },
   "vancouver/renfrew-st": {
     "name": "Renfrew St",
@@ -4637,8 +4637,8 @@
     "name": "224th St",
     "slug": "maple-ridge/224th-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-07-09T13:13:00Z",
-    "count": 8
+    "lastIncident": "2026-07-18T16:51:00Z",
+    "count": 9
   },
   "maple-ridge/124th-ave": {
     "name": "124th Ave",
@@ -5232,8 +5232,8 @@
     "name": "Gladwin Rd",
     "slug": "abbotsford/gladwin-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-16T23:34:00Z",
-    "count": 17
+    "lastIncident": "2026-07-18T16:38:00Z",
+    "count": 18
   },
   "surrey/old-yale-rd": {
     "name": "Old Yale Rd",
@@ -14389,6 +14389,13 @@
     "slug": "burnaby/wiggins-st",
     "city": "Burnaby",
     "lastIncident": "2026-07-18T03:12:00Z",
+    "count": 1
+  },
+  "abbotsford/27988-fraser-hwy": {
+    "name": "27988 Fraser Hwy",
+    "slug": "abbotsford/27988-fraser-hwy",
+    "city": "Abbotsford",
+    "lastIncident": "2026-07-18T17:10:00Z",
     "count": 1
   }
 }

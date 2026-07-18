@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-18T16:38:00Z_abbotsford/gladwin-rd_abbotsford/maclure-rd",
+      "timestamp": "2026-07-18T16:38:00Z",
+      "address": "GLADWIN RD & MACLURE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/gladwin-rd",
+        "abbotsford/maclure-rd"
+      ],
+      "streetNames": [
+        "Gladwin Rd",
+        "Maclure Rd"
+      ],
+      "pulsePointId": "2521740180"
+    },
+    {
       "id": "2026-07-16T23:34:00Z_abbotsford/gladwin-rd_abbotsford/harris-rd",
       "timestamp": "2026-07-16T23:34:00Z",
       "address": "GLADWIN RD & HARRIS RD",
@@ -255,6 +270,6 @@
       "pulsePointId": "2447162234"
     }
   ],
-  "lastIncident": "2026-07-16T23:34:00Z",
-  "count": 17
+  "lastIncident": "2026-07-18T16:38:00Z",
+  "count": 18
 }

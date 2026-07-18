@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/27988-fraser-hwy",
+  "name": "27988 Fraser Hwy",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-07-18T17:10:00Z_abbotsford/27988-fraser-hwy",
+      "timestamp": "2026-07-18T17:10:00Z",
+      "address": "27988 FRASER HWY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/27988-fraser-hwy"
+      ],
+      "streetNames": [
+        "27988 Fraser Hwy"
+      ],
+      "pulsePointId": "2521759622"
+    }
+  ],
+  "lastIncident": "2026-07-18T17:10:00Z",
+  "count": 1
+}
