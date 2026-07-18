@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/1100-beach-ave",
+  "name": "1100 Beach Ave",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-07-18T22:28:00Z_vancouver/1100-beach-ave",
+      "timestamp": "2026-07-18T22:28:00Z",
+      "address": "1100 BEACH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/1100-beach-ave"
+      ],
+      "streetNames": [
+        "1100 Beach Ave"
+      ],
+      "pulsePointId": "2521970148"
+    }
+  ],
+  "lastIncident": "2026-07-18T22:28:00Z",
+  "count": 1
+}

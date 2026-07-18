@@ -14425,5 +14425,12 @@
     "city": "North Vancouver",
     "lastIncident": "2026-07-18T20:55:00Z",
     "count": 1
+  },
+  "vancouver/1100-beach-ave": {
+    "name": "1100 Beach Ave",
+    "slug": "vancouver/1100-beach-ave",
+    "city": "Vancouver",
+    "lastIncident": "2026-07-18T22:28:00Z",
+    "count": 1
   }
 }

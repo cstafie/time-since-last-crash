@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-07-18T22:28:00Z_vancouver/1100-beach-ave",
+    "timestamp": "2026-07-18T22:28:00Z",
+    "scrapedAt": "2026-07-18T22:35:03Z",
+    "address": "1100 BEACH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/1100-beach-ave"
+    ],
+    "streetNames": [
+      "1100 Beach Ave"
+    ],
+    "pulsePointId": "2521970148"
+  },
+  {
     "id": "2026-07-18T21:11:00Z_vancouver/se-marine-dr_vancouver/sherbrooke-st",
     "timestamp": "2026-07-18T21:11:00Z",
     "scrapedAt": "2026-07-18T21:37:30Z",
