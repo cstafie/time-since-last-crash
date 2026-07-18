@@ -1,5 +1,83 @@
 [
   {
+    "id": "2026-07-18T19:19:00Z_abbotsford/willet-rd_abbotsford/straiton-rd",
+    "timestamp": "2026-07-18T19:19:00Z",
+    "scrapedAt": "2026-07-18T19:37:31Z",
+    "address": "WILLET RD & STRAITON RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/willet-rd",
+      "abbotsford/straiton-rd"
+    ],
+    "streetNames": [
+      "Willet Rd",
+      "Straiton Rd"
+    ],
+    "pulsePointId": "2521841306"
+  },
+  {
+    "id": "2026-07-18T18:58:00Z_surrey/136th-st_surrey/58th-ave",
+    "timestamp": "2026-07-18T18:58:00Z",
+    "scrapedAt": "2026-07-18T19:37:31Z",
+    "address": "136TH ST & 58TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/136th-st",
+      "surrey/58th-ave"
+    ],
+    "streetNames": [
+      "136th St",
+      "58th Ave"
+    ],
+    "pulsePointId": "2521827080"
+  },
+  {
+    "id": "2026-07-18T18:57:00Z_surrey/156th-st_surrey/100th-ave",
+    "timestamp": "2026-07-18T18:57:00Z",
+    "scrapedAt": "2026-07-18T19:37:31Z",
+    "address": "156TH ST & 100TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/156th-st",
+      "surrey/100th-ave"
+    ],
+    "streetNames": [
+      "156th St",
+      "100th Ave"
+    ],
+    "pulsePointId": "2521825685"
+  },
+  {
+    "id": "2026-07-18T18:56:00Z_surrey/136th-st_surrey/58th-ave",
+    "timestamp": "2026-07-18T18:56:00Z",
+    "scrapedAt": "2026-07-18T19:37:31Z",
+    "address": "136TH ST & 58TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/136th-st",
+      "surrey/58th-ave"
+    ],
+    "streetNames": [
+      "136th St",
+      "58th Ave"
+    ],
+    "pulsePointId": "2521827333"
+  },
+  {
+    "id": "2026-07-18T18:13:00Z_chilliwack/prairie-central-rd",
+    "timestamp": "2026-07-18T18:13:00Z",
+    "scrapedAt": "2026-07-18T19:37:31Z",
+    "address": "PRAIRIE CENTRAL RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/prairie-central-rd"
+    ],
+    "streetNames": [
+      "Prairie Central Rd"
+    ],
+    "pulsePointId": "2521797313"
+  },
+  {
     "id": "2026-07-18T17:10:00Z_abbotsford/27988-fraser-hwy",
     "timestamp": "2026-07-18T17:10:00Z",
     "scrapedAt": "2026-07-18T17:26:53Z",

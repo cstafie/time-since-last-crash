@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-18T19:19:00Z_abbotsford/willet-rd_abbotsford/straiton-rd",
+      "timestamp": "2026-07-18T19:19:00Z",
+      "address": "WILLET RD & STRAITON RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/willet-rd",
+        "abbotsford/straiton-rd"
+      ],
+      "streetNames": [
+        "Willet Rd",
+        "Straiton Rd"
+      ],
+      "pulsePointId": "2521841306"
+    },
+    {
       "id": "2026-05-21T22:26:00Z_abbotsford/straiton-rd",
       "timestamp": "2026-05-21T22:26:00Z",
       "address": "STRAITON RD",
@@ -45,6 +60,6 @@
       "pulsePointId": "2446468661"
     }
   ],
-  "lastIncident": "2026-05-21T22:26:00Z",
-  "count": 3
+  "lastIncident": "2026-07-18T19:19:00Z",
+  "count": 4
 }
