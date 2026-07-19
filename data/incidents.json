@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-07-19T21:35:00Z_surrey/184th-st_surrey/80th-ave",
+    "timestamp": "2026-07-19T21:35:00Z",
+    "scrapedAt": "2026-07-19T21:38:38Z",
+    "address": "184TH ST & 80TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/184th-st",
+      "surrey/80th-ave"
+    ],
+    "streetNames": [
+      "184th St",
+      "80th Ave"
+    ],
+    "pulsePointId": "2522655653"
+  },
+  {
+    "id": "2026-07-19T21:27:00Z_surrey/95th-ave_surrey/127th-st",
+    "timestamp": "2026-07-19T21:27:00Z",
+    "scrapedAt": "2026-07-19T21:38:38Z",
+    "address": "95TH AVE & 127TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/95th-ave",
+      "surrey/127th-st"
+    ],
+    "streetNames": [
+      "95th Ave",
+      "127th St"
+    ],
+    "pulsePointId": "2522649754"
+  },
+  {
     "id": "2026-07-19T19:36:00Z_richmond/cooney-rd_richmond/westminster-hwy",
     "timestamp": "2026-07-19T19:36:00Z",
     "scrapedAt": "2026-07-19T20:35:29Z",
