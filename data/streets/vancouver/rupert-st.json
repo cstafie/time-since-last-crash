@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-19T14:24:00Z_vancouver/grandview-hwy_vancouver/rupert-st",
+      "timestamp": "2026-07-19T14:24:00Z",
+      "address": "GRANDVIEW HWY & RUPERT ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/grandview-hwy",
+        "vancouver/rupert-st"
+      ],
+      "streetNames": [
+        "Grandview Hwy",
+        "Rupert St"
+      ],
+      "pulsePointId": "2522413620"
+    },
+    {
       "id": "2026-07-18T16:06:00Z_vancouver/rupert-st_vancouver/grandview-hwy",
       "timestamp": "2026-07-18T16:06:00Z",
       "address": "RUPERT ST & GRANDVIEW HWY",
@@ -270,6 +285,6 @@
       "pulsePointId": "2434824658"
     }
   ],
-  "lastIncident": "2026-07-18T16:06:00Z",
-  "count": 18
+  "lastIncident": "2026-07-19T14:24:00Z",
+  "count": 19
 }

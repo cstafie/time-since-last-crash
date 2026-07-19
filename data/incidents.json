@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-19T14:24:00Z_vancouver/grandview-hwy_vancouver/rupert-st",
+    "timestamp": "2026-07-19T14:24:00Z",
+    "scrapedAt": "2026-07-19T15:28:31Z",
+    "address": "GRANDVIEW HWY & RUPERT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/grandview-hwy",
+      "vancouver/rupert-st"
+    ],
+    "streetNames": [
+      "Grandview Hwy",
+      "Rupert St"
+    ],
+    "pulsePointId": "2522413620"
+  },
+  {
     "id": "2026-07-19T12:25:00Z_burnaby/market-crss",
     "timestamp": "2026-07-19T12:25:00Z",
     "scrapedAt": "2026-07-19T12:43:29Z",
