@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-19T06:26:00Z_burnaby/imperial-st_burnaby/patterson-ave",
+      "timestamp": "2026-07-19T06:26:00Z",
+      "address": "IMPERIAL ST & PATTERSON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/imperial-st",
+        "burnaby/patterson-ave"
+      ],
+      "streetNames": [
+        "Imperial St",
+        "Patterson Ave"
+      ],
+      "pulsePointId": "2522256969"
+    },
+    {
       "id": "2026-07-17T20:31:00Z_burnaby/imperial-st_burnaby/kingsway",
       "timestamp": "2026-07-17T20:31:00Z",
       "address": "IMPERIAL ST & KINGSWAY",
@@ -208,6 +223,6 @@
       "pulsePointId": "2442839188"
     }
   ],
-  "lastIncident": "2026-07-17T20:31:00Z",
-  "count": 14
+  "lastIncident": "2026-07-19T06:26:00Z",
+  "count": 15
 }

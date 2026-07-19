@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-07-19T06:26:00Z_burnaby/imperial-st_burnaby/patterson-ave",
+    "timestamp": "2026-07-19T06:26:00Z",
+    "scrapedAt": "2026-07-19T07:19:00Z",
+    "address": "IMPERIAL ST & PATTERSON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/imperial-st",
+      "burnaby/patterson-ave"
+    ],
+    "streetNames": [
+      "Imperial St",
+      "Patterson Ave"
+    ],
+    "pulsePointId": "2522256969"
+  },
+  {
+    "id": "2026-07-19T06:12:00Z_abbotsford/fraser-hwy",
+    "timestamp": "2026-07-19T06:12:00Z",
+    "scrapedAt": "2026-07-19T07:19:00Z",
+    "address": "FRASER HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/fraser-hwy"
+    ],
+    "streetNames": [
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2522249687"
+  },
+  {
+    "id": "2026-07-19T05:43:00Z_mission/stave-lake-st",
+    "timestamp": "2026-07-19T05:43:00Z",
+    "scrapedAt": "2026-07-19T07:19:00Z",
+    "address": "STAVE LAKE ST",
+    "city": "Mission",
+    "streets": [
+      "mission/stave-lake-st"
+    ],
+    "streetNames": [
+      "Stave Lake St"
+    ],
+    "pulsePointId": "2522236954"
+  },
+  {
+    "id": "2026-07-19T05:33:00Z_surrey/142nd-st_surrey/grosvenor-rd",
+    "timestamp": "2026-07-19T05:33:00Z",
+    "scrapedAt": "2026-07-19T07:19:00Z",
+    "address": "142ND ST & GROSVENOR RD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/142nd-st",
+      "surrey/grosvenor-rd"
+    ],
+    "streetNames": [
+      "142nd St",
+      "Grosvenor Rd"
+    ],
+    "pulsePointId": "2522232476"
+  },
+  {
     "id": "2026-07-19T04:31:00Z_vancouver/knight-st_vancouver/e-41st-ave",
     "timestamp": "2026-07-19T04:31:00Z",
     "scrapedAt": "2026-07-19T04:40:29Z",
