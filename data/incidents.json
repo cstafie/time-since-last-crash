@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-07-19T23:29:00Z_langley/264th-st",
+    "timestamp": "2026-07-19T23:29:00Z",
+    "scrapedAt": "2026-07-19T23:43:09Z",
+    "address": "264TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/264th-st"
+    ],
+    "streetNames": [
+      "264th St"
+    ],
+    "pulsePointId": "2522731817"
+  },
+  {
+    "id": "2026-07-19T23:25:00Z_surrey/18th-ave_surrey/152nd-st",
+    "timestamp": "2026-07-19T23:25:00Z",
+    "scrapedAt": "2026-07-19T23:43:09Z",
+    "address": "18TH AVE & 152ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/18th-ave",
+      "surrey/152nd-st"
+    ],
+    "streetNames": [
+      "18th Ave",
+      "152nd St"
+    ],
+    "pulsePointId": "2522729576"
+  },
+  {
+    "id": "2026-07-19T23:02:00Z_surrey/88th-ave_surrey/154th-st",
+    "timestamp": "2026-07-19T23:02:00Z",
+    "scrapedAt": "2026-07-19T23:43:09Z",
+    "address": "88TH AVE & 154TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/88th-ave",
+      "surrey/154th-st"
+    ],
+    "streetNames": [
+      "88th Ave",
+      "154th St"
+    ],
+    "pulsePointId": "2522714913"
+  },
+  {
     "id": "2026-07-19T22:21:00Z_north-vancouver/apex-ave_north-vancouver/mt-seymour-pkwy",
     "timestamp": "2026-07-19T22:21:00Z",
     "scrapedAt": "2026-07-19T22:38:04Z",

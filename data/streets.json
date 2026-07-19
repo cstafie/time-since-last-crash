@@ -633,8 +633,8 @@
     "name": "88th Ave",
     "slug": "surrey/88th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-15T14:36:00Z",
-    "count": 46
+    "lastIncident": "2026-07-19T23:02:00Z",
+    "count": 47
   },
   "surrey/92nd-ave": {
     "name": "92nd Ave",
@@ -1179,8 +1179,8 @@
     "name": "264th St",
     "slug": "langley/264th-st",
     "city": "Langley",
-    "lastIncident": "2026-07-19T08:27:00Z",
-    "count": 14
+    "lastIncident": "2026-07-19T23:29:00Z",
+    "count": 15
   },
   "langley/64th-ave": {
     "name": "64th Ave",
@@ -1795,8 +1795,8 @@
     "name": "152nd St",
     "slug": "surrey/152nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-16T22:19:00Z",
-    "count": 41
+    "lastIncident": "2026-07-19T23:25:00Z",
+    "count": 42
   },
   "langley/20611-fraser-hwyste-111": {
     "name": "20611 Fraser Hwy,ste 111",
@@ -3223,8 +3223,8 @@
     "name": "154th St",
     "slug": "surrey/154th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-12T19:44:00Z",
-    "count": 6
+    "lastIncident": "2026-07-19T23:02:00Z",
+    "count": 7
   },
   "vancouver/w-42nd-ave": {
     "name": "W 42nd Ave",
@@ -7297,8 +7297,8 @@
     "name": "18th Ave",
     "slug": "surrey/18th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-04-29T22:55:00Z",
-    "count": 2
+    "lastIncident": "2026-07-19T23:25:00Z",
+    "count": 3
   },
   "mission/matheson-dr": {
     "name": "Matheson Dr",
