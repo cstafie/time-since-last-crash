@@ -3517,8 +3517,8 @@
     "name": "144a St",
     "slug": "surrey/144a-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-29T21:10:00Z",
-    "count": 2
+    "lastIncident": "2026-07-19T19:11:00Z",
+    "count": 3
   },
   "pitt-meadows/harris-rd": {
     "name": "Harris Rd",
@@ -14452,6 +14452,13 @@
     "slug": "pitt-meadows/190a-st",
     "city": "Pitt Meadows",
     "lastIncident": "2026-07-19T01:33:00Z",
+    "count": 1
+  },
+  "surrey/82a-ave": {
+    "name": "82a Ave",
+    "slug": "surrey/82a-ave",
+    "city": "Surrey",
+    "lastIncident": "2026-07-19T19:11:00Z",
     "count": 1
   }
 }

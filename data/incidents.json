@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-19T19:11:00Z_surrey/82a-ave_surrey/144a-st",
+    "timestamp": "2026-07-19T19:11:00Z",
+    "scrapedAt": "2026-07-19T19:37:24Z",
+    "address": "82A AVE & 144A ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/82a-ave",
+      "surrey/144a-st"
+    ],
+    "streetNames": [
+      "82a Ave",
+      "144a St"
+    ],
+    "pulsePointId": "2522568173"
+  },
+  {
     "id": "2026-07-19T18:22:00Z_port-coquitlam/maple-st_port-coquitlam/kingsway-ave",
     "timestamp": "2026-07-19T18:22:00Z",
     "scrapedAt": "2026-07-19T18:26:58Z",
