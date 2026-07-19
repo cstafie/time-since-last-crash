@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-19T18:22:00Z_port-coquitlam/maple-st_port-coquitlam/kingsway-ave",
+    "timestamp": "2026-07-19T18:22:00Z",
+    "scrapedAt": "2026-07-19T18:26:58Z",
+    "address": "MAPLE ST & KINGSWAY AVE",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/maple-st",
+      "port-coquitlam/kingsway-ave"
+    ],
+    "streetNames": [
+      "Maple St",
+      "Kingsway Ave"
+    ],
+    "pulsePointId": "2522540502"
+  },
+  {
     "id": "2026-07-19T16:45:00Z_abbotsford/no-3-rd",
     "timestamp": "2026-07-19T16:45:00Z",
     "scrapedAt": "2026-07-19T17:29:12Z",

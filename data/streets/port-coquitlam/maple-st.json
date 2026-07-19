@@ -4,6 +4,21 @@
   "city": "Port Coquitlam",
   "incidents": [
     {
+      "id": "2026-07-19T18:22:00Z_port-coquitlam/maple-st_port-coquitlam/kingsway-ave",
+      "timestamp": "2026-07-19T18:22:00Z",
+      "address": "MAPLE ST & KINGSWAY AVE",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/maple-st",
+        "port-coquitlam/kingsway-ave"
+      ],
+      "streetNames": [
+        "Maple St",
+        "Kingsway Ave"
+      ],
+      "pulsePointId": "2522540502"
+    },
+    {
       "id": "2026-07-07T21:22:00Z_port-coquitlam/mcallister-ave_port-coquitlam/maple-st",
       "timestamp": "2026-07-07T21:22:00Z",
       "address": "MCALLISTER AVE & MAPLE ST",
@@ -19,6 +34,6 @@
       "pulsePointId": "2513813533"
     }
   ],
-  "lastIncident": "2026-07-07T21:22:00Z",
-  "count": 1
+  "lastIncident": "2026-07-19T18:22:00Z",
+  "count": 2
 }
