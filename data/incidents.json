@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-19T22:21:00Z_north-vancouver/apex-ave_north-vancouver/mt-seymour-pkwy",
+    "timestamp": "2026-07-19T22:21:00Z",
+    "scrapedAt": "2026-07-19T22:38:04Z",
+    "address": "APEX AVE & MT SEYMOUR PKWY",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/apex-ave",
+      "north-vancouver/mt-seymour-pkwy"
+    ],
+    "streetNames": [
+      "Apex Ave",
+      "Mt Seymour Pkwy"
+    ],
+    "pulsePointId": "2522686435"
+  },
+  {
     "id": "2026-07-19T21:35:00Z_surrey/184th-st_surrey/80th-ave",
     "timestamp": "2026-07-19T21:35:00Z",
     "scrapedAt": "2026-07-19T21:38:38Z",
@@ -14,6 +30,20 @@
       "80th Ave"
     ],
     "pulsePointId": "2522655653"
+  },
+  {
+    "id": "2026-07-19T21:35:00Z_surrey/184th-st",
+    "timestamp": "2026-07-19T21:35:00Z",
+    "scrapedAt": "2026-07-19T22:38:04Z",
+    "address": "184TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/184th-st"
+    ],
+    "streetNames": [
+      "184th St"
+    ],
+    "pulsePointId": "2522654949"
   },
   {
     "id": "2026-07-19T21:27:00Z_surrey/95th-ave_surrey/127th-st",
