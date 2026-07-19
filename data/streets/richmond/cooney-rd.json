@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-19T19:36:00Z_richmond/cooney-rd_richmond/westminster-hwy",
+      "timestamp": "2026-07-19T19:36:00Z",
+      "address": "COONEY RD & WESTMINSTER HWY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/cooney-rd",
+        "richmond/westminster-hwy"
+      ],
+      "streetNames": [
+        "Cooney Rd",
+        "Westminster Hwy"
+      ],
+      "pulsePointId": "2522584459"
+    },
+    {
       "id": "2026-05-15T14:52:00Z_richmond/cooney-rd_richmond/westminster-hwy",
       "timestamp": "2026-05-15T14:52:00Z",
       "address": "COONEY RD & WESTMINSTER HWY",
@@ -64,6 +79,6 @@
       "pulsePointId": "2441198820"
     }
   ],
-  "lastIncident": "2026-05-15T14:52:00Z",
-  "count": 4
+  "lastIncident": "2026-07-19T19:36:00Z",
+  "count": 5
 }

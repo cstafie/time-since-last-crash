@@ -990,8 +990,8 @@
     "name": "Westminster Hwy",
     "slug": "richmond/westminster-hwy",
     "city": "Richmond",
-    "lastIncident": "2026-07-14T17:19:00Z",
-    "count": 27
+    "lastIncident": "2026-07-19T19:36:00Z",
+    "count": 28
   },
   "vancouver/e-37th-ave": {
     "name": "E 37th Ave",
@@ -3958,8 +3958,8 @@
     "name": "Cooney Rd",
     "slug": "richmond/cooney-rd",
     "city": "Richmond",
-    "lastIncident": "2026-05-15T14:52:00Z",
-    "count": 4
+    "lastIncident": "2026-07-19T19:36:00Z",
+    "count": 5
   },
   "richmond/ackroyd-rd": {
     "name": "Ackroyd Rd",
