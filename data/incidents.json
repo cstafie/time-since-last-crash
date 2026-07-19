@@ -1,5 +1,129 @@
 [
   {
+    "id": "2026-07-19T04:31:00Z_vancouver/knight-st_vancouver/e-41st-ave",
+    "timestamp": "2026-07-19T04:31:00Z",
+    "scrapedAt": "2026-07-19T04:40:29Z",
+    "address": "KNIGHT ST & E 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/knight-st",
+      "vancouver/e-41st-ave"
+    ],
+    "streetNames": [
+      "Knight St",
+      "E 41st Ave"
+    ],
+    "pulsePointId": "2522199554"
+  },
+  {
+    "id": "2026-07-19T04:31:00Z_vancouver/e-41st-ave_vancouver/knight-st",
+    "timestamp": "2026-07-19T04:31:00Z",
+    "scrapedAt": "2026-07-19T04:40:29Z",
+    "address": "E 41ST AVE & KNIGHT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-41st-ave",
+      "vancouver/knight-st"
+    ],
+    "streetNames": [
+      "E 41st Ave",
+      "Knight St"
+    ],
+    "pulsePointId": "2522198254"
+  },
+  {
+    "id": "2026-07-19T03:51:00Z_burnaby/boundary-rd",
+    "timestamp": "2026-07-19T03:51:00Z",
+    "scrapedAt": "2026-07-19T04:40:29Z",
+    "address": "BOUNDARY RD",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/boundary-rd"
+    ],
+    "streetNames": [
+      "Boundary Rd"
+    ],
+    "pulsePointId": "2522175547"
+  },
+  {
+    "id": "2026-07-19T02:56:00Z_vancouver/e-63rd-ave_vancouver/ross-st",
+    "timestamp": "2026-07-19T02:56:00Z",
+    "scrapedAt": "2026-07-19T04:40:29Z",
+    "address": "E 63RD AVE & ROSS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-63rd-ave",
+      "vancouver/ross-st"
+    ],
+    "streetNames": [
+      "E 63rd Ave",
+      "Ross St"
+    ],
+    "pulsePointId": "2522142842"
+  },
+  {
+    "id": "2026-07-19T01:53:00Z_delta/minster-dr-s",
+    "timestamp": "2026-07-19T01:53:00Z",
+    "scrapedAt": "2026-07-19T04:40:29Z",
+    "address": "MINSTER DR S",
+    "city": "Delta",
+    "streets": [
+      "delta/minster-dr-s"
+    ],
+    "streetNames": [
+      "Minster Dr S"
+    ],
+    "pulsePointId": "2522104310"
+  },
+  {
+    "id": "2026-07-19T01:33:00Z_pitt-meadows/ford-rd_pitt-meadows/190a-st",
+    "timestamp": "2026-07-19T01:33:00Z",
+    "scrapedAt": "2026-07-19T04:40:29Z",
+    "address": "FORD RD & 190A ST",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/ford-rd",
+      "pitt-meadows/190a-st"
+    ],
+    "streetNames": [
+      "Ford Rd",
+      "190a St"
+    ],
+    "pulsePointId": "2522090073"
+  },
+  {
+    "id": "2026-07-19T01:28:00Z_richmond/cambie-rd_richmond/no-5-rd",
+    "timestamp": "2026-07-19T01:28:00Z",
+    "scrapedAt": "2026-07-19T04:40:29Z",
+    "address": "CAMBIE RD & NO 5 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/cambie-rd",
+      "richmond/no-5-rd"
+    ],
+    "streetNames": [
+      "Cambie Rd",
+      "No 5 Rd"
+    ],
+    "pulsePointId": "2522087797"
+  },
+  {
+    "id": "2026-07-19T01:25:00Z_vancouver/w-12th-ave_vancouver/trafalgar-st",
+    "timestamp": "2026-07-19T01:25:00Z",
+    "scrapedAt": "2026-07-19T04:40:29Z",
+    "address": "W 12TH AVE & TRAFALGAR ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-12th-ave",
+      "vancouver/trafalgar-st"
+    ],
+    "streetNames": [
+      "W 12th Ave",
+      "Trafalgar St"
+    ],
+    "pulsePointId": "2522085441"
+  },
+  {
     "id": "2026-07-19T00:26:00Z_vancouver/w-38th-ave_vancouver/granville-st",
     "timestamp": "2026-07-19T00:26:00Z",
     "scrapedAt": "2026-07-19T01:16:36Z",

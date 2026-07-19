@@ -717,8 +717,8 @@
     "name": "E 41st Ave",
     "slug": "vancouver/e-41st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-17T15:57:00Z",
-    "count": 41
+    "lastIncident": "2026-07-19T04:31:00Z",
+    "count": 43
   },
   "vancouver/granville-st": {
     "name": "Granville St",
@@ -752,8 +752,8 @@
     "name": "Knight St",
     "slug": "vancouver/knight-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-14T16:04:00Z",
-    "count": 35
+    "lastIncident": "2026-07-19T04:31:00Z",
+    "count": 37
   },
   "vancouver/lower-mall": {
     "name": "Lower Mall",
@@ -773,8 +773,8 @@
     "name": "W 12th Ave",
     "slug": "vancouver/w-12th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-12T03:40:00Z",
-    "count": 18
+    "lastIncident": "2026-07-19T01:25:00Z",
+    "count": 19
   },
   "vancouver/w-33rd-ave": {
     "name": "W 33rd Ave",
@@ -2061,8 +2061,8 @@
     "name": "Cambie Rd",
     "slug": "richmond/cambie-rd",
     "city": "Richmond",
-    "lastIncident": "2026-07-04T21:19:00Z",
-    "count": 12
+    "lastIncident": "2026-07-19T01:28:00Z",
+    "count": 13
   },
   "richmond/viking-way": {
     "name": "Viking Way",
@@ -2236,8 +2236,8 @@
     "name": "E 63rd Ave",
     "slug": "vancouver/e-63rd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-12T17:19:00Z",
-    "count": 7
+    "lastIncident": "2026-07-19T02:56:00Z",
+    "count": 8
   },
   "port-coquitlam/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -2572,8 +2572,8 @@
     "name": "No 5 Rd",
     "slug": "richmond/no-5-rd",
     "city": "Richmond",
-    "lastIncident": "2026-07-12T22:31:00Z",
-    "count": 17
+    "lastIncident": "2026-07-19T01:28:00Z",
+    "count": 18
   },
   "port-moody/heritage-mountain-blvd": {
     "name": "Heritage Mountain Blvd",
@@ -2747,8 +2747,8 @@
     "name": "Trafalgar St",
     "slug": "vancouver/trafalgar-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-09T13:42:00Z",
-    "count": 2
+    "lastIncident": "2026-07-19T01:25:00Z",
+    "count": 3
   },
   "langley/204th-st": {
     "name": "204th St",
@@ -2782,8 +2782,8 @@
     "name": "Boundary Rd",
     "slug": "burnaby/boundary-rd",
     "city": "Burnaby",
-    "lastIncident": "2026-07-10T00:14:00Z",
-    "count": 18
+    "lastIncident": "2026-07-19T03:51:00Z",
+    "count": 19
   },
   "coquitlam/westview-st": {
     "name": "Westview St",
@@ -5337,8 +5337,8 @@
     "name": "Ross St",
     "slug": "vancouver/ross-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-06T14:43:00Z",
-    "count": 8
+    "lastIncident": "2026-07-19T02:56:00Z",
+    "count": 9
   },
   "delta/barmston-pl": {
     "name": "Barmston Pl",
@@ -14431,6 +14431,27 @@
     "slug": "vancouver/1100-beach-ave",
     "city": "Vancouver",
     "lastIncident": "2026-07-18T22:28:00Z",
+    "count": 1
+  },
+  "delta/minster-dr-s": {
+    "name": "Minster Dr S",
+    "slug": "delta/minster-dr-s",
+    "city": "Delta",
+    "lastIncident": "2026-07-19T01:53:00Z",
+    "count": 1
+  },
+  "pitt-meadows/ford-rd": {
+    "name": "Ford Rd",
+    "slug": "pitt-meadows/ford-rd",
+    "city": "Pitt Meadows",
+    "lastIncident": "2026-07-19T01:33:00Z",
+    "count": 1
+  },
+  "pitt-meadows/190a-st": {
+    "name": "190a St",
+    "slug": "pitt-meadows/190a-st",
+    "city": "Pitt Meadows",
+    "lastIncident": "2026-07-19T01:33:00Z",
     "count": 1
   }
 }

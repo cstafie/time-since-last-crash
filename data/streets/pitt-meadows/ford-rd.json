@@ -1,0 +1,24 @@
+{
+  "slug": "pitt-meadows/ford-rd",
+  "name": "Ford Rd",
+  "city": "Pitt Meadows",
+  "incidents": [
+    {
+      "id": "2026-07-19T01:33:00Z_pitt-meadows/ford-rd_pitt-meadows/190a-st",
+      "timestamp": "2026-07-19T01:33:00Z",
+      "address": "FORD RD & 190A ST",
+      "city": "Pitt Meadows",
+      "streets": [
+        "pitt-meadows/ford-rd",
+        "pitt-meadows/190a-st"
+      ],
+      "streetNames": [
+        "Ford Rd",
+        "190a St"
+      ],
+      "pulsePointId": "2522090073"
+    }
+  ],
+  "lastIncident": "2026-07-19T01:33:00Z",
+  "count": 1
+}

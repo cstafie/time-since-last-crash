@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-19T01:28:00Z_richmond/cambie-rd_richmond/no-5-rd",
+      "timestamp": "2026-07-19T01:28:00Z",
+      "address": "CAMBIE RD & NO 5 RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/cambie-rd",
+        "richmond/no-5-rd"
+      ],
+      "streetNames": [
+        "Cambie Rd",
+        "No 5 Rd"
+      ],
+      "pulsePointId": "2522087797"
+    },
+    {
       "id": "2026-07-12T22:31:00Z_richmond/blundell-rd_richmond/no-5-rd",
       "timestamp": "2026-07-12T22:31:00Z",
       "address": "BLUNDELL RD & NO 5 RD",
@@ -249,6 +264,6 @@
       "pulsePointId": "2435827761"
     }
   ],
-  "lastIncident": "2026-07-12T22:31:00Z",
-  "count": 17
+  "lastIncident": "2026-07-19T01:28:00Z",
+  "count": 18
 }

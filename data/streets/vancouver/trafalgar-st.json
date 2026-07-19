@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-19T01:25:00Z_vancouver/w-12th-ave_vancouver/trafalgar-st",
+      "timestamp": "2026-07-19T01:25:00Z",
+      "address": "W 12TH AVE & TRAFALGAR ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-12th-ave",
+        "vancouver/trafalgar-st"
+      ],
+      "streetNames": [
+        "W 12th Ave",
+        "Trafalgar St"
+      ],
+      "pulsePointId": "2522085441"
+    },
+    {
       "id": "2026-06-09T13:42:00Z_vancouver/w-4th-ave_vancouver/trafalgar-st",
       "timestamp": "2026-06-09T13:42:00Z",
       "address": "W 4TH AVE & TRAFALGAR ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2436342431"
     }
   ],
-  "lastIncident": "2026-06-09T13:42:00Z",
-  "count": 2
+  "lastIncident": "2026-07-19T01:25:00Z",
+  "count": 3
 }

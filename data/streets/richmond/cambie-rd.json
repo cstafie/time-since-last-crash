@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-19T01:28:00Z_richmond/cambie-rd_richmond/no-5-rd",
+      "timestamp": "2026-07-19T01:28:00Z",
+      "address": "CAMBIE RD & NO 5 RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/cambie-rd",
+        "richmond/no-5-rd"
+      ],
+      "streetNames": [
+        "Cambie Rd",
+        "No 5 Rd"
+      ],
+      "pulsePointId": "2522087797"
+    },
+    {
       "id": "2026-07-04T21:19:00Z_richmond/brown-rd_richmond/cambie-rd",
       "timestamp": "2026-07-04T21:19:00Z",
       "address": "BROWN RD & CAMBIE RD",
@@ -180,6 +195,6 @@
       "pulsePointId": "2434197215"
     }
   ],
-  "lastIncident": "2026-07-04T21:19:00Z",
-  "count": 12
+  "lastIncident": "2026-07-19T01:28:00Z",
+  "count": 13
 }
