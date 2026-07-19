@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-17T00:10:00Z",
-    "count": 64
+    "lastIncident": "2026-07-19T00:26:00Z",
+    "count": 65
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -1186,8 +1186,8 @@
     "name": "64th Ave",
     "slug": "langley/64th-ave",
     "city": "Langley",
-    "lastIncident": "2026-07-05T01:35:00Z",
-    "count": 14
+    "lastIncident": "2026-07-18T23:38:00Z",
+    "count": 15
   },
   "chilliwack/watson-rd": {
     "name": "Watson Rd",
@@ -6443,8 +6443,8 @@
     "name": "224th St",
     "slug": "langley/224th-st",
     "city": "Langley",
-    "lastIncident": "2026-07-16T22:10:00Z",
-    "count": 4
+    "lastIncident": "2026-07-18T23:38:00Z",
+    "count": 5
   },
   "surrey/76th-ave": {
     "name": "76th Ave",
@@ -8179,8 +8179,8 @@
     "name": "W 38th Ave",
     "slug": "vancouver/w-38th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-11T02:02:00Z",
-    "count": 2
+    "lastIncident": "2026-07-19T00:26:00Z",
+    "count": 3
   },
   "burnaby/18th-ave": {
     "name": "18th Ave",

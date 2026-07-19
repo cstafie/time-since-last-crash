@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-19T00:26:00Z_vancouver/w-38th-ave_vancouver/granville-st",
+      "timestamp": "2026-07-19T00:26:00Z",
+      "address": "W 38TH AVE & GRANVILLE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-38th-ave",
+        "vancouver/granville-st"
+      ],
+      "streetNames": [
+        "W 38th Ave",
+        "Granville St"
+      ],
+      "pulsePointId": "2522047171"
+    },
+    {
       "id": "2026-07-11T02:02:00Z_vancouver/oak-st_vancouver/w-38th-ave",
       "timestamp": "2026-07-11T02:02:00Z",
       "address": "OAK ST & W 38TH AVE",
@@ -34,6 +49,6 @@
       "pulsePointId": "2464192675"
     }
   ],
-  "lastIncident": "2026-07-11T02:02:00Z",
-  "count": 2
+  "lastIncident": "2026-07-19T00:26:00Z",
+  "count": 3
 }
