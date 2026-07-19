@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-07-19T08:27:00Z_langley/fraser-hwy_langley/264th-st",
+      "timestamp": "2026-07-19T08:27:00Z",
+      "address": "FRASER HWY & 264TH ST",
+      "city": "Langley",
+      "streets": [
+        "langley/fraser-hwy",
+        "langley/264th-st"
+      ],
+      "streetNames": [
+        "Fraser Hwy",
+        "264th St"
+      ],
+      "pulsePointId": "2522302875"
+    },
+    {
       "id": "2026-07-15T19:38:00Z_langley/fraser-hwy_langley/268th-st",
       "timestamp": "2026-07-15T19:38:00Z",
       "address": "FRASER HWY & 268TH ST",
@@ -680,6 +695,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-15T19:38:00Z",
-  "count": 47
+  "lastIncident": "2026-07-19T08:27:00Z",
+  "count": 48
 }
