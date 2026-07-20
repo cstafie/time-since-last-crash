@@ -1249,8 +1249,8 @@
     "name": "Trans Canada Hwy",
     "slug": "burnaby/trans-canada-hwy",
     "city": "Burnaby",
-    "lastIncident": "2026-07-20T08:46:00Z",
-    "count": 35
+    "lastIncident": "2026-07-20T15:47:00Z",
+    "count": 36
   },
   "vancouver/e-1st-ave": {
     "name": "E 1st Ave",
@@ -3629,8 +3629,8 @@
     "name": "Williams Rd",
     "slug": "richmond/williams-rd",
     "city": "Richmond",
-    "lastIncident": "2026-07-08T22:39:00Z",
-    "count": 7
+    "lastIncident": "2026-07-20T15:07:00Z",
+    "count": 8
   },
   "surrey/91st-ave": {
     "name": "91st Ave",
@@ -5799,8 +5799,8 @@
     "name": "Dewdney Trunk Rd",
     "slug": "mission/dewdney-trunk-rd",
     "city": "Mission",
-    "lastIncident": "2026-07-11T22:58:00Z",
-    "count": 5
+    "lastIncident": "2026-07-20T15:45:00Z",
+    "count": 6
   },
   "mission/creston-ave": {
     "name": "Creston Ave",
@@ -8361,8 +8361,8 @@
     "name": "Larson Rd",
     "slug": "north-vancouver/larson-rd",
     "city": "North Vancouver",
-    "lastIncident": "2026-05-01T17:47:00Z",
-    "count": 1
+    "lastIncident": "2026-07-20T15:24:00Z",
+    "count": 2
   },
   "north-vancouver/bewicke-ave": {
     "name": "Bewicke Ave",
@@ -14515,6 +14515,20 @@
     "slug": "abbotsford/no-5-rd",
     "city": "Abbotsford",
     "lastIncident": "2026-07-20T13:34:00Z",
+    "count": 1
+  },
+  "langley/walnut-grove-dr": {
+    "name": "Walnut Grove Dr",
+    "slug": "langley/walnut-grove-dr",
+    "city": "Langley",
+    "lastIncident": "2026-07-20T15:30:00Z",
+    "count": 1
+  },
+  "north-vancouver/w-20th-st": {
+    "name": "W 20th St",
+    "slug": "north-vancouver/w-20th-st",
+    "city": "North Vancouver",
+    "lastIncident": "2026-07-20T15:24:00Z",
     "count": 1
   }
 }

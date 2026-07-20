@@ -1,6 +1,6 @@
 {
-  "slug": "north-vancouver/larson-rd",
-  "name": "Larson Rd",
+  "slug": "north-vancouver/w-20th-st",
+  "name": "W 20th St",
   "city": "North Vancouver",
   "incidents": [
     {
@@ -17,23 +17,8 @@
         "Larson Rd"
       ],
       "pulsePointId": "2523147126"
-    },
-    {
-      "id": "2026-05-01T17:47:00Z_north-vancouver/larson-rd_north-vancouver/bewicke-ave",
-      "timestamp": "2026-05-01T17:47:00Z",
-      "address": "LARSON RD & BEWICKE AVE",
-      "city": "North Vancouver",
-      "streets": [
-        "north-vancouver/larson-rd",
-        "north-vancouver/bewicke-ave"
-      ],
-      "streetNames": [
-        "Larson Rd",
-        "Bewicke Ave"
-      ],
-      "pulsePointId": "2465244286"
     }
   ],
   "lastIncident": "2026-07-20T15:24:00Z",
-  "count": 2
+  "count": 1
 }

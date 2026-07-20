@@ -1,5 +1,77 @@
 [
   {
+    "id": "2026-07-20T15:47:00Z_burnaby/trans-canada-hwy",
+    "timestamp": "2026-07-20T15:47:00Z",
+    "scrapedAt": "2026-07-20T16:49:22Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2523163466"
+  },
+  {
+    "id": "2026-07-20T15:45:00Z_mission/dewdney-trunk-rd",
+    "timestamp": "2026-07-20T15:45:00Z",
+    "scrapedAt": "2026-07-20T16:49:22Z",
+    "address": "DEWDNEY TRUNK RD",
+    "city": "Mission",
+    "streets": [
+      "mission/dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2523159830"
+  },
+  {
+    "id": "2026-07-20T15:30:00Z_langley/walnut-grove-dr",
+    "timestamp": "2026-07-20T15:30:00Z",
+    "scrapedAt": "2026-07-20T16:49:22Z",
+    "address": "WALNUT GROVE DR",
+    "city": "Langley",
+    "streets": [
+      "langley/walnut-grove-dr"
+    ],
+    "streetNames": [
+      "Walnut Grove Dr"
+    ],
+    "pulsePointId": "2523150640"
+  },
+  {
+    "id": "2026-07-20T15:24:00Z_north-vancouver/w-20th-st_north-vancouver/larson-rd",
+    "timestamp": "2026-07-20T15:24:00Z",
+    "scrapedAt": "2026-07-20T16:49:22Z",
+    "address": "W 20TH ST & LARSON RD",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/w-20th-st",
+      "north-vancouver/larson-rd"
+    ],
+    "streetNames": [
+      "W 20th St",
+      "Larson Rd"
+    ],
+    "pulsePointId": "2523147126"
+  },
+  {
+    "id": "2026-07-20T15:07:00Z_richmond/williams-rd",
+    "timestamp": "2026-07-20T15:07:00Z",
+    "scrapedAt": "2026-07-20T16:49:22Z",
+    "address": "WILLIAMS RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/williams-rd"
+    ],
+    "streetNames": [
+      "Williams Rd"
+    ],
+    "pulsePointId": "2523138253"
+  },
+  {
     "id": "2026-07-20T14:58:00Z_chilliwack/45816-yale-rd",
     "timestamp": "2026-07-20T14:58:00Z",
     "scrapedAt": "2026-07-20T15:06:38Z",

@@ -1,0 +1,22 @@
+{
+  "slug": "langley/walnut-grove-dr",
+  "name": "Walnut Grove Dr",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-07-20T15:30:00Z_langley/walnut-grove-dr",
+      "timestamp": "2026-07-20T15:30:00Z",
+      "address": "WALNUT GROVE DR",
+      "city": "Langley",
+      "streets": [
+        "langley/walnut-grove-dr"
+      ],
+      "streetNames": [
+        "Walnut Grove Dr"
+      ],
+      "pulsePointId": "2523150640"
+    }
+  ],
+  "lastIncident": "2026-07-20T15:30:00Z",
+  "count": 1
+}
