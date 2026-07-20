@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-07-20T00:36:00Z_vancouver/e-hastings-st_vancouver/mclean-dr",
+    "timestamp": "2026-07-20T00:36:00Z",
+    "scrapedAt": "2026-07-20T01:20:11Z",
+    "address": "E HASTINGS ST & MCLEAN DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-hastings-st",
+      "vancouver/mclean-dr"
+    ],
+    "streetNames": [
+      "E Hastings St",
+      "Mclean Dr"
+    ],
+    "pulsePointId": "2522775946"
+  },
+  {
+    "id": "2026-07-20T00:36:00Z_vancouver/e-hastings-st",
+    "timestamp": "2026-07-20T00:36:00Z",
+    "scrapedAt": "2026-07-20T01:20:11Z",
+    "address": "E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "E Hastings St"
+    ],
+    "pulsePointId": "2522775540"
+  },
+  {
     "id": "2026-07-19T23:29:00Z_langley/264th-st",
     "timestamp": "2026-07-19T23:29:00Z",
     "scrapedAt": "2026-07-19T23:43:09Z",

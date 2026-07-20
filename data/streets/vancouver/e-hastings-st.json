@@ -4,6 +4,34 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-20T00:36:00Z_vancouver/e-hastings-st_vancouver/mclean-dr",
+      "timestamp": "2026-07-20T00:36:00Z",
+      "address": "E HASTINGS ST & MCLEAN DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-hastings-st",
+        "vancouver/mclean-dr"
+      ],
+      "streetNames": [
+        "E Hastings St",
+        "Mclean Dr"
+      ],
+      "pulsePointId": "2522775946"
+    },
+    {
+      "id": "2026-07-20T00:36:00Z_vancouver/e-hastings-st",
+      "timestamp": "2026-07-20T00:36:00Z",
+      "address": "E HASTINGS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-hastings-st"
+      ],
+      "streetNames": [
+        "E Hastings St"
+      ],
+      "pulsePointId": "2522775540"
+    },
+    {
       "id": "2026-07-18T05:10:00Z_vancouver/e-hastings-st",
       "timestamp": "2026-07-18T05:10:00Z",
       "address": "E HASTINGS ST",
@@ -638,6 +666,6 @@
       "pulsePointId": "2433305056"
     }
   ],
-  "lastIncident": "2026-07-18T05:10:00Z",
-  "count": 44
+  "lastIncident": "2026-07-20T00:36:00Z",
+  "count": 46
 }
