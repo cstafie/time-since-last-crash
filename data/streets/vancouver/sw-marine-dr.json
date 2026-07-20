@@ -4,6 +4,36 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-20T17:49:00Z_vancouver/sw-marine-dr_vancouver/manitoba-st",
+      "timestamp": "2026-07-20T17:49:00Z",
+      "address": "SW MARINE DR & MANITOBA ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/sw-marine-dr",
+        "vancouver/manitoba-st"
+      ],
+      "streetNames": [
+        "Sw Marine Dr",
+        "Manitoba St"
+      ],
+      "pulsePointId": "2523245469"
+    },
+    {
+      "id": "2026-07-20T17:48:00Z_vancouver/sw-marine-dr_vancouver/manitoba-st",
+      "timestamp": "2026-07-20T17:48:00Z",
+      "address": "SW MARINE DR & MANITOBA ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/sw-marine-dr",
+        "vancouver/manitoba-st"
+      ],
+      "streetNames": [
+        "Sw Marine Dr",
+        "Manitoba St"
+      ],
+      "pulsePointId": "2523247522"
+    },
+    {
       "id": "2026-07-13T22:04:00Z_vancouver/sw-marine-dr_vancouver/yukon-st",
       "timestamp": "2026-07-13T22:04:00Z",
       "address": "SW MARINE DR & YUKON ST",
@@ -283,6 +313,6 @@
       "pulsePointId": "2453784324"
     }
   ],
-  "lastIncident": "2026-07-13T22:04:00Z",
-  "count": 19
+  "lastIncident": "2026-07-20T17:49:00Z",
+  "count": 21
 }

@@ -626,8 +626,8 @@
     "name": "84th Ave",
     "slug": "surrey/84th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-05T13:58:00Z",
-    "count": 26
+    "lastIncident": "2026-07-20T18:33:00Z",
+    "count": 27
   },
   "surrey/88th-ave": {
     "name": "88th Ave",
@@ -682,8 +682,8 @@
     "name": "Trans Canada Hwy",
     "slug": "surrey/trans-canada-hwy",
     "city": "Surrey",
-    "lastIncident": "2026-07-16T23:42:00Z",
-    "count": 30
+    "lastIncident": "2026-07-20T17:59:00Z",
+    "count": 31
   },
   "vancouver/balaclava-st": {
     "name": "Balaclava St",
@@ -1627,8 +1627,8 @@
     "name": "156th St",
     "slug": "surrey/156th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-18T18:57:00Z",
-    "count": 21
+    "lastIncident": "2026-07-20T18:33:00Z",
+    "count": 22
   },
   "north-vancouver/pemberton-ave": {
     "name": "Pemberton Ave",
@@ -2467,8 +2467,8 @@
     "name": "E Broadway",
     "slug": "vancouver/e-broadway",
     "city": "Vancouver",
-    "lastIncident": "2026-07-16T22:08:00Z",
-    "count": 18
+    "lastIncident": "2026-07-20T17:56:00Z",
+    "count": 19
   },
   "maple-ridge/240th-st": {
     "name": "240th St",
@@ -6219,8 +6219,8 @@
     "name": "Manitoba St",
     "slug": "vancouver/manitoba-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-10T00:47:00Z",
-    "count": 7
+    "lastIncident": "2026-07-20T17:49:00Z",
+    "count": 9
   },
   "surrey/coventry-rd": {
     "name": "Coventry Rd",
@@ -6597,8 +6597,8 @@
     "name": "Sw Marine Dr",
     "slug": "vancouver/sw-marine-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-07-13T22:04:00Z",
-    "count": 19
+    "lastIncident": "2026-07-20T17:49:00Z",
+    "count": 21
   },
   "surrey/54th-ave": {
     "name": "54th Ave",
@@ -6863,8 +6863,8 @@
     "name": "104th St",
     "slug": "delta/104th-st",
     "city": "Delta",
-    "lastIncident": "2026-05-16T13:53:00Z",
-    "count": 2
+    "lastIncident": "2026-07-20T17:24:00Z",
+    "count": 3
   },
   "vancouver/stirling-st": {
     "name": "Stirling St",
@@ -14529,6 +14529,13 @@
     "slug": "north-vancouver/w-20th-st",
     "city": "North Vancouver",
     "lastIncident": "2026-07-20T15:24:00Z",
+    "count": 1
+  },
+  "richmond/7900-westminster-hwy": {
+    "name": "7900 Westminster Hwy",
+    "slug": "richmond/7900-westminster-hwy",
+    "city": "Richmond",
+    "lastIncident": "2026-07-20T18:26:00Z",
     "count": 1
   }
 }

@@ -1,5 +1,109 @@
 [
   {
+    "id": "2026-07-20T18:33:00Z_surrey/156th-st_surrey/84th-ave",
+    "timestamp": "2026-07-20T18:33:00Z",
+    "scrapedAt": "2026-07-20T18:46:42Z",
+    "address": "156TH ST & 84TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/156th-st",
+      "surrey/84th-ave"
+    ],
+    "streetNames": [
+      "156th St",
+      "84th Ave"
+    ],
+    "pulsePointId": "2523277129"
+  },
+  {
+    "id": "2026-07-20T18:26:00Z_richmond/7900-westminster-hwy",
+    "timestamp": "2026-07-20T18:26:00Z",
+    "scrapedAt": "2026-07-20T18:46:42Z",
+    "address": "7900 WESTMINSTER HWY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/7900-westminster-hwy"
+    ],
+    "streetNames": [
+      "7900 Westminster Hwy"
+    ],
+    "pulsePointId": "2523273166"
+  },
+  {
+    "id": "2026-07-20T17:59:00Z_surrey/trans-canada-hwy",
+    "timestamp": "2026-07-20T17:59:00Z",
+    "scrapedAt": "2026-07-20T18:46:42Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2523255079"
+  },
+  {
+    "id": "2026-07-20T17:56:00Z_vancouver/e-broadway",
+    "timestamp": "2026-07-20T17:56:00Z",
+    "scrapedAt": "2026-07-20T18:46:42Z",
+    "address": "E BROADWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-broadway"
+    ],
+    "streetNames": [
+      "E Broadway"
+    ],
+    "pulsePointId": "2523250757"
+  },
+  {
+    "id": "2026-07-20T17:49:00Z_vancouver/sw-marine-dr_vancouver/manitoba-st",
+    "timestamp": "2026-07-20T17:49:00Z",
+    "scrapedAt": "2026-07-20T18:46:42Z",
+    "address": "SW MARINE DR & MANITOBA ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/sw-marine-dr",
+      "vancouver/manitoba-st"
+    ],
+    "streetNames": [
+      "Sw Marine Dr",
+      "Manitoba St"
+    ],
+    "pulsePointId": "2523245469"
+  },
+  {
+    "id": "2026-07-20T17:48:00Z_vancouver/sw-marine-dr_vancouver/manitoba-st",
+    "timestamp": "2026-07-20T17:48:00Z",
+    "scrapedAt": "2026-07-20T18:46:42Z",
+    "address": "SW MARINE DR & MANITOBA ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/sw-marine-dr",
+      "vancouver/manitoba-st"
+    ],
+    "streetNames": [
+      "Sw Marine Dr",
+      "Manitoba St"
+    ],
+    "pulsePointId": "2523247522"
+  },
+  {
+    "id": "2026-07-20T17:24:00Z_delta/104th-st",
+    "timestamp": "2026-07-20T17:24:00Z",
+    "scrapedAt": "2026-07-20T18:46:42Z",
+    "address": "104TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/104th-st"
+    ],
+    "streetNames": [
+      "104th St"
+    ],
+    "pulsePointId": "2523227034"
+  },
+  {
     "id": "2026-07-20T15:47:00Z_burnaby/trans-canada-hwy",
     "timestamp": "2026-07-20T15:47:00Z",
     "scrapedAt": "2026-07-20T16:49:22Z",

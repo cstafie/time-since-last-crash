@@ -1,0 +1,22 @@
+{
+  "slug": "richmond/7900-westminster-hwy",
+  "name": "7900 Westminster Hwy",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-07-20T18:26:00Z_richmond/7900-westminster-hwy",
+      "timestamp": "2026-07-20T18:26:00Z",
+      "address": "7900 WESTMINSTER HWY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/7900-westminster-hwy"
+      ],
+      "streetNames": [
+        "7900 Westminster Hwy"
+      ],
+      "pulsePointId": "2523273166"
+    }
+  ],
+  "lastIncident": "2026-07-20T18:26:00Z",
+  "count": 1
+}
