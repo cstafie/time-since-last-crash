@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-20T22:19:00Z_vancouver/manitoba-st_vancouver/w-2nd-ave",
+      "timestamp": "2026-07-20T22:19:00Z",
+      "address": "MANITOBA ST & W 2ND AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/manitoba-st",
+        "vancouver/w-2nd-ave"
+      ],
+      "streetNames": [
+        "Manitoba St",
+        "W 2nd Ave"
+      ],
+      "pulsePointId": "2523447476"
+    },
+    {
       "id": "2026-07-20T17:49:00Z_vancouver/sw-marine-dr_vancouver/manitoba-st",
       "timestamp": "2026-07-20T17:49:00Z",
       "address": "SW MARINE DR & MANITOBA ST",
@@ -139,6 +154,6 @@
       "pulsePointId": "2451848619"
     }
   ],
-  "lastIncident": "2026-07-20T17:49:00Z",
-  "count": 9
+  "lastIncident": "2026-07-20T22:19:00Z",
+  "count": 10
 }

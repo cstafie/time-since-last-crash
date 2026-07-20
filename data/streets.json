@@ -4161,8 +4161,8 @@
     "name": "W 2nd Ave",
     "slug": "vancouver/w-2nd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-10T00:47:00Z",
-    "count": 9
+    "lastIncident": "2026-07-20T22:19:00Z",
+    "count": 10
   },
   "vancouver/e-21st-ave": {
     "name": "E 21st Ave",
@@ -6219,8 +6219,8 @@
     "name": "Manitoba St",
     "slug": "vancouver/manitoba-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-20T17:49:00Z",
-    "count": 9
+    "lastIncident": "2026-07-20T22:19:00Z",
+    "count": 10
   },
   "surrey/coventry-rd": {
     "name": "Coventry Rd",

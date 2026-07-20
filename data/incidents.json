@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-20T22:19:00Z_vancouver/manitoba-st_vancouver/w-2nd-ave",
+    "timestamp": "2026-07-20T22:19:00Z",
+    "scrapedAt": "2026-07-20T22:43:07Z",
+    "address": "MANITOBA ST & W 2ND AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/manitoba-st",
+      "vancouver/w-2nd-ave"
+    ],
+    "streetNames": [
+      "Manitoba St",
+      "W 2nd Ave"
+    ],
+    "pulsePointId": "2523447476"
+  },
+  {
     "id": "2026-07-20T21:15:00Z_maple-ridge/25569-dewdney-trunk-rd",
     "timestamp": "2026-07-20T21:15:00Z",
     "scrapedAt": "2026-07-20T21:37:17Z",
