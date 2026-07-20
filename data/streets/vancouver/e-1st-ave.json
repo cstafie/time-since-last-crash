@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-20T06:27:00Z_vancouver/e-1st-ave_vancouver/commercial-dr",
+      "timestamp": "2026-07-20T06:27:00Z",
+      "address": "E 1ST AVE & COMMERCIAL DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-1st-ave",
+        "vancouver/commercial-dr"
+      ],
+      "streetNames": [
+        "E 1st Ave",
+        "Commercial Dr"
+      ],
+      "pulsePointId": "2522955232"
+    },
+    {
       "id": "2026-06-26T15:40:00Z_vancouver/clark-dr_vancouver/e-1st-ave",
       "timestamp": "2026-06-26T15:40:00Z",
       "address": "CLARK DR & E 1ST AVE",
@@ -226,6 +241,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-26T15:40:00Z",
-  "count": 15
+  "lastIncident": "2026-07-20T06:27:00Z",
+  "count": 16
 }

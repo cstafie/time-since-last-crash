@@ -1256,8 +1256,8 @@
     "name": "E 1st Ave",
     "slug": "vancouver/e-1st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-26T15:40:00Z",
-    "count": 15
+    "lastIncident": "2026-07-20T06:27:00Z",
+    "count": 16
   },
   "vancouver/boundary-rd": {
     "name": "Boundary Rd",
@@ -2131,8 +2131,8 @@
     "name": "Commercial Dr",
     "slug": "vancouver/commercial-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-06-22T21:27:00Z",
-    "count": 9
+    "lastIncident": "2026-07-20T06:27:00Z",
+    "count": 10
   },
   "mission/keystone-ave": {
     "name": "Keystone Ave",
