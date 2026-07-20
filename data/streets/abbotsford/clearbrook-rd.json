@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-20T01:59:00Z_abbotsford/clearbrook-rd_abbotsford/clearbrook-road-ofrp",
+      "timestamp": "2026-07-20T01:59:00Z",
+      "address": "CLEARBROOK RD & CLEARBROOK ROAD OFRP",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/clearbrook-rd",
+        "abbotsford/clearbrook-road-ofrp"
+      ],
+      "streetNames": [
+        "Clearbrook Rd",
+        "Clearbrook Road Ofrp"
+      ],
+      "pulsePointId": "2522825475"
+    },
+    {
       "id": "2026-07-17T12:23:00Z_abbotsford/clearbrook-rd_abbotsford/old-yale-rd",
       "timestamp": "2026-07-17T12:23:00Z",
       "address": "CLEARBROOK RD & OLD YALE RD",
@@ -386,6 +401,6 @@
       "pulsePointId": "2433749907"
     }
   ],
-  "lastIncident": "2026-07-17T12:23:00Z",
-  "count": 26
+  "lastIncident": "2026-07-20T01:59:00Z",
+  "count": 27
 }

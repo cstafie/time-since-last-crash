@@ -1,0 +1,22 @@
+{
+  "slug": "richmond/minler-rd",
+  "name": "Minler Rd",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-07-20T02:20:00Z_richmond/minler-rd",
+      "timestamp": "2026-07-20T02:20:00Z",
+      "address": "MINLER RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/minler-rd"
+      ],
+      "streetNames": [
+        "Minler Rd"
+      ],
+      "pulsePointId": "2522838441"
+    }
+  ],
+  "lastIncident": "2026-07-20T02:20:00Z",
+  "count": 1
+}

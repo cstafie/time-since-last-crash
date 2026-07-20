@@ -1,5 +1,83 @@
 [
   {
+    "id": "2026-07-20T02:56:00Z_surrey/140th-st_surrey/72nd-ave",
+    "timestamp": "2026-07-20T02:56:00Z",
+    "scrapedAt": "2026-07-20T04:57:48Z",
+    "address": "140TH ST & 72ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/140th-st",
+      "surrey/72nd-ave"
+    ],
+    "streetNames": [
+      "140th St",
+      "72nd Ave"
+    ],
+    "pulsePointId": "2522856204"
+  },
+  {
+    "id": "2026-07-20T02:20:00Z_richmond/minler-rd",
+    "timestamp": "2026-07-20T02:20:00Z",
+    "scrapedAt": "2026-07-20T04:57:48Z",
+    "address": "MINLER RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/minler-rd"
+    ],
+    "streetNames": [
+      "Minler Rd"
+    ],
+    "pulsePointId": "2522838441"
+  },
+  {
+    "id": "2026-07-20T01:59:00Z_abbotsford/clearbrook-rd_abbotsford/clearbrook-road-ofrp",
+    "timestamp": "2026-07-20T01:59:00Z",
+    "scrapedAt": "2026-07-20T04:57:48Z",
+    "address": "CLEARBROOK RD & CLEARBROOK ROAD OFRP",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/clearbrook-rd",
+      "abbotsford/clearbrook-road-ofrp"
+    ],
+    "streetNames": [
+      "Clearbrook Rd",
+      "Clearbrook Road Ofrp"
+    ],
+    "pulsePointId": "2522825475"
+  },
+  {
+    "id": "2026-07-20T01:38:00Z_burnaby/willingdon-ave_burnaby/deer-lake-pkwy",
+    "timestamp": "2026-07-20T01:38:00Z",
+    "scrapedAt": "2026-07-20T04:57:48Z",
+    "address": "WILLINGDON AVE & DEER LAKE PKWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/willingdon-ave",
+      "burnaby/deer-lake-pkwy"
+    ],
+    "streetNames": [
+      "Willingdon Ave",
+      "Deer Lake Pkwy"
+    ],
+    "pulsePointId": "2522812988"
+  },
+  {
+    "id": "2026-07-20T01:35:00Z_burnaby/deer-lake-pkwy_burnaby/willingdon-ave",
+    "timestamp": "2026-07-20T01:35:00Z",
+    "scrapedAt": "2026-07-20T04:57:48Z",
+    "address": "DEER LAKE PKWY & WILLINGDON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/deer-lake-pkwy",
+      "burnaby/willingdon-ave"
+    ],
+    "streetNames": [
+      "Deer Lake Pkwy",
+      "Willingdon Ave"
+    ],
+    "pulsePointId": "2522811052"
+  },
+  {
     "id": "2026-07-20T00:36:00Z_vancouver/e-hastings-st_vancouver/mclean-dr",
     "timestamp": "2026-07-20T00:36:00Z",
     "scrapedAt": "2026-07-20T01:20:11Z",

@@ -4,6 +4,36 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-20T01:38:00Z_burnaby/willingdon-ave_burnaby/deer-lake-pkwy",
+      "timestamp": "2026-07-20T01:38:00Z",
+      "address": "WILLINGDON AVE & DEER LAKE PKWY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/willingdon-ave",
+        "burnaby/deer-lake-pkwy"
+      ],
+      "streetNames": [
+        "Willingdon Ave",
+        "Deer Lake Pkwy"
+      ],
+      "pulsePointId": "2522812988"
+    },
+    {
+      "id": "2026-07-20T01:35:00Z_burnaby/deer-lake-pkwy_burnaby/willingdon-ave",
+      "timestamp": "2026-07-20T01:35:00Z",
+      "address": "DEER LAKE PKWY & WILLINGDON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/deer-lake-pkwy",
+        "burnaby/willingdon-ave"
+      ],
+      "streetNames": [
+        "Deer Lake Pkwy",
+        "Willingdon Ave"
+      ],
+      "pulsePointId": "2522811052"
+    },
+    {
       "id": "2026-07-18T00:07:00Z_burnaby/willingdon-ave",
       "timestamp": "2026-07-18T00:07:00Z",
       "address": "WILLINGDON AVE",
@@ -209,6 +239,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-18T00:07:00Z",
-  "count": 14
+  "lastIncident": "2026-07-20T01:38:00Z",
+  "count": 16
 }

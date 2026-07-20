@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/clearbrook-road-ofrp",
+  "name": "Clearbrook Road Ofrp",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-07-20T01:59:00Z_abbotsford/clearbrook-rd_abbotsford/clearbrook-road-ofrp",
+      "timestamp": "2026-07-20T01:59:00Z",
+      "address": "CLEARBROOK RD & CLEARBROOK ROAD OFRP",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/clearbrook-rd",
+        "abbotsford/clearbrook-road-ofrp"
+      ],
+      "streetNames": [
+        "Clearbrook Rd",
+        "Clearbrook Road Ofrp"
+      ],
+      "pulsePointId": "2522825475"
+    }
+  ],
+  "lastIncident": "2026-07-20T01:59:00Z",
+  "count": 1
+}
