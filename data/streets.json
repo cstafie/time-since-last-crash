@@ -395,8 +395,8 @@
     "name": "Capilano Rd",
     "slug": "north-vancouver/capilano-rd",
     "city": "North Vancouver",
-    "lastIncident": "2026-05-24T00:53:00Z",
-    "count": 5
+    "lastIncident": "2026-07-20T13:08:00Z",
+    "count": 6
   },
   "north-vancouver/e-2nd-st": {
     "name": "E 2nd St",
@@ -7780,8 +7780,8 @@
     "name": "Interprovincial Hwy",
     "slug": "abbotsford/interprovincial-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-04-26T13:45:00Z",
-    "count": 1
+    "lastIncident": "2026-07-20T13:34:00Z",
+    "count": 2
   },
   "abbotsford/no-3-rd": {
     "name": "No 3 Rd",
@@ -11945,8 +11945,8 @@
     "name": "Montroyal Blvd",
     "slug": "north-vancouver/montroyal-blvd",
     "city": "North Vancouver",
-    "lastIncident": "2026-06-11T23:36:00Z",
-    "count": 1
+    "lastIncident": "2026-07-20T13:08:00Z",
+    "count": 2
   },
   "vancouver/e-15th-ave": {
     "name": "E 15th Ave",
@@ -14494,6 +14494,27 @@
     "slug": "abbotsford/south-parallel-road-ofrp",
     "city": "Abbotsford",
     "lastIncident": "2026-07-20T09:18:00Z",
+    "count": 1
+  },
+  "chilliwack/45816-yale-rd": {
+    "name": "45816 Yale Rd",
+    "slug": "chilliwack/45816-yale-rd",
+    "city": "Chilliwack",
+    "lastIncident": "2026-07-20T14:58:00Z",
+    "count": 1
+  },
+  "mission/harbour-ave": {
+    "name": "Harbour Ave",
+    "slug": "mission/harbour-ave",
+    "city": "Mission",
+    "lastIncident": "2026-07-20T14:19:00Z",
+    "count": 1
+  },
+  "abbotsford/no-5-rd": {
+    "name": "No 5 Rd",
+    "slug": "abbotsford/no-5-rd",
+    "city": "Abbotsford",
+    "lastIncident": "2026-07-20T13:34:00Z",
     "count": 1
   }
 }

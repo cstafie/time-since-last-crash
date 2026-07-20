@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-07-20T14:58:00Z_chilliwack/45816-yale-rd",
+    "timestamp": "2026-07-20T14:58:00Z",
+    "scrapedAt": "2026-07-20T15:06:38Z",
+    "address": "45816 YALE RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/45816-yale-rd"
+    ],
+    "streetNames": [
+      "45816 Yale Rd"
+    ],
+    "pulsePointId": "2523132643"
+  },
+  {
+    "id": "2026-07-20T14:19:00Z_mission/harbour-ave",
+    "timestamp": "2026-07-20T14:19:00Z",
+    "scrapedAt": "2026-07-20T15:06:38Z",
+    "address": "HARBOUR AVE",
+    "city": "Mission",
+    "streets": [
+      "mission/harbour-ave"
+    ],
+    "streetNames": [
+      "Harbour Ave"
+    ],
+    "pulsePointId": "2523112265"
+  },
+  {
+    "id": "2026-07-20T13:34:00Z_abbotsford/no-5-rd_abbotsford/interprovincial-hwy",
+    "timestamp": "2026-07-20T13:34:00Z",
+    "scrapedAt": "2026-07-20T15:06:38Z",
+    "address": "NO 5 RD & INTERPROVINCIAL HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/no-5-rd",
+      "abbotsford/interprovincial-hwy"
+    ],
+    "streetNames": [
+      "No 5 Rd",
+      "Interprovincial Hwy"
+    ],
+    "pulsePointId": "2523089310"
+  },
+  {
+    "id": "2026-07-20T13:08:00Z_north-vancouver/montroyal-blvd_north-vancouver/capilano-rd",
+    "timestamp": "2026-07-20T13:08:00Z",
+    "scrapedAt": "2026-07-20T15:06:38Z",
+    "address": "MONTROYAL BLVD & CAPILANO RD",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/montroyal-blvd",
+      "north-vancouver/capilano-rd"
+    ],
+    "streetNames": [
+      "Montroyal Blvd",
+      "Capilano Rd"
+    ],
+    "pulsePointId": "2523079065"
+  },
+  {
     "id": "2026-07-20T10:30:00Z_new-westminster/e-columbia-st",
     "timestamp": "2026-07-20T10:30:00Z",
     "scrapedAt": "2026-07-20T10:36:30Z",

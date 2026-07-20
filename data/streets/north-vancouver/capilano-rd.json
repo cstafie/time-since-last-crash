@@ -4,6 +4,21 @@
   "city": "North Vancouver",
   "incidents": [
     {
+      "id": "2026-07-20T13:08:00Z_north-vancouver/montroyal-blvd_north-vancouver/capilano-rd",
+      "timestamp": "2026-07-20T13:08:00Z",
+      "address": "MONTROYAL BLVD & CAPILANO RD",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/montroyal-blvd",
+        "north-vancouver/capilano-rd"
+      ],
+      "streetNames": [
+        "Montroyal Blvd",
+        "Capilano Rd"
+      ],
+      "pulsePointId": "2523079065"
+    },
+    {
       "id": "2026-05-24T00:53:00Z_north-vancouver/capilano-rd",
       "timestamp": "2026-05-24T00:53:00Z",
       "address": "CAPILANO RD",
@@ -74,6 +89,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-05-24T00:53:00Z",
-  "count": 5
+  "lastIncident": "2026-07-20T13:08:00Z",
+  "count": 6
 }

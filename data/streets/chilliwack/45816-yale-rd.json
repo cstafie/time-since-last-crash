@@ -1,0 +1,22 @@
+{
+  "slug": "chilliwack/45816-yale-rd",
+  "name": "45816 Yale Rd",
+  "city": "Chilliwack",
+  "incidents": [
+    {
+      "id": "2026-07-20T14:58:00Z_chilliwack/45816-yale-rd",
+      "timestamp": "2026-07-20T14:58:00Z",
+      "address": "45816 YALE RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/45816-yale-rd"
+      ],
+      "streetNames": [
+        "45816 Yale Rd"
+      ],
+      "pulsePointId": "2523132643"
+    }
+  ],
+  "lastIncident": "2026-07-20T14:58:00Z",
+  "count": 1
+}
