@@ -1,5 +1,79 @@
 [
   {
+    "id": "2026-07-20T19:43:00Z_abbotsford/simon-ave",
+    "timestamp": "2026-07-20T19:43:00Z",
+    "scrapedAt": "2026-07-20T20:14:26Z",
+    "address": "SIMON AVE",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/simon-ave"
+    ],
+    "streetNames": [
+      "Simon Ave"
+    ],
+    "pulsePointId": "2523332068"
+  },
+  {
+    "id": "2026-07-20T19:39:00Z_vancouver/rupert-st_vancouver/grandview-hwy",
+    "timestamp": "2026-07-20T19:39:00Z",
+    "scrapedAt": "2026-07-20T20:14:26Z",
+    "address": "RUPERT ST & GRANDVIEW HWY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/rupert-st",
+      "vancouver/grandview-hwy"
+    ],
+    "streetNames": [
+      "Rupert St",
+      "Grandview Hwy"
+    ],
+    "pulsePointId": "2523328529"
+  },
+  {
+    "id": "2026-07-20T19:29:00Z_abbotsford/townline-rd_abbotsford/maclure-rd",
+    "timestamp": "2026-07-20T19:29:00Z",
+    "scrapedAt": "2026-07-20T20:14:26Z",
+    "address": "TOWNLINE RD & MACLURE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/townline-rd",
+      "abbotsford/maclure-rd"
+    ],
+    "streetNames": [
+      "Townline Rd",
+      "Maclure Rd"
+    ],
+    "pulsePointId": "2523320743"
+  },
+  {
+    "id": "2026-07-20T19:21:00Z_delta/deltaport-way",
+    "timestamp": "2026-07-20T19:21:00Z",
+    "scrapedAt": "2026-07-20T20:14:26Z",
+    "address": "DELTAPORT WAY",
+    "city": "Delta",
+    "streets": [
+      "delta/deltaport-way"
+    ],
+    "streetNames": [
+      "Deltaport Way"
+    ],
+    "pulsePointId": "2523314884"
+  },
+  {
+    "id": "2026-07-20T19:04:00Z_burnaby/royal-oak-ave",
+    "timestamp": "2026-07-20T19:04:00Z",
+    "scrapedAt": "2026-07-20T20:14:26Z",
+    "address": "ROYAL OAK AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/royal-oak-ave"
+    ],
+    "streetNames": [
+      "Royal Oak Ave"
+    ],
+    "pulsePointId": "2523301801"
+  },
+  {
     "id": "2026-07-20T18:33:00Z_surrey/156th-st_surrey/84th-ave",
     "timestamp": "2026-07-20T18:33:00Z",
     "scrapedAt": "2026-07-20T18:46:42Z",

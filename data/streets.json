@@ -1067,8 +1067,8 @@
     "name": "Townline Rd",
     "slug": "abbotsford/townline-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-16T23:16:00Z",
-    "count": 11
+    "lastIncident": "2026-07-20T19:29:00Z",
+    "count": 12
   },
   "coquitlam/mariner-way": {
     "name": "Mariner Way",
@@ -1921,8 +1921,8 @@
     "name": "Maclure Rd",
     "slug": "abbotsford/maclure-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-18T16:38:00Z",
-    "count": 15
+    "lastIncident": "2026-07-20T19:29:00Z",
+    "count": 16
   },
   "vancouver/renfrew-st": {
     "name": "Renfrew St",
@@ -2187,8 +2187,8 @@
     "name": "Rupert St",
     "slug": "vancouver/rupert-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-19T14:24:00Z",
-    "count": 19
+    "lastIncident": "2026-07-20T19:39:00Z",
+    "count": 20
   },
   "vancouver/fir-st": {
     "name": "Fir St",
@@ -3699,8 +3699,8 @@
     "name": "Royal Oak Ave",
     "slug": "burnaby/royal-oak-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-07-01T03:21:00Z",
-    "count": 11
+    "lastIncident": "2026-07-20T19:04:00Z",
+    "count": 12
   },
   "burnaby/irving-st": {
     "name": "Irving St",
@@ -5435,8 +5435,8 @@
     "name": "Deltaport Way",
     "slug": "delta/deltaport-way",
     "city": "Delta",
-    "lastIncident": "2026-07-15T13:47:00Z",
-    "count": 5
+    "lastIncident": "2026-07-20T19:21:00Z",
+    "count": 6
   },
   "chilliwack/wolfe-rd": {
     "name": "Wolfe Rd",
@@ -7136,8 +7136,8 @@
     "name": "Simon Ave",
     "slug": "abbotsford/simon-ave",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-12T00:05:00Z",
-    "count": 3
+    "lastIncident": "2026-07-20T19:43:00Z",
+    "count": 4
   },
   "burnaby/holmes-st": {
     "name": "Holmes St",
@@ -7934,8 +7934,8 @@
     "name": "Grandview Hwy",
     "slug": "vancouver/grandview-hwy",
     "city": "Vancouver",
-    "lastIncident": "2026-07-19T14:24:00Z",
-    "count": 11
+    "lastIncident": "2026-07-20T19:39:00Z",
+    "count": 12
   },
   "surrey/9595-king-george-blvd": {
     "name": "9595 King George Blvd",
