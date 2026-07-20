@@ -4,6 +4,21 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-07-20T20:19:00Z_delta/64th-ave_delta/kittson-pkwy",
+      "timestamp": "2026-07-20T20:19:00Z",
+      "address": "64TH AVE & KITTSON PKWY",
+      "city": "Delta",
+      "streets": [
+        "delta/64th-ave",
+        "delta/kittson-pkwy"
+      ],
+      "streetNames": [
+        "64th Ave",
+        "Kittson Pkwy"
+      ],
+      "pulsePointId": "2523357860"
+    },
+    {
       "id": "2026-06-20T20:36:00Z_delta/lyon-rd_delta/kittson-pkwy",
       "timestamp": "2026-06-20T20:36:00Z",
       "address": "LYON RD & KITTSON PKWY",
@@ -77,6 +92,6 @@
       "pulsePointId": "2450719887"
     }
   ],
-  "lastIncident": "2026-06-20T20:36:00Z",
-  "count": 5
+  "lastIncident": "2026-07-20T20:19:00Z",
+  "count": 6
 }

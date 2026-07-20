@@ -4,6 +4,21 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-07-20T20:19:00Z_delta/64th-ave_delta/kittson-pkwy",
+      "timestamp": "2026-07-20T20:19:00Z",
+      "address": "64TH AVE & KITTSON PKWY",
+      "city": "Delta",
+      "streets": [
+        "delta/64th-ave",
+        "delta/kittson-pkwy"
+      ],
+      "streetNames": [
+        "64th Ave",
+        "Kittson Pkwy"
+      ],
+      "pulsePointId": "2523357860"
+    },
+    {
       "id": "2026-07-08T03:31:00Z_delta/64th-ave_delta/summit-cres",
       "timestamp": "2026-07-08T03:31:00Z",
       "address": "64TH AVE & SUMMIT CRES",
@@ -119,6 +134,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-08T03:31:00Z",
-  "count": 8
+  "lastIncident": "2026-07-20T20:19:00Z",
+  "count": 9
 }

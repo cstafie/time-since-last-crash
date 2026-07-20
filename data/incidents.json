@@ -1,5 +1,83 @@
 [
   {
+    "id": "2026-07-20T21:15:00Z_maple-ridge/25569-dewdney-trunk-rd",
+    "timestamp": "2026-07-20T21:15:00Z",
+    "scrapedAt": "2026-07-20T21:37:17Z",
+    "address": "25569 DEWDNEY TRUNK RD",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/25569-dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "25569 Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2523399194"
+  },
+  {
+    "id": "2026-07-20T21:05:00Z_new-westminster/e-columbia-st_new-westminster/holmes-st",
+    "timestamp": "2026-07-20T21:05:00Z",
+    "scrapedAt": "2026-07-20T21:37:17Z",
+    "address": "E COLUMBIA ST & HOLMES ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/e-columbia-st",
+      "new-westminster/holmes-st"
+    ],
+    "streetNames": [
+      "E Columbia St",
+      "Holmes St"
+    ],
+    "pulsePointId": "2523391571"
+  },
+  {
+    "id": "2026-07-20T20:47:00Z_delta/80th-street-conn_delta/hwy-17",
+    "timestamp": "2026-07-20T20:47:00Z",
+    "scrapedAt": "2026-07-20T21:37:17Z",
+    "address": "80TH STREET CONN & HWY 17",
+    "city": "Delta",
+    "streets": [
+      "delta/80th-street-conn",
+      "delta/hwy-17"
+    ],
+    "streetNames": [
+      "80th Street Conn",
+      "Hwy 17"
+    ],
+    "pulsePointId": "2523379547"
+  },
+  {
+    "id": "2026-07-20T20:43:00Z_burnaby/kingsway_burnaby/willingdon-ave",
+    "timestamp": "2026-07-20T20:43:00Z",
+    "scrapedAt": "2026-07-20T21:37:17Z",
+    "address": "KINGSWAY & WILLINGDON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/kingsway",
+      "burnaby/willingdon-ave"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "Willingdon Ave"
+    ],
+    "pulsePointId": "2523374976"
+  },
+  {
+    "id": "2026-07-20T20:19:00Z_delta/64th-ave_delta/kittson-pkwy",
+    "timestamp": "2026-07-20T20:19:00Z",
+    "scrapedAt": "2026-07-20T21:37:17Z",
+    "address": "64TH AVE & KITTSON PKWY",
+    "city": "Delta",
+    "streets": [
+      "delta/64th-ave",
+      "delta/kittson-pkwy"
+    ],
+    "streetNames": [
+      "64th Ave",
+      "Kittson Pkwy"
+    ],
+    "pulsePointId": "2523357860"
+  },
+  {
     "id": "2026-07-20T19:43:00Z_abbotsford/simon-ave",
     "timestamp": "2026-07-20T19:43:00Z",
     "scrapedAt": "2026-07-20T20:14:26Z",

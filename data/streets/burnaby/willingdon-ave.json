@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-20T20:43:00Z_burnaby/kingsway_burnaby/willingdon-ave",
+      "timestamp": "2026-07-20T20:43:00Z",
+      "address": "KINGSWAY & WILLINGDON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/kingsway",
+        "burnaby/willingdon-ave"
+      ],
+      "streetNames": [
+        "Kingsway",
+        "Willingdon Ave"
+      ],
+      "pulsePointId": "2523374976"
+    },
+    {
       "id": "2026-07-20T01:38:00Z_burnaby/willingdon-ave_burnaby/deer-lake-pkwy",
       "timestamp": "2026-07-20T01:38:00Z",
       "address": "WILLINGDON AVE & DEER LAKE PKWY",
@@ -239,6 +254,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-20T01:38:00Z",
-  "count": 16
+  "lastIncident": "2026-07-20T20:43:00Z",
+  "count": 17
 }

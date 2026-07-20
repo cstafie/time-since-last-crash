@@ -80,8 +80,8 @@
     "name": "Willingdon Ave",
     "slug": "burnaby/willingdon-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-07-20T01:38:00Z",
-    "count": 16
+    "lastIncident": "2026-07-20T20:43:00Z",
+    "count": 17
   },
   "chilliwack/chadsey-rd": {
     "name": "Chadsey Rd",
@@ -913,8 +913,8 @@
     "name": "E Columbia St",
     "slug": "new-westminster/e-columbia-st",
     "city": "New Westminster",
-    "lastIncident": "2026-07-20T10:30:00Z",
-    "count": 25
+    "lastIncident": "2026-07-20T21:05:00Z",
+    "count": 26
   },
   "burnaby/market-crss": {
     "name": "Market Crss",
@@ -1410,8 +1410,8 @@
     "name": "64th Ave",
     "slug": "delta/64th-ave",
     "city": "Delta",
-    "lastIncident": "2026-07-08T03:31:00Z",
-    "count": 8
+    "lastIncident": "2026-07-20T20:19:00Z",
+    "count": 9
   },
   "new-westminster/6th-st": {
     "name": "6th St",
@@ -1473,8 +1473,8 @@
     "name": "Kingsway",
     "slug": "burnaby/kingsway",
     "city": "Burnaby",
-    "lastIncident": "2026-07-17T20:31:00Z",
-    "count": 30
+    "lastIncident": "2026-07-20T20:43:00Z",
+    "count": 31
   },
   "burnaby/gilley-ave": {
     "name": "Gilley Ave",
@@ -4910,8 +4910,8 @@
     "name": "Hwy 17",
     "slug": "delta/hwy-17",
     "city": "Delta",
-    "lastIncident": "2026-07-17T22:07:00Z",
-    "count": 20
+    "lastIncident": "2026-07-20T20:47:00Z",
+    "count": 21
   },
   "coquitlam/winslow-ave": {
     "name": "Winslow Ave",
@@ -5897,8 +5897,8 @@
     "name": "Kittson Pkwy",
     "slug": "delta/kittson-pkwy",
     "city": "Delta",
-    "lastIncident": "2026-06-20T20:36:00Z",
-    "count": 5
+    "lastIncident": "2026-07-20T20:19:00Z",
+    "count": 6
   },
   "delta/river-rd": {
     "name": "River Rd",
@@ -8543,8 +8543,8 @@
     "name": "Holmes St",
     "slug": "new-westminster/holmes-st",
     "city": "New Westminster",
-    "lastIncident": "2026-06-23T01:00:00Z",
-    "count": 4
+    "lastIncident": "2026-07-20T21:05:00Z",
+    "count": 5
   },
   "langley/70th-ave": {
     "name": "70th Ave",
@@ -14536,6 +14536,20 @@
     "slug": "richmond/7900-westminster-hwy",
     "city": "Richmond",
     "lastIncident": "2026-07-20T18:26:00Z",
+    "count": 1
+  },
+  "maple-ridge/25569-dewdney-trunk-rd": {
+    "name": "25569 Dewdney Trunk Rd",
+    "slug": "maple-ridge/25569-dewdney-trunk-rd",
+    "city": "Maple Ridge",
+    "lastIncident": "2026-07-20T21:15:00Z",
+    "count": 1
+  },
+  "delta/80th-street-conn": {
+    "name": "80th Street Conn",
+    "slug": "delta/80th-street-conn",
+    "city": "Delta",
+    "lastIncident": "2026-07-20T20:47:00Z",
     "count": 1
   }
 }
