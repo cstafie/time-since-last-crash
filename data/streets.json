@@ -913,8 +913,8 @@
     "name": "E Columbia St",
     "slug": "new-westminster/e-columbia-st",
     "city": "New Westminster",
-    "lastIncident": "2026-07-12T00:00:00Z",
-    "count": 24
+    "lastIncident": "2026-07-20T10:30:00Z",
+    "count": 25
   },
   "burnaby/market-crss": {
     "name": "Market Crss",
@@ -1249,8 +1249,8 @@
     "name": "Trans Canada Hwy",
     "slug": "burnaby/trans-canada-hwy",
     "city": "Burnaby",
-    "lastIncident": "2026-06-27T05:30:00Z",
-    "count": 34
+    "lastIncident": "2026-07-20T08:46:00Z",
+    "count": 35
   },
   "vancouver/e-1st-ave": {
     "name": "E 1st Ave",
@@ -3531,8 +3531,8 @@
     "name": "Gaglardi Way",
     "slug": "burnaby/gaglardi-way",
     "city": "Burnaby",
-    "lastIncident": "2026-07-16T01:06:00Z",
-    "count": 7
+    "lastIncident": "2026-07-20T08:41:00Z",
+    "count": 8
   },
   "north-vancouver/w-3rd-st": {
     "name": "W 3rd St",
@@ -14487,6 +14487,13 @@
     "slug": "abbotsford/clearbrook-road-ofrp",
     "city": "Abbotsford",
     "lastIncident": "2026-07-20T01:59:00Z",
+    "count": 1
+  },
+  "abbotsford/south-parallel-road-ofrp": {
+    "name": "South Parallel Road Ofrp",
+    "slug": "abbotsford/south-parallel-road-ofrp",
+    "city": "Abbotsford",
+    "lastIncident": "2026-07-20T09:18:00Z",
     "count": 1
   }
 }
