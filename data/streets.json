@@ -45,8 +45,8 @@
     "name": "Trethewey St",
     "slug": "abbotsford/trethewey-st",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-12T00:20:00Z",
-    "count": 11
+    "lastIncident": "2026-07-21T23:24:00Z",
+    "count": 12
   },
   "burnaby/deer-lake-pkwy": {
     "name": "Deer Lake Pkwy",
@@ -1921,8 +1921,8 @@
     "name": "Maclure Rd",
     "slug": "abbotsford/maclure-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-20T19:29:00Z",
-    "count": 16
+    "lastIncident": "2026-07-21T23:24:00Z",
+    "count": 17
   },
   "vancouver/renfrew-st": {
     "name": "Renfrew St",
@@ -2285,8 +2285,8 @@
     "name": "Hwy 99",
     "slug": "delta/hwy-99",
     "city": "Delta",
-    "lastIncident": "2026-07-18T14:34:00Z",
-    "count": 19
+    "lastIncident": "2026-07-21T23:22:00Z",
+    "count": 20
   },
   "coquitlam/redonda-dr": {
     "name": "Redonda Dr",
@@ -4196,8 +4196,8 @@
     "name": "184th St",
     "slug": "surrey/184th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-19T21:35:00Z",
-    "count": 14
+    "lastIncident": "2026-07-21T23:41:00Z",
+    "count": 15
   },
   "burnaby/rosser-ave": {
     "name": "Rosser Ave",
@@ -4602,8 +4602,8 @@
     "name": "20th Ave",
     "slug": "surrey/20th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-21T11:51:00Z",
-    "count": 6
+    "lastIncident": "2026-07-21T23:41:00Z",
+    "count": 7
   },
   "richmond/3rd-ave": {
     "name": "3rd Ave",
@@ -5722,8 +5722,8 @@
     "name": "Hwy 91 Ofrp",
     "slug": "delta/hwy-91-ofrp",
     "city": "Delta",
-    "lastIncident": "2026-07-05T14:07:00Z",
-    "count": 4
+    "lastIncident": "2026-07-21T23:22:00Z",
+    "count": 5
   },
   "langley/198th-st": {
     "name": "198th St",

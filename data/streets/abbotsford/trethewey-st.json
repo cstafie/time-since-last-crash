@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-21T23:24:00Z_abbotsford/maclure-rd_abbotsford/trethewey-st",
+      "timestamp": "2026-07-21T23:24:00Z",
+      "address": "MACLURE RD & TRETHEWEY ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/maclure-rd",
+        "abbotsford/trethewey-st"
+      ],
+      "streetNames": [
+        "Maclure Rd",
+        "Trethewey St"
+      ],
+      "pulsePointId": "2524248842"
+    },
+    {
       "id": "2026-06-12T00:20:00Z_abbotsford/trethewey-st_abbotsford/maclure-rd",
       "timestamp": "2026-06-12T00:20:00Z",
       "address": "TRETHEWEY ST & MACLURE RD",
@@ -162,6 +177,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-06-12T00:20:00Z",
-  "count": 11
+  "lastIncident": "2026-07-21T23:24:00Z",
+  "count": 12
 }

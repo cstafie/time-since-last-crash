@@ -4,6 +4,21 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-07-21T23:22:00Z_delta/hwy-99_delta/hwy-91-ofrp",
+      "timestamp": "2026-07-21T23:22:00Z",
+      "address": "HWY 99 & HWY 91 OFRP",
+      "city": "Delta",
+      "streets": [
+        "delta/hwy-99",
+        "delta/hwy-91-ofrp"
+      ],
+      "streetNames": [
+        "Hwy 99",
+        "Hwy 91 Ofrp"
+      ],
+      "pulsePointId": "2524249438"
+    },
+    {
       "id": "2026-07-18T14:34:00Z_delta/hwy-99",
       "timestamp": "2026-07-18T14:34:00Z",
       "address": "HWY 99",
@@ -261,6 +276,6 @@
       "pulsePointId": "2435101972"
     }
   ],
-  "lastIncident": "2026-07-18T14:34:00Z",
-  "count": 19
+  "lastIncident": "2026-07-21T23:22:00Z",
+  "count": 20
 }
