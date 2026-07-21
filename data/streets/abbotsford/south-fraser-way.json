@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-21T01:56:00Z_abbotsford/south-fraser-way_abbotsford/emerson-st",
+      "timestamp": "2026-07-21T01:56:00Z",
+      "address": "SOUTH FRASER WAY & EMERSON ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/south-fraser-way",
+        "abbotsford/emerson-st"
+      ],
+      "streetNames": [
+        "South Fraser Way",
+        "Emerson St"
+      ],
+      "pulsePointId": "2523595475"
+    },
+    {
       "id": "2026-07-17T03:50:00Z_abbotsford/clearbrook-rd_abbotsford/south-fraser-way",
       "timestamp": "2026-07-17T03:50:00Z",
       "address": "CLEARBROOK RD & SOUTH FRASER WAY",
@@ -500,6 +515,6 @@
       "pulsePointId": "2433235919"
     }
   ],
-  "lastIncident": "2026-07-17T03:50:00Z",
-  "count": 34
+  "lastIncident": "2026-07-21T01:56:00Z",
+  "count": 35
 }

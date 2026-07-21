@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-21T01:56:00Z_abbotsford/south-fraser-way_abbotsford/emerson-st",
+      "timestamp": "2026-07-21T01:56:00Z",
+      "address": "SOUTH FRASER WAY & EMERSON ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/south-fraser-way",
+        "abbotsford/emerson-st"
+      ],
+      "streetNames": [
+        "South Fraser Way",
+        "Emerson St"
+      ],
+      "pulsePointId": "2523595475"
+    },
+    {
       "id": "2026-05-24T19:05:00Z_abbotsford/emerson-st_abbotsford/bevan-ave",
       "timestamp": "2026-05-24T19:05:00Z",
       "address": "EMERSON ST & BEVAN AVE",
@@ -34,6 +49,6 @@
       "pulsePointId": "2465435537"
     }
   ],
-  "lastIncident": "2026-05-24T19:05:00Z",
-  "count": 2
+  "lastIncident": "2026-07-21T01:56:00Z",
+  "count": 3
 }
