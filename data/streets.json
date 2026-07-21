@@ -1774,8 +1774,8 @@
     "name": "E Hastings St",
     "slug": "vancouver/e-hastings-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-20T00:36:00Z",
-    "count": 46
+    "lastIncident": "2026-07-21T05:09:00Z",
+    "count": 47
   },
   "abbotsford/king-rd": {
     "name": "King Rd",
@@ -6709,8 +6709,8 @@
     "name": "Mclean Dr",
     "slug": "vancouver/mclean-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-07-20T00:36:00Z",
-    "count": 6
+    "lastIncident": "2026-07-21T05:09:00Z",
+    "count": 7
   },
   "port-coquitlam/wilson-ave": {
     "name": "Wilson Ave",

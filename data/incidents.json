@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-21T05:09:00Z_vancouver/e-hastings-st_vancouver/mclean-dr",
+    "timestamp": "2026-07-21T05:09:00Z",
+    "scrapedAt": "2026-07-21T07:25:03Z",
+    "address": "E HASTINGS ST & MCLEAN DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-hastings-st",
+      "vancouver/mclean-dr"
+    ],
+    "streetNames": [
+      "E Hastings St",
+      "Mclean Dr"
+    ],
+    "pulsePointId": "2523696884"
+  },
+  {
     "id": "2026-07-21T04:11:00Z_chilliwack/yale-rd",
     "timestamp": "2026-07-21T04:11:00Z",
     "scrapedAt": "2026-07-21T04:38:55Z",
