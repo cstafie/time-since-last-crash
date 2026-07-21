@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-21T21:15:00Z_vancouver/w-43rd-ave_vancouver/oak-st",
+      "timestamp": "2026-07-21T21:15:00Z",
+      "address": "W 43RD AVE & OAK ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-43rd-ave",
+        "vancouver/oak-st"
+      ],
+      "streetNames": [
+        "W 43rd Ave",
+        "Oak St"
+      ],
+      "pulsePointId": "2524158430"
+    },
+    {
       "id": "2026-07-17T19:08:00Z_vancouver/oak-st_vancouver/w-33rd-ave",
       "timestamp": "2026-07-17T19:08:00Z",
       "address": "OAK ST & W 33RD AVE",
@@ -720,6 +735,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-17T19:08:00Z",
-  "count": 49
+  "lastIncident": "2026-07-21T21:15:00Z",
+  "count": 50
 }

@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-07-21T21:53:00Z_surrey/156th-st_surrey/18th-ave",
+    "timestamp": "2026-07-21T21:53:00Z",
+    "scrapedAt": "2026-07-21T21:59:41Z",
+    "address": "156TH ST & 18TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/156th-st",
+      "surrey/18th-ave"
+    ],
+    "streetNames": [
+      "156th St",
+      "18th Ave"
+    ],
+    "pulsePointId": "2524186810"
+  },
+  {
+    "id": "2026-07-21T21:52:00Z_chilliwack/luckakuck-way",
+    "timestamp": "2026-07-21T21:52:00Z",
+    "scrapedAt": "2026-07-21T21:59:41Z",
+    "address": "LUCKAKUCK WAY",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/luckakuck-way"
+    ],
+    "streetNames": [
+      "Luckakuck Way"
+    ],
+    "pulsePointId": "2524184671"
+  },
+  {
+    "id": "2026-07-21T21:15:00Z_vancouver/w-43rd-ave_vancouver/oak-st",
+    "timestamp": "2026-07-21T21:15:00Z",
+    "scrapedAt": "2026-07-21T21:59:41Z",
+    "address": "W 43RD AVE & OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-43rd-ave",
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "W 43rd Ave",
+      "Oak St"
+    ],
+    "pulsePointId": "2524158430"
+  },
+  {
     "id": "2026-07-21T20:20:00Z_abbotsford/delair-rd_abbotsford/sumas-way",
     "timestamp": "2026-07-21T20:20:00Z",
     "scrapedAt": "2026-07-21T20:58:13Z",
