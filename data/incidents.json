@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-07-21T14:59:00Z_vancouver/heather-st_vancouver/w-6th-ave",
+    "timestamp": "2026-07-21T14:59:00Z",
+    "scrapedAt": "2026-07-21T15:19:38Z",
+    "address": "HEATHER ST & W 6TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/heather-st",
+      "vancouver/w-6th-ave"
+    ],
+    "streetNames": [
+      "Heather St",
+      "W 6th Ave"
+    ],
+    "pulsePointId": "2523893151"
+  },
+  {
+    "id": "2026-07-21T13:54:00Z_surrey/99th-ave_surrey/120th-st",
+    "timestamp": "2026-07-21T13:54:00Z",
+    "scrapedAt": "2026-07-21T15:19:38Z",
+    "address": "99TH AVE & 120TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/99th-ave",
+      "surrey/120th-st"
+    ],
+    "streetNames": [
+      "99th Ave",
+      "120th St"
+    ],
+    "pulsePointId": "2523859237"
+  },
+  {
     "id": "2026-07-21T11:51:00Z_surrey/183rd-st_surrey/20th-ave",
     "timestamp": "2026-07-21T11:51:00Z",
     "scrapedAt": "2026-07-21T13:08:13Z",
