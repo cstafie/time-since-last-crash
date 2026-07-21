@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-21T22:13:00Z_vancouver/knight-st_vancouver/e-62nd-ave",
+      "timestamp": "2026-07-21T22:13:00Z",
+      "address": "KNIGHT ST & E 62ND AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/knight-st",
+        "vancouver/e-62nd-ave"
+      ],
+      "streetNames": [
+        "Knight St",
+        "E 62nd Ave"
+      ],
+      "pulsePointId": "2524200399"
+    },
+    {
       "id": "2026-07-19T04:31:00Z_vancouver/knight-st_vancouver/e-41st-ave",
       "timestamp": "2026-07-19T04:31:00Z",
       "address": "KNIGHT ST & E 41ST AVE",
@@ -550,6 +565,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-19T04:31:00Z",
-  "count": 37
+  "lastIncident": "2026-07-21T22:13:00Z",
+  "count": 38
 }

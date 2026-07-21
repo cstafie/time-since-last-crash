@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-07-21T22:13:00Z_vancouver/knight-st_vancouver/e-62nd-ave",
+    "timestamp": "2026-07-21T22:13:00Z",
+    "scrapedAt": "2026-07-21T22:54:51Z",
+    "address": "KNIGHT ST & E 62ND AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/knight-st",
+      "vancouver/e-62nd-ave"
+    ],
+    "streetNames": [
+      "Knight St",
+      "E 62nd Ave"
+    ],
+    "pulsePointId": "2524200399"
+  },
+  {
+    "id": "2026-07-21T22:13:00Z_surrey/scott-rd_surrey/tannery-rd",
+    "timestamp": "2026-07-21T22:13:00Z",
+    "scrapedAt": "2026-07-21T22:54:51Z",
+    "address": "SCOTT RD & TANNERY RD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/scott-rd",
+      "surrey/tannery-rd"
+    ],
+    "streetNames": [
+      "Scott Rd",
+      "Tannery Rd"
+    ],
+    "pulsePointId": "2524199815"
+  },
+  {
     "id": "2026-07-21T21:53:00Z_surrey/156th-st_surrey/18th-ave",
     "timestamp": "2026-07-21T21:53:00Z",
     "scrapedAt": "2026-07-21T21:59:41Z",
