@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-21T20:20:00Z_abbotsford/delair-rd_abbotsford/sumas-way",
+      "timestamp": "2026-07-21T20:20:00Z",
+      "address": "DELAIR RD & SUMAS WAY",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/delair-rd",
+        "abbotsford/sumas-way"
+      ],
+      "streetNames": [
+        "Delair Rd",
+        "Sumas Way"
+      ],
+      "pulsePointId": "2524111274"
+    },
+    {
       "id": "2026-07-15T01:07:00Z_abbotsford/sumas-way",
       "timestamp": "2026-07-15T01:07:00Z",
       "address": "SUMAS WAY",
@@ -187,6 +202,6 @@
       "pulsePointId": "2439464523"
     }
   ],
-  "lastIncident": "2026-07-15T01:07:00Z",
-  "count": 13
+  "lastIncident": "2026-07-21T20:20:00Z",
+  "count": 14
 }

@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-21T20:20:00Z_abbotsford/delair-rd_abbotsford/sumas-way",
+    "timestamp": "2026-07-21T20:20:00Z",
+    "scrapedAt": "2026-07-21T20:58:13Z",
+    "address": "DELAIR RD & SUMAS WAY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/delair-rd",
+      "abbotsford/sumas-way"
+    ],
+    "streetNames": [
+      "Delair Rd",
+      "Sumas Way"
+    ],
+    "pulsePointId": "2524111274"
+  },
+  {
     "id": "2026-07-21T19:29:00Z_langley/56th-ave_langley/224th-st",
     "timestamp": "2026-07-21T19:29:00Z",
     "scrapedAt": "2026-07-21T19:57:21Z",
