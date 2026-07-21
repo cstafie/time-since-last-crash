@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-07-21T01:08:00Z_burnaby/trans-canada-hwy",
+    "timestamp": "2026-07-21T01:08:00Z",
+    "scrapedAt": "2026-07-21T01:16:54Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2523565238"
+  },
+  {
+    "id": "2026-07-20T23:59:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-07-20T23:59:00Z",
+    "scrapedAt": "2026-07-21T01:16:54Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2523520274"
+  },
+  {
+    "id": "2026-07-20T23:49:00Z_mission/alder-st_mission/5th-ave",
+    "timestamp": "2026-07-20T23:49:00Z",
+    "scrapedAt": "2026-07-21T01:16:54Z",
+    "address": "ALDER ST & 5TH AVE",
+    "city": "Mission",
+    "streets": [
+      "mission/alder-st",
+      "mission/5th-ave"
+    ],
+    "streetNames": [
+      "Alder St",
+      "5th Ave"
+    ],
+    "pulsePointId": "2523511757"
+  },
+  {
+    "id": "2026-07-20T23:49:00Z_surrey/king-george-blvd_surrey/78th-ave",
+    "timestamp": "2026-07-20T23:49:00Z",
+    "scrapedAt": "2026-07-21T01:16:54Z",
+    "address": "KING GEORGE BLVD & 78TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/78th-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "78th Ave"
+    ],
+    "pulsePointId": "2523510695"
+  },
+  {
     "id": "2026-07-20T22:19:00Z_vancouver/manitoba-st_vancouver/w-2nd-ave",
     "timestamp": "2026-07-20T22:19:00Z",
     "scrapedAt": "2026-07-20T22:43:07Z",

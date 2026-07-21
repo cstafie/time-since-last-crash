@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-20T23:49:00Z_surrey/king-george-blvd_surrey/78th-ave",
+      "timestamp": "2026-07-20T23:49:00Z",
+      "address": "KING GEORGE BLVD & 78TH AVE",
+      "city": "Surrey",
+      "streets": [
+        "surrey/king-george-blvd",
+        "surrey/78th-ave"
+      ],
+      "streetNames": [
+        "King George Blvd",
+        "78th Ave"
+      ],
+      "pulsePointId": "2523510695"
+    },
+    {
       "id": "2026-07-18T05:14:00Z_surrey/king-george-blvd",
       "timestamp": "2026-07-18T05:14:00Z",
       "address": "KING GEORGE BLVD",
@@ -1277,6 +1292,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-18T05:14:00Z",
-  "count": 87
+  "lastIncident": "2026-07-20T23:49:00Z",
+  "count": 88
 }

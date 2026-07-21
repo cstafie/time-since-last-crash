@@ -612,8 +612,8 @@
     "name": "78th Ave",
     "slug": "surrey/78th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-21T21:25:00Z",
-    "count": 5
+    "lastIncident": "2026-07-20T23:49:00Z",
+    "count": 6
   },
   "surrey/82nd-ave": {
     "name": "82nd Ave",
@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-07-18T05:14:00Z",
-    "count": 87
+    "lastIncident": "2026-07-20T23:49:00Z",
+    "count": 88
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -1249,8 +1249,8 @@
     "name": "Trans Canada Hwy",
     "slug": "burnaby/trans-canada-hwy",
     "city": "Burnaby",
-    "lastIncident": "2026-07-20T15:47:00Z",
-    "count": 36
+    "lastIncident": "2026-07-21T01:08:00Z",
+    "count": 37
   },
   "vancouver/e-1st-ave": {
     "name": "E 1st Ave",
@@ -1949,8 +1949,8 @@
     "name": "Trans Canada Hwy",
     "slug": "abbotsford/trans-canada-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-15T21:59:00Z",
-    "count": 51
+    "lastIncident": "2026-07-20T23:59:00Z",
+    "count": 52
   },
   "vancouver/w-16th-ave": {
     "name": "W 16th Ave",
@@ -14550,6 +14550,20 @@
     "slug": "delta/80th-street-conn",
     "city": "Delta",
     "lastIncident": "2026-07-20T20:47:00Z",
+    "count": 1
+  },
+  "mission/alder-st": {
+    "name": "Alder St",
+    "slug": "mission/alder-st",
+    "city": "Mission",
+    "lastIncident": "2026-07-20T23:49:00Z",
+    "count": 1
+  },
+  "mission/5th-ave": {
+    "name": "5th Ave",
+    "slug": "mission/5th-ave",
+    "city": "Mission",
+    "lastIncident": "2026-07-20T23:49:00Z",
     "count": 1
   }
 }
