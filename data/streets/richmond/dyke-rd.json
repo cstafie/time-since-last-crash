@@ -4,6 +4,32 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-21T15:26:00Z_richmond/dyke-rd",
+      "timestamp": "2026-07-21T15:26:00Z",
+      "address": "DYKE RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/dyke-rd"
+      ],
+      "streetNames": [
+        "Dyke Rd"
+      ],
+      "pulsePointId": "2523908801"
+    },
+    {
+      "id": "2026-07-21T15:21:00Z_richmond/dyke-rd",
+      "timestamp": "2026-07-21T15:21:00Z",
+      "address": "DYKE RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/dyke-rd"
+      ],
+      "streetNames": [
+        "Dyke Rd"
+      ],
+      "pulsePointId": "2523905634"
+    },
+    {
       "id": "2026-07-08T20:45:00Z_richmond/dyke-rd",
       "timestamp": "2026-07-08T20:45:00Z",
       "address": "DYKE RD",
@@ -17,6 +43,6 @@
       "pulsePointId": "2514546953"
     }
   ],
-  "lastIncident": "2026-07-08T20:45:00Z",
-  "count": 1
+  "lastIncident": "2026-07-21T15:26:00Z",
+  "count": 3
 }
