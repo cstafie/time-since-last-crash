@@ -1627,8 +1627,8 @@
     "name": "156th St",
     "slug": "surrey/156th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-20T18:33:00Z",
-    "count": 22
+    "lastIncident": "2026-07-21T17:56:00Z",
+    "count": 23
   },
   "north-vancouver/pemberton-ave": {
     "name": "Pemberton Ave",
@@ -7297,8 +7297,8 @@
     "name": "18th Ave",
     "slug": "surrey/18th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-19T23:25:00Z",
-    "count": 3
+    "lastIncident": "2026-07-21T17:56:00Z",
+    "count": 4
   },
   "mission/matheson-dr": {
     "name": "Matheson Dr",
@@ -14578,6 +14578,13 @@
     "slug": "surrey/183rd-st",
     "city": "Surrey",
     "lastIncident": "2026-07-21T11:51:00Z",
+    "count": 1
+  },
+  "richmond/mitchell-rd": {
+    "name": "Mitchell Rd",
+    "slug": "richmond/mitchell-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-07-21T16:50:00Z",
     "count": 1
   }
 }

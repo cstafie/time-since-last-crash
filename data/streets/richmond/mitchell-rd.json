@@ -1,0 +1,22 @@
+{
+  "slug": "richmond/mitchell-rd",
+  "name": "Mitchell Rd",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-07-21T16:50:00Z_richmond/mitchell-rd",
+      "timestamp": "2026-07-21T16:50:00Z",
+      "address": "MITCHELL RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/mitchell-rd"
+      ],
+      "streetNames": [
+        "Mitchell Rd"
+      ],
+      "pulsePointId": "2523965672"
+    }
+  ],
+  "lastIncident": "2026-07-21T16:50:00Z",
+  "count": 1
+}
