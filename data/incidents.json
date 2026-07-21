@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-07-21T19:29:00Z_langley/56th-ave_langley/224th-st",
+    "timestamp": "2026-07-21T19:29:00Z",
+    "scrapedAt": "2026-07-21T19:57:21Z",
+    "address": "56TH AVE & 224TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/56th-ave",
+      "langley/224th-st"
+    ],
+    "streetNames": [
+      "56th Ave",
+      "224th St"
+    ],
+    "pulsePointId": "2524072253"
+  },
+  {
+    "id": "2026-07-21T19:28:00Z_langley/trans-canada-hwy",
+    "timestamp": "2026-07-21T19:28:00Z",
+    "scrapedAt": "2026-07-21T19:57:21Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2524071858"
+  },
+  {
+    "id": "2026-07-21T19:19:00Z_richmond/no-4-rd_richmond/francis-rd",
+    "timestamp": "2026-07-21T19:19:00Z",
+    "scrapedAt": "2026-07-21T19:57:21Z",
+    "address": "NO 4 RD & FRANCIS RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/no-4-rd",
+      "richmond/francis-rd"
+    ],
+    "streetNames": [
+      "No 4 Rd",
+      "Francis Rd"
+    ],
+    "pulsePointId": "2524064882"
+  },
+  {
+    "id": "2026-07-21T19:14:00Z_maple-ridge/golden-ears-brdg",
+    "timestamp": "2026-07-21T19:14:00Z",
+    "scrapedAt": "2026-07-21T19:57:21Z",
+    "address": "GOLDEN EARS BRDG",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/golden-ears-brdg"
+    ],
+    "streetNames": [
+      "Golden Ears Brdg"
+    ],
+    "pulsePointId": "2524060889"
+  },
+  {
     "id": "2026-07-21T17:56:00Z_surrey/156th-st_surrey/18th-ave",
     "timestamp": "2026-07-21T17:56:00Z",
     "scrapedAt": "2026-07-21T18:05:38Z",

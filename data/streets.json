@@ -248,8 +248,8 @@
     "name": "56th Ave",
     "slug": "langley/56th-ave",
     "city": "Langley",
-    "lastIncident": "2026-07-16T22:10:00Z",
-    "count": 22
+    "lastIncident": "2026-07-21T19:29:00Z",
+    "count": 23
   },
   "langley/58th-cres": {
     "name": "58th Cres",
@@ -269,8 +269,8 @@
     "name": "Trans Canada Hwy",
     "slug": "langley/trans-canada-hwy",
     "city": "Langley",
-    "lastIncident": "2026-07-15T18:40:00Z",
-    "count": 44
+    "lastIncident": "2026-07-21T19:28:00Z",
+    "count": 45
   },
   "maple-ridge/119th-ave": {
     "name": "119th Ave",
@@ -493,8 +493,8 @@
     "name": "No 4 Rd",
     "slug": "richmond/no-4-rd",
     "city": "Richmond",
-    "lastIncident": "2026-07-04T17:34:00Z",
-    "count": 12
+    "lastIncident": "2026-07-21T19:19:00Z",
+    "count": 13
   },
   "richmond/st-albans-rd": {
     "name": "St Albans Rd",
@@ -1704,8 +1704,8 @@
     "name": "Francis Rd",
     "slug": "richmond/francis-rd",
     "city": "Richmond",
-    "lastIncident": "2026-07-09T21:56:00Z",
-    "count": 11
+    "lastIncident": "2026-07-21T19:19:00Z",
+    "count": 12
   },
   "maple-ridge/216th-st": {
     "name": "216th St",
@@ -6443,8 +6443,8 @@
     "name": "224th St",
     "slug": "langley/224th-st",
     "city": "Langley",
-    "lastIncident": "2026-07-18T23:38:00Z",
-    "count": 5
+    "lastIncident": "2026-07-21T19:29:00Z",
+    "count": 6
   },
   "surrey/76th-ave": {
     "name": "76th Ave",
@@ -11798,8 +11798,8 @@
     "name": "Golden Ears Brdg",
     "slug": "maple-ridge/golden-ears-brdg",
     "city": "Maple Ridge",
-    "lastIncident": "2026-06-09T06:59:00Z",
-    "count": 1
+    "lastIncident": "2026-07-21T19:14:00Z",
+    "count": 2
   },
   "chilliwack/annis-road-ofrp": {
     "name": "Annis Road Ofrp",
