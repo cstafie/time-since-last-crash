@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-07-22T17:19:00Z_abbotsford/bradner-rd_abbotsford/huntingdon-rd",
+    "timestamp": "2026-07-22T17:19:00Z",
+    "scrapedAt": "2026-07-22T17:58:50Z",
+    "address": "BRADNER RD & HUNTINGDON RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/bradner-rd",
+      "abbotsford/huntingdon-rd"
+    ],
+    "streetNames": [
+      "Bradner Rd",
+      "Huntingdon Rd"
+    ],
+    "pulsePointId": "2524741446"
+  },
+  {
+    "id": "2026-07-22T17:17:00Z_abbotsford/huntingdon-rd",
+    "timestamp": "2026-07-22T17:17:00Z",
+    "scrapedAt": "2026-07-22T17:58:50Z",
+    "address": "HUNTINGDON RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/huntingdon-rd"
+    ],
+    "streetNames": [
+      "Huntingdon Rd"
+    ],
+    "pulsePointId": "2524742385"
+  },
+  {
     "id": "2026-07-22T15:56:00Z_langley/197th-st_langley/willowbrook-dr",
     "timestamp": "2026-07-22T15:56:00Z",
     "scrapedAt": "2026-07-22T16:53:34Z",

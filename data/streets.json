@@ -3132,8 +3132,8 @@
     "name": "Huntingdon Rd",
     "slug": "abbotsford/huntingdon-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-20T10:17:00Z",
-    "count": 5
+    "lastIncident": "2026-07-22T17:19:00Z",
+    "count": 7
   },
   "surrey/164th-st": {
     "name": "164th St",
@@ -8704,8 +8704,8 @@
     "name": "Bradner Rd",
     "slug": "abbotsford/bradner-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-18T03:21:00Z",
-    "count": 2
+    "lastIncident": "2026-07-22T17:19:00Z",
+    "count": 3
   },
   "new-westminster/7th-st": {
     "name": "7th St",
