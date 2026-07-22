@@ -4,6 +4,21 @@
   "city": "Port Coquitlam",
   "incidents": [
     {
+      "id": "2026-07-22T20:00:00Z_port-coquitlam/mary-hill-bps_port-coquitlam/kingsway-ave",
+      "timestamp": "2026-07-22T20:00:00Z",
+      "address": "MARY HILL BPS & KINGSWAY AVE",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/mary-hill-bps",
+        "port-coquitlam/kingsway-ave"
+      ],
+      "streetNames": [
+        "Mary Hill Bps",
+        "Kingsway Ave"
+      ],
+      "pulsePointId": "2524861070"
+    },
+    {
       "id": "2026-07-12T00:48:00Z_port-coquitlam/mary-hill-bps_port-coquitlam/shaughnessy-st",
       "timestamp": "2026-07-12T00:48:00Z",
       "address": "MARY HILL BPS & SHAUGHNESSY ST",
@@ -220,6 +235,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-12T00:48:00Z",
-  "count": 15
+  "lastIncident": "2026-07-22T20:00:00Z",
+  "count": 16
 }

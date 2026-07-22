@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-22T20:13:00Z_richmond/miller-rd_richmond/aviation-ave",
+      "timestamp": "2026-07-22T20:13:00Z",
+      "address": "MILLER RD & AVIATION AVE",
+      "city": "Richmond",
+      "streets": [
+        "richmond/miller-rd",
+        "richmond/aviation-ave"
+      ],
+      "streetNames": [
+        "Miller Rd",
+        "Aviation Ave"
+      ],
+      "pulsePointId": "2524871126"
+    },
+    {
       "id": "2026-06-03T05:35:00Z_richmond/aviation-ave_richmond/miller-rd",
       "timestamp": "2026-06-03T05:35:00Z",
       "address": "AVIATION AVE & MILLER RD",
@@ -32,6 +47,6 @@
       "pulsePointId": "2464115969"
     }
   ],
-  "lastIncident": "2026-06-03T05:35:00Z",
-  "count": 2
+  "lastIncident": "2026-07-22T20:13:00Z",
+  "count": 3
 }
