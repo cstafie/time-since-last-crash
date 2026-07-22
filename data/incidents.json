@@ -1,5 +1,79 @@
 [
   {
+    "id": "2026-07-22T23:37:00Z_langley/64th-ave",
+    "timestamp": "2026-07-22T23:37:00Z",
+    "scrapedAt": "2026-07-22T23:50:20Z",
+    "address": "64TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/64th-ave"
+    ],
+    "streetNames": [
+      "64th Ave"
+    ],
+    "pulsePointId": "2525012124"
+  },
+  {
+    "id": "2026-07-22T23:25:00Z_vancouver/e-hastings-st_vancouver/nanaimo-st",
+    "timestamp": "2026-07-22T23:25:00Z",
+    "scrapedAt": "2026-07-22T23:50:20Z",
+    "address": "E HASTINGS ST & NANAIMO ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-hastings-st",
+      "vancouver/nanaimo-st"
+    ],
+    "streetNames": [
+      "E Hastings St",
+      "Nanaimo St"
+    ],
+    "pulsePointId": "2525004740"
+  },
+  {
+    "id": "2026-07-22T23:24:00Z_surrey/104th-ave_surrey/old-yale-rd",
+    "timestamp": "2026-07-22T23:24:00Z",
+    "scrapedAt": "2026-07-22T23:50:20Z",
+    "address": "104TH AVE & OLD YALE RD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/104th-ave",
+      "surrey/old-yale-rd"
+    ],
+    "streetNames": [
+      "104th Ave",
+      "Old Yale Rd"
+    ],
+    "pulsePointId": "2525003555"
+  },
+  {
+    "id": "2026-07-22T23:12:00Z_chilliwack/mcintosh-dr",
+    "timestamp": "2026-07-22T23:12:00Z",
+    "scrapedAt": "2026-07-22T23:50:20Z",
+    "address": "MCINTOSH DR",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/mcintosh-dr"
+    ],
+    "streetNames": [
+      "Mcintosh Dr"
+    ],
+    "pulsePointId": "2524995348"
+  },
+  {
+    "id": "2026-07-22T23:10:00Z_anmore/east-rd",
+    "timestamp": "2026-07-22T23:10:00Z",
+    "scrapedAt": "2026-07-22T23:50:20Z",
+    "address": "EAST RD",
+    "city": "Anmore",
+    "streets": [
+      "anmore/east-rd"
+    ],
+    "streetNames": [
+      "East Rd"
+    ],
+    "pulsePointId": "2524993953"
+  },
+  {
     "id": "2026-07-22T22:34:00Z_vancouver/kingsway",
     "timestamp": "2026-07-22T22:34:00Z",
     "scrapedAt": "2026-07-22T22:48:00Z",

@@ -1,0 +1,22 @@
+{
+  "slug": "anmore/east-rd",
+  "name": "East Rd",
+  "city": "Anmore",
+  "incidents": [
+    {
+      "id": "2026-07-22T23:10:00Z_anmore/east-rd",
+      "timestamp": "2026-07-22T23:10:00Z",
+      "address": "EAST RD",
+      "city": "Anmore",
+      "streets": [
+        "anmore/east-rd"
+      ],
+      "streetNames": [
+        "East Rd"
+      ],
+      "pulsePointId": "2524993953"
+    }
+  ],
+  "lastIncident": "2026-07-22T23:10:00Z",
+  "count": 1
+}

@@ -1186,8 +1186,8 @@
     "name": "64th Ave",
     "slug": "langley/64th-ave",
     "city": "Langley",
-    "lastIncident": "2026-07-18T23:38:00Z",
-    "count": 15
+    "lastIncident": "2026-07-22T23:37:00Z",
+    "count": 16
   },
   "chilliwack/watson-rd": {
     "name": "Watson Rd",
@@ -1312,8 +1312,8 @@
     "name": "104th Ave",
     "slug": "surrey/104th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-15T19:39:00Z",
-    "count": 48
+    "lastIncident": "2026-07-22T23:24:00Z",
+    "count": 49
   },
   "surrey/122nd-st": {
     "name": "122nd St",
@@ -1774,8 +1774,8 @@
     "name": "E Hastings St",
     "slug": "vancouver/e-hastings-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-22T20:44:00Z",
-    "count": 48
+    "lastIncident": "2026-07-22T23:25:00Z",
+    "count": 49
   },
   "abbotsford/king-rd": {
     "name": "King Rd",
@@ -2453,8 +2453,8 @@
     "name": "Nanaimo St",
     "slug": "vancouver/nanaimo-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-03T05:32:00Z",
-    "count": 18
+    "lastIncident": "2026-07-22T23:25:00Z",
+    "count": 19
   },
   "vancouver/cambie-st": {
     "name": "Cambie St",
@@ -5239,8 +5239,8 @@
     "name": "Old Yale Rd",
     "slug": "surrey/old-yale-rd",
     "city": "Surrey",
-    "lastIncident": "2026-06-24T22:12:00Z",
-    "count": 5
+    "lastIncident": "2026-07-22T23:24:00Z",
+    "count": 6
   },
   "surrey/mall-accs": {
     "name": "Mall Accs",
@@ -14620,6 +14620,20 @@
     "slug": "coquitlam/genest-way",
     "city": "Coquitlam",
     "lastIncident": "2026-07-22T22:01:00Z",
+    "count": 1
+  },
+  "chilliwack/mcintosh-dr": {
+    "name": "Mcintosh Dr",
+    "slug": "chilliwack/mcintosh-dr",
+    "city": "Chilliwack",
+    "lastIncident": "2026-07-22T23:12:00Z",
+    "count": 1
+  },
+  "anmore/east-rd": {
+    "name": "East Rd",
+    "slug": "anmore/east-rd",
+    "city": "Anmore",
+    "lastIncident": "2026-07-22T23:10:00Z",
     "count": 1
   }
 }
