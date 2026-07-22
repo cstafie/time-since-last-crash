@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-19T12:00:00Z",
-    "count": 66
+    "lastIncident": "2026-07-22T15:56:00Z",
+    "count": 67
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -8620,8 +8620,8 @@
     "name": "Willowbrook Dr",
     "slug": "langley/willowbrook-dr",
     "city": "Langley",
-    "lastIncident": "2026-06-17T22:05:00Z",
-    "count": 2
+    "lastIncident": "2026-07-22T15:56:00Z",
+    "count": 3
   },
   "mission/10th-ave": {
     "name": "10th Ave",
@@ -9663,8 +9663,8 @@
     "name": "W 43rd Ave",
     "slug": "vancouver/w-43rd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-21T21:15:00Z",
-    "count": 3
+    "lastIncident": "2026-07-22T15:56:00Z",
+    "count": 4
   },
   "vancouver/pine-st": {
     "name": "Pine St",
@@ -10216,8 +10216,8 @@
     "name": "197th St",
     "slug": "langley/197th-st",
     "city": "Langley",
-    "lastIncident": "2026-07-10T14:07:00Z",
-    "count": 3
+    "lastIncident": "2026-07-22T15:56:00Z",
+    "count": 4
   },
   "langley/76th-ave": {
     "name": "76th Ave",

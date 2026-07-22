@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-07-22T15:56:00Z_langley/197th-st_langley/willowbrook-dr",
+      "timestamp": "2026-07-22T15:56:00Z",
+      "address": "197TH ST & WILLOWBROOK DR",
+      "city": "Langley",
+      "streets": [
+        "langley/197th-st",
+        "langley/willowbrook-dr"
+      ],
+      "streetNames": [
+        "197th St",
+        "Willowbrook Dr"
+      ],
+      "pulsePointId": "2524688843"
+    },
+    {
       "id": "2026-07-10T14:07:00Z_langley/197th-st",
       "timestamp": "2026-07-10T14:07:00Z",
       "address": "197TH ST",
@@ -45,6 +60,6 @@
       "pulsePointId": "2480213923"
     }
   ],
-  "lastIncident": "2026-07-10T14:07:00Z",
-  "count": 3
+  "lastIncident": "2026-07-22T15:56:00Z",
+  "count": 4
 }

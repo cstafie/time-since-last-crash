@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-22T15:56:00Z_vancouver/granville-st_vancouver/w-43rd-ave",
+      "timestamp": "2026-07-22T15:56:00Z",
+      "address": "GRANVILLE ST & W 43RD AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st",
+        "vancouver/w-43rd-ave"
+      ],
+      "streetNames": [
+        "Granville St",
+        "W 43rd Ave"
+      ],
+      "pulsePointId": "2524687905"
+    },
+    {
       "id": "2026-07-19T12:00:00Z_vancouver/granville-st_vancouver/w-16th-ave",
       "timestamp": "2026-07-19T12:00:00Z",
       "address": "GRANVILLE ST & W 16TH AVE",
@@ -975,6 +990,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-19T12:00:00Z",
-  "count": 66
+  "lastIncident": "2026-07-22T15:56:00Z",
+  "count": 67
 }
