@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-22T03:12:00Z_richmond/westminster-hwy_richmond/no-5-rd",
+      "timestamp": "2026-07-22T03:12:00Z",
+      "address": "WESTMINSTER HWY & NO 5 RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/westminster-hwy",
+        "richmond/no-5-rd"
+      ],
+      "streetNames": [
+        "Westminster Hwy",
+        "No 5 Rd"
+      ],
+      "pulsePointId": "2524398261"
+    },
+    {
       "id": "2026-07-19T19:36:00Z_richmond/cooney-rd_richmond/westminster-hwy",
       "timestamp": "2026-07-19T19:36:00Z",
       "address": "COONEY RD & WESTMINSTER HWY",
@@ -407,6 +422,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-19T19:36:00Z",
-  "count": 28
+  "lastIncident": "2026-07-22T03:12:00Z",
+  "count": 29
 }

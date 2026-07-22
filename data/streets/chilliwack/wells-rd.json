@@ -1,0 +1,24 @@
+{
+  "slug": "chilliwack/wells-rd",
+  "name": "Wells Rd",
+  "city": "Chilliwack",
+  "incidents": [
+    {
+      "id": "2026-07-22T01:57:00Z_chilliwack/wells-rd_chilliwack/vedder-rd",
+      "timestamp": "2026-07-22T01:57:00Z",
+      "address": "WELLS RD & VEDDER RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/wells-rd",
+        "chilliwack/vedder-rd"
+      ],
+      "streetNames": [
+        "Wells Rd",
+        "Vedder Rd"
+      ],
+      "pulsePointId": "2524351804"
+    }
+  ],
+  "lastIncident": "2026-07-22T01:57:00Z",
+  "count": 1
+}
