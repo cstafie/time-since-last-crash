@@ -745,8 +745,8 @@
     "name": "Kingsway",
     "slug": "vancouver/kingsway",
     "city": "Vancouver",
-    "lastIncident": "2026-07-18T16:28:00Z",
-    "count": 35
+    "lastIncident": "2026-07-22T22:34:00Z",
+    "count": 36
   },
   "vancouver/knight-st": {
     "name": "Knight St",
@@ -1501,8 +1501,8 @@
     "name": "144th St",
     "slug": "surrey/144th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-17T05:43:00Z",
-    "count": 46
+    "lastIncident": "2026-07-22T22:28:00Z",
+    "count": 47
   },
   "north-vancouver/seymour-blvd": {
     "name": "Seymour Blvd",
@@ -1655,8 +1655,8 @@
     "name": "David Ave",
     "slug": "coquitlam/david-ave",
     "city": "Coquitlam",
-    "lastIncident": "2026-07-10T22:37:00Z",
-    "count": 10
+    "lastIncident": "2026-07-22T22:01:00Z",
+    "count": 11
   },
   "coquitlam/oxford-st": {
     "name": "Oxford St",
@@ -1949,8 +1949,8 @@
     "name": "Trans Canada Hwy",
     "slug": "abbotsford/trans-canada-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-20T23:59:00Z",
-    "count": 52
+    "lastIncident": "2026-07-22T22:21:00Z",
+    "count": 53
   },
   "vancouver/w-16th-ave": {
     "name": "W 16th Ave",
@@ -8655,8 +8655,8 @@
     "name": "67a Ave",
     "slug": "surrey/67a-ave",
     "city": "Surrey",
-    "lastIncident": "2026-06-03T04:09:00Z",
-    "count": 3
+    "lastIncident": "2026-07-22T22:28:00Z",
+    "count": 4
   },
   "maple-ridge/266th-st": {
     "name": "266th St",
@@ -14613,6 +14613,13 @@
     "slug": "chilliwack/eagle-landing-pkwy",
     "city": "Chilliwack",
     "lastIncident": "2026-07-22T19:03:00Z",
+    "count": 1
+  },
+  "coquitlam/genest-way": {
+    "name": "Genest Way",
+    "slug": "coquitlam/genest-way",
+    "city": "Coquitlam",
+    "lastIncident": "2026-07-22T22:01:00Z",
     "count": 1
   }
 }

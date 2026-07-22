@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-07-22T22:34:00Z_vancouver/kingsway",
+    "timestamp": "2026-07-22T22:34:00Z",
+    "scrapedAt": "2026-07-22T22:48:00Z",
+    "address": "KINGSWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kingsway"
+    ],
+    "streetNames": [
+      "Kingsway"
+    ],
+    "pulsePointId": "2524967892"
+  },
+  {
+    "id": "2026-07-22T22:28:00Z_surrey/144th-st_surrey/67a-ave",
+    "timestamp": "2026-07-22T22:28:00Z",
+    "scrapedAt": "2026-07-22T22:48:00Z",
+    "address": "144TH ST & 67A AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/144th-st",
+      "surrey/67a-ave"
+    ],
+    "streetNames": [
+      "144th St",
+      "67a Ave"
+    ],
+    "pulsePointId": "2524963762"
+  },
+  {
+    "id": "2026-07-22T22:21:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-07-22T22:21:00Z",
+    "scrapedAt": "2026-07-22T22:48:00Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2524960213"
+  },
+  {
+    "id": "2026-07-22T22:01:00Z_coquitlam/genest-way_coquitlam/david-ave",
+    "timestamp": "2026-07-22T22:01:00Z",
+    "scrapedAt": "2026-07-22T22:48:00Z",
+    "address": "GENEST WAY & DAVID AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/genest-way",
+      "coquitlam/david-ave"
+    ],
+    "streetNames": [
+      "Genest Way",
+      "David Ave"
+    ],
+    "pulsePointId": "2524947089"
+  },
+  {
     "id": "2026-07-22T21:08:00Z_maple-ridge/lougheed-hwy",
     "timestamp": "2026-07-22T21:08:00Z",
     "scrapedAt": "2026-07-22T21:53:59Z",

@@ -4,6 +4,21 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-07-22T22:01:00Z_coquitlam/genest-way_coquitlam/david-ave",
+      "timestamp": "2026-07-22T22:01:00Z",
+      "address": "GENEST WAY & DAVID AVE",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/genest-way",
+        "coquitlam/david-ave"
+      ],
+      "streetNames": [
+        "Genest Way",
+        "David Ave"
+      ],
+      "pulsePointId": "2524947089"
+    },
+    {
       "id": "2026-07-10T22:37:00Z_coquitlam/david-ave_coquitlam/shaughnessy-st",
       "timestamp": "2026-07-10T22:37:00Z",
       "address": "DAVID AVE & SHAUGHNESSY ST",
@@ -152,6 +167,6 @@
       "pulsePointId": "2432944071"
     }
   ],
-  "lastIncident": "2026-07-10T22:37:00Z",
-  "count": 10
+  "lastIncident": "2026-07-22T22:01:00Z",
+  "count": 11
 }

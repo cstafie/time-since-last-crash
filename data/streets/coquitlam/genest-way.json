@@ -1,0 +1,24 @@
+{
+  "slug": "coquitlam/genest-way",
+  "name": "Genest Way",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-07-22T22:01:00Z_coquitlam/genest-way_coquitlam/david-ave",
+      "timestamp": "2026-07-22T22:01:00Z",
+      "address": "GENEST WAY & DAVID AVE",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/genest-way",
+        "coquitlam/david-ave"
+      ],
+      "streetNames": [
+        "Genest Way",
+        "David Ave"
+      ],
+      "pulsePointId": "2524947089"
+    }
+  ],
+  "lastIncident": "2026-07-22T22:01:00Z",
+  "count": 1
+}
