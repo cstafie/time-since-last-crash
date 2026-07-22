@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-22T00:29:00Z_vancouver/wellington-ave_vancouver/joyce-st",
+      "timestamp": "2026-07-22T00:29:00Z",
+      "address": "WELLINGTON AVE & JOYCE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/wellington-ave",
+        "vancouver/joyce-st"
+      ],
+      "streetNames": [
+        "Wellington Ave",
+        "Joyce St"
+      ],
+      "pulsePointId": "2524294399"
+    },
+    {
       "id": "2026-07-16T00:33:00Z_vancouver/wellington-ave_vancouver/rupert-st",
       "timestamp": "2026-07-16T00:33:00Z",
       "address": "WELLINGTON AVE & RUPERT ST",
@@ -49,6 +64,6 @@
       "pulsePointId": "2470988316"
     }
   ],
-  "lastIncident": "2026-07-16T00:33:00Z",
-  "count": 3
+  "lastIncident": "2026-07-22T00:29:00Z",
+  "count": 4
 }

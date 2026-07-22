@@ -766,8 +766,8 @@
     "name": "Oak St",
     "slug": "vancouver/oak-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-21T21:15:00Z",
-    "count": 50
+    "lastIncident": "2026-07-22T00:33:00Z",
+    "count": 51
   },
   "vancouver/w-12th-ave": {
     "name": "W 12th Ave",
@@ -780,8 +780,8 @@
     "name": "W 33rd Ave",
     "slug": "vancouver/w-33rd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-17T19:08:00Z",
-    "count": 13
+    "lastIncident": "2026-07-22T00:33:00Z",
+    "count": 14
   },
   "vancouver/w-49th-ave": {
     "name": "W 49th Ave",
@@ -885,8 +885,8 @@
     "name": "176th St",
     "slug": "surrey/176th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-17T05:19:00Z",
-    "count": 49
+    "lastIncident": "2026-07-22T00:12:00Z",
+    "count": 50
   },
   "surrey/100th-ave": {
     "name": "100th Ave",
@@ -1102,8 +1102,8 @@
     "name": "200th St",
     "slug": "langley/200th-st",
     "city": "Langley",
-    "lastIncident": "2026-07-16T15:30:00Z",
-    "count": 40
+    "lastIncident": "2026-07-22T01:06:00Z",
+    "count": 41
   },
   "abbotsford/downes-rd": {
     "name": "Downes Rd",
@@ -3510,8 +3510,8 @@
     "name": "Golden Ears Way",
     "slug": "surrey/golden-ears-way",
     "city": "Surrey",
-    "lastIncident": "2026-07-16T00:35:00Z",
-    "count": 8
+    "lastIncident": "2026-07-22T00:12:00Z",
+    "count": 9
   },
   "surrey/144a-st": {
     "name": "144a St",
@@ -4007,8 +4007,8 @@
     "name": "Joyce St",
     "slug": "vancouver/joyce-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-30T14:58:00Z",
-    "count": 7
+    "lastIncident": "2026-07-22T00:29:00Z",
+    "count": 8
   },
   "richmond/general-currie-rd": {
     "name": "General Currie Rd",
@@ -4630,8 +4630,8 @@
     "name": "Powell St",
     "slug": "vancouver/powell-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-26T21:17:00Z",
-    "count": 7
+    "lastIncident": "2026-07-22T00:55:00Z",
+    "count": 8
   },
   "maple-ridge/224th-st": {
     "name": "224th St",
@@ -9222,8 +9222,8 @@
     "name": "Wellington Ave",
     "slug": "vancouver/wellington-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-16T00:33:00Z",
-    "count": 3
+    "lastIncident": "2026-07-22T00:29:00Z",
+    "count": 4
   },
   "vancouver/w-67th-ave": {
     "name": "W 67th Ave",
@@ -14592,6 +14592,13 @@
     "slug": "abbotsford/delair-rd",
     "city": "Abbotsford",
     "lastIncident": "2026-07-21T20:20:00Z",
+    "count": 1
+  },
+  "richmond/langton-rd": {
+    "name": "Langton Rd",
+    "slug": "richmond/langton-rd",
+    "city": "Richmond",
+    "lastIncident": "2026-07-22T00:10:00Z",
     "count": 1
   }
 }

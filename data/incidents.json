@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026-07-22T01:06:00Z_langley/200th-st",
+    "timestamp": "2026-07-22T01:06:00Z",
+    "scrapedAt": "2026-07-22T01:15:46Z",
+    "address": "200TH ST",
+    "city": "Langley",
+    "streets": [
+      "langley/200th-st"
+    ],
+    "streetNames": [
+      "200th St"
+    ],
+    "pulsePointId": "2524318207"
+  },
+  {
+    "id": "2026-07-22T00:55:00Z_vancouver/powell-st",
+    "timestamp": "2026-07-22T00:55:00Z",
+    "scrapedAt": "2026-07-22T01:15:46Z",
+    "address": "POWELL ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/powell-st"
+    ],
+    "streetNames": [
+      "Powell St"
+    ],
+    "pulsePointId": "2524310890"
+  },
+  {
+    "id": "2026-07-22T00:33:00Z_vancouver/w-33rd-ave_vancouver/oak-st",
+    "timestamp": "2026-07-22T00:33:00Z",
+    "scrapedAt": "2026-07-22T01:15:46Z",
+    "address": "W 33RD AVE & OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-33rd-ave",
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "W 33rd Ave",
+      "Oak St"
+    ],
+    "pulsePointId": "2524297438"
+  },
+  {
+    "id": "2026-07-22T00:29:00Z_vancouver/wellington-ave_vancouver/joyce-st",
+    "timestamp": "2026-07-22T00:29:00Z",
+    "scrapedAt": "2026-07-22T01:15:46Z",
+    "address": "WELLINGTON AVE & JOYCE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/wellington-ave",
+      "vancouver/joyce-st"
+    ],
+    "streetNames": [
+      "Wellington Ave",
+      "Joyce St"
+    ],
+    "pulsePointId": "2524294399"
+  },
+  {
+    "id": "2026-07-22T00:12:00Z_surrey/176th-st_surrey/golden-ears-way",
+    "timestamp": "2026-07-22T00:12:00Z",
+    "scrapedAt": "2026-07-22T01:15:46Z",
+    "address": "176TH ST & GOLDEN EARS WAY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/176th-st",
+      "surrey/golden-ears-way"
+    ],
+    "streetNames": [
+      "176th St",
+      "Golden Ears Way"
+    ],
+    "pulsePointId": "2524282209"
+  },
+  {
+    "id": "2026-07-22T00:10:00Z_richmond/langton-rd",
+    "timestamp": "2026-07-22T00:10:00Z",
+    "scrapedAt": "2026-07-22T01:15:46Z",
+    "address": "LANGTON RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/langton-rd"
+    ],
+    "streetNames": [
+      "Langton Rd"
+    ],
+    "pulsePointId": "2524282451"
+  },
+  {
     "id": "2026-07-21T23:41:00Z_surrey/20th-ave_surrey/184th-st",
     "timestamp": "2026-07-21T23:41:00Z",
     "scrapedAt": "2026-07-21T23:44:52Z",
