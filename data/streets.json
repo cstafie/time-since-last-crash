@@ -2873,8 +2873,8 @@
     "name": "Evans Rd",
     "slug": "chilliwack/evans-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-07-13T22:41:00Z",
-    "count": 4
+    "lastIncident": "2026-07-22T19:03:00Z",
+    "count": 5
   },
   "chilliwack/yale-rd": {
     "name": "Yale Rd",
@@ -14606,6 +14606,13 @@
     "slug": "chilliwack/wells-rd",
     "city": "Chilliwack",
     "lastIncident": "2026-07-22T01:57:00Z",
+    "count": 1
+  },
+  "chilliwack/eagle-landing-pkwy": {
+    "name": "Eagle Landing Pkwy",
+    "slug": "chilliwack/eagle-landing-pkwy",
+    "city": "Chilliwack",
+    "lastIncident": "2026-07-22T19:03:00Z",
     "count": 1
   }
 }

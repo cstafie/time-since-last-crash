@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-22T19:03:00Z_chilliwack/evans-rd_chilliwack/eagle-landing-pkwy",
+    "timestamp": "2026-07-22T19:03:00Z",
+    "scrapedAt": "2026-07-22T19:09:24Z",
+    "address": "EVANS RD & EAGLE LANDING PKWY",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/evans-rd",
+      "chilliwack/eagle-landing-pkwy"
+    ],
+    "streetNames": [
+      "Evans Rd",
+      "Eagle Landing Pkwy"
+    ],
+    "pulsePointId": "2524818609"
+  },
+  {
     "id": "2026-07-22T17:19:00Z_abbotsford/bradner-rd_abbotsford/huntingdon-rd",
     "timestamp": "2026-07-22T17:19:00Z",
     "scrapedAt": "2026-07-22T17:58:50Z",

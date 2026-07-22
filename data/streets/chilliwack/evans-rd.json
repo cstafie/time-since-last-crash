@@ -4,6 +4,21 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-07-22T19:03:00Z_chilliwack/evans-rd_chilliwack/eagle-landing-pkwy",
+      "timestamp": "2026-07-22T19:03:00Z",
+      "address": "EVANS RD & EAGLE LANDING PKWY",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/evans-rd",
+        "chilliwack/eagle-landing-pkwy"
+      ],
+      "streetNames": [
+        "Evans Rd",
+        "Eagle Landing Pkwy"
+      ],
+      "pulsePointId": "2524818609"
+    },
+    {
       "id": "2026-07-13T22:41:00Z_chilliwack/evans-rd_chilliwack/luckakuck-way",
       "timestamp": "2026-07-13T22:41:00Z",
       "address": "EVANS RD & LUCKAKUCK WAY",
@@ -64,6 +79,6 @@
       "pulsePointId": "2436752247"
     }
   ],
-  "lastIncident": "2026-07-13T22:41:00Z",
-  "count": 4
+  "lastIncident": "2026-07-22T19:03:00Z",
+  "count": 5
 }
