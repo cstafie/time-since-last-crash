@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-22T11:43:00Z_vancouver/joyce-st_vancouver/e-29th-ave",
+      "timestamp": "2026-07-22T11:43:00Z",
+      "address": "JOYCE ST & E 29TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/joyce-st",
+        "vancouver/e-29th-ave"
+      ],
+      "streetNames": [
+        "Joyce St",
+        "E 29th Ave"
+      ],
+      "pulsePointId": "2524575825"
+    },
+    {
       "id": "2026-06-14T22:22:00Z_vancouver/e-29th-ave_vancouver/slocan-st",
       "timestamp": "2026-06-14T22:22:00Z",
       "address": "E 29TH AVE & SLOCAN ST",
@@ -154,6 +169,6 @@
       "pulsePointId": "2434824658"
     }
   ],
-  "lastIncident": "2026-06-14T22:22:00Z",
-  "count": 10
+  "lastIncident": "2026-07-22T11:43:00Z",
+  "count": 11
 }

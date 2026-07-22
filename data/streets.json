@@ -2180,8 +2180,8 @@
     "name": "E 29th Ave",
     "slug": "vancouver/e-29th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-14T22:22:00Z",
-    "count": 10
+    "lastIncident": "2026-07-22T11:43:00Z",
+    "count": 11
   },
   "vancouver/rupert-st": {
     "name": "Rupert St",
@@ -4007,8 +4007,8 @@
     "name": "Joyce St",
     "slug": "vancouver/joyce-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-22T00:29:00Z",
-    "count": 8
+    "lastIncident": "2026-07-22T11:43:00Z",
+    "count": 9
   },
   "richmond/general-currie-rd": {
     "name": "General Currie Rd",
