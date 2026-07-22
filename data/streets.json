@@ -325,8 +325,8 @@
     "name": "Lougheed Hwy",
     "slug": "maple-ridge/lougheed-hwy",
     "city": "Maple Ridge",
-    "lastIncident": "2026-07-18T16:51:00Z",
-    "count": 40
+    "lastIncident": "2026-07-22T21:08:00Z",
+    "count": 41
   },
   "mission/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-17T03:40:00Z",
-    "count": 56
+    "lastIncident": "2026-07-22T20:40:00Z",
+    "count": 57
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",
@@ -1774,8 +1774,8 @@
     "name": "E Hastings St",
     "slug": "vancouver/e-hastings-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-21T05:09:00Z",
-    "count": 47
+    "lastIncident": "2026-07-22T20:44:00Z",
+    "count": 48
   },
   "abbotsford/king-rd": {
     "name": "King Rd",

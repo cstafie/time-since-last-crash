@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-07-22T21:08:00Z_maple-ridge/lougheed-hwy",
+    "timestamp": "2026-07-22T21:08:00Z",
+    "scrapedAt": "2026-07-22T21:53:59Z",
+    "address": "LOUGHEED HWY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2524910762"
+  },
+  {
+    "id": "2026-07-22T20:44:00Z_vancouver/e-hastings-st",
+    "timestamp": "2026-07-22T20:44:00Z",
+    "scrapedAt": "2026-07-22T21:53:59Z",
+    "address": "E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "E Hastings St"
+    ],
+    "pulsePointId": "2524894110"
+  },
+  {
+    "id": "2026-07-22T20:40:00Z_vancouver/main-st",
+    "timestamp": "2026-07-22T20:40:00Z",
+    "scrapedAt": "2026-07-22T21:53:59Z",
+    "address": "MAIN ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st"
+    ],
+    "streetNames": [
+      "Main St"
+    ],
+    "pulsePointId": "2524890365"
+  },
+  {
     "id": "2026-07-22T20:31:00Z_surrey/177b-st_surrey/56th-ave",
     "timestamp": "2026-07-22T20:31:00Z",
     "scrapedAt": "2026-07-22T20:35:18Z",
