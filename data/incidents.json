@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-07-23T16:51:00Z_surrey/hyland-rd",
+    "timestamp": "2026-07-23T16:51:00Z",
+    "scrapedAt": "2026-07-23T16:59:14Z",
+    "address": "HYLAND RD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/hyland-rd"
+    ],
+    "streetNames": [
+      "Hyland Rd"
+    ],
+    "pulsePointId": "2525456003"
+  },
+  {
+    "id": "2026-07-23T16:38:00Z_north-vancouver/lonsdale-ave",
+    "timestamp": "2026-07-23T16:38:00Z",
+    "scrapedAt": "2026-07-23T16:59:14Z",
+    "address": "LONSDALE AVE",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/lonsdale-ave"
+    ],
+    "streetNames": [
+      "Lonsdale Ave"
+    ],
+    "pulsePointId": "2525444857"
+  },
+  {
     "id": "2026-07-23T14:01:00Z_langley/trans-canada-hwy",
     "timestamp": "2026-07-23T14:01:00Z",
     "scrapedAt": "2026-07-23T15:29:08Z",
