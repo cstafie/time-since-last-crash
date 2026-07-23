@@ -1,0 +1,24 @@
+{
+  "slug": "richmond/coppersmith-pl",
+  "name": "Coppersmith Pl",
+  "city": "Richmond",
+  "incidents": [
+    {
+      "id": "2026-07-23T21:57:00Z_richmond/steveston-hwy_richmond/coppersmith-pl",
+      "timestamp": "2026-07-23T21:57:00Z",
+      "address": "STEVESTON HWY & COPPERSMITH PL",
+      "city": "Richmond",
+      "streets": [
+        "richmond/steveston-hwy",
+        "richmond/coppersmith-pl"
+      ],
+      "streetNames": [
+        "Steveston Hwy",
+        "Coppersmith Pl"
+      ],
+      "pulsePointId": "2525670175"
+    }
+  ],
+  "lastIncident": "2026-07-23T21:57:00Z",
+  "count": 1
+}

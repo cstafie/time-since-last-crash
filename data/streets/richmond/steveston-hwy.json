@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-23T21:57:00Z_richmond/steveston-hwy_richmond/coppersmith-pl",
+      "timestamp": "2026-07-23T21:57:00Z",
+      "address": "STEVESTON HWY & COPPERSMITH PL",
+      "city": "Richmond",
+      "streets": [
+        "richmond/steveston-hwy",
+        "richmond/coppersmith-pl"
+      ],
+      "streetNames": [
+        "Steveston Hwy",
+        "Coppersmith Pl"
+      ],
+      "pulsePointId": "2525670175"
+    },
+    {
       "id": "2026-07-23T17:42:00Z_richmond/railway-ave_richmond/steveston-hwy",
       "timestamp": "2026-07-23T17:42:00Z",
       "address": "RAILWAY AVE & STEVESTON HWY",
@@ -178,6 +193,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-23T17:42:00Z",
-  "count": 12
+  "lastIncident": "2026-07-23T21:57:00Z",
+  "count": 13
 }
