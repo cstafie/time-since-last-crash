@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-07-23T14:01:00Z_langley/trans-canada-hwy",
+    "timestamp": "2026-07-23T14:01:00Z",
+    "scrapedAt": "2026-07-23T15:29:08Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Langley",
+    "streets": [
+      "langley/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2525360857"
+  },
+  {
     "id": "2026-07-23T06:43:00Z_north-vancouver/w-queens-rd_north-vancouver/chesterfield-ave",
     "timestamp": "2026-07-23T06:43:00Z",
     "scrapedAt": "2026-07-23T07:25:19Z",
