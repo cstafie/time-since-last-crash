@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-07-23T06:43:00Z_north-vancouver/w-queens-rd_north-vancouver/chesterfield-ave",
+    "timestamp": "2026-07-23T06:43:00Z",
+    "scrapedAt": "2026-07-23T07:25:19Z",
+    "address": "W QUEENS RD & CHESTERFIELD AVE",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/w-queens-rd",
+      "north-vancouver/chesterfield-ave"
+    ],
+    "streetNames": [
+      "W Queens Rd",
+      "Chesterfield Ave"
+    ],
+    "pulsePointId": "2525233691"
+  },
+  {
+    "id": "2026-07-23T05:34:00Z_richmond/garden-city-rd_richmond/odlin-rd",
+    "timestamp": "2026-07-23T05:34:00Z",
+    "scrapedAt": "2026-07-23T07:25:19Z",
+    "address": "GARDEN CITY RD & ODLIN RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/garden-city-rd",
+      "richmond/odlin-rd"
+    ],
+    "streetNames": [
+      "Garden City Rd",
+      "Odlin Rd"
+    ],
+    "pulsePointId": "2525210246"
+  },
+  {
+    "id": "2026-07-23T05:24:00Z_coquitlam/trans-canada-hwy",
+    "timestamp": "2026-07-23T05:24:00Z",
+    "scrapedAt": "2026-07-23T07:25:19Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2525207117"
+  },
+  {
     "id": "2026-07-23T04:03:00Z_surrey/176th-st",
     "timestamp": "2026-07-23T04:03:00Z",
     "scrapedAt": "2026-07-23T04:43:03Z",

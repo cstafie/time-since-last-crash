@@ -4,6 +4,21 @@
   "city": "North Vancouver",
   "incidents": [
     {
+      "id": "2026-07-23T06:43:00Z_north-vancouver/w-queens-rd_north-vancouver/chesterfield-ave",
+      "timestamp": "2026-07-23T06:43:00Z",
+      "address": "W QUEENS RD & CHESTERFIELD AVE",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/w-queens-rd",
+        "north-vancouver/chesterfield-ave"
+      ],
+      "streetNames": [
+        "W Queens Rd",
+        "Chesterfield Ave"
+      ],
+      "pulsePointId": "2525233691"
+    },
+    {
       "id": "2026-04-29T22:23:00Z_north-vancouver/chesterfield-ave_north-vancouver/w-5th-lane",
       "timestamp": "2026-04-29T22:23:00Z",
       "address": "CHESTERFIELD AVE & W 5TH LANE",
@@ -64,6 +79,6 @@
       "pulsePointId": "2437200820"
     }
   ],
-  "lastIncident": "2026-04-29T22:23:00Z",
-  "count": 4
+  "lastIncident": "2026-07-23T06:43:00Z",
+  "count": 5
 }

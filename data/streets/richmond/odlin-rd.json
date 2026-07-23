@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-23T05:34:00Z_richmond/garden-city-rd_richmond/odlin-rd",
+      "timestamp": "2026-07-23T05:34:00Z",
+      "address": "GARDEN CITY RD & ODLIN RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/garden-city-rd",
+        "richmond/odlin-rd"
+      ],
+      "streetNames": [
+        "Garden City Rd",
+        "Odlin Rd"
+      ],
+      "pulsePointId": "2525210246"
+    },
+    {
       "id": "2026-06-08T22:30:00Z_richmond/odlin-rd_richmond/no-4-rd",
       "timestamp": "2026-06-08T22:30:00Z",
       "address": "ODLIN RD & NO 4 RD",
@@ -34,6 +49,6 @@
       "pulsePointId": "2479566254"
     }
   ],
-  "lastIncident": "2026-06-08T22:30:00Z",
-  "count": 2
+  "lastIncident": "2026-07-23T05:34:00Z",
+  "count": 3
 }
