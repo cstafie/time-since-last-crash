@@ -1,0 +1,24 @@
+{
+  "slug": "delta/34b-ave",
+  "name": "34b Ave",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-07-23T22:57:00Z_delta/64th-st_delta/34b-ave",
+      "timestamp": "2026-07-23T22:57:00Z",
+      "address": "64TH ST & 34B AVE",
+      "city": "Delta",
+      "streets": [
+        "delta/64th-st",
+        "delta/34b-ave"
+      ],
+      "streetNames": [
+        "64th St",
+        "34b Ave"
+      ],
+      "pulsePointId": "2525715247"
+    }
+  ],
+  "lastIncident": "2026-07-23T22:57:00Z",
+  "count": 1
+}

@@ -4,6 +4,36 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-07-23T22:57:00Z_delta/64th-st_delta/34b-ave",
+      "timestamp": "2026-07-23T22:57:00Z",
+      "address": "64TH ST & 34B AVE",
+      "city": "Delta",
+      "streets": [
+        "delta/64th-st",
+        "delta/34b-ave"
+      ],
+      "streetNames": [
+        "64th St",
+        "34b Ave"
+      ],
+      "pulsePointId": "2525715247"
+    },
+    {
+      "id": "2026-07-23T22:56:00Z_delta/36th-ave_delta/64th-st",
+      "timestamp": "2026-07-23T22:56:00Z",
+      "address": "36TH AVE & 64TH ST",
+      "city": "Delta",
+      "streets": [
+        "delta/36th-ave",
+        "delta/64th-st"
+      ],
+      "streetNames": [
+        "36th Ave",
+        "64th St"
+      ],
+      "pulsePointId": "2525713580"
+    },
+    {
       "id": "2026-04-09T14:00:00Z_delta/64th-st",
       "timestamp": "2026-04-09T14:00:00Z",
       "address": "64TH ST",
@@ -32,6 +62,6 @@
       "pulsePointId": "2438812052"
     }
   ],
-  "lastIncident": "2026-04-09T14:00:00Z",
-  "count": 2
+  "lastIncident": "2026-07-23T22:57:00Z",
+  "count": 4
 }

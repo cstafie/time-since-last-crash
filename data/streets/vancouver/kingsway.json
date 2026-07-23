@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-23T22:59:00Z_vancouver/college-st_vancouver/kingsway",
+      "timestamp": "2026-07-23T22:59:00Z",
+      "address": "COLLEGE ST & KINGSWAY",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/college-st",
+        "vancouver/kingsway"
+      ],
+      "streetNames": [
+        "College St",
+        "Kingsway"
+      ],
+      "pulsePointId": "2525714415"
+    },
+    {
       "id": "2026-07-23T00:30:00Z_vancouver/kingsway_vancouver/killarney-st",
       "timestamp": "2026-07-23T00:30:00Z",
       "address": "KINGSWAY & KILLARNEY ST",
@@ -544,6 +559,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-23T00:30:00Z",
-  "count": 37
+  "lastIncident": "2026-07-23T22:59:00Z",
+  "count": 38
 }

@@ -1,5 +1,69 @@
 [
   {
+    "id": "2026-07-23T23:28:00Z_burnaby/kingsway_burnaby/gilley-ave",
+    "timestamp": "2026-07-23T23:28:00Z",
+    "scrapedAt": "2026-07-23T23:45:19Z",
+    "address": "KINGSWAY & GILLEY AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/kingsway",
+      "burnaby/gilley-ave"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "Gilley Ave"
+    ],
+    "pulsePointId": "2525734052"
+  },
+  {
+    "id": "2026-07-23T22:59:00Z_vancouver/college-st_vancouver/kingsway",
+    "timestamp": "2026-07-23T22:59:00Z",
+    "scrapedAt": "2026-07-23T23:45:19Z",
+    "address": "COLLEGE ST & KINGSWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/college-st",
+      "vancouver/kingsway"
+    ],
+    "streetNames": [
+      "College St",
+      "Kingsway"
+    ],
+    "pulsePointId": "2525714415"
+  },
+  {
+    "id": "2026-07-23T22:57:00Z_delta/64th-st_delta/34b-ave",
+    "timestamp": "2026-07-23T22:57:00Z",
+    "scrapedAt": "2026-07-23T23:45:19Z",
+    "address": "64TH ST & 34B AVE",
+    "city": "Delta",
+    "streets": [
+      "delta/64th-st",
+      "delta/34b-ave"
+    ],
+    "streetNames": [
+      "64th St",
+      "34b Ave"
+    ],
+    "pulsePointId": "2525715247"
+  },
+  {
+    "id": "2026-07-23T22:56:00Z_delta/36th-ave_delta/64th-st",
+    "timestamp": "2026-07-23T22:56:00Z",
+    "scrapedAt": "2026-07-23T23:45:19Z",
+    "address": "36TH AVE & 64TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/36th-ave",
+      "delta/64th-st"
+    ],
+    "streetNames": [
+      "36th Ave",
+      "64th St"
+    ],
+    "pulsePointId": "2525713580"
+  },
+  {
     "id": "2026-07-23T22:25:00Z_richmond/hwy-91_richmond/knight-street-ofrp",
     "timestamp": "2026-07-23T22:25:00Z",
     "scrapedAt": "2026-07-23T22:43:34Z",

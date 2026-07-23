@@ -1,0 +1,24 @@
+{
+  "slug": "delta/36th-ave",
+  "name": "36th Ave",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-07-23T22:56:00Z_delta/36th-ave_delta/64th-st",
+      "timestamp": "2026-07-23T22:56:00Z",
+      "address": "36TH AVE & 64TH ST",
+      "city": "Delta",
+      "streets": [
+        "delta/36th-ave",
+        "delta/64th-st"
+      ],
+      "streetNames": [
+        "36th Ave",
+        "64th St"
+      ],
+      "pulsePointId": "2525713580"
+    }
+  ],
+  "lastIncident": "2026-07-23T22:56:00Z",
+  "count": 1
+}

@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-23T23:28:00Z_burnaby/kingsway_burnaby/gilley-ave",
+      "timestamp": "2026-07-23T23:28:00Z",
+      "address": "KINGSWAY & GILLEY AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/kingsway",
+        "burnaby/gilley-ave"
+      ],
+      "streetNames": [
+        "Kingsway",
+        "Gilley Ave"
+      ],
+      "pulsePointId": "2525734052"
+    },
+    {
       "id": "2026-07-20T20:43:00Z_burnaby/kingsway_burnaby/willingdon-ave",
       "timestamp": "2026-07-20T20:43:00Z",
       "address": "KINGSWAY & WILLINGDON AVE",
@@ -446,6 +461,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-20T20:43:00Z",
-  "count": 31
+  "lastIncident": "2026-07-23T23:28:00Z",
+  "count": 32
 }
