@@ -640,8 +640,8 @@
     "name": "92nd Ave",
     "slug": "surrey/92nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-16T02:15:00Z",
-    "count": 23
+    "lastIncident": "2026-07-23T19:57:00Z",
+    "count": 24
   },
   "surrey/96th-ave": {
     "name": "96th Ave",
@@ -1298,8 +1298,8 @@
     "name": "120th St",
     "slug": "surrey/120th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-21T13:54:00Z",
-    "count": 13
+    "lastIncident": "2026-07-23T20:14:00Z",
+    "count": 14
   },
   "delta/72nd-st": {
     "name": "72nd St",
@@ -1795,8 +1795,8 @@
     "name": "152nd St",
     "slug": "surrey/152nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-19T23:25:00Z",
-    "count": 42
+    "lastIncident": "2026-07-23T19:57:00Z",
+    "count": 43
   },
   "langley/20611-fraser-hwyste-111": {
     "name": "20611 Fraser Hwy,ste 111",
@@ -5799,8 +5799,8 @@
     "name": "Dewdney Trunk Rd",
     "slug": "mission/dewdney-trunk-rd",
     "city": "Mission",
-    "lastIncident": "2026-07-20T15:45:00Z",
-    "count": 6
+    "lastIncident": "2026-07-23T19:29:00Z",
+    "count": 7
   },
   "mission/creston-ave": {
     "name": "Creston Ave",
