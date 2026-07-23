@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-23T18:00:00Z_abbotsford/gladys-ave_abbotsford/pine-st",
+      "timestamp": "2026-07-23T18:00:00Z",
+      "address": "GLADYS AVE & PINE ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/gladys-ave",
+        "abbotsford/pine-st"
+      ],
+      "streetNames": [
+        "Gladys Ave",
+        "Pine St"
+      ],
+      "pulsePointId": "2525500973"
+    },
+    {
       "id": "2026-07-07T02:51:00Z_abbotsford/gladys-ave",
       "timestamp": "2026-07-07T02:51:00Z",
       "address": "GLADYS AVE",
@@ -62,6 +77,6 @@
       "pulsePointId": "2445561277"
     }
   ],
-  "lastIncident": "2026-07-07T02:51:00Z",
-  "count": 4
+  "lastIncident": "2026-07-23T18:00:00Z",
+  "count": 5
 }

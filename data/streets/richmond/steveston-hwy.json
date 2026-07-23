@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-23T17:42:00Z_richmond/railway-ave_richmond/steveston-hwy",
+      "timestamp": "2026-07-23T17:42:00Z",
+      "address": "RAILWAY AVE & STEVESTON HWY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/railway-ave",
+        "richmond/steveston-hwy"
+      ],
+      "streetNames": [
+        "Railway Ave",
+        "Steveston Hwy"
+      ],
+      "pulsePointId": "2525487797"
+    },
+    {
       "id": "2026-07-16T03:09:00Z_richmond/gilbert-rd_richmond/steveston-hwy",
       "timestamp": "2026-07-16T03:09:00Z",
       "address": "GILBERT RD & STEVESTON HWY",
@@ -163,6 +178,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-16T03:09:00Z",
-  "count": 11
+  "lastIncident": "2026-07-23T17:42:00Z",
+  "count": 12
 }

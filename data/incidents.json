@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026-07-23T18:00:00Z_abbotsford/gladys-ave_abbotsford/pine-st",
+    "timestamp": "2026-07-23T18:00:00Z",
+    "scrapedAt": "2026-07-23T18:08:15Z",
+    "address": "GLADYS AVE & PINE ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/gladys-ave",
+      "abbotsford/pine-st"
+    ],
+    "streetNames": [
+      "Gladys Ave",
+      "Pine St"
+    ],
+    "pulsePointId": "2525500973"
+  },
+  {
+    "id": "2026-07-23T17:56:00Z_vancouver/argyle-st_vancouver/e-41st-ave",
+    "timestamp": "2026-07-23T17:56:00Z",
+    "scrapedAt": "2026-07-23T18:08:15Z",
+    "address": "ARGYLE ST & E 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/argyle-st",
+      "vancouver/e-41st-ave"
+    ],
+    "streetNames": [
+      "Argyle St",
+      "E 41st Ave"
+    ],
+    "pulsePointId": "2525498695"
+  },
+  {
+    "id": "2026-07-23T17:42:00Z_richmond/railway-ave_richmond/steveston-hwy",
+    "timestamp": "2026-07-23T17:42:00Z",
+    "scrapedAt": "2026-07-23T18:08:15Z",
+    "address": "RAILWAY AVE & STEVESTON HWY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/railway-ave",
+      "richmond/steveston-hwy"
+    ],
+    "streetNames": [
+      "Railway Ave",
+      "Steveston Hwy"
+    ],
+    "pulsePointId": "2525487797"
+  },
+  {
     "id": "2026-07-23T16:51:00Z_surrey/hyland-rd",
     "timestamp": "2026-07-23T16:51:00Z",
     "scrapedAt": "2026-07-23T16:59:14Z",

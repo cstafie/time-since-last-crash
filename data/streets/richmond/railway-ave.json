@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-23T17:42:00Z_richmond/railway-ave_richmond/steveston-hwy",
+      "timestamp": "2026-07-23T17:42:00Z",
+      "address": "RAILWAY AVE & STEVESTON HWY",
+      "city": "Richmond",
+      "streets": [
+        "richmond/railway-ave",
+        "richmond/steveston-hwy"
+      ],
+      "streetNames": [
+        "Railway Ave",
+        "Steveston Hwy"
+      ],
+      "pulsePointId": "2525487797"
+    },
+    {
       "id": "2026-06-13T07:06:00Z_richmond/railway-ave_richmond/francis-rd",
       "timestamp": "2026-06-13T07:06:00Z",
       "address": "RAILWAY AVE & FRANCIS RD",
@@ -49,6 +64,6 @@
       "pulsePointId": "2458715405"
     }
   ],
-  "lastIncident": "2026-06-13T07:06:00Z",
-  "count": 3
+  "lastIncident": "2026-07-23T17:42:00Z",
+  "count": 4
 }
