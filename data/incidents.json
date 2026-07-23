@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-07-23T18:54:00Z_burnaby/sprott-st_burnaby/kensington-ave",
+    "timestamp": "2026-07-23T18:54:00Z",
+    "scrapedAt": "2026-07-23T19:52:32Z",
+    "address": "SPROTT ST & KENSINGTON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/sprott-st",
+      "burnaby/kensington-ave"
+    ],
+    "streetNames": [
+      "Sprott St",
+      "Kensington Ave"
+    ],
+    "pulsePointId": "2525538906"
+  },
+  {
+    "id": "2026-07-23T18:52:00Z_burnaby/kitchener-st_burnaby/boundary-rd",
+    "timestamp": "2026-07-23T18:52:00Z",
+    "scrapedAt": "2026-07-23T19:52:32Z",
+    "address": "KITCHENER ST & BOUNDARY RD",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/kitchener-st",
+      "burnaby/boundary-rd"
+    ],
+    "streetNames": [
+      "Kitchener St",
+      "Boundary Rd"
+    ],
+    "pulsePointId": "2525537774"
+  },
+  {
     "id": "2026-07-23T18:00:00Z_abbotsford/gladys-ave_abbotsford/pine-st",
     "timestamp": "2026-07-23T18:00:00Z",
     "scrapedAt": "2026-07-23T18:08:15Z",

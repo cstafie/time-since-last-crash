@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-23T18:52:00Z_burnaby/kitchener-st_burnaby/boundary-rd",
+      "timestamp": "2026-07-23T18:52:00Z",
+      "address": "KITCHENER ST & BOUNDARY RD",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/kitchener-st",
+        "burnaby/boundary-rd"
+      ],
+      "streetNames": [
+        "Kitchener St",
+        "Boundary Rd"
+      ],
+      "pulsePointId": "2525537774"
+    },
+    {
       "id": "2026-07-19T03:51:00Z_burnaby/boundary-rd",
       "timestamp": "2026-07-19T03:51:00Z",
       "address": "BOUNDARY RD",
@@ -285,6 +300,6 @@
       "pulsePointId": "2436452941"
     }
   ],
-  "lastIncident": "2026-07-19T03:51:00Z",
-  "count": 19
+  "lastIncident": "2026-07-23T18:52:00Z",
+  "count": 20
 }

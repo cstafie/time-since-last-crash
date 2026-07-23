@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-23T18:54:00Z_burnaby/sprott-st_burnaby/kensington-ave",
+      "timestamp": "2026-07-23T18:54:00Z",
+      "address": "SPROTT ST & KENSINGTON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/sprott-st",
+        "burnaby/kensington-ave"
+      ],
+      "streetNames": [
+        "Sprott St",
+        "Kensington Ave"
+      ],
+      "pulsePointId": "2525538906"
+    },
+    {
       "id": "2026-05-13T14:54:00Z_burnaby/sprott-st_burnaby/norland-ave",
       "timestamp": "2026-05-13T14:54:00Z",
       "address": "SPROTT ST & NORLAND AVE",
@@ -34,6 +49,6 @@
       "pulsePointId": "2460968438"
     }
   ],
-  "lastIncident": "2026-05-13T14:54:00Z",
-  "count": 2
+  "lastIncident": "2026-07-23T18:54:00Z",
+  "count": 3
 }

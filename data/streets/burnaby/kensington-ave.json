@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-23T18:54:00Z_burnaby/sprott-st_burnaby/kensington-ave",
+      "timestamp": "2026-07-23T18:54:00Z",
+      "address": "SPROTT ST & KENSINGTON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/sprott-st",
+        "burnaby/kensington-ave"
+      ],
+      "streetNames": [
+        "Sprott St",
+        "Kensington Ave"
+      ],
+      "pulsePointId": "2525538906"
+    },
+    {
       "id": "2026-07-02T21:20:00Z_burnaby/kensington-ave_burnaby/canada-way",
       "timestamp": "2026-07-02T21:20:00Z",
       "address": "KENSINGTON AVE & CANADA WAY",
@@ -91,6 +106,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-02T21:20:00Z",
-  "count": 6
+  "lastIncident": "2026-07-23T18:54:00Z",
+  "count": 7
 }
