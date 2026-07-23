@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-23T00:30:00Z_vancouver/kingsway_vancouver/killarney-st",
+      "timestamp": "2026-07-23T00:30:00Z",
+      "address": "KINGSWAY & KILLARNEY ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/kingsway",
+        "vancouver/killarney-st"
+      ],
+      "streetNames": [
+        "Kingsway",
+        "Killarney St"
+      ],
+      "pulsePointId": "2525046782"
+    },
+    {
       "id": "2026-07-22T22:34:00Z_vancouver/kingsway",
       "timestamp": "2026-07-22T22:34:00Z",
       "address": "KINGSWAY",
@@ -529,6 +544,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-22T22:34:00Z",
-  "count": 36
+  "lastIncident": "2026-07-23T00:30:00Z",
+  "count": 37
 }

@@ -1,5 +1,81 @@
 [
   {
+    "id": "2026-07-23T01:02:00Z_abbotsford/old-yale-rd_abbotsford/sunnyside-st",
+    "timestamp": "2026-07-23T01:02:00Z",
+    "scrapedAt": "2026-07-23T01:22:35Z",
+    "address": "OLD YALE RD & SUNNYSIDE ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/old-yale-rd",
+      "abbotsford/sunnyside-st"
+    ],
+    "streetNames": [
+      "Old Yale Rd",
+      "Sunnyside St"
+    ],
+    "pulsePointId": "2525065936"
+  },
+  {
+    "id": "2026-07-23T00:31:00Z_coquitlam/como-lake-ave_coquitlam/banting-st",
+    "timestamp": "2026-07-23T00:31:00Z",
+    "scrapedAt": "2026-07-23T01:22:35Z",
+    "address": "COMO LAKE AVE & BANTING ST",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/como-lake-ave",
+      "coquitlam/banting-st"
+    ],
+    "streetNames": [
+      "Como Lake Ave",
+      "Banting St"
+    ],
+    "pulsePointId": "2525046785"
+  },
+  {
+    "id": "2026-07-23T00:30:00Z_vancouver/kingsway_vancouver/killarney-st",
+    "timestamp": "2026-07-23T00:30:00Z",
+    "scrapedAt": "2026-07-23T01:22:35Z",
+    "address": "KINGSWAY & KILLARNEY ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/kingsway",
+      "vancouver/killarney-st"
+    ],
+    "streetNames": [
+      "Kingsway",
+      "Killarney St"
+    ],
+    "pulsePointId": "2525046782"
+  },
+  {
+    "id": "2026-07-23T00:16:00Z_surrey/176th-st",
+    "timestamp": "2026-07-23T00:16:00Z",
+    "scrapedAt": "2026-07-23T01:22:35Z",
+    "address": "176TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/176th-st"
+    ],
+    "streetNames": [
+      "176th St"
+    ],
+    "pulsePointId": "2525037174"
+  },
+  {
+    "id": "2026-07-23T00:13:00Z_surrey/176th-st",
+    "timestamp": "2026-07-23T00:13:00Z",
+    "scrapedAt": "2026-07-23T01:22:35Z",
+    "address": "176TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/176th-st"
+    ],
+    "streetNames": [
+      "176th St"
+    ],
+    "pulsePointId": "2525036800"
+  },
+  {
     "id": "2026-07-22T23:37:00Z_langley/64th-ave",
     "timestamp": "2026-07-22T23:37:00Z",
     "scrapedAt": "2026-07-22T23:50:20Z",

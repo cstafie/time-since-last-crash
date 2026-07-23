@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/killarney-st",
+  "name": "Killarney St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-07-23T00:30:00Z_vancouver/kingsway_vancouver/killarney-st",
+      "timestamp": "2026-07-23T00:30:00Z",
+      "address": "KINGSWAY & KILLARNEY ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/kingsway",
+        "vancouver/killarney-st"
+      ],
+      "streetNames": [
+        "Kingsway",
+        "Killarney St"
+      ],
+      "pulsePointId": "2525046782"
+    }
+  ],
+  "lastIncident": "2026-07-23T00:30:00Z",
+  "count": 1
+}

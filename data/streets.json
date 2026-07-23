@@ -745,8 +745,8 @@
     "name": "Kingsway",
     "slug": "vancouver/kingsway",
     "city": "Vancouver",
-    "lastIncident": "2026-07-22T22:34:00Z",
-    "count": 36
+    "lastIncident": "2026-07-23T00:30:00Z",
+    "count": 37
   },
   "vancouver/knight-st": {
     "name": "Knight St",
@@ -885,8 +885,8 @@
     "name": "176th St",
     "slug": "surrey/176th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-22T00:12:00Z",
-    "count": 50
+    "lastIncident": "2026-07-23T00:16:00Z",
+    "count": 52
   },
   "surrey/100th-ave": {
     "name": "100th Ave",
@@ -1690,8 +1690,8 @@
     "name": "Old Yale Rd",
     "slug": "abbotsford/old-yale-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-17T12:23:00Z",
-    "count": 12
+    "lastIncident": "2026-07-23T01:02:00Z",
+    "count": 13
   },
   "vancouver/inverness-st": {
     "name": "Inverness St",
@@ -5659,8 +5659,8 @@
     "name": "Como Lake Ave",
     "slug": "coquitlam/como-lake-ave",
     "city": "Coquitlam",
-    "lastIncident": "2026-06-25T22:48:00Z",
-    "count": 4
+    "lastIncident": "2026-07-23T00:31:00Z",
+    "count": 5
   },
   "white-rock/oxford-st": {
     "name": "Oxford St",
@@ -10391,8 +10391,8 @@
     "name": "Banting St",
     "slug": "coquitlam/banting-st",
     "city": "Coquitlam",
-    "lastIncident": "2026-05-24T20:02:00Z",
-    "count": 1
+    "lastIncident": "2026-07-23T00:31:00Z",
+    "count": 2
   },
   "pitt-meadows/mcmyn-rd": {
     "name": "Mcmyn Rd",
@@ -14634,6 +14634,20 @@
     "slug": "anmore/east-rd",
     "city": "Anmore",
     "lastIncident": "2026-07-22T23:10:00Z",
+    "count": 1
+  },
+  "abbotsford/sunnyside-st": {
+    "name": "Sunnyside St",
+    "slug": "abbotsford/sunnyside-st",
+    "city": "Abbotsford",
+    "lastIncident": "2026-07-23T01:02:00Z",
+    "count": 1
+  },
+  "vancouver/killarney-st": {
+    "name": "Killarney St",
+    "slug": "vancouver/killarney-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-07-23T00:30:00Z",
     "count": 1
   }
 }

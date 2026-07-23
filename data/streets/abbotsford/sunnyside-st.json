@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/sunnyside-st",
+  "name": "Sunnyside St",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-07-23T01:02:00Z_abbotsford/old-yale-rd_abbotsford/sunnyside-st",
+      "timestamp": "2026-07-23T01:02:00Z",
+      "address": "OLD YALE RD & SUNNYSIDE ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/old-yale-rd",
+        "abbotsford/sunnyside-st"
+      ],
+      "streetNames": [
+        "Old Yale Rd",
+        "Sunnyside St"
+      ],
+      "pulsePointId": "2525065936"
+    }
+  ],
+  "lastIncident": "2026-07-23T01:02:00Z",
+  "count": 1
+}
