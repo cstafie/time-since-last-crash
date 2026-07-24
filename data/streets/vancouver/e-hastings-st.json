@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-24T19:59:00Z_vancouver/e-hastings-st",
+      "timestamp": "2026-07-24T19:59:00Z",
+      "address": "E HASTINGS ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-hastings-st"
+      ],
+      "streetNames": [
+        "E Hastings St"
+      ],
+      "pulsePointId": "2526331398"
+    },
+    {
       "id": "2026-07-22T23:25:00Z_vancouver/e-hastings-st_vancouver/nanaimo-st",
       "timestamp": "2026-07-22T23:25:00Z",
       "address": "E HASTINGS ST & NANAIMO ST",
@@ -709,6 +722,6 @@
       "pulsePointId": "2433305056"
     }
   ],
-  "lastIncident": "2026-07-22T23:25:00Z",
-  "count": 49
+  "lastIncident": "2026-07-24T19:59:00Z",
+  "count": 50
 }

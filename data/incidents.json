@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-07-24T20:39:00Z_surrey/132nd-st_surrey/76th-ave",
+    "timestamp": "2026-07-24T20:39:00Z",
+    "scrapedAt": "2026-07-24T20:42:54Z",
+    "address": "132ND ST & 76TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/132nd-st",
+      "surrey/76th-ave"
+    ],
+    "streetNames": [
+      "132nd St",
+      "76th Ave"
+    ],
+    "pulsePointId": "2526361918"
+  },
+  {
+    "id": "2026-07-24T20:36:00Z_vancouver/cotton-dr_vancouver/e-1st-ave",
+    "timestamp": "2026-07-24T20:36:00Z",
+    "scrapedAt": "2026-07-24T20:42:54Z",
+    "address": "COTTON DR & E 1ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/cotton-dr",
+      "vancouver/e-1st-ave"
+    ],
+    "streetNames": [
+      "Cotton Dr",
+      "E 1st Ave"
+    ],
+    "pulsePointId": "2526362952"
+  },
+  {
+    "id": "2026-07-24T19:59:00Z_vancouver/e-hastings-st",
+    "timestamp": "2026-07-24T19:59:00Z",
+    "scrapedAt": "2026-07-24T20:42:54Z",
+    "address": "E HASTINGS ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-hastings-st"
+    ],
+    "streetNames": [
+      "E Hastings St"
+    ],
+    "pulsePointId": "2526331398"
+  },
+  {
+    "id": "2026-07-24T19:34:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-07-24T19:34:00Z",
+    "scrapedAt": "2026-07-24T20:42:54Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2526314076"
+  },
+  {
     "id": "2026-07-24T18:52:00Z_surrey/64th-ave",
     "timestamp": "2026-07-24T18:52:00Z",
     "scrapedAt": "2026-07-24T19:08:36Z",

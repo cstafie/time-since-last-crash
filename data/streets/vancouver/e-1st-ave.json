@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-24T20:36:00Z_vancouver/cotton-dr_vancouver/e-1st-ave",
+      "timestamp": "2026-07-24T20:36:00Z",
+      "address": "COTTON DR & E 1ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/cotton-dr",
+        "vancouver/e-1st-ave"
+      ],
+      "streetNames": [
+        "Cotton Dr",
+        "E 1st Ave"
+      ],
+      "pulsePointId": "2526362952"
+    },
+    {
       "id": "2026-07-20T06:27:00Z_vancouver/e-1st-ave_vancouver/commercial-dr",
       "timestamp": "2026-07-20T06:27:00Z",
       "address": "E 1ST AVE & COMMERCIAL DR",
@@ -241,6 +256,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-20T06:27:00Z",
-  "count": 16
+  "lastIncident": "2026-07-24T20:36:00Z",
+  "count": 17
 }

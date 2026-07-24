@@ -1,0 +1,24 @@
+{
+  "slug": "vancouver/cotton-dr",
+  "name": "Cotton Dr",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-07-24T20:36:00Z_vancouver/cotton-dr_vancouver/e-1st-ave",
+      "timestamp": "2026-07-24T20:36:00Z",
+      "address": "COTTON DR & E 1ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/cotton-dr",
+        "vancouver/e-1st-ave"
+      ],
+      "streetNames": [
+        "Cotton Dr",
+        "E 1st Ave"
+      ],
+      "pulsePointId": "2526362952"
+    }
+  ],
+  "lastIncident": "2026-07-24T20:36:00Z",
+  "count": 1
+}
