@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-24T00:42:00Z_vancouver/balaclava-st_vancouver/sw-marine-dr",
+      "timestamp": "2026-07-24T00:42:00Z",
+      "address": "BALACLAVA ST & SW MARINE DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/balaclava-st",
+        "vancouver/sw-marine-dr"
+      ],
+      "streetNames": [
+        "Balaclava St",
+        "Sw Marine Dr"
+      ],
+      "pulsePointId": "2525782777"
+    },
+    {
       "id": "2026-07-20T17:49:00Z_vancouver/sw-marine-dr_vancouver/manitoba-st",
       "timestamp": "2026-07-20T17:49:00Z",
       "address": "SW MARINE DR & MANITOBA ST",
@@ -313,6 +328,6 @@
       "pulsePointId": "2453784324"
     }
   ],
-  "lastIncident": "2026-07-20T17:49:00Z",
-  "count": 21
+  "lastIncident": "2026-07-24T00:42:00Z",
+  "count": 22
 }

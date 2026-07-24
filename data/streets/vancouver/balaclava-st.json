@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-24T00:42:00Z_vancouver/balaclava-st_vancouver/sw-marine-dr",
+      "timestamp": "2026-07-24T00:42:00Z",
+      "address": "BALACLAVA ST & SW MARINE DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/balaclava-st",
+        "vancouver/sw-marine-dr"
+      ],
+      "streetNames": [
+        "Balaclava St",
+        "Sw Marine Dr"
+      ],
+      "pulsePointId": "2525782777"
+    },
+    {
       "id": "2026-03-08T08:16:00Z_w-broadway_balaclava-st",
       "timestamp": "2026-03-08T08:16:00Z",
       "address": "W BROADWAY & BALACLAVA ST",
@@ -18,6 +33,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-03-08T08:16:00Z",
-  "count": 1
+  "lastIncident": "2026-07-24T00:42:00Z",
+  "count": 2
 }

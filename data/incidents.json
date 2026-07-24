@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-07-24T00:42:00Z_vancouver/balaclava-st_vancouver/sw-marine-dr",
+    "timestamp": "2026-07-24T00:42:00Z",
+    "scrapedAt": "2026-07-24T01:18:42Z",
+    "address": "BALACLAVA ST & SW MARINE DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/balaclava-st",
+      "vancouver/sw-marine-dr"
+    ],
+    "streetNames": [
+      "Balaclava St",
+      "Sw Marine Dr"
+    ],
+    "pulsePointId": "2525782777"
+  },
+  {
+    "id": "2026-07-23T23:40:00Z_langley/216th-st_langley/glover-rd",
+    "timestamp": "2026-07-23T23:40:00Z",
+    "scrapedAt": "2026-07-24T01:18:42Z",
+    "address": "216TH ST & GLOVER RD",
+    "city": "Langley",
+    "streets": [
+      "langley/216th-st",
+      "langley/glover-rd"
+    ],
+    "streetNames": [
+      "216th St",
+      "Glover Rd"
+    ],
+    "pulsePointId": "2525744697"
+  },
+  {
     "id": "2026-07-23T23:28:00Z_burnaby/kingsway_burnaby/gilley-ave",
     "timestamp": "2026-07-23T23:28:00Z",
     "scrapedAt": "2026-07-23T23:45:19Z",
