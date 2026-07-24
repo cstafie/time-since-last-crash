@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-07-24T03:23:00Z_burnaby/n-hythe-ave",
+    "timestamp": "2026-07-24T03:23:00Z",
+    "scrapedAt": "2026-07-24T04:40:36Z",
+    "address": "N HYTHE AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/n-hythe-ave"
+    ],
+    "streetNames": [
+      "N Hythe Ave"
+    ],
+    "pulsePointId": "2525882431"
+  },
+  {
+    "id": "2026-07-24T02:37:00Z_burnaby/rumble-st_burnaby/boundary-rd",
+    "timestamp": "2026-07-24T02:37:00Z",
+    "scrapedAt": "2026-07-24T04:40:36Z",
+    "address": "RUMBLE ST & BOUNDARY RD",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/rumble-st",
+      "burnaby/boundary-rd"
+    ],
+    "streetNames": [
+      "Rumble St",
+      "Boundary Rd"
+    ],
+    "pulsePointId": "2525854198"
+  },
+  {
+    "id": "2026-07-24T02:34:00Z_vancouver/boundary-rd",
+    "timestamp": "2026-07-24T02:34:00Z",
+    "scrapedAt": "2026-07-24T04:40:36Z",
+    "address": "BOUNDARY RD",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/boundary-rd"
+    ],
+    "streetNames": [
+      "Boundary Rd"
+    ],
+    "pulsePointId": "2525854199"
+  },
+  {
+    "id": "2026-07-24T01:52:00Z_maple-ridge/maple-meadows-way_maple-ridge/200th-st",
+    "timestamp": "2026-07-24T01:52:00Z",
+    "scrapedAt": "2026-07-24T04:40:36Z",
+    "address": "MAPLE MEADOWS WAY & 200TH ST",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/maple-meadows-way",
+      "maple-ridge/200th-st"
+    ],
+    "streetNames": [
+      "Maple Meadows Way",
+      "200th St"
+    ],
+    "pulsePointId": "2525827492"
+  },
+  {
     "id": "2026-07-24T00:42:00Z_vancouver/balaclava-st_vancouver/sw-marine-dr",
     "timestamp": "2026-07-24T00:42:00Z",
     "scrapedAt": "2026-07-24T01:18:42Z",
