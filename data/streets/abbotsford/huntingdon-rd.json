@@ -4,6 +4,19 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-24T20:55:00Z_abbotsford/huntingdon-rd",
+      "timestamp": "2026-07-24T20:55:00Z",
+      "address": "HUNTINGDON RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/huntingdon-rd"
+      ],
+      "streetNames": [
+        "Huntingdon Rd"
+      ],
+      "pulsePointId": "2526373134"
+    },
+    {
       "id": "2026-07-22T17:19:00Z_abbotsford/bradner-rd_abbotsford/huntingdon-rd",
       "timestamp": "2026-07-22T17:19:00Z",
       "address": "BRADNER RD & HUNTINGDON RD",
@@ -103,6 +116,6 @@
       "pulsePointId": "2437634536"
     }
   ],
-  "lastIncident": "2026-07-22T17:19:00Z",
-  "count": 7
+  "lastIncident": "2026-07-24T20:55:00Z",
+  "count": 8
 }

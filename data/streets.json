@@ -332,8 +332,8 @@
     "name": "Lougheed Hwy",
     "slug": "mission/lougheed-hwy",
     "city": "Mission",
-    "lastIncident": "2026-07-14T20:22:00Z",
-    "count": 11
+    "lastIncident": "2026-07-24T21:45:00Z",
+    "count": 12
   },
   "mission/wren-st": {
     "name": "Wren St",
@@ -2369,8 +2369,8 @@
     "name": "Bellevue Ave",
     "slug": "west-vancouver/bellevue-ave",
     "city": "West Vancouver",
-    "lastIncident": "2026-03-16T18:55:00Z",
-    "count": 1
+    "lastIncident": "2026-07-24T20:57:00Z",
+    "count": 2
   },
   "langley/202nd-st": {
     "name": "202nd St",
@@ -3132,8 +3132,8 @@
     "name": "Huntingdon Rd",
     "slug": "abbotsford/huntingdon-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-22T17:19:00Z",
-    "count": 7
+    "lastIncident": "2026-07-24T20:55:00Z",
+    "count": 8
   },
   "surrey/164th-st": {
     "name": "164th St",
@@ -8830,8 +8830,8 @@
     "name": "14th St",
     "slug": "west-vancouver/14th-st",
     "city": "West Vancouver",
-    "lastIncident": "2026-07-16T04:24:00Z",
-    "count": 2
+    "lastIncident": "2026-07-24T20:57:00Z",
+    "count": 3
   },
   "west-vancouver/jefferson-ave": {
     "name": "Jefferson Ave",
@@ -12323,8 +12323,8 @@
     "name": "Nelson St",
     "slug": "mission/nelson-st",
     "city": "Mission",
-    "lastIncident": "2026-06-15T20:01:00Z",
-    "count": 1
+    "lastIncident": "2026-07-24T21:45:00Z",
+    "count": 2
   },
   "north-vancouver/plymouth-dr": {
     "name": "Plymouth Dr",

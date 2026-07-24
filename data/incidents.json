@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-07-24T21:45:00Z_mission/lougheed-hwy_mission/nelson-st",
+    "timestamp": "2026-07-24T21:45:00Z",
+    "scrapedAt": "2026-07-24T21:51:28Z",
+    "address": "LOUGHEED HWY & NELSON ST",
+    "city": "Mission",
+    "streets": [
+      "mission/lougheed-hwy",
+      "mission/nelson-st"
+    ],
+    "streetNames": [
+      "Lougheed Hwy",
+      "Nelson St"
+    ],
+    "pulsePointId": "2526410411"
+  },
+  {
+    "id": "2026-07-24T20:57:00Z_west-vancouver/bellevue-ave_west-vancouver/14th-st",
+    "timestamp": "2026-07-24T20:57:00Z",
+    "scrapedAt": "2026-07-24T21:51:28Z",
+    "address": "BELLEVUE AVE & 14TH ST",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/bellevue-ave",
+      "west-vancouver/14th-st"
+    ],
+    "streetNames": [
+      "Bellevue Ave",
+      "14th St"
+    ],
+    "pulsePointId": "2526374250"
+  },
+  {
+    "id": "2026-07-24T20:55:00Z_abbotsford/huntingdon-rd",
+    "timestamp": "2026-07-24T20:55:00Z",
+    "scrapedAt": "2026-07-24T21:51:28Z",
+    "address": "HUNTINGDON RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/huntingdon-rd"
+    ],
+    "streetNames": [
+      "Huntingdon Rd"
+    ],
+    "pulsePointId": "2526373134"
+  },
+  {
     "id": "2026-07-24T20:39:00Z_surrey/132nd-st_surrey/76th-ave",
     "timestamp": "2026-07-24T20:39:00Z",
     "scrapedAt": "2026-07-24T20:42:54Z",

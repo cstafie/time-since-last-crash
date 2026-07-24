@@ -4,6 +4,21 @@
   "city": "Mission",
   "incidents": [
     {
+      "id": "2026-07-24T21:45:00Z_mission/lougheed-hwy_mission/nelson-st",
+      "timestamp": "2026-07-24T21:45:00Z",
+      "address": "LOUGHEED HWY & NELSON ST",
+      "city": "Mission",
+      "streets": [
+        "mission/lougheed-hwy",
+        "mission/nelson-st"
+      ],
+      "streetNames": [
+        "Lougheed Hwy",
+        "Nelson St"
+      ],
+      "pulsePointId": "2526410411"
+    },
+    {
       "id": "2026-07-14T20:22:00Z_mission/park-st_mission/lougheed-hwy",
       "timestamp": "2026-07-14T20:22:00Z",
       "address": "PARK ST & LOUGHEED HWY",
@@ -168,6 +183,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-14T20:22:00Z",
-  "count": 11
+  "lastIncident": "2026-07-24T21:45:00Z",
+  "count": 12
 }

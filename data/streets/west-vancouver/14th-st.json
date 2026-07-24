@@ -4,6 +4,21 @@
   "city": "West Vancouver",
   "incidents": [
     {
+      "id": "2026-07-24T20:57:00Z_west-vancouver/bellevue-ave_west-vancouver/14th-st",
+      "timestamp": "2026-07-24T20:57:00Z",
+      "address": "BELLEVUE AVE & 14TH ST",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/bellevue-ave",
+        "west-vancouver/14th-st"
+      ],
+      "streetNames": [
+        "Bellevue Ave",
+        "14th St"
+      ],
+      "pulsePointId": "2526374250"
+    },
+    {
       "id": "2026-07-16T04:24:00Z_west-vancouver/kings-ave_west-vancouver/14th-st",
       "timestamp": "2026-07-16T04:24:00Z",
       "address": "KINGS AVE & 14TH ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2467728633"
     }
   ],
-  "lastIncident": "2026-07-16T04:24:00Z",
-  "count": 2
+  "lastIncident": "2026-07-24T20:57:00Z",
+  "count": 3
 }
