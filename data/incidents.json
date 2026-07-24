@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-07-24T12:05:00Z_langley/16th-ave",
+    "timestamp": "2026-07-24T12:05:00Z",
+    "scrapedAt": "2026-07-24T12:53:51Z",
+    "address": "16TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/16th-ave"
+    ],
+    "streetNames": [
+      "16th Ave"
+    ],
+    "pulsePointId": "2526059713"
+  },
+  {
+    "id": "2026-07-24T12:03:00Z_langley/16th-ave",
+    "timestamp": "2026-07-24T12:03:00Z",
+    "scrapedAt": "2026-07-24T12:53:51Z",
+    "address": "16TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/16th-ave"
+    ],
+    "streetNames": [
+      "16th Ave"
+    ],
+    "pulsePointId": "2526058584"
+  },
+  {
     "id": "2026-07-24T05:14:00Z_surrey/150th-st_surrey/104th-ave",
     "timestamp": "2026-07-24T05:14:00Z",
     "scrapedAt": "2026-07-24T07:23:29Z",
