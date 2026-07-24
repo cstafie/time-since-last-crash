@@ -4,6 +4,19 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-24T18:43:00Z_surrey/148th-st",
+      "timestamp": "2026-07-24T18:43:00Z",
+      "address": "148TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/148th-st"
+      ],
+      "streetNames": [
+        "148th St"
+      ],
+      "pulsePointId": "2526278289"
+    },
+    {
       "id": "2026-07-15T07:51:00Z_surrey/148th-st_surrey/28th-ave",
       "timestamp": "2026-07-15T07:51:00Z",
       "address": "148TH ST & 28TH AVE",
@@ -412,6 +425,6 @@
       "pulsePointId": "2433715392"
     }
   ],
-  "lastIncident": "2026-07-15T07:51:00Z",
-  "count": 28
+  "lastIncident": "2026-07-24T18:43:00Z",
+  "count": 29
 }

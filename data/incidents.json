@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-07-24T18:52:00Z_surrey/64th-ave",
+    "timestamp": "2026-07-24T18:52:00Z",
+    "scrapedAt": "2026-07-24T19:08:36Z",
+    "address": "64TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/64th-ave"
+    ],
+    "streetNames": [
+      "64th Ave"
+    ],
+    "pulsePointId": "2526284287"
+  },
+  {
+    "id": "2026-07-24T18:43:00Z_surrey/148th-st",
+    "timestamp": "2026-07-24T18:43:00Z",
+    "scrapedAt": "2026-07-24T19:08:36Z",
+    "address": "148TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/148th-st"
+    ],
+    "streetNames": [
+      "148th St"
+    ],
+    "pulsePointId": "2526278289"
+  },
+  {
     "id": "2026-07-24T17:16:00Z_vancouver/w-king-edward-ave_vancouver/hudson-st",
     "timestamp": "2026-07-24T17:16:00Z",
     "scrapedAt": "2026-07-24T17:56:13Z",
