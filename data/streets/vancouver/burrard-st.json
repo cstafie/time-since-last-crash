@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-24T23:43:00Z_vancouver/burrard-st_vancouver/w-2nd-ave",
+      "timestamp": "2026-07-24T23:43:00Z",
+      "address": "BURRARD ST & W 2ND AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/burrard-st",
+        "vancouver/w-2nd-ave"
+      ],
+      "streetNames": [
+        "Burrard St",
+        "W 2nd Ave"
+      ],
+      "pulsePointId": "2526493610"
+    },
+    {
       "id": "2026-07-17T23:08:00Z_vancouver/dunsmuir-st_vancouver/burrard-st",
       "timestamp": "2026-07-17T23:08:00Z",
       "address": "DUNSMUIR ST & BURRARD ST",
@@ -271,6 +286,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-17T23:08:00Z",
-  "count": 18
+  "lastIncident": "2026-07-24T23:43:00Z",
+  "count": 19
 }

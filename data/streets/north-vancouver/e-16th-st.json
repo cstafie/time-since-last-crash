@@ -1,0 +1,24 @@
+{
+  "slug": "north-vancouver/e-16th-st",
+  "name": "E 16th St",
+  "city": "North Vancouver",
+  "incidents": [
+    {
+      "id": "2026-07-24T23:37:00Z_north-vancouver/mountain-hwy_north-vancouver/e-16th-st",
+      "timestamp": "2026-07-24T23:37:00Z",
+      "address": "MOUNTAIN HWY & E 16TH ST",
+      "city": "North Vancouver",
+      "streets": [
+        "north-vancouver/mountain-hwy",
+        "north-vancouver/e-16th-st"
+      ],
+      "streetNames": [
+        "Mountain Hwy",
+        "E 16th St"
+      ],
+      "pulsePointId": "2526489552"
+    }
+  ],
+  "lastIncident": "2026-07-24T23:37:00Z",
+  "count": 1
+}

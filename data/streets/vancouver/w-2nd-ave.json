@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-24T23:43:00Z_vancouver/burrard-st_vancouver/w-2nd-ave",
+      "timestamp": "2026-07-24T23:43:00Z",
+      "address": "BURRARD ST & W 2ND AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/burrard-st",
+        "vancouver/w-2nd-ave"
+      ],
+      "streetNames": [
+        "Burrard St",
+        "W 2nd Ave"
+      ],
+      "pulsePointId": "2526493610"
+    },
+    {
       "id": "2026-07-20T22:19:00Z_vancouver/manitoba-st_vancouver/w-2nd-ave",
       "timestamp": "2026-07-20T22:19:00Z",
       "address": "MANITOBA ST & W 2ND AVE",
@@ -154,6 +169,6 @@
       "pulsePointId": "2442265889"
     }
   ],
-  "lastIncident": "2026-07-20T22:19:00Z",
-  "count": 10
+  "lastIncident": "2026-07-24T23:43:00Z",
+  "count": 11
 }

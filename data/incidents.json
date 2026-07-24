@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-07-24T23:43:00Z_vancouver/burrard-st_vancouver/w-2nd-ave",
+    "timestamp": "2026-07-24T23:43:00Z",
+    "scrapedAt": "2026-07-24T23:52:14Z",
+    "address": "BURRARD ST & W 2ND AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/burrard-st",
+      "vancouver/w-2nd-ave"
+    ],
+    "streetNames": [
+      "Burrard St",
+      "W 2nd Ave"
+    ],
+    "pulsePointId": "2526493610"
+  },
+  {
+    "id": "2026-07-24T23:37:00Z_north-vancouver/mountain-hwy_north-vancouver/e-16th-st",
+    "timestamp": "2026-07-24T23:37:00Z",
+    "scrapedAt": "2026-07-24T23:52:14Z",
+    "address": "MOUNTAIN HWY & E 16TH ST",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/mountain-hwy",
+      "north-vancouver/e-16th-st"
+    ],
+    "streetNames": [
+      "Mountain Hwy",
+      "E 16th St"
+    ],
+    "pulsePointId": "2526489552"
+  },
+  {
+    "id": "2026-07-24T22:55:00Z_vancouver/granville-st_vancouver/w-36th-ave",
+    "timestamp": "2026-07-24T22:55:00Z",
+    "scrapedAt": "2026-07-24T23:52:14Z",
+    "address": "GRANVILLE ST & W 36TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st",
+      "vancouver/w-36th-ave"
+    ],
+    "streetNames": [
+      "Granville St",
+      "W 36th Ave"
+    ],
+    "pulsePointId": "2526461304"
+  },
+  {
+    "id": "2026-07-24T22:53:00Z_pitt-meadows/ford-road-detour",
+    "timestamp": "2026-07-24T22:53:00Z",
+    "scrapedAt": "2026-07-24T23:52:14Z",
+    "address": "FORD ROAD DETOUR",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/ford-road-detour"
+    ],
+    "streetNames": [
+      "Ford Road Detour"
+    ],
+    "pulsePointId": "2526460030"
+  },
+  {
     "id": "2026-07-24T22:42:00Z_delta/104th-st",
     "timestamp": "2026-07-24T22:42:00Z",
     "scrapedAt": "2026-07-24T22:48:58Z",
