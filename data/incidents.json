@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-07-24T13:26:00Z_maple-ridge/golden-ears-brdg",
+    "timestamp": "2026-07-24T13:26:00Z",
+    "scrapedAt": "2026-07-24T14:30:47Z",
+    "address": "GOLDEN EARS BRDG",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/golden-ears-brdg"
+    ],
+    "streetNames": [
+      "Golden Ears Brdg"
+    ],
+    "pulsePointId": "2526086194"
+  },
+  {
+    "id": "2026-07-24T12:53:00Z_vancouver/e-41st-ave_vancouver/rupert-st",
+    "timestamp": "2026-07-24T12:53:00Z",
+    "scrapedAt": "2026-07-24T14:30:47Z",
+    "address": "E 41ST AVE & RUPERT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-41st-ave",
+      "vancouver/rupert-st"
+    ],
+    "streetNames": [
+      "E 41st Ave",
+      "Rupert St"
+    ],
+    "pulsePointId": "2526074386"
+  },
+  {
     "id": "2026-07-24T12:05:00Z_langley/16th-ave",
     "timestamp": "2026-07-24T12:05:00Z",
     "scrapedAt": "2026-07-24T12:53:51Z",
