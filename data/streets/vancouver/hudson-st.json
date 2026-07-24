@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-24T17:16:00Z_vancouver/w-king-edward-ave_vancouver/hudson-st",
+      "timestamp": "2026-07-24T17:16:00Z",
+      "address": "W KING EDWARD AVE & HUDSON ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-king-edward-ave",
+        "vancouver/hudson-st"
+      ],
+      "streetNames": [
+        "W King Edward Ave",
+        "Hudson St"
+      ],
+      "pulsePointId": "2526218608"
+    },
+    {
       "id": "2026-07-09T19:22:00Z_vancouver/w-70th-ave_vancouver/hudson-st",
       "timestamp": "2026-07-09T19:22:00Z",
       "address": "W 70TH AVE & HUDSON ST",
@@ -64,6 +79,6 @@
       "pulsePointId": "2455028056"
     }
   ],
-  "lastIncident": "2026-07-09T19:22:00Z",
-  "count": 4
+  "lastIncident": "2026-07-24T17:16:00Z",
+  "count": 5
 }

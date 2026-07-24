@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-24T16:47:00Z_abbotsford/george-ferguson-way_abbotsford/tims-st",
+      "timestamp": "2026-07-24T16:47:00Z",
+      "address": "GEORGE FERGUSON WAY & TIMS ST",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/george-ferguson-way",
+        "abbotsford/tims-st"
+      ],
+      "streetNames": [
+        "George Ferguson Way",
+        "Tims St"
+      ],
+      "pulsePointId": "2526199180"
+    },
+    {
       "id": "2026-07-16T23:40:00Z_abbotsford/ware-st_abbotsford/george-ferguson-way",
       "timestamp": "2026-07-16T23:40:00Z",
       "address": "WARE ST & GEORGE FERGUSON WAY",
@@ -137,6 +152,6 @@
       "pulsePointId": "2453400546"
     }
   ],
-  "lastIncident": "2026-07-16T23:40:00Z",
-  "count": 9
+  "lastIncident": "2026-07-24T16:47:00Z",
+  "count": 10
 }

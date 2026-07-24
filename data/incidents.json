@@ -1,5 +1,149 @@
 [
   {
+    "id": "2026-07-24T17:16:00Z_vancouver/w-king-edward-ave_vancouver/hudson-st",
+    "timestamp": "2026-07-24T17:16:00Z",
+    "scrapedAt": "2026-07-24T17:56:13Z",
+    "address": "W KING EDWARD AVE & HUDSON ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-king-edward-ave",
+      "vancouver/hudson-st"
+    ],
+    "streetNames": [
+      "W King Edward Ave",
+      "Hudson St"
+    ],
+    "pulsePointId": "2526218608"
+  },
+  {
+    "id": "2026-07-24T16:47:00Z_richmond/bridgeport-rd_richmond/no-3-rd",
+    "timestamp": "2026-07-24T16:47:00Z",
+    "scrapedAt": "2026-07-24T17:56:13Z",
+    "address": "BRIDGEPORT RD & NO 3 RD",
+    "city": "Richmond",
+    "streets": [
+      "richmond/bridgeport-rd",
+      "richmond/no-3-rd"
+    ],
+    "streetNames": [
+      "Bridgeport Rd",
+      "No 3 Rd"
+    ],
+    "pulsePointId": "2526199178"
+  },
+  {
+    "id": "2026-07-24T16:47:00Z_abbotsford/george-ferguson-way_abbotsford/tims-st",
+    "timestamp": "2026-07-24T16:47:00Z",
+    "scrapedAt": "2026-07-24T17:56:13Z",
+    "address": "GEORGE FERGUSON WAY & TIMS ST",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/george-ferguson-way",
+      "abbotsford/tims-st"
+    ],
+    "streetNames": [
+      "George Ferguson Way",
+      "Tims St"
+    ],
+    "pulsePointId": "2526199180"
+  },
+  {
+    "id": "2026-07-24T16:23:00Z_pitt-meadows/bonson-rd_pitt-meadows/hammond-rd",
+    "timestamp": "2026-07-24T16:23:00Z",
+    "scrapedAt": "2026-07-24T17:56:13Z",
+    "address": "BONSON RD & HAMMOND RD",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/bonson-rd",
+      "pitt-meadows/hammond-rd"
+    ],
+    "streetNames": [
+      "Bonson Rd",
+      "Hammond Rd"
+    ],
+    "pulsePointId": "2526184820"
+  },
+  {
+    "id": "2026-07-24T16:17:00Z_vancouver/e-41st-ave_vancouver/fleming-st",
+    "timestamp": "2026-07-24T16:17:00Z",
+    "scrapedAt": "2026-07-24T17:56:13Z",
+    "address": "E 41ST AVE & FLEMING ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-41st-ave",
+      "vancouver/fleming-st"
+    ],
+    "streetNames": [
+      "E 41st Ave",
+      "Fleming St"
+    ],
+    "pulsePointId": "2526180008"
+  },
+  {
+    "id": "2026-07-24T15:54:00Z_vancouver/w-king-edward-ave_vancouver/oak-st",
+    "timestamp": "2026-07-24T15:54:00Z",
+    "scrapedAt": "2026-07-24T17:56:13Z",
+    "address": "W KING EDWARD AVE & OAK ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-king-edward-ave",
+      "vancouver/oak-st"
+    ],
+    "streetNames": [
+      "W King Edward Ave",
+      "Oak St"
+    ],
+    "pulsePointId": "2526165239"
+  },
+  {
+    "id": "2026-07-24T15:02:00Z_delta/34b-ave_delta/arthur-dr",
+    "timestamp": "2026-07-24T15:02:00Z",
+    "scrapedAt": "2026-07-24T17:56:13Z",
+    "address": "34B AVE & ARTHUR DR",
+    "city": "Delta",
+    "streets": [
+      "delta/34b-ave",
+      "delta/arthur-dr"
+    ],
+    "streetNames": [
+      "34b Ave",
+      "Arthur Dr"
+    ],
+    "pulsePointId": "2526134111"
+  },
+  {
+    "id": "2026-07-24T14:55:00Z_vancouver/granville-st_vancouver/w-41st-ave",
+    "timestamp": "2026-07-24T14:55:00Z",
+    "scrapedAt": "2026-07-24T17:56:13Z",
+    "address": "GRANVILLE ST & W 41ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/granville-st",
+      "vancouver/w-41st-ave"
+    ],
+    "streetNames": [
+      "Granville St",
+      "W 41st Ave"
+    ],
+    "pulsePointId": "2526129379"
+  },
+  {
+    "id": "2026-07-24T14:36:00Z_maple-ridge/207th-st_maple-ridge/lougheed-hwy",
+    "timestamp": "2026-07-24T14:36:00Z",
+    "scrapedAt": "2026-07-24T17:56:13Z",
+    "address": "207TH ST & LOUGHEED HWY",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/207th-st",
+      "maple-ridge/lougheed-hwy"
+    ],
+    "streetNames": [
+      "207th St",
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2526117457"
+  },
+  {
     "id": "2026-07-24T13:26:00Z_maple-ridge/golden-ears-brdg",
     "timestamp": "2026-07-24T13:26:00Z",
     "scrapedAt": "2026-07-24T14:30:47Z",

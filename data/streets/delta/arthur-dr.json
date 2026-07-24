@@ -4,6 +4,21 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-07-24T15:02:00Z_delta/34b-ave_delta/arthur-dr",
+      "timestamp": "2026-07-24T15:02:00Z",
+      "address": "34B AVE & ARTHUR DR",
+      "city": "Delta",
+      "streets": [
+        "delta/34b-ave",
+        "delta/arthur-dr"
+      ],
+      "streetNames": [
+        "34b Ave",
+        "Arthur Dr"
+      ],
+      "pulsePointId": "2526134111"
+    },
+    {
       "id": "2026-06-23T23:27:00Z_delta/arthur-dr",
       "timestamp": "2026-06-23T23:27:00Z",
       "address": "ARTHUR DR",
@@ -32,6 +47,6 @@
       "pulsePointId": "2488108654"
     }
   ],
-  "lastIncident": "2026-06-23T23:27:00Z",
-  "count": 2
+  "lastIncident": "2026-07-24T15:02:00Z",
+  "count": 3
 }

@@ -4,6 +4,36 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-24T17:16:00Z_vancouver/w-king-edward-ave_vancouver/hudson-st",
+      "timestamp": "2026-07-24T17:16:00Z",
+      "address": "W KING EDWARD AVE & HUDSON ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-king-edward-ave",
+        "vancouver/hudson-st"
+      ],
+      "streetNames": [
+        "W King Edward Ave",
+        "Hudson St"
+      ],
+      "pulsePointId": "2526218608"
+    },
+    {
+      "id": "2026-07-24T15:54:00Z_vancouver/w-king-edward-ave_vancouver/oak-st",
+      "timestamp": "2026-07-24T15:54:00Z",
+      "address": "W KING EDWARD AVE & OAK ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-king-edward-ave",
+        "vancouver/oak-st"
+      ],
+      "streetNames": [
+        "W King Edward Ave",
+        "Oak St"
+      ],
+      "pulsePointId": "2526165239"
+    },
+    {
       "id": "2026-07-12T20:50:00Z_vancouver/w-king-edward-ave",
       "timestamp": "2026-07-12T20:50:00Z",
       "address": "W KING EDWARD AVE",
@@ -182,6 +212,6 @@
       "pulsePointId": "2435790624"
     }
   ],
-  "lastIncident": "2026-07-12T20:50:00Z",
-  "count": 12
+  "lastIncident": "2026-07-24T17:16:00Z",
+  "count": 14
 }

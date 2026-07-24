@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-24T14:55:00Z_vancouver/granville-st_vancouver/w-41st-ave",
+      "timestamp": "2026-07-24T14:55:00Z",
+      "address": "GRANVILLE ST & W 41ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/granville-st",
+        "vancouver/w-41st-ave"
+      ],
+      "streetNames": [
+        "Granville St",
+        "W 41st Ave"
+      ],
+      "pulsePointId": "2526129379"
+    },
+    {
       "id": "2026-07-22T15:56:00Z_vancouver/granville-st_vancouver/w-43rd-ave",
       "timestamp": "2026-07-22T15:56:00Z",
       "address": "GRANVILLE ST & W 43RD AVE",
@@ -990,6 +1005,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-22T15:56:00Z",
-  "count": 67
+  "lastIncident": "2026-07-24T14:55:00Z",
+  "count": 68
 }

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-24T15:54:00Z_vancouver/w-king-edward-ave_vancouver/oak-st",
+      "timestamp": "2026-07-24T15:54:00Z",
+      "address": "W KING EDWARD AVE & OAK ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/w-king-edward-ave",
+        "vancouver/oak-st"
+      ],
+      "streetNames": [
+        "W King Edward Ave",
+        "Oak St"
+      ],
+      "pulsePointId": "2526165239"
+    },
+    {
       "id": "2026-07-22T00:33:00Z_vancouver/w-33rd-ave_vancouver/oak-st",
       "timestamp": "2026-07-22T00:33:00Z",
       "address": "W 33RD AVE & OAK ST",
@@ -750,6 +765,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-22T00:33:00Z",
-  "count": 51
+  "lastIncident": "2026-07-24T15:54:00Z",
+  "count": 52
 }

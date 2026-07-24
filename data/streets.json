@@ -290,8 +290,8 @@
     "name": "207th St",
     "slug": "maple-ridge/207th-st",
     "city": "Maple Ridge",
-    "lastIncident": "2026-07-08T01:04:00Z",
-    "count": 5
+    "lastIncident": "2026-07-24T14:36:00Z",
+    "count": 6
   },
   "maple-ridge/227th-st": {
     "name": "227th St",
@@ -325,8 +325,8 @@
     "name": "Lougheed Hwy",
     "slug": "maple-ridge/lougheed-hwy",
     "city": "Maple Ridge",
-    "lastIncident": "2026-07-22T21:08:00Z",
-    "count": 41
+    "lastIncident": "2026-07-24T14:36:00Z",
+    "count": 42
   },
   "mission/lougheed-hwy": {
     "name": "Lougheed Hwy",
@@ -451,8 +451,8 @@
     "name": "Bridgeport Rd",
     "slug": "richmond/bridgeport-rd",
     "city": "Richmond",
-    "lastIncident": "2026-07-09T19:17:00Z",
-    "count": 14
+    "lastIncident": "2026-07-24T16:47:00Z",
+    "count": 15
   },
   "richmond/granville-ave": {
     "name": "Granville Ave",
@@ -486,8 +486,8 @@
     "name": "No 3 Rd",
     "slug": "richmond/no-3-rd",
     "city": "Richmond",
-    "lastIncident": "2026-07-10T03:49:00Z",
-    "count": 24
+    "lastIncident": "2026-07-24T16:47:00Z",
+    "count": 25
   },
   "richmond/no-4-rd": {
     "name": "No 4 Rd",
@@ -717,15 +717,15 @@
     "name": "E 41st Ave",
     "slug": "vancouver/e-41st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-24T12:53:00Z",
-    "count": 45
+    "lastIncident": "2026-07-24T16:17:00Z",
+    "count": 46
   },
   "vancouver/granville-st": {
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-22T15:56:00Z",
-    "count": 67
+    "lastIncident": "2026-07-24T14:55:00Z",
+    "count": 68
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -766,8 +766,8 @@
     "name": "Oak St",
     "slug": "vancouver/oak-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-22T00:33:00Z",
-    "count": 51
+    "lastIncident": "2026-07-24T15:54:00Z",
+    "count": 52
   },
   "vancouver/w-12th-ave": {
     "name": "W 12th Ave",
@@ -2348,8 +2348,8 @@
     "name": "W 41st Ave",
     "slug": "vancouver/w-41st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-29T01:06:00Z",
-    "count": 18
+    "lastIncident": "2026-07-24T14:55:00Z",
+    "count": 19
   },
   "burnaby/cariboo-rd": {
     "name": "Cariboo Rd",
@@ -2523,8 +2523,8 @@
     "name": "W King Edward Ave",
     "slug": "vancouver/w-king-edward-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-12T20:50:00Z",
-    "count": 12
+    "lastIncident": "2026-07-24T17:16:00Z",
+    "count": 14
   },
   "vancouver/puget-dr": {
     "name": "Puget Dr",
@@ -6492,8 +6492,8 @@
     "name": "George Ferguson Way",
     "slug": "abbotsford/george-ferguson-way",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-16T23:40:00Z",
-    "count": 9
+    "lastIncident": "2026-07-24T16:47:00Z",
+    "count": 10
   },
   "new-westminster/richmond-st": {
     "name": "Richmond St",
@@ -6814,8 +6814,8 @@
     "name": "Hudson St",
     "slug": "vancouver/hudson-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-09T19:22:00Z",
-    "count": 4
+    "lastIncident": "2026-07-24T17:16:00Z",
+    "count": 5
   },
   "mission/birch-st": {
     "name": "Birch St",
@@ -7668,8 +7668,8 @@
     "name": "Bonson Rd",
     "slug": "pitt-meadows/bonson-rd",
     "city": "Pitt Meadows",
-    "lastIncident": "2026-04-25T02:56:00Z",
-    "count": 1
+    "lastIncident": "2026-07-24T16:23:00Z",
+    "count": 2
   },
   "north-vancouver/philip-ave": {
     "name": "Philip Ave",
@@ -9978,8 +9978,8 @@
     "name": "Tims St",
     "slug": "abbotsford/tims-st",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-19T22:22:00Z",
-    "count": 1
+    "lastIncident": "2026-07-24T16:47:00Z",
+    "count": 2
   },
   "surrey/74a-ave": {
     "name": "74a Ave",
@@ -10496,8 +10496,8 @@
     "name": "Hammond Rd",
     "slug": "pitt-meadows/hammond-rd",
     "city": "Pitt Meadows",
-    "lastIncident": "2026-06-09T22:17:00Z",
-    "count": 2
+    "lastIncident": "2026-07-24T16:23:00Z",
+    "count": 3
   },
   "pitt-meadows/blakely-rd": {
     "name": "Blakely Rd",
@@ -11287,8 +11287,8 @@
     "name": "Arthur Dr",
     "slug": "delta/arthur-dr",
     "city": "Delta",
-    "lastIncident": "2026-06-23T23:27:00Z",
-    "count": 2
+    "lastIncident": "2026-07-24T15:02:00Z",
+    "count": 3
   },
   "burnaby/arden-ave": {
     "name": "Arden Ave",
@@ -14682,14 +14682,21 @@
     "name": "34b Ave",
     "slug": "delta/34b-ave",
     "city": "Delta",
-    "lastIncident": "2026-07-23T22:57:00Z",
-    "count": 1
+    "lastIncident": "2026-07-24T15:02:00Z",
+    "count": 2
   },
   "burnaby/n-hythe-ave": {
     "name": "N Hythe Ave",
     "slug": "burnaby/n-hythe-ave",
     "city": "Burnaby",
     "lastIncident": "2026-07-24T03:23:00Z",
+    "count": 1
+  },
+  "vancouver/fleming-st": {
+    "name": "Fleming St",
+    "slug": "vancouver/fleming-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-07-24T16:17:00Z",
     "count": 1
   }
 }
