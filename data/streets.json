@@ -766,8 +766,8 @@
     "name": "Oak St",
     "slug": "vancouver/oak-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-24T15:54:00Z",
-    "count": 52
+    "lastIncident": "2026-07-24T22:00:00Z",
+    "count": 53
   },
   "vancouver/w-12th-ave": {
     "name": "W 12th Ave",
@@ -6863,8 +6863,8 @@
     "name": "104th St",
     "slug": "delta/104th-st",
     "city": "Delta",
-    "lastIncident": "2026-07-20T17:24:00Z",
-    "count": 3
+    "lastIncident": "2026-07-24T22:42:00Z",
+    "count": 4
   },
   "vancouver/stirling-st": {
     "name": "Stirling St",

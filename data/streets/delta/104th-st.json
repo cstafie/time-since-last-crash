@@ -4,6 +4,19 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-07-24T22:42:00Z_delta/104th-st",
+      "timestamp": "2026-07-24T22:42:00Z",
+      "address": "104TH ST",
+      "city": "Delta",
+      "streets": [
+        "delta/104th-st"
+      ],
+      "streetNames": [
+        "104th St"
+      ],
+      "pulsePointId": "2526450784"
+    },
+    {
       "id": "2026-07-20T17:24:00Z_delta/104th-st",
       "timestamp": "2026-07-20T17:24:00Z",
       "address": "104TH ST",
@@ -47,6 +60,6 @@
       "pulsePointId": "2455373322"
     }
   ],
-  "lastIncident": "2026-07-20T17:24:00Z",
-  "count": 3
+  "lastIncident": "2026-07-24T22:42:00Z",
+  "count": 4
 }
