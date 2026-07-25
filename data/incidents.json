@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-25T08:10:00Z_surrey/king-george-blvd_surrey/fraser-hwy",
+    "timestamp": "2026-07-25T08:10:00Z",
+    "scrapedAt": "2026-07-25T09:15:11Z",
+    "address": "KING GEORGE BLVD & FRASER HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/fraser-hwy"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2526767034"
+  },
+  {
     "id": "2026-07-25T05:49:00Z_delta/river-rd_delta/nelson-view",
     "timestamp": "2026-07-25T05:49:00Z",
     "scrapedAt": "2026-07-25T07:06:46Z",
