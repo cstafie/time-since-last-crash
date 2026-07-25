@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/2750-granville-st",
+  "name": "2750 Granville St",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-07-25T05:02:00Z_vancouver/2750-granville-st",
+      "timestamp": "2026-07-25T05:02:00Z",
+      "address": "2750 GRANVILLE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/2750-granville-st"
+      ],
+      "streetNames": [
+        "2750 Granville St"
+      ],
+      "pulsePointId": "2526689503"
+    }
+  ],
+  "lastIncident": "2026-07-25T05:02:00Z",
+  "count": 1
+}

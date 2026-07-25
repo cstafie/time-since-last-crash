@@ -1,0 +1,24 @@
+{
+  "slug": "delta/nelson-view",
+  "name": "Nelson View",
+  "city": "Delta",
+  "incidents": [
+    {
+      "id": "2026-07-25T05:49:00Z_delta/river-rd_delta/nelson-view",
+      "timestamp": "2026-07-25T05:49:00Z",
+      "address": "RIVER RD & NELSON VIEW",
+      "city": "Delta",
+      "streets": [
+        "delta/river-rd",
+        "delta/nelson-view"
+      ],
+      "streetNames": [
+        "River Rd",
+        "Nelson View"
+      ],
+      "pulsePointId": "2526710327"
+    }
+  ],
+  "lastIncident": "2026-07-25T05:49:00Z",
+  "count": 1
+}

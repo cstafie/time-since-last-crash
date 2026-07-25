@@ -5904,8 +5904,8 @@
     "name": "River Rd",
     "slug": "delta/river-rd",
     "city": "Delta",
-    "lastIncident": "2026-06-08T19:21:00Z",
-    "count": 4
+    "lastIncident": "2026-07-25T05:49:00Z",
+    "count": 5
   },
   "vancouver/nootka-st": {
     "name": "Nootka St",
@@ -14711,6 +14711,20 @@
     "slug": "north-vancouver/e-16th-st",
     "city": "North Vancouver",
     "lastIncident": "2026-07-24T23:37:00Z",
+    "count": 1
+  },
+  "delta/nelson-view": {
+    "name": "Nelson View",
+    "slug": "delta/nelson-view",
+    "city": "Delta",
+    "lastIncident": "2026-07-25T05:49:00Z",
+    "count": 1
+  },
+  "vancouver/2750-granville-st": {
+    "name": "2750 Granville St",
+    "slug": "vancouver/2750-granville-st",
+    "city": "Vancouver",
+    "lastIncident": "2026-07-25T05:02:00Z",
     "count": 1
   }
 }
