@@ -843,8 +843,8 @@
     "name": "16th Ave",
     "slug": "langley/16th-ave",
     "city": "Langley",
-    "lastIncident": "2026-07-24T12:05:00Z",
-    "count": 15
+    "lastIncident": "2026-07-25T22:33:00Z",
+    "count": 16
   },
   "surrey/32nd-ave": {
     "name": "32nd Ave",
@@ -2460,8 +2460,8 @@
     "name": "Cambie St",
     "slug": "vancouver/cambie-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-18T13:53:00Z",
-    "count": 21
+    "lastIncident": "2026-07-25T22:31:00Z",
+    "count": 22
   },
   "vancouver/e-broadway": {
     "name": "E Broadway",
@@ -4791,8 +4791,8 @@
     "name": "Robson St",
     "slug": "vancouver/robson-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-25T22:47:00Z",
-    "count": 5
+    "lastIncident": "2026-07-25T22:31:00Z",
+    "count": 6
   },
   "vancouver/thurlow-st": {
     "name": "Thurlow St",
@@ -6982,8 +6982,8 @@
     "name": "Coast Meridian Rd",
     "slug": "port-coquitlam/coast-meridian-rd",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-07-04T02:32:00Z",
-    "count": 6
+    "lastIncident": "2026-07-25T22:37:00Z",
+    "count": 7
   },
   "vancouver/e-6th-ave": {
     "name": "E 6th Ave",
@@ -7339,8 +7339,8 @@
     "name": "Lougheed Meridian Conn",
     "slug": "port-coquitlam/lougheed-meridian-conn",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-04-21T10:47:00Z",
-    "count": 1
+    "lastIncident": "2026-07-25T22:37:00Z",
+    "count": 2
   },
   "richmond/garry-st": {
     "name": "Garry St",
@@ -7836,8 +7836,8 @@
     "name": "Marine Dr",
     "slug": "west-vancouver/marine-dr",
     "city": "West Vancouver",
-    "lastIncident": "2026-06-25T17:37:00Z",
-    "count": 7
+    "lastIncident": "2026-07-25T23:18:00Z",
+    "count": 8
   },
   "west-vancouver/18th-st": {
     "name": "18th St",
@@ -13058,8 +13058,8 @@
     "name": "16th St",
     "slug": "west-vancouver/16th-st",
     "city": "West Vancouver",
-    "lastIncident": "2026-06-25T17:37:00Z",
-    "count": 1
+    "lastIncident": "2026-07-25T23:18:00Z",
+    "count": 2
   },
   "langley/57a-ave": {
     "name": "57a Ave",

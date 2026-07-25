@@ -4,6 +4,21 @@
   "city": "Port Coquitlam",
   "incidents": [
     {
+      "id": "2026-07-25T22:37:00Z_port-coquitlam/lougheed-meridian-conn_port-coquitlam/coast-meridian-rd",
+      "timestamp": "2026-07-25T22:37:00Z",
+      "address": "LOUGHEED MERIDIAN CONN & COAST MERIDIAN RD",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/lougheed-meridian-conn",
+        "port-coquitlam/coast-meridian-rd"
+      ],
+      "streetNames": [
+        "Lougheed Meridian Conn",
+        "Coast Meridian Rd"
+      ],
+      "pulsePointId": "2527181938"
+    },
+    {
       "id": "2026-07-04T02:32:00Z_port-coquitlam/coast-meridian-rd_port-coquitlam/lincoln-dr",
       "timestamp": "2026-07-04T02:32:00Z",
       "address": "COAST MERIDIAN RD & LINCOLN DR",
@@ -92,6 +107,6 @@
       "pulsePointId": "2455929322"
     }
   ],
-  "lastIncident": "2026-07-04T02:32:00Z",
-  "count": 6
+  "lastIncident": "2026-07-25T22:37:00Z",
+  "count": 7
 }

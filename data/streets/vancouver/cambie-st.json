@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-25T22:31:00Z_vancouver/robson-st_vancouver/cambie-st",
+      "timestamp": "2026-07-25T22:31:00Z",
+      "address": "ROBSON ST & CAMBIE ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/robson-st",
+        "vancouver/cambie-st"
+      ],
+      "streetNames": [
+        "Robson St",
+        "Cambie St"
+      ],
+      "pulsePointId": "2527178455"
+    },
+    {
       "id": "2026-07-18T13:53:00Z_vancouver/cambie-st_vancouver/w-8th-ave",
       "timestamp": "2026-07-18T13:53:00Z",
       "address": "CAMBIE ST & W 8TH AVE",
@@ -317,6 +332,6 @@
       "pulsePointId": "2435569506"
     }
   ],
-  "lastIncident": "2026-07-18T13:53:00Z",
-  "count": 21
+  "lastIncident": "2026-07-25T22:31:00Z",
+  "count": 22
 }

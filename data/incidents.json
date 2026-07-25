@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026-07-25T23:18:00Z_west-vancouver/16th-st_west-vancouver/marine-dr",
+    "timestamp": "2026-07-25T23:18:00Z",
+    "scrapedAt": "2026-07-25T23:25:08Z",
+    "address": "16TH ST & MARINE DR",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/16th-st",
+      "west-vancouver/marine-dr"
+    ],
+    "streetNames": [
+      "16th St",
+      "Marine Dr"
+    ],
+    "pulsePointId": "2527208192"
+  },
+  {
+    "id": "2026-07-25T22:37:00Z_port-coquitlam/lougheed-meridian-conn_port-coquitlam/coast-meridian-rd",
+    "timestamp": "2026-07-25T22:37:00Z",
+    "scrapedAt": "2026-07-25T23:25:08Z",
+    "address": "LOUGHEED MERIDIAN CONN & COAST MERIDIAN RD",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/lougheed-meridian-conn",
+      "port-coquitlam/coast-meridian-rd"
+    ],
+    "streetNames": [
+      "Lougheed Meridian Conn",
+      "Coast Meridian Rd"
+    ],
+    "pulsePointId": "2527181938"
+  },
+  {
+    "id": "2026-07-25T22:33:00Z_langley/16th-ave",
+    "timestamp": "2026-07-25T22:33:00Z",
+    "scrapedAt": "2026-07-25T23:25:08Z",
+    "address": "16TH AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/16th-ave"
+    ],
+    "streetNames": [
+      "16th Ave"
+    ],
+    "pulsePointId": "2527178097"
+  },
+  {
+    "id": "2026-07-25T22:31:00Z_vancouver/robson-st_vancouver/cambie-st",
+    "timestamp": "2026-07-25T22:31:00Z",
+    "scrapedAt": "2026-07-25T23:25:08Z",
+    "address": "ROBSON ST & CAMBIE ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/robson-st",
+      "vancouver/cambie-st"
+    ],
+    "streetNames": [
+      "Robson St",
+      "Cambie St"
+    ],
+    "pulsePointId": "2527178455"
+  },
+  {
     "id": "2026-07-25T22:02:00Z_langley/trans-canada-hwy",
     "timestamp": "2026-07-25T22:02:00Z",
     "scrapedAt": "2026-07-25T22:14:30Z",
