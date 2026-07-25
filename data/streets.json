@@ -220,8 +220,8 @@
     "name": "272nd St",
     "slug": "langley/272nd-st",
     "city": "Langley",
-    "lastIncident": "2026-06-23T13:32:00Z",
-    "count": 12
+    "lastIncident": "2026-07-25T21:47:00Z",
+    "count": 13
   },
   "langley/273rd-st": {
     "name": "273rd St",
@@ -262,15 +262,15 @@
     "name": "Fraser Hwy",
     "slug": "langley/fraser-hwy",
     "city": "Langley",
-    "lastIncident": "2026-07-22T19:59:00Z",
-    "count": 49
+    "lastIncident": "2026-07-25T21:47:00Z",
+    "count": 50
   },
   "langley/trans-canada-hwy": {
     "name": "Trans Canada Hwy",
     "slug": "langley/trans-canada-hwy",
     "city": "Langley",
-    "lastIncident": "2026-07-23T14:01:00Z",
-    "count": 46
+    "lastIncident": "2026-07-25T22:02:00Z",
+    "count": 47
   },
   "maple-ridge/119th-ave": {
     "name": "119th Ave",
@@ -549,8 +549,8 @@
     "name": "132nd St",
     "slug": "surrey/132nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-24T20:39:00Z",
-    "count": 27
+    "lastIncident": "2026-07-25T21:59:00Z",
+    "count": 28
   },
   "surrey/140th-st": {
     "name": "140th St",
@@ -626,8 +626,8 @@
     "name": "84th Ave",
     "slug": "surrey/84th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-20T18:33:00Z",
-    "count": 27
+    "lastIncident": "2026-07-25T21:59:00Z",
+    "count": 28
   },
   "surrey/88th-ave": {
     "name": "88th Ave",
@@ -9677,8 +9677,8 @@
     "name": "196th St",
     "slug": "surrey/196th-st",
     "city": "Surrey",
-    "lastIncident": "2026-06-27T17:24:00Z",
-    "count": 2
+    "lastIncident": "2026-07-25T21:19:00Z",
+    "count": 3
   },
   "burnaby/4567-lougheed-hwy": {
     "name": "4567 Lougheed Hwy",
@@ -13345,8 +13345,8 @@
     "name": "Lions Gate Brdg",
     "slug": "vancouver/lions-gate-brdg",
     "city": "Vancouver",
-    "lastIncident": "2026-06-30T06:22:00Z",
-    "count": 1
+    "lastIncident": "2026-07-25T22:01:00Z",
+    "count": 2
   },
   "vancouver/w-66th-ave": {
     "name": "W 66th Ave",
@@ -14739,6 +14739,13 @@
     "slug": "surrey/177th-st",
     "city": "Surrey",
     "lastIncident": "2026-07-25T17:43:00Z",
+    "count": 1
+  },
+  "new-westminster/south-dyke-rd": {
+    "name": "South Dyke Rd",
+    "slug": "new-westminster/south-dyke-rd",
+    "city": "New Westminster",
+    "lastIncident": "2026-07-25T21:15:00Z",
     "count": 1
   }
 }

@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-25T22:01:00Z_vancouver/lions-gate-brdg",
+      "timestamp": "2026-07-25T22:01:00Z",
+      "address": "LIONS GATE BRDG",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/lions-gate-brdg"
+      ],
+      "streetNames": [
+        "Lions Gate Brdg"
+      ],
+      "pulsePointId": "2527157760"
+    },
+    {
       "id": "2026-06-30T06:22:00Z_vancouver/lions-gate-brdg",
       "timestamp": "2026-06-30T06:22:00Z",
       "address": "LIONS GATE BRDG",
@@ -17,6 +30,6 @@
       "pulsePointId": "2508083015"
     }
   ],
-  "lastIncident": "2026-06-30T06:22:00Z",
-  "count": 1
+  "lastIncident": "2026-07-25T22:01:00Z",
+  "count": 2
 }
