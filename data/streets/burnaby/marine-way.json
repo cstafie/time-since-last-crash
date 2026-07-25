@@ -4,6 +4,19 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-25T01:32:00Z_burnaby/marine-way",
+      "timestamp": "2026-07-25T01:32:00Z",
+      "address": "MARINE WAY",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/marine-way"
+      ],
+      "streetNames": [
+        "Marine Way"
+      ],
+      "pulsePointId": "2526569924"
+    },
+    {
       "id": "2026-07-11T00:49:00Z_burnaby/marine-way",
       "timestamp": "2026-07-11T00:49:00Z",
       "address": "MARINE WAY",
@@ -148,6 +161,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-11T00:49:00Z",
-  "count": 10
+  "lastIncident": "2026-07-25T01:32:00Z",
+  "count": 11
 }

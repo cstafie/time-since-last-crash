@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-25T01:41:00Z_vancouver/commercial-dr_vancouver/e-5th-ave",
+      "timestamp": "2026-07-25T01:41:00Z",
+      "address": "COMMERCIAL DR & E 5TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/commercial-dr",
+        "vancouver/e-5th-ave"
+      ],
+      "streetNames": [
+        "Commercial Dr",
+        "E 5th Ave"
+      ],
+      "pulsePointId": "2526574876"
+    },
+    {
       "id": "2026-07-20T06:27:00Z_vancouver/e-1st-ave_vancouver/commercial-dr",
       "timestamp": "2026-07-20T06:27:00Z",
       "address": "E 1ST AVE & COMMERCIAL DR",
@@ -152,6 +167,6 @@
       "pulsePointId": "2434378699"
     }
   ],
-  "lastIncident": "2026-07-20T06:27:00Z",
-  "count": 10
+  "lastIncident": "2026-07-25T01:41:00Z",
+  "count": 11
 }

@@ -4,6 +4,36 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-25T04:22:00Z_surrey/76th-ave_surrey/152nd-st",
+      "timestamp": "2026-07-25T04:22:00Z",
+      "address": "76TH AVE & 152ND ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/76th-ave",
+        "surrey/152nd-st"
+      ],
+      "streetNames": [
+        "76th Ave",
+        "152nd St"
+      ],
+      "pulsePointId": "2526667428"
+    },
+    {
+      "id": "2026-07-25T04:21:00Z_surrey/152nd-st_surrey/sitka-dr",
+      "timestamp": "2026-07-25T04:21:00Z",
+      "address": "152ND ST & SITKA DR",
+      "city": "Surrey",
+      "streets": [
+        "surrey/152nd-st",
+        "surrey/sitka-dr"
+      ],
+      "streetNames": [
+        "152nd St",
+        "Sitka Dr"
+      ],
+      "pulsePointId": "2526667288"
+    },
+    {
       "id": "2026-07-23T19:57:00Z_surrey/92nd-ave_surrey/152nd-st",
       "timestamp": "2026-07-23T19:57:00Z",
       "address": "92ND AVE & 152ND ST",
@@ -633,6 +663,6 @@
       "pulsePointId": "2433332497"
     }
   ],
-  "lastIncident": "2026-07-23T19:57:00Z",
-  "count": 43
+  "lastIncident": "2026-07-25T04:22:00Z",
+  "count": 45
 }
