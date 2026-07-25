@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-25T14:14:00Z_surrey/124th-st_surrey/82nd-ave",
+    "timestamp": "2026-07-25T14:14:00Z",
+    "scrapedAt": "2026-07-25T14:24:07Z",
+    "address": "124TH ST & 82ND AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/124th-st",
+      "surrey/82nd-ave"
+    ],
+    "streetNames": [
+      "124th St",
+      "82nd Ave"
+    ],
+    "pulsePointId": "2526877982"
+  },
+  {
     "id": "2026-07-25T09:26:00Z_coquitlam/delestre-ave_coquitlam/blue-mountain-st",
     "timestamp": "2026-07-25T09:26:00Z",
     "scrapedAt": "2026-07-25T10:49:24Z",
