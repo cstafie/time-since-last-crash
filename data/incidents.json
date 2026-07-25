@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-07-25T21:06:00Z_lions-bay/hwy-99",
+    "timestamp": "2026-07-25T21:06:00Z",
+    "scrapedAt": "2026-07-25T21:12:50Z",
+    "address": "HWY 99",
+    "city": "Lions Bay",
+    "streets": [
+      "lions-bay/hwy-99"
+    ],
+    "streetNames": [
+      "Hwy 99"
+    ],
+    "pulsePointId": "2527122076"
+  },
+  {
+    "id": "2026-07-25T21:05:00Z_vancouver/e-57th-ave_vancouver/knight-st",
+    "timestamp": "2026-07-25T21:05:00Z",
+    "scrapedAt": "2026-07-25T21:12:50Z",
+    "address": "E 57TH AVE & KNIGHT ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-57th-ave",
+      "vancouver/knight-st"
+    ],
+    "streetNames": [
+      "E 57th Ave",
+      "Knight St"
+    ],
+    "pulsePointId": "2527122965"
+  },
+  {
+    "id": "2026-07-25T20:56:00Z_vancouver/e-27th-ave_vancouver/victoria-dr",
+    "timestamp": "2026-07-25T20:56:00Z",
+    "scrapedAt": "2026-07-25T21:12:50Z",
+    "address": "E 27TH AVE & VICTORIA DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-27th-ave",
+      "vancouver/victoria-dr"
+    ],
+    "streetNames": [
+      "E 27th Ave",
+      "Victoria Dr"
+    ],
+    "pulsePointId": "2527116928"
+  },
+  {
+    "id": "2026-07-25T20:03:00Z_delta/80th-ave",
+    "timestamp": "2026-07-25T20:03:00Z",
+    "scrapedAt": "2026-07-25T21:12:50Z",
+    "address": "80TH AVE",
+    "city": "Delta",
+    "streets": [
+      "delta/80th-ave"
+    ],
+    "streetNames": [
+      "80th Ave"
+    ],
+    "pulsePointId": "2527081699"
+  },
+  {
     "id": "2026-07-25T17:43:00Z_surrey/16th-ave_surrey/177th-st",
     "timestamp": "2026-07-25T17:43:00Z",
     "scrapedAt": "2026-07-25T17:47:00Z",

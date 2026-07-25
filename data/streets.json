@@ -752,8 +752,8 @@
     "name": "Knight St",
     "slug": "vancouver/knight-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-21T22:13:00Z",
-    "count": 38
+    "lastIncident": "2026-07-25T21:05:00Z",
+    "count": 39
   },
   "vancouver/lower-mall": {
     "name": "Lower Mall",
@@ -2446,8 +2446,8 @@
     "name": "E 27th Ave",
     "slug": "vancouver/e-27th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-18T21:24:00Z",
-    "count": 2
+    "lastIncident": "2026-07-25T20:56:00Z",
+    "count": 3
   },
   "vancouver/nanaimo-st": {
     "name": "Nanaimo St",
@@ -3076,8 +3076,8 @@
     "name": "Victoria Dr",
     "slug": "vancouver/victoria-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-07-24T04:53:00Z",
-    "count": 24
+    "lastIncident": "2026-07-25T20:56:00Z",
+    "count": 25
   },
   "vancouver/e-60th-ave": {
     "name": "E 60th Ave",
@@ -3433,8 +3433,8 @@
     "name": "Hwy 99",
     "slug": "lions-bay/hwy-99",
     "city": "Lions Bay",
-    "lastIncident": "2026-06-21T16:18:00Z",
-    "count": 6
+    "lastIncident": "2026-07-25T21:06:00Z",
+    "count": 7
   },
   "north-vancouver/kennard-ave": {
     "name": "Kennard Ave",
@@ -5295,8 +5295,8 @@
     "name": "E 57th Ave",
     "slug": "vancouver/e-57th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-06-18T14:09:00Z",
-    "count": 5
+    "lastIncident": "2026-07-25T21:05:00Z",
+    "count": 6
   },
   "coquitlam/tatla-pl": {
     "name": "Tatla Pl",
@@ -6471,8 +6471,8 @@
     "name": "80th Ave",
     "slug": "delta/80th-ave",
     "city": "Delta",
-    "lastIncident": "2026-07-17T16:05:00Z",
-    "count": 5
+    "lastIncident": "2026-07-25T20:03:00Z",
+    "count": 6
   },
   "abbotsford/watson-rd": {
     "name": "Watson Rd",

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-25T20:56:00Z_vancouver/e-27th-ave_vancouver/victoria-dr",
+      "timestamp": "2026-07-25T20:56:00Z",
+      "address": "E 27TH AVE & VICTORIA DR",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/e-27th-ave",
+        "vancouver/victoria-dr"
+      ],
+      "streetNames": [
+        "E 27th Ave",
+        "Victoria Dr"
+      ],
+      "pulsePointId": "2527116928"
+    },
+    {
       "id": "2026-06-18T21:24:00Z_vancouver/e-27th-ave_vancouver/fraser-st",
       "timestamp": "2026-06-18T21:24:00Z",
       "address": "E 27TH AVE & FRASER ST",
@@ -34,6 +49,6 @@
       "pulsePointId": "2435582679"
     }
   ],
-  "lastIncident": "2026-06-18T21:24:00Z",
-  "count": 2
+  "lastIncident": "2026-07-25T20:56:00Z",
+  "count": 3
 }

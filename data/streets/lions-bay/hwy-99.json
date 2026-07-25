@@ -4,6 +4,19 @@
   "city": "Lions Bay",
   "incidents": [
     {
+      "id": "2026-07-25T21:06:00Z_lions-bay/hwy-99",
+      "timestamp": "2026-07-25T21:06:00Z",
+      "address": "HWY 99",
+      "city": "Lions Bay",
+      "streets": [
+        "lions-bay/hwy-99"
+      ],
+      "streetNames": [
+        "Hwy 99"
+      ],
+      "pulsePointId": "2527122076"
+    },
+    {
       "id": "2026-06-21T16:18:00Z_lions-bay/hwy-99",
       "timestamp": "2026-06-21T16:18:00Z",
       "address": "HWY 99",
@@ -84,6 +97,6 @@
       "pulsePointId": "2438676208"
     }
   ],
-  "lastIncident": "2026-06-21T16:18:00Z",
-  "count": 6
+  "lastIncident": "2026-07-25T21:06:00Z",
+  "count": 7
 }
