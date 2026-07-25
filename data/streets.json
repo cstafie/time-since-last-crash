@@ -150,8 +150,8 @@
     "name": "Blue Mountain St",
     "slug": "coquitlam/blue-mountain-st",
     "city": "Coquitlam",
-    "lastIncident": "2026-06-07T08:24:00Z",
-    "count": 4
+    "lastIncident": "2026-07-25T09:26:00Z",
+    "count": 5
   },
   "coquitlam/foster-ave": {
     "name": "Foster Ave",
@@ -14725,6 +14725,13 @@
     "slug": "vancouver/2750-granville-st",
     "city": "Vancouver",
     "lastIncident": "2026-07-25T05:02:00Z",
+    "count": 1
+  },
+  "coquitlam/delestre-ave": {
+    "name": "Delestre Ave",
+    "slug": "coquitlam/delestre-ave",
+    "city": "Coquitlam",
+    "lastIncident": "2026-07-25T09:26:00Z",
     "count": 1
   }
 }

@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-25T09:26:00Z_coquitlam/delestre-ave_coquitlam/blue-mountain-st",
+    "timestamp": "2026-07-25T09:26:00Z",
+    "scrapedAt": "2026-07-25T10:49:24Z",
+    "address": "DELESTRE AVE & BLUE MOUNTAIN ST",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/delestre-ave",
+      "coquitlam/blue-mountain-st"
+    ],
+    "streetNames": [
+      "Delestre Ave",
+      "Blue Mountain St"
+    ],
+    "pulsePointId": "2526789276"
+  },
+  {
     "id": "2026-07-25T08:10:00Z_surrey/king-george-blvd_surrey/fraser-hwy",
     "timestamp": "2026-07-25T08:10:00Z",
     "scrapedAt": "2026-07-25T09:15:11Z",

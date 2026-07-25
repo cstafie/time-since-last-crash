@@ -1,0 +1,24 @@
+{
+  "slug": "coquitlam/delestre-ave",
+  "name": "Delestre Ave",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-07-25T09:26:00Z_coquitlam/delestre-ave_coquitlam/blue-mountain-st",
+      "timestamp": "2026-07-25T09:26:00Z",
+      "address": "DELESTRE AVE & BLUE MOUNTAIN ST",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/delestre-ave",
+        "coquitlam/blue-mountain-st"
+      ],
+      "streetNames": [
+        "Delestre Ave",
+        "Blue Mountain St"
+      ],
+      "pulsePointId": "2526789276"
+    }
+  ],
+  "lastIncident": "2026-07-25T09:26:00Z",
+  "count": 1
+}
