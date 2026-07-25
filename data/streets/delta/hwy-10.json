@@ -4,6 +4,19 @@
   "city": "Delta",
   "incidents": [
     {
+      "id": "2026-07-25T00:00:00Z_delta/hwy-10",
+      "timestamp": "2026-07-25T00:00:00Z",
+      "address": "HWY 10",
+      "city": "Delta",
+      "streets": [
+        "delta/hwy-10"
+      ],
+      "streetNames": [
+        "Hwy 10"
+      ],
+      "pulsePointId": "2526505567"
+    },
+    {
       "id": "2026-05-20T15:38:00Z_delta/hwy-10",
       "timestamp": "2026-05-20T15:38:00Z",
       "address": "HWY 10",
@@ -47,6 +60,6 @@
       "pulsePointId": "2444402718"
     }
   ],
-  "lastIncident": "2026-05-20T15:38:00Z",
-  "count": 3
+  "lastIncident": "2026-07-25T00:00:00Z",
+  "count": 4
 }

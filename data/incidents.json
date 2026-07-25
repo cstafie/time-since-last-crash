@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-07-25T00:21:00Z_abbotsford/gladwin-rd",
+    "timestamp": "2026-07-25T00:21:00Z",
+    "scrapedAt": "2026-07-25T01:20:05Z",
+    "address": "GLADWIN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/gladwin-rd"
+    ],
+    "streetNames": [
+      "Gladwin Rd"
+    ],
+    "pulsePointId": "2526521216"
+  },
+  {
+    "id": "2026-07-25T00:04:00Z_surrey/king-george-blvd",
+    "timestamp": "2026-07-25T00:04:00Z",
+    "scrapedAt": "2026-07-25T01:20:05Z",
+    "address": "KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd"
+    ],
+    "streetNames": [
+      "King George Blvd"
+    ],
+    "pulsePointId": "2526509439"
+  },
+  {
+    "id": "2026-07-25T00:00:00Z_delta/hwy-10",
+    "timestamp": "2026-07-25T00:00:00Z",
+    "scrapedAt": "2026-07-25T01:20:05Z",
+    "address": "HWY 10",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-10"
+    ],
+    "streetNames": [
+      "Hwy 10"
+    ],
+    "pulsePointId": "2526505567"
+  },
+  {
     "id": "2026-07-24T23:43:00Z_vancouver/burrard-st_vancouver/w-2nd-ave",
     "timestamp": "2026-07-24T23:43:00Z",
     "scrapedAt": "2026-07-24T23:52:14Z",

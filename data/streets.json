@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-07-20T23:49:00Z",
-    "count": 88
+    "lastIncident": "2026-07-25T00:04:00Z",
+    "count": 89
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -4497,8 +4497,8 @@
     "name": "Hwy 10",
     "slug": "delta/hwy-10",
     "city": "Delta",
-    "lastIncident": "2026-05-20T15:38:00Z",
-    "count": 3
+    "lastIncident": "2026-07-25T00:00:00Z",
+    "count": 4
   },
   "port-moody/dewdney-trunk-rd": {
     "name": "Dewdney Trunk Rd",
@@ -5232,8 +5232,8 @@
     "name": "Gladwin Rd",
     "slug": "abbotsford/gladwin-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-18T16:38:00Z",
-    "count": 18
+    "lastIncident": "2026-07-25T00:21:00Z",
+    "count": 19
   },
   "surrey/old-yale-rd": {
     "name": "Old Yale Rd",
