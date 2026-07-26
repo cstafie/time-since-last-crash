@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-26T16:13:00Z_new-westminster/7th-st_new-westminster/6th-ave",
+    "timestamp": "2026-07-26T16:13:00Z",
+    "scrapedAt": "2026-07-26T16:42:22Z",
+    "address": "7TH ST & 6TH AVE",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/7th-st",
+      "new-westminster/6th-ave"
+    ],
+    "streetNames": [
+      "7th St",
+      "6th Ave"
+    ],
+    "pulsePointId": "2527669681"
+  },
+  {
     "id": "2026-07-26T15:17:00Z_chilliwack/vedder-mountain-rd",
     "timestamp": "2026-07-26T15:17:00Z",
     "scrapedAt": "2026-07-26T15:34:53Z",
