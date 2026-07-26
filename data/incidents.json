@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-07-26T08:02:00Z_burnaby/hall-ave",
+    "timestamp": "2026-07-26T08:02:00Z",
+    "scrapedAt": "2026-07-26T09:31:39Z",
+    "address": "HALL AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/hall-ave"
+    ],
+    "streetNames": [
+      "Hall Ave"
+    ],
+    "pulsePointId": "2527495843"
+  },
+  {
+    "id": "2026-07-26T07:49:00Z_surrey/hwy-17_surrey/124th-street-ofrp",
+    "timestamp": "2026-07-26T07:49:00Z",
+    "scrapedAt": "2026-07-26T09:31:39Z",
+    "address": "HWY 17 & 124TH STREET OFRP",
+    "city": "Surrey",
+    "streets": [
+      "surrey/hwy-17",
+      "surrey/124th-street-ofrp"
+    ],
+    "streetNames": [
+      "Hwy 17",
+      "124th Street Ofrp"
+    ],
+    "pulsePointId": "2527492597"
+  },
+  {
+    "id": "2026-07-26T07:28:00Z_coquitlam/gatensbury-st_coquitlam/bartlett-ave",
+    "timestamp": "2026-07-26T07:28:00Z",
+    "scrapedAt": "2026-07-26T09:31:39Z",
+    "address": "GATENSBURY ST & BARTLETT AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/gatensbury-st",
+      "coquitlam/bartlett-ave"
+    ],
+    "streetNames": [
+      "Gatensbury St",
+      "Bartlett Ave"
+    ],
+    "pulsePointId": "2527484403"
+  },
+  {
     "id": "2026-07-26T04:52:00Z_chilliwack/industrial-way_chilliwack/lickman-rd",
     "timestamp": "2026-07-26T04:52:00Z",
     "scrapedAt": "2026-07-26T07:28:50Z",

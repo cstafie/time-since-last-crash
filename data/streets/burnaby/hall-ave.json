@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/hall-ave",
+  "name": "Hall Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-07-26T08:02:00Z_burnaby/hall-ave",
+      "timestamp": "2026-07-26T08:02:00Z",
+      "address": "HALL AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/hall-ave"
+      ],
+      "streetNames": [
+        "Hall Ave"
+      ],
+      "pulsePointId": "2527495843"
+    }
+  ],
+  "lastIncident": "2026-07-26T08:02:00Z",
+  "count": 1
+}
