@@ -1,0 +1,24 @@
+{
+  "slug": "langley/crush-cres",
+  "name": "Crush Cres",
+  "city": "Langley",
+  "incidents": [
+    {
+      "id": "2026-07-26T15:13:00Z_langley/glover-rd_langley/crush-cres",
+      "timestamp": "2026-07-26T15:13:00Z",
+      "address": "GLOVER RD & CRUSH CRES",
+      "city": "Langley",
+      "streets": [
+        "langley/glover-rd",
+        "langley/crush-cres"
+      ],
+      "streetNames": [
+        "Glover Rd",
+        "Crush Cres"
+      ],
+      "pulsePointId": "2527641850"
+    }
+  ],
+  "lastIncident": "2026-07-26T15:13:00Z",
+  "count": 1
+}

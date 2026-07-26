@@ -4980,8 +4980,8 @@
     "name": "Glover Rd",
     "slug": "langley/glover-rd",
     "city": "Langley",
-    "lastIncident": "2026-07-23T23:40:00Z",
-    "count": 10
+    "lastIncident": "2026-07-26T15:13:00Z",
+    "count": 11
   },
   "richmond/knight-street-ofrp": {
     "name": "Knight Street Ofrp",
@@ -5001,8 +5001,8 @@
     "name": "Marine Drive Onrp",
     "slug": "west-vancouver/marine-drive-onrp",
     "city": "West Vancouver",
-    "lastIncident": "2026-07-26T14:00:00Z",
-    "count": 2
+    "lastIncident": "2026-07-26T15:01:00Z",
+    "count": 3
   },
   "maple-ridge/243rd-st": {
     "name": "243rd St",
@@ -8683,8 +8683,8 @@
     "name": "Vedder Mountain Rd",
     "slug": "chilliwack/vedder-mountain-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-15T02:39:00Z",
-    "count": 3
+    "lastIncident": "2026-07-26T15:17:00Z",
+    "count": 4
   },
   "burnaby/esmond-ave": {
     "name": "Esmond Ave",
@@ -14788,6 +14788,13 @@
     "slug": "coquitlam/bartlett-ave",
     "city": "Coquitlam",
     "lastIncident": "2026-07-26T07:28:00Z",
+    "count": 1
+  },
+  "langley/crush-cres": {
+    "name": "Crush Cres",
+    "slug": "langley/crush-cres",
+    "city": "Langley",
+    "lastIncident": "2026-07-26T15:13:00Z",
     "count": 1
   }
 }

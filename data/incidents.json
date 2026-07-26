@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-07-26T15:17:00Z_chilliwack/vedder-mountain-rd",
+    "timestamp": "2026-07-26T15:17:00Z",
+    "scrapedAt": "2026-07-26T15:34:53Z",
+    "address": "VEDDER MOUNTAIN RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/vedder-mountain-rd"
+    ],
+    "streetNames": [
+      "Vedder Mountain Rd"
+    ],
+    "pulsePointId": "2527643045"
+  },
+  {
+    "id": "2026-07-26T15:13:00Z_langley/glover-rd_langley/crush-cres",
+    "timestamp": "2026-07-26T15:13:00Z",
+    "scrapedAt": "2026-07-26T15:34:53Z",
+    "address": "GLOVER RD & CRUSH CRES",
+    "city": "Langley",
+    "streets": [
+      "langley/glover-rd",
+      "langley/crush-cres"
+    ],
+    "streetNames": [
+      "Glover Rd",
+      "Crush Cres"
+    ],
+    "pulsePointId": "2527641850"
+  },
+  {
+    "id": "2026-07-26T15:01:00Z_west-vancouver/marine-drive-onrp",
+    "timestamp": "2026-07-26T15:01:00Z",
+    "scrapedAt": "2026-07-26T15:34:53Z",
+    "address": "MARINE DRIVE ONRP",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/marine-drive-onrp"
+    ],
+    "streetNames": [
+      "Marine Drive Onrp"
+    ],
+    "pulsePointId": "2527637009"
+  },
+  {
     "id": "2026-07-26T14:03:00Z_west-vancouver/lions-gate-brdg",
     "timestamp": "2026-07-26T14:03:00Z",
     "scrapedAt": "2026-07-26T14:20:45Z",
