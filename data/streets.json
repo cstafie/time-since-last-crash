@@ -668,8 +668,8 @@
     "name": "King George Blvd",
     "slug": "surrey/king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-07-25T08:10:00Z",
-    "count": 90
+    "lastIncident": "2026-07-26T01:33:00Z",
+    "count": 91
   },
   "surrey/prince-charles-blvd": {
     "name": "Prince Charles Blvd",
@@ -724,8 +724,8 @@
     "name": "Granville St",
     "slug": "vancouver/granville-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-24T22:55:00Z",
-    "count": 69
+    "lastIncident": "2026-07-26T01:18:00Z",
+    "count": 70
   },
   "vancouver/granville-street-ofrp": {
     "name": "Granville Street Ofrp",
@@ -913,8 +913,8 @@
     "name": "E Columbia St",
     "slug": "new-westminster/e-columbia-st",
     "city": "New Westminster",
-    "lastIncident": "2026-07-20T21:05:00Z",
-    "count": 26
+    "lastIncident": "2026-07-26T03:07:00Z",
+    "count": 27
   },
   "burnaby/market-crss": {
     "name": "Market Crss",
@@ -1795,8 +1795,8 @@
     "name": "152nd St",
     "slug": "surrey/152nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-25T04:22:00Z",
-    "count": 45
+    "lastIncident": "2026-07-26T03:07:00Z",
+    "count": 46
   },
   "langley/20611-fraser-hwyste-111": {
     "name": "20611 Fraser Hwy,ste 111",
@@ -7836,8 +7836,8 @@
     "name": "Marine Dr",
     "slug": "west-vancouver/marine-dr",
     "city": "West Vancouver",
-    "lastIncident": "2026-07-25T23:18:00Z",
-    "count": 8
+    "lastIncident": "2026-07-26T04:17:00Z",
+    "count": 9
   },
   "west-vancouver/18th-st": {
     "name": "18th St",
@@ -9117,8 +9117,8 @@
     "name": "Laurier Ave",
     "slug": "vancouver/laurier-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-22T00:57:00Z",
-    "count": 2
+    "lastIncident": "2026-07-26T01:18:00Z",
+    "count": 3
   },
   "port-moody/seaview-dr": {
     "name": "Seaview Dr",
@@ -9334,8 +9334,8 @@
     "name": "98th Ave",
     "slug": "surrey/98th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-15T17:26:00Z",
-    "count": 5
+    "lastIncident": "2026-07-26T03:07:00Z",
+    "count": 6
   },
   "mission/florence-lake-rd": {
     "name": "Florence Lake Rd",
@@ -14760,6 +14760,13 @@
     "slug": "abbotsford/munroe-ave",
     "city": "Abbotsford",
     "lastIncident": "2026-07-25T23:43:00Z",
+    "count": 1
+  },
+  "west-vancouver/gleneagles-dr": {
+    "name": "Gleneagles Dr",
+    "slug": "west-vancouver/gleneagles-dr",
+    "city": "West Vancouver",
+    "lastIncident": "2026-07-26T04:17:00Z",
     "count": 1
   }
 }

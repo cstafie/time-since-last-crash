@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-26T03:07:00Z_surrey/98th-ave_surrey/152nd-st",
+      "timestamp": "2026-07-26T03:07:00Z",
+      "address": "98TH AVE & 152ND ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/98th-ave",
+        "surrey/152nd-st"
+      ],
+      "streetNames": [
+        "98th Ave",
+        "152nd St"
+      ],
+      "pulsePointId": "2527357957"
+    },
+    {
       "id": "2026-07-25T04:22:00Z_surrey/76th-ave_surrey/152nd-st",
       "timestamp": "2026-07-25T04:22:00Z",
       "address": "76TH AVE & 152ND ST",
@@ -663,6 +678,6 @@
       "pulsePointId": "2433332497"
     }
   ],
-  "lastIncident": "2026-07-25T04:22:00Z",
-  "count": 45
+  "lastIncident": "2026-07-26T03:07:00Z",
+  "count": 46
 }
