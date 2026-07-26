@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-07-26T12:05:00Z_vancouver/quebec-st_vancouver/e-2nd-ave",
+    "timestamp": "2026-07-26T12:05:00Z",
+    "scrapedAt": "2026-07-26T12:34:17Z",
+    "address": "QUEBEC ST & E 2ND AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/quebec-st",
+      "vancouver/e-2nd-ave"
+    ],
+    "streetNames": [
+      "Quebec St",
+      "E 2nd Ave"
+    ],
+    "pulsePointId": "2527572213"
+  },
+  {
+    "id": "2026-07-26T11:38:00Z_vancouver/e-49th-ave",
+    "timestamp": "2026-07-26T11:38:00Z",
+    "scrapedAt": "2026-07-26T12:34:17Z",
+    "address": "E 49TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-49th-ave"
+    ],
+    "streetNames": [
+      "E 49th Ave"
+    ],
+    "pulsePointId": "2527563840"
+  },
+  {
     "id": "2026-07-26T10:26:00Z_burnaby/canada-way_burnaby/kensington-ave",
     "timestamp": "2026-07-26T10:26:00Z",
     "scrapedAt": "2026-07-26T11:11:07Z",

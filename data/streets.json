@@ -3069,8 +3069,8 @@
     "name": "E 49th Ave",
     "slug": "vancouver/e-49th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-22T01:16:00Z",
-    "count": 27
+    "lastIncident": "2026-07-26T11:38:00Z",
+    "count": 28
   },
   "vancouver/victoria-dr": {
     "name": "Victoria Dr",
@@ -7122,8 +7122,8 @@
     "name": "E 2nd Ave",
     "slug": "vancouver/e-2nd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-16T19:58:00Z",
-    "count": 10
+    "lastIncident": "2026-07-26T12:05:00Z",
+    "count": 11
   },
   "abbotsford/3033-immel-stste-600": {
     "name": "3033 Immel St,ste 600",
@@ -9502,8 +9502,8 @@
     "name": "Quebec St",
     "slug": "vancouver/quebec-st",
     "city": "Vancouver",
-    "lastIncident": "2026-06-09T23:46:00Z",
-    "count": 3
+    "lastIncident": "2026-07-26T12:05:00Z",
+    "count": 4
   },
   "richmond/woodwards-rd": {
     "name": "Woodwards Rd",
