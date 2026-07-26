@@ -1,5 +1,81 @@
 [
   {
+    "id": "2026-07-26T18:36:00Z_surrey/128th-st_surrey/76th-ave",
+    "timestamp": "2026-07-26T18:36:00Z",
+    "scrapedAt": "2026-07-26T18:49:36Z",
+    "address": "128TH ST & 76TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/128th-st",
+      "surrey/76th-ave"
+    ],
+    "streetNames": [
+      "128th St",
+      "76th Ave"
+    ],
+    "pulsePointId": "2527749099"
+  },
+  {
+    "id": "2026-07-26T18:27:00Z_abbotsford/2054-whatcom-rd",
+    "timestamp": "2026-07-26T18:27:00Z",
+    "scrapedAt": "2026-07-26T18:49:36Z",
+    "address": "2054 WHATCOM RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/2054-whatcom-rd"
+    ],
+    "streetNames": [
+      "2054 Whatcom Rd"
+    ],
+    "pulsePointId": "2527744091"
+  },
+  {
+    "id": "2026-07-26T18:19:00Z_surrey/king-george-blvd_surrey/96th-ave",
+    "timestamp": "2026-07-26T18:19:00Z",
+    "scrapedAt": "2026-07-26T18:49:36Z",
+    "address": "KING GEORGE BLVD & 96TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/king-george-blvd",
+      "surrey/96th-ave"
+    ],
+    "streetNames": [
+      "King George Blvd",
+      "96th Ave"
+    ],
+    "pulsePointId": "2527740245"
+  },
+  {
+    "id": "2026-07-26T18:06:00Z_surrey/56th-ave_surrey/180th-st",
+    "timestamp": "2026-07-26T18:06:00Z",
+    "scrapedAt": "2026-07-26T18:49:36Z",
+    "address": "56TH AVE & 180TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/56th-ave",
+      "surrey/180th-st"
+    ],
+    "streetNames": [
+      "56th Ave",
+      "180th St"
+    ],
+    "pulsePointId": "2527730279"
+  },
+  {
+    "id": "2026-07-26T18:00:00Z_langley/232nd-st",
+    "timestamp": "2026-07-26T18:00:00Z",
+    "scrapedAt": "2026-07-26T18:49:36Z",
+    "address": "232ND ST",
+    "city": "Langley",
+    "streets": [
+      "langley/232nd-st"
+    ],
+    "streetNames": [
+      "232nd St"
+    ],
+    "pulsePointId": "2527727624"
+  },
+  {
     "id": "2026-07-26T17:03:00Z_vancouver/w-33rd-ave_vancouver/puget-dr",
     "timestamp": "2026-07-26T17:03:00Z",
     "scrapedAt": "2026-07-26T17:50:32Z",

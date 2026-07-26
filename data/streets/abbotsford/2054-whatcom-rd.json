@@ -4,6 +4,19 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-26T18:27:00Z_abbotsford/2054-whatcom-rd",
+      "timestamp": "2026-07-26T18:27:00Z",
+      "address": "2054 WHATCOM RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/2054-whatcom-rd"
+      ],
+      "streetNames": [
+        "2054 Whatcom Rd"
+      ],
+      "pulsePointId": "2527744091"
+    },
+    {
       "id": "2026-06-28T19:14:00Z_abbotsford/2054-whatcom-rd",
       "timestamp": "2026-06-28T19:14:00Z",
       "address": "2054 WHATCOM RD",
@@ -17,6 +30,6 @@
       "pulsePointId": "2507014028"
     }
   ],
-  "lastIncident": "2026-06-28T19:14:00Z",
-  "count": 1
+  "lastIncident": "2026-07-26T18:27:00Z",
+  "count": 2
 }

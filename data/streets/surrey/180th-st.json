@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-26T18:06:00Z_surrey/56th-ave_surrey/180th-st",
+      "timestamp": "2026-07-26T18:06:00Z",
+      "address": "56TH AVE & 180TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/56th-ave",
+        "surrey/180th-st"
+      ],
+      "streetNames": [
+        "56th Ave",
+        "180th St"
+      ],
+      "pulsePointId": "2527730279"
+    },
+    {
       "id": "2026-07-15T03:25:00Z_surrey/golden-ears-way_surrey/180th-st",
       "timestamp": "2026-07-15T03:25:00Z",
       "address": "GOLDEN EARS WAY & 180TH ST",
@@ -47,6 +62,6 @@
       "pulsePointId": "2435412973"
     }
   ],
-  "lastIncident": "2026-07-15T03:25:00Z",
-  "count": 3
+  "lastIncident": "2026-07-26T18:06:00Z",
+  "count": 4
 }
