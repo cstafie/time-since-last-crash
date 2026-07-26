@@ -1,5 +1,81 @@
 [
   {
+    "id": "2026-07-26T23:02:00Z_langley/42nd-ave",
+    "timestamp": "2026-07-26T23:02:00Z",
+    "scrapedAt": "2026-07-26T23:25:30Z",
+    "address": "42ND AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/42nd-ave"
+    ],
+    "streetNames": [
+      "42nd Ave"
+    ],
+    "pulsePointId": "2527913098"
+  },
+  {
+    "id": "2026-07-26T22:53:00Z_surrey/138a-st_surrey/88th-ave",
+    "timestamp": "2026-07-26T22:53:00Z",
+    "scrapedAt": "2026-07-26T23:25:30Z",
+    "address": "138A ST & 88TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/138a-st",
+      "surrey/88th-ave"
+    ],
+    "streetNames": [
+      "138a St",
+      "88th Ave"
+    ],
+    "pulsePointId": "2527908008"
+  },
+  {
+    "id": "2026-07-26T22:43:00Z_abbotsford/mckenzie-rd_abbotsford/vye-rd",
+    "timestamp": "2026-07-26T22:43:00Z",
+    "scrapedAt": "2026-07-26T23:25:30Z",
+    "address": "MCKENZIE RD & VYE RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/mckenzie-rd",
+      "abbotsford/vye-rd"
+    ],
+    "streetNames": [
+      "Mckenzie Rd",
+      "Vye Rd"
+    ],
+    "pulsePointId": "2527900499"
+  },
+  {
+    "id": "2026-07-26T22:39:00Z_vancouver/dunbar-st",
+    "timestamp": "2026-07-26T22:39:00Z",
+    "scrapedAt": "2026-07-26T23:25:30Z",
+    "address": "DUNBAR ST",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/dunbar-st"
+    ],
+    "streetNames": [
+      "Dunbar St"
+    ],
+    "pulsePointId": "2527899006"
+  },
+  {
+    "id": "2026-07-26T22:28:00Z_delta/92a-ave_delta/120th-st",
+    "timestamp": "2026-07-26T22:28:00Z",
+    "scrapedAt": "2026-07-26T23:25:30Z",
+    "address": "92A AVE & 120TH ST",
+    "city": "Delta",
+    "streets": [
+      "delta/92a-ave",
+      "delta/120th-st"
+    ],
+    "streetNames": [
+      "92a Ave",
+      "120th St"
+    ],
+    "pulsePointId": "2527892198"
+  },
+  {
     "id": "2026-07-26T22:17:00Z_chilliwack/first-ave_chilliwack/nowell-st",
     "timestamp": "2026-07-26T22:17:00Z",
     "scrapedAt": "2026-07-26T22:25:37Z",
@@ -14,6 +90,22 @@
       "Nowell St"
     ],
     "pulsePointId": "2527884220"
+  },
+  {
+    "id": "2026-07-26T22:16:00Z_vancouver/nanaimo-st_vancouver/e-24th-ave",
+    "timestamp": "2026-07-26T22:16:00Z",
+    "scrapedAt": "2026-07-26T23:25:30Z",
+    "address": "NANAIMO ST & E 24TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/nanaimo-st",
+      "vancouver/e-24th-ave"
+    ],
+    "streetNames": [
+      "Nanaimo St",
+      "E 24th Ave"
+    ],
+    "pulsePointId": "2527893448"
   },
   {
     "id": "2026-07-26T21:50:00Z_abbotsford/dahl-cres",

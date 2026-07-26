@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-26T22:39:00Z_vancouver/dunbar-st",
+      "timestamp": "2026-07-26T22:39:00Z",
+      "address": "DUNBAR ST",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/dunbar-st"
+      ],
+      "streetNames": [
+        "Dunbar St"
+      ],
+      "pulsePointId": "2527899006"
+    },
+    {
       "id": "2026-04-26T03:35:00Z_vancouver/sw-marine-dr_vancouver/dunbar-st",
       "timestamp": "2026-04-26T03:35:00Z",
       "address": "SW MARINE DR & DUNBAR ST",
@@ -94,6 +107,6 @@
       "pulsePointId": "2433803079"
     }
   ],
-  "lastIncident": "2026-04-26T03:35:00Z",
-  "count": 6
+  "lastIncident": "2026-07-26T22:39:00Z",
+  "count": 7
 }

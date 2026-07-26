@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-26T22:43:00Z_abbotsford/mckenzie-rd_abbotsford/vye-rd",
+      "timestamp": "2026-07-26T22:43:00Z",
+      "address": "MCKENZIE RD & VYE RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/mckenzie-rd",
+        "abbotsford/vye-rd"
+      ],
+      "streetNames": [
+        "Mckenzie Rd",
+        "Vye Rd"
+      ],
+      "pulsePointId": "2527900499"
+    },
+    {
       "id": "2026-04-23T17:14:00Z_abbotsford/vye-rd_abbotsford/mckenzie-rd",
       "timestamp": "2026-04-23T17:14:00Z",
       "address": "VYE RD & MCKENZIE RD",
@@ -32,6 +47,6 @@
       "pulsePointId": "2456113555"
     }
   ],
-  "lastIncident": "2026-04-23T17:14:00Z",
-  "count": 2
+  "lastIncident": "2026-07-26T22:43:00Z",
+  "count": 3
 }
