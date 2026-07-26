@@ -4,6 +4,36 @@
   "city": "Chilliwack",
   "incidents": [
     {
+      "id": "2026-07-26T22:17:00Z_chilliwack/first-ave_chilliwack/nowell-st",
+      "timestamp": "2026-07-26T22:17:00Z",
+      "address": "FIRST AVE & NOWELL ST",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/first-ave",
+        "chilliwack/nowell-st"
+      ],
+      "streetNames": [
+        "First Ave",
+        "Nowell St"
+      ],
+      "pulsePointId": "2527884220"
+    },
+    {
+      "id": "2026-07-26T21:48:00Z_chilliwack/first-ave_chilliwack/prest-rd",
+      "timestamp": "2026-07-26T21:48:00Z",
+      "address": "FIRST AVE & PREST RD",
+      "city": "Chilliwack",
+      "streets": [
+        "chilliwack/first-ave",
+        "chilliwack/prest-rd"
+      ],
+      "streetNames": [
+        "First Ave",
+        "Prest Rd"
+      ],
+      "pulsePointId": "2527866010"
+    },
+    {
       "id": "2026-06-19T23:03:00Z_chilliwack/first-ave",
       "timestamp": "2026-06-19T23:03:00Z",
       "address": "FIRST AVE",
@@ -146,6 +176,6 @@
       "pulsePointId": "2435443522"
     }
   ],
-  "lastIncident": "2026-06-19T23:03:00Z",
-  "count": 10
+  "lastIncident": "2026-07-26T22:17:00Z",
+  "count": 12
 }

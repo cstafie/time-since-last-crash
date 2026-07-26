@@ -1,0 +1,22 @@
+{
+  "slug": "abbotsford/dahl-cres",
+  "name": "Dahl Cres",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-07-26T21:50:00Z_abbotsford/dahl-cres",
+      "timestamp": "2026-07-26T21:50:00Z",
+      "address": "DAHL CRES",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/dahl-cres"
+      ],
+      "streetNames": [
+        "Dahl Cres"
+      ],
+      "pulsePointId": "2527868115"
+    }
+  ],
+  "lastIncident": "2026-07-26T21:50:00Z",
+  "count": 1
+}

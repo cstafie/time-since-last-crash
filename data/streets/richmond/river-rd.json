@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-26T21:16:00Z_richmond/gilbert-rd_richmond/river-rd",
+      "timestamp": "2026-07-26T21:16:00Z",
+      "address": "GILBERT RD & RIVER RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/gilbert-rd",
+        "richmond/river-rd"
+      ],
+      "streetNames": [
+        "Gilbert Rd",
+        "River Rd"
+      ],
+      "pulsePointId": "2527848065"
+    },
+    {
       "id": "2026-07-15T20:00:00Z_richmond/river-rd",
       "timestamp": "2026-07-15T20:00:00Z",
       "address": "RIVER RD",
@@ -58,6 +73,6 @@
       "pulsePointId": "2442927466"
     }
   ],
-  "lastIncident": "2026-07-15T20:00:00Z",
-  "count": 4
+  "lastIncident": "2026-07-26T21:16:00Z",
+  "count": 5
 }

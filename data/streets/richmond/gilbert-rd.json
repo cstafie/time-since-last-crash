@@ -4,6 +4,21 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-26T21:16:00Z_richmond/gilbert-rd_richmond/river-rd",
+      "timestamp": "2026-07-26T21:16:00Z",
+      "address": "GILBERT RD & RIVER RD",
+      "city": "Richmond",
+      "streets": [
+        "richmond/gilbert-rd",
+        "richmond/river-rd"
+      ],
+      "streetNames": [
+        "Gilbert Rd",
+        "River Rd"
+      ],
+      "pulsePointId": "2527848065"
+    },
+    {
       "id": "2026-07-16T03:09:00Z_richmond/gilbert-rd_richmond/steveston-hwy",
       "timestamp": "2026-07-16T03:09:00Z",
       "address": "GILBERT RD & STEVESTON HWY",
@@ -152,6 +167,6 @@
       "pulsePointId": "2464881239"
     }
   ],
-  "lastIncident": "2026-07-16T03:09:00Z",
-  "count": 10
+  "lastIncident": "2026-07-26T21:16:00Z",
+  "count": 11
 }

@@ -766,8 +766,8 @@
     "name": "Oak St",
     "slug": "vancouver/oak-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-24T22:00:00Z",
-    "count": 53
+    "lastIncident": "2026-07-26T21:19:00Z",
+    "count": 54
   },
   "vancouver/w-12th-ave": {
     "name": "W 12th Ave",
@@ -2418,8 +2418,8 @@
     "name": "First Ave",
     "slug": "chilliwack/first-ave",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-19T23:03:00Z",
-    "count": 10
+    "lastIncident": "2026-07-26T22:17:00Z",
+    "count": 12
   },
   "coquitlam/trans-canada-hwy-onrp": {
     "name": "Trans Canada Hwy Onrp",
@@ -2663,8 +2663,8 @@
     "name": "Prest Rd",
     "slug": "chilliwack/prest-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-07-16T01:20:00Z",
-    "count": 8
+    "lastIncident": "2026-07-26T21:48:00Z",
+    "count": 9
   },
   "chilliwack/mcguire-rd": {
     "name": "Mcguire Rd",
@@ -3097,8 +3097,8 @@
     "name": "Nowell St",
     "slug": "chilliwack/nowell-st",
     "city": "Chilliwack",
-    "lastIncident": "2026-03-19T23:28:00Z",
-    "count": 1
+    "lastIncident": "2026-07-26T22:17:00Z",
+    "count": 2
   },
   "coquitlam/plateau-blvd": {
     "name": "Plateau Blvd",
@@ -4273,8 +4273,8 @@
     "name": "River Rd",
     "slug": "richmond/river-rd",
     "city": "Richmond",
-    "lastIncident": "2026-07-15T20:00:00Z",
-    "count": 4
+    "lastIncident": "2026-07-26T21:16:00Z",
+    "count": 5
   },
   "delta/hwy-17a": {
     "name": "Hwy 17a",
@@ -4910,8 +4910,8 @@
     "name": "Hwy 17",
     "slug": "delta/hwy-17",
     "city": "Delta",
-    "lastIncident": "2026-07-20T20:47:00Z",
-    "count": 21
+    "lastIncident": "2026-07-26T21:45:00Z",
+    "count": 22
   },
   "coquitlam/winslow-ave": {
     "name": "Winslow Ave",
@@ -6387,8 +6387,8 @@
     "name": "W 37th Ave",
     "slug": "vancouver/w-37th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-05-21T22:30:00Z",
-    "count": 5
+    "lastIncident": "2026-07-26T21:19:00Z",
+    "count": 6
   },
   "mission/cathy-cres": {
     "name": "Cathy Cres",
@@ -8298,8 +8298,8 @@
     "name": "Gilbert Rd",
     "slug": "richmond/gilbert-rd",
     "city": "Richmond",
-    "lastIncident": "2026-07-16T03:09:00Z",
-    "count": 10
+    "lastIncident": "2026-07-26T21:16:00Z",
+    "count": 11
   },
   "maple-ridge/camwood-ave": {
     "name": "Camwood Ave",
@@ -14802,6 +14802,13 @@
     "slug": "burnaby/4000-imperial-st",
     "city": "Burnaby",
     "lastIncident": "2026-07-26T16:59:00Z",
+    "count": 1
+  },
+  "abbotsford/dahl-cres": {
+    "name": "Dahl Cres",
+    "slug": "abbotsford/dahl-cres",
+    "city": "Abbotsford",
+    "lastIncident": "2026-07-26T21:50:00Z",
     "count": 1
   }
 }
