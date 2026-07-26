@@ -4,6 +4,19 @@
   "city": "Richmond",
   "incidents": [
     {
+      "id": "2026-07-26T00:12:00Z_richmond/knight-st",
+      "timestamp": "2026-07-26T00:12:00Z",
+      "address": "KNIGHT ST",
+      "city": "Richmond",
+      "streets": [
+        "richmond/knight-st"
+      ],
+      "streetNames": [
+        "Knight St"
+      ],
+      "pulsePointId": "2527240865"
+    },
+    {
       "id": "2026-06-20T23:06:00Z_richmond/knight-st",
       "timestamp": "2026-06-20T23:06:00Z",
       "address": "KNIGHT ST",
@@ -60,6 +73,6 @@
       "pulsePointId": "2433146122"
     }
   ],
-  "lastIncident": "2026-06-20T23:06:00Z",
-  "count": 4
+  "lastIncident": "2026-07-26T00:12:00Z",
+  "count": 5
 }

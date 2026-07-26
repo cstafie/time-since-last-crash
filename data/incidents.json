@@ -1,5 +1,97 @@
 [
   {
+    "id": "2026-07-26T00:30:00Z_surrey/56th-ave",
+    "timestamp": "2026-07-26T00:30:00Z",
+    "scrapedAt": "2026-07-26T01:02:49Z",
+    "address": "56TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/56th-ave"
+    ],
+    "streetNames": [
+      "56th Ave"
+    ],
+    "pulsePointId": "2527252688"
+  },
+  {
+    "id": "2026-07-26T00:13:00Z_chilliwack/yale-rd_chilliwack/hocking-ave",
+    "timestamp": "2026-07-26T00:13:00Z",
+    "scrapedAt": "2026-07-26T01:02:49Z",
+    "address": "YALE RD & HOCKING AVE",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/yale-rd",
+      "chilliwack/hocking-ave"
+    ],
+    "streetNames": [
+      "Yale Rd",
+      "Hocking Ave"
+    ],
+    "pulsePointId": "2527241832"
+  },
+  {
+    "id": "2026-07-26T00:12:00Z_richmond/knight-st",
+    "timestamp": "2026-07-26T00:12:00Z",
+    "scrapedAt": "2026-07-26T01:02:49Z",
+    "address": "KNIGHT ST",
+    "city": "Richmond",
+    "streets": [
+      "richmond/knight-st"
+    ],
+    "streetNames": [
+      "Knight St"
+    ],
+    "pulsePointId": "2527240865"
+  },
+  {
+    "id": "2026-07-26T00:03:00Z_surrey/80th-ave_surrey/128th-st",
+    "timestamp": "2026-07-26T00:03:00Z",
+    "scrapedAt": "2026-07-26T01:02:49Z",
+    "address": "80TH AVE & 128TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/80th-ave",
+      "surrey/128th-st"
+    ],
+    "streetNames": [
+      "80th Ave",
+      "128th St"
+    ],
+    "pulsePointId": "2527236288"
+  },
+  {
+    "id": "2026-07-25T23:50:00Z_abbotsford/bell-rd_abbotsford/clayburn-rd",
+    "timestamp": "2026-07-25T23:50:00Z",
+    "scrapedAt": "2026-07-26T01:02:49Z",
+    "address": "BELL RD & CLAYBURN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/bell-rd",
+      "abbotsford/clayburn-rd"
+    ],
+    "streetNames": [
+      "Bell Rd",
+      "Clayburn Rd"
+    ],
+    "pulsePointId": "2527227381"
+  },
+  {
+    "id": "2026-07-25T23:43:00Z_abbotsford/munroe-ave_abbotsford/marshall-rd",
+    "timestamp": "2026-07-25T23:43:00Z",
+    "scrapedAt": "2026-07-26T01:02:49Z",
+    "address": "MUNROE AVE & MARSHALL RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/munroe-ave",
+      "abbotsford/marshall-rd"
+    ],
+    "streetNames": [
+      "Munroe Ave",
+      "Marshall Rd"
+    ],
+    "pulsePointId": "2527223259"
+  },
+  {
     "id": "2026-07-25T23:18:00Z_west-vancouver/16th-st_west-vancouver/marine-dr",
     "timestamp": "2026-07-25T23:18:00Z",
     "scrapedAt": "2026-07-25T23:25:08Z",

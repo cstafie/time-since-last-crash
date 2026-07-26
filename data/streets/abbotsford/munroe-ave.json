@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/munroe-ave",
+  "name": "Munroe Ave",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-07-25T23:43:00Z_abbotsford/munroe-ave_abbotsford/marshall-rd",
+      "timestamp": "2026-07-25T23:43:00Z",
+      "address": "MUNROE AVE & MARSHALL RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/munroe-ave",
+        "abbotsford/marshall-rd"
+      ],
+      "streetNames": [
+        "Munroe Ave",
+        "Marshall Rd"
+      ],
+      "pulsePointId": "2527223259"
+    }
+  ],
+  "lastIncident": "2026-07-25T23:43:00Z",
+  "count": 1
+}

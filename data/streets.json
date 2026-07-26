@@ -17,8 +17,8 @@
     "name": "Marshall Rd",
     "slug": "abbotsford/marshall-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-02T23:50:00Z",
-    "count": 13
+    "lastIncident": "2026-07-25T23:43:00Z",
+    "count": 14
   },
   "abbotsford/mccallum-rd": {
     "name": "Mccallum Rd",
@@ -535,8 +535,8 @@
     "name": "128th St",
     "slug": "surrey/128th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-09T01:58:00Z",
-    "count": 39
+    "lastIncident": "2026-07-26T00:03:00Z",
+    "count": 40
   },
   "surrey/130b-st": {
     "name": "130b St",
@@ -1620,8 +1620,8 @@
     "name": "80th Ave",
     "slug": "surrey/80th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-19T21:35:00Z",
-    "count": 33
+    "lastIncident": "2026-07-26T00:03:00Z",
+    "count": 34
   },
   "surrey/156th-st": {
     "name": "156th St",
@@ -1725,8 +1725,8 @@
     "name": "Knight St",
     "slug": "richmond/knight-st",
     "city": "Richmond",
-    "lastIncident": "2026-06-20T23:06:00Z",
-    "count": 4
+    "lastIncident": "2026-07-26T00:12:00Z",
+    "count": 5
   },
   "delta/alex-fraser-brdg": {
     "name": "Alex Fraser Brdg",
@@ -2390,8 +2390,8 @@
     "name": "56th Ave",
     "slug": "surrey/56th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-22T20:31:00Z",
-    "count": 28
+    "lastIncident": "2026-07-26T00:30:00Z",
+    "count": 29
   },
   "port-moody/grant-st": {
     "name": "Grant St",
@@ -2880,8 +2880,8 @@
     "name": "Yale Rd",
     "slug": "chilliwack/yale-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-07-21T04:11:00Z",
-    "count": 24
+    "lastIncident": "2026-07-26T00:13:00Z",
+    "count": 25
   },
   "vancouver/e-61st-ave": {
     "name": "E 61st Ave",
@@ -5036,8 +5036,8 @@
     "name": "Clayburn Rd",
     "slug": "abbotsford/clayburn-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-12T06:22:00Z",
-    "count": 4
+    "lastIncident": "2026-07-25T23:50:00Z",
+    "count": 5
   },
   "abbotsford/straiton-rd": {
     "name": "Straiton Rd",
@@ -12575,8 +12575,8 @@
     "name": "Bell Rd",
     "slug": "abbotsford/bell-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-06-19T03:37:00Z",
-    "count": 1
+    "lastIncident": "2026-07-25T23:50:00Z",
+    "count": 2
   },
   "abbotsford/fore-rd": {
     "name": "Fore Rd",
@@ -14746,6 +14746,20 @@
     "slug": "new-westminster/south-dyke-rd",
     "city": "New Westminster",
     "lastIncident": "2026-07-25T21:15:00Z",
+    "count": 1
+  },
+  "chilliwack/hocking-ave": {
+    "name": "Hocking Ave",
+    "slug": "chilliwack/hocking-ave",
+    "city": "Chilliwack",
+    "lastIncident": "2026-07-26T00:13:00Z",
+    "count": 1
+  },
+  "abbotsford/munroe-ave": {
+    "name": "Munroe Ave",
+    "slug": "abbotsford/munroe-ave",
+    "city": "Abbotsford",
+    "lastIncident": "2026-07-25T23:43:00Z",
     "count": 1
   }
 }

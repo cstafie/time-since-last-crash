@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-25T23:50:00Z_abbotsford/bell-rd_abbotsford/clayburn-rd",
+      "timestamp": "2026-07-25T23:50:00Z",
+      "address": "BELL RD & CLAYBURN RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/bell-rd",
+        "abbotsford/clayburn-rd"
+      ],
+      "streetNames": [
+        "Bell Rd",
+        "Clayburn Rd"
+      ],
+      "pulsePointId": "2527227381"
+    },
+    {
       "id": "2026-06-12T06:22:00Z_abbotsford/gladwin-rd_abbotsford/clayburn-rd",
       "timestamp": "2026-06-12T06:22:00Z",
       "address": "GLADWIN RD & CLAYBURN RD",
@@ -64,6 +79,6 @@
       "pulsePointId": "2446468661"
     }
   ],
-  "lastIncident": "2026-06-12T06:22:00Z",
-  "count": 4
+  "lastIncident": "2026-07-25T23:50:00Z",
+  "count": 5
 }
