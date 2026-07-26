@@ -1,0 +1,22 @@
+{
+  "slug": "burnaby/4000-imperial-st",
+  "name": "4000 Imperial St",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-07-26T16:59:00Z_burnaby/4000-imperial-st",
+      "timestamp": "2026-07-26T16:59:00Z",
+      "address": "4000 IMPERIAL ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/4000-imperial-st"
+      ],
+      "streetNames": [
+        "4000 Imperial St"
+      ],
+      "pulsePointId": "2527693952"
+    }
+  ],
+  "lastIncident": "2026-07-26T16:59:00Z",
+  "count": 1
+}

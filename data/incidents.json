@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-07-26T17:03:00Z_vancouver/w-33rd-ave_vancouver/puget-dr",
+    "timestamp": "2026-07-26T17:03:00Z",
+    "scrapedAt": "2026-07-26T17:50:32Z",
+    "address": "W 33RD AVE & PUGET DR",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-33rd-ave",
+      "vancouver/puget-dr"
+    ],
+    "streetNames": [
+      "W 33rd Ave",
+      "Puget Dr"
+    ],
+    "pulsePointId": "2527695897"
+  },
+  {
+    "id": "2026-07-26T16:59:00Z_burnaby/4000-imperial-st",
+    "timestamp": "2026-07-26T16:59:00Z",
+    "scrapedAt": "2026-07-26T17:50:32Z",
+    "address": "4000 IMPERIAL ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/4000-imperial-st"
+    ],
+    "streetNames": [
+      "4000 Imperial St"
+    ],
+    "pulsePointId": "2527693952"
+  },
+  {
     "id": "2026-07-26T16:13:00Z_new-westminster/7th-st_new-westminster/6th-ave",
     "timestamp": "2026-07-26T16:13:00Z",
     "scrapedAt": "2026-07-26T16:42:22Z",
