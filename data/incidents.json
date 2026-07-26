@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-07-26T10:26:00Z_burnaby/canada-way_burnaby/kensington-ave",
+    "timestamp": "2026-07-26T10:26:00Z",
+    "scrapedAt": "2026-07-26T11:11:07Z",
+    "address": "CANADA WAY & KENSINGTON AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/canada-way",
+      "burnaby/kensington-ave"
+    ],
+    "streetNames": [
+      "Canada Way",
+      "Kensington Ave"
+    ],
+    "pulsePointId": "2527543920"
+  },
+  {
+    "id": "2026-07-26T09:48:00Z_port-coquitlam/mary-hill-bps_port-coquitlam/shaughnessy-st",
+    "timestamp": "2026-07-26T09:48:00Z",
+    "scrapedAt": "2026-07-26T11:11:07Z",
+    "address": "MARY HILL BPS & SHAUGHNESSY ST",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/mary-hill-bps",
+      "port-coquitlam/shaughnessy-st"
+    ],
+    "streetNames": [
+      "Mary Hill Bps",
+      "Shaughnessy St"
+    ],
+    "pulsePointId": "2527533364"
+  },
+  {
     "id": "2026-07-26T08:02:00Z_burnaby/hall-ave",
     "timestamp": "2026-07-26T08:02:00Z",
     "scrapedAt": "2026-07-26T09:31:39Z",

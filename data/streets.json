@@ -423,8 +423,8 @@
     "name": "Mary Hill Bps",
     "slug": "port-coquitlam/mary-hill-bps",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-07-22T20:00:00Z",
-    "count": 16
+    "lastIncident": "2026-07-26T09:48:00Z",
+    "count": 17
   },
   "richmond/8111-ackroyd-rd": {
     "name": "8111 Ackroyd Rd",
@@ -1130,8 +1130,8 @@
     "name": "Canada Way",
     "slug": "burnaby/canada-way",
     "city": "Burnaby",
-    "lastIncident": "2026-07-17T14:32:00Z",
-    "count": 30
+    "lastIncident": "2026-07-26T10:26:00Z",
+    "count": 31
   },
   "burnaby/norland-ave": {
     "name": "Norland Ave",
@@ -1340,8 +1340,8 @@
     "name": "Kensington Ave",
     "slug": "burnaby/kensington-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-07-23T18:54:00Z",
-    "count": 7
+    "lastIncident": "2026-07-26T10:26:00Z",
+    "count": 8
   },
   "maple-ridge/222nd-st": {
     "name": "222nd St",
@@ -5323,8 +5323,8 @@
     "name": "Shaughnessy St",
     "slug": "port-coquitlam/shaughnessy-st",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-07-12T00:48:00Z",
-    "count": 8
+    "lastIncident": "2026-07-26T09:48:00Z",
+    "count": 9
   },
   "vancouver/e-59th-ave": {
     "name": "E 59th Ave",

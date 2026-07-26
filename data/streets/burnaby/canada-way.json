@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-26T10:26:00Z_burnaby/canada-way_burnaby/kensington-ave",
+      "timestamp": "2026-07-26T10:26:00Z",
+      "address": "CANADA WAY & KENSINGTON AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/canada-way",
+        "burnaby/kensington-ave"
+      ],
+      "streetNames": [
+        "Canada Way",
+        "Kensington Ave"
+      ],
+      "pulsePointId": "2527543920"
+    },
+    {
       "id": "2026-07-17T14:32:00Z_burnaby/canada-way_burnaby/hazelmere-st",
       "timestamp": "2026-07-17T14:32:00Z",
       "address": "CANADA WAY & HAZELMERE ST",
@@ -445,6 +460,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-17T14:32:00Z",
-  "count": 30
+  "lastIncident": "2026-07-26T10:26:00Z",
+  "count": 31
 }
