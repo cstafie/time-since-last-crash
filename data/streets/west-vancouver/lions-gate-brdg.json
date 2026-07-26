@@ -4,6 +4,32 @@
   "city": "West Vancouver",
   "incidents": [
     {
+      "id": "2026-07-26T14:03:00Z_west-vancouver/lions-gate-brdg",
+      "timestamp": "2026-07-26T14:03:00Z",
+      "address": "LIONS GATE BRDG",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/lions-gate-brdg"
+      ],
+      "streetNames": [
+        "Lions Gate Brdg"
+      ],
+      "pulsePointId": "2527612376"
+    },
+    {
+      "id": "2026-07-26T13:58:00Z_west-vancouver/lions-gate-brdg",
+      "timestamp": "2026-07-26T13:58:00Z",
+      "address": "LIONS GATE BRDG",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/lions-gate-brdg"
+      ],
+      "streetNames": [
+        "Lions Gate Brdg"
+      ],
+      "pulsePointId": "2527610209"
+    },
+    {
       "id": "2026-07-21T02:53:00Z_west-vancouver/lions-gate-brdg",
       "timestamp": "2026-07-21T02:53:00Z",
       "address": "LIONS GATE BRDG",
@@ -43,6 +69,6 @@
       "pulsePointId": "2466006703"
     }
   ],
-  "lastIncident": "2026-07-21T02:53:00Z",
-  "count": 3
+  "lastIncident": "2026-07-26T14:03:00Z",
+  "count": 5
 }

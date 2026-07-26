@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-07-26T14:03:00Z_west-vancouver/lions-gate-brdg",
+    "timestamp": "2026-07-26T14:03:00Z",
+    "scrapedAt": "2026-07-26T14:20:45Z",
+    "address": "LIONS GATE BRDG",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/lions-gate-brdg"
+    ],
+    "streetNames": [
+      "Lions Gate Brdg"
+    ],
+    "pulsePointId": "2527612376"
+  },
+  {
+    "id": "2026-07-26T14:00:00Z_west-vancouver/marine-drive-onrp",
+    "timestamp": "2026-07-26T14:00:00Z",
+    "scrapedAt": "2026-07-26T14:20:45Z",
+    "address": "MARINE DRIVE ONRP",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/marine-drive-onrp"
+    ],
+    "streetNames": [
+      "Marine Drive Onrp"
+    ],
+    "pulsePointId": "2527610072"
+  },
+  {
+    "id": "2026-07-26T13:58:00Z_west-vancouver/lions-gate-brdg",
+    "timestamp": "2026-07-26T13:58:00Z",
+    "scrapedAt": "2026-07-26T14:20:45Z",
+    "address": "LIONS GATE BRDG",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/lions-gate-brdg"
+    ],
+    "streetNames": [
+      "Lions Gate Brdg"
+    ],
+    "pulsePointId": "2527610209"
+  },
+  {
     "id": "2026-07-26T12:05:00Z_vancouver/quebec-st_vancouver/e-2nd-ave",
     "timestamp": "2026-07-26T12:05:00Z",
     "scrapedAt": "2026-07-26T12:34:17Z",
