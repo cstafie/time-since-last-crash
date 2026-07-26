@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-07-26T04:52:00Z_chilliwack/industrial-way_chilliwack/lickman-rd",
+    "timestamp": "2026-07-26T04:52:00Z",
+    "scrapedAt": "2026-07-26T07:28:50Z",
+    "address": "INDUSTRIAL WAY & LICKMAN RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/industrial-way",
+      "chilliwack/lickman-rd"
+    ],
+    "streetNames": [
+      "Industrial Way",
+      "Lickman Rd"
+    ],
+    "pulsePointId": "2527415762"
+  },
+  {
     "id": "2026-07-26T04:17:00Z_west-vancouver/marine-dr_west-vancouver/gleneagles-dr",
     "timestamp": "2026-07-26T04:17:00Z",
     "scrapedAt": "2026-07-26T04:48:45Z",
