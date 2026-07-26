@@ -4,6 +4,19 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-26T20:18:00Z_vancouver/cambie-street-brdg",
+      "timestamp": "2026-07-26T20:18:00Z",
+      "address": "CAMBIE STREET BRDG",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/cambie-street-brdg"
+      ],
+      "streetNames": [
+        "Cambie Street Brdg"
+      ],
+      "pulsePointId": "2527814618"
+    },
+    {
       "id": "2026-06-16T16:08:00Z_vancouver/cambie-street-brdg",
       "timestamp": "2026-06-16T16:08:00Z",
       "address": "CAMBIE STREET BRDG",
@@ -43,6 +56,6 @@
       "pulsePointId": "2438464234"
     }
   ],
-  "lastIncident": "2026-06-16T16:08:00Z",
-  "count": 3
+  "lastIncident": "2026-07-26T20:18:00Z",
+  "count": 4
 }

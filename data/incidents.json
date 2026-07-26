@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-07-26T21:05:00Z_delta/alex-fraser-brdg",
+    "timestamp": "2026-07-26T21:05:00Z",
+    "scrapedAt": "2026-07-26T21:15:21Z",
+    "address": "ALEX FRASER BRDG",
+    "city": "Delta",
+    "streets": [
+      "delta/alex-fraser-brdg"
+    ],
+    "streetNames": [
+      "Alex Fraser Brdg"
+    ],
+    "pulsePointId": "2527841403"
+  },
+  {
+    "id": "2026-07-26T20:27:00Z_west-vancouver/gleneagles-dr_west-vancouver/marine-dr",
+    "timestamp": "2026-07-26T20:27:00Z",
+    "scrapedAt": "2026-07-26T21:15:21Z",
+    "address": "GLENEAGLES DR & MARINE DR",
+    "city": "West Vancouver",
+    "streets": [
+      "west-vancouver/gleneagles-dr",
+      "west-vancouver/marine-dr"
+    ],
+    "streetNames": [
+      "Gleneagles Dr",
+      "Marine Dr"
+    ],
+    "pulsePointId": "2527819311"
+  },
+  {
+    "id": "2026-07-26T20:18:00Z_vancouver/cambie-street-brdg",
+    "timestamp": "2026-07-26T20:18:00Z",
+    "scrapedAt": "2026-07-26T21:15:21Z",
+    "address": "CAMBIE STREET BRDG",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/cambie-street-brdg"
+    ],
+    "streetNames": [
+      "Cambie Street Brdg"
+    ],
+    "pulsePointId": "2527814618"
+  },
+  {
     "id": "2026-07-26T19:46:00Z_surrey/120th-st",
     "timestamp": "2026-07-26T19:46:00Z",
     "scrapedAt": "2026-07-26T20:02:02Z",

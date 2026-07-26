@@ -4,6 +4,21 @@
   "city": "West Vancouver",
   "incidents": [
     {
+      "id": "2026-07-26T20:27:00Z_west-vancouver/gleneagles-dr_west-vancouver/marine-dr",
+      "timestamp": "2026-07-26T20:27:00Z",
+      "address": "GLENEAGLES DR & MARINE DR",
+      "city": "West Vancouver",
+      "streets": [
+        "west-vancouver/gleneagles-dr",
+        "west-vancouver/marine-dr"
+      ],
+      "streetNames": [
+        "Gleneagles Dr",
+        "Marine Dr"
+      ],
+      "pulsePointId": "2527819311"
+    },
+    {
       "id": "2026-07-26T04:17:00Z_west-vancouver/marine-dr_west-vancouver/gleneagles-dr",
       "timestamp": "2026-07-26T04:17:00Z",
       "address": "MARINE DR & GLENEAGLES DR",
@@ -133,6 +148,6 @@
       "pulsePointId": "2462161326"
     }
   ],
-  "lastIncident": "2026-07-26T04:17:00Z",
-  "count": 9
+  "lastIncident": "2026-07-26T20:27:00Z",
+  "count": 10
 }
