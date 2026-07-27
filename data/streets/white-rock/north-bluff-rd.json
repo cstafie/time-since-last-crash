@@ -4,6 +4,21 @@
   "city": "White Rock",
   "incidents": [
     {
+      "id": "2026-07-27T11:07:00Z_white-rock/144th-st_white-rock/north-bluff-rd",
+      "timestamp": "2026-07-27T11:07:00Z",
+      "address": "144TH ST & NORTH BLUFF RD",
+      "city": "White Rock",
+      "streets": [
+        "white-rock/144th-st",
+        "white-rock/north-bluff-rd"
+      ],
+      "streetNames": [
+        "144th St",
+        "North Bluff Rd"
+      ],
+      "pulsePointId": "2528218713"
+    },
+    {
       "id": "2026-07-14T21:10:00Z_white-rock/north-bluff-rd_white-rock/george-st",
       "timestamp": "2026-07-14T21:10:00Z",
       "address": "NORTH BLUFF RD & GEORGE ST",
@@ -60,6 +75,6 @@
       "pulsePointId": "2447912053"
     }
   ],
-  "lastIncident": "2026-07-14T21:10:00Z",
-  "count": 4
+  "lastIncident": "2026-07-27T11:07:00Z",
+  "count": 5
 }

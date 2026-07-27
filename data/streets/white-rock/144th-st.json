@@ -1,0 +1,24 @@
+{
+  "slug": "white-rock/144th-st",
+  "name": "144th St",
+  "city": "White Rock",
+  "incidents": [
+    {
+      "id": "2026-07-27T11:07:00Z_white-rock/144th-st_white-rock/north-bluff-rd",
+      "timestamp": "2026-07-27T11:07:00Z",
+      "address": "144TH ST & NORTH BLUFF RD",
+      "city": "White Rock",
+      "streets": [
+        "white-rock/144th-st",
+        "white-rock/north-bluff-rd"
+      ],
+      "streetNames": [
+        "144th St",
+        "North Bluff Rd"
+      ],
+      "pulsePointId": "2528218713"
+    }
+  ],
+  "lastIncident": "2026-07-27T11:07:00Z",
+  "count": 1
+}
