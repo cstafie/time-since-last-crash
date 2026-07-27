@@ -4,6 +4,19 @@
   "city": "Pitt Meadows",
   "incidents": [
     {
+      "id": "2026-07-27T19:56:00Z_pitt-meadows/airport-way",
+      "timestamp": "2026-07-27T19:56:00Z",
+      "address": "AIRPORT WAY",
+      "city": "Pitt Meadows",
+      "streets": [
+        "pitt-meadows/airport-way"
+      ],
+      "streetNames": [
+        "Airport Way"
+      ],
+      "pulsePointId": "2528513769"
+    },
+    {
       "id": "2026-03-30T18:15:00Z_pitt-meadows/airport-way",
       "timestamp": "2026-03-30T18:15:00Z",
       "address": "AIRPORT WAY",
@@ -30,6 +43,6 @@
       "pulsePointId": "2437157644"
     }
   ],
-  "lastIncident": "2026-03-30T18:15:00Z",
-  "count": 2
+  "lastIncident": "2026-07-27T19:56:00Z",
+  "count": 3
 }

@@ -2985,8 +2985,8 @@
     "name": "Airport Way",
     "slug": "pitt-meadows/airport-way",
     "city": "Pitt Meadows",
-    "lastIncident": "2026-03-30T18:15:00Z",
-    "count": 2
+    "lastIncident": "2026-07-27T19:56:00Z",
+    "count": 3
   },
   "coquitlam/colony-farm-rd": {
     "name": "Colony Farm Rd",
@@ -3538,8 +3538,8 @@
     "name": "W 3rd St",
     "slug": "north-vancouver/w-3rd-st",
     "city": "North Vancouver",
-    "lastIncident": "2026-07-17T16:59:00Z",
-    "count": 4
+    "lastIncident": "2026-07-27T18:26:00Z",
+    "count": 5
   },
   "delta/hwy-10-ofrp": {
     "name": "Hwy 10 Ofrp",
@@ -7514,8 +7514,8 @@
     "name": "62nd Ave",
     "slug": "langley/62nd-ave",
     "city": "Langley",
-    "lastIncident": "2026-06-22T02:31:00Z",
-    "count": 3
+    "lastIncident": "2026-07-27T20:46:00Z",
+    "count": 4
   },
   "abbotsford/vye-rd": {
     "name": "Vye Rd",
@@ -9187,8 +9187,8 @@
     "name": "Fell Ave",
     "slug": "north-vancouver/fell-ave",
     "city": "North Vancouver",
-    "lastIncident": "2026-06-26T23:49:00Z",
-    "count": 2
+    "lastIncident": "2026-07-27T18:26:00Z",
+    "count": 3
   },
   "mission/hurd-st": {
     "name": "Hurd St",
@@ -14858,6 +14858,13 @@
     "slug": "burnaby/alpha-ave",
     "city": "Burnaby",
     "lastIncident": "2026-07-27T14:02:00Z",
+    "count": 1
+  },
+  "pitt-meadows/17998-lougheed-hwy": {
+    "name": "17998 Lougheed Hwy",
+    "slug": "pitt-meadows/17998-lougheed-hwy",
+    "city": "Pitt Meadows",
+    "lastIncident": "2026-07-27T19:31:00Z",
     "count": 1
   }
 }

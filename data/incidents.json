@@ -1,5 +1,63 @@
 [
   {
+    "id": "2026-07-27T20:46:00Z_langley/62nd-ave",
+    "timestamp": "2026-07-27T20:46:00Z",
+    "scrapedAt": "2026-07-27T21:10:32Z",
+    "address": "62ND AVE",
+    "city": "Langley",
+    "streets": [
+      "langley/62nd-ave"
+    ],
+    "streetNames": [
+      "62nd Ave"
+    ],
+    "pulsePointId": "2528549670"
+  },
+  {
+    "id": "2026-07-27T19:56:00Z_pitt-meadows/airport-way",
+    "timestamp": "2026-07-27T19:56:00Z",
+    "scrapedAt": "2026-07-27T21:10:32Z",
+    "address": "AIRPORT WAY",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/airport-way"
+    ],
+    "streetNames": [
+      "Airport Way"
+    ],
+    "pulsePointId": "2528513769"
+  },
+  {
+    "id": "2026-07-27T19:31:00Z_pitt-meadows/17998-lougheed-hwy",
+    "timestamp": "2026-07-27T19:31:00Z",
+    "scrapedAt": "2026-07-27T21:10:32Z",
+    "address": "17998 LOUGHEED HWY",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/17998-lougheed-hwy"
+    ],
+    "streetNames": [
+      "17998 Lougheed Hwy"
+    ],
+    "pulsePointId": "2528495116"
+  },
+  {
+    "id": "2026-07-27T18:26:00Z_north-vancouver/fell-ave_north-vancouver/w-3rd-st",
+    "timestamp": "2026-07-27T18:26:00Z",
+    "scrapedAt": "2026-07-27T21:10:32Z",
+    "address": "FELL AVE & W 3RD ST",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/fell-ave",
+      "north-vancouver/w-3rd-st"
+    ],
+    "streetNames": [
+      "Fell Ave",
+      "W 3rd St"
+    ],
+    "pulsePointId": "2528446217"
+  },
+  {
     "id": "2026-07-27T18:07:00Z_vancouver/oak-st_vancouver/w-64th-ave",
     "timestamp": "2026-07-27T18:07:00Z",
     "scrapedAt": "2026-07-27T18:16:48Z",

@@ -1,0 +1,22 @@
+{
+  "slug": "pitt-meadows/17998-lougheed-hwy",
+  "name": "17998 Lougheed Hwy",
+  "city": "Pitt Meadows",
+  "incidents": [
+    {
+      "id": "2026-07-27T19:31:00Z_pitt-meadows/17998-lougheed-hwy",
+      "timestamp": "2026-07-27T19:31:00Z",
+      "address": "17998 LOUGHEED HWY",
+      "city": "Pitt Meadows",
+      "streets": [
+        "pitt-meadows/17998-lougheed-hwy"
+      ],
+      "streetNames": [
+        "17998 Lougheed Hwy"
+      ],
+      "pulsePointId": "2528495116"
+    }
+  ],
+  "lastIncident": "2026-07-27T19:31:00Z",
+  "count": 1
+}
