@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-07-27T18:07:00Z_vancouver/oak-st_vancouver/w-64th-ave",
+    "timestamp": "2026-07-27T18:07:00Z",
+    "scrapedAt": "2026-07-27T18:16:48Z",
+    "address": "OAK ST & W 64TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/oak-st",
+      "vancouver/w-64th-ave"
+    ],
+    "streetNames": [
+      "Oak St",
+      "W 64th Ave"
+    ],
+    "pulsePointId": "2528431894"
+  },
+  {
+    "id": "2026-07-27T17:27:00Z_surrey/148th-st_surrey/fraser-hwy",
+    "timestamp": "2026-07-27T17:27:00Z",
+    "scrapedAt": "2026-07-27T18:16:48Z",
+    "address": "148TH ST & FRASER HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/148th-st",
+      "surrey/fraser-hwy"
+    ],
+    "streetNames": [
+      "148th St",
+      "Fraser Hwy"
+    ],
+    "pulsePointId": "2528403452"
+  },
+  {
     "id": "2026-07-27T16:31:00Z_vancouver/commercial-dr_vancouver/e-18th-ave",
     "timestamp": "2026-07-27T16:31:00Z",
     "scrapedAt": "2026-07-27T16:36:15Z",

@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-27T17:27:00Z_surrey/148th-st_surrey/fraser-hwy",
+      "timestamp": "2026-07-27T17:27:00Z",
+      "address": "148TH ST & FRASER HWY",
+      "city": "Surrey",
+      "streets": [
+        "surrey/148th-st",
+        "surrey/fraser-hwy"
+      ],
+      "streetNames": [
+        "148th St",
+        "Fraser Hwy"
+      ],
+      "pulsePointId": "2528403452"
+    },
+    {
       "id": "2026-07-25T08:10:00Z_surrey/king-george-blvd_surrey/fraser-hwy",
       "timestamp": "2026-07-25T08:10:00Z",
       "address": "KING GEORGE BLVD & FRASER HWY",
@@ -370,6 +385,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-25T08:10:00Z",
-  "count": 25
+  "lastIncident": "2026-07-27T17:27:00Z",
+  "count": 26
 }
