@@ -1,5 +1,19 @@
 [
   {
+    "id": "2026-07-27T23:19:00Z_coquitlam/lougheed-hwy",
+    "timestamp": "2026-07-27T23:19:00Z",
+    "scrapedAt": "2026-07-27T23:50:53Z",
+    "address": "LOUGHEED HWY",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2528659246"
+  },
+  {
     "id": "2026-07-27T21:54:00Z_burnaby/booth-ave_burnaby/grange-st",
     "timestamp": "2026-07-27T21:54:00Z",
     "scrapedAt": "2026-07-27T22:31:15Z",
