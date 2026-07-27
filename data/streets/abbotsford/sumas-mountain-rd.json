@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-27T06:38:00Z_abbotsford/keeping-rd_abbotsford/sumas-mountain-rd",
+      "timestamp": "2026-07-27T06:38:00Z",
+      "address": "KEEPING RD & SUMAS MOUNTAIN RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/keeping-rd",
+        "abbotsford/sumas-mountain-rd"
+      ],
+      "streetNames": [
+        "Keeping Rd",
+        "Sumas Mountain Rd"
+      ],
+      "pulsePointId": "2528145938"
+    },
+    {
       "id": "2026-06-26T19:37:00Z_abbotsford/mckee-rd_abbotsford/sumas-mountain-rd",
       "timestamp": "2026-06-26T19:37:00Z",
       "address": "MCKEE RD & SUMAS MOUNTAIN RD",
@@ -79,6 +94,6 @@
       "pulsePointId": "2434891884"
     }
   ],
-  "lastIncident": "2026-06-26T19:37:00Z",
-  "count": 5
+  "lastIncident": "2026-07-27T06:38:00Z",
+  "count": 6
 }

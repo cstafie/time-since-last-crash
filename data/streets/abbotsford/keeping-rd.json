@@ -1,0 +1,24 @@
+{
+  "slug": "abbotsford/keeping-rd",
+  "name": "Keeping Rd",
+  "city": "Abbotsford",
+  "incidents": [
+    {
+      "id": "2026-07-27T06:38:00Z_abbotsford/keeping-rd_abbotsford/sumas-mountain-rd",
+      "timestamp": "2026-07-27T06:38:00Z",
+      "address": "KEEPING RD & SUMAS MOUNTAIN RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/keeping-rd",
+        "abbotsford/sumas-mountain-rd"
+      ],
+      "streetNames": [
+        "Keeping Rd",
+        "Sumas Mountain Rd"
+      ],
+      "pulsePointId": "2528145938"
+    }
+  ],
+  "lastIncident": "2026-07-27T06:38:00Z",
+  "count": 1
+}

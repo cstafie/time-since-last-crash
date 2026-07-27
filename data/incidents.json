@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026-07-27T06:38:00Z_abbotsford/keeping-rd_abbotsford/sumas-mountain-rd",
+    "timestamp": "2026-07-27T06:38:00Z",
+    "scrapedAt": "2026-07-27T08:26:27Z",
+    "address": "KEEPING RD & SUMAS MOUNTAIN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/keeping-rd",
+      "abbotsford/sumas-mountain-rd"
+    ],
+    "streetNames": [
+      "Keeping Rd",
+      "Sumas Mountain Rd"
+    ],
+    "pulsePointId": "2528145938"
+  },
+  {
+    "id": "2026-07-27T06:14:00Z_delta/alex-fraser-brdg",
+    "timestamp": "2026-07-27T06:14:00Z",
+    "scrapedAt": "2026-07-27T08:26:27Z",
+    "address": "ALEX FRASER BRDG",
+    "city": "Delta",
+    "streets": [
+      "delta/alex-fraser-brdg"
+    ],
+    "streetNames": [
+      "Alex Fraser Brdg"
+    ],
+    "pulsePointId": "2528139481"
+  },
+  {
+    "id": "2026-07-27T05:27:00Z_vancouver/e-1st-ave_vancouver/boundary-rd",
+    "timestamp": "2026-07-27T05:27:00Z",
+    "scrapedAt": "2026-07-27T08:26:27Z",
+    "address": "E 1ST AVE & BOUNDARY RD",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/e-1st-ave",
+      "vancouver/boundary-rd"
+    ],
+    "streetNames": [
+      "E 1st Ave",
+      "Boundary Rd"
+    ],
+    "pulsePointId": "2528119705"
+  },
+  {
     "id": "2026-07-27T04:19:00Z_abbotsford/king-rd_abbotsford/clearbrook-rd",
     "timestamp": "2026-07-27T04:19:00Z",
     "scrapedAt": "2026-07-27T04:58:43Z",
