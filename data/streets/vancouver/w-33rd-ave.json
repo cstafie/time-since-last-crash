@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-27T02:26:00Z_vancouver/oak-st_vancouver/w-33rd-ave",
+      "timestamp": "2026-07-27T02:26:00Z",
+      "address": "OAK ST & W 33RD AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/oak-st",
+        "vancouver/w-33rd-ave"
+      ],
+      "streetNames": [
+        "Oak St",
+        "W 33rd Ave"
+      ],
+      "pulsePointId": "2528031493"
+    },
+    {
       "id": "2026-07-26T17:03:00Z_vancouver/w-33rd-ave_vancouver/puget-dr",
       "timestamp": "2026-07-26T17:03:00Z",
       "address": "W 33RD AVE & PUGET DR",
@@ -223,6 +238,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-26T17:03:00Z",
-  "count": 15
+  "lastIncident": "2026-07-27T02:26:00Z",
+  "count": 16
 }

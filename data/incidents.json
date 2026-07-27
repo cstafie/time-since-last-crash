@@ -1,5 +1,217 @@
 [
   {
+    "id": "2026-07-27T04:19:00Z_abbotsford/king-rd_abbotsford/clearbrook-rd",
+    "timestamp": "2026-07-27T04:19:00Z",
+    "scrapedAt": "2026-07-27T04:58:43Z",
+    "address": "KING RD & CLEARBROOK RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/king-rd",
+      "abbotsford/clearbrook-rd"
+    ],
+    "streetNames": [
+      "King Rd",
+      "Clearbrook Rd"
+    ],
+    "pulsePointId": "2528088772"
+  },
+  {
+    "id": "2026-07-27T04:04:00Z_coquitlam/foster-ave",
+    "timestamp": "2026-07-27T04:04:00Z",
+    "scrapedAt": "2026-07-27T04:58:43Z",
+    "address": "FOSTER AVE",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/foster-ave"
+    ],
+    "streetNames": [
+      "Foster Ave"
+    ],
+    "pulsePointId": "2528081502"
+  },
+  {
+    "id": "2026-07-27T03:55:00Z_chilliwack/ashwell-rd",
+    "timestamp": "2026-07-27T03:55:00Z",
+    "scrapedAt": "2026-07-27T04:58:43Z",
+    "address": "ASHWELL RD",
+    "city": "Chilliwack",
+    "streets": [
+      "chilliwack/ashwell-rd"
+    ],
+    "streetNames": [
+      "Ashwell Rd"
+    ],
+    "pulsePointId": "2528076934"
+  },
+  {
+    "id": "2026-07-27T03:34:00Z_surrey/8th-ave_surrey/176th-st",
+    "timestamp": "2026-07-27T03:34:00Z",
+    "scrapedAt": "2026-07-27T04:58:43Z",
+    "address": "8TH AVE & 176TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/8th-ave",
+      "surrey/176th-st"
+    ],
+    "streetNames": [
+      "8th Ave",
+      "176th St"
+    ],
+    "pulsePointId": "2528066025"
+  },
+  {
+    "id": "2026-07-27T03:24:00Z_port-coquitlam/shaughnessy-st_port-coquitlam/mary-hill-bps",
+    "timestamp": "2026-07-27T03:24:00Z",
+    "scrapedAt": "2026-07-27T04:58:43Z",
+    "address": "SHAUGHNESSY ST & MARY HILL BPS",
+    "city": "Port Coquitlam",
+    "streets": [
+      "port-coquitlam/shaughnessy-st",
+      "port-coquitlam/mary-hill-bps"
+    ],
+    "streetNames": [
+      "Shaughnessy St",
+      "Mary Hill Bps"
+    ],
+    "pulsePointId": "2528062279"
+  },
+  {
+    "id": "2026-07-27T02:34:00Z_pitt-meadows/lougheed-hwy",
+    "timestamp": "2026-07-27T02:34:00Z",
+    "scrapedAt": "2026-07-27T04:58:43Z",
+    "address": "LOUGHEED HWY",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/lougheed-hwy"
+    ],
+    "streetNames": [
+      "Lougheed Hwy"
+    ],
+    "pulsePointId": "2528035811"
+  },
+  {
+    "id": "2026-07-27T02:31:00Z_langley/232nd-st_langley/hwy-10",
+    "timestamp": "2026-07-27T02:31:00Z",
+    "scrapedAt": "2026-07-27T04:58:43Z",
+    "address": "232ND ST & HWY 10",
+    "city": "Langley",
+    "streets": [
+      "langley/232nd-st",
+      "langley/hwy-10"
+    ],
+    "streetNames": [
+      "232nd St",
+      "Hwy 10"
+    ],
+    "pulsePointId": "2528033639"
+  },
+  {
+    "id": "2026-07-27T02:26:00Z_vancouver/oak-st_vancouver/w-33rd-ave",
+    "timestamp": "2026-07-27T02:26:00Z",
+    "scrapedAt": "2026-07-27T04:58:43Z",
+    "address": "OAK ST & W 33RD AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/oak-st",
+      "vancouver/w-33rd-ave"
+    ],
+    "streetNames": [
+      "Oak St",
+      "W 33rd Ave"
+    ],
+    "pulsePointId": "2528031493"
+  },
+  {
+    "id": "2026-07-27T02:05:00Z_abbotsford/trans-canada-hwy",
+    "timestamp": "2026-07-27T02:05:00Z",
+    "scrapedAt": "2026-07-27T04:58:43Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2528020249"
+  },
+  {
+    "id": "2026-07-27T01:37:00Z_surrey/135th-st",
+    "timestamp": "2026-07-27T01:37:00Z",
+    "scrapedAt": "2026-07-27T04:58:43Z",
+    "address": "135TH ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/135th-st"
+    ],
+    "streetNames": [
+      "135th St"
+    ],
+    "pulsePointId": "2528005665"
+  },
+  {
+    "id": "2026-07-27T01:37:00Z_surrey/7423-king-george-blvd",
+    "timestamp": "2026-07-27T01:37:00Z",
+    "scrapedAt": "2026-07-27T04:58:43Z",
+    "address": "7423 KING GEORGE BLVD",
+    "city": "Surrey",
+    "streets": [
+      "surrey/7423-king-george-blvd"
+    ],
+    "streetNames": [
+      "7423 King George Blvd"
+    ],
+    "pulsePointId": "2528005161"
+  },
+  {
+    "id": "2026-07-27T01:35:00Z_new-westminster/brunette-ave_new-westminster/braid-st",
+    "timestamp": "2026-07-27T01:35:00Z",
+    "scrapedAt": "2026-07-27T04:58:43Z",
+    "address": "BRUNETTE AVE & BRAID ST",
+    "city": "New Westminster",
+    "streets": [
+      "new-westminster/brunette-ave",
+      "new-westminster/braid-st"
+    ],
+    "streetNames": [
+      "Brunette Ave",
+      "Braid St"
+    ],
+    "pulsePointId": "2528006394"
+  },
+  {
+    "id": "2026-07-27T01:14:00Z_north-vancouver/w-21st-st_north-vancouver/edgemont-blvd",
+    "timestamp": "2026-07-27T01:14:00Z",
+    "scrapedAt": "2026-07-27T04:58:43Z",
+    "address": "W 21ST ST & EDGEMONT BLVD",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/w-21st-st",
+      "north-vancouver/edgemont-blvd"
+    ],
+    "streetNames": [
+      "W 21st St",
+      "Edgemont Blvd"
+    ],
+    "pulsePointId": "2527990336"
+  },
+  {
+    "id": "2026-07-27T01:13:00Z_burnaby/4th-st_burnaby/16th-ave",
+    "timestamp": "2026-07-27T01:13:00Z",
+    "scrapedAt": "2026-07-27T04:58:43Z",
+    "address": "4TH ST & 16TH AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/4th-st",
+      "burnaby/16th-ave"
+    ],
+    "streetNames": [
+      "4th St",
+      "16th Ave"
+    ],
+    "pulsePointId": "2527990516"
+  },
+  {
     "id": "2026-07-27T00:41:00Z_vancouver/2963-kingsway",
     "timestamp": "2026-07-27T00:41:00Z",
     "scrapedAt": "2026-07-27T01:04:07Z",

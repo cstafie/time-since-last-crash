@@ -157,8 +157,8 @@
     "name": "Foster Ave",
     "slug": "coquitlam/foster-ave",
     "city": "Coquitlam",
-    "lastIncident": "2026-06-13T02:24:00Z",
-    "count": 5
+    "lastIncident": "2026-07-27T04:04:00Z",
+    "count": 6
   },
   "coquitlam/united-blvd": {
     "name": "United Blvd",
@@ -423,8 +423,8 @@
     "name": "Mary Hill Bps",
     "slug": "port-coquitlam/mary-hill-bps",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-07-26T09:48:00Z",
-    "count": 17
+    "lastIncident": "2026-07-27T03:24:00Z",
+    "count": 18
   },
   "richmond/8111-ackroyd-rd": {
     "name": "8111 Ackroyd Rd",
@@ -766,8 +766,8 @@
     "name": "Oak St",
     "slug": "vancouver/oak-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-26T21:19:00Z",
-    "count": 54
+    "lastIncident": "2026-07-27T02:26:00Z",
+    "count": 55
   },
   "vancouver/w-12th-ave": {
     "name": "W 12th Ave",
@@ -780,8 +780,8 @@
     "name": "W 33rd Ave",
     "slug": "vancouver/w-33rd-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-26T17:03:00Z",
-    "count": 15
+    "lastIncident": "2026-07-27T02:26:00Z",
+    "count": 16
   },
   "vancouver/w-49th-ave": {
     "name": "W 49th Ave",
@@ -829,8 +829,8 @@
     "name": "Lougheed Hwy",
     "slug": "pitt-meadows/lougheed-hwy",
     "city": "Pitt Meadows",
-    "lastIncident": "2026-06-24T13:38:00Z",
-    "count": 10
+    "lastIncident": "2026-07-27T02:34:00Z",
+    "count": 11
   },
   "langley/240th-st": {
     "name": "240th St",
@@ -885,8 +885,8 @@
     "name": "176th St",
     "slug": "surrey/176th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-23T04:03:00Z",
-    "count": 53
+    "lastIncident": "2026-07-27T03:34:00Z",
+    "count": 54
   },
   "surrey/100th-ave": {
     "name": "100th Ave",
@@ -1781,8 +1781,8 @@
     "name": "King Rd",
     "slug": "abbotsford/king-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-10T03:38:00Z",
-    "count": 7
+    "lastIncident": "2026-07-27T04:19:00Z",
+    "count": 8
   },
   "surrey/101st-ave": {
     "name": "101st Ave",
@@ -1914,8 +1914,8 @@
     "name": "Clearbrook Rd",
     "slug": "abbotsford/clearbrook-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-20T01:59:00Z",
-    "count": 27
+    "lastIncident": "2026-07-27T04:19:00Z",
+    "count": 28
   },
   "abbotsford/maclure-rd": {
     "name": "Maclure Rd",
@@ -1949,8 +1949,8 @@
     "name": "Trans Canada Hwy",
     "slug": "abbotsford/trans-canada-hwy",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-24T19:34:00Z",
-    "count": 54
+    "lastIncident": "2026-07-27T02:05:00Z",
+    "count": 55
   },
   "vancouver/w-16th-ave": {
     "name": "W 16th Ave",
@@ -5323,8 +5323,8 @@
     "name": "Shaughnessy St",
     "slug": "port-coquitlam/shaughnessy-st",
     "city": "Port Coquitlam",
-    "lastIncident": "2026-07-26T09:48:00Z",
-    "count": 9
+    "lastIncident": "2026-07-27T03:24:00Z",
+    "count": 10
   },
   "vancouver/e-59th-ave": {
     "name": "E 59th Ave",
@@ -5568,8 +5568,8 @@
     "name": "16th Ave",
     "slug": "burnaby/16th-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-06-26T17:53:00Z",
-    "count": 3
+    "lastIncident": "2026-07-27T01:13:00Z",
+    "count": 4
   },
   "chilliwack/chilliwack-central-rd": {
     "name": "Chilliwack Central Rd",
@@ -5869,8 +5869,8 @@
     "name": "Braid St",
     "slug": "new-westminster/braid-st",
     "city": "New Westminster",
-    "lastIncident": "2026-07-10T05:07:00Z",
-    "count": 3
+    "lastIncident": "2026-07-27T01:35:00Z",
+    "count": 4
   },
   "new-westminster/kelly-st": {
     "name": "Kelly St",
@@ -6527,8 +6527,8 @@
     "name": "W 21st St",
     "slug": "north-vancouver/w-21st-st",
     "city": "North Vancouver",
-    "lastIncident": "2026-04-13T16:41:00Z",
-    "count": 1
+    "lastIncident": "2026-07-27T01:14:00Z",
+    "count": 2
   },
   "burnaby/government-st": {
     "name": "Government St",
@@ -6877,8 +6877,8 @@
     "name": "135th St",
     "slug": "surrey/135th-st",
     "city": "Surrey",
-    "lastIncident": "2026-04-16T22:17:00Z",
-    "count": 1
+    "lastIncident": "2026-07-27T01:37:00Z",
+    "count": 2
   },
   "abbotsford/2884-gladys-ave": {
     "name": "2884 Gladys Ave",
@@ -6947,8 +6947,8 @@
     "name": "8th Ave",
     "slug": "surrey/8th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-17T17:06:00Z",
-    "count": 4
+    "lastIncident": "2026-07-27T03:34:00Z",
+    "count": 5
   },
   "abbotsford/queen-st": {
     "name": "Queen St",
@@ -7717,8 +7717,8 @@
     "name": "232nd St",
     "slug": "langley/232nd-st",
     "city": "Langley",
-    "lastIncident": "2026-07-26T18:00:00Z",
-    "count": 5
+    "lastIncident": "2026-07-27T02:31:00Z",
+    "count": 6
   },
   "mission/rocky-point-fsr": {
     "name": "Rocky Point Fsr",
@@ -9929,8 +9929,8 @@
     "name": "Hwy 10",
     "slug": "langley/hwy-10",
     "city": "Langley",
-    "lastIncident": "2026-05-19T06:41:00Z",
-    "count": 1
+    "lastIncident": "2026-07-27T02:31:00Z",
+    "count": 2
   },
   "langley/billy-brown-rd": {
     "name": "Billy Brown Rd",
@@ -10846,8 +10846,8 @@
     "name": "4th St",
     "slug": "burnaby/4th-st",
     "city": "Burnaby",
-    "lastIncident": "2026-05-29T10:22:00Z",
-    "count": 1
+    "lastIncident": "2026-07-27T01:13:00Z",
+    "count": 2
   },
   "vancouver/e-13th-ave": {
     "name": "E 13th Ave",
@@ -11693,8 +11693,8 @@
     "name": "7423 King George Blvd",
     "slug": "surrey/7423-king-george-blvd",
     "city": "Surrey",
-    "lastIncident": "2026-06-07T19:11:00Z",
-    "count": 1
+    "lastIncident": "2026-07-27T01:37:00Z",
+    "count": 2
   },
   "vancouver/e-39th-ave": {
     "name": "E 39th Ave",
@@ -11819,8 +11819,8 @@
     "name": "Brunette Ave",
     "slug": "new-westminster/brunette-ave",
     "city": "New Westminster",
-    "lastIncident": "2026-07-10T05:07:00Z",
-    "count": 2
+    "lastIncident": "2026-07-27T01:35:00Z",
+    "count": 3
   },
   "richmond/knight-street-onrp": {
     "name": "Knight Street Onrp",
@@ -12505,8 +12505,8 @@
     "name": "Ashwell Rd",
     "slug": "chilliwack/ashwell-rd",
     "city": "Chilliwack",
-    "lastIncident": "2026-06-18T22:07:00Z",
-    "count": 1
+    "lastIncident": "2026-07-27T03:55:00Z",
+    "count": 2
   },
   "chilliwack/bernard-ave": {
     "name": "Bernard Ave",
@@ -12617,8 +12617,8 @@
     "name": "Edgemont Blvd",
     "slug": "north-vancouver/edgemont-blvd",
     "city": "North Vancouver",
-    "lastIncident": "2026-06-19T15:47:00Z",
-    "count": 1
+    "lastIncident": "2026-07-27T01:14:00Z",
+    "count": 2
   },
   "north-vancouver/ridgewood-dr": {
     "name": "Ridgewood Dr",

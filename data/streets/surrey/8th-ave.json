@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-27T03:34:00Z_surrey/8th-ave_surrey/176th-st",
+      "timestamp": "2026-07-27T03:34:00Z",
+      "address": "8TH AVE & 176TH ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/8th-ave",
+        "surrey/176th-st"
+      ],
+      "streetNames": [
+        "8th Ave",
+        "176th St"
+      ],
+      "pulsePointId": "2528066025"
+    },
+    {
       "id": "2026-07-17T17:06:00Z_surrey/8th-ave",
       "timestamp": "2026-07-17T17:06:00Z",
       "address": "8TH AVE",
@@ -60,6 +75,6 @@
       "pulsePointId": "2455865817"
     }
   ],
-  "lastIncident": "2026-07-17T17:06:00Z",
-  "count": 4
+  "lastIncident": "2026-07-27T03:34:00Z",
+  "count": 5
 }

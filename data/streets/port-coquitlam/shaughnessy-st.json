@@ -4,6 +4,21 @@
   "city": "Port Coquitlam",
   "incidents": [
     {
+      "id": "2026-07-27T03:24:00Z_port-coquitlam/shaughnessy-st_port-coquitlam/mary-hill-bps",
+      "timestamp": "2026-07-27T03:24:00Z",
+      "address": "SHAUGHNESSY ST & MARY HILL BPS",
+      "city": "Port Coquitlam",
+      "streets": [
+        "port-coquitlam/shaughnessy-st",
+        "port-coquitlam/mary-hill-bps"
+      ],
+      "streetNames": [
+        "Shaughnessy St",
+        "Mary Hill Bps"
+      ],
+      "pulsePointId": "2528062279"
+    },
+    {
       "id": "2026-07-26T09:48:00Z_port-coquitlam/mary-hill-bps_port-coquitlam/shaughnessy-st",
       "timestamp": "2026-07-26T09:48:00Z",
       "address": "MARY HILL BPS & SHAUGHNESSY ST",
@@ -135,6 +150,6 @@
       "pulsePointId": "2447649475"
     }
   ],
-  "lastIncident": "2026-07-26T09:48:00Z",
-  "count": 9
+  "lastIncident": "2026-07-27T03:24:00Z",
+  "count": 10
 }

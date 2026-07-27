@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-27T04:19:00Z_abbotsford/king-rd_abbotsford/clearbrook-rd",
+      "timestamp": "2026-07-27T04:19:00Z",
+      "address": "KING RD & CLEARBROOK RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/king-rd",
+        "abbotsford/clearbrook-rd"
+      ],
+      "streetNames": [
+        "King Rd",
+        "Clearbrook Rd"
+      ],
+      "pulsePointId": "2528088772"
+    },
+    {
       "id": "2026-07-10T03:38:00Z_abbotsford/king-rd",
       "timestamp": "2026-07-10T03:38:00Z",
       "address": "KING RD",
@@ -103,6 +118,6 @@
       "pulsePointId": "2433301036"
     }
   ],
-  "lastIncident": "2026-07-10T03:38:00Z",
-  "count": 7
+  "lastIncident": "2026-07-27T04:19:00Z",
+  "count": 8
 }

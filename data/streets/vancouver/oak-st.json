@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-27T02:26:00Z_vancouver/oak-st_vancouver/w-33rd-ave",
+      "timestamp": "2026-07-27T02:26:00Z",
+      "address": "OAK ST & W 33RD AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/oak-st",
+        "vancouver/w-33rd-ave"
+      ],
+      "streetNames": [
+        "Oak St",
+        "W 33rd Ave"
+      ],
+      "pulsePointId": "2528031493"
+    },
+    {
       "id": "2026-07-26T21:19:00Z_vancouver/oak-st_vancouver/w-37th-ave",
       "timestamp": "2026-07-26T21:19:00Z",
       "address": "OAK ST & W 37TH AVE",
@@ -793,6 +808,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-26T21:19:00Z",
-  "count": 54
+  "lastIncident": "2026-07-27T02:26:00Z",
+  "count": 55
 }

@@ -4,6 +4,21 @@
   "city": "New Westminster",
   "incidents": [
     {
+      "id": "2026-07-27T01:35:00Z_new-westminster/brunette-ave_new-westminster/braid-st",
+      "timestamp": "2026-07-27T01:35:00Z",
+      "address": "BRUNETTE AVE & BRAID ST",
+      "city": "New Westminster",
+      "streets": [
+        "new-westminster/brunette-ave",
+        "new-westminster/braid-st"
+      ],
+      "streetNames": [
+        "Brunette Ave",
+        "Braid St"
+      ],
+      "pulsePointId": "2528006394"
+    },
+    {
       "id": "2026-07-10T05:07:00Z_new-westminster/brunette-ave_new-westminster/braid-st",
       "timestamp": "2026-07-10T05:07:00Z",
       "address": "BRUNETTE AVE & BRAID ST",
@@ -32,6 +47,6 @@
       "pulsePointId": "2492600609"
     }
   ],
-  "lastIncident": "2026-07-10T05:07:00Z",
-  "count": 2
+  "lastIncident": "2026-07-27T01:35:00Z",
+  "count": 3
 }

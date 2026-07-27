@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-27T01:13:00Z_burnaby/4th-st_burnaby/16th-ave",
+      "timestamp": "2026-07-27T01:13:00Z",
+      "address": "4TH ST & 16TH AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/4th-st",
+        "burnaby/16th-ave"
+      ],
+      "streetNames": [
+        "4th St",
+        "16th Ave"
+      ],
+      "pulsePointId": "2527990516"
+    },
+    {
       "id": "2026-06-26T17:53:00Z_burnaby/16th-ave_burnaby/cariboo-rd",
       "timestamp": "2026-06-26T17:53:00Z",
       "address": "16TH AVE & CARIBOO RD",
@@ -47,6 +62,6 @@
       "pulsePointId": "2448694527"
     }
   ],
-  "lastIncident": "2026-06-26T17:53:00Z",
-  "count": 3
+  "lastIncident": "2026-07-27T01:13:00Z",
+  "count": 4
 }

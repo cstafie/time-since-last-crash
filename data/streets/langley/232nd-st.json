@@ -4,6 +4,21 @@
   "city": "Langley",
   "incidents": [
     {
+      "id": "2026-07-27T02:31:00Z_langley/232nd-st_langley/hwy-10",
+      "timestamp": "2026-07-27T02:31:00Z",
+      "address": "232ND ST & HWY 10",
+      "city": "Langley",
+      "streets": [
+        "langley/232nd-st",
+        "langley/hwy-10"
+      ],
+      "streetNames": [
+        "232nd St",
+        "Hwy 10"
+      ],
+      "pulsePointId": "2528033639"
+    },
+    {
       "id": "2026-07-26T18:00:00Z_langley/232nd-st",
       "timestamp": "2026-07-26T18:00:00Z",
       "address": "232ND ST",
@@ -77,6 +92,6 @@
       "pulsePointId": "2461552836"
     }
   ],
-  "lastIncident": "2026-07-26T18:00:00Z",
-  "count": 5
+  "lastIncident": "2026-07-27T02:31:00Z",
+  "count": 6
 }
