@@ -1235,8 +1235,8 @@
     "name": "Grange St",
     "slug": "burnaby/grange-st",
     "city": "Burnaby",
-    "lastIncident": "2026-03-19T00:05:00Z",
-    "count": 2
+    "lastIncident": "2026-07-27T21:54:00Z",
+    "count": 3
   },
   "burnaby/halley-ave": {
     "name": "Halley Ave",
@@ -14865,6 +14865,20 @@
     "slug": "pitt-meadows/17998-lougheed-hwy",
     "city": "Pitt Meadows",
     "lastIncident": "2026-07-27T19:31:00Z",
+    "count": 1
+  },
+  "burnaby/booth-ave": {
+    "name": "Booth Ave",
+    "slug": "burnaby/booth-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-07-27T21:54:00Z",
+    "count": 1
+  },
+  "richmond/oak-street-brdg": {
+    "name": "Oak Street Brdg",
+    "slug": "richmond/oak-street-brdg",
+    "city": "Richmond",
+    "lastIncident": "2026-07-27T21:28:00Z",
     "count": 1
   }
 }

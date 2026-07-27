@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-07-27T21:54:00Z_burnaby/booth-ave_burnaby/grange-st",
+    "timestamp": "2026-07-27T21:54:00Z",
+    "scrapedAt": "2026-07-27T22:31:15Z",
+    "address": "BOOTH AVE & GRANGE ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/booth-ave",
+      "burnaby/grange-st"
+    ],
+    "streetNames": [
+      "Booth Ave",
+      "Grange St"
+    ],
+    "pulsePointId": "2528599531"
+  },
+  {
+    "id": "2026-07-27T21:28:00Z_richmond/oak-street-brdg",
+    "timestamp": "2026-07-27T21:28:00Z",
+    "scrapedAt": "2026-07-27T22:31:15Z",
+    "address": "OAK STREET BRDG",
+    "city": "Richmond",
+    "streets": [
+      "richmond/oak-street-brdg"
+    ],
+    "streetNames": [
+      "Oak Street Brdg"
+    ],
+    "pulsePointId": "2528580440"
+  },
+  {
     "id": "2026-07-27T20:46:00Z_langley/62nd-ave",
     "timestamp": "2026-07-27T20:46:00Z",
     "scrapedAt": "2026-07-27T21:10:32Z",

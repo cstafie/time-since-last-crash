@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/booth-ave",
+  "name": "Booth Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-07-27T21:54:00Z_burnaby/booth-ave_burnaby/grange-st",
+      "timestamp": "2026-07-27T21:54:00Z",
+      "address": "BOOTH AVE & GRANGE ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/booth-ave",
+        "burnaby/grange-st"
+      ],
+      "streetNames": [
+        "Booth Ave",
+        "Grange St"
+      ],
+      "pulsePointId": "2528599531"
+    }
+  ],
+  "lastIncident": "2026-07-27T21:54:00Z",
+  "count": 1
+}
