@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-27T16:21:00Z_vancouver/main-st_vancouver/e-6th-ave",
+      "timestamp": "2026-07-27T16:21:00Z",
+      "address": "MAIN ST & E 6TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/main-st",
+        "vancouver/e-6th-ave"
+      ],
+      "streetNames": [
+        "Main St",
+        "E 6th Ave"
+      ],
+      "pulsePointId": "2528358408"
+    },
+    {
       "id": "2026-07-22T20:40:00Z_vancouver/main-st",
       "timestamp": "2026-07-22T20:40:00Z",
       "address": "MAIN ST",
@@ -841,6 +856,6 @@
       "pulsePointId": "2432937969"
     }
   ],
-  "lastIncident": "2026-07-22T20:40:00Z",
-  "count": 57
+  "lastIncident": "2026-07-27T16:21:00Z",
+  "count": 58
 }

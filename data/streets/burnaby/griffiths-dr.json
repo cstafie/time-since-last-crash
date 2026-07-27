@@ -4,6 +4,21 @@
   "city": "Burnaby",
   "incidents": [
     {
+      "id": "2026-07-27T15:00:00Z_burnaby/griffiths-dr_burnaby/10th-ave",
+      "timestamp": "2026-07-27T15:00:00Z",
+      "address": "GRIFFITHS DR & 10TH AVE",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/griffiths-dr",
+        "burnaby/10th-ave"
+      ],
+      "streetNames": [
+        "Griffiths Dr",
+        "10th Ave"
+      ],
+      "pulsePointId": "2528311555"
+    },
+    {
       "id": "2026-07-06T19:33:00Z_burnaby/edmonds-st_burnaby/griffiths-dr",
       "timestamp": "2026-07-06T19:33:00Z",
       "address": "EDMONDS ST & GRIFFITHS DR",
@@ -49,6 +64,6 @@
       "pulsePointId": "2437201982"
     }
   ],
-  "lastIncident": "2026-07-06T19:33:00Z",
-  "count": 3
+  "lastIncident": "2026-07-27T15:00:00Z",
+  "count": 4
 }

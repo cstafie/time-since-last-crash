@@ -1,5 +1,147 @@
 [
   {
+    "id": "2026-07-27T16:31:00Z_vancouver/commercial-dr_vancouver/e-18th-ave",
+    "timestamp": "2026-07-27T16:31:00Z",
+    "scrapedAt": "2026-07-27T16:36:15Z",
+    "address": "COMMERCIAL DR & E 18TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/commercial-dr",
+      "vancouver/e-18th-ave"
+    ],
+    "streetNames": [
+      "Commercial Dr",
+      "E 18th Ave"
+    ],
+    "pulsePointId": "2528365731"
+  },
+  {
+    "id": "2026-07-27T16:21:00Z_vancouver/main-st_vancouver/e-6th-ave",
+    "timestamp": "2026-07-27T16:21:00Z",
+    "scrapedAt": "2026-07-27T16:36:15Z",
+    "address": "MAIN ST & E 6TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/main-st",
+      "vancouver/e-6th-ave"
+    ],
+    "streetNames": [
+      "Main St",
+      "E 6th Ave"
+    ],
+    "pulsePointId": "2528358408"
+  },
+  {
+    "id": "2026-07-27T15:27:00Z_pitt-meadows/lougheed-hwy-ofrp_pitt-meadows/golden-ears-way",
+    "timestamp": "2026-07-27T15:27:00Z",
+    "scrapedAt": "2026-07-27T16:36:15Z",
+    "address": "LOUGHEED HWY OFRP & GOLDEN EARS WAY",
+    "city": "Pitt Meadows",
+    "streets": [
+      "pitt-meadows/lougheed-hwy-ofrp",
+      "pitt-meadows/golden-ears-way"
+    ],
+    "streetNames": [
+      "Lougheed Hwy Ofrp",
+      "Golden Ears Way"
+    ],
+    "pulsePointId": "2528325573"
+  },
+  {
+    "id": "2026-07-27T15:00:00Z_burnaby/griffiths-dr_burnaby/10th-ave",
+    "timestamp": "2026-07-27T15:00:00Z",
+    "scrapedAt": "2026-07-27T16:36:15Z",
+    "address": "GRIFFITHS DR & 10TH AVE",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/griffiths-dr",
+      "burnaby/10th-ave"
+    ],
+    "streetNames": [
+      "Griffiths Dr",
+      "10th Ave"
+    ],
+    "pulsePointId": "2528311555"
+  },
+  {
+    "id": "2026-07-27T14:46:00Z_surrey/92nd-ave_surrey/152nd-st",
+    "timestamp": "2026-07-27T14:46:00Z",
+    "scrapedAt": "2026-07-27T16:36:15Z",
+    "address": "92ND AVE & 152ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/92nd-ave",
+      "surrey/152nd-st"
+    ],
+    "streetNames": [
+      "92nd Ave",
+      "152nd St"
+    ],
+    "pulsePointId": "2528302981"
+  },
+  {
+    "id": "2026-07-27T14:21:00Z_burnaby/trans-canada-hwy",
+    "timestamp": "2026-07-27T14:21:00Z",
+    "scrapedAt": "2026-07-27T16:36:15Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2528289707"
+  },
+  {
+    "id": "2026-07-27T14:02:00Z_burnaby/alpha-ave_burnaby/hastings-st",
+    "timestamp": "2026-07-27T14:02:00Z",
+    "scrapedAt": "2026-07-27T16:36:15Z",
+    "address": "ALPHA AVE & HASTINGS ST",
+    "city": "Burnaby",
+    "streets": [
+      "burnaby/alpha-ave",
+      "burnaby/hastings-st"
+    ],
+    "streetNames": [
+      "Alpha Ave",
+      "Hastings St"
+    ],
+    "pulsePointId": "2528280438"
+  },
+  {
+    "id": "2026-07-27T14:02:00Z_richmond/hwy-91-onrp_richmond/westminster-hwy-ofrp",
+    "timestamp": "2026-07-27T14:02:00Z",
+    "scrapedAt": "2026-07-27T16:36:15Z",
+    "address": "HWY 91 ONRP & WESTMINSTER HWY OFRP",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hwy-91-onrp",
+      "richmond/westminster-hwy-ofrp"
+    ],
+    "streetNames": [
+      "Hwy 91 Onrp",
+      "Westminster Hwy Ofrp"
+    ],
+    "pulsePointId": "2528280340"
+  },
+  {
+    "id": "2026-07-27T14:02:00Z_richmond/hwy-91_richmond/westminster-hwy-ofrp",
+    "timestamp": "2026-07-27T14:02:00Z",
+    "scrapedAt": "2026-07-27T16:36:15Z",
+    "address": "HWY 91 & WESTMINSTER HWY OFRP",
+    "city": "Richmond",
+    "streets": [
+      "richmond/hwy-91",
+      "richmond/westminster-hwy-ofrp"
+    ],
+    "streetNames": [
+      "Hwy 91",
+      "Westminster Hwy Ofrp"
+    ],
+    "pulsePointId": "2528280327"
+  },
+  {
     "id": "2026-07-27T12:12:00Z_delta/alex-fraser-brdg",
     "timestamp": "2026-07-27T12:12:00Z",
     "scrapedAt": "2026-07-27T14:03:46Z",

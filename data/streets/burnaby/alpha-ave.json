@@ -1,0 +1,24 @@
+{
+  "slug": "burnaby/alpha-ave",
+  "name": "Alpha Ave",
+  "city": "Burnaby",
+  "incidents": [
+    {
+      "id": "2026-07-27T14:02:00Z_burnaby/alpha-ave_burnaby/hastings-st",
+      "timestamp": "2026-07-27T14:02:00Z",
+      "address": "ALPHA AVE & HASTINGS ST",
+      "city": "Burnaby",
+      "streets": [
+        "burnaby/alpha-ave",
+        "burnaby/hastings-st"
+      ],
+      "streetNames": [
+        "Alpha Ave",
+        "Hastings St"
+      ],
+      "pulsePointId": "2528280438"
+    }
+  ],
+  "lastIncident": "2026-07-27T14:02:00Z",
+  "count": 1
+}

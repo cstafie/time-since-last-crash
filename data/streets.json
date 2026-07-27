@@ -465,8 +465,8 @@
     "name": "Hwy 91",
     "slug": "richmond/hwy-91",
     "city": "Richmond",
-    "lastIncident": "2026-07-23T22:25:00Z",
-    "count": 21
+    "lastIncident": "2026-07-27T14:02:00Z",
+    "count": 22
   },
   "richmond/nelson-rd": {
     "name": "Nelson Rd",
@@ -640,8 +640,8 @@
     "name": "92nd Ave",
     "slug": "surrey/92nd-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-23T19:57:00Z",
-    "count": 24
+    "lastIncident": "2026-07-27T14:46:00Z",
+    "count": 25
   },
   "surrey/96th-ave": {
     "name": "96th Ave",
@@ -1249,8 +1249,8 @@
     "name": "Trans Canada Hwy",
     "slug": "burnaby/trans-canada-hwy",
     "city": "Burnaby",
-    "lastIncident": "2026-07-21T01:28:00Z",
-    "count": 38
+    "lastIncident": "2026-07-27T14:21:00Z",
+    "count": 39
   },
   "vancouver/e-1st-ave": {
     "name": "E 1st Ave",
@@ -1466,8 +1466,8 @@
     "name": "10th Ave",
     "slug": "burnaby/10th-ave",
     "city": "Burnaby",
-    "lastIncident": "2026-06-19T05:35:00Z",
-    "count": 6
+    "lastIncident": "2026-07-27T15:00:00Z",
+    "count": 7
   },
   "burnaby/kingsway": {
     "name": "Kingsway",
@@ -1676,8 +1676,8 @@
     "name": "Main St",
     "slug": "vancouver/main-st",
     "city": "Vancouver",
-    "lastIncident": "2026-07-22T20:40:00Z",
-    "count": 57
+    "lastIncident": "2026-07-27T16:21:00Z",
+    "count": 58
   },
   "abbotsford/eagle-mountain-dr": {
     "name": "Eagle Mountain Dr",
@@ -1795,8 +1795,8 @@
     "name": "152nd St",
     "slug": "surrey/152nd-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-26T03:07:00Z",
-    "count": 46
+    "lastIncident": "2026-07-27T14:46:00Z",
+    "count": 47
   },
   "langley/20611-fraser-hwyste-111": {
     "name": "20611 Fraser Hwy,ste 111",
@@ -2131,8 +2131,8 @@
     "name": "Commercial Dr",
     "slug": "vancouver/commercial-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-07-25T01:41:00Z",
-    "count": 11
+    "lastIncident": "2026-07-27T16:31:00Z",
+    "count": 12
   },
   "mission/keystone-ave": {
     "name": "Keystone Ave",
@@ -2299,8 +2299,8 @@
     "name": "Hastings St",
     "slug": "burnaby/hastings-st",
     "city": "Burnaby",
-    "lastIncident": "2026-07-10T06:40:00Z",
-    "count": 15
+    "lastIncident": "2026-07-27T14:02:00Z",
+    "count": 16
   },
   "delta/hwy-17a-ofrp": {
     "name": "Hwy 17a Ofrp",
@@ -3006,8 +3006,8 @@
     "name": "Griffiths Dr",
     "slug": "burnaby/griffiths-dr",
     "city": "Burnaby",
-    "lastIncident": "2026-07-06T19:33:00Z",
-    "count": 3
+    "lastIncident": "2026-07-27T15:00:00Z",
+    "count": 4
   },
   "north-vancouver/w-1st-st": {
     "name": "W 1st St",
@@ -6989,8 +6989,8 @@
     "name": "E 6th Ave",
     "slug": "vancouver/e-6th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-02T04:06:00Z",
-    "count": 2
+    "lastIncident": "2026-07-27T16:21:00Z",
+    "count": 3
   },
   "vancouver/perry-st": {
     "name": "Perry St",
@@ -7248,8 +7248,8 @@
     "name": "Golden Ears Way",
     "slug": "pitt-meadows/golden-ears-way",
     "city": "Pitt Meadows",
-    "lastIncident": "2026-07-12T20:45:00Z",
-    "count": 3
+    "lastIncident": "2026-07-27T15:27:00Z",
+    "count": 4
   },
   "abbotsford/mccallum-road-ofrp": {
     "name": "Mccallum Road Ofrp",
@@ -7969,8 +7969,8 @@
     "name": "E 18th Ave",
     "slug": "vancouver/e-18th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-04-28T16:25:00Z",
-    "count": 1
+    "lastIncident": "2026-07-27T16:31:00Z",
+    "count": 2
   },
   "vancouver/e-16th-ave": {
     "name": "E 16th Ave",
@@ -13590,15 +13590,15 @@
     "name": "Hwy 91 Onrp",
     "slug": "richmond/hwy-91-onrp",
     "city": "Richmond",
-    "lastIncident": "2026-07-03T17:11:00Z",
-    "count": 1
+    "lastIncident": "2026-07-27T14:02:00Z",
+    "count": 2
   },
   "richmond/westminster-hwy-ofrp": {
     "name": "Westminster Hwy Ofrp",
     "slug": "richmond/westminster-hwy-ofrp",
     "city": "Richmond",
-    "lastIncident": "2026-07-03T17:11:00Z",
-    "count": 1
+    "lastIncident": "2026-07-27T14:02:00Z",
+    "count": 3
   },
   "vancouver/lancaster-st": {
     "name": "Lancaster St",
@@ -14844,6 +14844,20 @@
     "slug": "richmond/finn-rd",
     "city": "Richmond",
     "lastIncident": "2026-07-27T10:45:00Z",
+    "count": 1
+  },
+  "pitt-meadows/lougheed-hwy-ofrp": {
+    "name": "Lougheed Hwy Ofrp",
+    "slug": "pitt-meadows/lougheed-hwy-ofrp",
+    "city": "Pitt Meadows",
+    "lastIncident": "2026-07-27T15:27:00Z",
+    "count": 1
+  },
+  "burnaby/alpha-ave": {
+    "name": "Alpha Ave",
+    "slug": "burnaby/alpha-ave",
+    "city": "Burnaby",
+    "lastIncident": "2026-07-27T14:02:00Z",
     "count": 1
   }
 }

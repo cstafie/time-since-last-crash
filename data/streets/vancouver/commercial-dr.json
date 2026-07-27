@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-27T16:31:00Z_vancouver/commercial-dr_vancouver/e-18th-ave",
+      "timestamp": "2026-07-27T16:31:00Z",
+      "address": "COMMERCIAL DR & E 18TH AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/commercial-dr",
+        "vancouver/e-18th-ave"
+      ],
+      "streetNames": [
+        "Commercial Dr",
+        "E 18th Ave"
+      ],
+      "pulsePointId": "2528365731"
+    },
+    {
       "id": "2026-07-25T01:41:00Z_vancouver/commercial-dr_vancouver/e-5th-ave",
       "timestamp": "2026-07-25T01:41:00Z",
       "address": "COMMERCIAL DR & E 5TH AVE",
@@ -167,6 +182,6 @@
       "pulsePointId": "2434378699"
     }
   ],
-  "lastIncident": "2026-07-25T01:41:00Z",
-  "count": 11
+  "lastIncident": "2026-07-27T16:31:00Z",
+  "count": 12
 }

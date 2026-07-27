@@ -4,6 +4,21 @@
   "city": "Pitt Meadows",
   "incidents": [
     {
+      "id": "2026-07-27T15:27:00Z_pitt-meadows/lougheed-hwy-ofrp_pitt-meadows/golden-ears-way",
+      "timestamp": "2026-07-27T15:27:00Z",
+      "address": "LOUGHEED HWY OFRP & GOLDEN EARS WAY",
+      "city": "Pitt Meadows",
+      "streets": [
+        "pitt-meadows/lougheed-hwy-ofrp",
+        "pitt-meadows/golden-ears-way"
+      ],
+      "streetNames": [
+        "Lougheed Hwy Ofrp",
+        "Golden Ears Way"
+      ],
+      "pulsePointId": "2528325573"
+    },
+    {
       "id": "2026-07-12T20:45:00Z_pitt-meadows/golden-ears-way",
       "timestamp": "2026-07-12T20:45:00Z",
       "address": "GOLDEN EARS WAY",
@@ -43,6 +58,6 @@
       "pulsePointId": "2457728256"
     }
   ],
-  "lastIncident": "2026-07-12T20:45:00Z",
-  "count": 3
+  "lastIncident": "2026-07-27T15:27:00Z",
+  "count": 4
 }
