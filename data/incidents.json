@@ -1,5 +1,99 @@
 [
   {
+    "id": "2026-07-27T00:41:00Z_vancouver/2963-kingsway",
+    "timestamp": "2026-07-27T00:41:00Z",
+    "scrapedAt": "2026-07-27T01:04:07Z",
+    "address": "2963 KINGSWAY",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/2963-kingsway"
+    ],
+    "streetNames": [
+      "2963 Kingsway"
+    ],
+    "pulsePointId": "2527971533"
+  },
+  {
+    "id": "2026-07-27T00:35:00Z_surrey/north-bluff-rd_surrey/142nd-st",
+    "timestamp": "2026-07-27T00:35:00Z",
+    "scrapedAt": "2026-07-27T01:04:07Z",
+    "address": "NORTH BLUFF RD & 142ND ST",
+    "city": "Surrey",
+    "streets": [
+      "surrey/north-bluff-rd",
+      "surrey/142nd-st"
+    ],
+    "streetNames": [
+      "North Bluff Rd",
+      "142nd St"
+    ],
+    "pulsePointId": "2527967164"
+  },
+  {
+    "id": "2026-07-27T00:32:00Z_abbotsford/peardonville-rd_abbotsford/gladwin-rd",
+    "timestamp": "2026-07-27T00:32:00Z",
+    "scrapedAt": "2026-07-27T01:04:07Z",
+    "address": "PEARDONVILLE RD & GLADWIN RD",
+    "city": "Abbotsford",
+    "streets": [
+      "abbotsford/peardonville-rd",
+      "abbotsford/gladwin-rd"
+    ],
+    "streetNames": [
+      "Peardonville Rd",
+      "Gladwin Rd"
+    ],
+    "pulsePointId": "2527966323"
+  },
+  {
+    "id": "2026-07-27T00:30:00Z_surrey/144th-st_surrey/88th-ave",
+    "timestamp": "2026-07-27T00:30:00Z",
+    "scrapedAt": "2026-07-27T01:04:07Z",
+    "address": "144TH ST & 88TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/144th-st",
+      "surrey/88th-ave"
+    ],
+    "streetNames": [
+      "144th St",
+      "88th Ave"
+    ],
+    "pulsePointId": "2527964778"
+  },
+  {
+    "id": "2026-07-27T00:29:00Z_surrey/144th-st_surrey/88th-ave",
+    "timestamp": "2026-07-27T00:29:00Z",
+    "scrapedAt": "2026-07-27T01:04:07Z",
+    "address": "144TH ST & 88TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/144th-st",
+      "surrey/88th-ave"
+    ],
+    "streetNames": [
+      "144th St",
+      "88th Ave"
+    ],
+    "pulsePointId": "2527963835"
+  },
+  {
+    "id": "2026-07-26T23:50:00Z_maple-ridge/256th-st_maple-ridge/dewdney-trunk-rd",
+    "timestamp": "2026-07-26T23:50:00Z",
+    "scrapedAt": "2026-07-27T01:04:07Z",
+    "address": "256TH ST & DEWDNEY TRUNK RD",
+    "city": "Maple Ridge",
+    "streets": [
+      "maple-ridge/256th-st",
+      "maple-ridge/dewdney-trunk-rd"
+    ],
+    "streetNames": [
+      "256th St",
+      "Dewdney Trunk Rd"
+    ],
+    "pulsePointId": "2527942012"
+  },
+  {
     "id": "2026-07-26T23:02:00Z_langley/42nd-ave",
     "timestamp": "2026-07-26T23:02:00Z",
     "scrapedAt": "2026-07-26T23:25:30Z",

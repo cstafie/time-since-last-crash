@@ -1,0 +1,22 @@
+{
+  "slug": "vancouver/2963-kingsway",
+  "name": "2963 Kingsway",
+  "city": "Vancouver",
+  "incidents": [
+    {
+      "id": "2026-07-27T00:41:00Z_vancouver/2963-kingsway",
+      "timestamp": "2026-07-27T00:41:00Z",
+      "address": "2963 KINGSWAY",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/2963-kingsway"
+      ],
+      "streetNames": [
+        "2963 Kingsway"
+      ],
+      "pulsePointId": "2527971533"
+    }
+  ],
+  "lastIncident": "2026-07-27T00:41:00Z",
+  "count": 1
+}

@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-27T00:32:00Z_abbotsford/peardonville-rd_abbotsford/gladwin-rd",
+      "timestamp": "2026-07-27T00:32:00Z",
+      "address": "PEARDONVILLE RD & GLADWIN RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/peardonville-rd",
+        "abbotsford/gladwin-rd"
+      ],
+      "streetNames": [
+        "Peardonville Rd",
+        "Gladwin Rd"
+      ],
+      "pulsePointId": "2527966323"
+    },
+    {
       "id": "2026-07-25T00:21:00Z_abbotsford/gladwin-rd",
       "timestamp": "2026-07-25T00:21:00Z",
       "address": "GLADWIN RD",
@@ -283,6 +298,6 @@
       "pulsePointId": "2447162234"
     }
   ],
-  "lastIncident": "2026-07-25T00:21:00Z",
-  "count": 19
+  "lastIncident": "2026-07-27T00:32:00Z",
+  "count": 20
 }

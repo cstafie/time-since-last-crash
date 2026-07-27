@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-27T00:35:00Z_surrey/north-bluff-rd_surrey/142nd-st",
+      "timestamp": "2026-07-27T00:35:00Z",
+      "address": "NORTH BLUFF RD & 142ND ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/north-bluff-rd",
+        "surrey/142nd-st"
+      ],
+      "streetNames": [
+        "North Bluff Rd",
+        "142nd St"
+      ],
+      "pulsePointId": "2527967164"
+    },
+    {
       "id": "2026-07-19T05:33:00Z_surrey/142nd-st_surrey/grosvenor-rd",
       "timestamp": "2026-07-19T05:33:00Z",
       "address": "142ND ST & GROSVENOR RD",
@@ -124,6 +139,6 @@
       "pulsePointId": "2460909442"
     }
   ],
-  "lastIncident": "2026-07-19T05:33:00Z",
-  "count": 8
+  "lastIncident": "2026-07-27T00:35:00Z",
+  "count": 9
 }
