@@ -38,8 +38,8 @@
     "name": "Ross Rd",
     "slug": "abbotsford/ross-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-07-18T01:15:00Z",
-    "count": 10
+    "lastIncident": "2026-07-28T05:32:00Z",
+    "count": 11
   },
   "abbotsford/trethewey-st": {
     "name": "Trethewey St",
@@ -10839,8 +10839,8 @@
     "name": "Taylor Rd",
     "slug": "abbotsford/taylor-rd",
     "city": "Abbotsford",
-    "lastIncident": "2026-05-29T07:18:00Z",
-    "count": 1
+    "lastIncident": "2026-07-28T05:32:00Z",
+    "count": 2
   },
   "burnaby/4th-st": {
     "name": "4th St",
@@ -14893,6 +14893,13 @@
     "slug": "north-vancouver/e-3rd-lane",
     "city": "North Vancouver",
     "lastIncident": "2026-07-28T01:42:00Z",
+    "count": 1
+  },
+  "coquitlam/thermal-dr": {
+    "name": "Thermal Dr",
+    "slug": "coquitlam/thermal-dr",
+    "city": "Coquitlam",
+    "lastIncident": "2026-07-28T04:59:00Z",
     "count": 1
   }
 }

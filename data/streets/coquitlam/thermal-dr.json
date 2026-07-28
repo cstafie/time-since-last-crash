@@ -1,0 +1,22 @@
+{
+  "slug": "coquitlam/thermal-dr",
+  "name": "Thermal Dr",
+  "city": "Coquitlam",
+  "incidents": [
+    {
+      "id": "2026-07-28T04:59:00Z_coquitlam/thermal-dr",
+      "timestamp": "2026-07-28T04:59:00Z",
+      "address": "THERMAL DR",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/thermal-dr"
+      ],
+      "streetNames": [
+        "Thermal Dr"
+      ],
+      "pulsePointId": "2528858308"
+    }
+  ],
+  "lastIncident": "2026-07-28T04:59:00Z",
+  "count": 1
+}

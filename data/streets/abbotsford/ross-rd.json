@@ -4,6 +4,21 @@
   "city": "Abbotsford",
   "incidents": [
     {
+      "id": "2026-07-28T05:32:00Z_abbotsford/ross-rd_abbotsford/taylor-rd",
+      "timestamp": "2026-07-28T05:32:00Z",
+      "address": "ROSS RD & TAYLOR RD",
+      "city": "Abbotsford",
+      "streets": [
+        "abbotsford/ross-rd",
+        "abbotsford/taylor-rd"
+      ],
+      "streetNames": [
+        "Ross Rd",
+        "Taylor Rd"
+      ],
+      "pulsePointId": "2528871846"
+    },
+    {
       "id": "2026-07-18T01:15:00Z_abbotsford/ross-rd_abbotsford/fraser-hwy",
       "timestamp": "2026-07-18T01:15:00Z",
       "address": "ROSS RD & FRASER HWY",
@@ -151,6 +166,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-18T01:15:00Z",
-  "count": 10
+  "lastIncident": "2026-07-28T05:32:00Z",
+  "count": 11
 }
