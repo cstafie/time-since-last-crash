@@ -4,6 +4,21 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-28T00:36:00Z_surrey/60th-ave_surrey/172nd-st",
+      "timestamp": "2026-07-28T00:36:00Z",
+      "address": "60TH AVE & 172ND ST",
+      "city": "Surrey",
+      "streets": [
+        "surrey/60th-ave",
+        "surrey/172nd-st"
+      ],
+      "streetNames": [
+        "60th Ave",
+        "172nd St"
+      ],
+      "pulsePointId": "2528712340"
+    },
+    {
       "id": "2026-06-22T06:46:00Z_surrey/176th-st_surrey/60th-ave",
       "timestamp": "2026-06-22T06:46:00Z",
       "address": "176TH ST & 60TH AVE",
@@ -208,6 +223,6 @@
       "pulsePointId": "2437144167"
     }
   ],
-  "lastIncident": "2026-06-22T06:46:00Z",
-  "count": 14
+  "lastIncident": "2026-07-28T00:36:00Z",
+  "count": 15
 }
