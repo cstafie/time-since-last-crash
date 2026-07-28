@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-07-28T08:39:00Z_surrey/132nd-st_surrey/80th-ave",
+    "timestamp": "2026-07-28T08:39:00Z",
+    "scrapedAt": "2026-07-28T10:03:46Z",
+    "address": "132ND ST & 80TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/132nd-st",
+      "surrey/80th-ave"
+    ],
+    "streetNames": [
+      "132nd St",
+      "80th Ave"
+    ],
+    "pulsePointId": "2528926736"
+  },
+  {
+    "id": "2026-07-28T08:07:00Z_delta/hwy-17",
+    "timestamp": "2026-07-28T08:07:00Z",
+    "scrapedAt": "2026-07-28T10:03:46Z",
+    "address": "HWY 17",
+    "city": "Delta",
+    "streets": [
+      "delta/hwy-17"
+    ],
+    "streetNames": [
+      "Hwy 17"
+    ],
+    "pulsePointId": "2528921278"
+  },
+  {
     "id": "2026-07-28T05:32:00Z_abbotsford/ross-rd_abbotsford/taylor-rd",
     "timestamp": "2026-07-28T05:32:00Z",
     "scrapedAt": "2026-07-28T07:28:29Z",
