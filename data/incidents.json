@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-07-28T11:47:00Z_coquitlam/mary-hill-bps",
+    "timestamp": "2026-07-28T11:47:00Z",
+    "scrapedAt": "2026-07-28T12:17:51Z",
+    "address": "MARY HILL BPS",
+    "city": "Coquitlam",
+    "streets": [
+      "coquitlam/mary-hill-bps"
+    ],
+    "streetNames": [
+      "Mary Hill Bps"
+    ],
+    "pulsePointId": "2528974447"
+  },
+  {
+    "id": "2026-07-28T11:40:00Z_vancouver/victoria-dr_vancouver/e-1st-ave",
+    "timestamp": "2026-07-28T11:40:00Z",
+    "scrapedAt": "2026-07-28T12:17:51Z",
+    "address": "VICTORIA DR & E 1ST AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/victoria-dr",
+      "vancouver/e-1st-ave"
+    ],
+    "streetNames": [
+      "Victoria Dr",
+      "E 1st Ave"
+    ],
+    "pulsePointId": "2528972811"
+  },
+  {
+    "id": "2026-07-28T10:01:00Z_surrey/trans-canada-hwy",
+    "timestamp": "2026-07-28T10:01:00Z",
+    "scrapedAt": "2026-07-28T12:17:51Z",
+    "address": "TRANS CANADA HWY",
+    "city": "Surrey",
+    "streets": [
+      "surrey/trans-canada-hwy"
+    ],
+    "streetNames": [
+      "Trans Canada Hwy"
+    ],
+    "pulsePointId": "2528948441"
+  },
+  {
     "id": "2026-07-28T08:39:00Z_surrey/132nd-st_surrey/80th-ave",
     "timestamp": "2026-07-28T08:39:00Z",
     "scrapedAt": "2026-07-28T10:03:46Z",

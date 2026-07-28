@@ -682,8 +682,8 @@
     "name": "Trans Canada Hwy",
     "slug": "surrey/trans-canada-hwy",
     "city": "Surrey",
-    "lastIncident": "2026-07-20T17:59:00Z",
-    "count": 31
+    "lastIncident": "2026-07-28T10:01:00Z",
+    "count": 32
   },
   "vancouver/balaclava-st": {
     "name": "Balaclava St",
@@ -1256,8 +1256,8 @@
     "name": "E 1st Ave",
     "slug": "vancouver/e-1st-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-27T05:27:00Z",
-    "count": 18
+    "lastIncident": "2026-07-28T11:40:00Z",
+    "count": 19
   },
   "vancouver/boundary-rd": {
     "name": "Boundary Rd",
@@ -3076,8 +3076,8 @@
     "name": "Victoria Dr",
     "slug": "vancouver/victoria-dr",
     "city": "Vancouver",
-    "lastIncident": "2026-07-25T20:56:00Z",
-    "count": 25
+    "lastIncident": "2026-07-28T11:40:00Z",
+    "count": 26
   },
   "vancouver/e-60th-ave": {
     "name": "E 60th Ave",
@@ -10132,8 +10132,8 @@
     "name": "Mary Hill Bps",
     "slug": "coquitlam/mary-hill-bps",
     "city": "Coquitlam",
-    "lastIncident": "2026-06-27T20:29:00Z",
-    "count": 2
+    "lastIncident": "2026-07-28T11:47:00Z",
+    "count": 3
   },
   "coquitlam/hwy-7b-ofrp": {
     "name": "Hwy 7b Ofrp",

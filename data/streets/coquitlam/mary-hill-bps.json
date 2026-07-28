@@ -4,6 +4,19 @@
   "city": "Coquitlam",
   "incidents": [
     {
+      "id": "2026-07-28T11:47:00Z_coquitlam/mary-hill-bps",
+      "timestamp": "2026-07-28T11:47:00Z",
+      "address": "MARY HILL BPS",
+      "city": "Coquitlam",
+      "streets": [
+        "coquitlam/mary-hill-bps"
+      ],
+      "streetNames": [
+        "Mary Hill Bps"
+      ],
+      "pulsePointId": "2528974447"
+    },
+    {
       "id": "2026-06-27T20:29:00Z_coquitlam/mary-hill-bps",
       "timestamp": "2026-06-27T20:29:00Z",
       "address": "MARY HILL BPS",
@@ -32,6 +45,6 @@
       "pulsePointId": "2479756353"
     }
   ],
-  "lastIncident": "2026-06-27T20:29:00Z",
-  "count": 2
+  "lastIncident": "2026-07-28T11:47:00Z",
+  "count": 3
 }

@@ -4,6 +4,19 @@
   "city": "Surrey",
   "incidents": [
     {
+      "id": "2026-07-28T10:01:00Z_surrey/trans-canada-hwy",
+      "timestamp": "2026-07-28T10:01:00Z",
+      "address": "TRANS CANADA HWY",
+      "city": "Surrey",
+      "streets": [
+        "surrey/trans-canada-hwy"
+      ],
+      "streetNames": [
+        "Trans Canada Hwy"
+      ],
+      "pulsePointId": "2528948441"
+    },
+    {
       "id": "2026-07-20T17:59:00Z_surrey/trans-canada-hwy",
       "timestamp": "2026-07-20T17:59:00Z",
       "address": "TRANS CANADA HWY",
@@ -422,6 +435,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-20T17:59:00Z",
-  "count": 31
+  "lastIncident": "2026-07-28T10:01:00Z",
+  "count": 32
 }

@@ -4,6 +4,21 @@
   "city": "Vancouver",
   "incidents": [
     {
+      "id": "2026-07-28T11:40:00Z_vancouver/victoria-dr_vancouver/e-1st-ave",
+      "timestamp": "2026-07-28T11:40:00Z",
+      "address": "VICTORIA DR & E 1ST AVE",
+      "city": "Vancouver",
+      "streets": [
+        "vancouver/victoria-dr",
+        "vancouver/e-1st-ave"
+      ],
+      "streetNames": [
+        "Victoria Dr",
+        "E 1st Ave"
+      ],
+      "pulsePointId": "2528972811"
+    },
+    {
       "id": "2026-07-27T05:27:00Z_vancouver/e-1st-ave_vancouver/boundary-rd",
       "timestamp": "2026-07-27T05:27:00Z",
       "address": "E 1ST AVE & BOUNDARY RD",
@@ -271,6 +286,6 @@
       ]
     }
   ],
-  "lastIncident": "2026-07-27T05:27:00Z",
-  "count": 18
+  "lastIncident": "2026-07-28T11:40:00Z",
+  "count": 19
 }
