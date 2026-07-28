@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026-07-28T03:44:00Z_vancouver/w-10th-ave",
+    "timestamp": "2026-07-28T03:44:00Z",
+    "scrapedAt": "2026-07-28T04:32:24Z",
+    "address": "W 10TH AVE",
+    "city": "Vancouver",
+    "streets": [
+      "vancouver/w-10th-ave"
+    ],
+    "streetNames": [
+      "W 10th Ave"
+    ],
+    "pulsePointId": "2528821672"
+  },
+  {
+    "id": "2026-07-28T03:19:00Z_surrey/120th-st_surrey/96th-ave",
+    "timestamp": "2026-07-28T03:19:00Z",
+    "scrapedAt": "2026-07-28T04:32:24Z",
+    "address": "120TH ST & 96TH AVE",
+    "city": "Surrey",
+    "streets": [
+      "surrey/120th-st",
+      "surrey/96th-ave"
+    ],
+    "streetNames": [
+      "120th St",
+      "96th Ave"
+    ],
+    "pulsePointId": "2528809690"
+  },
+  {
+    "id": "2026-07-28T02:05:00Z_richmond/grant-mcconachie-way",
+    "timestamp": "2026-07-28T02:05:00Z",
+    "scrapedAt": "2026-07-28T04:32:24Z",
+    "address": "GRANT MCCONACHIE WAY",
+    "city": "Richmond",
+    "streets": [
+      "richmond/grant-mcconachie-way"
+    ],
+    "streetNames": [
+      "Grant Mcconachie Way"
+    ],
+    "pulsePointId": "2528766812"
+  },
+  {
+    "id": "2026-07-28T01:42:00Z_north-vancouver/heywood-st_north-vancouver/e-3rd-lane",
+    "timestamp": "2026-07-28T01:42:00Z",
+    "scrapedAt": "2026-07-28T04:32:24Z",
+    "address": "HEYWOOD ST & E 3RD LANE",
+    "city": "North Vancouver",
+    "streets": [
+      "north-vancouver/heywood-st",
+      "north-vancouver/e-3rd-lane"
+    ],
+    "streetNames": [
+      "Heywood St",
+      "E 3rd Lane"
+    ],
+    "pulsePointId": "2528753372"
+  },
+  {
     "id": "2026-07-28T00:36:00Z_surrey/60th-ave_surrey/172nd-st",
     "timestamp": "2026-07-28T00:36:00Z",
     "scrapedAt": "2026-07-28T01:14:25Z",

@@ -647,8 +647,8 @@
     "name": "96th Ave",
     "slug": "surrey/96th-ave",
     "city": "Surrey",
-    "lastIncident": "2026-07-26T18:19:00Z",
-    "count": 43
+    "lastIncident": "2026-07-28T03:19:00Z",
+    "count": 44
   },
   "surrey/bolivar-rd": {
     "name": "Bolivar Rd",
@@ -1151,8 +1151,8 @@
     "name": "W 10th Ave",
     "slug": "vancouver/w-10th-ave",
     "city": "Vancouver",
-    "lastIncident": "2026-07-11T20:08:00Z",
-    "count": 11
+    "lastIncident": "2026-07-28T03:44:00Z",
+    "count": 12
   },
   "surrey/57th-ave": {
     "name": "57th Ave",
@@ -1298,8 +1298,8 @@
     "name": "120th St",
     "slug": "surrey/120th-st",
     "city": "Surrey",
-    "lastIncident": "2026-07-26T19:46:00Z",
-    "count": 15
+    "lastIncident": "2026-07-28T03:19:00Z",
+    "count": 16
   },
   "delta/72nd-st": {
     "name": "72nd St",
@@ -5610,8 +5610,8 @@
     "name": "Grant Mcconachie Way",
     "slug": "richmond/grant-mcconachie-way",
     "city": "Richmond",
-    "lastIncident": "2026-07-23T21:06:00Z",
-    "count": 4
+    "lastIncident": "2026-07-28T02:05:00Z",
+    "count": 5
   },
   "vancouver/w-51st-ave": {
     "name": "W 51st Ave",
@@ -14879,6 +14879,20 @@
     "slug": "richmond/oak-street-brdg",
     "city": "Richmond",
     "lastIncident": "2026-07-27T21:28:00Z",
+    "count": 1
+  },
+  "north-vancouver/heywood-st": {
+    "name": "Heywood St",
+    "slug": "north-vancouver/heywood-st",
+    "city": "North Vancouver",
+    "lastIncident": "2026-07-28T01:42:00Z",
+    "count": 1
+  },
+  "north-vancouver/e-3rd-lane": {
+    "name": "E 3rd Lane",
+    "slug": "north-vancouver/e-3rd-lane",
+    "city": "North Vancouver",
+    "lastIncident": "2026-07-28T01:42:00Z",
     "count": 1
   }
 }
